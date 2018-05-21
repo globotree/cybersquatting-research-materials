@@ -1,0 +1,620 @@
+[
+    {
+        "dns-mx": [
+            "mail.mydomain.com"
+        ], 
+        "dns-ns": [
+            "ns1.mydomain.com", 
+            "ns2.mydomain.com", 
+            "ns3.mydomain.com", 
+            "ns4.mydomain.com"
+        ], 
+        "domain-name": "mydomain.com", 
+        "fuzzer": "original*"
+    }, 
+    {
+        "dns-a": [
+            "151.101.130.49", 
+            "151.101.194.49", 
+            "151.101.2.49", 
+            "151.101.66.49"
+        ], 
+        "dns-mx": [
+            "alt1.aspmx.l.google.com", 
+            "alt2.aspmx.l.google.com", 
+            "aspmx.l.google.com", 
+            "aspmx2.googlemail.com", 
+            "aspmx3.googlemail.com"
+        ], 
+        "dns-ns": [
+            "ns-1012.awsdns-62.net", 
+            "ns-1306.awsdns-35.org", 
+            "ns-1737.awsdns-25.co.uk", 
+            "ns-60.awsdns-07.com"
+        ], 
+        "domain-name": "mydomaine.com", 
+        "fuzzer": "addition", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "192.30.252.153", 
+            "192.30.252.154"
+        ], 
+        "dns-ns": [
+            "ns41.domaincontrol.com", 
+            "ns42.domaincontrol.com"
+        ], 
+        "domain-name": "mydomaino.com", 
+        "fuzzer": "addition", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "216.34.94.184", 
+            "63.251.171.80", 
+            "63.251.171.81", 
+            "66.150.161.140", 
+            "66.150.161.141", 
+            "69.25.27.170", 
+            "69.25.27.173"
+        ], 
+        "dns-mx": [
+            "m1.dnsix.com", 
+            "mx13.registerapi.com", 
+            "mx3.registerapi.com"
+        ], 
+        "dns-ns": [
+            "ns1.mydomain.com", 
+            "ns1.nameresolve.com", 
+            "ns2.mydomain.com", 
+            "ns2.nameresolve.com", 
+            "ns3.mydomain.com", 
+            "ns3.nameresolve.com", 
+            "ns4.mydomain.com", 
+            "ns4.nameresolve.com"
+        ], 
+        "domain-name": "mydomains.com", 
+        "fuzzer": "addition", 
+        "geoip-country": "United States"
+    }, 
+    {
+        "dns-a": [
+            "50.63.202.13"
+        ], 
+        "dns-mx": [
+            "mailstore1.secureserver.net", 
+            "smtp.secureserver.net"
+        ], 
+        "dns-ns": [
+            "ns51.domaincontrol.com", 
+            "ns52.domaincontrol.com"
+        ], 
+        "domain-name": "mydomainx.com", 
+        "fuzzer": "addition", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "104.28.26.4", 
+            "104.28.27.4"
+        ], 
+        "dns-aaaa": [
+            "2400:cb00:2048:1::681c:1a04", 
+            "2400:cb00:2048:1::681c:1b04"
+        ], 
+        "dns-ns": [
+            "donna.ns.cloudflare.com", 
+            "logan.ns.cloudflare.com"
+        ], 
+        "domain-name": "mydomainy.com", 
+        "fuzzer": "addition", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "121.254.178.234"
+        ], 
+        "dns-ns": [
+            "ns.domainca.com", 
+            "ns2.domainca.com"
+        ], 
+        "domain-name": "mydomainz.com", 
+        "fuzzer": "addition", 
+        "geoip-country": "Korea", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "209.99.17.23"
+        ], 
+        "dns-ns": [
+            "ns1.dynadot.com", 
+            "ns2.dynadot.com"
+        ], 
+        "domain-name": "oydomain.com", 
+        "fuzzer": "bitsquatting", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "173.0.137.76"
+        ], 
+        "dns-mx": [
+            "gateway1.safeguardmail.net", 
+            "gateway2.safeguardmail.net", 
+            "gateway3.safeguardmail.net"
+        ], 
+        "dns-ns": [
+            "ns0.dnsmadeeasy.com", 
+            "ns1.dnsmadeeasy.com", 
+            "ns2.dnsmadeeasy.com", 
+            "ns3.dnsmadeeasy.com", 
+            "ns4.dnsmadeeasy.com"
+        ], 
+        "domain-name": "mxdomain.com", 
+        "fuzzer": "bitsquatting", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "98.124.199.24"
+        ], 
+        "dns-mx": [
+            "mx.midomain.com.cust.a.hostedemail.com"
+        ], 
+        "dns-ns": [
+            "dns1.name-services.com", 
+            "dns2.name-services.com", 
+            "dns3.name-services.com", 
+            "dns4.name-services.com", 
+            "dns5.name-services.com"
+        ], 
+        "domain-name": "midomain.com", 
+        "fuzzer": "bitsquatting", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "52.73.124.185", 
+            "54.164.198.60"
+        ], 
+        "dns-ns": [
+            "ns1.namebrightdns.com", 
+            "ns2.namebrightdns.com"
+        ], 
+        "domain-name": "mydomein.com", 
+        "fuzzer": "bitsquatting", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "50.63.202.36"
+        ], 
+        "dns-mx": [
+            "mydomayn-com.mail.protection.outlook.com"
+        ], 
+        "dns-ns": [
+            "ns37.domaincontrol.com", 
+            "ns38.domaincontrol.com"
+        ], 
+        "domain-name": "mydomayn.com", 
+        "fuzzer": "bitsquatting", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "150.95.255.38"
+        ], 
+        "dns-ns": [
+            "dns1.onamae.com", 
+            "dns2.onamae.com"
+        ], 
+        "domain-name": "mydomail.com", 
+        "fuzzer": "bitsquatting", 
+        "geoip-country": "Japan", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "184.168.221.56"
+        ], 
+        "dns-ns": [
+            "ns31.domaincontrol.com", 
+            "ns32.domaincontrol.com"
+        ], 
+        "domain-name": "mydiomain.com", 
+        "fuzzer": "homoglyph", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "89.45.67.50"
+        ], 
+        "dns-mx": [
+            "myd0main.com"
+        ], 
+        "dns-ns": [
+            "ns1.qhoster.net", 
+            "ns2.qhoster.net", 
+            "ns3.qhoster.net", 
+            "ns4.qhoster.net"
+        ], 
+        "domain-name": "myd0main.com", 
+        "fuzzer": "homoglyph", 
+        "geoip-country": "Bulgaria", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "199.59.242.150"
+        ], 
+        "dns-mx": [
+            "mx76.m2bp.com", 
+            "mx76.mb1p.com"
+        ], 
+        "dns-ns": [
+            "ns1.bodis.com", 
+            "ns2.bodis.com"
+        ], 
+        "domain-name": "nydomain.com", 
+        "fuzzer": "homoglyph", 
+        "geoip-country": "United States", 
+        "mx-spy": true, 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "72.52.4.122"
+        ], 
+        "dns-mx": [
+            "localhost"
+        ], 
+        "dns-ns": [
+            "ns1.sedoparking.com", 
+            "ns2.sedoparking.com"
+        ], 
+        "domain-name": "my-domain.com", 
+        "fuzzer": "hyphenation", 
+        "geoip-country": "United States", 
+        "mx-spy": true, 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-mx": [
+            "mail.mxydomain.com"
+        ], 
+        "dns-ns": [
+            "ns.mxydomain.com", 
+            "ns2.mxydomain.com"
+        ], 
+        "domain-name": "mxydomain.com", 
+        "fuzzer": "insertion"
+    }, 
+    {
+        "dns-a": [
+            "45.40.164.139"
+        ], 
+        "dns-mx": [
+            "mailstore1.secureserver.net", 
+            "smtp.secureserver.net"
+        ], 
+        "dns-ns": [
+            "ns27.domaincontrol.com", 
+            "ns28.domaincontrol.com"
+        ], 
+        "domain-name": "maydomain.com", 
+        "fuzzer": "insertion", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "98.124.199.32"
+        ], 
+        "dns-mx": [
+            "mx1.emailsrvr.com", 
+            "mx2.emailsrvr.com"
+        ], 
+        "dns-ns": [
+            "dns1.name-services.com", 
+            "dns2.name-services.com", 
+            "dns3.name-services.com", 
+            "dns4.name-services.com", 
+            "dns5.name-services.com"
+        ], 
+        "domain-name": "myedomain.com", 
+        "fuzzer": "insertion", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "141.8.224.93"
+        ], 
+        "dns-ns": [
+            "ns7.rookdns.com", 
+            "ns8.rookdns.com"
+        ], 
+        "domain-name": "muydomain.com", 
+        "fuzzer": "insertion", 
+        "geoip-country": "Switzerland", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "141.8.224.93"
+        ], 
+        "dns-ns": [
+            "ns7.rookdns.com", 
+            "ns8.rookdns.com"
+        ], 
+        "domain-name": "mydoimain.com", 
+        "fuzzer": "insertion", 
+        "geoip-country": "Switzerland", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "68.178.213.61"
+        ], 
+        "dns-ns": [
+            "ns1.namefind.com", 
+            "ns2.namefind.com"
+        ], 
+        "domain-name": "mydoman.com", 
+        "fuzzer": "omission", 
+        "geoip-country": "United States"
+    }, 
+    {
+        "dns-a": [
+            "202.31.187.154"
+        ], 
+        "dns-mx": [
+            "mail.ydomain.com"
+        ], 
+        "dns-ns": [
+            "ns3.cypack.com", 
+            "ns4.cypack.com"
+        ], 
+        "domain-name": "ydomain.com", 
+        "fuzzer": "omission", 
+        "geoip-country": "Korea"
+    }, 
+    {
+        "dns-a": [
+            "68.178.213.61"
+        ], 
+        "dns-ns": [
+            "ns1.namefind.com", 
+            "ns2.namefind.com"
+        ], 
+        "domain-name": "mydomin.com", 
+        "fuzzer": "omission", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "198.211.33.133"
+        ], 
+        "dns-ns": [
+            "f1g1ns1.dnspod.net", 
+            "f1g1ns2.dnspod.net"
+        ], 
+        "domain-name": "mdomain.com", 
+        "fuzzer": "omission", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-mx": [
+            "mail.jydomain.com"
+        ], 
+        "dns-ns": [
+            "dns1.hichina.com", 
+            "dns2.hichina.com"
+        ], 
+        "domain-name": "jydomain.com", 
+        "fuzzer": "replacement"
+    }, 
+    {
+        "dns-a": [
+            "192.252.149.15"
+        ], 
+        "dns-mx": [
+            "p.webcom.ctmail.com"
+        ], 
+        "dns-ns": [
+            "dns152.a.register.com", 
+            "dns159.b.register.com", 
+            "dns207.c.register.com", 
+            "dns249.d.register.com"
+        ], 
+        "domain-name": "myromain.com", 
+        "fuzzer": "replacement", 
+        "geoip-country": "United States", 
+        "mx-spy": true, 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "184.168.221.38"
+        ], 
+        "dns-mx": [
+            "mailstore1.secureserver.net", 
+            "smtp.secureserver.net"
+        ], 
+        "dns-ns": [
+            "ns63.domaincontrol.com", 
+            "ns64.domaincontrol.com"
+        ], 
+        "domain-name": "mgdomain.com", 
+        "fuzzer": "replacement", 
+        "geoip-country": "United States"
+    }, 
+    {
+        "dns-a": [
+            "64.207.129.182"
+        ], 
+        "dns-mx": [
+            "mail.mediatemple.net"
+        ], 
+        "dns-ns": [
+            "ns1.mediatemple.net", 
+            "ns2.mediatemple.net"
+        ], 
+        "domain-name": "mtdomain.com", 
+        "fuzzer": "replacement", 
+        "geoip-country": "United States"
+    }, 
+    {
+        "dns-mx": [
+            "mailstore1.secureserver.net", 
+            "smtp.secureserver.net"
+        ], 
+        "dns-ns": [
+            "ns57.domaincontrol.com", 
+            "ns58.domaincontrol.com"
+        ], 
+        "domain-name": "msdomain.com", 
+        "fuzzer": "replacement"
+    }, 
+    {
+        "dns-a": [
+            "72.52.4.122"
+        ], 
+        "dns-mx": [
+            "localhost"
+        ], 
+        "dns-ns": [
+            "ns1.sedoparking.com", 
+            "ns2.sedoparking.com"
+        ], 
+        "domain-name": "mudomain.com", 
+        "fuzzer": "replacement", 
+        "geoip-country": "United States", 
+        "mx-spy": true, 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "52.73.124.185", 
+            "54.164.198.60"
+        ], 
+        "dns-ns": [
+            "ns1.namebrightdns.com", 
+            "ns2.namebrightdns.com"
+        ], 
+        "domain-name": "madomain.com", 
+        "fuzzer": "replacement", 
+        "geoip-country": "United States"
+    }, 
+    {
+        "dns-a": [
+            "141.105.83.158", 
+            "185.151.28.138"
+        ], 
+        "dns-aaaa": [
+            "2a07:7800::138"
+        ], 
+        "dns-mx": [
+            "mx.stackmail.com"
+        ], 
+        "dns-ns": [
+            "ns1.eco-dns.co.uk", 
+            "ns2.eco-dns.co.uk", 
+            "ns3.eco-dns.co.uk", 
+            "ns4.eco-dns.co.uk"
+        ], 
+        "domain-name": "mhdomain.com", 
+        "fuzzer": "replacement", 
+        "geoip-country": "Lebanon"
+    }, 
+    {
+        "dns-a": [
+            "202.31.187.154"
+        ], 
+        "dns-mx": [
+            "mail.ydomain.com"
+        ], 
+        "dns-ns": [
+            "ns3.cypack.com", 
+            "ns4.cypack.com"
+        ], 
+        "domain-name": "m.ydomain.com", 
+        "fuzzer": "subdomain", 
+        "geoip-country": "Korea"
+    }, 
+    {
+        "dns-a": [
+            "66.96.162.92"
+        ], 
+        "dns-mx": [
+            "mx.domain.com"
+        ], 
+        "domain-name": "my.domain.com", 
+        "fuzzer": "subdomain", 
+        "geoip-country": "United States"
+    }, 
+    {
+        "dns-a": [
+            "69.172.201.153"
+        ], 
+        "domain-name": "myd.omain.com", 
+        "fuzzer": "subdomain", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "72.52.4.122"
+        ], 
+        "dns-mx": [
+            "localhost"
+        ], 
+        "dns-ns": [
+            "ns1.sedoparking.com", 
+            "ns2.sedoparking.com"
+        ], 
+        "domain-name": "mydoamin.com", 
+        "fuzzer": "transposition", 
+        "geoip-country": "United States", 
+        "mx-spy": true, 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "208.91.196.102"
+        ], 
+        "dns-ns": [
+            "sk.s5.cm.ns1.88.ztomy.com", 
+            "sk.s5.cm.ns2.88.ztomy.com"
+        ], 
+        "domain-name": "mydomian.com", 
+        "fuzzer": "transposition", 
+        "geoip-country": "Virgin Islands", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-ns": [
+            "dns0.mtgsy.com", 
+            "dns1.name-s.net", 
+            "dns2.name-s.net", 
+            "dns3.mtgsy.com", 
+            "dns4.mtgsy.com"
+        ], 
+        "domain-name": "mydomani.com", 
+        "fuzzer": "transposition"
+    }
+]

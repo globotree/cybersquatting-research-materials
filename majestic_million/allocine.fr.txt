@@ -1,0 +1,200 @@
+[
+    {
+        "dns-a": [
+            "185.129.44.24", 
+            "185.129.44.25"
+        ], 
+        "dns-mx": [
+            "alt1.aspmx.l.google.com", 
+            "alt2.aspmx.l.google.com", 
+            "aspmx.l.google.com", 
+            "aspmx2.googlemail.com", 
+            "aspmx3.googlemail.com", 
+            "mailer1.allocine.net"
+        ], 
+        "dns-ns": [
+            "a1-69.akam.net", 
+            "a12-64.akam.net", 
+            "a20-65.akam.net", 
+            "a28-66.akam.net", 
+            "a3-67.akam.net", 
+            "a7-64.akam.net"
+        ], 
+        "domain-name": "allocine.fr", 
+        "fuzzer": "original*", 
+        "geoip-country": "France", 
+        "ssdeep-score": 100
+    }, 
+    {
+        "dns-a": [
+            "217.70.184.38"
+        ], 
+        "dns-mx": [
+            "fb.mail.gandi.net", 
+            "spool.mail.gandi.net"
+        ], 
+        "dns-ns": [
+            "a.dns.gandi.net", 
+            "b.dns.gandi.net", 
+            "c.dns.gandi.net"
+        ], 
+        "domain-name": "allokine.fr", 
+        "fuzzer": "bitsquatting", 
+        "geoip-country": "France", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "217.70.184.38"
+        ], 
+        "dns-mx": [
+            "fb.mail.gandi.net", 
+            "spool.mail.gandi.net"
+        ], 
+        "dns-ns": [
+            "a.dns.gandi.net", 
+            "b.dns.gandi.net", 
+            "c.dns.gandi.net"
+        ], 
+        "domain-name": "xn--allocin-pya.fr", 
+        "fuzzer": "homoglyph", 
+        "geoip-country": "France", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "217.70.184.38"
+        ], 
+        "dns-mx": [
+            "fb.mail.gandi.net", 
+            "spool.mail.gandi.net"
+        ], 
+        "dns-ns": [
+            "a.dns.gandi.net", 
+            "b.dns.gandi.net", 
+            "c.dns.gandi.net"
+        ], 
+        "domain-name": "xn--allocin-hya.fr", 
+        "fuzzer": "homoglyph", 
+        "geoip-country": "France", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "199.59.242.150"
+        ], 
+        "dns-mx": [
+            "mx76.m2bp.com", 
+            "mx76.mb1p.com"
+        ], 
+        "dns-ns": [
+            "ns1.bodis.com", 
+            "ns2.bodis.com"
+        ], 
+        "domain-name": "alocine.fr", 
+        "fuzzer": "omission", 
+        "geoip-country": "United States", 
+        "mx-spy": true, 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "185.53.178.7"
+        ], 
+        "dns-mx": [
+            "mail.h-email.net"
+        ], 
+        "dns-ns": [
+            "ns1.parkingcrew.net", 
+            "ns2.parkingcrew.net"
+        ], 
+        "domain-name": "allocin.fr", 
+        "fuzzer": "omission", 
+        "geoip-country": "Germany", 
+        "mx-spy": true, 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "185.53.178.7"
+        ], 
+        "dns-mx": [
+            "mail.h-email.net"
+        ], 
+        "dns-ns": [
+            "ns1.parkingcrew.net", 
+            "ns2.parkingcrew.net"
+        ], 
+        "domain-name": "allcine.fr", 
+        "fuzzer": "omission", 
+        "geoip-country": "Germany", 
+        "mx-spy": true, 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "213.186.33.5"
+        ], 
+        "dns-mx": [
+            "mx1.ovh.net", 
+            "mx2.ovh.net", 
+            "mxb.ovh.net"
+        ], 
+        "dns-ns": [
+            "dns13.ovh.net", 
+            "ns13.ovh.net"
+        ], 
+        "domain-name": "alloxine.fr", 
+        "fuzzer": "replacement", 
+        "geoip-country": "France", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "149.202.142.5"
+        ], 
+        "domain-name": "allo.cine.fr", 
+        "fuzzer": "subdomain", 
+        "geoip-country": "France", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "213.251.128.145"
+        ], 
+        "domain-name": "alloc.ine.fr", 
+        "fuzzer": "subdomain"
+    }, 
+    {
+        "dns-a": [
+            "213.186.33.87"
+        ], 
+        "dns-mx": [
+            "mx1.ovh.net", 
+            "mx2.ovh.net"
+        ], 
+        "dns-ns": [
+            "dns.ovh.net", 
+            "ns.ovh.net"
+        ], 
+        "domain-name": "allocien.fr", 
+        "fuzzer": "transposition", 
+        "geoip-country": "France", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "213.186.33.87"
+        ], 
+        "dns-mx": [
+            "mx1.ovh.net", 
+            "mx2.ovh.net"
+        ], 
+        "dns-ns": [
+            "dns15.ovh.net", 
+            "ns15.ovh.net"
+        ], 
+        "domain-name": "allucine.fr", 
+        "fuzzer": "vowel-swap"
+    }
+]

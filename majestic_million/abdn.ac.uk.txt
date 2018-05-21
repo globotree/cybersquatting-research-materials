@@ -1,0 +1,39 @@
+[
+    {
+        "dns-a": [
+            "139.133.1.4"
+        ], 
+        "dns-mx": [
+            "mailhub.abdn.ac.uk"
+        ], 
+        "dns-ns": [
+            "ns0.abdn.ac.uk", 
+            "ns1.abdn.ac.uk", 
+            "ns1.ja.net", 
+            "ns2.abdn.ac.uk", 
+            "ns3.abdn.ac.uk"
+        ], 
+        "domain-name": "abdn.ac.uk", 
+        "fuzzer": "original*", 
+        "geoip-country": "United Kingdom", 
+        "ssdeep-score": 100
+    }, 
+    {
+        "dns-a": [
+            "217.70.184.38"
+        ], 
+        "dns-mx": [
+            "fb.mail.gandi.net", 
+            "spool.mail.gandi.net"
+        ], 
+        "dns-ns": [
+            "a.dns.gandi.net", 
+            "b.dns.gandi.net", 
+            "c.dns.gandi.net"
+        ], 
+        "domain-name": "abdn.uk", 
+        "fuzzer": "various", 
+        "geoip-country": "France", 
+        "ssdeep-score": 0
+    }
+]

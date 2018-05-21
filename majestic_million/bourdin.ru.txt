@@ -1,0 +1,92 @@
+[
+    {
+        "dns-a": [
+            "46.30.43.207"
+        ], 
+        "dns-mx": [
+            "mx.yandex.ru"
+        ], 
+        "dns-ns": [
+            "dns1.yandex.ru", 
+            "dns2.yandex.ru"
+        ], 
+        "domain-name": "bourdin.ru", 
+        "fuzzer": "original*", 
+        "geoip-country": "Russian Federation", 
+        "ssdeep-score": 100
+    }, 
+    {
+        "dns-a": [
+            "195.42.161.200"
+        ], 
+        "dns-mx": [
+            "mail.bordin.ru", 
+            "smtp.glasford.ru"
+        ], 
+        "dns-ns": [
+            "ns.dataforce.net", 
+            "ns2.dataforce.net"
+        ], 
+        "domain-name": "bordin.ru", 
+        "fuzzer": "omission", 
+        "geoip-country": "Russian Federation", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-mx": [
+            "mx0.burdin.ru", 
+            "mx1.burdin.ru"
+        ], 
+        "dns-ns": [
+            "ns1.netangels.ru", 
+            "ns2.netangels.ru", 
+            "ns3.netangels.ru", 
+            "ns4.netangels.ru"
+        ], 
+        "domain-name": "burdin.ru", 
+        "fuzzer": "omission"
+    }, 
+    {
+        "dns-a": [
+            "194.58.56.149"
+        ], 
+        "dns-ns": [
+            "ns1.expired.reg.ru", 
+            "ns2.expired.reg.ru"
+        ], 
+        "domain-name": "bourdon.ru", 
+        "fuzzer": "replacement", 
+        "geoip-country": "Russian Federation", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "185.53.179.40"
+        ], 
+        "dns-ns": [
+            "ns1.snparking.ru", 
+            "ns2.snparking.ru"
+        ], 
+        "domain-name": "boursin.ru", 
+        "fuzzer": "replacement", 
+        "geoip-country": "Germany", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "5.101.152.156"
+        ], 
+        "domain-name": "bou.rdin.ru", 
+        "fuzzer": "subdomain", 
+        "geoip-country": "Russian Federation", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "78.108.80.74"
+        ], 
+        "domain-name": "bour.din.ru", 
+        "fuzzer": "subdomain", 
+        "geoip-country": "Russian Federation"
+    }
+]

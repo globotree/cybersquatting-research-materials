@@ -1,0 +1,74 @@
+[
+    {
+        "dns-ns": [
+            "ns1.webfaction.com", 
+            "ns2.webfaction.com", 
+            "ns3.webfaction.com", 
+            "ns4.webfaction.com"
+        ], 
+        "domain-name": "webfactional.com", 
+        "fuzzer": "original*"
+    }, 
+    {
+        "dns-a": [
+            "141.8.224.93"
+        ], 
+        "dns-ns": [
+            "ns7.rookdns.com", 
+            "ns8.rookdns.com"
+        ], 
+        "domain-name": "wbfactional.com", 
+        "fuzzer": "omission", 
+        "geoip-country": "Switzerland"
+    }, 
+    {
+        "dns-a": [
+            "69.172.201.153"
+        ], 
+        "domain-name": "web.factional.com", 
+        "fuzzer": "subdomain", 
+        "geoip-country": "United States"
+    }, 
+    {
+        "dns-a": [
+            "52.73.124.185", 
+            "54.164.198.60"
+        ], 
+        "dns-ns": [
+            "ns1.namebrightdns.com", 
+            "ns2.namebrightdns.com"
+        ], 
+        "domain-name": "webfac.tional.com", 
+        "fuzzer": "subdomain", 
+        "geoip-country": "United States"
+    }, 
+    {
+        "dns-a": [
+            "52.73.124.185", 
+            "54.164.198.60"
+        ], 
+        "dns-ns": [
+            "ns1.namebrightdns.com", 
+            "ns2.namebrightdns.com"
+        ], 
+        "domain-name": "webfact.ional.com", 
+        "fuzzer": "subdomain", 
+        "geoip-country": "United States"
+    }, 
+    {
+        "dns-a": [
+            "72.52.4.122"
+        ], 
+        "dns-mx": [
+            "localhost"
+        ], 
+        "dns-ns": [
+            "ns1.sedoparking.com", 
+            "ns2.sedoparking.com"
+        ], 
+        "domain-name": "webfacti.onal.com", 
+        "fuzzer": "subdomain", 
+        "geoip-country": "United States", 
+        "mx-spy": true
+    }
+]

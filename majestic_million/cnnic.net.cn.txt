@@ -1,0 +1,139 @@
+[
+    {
+        "dns-a": [
+            "159.226.6.133"
+        ], 
+        "dns-mx": [
+            "mail01.cnnic.cn"
+        ], 
+        "dns-ns": [
+            "a.cnnic.cn", 
+            "b.cnnic.cn", 
+            "c.cnnic.cn", 
+            "d.cnnic.cn", 
+            "e.cnnic.cn"
+        ], 
+        "domain-name": "cnnic.net.cn", 
+        "fuzzer": "original*", 
+        "geoip-country": "China", 
+        "ssdeep-score": 100
+    }, 
+    {
+        "dns-a": [
+            "122.224.19.67"
+        ], 
+        "dns-ns": [
+            "f1g1ns1.dnspod.net", 
+            "f1g1ns2.dnspod.net"
+        ], 
+        "domain-name": "gnnic.net.cn", 
+        "fuzzer": "bitsquatting", 
+        "geoip-country": "China", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "121.29.54.108", 
+            "125.211.204.174", 
+            "14.204.144.173", 
+            "42.56.76.104"
+        ], 
+        "dns-ns": [
+            "f1g1ns1.dnspod.net", 
+            "f1g1ns2.dnspod.net"
+        ], 
+        "domain-name": "cnnia.net.cn", 
+        "fuzzer": "bitsquatting", 
+        "geoip-country": "China"
+    }, 
+    {
+        "dns-a": [
+            "220.231.8.253"
+        ], 
+        "dns-mx": [
+            "mail.cnic.net.cn"
+        ], 
+        "dns-ns": [
+            "dns1.hichina.com", 
+            "dns2.hichina.com"
+        ], 
+        "domain-name": "cnic.net.cn", 
+        "fuzzer": "omission", 
+        "geoip-country": "China"
+    }, 
+    {
+        "dns-mx": [
+            "mxn.mxhichina.com", 
+            "mxw.mxhichina.com"
+        ], 
+        "dns-ns": [
+            "dns1.hichina.com", 
+            "dns2.hichina.com"
+        ], 
+        "domain-name": "cnni.net.cn", 
+        "fuzzer": "omission"
+    }, 
+    {
+        "dns-ns": [
+            "ns1.dns.com.cn", 
+            "ns2.dns.com.cn"
+        ], 
+        "domain-name": "cnniv.net.cn", 
+        "fuzzer": "replacement"
+    }, 
+    {
+        "dns-a": [
+            "113.108.68.144"
+        ], 
+        "domain-name": "cnn.ic.net.cn", 
+        "fuzzer": "subdomain", 
+        "geoip-country": "China", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "50.117.120.251"
+        ], 
+        "dns-mx": [
+            "mail.happyisp.com"
+        ], 
+        "domain-name": "cnni.c.net.cn", 
+        "fuzzer": "subdomain", 
+        "geoip-country": "United States", 
+        "mx-spy": true
+    }, 
+    {
+        "dns-a": [
+            "42.51.26.46"
+        ], 
+        "dns-ns": [
+            "f1g1ns1.dnspod.net", 
+            "f1g1ns2.dnspod.net"
+        ], 
+        "domain-name": "cninc.net.cn", 
+        "fuzzer": "transposition"
+    }, 
+    {
+        "dns-a": [
+            "159.226.6.133", 
+            "182.131.26.231"
+        ], 
+        "dns-aaaa": [
+            "2001:dc7:dd01:0:218:241:97:42"
+        ], 
+        "dns-mx": [
+            "mail01.cnnic.cn", 
+            "mail02.cnnic.cn"
+        ], 
+        "dns-ns": [
+            "a.cnnic.cn", 
+            "b.cnnic.cn", 
+            "c.cnnic.cn", 
+            "d.cnnic.cn", 
+            "e.cnnic.cn"
+        ], 
+        "domain-name": "cnnic.cn", 
+        "fuzzer": "various", 
+        "geoip-country": "China"
+    }
+]

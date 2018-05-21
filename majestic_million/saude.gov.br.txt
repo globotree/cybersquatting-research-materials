@@ -1,0 +1,36 @@
+[
+    {
+        "dns-a": [
+            "200.214.130.72"
+        ], 
+        "dns-mx": [
+            "mx1.saude.gov.br", 
+            "mx2.saude.gov.br", 
+            "mx3.saude.gov.br", 
+            "mx4.saude.gov.br"
+        ], 
+        "dns-ns": [
+            "mambucaba.datasus.gov.br", 
+            "piratininga.datasus.gov.br", 
+            "trty88.saude.gov.br", 
+            "trty89.saude.gov.br"
+        ], 
+        "domain-name": "saude.gov.br", 
+        "fuzzer": "original*", 
+        "geoip-country": "Brazil", 
+        "mx-spy": true, 
+        "ssdeep-score": 99
+    }, 
+    {
+        "dns-a": [
+            "200.144.92.186"
+        ], 
+        "dns-ns": [
+            "ns1.epm.br", 
+            "ns2.epm.br"
+        ], 
+        "domain-name": "saude.br", 
+        "fuzzer": "various", 
+        "geoip-country": "Brazil"
+    }
+]

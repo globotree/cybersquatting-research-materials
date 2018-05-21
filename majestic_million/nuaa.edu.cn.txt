@@ -1,0 +1,51 @@
+[
+    {
+        "dns-a": [
+            "218.94.136.185"
+        ], 
+        "dns-mx": [
+            "mx01.nuaa.edu.cn", 
+            "mx02.nuaa.edu.cn"
+        ], 
+        "dns-ns": [
+            "dns.nuaa.edu.cn"
+        ], 
+        "domain-name": "nuaa.edu.cn", 
+        "fuzzer": "original*", 
+        "geoip-country": "China"
+    }, 
+    {
+        "dns-a": [
+            "1.51.29.20", 
+            "210.28.48.8"
+        ], 
+        "dns-mx": [
+            "mail.nua.edu.cn"
+        ], 
+        "dns-ns": [
+            "dns.nua.edu.cn"
+        ], 
+        "domain-name": "nua.edu.cn", 
+        "fuzzer": "omission"
+    }, 
+    {
+        "dns-mx": [
+            "mx-buaa-edu-cn.icoremail.net", 
+            "mx1.dxt.buaa.edu.cn", 
+            "mx2.dxt.buaa.edu.cn"
+        ], 
+        "dns-ns": [
+            "ns1.buaa.edu.cn", 
+            "ns2.buaa.edu.cn"
+        ], 
+        "domain-name": "buaa.edu.cn", 
+        "fuzzer": "replacement"
+    }, 
+    {
+        "dns-a": [
+            "23.234.27.209"
+        ], 
+        "domain-name": "nuaaedu.cn", 
+        "fuzzer": "various"
+    }
+]

@@ -1,0 +1,40 @@
+[
+    {
+        "dns-a": [
+            "204.13.200.240"
+        ], 
+        "dns-mx": [
+            "seg.trustwave.com"
+        ], 
+        "dns-ns": [
+            "ns2.trustwave.com", 
+            "ns3.trustwave.com", 
+            "ns5.trustwave.com"
+        ], 
+        "domain-name": "modsecurity.org", 
+        "fuzzer": "original*", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 100
+    }, 
+    {
+        "dns-mx": [
+            "mxbiz1.qq.com", 
+            "mxbiz2.qq.com"
+        ], 
+        "dns-ns": [
+            "dns10.hichina.com", 
+            "dns9.hichina.com"
+        ], 
+        "domain-name": "mobsecurity.org", 
+        "fuzzer": "homoglyph"
+    }, 
+    {
+        "dns-ns": [
+            "ns1.digitalocean.com", 
+            "ns2.digitalocean.com", 
+            "ns3.digitalocean.com"
+        ], 
+        "domain-name": "madsecurity.org", 
+        "fuzzer": "vowel-swap"
+    }
+]

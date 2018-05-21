@@ -1,0 +1,44 @@
+[
+    {
+        "dns-a": [
+            "119.188.35.95"
+        ], 
+        "dns-mx": [
+            "mx.beijing.gov.cn"
+        ], 
+        "dns-ns": [
+            "pdns.cpip.net.cn", 
+            "sdns.cpip.net.cn"
+        ], 
+        "domain-name": "beijing.gov.cn", 
+        "fuzzer": "original*", 
+        "geoip-country": "China", 
+        "ssdeep-score": 100
+    }, 
+    {
+        "dns-ns": [
+            "pdns.cpip.net.cn", 
+            "sdns.cpip.net.cn"
+        ], 
+        "domain-name": "ibeijing.gov.cn", 
+        "fuzzer": "homoglyph"
+    }, 
+    {
+        "dns-a": [
+            "182.92.22.222"
+        ], 
+        "dns-ns": [
+            "pdns.cpip.net.cn", 
+            "sdns.cpip.net.cn"
+        ], 
+        "domain-name": "beijing.cn", 
+        "fuzzer": "various"
+    }, 
+    {
+        "dns-a": [
+            "103.232.215.129"
+        ], 
+        "domain-name": "beijinggov.cn", 
+        "fuzzer": "various"
+    }
+]

@@ -1,0 +1,382 @@
+[
+    {
+        "dns-a": [
+            "216.239.32.29"
+        ], 
+        "dns-ns": [
+            "ns1.googledomains.com", 
+            "ns2.googledomains.com", 
+            "ns3.googledomains.com", 
+            "ns4.googledomains.com"
+        ], 
+        "domain-name": "business.site", 
+        "fuzzer": "original*", 
+        "geoip-country": "United States"
+    }, 
+    {
+        "dns-a": [
+            "185.53.179.6"
+        ], 
+        "dns-ns": [
+            "ns1.parkingcrew.net", 
+            "ns2.parkingcrew.net"
+        ], 
+        "domain-name": "businesss.site", 
+        "fuzzer": "addition", 
+        "geoip-country": "Germany"
+    }, 
+    {
+        "dns-a": [
+            "194.58.112.173"
+        ], 
+        "dns-ns": [
+            "ns1.reg.ru", 
+            "ns2.reg.ru"
+        ], 
+        "domain-name": "ibusiness.site", 
+        "fuzzer": "homoglyph", 
+        "geoip-country": "Russian Federation"
+    }, 
+    {
+        "dns-a": [
+            "185.53.179.8"
+        ], 
+        "dns-mx": [
+            "mail.h-email.net"
+        ], 
+        "dns-ns": [
+            "ns1.parkingcrew.net", 
+            "ns2.parkingcrew.net"
+        ], 
+        "domain-name": "buisiness.site", 
+        "fuzzer": "insertion", 
+        "geoip-country": "Germany", 
+        "mx-spy": true
+    }, 
+    {
+        "dns-a": [
+            "185.53.178.6"
+        ], 
+        "dns-mx": [
+            "mail.h-email.net"
+        ], 
+        "dns-ns": [
+            "ns1.parkingcrew.net", 
+            "ns2.parkingcrew.net"
+        ], 
+        "domain-name": "busineess.site", 
+        "fuzzer": "insertion", 
+        "geoip-country": "Germany", 
+        "mx-spy": true
+    }, 
+    {
+        "dns-a": [
+            "185.53.179.7"
+        ], 
+        "dns-mx": [
+            "mail.h-email.net"
+        ], 
+        "dns-ns": [
+            "ns1.parkingcrew.net", 
+            "ns2.parkingcrew.net"
+        ], 
+        "domain-name": "businss.site", 
+        "fuzzer": "omission", 
+        "geoip-country": "Germany", 
+        "mx-spy": true
+    }, 
+    {
+        "dns-a": [
+            "185.53.178.6"
+        ], 
+        "dns-mx": [
+            "mail.h-email.net"
+        ], 
+        "dns-ns": [
+            "ns1.parkingcrew.net", 
+            "ns2.parkingcrew.net"
+        ], 
+        "domain-name": "bsiness.site", 
+        "fuzzer": "omission", 
+        "geoip-country": "Germany", 
+        "mx-spy": true
+    }, 
+    {
+        "dns-a": [
+            "185.53.179.6"
+        ], 
+        "dns-mx": [
+            "mail.h-email.net"
+        ], 
+        "dns-ns": [
+            "ns1.parkingcrew.net", 
+            "ns2.parkingcrew.net"
+        ], 
+        "domain-name": "usiness.site", 
+        "fuzzer": "omission", 
+        "geoip-country": "Germany", 
+        "mx-spy": true
+    }, 
+    {
+        "dns-a": [
+            "185.53.178.6"
+        ], 
+        "dns-mx": [
+            "mail.h-email.net"
+        ], 
+        "dns-ns": [
+            "ns1.parkingcrew.net", 
+            "ns2.parkingcrew.net"
+        ], 
+        "domain-name": "busness.site", 
+        "fuzzer": "omission", 
+        "geoip-country": "Germany", 
+        "mx-spy": true
+    }, 
+    {
+        "dns-a": [
+            "185.53.178.9"
+        ], 
+        "dns-mx": [
+            "mail.h-email.net"
+        ], 
+        "dns-ns": [
+            "ns1.parkingcrew.net", 
+            "ns2.parkingcrew.net"
+        ], 
+        "domain-name": "busines.site", 
+        "fuzzer": "omission", 
+        "geoip-country": "Germany", 
+        "mx-spy": true
+    }, 
+    {
+        "dns-a": [
+            "185.53.179.8"
+        ], 
+        "dns-mx": [
+            "mail.h-email.net"
+        ], 
+        "dns-ns": [
+            "ns1.parkingcrew.net", 
+            "ns2.parkingcrew.net"
+        ], 
+        "domain-name": "buiness.site", 
+        "fuzzer": "omission", 
+        "geoip-country": "Germany", 
+        "mx-spy": true
+    }, 
+    {
+        "dns-a": [
+            "185.53.179.8"
+        ], 
+        "dns-ns": [
+            "ns1.parkingcrew.net", 
+            "ns2.parkingcrew.net"
+        ], 
+        "domain-name": "bussiness.site", 
+        "fuzzer": "repetition", 
+        "geoip-country": "Germany"
+    }, 
+    {
+        "dns-a": [
+            "185.53.179.6"
+        ], 
+        "dns-mx": [
+            "mail.h-email.net"
+        ], 
+        "dns-ns": [
+            "ns1.parkingcrew.net", 
+            "ns2.parkingcrew.net"
+        ], 
+        "domain-name": "bbusiness.site", 
+        "fuzzer": "repetition", 
+        "geoip-country": "Germany", 
+        "mx-spy": true
+    }, 
+    {
+        "dns-a": [
+            "185.53.178.7"
+        ], 
+        "dns-mx": [
+            "mail.h-email.net"
+        ], 
+        "dns-ns": [
+            "ns1.parkingcrew.net", 
+            "ns2.parkingcrew.net"
+        ], 
+        "domain-name": "buusiness.site", 
+        "fuzzer": "repetition", 
+        "geoip-country": "Germany", 
+        "mx-spy": true
+    }, 
+    {
+        "dns-a": [
+            "185.53.178.7"
+        ], 
+        "dns-mx": [
+            "mail.h-email.net"
+        ], 
+        "dns-ns": [
+            "ns1.parkingcrew.net", 
+            "ns2.parkingcrew.net"
+        ], 
+        "domain-name": "businness.site", 
+        "fuzzer": "repetition", 
+        "geoip-country": "Germany", 
+        "mx-spy": true
+    }, 
+    {
+        "dns-a": [
+            "185.53.178.6"
+        ], 
+        "dns-mx": [
+            "mail.h-email.net"
+        ], 
+        "dns-ns": [
+            "ns1.parkingcrew.net", 
+            "ns2.parkingcrew.net"
+        ], 
+        "domain-name": "busiiness.site", 
+        "fuzzer": "repetition", 
+        "geoip-country": "Germany", 
+        "mx-spy": true
+    }, 
+    {
+        "dns-a": [
+            "185.53.178.9"
+        ], 
+        "dns-mx": [
+            "mail.h-email.net"
+        ], 
+        "dns-ns": [
+            "ns1.parkingcrew.net", 
+            "ns2.parkingcrew.net"
+        ], 
+        "domain-name": "busuness.site", 
+        "fuzzer": "replacement", 
+        "geoip-country": "Germany", 
+        "mx-spy": true
+    }, 
+    {
+        "dns-a": [
+            "185.53.179.7"
+        ], 
+        "dns-mx": [
+            "mail.h-email.net"
+        ], 
+        "dns-ns": [
+            "ns1.parkingcrew.net", 
+            "ns2.parkingcrew.net"
+        ], 
+        "domain-name": "bisiness.site", 
+        "fuzzer": "replacement", 
+        "geoip-country": "Germany", 
+        "mx-spy": true
+    }, 
+    {
+        "dns-a": [
+            "185.53.179.6"
+        ], 
+        "dns-mx": [
+            "mail.h-email.net"
+        ], 
+        "dns-ns": [
+            "ns1.parkingcrew.net", 
+            "ns2.parkingcrew.net"
+        ], 
+        "domain-name": "b.usiness.site", 
+        "fuzzer": "subdomain", 
+        "geoip-country": "Germany", 
+        "mx-spy": true
+    }, 
+    {
+        "dns-a": [
+            "185.53.179.6"
+        ], 
+        "dns-mx": [
+            "mail.h-email.net"
+        ], 
+        "dns-ns": [
+            "ns1.parkingcrew.net", 
+            "ns2.parkingcrew.net"
+        ], 
+        "domain-name": "bsuiness.site", 
+        "fuzzer": "transposition"
+    }, 
+    {
+        "dns-a": [
+            "185.53.179.8"
+        ], 
+        "dns-mx": [
+            "mail.h-email.net"
+        ], 
+        "dns-ns": [
+            "ns1.parkingcrew.net", 
+            "ns2.parkingcrew.net"
+        ], 
+        "domain-name": "buisness.site", 
+        "fuzzer": "transposition", 
+        "geoip-country": "Germany", 
+        "mx-spy": true
+    }, 
+    {
+        "dns-a": [
+            "185.53.179.6"
+        ], 
+        "dns-mx": [
+            "mail.h-email.net"
+        ], 
+        "dns-ns": [
+            "ns1.parkingcrew.net", 
+            "ns2.parkingcrew.net"
+        ], 
+        "domain-name": "busniess.site", 
+        "fuzzer": "transposition", 
+        "geoip-country": "Germany", 
+        "mx-spy": true
+    }, 
+    {
+        "dns-a": [
+            "185.53.179.6"
+        ], 
+        "dns-mx": [
+            "mail.h-email.net"
+        ], 
+        "dns-ns": [
+            "ns1.parkingcrew.net", 
+            "ns2.parkingcrew.net"
+        ], 
+        "domain-name": "busienss.site", 
+        "fuzzer": "transposition", 
+        "geoip-country": "Germany", 
+        "mx-spy": true
+    }, 
+    {
+        "dns-a": [
+            "185.53.178.7"
+        ], 
+        "dns-mx": [
+            "mail.h-email.net"
+        ], 
+        "dns-ns": [
+            "ns1.parkingcrew.net", 
+            "ns2.parkingcrew.net"
+        ], 
+        "domain-name": "businses.site", 
+        "fuzzer": "transposition", 
+        "geoip-country": "Germany", 
+        "mx-spy": true
+    }, 
+    {
+        "dns-a": [
+            "184.168.221.104"
+        ], 
+        "dns-ns": [
+            "ns1.afternic.com", 
+            "ns2.afternic.com"
+        ], 
+        "domain-name": "business-site.com", 
+        "fuzzer": "various", 
+        "geoip-country": "United States"
+    }
+]

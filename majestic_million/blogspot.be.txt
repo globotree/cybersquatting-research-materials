@@ -1,0 +1,46 @@
+[
+    {
+        "dns-a": [
+            "216.58.210.9"
+        ], 
+        "dns-aaaa": [
+            "2a00:1450:4001:816::2009"
+        ], 
+        "dns-ns": [
+            "ns1.google.com", 
+            "ns2.google.com", 
+            "ns3.google.com", 
+            "ns4.google.com"
+        ], 
+        "domain-name": "blogspot.be", 
+        "fuzzer": "original*", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 79
+    }, 
+    {
+        "dns-a": [
+            "212.29.175.18"
+        ], 
+        "domain-name": "blo.gspot.be", 
+        "fuzzer": "subdomain", 
+        "geoip-country": "Netherlands", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "72.52.4.122"
+        ], 
+        "dns-mx": [
+            "localhost"
+        ], 
+        "dns-ns": [
+            "ns1.sedoparking.com", 
+            "ns2.sedoparking.com"
+        ], 
+        "domain-name": "blogsp.ot.be", 
+        "fuzzer": "subdomain", 
+        "geoip-country": "United States", 
+        "mx-spy": true, 
+        "ssdeep-score": 0
+    }
+]

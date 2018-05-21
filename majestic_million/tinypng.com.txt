@@ -1,0 +1,179 @@
+[
+    {
+        "dns-a": [
+            "35.190.0.251"
+        ], 
+        "dns-mx": [
+            "alt1.aspmx.l.google.com", 
+            "alt2.aspmx.l.google.com", 
+            "aspmx.l.google.com", 
+            "aspmx2.googlemail.com", 
+            "aspmx3.googlemail.com"
+        ], 
+        "dns-ns": [
+            "ns-cloud-b1.googledomains.com", 
+            "ns-cloud-b2.googledomains.com", 
+            "ns-cloud-b3.googledomains.com", 
+            "ns-cloud-b4.googledomains.com"
+        ], 
+        "domain-name": "tinypng.com", 
+        "fuzzer": "original*", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 100
+    }, 
+    {
+        "dns-a": [
+            "103.224.212.222"
+        ], 
+        "dns-mx": [
+            "park-mx.above.com"
+        ], 
+        "dns-ns": [
+            "ns1.above.com", 
+            "ns2.above.com"
+        ], 
+        "domain-name": "tynypng.com", 
+        "fuzzer": "bitsquatting", 
+        "geoip-country": "Australia", 
+        "mx-spy": true, 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "103.224.212.222"
+        ], 
+        "dns-mx": [
+            "park-mx.above.com"
+        ], 
+        "dns-ns": [
+            "ns1.above.com", 
+            "ns2.above.com"
+        ], 
+        "domain-name": "tinipng.com", 
+        "fuzzer": "bitsquatting", 
+        "geoip-country": "Australia", 
+        "mx-spy": true, 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "173.239.22.42"
+        ], 
+        "dns-ns": [
+            "ns1.mnsdnsmart.com", 
+            "ns2.mnsdnsmart.com"
+        ], 
+        "domain-name": "timypng.com", 
+        "fuzzer": "homoglyph", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "104.27.188.40", 
+            "104.27.189.40"
+        ], 
+        "dns-aaaa": [
+            "2400:cb00:2048:1::681b:bc28", 
+            "2400:cb00:2048:1::681b:bd28"
+        ], 
+        "dns-ns": [
+            "gene.ns.cloudflare.com", 
+            "isaac.ns.cloudflare.com"
+        ], 
+        "domain-name": "tinyapng.com", 
+        "fuzzer": "insertion", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "74.208.236.254"
+        ], 
+        "dns-aaaa": [
+            "2607:f1c0:100f:f000::2d7"
+        ], 
+        "dns-mx": [
+            "mx00.1and1.com", 
+            "mx01.1and1.com"
+        ], 
+        "dns-ns": [
+            "ns1028.ui-dns.biz", 
+            "ns1028.ui-dns.com", 
+            "ns1028.ui-dns.de", 
+            "ns1028.ui-dns.org"
+        ], 
+        "domain-name": "tinypong.com", 
+        "fuzzer": "insertion", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "107.148.168.57"
+        ], 
+        "dns-ns": [
+            "v1.dns234.net", 
+            "v2.dns234.net"
+        ], 
+        "domain-name": "tnypng.com", 
+        "fuzzer": "omission", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "173.239.5.6", 
+            "173.239.8.164", 
+            "213.247.47.190"
+        ], 
+        "dns-mx": [
+            "mx7.tinpng.com"
+        ], 
+        "dns-ns": [
+            "ns1.expiereddnsmanager.com", 
+            "ns2.expiereddnsmanager.com"
+        ], 
+        "domain-name": "tinpng.com", 
+        "fuzzer": "omission", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "5.39.99.52"
+        ], 
+        "dns-ns": [
+            "ns1.chookdns.com", 
+            "ns2.chookdns.com"
+        ], 
+        "domain-name": "tingpng.com", 
+        "fuzzer": "replacement", 
+        "geoip-country": "France"
+    }, 
+    {
+        "dns-a": [
+            "129.121.27.189"
+        ], 
+        "domain-name": "ti.nypng.com", 
+        "fuzzer": "subdomain", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "47.90.43.141"
+        ], 
+        "domain-name": "tin.ypng.com", 
+        "fuzzer": "subdomain"
+    }, 
+    {
+        "dns-a": [
+            "75.126.101.241"
+        ], 
+        "domain-name": "tinyp.ng.com", 
+        "fuzzer": "subdomain", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 0
+    }
+]

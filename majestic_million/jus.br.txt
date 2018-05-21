@@ -1,0 +1,43 @@
+[
+    {
+        "dns-ns": [
+            "a.dns.br", 
+            "b.dns.br", 
+            "c.dns.br", 
+            "d.dns.br", 
+            "e.dns.br", 
+            "f.dns.br"
+        ], 
+        "domain-name": "jus.br", 
+        "fuzzer": "original*"
+    }, 
+    {
+        "dns-mx": [
+            "alt1.aspmx.l.google.com", 
+            "alt2.aspmx.l.google.com", 
+            "aspmx.l.google.com", 
+            "aspmx2.googlemail.com", 
+            "aspmx3.googlemail.com", 
+            "aspmx4.googlemail.com", 
+            "aspmx5.googlemail.com"
+        ], 
+        "dns-ns": [
+            "a.sec.dns.br", 
+            "c.sec.dns.br"
+        ], 
+        "domain-name": "jts.br", 
+        "fuzzer": "bitsquatting"
+    }, 
+    {
+        "dns-ns": [
+            "a.dns.br", 
+            "b.dns.br", 
+            "c.dns.br", 
+            "d.dns.br", 
+            "e.dns.br", 
+            "f.dns.br"
+        ], 
+        "domain-name": "mus.br", 
+        "fuzzer": "replacement"
+    }
+]

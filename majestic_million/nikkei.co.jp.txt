@@ -1,0 +1,149 @@
+[
+    {
+        "dns-mx": [
+            "mx01.ndmc.ne.jp", 
+            "mx02.ndmc.ne.jp"
+        ], 
+        "dns-ns": [
+            "i31dnsb0.nikkei.co.jp", 
+            "ns00.vips.ne.jp", 
+            "ns01.vips.ne.jp", 
+            "robert.nikkei.co.jp", 
+            "william.nikkei.co.jp"
+        ], 
+        "domain-name": "nikkei.co.jp", 
+        "fuzzer": "original*"
+    }, 
+    {
+        "dns-mx": [
+            "scan-s1.sdx.ne.jp", 
+            "scan-s2.sdx.ne.jp"
+        ], 
+        "dns-ns": [
+            "ns3.jnc.ne.jp", 
+            "ns5.jnc.ne.jp"
+        ], 
+        "domain-name": "nikkeic.co.jp", 
+        "fuzzer": "addition"
+    }, 
+    {
+        "dns-a": [
+            "150.95.248.19"
+        ], 
+        "dns-mx": [
+            "mx13.gmoserver.jp"
+        ], 
+        "dns-ns": [
+            "dns01.gmoserver.jp", 
+            "dns02.gmoserver.jp"
+        ], 
+        "domain-name": "nikkai.co.jp", 
+        "fuzzer": "bitsquatting", 
+        "geoip-country": "Japan"
+    }, 
+    {
+        "dns-a": [
+            "1.33.173.22"
+        ], 
+        "dns-mx": [
+            "mail.hibiya-eng.co.jp", 
+            "ns.hibiya-eng.co.jp"
+        ], 
+        "dns-ns": [
+            "asns1.customer.ne.jp", 
+            "asns2.customer.ne.jp"
+        ], 
+        "domain-name": "nikkey.co.jp", 
+        "fuzzer": "bitsquatting", 
+        "geoip-country": "Japan"
+    }, 
+    {
+        "dns-a": [
+            "157.7.107.28"
+        ], 
+        "dns-mx": [
+            "mx01.lolipop.jp"
+        ], 
+        "dns-ns": [
+            "uns01.lolipop.jp", 
+            "uns02.lolipop.jp"
+        ], 
+        "domain-name": "ni-kkei.co.jp", 
+        "fuzzer": "hyphenation", 
+        "geoip-country": "Japan"
+    }, 
+    {
+        "dns-a": [
+            "202.210.141.175"
+        ], 
+        "dns-mx": [
+            "www.ikkei.co.jp"
+        ], 
+        "dns-ns": [
+            "dns01.nctech.jp", 
+            "dns02.nctech.jp"
+        ], 
+        "domain-name": "ikkei.co.jp", 
+        "fuzzer": "omission", 
+        "geoip-country": "Japan"
+    }, 
+    {
+        "dns-a": [
+            "210.150.254.122"
+        ], 
+        "dns-ns": [
+            "ns1.customer.ne.jp", 
+            "ns2.customer.ne.jp"
+        ], 
+        "domain-name": "nikki.co.jp", 
+        "fuzzer": "omission", 
+        "geoip-country": "Japan"
+    }, 
+    {
+        "dns-a": [
+            "211.14.148.215"
+        ], 
+        "dns-mx": [
+            "aegis02.tows.ne.jp", 
+            "aegis03.tows.ne.jp"
+        ], 
+        "dns-ns": [
+            "ns2.tows.ne.jp", 
+            "ns3.tows.ne.jp", 
+            "ns4.tows.ne.jp"
+        ], 
+        "domain-name": "nikei.co.jp", 
+        "fuzzer": "omission", 
+        "geoip-country": "Japan"
+    }, 
+    {
+        "dns-a": [
+            "101.143.240.193"
+        ], 
+        "dns-mx": [
+            "spamwall.nikke.co.jp"
+        ], 
+        "dns-ns": [
+            "ns1.dns.ne.jp", 
+            "ns2.dns.ne.jp"
+        ], 
+        "domain-name": "nikke.co.jp", 
+        "fuzzer": "omission", 
+        "geoip-country": "Japan"
+    }, 
+    {
+        "dns-mx": [
+            "paccel1.nikkei.co.jp", 
+            "paccel2.nikkei.co.jp"
+        ], 
+        "dns-ns": [
+            "i31dnsb0.nikkei.co.jp", 
+            "ns00.vips.ne.jp", 
+            "ns01.vips.ne.jp", 
+            "robert.nikkei.co.jp", 
+            "william.nikkei.co.jp"
+        ], 
+        "domain-name": "nikkei.jp", 
+        "fuzzer": "various"
+    }
+]

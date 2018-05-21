@@ -1,0 +1,49 @@
+[
+    {
+        "dns-mx": [
+            "mxbiz1.qq.com", 
+            "mxbiz2.qq.com"
+        ], 
+        "dns-ns": [
+            "vip1.alidns.com", 
+            "vip2.alidns.com"
+        ], 
+        "domain-name": "haiwainet.cn", 
+        "fuzzer": "original*"
+    }, 
+    {
+        "dns-a": [
+            "98.126.233.83"
+        ], 
+        "domain-name": "haiw.ainet.cn", 
+        "fuzzer": "subdomain", 
+        "geoip-country": "United States"
+    }, 
+    {
+        "dns-a": [
+            "23.234.53.201"
+        ], 
+        "domain-name": "haiwai.net.cn", 
+        "fuzzer": "subdomain", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "23.234.4.151", 
+            "23.234.4.153"
+        ], 
+        "domain-name": "haiwain.et.cn", 
+        "fuzzer": "subdomain", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-ns": [
+            "ns13.xincache.com", 
+            "ns14.xincache.com"
+        ], 
+        "domain-name": "haiwainetcn.cn", 
+        "fuzzer": "various"
+    }
+]

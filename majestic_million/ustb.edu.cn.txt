@@ -1,0 +1,60 @@
+[
+    {
+        "dns-mx": [
+            "smtp.ustb.edu.cn"
+        ], 
+        "dns-ns": [
+            "dns.ustb.edu.cn", 
+            "dns2.ustb.edu.cn", 
+            "dns4.ustb.edu.cn"
+        ], 
+        "domain-name": "ustb.edu.cn", 
+        "fuzzer": "original*"
+    }, 
+    {
+        "dns-a": [
+            "202.38.64.246"
+        ], 
+        "dns-mx": [
+            "smtp.ustc.edu.cn", 
+            "smtp1.ustc.edu.cn", 
+            "smtp2.ustc.edu.cn"
+        ], 
+        "dns-ns": [
+            "mx.ustc.edu.cn", 
+            "ns.ustc.edu.cn"
+        ], 
+        "domain-name": "ustc.edu.cn", 
+        "fuzzer": "bitsquatting", 
+        "geoip-country": "China"
+    }, 
+    {
+        "dns-a": [
+            "218.7.13.215"
+        ], 
+        "dns-mx": [
+            "usth.edu.cn"
+        ], 
+        "dns-ns": [
+            "ns1.cernet.com", 
+            "ns2.cernet.com"
+        ], 
+        "domain-name": "usth.edu.cn", 
+        "fuzzer": "replacement"
+    }, 
+    {
+        "dns-ns": [
+            "dns.ustb.edu.cn", 
+            "dns2.ustb.edu.cn"
+        ], 
+        "domain-name": "ustb.cn", 
+        "fuzzer": "various"
+    }, 
+    {
+        "dns-a": [
+            "103.232.215.129"
+        ], 
+        "domain-name": "ustbedu.cn", 
+        "fuzzer": "various"
+    }
+]

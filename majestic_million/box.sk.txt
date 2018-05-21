@@ -1,0 +1,458 @@
+[
+    {
+        "dns-mx": [
+            "ALT1.ASPMX.L.GOOGLE.COM", 
+            "ALT2.ASPMX.L.GOOGLE.COM", 
+            "ALT3.ASPMX.L.GOOGLE.COM", 
+            "ALT4.ASPMX.L.GOOGLE.COM", 
+            "ASPMX.L.GOOGLE.COM"
+        ], 
+        "dns-ns": [
+            "gg.box.sk"
+        ], 
+        "domain-name": "box.sk", 
+        "fuzzer": "original*"
+    }, 
+    {
+        "dns-a": [
+            "139.15.248.63"
+        ], 
+        "dns-ns": [
+            "gwa.fe.bosch.de", 
+            "gwa2.fe.bosch.de"
+        ], 
+        "domain-name": "boxt.sk", 
+        "fuzzer": "addition", 
+        "geoip-country": "Germany"
+    }, 
+    {
+        "dns-a": [
+            "85.248.116.111"
+        ], 
+        "dns-mx": [
+            "mail.boxu.sk"
+        ], 
+        "dns-ns": [
+            "ns.telecom.sk", 
+            "ns2.telecom.sk"
+        ], 
+        "domain-name": "boxu.sk", 
+        "fuzzer": "addition", 
+        "geoip-country": "Slovakia"
+    }, 
+    {
+        "dns-a": [
+            "217.31.49.238"
+        ], 
+        "dns-mx": [
+            "mail12.ignum.cz", 
+            "mail2.ignum.cz"
+        ], 
+        "dns-ns": [
+            "ns1.ignum.com", 
+            "ns2.ignum.cz"
+        ], 
+        "domain-name": "boxx.sk", 
+        "fuzzer": "addition", 
+        "geoip-country": "Czech Republic"
+    }, 
+    {
+        "dns-mx": [
+            "mta-in.telekom.sk"
+        ], 
+        "dns-ns": [
+            "ns.telecom.sk", 
+            "ns2.telecom.sk"
+        ], 
+        "domain-name": "boxy.sk", 
+        "fuzzer": "addition"
+    }, 
+    {
+        "dns-a": [
+            "93.184.77.58"
+        ], 
+        "dns-mx": [
+            "apofis.hostmaster.sk", 
+            "backupmx.hostmaster.sk", 
+            "mx3.hostmaster.sk"
+        ], 
+        "dns-ns": [
+            "ns1.webhouse.sk", 
+            "ns2.webhouse.sk"
+        ], 
+        "domain-name": "cox.sk", 
+        "fuzzer": "bitsquatting", 
+        "geoip-country": "Slovakia"
+    }, 
+    {
+        "dns-a": [
+            "178.63.12.240"
+        ], 
+        "dns-mx": [
+            "master.webserver.sk", 
+            "relay.webserver.sk"
+        ], 
+        "dns-ns": [
+            "master.webserver.sk", 
+            "slave.webserver.sk"
+        ], 
+        "domain-name": "fox.sk", 
+        "fuzzer": "bitsquatting", 
+        "geoip-country": "Germany"
+    }, 
+    {
+        "dns-a": [
+            "37.9.175.25"
+        ], 
+        "dns-mx": [
+            "mailin1.bmx.sk", 
+            "mailin2.bmx.sk"
+        ], 
+        "dns-ns": [
+            "ns1.websupport.sk", 
+            "ns2.websupport.sk", 
+            "ns3.websupport.sk"
+        ], 
+        "domain-name": "bmx.sk", 
+        "fuzzer": "bitsquatting", 
+        "geoip-country": "Slovakia"
+    }, 
+    {
+        "dns-a": [
+            "185.53.179.14"
+        ], 
+        "dns-mx": [
+            "mail.h-email.net"
+        ], 
+        "dns-ns": [
+            "ns1.parkingcrew.net", 
+            "ns2.parkingcrew.net"
+        ], 
+        "domain-name": "boy.sk", 
+        "fuzzer": "bitsquatting", 
+        "geoip-country": "Germany", 
+        "mx-spy": true
+    }, 
+    {
+        "dns-a": [
+            "212.57.33.216"
+        ], 
+        "dns-mx": [
+            "inmail.webglobe.sk", 
+            "mail2.webglobe.sk", 
+            "mail3.webglobe.sk"
+        ], 
+        "dns-ns": [
+            "ns.webglobe.sk", 
+            "ns2.webglobe.sk", 
+            "ns3.webglobe.sk"
+        ], 
+        "domain-name": "boz.sk", 
+        "fuzzer": "bitsquatting", 
+        "geoip-country": "Slovakia"
+    }, 
+    {
+        "dns-a": [
+            "46.229.230.4"
+        ], 
+        "dns-ns": [
+            "ns1.webhouse.sk", 
+            "ns2.webhouse.sk"
+        ], 
+        "domain-name": "bop.sk", 
+        "fuzzer": "bitsquatting", 
+        "geoip-country": "Slovakia"
+    }, 
+    {
+        "dns-a": [
+            "217.67.25.5"
+        ], 
+        "dns-mx": [
+            "mail.dynatech.sk"
+        ], 
+        "dns-ns": [
+            "ns.dynatech.sk", 
+            "ns1.dynatech.sk", 
+            "ns2.dynatech.sk"
+        ], 
+        "domain-name": "boh.sk", 
+        "fuzzer": "bitsquatting", 
+        "geoip-country": "Slovakia"
+    }, 
+    {
+        "dns-mx": [
+            "mail1.tereza.sk"
+        ], 
+        "dns-ns": [
+            "ns1.tereza.sk", 
+            "ns2.tereza.sk"
+        ], 
+        "domain-name": "ibox.sk", 
+        "fuzzer": "homoglyph"
+    }, 
+    {
+        "dns-a": [
+            "72.52.4.119"
+        ], 
+        "dns-mx": [
+            "localhost"
+        ], 
+        "dns-ns": [
+            "ns1.sedoparking.com", 
+            "ns2.sedoparking.com"
+        ], 
+        "domain-name": "dox.sk", 
+        "fuzzer": "homoglyph", 
+        "geoip-country": "United States", 
+        "mx-spy": true
+    }, 
+    {
+        "dns-a": [
+            "212.57.38.59"
+        ], 
+        "dns-mx": [
+            "inmail.webglobe.sk"
+        ], 
+        "dns-ns": [
+            "ns.webglobe.sk", 
+            "ns2.webglobe.sk", 
+            "ns3.webglobe.sk"
+        ], 
+        "domain-name": "blox.sk", 
+        "fuzzer": "insertion", 
+        "geoip-country": "Slovakia"
+    }, 
+    {
+        "dns-a": [
+            "86.110.233.32"
+        ], 
+        "dns-mx": [
+            "mx.inetadmin.cz", 
+            "mx.inetadmin.eu", 
+            "mx.inetadmin.sk"
+        ], 
+        "dns-ns": [
+            "ns.inetadmin.cz", 
+            "ns.inetadmin.eu", 
+            "ns.inetadmin.sk"
+        ], 
+        "domain-name": "biox.sk", 
+        "fuzzer": "insertion", 
+        "geoip-country": "Slovakia"
+    }, 
+    {
+        "dns-a": [
+            "91.223.69.11"
+        ], 
+        "dns-mx": [
+            "mail.bx.sk", 
+            "mail2.bx.sk"
+        ], 
+        "dns-ns": [
+            "ns.webdom.sk", 
+            "ns2.webdom.sk"
+        ], 
+        "domain-name": "bx.sk", 
+        "fuzzer": "omission", 
+        "geoip-country": "Slovakia"
+    }, 
+    {
+        "dns-a": [
+            "52.0.16.118", 
+            "52.1.119.170", 
+            "52.1.147.205", 
+            "52.1.173.203", 
+            "52.4.145.119", 
+            "52.4.175.111", 
+            "52.4.225.124", 
+            "52.4.240.221", 
+            "52.4.38.70", 
+            "52.5.181.79", 
+            "52.6.3.192", 
+            "52.6.46.142"
+        ], 
+        "dns-ns": [
+            "ns.gransy.com", 
+            "ns2.gransy.com", 
+            "ns3.gransy.com", 
+            "ns4.gransy.com", 
+            "ns5.gransy.com"
+        ], 
+        "domain-name": "ox.sk", 
+        "fuzzer": "omission", 
+        "geoip-country": "United States"
+    }, 
+    {
+        "dns-a": [
+            "37.9.175.10"
+        ], 
+        "dns-mx": [
+            "mailin1.boox.sk", 
+            "mailin2.boox.sk"
+        ], 
+        "dns-ns": [
+            "ns1.websupport.sk", 
+            "ns2.websupport.sk", 
+            "ns3.websupport.sk"
+        ], 
+        "domain-name": "boox.sk", 
+        "fuzzer": "repetition", 
+        "geoip-country": "Slovakia"
+    }, 
+    {
+        "dns-a": [
+            "92.240.241.84"
+        ], 
+        "dns-mx": [
+            "mars.hotwire.sk", 
+            "sierra.hotwire.sk"
+        ], 
+        "dns-ns": [
+            "mars.hotwire.sk", 
+            "sierra.hotwire.sk"
+        ], 
+        "domain-name": "bbox.sk", 
+        "fuzzer": "repetition", 
+        "geoip-country": "Slovakia"
+    }, 
+    {
+        "dns-a": [
+            "80.87.208.167"
+        ], 
+        "dns-mx": [
+            "mailsrv.dsidata.sk", 
+            "mailsrv2.dsidata.sk"
+        ], 
+        "dns-ns": [
+            "ns2.dsidata.sk", 
+            "ns3.dsidata.sk"
+        ], 
+        "domain-name": "nox.sk", 
+        "fuzzer": "replacement", 
+        "geoip-country": "Slovakia"
+    }, 
+    {
+        "dns-a": [
+            "213.215.124.70"
+        ], 
+        "dns-ns": [
+            "ns.euronet.biz", 
+            "ns.euronet.info", 
+            "ns.euronet.mobi", 
+            "ns.euronet.sk"
+        ], 
+        "domain-name": "gox.sk", 
+        "fuzzer": "replacement", 
+        "geoip-country": "Slovakia"
+    }, 
+    {
+        "dns-a": [
+            "31.15.12.134"
+        ], 
+        "dns-mx": [
+            "mx1.active24.com", 
+            "mx2.active24.com"
+        ], 
+        "dns-ns": [
+            "alfa.ns.active24.cz", 
+            "beta.ns.active24.cz"
+        ], 
+        "domain-name": "bix.sk", 
+        "fuzzer": "replacement", 
+        "geoip-country": "Czech Republic"
+    }, 
+    {
+        "dns-mx": [
+            "ALT1.ASPMX.L.GOOGLE.COM", 
+            "ALT2.ASPMX.L.GOOGLE.COM", 
+            "ASPMX.L.GOOGLE.COM", 
+            "ASPMX2.GOOGLEMAIL.COM", 
+            "ASPMX3.GOOGLEMAIL.COM"
+        ], 
+        "dns-ns": [
+            "ns.boc.sk"
+        ], 
+        "domain-name": "boc.sk", 
+        "fuzzer": "replacement"
+    }, 
+    {
+        "dns-a": [
+            "46.229.230.108"
+        ], 
+        "dns-mx": [
+            "backupmx.hostmaster.sk", 
+            "mail6.hostmaster.sk", 
+            "mx3.hostmaster.sk"
+        ], 
+        "dns-ns": [
+            "ns1.webhouse.sk", 
+            "ns2.webhouse.sk"
+        ], 
+        "domain-name": "vox.sk", 
+        "fuzzer": "replacement", 
+        "geoip-country": "Slovakia"
+    }, 
+    {
+        "dns-a": [
+            "37.9.175.3"
+        ], 
+        "dns-mx": [
+            "mailin1.bod.sk", 
+            "mailin2.bod.sk"
+        ], 
+        "dns-ns": [
+            "ns1.websupport.sk", 
+            "ns2.websupport.sk", 
+            "ns3.websupport.sk"
+        ], 
+        "domain-name": "bod.sk", 
+        "fuzzer": "replacement", 
+        "geoip-country": "Slovakia"
+    }, 
+    {
+        "dns-a": [
+            "212.5.219.133"
+        ], 
+        "dns-ns": [
+            "ns.mrhosting.net", 
+            "ns2.mrhosting.net"
+        ], 
+        "domain-name": "bex.sk", 
+        "fuzzer": "vowel-swap"
+    }, 
+    {
+        "dns-a": [
+            "178.238.35.114"
+        ], 
+        "dns-mx": [
+            "mailin1.bux.sk", 
+            "mailin2.bux.sk"
+        ], 
+        "dns-ns": [
+            "ns1.websupport.sk", 
+            "ns2.websupport.sk", 
+            "ns3.websupport.sk"
+        ], 
+        "domain-name": "bux.sk", 
+        "fuzzer": "vowel-swap"
+    }, 
+    {
+        "dns-a": [
+            "213.215.124.50"
+        ], 
+        "dns-mx": [
+            "mailhub.euronet.sk", 
+            "ns.euronet.info", 
+            "ns2.euronet.sk"
+        ], 
+        "dns-ns": [
+            "ns.euronet.biz", 
+            "ns.euronet.info", 
+            "ns.euronet.mobi", 
+            "ns.euronet.sk"
+        ], 
+        "domain-name": "bax.sk", 
+        "fuzzer": "vowel-swap", 
+        "geoip-country": "Slovakia"
+    }
+]

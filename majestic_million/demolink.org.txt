@@ -1,0 +1,83 @@
+[
+    {
+        "dns-a": [
+            "91.195.240.103"
+        ], 
+        "dns-mx": [
+            "mxv.demolink.org"
+        ], 
+        "dns-ns": [
+            "dns1.name-services.com", 
+            "dns2.name-services.com", 
+            "dns3.name-services.com", 
+            "dns4.name-services.com", 
+            "dns5.name-services.com"
+        ], 
+        "domain-name": "demolink.org", 
+        "fuzzer": "original*", 
+        "geoip-country": "Germany", 
+        "ssdeep-score": 90
+    }, 
+    {
+        "dns-a": [
+            "199.79.62.243"
+        ], 
+        "dns-ns": [
+            "ns1.soft-pay.org", 
+            "ns2.soft-pay.org", 
+            "ns3.soft-pay.org", 
+            "ns4.soft-pay.org"
+        ], 
+        "domain-name": "demolinks.org", 
+        "fuzzer": "addition", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "45.33.31.22"
+        ], 
+        "dns-ns": [
+            "ns1.caucus.com", 
+            "ns2.caucus.com"
+        ], 
+        "domain-name": "demlink.org", 
+        "fuzzer": "omission", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "72.52.4.122"
+        ], 
+        "dns-mx": [
+            "localhost"
+        ], 
+        "dns-ns": [
+            "ns1.sedoparking.com", 
+            "ns2.sedoparking.com"
+        ], 
+        "domain-name": "demoli.nk.org", 
+        "fuzzer": "subdomain", 
+        "geoip-country": "United States", 
+        "mx-spy": true, 
+        "ssdeep-score": 86
+    }, 
+    {
+        "dns-a": [
+            "50.63.46.1"
+        ], 
+        "dns-ns": [
+            "A.SERVICE.AFILIASDNS.INFO", 
+            "B.SERVICE.AFILIASDNS.org", 
+            "C.SERVICE.AFILIASDNS.NET", 
+            "D.SERVICE.AFILIASDNS.COM", 
+            "E.SERVICE.AFILIASDNS.INFO", 
+            "F.SERVICE.AFILIASDNS.NET"
+        ], 
+        "domain-name": "demolin.k.org", 
+        "fuzzer": "subdomain", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 0
+    }
+]

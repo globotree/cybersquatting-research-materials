@@ -1,0 +1,77 @@
+[
+    {
+        "dns-a": [
+            "34.231.57.114"
+        ], 
+        "dns-mx": [
+            "mail.cmcigroup.com"
+        ], 
+        "dns-ns": [
+            "ns-1151.awsdns-15.org", 
+            "ns-1596.awsdns-07.co.uk", 
+            "ns-383.awsdns-47.com", 
+            "ns-649.awsdns-17.net"
+        ], 
+        "domain-name": "christiantoday.com", 
+        "fuzzer": "original*", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 100
+    }, 
+    {
+        "dns-a": [
+            "159.203.98.95"
+        ], 
+        "dns-ns": [
+            "ns1fkl.name.com", 
+            "ns2dky.name.com", 
+            "ns3fgh.name.com", 
+            "ns4cfn.name.com"
+        ], 
+        "domain-name": "christiantodays.com", 
+        "fuzzer": "addition", 
+        "geoip-country": "United States"
+    }, 
+    {
+        "dns-a": [
+            "185.53.178.7"
+        ], 
+        "dns-mx": [
+            "mail.h-email.net"
+        ], 
+        "dns-ns": [
+            "ns1.parkingcrew.net", 
+            "ns2.parkingcrew.net"
+        ], 
+        "domain-name": "christia.ntoday.com", 
+        "fuzzer": "subdomain", 
+        "geoip-country": "Germany", 
+        "mx-spy": true, 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "50.204.7.60"
+        ], 
+        "domain-name": "christian.today.com", 
+        "fuzzer": "subdomain", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "185.53.178.9"
+        ], 
+        "dns-mx": [
+            "mail.h-email.net"
+        ], 
+        "dns-ns": [
+            "ns1.parkingcrew.net", 
+            "ns2.parkingcrew.net"
+        ], 
+        "domain-name": "christaintoday.com", 
+        "fuzzer": "transposition", 
+        "geoip-country": "Germany", 
+        "mx-spy": true, 
+        "ssdeep-score": 0
+    }
+]

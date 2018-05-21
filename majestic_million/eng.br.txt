@@ -1,0 +1,30 @@
+[
+    {
+        "dns-ns": [
+            "a.dns.br", 
+            "b.dns.br", 
+            "c.dns.br", 
+            "d.dns.br", 
+            "e.dns.br", 
+            "f.dns.br"
+        ], 
+        "domain-name": "eng.br", 
+        "fuzzer": "original*"
+    }, 
+    {
+        "dns-a": [
+            "179.185.54.134", 
+            "189.80.207.106"
+        ], 
+        "dns-mx": [
+            "ung-br.mail.protection.outlook.com"
+        ], 
+        "dns-ns": [
+            "dns1.ung.br", 
+            "dns2.ung.br"
+        ], 
+        "domain-name": "ung.br", 
+        "fuzzer": "bitsquatting", 
+        "geoip-country": "Brazil"
+    }
+]

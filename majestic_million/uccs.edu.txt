@@ -1,0 +1,173 @@
+[
+    {
+        "dns-a": [
+            "128.198.1.50", 
+            "128.198.1.71", 
+            "128.198.4.52"
+        ], 
+        "dns-mx": [
+            "uccs-edu.mail.protection.outlook.com"
+        ], 
+        "dns-ns": [
+            "ns.uccs.edu", 
+            "ns5.uccs.edu", 
+            "ns6.uccs.edu", 
+            "ns7.uccs.edu"
+        ], 
+        "domain-name": "uccs.edu", 
+        "fuzzer": "original*", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 100
+    }, 
+    {
+        "dns-mx": [
+            "wccs-edu.mail.protection.outlook.com"
+        ], 
+        "dns-ns": [
+            "asnsvr.asc.edu", 
+            "asnsvr1.asc.edu", 
+            "asnsvr2.asc.edu", 
+            "tehnew.wccs.edu"
+        ], 
+        "domain-name": "wccs.edu", 
+        "fuzzer": "bitsquatting"
+    }, 
+    {
+        "dns-mx": [
+            "ucc-edu.mail.protection.outlook.com"
+        ], 
+        "dns-ns": [
+            "auth1.dns.cogentco.com", 
+            "auth2.dns.cogentco.com", 
+            "auth4.dns.cogentco.com", 
+            "auth5.dns.cogentco.com"
+        ], 
+        "domain-name": "ucc.edu", 
+        "fuzzer": "omission"
+    }, 
+    {
+        "dns-a": [
+            "104.28.24.186", 
+            "104.28.25.186"
+        ], 
+        "dns-aaaa": [
+            "2400:cb00:2048:1::681c:18ba", 
+            "2400:cb00:2048:1::681c:19ba"
+        ], 
+        "dns-mx": [
+            "alt1.aspmx.l.google.com", 
+            "alt2.aspmx.l.google.com", 
+            "aspmx.l.google.com", 
+            "aspmx2.googlemail.com", 
+            "aspmx3.googlemail.com"
+        ], 
+        "dns-ns": [
+            "alexis.ns.cloudflare.com", 
+            "anna.ns.cloudflare.com"
+        ], 
+        "domain-name": "ucs.edu", 
+        "fuzzer": "omission", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "52.206.191.232"
+        ], 
+        "dns-mx": [
+            "ALT1.ASPMX.L.GOOGLE.COM", 
+            "ALT2.ASPMX.L.GOOGLE.COM", 
+            "ALT3.ASPMX.L.GOOGLE.COM", 
+            "ALT4.ASPMX.L.GOOGLE.COM", 
+            "ASPMX.L.GOOGLE.COM"
+        ], 
+        "dns-ns": [
+            "ns1-ext.moric.org", 
+            "ns2-ext.moric.org"
+        ], 
+        "domain-name": "ccs.edu", 
+        "fuzzer": "omission", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "104.152.109.120"
+        ], 
+        "dns-mx": [
+            "alt1.aspmx.l.google.com", 
+            "alt2.aspmx.l.google.com", 
+            "alt3.aspmx.l.google.com", 
+            "alt4.aspmx.l.google.com", 
+            "aspmx.l.google.com", 
+            "iccs.edu"
+        ], 
+        "dns-ns": [
+            "ns1.imhostings2.com", 
+            "ns2.imhostings2.com"
+        ], 
+        "domain-name": "iccs.edu", 
+        "fuzzer": "replacement", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "34.228.96.45", 
+            "34.231.181.4", 
+            "34.234.255.80"
+        ], 
+        "dns-mx": [
+            "hccs-edu.mail.protection.outlook.com"
+        ], 
+        "dns-ns": [
+            "admin.hccs.edu", 
+            "admin3.hccs.edu", 
+            "ns2.cloudns.net", 
+            "pns3.cloudns.net"
+        ], 
+        "domain-name": "hccs.edu", 
+        "fuzzer": "replacement", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "128.114.109.5"
+        ], 
+        "dns-mx": [
+            "alt1.aspmx.l.google.com", 
+            "alt2.aspmx.l.google.com", 
+            "alt3.aspmx.l.google.com", 
+            "alt4.aspmx.l.google.com", 
+            "aspmx.l.google.com"
+        ], 
+        "dns-ns": [
+            "adns1.ucsc.edu", 
+            "adns2.ucsc.edu", 
+            "dns.princeton.edu", 
+            "ns.zocalo.net", 
+            "sns-pb.isc.org"
+        ], 
+        "domain-name": "ucsc.edu", 
+        "fuzzer": "transposition", 
+        "geoip-country": "United States"
+    }, 
+    {
+        "dns-a": [
+            "204.29.108.24"
+        ], 
+        "dns-mx": [
+            "mailscanner.asc.edu"
+        ], 
+        "dns-ns": [
+            "asnsvr.asc.edu", 
+            "asnsvr2.asc.edu", 
+            "ns1.asc.edu", 
+            "ns2.asc.edu", 
+            "ns3.asc.edu"
+        ], 
+        "domain-name": "accs.edu", 
+        "fuzzer": "vowel-swap"
+    }
+]

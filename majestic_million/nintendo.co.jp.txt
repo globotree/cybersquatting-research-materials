@@ -1,0 +1,73 @@
+[
+    {
+        "dns-mx": [
+            "nintendo-co-jp.mail.protection.outlook.com"
+        ], 
+        "dns-ns": [
+            "dns3.odn.ne.jp", 
+            "tempest.nintendo.co.jp", 
+            "zephyr.nintendo.co.jp"
+        ], 
+        "domain-name": "nintendo.co.jp", 
+        "fuzzer": "original*"
+    }, 
+    {
+        "dns-a": [
+            "124.108.37.75"
+        ], 
+        "dns-mx": [
+            "mail.nintendou.co.jp"
+        ], 
+        "dns-ns": [
+            "ns.nintendou.co.jp", 
+            "nsx.clara.co.jp"
+        ], 
+        "domain-name": "nintendou.co.jp", 
+        "fuzzer": "addition", 
+        "geoip-country": "Japan"
+    }, 
+    {
+        "dns-a": [
+            "210.172.183.41"
+        ], 
+        "dns-mx": [
+            "mx7.gmoserver.jp"
+        ], 
+        "dns-ns": [
+            "dns01.gmoserver.jp", 
+            "dns02.gmoserver.jp"
+        ], 
+        "domain-name": "jintendo.co.jp", 
+        "fuzzer": "bitsquatting", 
+        "geoip-country": "Japan"
+    }, 
+    {
+        "dns-a": [
+            "103.241.129.208"
+        ], 
+        "dns-mx": [
+            "mxjp1.nospamcloud.com", 
+            "mxjp2.nospamcloud.com"
+        ], 
+        "dns-ns": [
+            "ns01.domainserver.ne.jp", 
+            "ns02.domainserver.ne.jp"
+        ], 
+        "domain-name": "nantendo.co.jp", 
+        "fuzzer": "bitsquatting", 
+        "geoip-country": "Japan"
+    }, 
+    {
+        "dns-a": [
+            "202.247.68.5"
+        ], 
+        "dns-ns": [
+            "ns00.vips.ne.jp", 
+            "ns01.vips.ne.jp", 
+            "tempest.nintendo.co.jp", 
+            "zephyr.nintendo.co.jp"
+        ], 
+        "domain-name": "nintendo.jp", 
+        "fuzzer": "various"
+    }
+]

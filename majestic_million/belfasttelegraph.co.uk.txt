@@ -1,0 +1,135 @@
+[
+    {
+        "dns-a": [
+            "13.32.14.113", 
+            "13.32.14.135", 
+            "13.32.14.149", 
+            "13.32.14.165", 
+            "13.32.14.222", 
+            "13.32.14.231", 
+            "13.32.14.30", 
+            "13.32.14.89"
+        ], 
+        "dns-mx": [
+            "belfasttelegraph-co-uk.mail.protection.outlook.com"
+        ], 
+        "dns-ns": [
+            "ns-1493.awsdns-58.org", 
+            "ns-2006.awsdns-58.co.uk", 
+            "ns-214.awsdns-26.com", 
+            "ns-884.awsdns-46.net"
+        ], 
+        "domain-name": "belfasttelegraph.co.uk", 
+        "fuzzer": "original*", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 100
+    }, 
+    {
+        "dns-a": [
+            "141.8.224.169"
+        ], 
+        "dns-ns": [
+            "ns27.rookdns.com", 
+            "ns28.rookdns.com"
+        ], 
+        "domain-name": "befasttelegraph.co.uk", 
+        "fuzzer": "omission", 
+        "geoip-country": "Switzerland", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "141.8.224.169"
+        ], 
+        "dns-ns": [
+            "ns27.rookdns.com", 
+            "ns28.rookdns.com"
+        ], 
+        "domain-name": "belfasrtelegraph.co.uk", 
+        "fuzzer": "replacement", 
+        "geoip-country": "Switzerland", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "141.8.224.169"
+        ], 
+        "dns-ns": [
+            "ns27.rookdns.com", 
+            "ns28.rookdns.com"
+        ], 
+        "domain-name": "bwlfasttelegraph.co.uk", 
+        "fuzzer": "replacement", 
+        "geoip-country": "Switzerland", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "141.8.224.169"
+        ], 
+        "dns-ns": [
+            "ns27.rookdns.com", 
+            "ns28.rookdns.com"
+        ], 
+        "domain-name": "belfas.ttelegraph.co.uk", 
+        "fuzzer": "subdomain", 
+        "geoip-country": "Switzerland", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "103.224.182.251"
+        ], 
+        "dns-mx": [
+            "park-mx.above.com"
+        ], 
+        "dns-ns": [
+            "ns3.above.com", 
+            "ns4.above.com"
+        ], 
+        "domain-name": "belfastt.elegraph.co.uk", 
+        "fuzzer": "subdomain", 
+        "geoip-country": "Australia", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "52.58.78.16"
+        ], 
+        "dns-mx": [
+            "mx.belfasttel.egraph.co.uk"
+        ], 
+        "dns-ns": [
+            "ns1.undeveloped.com", 
+            "ns2.undeveloped.com"
+        ], 
+        "domain-name": "belfasttel.egraph.co.uk", 
+        "fuzzer": "subdomain", 
+        "geoip-country": "Germany", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "66.6.44.4"
+        ], 
+        "domain-name": "belfasttelegrap.h.co.uk", 
+        "fuzzer": "subdomain", 
+        "geoip-country": "United States"
+    }, 
+    {
+        "dns-a": [
+            "103.224.212.222"
+        ], 
+        "dns-mx": [
+            "park-mx.above.com"
+        ], 
+        "dns-ns": [
+            "ns1.above.com", 
+            "ns2.above.com"
+        ], 
+        "domain-name": "belfastteelgraph.co.uk", 
+        "fuzzer": "transposition", 
+        "geoip-country": "Australia", 
+        "ssdeep-score": 0
+    }
+]

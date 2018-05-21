@@ -1,0 +1,70 @@
+[
+    {
+        "dns-a": [
+            "50.116.70.15"
+        ], 
+        "dns-mx": [
+            "alt1.aspmx.l.google.com", 
+            "alt2.aspmx.l.google.com", 
+            "aspmx.l.google.com", 
+            "aspmx2.googlemail.com", 
+            "aspmx3.googlemail.com"
+        ], 
+        "dns-ns": [
+            "ns1.i95.net", 
+            "ns2.i95.net"
+        ], 
+        "domain-name": "autism-society.org", 
+        "fuzzer": "original*", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 100
+    }, 
+    {
+        "dns-a": [
+            "205.178.189.131"
+        ], 
+        "dns-mx": [
+            "alt2.aspmx.l.google.com", 
+            "aspmx.l.google.com", 
+            "aspmx3.googlemail.com"
+        ], 
+        "dns-ns": [
+            "ns67.worldnic.com", 
+            "ns68.worldnic.com"
+        ], 
+        "domain-name": "autismsociety.org", 
+        "fuzzer": "omission", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 99
+    }, 
+    {
+        "dns-a": [
+            "46.30.213.125"
+        ], 
+        "domain-name": "autism-s.ociety.org", 
+        "fuzzer": "subdomain", 
+        "geoip-country": "Denmark"
+    }, 
+    {
+        "dns-a": [
+            "199.191.50.73"
+        ], 
+        "dns-ns": [
+            "ns111373.ztomy.com", 
+            "ns211373.ztomy.com"
+        ], 
+        "domain-name": "autism-soc.iety.org", 
+        "fuzzer": "subdomain", 
+        "geoip-country": "Virgin Islands", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "75.126.102.236"
+        ], 
+        "domain-name": "autism-soci.ety.org", 
+        "fuzzer": "subdomain", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 0
+    }
+]

@@ -1,0 +1,62 @@
+[
+    {
+        "dns-a": [
+            "116.114.17.149"
+        ], 
+        "dns-ns": [
+            "ns1.dns.com.cn", 
+            "ns2.dns.com.cn"
+        ], 
+        "domain-name": "northnews.cn", 
+        "fuzzer": "original*", 
+        "geoip-country": "China", 
+        "ssdeep-score": 100
+    }, 
+    {
+        "dns-a": [
+            "50.117.120.251"
+        ], 
+        "dns-mx": [
+            "mail.happyisp.com"
+        ], 
+        "domain-name": "norhnews.cn", 
+        "fuzzer": "omission", 
+        "geoip-country": "United States", 
+        "mx-spy": true
+    }, 
+    {
+        "dns-a": [
+            "45.115.236.127"
+        ], 
+        "dns-ns": [
+            "dns10.hichina.com", 
+            "dns9.hichina.com"
+        ], 
+        "domain-name": "northnew.cn", 
+        "fuzzer": "omission", 
+        "geoip-country": "China"
+    }, 
+    {
+        "dns-a": [
+            "218.28.44.153"
+        ], 
+        "domain-name": "nort.hnews.cn", 
+        "fuzzer": "subdomain", 
+        "geoip-country": "China"
+    }, 
+    {
+        "dns-a": [
+            "45.120.153.79"
+        ], 
+        "domain-name": "northn.ews.cn", 
+        "fuzzer": "subdomain", 
+        "geoip-country": "Hong Kong"
+    }, 
+    {
+        "dns-a": [
+            "103.232.215.159"
+        ], 
+        "domain-name": "notrhnews.cn", 
+        "fuzzer": "transposition"
+    }
+]

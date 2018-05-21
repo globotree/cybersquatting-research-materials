@@ -1,0 +1,395 @@
+[
+    {
+        "dns-mx": [
+            "mailgate1.admin.ch", 
+            "mailgate2.admin.ch"
+        ], 
+        "dns-ns": [
+            "ins1.admin.ch", 
+            "ins2.admin.ch", 
+            "ins3.admin.ch"
+        ], 
+        "domain-name": "admin.ch", 
+        "fuzzer": "original*"
+    }, 
+    {
+        "dns-a": [
+            "84.16.73.17"
+        ], 
+        "dns-aaaa": [
+            "2001:1600:4:1::b"
+        ], 
+        "dns-mx": [
+            "mta-gw.infomaniak.ch"
+        ], 
+        "dns-ns": [
+            "ns1.infomaniak.ch", 
+            "ns2.infomaniak.ch"
+        ], 
+        "domain-name": "admina.ch", 
+        "fuzzer": "addition", 
+        "geoip-country": "Switzerland"
+    }, 
+    {
+        "dns-a": [
+            "80.74.158.74"
+        ], 
+        "dns-mx": [
+            "mail.admind.ch"
+        ], 
+        "dns-ns": [
+            "ns.ch-inter.net", 
+            "ns2.ch-inter.net"
+        ], 
+        "domain-name": "admind.ch", 
+        "fuzzer": "addition", 
+        "geoip-country": "Switzerland"
+    }, 
+    {
+        "dns-a": [
+            "37.97.254.27"
+        ], 
+        "dns-aaaa": [
+            "2a01:7c8:3:1337::27"
+        ], 
+        "dns-mx": [
+            "admini.ch"
+        ], 
+        "dns-ns": [
+            "ns0.transip.net", 
+            "ns1.transip.nl", 
+            "ns2.transip.eu"
+        ], 
+        "domain-name": "admini.ch", 
+        "fuzzer": "addition", 
+        "geoip-country": "Netherlands"
+    }, 
+    {
+        "dns-a": [
+            "149.126.6.62"
+        ], 
+        "dns-mx": [
+            "admins.ch"
+        ], 
+        "dns-ns": [
+            "ns1.cyon.ch", 
+            "ns2.cyon.ch"
+        ], 
+        "domain-name": "admins.ch", 
+        "fuzzer": "addition", 
+        "geoip-country": "Switzerland"
+    }, 
+    {
+        "dns-a": [
+            "62.116.188.68"
+        ], 
+        "dns-mx": [
+            "mail.admint.ch"
+        ], 
+        "dns-ns": [
+            "ns1.ackle.ch", 
+            "ns2.ackle.ch", 
+            "ns3.ackle.ch", 
+            "ns4.ackle.ch"
+        ], 
+        "domain-name": "admint.ch", 
+        "fuzzer": "addition", 
+        "geoip-country": "Germany"
+    }, 
+    {
+        "dns-ns": [
+            "ns3.infomaniak.ch", 
+            "ns4.infomaniak.ch"
+        ], 
+        "domain-name": "adminx.ch", 
+        "fuzzer": "addition"
+    }, 
+    {
+        "dns-a": [
+            "46.101.246.121"
+        ], 
+        "dns-ns": [
+            "ns1.digitalocean.com", 
+            "ns2.digitalocean.com", 
+            "ns3.digitalocean.com"
+        ], 
+        "domain-name": "adminy.ch", 
+        "fuzzer": "addition", 
+        "geoip-country": "Germany"
+    }, 
+    {
+        "dns-a": [
+            "45.32.159.21"
+        ], 
+        "dns-mx": [
+            "mail.abmin.ch"
+        ], 
+        "dns-ns": [
+            "ns1.vultr.com", 
+            "ns2.vultr.com"
+        ], 
+        "domain-name": "abmin.ch", 
+        "fuzzer": "homoglyph", 
+        "geoip-country": "Germany"
+    }, 
+    {
+        "dns-a": [
+            "46.231.205.202"
+        ], 
+        "dns-mx": [
+            "mail.adrnin.ch"
+        ], 
+        "dns-ns": [
+            "ch.ch-inter.net", 
+            "de.ch-inter.net", 
+            "nl.ch-inter.net"
+        ], 
+        "domain-name": "adrnin.ch", 
+        "fuzzer": "homoglyph", 
+        "geoip-country": "Switzerland"
+    }, 
+    {
+        "dns-ns": [
+            "ns1.navixia.net", 
+            "ns2.he.net", 
+            "ns3.he.net", 
+            "ns4.he.net", 
+            "ns5.he.net"
+        ], 
+        "domain-name": "adm1n.ch", 
+        "fuzzer": "homoglyph"
+    }, 
+    {
+        "dns-a": [
+            "109.164.254.155"
+        ], 
+        "dns-mx": [
+            "mailstore1.secureserver.net", 
+            "smtp.secureserver.net"
+        ], 
+        "dns-ns": [
+            "ns11.domaincontrol.com", 
+            "ns12.domaincontrol.com"
+        ], 
+        "domain-name": "xn--admn-xpa.ch", 
+        "fuzzer": "homoglyph", 
+        "geoip-country": "Switzerland"
+    }, 
+    {
+        "dns-a": [
+            "77.239.63.51"
+        ], 
+        "dns-mx": [
+            "mail.admim.ch"
+        ], 
+        "dns-ns": [
+            "ns1.admim.ch", 
+            "ns2.admim.ch"
+        ], 
+        "domain-name": "admim.ch", 
+        "fuzzer": "homoglyph", 
+        "geoip-country": "Switzerland"
+    }, 
+    {
+        "dns-a": [
+            "217.26.52.25"
+        ], 
+        "dns-mx": [
+            "mx1.mail.hostpoint.ch", 
+            "mx2.mail.hostpoint.ch"
+        ], 
+        "dns-ns": [
+            "ns.hostpoint.ch", 
+            "ns2.hostpoint.ch", 
+            "ns3.hostpoint.ch"
+        ], 
+        "domain-name": "admir.ch", 
+        "fuzzer": "homoglyph", 
+        "geoip-country": "Switzerland"
+    }, 
+    {
+        "dns-a": [
+            "82.220.38.67"
+        ], 
+        "dns-mx": [
+            "mail.adsmin.ch"
+        ], 
+        "dns-ns": [
+            "ns1.d-ns.eu", 
+            "ns2.d-ns.eu", 
+            "ns3.d-ns.eu"
+        ], 
+        "domain-name": "adsmin.ch", 
+        "fuzzer": "insertion", 
+        "geoip-country": "Switzerland"
+    }, 
+    {
+        "dns-a": [
+            "72.52.4.122"
+        ], 
+        "dns-mx": [
+            "localhost"
+        ], 
+        "dns-ns": [
+            "ns1.sedoparking.com", 
+            "ns2.sedoparking.com"
+        ], 
+        "domain-name": "amin.ch", 
+        "fuzzer": "omission", 
+        "geoip-country": "United States", 
+        "mx-spy": true
+    }, 
+    {
+        "dns-a": [
+            "84.16.73.17"
+        ], 
+        "dns-aaaa": [
+            "2001:1600:4:1::b"
+        ], 
+        "dns-ns": [
+            "ns11.infomaniak.ch", 
+            "ns12.infomaniak.ch"
+        ], 
+        "domain-name": "admi.ch", 
+        "fuzzer": "omission", 
+        "geoip-country": "Switzerland"
+    }, 
+    {
+        "dns-a": [
+            "72.52.4.122"
+        ], 
+        "dns-mx": [
+            "localhost"
+        ], 
+        "dns-ns": [
+            "ns1.sedoparking.com", 
+            "ns2.sedoparking.com"
+        ], 
+        "domain-name": "adin.ch", 
+        "fuzzer": "omission", 
+        "geoip-country": "United States", 
+        "mx-spy": true
+    }, 
+    {
+        "dns-a": [
+            "91.212.144.215"
+        ], 
+        "dns-ns": [
+            "mail.k-k.de", 
+            "ns.k-k.de"
+        ], 
+        "domain-name": "addmin.ch", 
+        "fuzzer": "repetition", 
+        "geoip-country": "Germany"
+    }, 
+    {
+        "dns-a": [
+            "85.10.192.3"
+        ], 
+        "dns-mx": [
+            "mail.armin.ch"
+        ], 
+        "dns-ns": [
+            "ns129.hoststar.ch", 
+            "ns130.hoststar.ch"
+        ], 
+        "domain-name": "armin.ch", 
+        "fuzzer": "replacement"
+    }, 
+    {
+        "dns-a": [
+            "217.26.55.8"
+        ], 
+        "dns-mx": [
+            "mx1.mail.hostpoint.ch", 
+            "mx2.mail.hostpoint.ch"
+        ], 
+        "dns-ns": [
+            "ns.hostpoint.ch", 
+            "ns2.hostpoint.ch"
+        ], 
+        "domain-name": "asmin.ch", 
+        "fuzzer": "replacement", 
+        "geoip-country": "Switzerland"
+    }, 
+    {
+        "dns-a": [
+            "205.144.171.8"
+        ], 
+        "domain-name": "ad.min.ch", 
+        "fuzzer": "subdomain", 
+        "geoip-country": "United States"
+    }, 
+    {
+        "dns-a": [
+            "184.106.214.160"
+        ], 
+        "dns-ns": [
+            "ns1.bidoparking.com", 
+            "ns2.bidoparking.com"
+        ], 
+        "domain-name": "damin.ch", 
+        "fuzzer": "transposition"
+    }, 
+    {
+        "dns-a": [
+            "217.26.52.44"
+        ], 
+        "dns-mx": [
+            "mx1.mail.hostpoint.ch", 
+            "mx2.mail.hostpoint.ch"
+        ], 
+        "dns-ns": [
+            "ns.hostpoint.ch", 
+            "ns2.hostpoint.ch", 
+            "ns3.hostpoint.ch"
+        ], 
+        "domain-name": "amdin.ch", 
+        "fuzzer": "transposition", 
+        "geoip-country": "Switzerland"
+    }, 
+    {
+        "dns-a": [
+            "50.63.202.2"
+        ], 
+        "dns-mx": [
+            "mailstore1.secureserver.net", 
+            "smtp.secureserver.net"
+        ], 
+        "dns-ns": [
+            "ns55.domaincontrol.com", 
+            "ns56.domaincontrol.com"
+        ], 
+        "domain-name": "admen.ch", 
+        "fuzzer": "vowel-swap", 
+        "geoip-country": "United States"
+    }, 
+    {
+        "dns-a": [
+            "80.80.228.89"
+        ], 
+        "dns-mx": [
+            "mail.odmin.ch"
+        ], 
+        "dns-ns": [
+            "ns.oxito.com", 
+            "ns2.oxito.com"
+        ], 
+        "domain-name": "odmin.ch", 
+        "fuzzer": "vowel-swap", 
+        "geoip-country": "Switzerland"
+    }, 
+    {
+        "dns-a": [
+            "95.85.62.6"
+        ], 
+        "dns-ns": [
+            "ns1.digitalocean.com", 
+            "ns2.digitalocean.com", 
+            "ns3.digitalocean.com"
+        ], 
+        "domain-name": "admin-ch.com", 
+        "fuzzer": "various", 
+        "geoip-country": "Netherlands"
+    }
+]

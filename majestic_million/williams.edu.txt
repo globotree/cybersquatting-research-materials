@@ -1,0 +1,33 @@
+[
+    {
+        "dns-a": [
+            "137.165.6.26"
+        ], 
+        "dns-mx": [
+            "ALT1.ASPMX.L.GOOGLE.COM", 
+            "ALT2.ASPMX.L.GOOGLE.COM", 
+            "ASPMX.L.GOOGLE.COM", 
+            "ASPMX2.GOOGLEMAIL.COM", 
+            "ASPMX3.GOOGLEMAIL.COM"
+        ], 
+        "dns-ns": [
+            "emergency.williams.edu", 
+            "lee.williams.edu", 
+            "lenox.williams.edu"
+        ], 
+        "domain-name": "williams.edu", 
+        "fuzzer": "original*", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 100
+    }, 
+    {
+        "dns-a": [
+            "66.96.147.114"
+        ], 
+        "dns-mx": [
+            "mx.ms.edu"
+        ], 
+        "domain-name": "willia.ms.edu", 
+        "fuzzer": "subdomain"
+    }
+]

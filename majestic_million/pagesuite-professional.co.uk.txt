@@ -1,0 +1,52 @@
+[
+    {
+        "dns-a": [
+            "92.52.72.174"
+        ], 
+        "dns-mx": [
+            "mx1.emailsrvr.com", 
+            "mx2.emailsrvr.com"
+        ], 
+        "dns-ns": [
+            "ns.rackspace.com", 
+            "ns2.rackspace.com"
+        ], 
+        "domain-name": "pagesuite-professional.co.uk", 
+        "fuzzer": "original*", 
+        "geoip-country": "United Kingdom", 
+        "ssdeep-score": 100
+    }, 
+    {
+        "dns-a": [
+            "72.52.4.122"
+        ], 
+        "dns-mx": [
+            "localhost"
+        ], 
+        "dns-ns": [
+            "ns1.sedoparking.com", 
+            "ns2.sedoparking.com"
+        ], 
+        "domain-name": "pagesuite-profession.al.co.uk", 
+        "fuzzer": "subdomain", 
+        "geoip-country": "United States", 
+        "mx-spy": true, 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "98.124.245.24"
+        ], 
+        "dns-mx": [
+            "mail.b-io.co"
+        ], 
+        "dns-ns": [
+            "ns1.fabulous.com", 
+            "ns2.fabulous.com"
+        ], 
+        "domain-name": "pagesuite-professiona.l.co.uk", 
+        "fuzzer": "subdomain", 
+        "geoip-country": "United States", 
+        "mx-spy": true
+    }
+]

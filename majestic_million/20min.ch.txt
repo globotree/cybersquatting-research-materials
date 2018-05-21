@@ -1,0 +1,345 @@
+[
+    {
+        "dns-a": [
+            "107.154.113.172", 
+            "107.154.116.172"
+        ], 
+        "dns-mx": [
+            "alt1.aspmx.l.google.com", 
+            "alt2.aspmx.l.google.com", 
+            "alt3.aspmx.l.google.com", 
+            "alt4.aspmx.l.google.com", 
+            "aspmx.l.google.com"
+        ], 
+        "dns-ns": [
+            "ns1.glipac.ch", 
+            "ns1.ip-plus.net", 
+            "ns2.glipac.ch", 
+            "ns3.glipac.ch"
+        ], 
+        "domain-name": "20min.ch", 
+        "fuzzer": "original*", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 97
+    }, 
+    {
+        "dns-a": [
+            "80.74.156.191"
+        ], 
+        "dns-mx": [
+            "mail.20minn.ch"
+        ], 
+        "dns-ns": [
+            "ch.pro.io", 
+            "nl.pro.io"
+        ], 
+        "domain-name": "20minn.ch", 
+        "fuzzer": "addition", 
+        "geoip-country": "Switzerland", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "50.63.202.55"
+        ], 
+        "dns-mx": [
+            "mailstore1.secureserver.net", 
+            "smtp.secureserver.net"
+        ], 
+        "dns-ns": [
+            "ns41.domaincontrol.com", 
+            "ns42.domaincontrol.com"
+        ], 
+        "domain-name": "30min.ch", 
+        "fuzzer": "bitsquatting", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "72.32.231.8"
+        ], 
+        "dns-ns": [
+            "ns1.dnsexit.com", 
+            "ns2.dnsexit.com", 
+            "ns3.dnsexit.com", 
+            "ns4.dnsexit.com"
+        ], 
+        "domain-name": "21min.ch", 
+        "fuzzer": "bitsquatting", 
+        "geoip-country": "United States"
+    }, 
+    {
+        "dns-a": [
+            "192.185.16.243"
+        ], 
+        "dns-ns": [
+            "dns1.amenic.ch", 
+            "dns2.amenic.ch"
+        ], 
+        "domain-name": "24min.ch", 
+        "fuzzer": "bitsquatting", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "80.74.149.185"
+        ], 
+        "dns-mx": [
+            "mail.20mio.ch"
+        ], 
+        "dns-ns": [
+            "ns1.weblotion.net", 
+            "ns2.weblotion.net", 
+            "ns3.weblotion.net"
+        ], 
+        "domain-name": "20mio.ch", 
+        "fuzzer": "bitsquatting", 
+        "geoip-country": "Switzerland", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "213.186.33.5"
+        ], 
+        "dns-mx": [
+            "redirect.ovh.net"
+        ], 
+        "dns-ns": [
+            "dns15.ovh.net", 
+            "ns15.ovh.net"
+        ], 
+        "domain-name": "20nin.ch", 
+        "fuzzer": "homoglyph", 
+        "geoip-country": "France", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "217.26.54.14"
+        ], 
+        "dns-mx": [
+            "mx1.mail.hostpoint.ch", 
+            "mx2.mail.hostpoint.ch"
+        ], 
+        "dns-ns": [
+            "ns.hostpoint.ch", 
+            "ns2.hostpoint.ch", 
+            "ns3.hostpoint.ch"
+        ], 
+        "domain-name": "20mim.ch", 
+        "fuzzer": "homoglyph", 
+        "geoip-country": "Switzerland", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "37.202.7.24"
+        ], 
+        "dns-mx": [
+            "mail.20-min.ch"
+        ], 
+        "dns-ns": [
+            "ns1.werbekracher.de", 
+            "ns2.werbekracher.de"
+        ], 
+        "domain-name": "20-min.ch", 
+        "fuzzer": "hyphenation"
+    }, 
+    {
+        "dns-a": [
+            "185.53.179.8"
+        ], 
+        "dns-mx": [
+            "mail.h-email.net"
+        ], 
+        "dns-ns": [
+            "ns1.parkingcrew.net", 
+            "ns2.parkingcrew.net"
+        ], 
+        "domain-name": "0min.ch", 
+        "fuzzer": "omission", 
+        "geoip-country": "Germany", 
+        "mx-spy": true, 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "104.31.84.239", 
+            "104.31.85.239"
+        ], 
+        "dns-aaaa": [
+            "2400:cb00:2048:1::681f:54ef", 
+            "2400:cb00:2048:1::681f:55ef"
+        ], 
+        "dns-ns": [
+            "buck.ns.cloudflare.com", 
+            "sharon.ns.cloudflare.com"
+        ], 
+        "domain-name": "20mi.ch", 
+        "fuzzer": "omission", 
+        "geoip-country": "United States"
+    }, 
+    {
+        "dns-a": [
+            "80.74.145.183"
+        ], 
+        "dns-mx": [
+            "mail.2min.ch"
+        ], 
+        "dns-ns": [
+            "ns21.kreativmedia.ch", 
+            "ns22.kreativmedia.ch"
+        ], 
+        "domain-name": "2min.ch", 
+        "fuzzer": "omission", 
+        "geoip-country": "Switzerland", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "176.126.245.146", 
+            "78.47.93.107"
+        ], 
+        "dns-mx": [
+            "no.mx.example.org"
+        ], 
+        "dns-ns": [
+            "atlas.dns.domaintraffic.ch", 
+            "capella.dns.domaintraffic.ch"
+        ], 
+        "domain-name": "20in.ch", 
+        "fuzzer": "omission", 
+        "geoip-country": "United Kingdom", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "185.53.178.7"
+        ], 
+        "dns-mx": [
+            "mail.h-email.net"
+        ], 
+        "dns-ns": [
+            "ns1.parkingcrew.net", 
+            "ns2.parkingcrew.net"
+        ], 
+        "domain-name": "20mn.ch", 
+        "fuzzer": "omission", 
+        "geoip-country": "Germany", 
+        "mx-spy": true, 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "80.74.142.140"
+        ], 
+        "dns-mx": [
+            "mail.10min.ch"
+        ], 
+        "dns-ns": [
+            "ns.ch-meta.net", 
+            "ns2.ch-meta.net", 
+            "ns3.ch-meta.net"
+        ], 
+        "domain-name": "10min.ch", 
+        "fuzzer": "replacement", 
+        "geoip-country": "Switzerland", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "217.26.53.38"
+        ], 
+        "dns-aaaa": [
+            "2a00:d70:0:b:2002:0:d91a:3526"
+        ], 
+        "dns-mx": [
+            "mx1.mail.hostpoint.ch", 
+            "mx2.mail.hostpoint.ch"
+        ], 
+        "dns-ns": [
+            "ns.hostpoint.ch", 
+            "ns2.hostpoint.ch", 
+            "ns3.hostpoint.ch"
+        ], 
+        "domain-name": "2omin.ch", 
+        "fuzzer": "replacement", 
+        "geoip-country": "Switzerland"
+    }, 
+    {
+        "dns-a": [
+            "185.53.178.7"
+        ], 
+        "dns-mx": [
+            "mail.h-email.net"
+        ], 
+        "dns-ns": [
+            "ns1.parkingcrew.net", 
+            "ns2.parkingcrew.net"
+        ], 
+        "domain-name": "20mib.ch", 
+        "fuzzer": "replacement", 
+        "geoip-country": "Germany", 
+        "mx-spy": true, 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "46.232.178.90"
+        ], 
+        "dns-mx": [
+            "mx01.tophost.ch", 
+            "mx02.tophost.ch"
+        ], 
+        "dns-ns": [
+            "ns1.verges.ch", 
+            "ns2.verges.ch"
+        ], 
+        "domain-name": "20mon.ch", 
+        "fuzzer": "replacement", 
+        "geoip-country": "Switzerland", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "185.53.179.8"
+        ], 
+        "dns-mx": [
+            "mail.h-email.net"
+        ], 
+        "dns-ns": [
+            "ns1.parkingcrew.net", 
+            "ns2.parkingcrew.net"
+        ], 
+        "domain-name": "2.0min.ch", 
+        "fuzzer": "subdomain", 
+        "geoip-country": "Germany", 
+        "mx-spy": true, 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "205.144.171.8"
+        ], 
+        "domain-name": "20.min.ch", 
+        "fuzzer": "subdomain", 
+        "geoip-country": "United States"
+    }, 
+    {
+        "dns-a": [
+            "80.74.142.70"
+        ], 
+        "dns-mx": [
+            "mail.02min.ch"
+        ], 
+        "dns-ns": [
+            "ns.ch-inter.net", 
+            "ns2.ch-inter.net"
+        ], 
+        "domain-name": "02min.ch", 
+        "fuzzer": "transposition", 
+        "geoip-country": "Switzerland"
+    }
+]

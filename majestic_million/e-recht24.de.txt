@@ -1,0 +1,120 @@
+[
+    {
+        "dns-a": [
+            "88.99.209.61"
+        ], 
+        "dns-mx": [
+            "mxlbrelaxed.ispgateway.de"
+        ], 
+        "dns-ns": [
+            "ns.namespace4you.de", 
+            "ns2.namespace4you.de"
+        ], 
+        "domain-name": "e-recht24.de", 
+        "fuzzer": "original*", 
+        "geoip-country": "Germany", 
+        "ssdeep-score": 93
+    }, 
+    {
+        "dns-a": [
+            "217.160.231.26"
+        ], 
+        "dns-aaaa": [
+            "2001:8d8:1001:4026:e135:2c90:e74:f038"
+        ], 
+        "dns-mx": [
+            "mx00.kundenserver.de", 
+            "mx01.kundenserver.de"
+        ], 
+        "dns-ns": [
+            "ns1074.ui-dns.biz", 
+            "ns1101.ui-dns.de", 
+            "ns1116.ui-dns.com", 
+            "ns1120.ui-dns.org"
+        ], 
+        "domain-name": "e-recht25.de", 
+        "fuzzer": "bitsquatting", 
+        "geoip-country": "Germany"
+    }, 
+    {
+        "dns-a": [
+            "88.99.209.61"
+        ], 
+        "dns-mx": [
+            "mxlbpu.ispgateway.de"
+        ], 
+        "dns-ns": [
+            "ns.namespace4you.de", 
+            "ns2.namespace4you.de"
+        ], 
+        "domain-name": "erecht24.de", 
+        "fuzzer": "omission", 
+        "geoip-country": "Germany", 
+        "ssdeep-score": 93
+    }, 
+    {
+        "dns-ns": [
+            "ns2.xc-ns.de", 
+            "ns5.xc-ns.de"
+        ], 
+        "domain-name": "s-recht24.de", 
+        "fuzzer": "replacement"
+    }, 
+    {
+        "dns-a": [
+            "87.230.86.71"
+        ], 
+        "domain-name": "e-re.cht24.de", 
+        "fuzzer": "subdomain", 
+        "geoip-country": "Germany", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "185.143.68.17", 
+            "213.155.92.10"
+        ], 
+        "dns-ns": [
+            "ns0.dnsmadeeasy.com", 
+            "ns1.dnsmadeeasy.com", 
+            "ns2.dnsmadeeasy.com", 
+            "ns3.dnsmadeeasy.com", 
+            "ns4.dnsmadeeasy.com"
+        ], 
+        "domain-name": "e-recht.24.de", 
+        "fuzzer": "subdomain", 
+        "geoip-country": "Germany", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "72.52.4.90"
+        ], 
+        "dns-mx": [
+            "localhost"
+        ], 
+        "dns-ns": [
+            "ns1.sedoparking.com", 
+            "ns2.sedoparking.com"
+        ], 
+        "domain-name": "e-recht2.4.de", 
+        "fuzzer": "subdomain", 
+        "geoip-country": "United States", 
+        "mx-spy": true, 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "87.238.192.212"
+        ], 
+        "dns-mx": [
+            "mail.i-recht24.de"
+        ], 
+        "dns-ns": [
+            "ns1.evanzo.com", 
+            "ns12.evanzo.de"
+        ], 
+        "domain-name": "i-recht24.de", 
+        "fuzzer": "vowel-swap"
+    }
+]

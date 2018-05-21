@@ -1,0 +1,56 @@
+[
+    {
+        "dns-a": [
+            "217.20.166.231"
+        ], 
+        "dns-mx": [
+            "mx.ns.od.ua"
+        ], 
+        "dns-ns": [
+            "ho1.ns.od.ua", 
+            "nix.ns.ua", 
+            "ns.od.ua"
+        ], 
+        "domain-name": "odessa.ua", 
+        "fuzzer": "original*", 
+        "geoip-country": "Ukraine"
+    }, 
+    {
+        "dns-ns": [
+            "ho1.ns.od.ua", 
+            "nix.ns.ua", 
+            "ns.od.ua"
+        ], 
+        "domain-name": "odesa.ua", 
+        "fuzzer": "omission"
+    }, 
+    {
+        "dns-a": [
+            "77.87.192.245"
+        ], 
+        "domain-name": "odes.sa.ua", 
+        "fuzzer": "subdomain", 
+        "geoip-country": "Ukraine"
+    }, 
+    {
+        "dns-a": [
+            "91.195.52.10"
+        ], 
+        "domain-name": "odess.a.ua", 
+        "fuzzer": "subdomain"
+    }, 
+    {
+        "dns-a": [
+            "206.130.123.151"
+        ], 
+        "dns-mx": [
+            "odessa-ua.com"
+        ], 
+        "dns-ns": [
+            "ns1.westservers.net", 
+            "ns2.westservers.net"
+        ], 
+        "domain-name": "odessa-ua.com", 
+        "fuzzer": "various"
+    }
+]

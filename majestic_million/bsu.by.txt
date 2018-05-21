@@ -1,0 +1,320 @@
+[
+    {
+        "dns-a": [
+            "217.21.43.3"
+        ], 
+        "dns-mx": [
+            "ywall.bsu.by"
+        ], 
+        "dns-ns": [
+            "bsu-dns-1.bsu.by", 
+            "ns.bsu.by", 
+            "second.bsu.by"
+        ], 
+        "domain-name": "bsu.by", 
+        "fuzzer": "original*", 
+        "geoip-country": "Belarus", 
+        "ssdeep-score": 100
+    }, 
+    {
+        "dns-a": [
+            "93.125.31.254"
+        ], 
+        "dns-mx": [
+            "mail.bsut.by"
+        ], 
+        "dns-ns": [
+            "u1.hoster.by", 
+            "u2.hoster.by"
+        ], 
+        "domain-name": "bsut.by", 
+        "fuzzer": "addition", 
+        "geoip-country": "Belarus", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-mx": [
+            "mail.csu.by"
+        ], 
+        "dns-ns": [
+            "ns1.dns.speedkom.net", 
+            "ns2.dns.speedkom.net"
+        ], 
+        "domain-name": "csu.by", 
+        "fuzzer": "bitsquatting"
+    }, 
+    {
+        "dns-a": [
+            "93.125.99.39"
+        ], 
+        "dns-mx": [
+            "mailbe03.hoster.by"
+        ], 
+        "dns-ns": [
+            "ns1.tutby.com", 
+            "ns2.tutby.com"
+        ], 
+        "domain-name": "fsu.by", 
+        "fuzzer": "bitsquatting", 
+        "geoip-country": "Belarus", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "213.184.254.130"
+        ], 
+        "dns-mx": [
+            "mail.bru.by"
+        ], 
+        "dns-ns": [
+            "ns1.bru.by", 
+            "ns2.bru.by"
+        ], 
+        "domain-name": "bru.by", 
+        "fuzzer": "bitsquatting", 
+        "geoip-country": "Belarus", 
+        "mx-spy": true, 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "178.124.130.200"
+        ], 
+        "dns-mx": [
+            "mx1.activeby.net", 
+            "mx2.activeby.net"
+        ], 
+        "dns-ns": [
+            "ns1.activeby.net", 
+            "ns2.activeby.net", 
+            "ns3.activeby.net"
+        ], 
+        "domain-name": "bwu.by", 
+        "fuzzer": "bitsquatting", 
+        "geoip-country": "Belarus", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "178.159.240.240"
+        ], 
+        "dns-mx": [
+            "mx1.activeby.net", 
+            "mx2.activeby.net"
+        ], 
+        "dns-ns": [
+            "ns1.activeby.net", 
+            "ns2.activeby.net", 
+            "ns3.activeby.net"
+        ], 
+        "domain-name": "bsw.by", 
+        "fuzzer": "bitsquatting", 
+        "geoip-country": "Belarus", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "86.57.246.177"
+        ], 
+        "dns-mx": [
+            "mx1.activeby.net", 
+            "mx2.activeby.net"
+        ], 
+        "dns-ns": [
+            "ns1.activeby.net", 
+            "ns2.activeby.net", 
+            "ns3.activeby.net"
+        ], 
+        "domain-name": "bse.by", 
+        "fuzzer": "bitsquatting", 
+        "geoip-country": "Belarus", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "212.98.165.147"
+        ], 
+        "dns-mx": [
+            "mail.bseu.by"
+        ], 
+        "dns-ns": [
+            "ns1.bseu.by", 
+            "ns2.bseu.by"
+        ], 
+        "domain-name": "bseu.by", 
+        "fuzzer": "insertion", 
+        "geoip-country": "Belarus", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "78.110.63.123"
+        ], 
+        "dns-mx": [
+            "mail.bu.by"
+        ], 
+        "dns-ns": [
+            "ns1.bu.by", 
+            "ns2.trifle.net"
+        ], 
+        "domain-name": "bu.by", 
+        "fuzzer": "omission", 
+        "geoip-country": "Russian Federation", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "78.110.62.160"
+        ], 
+        "dns-mx": [
+            "mail.bs.by"
+        ], 
+        "dns-ns": [
+            "ns1.bs.by", 
+            "ns2.trifle.net"
+        ], 
+        "domain-name": "bs.by", 
+        "fuzzer": "omission", 
+        "geoip-country": "Russian Federation", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "185.5.251.91"
+        ], 
+        "dns-ns": [
+            "ns1.namehunter.ru", 
+            "ns2.namehunter.ru"
+        ], 
+        "domain-name": "bau.by", 
+        "fuzzer": "replacement", 
+        "geoip-country": "Russian Federation", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "82.209.212.222"
+        ], 
+        "dns-mx": [
+            "gsu.by", 
+            "ns2.gsu.by"
+        ], 
+        "dns-ns": [
+            "ns1.gsu.by", 
+            "ns2.gsu.by"
+        ], 
+        "domain-name": "gsu.by", 
+        "fuzzer": "replacement", 
+        "geoip-country": "Belarus", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "176.60.213.3"
+        ], 
+        "dns-mx": [
+            "mail.vsu.by"
+        ], 
+        "dns-ns": [
+            "u1.hoster.by", 
+            "u2.hoster.by"
+        ], 
+        "domain-name": "vsu.by", 
+        "fuzzer": "replacement", 
+        "geoip-country": "Belarus"
+    }, 
+    {
+        "dns-a": [
+            "93.125.99.55"
+        ], 
+        "dns-mx": [
+            "bsznt2.bsz.by"
+        ], 
+        "dns-ns": [
+            "u1.hoster.by", 
+            "u2.hoster.by"
+        ], 
+        "domain-name": "bsz.by", 
+        "fuzzer": "replacement"
+    }, 
+    {
+        "dns-a": [
+            "5.45.126.188"
+        ], 
+        "dns-mx": [
+            "mail.bdu.by"
+        ], 
+        "dns-ns": [
+            "dns.fastdns24.com", 
+            "dns2.fastdns24.org", 
+            "dns3.fastdns24.eu", 
+            "dns4.fastdns24.link"
+        ], 
+        "domain-name": "bdu.by", 
+        "fuzzer": "replacement", 
+        "geoip-country": "Estonia", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "91.149.189.194"
+        ], 
+        "dns-mx": [
+            "mail.bsj.by"
+        ], 
+        "dns-ns": [
+            "ns1.neolocation.com", 
+            "ns2.neolocation.com", 
+            "ns3.neolocation.com"
+        ], 
+        "domain-name": "bsj.by", 
+        "fuzzer": "replacement", 
+        "geoip-country": "Belarus", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-ns": [
+            "ns1.login-by.com", 
+            "ns1.login-by.net", 
+            "ns2.login-by.com", 
+            "ns2.login-by.net"
+        ], 
+        "domain-name": "sbu.by", 
+        "fuzzer": "transposition"
+    }, 
+    {
+        "dns-a": [
+            "93.125.99.45"
+        ], 
+        "dns-mx": [
+            "mailbe02.hoster.by"
+        ], 
+        "dns-ns": [
+            "ns1.tutby.com", 
+            "ns2.tutby.com"
+        ], 
+        "domain-name": "bso.by", 
+        "fuzzer": "vowel-swap"
+    }, 
+    {
+        "dns-a": [
+            "93.125.99.36"
+        ], 
+        "dns-mx": [
+            "alt1.aspmx.l.google.com", 
+            "alt2.aspmx.l.google.com", 
+            "aspmx.l.google.com", 
+            "aspmx2.googlemail.com", 
+            "aspmx3.googlemail.com", 
+            "aspmx4.googlemail.com", 
+            "aspmx5.googlemail.com"
+        ], 
+        "dns-ns": [
+            "ns1.tutby.com", 
+            "ns2.tutby.com"
+        ], 
+        "domain-name": "bsa.by", 
+        "fuzzer": "vowel-swap", 
+        "geoip-country": "Belarus"
+    }
+]

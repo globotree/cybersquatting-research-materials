@@ -1,0 +1,119 @@
+[
+    {
+        "dns-mx": [
+            "email.bnu.edu.cn", 
+            "email2.bnu.edu.cn"
+        ], 
+        "dns-ns": [
+            "ns.bnu.edu.cn", 
+            "ns2.bnu.edu.cn", 
+            "ns3.bnu.edu.cn"
+        ], 
+        "domain-name": "bnu.edu.cn", 
+        "fuzzer": "original*"
+    }, 
+    {
+        "dns-a": [
+            "219.131.222.56"
+        ], 
+        "dns-mx": [
+            "hzmx01.mxmail.netease.com", 
+            "hzmx02.mxmail.netease.com"
+        ], 
+        "dns-ns": [
+            "ns1.service.edu.cn", 
+            "ns2.service.edu.cn"
+        ], 
+        "domain-name": "bnuz.edu.cn", 
+        "fuzzer": "addition", 
+        "geoip-country": "China"
+    }, 
+    {
+        "dns-a": [
+            "202.204.221.10"
+        ], 
+        "dns-mx": [
+            "mxbiz1.qq.com", 
+            "mxbiz2.qq.com"
+        ], 
+        "dns-ns": [
+            "dns.cnu.edu.cn", 
+            "dns2.cnu.edu.cn"
+        ], 
+        "domain-name": "cnu.edu.cn", 
+        "fuzzer": "bitsquatting", 
+        "geoip-country": "China"
+    }, 
+    {
+        "dns-a": [
+            "202.116.0.1"
+        ], 
+        "dns-aaaa": [
+            "2001:da8:2002::1"
+        ], 
+        "dns-mx": [
+            "register.jnu.edu.cn"
+        ], 
+        "dns-ns": [
+            "maina.jnu.edu.cn", 
+            "mainb.jnu.edu.cn"
+        ], 
+        "domain-name": "jnu.edu.cn", 
+        "fuzzer": "bitsquatting", 
+        "geoip-country": "China"
+    }, 
+    {
+        "dns-mx": [
+            "smtp.hnu.edu.cn"
+        ], 
+        "dns-ns": [
+            "dns.hnu.edu.cn"
+        ], 
+        "domain-name": "hnu.edu.cn", 
+        "fuzzer": "replacement"
+    }, 
+    {
+        "dns-mx": [
+            "mailserver2.bhu.edu.cn"
+        ], 
+        "dns-ns": [
+            "dns1.bhu.edu.cn", 
+            "dns2.bhu.edu.cn"
+        ], 
+        "domain-name": "bhu.edu.cn", 
+        "fuzzer": "replacement"
+    }, 
+    {
+        "dns-ns": [
+            "bamboo.nnu.edu.cn", 
+            "pine.nnu.edu.cn"
+        ], 
+        "domain-name": "nnu.edu.cn", 
+        "fuzzer": "replacement"
+    }, 
+    {
+        "dns-mx": [
+            "smtp.nbu.edu.cn", 
+            "smtp1.nbu.edu.cn"
+        ], 
+        "dns-ns": [
+            "center.nbu.edu.cn", 
+            "dns1.nbu.edu.cn", 
+            "dns2.nbu.edu.cn", 
+            "dns3.nbu.edu.cn"
+        ], 
+        "domain-name": "nbu.edu.cn", 
+        "fuzzer": "transposition"
+    }, 
+    {
+        "dns-a": [
+            "124.42.124.207"
+        ], 
+        "dns-ns": [
+            "dns17.hichina.com", 
+            "dns18.hichina.com"
+        ], 
+        "domain-name": "bnuedu.cn", 
+        "fuzzer": "various"
+    }
+]

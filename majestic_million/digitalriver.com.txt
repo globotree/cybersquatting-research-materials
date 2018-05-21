@@ -1,0 +1,210 @@
+[
+    {
+        "dns-a": [
+            "104.154.80.234"
+        ], 
+        "dns-mx": [
+            "smtp-dc3.wip.digitalrivercontent.net", 
+            "smtp.wip.digitalrivercontent.net"
+        ], 
+        "dns-ns": [
+            "dns1.p03.nsone.net", 
+            "dns2.p03.nsone.net", 
+            "ns1.p19.dynect.net", 
+            "ns2.p19.dynect.net", 
+            "pdns212.ultradns.com", 
+            "pdns212.ultradns.net"
+        ], 
+        "domain-name": "digitalriver.com", 
+        "fuzzer": "original*", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 100
+    }, 
+    {
+        "dns-a": [
+            "68.178.213.61"
+        ], 
+        "dns-ns": [
+            "ns1.namefind.com", 
+            "ns2.namefind.com"
+        ], 
+        "domain-name": "digitalrivers.com", 
+        "fuzzer": "addition", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-mx": [
+            "alt1.aspmx.l.google.com", 
+            "alt2.aspmx.l.google.com", 
+            "alt3.aspmx.l.google.com", 
+            "alt4.aspmx.l.google.com", 
+            "aspmx.l.google.com"
+        ], 
+        "dns-ns": [
+            "ns-cloud-a1.googledomains.com", 
+            "ns-cloud-a2.googledomains.com", 
+            "ns-cloud-a3.googledomains.com", 
+            "ns-cloud-a4.googledomains.com"
+        ], 
+        "domain-name": "digitalrlver.com", 
+        "fuzzer": "homoglyph"
+    }, 
+    {
+        "dns-a": [
+            "104.37.35.98"
+        ], 
+        "dns-mx": [
+            "mx1.pub.mailpod1-wdc1.one.com", 
+            "mx2.pub.mailpod1-wdc1.one.com"
+        ], 
+        "dns-ns": [
+            "ns01.one.com", 
+            "ns02.one.com"
+        ], 
+        "domain-name": "digltalriver.com", 
+        "fuzzer": "homoglyph", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "207.148.248.143"
+        ], 
+        "domain-name": "digital-river.com", 
+        "fuzzer": "hyphenation", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "141.8.224.195"
+        ], 
+        "dns-ns": [
+            "ns1.dsredirects.com", 
+            "ns2.dsredirects.com"
+        ], 
+        "domain-name": "digitalreiver.com", 
+        "fuzzer": "insertion", 
+        "geoip-country": "Switzerland", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "78.46.64.79"
+        ], 
+        "dns-ns": [
+            "ns1.systemdns.com", 
+            "ns2.systemdns.com", 
+            "ns3.systemdns.com"
+        ], 
+        "domain-name": "digitaliver.com", 
+        "fuzzer": "omission", 
+        "geoip-country": "Germany"
+    }, 
+    {
+        "dns-a": [
+            "104.16.87.230", 
+            "104.16.88.230", 
+            "104.16.89.230", 
+            "104.16.90.230", 
+            "104.16.91.230"
+        ], 
+        "dns-ns": [
+            "ns2.vpweb.com", 
+            "ns3.vpweb.com", 
+            "ns4.vpweb.com"
+        ], 
+        "domain-name": "digitalriiver.com", 
+        "fuzzer": "repetition", 
+        "geoip-country": "United States"
+    }, 
+    {
+        "dns-a": [
+            "216.239.32.21", 
+            "216.239.34.21", 
+            "216.239.36.21", 
+            "216.239.38.21"
+        ], 
+        "dns-aaaa": [
+            "2001:4860:4802:32::15", 
+            "2001:4860:4802:34::15", 
+            "2001:4860:4802:36::15", 
+            "2001:4860:4802:38::15"
+        ], 
+        "dns-ns": [
+            "ns-cloud-e1.googledomains.com", 
+            "ns-cloud-e2.googledomains.com", 
+            "ns-cloud-e3.googledomains.com", 
+            "ns-cloud-e4.googledomains.com"
+        ], 
+        "domain-name": "digitalrivet.com", 
+        "fuzzer": "replacement", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "68.178.213.61"
+        ], 
+        "dns-ns": [
+            "ns1.namefind.com", 
+            "ns2.namefind.com"
+        ], 
+        "domain-name": "digitaldiver.com", 
+        "fuzzer": "replacement", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "72.52.4.119"
+        ], 
+        "dns-mx": [
+            "localhost"
+        ], 
+        "dns-ns": [
+            "ns1.sedoparking.com", 
+            "ns2.sedoparking.com"
+        ], 
+        "domain-name": "digitalrover.com", 
+        "fuzzer": "replacement", 
+        "geoip-country": "United States", 
+        "mx-spy": true, 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "67.195.61.46"
+        ], 
+        "domain-name": "digi.talriver.com", 
+        "fuzzer": "subdomain", 
+        "geoip-country": "United States"
+    }, 
+    {
+        "dns-a": [
+            "192.64.147.192"
+        ], 
+        "domain-name": "digitalr.iver.com", 
+        "fuzzer": "subdomain", 
+        "geoip-country": "United States"
+    }, 
+    {
+        "dns-a": [
+            "208.73.211.70"
+        ], 
+        "domain-name": "digitalriv.er.com", 
+        "fuzzer": "subdomain", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-ns": [
+            "ns1.systemdns.com", 
+            "ns2.systemdns.com", 
+            "ns3.systemdns.com"
+        ], 
+        "domain-name": "digitlariver.com", 
+        "fuzzer": "transposition"
+    }
+]

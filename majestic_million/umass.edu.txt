@@ -1,0 +1,84 @@
+[
+    {
+        "dns-a": [
+            "128.119.8.148"
+        ], 
+        "dns-mx": [
+            "race-1.oit.umass.edu", 
+            "race-2.oit.umass.edu", 
+            "race-3.oit.umass.edu", 
+            "race-4.oit.umass.edu"
+        ], 
+        "dns-ns": [
+            "ns1.umass.edu", 
+            "ns2.umass.edu", 
+            "ns3.umass.edu"
+        ], 
+        "domain-name": "umass.edu", 
+        "fuzzer": "original*", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 100
+    }, 
+    {
+        "dns-a": [
+            "134.88.1.12"
+        ], 
+        "dns-mx": [
+            "umassd-edu.mail.protection.outlook.com"
+        ], 
+        "dns-ns": [
+            "ns1.p09.dynect.net", 
+            "ns2.p09.dynect.net", 
+            "ns3.p09.dynect.net", 
+            "ns4.p09.dynect.net"
+        ], 
+        "domain-name": "umassd.edu", 
+        "fuzzer": "addition", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "173.236.244.175"
+        ], 
+        "dns-mx": [
+            "email1.umassp.edu"
+        ], 
+        "dns-ns": [
+            "bosvcsns01.umasscs.net", 
+            "sssvcsns01.umasscs.net"
+        ], 
+        "domain-name": "umassp.edu", 
+        "fuzzer": "addition", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-ns": [
+            "ns1.olemiss.edu", 
+            "ns2.olemiss.edu"
+        ], 
+        "domain-name": "umiss.edu", 
+        "fuzzer": "bitsquatting"
+    }, 
+    {
+        "dns-ns": [
+            "ns1.umss.edu", 
+            "ns2.umss.edu"
+        ], 
+        "domain-name": "umss.edu", 
+        "fuzzer": "omission"
+    }, 
+    {
+        "dns-mx": [
+            "email1.umassp.edu", 
+            "email2.umassp.edu"
+        ], 
+        "dns-ns": [
+            "bosvcsns01.umasscs.net", 
+            "sssvcsns01.umasscs.net"
+        ], 
+        "domain-name": "mass.edu", 
+        "fuzzer": "omission"
+    }
+]

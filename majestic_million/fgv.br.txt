@@ -1,0 +1,43 @@
+[
+    {
+        "dns-mx": [
+            "fgv-br.mail.protection.outlook.com"
+        ], 
+        "dns-ns": [
+            "9je020.fgv.br", 
+            "fgv082.fgv.br"
+        ], 
+        "domain-name": "fgv.br", 
+        "fuzzer": "original*"
+    }, 
+    {
+        "dns-a": [
+            "200.143.14.16"
+        ], 
+        "dns-mx": [
+            "5c00d107a1f741a3cbb67396a5b186.msv1.invalid", 
+            "5c00d107a1f741a3cbb67396a5b186.pamx1.hotmail.com"
+        ], 
+        "dns-ns": [
+            "9je020.fgv.br", 
+            "fgv082.fgv.br"
+        ], 
+        "domain-name": "gv.br", 
+        "fuzzer": "omission", 
+        "geoip-country": "Brazil"
+    }, 
+    {
+        "dns-a": [
+            "54.209.15.19", 
+            "54.236.156.173"
+        ], 
+        "dns-ns": [
+            "ns-1389.awsdns-45.org", 
+            "ns-1743.awsdns-25.co.uk", 
+            "ns-431.awsdns-53.com", 
+            "ns-615.awsdns-12.net"
+        ], 
+        "domain-name": "fbv.br", 
+        "fuzzer": "replacement"
+    }
+]

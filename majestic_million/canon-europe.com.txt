@@ -1,0 +1,120 @@
+[
+    {
+        "dns-a": [
+            "212.119.14.50"
+        ], 
+        "dns-mx": [
+            "canoneurope-com01c.mail.eo.outlook.com"
+        ], 
+        "dns-ns": [
+            "a1-206.akam.net", 
+            "a11-65.akam.net", 
+            "a14-66.akam.net", 
+            "a18-67.akam.net", 
+            "a26-64.akam.net", 
+            "a9-65.akam.net"
+        ], 
+        "domain-name": "canon-europe.com", 
+        "fuzzer": "original*", 
+        "geoip-country": "United Kingdom", 
+        "ssdeep-score": 100
+    }, 
+    {
+        "dns-a": [
+            "82.112.117.69"
+        ], 
+        "dns-mx": [
+            "canoneuropa-com01c.mail.eo.outlook.com", 
+            "mail.global.frontbridge.com"
+        ], 
+        "dns-ns": [
+            "a1-206.akam.net", 
+            "a11-65.akam.net", 
+            "a14-66.akam.net", 
+            "a18-67.akam.net", 
+            "a26-64.akam.net", 
+            "a9-65.akam.net"
+        ], 
+        "domain-name": "canon-europa.com", 
+        "fuzzer": "bitsquatting", 
+        "geoip-country": "United Kingdom"
+    }, 
+    {
+        "dns-a": [
+            "72.52.179.175"
+        ], 
+        "dns-mx": [
+            "mx156.hostedmxserver.com"
+        ], 
+        "dns-ns": [
+            "ns1.parklogic.com", 
+            "ns2.parklogic.com", 
+            "ns3.parklogic.com", 
+            "ns4.parklogic.com", 
+            "ns5.parklogic.com"
+        ], 
+        "domain-name": "canon-europ.com", 
+        "fuzzer": "omission", 
+        "geoip-country": "United States", 
+        "mx-spy": true, 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "78.41.204.28"
+        ], 
+        "dns-ns": [
+            "ns1.torresdns.com", 
+            "ns2.torresdns.com"
+        ], 
+        "domain-name": "cannon-europe.com", 
+        "fuzzer": "repetition", 
+        "geoip-country": "Netherlands"
+    }, 
+    {
+        "dns-a": [
+            "184.168.221.44"
+        ], 
+        "dns-mx": [
+            "caboneurope-com01c.mail.protection.outlook.com"
+        ], 
+        "dns-ns": [
+            "ns23.domaincontrol.com", 
+            "ns24.domaincontrol.com"
+        ], 
+        "domain-name": "cabon-europe.com", 
+        "fuzzer": "replacement", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "72.52.4.120"
+        ], 
+        "dns-mx": [
+            "localhost"
+        ], 
+        "dns-ns": [
+            "ns1.sedoparking.com", 
+            "ns2.sedoparking.com"
+        ], 
+        "domain-name": "canon-e.urope.com", 
+        "fuzzer": "subdomain", 
+        "geoip-country": "United States", 
+        "mx-spy": true, 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "208.91.196.105"
+        ], 
+        "dns-ns": [
+            "sk.s5.cm.ns1.39.ztomy.com", 
+            "sk.s5.cm.ns2.39.ztomy.com"
+        ], 
+        "domain-name": "conon-europe.com", 
+        "fuzzer": "vowel-swap", 
+        "geoip-country": "Virgin Islands", 
+        "ssdeep-score": 0
+    }
+]

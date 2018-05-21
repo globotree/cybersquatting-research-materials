@@ -1,0 +1,61 @@
+[
+    {
+        "dns-a": [
+            "80.68.88.129"
+        ], 
+        "dns-mx": [
+            "coppermine-gallery.net"
+        ], 
+        "dns-ns": [
+            "a.ns.bytemark.co.uk", 
+            "b.ns.bytemark.co.uk", 
+            "c.ns.bytemark.co.uk"
+        ], 
+        "domain-name": "coppermine-gallery.net", 
+        "fuzzer": "original*", 
+        "geoip-country": "United Kingdom", 
+        "ssdeep-score": 100
+    }, 
+    {
+        "dns-a": [
+            "160.153.131.188"
+        ], 
+        "dns-mx": [
+            "mail.copperminegallery.net"
+        ], 
+        "dns-ns": [
+            "ns33.domaincontrol.com", 
+            "ns34.domaincontrol.com"
+        ], 
+        "domain-name": "copperminegallery.net", 
+        "fuzzer": "omission", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "69.172.201.153"
+        ], 
+        "dns-ns": [
+            "ns1.uniregistrymarket.link", 
+            "ns2.uniregistrymarket.link"
+        ], 
+        "domain-name": "coppermine-gall.ery.net", 
+        "fuzzer": "subdomain", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "69.172.201.153"
+        ], 
+        "dns-ns": [
+            "ns1.uniregistrymarket.link", 
+            "ns2.uniregistrymarket.link"
+        ], 
+        "domain-name": "coppermine-galle.ry.net", 
+        "fuzzer": "subdomain", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 0
+    }
+]

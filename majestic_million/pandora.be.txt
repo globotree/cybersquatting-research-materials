@@ -1,0 +1,96 @@
+[
+    {
+        "dns-a": [
+            "195.130.131.248"
+        ], 
+        "dns-aaaa": [
+            "2a02:1800:100:6::8:1"
+        ], 
+        "dns-mx": [
+            "mx1.telenet-ops.be", 
+            "mx2.telenet-ops.be"
+        ], 
+        "dns-ns": [
+            "ns.telenet-ops.be", 
+            "ns2.telenet-ops.be"
+        ], 
+        "domain-name": "pandora.be", 
+        "fuzzer": "original*", 
+        "geoip-country": "Belgium", 
+        "ssdeep-score": 100
+    }, 
+    {
+        "dns-ns": [
+            "hrh1.royalqueendomains.co.uk", 
+            "hrh2.royalqueendomains.co.uk", 
+            "hrh3.royalqueendomains.co.uk"
+        ], 
+        "domain-name": "pandore.be", 
+        "fuzzer": "bitsquatting"
+    }, 
+    {
+        "dns-a": [
+            "5.61.252.12"
+        ], 
+        "dns-mx": [
+            "mail.pan-dora.be"
+        ], 
+        "dns-ns": [
+            "ns1.mediawax.be", 
+            "ns2.mediawax.be", 
+            "ns3.mediawax.be"
+        ], 
+        "domain-name": "pan-dora.be", 
+        "fuzzer": "hyphenation", 
+        "geoip-country": "Netherlands", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "178.208.56.74"
+        ], 
+        "dns-mx": [
+            "mx.backup.mailprotect.be", 
+            "mx.mailprotect.be"
+        ], 
+        "dns-ns": [
+            "ns3.combell.net", 
+            "ns4.combell.net"
+        ], 
+        "domain-name": "panora.be", 
+        "fuzzer": "omission", 
+        "geoip-country": "Belgium"
+    }, 
+    {
+        "dns-a": [
+            "149.202.183.6"
+        ], 
+        "domain-name": "pand.ora.be", 
+        "fuzzer": "subdomain", 
+        "geoip-country": "France", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "185.53.179.29"
+        ], 
+        "domain-name": "pando.ra.be", 
+        "fuzzer": "subdomain", 
+        "geoip-country": "Germany", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "72.52.4.122"
+        ], 
+        "dns-mx": [
+            "localhost"
+        ], 
+        "dns-ns": [
+            "ns1.sedoparking.com", 
+            "ns2.sedoparking.com"
+        ], 
+        "domain-name": "panodra.be", 
+        "fuzzer": "transposition"
+    }
+]

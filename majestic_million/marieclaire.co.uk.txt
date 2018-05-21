@@ -1,0 +1,80 @@
+[
+    {
+        "dns-a": [
+            "34.241.23.183", 
+            "52.210.84.235"
+        ], 
+        "dns-mx": [
+            "us-smtp-inbound-1.mimecast.com", 
+            "us-smtp-inbound-2.mimecast.com"
+        ], 
+        "dns-ns": [
+            "ns-1460.awsdns-54.org", 
+            "ns-1778.awsdns-30.co.uk", 
+            "ns-294.awsdns-36.com", 
+            "ns-611.awsdns-12.net"
+        ], 
+        "domain-name": "marieclaire.co.uk", 
+        "fuzzer": "original*", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 100
+    }, 
+    {
+        "dns-mx": [
+            "nicmail3.iomart.com"
+        ], 
+        "dns-ns": [
+            "ns1.namecity.com", 
+            "ns2.namecity.com"
+        ], 
+        "domain-name": "marie-claire.co.uk", 
+        "fuzzer": "hyphenation"
+    }, 
+    {
+        "dns-a": [
+            "94.136.40.103"
+        ], 
+        "dns-mx": [
+            "mx0.123-reg.co.uk", 
+            "mx1.123-reg.co.uk"
+        ], 
+        "dns-ns": [
+            "ns.123-reg.co.uk", 
+            "ns2.123-reg.co.uk"
+        ], 
+        "domain-name": "mariclaire.co.uk", 
+        "fuzzer": "omission", 
+        "geoip-country": "United Kingdom", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "69.172.201.153"
+        ], 
+        "dns-ns": [
+            "ns1.uniregistrymarket.link", 
+            "ns2.uniregistrymarket.link"
+        ], 
+        "domain-name": "marieclare.co.uk", 
+        "fuzzer": "omission", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "98.124.245.24"
+        ], 
+        "dns-mx": [
+            "mail.b-io.co"
+        ], 
+        "dns-ns": [
+            "ns1.fabulous.com", 
+            "ns2.fabulous.com"
+        ], 
+        "domain-name": "marieclai.re.co.uk", 
+        "fuzzer": "subdomain", 
+        "geoip-country": "United States", 
+        "mx-spy": true, 
+        "ssdeep-score": 0
+    }
+]

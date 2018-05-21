@@ -1,0 +1,90 @@
+[
+    {
+        "dns-a": [
+            "151.101.130.2", 
+            "151.101.194.2", 
+            "151.101.2.2", 
+            "151.101.66.2"
+        ], 
+        "dns-mx": [
+            "mxa.mailgun.org", 
+            "mxb.mailgun.org"
+        ], 
+        "dns-ns": [
+            "ns1.dnsimple.com", 
+            "ns1129.dns.dyn.com", 
+            "ns2.dnsimple.com", 
+            "ns2154.dns.dyn.com", 
+            "ns3.dnsimple.com", 
+            "ns4.dnsimple.com"
+        ], 
+        "domain-name": "rubygems.org", 
+        "fuzzer": "original*", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 97
+    }, 
+    {
+        "dns-a": [
+            "103.224.182.241"
+        ], 
+        "dns-mx": [
+            "park-mx.above.com"
+        ], 
+        "dns-ns": [
+            "ns1.above.com", 
+            "ns2.above.com"
+        ], 
+        "domain-name": "ruby-gems.org", 
+        "fuzzer": "hyphenation", 
+        "geoip-country": "Australia", 
+        "mx-spy": true, 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "54.72.11.253"
+        ], 
+        "dns-mx": [
+            "mail.h-email.net"
+        ], 
+        "dns-ns": [
+            "ns1.parkingcrew.net", 
+            "ns2.parkingcrew.net"
+        ], 
+        "domain-name": "rubygem.org", 
+        "fuzzer": "omission", 
+        "geoip-country": "Ireland", 
+        "mx-spy": true, 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "69.172.201.153"
+        ], 
+        "dns-ns": [
+            "ns1.uniregistrymarket.link", 
+            "ns2.uniregistrymarket.link"
+        ], 
+        "domain-name": "rubyg.ems.org", 
+        "fuzzer": "subdomain", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "50.63.46.1"
+        ], 
+        "dns-ns": [
+            "A.SERVICE.AFILIASDNS.INFO", 
+            "B.SERVICE.AFILIASDNS.org", 
+            "C.SERVICE.AFILIASDNS.NET", 
+            "D.SERVICE.AFILIASDNS.COM", 
+            "E.SERVICE.AFILIASDNS.INFO", 
+            "F.SERVICE.AFILIASDNS.NET"
+        ], 
+        "domain-name": "rubygem.s.org", 
+        "fuzzer": "subdomain", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 0
+    }
+]

@@ -1,0 +1,54 @@
+[
+    {
+        "dns-a": [
+            "104.17.117.99", 
+            "104.17.118.99", 
+            "104.17.119.99", 
+            "104.17.120.99", 
+            "104.17.121.99"
+        ], 
+        "dns-aaaa": [
+            "2400:cb00:2048:1::6811:7563", 
+            "2400:cb00:2048:1::6811:7663", 
+            "2400:cb00:2048:1::6811:7763", 
+            "2400:cb00:2048:1::6811:7863", 
+            "2400:cb00:2048:1::6811:7963"
+        ], 
+        "dns-mx": [
+            "eu-smtp-inbound-1.mimecast.com", 
+            "eu-smtp-inbound-2.mimecast.com"
+        ], 
+        "dns-ns": [
+            "may.ns.cloudflare.com", 
+            "rick.ns.cloudflare.com"
+        ], 
+        "domain-name": "darkreading.com", 
+        "fuzzer": "original*", 
+        "geoip-country": "United States"
+    }, 
+    {
+        "dns-a": [
+            "12.130.5.48"
+        ], 
+        "dns-mx": [
+            "keystone.cmp.com", 
+            "romulus.cmp.com", 
+            "vulcan.cmp.com"
+        ], 
+        "dns-ns": [
+            "ns1.ubmdns.com", 
+            "ns2.ubmdns.com"
+        ], 
+        "domain-name": "dark-reading.com", 
+        "fuzzer": "hyphenation", 
+        "geoip-country": "United States"
+    }, 
+    {
+        "dns-a": [
+            "75.126.101.241"
+        ], 
+        "domain-name": "darkreadi.ng.com", 
+        "fuzzer": "subdomain", 
+        "geoip-country": "United States"
+    }
+]

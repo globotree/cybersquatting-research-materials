@@ -1,0 +1,82 @@
+[
+    {
+        "dns-a": [
+            "218.12.50.199"
+        ], 
+        "dns-mx": [
+            "mxbiz1.qq.com", 
+            "mxbiz2.qq.com"
+        ], 
+        "dns-ns": [
+            "ns1.dnsv4.com", 
+            "ns2.dnsv4.com"
+        ], 
+        "domain-name": "hebnews.cn", 
+        "fuzzer": "original*", 
+        "geoip-country": "China", 
+        "ssdeep-score": 100
+    }, 
+    {
+        "dns-a": [
+            "50.117.120.251"
+        ], 
+        "dns-mx": [
+            "mail.happyisp.com"
+        ], 
+        "domain-name": "hernews.cn", 
+        "fuzzer": "bitsquatting", 
+        "geoip-country": "United States", 
+        "mx-spy": true, 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-ns": [
+            "ns1.myhostadmin.net", 
+            "ns2.myhostadmin.net", 
+            "ns3.myhostadmin.net", 
+            "ns4.myhostadmin.net", 
+            "ns5.myhostadmin.net", 
+            "ns6.myhostadmin.net"
+        ], 
+        "domain-name": "heibnews.cn", 
+        "fuzzer": "homoglyph"
+    }, 
+    {
+        "dns-a": [
+            "218.247.83.32"
+        ], 
+        "dns-ns": [
+            "ns1.myhostadmin.net", 
+            "ns2.myhostadmin.net", 
+            "ns3.myhostadmin.net", 
+            "ns4.myhostadmin.net", 
+            "ns5.myhostadmin.net", 
+            "ns6.myhostadmin.net"
+        ], 
+        "domain-name": "herbnews.cn", 
+        "fuzzer": "insertion", 
+        "geoip-country": "China"
+    }, 
+    {
+        "dns-a": [
+            "103.68.194.21"
+        ], 
+        "dns-ns": [
+            "ns15.xincache.com", 
+            "ns16.xincache.com"
+        ], 
+        "domain-name": "hebnew.cn", 
+        "fuzzer": "omission", 
+        "geoip-country": "China", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "45.120.153.79"
+        ], 
+        "domain-name": "hebn.ews.cn", 
+        "fuzzer": "subdomain", 
+        "geoip-country": "Hong Kong", 
+        "ssdeep-score": 0
+    }
+]

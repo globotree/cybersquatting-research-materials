@@ -1,0 +1,93 @@
+[
+    {
+        "dns-a": [
+            "104.102.1.38"
+        ], 
+        "dns-aaaa": [
+            "2a02:26f0:c6:287::2374", 
+            "2a02:26f0:c6:289::2374"
+        ], 
+        "dns-mx": [
+            "adc-stamp02.sec.gov", 
+            "d1-ironport02.sec.gov", 
+            "d2-ironport02.sec.gov", 
+            "opc-stamp01.sec.gov"
+        ], 
+        "dns-ns": [
+            "a1-32.akam.net", 
+            "a18-65.akam.net", 
+            "a20-66.akam.net", 
+            "a3-67.akam.net", 
+            "a6-64.akam.net", 
+            "a7-65.akam.net"
+        ], 
+        "domain-name": "sec.gov", 
+        "fuzzer": "original*", 
+        "geoip-country": "Netherlands", 
+        "ssdeep-score": 100
+    }, 
+    {
+        "dns-aaaa": [
+            "2620:10f:6001:4::144"
+        ], 
+        "dns-ns": [
+            "ns1.nsf.gov", 
+            "ns2.nsf.gov", 
+            "ns3.nsf.gov"
+        ], 
+        "domain-name": "sac.gov", 
+        "fuzzer": "bitsquatting"
+    }, 
+    {
+        "dns-a": [
+            "167.7.51.20"
+        ], 
+        "dns-mx": [
+            "cioe500.state.sc.us"
+        ], 
+        "dns-ns": [
+            "ns1.net.state.sc.us", 
+            "ns2.net.state.sc.us"
+        ], 
+        "domain-name": "sc.gov", 
+        "fuzzer": "omission", 
+        "geoip-country": "United States", 
+        "mx-spy": true
+    }, 
+    {
+        "dns-a": [
+            "162.58.35.141"
+        ], 
+        "dns-aaaa": [
+            "2001:19e8:8041:23::1290"
+        ], 
+        "dns-mx": [
+            "amcrelay1.faa.gov", 
+            "amcrelay2.faa.gov", 
+            "amcrelay3.faa.gov", 
+            "relay1.faa.gov", 
+            "relay2.faa.gov", 
+            "relay3.faa.gov"
+        ], 
+        "dns-ns": [
+            "avatar.esc.gov", 
+            "styx.esc.gov"
+        ], 
+        "domain-name": "esc.gov", 
+        "fuzzer": "transposition", 
+        "geoip-country": "United States"
+    }, 
+    {
+        "dns-a": [
+            "204.11.56.48"
+        ], 
+        "dns-ns": [
+            "ns1626.ztomy.com", 
+            "ns2626.ztomy.com"
+        ], 
+        "domain-name": "sec-gov.com", 
+        "fuzzer": "various", 
+        "geoip-country": "Virgin Islands", 
+        "ssdeep-score": 0
+    }
+]

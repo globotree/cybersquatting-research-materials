@@ -1,0 +1,103 @@
+[
+    {
+        "dns-a": [
+            "92.61.237.8"
+        ], 
+        "dns-mx": [
+            "nissan-co-jp.mail.protection.outlook.com"
+        ], 
+        "dns-ns": [
+            "SJ018538.nissan.co.jp", 
+            "nvs001.nissan.ne.jp", 
+            "nvs002.nissan.ne.jp", 
+            "sj000030.nissan.co.jp"
+        ], 
+        "domain-name": "nissan.co.jp", 
+        "fuzzer": "original*", 
+        "geoip-country": "Israel", 
+        "ssdeep-score": 100
+    }, 
+    {
+        "dns-a": [
+            "52.243.39.89"
+        ], 
+        "dns-mx": [
+            "nmx.nissen.co.jp"
+        ], 
+        "dns-ns": [
+            "nns1.nissen.co.jp", 
+            "nns2.nissen.co.jp", 
+            "nns3.nissen.co.jp"
+        ], 
+        "domain-name": "nissen.co.jp", 
+        "fuzzer": "bitsquatting", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "150.47.172.11"
+        ], 
+        "dns-ns": [
+            "nissinds.nissin.co.jp", 
+            "ns1.omp.ne.jp"
+        ], 
+        "domain-name": "nissin.co.jp", 
+        "fuzzer": "bitsquatting", 
+        "geoip-country": "Japan"
+    }, 
+    {
+        "dns-a": [
+            "157.205.24.19"
+        ], 
+        "dns-mx": [
+            "mxi.alpha-prm.jp"
+        ], 
+        "dns-ns": [
+            "fjkdns01.alpha-prm.jp", 
+            "fjkdns02.alpha-prm.jp", 
+            "fjkdns03.alpha-prm.jp"
+        ], 
+        "domain-name": "nissa.co.jp", 
+        "fuzzer": "omission", 
+        "geoip-country": "Japan", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-mx": [
+            "smtp.nisan.co.jp"
+        ], 
+        "dns-ns": [
+            "ns.dlsv.com", 
+            "ns2.dlsv.com", 
+            "ns3.dlsv.com"
+        ], 
+        "domain-name": "nisan.co.jp", 
+        "fuzzer": "omission"
+    }, 
+    {
+        "dns-mx": [
+            "mx.securemx.jp"
+        ], 
+        "dns-ns": [
+            "dns-b.iij.ad.jp", 
+            "dns-c.iij.ad.jp"
+        ], 
+        "domain-name": "hissan.co.jp", 
+        "fuzzer": "replacement"
+    }, 
+    {
+        "dns-a": [
+            "192.244.106.92"
+        ], 
+        "dns-mx": [
+            "mail.nessan.co.jp"
+        ], 
+        "dns-ns": [
+            "ns.mcnet.ad.jp", 
+            "ns2.mcnet.ad.jp"
+        ], 
+        "domain-name": "nessan.co.jp", 
+        "fuzzer": "vowel-swap"
+    }
+]

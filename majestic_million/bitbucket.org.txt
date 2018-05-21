@@ -1,0 +1,300 @@
+[
+    {
+        "dns-a": [
+            "104.192.143.1", 
+            "104.192.143.2", 
+            "104.192.143.3"
+        ], 
+        "dns-aaaa": [
+            "2401:1d80:1010::152"
+        ], 
+        "dns-mx": [
+            "alt1.aspmx.l.google.com", 
+            "alt2.aspmx.l.google.com", 
+            "aspmx.l.google.com", 
+            "aspmx2.googlemail.com", 
+            "aspmx3.googlemail.com"
+        ], 
+        "dns-ns": [
+            "ns-1305.awsdns-35.org", 
+            "ns-1746.awsdns-26.co.uk", 
+            "ns-445.awsdns-55.com", 
+            "ns-584.awsdns-09.net"
+        ], 
+        "domain-name": "bitbucket.org", 
+        "fuzzer": "original*", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 99
+    }, 
+    {
+        "dns-a": [
+            "64.90.48.224"
+        ], 
+        "dns-mx": [
+            "ALT1.ASPMX.L.GOOGLE.COM", 
+            "ALT2.ASPMX.L.GOOGLE.COM", 
+            "ALT3.ASPMX.L.GOOGLE.COM", 
+            "ALT4.ASPMX.L.GOOGLE.COM", 
+            "ASPMX.L.GOOGLE.COM"
+        ], 
+        "dns-ns": [
+            "ns1.dreamhost.com", 
+            "ns2.dreamhost.com", 
+            "ns3.dreamhost.com"
+        ], 
+        "domain-name": "bitbuckets.org", 
+        "fuzzer": "addition", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "65.254.227.224"
+        ], 
+        "dns-mx": [
+            "mx.bitbuckett.org"
+        ], 
+        "dns-ns": [
+            "ns1.powweb.com", 
+            "ns2.powweb.com"
+        ], 
+        "domain-name": "bitbuckett.org", 
+        "fuzzer": "addition", 
+        "geoip-country": "United States"
+    }, 
+    {
+        "dns-a": [
+            "149.56.110.190"
+        ], 
+        "dns-ns": [
+            "ns1.whois.com", 
+            "ns2.whois.com", 
+            "ns3.whois.com", 
+            "ns4.whois.com"
+        ], 
+        "domain-name": "batbucket.org", 
+        "fuzzer": "bitsquatting", 
+        "geoip-country": "Canada", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "208.91.197.132"
+        ], 
+        "dns-mx": [
+            "mail.b-io.co"
+        ], 
+        "domain-name": "bidbucket.org", 
+        "fuzzer": "bitsquatting", 
+        "geoip-country": "Virgin Islands", 
+        "mx-spy": true, 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "141.8.224.195"
+        ], 
+        "dns-ns": [
+            "ns1.dsredirects.com", 
+            "ns2.dsredirects.com"
+        ], 
+        "domain-name": "bitbuckt.org", 
+        "fuzzer": "omission", 
+        "geoip-country": "Switzerland", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "103.224.182.241"
+        ], 
+        "dns-mx": [
+            "park-mx.above.com"
+        ], 
+        "dns-ns": [
+            "ns1.above.com", 
+            "ns2.above.com"
+        ], 
+        "domain-name": "bitbuket.org", 
+        "fuzzer": "omission", 
+        "geoip-country": "Australia", 
+        "mx-spy": true, 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "95.211.117.215"
+        ], 
+        "dns-ns": [
+            "ns1.hastydns.com", 
+            "ns2.hastydns.com"
+        ], 
+        "domain-name": "bibucket.org", 
+        "fuzzer": "omission", 
+        "geoip-country": "Netherlands"
+    }, 
+    {
+        "dns-a": [
+            "54.79.109.220"
+        ], 
+        "dns-ns": [
+            "ns73.domaincontrol.com", 
+            "ns74.domaincontrol.com"
+        ], 
+        "domain-name": "bitucket.org", 
+        "fuzzer": "omission", 
+        "geoip-country": "Australia", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "54.79.109.220"
+        ], 
+        "domain-name": "bitbucke.org", 
+        "fuzzer": "omission", 
+        "geoip-country": "Australia", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "54.79.109.220"
+        ], 
+        "dns-ns": [
+            "ns73.domaincontrol.com", 
+            "ns74.domaincontrol.com"
+        ], 
+        "domain-name": "bittbucket.org", 
+        "fuzzer": "repetition", 
+        "geoip-country": "Australia", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "103.224.212.222"
+        ], 
+        "dns-mx": [
+            "park-mx.above.com"
+        ], 
+        "dns-ns": [
+            "ns1.above.com", 
+            "ns2.above.com"
+        ], 
+        "domain-name": "bigbucket.org", 
+        "fuzzer": "replacement", 
+        "geoip-country": "Australia", 
+        "mx-spy": true, 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "199.59.242.150"
+        ], 
+        "dns-mx": [
+            "mx76.m2bp.com", 
+            "mx76.mb1p.com"
+        ], 
+        "dns-ns": [
+            "ns1.bodis.com", 
+            "ns2.bodis.com"
+        ], 
+        "domain-name": "bitbuvket.org", 
+        "fuzzer": "replacement", 
+        "geoip-country": "United States", 
+        "mx-spy": true, 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "103.224.182.244"
+        ], 
+        "dns-mx": [
+            "park-mx.above.com"
+        ], 
+        "dns-ns": [
+            "ns1.above.com", 
+            "ns2.above.com"
+        ], 
+        "domain-name": "bitbucker.org", 
+        "fuzzer": "replacement", 
+        "geoip-country": "Australia", 
+        "mx-spy": true, 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "157.7.188.67"
+        ], 
+        "dns-ns": [
+            "dns0.heteml.jp", 
+            "dns1.heteml.jp"
+        ], 
+        "domain-name": "butbucket.org", 
+        "fuzzer": "replacement", 
+        "geoip-country": "Japan", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "207.148.248.143"
+        ], 
+        "domain-name": "bitbu.cket.org", 
+        "fuzzer": "subdomain", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "98.124.199.67"
+        ], 
+        "domain-name": "bitbucke.t.org", 
+        "fuzzer": "subdomain", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "103.224.212.222"
+        ], 
+        "dns-mx": [
+            "park-mx.above.com"
+        ], 
+        "dns-ns": [
+            "ns1.above.com", 
+            "ns2.above.com"
+        ], 
+        "domain-name": "btibucket.org", 
+        "fuzzer": "transposition", 
+        "geoip-country": "Australia", 
+        "mx-spy": true, 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "103.224.212.222"
+        ], 
+        "dns-mx": [
+            "park-mx.above.com"
+        ], 
+        "dns-ns": [
+            "ns1.above.com", 
+            "ns2.above.com"
+        ], 
+        "domain-name": "bitbukcet.org", 
+        "fuzzer": "transposition", 
+        "geoip-country": "Australia", 
+        "mx-spy": true
+    }, 
+    {
+        "dns-a": [
+            "103.224.212.222"
+        ], 
+        "dns-mx": [
+            "park-mx.above.com"
+        ], 
+        "dns-ns": [
+            "ns1.above.com", 
+            "ns2.above.com"
+        ], 
+        "domain-name": "bitbacket.org", 
+        "fuzzer": "vowel-swap"
+    }
+]

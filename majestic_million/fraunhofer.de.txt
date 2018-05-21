@@ -1,0 +1,131 @@
+[
+    {
+        "dns-a": [
+            "192.102.162.236"
+        ], 
+        "dns-mx": [
+            "edge01.mx.fraunhofer.de", 
+            "edge02.mx.fraunhofer.de", 
+            "edge03.mx.fraunhofer.de", 
+            "edge04.mx.fraunhofer.de"
+        ], 
+        "dns-ns": [
+            "ns1.fraunhofer.de", 
+            "ns2.fraunhofer.de", 
+            "ns3.fraunhofer.de", 
+            "ns5.fraunhofer.de"
+        ], 
+        "domain-name": "fraunhofer.de", 
+        "fuzzer": "original*", 
+        "geoip-country": "Germany", 
+        "ssdeep-score": 100
+    }, 
+    {
+        "dns-a": [
+            "217.160.223.215"
+        ], 
+        "dns-mx": [
+            "mx00.emig.kundenserver.de", 
+            "mx01.emig.kundenserver.de"
+        ], 
+        "dns-ns": [
+            "ns55.1und1.de", 
+            "ns56.1und1.de"
+        ], 
+        "domain-name": "fraunhofers.de", 
+        "fuzzer": "addition", 
+        "geoip-country": "Germany", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "217.160.223.204"
+        ], 
+        "dns-mx": [
+            "mx00.kundenserver.de", 
+            "mx01.kundenserver.de"
+        ], 
+        "dns-ns": [
+            "ns55.1und1.de", 
+            "ns56.1und1.de"
+        ], 
+        "domain-name": "braunhofer.de", 
+        "fuzzer": "bitsquatting", 
+        "geoip-country": "Germany", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "194.245.148.189"
+        ], 
+        "dns-ns": [
+            "a.ns.joker.com", 
+            "b.ns.joker.com", 
+            "c.ns.joker.com"
+        ], 
+        "domain-name": "fraunofer.de", 
+        "fuzzer": "omission", 
+        "geoip-country": "Germany", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-ns": [
+            "a.ns.joker.com", 
+            "b.ns.joker.com", 
+            "c.ns.joker.com"
+        ], 
+        "domain-name": "fraunhofr.de", 
+        "fuzzer": "omission"
+    }, 
+    {
+        "dns-ns": [
+            "a.ns.joker.com", 
+            "b.ns.joker.com", 
+            "c.ns.joker.com"
+        ], 
+        "domain-name": "franhofer.de", 
+        "fuzzer": "omission"
+    }, 
+    {
+        "dns-ns": [
+            "a.ns.joker.com", 
+            "b.ns.joker.com", 
+            "c.ns.joker.com"
+        ], 
+        "domain-name": "frauhofer.de", 
+        "fuzzer": "omission"
+    }, 
+    {
+        "dns-a": [
+            "194.245.148.189"
+        ], 
+        "dns-ns": [
+            "a.ns.joker.com", 
+            "b.ns.joker.com", 
+            "c.ns.joker.com"
+        ], 
+        "domain-name": "fraunhofe.de", 
+        "fuzzer": "omission", 
+        "geoip-country": "Germany", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "80.67.16.8"
+        ], 
+        "dns-aaaa": [
+            "2a00:1158:0:100::14"
+        ], 
+        "dns-mx": [
+            "mxlb.ispgateway.de"
+        ], 
+        "dns-ns": [
+            "ns.namespace4you.de", 
+            "ns2.namespace4you.de"
+        ], 
+        "domain-name": "fraunhoffer.de", 
+        "fuzzer": "repetition", 
+        "geoip-country": "Germany", 
+        "ssdeep-score": 0
+    }
+]

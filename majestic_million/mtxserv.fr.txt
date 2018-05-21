@@ -1,0 +1,64 @@
+[
+    {
+        "dns-a": [
+            "5.39.62.2"
+        ], 
+        "dns-mx": [
+            "mx0.mail.ovh.net", 
+            "mx1.mail.ovh.net", 
+            "mx2.mail.ovh.net", 
+            "mx3.mail.ovh.net"
+        ], 
+        "domain-name": "mtxserv.fr", 
+        "fuzzer": "original*", 
+        "geoip-country": "France", 
+        "ssdeep-score": 100
+    }, 
+    {
+        "dns-mx": [
+            "mail.mpxserv.fr"
+        ], 
+        "dns-ns": [
+            "indom10.indomco.com", 
+            "indom20.indomco.net", 
+            "indom30.indomco.fr"
+        ], 
+        "domain-name": "mpxserv.fr", 
+        "fuzzer": "bitsquatting"
+    }, 
+    {
+        "dns-a": [
+            "195.114.26.180"
+        ], 
+        "dns-mx": [
+            "dionysos.dri.fr", 
+            "heracles.produhost.net"
+        ], 
+        "dns-ns": [
+            "ns1.produhost.net", 
+            "ns2.produhost.net", 
+            "ns3.produhost.net"
+        ], 
+        "domain-name": "mtx.serv.fr", 
+        "fuzzer": "subdomain", 
+        "geoip-country": "France", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "195.55.121.214"
+        ], 
+        "domain-name": "mtxs.erv.fr", 
+        "fuzzer": "subdomain", 
+        "geoip-country": "Spain"
+    }, 
+    {
+        "dns-a": [
+            "91.195.240.92"
+        ], 
+        "domain-name": "mtxse.rv.fr", 
+        "fuzzer": "subdomain", 
+        "geoip-country": "Germany", 
+        "ssdeep-score": 0
+    }
+]

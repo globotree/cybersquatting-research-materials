@@ -1,0 +1,116 @@
+[
+    {
+        "dns-mx": [
+            "rijksmuseum-nl.mail.protection.outlook.com"
+        ], 
+        "dns-ns": [
+            "ns1.surfnet.nl", 
+            "ns1.zurich.surf.net", 
+            "ns2.surfnet.nl", 
+            "ns3.surfnet.nl"
+        ], 
+        "domain-name": "rijksmuseum.nl", 
+        "fuzzer": "original*"
+    }, 
+    {
+        "dns-a": [
+            "185.53.178.7"
+        ], 
+        "dns-ns": [
+            "ns1.parkingcrew.net", 
+            "ns2.parkingcrew.net"
+        ], 
+        "domain-name": "rihksmuseum.nl", 
+        "fuzzer": "bitsquatting", 
+        "geoip-country": "Germany", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "178.32.214.95"
+        ], 
+        "dns-mx": [
+            "mail.rijks-museum.nl"
+        ], 
+        "dns-ns": [
+            "dolphin.pl2.nl", 
+            "rik.pl2.nl"
+        ], 
+        "domain-name": "rijks-museum.nl", 
+        "fuzzer": "hyphenation", 
+        "geoip-country": "France", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "185.53.178.7"
+        ], 
+        "dns-mx": [
+            "mail.h-email.net"
+        ], 
+        "dns-ns": [
+            "ns1.parkingcrew.net", 
+            "ns2.parkingcrew.net"
+        ], 
+        "domain-name": "rijkmuseum.nl", 
+        "fuzzer": "omission", 
+        "geoip-country": "Germany", 
+        "mx-spy": true, 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "144.76.53.210"
+        ], 
+        "dns-mx": [
+            "rijsmuseum.nl"
+        ], 
+        "dns-ns": [
+            "ns0.transip.net", 
+            "ns1.transip.nl", 
+            "ns2.transip.eu"
+        ], 
+        "domain-name": "rijsmuseum.nl", 
+        "fuzzer": "omission", 
+        "geoip-country": "Germany"
+    }, 
+    {
+        "dns-a": [
+            "199.59.242.150"
+        ], 
+        "domain-name": "riksmuseum.nl", 
+        "fuzzer": "omission", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "103.224.182.241"
+        ], 
+        "dns-mx": [
+            "park-mx.above.com"
+        ], 
+        "dns-ns": [
+            "ns1.above.com", 
+            "ns2.above.com"
+        ], 
+        "domain-name": "rijskmuseum.nl", 
+        "fuzzer": "transposition", 
+        "geoip-country": "Australia", 
+        "mx-spy": true, 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "185.53.177.29"
+        ], 
+        "dns-ns": [
+            "ns1.singleplan.com", 
+            "ns2.singleplan.com"
+        ], 
+        "domain-name": "rijksmusuem.nl", 
+        "fuzzer": "transposition", 
+        "geoip-country": "Germany", 
+        "ssdeep-score": 0
+    }
+]

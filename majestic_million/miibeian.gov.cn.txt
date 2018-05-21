@@ -1,0 +1,22 @@
+[
+    {
+        "dns-mx": [
+            "mail.miibeian.gov.cn", 
+            "mail1.miibeian.gov.cn"
+        ], 
+        "dns-ns": [
+            "dns1.miibeian.gov.cn", 
+            "dns2.miibeian.gov.cn"
+        ], 
+        "domain-name": "miibeian.gov.cn", 
+        "fuzzer": "original*"
+    }, 
+    {
+        "dns-ns": [
+            "ns1.cnolnic.net", 
+            "ns2.cnolnic.net"
+        ], 
+        "domain-name": "miibeian.cn", 
+        "fuzzer": "various"
+    }
+]

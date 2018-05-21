@@ -1,0 +1,86 @@
+[
+    {
+        "dns-a": [
+            "198.55.192.3"
+        ], 
+        "dns-mx": [
+            "smtp2.nasdaqomx.com", 
+            "smtp4.nasdaqomx.com"
+        ], 
+        "dns-ns": [
+            "a1.verisigndns.com", 
+            "a2.verisigndns.com", 
+            "a3.verisigndns.com"
+        ], 
+        "domain-name": "globenewswire.com", 
+        "fuzzer": "original*", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 97
+    }, 
+    {
+        "dns-a": [
+            "50.63.202.34"
+        ], 
+        "dns-mx": [
+            "mailstore1.secureserver.net", 
+            "smtp.secureserver.net"
+        ], 
+        "dns-ns": [
+            "ns33.domaincontrol.com", 
+            "ns34.domaincontrol.com"
+        ], 
+        "domain-name": "globenewswired.com", 
+        "fuzzer": "addition", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "185.53.178.6"
+        ], 
+        "dns-mx": [
+            "mail.h-email.net"
+        ], 
+        "dns-ns": [
+            "ns1.parkingcrew.net", 
+            "ns2.parkingcrew.net"
+        ], 
+        "domain-name": "globenewswires.com", 
+        "fuzzer": "addition", 
+        "geoip-country": "Germany", 
+        "mx-spy": true, 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "138.197.100.79"
+        ], 
+        "dns-ns": [
+            "ns1fkl.name.com", 
+            "ns2dky.name.com", 
+            "ns3fgh.name.com", 
+            "ns4cfn.name.com"
+        ], 
+        "domain-name": "globesnewswire.com", 
+        "fuzzer": "insertion", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "45.76.1.158"
+        ], 
+        "domain-name": "globe.newswire.com", 
+        "fuzzer": "subdomain", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "211.154.164.207"
+        ], 
+        "domain-name": "globene.wswire.com", 
+        "fuzzer": "subdomain", 
+        "geoip-country": "China"
+    }
+]

@@ -1,0 +1,85 @@
+[
+    {
+        "dns-ns": [
+            "ns-1392.awsdns-46.org", 
+            "ns-1719.awsdns-22.co.uk", 
+            "ns-5.awsdns-00.com", 
+            "ns-991.awsdns-59.net"
+        ], 
+        "domain-name": "tradetracker.net", 
+        "fuzzer": "original*"
+    }, 
+    {
+        "dns-a": [
+            "52.222.149.121", 
+            "52.222.149.2", 
+            "52.222.149.252", 
+            "52.222.149.40", 
+            "52.222.149.7", 
+            "52.222.149.70", 
+            "52.222.149.76", 
+            "52.222.149.89"
+        ], 
+        "dns-ns": [
+            "ns-1492.awsdns-58.org", 
+            "ns-1680.awsdns-18.co.uk", 
+            "ns-30.awsdns-03.com", 
+            "ns-891.awsdns-47.net"
+        ], 
+        "domain-name": "tradtracker.net", 
+        "fuzzer": "omission", 
+        "geoip-country": "United States"
+    }, 
+    {
+        "dns-a": [
+            "184.168.221.49"
+        ], 
+        "dns-mx": [
+            "mailstore1.secureserver.net", 
+            "smtp.secureserver.net"
+        ], 
+        "dns-ns": [
+            "ns15.domaincontrol.com", 
+            "ns16.domaincontrol.com"
+        ], 
+        "domain-name": "gradetracker.net", 
+        "fuzzer": "replacement", 
+        "geoip-country": "United States"
+    }, 
+    {
+        "dns-a": [
+            "184.168.221.104"
+        ], 
+        "dns-ns": [
+            "ns1.afternic.com", 
+            "ns2.afternic.com"
+        ], 
+        "domain-name": "tradet.racker.net", 
+        "fuzzer": "subdomain", 
+        "geoip-country": "United States"
+    }, 
+    {
+        "dns-a": [
+            "64.98.145.30"
+        ], 
+        "domain-name": "tradetr.acker.net", 
+        "fuzzer": "subdomain", 
+        "geoip-country": "Canada"
+    }, 
+    {
+        "dns-a": [
+            "207.148.248.143"
+        ], 
+        "domain-name": "tradetra.cker.net", 
+        "fuzzer": "subdomain", 
+        "geoip-country": "United States"
+    }, 
+    {
+        "dns-a": [
+            "136.0.136.162"
+        ], 
+        "domain-name": "tradetrac.ker.net", 
+        "fuzzer": "subdomain", 
+        "geoip-country": "United States"
+    }
+]

@@ -1,0 +1,58 @@
+[
+    {
+        "dns-a": [
+            "50.56.53.88"
+        ], 
+        "dns-mx": [
+            "mail.rasmussenreports.com"
+        ], 
+        "dns-ns": [
+            "ns.rackspace.com", 
+            "ns2.rackspace.com"
+        ], 
+        "domain-name": "rasmussenreports.com", 
+        "fuzzer": "original*", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 100
+    }, 
+    {
+        "dns-a": [
+            "141.8.224.169"
+        ], 
+        "domain-name": "rassmussenreports.com", 
+        "fuzzer": "insertion", 
+        "geoip-country": "Switzerland", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "199.191.50.73"
+        ], 
+        "dns-ns": [
+            "ns111373.ztomy.com", 
+            "ns211373.ztomy.com"
+        ], 
+        "domain-name": "ramussenreports.com", 
+        "fuzzer": "omission", 
+        "geoip-country": "Virgin Islands", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "209.99.64.43"
+        ], 
+        "domain-name": "rasmussenreport.com", 
+        "fuzzer": "omission", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "94.136.40.51"
+        ], 
+        "domain-name": "rasmus.senreports.com", 
+        "fuzzer": "subdomain", 
+        "geoip-country": "United Kingdom", 
+        "ssdeep-score": 0
+    }
+]

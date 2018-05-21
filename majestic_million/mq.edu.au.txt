@@ -1,0 +1,111 @@
+[
+    {
+        "dns-a": [
+            "119.9.73.89"
+        ], 
+        "dns-mx": [
+            "mq-edu-au.mail.protection.outlook.com"
+        ], 
+        "dns-ns": [
+            "dcutildr02.mq.edu.au", 
+            "netdnsprod1.mq.edu.au", 
+            "netdnsprod2.mq.edu.au"
+        ], 
+        "domain-name": "mq.edu.au", 
+        "fuzzer": "original*", 
+        "geoip-country": "Hong Kong", 
+        "ssdeep-score": 100
+    }, 
+    {
+        "dns-a": [
+            "203.192.64.19"
+        ], 
+        "dns-mx": [
+            "alt1.aspmx.l.google.com", 
+            "alt2.aspmx.l.google.com", 
+            "aspmx.l.google.com", 
+            "aspmx2.googlemail.com", 
+            "aspmx3.googlemail.com", 
+            "aspmx4.googlemail.com", 
+            "aspmx5.googlemail.com"
+        ], 
+        "dns-ns": [
+            "ns-1300.awsdns-34.org", 
+            "ns-2045.awsdns-63.co.uk", 
+            "ns-34.awsdns-04.com", 
+            "ns-714.awsdns-25.net"
+        ], 
+        "domain-name": "mqc.edu.au", 
+        "fuzzer": "addition", 
+        "geoip-country": "Australia"
+    }, 
+    {
+        "dns-a": [
+            "203.10.121.50"
+        ], 
+        "dns-mx": [
+            "eq-edu-au.mail.protection.outlook.com"
+        ], 
+        "dns-ns": [
+            "w.au", 
+            "x.au", 
+            "y.au", 
+            "z.au"
+        ], 
+        "domain-name": "eq.edu.au", 
+        "fuzzer": "bitsquatting", 
+        "geoip-country": "Australia", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "202.124.241.178"
+        ], 
+        "dns-mx": [
+            "filter1.mp-3.mailguard.com.au", 
+            "filter2.mp-3.mailguard.com.au", 
+            "filter3.mp-3.mailguard.com.au"
+        ], 
+        "dns-ns": [
+            "ns1.netregistry.net", 
+            "ns2.netregistry.net", 
+            "ns3.netregistry.net"
+        ], 
+        "domain-name": "mp.edu.au", 
+        "fuzzer": "bitsquatting", 
+        "geoip-country": "Australia"
+    }, 
+    {
+        "dns-ns": [
+            "dcutildr02.mq.edu.au", 
+            "netdnsprod1.mq.edu.au", 
+            "netdnsprod2.mq.edu.au"
+        ], 
+        "domain-name": "mu.edu.au", 
+        "fuzzer": "bitsquatting"
+    }, 
+    {
+        "dns-a": [
+            "54.252.233.126"
+        ], 
+        "dns-mx": [
+            "alt1.aspmx.l.google.com", 
+            "alt2.aspmx.l.google.com", 
+            "aspmx.l.google.com", 
+            "aspmx2.googlemail.com", 
+            "aspmx3.googlemail.com", 
+            "aspmx4.googlemail.com", 
+            "aspmx5.googlemail.com"
+        ], 
+        "dns-ns": [
+            "ns-1060.awsdns-04.org", 
+            "ns-2005.awsdns-58.co.uk", 
+            "ns-225.awsdns-28.com", 
+            "ns-786.awsdns-34.net"
+        ], 
+        "domain-name": "my.edu.au", 
+        "fuzzer": "bitsquatting", 
+        "geoip-country": "Australia", 
+        "ssdeep-score": 0
+    }
+]

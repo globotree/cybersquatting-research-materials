@@ -1,0 +1,61 @@
+[
+    {
+        "dns-a": [
+            "77.93.134.21"
+        ], 
+        "dns-mx": [
+            "easyfairs-com.mail.protection.outlook.com"
+        ], 
+        "dns-ns": [
+            "ns1.e-knowasp.com", 
+            "ns2.e-knowasp.com"
+        ], 
+        "domain-name": "easyfairs.com", 
+        "fuzzer": "original*", 
+        "geoip-country": "United Kingdom", 
+        "ssdeep-score": 100
+    }, 
+    {
+        "dns-a": [
+            "217.70.184.38"
+        ], 
+        "dns-mx": [
+            "easyfairs-com.mail.protection.outlook.com"
+        ], 
+        "dns-ns": [
+            "a.dns.gandi.net", 
+            "b.dns.gandi.net", 
+            "c.dns.gandi.net"
+        ], 
+        "domain-name": "easyfair.com", 
+        "fuzzer": "omission", 
+        "geoip-country": "France", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "68.178.213.61"
+        ], 
+        "dns-ns": [
+            "ns1.namefind.com", 
+            "ns2.namefind.com"
+        ], 
+        "domain-name": "eastfairs.com", 
+        "fuzzer": "replacement", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "69.172.201.153"
+        ], 
+        "dns-ns": [
+            "ns1.uniregistrymarket.link", 
+            "ns2.uniregistrymarket.link"
+        ], 
+        "domain-name": "easy.fairs.com", 
+        "fuzzer": "subdomain", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 0
+    }
+]

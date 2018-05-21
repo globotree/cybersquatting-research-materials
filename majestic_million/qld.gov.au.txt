@@ -1,0 +1,34 @@
+[
+    {
+        "dns-a": [
+            "103.28.250.131", 
+            "103.28.251.131"
+        ], 
+        "dns-mx": [
+            "mailer3.mail.qld.gov.au", 
+            "mailer4.mail.qld.gov.au", 
+            "mx01.citec.com.au", 
+            "mx02.citec.com.au"
+        ], 
+        "dns-ns": [
+            "w.au", 
+            "x.au", 
+            "y.au", 
+            "z.au"
+        ], 
+        "domain-name": "qld.gov.au", 
+        "fuzzer": "original*", 
+        "geoip-country": "Australia", 
+        "ssdeep-score": 100
+    }, 
+    {
+        "dns-ns": [
+            "w.au", 
+            "x.au", 
+            "y.au", 
+            "z.au"
+        ], 
+        "domain-name": "qld.au", 
+        "fuzzer": "various"
+    }
+]

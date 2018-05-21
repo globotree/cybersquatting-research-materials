@@ -1,0 +1,52 @@
+[
+    {
+        "dns-a": [
+            "52.211.26.61", 
+            "52.213.216.24"
+        ], 
+        "dns-ns": [
+            "ns-1265.awsdns-30.org", 
+            "ns-1590.awsdns-06.co.uk", 
+            "ns-335.awsdns-41.com", 
+            "ns-954.awsdns-55.net"
+        ], 
+        "domain-name": "petition.parliament.uk", 
+        "fuzzer": "original*", 
+        "geoip-country": "Ireland", 
+        "ssdeep-score": 100
+    }, 
+    {
+        "dns-a": [
+            "217.160.0.168"
+        ], 
+        "dns-aaaa": [
+            "2001:8d8:100f:f000::237"
+        ], 
+        "dns-mx": [
+            "mx00.1and1.co.uk", 
+            "mx01.1and1.co.uk"
+        ], 
+        "dns-ns": [
+            "ns1032.ui-dns.biz", 
+            "ns1032.ui-dns.com", 
+            "ns1032.ui-dns.de", 
+            "ns1032.ui-dns.org"
+        ], 
+        "domain-name": "petitionparliament.uk", 
+        "fuzzer": "omission", 
+        "geoip-country": "Germany", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "69.172.201.153"
+        ], 
+        "dns-ns": [
+            "ns1.uniregistrymarket.link", 
+            "ns2.uniregistrymarket.link"
+        ], 
+        "domain-name": "petition.parliame.nt.uk", 
+        "fuzzer": "subdomain", 
+        "geoip-country": "United States"
+    }
+]

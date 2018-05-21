@@ -1,0 +1,447 @@
+[
+    {
+        "dns-a": [
+            "104.20.25.250", 
+            "104.20.26.250"
+        ], 
+        "dns-aaaa": [
+            "2400:cb00:2048:1::6814:19fa", 
+            "2400:cb00:2048:1::6814:1afa"
+        ], 
+        "dns-mx": [
+            "alt1.aspmx.l.google.com", 
+            "alt2.aspmx.l.google.com", 
+            "alt3.aspmx.l.google.com", 
+            "alt4.aspmx.l.google.com", 
+            "aspmx.l.google.com"
+        ], 
+        "dns-ns": [
+            "arnold.ns.cloudflare.com", 
+            "serena.ns.cloudflare.com"
+        ], 
+        "domain-name": "codecademy.com", 
+        "fuzzer": "original*", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 85
+    }, 
+    {
+        "dns-a": [
+            "185.53.178.7"
+        ], 
+        "dns-mx": [
+            "mail.h-email.net"
+        ], 
+        "dns-ns": [
+            "ns1.parkingcrew.net", 
+            "ns2.parkingcrew.net"
+        ], 
+        "domain-name": "codecademys.com", 
+        "fuzzer": "addition", 
+        "geoip-country": "Germany", 
+        "mx-spy": true, 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "185.53.179.6"
+        ], 
+        "dns-ns": [
+            "ns1.parkingcrew.net", 
+            "ns2.parkingcrew.net"
+        ], 
+        "domain-name": "codacademy.com", 
+        "fuzzer": "bitsquatting", 
+        "geoip-country": "Germany", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-ns": [
+            "ns1.parkingcrew.net", 
+            "ns2.parkingcrew.net"
+        ], 
+        "domain-name": "codecedemy.com", 
+        "fuzzer": "bitsquatting"
+    }, 
+    {
+        "dns-a": [
+            "77.104.162.50"
+        ], 
+        "dns-mx": [
+            "mx10.mailspamprotection.com", 
+            "mx20.mailspamprotection.com", 
+            "mx30.mailspamprotection.com"
+        ], 
+        "dns-ns": [
+            "ns1.usm17.siteground.biz", 
+            "ns2.usm17.siteground.biz"
+        ], 
+        "domain-name": "codecatemy.com", 
+        "fuzzer": "bitsquatting", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "185.53.178.8"
+        ], 
+        "dns-ns": [
+            "ns1.parkingcrew.net", 
+            "ns2.parkingcrew.net"
+        ], 
+        "domain-name": "codecadamy.com", 
+        "fuzzer": "bitsquatting", 
+        "geoip-country": "Germany", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "208.91.197.104"
+        ], 
+        "domain-name": "codecademi.com", 
+        "fuzzer": "bitsquatting", 
+        "geoip-country": "Virgin Islands", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "141.8.224.93"
+        ], 
+        "dns-ns": [
+            "ns7.rookdns.com", 
+            "ns8.rookdns.com"
+        ], 
+        "domain-name": "codecadeny.com", 
+        "fuzzer": "homoglyph", 
+        "geoip-country": "Switzerland", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "50.63.202.95"
+        ], 
+        "dns-ns": [
+            "ns11.domaincontrol.com", 
+            "ns12.domaincontrol.com"
+        ], 
+        "domain-name": "code-cademy.com", 
+        "fuzzer": "hyphenation", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "68.178.213.61"
+        ], 
+        "dns-ns": [
+            "ns1.namefind.com", 
+            "ns2.namefind.com"
+        ], 
+        "domain-name": "codeecademy.com", 
+        "fuzzer": "insertion", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-mx": [
+            "mx7.codecacdemy.com"
+        ], 
+        "dns-ns": [
+            "ns1.expiereddnsmanager.com", 
+            "ns2.expiereddnsmanager.com"
+        ], 
+        "domain-name": "codecacdemy.com", 
+        "fuzzer": "insertion"
+    }, 
+    {
+        "dns-a": [
+            "141.8.224.93"
+        ], 
+        "dns-ns": [
+            "ns7.rookdns.com", 
+            "ns8.rookdns.com"
+        ], 
+        "domain-name": "codescademy.com", 
+        "fuzzer": "insertion", 
+        "geoip-country": "Switzerland", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "185.53.178.8"
+        ], 
+        "dns-ns": [
+            "ns1.parkingcrew.net", 
+            "ns2.parkingcrew.net"
+        ], 
+        "domain-name": "codecadem.com", 
+        "fuzzer": "omission", 
+        "geoip-country": "Germany", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "185.53.179.8"
+        ], 
+        "dns-ns": [
+            "ns1.parkingcrew.net", 
+            "ns2.parkingcrew.net"
+        ], 
+        "domain-name": "codecdemy.com", 
+        "fuzzer": "omission", 
+        "geoip-country": "Germany", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "192.64.147.219"
+        ], 
+        "dns-ns": [
+            "ns1.voodoo.com", 
+            "ns2.voodoo.com"
+        ], 
+        "domain-name": "codecaemy.com", 
+        "fuzzer": "omission", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "173.239.5.6", 
+            "173.239.8.164", 
+            "213.247.47.190"
+        ], 
+        "dns-mx": [
+            "mx7.codeademy.com"
+        ], 
+        "dns-ns": [
+            "ns1.expiereddnsmanager.com", 
+            "ns2.expiereddnsmanager.com"
+        ], 
+        "domain-name": "codeademy.com", 
+        "fuzzer": "omission", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "141.8.224.195"
+        ], 
+        "dns-ns": [
+            "ns1.dsredirects.com", 
+            "ns2.dsredirects.com"
+        ], 
+        "domain-name": "odecademy.com", 
+        "fuzzer": "omission", 
+        "geoip-country": "Switzerland", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "72.52.4.122"
+        ], 
+        "dns-mx": [
+            "localhost"
+        ], 
+        "dns-ns": [
+            "ns1.sedoparking.com", 
+            "ns2.sedoparking.com"
+        ], 
+        "domain-name": "codecadmy.com", 
+        "fuzzer": "omission", 
+        "geoip-country": "United States", 
+        "mx-spy": true, 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "103.224.182.240"
+        ], 
+        "dns-mx": [
+            "park-mx.above.com"
+        ], 
+        "dns-ns": [
+            "ns1.above.com", 
+            "ns2.above.com"
+        ], 
+        "domain-name": "codecadey.com", 
+        "fuzzer": "omission", 
+        "geoip-country": "Australia", 
+        "mx-spy": true, 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "185.53.179.8"
+        ], 
+        "dns-ns": [
+            "ns1.parkingcrew.net", 
+            "ns2.parkingcrew.net"
+        ], 
+        "domain-name": "codcademy.com", 
+        "fuzzer": "omission", 
+        "geoip-country": "Germany", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "141.8.224.195"
+        ], 
+        "dns-ns": [
+            "ns1.dsredirects.com", 
+            "ns2.dsredirects.com"
+        ], 
+        "domain-name": "c.odecademy.com", 
+        "fuzzer": "subdomain", 
+        "geoip-country": "Switzerland", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "52.73.124.185", 
+            "54.164.198.60"
+        ], 
+        "dns-ns": [
+            "ns1.namebrightdns.com", 
+            "ns2.namebrightdns.com"
+        ], 
+        "domain-name": "co.decademy.com", 
+        "fuzzer": "subdomain", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "208.91.196.32"
+        ], 
+        "dns-ns": [
+            "sk.s5.ans1.ns111.ztomy.com", 
+            "sk.s5.ans2.ns111.ztomy.com"
+        ], 
+        "domain-name": "codec.ademy.com", 
+        "fuzzer": "subdomain", 
+        "geoip-country": "Virgin Islands", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "23.23.174.132"
+        ], 
+        "domain-name": "codeca.demy.com", 
+        "fuzzer": "subdomain", 
+        "geoip-country": "United States"
+    }, 
+    {
+        "dns-a": [
+            "70.32.66.129"
+        ], 
+        "domain-name": "codecad.emy.com", 
+        "fuzzer": "subdomain", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "185.30.179.14"
+        ], 
+        "dns-mx": [
+            "mxs.my.com"
+        ], 
+        "dns-ns": [
+            "ns1.my.com", 
+            "ns2.my.com"
+        ], 
+        "domain-name": "codecade.my.com", 
+        "fuzzer": "subdomain", 
+        "geoip-country": "Netherlands", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "199.34.228.77"
+        ], 
+        "dns-mx": [
+            "alt1.aspmx.l.google.com", 
+            "alt2.aspmx.l.google.com", 
+            "aspmx.l.google.com", 
+            "aspmx2.googlemail.com", 
+            "aspmx3.googlemail.com", 
+            "aspmx4.googlemail.com", 
+            "aspmx5.googlemail.com"
+        ], 
+        "dns-ns": [
+            "dns014.c.register.com", 
+            "dns157.a.register.com", 
+            "dns175.b.register.com", 
+            "dns177.d.register.com"
+        ], 
+        "domain-name": "coedcademy.com", 
+        "fuzzer": "transposition", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 83
+    }, 
+    {
+        "dns-a": [
+            "173.239.5.6", 
+            "173.239.8.164", 
+            "213.247.47.190"
+        ], 
+        "dns-mx": [
+            "mx7.codeacdemy.com"
+        ], 
+        "dns-ns": [
+            "ns1.expiereddnsmanager.com", 
+            "ns2.expiereddnsmanager.com"
+        ], 
+        "domain-name": "codeacdemy.com", 
+        "fuzzer": "transposition", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "185.53.178.6"
+        ], 
+        "dns-ns": [
+            "ns1.parkingcrew.net", 
+            "ns2.parkingcrew.net"
+        ], 
+        "domain-name": "codecadmey.com", 
+        "fuzzer": "transposition", 
+        "geoip-country": "Germany", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "72.52.4.122"
+        ], 
+        "dns-mx": [
+            "localhost"
+        ], 
+        "dns-ns": [
+            "ns1.sedoparking.com", 
+            "ns2.sedoparking.com"
+        ], 
+        "domain-name": "codecodemy.com", 
+        "fuzzer": "vowel-swap", 
+        "geoip-country": "United States", 
+        "mx-spy": true, 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "173.239.5.6", 
+            "173.239.8.164", 
+            "213.247.47.190"
+        ], 
+        "dns-mx": [
+            "mx7.cadecademy.com"
+        ], 
+        "dns-ns": [
+            "ns1.expiereddnsmanager.com", 
+            "ns2.expiereddnsmanager.com"
+        ], 
+        "domain-name": "cadecademy.com", 
+        "fuzzer": "vowel-swap", 
+        "geoip-country": "United States"
+    }
+]

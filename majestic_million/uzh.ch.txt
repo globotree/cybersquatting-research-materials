@@ -1,0 +1,452 @@
+[
+    {
+        "dns-a": [
+            "130.60.184.132"
+        ], 
+        "dns-mx": [
+            "idmx01.uzh.ch", 
+            "idmx02.uzh.ch", 
+            "idmx03.uzh.ch", 
+            "idmx04.uzh.ch", 
+            "idmx05.uzh.ch"
+        ], 
+        "dns-ns": [
+            "ns1.uzh.ch", 
+            "ns2.uzh.ch"
+        ], 
+        "domain-name": "uzh.ch", 
+        "fuzzer": "original*", 
+        "geoip-country": "Switzerland", 
+        "ssdeep-score": 100
+    }, 
+    {
+        "dns-a": [
+            "217.26.53.16"
+        ], 
+        "dns-mx": [
+            "remote.tzh.ch", 
+            "smtpgw2.kkuc.ch", 
+            "smtpgw3.kkuc.ch"
+        ], 
+        "dns-ns": [
+            "ns.hostpoint.ch", 
+            "ns2.hostpoint.ch", 
+            "ns3.hostpoint.ch"
+        ], 
+        "domain-name": "tzh.ch", 
+        "fuzzer": "bitsquatting", 
+        "geoip-country": "Switzerland", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "78.46.39.195"
+        ], 
+        "dns-mx": [
+            "mail.wzh.ch"
+        ], 
+        "dns-ns": [
+            "ns141.hoststar.ch", 
+            "ns142.hoststar.ch"
+        ], 
+        "domain-name": "wzh.ch", 
+        "fuzzer": "bitsquatting", 
+        "geoip-country": "Germany", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "72.52.4.119"
+        ], 
+        "dns-ns": [
+            "ns1.sedoparking.com", 
+            "ns2.sedoparking.com"
+        ], 
+        "domain-name": "ezh.ch", 
+        "fuzzer": "bitsquatting", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "193.33.128.141"
+        ], 
+        "dns-mx": [
+            "miraculix1.ksd.ch", 
+            "miraculix2.ksd.ch"
+        ], 
+        "dns-ns": [
+            "dns1.ksd.ch", 
+            "ns1.ip-plus.net"
+        ], 
+        "domain-name": "urh.ch", 
+        "fuzzer": "bitsquatting", 
+        "geoip-country": "Switzerland", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "176.126.245.146", 
+            "78.47.93.107"
+        ], 
+        "dns-mx": [
+            "no.mx.example.org"
+        ], 
+        "dns-ns": [
+            "atlas.dns.domaintraffic.ch", 
+            "capella.dns.domaintraffic.ch"
+        ], 
+        "domain-name": "uzi.ch", 
+        "fuzzer": "bitsquatting", 
+        "geoip-country": "United Kingdom", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "72.52.4.120"
+        ], 
+        "dns-mx": [
+            "localhost"
+        ], 
+        "dns-ns": [
+            "ns1.sedoparking.com", 
+            "ns2.sedoparking.com"
+        ], 
+        "domain-name": "uzl.ch", 
+        "fuzzer": "bitsquatting", 
+        "geoip-country": "United States", 
+        "mx-spy": true, 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-mx": [
+            "smtagb02.abxsec.com", 
+            "smtasg01.abxsec.com", 
+            "smtazh01.abxsec.com", 
+            "smtazh02.abxsec.com"
+        ], 
+        "dns-ns": [
+            "dns1.swisscom.com", 
+            "dns2.swisscom.com", 
+            "dns3.swisscom.com"
+        ], 
+        "domain-name": "zh.ch", 
+        "fuzzer": "omission"
+    }, 
+    {
+        "dns-a": [
+            "185.133.192.32", 
+            "78.129.180.203"
+        ], 
+        "dns-mx": [
+            "no.mx.example.org"
+        ], 
+        "domain-name": "uzn.ch", 
+        "fuzzer": "replacement", 
+        "geoip-country": "United Kingdom", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "176.126.245.146", 
+            "78.47.93.107"
+        ], 
+        "dns-mx": [
+            "no.mx.example.org"
+        ], 
+        "dns-ns": [
+            "atlas.dns.domaintraffic.ch", 
+            "capella.dns.domaintraffic.ch"
+        ], 
+        "domain-name": "ueh.ch", 
+        "fuzzer": "replacement", 
+        "geoip-country": "United Kingdom", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "185.133.192.32", 
+            "78.129.180.203"
+        ], 
+        "dns-mx": [
+            "no.mx.example.org"
+        ], 
+        "dns-ns": [
+            "atlas.dns.domaintraffic.ch", 
+            "capella.dns.domaintraffic.ch"
+        ], 
+        "domain-name": "uzg.ch", 
+        "fuzzer": "replacement", 
+        "geoip-country": "United Kingdom", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "80.74.145.155"
+        ], 
+        "dns-mx": [
+            "mail.swisscom.com", 
+            "mail10.swisscom.com", 
+            "mail20.swisscom.com"
+        ], 
+        "dns-ns": [
+            "ns1.bs.ch", 
+            "ns2.bs.ch"
+        ], 
+        "domain-name": "uzb.ch", 
+        "fuzzer": "replacement", 
+        "geoip-country": "Switzerland", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "72.52.4.119"
+        ], 
+        "dns-mx": [
+            "localhost"
+        ], 
+        "dns-ns": [
+            "ns1.sedoparking.com", 
+            "ns2.sedoparking.com"
+        ], 
+        "domain-name": "uah.ch", 
+        "fuzzer": "replacement", 
+        "geoip-country": "United States", 
+        "mx-spy": true, 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "80.74.149.78"
+        ], 
+        "dns-mx": [
+            "mail.uzz.ch"
+        ], 
+        "dns-ns": [
+            "ns.ch-inter.net", 
+            "ns2.ch-inter.net"
+        ], 
+        "domain-name": "uzz.ch", 
+        "fuzzer": "replacement", 
+        "geoip-country": "Switzerland", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "217.26.51.97"
+        ], 
+        "dns-mx": [
+            "mail.clouddataservices.ch"
+        ], 
+        "dns-ns": [
+            "ns.hostpoint.ch", 
+            "ns2.hostpoint.ch", 
+            "ns3.hostpoint.ch"
+        ], 
+        "domain-name": "uzu.ch", 
+        "fuzzer": "replacement", 
+        "geoip-country": "Switzerland", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "107.172.245.233"
+        ], 
+        "dns-mx": [
+            "jzh.ch"
+        ], 
+        "dns-ns": [
+            "ns3.hostchunk.com", 
+            "ns4.hostchunk.com"
+        ], 
+        "domain-name": "jzh.ch", 
+        "fuzzer": "replacement", 
+        "geoip-country": "United States"
+    }, 
+    {
+        "dns-a": [
+            "72.52.4.121"
+        ], 
+        "dns-mx": [
+            "localhost"
+        ], 
+        "dns-ns": [
+            "ns1.sedoparking.com", 
+            "ns2.sedoparking.com"
+        ], 
+        "domain-name": "izh.ch", 
+        "fuzzer": "replacement", 
+        "geoip-country": "United States", 
+        "mx-spy": true, 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "193.246.38.197"
+        ], 
+        "dns-mx": [
+            "mail.hostcenter.com"
+        ], 
+        "dns-ns": [
+            "ns.hostcenter.com", 
+            "ns2.hostcenter.com", 
+            "ns3.hostcenter.com"
+        ], 
+        "domain-name": "hzh.ch", 
+        "fuzzer": "replacement", 
+        "geoip-country": "Switzerland", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "199.59.242.150"
+        ], 
+        "dns-mx": [
+            "mx76.m2bp.com", 
+            "mx76.mb1p.com"
+        ], 
+        "domain-name": "ush.ch", 
+        "fuzzer": "replacement"
+    }, 
+    {
+        "dns-a": [
+            "72.52.4.119"
+        ], 
+        "dns-mx": [
+            "localhost"
+        ], 
+        "dns-ns": [
+            "ns1.sedoparking.com", 
+            "ns2.sedoparking.com"
+        ], 
+        "domain-name": "uhh.ch", 
+        "fuzzer": "replacement", 
+        "geoip-country": "United States", 
+        "mx-spy": true, 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "176.126.245.146", 
+            "78.47.93.107"
+        ], 
+        "dns-mx": [
+            "no.mx.example.org"
+        ], 
+        "dns-ns": [
+            "atlas.dns.domaintraffic.ch", 
+            "capella.dns.domaintraffic.ch"
+        ], 
+        "domain-name": "uuh.ch", 
+        "fuzzer": "replacement", 
+        "geoip-country": "United Kingdom"
+    }, 
+    {
+        "dns-a": [
+            "138.201.28.212"
+        ], 
+        "dns-mx": [
+            "zzh.ch"
+        ], 
+        "dns-ns": [
+            "ns1.orcwebhosting.ch", 
+            "ns2.orcwebhosting.ch"
+        ], 
+        "domain-name": "zzh.ch", 
+        "fuzzer": "replacement"
+    }, 
+    {
+        "dns-a": [
+            "80.237.133.97"
+        ], 
+        "dns-aaaa": [
+            "2a01:488:42:1000:50ed:8561:fffc:ee69"
+        ], 
+        "dns-mx": [
+            "mx0.uth.ch"
+        ], 
+        "dns-ns": [
+            "ns1.hans.hosteurope.de", 
+            "ns2.hans.hosteurope.de"
+        ], 
+        "domain-name": "uth.ch", 
+        "fuzzer": "replacement"
+    }, 
+    {
+        "dns-a": [
+            "72.52.4.121"
+        ], 
+        "dns-mx": [
+            "localhost"
+        ], 
+        "dns-ns": [
+            "ns1.sedoparking.com", 
+            "ns2.sedoparking.com"
+        ], 
+        "domain-name": "zuh.ch", 
+        "fuzzer": "transposition", 
+        "geoip-country": "United States", 
+        "mx-spy": true, 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "185.101.158.104"
+        ], 
+        "dns-mx": [
+            "mail.uhz.ch"
+        ], 
+        "dns-ns": [
+            "ns1.buchpreis.ch", 
+            "ns2.buchpreis.ch"
+        ], 
+        "domain-name": "uhz.ch", 
+        "fuzzer": "transposition", 
+        "geoip-country": "Switzerland", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "217.150.252.31"
+        ], 
+        "dns-mx": [
+            "mx10.spitalzollikerberg.ch"
+        ], 
+        "dns-ns": [
+            "ns5.nine.ch", 
+            "ns6.nine.ch"
+        ], 
+        "domain-name": "azh.ch", 
+        "fuzzer": "vowel-swap", 
+        "geoip-country": "Switzerland", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "217.26.52.6"
+        ], 
+        "dns-mx": [
+            "ms11.webland.ch"
+        ], 
+        "dns-ns": [
+            "ns.hostpoint.ch", 
+            "ns2.hostpoint.ch", 
+            "ns3.hostpoint.ch"
+        ], 
+        "domain-name": "ozh.ch", 
+        "fuzzer": "vowel-swap"
+    }, 
+    {
+        "dns-a": [
+            "209.99.40.222"
+        ], 
+        "dns-ns": [
+            "dns10.parkpage.foundationapi.com", 
+            "dns9.parkpage.foundationapi.com"
+        ], 
+        "domain-name": "uzh-ch.com", 
+        "fuzzer": "various", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 0
+    }
+]

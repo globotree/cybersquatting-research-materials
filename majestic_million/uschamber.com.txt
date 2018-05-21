@@ -1,0 +1,324 @@
+[
+    {
+        "dns-a": [
+            "69.172.200.99"
+        ], 
+        "dns-mx": [
+            "mx0a-00109201.pphosted.com", 
+            "mx0b-00109201.pphosted.com", 
+            "mxa-00109201.gslb.pphosted.com", 
+            "mxb-00109201.gslb.pphosted.com"
+        ], 
+        "dns-ns": [
+            "pdns72.ultradns.biz", 
+            "pdns72.ultradns.co.uk", 
+            "pdns72.ultradns.com", 
+            "pdns72.ultradns.info", 
+            "pdns72.ultradns.net", 
+            "pdns72.ultradns.org"
+        ], 
+        "domain-name": "uschamber.com", 
+        "fuzzer": "original*", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 100
+    }, 
+    {
+        "dns-a": [
+            "91.195.240.101"
+        ], 
+        "dns-mx": [
+            "mail.uschambers.com"
+        ], 
+        "dns-ns": [
+            "ns1.mpower.nl", 
+            "ns2.mpower.nl"
+        ], 
+        "domain-name": "uschambers.com", 
+        "fuzzer": "addition", 
+        "geoip-country": "Germany", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "50.56.7.147"
+        ], 
+        "dns-mx": [
+            "mx11.hostmailserver.com", 
+            "mx12.hostmailserver.com"
+        ], 
+        "dns-ns": [
+            "dns1.stabletransit.com", 
+            "dns2.stabletransit.com"
+        ], 
+        "domain-name": "wschamber.com", 
+        "fuzzer": "bitsquatting", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "216.139.211.29"
+        ], 
+        "dns-mx": [
+            "eschamber-com.mail.protection.outlook.com"
+        ], 
+        "dns-ns": [
+            "ns63.domaincontrol.com", 
+            "ns64.domaincontrol.com"
+        ], 
+        "domain-name": "eschamber.com", 
+        "fuzzer": "bitsquatting", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "184.168.221.29"
+        ], 
+        "dns-mx": [
+            "mailstore1.secureserver.net", 
+            "smtp.secureserver.net"
+        ], 
+        "dns-ns": [
+            "ns49.domaincontrol.com", 
+            "ns50.domaincontrol.com"
+        ], 
+        "domain-name": "urchamber.com", 
+        "fuzzer": "bitsquatting", 
+        "geoip-country": "United States"
+    }, 
+    {
+        "dns-a": [
+            "23.236.62.147"
+        ], 
+        "dns-ns": [
+            "ns10.wixdns.net", 
+            "ns11.wixdns.net"
+        ], 
+        "domain-name": "ucchamber.com", 
+        "fuzzer": "bitsquatting", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "104.37.35.80"
+        ], 
+        "dns-mx": [
+            "mx1.pub.mailpod1-wdc1.one.com", 
+            "mx2.pub.mailpod1-wdc1.one.com"
+        ], 
+        "dns-ns": [
+            "ns01.one.com", 
+            "ns02.one.com"
+        ], 
+        "domain-name": "uschember.com", 
+        "fuzzer": "bitsquatting", 
+        "geoip-country": "United States"
+    }, 
+    {
+        "dns-a": [
+            "65.61.127.46"
+        ], 
+        "dns-mx": [
+            "mail.usachamber.com"
+        ], 
+        "dns-ns": [
+            "ns55.domaincontrol.com", 
+            "ns56.domaincontrol.com"
+        ], 
+        "domain-name": "usachamber.com", 
+        "fuzzer": "insertion", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "192.64.147.150"
+        ], 
+        "dns-mx": [
+            "mail.b-io.co"
+        ], 
+        "dns-ns": [
+            "ns3.epik.com", 
+            "ns4.epik.com"
+        ], 
+        "domain-name": "schamber.com", 
+        "fuzzer": "omission", 
+        "geoip-country": "United States", 
+        "mx-spy": true, 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "205.178.189.129"
+        ], 
+        "dns-ns": [
+            "dns1.namesecure.com", 
+            "dns2.namesecure.com"
+        ], 
+        "domain-name": "uscchamber.com", 
+        "fuzzer": "repetition", 
+        "geoip-country": "United States"
+    }, 
+    {
+        "dns-a": [
+            "121.201.31.3"
+        ], 
+        "dns-mx": [
+            "kmx.kenfor.net"
+        ], 
+        "dns-ns": [
+            "ns.info10.com", 
+            "ns2.info10.com", 
+            "ns4.info10.com"
+        ], 
+        "domain-name": "jschamber.com", 
+        "fuzzer": "replacement", 
+        "geoip-country": "China"
+    }, 
+    {
+        "dns-a": [
+            "66.96.162.133"
+        ], 
+        "dns-mx": [
+            "mx.ischamber.com"
+        ], 
+        "dns-ns": [
+            "ns1.domain.com", 
+            "ns2.domain.com"
+        ], 
+        "domain-name": "ischamber.com", 
+        "fuzzer": "replacement", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "52.73.124.185", 
+            "54.164.198.60"
+        ], 
+        "dns-ns": [
+            "ns1.namebrightdns.com", 
+            "ns2.namebrightdns.com"
+        ], 
+        "domain-name": "yschamber.com", 
+        "fuzzer": "replacement", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "199.34.229.100"
+        ], 
+        "dns-mx": [
+            "hschamber-com.mail.protection.outlook.com"
+        ], 
+        "dns-ns": [
+            "ns39.domaincontrol.com", 
+            "ns40.domaincontrol.com"
+        ], 
+        "domain-name": "hschamber.com", 
+        "fuzzer": "replacement", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "192.64.147.150"
+        ], 
+        "domain-name": "u.schamber.com", 
+        "fuzzer": "subdomain", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "185.53.178.7"
+        ], 
+        "dns-mx": [
+            "mail.h-email.net"
+        ], 
+        "dns-ns": [
+            "ns1.parkingcrew.net", 
+            "ns2.parkingcrew.net"
+        ], 
+        "domain-name": "usc.hamber.com", 
+        "fuzzer": "subdomain", 
+        "geoip-country": "Germany", 
+        "mx-spy": true, 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "69.46.0.196"
+        ], 
+        "domain-name": "uscham.ber.com", 
+        "fuzzer": "subdomain", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "208.73.211.70"
+        ], 
+        "domain-name": "uschamb.er.com", 
+        "fuzzer": "subdomain", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "69.172.200.82"
+        ], 
+        "dns-ns": [
+            "pdns72.ultradns.biz", 
+            "pdns72.ultradns.co.uk", 
+            "pdns72.ultradns.com", 
+            "pdns72.ultradns.info", 
+            "pdns72.ultradns.net", 
+            "pdns72.ultradns.org"
+        ], 
+        "domain-name": "uschabmer.com", 
+        "fuzzer": "transposition", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 100
+    }, 
+    {
+        "dns-a": [
+            "66.228.35.64"
+        ], 
+        "dns-mx": [
+            "ALT1.ASPMX.L.GOOGLE.com", 
+            "ALT2.ASPMX.L.GOOGLE.com", 
+            "ALT3.ASPMX.L.GOOGLE.com", 
+            "ALT4.ASPMX.L.GOOGLE.com", 
+            "ASPMX.L.GOOGLE.com"
+        ], 
+        "dns-ns": [
+            "ns1.linode.com", 
+            "ns2.linode.com", 
+            "ns3.linode.com", 
+            "ns4.linode.com", 
+            "ns5.linode.com"
+        ], 
+        "domain-name": "oschamber.com", 
+        "fuzzer": "vowel-swap", 
+        "geoip-country": "United States"
+    }, 
+    {
+        "dns-a": [
+            "199.34.228.68"
+        ], 
+        "dns-mx": [
+            "mail.aschamber.com"
+        ], 
+        "dns-ns": [
+            "cpns1.ezprovider.net", 
+            "cpns2.ezprovider.net", 
+            "cpns3.ezprovider.net"
+        ], 
+        "domain-name": "aschamber.com", 
+        "fuzzer": "vowel-swap"
+    }
+]

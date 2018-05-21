@@ -1,0 +1,119 @@
+[
+    {
+        "dns-a": [
+            "194.232.110.160", 
+            "194.232.110.161", 
+            "194.232.110.162", 
+            "194.232.110.163"
+        ], 
+        "dns-mx": [
+            "mx01.styria.com", 
+            "mx02.styria.com"
+        ], 
+        "dns-ns": [
+            "srvkkl-dns01.styria.com", 
+            "srvsgr-dns02.styria.com", 
+            "srvvie-dns03.styria.com"
+        ], 
+        "domain-name": "diepresse.com", 
+        "fuzzer": "original*", 
+        "geoip-country": "Austria", 
+        "ssdeep-score": 96
+    }, 
+    {
+        "dns-a": [
+            "69.172.201.153"
+        ], 
+        "dns-ns": [
+            "ns1.uniregistrymarket.link", 
+            "ns2.uniregistrymarket.link"
+        ], 
+        "domain-name": "diepresses.com", 
+        "fuzzer": "addition", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "72.52.4.119"
+        ], 
+        "dns-mx": [
+            "localhost"
+        ], 
+        "dns-ns": [
+            "ns1.sedoparking.com", 
+            "ns2.sedoparking.com"
+        ], 
+        "domain-name": "die-presse.com", 
+        "fuzzer": "hyphenation", 
+        "geoip-country": "United States", 
+        "mx-spy": true, 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "95.211.117.215"
+        ], 
+        "dns-ns": [
+            "ns1.hastydns.com", 
+            "ns2.hastydns.com"
+        ], 
+        "domain-name": "diepressse.com", 
+        "fuzzer": "insertion", 
+        "geoip-country": "Netherlands"
+    }, 
+    {
+        "dns-a": [
+            "68.178.213.61"
+        ], 
+        "dns-ns": [
+            "ns1.namefind.com", 
+            "ns2.namefind.com"
+        ], 
+        "domain-name": "diepress.com", 
+        "fuzzer": "omission", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "95.211.219.65"
+        ], 
+        "dns-ns": [
+            "ns1.hastydns.com", 
+            "ns2.hastydns.com"
+        ], 
+        "domain-name": "dieprsse.com", 
+        "fuzzer": "omission", 
+        "geoip-country": "Netherlands"
+    }, 
+    {
+        "dns-a": [
+            "69.172.201.153"
+        ], 
+        "dns-ns": [
+            "ns1.uniregistrymarket.link", 
+            "ns2.uniregistrymarket.link"
+        ], 
+        "domain-name": "depresse.com", 
+        "fuzzer": "omission", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "208.73.210.202", 
+            "208.73.210.217", 
+            "208.73.211.165", 
+            "208.73.211.177"
+        ], 
+        "dns-ns": [
+            "ns1.dsredirection.com", 
+            "ns2.dsredirection.com"
+        ], 
+        "domain-name": "di.epresse.com", 
+        "fuzzer": "subdomain", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 0
+    }
+]

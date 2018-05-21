@@ -1,0 +1,217 @@
+[
+    {
+        "dns-a": [
+            "206.251.255.63"
+        ], 
+        "dns-aaaa": [
+            "2606:7100:1:69::3f"
+        ], 
+        "dns-mx": [
+            "mail.nginx.net"
+        ], 
+        "dns-ns": [
+            "ns.nginx.com", 
+            "ns2.nginx.com", 
+            "ns3.nginx.com"
+        ], 
+        "domain-name": "nginx.net", 
+        "fuzzer": "original*", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 100
+    }, 
+    {
+        "dns-a": [
+            "121.42.105.149"
+        ], 
+        "dns-mx": [
+            "mx01.dm.aliyun.com", 
+            "mxn.mxhichina.com", 
+            "mxw.mxhichina.com"
+        ], 
+        "dns-ns": [
+            "dns7.hichina.com", 
+            "dns8.hichina.com"
+        ], 
+        "domain-name": "nginxs.net", 
+        "fuzzer": "addition", 
+        "geoip-country": "China", 
+        "mx-spy": true, 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "104.31.86.138", 
+            "104.31.87.138"
+        ], 
+        "dns-ns": [
+            "alan.ns.cloudflare.com", 
+            "ashley.ns.cloudflare.com"
+        ], 
+        "domain-name": "nginy.net", 
+        "fuzzer": "bitsquatting", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "134.119.253.13"
+        ], 
+        "dns-aaaa": [
+            "2a00:1158:300::60d"
+        ], 
+        "dns-mx": [
+            "mxlb.ispgateway.de"
+        ], 
+        "dns-ns": [
+            "ns.namespace4you.de", 
+            "ns2.namespace4you.de"
+        ], 
+        "domain-name": "ngin-x.net", 
+        "fuzzer": "hyphenation", 
+        "geoip-country": "Germany", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "207.148.248.143"
+        ], 
+        "domain-name": "ngin.net", 
+        "fuzzer": "omission", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-ns": [
+            "ns1-08.azure-dns.com", 
+            "ns2-08.azure-dns.net", 
+            "ns3-08.azure-dns.org", 
+            "ns4-08.azure-dns.info"
+        ], 
+        "domain-name": "ninx.net", 
+        "fuzzer": "omission"
+    }, 
+    {
+        "dns-a": [
+            "67.227.226.241"
+        ], 
+        "dns-mx": [
+            "mx174.mb5p.com"
+        ], 
+        "dns-ns": [
+            "ns1.parklogic.com", 
+            "ns2.parklogic.com", 
+            "ns3.parklogic.com", 
+            "ns4.parklogic.com", 
+            "ns5.parklogic.com"
+        ], 
+        "domain-name": "ginx.net", 
+        "fuzzer": "omission", 
+        "geoip-country": "United States", 
+        "mx-spy": true, 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "206.188.192.48"
+        ], 
+        "dns-mx": [
+            "p.webcom.ctmail.com"
+        ], 
+        "dns-ns": [
+            "ns95.worldnic.com", 
+            "ns96.worldnic.com"
+        ], 
+        "domain-name": "ngix.net", 
+        "fuzzer": "omission", 
+        "geoip-country": "United States", 
+        "mx-spy": true, 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "192.254.65.28", 
+            "199.43.199.99"
+        ], 
+        "dns-mx": [
+            "mail.ngnx.net", 
+            "mail.ngnx.net"
+        ], 
+        "dns-ns": [
+            "lee.ns.cloudflare.com", 
+            "venus.ns.cloudflare.com"
+        ], 
+        "domain-name": "ngnx.net", 
+        "fuzzer": "omission", 
+        "geoip-country": "United States"
+    }, 
+    {
+        "dns-a": [
+            "184.168.221.18"
+        ], 
+        "dns-mx": [
+            "alt1.aspmx.l.google.com", 
+            "alt2.aspmx.l.google.com", 
+            "aspmx.l.google.com", 
+            "aspmx2.googlemail.com", 
+            "aspmx3.googlemail.com"
+        ], 
+        "dns-ns": [
+            "ns53.domaincontrol.com", 
+            "ns54.domaincontrol.com"
+        ], 
+        "domain-name": "nginc.net", 
+        "fuzzer": "replacement", 
+        "geoip-country": "United States"
+    }, 
+    {
+        "dns-a": [
+            "67.227.226.241"
+        ], 
+        "dns-mx": [
+            "mx174.mb5p.com"
+        ], 
+        "dns-ns": [
+            "ns1.parklogic.com", 
+            "ns2.parklogic.com", 
+            "ns3.parklogic.com", 
+            "ns4.parklogic.com", 
+            "ns5.parklogic.com"
+        ], 
+        "domain-name": "n.ginx.net", 
+        "fuzzer": "subdomain", 
+        "geoip-country": "United States", 
+        "mx-spy": true
+    }, 
+    {
+        "dns-a": [
+            "69.28.217.3"
+        ], 
+        "domain-name": "ng.inx.net", 
+        "fuzzer": "subdomain", 
+        "geoip-country": "United States"
+    }, 
+    {
+        "dns-a": [
+            "119.81.12.94"
+        ], 
+        "dns-ns": [
+            "dns10.hichina.com", 
+            "dns9.hichina.com"
+        ], 
+        "domain-name": "ngnix.net", 
+        "fuzzer": "transposition", 
+        "geoip-country": "Singapore"
+    }, 
+    {
+        "dns-a": [
+            "50.63.202.83"
+        ], 
+        "dns-ns": [
+            "pdns03.domaincontrol.com", 
+            "pdns04.domaincontrol.com"
+        ], 
+        "domain-name": "ngenx.net", 
+        "fuzzer": "vowel-swap", 
+        "geoip-country": "United States"
+    }
+]

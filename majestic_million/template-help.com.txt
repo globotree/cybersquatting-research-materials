@@ -1,0 +1,61 @@
+[
+    {
+        "dns-a": [
+            "144.217.66.147"
+        ], 
+        "dns-mx": [
+            "mxv.templatemonster.com"
+        ], 
+        "dns-ns": [
+            "brad.ns.cloudflare.com", 
+            "lily.ns.cloudflare.com"
+        ], 
+        "domain-name": "template-help.com", 
+        "fuzzer": "original*", 
+        "geoip-country": "United States"
+    }, 
+    {
+        "dns-a": [
+            "104.28.16.85", 
+            "104.28.17.85"
+        ], 
+        "dns-aaaa": [
+            "2400:cb00:2048:1::681c:1055", 
+            "2400:cb00:2048:1::681c:1155"
+        ], 
+        "dns-mx": [
+            "mail.templates-help.com"
+        ], 
+        "dns-ns": [
+            "gabe.ns.cloudflare.com", 
+            "lily.ns.cloudflare.com"
+        ], 
+        "domain-name": "templates-help.com", 
+        "fuzzer": "insertion", 
+        "geoip-country": "United States"
+    }, 
+    {
+        "dns-a": [
+            "88.198.66.45"
+        ], 
+        "dns-mx": [
+            "mail.templatehelp.com", 
+            "mx.templatehelp.com"
+        ], 
+        "dns-ns": [
+            "brad.ns.cloudflare.com", 
+            "lily.ns.cloudflare.com"
+        ], 
+        "domain-name": "templatehelp.com", 
+        "fuzzer": "omission", 
+        "geoip-country": "Germany"
+    }, 
+    {
+        "dns-a": [
+            "209.240.98.195"
+        ], 
+        "domain-name": "templat.e-help.com", 
+        "fuzzer": "subdomain", 
+        "geoip-country": "United States"
+    }
+]

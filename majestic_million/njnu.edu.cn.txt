@@ -1,0 +1,94 @@
+[
+    {
+        "dns-a": [
+            "202.119.104.28"
+        ], 
+        "dns-ns": [
+            "bamboo.njnu.edu.cn", 
+            "pine.njnu.edu.cn"
+        ], 
+        "domain-name": "njnu.edu.cn", 
+        "fuzzer": "original*", 
+        "geoip-country": "China"
+    }, 
+    {
+        "dns-mx": [
+            "mailgw.fjnu.edu.cn"
+        ], 
+        "dns-ns": [
+            "cnet.fjtu.edu.cn", 
+            "dns.fjtu.edu.cn"
+        ], 
+        "domain-name": "fjnu.edu.cn", 
+        "fuzzer": "bitsquatting"
+    }, 
+    {
+        "dns-mx": [
+            "mxbiz1.qq.com", 
+            "mxbiz2.qq.com"
+        ], 
+        "dns-ns": [
+            "njhost1.njtvu.edu.cn", 
+            "njhost2.njtvu.edu.cn"
+        ], 
+        "domain-name": "njou.edu.cn", 
+        "fuzzer": "bitsquatting"
+    }, 
+    {
+        "dns-mx": [
+            "mxbiz1.qq.com", 
+            "mxbiz2.qq.com"
+        ], 
+        "dns-ns": [
+            "dns.njfu.edu.cn", 
+            "testdns.njfu.edu.cn"
+        ], 
+        "domain-name": "njfu.edu.cn", 
+        "fuzzer": "bitsquatting"
+    }, 
+    {
+        "dns-mx": [
+            "mail.njmu.edu.cn", 
+            "webmail.njmu.edu.cn"
+        ], 
+        "dns-ns": [
+            "dns.njmu.edu.cn", 
+            "rose.njmu.edu.cn"
+        ], 
+        "domain-name": "njmu.edu.cn", 
+        "fuzzer": "homoglyph"
+    }, 
+    {
+        "dns-ns": [
+            "bamboo.nnu.edu.cn", 
+            "pine.nnu.edu.cn"
+        ], 
+        "domain-name": "nnu.edu.cn", 
+        "fuzzer": "omission"
+    }, 
+    {
+        "dns-a": [
+            "202.116.0.1"
+        ], 
+        "dns-aaaa": [
+            "2001:da8:2002::1"
+        ], 
+        "dns-mx": [
+            "register.jnu.edu.cn"
+        ], 
+        "dns-ns": [
+            "maina.jnu.edu.cn", 
+            "mainb.jnu.edu.cn"
+        ], 
+        "domain-name": "jnu.edu.cn", 
+        "fuzzer": "omission", 
+        "geoip-country": "China"
+    }, 
+    {
+        "dns-ns": [
+            "dns.hjnu.edu.cn"
+        ], 
+        "domain-name": "hjnu.edu.cn", 
+        "fuzzer": "replacement"
+    }
+]

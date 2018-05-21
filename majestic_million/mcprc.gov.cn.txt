@@ -1,0 +1,34 @@
+[
+    {
+        "dns-mx": [
+            "mail.mcprc.gov.cn"
+        ], 
+        "dns-ns": [
+            "ns1.cdns.cn", 
+            "ns2.cdns.cn", 
+            "ns3.cdns.cn"
+        ], 
+        "domain-name": "mcprc.gov.cn", 
+        "fuzzer": "original*"
+    }, 
+    {
+        "dns-mx": [
+            "mxzwm20.hichina.com", 
+            "mxzwm20.mxhichina.com"
+        ], 
+        "dns-ns": [
+            "dns7.hichina.com", 
+            "dns8.hichina.com"
+        ], 
+        "domain-name": "cprc.gov.cn", 
+        "fuzzer": "omission"
+    }, 
+    {
+        "dns-a": [
+            "61.187.190.68"
+        ], 
+        "domain-name": "mcp.rc.gov.cn", 
+        "fuzzer": "subdomain", 
+        "geoip-country": "China"
+    }
+]

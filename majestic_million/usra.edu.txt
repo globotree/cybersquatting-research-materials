@@ -1,0 +1,84 @@
+[
+    {
+        "dns-a": [
+            "65.220.20.49"
+        ], 
+        "dns-mx": [
+            "mx1.usra.edu", 
+            "mx2.usra.edu"
+        ], 
+        "dns-ns": [
+            "drns01.usra.edu", 
+            "hqns.usra.edu", 
+            "hqns1", 
+            "hqns1.usra.edu", 
+            "ns.lpi.usra.edu", 
+            "ns1.lpi.usra.edu", 
+            "ns2.lpi.usra.edu"
+        ], 
+        "domain-name": "usra.edu", 
+        "fuzzer": "original*", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 100
+    }, 
+    {
+        "dns-a": [
+            "192.124.249.11"
+        ], 
+        "dns-mx": [
+            "d41.altospam.com", 
+            "h12.altospam.net"
+        ], 
+        "dns-ns": [
+            "dns.ovh.net", 
+            "ns.ovh.net"
+        ], 
+        "domain-name": "esra.edu", 
+        "fuzzer": "bitsquatting", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "166.78.46.82"
+        ], 
+        "dns-mx": [
+            "alt1.aspmx.l.google.com", 
+            "alt2.aspmx.l.google.com", 
+            "aspmx.l.google.com", 
+            "aspmx2.googlemail.com", 
+            "aspmx3.googlemail.com", 
+            "aspmx4.googlemail.com", 
+            "aspmx5.googlemail.com", 
+            "smtp.ussa.edu"
+        ], 
+        "dns-ns": [
+            "ns0.dnsmadeeasy.com", 
+            "ns1.dnsmadeeasy.com", 
+            "ns2.dnsmadeeasy.com", 
+            "ns3.dnsmadeeasy.com", 
+            "ns4.dnsmadeeasy.com"
+        ], 
+        "domain-name": "ussa.edu", 
+        "fuzzer": "bitsquatting", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "109.199.115.231"
+        ], 
+        "dns-mx": [
+            "usa-edu.mail.protection.outlook.com"
+        ], 
+        "dns-ns": [
+            "ns4.laureate.net", 
+            "ns5.laureate.net", 
+            "ns6.laureate.net"
+        ], 
+        "domain-name": "usa.edu", 
+        "fuzzer": "omission", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 0
+    }
+]

@@ -1,0 +1,128 @@
+[
+    {
+        "dns-a": [
+            "149.56.3.10"
+        ], 
+        "dns-mx": [
+            "mail.grademiners.com"
+        ], 
+        "dns-ns": [
+            "pdns05.domaincontrol.com", 
+            "pdns06.domaincontrol.com"
+        ], 
+        "domain-name": "grademiners.com", 
+        "fuzzer": "original*", 
+        "geoip-country": "Canada", 
+        "ssdeep-score": 100
+    }, 
+    {
+        "dns-a": [
+            "198.54.116.176"
+        ], 
+        "dns-mx": [
+            "mail.grademinerss.com"
+        ], 
+        "dns-ns": [
+            "dns1.namecheaphosting.com", 
+            "dns2.namecheaphosting.com"
+        ], 
+        "domain-name": "grademinerss.com", 
+        "fuzzer": "addition", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "104.207.138.113"
+        ], 
+        "dns-mx": [
+            "mail.grade-miners.com"
+        ], 
+        "dns-ns": [
+            "ns.securednsservices.com", 
+            "ns2.securednsservices.com"
+        ], 
+        "domain-name": "grade-miners.com", 
+        "fuzzer": "hyphenation", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "104.207.147.82"
+        ], 
+        "dns-mx": [
+            "mail.grademiner-s.com"
+        ], 
+        "dns-ns": [
+            "ns.securednsservices.com", 
+            "ns2.securednsservices.com"
+        ], 
+        "domain-name": "grademiner-s.com", 
+        "fuzzer": "hyphenation", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "52.9.56.210"
+        ], 
+        "dns-ns": [
+            "ns1.eyname.com", 
+            "ns2.eyname.com", 
+            "ns3.eyname.com", 
+            "ns4.eyname.com"
+        ], 
+        "domain-name": "gradesminers.com", 
+        "fuzzer": "insertion", 
+        "geoip-country": "United States"
+    }, 
+    {
+        "dns-a": [
+            "52.10.154.202"
+        ], 
+        "dns-ns": [
+            "ns1.eyname.com", 
+            "ns2.eyname.com", 
+            "ns3.eyname.com", 
+            "ns4.eyname.com"
+        ], 
+        "domain-name": "grademinerz.com", 
+        "fuzzer": "replacement", 
+        "geoip-country": "United States"
+    }, 
+    {
+        "dns-a": [
+            "72.52.4.119"
+        ], 
+        "dns-mx": [
+            "localhost"
+        ], 
+        "dns-ns": [
+            "ns1.sedoparking.com", 
+            "ns2.sedoparking.com"
+        ], 
+        "domain-name": "grad.eminers.com", 
+        "fuzzer": "subdomain", 
+        "geoip-country": "United States", 
+        "mx-spy": true, 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "54.217.222.113"
+        ], 
+        "dns-mx": [
+            "mail.h-email.net"
+        ], 
+        "dns-ns": [
+            "ns1.parkingcrew.net", 
+            "ns2.parkingcrew.net"
+        ], 
+        "domain-name": "grademinors.com", 
+        "fuzzer": "vowel-swap", 
+        "geoip-country": "Ireland", 
+        "mx-spy": true, 
+        "ssdeep-score": 0
+    }
+]

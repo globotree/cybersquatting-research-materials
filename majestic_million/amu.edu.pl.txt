@@ -1,0 +1,246 @@
+[
+    {
+        "dns-a": [
+            "150.254.65.123"
+        ], 
+        "dns-mx": [
+            "mx1.amu.edu.pl", 
+            "mx2.amu.edu.pl"
+        ], 
+        "dns-ns": [
+            "dns.amu.edu.pl", 
+            "dns2.amu.edu.pl", 
+            "dns3.amu.edu.pl"
+        ], 
+        "domain-name": "amu.edu.pl", 
+        "fuzzer": "original*", 
+        "geoip-country": "Poland", 
+        "ssdeep-score": 100
+    }, 
+    {
+        "dns-a": [
+            "79.96.87.216"
+        ], 
+        "dns-mx": [
+            "amuz.edu.pl"
+        ], 
+        "dns-ns": [
+            "dns.home.pl", 
+            "dns2.home.pl", 
+            "dns3.home.pl"
+        ], 
+        "domain-name": "amuz.edu.pl", 
+        "fuzzer": "addition", 
+        "geoip-country": "Poland", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "106.184.2.142"
+        ], 
+        "dns-mx": [
+            "mx.ym.163.com"
+        ], 
+        "domain-name": "cmu.edu.pl", 
+        "fuzzer": "bitsquatting"
+    }, 
+    {
+        "dns-a": [
+            "212.91.7.33"
+        ], 
+        "dns-ns": [
+            "ns1.aftermarket.pl", 
+            "ns2.aftermarket.pl"
+        ], 
+        "domain-name": "amw.edu.pl", 
+        "fuzzer": "bitsquatting", 
+        "geoip-country": "Poland", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "85.128.164.63"
+        ], 
+        "dns-ns": [
+            "ns1.nazwa.pl", 
+            "ns2.nazwa.pl", 
+            "ns3.nazwa.pl"
+        ], 
+        "domain-name": "ame.edu.pl", 
+        "fuzzer": "bitsquatting", 
+        "geoip-country": "Poland", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "89.161.255.13"
+        ], 
+        "dns-mx": [
+            "mu.edu.pl"
+        ], 
+        "dns-ns": [
+            "dns.home.pl", 
+            "dns2.home.pl", 
+            "dns3.home.pl"
+        ], 
+        "domain-name": "mu.edu.pl", 
+        "fuzzer": "omission", 
+        "geoip-country": "Poland", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "212.87.25.6"
+        ], 
+        "dns-mx": [
+            "mx01.am.edu.pl"
+        ], 
+        "dns-ns": [
+            "dns.home.pl", 
+            "dns2.home.pl", 
+            "dns3.home.pl"
+        ], 
+        "domain-name": "am.edu.pl", 
+        "fuzzer": "omission", 
+        "geoip-country": "Poland", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-ns": [
+            "belba.nask.net.pl"
+        ], 
+        "domain-name": "au.edu.pl", 
+        "fuzzer": "omission"
+    }, 
+    {
+        "dns-a": [
+            "94.185.81.103"
+        ], 
+        "dns-mx": [
+            "stetter.home.pl"
+        ], 
+        "dns-ns": [
+            "dns.home.pl", 
+            "dns2.home.pl", 
+            "dns3.home.pl"
+        ], 
+        "domain-name": "ami.edu.pl", 
+        "fuzzer": "replacement", 
+        "geoip-country": "Sweden", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "46.242.242.169"
+        ], 
+        "dns-mx": [
+            "wmu.edu.pl"
+        ], 
+        "dns-ns": [
+            "dns.home.pl", 
+            "dns2.home.pl", 
+            "dns3.home.pl"
+        ], 
+        "domain-name": "wmu.edu.pl", 
+        "fuzzer": "replacement", 
+        "geoip-country": "Poland", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "199.73.55.48"
+        ], 
+        "dns-mx": [
+            "mxn.mxhichina.com", 
+            "mxw.mxhichina.com"
+        ], 
+        "dns-ns": [
+            "ns1.101domain.com", 
+            "ns2.101domain.com", 
+            "ns5.101domain.com"
+        ], 
+        "domain-name": "amz.edu.pl", 
+        "fuzzer": "replacement"
+    }, 
+    {
+        "dns-a": [
+            "89.161.255.13"
+        ], 
+        "dns-mx": [
+            "mu.edu.pl"
+        ], 
+        "dns-ns": [
+            "dns.home.pl", 
+            "dns2.home.pl", 
+            "dns3.home.pl"
+        ], 
+        "domain-name": "a.mu.edu.pl", 
+        "fuzzer": "subdomain", 
+        "geoip-country": "Poland", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "185.53.179.7"
+        ], 
+        "dns-mx": [
+            "mail.h-email.net"
+        ], 
+        "dns-ns": [
+            "ns1.parkingcrew.net", 
+            "ns2.parkingcrew.net"
+        ], 
+        "domain-name": "am.u.edu.pl", 
+        "fuzzer": "subdomain"
+    }, 
+    {
+        "dns-a": [
+            "94.152.140.252"
+        ], 
+        "dns-mx": [
+            "aum.edu.pl"
+        ], 
+        "dns-ns": [
+            "ns1.tld.pl", 
+            "ns2.tld.pl"
+        ], 
+        "domain-name": "aum.edu.pl", 
+        "fuzzer": "transposition", 
+        "geoip-country": "Poland", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "104.27.182.205", 
+            "104.27.183.205"
+        ], 
+        "dns-aaaa": [
+            "2400:cb00:2048:1::681b:b6cd", 
+            "2400:cb00:2048:1::681b:b7cd"
+        ], 
+        "dns-mx": [
+            "mta.kkibci.pl"
+        ], 
+        "dns-ns": [
+            "buck.ns.cloudflare.com", 
+            "wanda.ns.cloudflare.com"
+        ], 
+        "domain-name": "amu.pl", 
+        "fuzzer": "various", 
+        "geoip-country": "United States"
+    }, 
+    {
+        "dns-a": [
+            "213.186.33.5"
+        ], 
+        "dns-mx": [
+            "redirect.ovh.net"
+        ], 
+        "dns-ns": [
+            "dns14.ovh.net", 
+            "ns14.ovh.net"
+        ], 
+        "domain-name": "amuedu.pl", 
+        "fuzzer": "various"
+    }
+]

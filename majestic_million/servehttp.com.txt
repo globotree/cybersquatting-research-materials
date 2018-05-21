@@ -1,0 +1,77 @@
+[
+    {
+        "dns-a": [
+            "8.23.224.108"
+        ], 
+        "dns-ns": [
+            "nf1.no-ip.com", 
+            "nf2.no-ip.com", 
+            "nf3.no-ip.com", 
+            "nf4.no-ip.com", 
+            "nf5.no-ip.com"
+        ], 
+        "domain-name": "servehttp.com", 
+        "fuzzer": "original*", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 99
+    }, 
+    {
+        "dns-ns": [
+            "f1g1ns1.dnspod.net", 
+            "f1g1ns2.dnspod.net"
+        ], 
+        "domain-name": "servehtpp.com", 
+        "fuzzer": "bitsquatting"
+    }, 
+    {
+        "dns-a": [
+            "204.11.56.48"
+        ], 
+        "dns-ns": [
+            "ns1626.ztomy.com", 
+            "ns2626.ztomy.com"
+        ], 
+        "domain-name": "serverhttp.com", 
+        "fuzzer": "insertion", 
+        "geoip-country": "Virgin Islands", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "23.236.246.151"
+        ], 
+        "dns-ns": [
+            "v1.dns234.net", 
+            "v2.dns234.net"
+        ], 
+        "domain-name": "servhttp.com", 
+        "fuzzer": "omission", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "68.178.213.61"
+        ], 
+        "domain-name": "serv.ehttp.com", 
+        "fuzzer": "subdomain", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "208.73.210.202", 
+            "208.73.210.217", 
+            "208.73.211.165", 
+            "208.73.211.177"
+        ], 
+        "dns-ns": [
+            "ns1.dsredirection.com", 
+            "ns2.dsredirection.com"
+        ], 
+        "domain-name": "serve.http.com", 
+        "fuzzer": "subdomain", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 0
+    }
+]

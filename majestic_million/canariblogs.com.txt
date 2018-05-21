@@ -1,0 +1,51 @@
+[
+    {
+        "dns-a": [
+            "199.193.248.73"
+        ], 
+        "dns-ns": [
+            "dns1.registrar-servers.com", 
+            "dns2.registrar-servers.com"
+        ], 
+        "domain-name": "canariblogs.com", 
+        "fuzzer": "original*", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 100
+    }, 
+    {
+        "dns-a": [
+            "35.165.255.15"
+        ], 
+        "domain-name": "canar.iblogs.com", 
+        "fuzzer": "subdomain", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "104.16.104.123", 
+            "104.16.105.123", 
+            "104.16.106.123", 
+            "104.16.107.123", 
+            "104.16.108.123"
+        ], 
+        "dns-mx": [
+            "mail.typepad.com"
+        ], 
+        "dns-ns": [
+            "noah.ns.cloudflare.com", 
+            "roxy.ns.cloudflare.com"
+        ], 
+        "domain-name": "canari.blogs.com", 
+        "fuzzer": "subdomain"
+    }, 
+    {
+        "dns-a": [
+            "75.126.101.249"
+        ], 
+        "domain-name": "canaribl.ogs.com", 
+        "fuzzer": "subdomain", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 0
+    }
+]

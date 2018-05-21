@@ -1,0 +1,74 @@
+[
+    {
+        "dns-a": [
+            "202.12.97.4"
+        ], 
+        "dns-mx": [
+            "ALT1.ASPMX.L.GOOGLE.COM", 
+            "ALT2.ASPMX.L.GOOGLE.COM", 
+            "ASPMX.L.GOOGLE.COM", 
+            "ASPMX2.GOOGLEMAIL.COM", 
+            "ASPMX3.GOOGLEMAIL.COM"
+        ], 
+        "dns-ns": [
+            "ns0.kku.ac.th", 
+            "ns1.kku.ac.th", 
+            "ns2.kku.ac.th"
+        ], 
+        "domain-name": "kku.ac.th", 
+        "fuzzer": "original*", 
+        "geoip-country": "Thailand"
+    }, 
+    {
+        "dns-mx": [
+            "ALT1.ASPMX.L.GOOGLE.COM", 
+            "ALT2.ASPMX.L.GOOGLE.COM", 
+            "ALT3.ASPMX.L.GOOGLE.COM", 
+            "ALT4.ASPMX.L.GOOGLE.COM", 
+            "ASPMX.L.GOOGLE.COM"
+        ], 
+        "dns-ns": [
+            "ns1.kkw.ac.th", 
+            "ns2.kkw.ac.th"
+        ], 
+        "domain-name": "kkw.ac.th", 
+        "fuzzer": "bitsquatting"
+    }, 
+    {
+        "dns-a": [
+            "27.254.144.251"
+        ], 
+        "dns-mx": [
+            "ALT1.ASPMX.L.GOOGLE.COM", 
+            "ALT2.ASPMX.L.GOOGLE.COM", 
+            "ALT3.ASPMX.L.GOOGLE.COM", 
+            "ALT4.ASPMX.L.GOOGLE.COM", 
+            "ASPMX.L.GOOGLE.COM"
+        ], 
+        "dns-ns": [
+            "ns1.thaischool1.in.th", 
+            "ns2.thaischool1.in.th"
+        ], 
+        "domain-name": "kk.ac.th", 
+        "fuzzer": "omission", 
+        "geoip-country": "Thailand"
+    }, 
+    {
+        "dns-a": [
+            "158.108.216.5"
+        ], 
+        "dns-aaaa": [
+            "2406:3100:1010:100::5"
+        ], 
+        "dns-mx": [
+            "antispam2.ku.ac.th", 
+            "mailgw.ku.ac.th"
+        ], 
+        "dns-ns": [
+            "ns.ku.ac.th", 
+            "ns2.ku.ac.th"
+        ], 
+        "domain-name": "ku.ac.th", 
+        "fuzzer": "omission"
+    }
+]

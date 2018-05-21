@@ -1,0 +1,116 @@
+[
+    {
+        "dns-a": [
+            "216.239.32.21", 
+            "216.239.34.21", 
+            "216.239.36.21", 
+            "216.239.38.21"
+        ], 
+        "dns-aaaa": [
+            "2001:4860:4802:32::15", 
+            "2001:4860:4802:34::15", 
+            "2001:4860:4802:36::15", 
+            "2001:4860:4802:38::15"
+        ], 
+        "dns-mx": [
+            "za-smtp-inbound-1.mimecast.co.za", 
+            "za-smtp-inbound-2.mimecast.co.za"
+        ], 
+        "dns-ns": [
+            "ns1.lexsynergy.net", 
+            "ns2.lexsynergy.us", 
+            "ns3.lexsynergy.info"
+        ], 
+        "domain-name": "timeslive.co.za", 
+        "fuzzer": "original*", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 100
+    }, 
+    {
+        "dns-ns": [
+            "ns1.lexsynergy.net", 
+            "ns2.lexsynergy.us", 
+            "ns3.lexsynergy.info"
+        ], 
+        "domain-name": "timeslives.co.za", 
+        "fuzzer": "addition"
+    }, 
+    {
+        "dns-a": [
+            "185.53.177.29"
+        ], 
+        "dns-ns": [
+            "ns1.singleplan.com", 
+            "ns2.singleplan.com"
+        ], 
+        "domain-name": "timeslife.co.za", 
+        "fuzzer": "bitsquatting", 
+        "geoip-country": "Germany", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "66.45.255.180"
+        ], 
+        "dns-mx": [
+            "mail.t1meslive.co.za"
+        ], 
+        "dns-ns": [
+            "cdns1.interserver.net", 
+            "cdns2.interserver.net", 
+            "cdns3.interserver.net"
+        ], 
+        "domain-name": "t1meslive.co.za", 
+        "fuzzer": "homoglyph", 
+        "geoip-country": "United States"
+    }, 
+    {
+        "dns-ns": [
+            "ns1.lexsynergy.net", 
+            "ns2.lexsynergy.us", 
+            "ns3.lexsynergy.info"
+        ], 
+        "domain-name": "timesalive.co.za", 
+        "fuzzer": "insertion"
+    }, 
+    {
+        "dns-a": [
+            "212.20.251.81"
+        ], 
+        "dns-aaaa": [
+            "2a02:16e0:200:4:0:2:0:4"
+        ], 
+        "dns-ns": [
+            "ns1.lexsynergy.net", 
+            "ns2.lexsynergy.us", 
+            "ns3.lexsynergy.info"
+        ], 
+        "domain-name": "timelive.co.za", 
+        "fuzzer": "omission", 
+        "geoip-country": "United Kingdom", 
+        "ssdeep-score": 100
+    }, 
+    {
+        "dns-a": [
+            "196.22.142.10"
+        ], 
+        "dns-ns": [
+            "ns1.dns-h.com", 
+            "ns1.host-h.net", 
+            "ns2.host-h.net"
+        ], 
+        "domain-name": "timeslice.co.za", 
+        "fuzzer": "replacement", 
+        "geoip-country": "South Africa", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "199.59.242.150"
+        ], 
+        "domain-name": "timesli.ve.co.za", 
+        "fuzzer": "subdomain", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 0
+    }
+]

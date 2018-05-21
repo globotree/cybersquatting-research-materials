@@ -1,0 +1,47 @@
+[
+    {
+        "dns-mx": [
+            "cust27595-1.in.mailcontrol.com", 
+            "cust27595-2.in.mailcontrol.com"
+        ], 
+        "dns-ns": [
+            "dns0.star.co.uk", 
+            "dns1.star.co.uk"
+        ], 
+        "domain-name": "english-heritage.org.uk", 
+        "fuzzer": "original*", 
+        "mx-spy": true
+    }, 
+    {
+        "dns-ns": [
+            "1a7ea920.bitcoin-dns.hosting", 
+            "a8332f3a.bitcoin-dns.hosting", 
+            "ad636824.bitcoin-dns.hosting", 
+            "c358ea2d.bitcoin-dns.hosting"
+        ], 
+        "domain-name": "english-heritge.org.uk", 
+        "fuzzer": "omission"
+    }, 
+    {
+        "dns-a": [
+            "144.76.0.242", 
+            "144.76.1.130"
+        ], 
+        "dns-ns": [
+            "ns1.ndsplitter.com", 
+            "ns2.ndsplitter.com", 
+            "ns3.ndsplitter.com"
+        ], 
+        "domain-name": "english-hertage.org.uk", 
+        "fuzzer": "omission", 
+        "geoip-country": "Germany"
+    }, 
+    {
+        "dns-a": [
+            "109.239.101.62"
+        ], 
+        "domain-name": "english-herita.ge.org.uk", 
+        "fuzzer": "subdomain", 
+        "geoip-country": "United Kingdom"
+    }
+]

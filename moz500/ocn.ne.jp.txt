@@ -1,0 +1,136 @@
+[
+    {
+        "dns-mx": [
+            "gateway3.ocn.ad.jp", 
+            "gateway4.ocn.ad.jp"
+        ], 
+        "dns-ns": [
+            "ns1.ocn.ad.jp", 
+            "ns2.ocn.ad.jp"
+        ], 
+        "domain-name": "ocn.ne.jp", 
+        "fuzzer": "original*"
+    }, 
+    {
+        "dns-mx": [
+            "mail2.ncn.ne.jp"
+        ], 
+        "dns-ns": [
+            "dns.ncn.ne.jp", 
+            "ns1.dns.ne.jp", 
+            "ns2.dns.ne.jp"
+        ], 
+        "domain-name": "ncn.ne.jp", 
+        "fuzzer": "bitsquatting", 
+        "mx-spy": true
+    }, 
+    {
+        "dns-mx": [
+            "mail5.mcn.ne.jp", 
+            "mail6.mcn.ne.jp"
+        ], 
+        "dns-ns": [
+            "ns.mediawars.ne.jp", 
+            "ns2.mediawars.ne.jp"
+        ], 
+        "domain-name": "mcn.ne.jp", 
+        "fuzzer": "bitsquatting"
+    }, 
+    {
+        "dns-a": [
+            "61.86.4.11"
+        ], 
+        "dns-mx": [
+            "mailgw.kcn.ne.jp"
+        ], 
+        "dns-ns": [
+            "dns0.kcn.ne.jp", 
+            "dns1.kcn.ne.jp"
+        ], 
+        "domain-name": "kcn.ne.jp", 
+        "fuzzer": "bitsquatting", 
+        "geoip-country": "Japan"
+    }, 
+    {
+        "dns-mx": [
+            "dmail.kagoya.net"
+        ], 
+        "dns-ns": [
+            "ns0.kagoya.net", 
+            "ns1.kagoya.net"
+        ], 
+        "domain-name": "obn.ne.jp", 
+        "fuzzer": "bitsquatting"
+    }, 
+    {
+        "dns-a": [
+            "160.16.87.14"
+        ], 
+        "dns-mx": [
+            "mail.icn.ne.jp"
+        ], 
+        "dns-ns": [
+            "ns1.icn.ne.jp"
+        ], 
+        "domain-name": "icn.ne.jp", 
+        "fuzzer": "replacement"
+    }, 
+    {
+        "dns-a": [
+            "143.90.129.12"
+        ], 
+        "dns-mx": [
+            "cluster1.us.messagelabs.com", 
+            "cluster1a.us.messagelabs.com"
+        ], 
+        "dns-ns": [
+            "ns2.odn.ne.jp", 
+            "ns4.odn.ne.jp"
+        ], 
+        "domain-name": "odn.ne.jp", 
+        "fuzzer": "replacement", 
+        "geoip-country": "Japan"
+    }, 
+    {
+        "dns-ns": [
+            "ns-tk023.ocn.ad.jp", 
+            "server.ecn.jp", 
+            "server.ecn.ne.jp"
+        ], 
+        "domain-name": "ecn.ne.jp", 
+        "fuzzer": "vowel-swap"
+    }, 
+    {
+        "dns-a": [
+            "210.166.223.90"
+        ], 
+        "dns-mx": [
+            "mail.ucn.ne.jp"
+        ], 
+        "dns-ns": [
+            "dns2.ixent.ne.jp", 
+            "ns.ucn.ne.jp"
+        ], 
+        "domain-name": "ucn.ne.jp", 
+        "fuzzer": "vowel-swap"
+    }, 
+    {
+        "dns-mx": [
+            "acn.acn.ne.jp"
+        ], 
+        "dns-ns": [
+            "dns01.bekknet.ad.jp", 
+            "dns02.bekknet.ad.jp"
+        ], 
+        "domain-name": "acn.ne.jp", 
+        "fuzzer": "vowel-swap"
+    }, 
+    {
+        "dns-ns": [
+            "ns1.ocn.ad.jp", 
+            "ns2.ocn.ad.jp"
+        ], 
+        "domain-name": "ocn.jp", 
+        "fuzzer": "various"
+    }
+]

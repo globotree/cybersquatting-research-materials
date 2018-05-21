@@ -1,0 +1,91 @@
+[
+    {
+        "dns-a": [
+            "63.245.213.12"
+        ], 
+        "dns-mx": [
+            "mail.mozilla-europe.org"
+        ], 
+        "dns-ns": [
+            "ns1-240.akam.net", 
+            "ns4-64.akam.net", 
+            "ns5-65.akam.net", 
+            "ns7-66.akam.net"
+        ], 
+        "domain-name": "mozilla-europe.org", 
+        "fuzzer": "original*", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 100
+    }, 
+    {
+        "dns-a": [
+            "13.32.8.127", 
+            "13.32.8.135", 
+            "13.32.8.149", 
+            "13.32.8.151", 
+            "13.32.8.155", 
+            "13.32.8.183", 
+            "13.32.8.4", 
+            "13.32.8.62"
+        ], 
+        "dns-ns": [
+            "ns-1325.awsdns-37.org", 
+            "ns-1785.awsdns-31.co.uk", 
+            "ns-75.awsdns-09.com", 
+            "ns-972.awsdns-57.net"
+        ], 
+        "domain-name": "mozilla--europe.org", 
+        "fuzzer": "hyphenation", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "63.245.213.22"
+        ], 
+        "dns-mx": [
+            "mail.mozilla-europe.org"
+        ], 
+        "dns-ns": [
+            "ns1-240.akam.net", 
+            "ns4-64.akam.net", 
+            "ns5-65.akam.net", 
+            "ns7-66.akam.net"
+        ], 
+        "domain-name": "mozillaeurope.org", 
+        "fuzzer": "omission", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 100
+    }, 
+    {
+        "dns-a": [
+            "54.72.9.51"
+        ], 
+        "dns-ns": [
+            "ns1.parkingcrew.net", 
+            "ns2.parkingcrew.net"
+        ], 
+        "domain-name": "mozilla-eur.ope.org", 
+        "fuzzer": "subdomain", 
+        "geoip-country": "Ireland", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "69.64.147.34"
+        ], 
+        "domain-name": "mozilla-euro.pe.org", 
+        "fuzzer": "subdomain", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "217.194.213.243"
+        ], 
+        "domain-name": "mozilla-europ.e.org", 
+        "fuzzer": "subdomain", 
+        "geoip-country": "United Kingdom", 
+        "ssdeep-score": 0
+    }
+]

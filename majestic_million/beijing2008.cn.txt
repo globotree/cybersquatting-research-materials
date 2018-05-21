@@ -1,0 +1,95 @@
+[
+    {
+        "dns-a": [
+            "210.51.190.79"
+        ], 
+        "dns-mx": [
+            "mail.beijing2008.cn", 
+            "smtp.beijing2008.cn"
+        ], 
+        "dns-ns": [
+            "ns1.sfn.cn", 
+            "ns2.sfn.cn"
+        ], 
+        "domain-name": "beijing2008.cn", 
+        "fuzzer": "original*", 
+        "geoip-country": "China", 
+        "ssdeep-score": 100
+    }, 
+    {
+        "dns-a": [
+            "139.129.87.178"
+        ], 
+        "dns-ns": [
+            "f1g1ns1.dnspod.net", 
+            "f1g1ns2.dnspod.net"
+        ], 
+        "domain-name": "beijing2008y.cn", 
+        "fuzzer": "addition", 
+        "geoip-country": "China"
+    }, 
+    {
+        "dns-a": [
+            "162.209.206.55"
+        ], 
+        "dns-ns": [
+            "f1g1ns1.dnspod.net", 
+            "f1g1ns2.dnspod.net"
+        ], 
+        "domain-name": "beijinq2008.cn", 
+        "fuzzer": "homoglyph", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "61.135.189.65"
+        ], 
+        "dns-ns": [
+            "dns1.hichina.com", 
+            "dns2.hichina.com"
+        ], 
+        "domain-name": "beijing-2008.cn", 
+        "fuzzer": "hyphenation", 
+        "geoip-country": "China"
+    }, 
+    {
+        "dns-a": [
+            "101.37.82.109"
+        ], 
+        "dns-ns": [
+            "dns31.hichina.com", 
+            "dns32.hichina.com"
+        ], 
+        "domain-name": "beijin2008.cn", 
+        "fuzzer": "omission", 
+        "geoip-country": "China"
+    }, 
+    {
+        "dns-a": [
+            "61.135.189.65"
+        ], 
+        "domain-name": "beijing.2008.cn", 
+        "fuzzer": "subdomain", 
+        "geoip-country": "China"
+    }, 
+    {
+        "dns-a": [
+            "47.90.82.159"
+        ], 
+        "domain-name": "beijing200.8.cn", 
+        "fuzzer": "subdomain", 
+        "geoip-country": "United States"
+    }, 
+    {
+        "dns-a": [
+            "23.107.241.83"
+        ], 
+        "dns-ns": [
+            "ns3.dnsdun.com", 
+            "ns3.dnsdun.net"
+        ], 
+        "domain-name": "beijing2008cn.cn", 
+        "fuzzer": "various"
+    }
+]

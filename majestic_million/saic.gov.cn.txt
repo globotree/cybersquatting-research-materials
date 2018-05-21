@@ -1,0 +1,102 @@
+[
+    {
+        "dns-a": [
+            "61.153.45.205"
+        ], 
+        "dns-ns": [
+            "ns13.xincache.com", 
+            "ns14.xincache.com"
+        ], 
+        "domain-name": "waic.gov.cn", 
+        "fuzzer": "bitsquatting", 
+        "geoip-country": "China"
+    }, 
+    {
+        "dns-a": [
+            "61.135.203.75"
+        ], 
+        "dns-mx": [
+            "mx.qiye.163.com", 
+            "mx2.qiye.163.com"
+        ], 
+        "dns-ns": [
+            "ns1.sfn.cn", 
+            "ns2.sfn.cn"
+        ], 
+        "domain-name": "saac.gov.cn", 
+        "fuzzer": "bitsquatting", 
+        "geoip-country": "China"
+    }, 
+    {
+        "dns-a": [
+            "222.143.21.134"
+        ], 
+        "dns-ns": [
+            "dns13.hichina.com", 
+            "dns14.hichina.com"
+        ], 
+        "domain-name": "sqaic.gov.cn", 
+        "fuzzer": "insertion", 
+        "geoip-country": "China"
+    }, 
+    {
+        "dns-a": [
+            "14.18.208.40"
+        ], 
+        "dns-ns": [
+            "dns1.hichina.com", 
+            "dns2.hichina.com"
+        ], 
+        "domain-name": "swaic.gov.cn", 
+        "fuzzer": "insertion", 
+        "geoip-country": "China"
+    }, 
+    {
+        "dns-a": [
+            "127.0.0.1"
+        ], 
+        "dns-mx": [
+            "mail.szaic.gov.cn"
+        ], 
+        "dns-ns": [
+            "ns1.dns.com.cn", 
+            "ns2.dns.com.cn"
+        ], 
+        "domain-name": "szaic.gov.cn", 
+        "fuzzer": "insertion"
+    }, 
+    {
+        "dns-ns": [
+            "ns.cei.gov.cn", 
+            "stup5.cei.gov.cn"
+        ], 
+        "domain-name": "sic.gov.cn", 
+        "fuzzer": "omission"
+    }, 
+    {
+        "dns-mx": [
+            "mail.aqsiq.gov.cn"
+        ], 
+        "dns-ns": [
+            "dns.aqsiq.gov.cn", 
+            "dns1.aqsiq.gov.cn"
+        ], 
+        "domain-name": "sac.gov.cn", 
+        "fuzzer": "omission"
+    }, 
+    {
+        "dns-a": [
+            "111.3.155.32"
+        ], 
+        "domain-name": "asic.gov.cn", 
+        "fuzzer": "transposition", 
+        "geoip-country": "China"
+    }, 
+    {
+        "dns-a": [
+            "50.117.120.251"
+        ], 
+        "domain-name": "saicgov.cn", 
+        "fuzzer": "various"
+    }
+]

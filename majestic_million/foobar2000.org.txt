@@ -1,0 +1,75 @@
+[
+    {
+        "dns-a": [
+            "89.238.182.187"
+        ], 
+        "dns-mx": [
+            "fb.mail.gandi.net", 
+            "spool.mail.gandi.net"
+        ], 
+        "dns-ns": [
+            "a.dns.gandi.net", 
+            "b.dns.gandi.net", 
+            "c.dns.gandi.net"
+        ], 
+        "domain-name": "foobar2000.org", 
+        "fuzzer": "original*", 
+        "geoip-country": "United Kingdom", 
+        "ssdeep-score": 97
+    }, 
+    {
+        "dns-a": [
+            "103.224.182.241"
+        ], 
+        "dns-mx": [
+            "park-mx.above.com"
+        ], 
+        "dns-ns": [
+            "ns1.above.com", 
+            "ns2.above.com"
+        ], 
+        "domain-name": "foobar200.org", 
+        "fuzzer": "omission", 
+        "geoip-country": "Australia", 
+        "mx-spy": true, 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-ns": [
+            "ns1.uniregistrymarket.link", 
+            "ns2.uniregistrymarket.link"
+        ], 
+        "domain-name": "foobar.2000.org", 
+        "fuzzer": "subdomain"
+    }, 
+    {
+        "dns-a": [
+            "72.52.4.121"
+        ], 
+        "dns-mx": [
+            "localhost"
+        ], 
+        "dns-ns": [
+            "ns1.sedoparking.com", 
+            "ns2.sedoparking.com"
+        ], 
+        "domain-name": "foobar2.000.org", 
+        "fuzzer": "subdomain", 
+        "geoip-country": "United States", 
+        "mx-spy": true, 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "69.172.201.153"
+        ], 
+        "dns-ns": [
+            "ns1.uniregistrymarket.link", 
+            "ns2.uniregistrymarket.link"
+        ], 
+        "domain-name": "foobar200.0.org", 
+        "fuzzer": "subdomain", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 0
+    }
+]

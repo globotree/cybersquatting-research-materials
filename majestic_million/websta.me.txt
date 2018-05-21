@@ -1,0 +1,131 @@
+[
+    {
+        "dns-a": [
+            "104.20.192.2", 
+            "104.20.193.2"
+        ], 
+        "dns-mx": [
+            "alt1.aspmx.l.google.com", 
+            "alt2.aspmx.l.google.com", 
+            "aspmx.l.google.com", 
+            "aspmx2.googlemail.com", 
+            "aspmx3.googlemail.com"
+        ], 
+        "dns-ns": [
+            "jill.ns.cloudflare.com", 
+            "josh.ns.cloudflare.com"
+        ], 
+        "domain-name": "websta.me", 
+        "fuzzer": "original*", 
+        "geoip-country": "United States"
+    }, 
+    {
+        "dns-a": [
+            "104.28.16.126", 
+            "104.28.17.126"
+        ], 
+        "dns-aaaa": [
+            "2400:cb00:2048:1::681c:107e", 
+            "2400:cb00:2048:1::681c:117e"
+        ], 
+        "dns-mx": [
+            "mail.webstar.me"
+        ], 
+        "dns-ns": [
+            "mimi.ns.cloudflare.com", 
+            "nick.ns.cloudflare.com"
+        ], 
+        "domain-name": "webstar.me", 
+        "fuzzer": "addition", 
+        "geoip-country": "United States"
+    }, 
+    {
+        "dns-a": [
+            "104.28.4.35", 
+            "104.28.5.35"
+        ], 
+        "dns-aaaa": [
+            "2400:cb00:2048:1::681c:423", 
+            "2400:cb00:2048:1::681c:523"
+        ], 
+        "dns-ns": [
+            "dell.ns.cloudflare.com", 
+            "duke.ns.cloudflare.com"
+        ], 
+        "domain-name": "wersta.me", 
+        "fuzzer": "bitsquatting", 
+        "geoip-country": "United States"
+    }, 
+    {
+        "dns-a": [
+            "94.136.40.51"
+        ], 
+        "dns-mx": [
+            "mx0.123-reg.co.uk", 
+            "mx1.123-reg.co.uk"
+        ], 
+        "dns-ns": [
+            "ns.123-reg.co.uk", 
+            "ns2.123-reg.co.uk"
+        ], 
+        "domain-name": "westa.me", 
+        "fuzzer": "omission"
+    }, 
+    {
+        "dns-a": [
+            "49.212.201.64"
+        ], 
+        "dns-mx": [
+            "10orgel-dj.com.tera.webst.me", 
+            "request-dj.com.tera.webst.me", 
+            "webst.me"
+        ], 
+        "dns-ns": [
+            "ns01.domain-mail.jp", 
+            "ns02.domain-mail.jp"
+        ], 
+        "domain-name": "webst.me", 
+        "fuzzer": "omission", 
+        "geoip-country": "Japan"
+    }, 
+    {
+        "dns-a": [
+            "34.196.13.28"
+        ], 
+        "dns-mx": [
+            "mail.happyisp.com"
+        ], 
+        "dns-ns": [
+            "ns1.pql.net", 
+            "ns2.pql.net", 
+            "ns3.tppns.com", 
+            "ns4.tppns.com"
+        ], 
+        "domain-name": "webta.me", 
+        "fuzzer": "omission", 
+        "geoip-country": "United States", 
+        "mx-spy": true
+    }, 
+    {
+        "dns-a": [
+            "74.217.253.90"
+        ], 
+        "dns-ns": [
+            "ns1.iwantmyname.net", 
+            "ns2.iwantmyname.net", 
+            "ns3.iwantmyname.net", 
+            "ns4.iwantmyname.net"
+        ], 
+        "domain-name": "wbsta.me", 
+        "fuzzer": "omission", 
+        "geoip-country": "United States"
+    }, 
+    {
+        "dns-a": [
+            "89.31.143.1"
+        ], 
+        "domain-name": "web.sta.me", 
+        "fuzzer": "subdomain", 
+        "geoip-country": "Germany"
+    }
+]

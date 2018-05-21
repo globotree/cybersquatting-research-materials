@@ -1,0 +1,392 @@
+[
+    {
+        "dns-a": [
+            "115.238.23.240", 
+            "140.205.77.240"
+        ], 
+        "dns-ns": [
+            "ns8.alibabaonline.com", 
+            "nshz.alibabaonline.com", 
+            "nsp.alibabaonline.com", 
+            "nsp2.alibabaonline.com"
+        ], 
+        "domain-name": "alicdn.com", 
+        "fuzzer": "original*", 
+        "geoip-country": "China"
+    }, 
+    {
+        "dns-a": [
+            "156.235.152.146"
+        ], 
+        "dns-ns": [
+            "f1g1ns1.dnspod.net", 
+            "f1g1ns2.dnspod.net"
+        ], 
+        "domain-name": "alicdnn.com", 
+        "fuzzer": "addition", 
+        "geoip-country": "United States"
+    }, 
+    {
+        "dns-mx": [
+            "mx1.alicdns.com", 
+            "mx2.alicdns.com"
+        ], 
+        "dns-ns": [
+            "dns1.hichina.com", 
+            "dns2.hichina.com"
+        ], 
+        "domain-name": "alicdns.com", 
+        "fuzzer": "addition"
+    }, 
+    {
+        "dns-mx": [
+            "mail.eligasht.com"
+        ], 
+        "dns-ns": [
+            "deb.ns.cloudflare.com", 
+            "jeff.ns.cloudflare.com"
+        ], 
+        "domain-name": "elicdn.com", 
+        "fuzzer": "bitsquatting"
+    }, 
+    {
+        "dns-mx": [
+            "alt1.aspmx.l.google.com", 
+            "alt2.aspmx.l.google.com", 
+            "aspmx.l.google.com", 
+            "aspmx2.googlemail.com", 
+            "aspmx3.googlemail.com"
+        ], 
+        "dns-ns": [
+            "ns1.markmonitor.com", 
+            "ns2.markmonitor.com", 
+            "ns3.markmonitor.com", 
+            "ns4.markmonitor.com", 
+            "ns5.markmonitor.com", 
+            "ns6.markmonitor.com", 
+            "ns7.markmonitor.com"
+        ], 
+        "domain-name": "adicdn.com", 
+        "fuzzer": "bitsquatting"
+    }, 
+    {
+        "dns-a": [
+            "104.25.86.9", 
+            "104.25.87.9"
+        ], 
+        "dns-aaaa": [
+            "2400:cb00:2048:1::6819:5609", 
+            "2400:cb00:2048:1::6819:5709"
+        ], 
+        "dns-ns": [
+            "chuck.ns.cloudflare.com", 
+            "sandy.ns.cloudflare.com"
+        ], 
+        "domain-name": "alacdn.com", 
+        "fuzzer": "bitsquatting", 
+        "geoip-country": "United States"
+    }, 
+    {
+        "dns-a": [
+            "68.178.213.61"
+        ], 
+        "dns-ns": [
+            "ns1.namefind.com", 
+            "ns2.namefind.com"
+        ], 
+        "domain-name": "alicen.com", 
+        "fuzzer": "bitsquatting", 
+        "geoip-country": "United States"
+    }, 
+    {
+        "dns-a": [
+            "185.210.92.81"
+        ], 
+        "dns-mx": [
+            "alictn.com"
+        ], 
+        "dns-ns": [
+            "eu.domainhizmetleri.net", 
+            "tr.domainhizmetleri.net"
+        ], 
+        "domain-name": "alictn.com", 
+        "fuzzer": "bitsquatting"
+    }, 
+    {
+        "dns-a": [
+            "216.194.64.193"
+        ], 
+        "domain-name": "allcdn.com", 
+        "fuzzer": "homoglyph", 
+        "geoip-country": "Canada"
+    }, 
+    {
+        "dns-a": [
+            "120.27.227.152"
+        ], 
+        "dns-ns": [
+            "dns3.hichina.com", 
+            "dns4.hichina.com"
+        ], 
+        "domain-name": "alicbn.com", 
+        "fuzzer": "homoglyph", 
+        "geoip-country": "China"
+    }, 
+    {
+        "dns-ns": [
+            "dns21.hichina.com", 
+            "dns22.hichina.com"
+        ], 
+        "domain-name": "ali-cdn.com", 
+        "fuzzer": "hyphenation"
+    }, 
+    {
+        "dns-a": [
+            "156.235.151.195"
+        ], 
+        "dns-ns": [
+            "ns21.ixwebhosting.com", 
+            "ns22.ixwebhosting.com"
+        ], 
+        "domain-name": "aliccdn.com", 
+        "fuzzer": "insertion", 
+        "geoip-country": "United States"
+    }, 
+    {
+        "dns-ns": [
+            "ns1.anson.local"
+        ], 
+        "domain-name": "aliucdn.com", 
+        "fuzzer": "insertion"
+    }, 
+    {
+        "dns-a": [
+            "216.146.46.10", 
+            "216.146.46.11"
+        ], 
+        "dns-mx": [
+            "mx00.1and1.com", 
+            "mx01.1and1.com"
+        ], 
+        "dns-ns": [
+            "ns1.p27.dynect.net", 
+            "ns2.p27.dynect.net", 
+            "ns3.p27.dynect.net", 
+            "ns4.p27.dynect.net"
+        ], 
+        "domain-name": "alcdn.com", 
+        "fuzzer": "omission", 
+        "geoip-country": "United States"
+    }, 
+    {
+        "dns-ns": [
+            "dns10.hichina.com", 
+            "dns9.hichina.com"
+        ], 
+        "domain-name": "alicn.com", 
+        "fuzzer": "omission"
+    }, 
+    {
+        "dns-ns": [
+            "dns1.p09.nsone.net", 
+            "dns2.p09.nsone.net", 
+            "dns3.p09.nsone.net", 
+            "dns4.p09.nsone.net", 
+            "ns1.p43.dynect.net", 
+            "ns2.p43.dynect.net", 
+            "ns3.p43.dynect.net", 
+            "ns4.p43.dynect.net"
+        ], 
+        "domain-name": "licdn.com", 
+        "fuzzer": "omission"
+    }, 
+    {
+        "dns-a": [
+            "69.172.201.153"
+        ], 
+        "dns-ns": [
+            "ns1.uniregistrymarket.link", 
+            "ns2.uniregistrymarket.link"
+        ], 
+        "domain-name": "alicd.com", 
+        "fuzzer": "omission", 
+        "geoip-country": "United States"
+    }, 
+    {
+        "dns-a": [
+            "115.231.100.108"
+        ], 
+        "dns-mx": [
+            "ALT1.ASPMX.L.GOOGLE.com", 
+            "ALT2.ASPMX.L.GOOGLE.com", 
+            "ASPMX.L.GOOGLE.com", 
+            "ASPMX2.GOOGLEMAIL.com", 
+            "ASPMX3.GOOGLEMAIL.com", 
+            "mx.ifaxin.org"
+        ], 
+        "dns-ns": [
+            "ns1.ialloc.com", 
+            "ns2.ialloc.com"
+        ], 
+        "domain-name": "aicdn.com", 
+        "fuzzer": "omission", 
+        "geoip-country": "China"
+    }, 
+    {
+        "dns-a": [
+            "47.91.205.84"
+        ], 
+        "domain-name": "alidn.com", 
+        "fuzzer": "omission", 
+        "geoip-country": "United States"
+    }, 
+    {
+        "dns-a": [
+            "156.235.151.221"
+        ], 
+        "dns-ns": [
+            "f1g1ns1.dnspod.net", 
+            "f1g1ns2.dnspod.net"
+        ], 
+        "domain-name": "aliicdn.com", 
+        "fuzzer": "repetition", 
+        "geoip-country": "United States"
+    }, 
+    {
+        "dns-a": [
+            "69.64.147.38"
+        ], 
+        "dns-ns": [
+            "dns1.name-services.com", 
+            "dns2.name-services.com", 
+            "dns3.name-services.com", 
+            "dns4.name-services.com", 
+            "dns5.name-services.com"
+        ], 
+        "domain-name": "aalicdn.com", 
+        "fuzzer": "repetition", 
+        "geoip-country": "United States"
+    }, 
+    {
+        "dns-a": [
+            "156.237.144.221"
+        ], 
+        "domain-name": "allicdn.com", 
+        "fuzzer": "repetition", 
+        "geoip-country": "United States"
+    }, 
+    {
+        "dns-a": [
+            "34.213.211.107", 
+            "54.69.153.127", 
+            "54.71.185.232"
+        ], 
+        "dns-mx": [
+            "truea.com"
+        ], 
+        "dns-ns": [
+            "ns-1013.awsdns-62.net", 
+            "ns-1200.awsdns-22.org", 
+            "ns-1839.awsdns-37.co.uk", 
+            "ns-92.awsdns-11.com"
+        ], 
+        "domain-name": "alocdn.com", 
+        "fuzzer": "replacement", 
+        "geoip-country": "United States"
+    }, 
+    {
+        "dns-a": [
+            "52.73.124.185", 
+            "54.164.198.60"
+        ], 
+        "dns-ns": [
+            "ns1.namebrightdns.com", 
+            "ns2.namebrightdns.com"
+        ], 
+        "domain-name": "alicsn.com", 
+        "fuzzer": "replacement", 
+        "geoip-country": "United States"
+    }, 
+    {
+        "dns-a": [
+            "209.126.122.22", 
+            "209.126.127.34"
+        ], 
+        "dns-mx": [
+            "smtp3.org"
+        ], 
+        "dns-ns": [
+            "mynameserver1.com", 
+            "mynameserver2.com", 
+            "mynameserver3.com", 
+            "mynameserver4.com"
+        ], 
+        "domain-name": "alicdh.com", 
+        "fuzzer": "replacement", 
+        "geoip-country": "United States"
+    }, 
+    {
+        "dns-a": [
+            "208.91.197.22"
+        ], 
+        "dns-ns": [
+            "dns1.namesecure.com", 
+            "dns2.namesecure.com"
+        ], 
+        "domain-name": "apicdn.com", 
+        "fuzzer": "replacement", 
+        "geoip-country": "Virgin Islands"
+    }, 
+    {
+        "dns-a": [
+            "87.248.214.64"
+        ], 
+        "domain-name": "a.licdn.com", 
+        "fuzzer": "subdomain", 
+        "geoip-country": "Europe"
+    }, 
+    {
+        "dns-a": [
+            "127.0.0.1"
+        ], 
+        "dns-ns": [
+            "ns63.domaincontrol.com", 
+            "ns64.domaincontrol.com"
+        ], 
+        "domain-name": "laicdn.com", 
+        "fuzzer": "transposition"
+    }, 
+    {
+        "dns-ns": [
+            "dns19.hichina.com", 
+            "dns20.hichina.com"
+        ], 
+        "domain-name": "ailcdn.com", 
+        "fuzzer": "transposition"
+    }, 
+    {
+        "dns-a": [
+            "23.234.54.137"
+        ], 
+        "dns-mx": [
+            "mxdomain.qq.com"
+        ], 
+        "dns-ns": [
+            "f1g1ns1.dnspod.net", 
+            "f1g1ns2.dnspod.net"
+        ], 
+        "domain-name": "alidcn.com", 
+        "fuzzer": "transposition"
+    }, 
+    {
+        "dns-a": [
+            "23.234.8.37"
+        ], 
+        "dns-ns": [
+            "ns3.dnsdun.com", 
+            "ns3.dnsdun.net"
+        ], 
+        "domain-name": "alecdn.com", 
+        "fuzzer": "vowel-swap"
+    }
+]

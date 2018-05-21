@@ -1,0 +1,106 @@
+[
+    {
+        "dns-a": [
+            "206.17.31.206", 
+            "63.241.232.211"
+        ], 
+        "dns-mx": [
+            "PA-GOV.mail.protection.outlook.com"
+        ], 
+        "dns-ns": [
+            "dns2.pa.gov", 
+            "dns3.pa.gov", 
+            "dns4.pa.gov", 
+            "dns5.pa.gov"
+        ], 
+        "domain-name": "pa.gov", 
+        "fuzzer": "original*", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 100
+    }, 
+    {
+        "dns-mx": [
+            "cust45693-1.in.mailcontrol.com", 
+            "cust45693-2.in.mailcontrol.com"
+        ], 
+        "dns-ns": [
+            "a1-12.akam.net", 
+            "a11-67.akam.net", 
+            "a14-64.akam.net", 
+            "a18-65.akam.net", 
+            "a20-66.akam.net", 
+            "a5-67.akam.net"
+        ], 
+        "domain-name": "pac.gov", 
+        "fuzzer": "addition", 
+        "mx-spy": true
+    }, 
+    {
+        "dns-a": [
+            "199.169.192.21"
+        ], 
+        "dns-aaaa": [
+            "2605:3100:fffd:100::15"
+        ], 
+        "dns-ns": [
+            "ns1.twai.gov", 
+            "ns2.twai.gov"
+        ], 
+        "domain-name": "pay.gov", 
+        "fuzzer": "addition", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "146.243.121.22", 
+            "170.63.206.57"
+        ], 
+        "dns-ns": [
+            "internet-dns1.state.ma.us", 
+            "internet-dns2.state.ma.us", 
+            "internet-dns3.state.ma.us"
+        ], 
+        "domain-name": "ma.gov", 
+        "fuzzer": "replacement", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "204.196.242.71"
+        ], 
+        "dns-mx": [
+            "mailppa1.swe.la.gov", 
+            "mailppa2.swe.la.gov", 
+            "mailppm.swe.la.gov"
+        ], 
+        "dns-ns": [
+            "server.brp.la.net", 
+            "server.noc.la.net"
+        ], 
+        "domain-name": "la.gov", 
+        "fuzzer": "replacement", 
+        "geoip-country": "United States", 
+        "mx-spy": true
+    }, 
+    {
+        "dns-a": [
+            "192.30.203.55"
+        ], 
+        "dns-aaaa": [
+            "2600:80c:d20:64::10"
+        ], 
+        "dns-ns": [
+            "dnssec10.datamtn.com", 
+            "dnssec11.datamtn.com", 
+            "dnssec7.datamtn.com", 
+            "dnssec9.datamtn.com", 
+            "gpaens2.doc.gov", 
+            "hchbens1.doc.gov"
+        ], 
+        "domain-name": "ap.gov", 
+        "fuzzer": "transposition", 
+        "geoip-country": "United States"
+    }
+]

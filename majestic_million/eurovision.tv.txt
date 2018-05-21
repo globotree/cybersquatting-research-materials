@@ -1,0 +1,113 @@
+[
+    {
+        "dns-a": [
+            "104.16.43.51", 
+            "104.16.44.51"
+        ], 
+        "dns-aaaa": [
+            "2400:cb00:2048:1::6810:2b33", 
+            "2400:cb00:2048:1::6810:2c33"
+        ], 
+        "dns-mx": [
+            "alt1.aspmx.l.google.com", 
+            "alt2.aspmx.l.google.com", 
+            "aspmx.l.google.com", 
+            "aspmx2.googlemail.com"
+        ], 
+        "dns-ns": [
+            "jeff.ns.cloudflare.com", 
+            "mary.ns.cloudflare.com"
+        ], 
+        "domain-name": "eurovision.tv", 
+        "fuzzer": "original*", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 100
+    }, 
+    {
+        "dns-a": [
+            "81.88.57.80"
+        ], 
+        "dns-mx": [
+            "mail.register.it"
+        ], 
+        "dns-ns": [
+            "ns1.register.it", 
+            "ns2.register.it"
+        ], 
+        "domain-name": "eurovisione.tv", 
+        "fuzzer": "addition", 
+        "geoip-country": "Italy"
+    }, 
+    {
+        "dns-a": [
+            "67.227.226.241"
+        ], 
+        "dns-mx": [
+            "mx156.hostedmxserver.com"
+        ], 
+        "dns-ns": [
+            "ns1.parklogic.com", 
+            "ns2.parklogic.com", 
+            "ns3.parklogic.com", 
+            "ns4.parklogic.com", 
+            "ns5.parklogic.com"
+        ], 
+        "domain-name": "eurovison.tv", 
+        "fuzzer": "omission", 
+        "geoip-country": "United States", 
+        "mx-spy": true, 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "173.0.140.210"
+        ], 
+        "dns-aaaa": [
+            "::173.0.140.210"
+        ], 
+        "dns-mx": [
+            "mail.paparigos.com"
+        ], 
+        "domain-name": "eurovi.sion.tv", 
+        "fuzzer": "subdomain", 
+        "geoip-country": "United States", 
+        "mx-spy": true, 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "69.172.201.153"
+        ], 
+        "dns-ns": [
+            "ns1.uniregistrymarket.link", 
+            "ns2.uniregistrymarket.link"
+        ], 
+        "domain-name": "eurovisi.on.tv", 
+        "fuzzer": "subdomain", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "185.53.178.9"
+        ], 
+        "dns-ns": [
+            "ns1.parkingcrew.net", 
+            "ns2.parkingcrew.net"
+        ], 
+        "domain-name": "eurovisio.n.tv", 
+        "fuzzer": "subdomain", 
+        "geoip-country": "Germany", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-ns": [
+            "dnsext1.ebu.ch", 
+            "ns1.dns.interoute.net", 
+            "ns2.dns.interoute.net", 
+            "ns3.dns.interoute.net"
+        ], 
+        "domain-name": "eurovision-tv.com", 
+        "fuzzer": "various"
+    }
+]

@@ -1,0 +1,33 @@
+[
+    {
+        "dns-a": [
+            "212.227.247.53"
+        ], 
+        "dns-aaaa": [
+            "2001:8d8:1000:d1c6:f71:c53f:65ae:2002", 
+            "2001:8d8:1001:6072:8bb6:b619:2479:0", 
+            "2001:8d8:1001:60e6:5159:1105:c019:6000"
+        ], 
+        "dns-mx": [
+            "mx00.1and1.co.uk", 
+            "mx01.1and1.co.uk"
+        ], 
+        "dns-ns": [
+            "ns-uk.1and1-dns.biz", 
+            "ns-uk.1and1-dns.co.uk", 
+            "ns-uk.1and1-dns.com", 
+            "ns-uk.1and1-dns.org"
+        ], 
+        "domain-name": "websitehome.co.uk", 
+        "fuzzer": "original*", 
+        "geoip-country": "Germany"
+    }, 
+    {
+        "dns-a": [
+            "80.87.129.199"
+        ], 
+        "domain-name": "website.home.co.uk", 
+        "fuzzer": "subdomain", 
+        "geoip-country": "United Kingdom"
+    }
+]

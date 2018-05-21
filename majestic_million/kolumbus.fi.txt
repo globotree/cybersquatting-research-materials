@@ -1,0 +1,57 @@
+[
+    {
+        "dns-a": [
+            "195.197.95.226"
+        ], 
+        "dns-mx": [
+            "fe-pa.mail.saunalahti.fi", 
+            "fe-stp.mail.saunalahti.fi", 
+            "mq01.mail.saunalahti.fi"
+        ], 
+        "dns-ns": [
+            "ns-fi.elisa.net", 
+            "ns-se.elisa.net"
+        ], 
+        "domain-name": "kolumbus.fi", 
+        "fuzzer": "original*", 
+        "geoip-country": "Finland", 
+        "ssdeep-score": 100
+    }, 
+    {
+        "dns-a": [
+            "46.51.175.229"
+        ], 
+        "dns-mx": [
+            "mail.nebula.fi"
+        ], 
+        "dns-ns": [
+            "ns.nebula.fi", 
+            "ns2.nebula.fi"
+        ], 
+        "domain-name": "columbus.fi", 
+        "fuzzer": "bitsquatting", 
+        "geoip-country": "Ireland", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-mx": [
+            "inbound-smtp.eu-west-1.amazonaws.com.olumbus.fi"
+        ], 
+        "dns-ns": [
+            "ns-127-a.gandi.net", 
+            "ns-168-b.gandi.net", 
+            "ns-50-c.gandi.net"
+        ], 
+        "domain-name": "olumbus.fi", 
+        "fuzzer": "omission"
+    }, 
+    {
+        "dns-a": [
+            "83.143.220.147"
+        ], 
+        "domain-name": "kolum.bus.fi", 
+        "fuzzer": "subdomain", 
+        "geoip-country": "Finland", 
+        "ssdeep-score": 0
+    }
+]

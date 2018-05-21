@@ -1,0 +1,37 @@
+[
+    {
+        "dns-a": [
+            "193.61.20.134"
+        ], 
+        "dns-mx": [
+            "cluster2.eu.messagelabs.com", 
+            "cluster2a.eu.messagelabs.com"
+        ], 
+        "dns-ns": [
+            "dns-ns0.ucl.ac.uk", 
+            "dns-ns1.ucl.ac.uk", 
+            "ns3.ja.net"
+        ], 
+        "domain-name": "bbk.ac.uk", 
+        "fuzzer": "original*", 
+        "geoip-country": "United Kingdom", 
+        "ssdeep-score": 100
+    }, 
+    {
+        "dns-a": [
+            "109.74.204.9"
+        ], 
+        "dns-mx": [
+            "array1.theemaillaundry.net", 
+            "array2.theemaillaundry.net"
+        ], 
+        "dns-ns": [
+            "extdns1.bbc.ac.uk", 
+            "extdns2.bbc.ac.uk", 
+            "ns4.ja.net"
+        ], 
+        "domain-name": "bbc.ac.uk", 
+        "fuzzer": "bitsquatting", 
+        "geoip-country": "United Kingdom"
+    }
+]

@@ -1,0 +1,84 @@
+[
+    {
+        "dns-a": [
+            "104.25.212.25", 
+            "104.25.213.25"
+        ], 
+        "dns-aaaa": [
+            "2400:cb00:2048:1::6819:d419", 
+            "2400:cb00:2048:1::6819:d519"
+        ], 
+        "dns-mx": [
+            "alt1.aspmx.l.google.com", 
+            "alt2.aspmx.l.google.com", 
+            "alt3.aspmx.l.google.com", 
+            "alt4.aspmx.l.google.com", 
+            "aspmx.l.google.com"
+        ], 
+        "dns-ns": [
+            "aron.ns.cloudflare.com", 
+            "dion.ns.cloudflare.com"
+        ], 
+        "domain-name": "specificfeeds.com", 
+        "fuzzer": "original*", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 90
+    }, 
+    {
+        "dns-a": [
+            "207.148.248.143"
+        ], 
+        "domain-name": "specificneeds.com", 
+        "fuzzer": "bitsquatting", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "74.220.199.6"
+        ], 
+        "dns-mx": [
+            "specificfeed.com"
+        ], 
+        "dns-ns": [
+            "ns1.bluehost.com", 
+            "ns2.bluehost.com"
+        ], 
+        "domain-name": "specificfeed.com", 
+        "fuzzer": "omission", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "69.172.201.153"
+        ], 
+        "dns-ns": [
+            "ns1.uniregistrymarket.link", 
+            "ns2.uniregistrymarket.link"
+        ], 
+        "domain-name": "specific.feeds.com", 
+        "fuzzer": "subdomain", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "208.83.143.131"
+        ], 
+        "domain-name": "specificf.eeds.com", 
+        "fuzzer": "subdomain", 
+        "geoip-country": "United States"
+    }, 
+    {
+        "dns-a": [
+            "73.115.40.242"
+        ], 
+        "dns-aaaa": [
+            "2001:558:6022:25:8d4e:94f6:c35f:5057"
+        ], 
+        "domain-name": "specificfee.ds.com", 
+        "fuzzer": "subdomain", 
+        "geoip-country": "United States"
+    }
+]

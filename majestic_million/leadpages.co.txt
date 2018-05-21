@@ -1,0 +1,51 @@
+[
+    {
+        "dns-a": [
+            "104.197.142.115"
+        ], 
+        "dns-ns": [
+            "ns-cloud-c1.googledomains.com", 
+            "ns-cloud-c2.googledomains.com", 
+            "ns-cloud-c3.googledomains.com", 
+            "ns-cloud-c4.googledomains.com"
+        ], 
+        "domain-name": "leadpages.co", 
+        "fuzzer": "original*", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 100
+    }, 
+    {
+        "dns-a": [
+            "37.19.112.12"
+        ], 
+        "domain-name": "lea.dpages.co", 
+        "fuzzer": "subdomain", 
+        "geoip-country": "Israel"
+    }, 
+    {
+        "dns-a": [
+            "72.52.4.122"
+        ], 
+        "dns-mx": [
+            "localhost"
+        ], 
+        "dns-ns": [
+            "ns1.sedoparking.com", 
+            "ns2.sedoparking.com"
+        ], 
+        "domain-name": "lead.pages.co", 
+        "fuzzer": "subdomain", 
+        "geoip-country": "United States", 
+        "mx-spy": true, 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "208.73.211.70"
+        ], 
+        "domain-name": "leadpag.es.co", 
+        "fuzzer": "subdomain", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 0
+    }
+]

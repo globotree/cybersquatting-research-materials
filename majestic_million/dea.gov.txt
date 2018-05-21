@@ -1,0 +1,74 @@
+[
+    {
+        "dns-a": [
+            "149.101.146.74"
+        ], 
+        "dns-aaaa": [
+            "2607:f330:8400:100::74"
+        ], 
+        "dns-mx": [
+            "mx-jdcw.usdoj.gov"
+        ], 
+        "dns-ns": [
+            "ns-jdcw-01.usdoj.gov", 
+            "ns-jdcw-02.usdoj.gov", 
+            "ns2.cjis.gov"
+        ], 
+        "domain-name": "dea.gov", 
+        "fuzzer": "original*", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 100
+    }, 
+    {
+        "dns-a": [
+            "209.193.7.22"
+        ], 
+        "dns-ns": [
+            "ns1.acsalaska.net", 
+            "ns2.acsalaska.net", 
+            "ns3.acsalaska.net", 
+            "ns4.acsalaska.net"
+        ], 
+        "domain-name": "fea.gov", 
+        "fuzzer": "bitsquatting", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "104.237.138.151"
+        ], 
+        "dns-mx": [
+            "mail.dra.gov", 
+            "mail2.dra.gov", 
+            "mail4.dra.gov", 
+            "mailcleaner.dra.gov", 
+            "mm.dra.gov"
+        ], 
+        "dns-ns": [
+            "ns1.panola.net", 
+            "ns2.panola.net"
+        ], 
+        "domain-name": "dra.gov", 
+        "fuzzer": "replacement"
+    }, 
+    {
+        "dns-a": [
+            "170.110.225.33"
+        ], 
+        "dns-mx": [
+            "eda-gov.mail.protection.outlook.com"
+        ], 
+        "dns-ns": [
+            "dnssec10.datamtn.com", 
+            "dnssec11.datamtn.com", 
+            "dnssec7.datamtn.com", 
+            "dnssec9.datamtn.com", 
+            "gpaens2.doc.gov", 
+            "hchbens1.doc.gov"
+        ], 
+        "domain-name": "eda.gov", 
+        "fuzzer": "transposition", 
+        "geoip-country": "United States"
+    }
+]

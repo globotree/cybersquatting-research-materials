@@ -1,0 +1,103 @@
+[
+    {
+        "dns-ns": [
+            "ns1.engelschall.com", 
+            "ns2.engelschall.com", 
+            "ns3.engelschall.com"
+        ], 
+        "domain-name": "modssl.org", 
+        "fuzzer": "original*"
+    }, 
+    {
+        "dns-a": [
+            "217.13.201.10"
+        ], 
+        "dns-mx": [
+            "mx1.mod-ssl.org", 
+            "mx2.mod-ssl.org"
+        ], 
+        "dns-ns": [
+            "ns11.worldserver.net", 
+            "ns12.worldserver.net"
+        ], 
+        "domain-name": "mod-ssl.org", 
+        "fuzzer": "hyphenation", 
+        "geoip-country": "Germany"
+    }, 
+    {
+        "dns-a": [
+            "64.29.151.221"
+        ], 
+        "dns-mx": [
+            "mx1c40.carrierzone.com", 
+            "mx2c40.carrierzone.com", 
+            "mx3c40.carrierzone.com"
+        ], 
+        "dns-ns": [
+            "ns1.aplus.net", 
+            "ns2.aplus.net", 
+            "ns3.aplus.net"
+        ], 
+        "domain-name": "mdssl.org", 
+        "fuzzer": "omission", 
+        "geoip-country": "United States"
+    }, 
+    {
+        "dns-a": [
+            "209.35.10.42"
+        ], 
+        "dns-mx": [
+            "mail.mossl.org"
+        ], 
+        "dns-ns": [
+            "name1.hammerweb.net", 
+            "name2.hammerweb.net"
+        ], 
+        "domain-name": "mossl.org", 
+        "fuzzer": "omission", 
+        "geoip-country": "United States"
+    }, 
+    {
+        "dns-a": [
+            "82.195.225.154"
+        ], 
+        "dns-aaaa": [
+            "2001:1b50::82:195:225:154"
+        ], 
+        "domain-name": "mo.dssl.org", 
+        "fuzzer": "subdomain", 
+        "geoip-country": "Switzerland"
+    }, 
+    {
+        "dns-a": [
+            "72.52.4.119"
+        ], 
+        "dns-mx": [
+            "localhost"
+        ], 
+        "dns-ns": [
+            "ns1.sedoparking.com", 
+            "ns2.sedoparking.com"
+        ], 
+        "domain-name": "mods.sl.org", 
+        "fuzzer": "subdomain", 
+        "geoip-country": "United States", 
+        "mx-spy": true
+    }, 
+    {
+        "dns-a": [
+            "50.63.46.1"
+        ], 
+        "dns-ns": [
+            "A.SERVICE.AFILIASDNS.INFO", 
+            "B.SERVICE.AFILIASDNS.org", 
+            "C.SERVICE.AFILIASDNS.NET", 
+            "D.SERVICE.AFILIASDNS.COM", 
+            "E.SERVICE.AFILIASDNS.INFO", 
+            "F.SERVICE.AFILIASDNS.NET"
+        ], 
+        "domain-name": "modss.l.org", 
+        "fuzzer": "subdomain", 
+        "geoip-country": "United States"
+    }
+]

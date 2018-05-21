@@ -1,0 +1,35 @@
+[
+    {
+        "dns-ns": [
+            "ns00.vips.ne.jp", 
+            "ns01.jp-it.net", 
+            "ns01.vips.ne.jp"
+        ], 
+        "domain-name": "japanpost.jp", 
+        "fuzzer": "original*"
+    }, 
+    {
+        "dns-a": [
+            "219.118.71.30"
+        ], 
+        "dns-ns": [
+            "usr-ns1.linkclub.jp", 
+            "usr-ns2.linkclub.jp"
+        ], 
+        "domain-name": "japanport.jp", 
+        "fuzzer": "bitsquatting", 
+        "geoip-country": "Japan"
+    }, 
+    {
+        "dns-a": [
+            "150.95.255.38"
+        ], 
+        "dns-ns": [
+            "dns1.onamae.com", 
+            "dns2.onamae.com"
+        ], 
+        "domain-name": "japan-post.jp", 
+        "fuzzer": "hyphenation", 
+        "geoip-country": "Japan"
+    }
+]

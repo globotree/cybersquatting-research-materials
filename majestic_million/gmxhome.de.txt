@@ -1,0 +1,54 @@
+[
+    {
+        "dns-a": [
+            "213.165.65.100"
+        ], 
+        "dns-mx": [
+            "mx00.gmx.net", 
+            "mx01.gmx.net"
+        ], 
+        "dns-ns": [
+            "ns10.schlund.de", 
+            "ns9.schlund.de"
+        ], 
+        "domain-name": "gmxhome.de", 
+        "fuzzer": "original*", 
+        "geoip-country": "Germany"
+    }, 
+    {
+        "dns-a": [
+            "82.165.229.87"
+        ], 
+        "dns-mx": [
+            "mx00.gmx.net", 
+            "mx01.gmx.net"
+        ], 
+        "dns-ns": [
+            "ns-gmx.ui-dns.biz", 
+            "ns-gmx.ui-dns.com", 
+            "ns-gmx.ui-dns.de", 
+            "ns-gmx.ui-dns.org"
+        ], 
+        "domain-name": "gmx-home.de", 
+        "fuzzer": "hyphenation", 
+        "geoip-country": "Germany"
+    }, 
+    {
+        "dns-ns": [
+            "ns10.managed-ip.com", 
+            "ns11.managed-ip.info", 
+            "ns12.managed-ip.info", 
+            "ns9.managed-ip.com"
+        ], 
+        "domain-name": "mxhome.de", 
+        "fuzzer": "omission"
+    }, 
+    {
+        "dns-a": [
+            "80.92.65.144"
+        ], 
+        "domain-name": "gmx.home.de", 
+        "fuzzer": "subdomain", 
+        "geoip-country": "Luxembourg"
+    }
+]

@@ -1,0 +1,133 @@
+[
+    {
+        "dns-a": [
+            "151.101.0.64", 
+            "151.101.128.64", 
+            "151.101.192.64", 
+            "151.101.64.64"
+        ], 
+        "dns-mx": [
+            "businessinsider-de.mail.protection.outlook.com"
+        ], 
+        "dns-ns": [
+            "dns1.p01.nsone.net", 
+            "dns2.p01.nsone.net", 
+            "dns3.p01.nsone.net", 
+            "dns4.p01.nsone.net", 
+            "ns1.p14.dynect.net", 
+            "ns2.p14.dynect.net", 
+            "ns3.p14.dynect.net", 
+            "ns4.p14.dynect.net"
+        ], 
+        "domain-name": "businessinsider.de", 
+        "fuzzer": "original*", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 100
+    }, 
+    {
+        "dns-a": [
+            "95.130.17.36"
+        ], 
+        "dns-mx": [
+            "mail.businessinsiders.de"
+        ], 
+        "dns-ns": [
+            "ns1.domainers.de", 
+            "ns2.domainers.de", 
+            "ns3.domainers.de", 
+            "ns4.domainers.de"
+        ], 
+        "domain-name": "businessinsiders.de", 
+        "fuzzer": "addition", 
+        "geoip-country": "Germany", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "65.52.128.33"
+        ], 
+        "dns-mx": [
+            "businessinsider-de02b.mail.protection.outlook.com"
+        ], 
+        "dns-ns": [
+            "a.ns14.net", 
+            "b.ns14.net", 
+            "c.ns14.net", 
+            "d.ns14.net"
+        ], 
+        "domain-name": "business-insider.de", 
+        "fuzzer": "hyphenation", 
+        "geoip-country": "Netherlands"
+    }, 
+    {
+        "dns-a": [
+            "176.9.83.229"
+        ], 
+        "dns-ns": [
+            "ns1.redirectdom.com", 
+            "ns2.redirectdom.com"
+        ], 
+        "domain-name": "businesinsider.de", 
+        "fuzzer": "omission", 
+        "geoip-country": "Germany", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "78.47.107.186"
+        ], 
+        "domain-name": "businessinside.de", 
+        "fuzzer": "omission", 
+        "geoip-country": "Germany"
+    }, 
+    {
+        "dns-a": [
+            "185.53.178.6"
+        ], 
+        "dns-mx": [
+            "mail.h-email.net"
+        ], 
+        "dns-ns": [
+            "ns1.parkingcrew.net", 
+            "ns2.parkingcrew.net"
+        ], 
+        "domain-name": "business.insider.de", 
+        "fuzzer": "subdomain", 
+        "geoip-country": "Germany", 
+        "mx-spy": true, 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "85.13.138.41"
+        ], 
+        "domain-name": "businessi.nsider.de", 
+        "fuzzer": "subdomain", 
+        "geoip-country": "Germany"
+    }, 
+    {
+        "dns-a": [
+            "80.246.60.90"
+        ], 
+        "domain-name": "businessins.ider.de", 
+        "fuzzer": "subdomain", 
+        "geoip-country": "Germany"
+    }, 
+    {
+        "dns-a": [
+            "185.53.178.6"
+        ], 
+        "dns-mx": [
+            "mail.h-email.net"
+        ], 
+        "dns-ns": [
+            "ns1.parkingcrew.net", 
+            "ns2.parkingcrew.net"
+        ], 
+        "domain-name": "buisnessinsider.de", 
+        "fuzzer": "transposition", 
+        "geoip-country": "Germany", 
+        "mx-spy": true, 
+        "ssdeep-score": 0
+    }
+]

@@ -1,0 +1,376 @@
+[
+    {
+        "dns-a": [
+            "104.20.67.46", 
+            "104.20.68.46"
+        ], 
+        "dns-aaaa": [
+            "2400:cb00:2048:1::6814:432e", 
+            "2400:cb00:2048:1::6814:442e"
+        ], 
+        "dns-mx": [
+            "alt1.aspmx.l.google.com", 
+            "alt2.aspmx.l.google.com", 
+            "alt3.aspmx.l.google.com", 
+            "alt4.aspmx.l.google.com", 
+            "aspmx.l.google.com"
+        ], 
+        "dns-ns": [
+            "emily.ns.cloudflare.com", 
+            "terin.ns.cloudflare.com"
+        ], 
+        "domain-name": "000webhost.com", 
+        "fuzzer": "original*", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 90
+    }, 
+    {
+        "dns-a": [
+            "208.73.210.202", 
+            "208.73.210.217", 
+            "208.73.211.165", 
+            "208.73.211.177"
+        ], 
+        "dns-ns": [
+            "ns1.dsredirection.com", 
+            "ns2.dsredirection.com"
+        ], 
+        "domain-name": "000webhosts.com", 
+        "fuzzer": "addition", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "141.8.224.169"
+        ], 
+        "dns-ns": [
+            "ns27.rookdns.com", 
+            "ns28.rookdns.com"
+        ], 
+        "domain-name": "100webhost.com", 
+        "fuzzer": "bitsquatting", 
+        "geoip-country": "Switzerland", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "209.250.83.6"
+        ], 
+        "dns-ns": [
+            "NS1.007NAMES.NET", 
+            "NS2.007NAMES.NET"
+        ], 
+        "domain-name": "800webhost.com", 
+        "fuzzer": "bitsquatting", 
+        "geoip-country": "United States"
+    }, 
+    {
+        "dns-a": [
+            "104.149.239.220"
+        ], 
+        "dns-mx": [
+            "mail.001webhost.com"
+        ], 
+        "dns-ns": [
+            "ferrari1.cms500.com", 
+            "ferrari2.cms500.com"
+        ], 
+        "domain-name": "001webhost.com", 
+        "fuzzer": "bitsquatting", 
+        "geoip-country": "United States"
+    }, 
+    {
+        "dns-a": [
+            "72.52.4.121"
+        ], 
+        "dns-mx": [
+            "localhost"
+        ], 
+        "dns-ns": [
+            "ns1.sedoparking.com", 
+            "ns2.sedoparking.com"
+        ], 
+        "domain-name": "000wabhost.com", 
+        "fuzzer": "bitsquatting", 
+        "geoip-country": "United States", 
+        "mx-spy": true, 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "209.126.123.11"
+        ], 
+        "dns-ns": [
+            "ns1.torresdns.com", 
+            "ns2.torresdns.com"
+        ], 
+        "domain-name": "000wedhost.com", 
+        "fuzzer": "homoglyph", 
+        "geoip-country": "United States"
+    }, 
+    {
+        "dns-a": [
+            "67.55.121.97"
+        ], 
+        "dns-ns": [
+            "ns1.000webh0st.com", 
+            "ns2.000webh0st.com"
+        ], 
+        "domain-name": "000webh0st.com", 
+        "fuzzer": "homoglyph", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "96.45.82.173", 
+            "96.45.82.99", 
+            "96.45.83.177", 
+            "96.45.83.59"
+        ], 
+        "dns-mx": [
+            "mx1.servage.net", 
+            "mx1.servage.net"
+        ], 
+        "dns-ns": [
+            "ns0.dnsmadeeasy.com", 
+            "ns1.dnsmadeeasy.com", 
+            "ns2.dnsmadeeasy.com", 
+            "ns3.dnsmadeeasy.com", 
+            "ns4.dnsmadeeasy.com"
+        ], 
+        "domain-name": "000webbhost.com", 
+        "fuzzer": "insertion", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "141.8.224.93"
+        ], 
+        "dns-ns": [
+            "ns7.rookdns.com", 
+            "ns8.rookdns.com"
+        ], 
+        "domain-name": "000webghost.com", 
+        "fuzzer": "insertion", 
+        "geoip-country": "Switzerland", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "167.114.142.1"
+        ], 
+        "dns-ns": [
+            "ns1.chookdns.com", 
+            "ns2.chookdns.com"
+        ], 
+        "domain-name": "000webhot.com", 
+        "fuzzer": "omission", 
+        "geoip-country": "Canada"
+    }, 
+    {
+        "dns-a": [
+            "67.227.226.241"
+        ], 
+        "dns-mx": [
+            "mx156.hostedmxserver.com"
+        ], 
+        "dns-ns": [
+            "ns1.parklogic.com", 
+            "ns2.parklogic.com", 
+            "ns3.parklogic.com", 
+            "ns4.parklogic.com", 
+            "ns5.parklogic.com"
+        ], 
+        "domain-name": "000webhos.com", 
+        "fuzzer": "omission", 
+        "geoip-country": "United States", 
+        "mx-spy": true, 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "103.224.182.207"
+        ], 
+        "dns-mx": [
+            "park-mx.above.com"
+        ], 
+        "dns-ns": [
+            "ns1.above.com", 
+            "ns2.above.com"
+        ], 
+        "domain-name": "000webhst.com", 
+        "fuzzer": "omission", 
+        "geoip-country": "Australia", 
+        "mx-spy": true, 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "54.221.207.100"
+        ], 
+        "dns-mx": [
+            "nullmx.domainmanager.com"
+        ], 
+        "dns-ns": [
+            "ns3.domainmanager.com", 
+            "ns4.domainmanager.com"
+        ], 
+        "domain-name": "00webhost.com", 
+        "fuzzer": "omission", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "67.55.92.182", 
+            "67.55.92.183"
+        ], 
+        "dns-mx": [
+            "mx7.000wehost.com"
+        ], 
+        "dns-ns": [
+            "ns3.renewyourexpiereddomain.com", 
+            "ns4.renewyourexpiereddomain.com"
+        ], 
+        "domain-name": "000wehost.com", 
+        "fuzzer": "omission", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "95.211.117.215"
+        ], 
+        "dns-ns": [
+            "ns1.hastydns.com", 
+            "ns2.hastydns.com"
+        ], 
+        "domain-name": "000ebhost.com", 
+        "fuzzer": "omission", 
+        "geoip-country": "Netherlands"
+    }, 
+    {
+        "dns-a": [
+            "208.73.210.202", 
+            "208.73.210.217", 
+            "208.73.211.165", 
+            "208.73.211.177"
+        ], 
+        "dns-ns": [
+            "ns1.dsredirection.com", 
+            "ns2.dsredirection.com"
+        ], 
+        "domain-name": "000webost.com", 
+        "fuzzer": "omission", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "141.8.224.169"
+        ], 
+        "dns-ns": [
+            "ns27.rookdns.com", 
+            "ns28.rookdns.com"
+        ], 
+        "domain-name": "000wbhost.com", 
+        "fuzzer": "omission", 
+        "geoip-country": "Switzerland", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "141.8.224.93"
+        ], 
+        "dns-ns": [
+            "ns7.rookdns.com", 
+            "ns8.rookdns.com"
+        ], 
+        "domain-name": "000webhoost.com", 
+        "fuzzer": "repetition", 
+        "geoip-country": "Switzerland", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "107.151.75.67"
+        ], 
+        "dns-mx": [
+            "mxbiz1.qq.com", 
+            "mxbiz2.qq.com"
+        ], 
+        "dns-ns": [
+            "f1g1ns1.dnspod.net", 
+            "f1g1ns2.dnspod.net"
+        ], 
+        "domain-name": "000webhist.com", 
+        "fuzzer": "replacement", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "67.55.92.182", 
+            "67.55.92.183"
+        ], 
+        "dns-mx": [
+            "mx7.000wenhost.com"
+        ], 
+        "dns-ns": [
+            "ns3.renewyourexpiereddomain.com", 
+            "ns4.renewyourexpiereddomain.com"
+        ], 
+        "domain-name": "000wenhost.com", 
+        "fuzzer": "replacement", 
+        "geoip-country": "United States"
+    }, 
+    {
+        "dns-a": [
+            "54.221.207.100"
+        ], 
+        "domain-name": "0.00webhost.com", 
+        "fuzzer": "subdomain", 
+        "geoip-country": "United States"
+    }, 
+    {
+        "dns-a": [
+            "208.73.210.202", 
+            "208.73.210.217", 
+            "208.73.211.165", 
+            "208.73.211.177"
+        ], 
+        "dns-ns": [
+            "ns1.dsredirection.com", 
+            "ns2.dsredirection.com"
+        ], 
+        "domain-name": "000w.ebhost.com", 
+        "fuzzer": "subdomain", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "72.34.51.46"
+        ], 
+        "domain-name": "000we.bhost.com", 
+        "fuzzer": "subdomain", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "199.191.50.73"
+        ], 
+        "dns-ns": [
+            "ns111373.ztomy.com", 
+            "ns211373.ztomy.com"
+        ], 
+        "domain-name": "000webhsot.com", 
+        "fuzzer": "transposition", 
+        "geoip-country": "Virgin Islands", 
+        "ssdeep-score": 0
+    }
+]

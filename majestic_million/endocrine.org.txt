@@ -1,0 +1,80 @@
+[
+    {
+        "dns-mx": [
+            "endocrine.org.mx1.intelice.rcimx.net", 
+            "endocrine.org.mx2.intelice.rcimx.net", 
+            "endocrine.org.mx3.intelice.rcimx.net", 
+            "endocrine.org.mx4.intelice.rcimx.net"
+        ], 
+        "dns-ns": [
+            "ns25.worldnic.com", 
+            "ns26.worldnic.com"
+        ], 
+        "domain-name": "endocrine.org", 
+        "fuzzer": "original*"
+    }, 
+    {
+        "dns-a": [
+            "192.185.48.179"
+        ], 
+        "domain-name": "endo.crine.org", 
+        "fuzzer": "subdomain", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "69.172.201.153"
+        ], 
+        "dns-ns": [
+            "ns1.uniregistrymarket.link", 
+            "ns2.uniregistrymarket.link"
+        ], 
+        "domain-name": "endoc.rine.org", 
+        "fuzzer": "subdomain", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "85.17.25.214"
+        ], 
+        "domain-name": "endocr.ine.org", 
+        "fuzzer": "subdomain", 
+        "geoip-country": "Netherlands", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "72.52.4.122"
+        ], 
+        "dns-mx": [
+            "localhost"
+        ], 
+        "dns-ns": [
+            "ns1.sedoparking.com", 
+            "ns2.sedoparking.com"
+        ], 
+        "domain-name": "endocri.ne.org", 
+        "fuzzer": "subdomain", 
+        "geoip-country": "United States", 
+        "mx-spy": true, 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "72.52.4.119"
+        ], 
+        "dns-mx": [
+            "localhost"
+        ], 
+        "dns-ns": [
+            "ns1.sedoparking.com", 
+            "ns2.sedoparking.com"
+        ], 
+        "domain-name": "endocrino.org", 
+        "fuzzer": "vowel-swap", 
+        "geoip-country": "United States", 
+        "mx-spy": true
+    }
+]

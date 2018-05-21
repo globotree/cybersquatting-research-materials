@@ -1,0 +1,66 @@
+[
+    {
+        "dns-a": [
+            "163.43.24.70"
+        ], 
+        "dns-mx": [
+            "mail.sakura.ad.jp"
+        ], 
+        "dns-ns": [
+            "ns1.dns.ne.jp", 
+            "ns2.dns.ne.jp"
+        ], 
+        "domain-name": "sakura.ne.jp", 
+        "fuzzer": "original*", 
+        "geoip-country": "Japan", 
+        "ssdeep-score": 100
+    }, 
+    {
+        "dns-a": [
+            "211.13.196.139"
+        ], 
+        "dns-mx": [
+            "mx.sakurai.ne.jp"
+        ], 
+        "dns-ns": [
+            "ns.namedserver.net", 
+            "ns2.namedserver.net"
+        ], 
+        "domain-name": "sakurai.ne.jp", 
+        "fuzzer": "addition", 
+        "geoip-country": "Japan", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "157.7.44.43"
+        ], 
+        "dns-mx": [
+            "mail37.heteml.jp"
+        ], 
+        "dns-ns": [
+            "dns0.heteml.jp", 
+            "dns1.heteml.jp"
+        ], 
+        "domain-name": "akura.ne.jp", 
+        "fuzzer": "omission", 
+        "geoip-country": "Japan", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "157.7.44.43"
+        ], 
+        "domain-name": "s.akura.ne.jp", 
+        "fuzzer": "subdomain", 
+        "geoip-country": "Japan"
+    }, 
+    {
+        "dns-ns": [
+            "ns2.ambisys.jp", 
+            "ns3.ambisys.jp"
+        ], 
+        "domain-name": "sakura.jp", 
+        "fuzzer": "various"
+    }
+]

@@ -1,0 +1,56 @@
+[
+    {
+        "dns-a": [
+            "78.24.14.148"
+        ], 
+        "dns-mx": [
+            "mx.webgarden.at"
+        ], 
+        "dns-ns": [
+            "ns.gransy.com", 
+            "ns2.gransy.com", 
+            "ns3.gransy.com", 
+            "ns4.gransy.com", 
+            "ns5.gransy.com"
+        ], 
+        "domain-name": "webgarden.at", 
+        "fuzzer": "original*", 
+        "geoip-country": "Czech Republic", 
+        "ssdeep-score": 100
+    }, 
+    {
+        "dns-a": [
+            "176.9.172.166"
+        ], 
+        "dns-ns": [
+            "market1.domainname.de", 
+            "market2.domainname.de"
+        ], 
+        "domain-name": "webg.arden.at", 
+        "fuzzer": "subdomain", 
+        "geoip-country": "Germany"
+    }, 
+    {
+        "dns-a": [
+            "78.142.141.59"
+        ], 
+        "domain-name": "webgard.en.at", 
+        "fuzzer": "subdomain", 
+        "geoip-country": "Austria", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "80.67.22.119"
+        ], 
+        "dns-aaaa": [
+            "2a00:1158:1000:400::477"
+        ], 
+        "dns-mx": [
+            "mxlb.ispgateway.de"
+        ], 
+        "domain-name": "webgarde.n.at", 
+        "fuzzer": "subdomain", 
+        "geoip-country": "Germany"
+    }
+]

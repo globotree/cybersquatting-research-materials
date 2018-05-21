@@ -1,0 +1,31 @@
+[
+    {
+        "dns-a": [
+            "43.245.43.36"
+        ], 
+        "dns-mx": [
+            "ntu-ac-uk.mail.protection.outlook.com"
+        ], 
+        "dns-ns": [
+            "dns0.ntu.ac.uk", 
+            "dns1.ntu.ac.uk", 
+            "ns1.ja.net"
+        ], 
+        "domain-name": "ntu.ac.uk", 
+        "fuzzer": "original*", 
+        "geoip-country": "Australia", 
+        "ssdeep-score": 100
+    }, 
+    {
+        "dns-mx": [
+            "MX.NYU.EDU"
+        ], 
+        "dns-ns": [
+            "NS1.NYU.EDU", 
+            "NS2.NYU.EDU", 
+            "NS3.NYU.EDU"
+        ], 
+        "domain-name": "nyu.ac.uk", 
+        "fuzzer": "replacement"
+    }
+]

@@ -1,0 +1,37 @@
+[
+    {
+        "dns-a": [
+            "132.229.13.193"
+        ], 
+        "dns-ns": [
+            "indigo.leidenuniv.nl", 
+            "violet.leidenuniv.nl"
+        ], 
+        "domain-name": "universiteitleiden.nl", 
+        "fuzzer": "original*", 
+        "geoip-country": "Netherlands", 
+        "ssdeep-score": 100
+    }, 
+    {
+        "dns-a": [
+            "132.229.13.193"
+        ], 
+        "dns-ns": [
+            "indigo.leidenuniv.nl", 
+            "violet.leidenuniv.nl"
+        ], 
+        "domain-name": "universiteit-leiden.nl", 
+        "fuzzer": "hyphenation", 
+        "geoip-country": "Netherlands", 
+        "ssdeep-score": 100
+    }, 
+    {
+        "dns-a": [
+            "212.204.195.152"
+        ], 
+        "domain-name": "universiteitlei.den.nl", 
+        "fuzzer": "subdomain", 
+        "geoip-country": "Netherlands", 
+        "ssdeep-score": 0
+    }
+]

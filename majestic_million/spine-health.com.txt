@@ -1,0 +1,158 @@
+[
+    {
+        "dns-a": [
+            "96.126.124.180"
+        ], 
+        "dns-mx": [
+            "alt1.aspmx.I.google.com", 
+            "alt2.aspmx.I.google.com", 
+            "apsmx.I.google.com", 
+            "aspmx2.googlemail.com", 
+            "aspmx3.googlemail.com"
+        ], 
+        "dns-ns": [
+            "b.ns.buddyns.com", 
+            "d.ns.buddyns.com", 
+            "g.ns.buddyns.com", 
+            "i.ns.buddyns.com", 
+            "pdns05.domaincontrol.com", 
+            "pdns06.domaincontrol.com"
+        ], 
+        "domain-name": "spine-health.com", 
+        "fuzzer": "original*", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 100
+    }, 
+    {
+        "dns-a": [
+            "72.52.194.236"
+        ], 
+        "dns-mx": [
+            "mail.domainsystems.com", 
+            "mail.spinehealth.com"
+        ], 
+        "dns-ns": [
+            "ns1.monikerdns.net", 
+            "ns2.monikerdns.net", 
+            "ns3.monikerdns.net", 
+            "ns4.monikerdns.net"
+        ], 
+        "domain-name": "spinehealth.com", 
+        "fuzzer": "omission", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "107.172.66.61"
+        ], 
+        "dns-ns": [
+            "ns1.2kz.net", 
+            "ns2.2kz.net", 
+            "ns3.2kz.net", 
+            "ns4.2kz.net"
+        ], 
+        "domain-name": "pine-health.com", 
+        "fuzzer": "omission", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "199.191.50.73"
+        ], 
+        "dns-ns": [
+            "ns111373.ztomy.com", 
+            "ns211373.ztomy.com"
+        ], 
+        "domain-name": "spin-health.com", 
+        "fuzzer": "omission", 
+        "geoip-country": "Virgin Islands", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "185.53.179.6"
+        ], 
+        "dns-mx": [
+            "mail.h-email.net"
+        ], 
+        "dns-ns": [
+            "ns1.parkingcrew.net", 
+            "ns2.parkingcrew.net"
+        ], 
+        "domain-name": "spine-heath.com", 
+        "fuzzer": "omission", 
+        "geoip-country": "Germany", 
+        "mx-spy": true, 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "68.178.213.61"
+        ], 
+        "dns-ns": [
+            "ns1.namefind.com", 
+            "ns2.namefind.com"
+        ], 
+        "domain-name": "spine-helth.com", 
+        "fuzzer": "omission", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "69.172.201.153"
+        ], 
+        "domain-name": "spine-h.ealth.com", 
+        "fuzzer": "subdomain", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "69.172.201.153"
+        ], 
+        "dns-ns": [
+            "ns1.uniregistrymarket.link", 
+            "ns2.uniregistrymarket.link"
+        ], 
+        "domain-name": "spine-he.alth.com", 
+        "fuzzer": "subdomain", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "185.53.178.6"
+        ], 
+        "dns-mx": [
+            "mail.h-email.net"
+        ], 
+        "dns-ns": [
+            "ns1.parkingcrew.net", 
+            "ns2.parkingcrew.net"
+        ], 
+        "domain-name": "spine-helath.com", 
+        "fuzzer": "transposition", 
+        "geoip-country": "Germany", 
+        "mx-spy": true
+    }, 
+    {
+        "dns-a": [
+            "185.53.179.8"
+        ], 
+        "dns-mx": [
+            "mail.h-email.net"
+        ], 
+        "dns-ns": [
+            "ns1.parkingcrew.net", 
+            "ns2.parkingcrew.net"
+        ], 
+        "domain-name": "spine-heatlh.com", 
+        "fuzzer": "transposition", 
+        "geoip-country": "Germany", 
+        "mx-spy": true, 
+        "ssdeep-score": 0
+    }
+]

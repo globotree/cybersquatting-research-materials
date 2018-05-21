@@ -1,0 +1,32 @@
+[
+    {
+        "dns-mx": [
+            "mail.cftc.gov", 
+            "mail1.cftc.gov"
+        ], 
+        "dns-ns": [
+            "auth40.ns.uu.net", 
+            "auth62.ns.uu.net"
+        ], 
+        "domain-name": "cftc.gov", 
+        "fuzzer": "original*"
+    }, 
+    {
+        "dns-a": [
+            "216.128.241.174"
+        ], 
+        "dns-mx": [
+            "mx5.ftc.gov", 
+            "mx6.ftc.gov"
+        ], 
+        "dns-ns": [
+            "ns1.ftc.gov", 
+            "ns2.ftc.gov", 
+            "ns3.ftc.gov", 
+            "ns4.ftc.gov"
+        ], 
+        "domain-name": "ftc.gov", 
+        "fuzzer": "omission", 
+        "geoip-country": "United States"
+    }
+]

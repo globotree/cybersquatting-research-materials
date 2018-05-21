@@ -1,0 +1,90 @@
+[
+    {
+        "dns-a": [
+            "34.213.106.51", 
+            "54.68.182.72"
+        ], 
+        "dns-mx": [
+            "mailgw.bs.wa.gov.au"
+        ], 
+        "dns-ns": [
+            "w.au", 
+            "x.au", 
+            "y.au", 
+            "z.au"
+        ], 
+        "domain-name": "wa.gov.au", 
+        "fuzzer": "original*", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 100
+    }, 
+    {
+        "dns-a": [
+            "103.1.193.78"
+        ], 
+        "dns-mx": [
+            "au-smtp-inbound-1.mimecast.com", 
+            "au-smtp-inbound-2.mimecast.com"
+        ], 
+        "dns-ns": [
+            "w.au", 
+            "x.au", 
+            "y.au", 
+            "z.au"
+        ], 
+        "domain-name": "sa.gov.au", 
+        "fuzzer": "bitsquatting", 
+        "geoip-country": "Australia", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "192.104.44.6"
+        ], 
+        "dns-mx": [
+            "sig2gacav.secureintellicentre.net.au", 
+            "sig4gacav.secureintellicentre.net.au"
+        ], 
+        "dns-ns": [
+            "ns1.secureintellicentre.net.au", 
+            "ns2.secureintellicentre.net.au", 
+            "ns3.secureintellicentre.net.au"
+        ], 
+        "domain-name": "ga.gov.au", 
+        "fuzzer": "bitsquatting", 
+        "geoip-country": "Australia", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "203.7.140.81"
+        ], 
+        "dns-ns": [
+            "ns1.naa.gov.au", 
+            "ns2.naa.gov.au"
+        ], 
+        "domain-name": "aa.gov.au", 
+        "fuzzer": "replacement", 
+        "geoip-country": "Australia", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-ns": [
+            "ns1.secureintellicentre.net.au", 
+            "ns2.secureintellicentre.net.au", 
+            "ns3.secureintellicentre.net.au"
+        ], 
+        "domain-name": "ea.gov.au", 
+        "fuzzer": "replacement"
+    }, 
+    {
+        "dns-ns": [
+            "w.au", 
+            "x.au", 
+            "y.au", 
+            "z.au"
+        ], 
+        "domain-name": "wa.au", 
+        "fuzzer": "various"
+    }
+]

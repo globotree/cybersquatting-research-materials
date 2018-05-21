@@ -1,0 +1,82 @@
+[
+    {
+        "dns-mx": [
+            "alt1.us.email.fireeyecloud.com", 
+            "alt2.us.email.fireeyecloud.com", 
+            "alt3.us.email.fireeyecloud.com", 
+            "primary.us.email.fireeyecloud.com"
+        ], 
+        "dns-ns": [
+            "aus-ib-p-dns-001.wiley.com", 
+            "aus-ib-p-dns-002.wiley.com", 
+            "bri-ns01.wiley.com", 
+            "car-ib-p-dns-002.wiley.com", 
+            "jws-edcp.wiley.com", 
+            "ns.wiley.co.uk", 
+            "ns.wileypub.com", 
+            "ns2.wiley.co.uk", 
+            "sg-ns01.wiley.com"
+        ], 
+        "domain-name": "blackwellpublishing.com", 
+        "fuzzer": "original*"
+    }, 
+    {
+        "dns-a": [
+            "54.37.126.92"
+        ], 
+        "dns-ns": [
+            "parking1.ovh.net", 
+            "parking2.ovh.net"
+        ], 
+        "domain-name": "black.wellpublishing.com", 
+        "fuzzer": "subdomain", 
+        "geoip-country": "United States"
+    }, 
+    {
+        "dns-a": [
+            "66.175.58.9"
+        ], 
+        "domain-name": "blackwe.llpublishing.com", 
+        "fuzzer": "subdomain", 
+        "geoip-country": "United States"
+    }, 
+    {
+        "dns-a": [
+            "209.235.196.11"
+        ], 
+        "domain-name": "blackwel.lpublishing.com", 
+        "fuzzer": "subdomain", 
+        "geoip-country": "United States"
+    }, 
+    {
+        "dns-a": [
+            "202.160.155.4"
+        ], 
+        "domain-name": "blackwellp.ublishing.com", 
+        "fuzzer": "subdomain"
+    }, 
+    {
+        "dns-a": [
+            "68.178.213.61"
+        ], 
+        "domain-name": "blackwellpubl.ishing.com", 
+        "fuzzer": "subdomain", 
+        "geoip-country": "United States"
+    }, 
+    {
+        "dns-a": [
+            "192.64.147.223"
+        ], 
+        "domain-name": "blackwellpubli.shing.com", 
+        "fuzzer": "subdomain", 
+        "geoip-country": "United States"
+    }, 
+    {
+        "dns-a": [
+            "75.126.101.241"
+        ], 
+        "domain-name": "blackwellpublishi.ng.com", 
+        "fuzzer": "subdomain", 
+        "geoip-country": "United States"
+    }
+]

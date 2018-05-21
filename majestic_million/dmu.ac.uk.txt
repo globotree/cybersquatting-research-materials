@@ -1,0 +1,82 @@
+[
+    {
+        "dns-a": [
+            "146.227.160.79"
+        ], 
+        "dns-mx": [
+            "mail5.dmu.ac.uk", 
+            "mail6.dmu.ac.uk"
+        ], 
+        "dns-ns": [
+            "ns0.dmu.ac.uk", 
+            "ns1.dmu.ac.uk", 
+            "ns2.dmu.ac.uk"
+        ], 
+        "domain-name": "dmu.ac.uk", 
+        "fuzzer": "original*", 
+        "geoip-country": "United Kingdom", 
+        "ssdeep-score": 100
+    }, 
+    {
+        "dns-mx": [
+            "engine19-1277-1.icritical.com", 
+            "engine19-1277-3.icritical.com", 
+            "engine29-1277-2.icritical.com", 
+            "engine29-1277-4.icritical.com"
+        ], 
+        "dns-ns": [
+            "ns1.rl.ac.uk", 
+            "ns2.rl.ac.uk", 
+            "ns3.rl.ac.uk", 
+            "nserv1.dl.ac.uk"
+        ], 
+        "domain-name": "dmuk.ac.uk", 
+        "fuzzer": "addition"
+    }, 
+    {
+        "dns-a": [
+            "160.9.134.58", 
+            "160.9.134.59", 
+            "160.9.244.58", 
+            "160.9.244.59"
+        ], 
+        "dns-ns": [
+            "dns4.leedsbeckett.ac.uk", 
+            "dns5.leedsbeckett.ac.uk", 
+            "dns6.leedsbeckett.ac.uk", 
+            "dns7.leedsbeckett.ac.uk"
+        ], 
+        "domain-name": "lmu.ac.uk", 
+        "fuzzer": "bitsquatting", 
+        "geoip-country": "United Kingdom"
+    }, 
+    {
+        "dns-mx": [
+            "smu-ac-uk.mail.protection.outlook.com"
+        ], 
+        "dns-ns": [
+            "cus.sihe.ac.uk", 
+            "king.sihe.ac.uk"
+        ], 
+        "domain-name": "smu.ac.uk", 
+        "fuzzer": "replacement"
+    }, 
+    {
+        "dns-a": [
+            "193.62.97.167"
+        ], 
+        "dns-mx": [
+            "mailer01.cardiffmet.ac.uk", 
+            "mailer02.cardiffmet.ac.uk"
+        ], 
+        "dns-ns": [
+            "dns2.cardiffmet.ac.uk", 
+            "dns3.cardiffmet.ac.uk", 
+            "dns4.cardiffmet.ac.uk", 
+            "dns5.cardiffmet.ac.uk"
+        ], 
+        "domain-name": "cmu.ac.uk", 
+        "fuzzer": "replacement", 
+        "geoip-country": "United Kingdom"
+    }
+]

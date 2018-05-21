@@ -1,0 +1,66 @@
+[
+    {
+        "dns-a": [
+            "114.255.27.102"
+        ], 
+        "domain-name": "www.bj.cyberpolice.cn", 
+        "fuzzer": "original*", 
+        "geoip-country": "China"
+    }, 
+    {
+        "dns-a": [
+            "218.66.36.227"
+        ], 
+        "domain-name": "www.fj.cyberpolice.cn", 
+        "fuzzer": "bitsquatting", 
+        "geoip-country": "China"
+    }, 
+    {
+        "dns-a": [
+            "104.217.236.93"
+        ], 
+        "domain-name": "www.bj.cyberpolic.cn", 
+        "fuzzer": "omission", 
+        "geoip-country": "United States"
+    }, 
+    {
+        "dns-a": [
+            "50.117.120.251"
+        ], 
+        "dns-mx": [
+            "mail.happyisp.com"
+        ], 
+        "domain-name": "www.bj.xyberpolice.cn", 
+        "fuzzer": "replacement", 
+        "geoip-country": "United States", 
+        "mx-spy": true
+    }, 
+    {
+        "dns-a": [
+            "50.117.120.251"
+        ], 
+        "dns-mx": [
+            "mail.happyisp.com"
+        ], 
+        "domain-name": "www.bj.cyberp.olice.cn", 
+        "fuzzer": "subdomain", 
+        "geoip-country": "United States", 
+        "mx-spy": true
+    }, 
+    {
+        "dns-a": [
+            "184.154.126.180"
+        ], 
+        "domain-name": "www.bj.cyberpo.lice.cn", 
+        "fuzzer": "subdomain", 
+        "geoip-country": "United States"
+    }, 
+    {
+        "dns-a": [
+            "108.61.161.109"
+        ], 
+        "domain-name": "www.bj.cyberpoilce.cn", 
+        "fuzzer": "transposition", 
+        "geoip-country": "Japan"
+    }
+]

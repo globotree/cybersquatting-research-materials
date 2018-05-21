@@ -1,0 +1,65 @@
+[
+    {
+        "dns-mx": [
+            "mx.uminho.pt", 
+            "mx1.uminho.pt"
+        ], 
+        "dns-ns": [
+            "dns.uminho.pt", 
+            "dns2.uminho.pt", 
+            "dns3.uminho.pt", 
+            "ns02.fccn.pt"
+        ], 
+        "domain-name": "uminho.pt", 
+        "fuzzer": "original*"
+    }, 
+    {
+        "dns-a": [
+            "94.76.241.94"
+        ], 
+        "dns-mx": [
+            "mail-pt.securemail.pro"
+        ], 
+        "dns-ns": [
+            "ns1.amenworld.com", 
+            "ns2.amenworld.com"
+        ], 
+        "domain-name": "eminho.pt", 
+        "fuzzer": "bitsquatting", 
+        "geoip-country": "United Kingdom"
+    }, 
+    {
+        "dns-a": [
+            "193.126.39.140"
+        ], 
+        "dns-mx": [
+            "smtp.novis.pt"
+        ], 
+        "dns-ns": [
+            "ns1.novis.pt", 
+            "ns2.novis.pt"
+        ], 
+        "domain-name": "minho.pt", 
+        "fuzzer": "omission", 
+        "geoip-country": "Portugal"
+    }, 
+    {
+        "dns-a": [
+            "104.24.114.193", 
+            "104.24.115.193"
+        ], 
+        "dns-aaaa": [
+            "2400:cb00:2048:1::6818:72c1", 
+            "2400:cb00:2048:1::6818:73c1"
+        ], 
+        "dns-mx": [
+            "mail.ominho.pt"
+        ], 
+        "dns-ns": [
+            "melissa.ns.cloudflare.com", 
+            "rick.ns.cloudflare.com"
+        ], 
+        "domain-name": "ominho.pt", 
+        "fuzzer": "vowel-swap"
+    }
+]

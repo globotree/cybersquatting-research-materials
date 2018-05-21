@@ -1,0 +1,39 @@
+[
+    {
+        "dns-mx": [
+            "shiva.jussieu.fr", 
+            "soleil.uvsq.fr"
+        ], 
+        "dns-ns": [
+            "ganesh.upmc.fr", 
+            "shiva.jussieu.fr", 
+            "soleil.uvsq.fr"
+        ], 
+        "domain-name": "jussieu.fr", 
+        "fuzzer": "original*"
+    }, 
+    {
+        "dns-a": [
+            "185.64.106.111"
+        ], 
+        "domain-name": "jussieur.fr", 
+        "fuzzer": "addition", 
+        "geoip-country": "Lithuania"
+    }, 
+    {
+        "dns-a": [
+            "178.32.103.215"
+        ], 
+        "domain-name": "jussie.fr", 
+        "fuzzer": "omission", 
+        "geoip-country": "France"
+    }, 
+    {
+        "dns-a": [
+            "199.59.242.150"
+        ], 
+        "domain-name": "juss.ieu.fr", 
+        "fuzzer": "subdomain", 
+        "geoip-country": "United States"
+    }
+]

@@ -1,0 +1,58 @@
+[
+    {
+        "dns-a": [
+            "135.245.1.1"
+        ], 
+        "dns-mx": [
+            "alcatellucent-com01i.mail.protection.outlook.com"
+        ], 
+        "dns-ns": [
+            "ns.nokia.com", 
+            "ns2.nokia.com", 
+            "ns3.nokia.com", 
+            "ns4.nokia.com", 
+            "ns5.nokia.com", 
+            "ns6.nokia.com"
+        ], 
+        "domain-name": "alcatel-lucent.com", 
+        "fuzzer": "original*", 
+        "geoip-country": "United States"
+    }, 
+    {
+        "dns-ns": [
+            "ns1.systemdns.com", 
+            "ns2.systemdns.com", 
+            "ns3.systemdns.com"
+        ], 
+        "domain-name": "alcatei-lucent.com", 
+        "fuzzer": "homoglyph"
+    }, 
+    {
+        "dns-a": [
+            "103.224.182.214"
+        ], 
+        "dns-mx": [
+            "park-mx.above.com"
+        ], 
+        "dns-ns": [
+            "ns1.above.com", 
+            "ns2.above.com"
+        ], 
+        "domain-name": "alcate-lucent.com", 
+        "fuzzer": "omission", 
+        "geoip-country": "Australia", 
+        "mx-spy": true
+    }, 
+    {
+        "dns-a": [
+            "199.191.50.73"
+        ], 
+        "dns-ns": [
+            "ns111373.ztomy.com", 
+            "ns211373.ztomy.com"
+        ], 
+        "domain-name": "alcatel-lucnet.com", 
+        "fuzzer": "transposition", 
+        "geoip-country": "Virgin Islands"
+    }
+]

@@ -1,0 +1,107 @@
+[
+    {
+        "dns-a": [
+            "144.173.6.226"
+        ], 
+        "dns-ns": [
+            "dns0.ex.ac.uk", 
+            "dns1.ex.ac.uk", 
+            "ns4.ja.net"
+        ], 
+        "domain-name": "ex.ac.uk", 
+        "fuzzer": "original*", 
+        "geoip-country": "United Kingdom", 
+        "ssdeep-score": 100
+    }, 
+    {
+        "dns-a": [
+            "129.215.149.43", 
+            "129.215.235.216", 
+            "129.215.235.217", 
+            "129.215.97.20", 
+            "129.215.97.21", 
+            "129.215.97.33", 
+            "129.215.97.62", 
+            "129.215.97.66", 
+            "129.215.97.67"
+        ], 
+        "dns-mx": [
+            "danube.is.ed.ac.uk", 
+            "rhine.is.ed.ac.uk", 
+            "thames.is.ed.ac.uk"
+        ], 
+        "dns-ns": [
+            "cancer.ucs.ed.ac.uk", 
+            "dns0.inf.ed.ac.uk", 
+            "dns1.inf.ed.ac.uk", 
+            "dns2.inf.ed.ac.uk", 
+            "lewis.ucs.ed.ac.uk", 
+            "xlab-0.ed.ac.uk"
+        ], 
+        "domain-name": "ed.ac.uk", 
+        "fuzzer": "replacement"
+    }, 
+    {
+        "dns-a": [
+            "155.245.130.212", 
+            "155.245.130.215", 
+            "155.245.130.216", 
+            "155.245.181.3", 
+            "155.245.181.6", 
+            "155.245.252.16", 
+            "155.245.252.20", 
+            "155.245.252.27", 
+            "155.245.42.2", 
+            "155.245.42.23", 
+            "155.245.42.26", 
+            "155.245.42.37", 
+            "155.245.42.75", 
+            "155.245.42.78", 
+            "155.245.48.10", 
+            "155.245.48.11", 
+            "155.245.48.27", 
+            "155.245.48.35", 
+            "155.245.48.40", 
+            "155.245.48.47", 
+            "155.245.48.67", 
+            "155.245.48.75", 
+            "155.245.48.79", 
+            "155.245.94.2", 
+            "155.245.94.27"
+        ], 
+        "dns-mx": [
+            "isslx098.essex.ac.uk", 
+            "isslx102.essex.ac.uk", 
+            "serlx14.sx.ac.uk", 
+            "serlx15.sx.ac.uk", 
+            "serlx29.sx.ac.uk"
+        ], 
+        "dns-ns": [
+            "dns0.sx.ac.uk", 
+            "dns1.sx.ac.uk", 
+            "dns2.sx.ac.uk", 
+            "dns3.sx.ac.uk", 
+            "dns5.sx.ac.uk"
+        ], 
+        "domain-name": "sx.ac.uk", 
+        "fuzzer": "replacement", 
+        "geoip-country": "United Kingdom"
+    }, 
+    {
+        "dns-a": [
+            "129.67.242.154", 
+            "129.67.242.155"
+        ], 
+        "dns-mx": [
+            "oxmail.ox.ac.uk"
+        ], 
+        "dns-ns": [
+            "dns0.ox.ac.uk", 
+            "dns1.ox.ac.uk", 
+            "dns2.ox.ac.uk", 
+            "ns2.ja.net"
+        ], 
+        "domain-name": "ox.ac.uk", 
+        "fuzzer": "vowel-swap"
+    }
+]

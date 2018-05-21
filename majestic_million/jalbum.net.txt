@@ -1,0 +1,180 @@
+[
+    {
+        "dns-a": [
+            "94.254.121.130"
+        ], 
+        "dns-mx": [
+            "ALT1.ASPMX.L.GOOGLE.COM", 
+            "ALT2.ASPMX.L.GOOGLE.COM", 
+            "ASPMX.L.GOOGLE.COM", 
+            "ASPMX2.GOOGLEMAIL.COM", 
+            "ASPMX3.GOOGLEMAIL.COM", 
+            "ASPMX4.GOOGLEMAIL.COM", 
+            "ASPMX5.GOOGLEMAIL.COM"
+        ], 
+        "dns-ns": [
+            "ns-1450.awsdns-53.org", 
+            "ns-1772.awsdns-29.co.uk", 
+            "ns-71.awsdns-08.com", 
+            "ns-777.awsdns-33.net", 
+            "ns1.p16.dynect.net", 
+            "ns2.p16.dynect.net", 
+            "ns3.p16.dynect.net", 
+            "ns4.p16.dynect.net"
+        ], 
+        "domain-name": "jalbum.net", 
+        "fuzzer": "original*", 
+        "geoip-country": "Sweden", 
+        "ssdeep-score": 68
+    }, 
+    {
+        "dns-mx": [
+            "mx01.muumuu-mail.com"
+        ], 
+        "dns-ns": [
+            "dns01.muumuu-domain.com", 
+            "dns02.muumuu-domain.com"
+        ], 
+        "domain-name": "kalbum.net", 
+        "fuzzer": "bitsquatting"
+    }, 
+    {
+        "dns-a": [
+            "216.146.46.10", 
+            "216.146.46.11"
+        ], 
+        "dns-ns": [
+            "ns1.p16.dynect.net", 
+            "ns2.p16.dynect.net", 
+            "ns3.p16.dynect.net", 
+            "ns4.p16.dynect.net"
+        ], 
+        "domain-name": "j-album.net", 
+        "fuzzer": "hyphenation", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 65
+    }, 
+    {
+        "dns-a": [
+            "95.130.17.36"
+        ], 
+        "dns-mx": [
+            "mail.album.net"
+        ], 
+        "dns-ns": [
+            "ns1.dntrust.com", 
+            "ns2.dntrust.com", 
+            "ns3.dntrust.com", 
+            "ns4.dntrust.com"
+        ], 
+        "domain-name": "album.net", 
+        "fuzzer": "omission", 
+        "geoip-country": "Germany", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "89.200.174.99"
+        ], 
+        "dns-mx": [
+            "mail.jabum.net"
+        ], 
+        "dns-ns": [
+            "ns1.antagus.de", 
+            "ns2.antagus.de"
+        ], 
+        "domain-name": "jabum.net", 
+        "fuzzer": "omission", 
+        "geoip-country": "Germany", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-ns": [
+            "dns01.cewedigital.de", 
+            "dns02.cewedigital.de", 
+            "ns0.dns-net.de"
+        ], 
+        "domain-name": "malbum.net", 
+        "fuzzer": "replacement"
+    }, 
+    {
+        "dns-a": [
+            "95.130.17.36"
+        ], 
+        "domain-name": "j.album.net", 
+        "fuzzer": "subdomain", 
+        "geoip-country": "Germany", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "141.8.224.195"
+        ], 
+        "dns-ns": [
+            "ns1.dsredirects.com", 
+            "ns2.dsredirects.com"
+        ], 
+        "domain-name": "ja.lbum.net", 
+        "fuzzer": "subdomain", 
+        "geoip-country": "Switzerland", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "82.68.55.185"
+        ], 
+        "dns-mx": [
+            "mail.mailinator.com"
+        ], 
+        "dns-ns": [
+            "ns-1432.awsdns-51.org", 
+            "ns-1783.awsdns-30.co.uk", 
+            "ns-354.awsdns-44.com", 
+            "ns-584.awsdns-09.net"
+        ], 
+        "domain-name": "jal.bum.net", 
+        "fuzzer": "subdomain", 
+        "geoip-country": "United Kingdom", 
+        "mx-spy": true, 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "184.168.221.104"
+        ], 
+        "dns-ns": [
+            "ns1.afternic.com", 
+            "ns2.afternic.com"
+        ], 
+        "domain-name": "jalb.um.net", 
+        "fuzzer": "subdomain"
+    }, 
+    {
+        "dns-a": [
+            "141.8.224.93"
+        ], 
+        "dns-ns": [
+            "ns7.rookdns.com", 
+            "ns8.rookdns.com"
+        ], 
+        "domain-name": "jablum.net", 
+        "fuzzer": "transposition", 
+        "geoip-country": "Switzerland", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "114.207.113.235"
+        ], 
+        "dns-ns": [
+            "ns16.dnszi.com", 
+            "ns55.dnszi.com", 
+            "ns64.dnszi.com", 
+            "ns7.dnszi.com", 
+            "ns78.dnszi.com"
+        ], 
+        "domain-name": "jalbom.net", 
+        "fuzzer": "vowel-swap", 
+        "geoip-country": "Korea"
+    }
+]

@@ -1,0 +1,108 @@
+[
+    {
+        "dns-a": [
+            "172.217.22.46"
+        ], 
+        "dns-aaaa": [
+            "2a00:1450:4001:81b::200e"
+        ], 
+        "dns-ns": [
+            "ns1.google.com", 
+            "ns2.google.com", 
+            "ns3.google.com", 
+            "ns4.google.com"
+        ], 
+        "domain-name": "html5rocks.com", 
+        "fuzzer": "original*", 
+        "geoip-country": "United States"
+    }, 
+    {
+        "dns-a": [
+            "183.90.253.27"
+        ], 
+        "dns-mx": [
+            "html5r0cks.com"
+        ], 
+        "dns-ns": [
+            "ns1.xserver.jp", 
+            "ns2.xserver.jp", 
+            "ns3.xserver.jp", 
+            "ns4.xserver.jp", 
+            "ns5.xserver.jp"
+        ], 
+        "domain-name": "html5r0cks.com", 
+        "fuzzer": "homoglyph", 
+        "geoip-country": "Japan"
+    }, 
+    {
+        "dns-a": [
+            "109.68.33.18"
+        ], 
+        "dns-mx": [
+            "mx.htmlrocks.com.a.emailconfig.com"
+        ], 
+        "dns-ns": [
+            "ns1.domainmonster.com", 
+            "ns2.domainmonster.com", 
+            "ns3.domainmonster.com"
+        ], 
+        "domain-name": "htmlrocks.com", 
+        "fuzzer": "omission", 
+        "geoip-country": "United Kingdom"
+    }, 
+    {
+        "dns-a": [
+            "47.90.9.190"
+        ], 
+        "domain-name": "html5rock.com", 
+        "fuzzer": "omission", 
+        "geoip-country": "United States"
+    }, 
+    {
+        "dns-a": [
+            "50.63.202.41"
+        ], 
+        "dns-mx": [
+            "mailstore1.secureserver.net", 
+            "smtp.secureserver.net"
+        ], 
+        "dns-ns": [
+            "ns15.domaincontrol.com", 
+            "ns16.domaincontrol.com"
+        ], 
+        "domain-name": "html6rocks.com", 
+        "fuzzer": "replacement"
+    }, 
+    {
+        "dns-a": [
+            "72.52.4.119"
+        ], 
+        "dns-mx": [
+            "localhost"
+        ], 
+        "dns-ns": [
+            "ns1.sedoparking.com", 
+            "ns2.sedoparking.com"
+        ], 
+        "domain-name": "html5.rocks.com", 
+        "fuzzer": "subdomain", 
+        "geoip-country": "United States", 
+        "mx-spy": true
+    }, 
+    {
+        "dns-a": [
+            "54.183.99.63"
+        ], 
+        "domain-name": "html5r.ocks.com", 
+        "fuzzer": "subdomain", 
+        "geoip-country": "United States"
+    }, 
+    {
+        "dns-a": [
+            "69.64.147.244"
+        ], 
+        "domain-name": "html5roc.ks.com", 
+        "fuzzer": "subdomain", 
+        "geoip-country": "United States"
+    }
+]

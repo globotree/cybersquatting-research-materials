@@ -1,0 +1,463 @@
+[
+    {
+        "dns-mx": [
+            "mx1.2gis.com", 
+            "mx2.2gis.com"
+        ], 
+        "dns-ns": [
+            "ns.2gis.com", 
+            "ns2.2gis.com", 
+            "ns3.2gis.com"
+        ], 
+        "domain-name": "2gis.ru", 
+        "fuzzer": "original*"
+    }, 
+    {
+        "dns-a": [
+            "127.0.0.99"
+        ], 
+        "dns-ns": [
+            "ns1.poishi.com", 
+            "ns2.poishi.com"
+        ], 
+        "domain-name": "2giss.ru", 
+        "fuzzer": "addition"
+    }, 
+    {
+        "dns-a": [
+            "77.222.40.64"
+        ], 
+        "dns-mx": [
+            "mx1.spaceweb.ru", 
+            "mx2.spaceweb.ru"
+        ], 
+        "dns-ns": [
+            "ns1.spaceweb.ru", 
+            "ns2.spaceweb.ru", 
+            "ns3.spaceweb.pro", 
+            "ns4.spaceweb.pro"
+        ], 
+        "domain-name": "3gis.ru", 
+        "fuzzer": "bitsquatting", 
+        "geoip-country": "Russian Federation"
+    }, 
+    {
+        "dns-a": [
+            "46.30.40.107"
+        ], 
+        "dns-mx": [
+            "mx.yandex.net"
+        ], 
+        "dns-ns": [
+            "dns1.yandex.net", 
+            "dns2.yandex.net"
+        ], 
+        "domain-name": "6gis.ru", 
+        "fuzzer": "bitsquatting", 
+        "geoip-country": "Russian Federation", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "89.108.110.98"
+        ], 
+        "dns-mx": [
+            "mail.rgis.ru", 
+            "mail.rgis.ru"
+        ], 
+        "dns-ns": [
+            "ns1.elogus.com", 
+            "ns2.elogus.com"
+        ], 
+        "domain-name": "rgis.ru", 
+        "fuzzer": "bitsquatting", 
+        "geoip-country": "Russian Federation", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "94.250.255.182"
+        ], 
+        "dns-mx": [
+            "mail.2fis.ru", 
+            "mail.2fis.ru"
+        ], 
+        "dns-ns": [
+            "ns1.novosib.su", 
+            "ns2.novosib.su"
+        ], 
+        "domain-name": "2fis.ru", 
+        "fuzzer": "bitsquatting", 
+        "geoip-country": "Russian Federation"
+    }, 
+    {
+        "dns-a": [
+            "185.53.179.40"
+        ], 
+        "dns-ns": [
+            "ns1.snparking.ru", 
+            "ns2.snparking.ru"
+        ], 
+        "domain-name": "2cis.ru", 
+        "fuzzer": "bitsquatting", 
+        "geoip-country": "Germany", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "185.93.108.114"
+        ], 
+        "dns-mx": [
+            "mx.yandex.net"
+        ], 
+        "dns-ns": [
+            "ns1.netangels.ru", 
+            "ns2.netangels.ru", 
+            "ns3.netangels.ru", 
+            "ns4.netangels.ru"
+        ], 
+        "domain-name": "2gas.ru", 
+        "fuzzer": "bitsquatting", 
+        "geoip-country": "Russian Federation", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "87.236.16.187"
+        ], 
+        "dns-mx": [
+            "mx1.beget.com", 
+            "mx2.beget.com"
+        ], 
+        "dns-ns": [
+            "ns1.beget.com", 
+            "ns1.beget.pro", 
+            "ns1.beget.ru", 
+            "ns2.beget.com", 
+            "ns2.beget.pro", 
+            "ns2.beget.ru"
+        ], 
+        "domain-name": "2gys.ru", 
+        "fuzzer": "bitsquatting", 
+        "geoip-country": "Russian Federation", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "92.53.96.173"
+        ], 
+        "dns-aaaa": [
+            "2a03:6f00:1::5c35:60ad"
+        ], 
+        "dns-mx": [
+            "MX.YANDEX.ru"
+        ], 
+        "dns-ns": [
+            "ns1.timeweb.ru", 
+            "ns2.timeweb.ru", 
+            "ns3.timeweb.org", 
+            "ns4.timeweb.org"
+        ], 
+        "domain-name": "2gir.ru", 
+        "fuzzer": "bitsquatting", 
+        "geoip-country": "Russian Federation", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-ns": [
+            "ns1.reg.ru", 
+            "ns2.reg.ru"
+        ], 
+        "domain-name": "2gic.ru", 
+        "fuzzer": "bitsquatting"
+    }, 
+    {
+        "dns-a": [
+            "72.52.4.121"
+        ], 
+        "dns-ns": [
+            "ns1.sedoparking.com", 
+            "ns2.sedoparking.com"
+        ], 
+        "domain-name": "2qis.ru", 
+        "fuzzer": "homoglyph", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-ns": [
+            "ns.masterhost.ru", 
+            "ns1.masterhost.ru", 
+            "ns2.masterhost.ru"
+        ], 
+        "domain-name": "2gls.ru", 
+        "fuzzer": "homoglyph"
+    }, 
+    {
+        "dns-a": [
+            "127.0.0.99"
+        ], 
+        "dns-ns": [
+            "ns1.poishi.com", 
+            "ns2.poishi.com"
+        ], 
+        "domain-name": "2-gis.ru", 
+        "fuzzer": "hyphenation"
+    }, 
+    {
+        "dns-a": [
+            "109.70.26.37", 
+            "194.85.61.76"
+        ], 
+        "dns-mx": [
+            "nomail.nic.ru"
+        ], 
+        "dns-ns": [
+            "ns1.expired.r01.ru", 
+            "ns2.expired.r01.ru"
+        ], 
+        "domain-name": "2gi.ru", 
+        "fuzzer": "omission", 
+        "geoip-country": "Russian Federation", 
+        "mx-spy": true, 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "213.184.137.105"
+        ], 
+        "dns-mx": [
+            "mx2.gis.ru"
+        ], 
+        "dns-ns": [
+            "dns.fastdns24.com", 
+            "dns2.fastdns24.org", 
+            "dns3.fastdns24.eu", 
+            "dns4.fastdns24.link"
+        ], 
+        "domain-name": "gis.ru", 
+        "fuzzer": "omission", 
+        "geoip-country": "Russian Federation", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "31.31.196.106"
+        ], 
+        "dns-mx": [
+            "mx1.hosting.reg.ru", 
+            "mx2.hosting.reg.ru"
+        ], 
+        "dns-ns": [
+            "ns1.hosting.reg.ru", 
+            "ns2.hosting.reg.ru"
+        ], 
+        "domain-name": "2is.ru", 
+        "fuzzer": "omission", 
+        "geoip-country": "Russian Federation", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "91.218.229.189"
+        ], 
+        "dns-mx": [
+            "mail.2gos.ru"
+        ], 
+        "dns-ns": [
+            "ns1.ihc.ru", 
+            "ns2.ihc.ru"
+        ], 
+        "domain-name": "2gos.ru", 
+        "fuzzer": "replacement", 
+        "geoip-country": "Russian Federation", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "194.58.56.111"
+        ], 
+        "dns-ns": [
+            "ns1.expired.reg.ru", 
+            "ns2.expired.reg.ru"
+        ], 
+        "domain-name": "2gid.ru", 
+        "fuzzer": "replacement", 
+        "geoip-country": "Russian Federation", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "127.0.0.99"
+        ], 
+        "dns-mx": [
+            "localhost"
+        ], 
+        "dns-ns": [
+            "ns1.sedoparking.com", 
+            "ns2.sedoparking.com"
+        ], 
+        "domain-name": "2giz.ru", 
+        "fuzzer": "replacement", 
+        "mx-spy": true
+    }, 
+    {
+        "dns-a": [
+            "185.25.60.68"
+        ], 
+        "dns-mx": [
+            "mx.yandex.net"
+        ], 
+        "dns-ns": [
+            "ns1.mastername.ru", 
+            "ns2.mastername.ru"
+        ], 
+        "domain-name": "2gix.ru", 
+        "fuzzer": "replacement", 
+        "geoip-country": "Russian Federation"
+    }, 
+    {
+        "dns-a": [
+            "194.63.140.56"
+        ], 
+        "dns-mx": [
+            "mx.agis.ru"
+        ], 
+        "dns-ns": [
+            "ns3-l2.nic.ru", 
+            "ns4-cloud.nic.ru", 
+            "ns4-l2.nic.ru", 
+            "ns8-cloud.nic.ru", 
+            "ns8-l2.nic.ru"
+        ], 
+        "domain-name": "agis.ru", 
+        "fuzzer": "replacement", 
+        "geoip-country": "Russian Federation", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "72.52.4.120"
+        ], 
+        "dns-mx": [
+            "localhost"
+        ], 
+        "dns-ns": [
+            "ns1.sedoparking.com", 
+            "ns2.sedoparking.com"
+        ], 
+        "domain-name": "wgis.ru", 
+        "fuzzer": "replacement", 
+        "geoip-country": "United States", 
+        "mx-spy": true
+    }, 
+    {
+        "dns-a": [
+            "72.52.4.121"
+        ], 
+        "dns-mx": [
+            "localhost"
+        ], 
+        "dns-ns": [
+            "ns1.sedoparking.com", 
+            "ns2.sedoparking.com"
+        ], 
+        "domain-name": "2gus.ru", 
+        "fuzzer": "replacement", 
+        "geoip-country": "United States", 
+        "mx-spy": true, 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "91.218.229.11"
+        ], 
+        "dns-aaaa": [
+            "2a03:c980:dead:1003:91:218:229:11"
+        ], 
+        "dns-mx": [
+            "mail.2his.ru"
+        ], 
+        "dns-ns": [
+            "ns1.ihc.ru", 
+            "ns2.ihc.ru"
+        ], 
+        "domain-name": "2his.ru", 
+        "fuzzer": "replacement", 
+        "geoip-country": "Russian Federation"
+    }, 
+    {
+        "dns-a": [
+            "194.58.56.12"
+        ], 
+        "dns-ns": [
+            "ns1.expired.reg.ru", 
+            "ns2.expired.reg.ru"
+        ], 
+        "domain-name": "zgis.ru", 
+        "fuzzer": "replacement", 
+        "geoip-country": "Russian Federation", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "176.9.84.76"
+        ], 
+        "dns-ns": [
+            "dns.fastdns24.com", 
+            "dns2.fastdns24.org", 
+            "dns3.fastdns24.eu", 
+            "dns4.fastdns24.link"
+        ], 
+        "domain-name": "1gis.ru", 
+        "fuzzer": "replacement", 
+        "geoip-country": "Germany"
+    }, 
+    {
+        "dns-a": [
+            "185.53.179.40"
+        ], 
+        "dns-ns": [
+            "ns1.snparking.ru", 
+            "ns2.snparking.ru"
+        ], 
+        "domain-name": "2bis.ru", 
+        "fuzzer": "replacement", 
+        "geoip-country": "Germany", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "5.101.152.119"
+        ], 
+        "dns-mx": [
+            "mx1.beget.com", 
+            "mx2.beget.com"
+        ], 
+        "dns-ns": [
+            "ns1.beget.com", 
+            "ns1.beget.pro", 
+            "ns1.beget.ru", 
+            "ns2.beget.com", 
+            "ns2.beget.pro", 
+            "ns2.beget.ru"
+        ], 
+        "domain-name": "2igs.ru", 
+        "fuzzer": "transposition", 
+        "geoip-country": "Russian Federation", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "91.195.240.93"
+        ], 
+        "dns-ns": [
+            "parking3.nic.ru", 
+            "parking4.nic.ru"
+        ], 
+        "domain-name": "2gisru.ru", 
+        "fuzzer": "various", 
+        "geoip-country": "Germany", 
+        "ssdeep-score": 0
+    }
+]

@@ -1,0 +1,122 @@
+[
+    {
+        "dns-a": [
+            "104.20.104.10", 
+            "104.20.105.10"
+        ], 
+        "dns-aaaa": [
+            "2400:cb00:2048:1::6814:680a", 
+            "2400:cb00:2048:1::6814:690a"
+        ], 
+        "dns-ns": [
+            "ram.ns.cloudflare.com", 
+            "rosa.ns.cloudflare.com"
+        ], 
+        "domain-name": "outsideonline.com", 
+        "fuzzer": "original*", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 100
+    }, 
+    {
+        "dns-a": [
+            "212.53.89.138"
+        ], 
+        "dns-mx": [
+            "relay1.netnames.net", 
+            "relay2.netnames.net"
+        ], 
+        "dns-ns": [
+            "ns1.netnames.net", 
+            "ns2.netnames.net", 
+            "ns5.netnames.net", 
+            "ns6.netnames.net"
+        ], 
+        "domain-name": "outrideonline.com", 
+        "fuzzer": "bitsquatting", 
+        "geoip-country": "United Kingdom"
+    }, 
+    {
+        "dns-a": [
+            "185.53.179.7"
+        ], 
+        "dns-mx": [
+            "mail.h-email.net"
+        ], 
+        "dns-ns": [
+            "ns1.parkingcrew.net", 
+            "ns2.parkingcrew.net"
+        ], 
+        "domain-name": "outside-online.com", 
+        "fuzzer": "hyphenation", 
+        "geoip-country": "Germany", 
+        "mx-spy": true, 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "207.148.248.143"
+        ], 
+        "domain-name": "outsideronline.com", 
+        "fuzzer": "insertion", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "166.62.27.177"
+        ], 
+        "dns-mx": [
+            "mail.outtsideonline.com"
+        ], 
+        "dns-ns": [
+            "ns33.domaincontrol.com", 
+            "ns34.domaincontrol.com"
+        ], 
+        "domain-name": "outtsideonline.com", 
+        "fuzzer": "repetition", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "207.148.248.143"
+        ], 
+        "domain-name": "out.sideonline.com", 
+        "fuzzer": "subdomain", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "204.154.41.42"
+        ], 
+        "domain-name": "outsi.deonline.com", 
+        "fuzzer": "subdomain", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "85.17.25.242"
+        ], 
+        "domain-name": "outsideo.nline.com", 
+        "fuzzer": "subdomain", 
+        "geoip-country": "Netherlands"
+    }, 
+    {
+        "dns-a": [
+            "40.77.56.174"
+        ], 
+        "dns-mx": [
+            "ncorp-spamfilter.nooter.com", 
+            "ne-spamfilter.ne.com"
+        ], 
+        "dns-ns": [
+            "cbru.br.ns.els-gms.att.net", 
+            "cmtu.mt.ns.els-gms.att.net"
+        ], 
+        "domain-name": "outsideonli.ne.com", 
+        "fuzzer": "subdomain", 
+        "geoip-country": "United States"
+    }
+]

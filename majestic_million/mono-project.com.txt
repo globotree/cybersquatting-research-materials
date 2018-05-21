@@ -1,0 +1,107 @@
+[
+    {
+        "dns-a": [
+            "192.30.252.153", 
+            "192.30.252.154"
+        ], 
+        "dns-mx": [
+            "mail.mono-project.com"
+        ], 
+        "dns-ns": [
+            "ns1.linode.com", 
+            "ns2.linode.com", 
+            "ns3.linode.com", 
+            "ns4.linode.com", 
+            "ns5.linode.com"
+        ], 
+        "domain-name": "mono-project.com", 
+        "fuzzer": "original*", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 100
+    }, 
+    {
+        "dns-mx": [
+            "m-12b.th.seeweb.it", 
+            "smtp-avas-th.seeweb.it"
+        ], 
+        "dns-ns": [
+            "ns1.th.seeweb.it", 
+            "ns2.th.seeweb.it"
+        ], 
+        "domain-name": "molo-project.com", 
+        "fuzzer": "bitsquatting"
+    }, 
+    {
+        "dns-a": [
+            "141.8.224.169"
+        ], 
+        "dns-ns": [
+            "ns27.rookdns.com", 
+            "ns28.rookdns.com"
+        ], 
+        "domain-name": "monoproject.com", 
+        "fuzzer": "omission", 
+        "geoip-country": "Switzerland", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "184.168.221.104"
+        ], 
+        "dns-ns": [
+            "ns1.afternic.com", 
+            "ns2.afternic.com"
+        ], 
+        "domain-name": "mono-p.roject.com", 
+        "fuzzer": "subdomain", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "184.168.221.104"
+        ], 
+        "dns-ns": [
+            "ns1.afternic.com", 
+            "ns2.afternic.com"
+        ], 
+        "domain-name": "mono-pr.oject.com", 
+        "fuzzer": "subdomain", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "75.126.101.246"
+        ], 
+        "domain-name": "mono-proj.ect.com", 
+        "fuzzer": "subdomain", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "216.87.148.114"
+        ], 
+        "domain-name": "mono-proje.ct.com", 
+        "fuzzer": "subdomain", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "151.252.50.174"
+        ], 
+        "dns-mx": [
+            "mail.moon-project.com"
+        ], 
+        "dns-ns": [
+            "ns1.antagus.de", 
+            "ns2.antagus.de"
+        ], 
+        "domain-name": "moon-project.com", 
+        "fuzzer": "transposition", 
+        "geoip-country": "Germany", 
+        "ssdeep-score": 0
+    }
+]

@@ -1,0 +1,141 @@
+[
+    {
+        "dns-a": [
+            "104.25.215.106", 
+            "104.25.216.106"
+        ], 
+        "dns-mx": [
+            "bmx1.aafp.org", 
+            "bmx2.aafp.org"
+        ], 
+        "dns-ns": [
+            "adel.ns.cloudflare.com", 
+            "ray.ns.cloudflare.com"
+        ], 
+        "domain-name": "familydoctor.org", 
+        "fuzzer": "original*", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 100
+    }, 
+    {
+        "dns-a": [
+            "217.160.223.36"
+        ], 
+        "dns-mx": [
+            "mx00.1and1.co.uk", 
+            "mx01.1and1.co.uk"
+        ], 
+        "dns-ns": [
+            "ns1053.ui-dns.biz", 
+            "ns1053.ui-dns.com", 
+            "ns1053.ui-dns.de", 
+            "ns1053.ui-dns.org"
+        ], 
+        "domain-name": "family-doctor.org", 
+        "fuzzer": "hyphenation", 
+        "geoip-country": "Germany", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "185.53.178.8"
+        ], 
+        "dns-mx": [
+            "mail.h-email.net"
+        ], 
+        "dns-ns": [
+            "ns1.parkingcrew.net", 
+            "ns2.parkingcrew.net"
+        ], 
+        "domain-name": "familtydoctor.org", 
+        "fuzzer": "insertion", 
+        "geoip-country": "Germany", 
+        "mx-spy": true, 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "185.53.178.7"
+        ], 
+        "dns-mx": [
+            "mail.h-email.net"
+        ], 
+        "dns-ns": [
+            "ns1.parkingcrew.net", 
+            "ns2.parkingcrew.net"
+        ], 
+        "domain-name": "familydotor.org", 
+        "fuzzer": "omission", 
+        "geoip-country": "Germany", 
+        "mx-spy": true, 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "185.53.179.8"
+        ], 
+        "dns-mx": [
+            "mail.h-email.net"
+        ], 
+        "dns-ns": [
+            "ns1.parkingcrew.net", 
+            "ns2.parkingcrew.net"
+        ], 
+        "domain-name": "fammilydoctor.org", 
+        "fuzzer": "repetition", 
+        "geoip-country": "Germany", 
+        "mx-spy": true, 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "208.91.197.27"
+        ], 
+        "domain-name": "familydoc.tor.org", 
+        "fuzzer": "subdomain", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "98.124.199.35"
+        ], 
+        "domain-name": "familydocto.r.org", 
+        "fuzzer": "subdomain", 
+        "geoip-country": "United States"
+    }, 
+    {
+        "dns-a": [
+            "185.53.178.9"
+        ], 
+        "dns-mx": [
+            "mail.h-email.net"
+        ], 
+        "dns-ns": [
+            "ns1.parkingcrew.net", 
+            "ns2.parkingcrew.net"
+        ], 
+        "domain-name": "faimlydoctor.org", 
+        "fuzzer": "transposition", 
+        "geoip-country": "Germany", 
+        "mx-spy": true, 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "199.59.242.150"
+        ], 
+        "dns-mx": [
+            "mx76.m2bp.com", 
+            "mx76.mb1p.com"
+        ], 
+        "dns-ns": [
+            "ns1.bodis.com", 
+            "ns2.bodis.com"
+        ], 
+        "domain-name": "familydocter.org", 
+        "fuzzer": "vowel-swap", 
+        "geoip-country": "United States", 
+        "mx-spy": true
+    }
+]

@@ -1,0 +1,147 @@
+[
+    {
+        "dns-a": [
+            "8.8.178.110"
+        ], 
+        "dns-aaaa": [
+            "2001:1900:2254:206a::50:0"
+        ], 
+        "dns-mx": [
+            "mx1.freebsd.org"
+        ], 
+        "dns-ns": [
+            "ns1.isc-sns.net", 
+            "ns2.isc-sns.com", 
+            "ns3.isc-sns.info"
+        ], 
+        "domain-name": "freebsd.org", 
+        "fuzzer": "original*", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 100
+    }, 
+    {
+        "dns-ns": [
+            "ns1qsy.name.com", 
+            "ns2fwz.name.com", 
+            "ns3gnv.name.com", 
+            "ns4kmw.name.com"
+        ], 
+        "domain-name": "freebsds.org", 
+        "fuzzer": "addition"
+    }, 
+    {
+        "dns-mx": [
+            "mail.addict.de"
+        ], 
+        "dns-ns": [
+            "ns1.jpru.de", 
+            "ns2.jpru.de", 
+            "ns3.jpru.de"
+        ], 
+        "domain-name": "freebse.org", 
+        "fuzzer": "bitsquatting"
+    }, 
+    {
+        "dns-a": [
+            "64.247.11.255"
+        ], 
+        "dns-mx": [
+            "mail.free-bsd.org"
+        ], 
+        "dns-ns": [
+            "a.ns.ods.org", 
+            "a.ns.uk.ods.org", 
+            "b.ns.ods.org"
+        ], 
+        "domain-name": "free-bsd.org", 
+        "fuzzer": "hyphenation", 
+        "geoip-country": "United States"
+    }, 
+    {
+        "dns-ns": [
+            "dns-auth-1.corpex-dns.de", 
+            "dns-auth-2.corpex-dns.net"
+        ], 
+        "domain-name": "freebs.org", 
+        "fuzzer": "omission"
+    }, 
+    {
+        "dns-a": [
+            "211.9.66.146"
+        ], 
+        "dns-mx": [
+            "frebsd.org"
+        ], 
+        "dns-ns": [
+            "ns01.f131jp1010.info", 
+            "ns02.f131jp1010.info"
+        ], 
+        "domain-name": "frebsd.org", 
+        "fuzzer": "omission"
+    }, 
+    {
+        "dns-a": [
+            "52.0.217.44"
+        ], 
+        "dns-ns": [
+            "ns1.dynadot.com", 
+            "ns2.dynadot.com"
+        ], 
+        "domain-name": "freevsd.org", 
+        "fuzzer": "replacement", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "209.99.64.25"
+        ], 
+        "dns-ns": [
+            "ns11025.ztomy.com", 
+            "ns21025.ztomy.com"
+        ], 
+        "domain-name": "freebed.org", 
+        "fuzzer": "replacement"
+    }, 
+    {
+        "dns-a": [
+            "192.64.147.192"
+        ], 
+        "domain-name": "freeb.sd.org", 
+        "fuzzer": "subdomain", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "50.63.46.1"
+        ], 
+        "dns-ns": [
+            "A.SERVICE.AFILIASDNS.INFO", 
+            "B.SERVICE.AFILIASDNS.org", 
+            "C.SERVICE.AFILIASDNS.NET", 
+            "D.SERVICE.AFILIASDNS.COM", 
+            "E.SERVICE.AFILIASDNS.INFO", 
+            "F.SERVICE.AFILIASDNS.NET"
+        ], 
+        "domain-name": "freebs.d.org", 
+        "fuzzer": "subdomain", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "45.55.23.235"
+        ], 
+        "dns-ns": [
+            "dns1.registrar-servers.com", 
+            "dns2.registrar-servers.com", 
+            "dns3.registrar-servers.com", 
+            "dns4.registrar-servers.com", 
+            "dns5.registrar-servers.com"
+        ], 
+        "domain-name": "freesbd.org", 
+        "fuzzer": "transposition", 
+        "geoip-country": "United States"
+    }
+]

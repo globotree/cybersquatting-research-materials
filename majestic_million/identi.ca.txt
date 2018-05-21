@@ -1,0 +1,92 @@
+[
+    {
+        "dns-a": [
+            "107.170.160.49"
+        ], 
+        "dns-mx": [
+            "smtp.status.net"
+        ], 
+        "dns-ns": [
+            "ns19.domaincontrol.com", 
+            "ns20.domaincontrol.com"
+        ], 
+        "domain-name": "identi.ca", 
+        "fuzzer": "original*", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 100
+    }, 
+    {
+        "dns-a": [
+            "208.73.203.182"
+        ], 
+        "dns-ns": [
+            "dns1.stjern.net", 
+            "dns2.stjern.net"
+        ], 
+        "domain-name": "identit.ca", 
+        "fuzzer": "addition", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "199.48.237.33"
+        ], 
+        "dns-ns": [
+            "ns-1.awsdns-00.com", 
+            "ns-1359.awsdns-41.org", 
+            "ns-1778.awsdns-30.co.uk", 
+            "ns-991.awsdns-59.net"
+        ], 
+        "domain-name": "identiv.ca", 
+        "fuzzer": "addition", 
+        "geoip-country": "United States"
+    }, 
+    {
+        "dns-a": [
+            "66.96.149.19"
+        ], 
+        "dns-mx": [
+            "mx.denti.ca"
+        ], 
+        "dns-ns": [
+            "ns1.netfirms.com", 
+            "ns2.netfirms.com"
+        ], 
+        "domain-name": "denti.ca", 
+        "fuzzer": "omission", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "66.96.160.168"
+        ], 
+        "dns-mx": [
+            "mx.denti.ca"
+        ], 
+        "domain-name": "i.denti.ca", 
+        "fuzzer": "subdomain"
+    }, 
+    {
+        "dns-a": [
+            "54.175.122.194"
+        ], 
+        "domain-name": "iden.ti.ca", 
+        "fuzzer": "subdomain", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "69.90.7.110"
+        ], 
+        "dns-ns": [
+            "ns.cossette.com", 
+            "ns.ctalk.com"
+        ], 
+        "domain-name": "identica.ca", 
+        "fuzzer": "various", 
+        "geoip-country": "United States"
+    }
+]

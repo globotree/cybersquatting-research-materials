@@ -1,0 +1,94 @@
+[
+    {
+        "dns-a": [
+            "13.32.163.140", 
+            "13.32.163.172", 
+            "13.32.163.199", 
+            "13.32.163.205", 
+            "13.32.163.45", 
+            "13.32.163.81", 
+            "13.32.163.83", 
+            "13.32.163.98"
+        ], 
+        "dns-mx": [
+            "alt1.aspmx.l.google.com", 
+            "alt2.aspmx.l.google.com", 
+            "alt3.aspmx.l.google.com", 
+            "alt4.aspmx.l.google.com", 
+            "aspmx.l.google.com"
+        ], 
+        "dns-ns": [
+            "ns-1450.awsdns-53.org", 
+            "ns-1697.awsdns-20.co.uk", 
+            "ns-82.awsdns-10.com", 
+            "ns-841.awsdns-41.net"
+        ], 
+        "domain-name": "123contactform.com", 
+        "fuzzer": "original*", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 100
+    }, 
+    {
+        "dns-a": [
+            "54.93.177.168"
+        ], 
+        "dns-ns": [
+            "dina.ns.cloudflare.com", 
+            "woz.ns.cloudflare.com"
+        ], 
+        "domain-name": "123contactforms.com", 
+        "fuzzer": "addition", 
+        "geoip-country": "Germany"
+    }, 
+    {
+        "dns-a": [
+            "95.211.219.67"
+        ], 
+        "dns-ns": [
+            "ns1.hastydns.com", 
+            "ns2.hastydns.com"
+        ], 
+        "domain-name": "123contractform.com", 
+        "fuzzer": "insertion", 
+        "geoip-country": "Netherlands"
+    }, 
+    {
+        "dns-a": [
+            "69.172.201.153"
+        ], 
+        "dns-ns": [
+            "ns1.uniregistrymarket.link", 
+            "ns2.uniregistrymarket.link"
+        ], 
+        "domain-name": "123.contactform.com", 
+        "fuzzer": "subdomain", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "72.52.4.122"
+        ], 
+        "dns-mx": [
+            "localhost"
+        ], 
+        "dns-ns": [
+            "ns1.sedoparking.com", 
+            "ns2.sedoparking.com"
+        ], 
+        "domain-name": "123cont.actform.com", 
+        "fuzzer": "subdomain", 
+        "geoip-country": "United States", 
+        "mx-spy": true, 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "208.106.169.78"
+        ], 
+        "domain-name": "123contactf.orm.com", 
+        "fuzzer": "subdomain", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 0
+    }
+]

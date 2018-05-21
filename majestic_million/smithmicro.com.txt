@@ -1,0 +1,83 @@
+[
+    {
+        "dns-a": [
+            "198.177.231.100"
+        ], 
+        "dns-mx": [
+            "smithmicro-com.mail.protection.outlook.com"
+        ], 
+        "dns-ns": [
+            "ns1.smithmicro.com", 
+            "ns2.smithmicro.com", 
+            "ns3.smithmicro.com", 
+            "ns4.smithmicro.com"
+        ], 
+        "domain-name": "smithmicro.com", 
+        "fuzzer": "original*", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 100
+    }, 
+    {
+        "dns-a": [
+            "184.168.221.31"
+        ], 
+        "dns-mx": [
+            "mailstore1.secureserver.net", 
+            "smtp.secureserver.net"
+        ], 
+        "dns-ns": [
+            "ns49.domaincontrol.com", 
+            "ns50.domaincontrol.com"
+        ], 
+        "domain-name": "smith-micro.com", 
+        "fuzzer": "hyphenation", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-ns": [
+            "ns1.systemdns.com", 
+            "ns2.systemdns.com", 
+            "ns3.systemdns.com"
+        ], 
+        "domain-name": "smiithmicro.com", 
+        "fuzzer": "repetition"
+    }, 
+    {
+        "dns-ns": [
+            "ns1.systemdns.com", 
+            "ns2.systemdns.com", 
+            "ns3.systemdns.com"
+        ], 
+        "domain-name": "smithmiicro.com", 
+        "fuzzer": "repetition"
+    }, 
+    {
+        "dns-a": [
+            "75.126.100.22"
+        ], 
+        "domain-name": "smithmi.cro.com", 
+        "fuzzer": "subdomain", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "176.34.236.137", 
+            "46.137.127.88", 
+            "54.217.225.20", 
+            "54.228.219.35", 
+            "54.246.119.12", 
+            "54.247.110.83"
+        ], 
+        "dns-ns": [
+            "ns2.vpweb.com", 
+            "ns3.vpweb.com", 
+            "ns4.vpweb.com"
+        ], 
+        "domain-name": "smithimcro.com", 
+        "fuzzer": "transposition", 
+        "geoip-country": "Ireland", 
+        "ssdeep-score": 0
+    }
+]

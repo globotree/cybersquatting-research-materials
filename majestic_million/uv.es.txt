@@ -1,0 +1,315 @@
+[
+    {
+        "dns-mx": [
+            "mx01.puc.rediris.es", 
+            "mx02.puc.rediris.es"
+        ], 
+        "dns-ns": [
+            "gong.ci.uv.es", 
+            "peque.ci.uv.es", 
+            "shackleton.red.uv.es"
+        ], 
+        "domain-name": "uv.es", 
+        "fuzzer": "original*"
+    }, 
+    {
+        "dns-a": [
+            "157.88.25.8"
+        ], 
+        "dns-mx": [
+            "mx01.puc.rediris.es", 
+            "mx02.puc.rediris.es"
+        ], 
+        "dns-ns": [
+            "ns1.uva.es", 
+            "ns2.uva.es", 
+            "ns3.uva.es", 
+            "sun.rediris.es"
+        ], 
+        "domain-name": "uva.es", 
+        "fuzzer": "addition", 
+        "geoip-country": "Spain"
+    }, 
+    {
+        "dns-a": [
+            "185.53.178.6"
+        ], 
+        "dns-mx": [
+            "mail.h-email.net"
+        ], 
+        "dns-ns": [
+            "ns1.parkingcrew.net", 
+            "ns2.parkingcrew.net"
+        ], 
+        "domain-name": "uvb.es", 
+        "fuzzer": "addition", 
+        "geoip-country": "Germany", 
+        "mx-spy": true
+    }, 
+    {
+        "dns-a": [
+            "185.53.179.8"
+        ], 
+        "dns-mx": [
+            "mail.h-email.net"
+        ], 
+        "dns-ns": [
+            "ns1.parkingcrew.net", 
+            "ns2.parkingcrew.net"
+        ], 
+        "domain-name": "uvc.es", 
+        "fuzzer": "addition", 
+        "geoip-country": "Germany", 
+        "mx-spy": true
+    }, 
+    {
+        "dns-a": [
+            "185.53.178.8"
+        ], 
+        "dns-mx": [
+            "mail.h-email.net"
+        ], 
+        "dns-ns": [
+            "ns1.parkingcrew.net", 
+            "ns2.parkingcrew.net"
+        ], 
+        "domain-name": "uvd.es", 
+        "fuzzer": "addition", 
+        "geoip-country": "Germany", 
+        "mx-spy": true
+    }, 
+    {
+        "dns-a": [
+            "185.53.178.6"
+        ], 
+        "dns-ns": [
+            "ns1.fastpark.net", 
+            "ns2.fastpark.net"
+        ], 
+        "domain-name": "uve.es", 
+        "fuzzer": "addition", 
+        "geoip-country": "Germany"
+    }, 
+    {
+        "dns-a": [
+            "185.53.178.9"
+        ], 
+        "dns-mx": [
+            "mail.h-email.net"
+        ], 
+        "dns-ns": [
+            "ns1.parkingcrew.net", 
+            "ns2.parkingcrew.net"
+        ], 
+        "domain-name": "uvf.es", 
+        "fuzzer": "addition", 
+        "geoip-country": "Germany", 
+        "mx-spy": true
+    }, 
+    {
+        "dns-a": [
+            "34.242.238.15"
+        ], 
+        "domain-name": "uvg.es", 
+        "fuzzer": "addition", 
+        "geoip-country": "United States"
+    }, 
+    {
+        "dns-a": [
+            "104.18.60.24", 
+            "104.18.61.24"
+        ], 
+        "dns-aaaa": [
+            "2400:cb00:2048:1::6812:3c18", 
+            "2400:cb00:2048:1::6812:3d18"
+        ], 
+        "dns-mx": [
+            "mx.uvh.es"
+        ], 
+        "dns-ns": [
+            "cruz.ns.cloudflare.com", 
+            "kurt.ns.cloudflare.com"
+        ], 
+        "domain-name": "uvh.es", 
+        "fuzzer": "addition", 
+        "geoip-country": "United States"
+    }, 
+    {
+        "dns-a": [
+            "72.52.4.120"
+        ], 
+        "dns-mx": [
+            "localhost"
+        ], 
+        "dns-ns": [
+            "ns1.sedoparking.com", 
+            "ns2.sedoparking.com"
+        ], 
+        "domain-name": "uvi.es", 
+        "fuzzer": "addition", 
+        "geoip-country": "United States", 
+        "mx-spy": true
+    }, 
+    {
+        "dns-a": [
+            "72.52.4.120"
+        ], 
+        "dns-mx": [
+            "localhost"
+        ], 
+        "dns-ns": [
+            "ns1.sedoparking.com", 
+            "ns2.sedoparking.com"
+        ], 
+        "domain-name": "uvl.es", 
+        "fuzzer": "addition", 
+        "geoip-country": "United States", 
+        "mx-spy": true
+    }, 
+    {
+        "dns-a": [
+            "185.53.179.7"
+        ], 
+        "dns-mx": [
+            "mail.h-email.net"
+        ], 
+        "dns-ns": [
+            "ns1.parkingcrew.net", 
+            "ns2.parkingcrew.net"
+        ], 
+        "domain-name": "uvm.es", 
+        "fuzzer": "addition", 
+        "geoip-country": "Germany", 
+        "mx-spy": true
+    }, 
+    {
+        "dns-a": [
+            "185.53.178.9"
+        ], 
+        "dns-mx": [
+            "mail.h-email.net"
+        ], 
+        "dns-ns": [
+            "ns1.parkingcrew.net", 
+            "ns2.parkingcrew.net"
+        ], 
+        "domain-name": "uvn.es", 
+        "fuzzer": "addition", 
+        "geoip-country": "Germany", 
+        "mx-spy": true
+    }, 
+    {
+        "dns-a": [
+            "72.52.4.120"
+        ], 
+        "dns-mx": [
+            "localhost"
+        ], 
+        "dns-ns": [
+            "ns1.sedoparking.com", 
+            "ns2.sedoparking.com"
+        ], 
+        "domain-name": "uvo.es", 
+        "fuzzer": "addition", 
+        "geoip-country": "United States", 
+        "mx-spy": true
+    }, 
+    {
+        "dns-a": [
+            "217.13.124.102"
+        ], 
+        "dns-mx": [
+            "mail.uvp.es"
+        ], 
+        "dns-ns": [
+            "ns.uvp.es"
+        ], 
+        "domain-name": "uvp.es", 
+        "fuzzer": "addition", 
+        "geoip-country": "Spain"
+    }, 
+    {
+        "dns-a": [
+            "96.127.160.42"
+        ], 
+        "dns-mx": [
+            "uvr.es"
+        ], 
+        "dns-ns": [
+            "srv05.infranetdns.com", 
+            "srv05a.infranetdns.com"
+        ], 
+        "domain-name": "uvr.es", 
+        "fuzzer": "addition", 
+        "geoip-country": "United States"
+    }, 
+    {
+        "dns-a": [
+            "185.53.178.8"
+        ], 
+        "dns-mx": [
+            "mail.h-email.net"
+        ], 
+        "dns-ns": [
+            "ns1.parkingcrew.net", 
+            "ns2.parkingcrew.net"
+        ], 
+        "domain-name": "uvs.es", 
+        "fuzzer": "addition", 
+        "geoip-country": "Germany", 
+        "mx-spy": true
+    }, 
+    {
+        "dns-a": [
+            "72.52.4.120"
+        ], 
+        "dns-mx": [
+            "localhost"
+        ], 
+        "dns-ns": [
+            "ns1.sedoparking.com", 
+            "ns2.sedoparking.com"
+        ], 
+        "domain-name": "uvu.es", 
+        "fuzzer": "addition", 
+        "geoip-country": "United States", 
+        "mx-spy": true
+    }, 
+    {
+        "dns-a": [
+            "72.52.4.120"
+        ], 
+        "dns-mx": [
+            "localhost"
+        ], 
+        "dns-ns": [
+            "ns1.sedoparking.com", 
+            "ns2.sedoparking.com"
+        ], 
+        "domain-name": "uvv.es", 
+        "fuzzer": "addition", 
+        "geoip-country": "United States"
+    }, 
+    {
+        "dns-a": [
+            "161.116.1.1"
+        ], 
+        "dns-mx": [
+            "mailgate.ub.es", 
+            "mailgate0a.ub.es", 
+            "mailgate1b.com.ub.edu", 
+            "mailgate2b.com.ub.edu", 
+            "ub.es"
+        ], 
+        "dns-ns": [
+            "chico.rediris.es", 
+            "rnpro01.com.ub.edu", 
+            "rnpro04.com.ub.edu", 
+            "rnpro07.com.ub.edu", 
+            "sun.rediris.es"
+        ], 
+        "domain-name": "ub.es", 
+        "fuzzer": "replacement", 
+        "geoip-country": "Spain"
+    }
+]

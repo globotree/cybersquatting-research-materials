@@ -1,0 +1,72 @@
+[
+    {
+        "dns-a": [
+            "198.143.149.138"
+        ], 
+        "dns-mx": [
+            "alt1.aspmx.l.google.com", 
+            "alt2.aspmx.l.google.com", 
+            "alt3.aspmx.l.google.com", 
+            "alt4.aspmx.l.google.com", 
+            "aspmx.l.google.com"
+        ], 
+        "dns-ns": [
+            "ns1.stablehost.com", 
+            "ns2.stablehost.com"
+        ], 
+        "domain-name": "uz.edu.ph", 
+        "fuzzer": "original*", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 100
+    }, 
+    {
+        "dns-mx": [
+            "alt1.aspmx.l.google.com", 
+            "alt2.aspmx.l.google.com", 
+            "aspmx.l.google.com", 
+            "aspmx2.googlemail.com", 
+            "aspmx3.googlemail.com"
+        ], 
+        "dns-ns": [
+            "ue1.ue.edu.ph", 
+            "ue2.ue.edu.ph", 
+            "ue3.ue.edu.ph"
+        ], 
+        "domain-name": "ue.edu.ph", 
+        "fuzzer": "replacement"
+    }, 
+    {
+        "dns-a": [
+            "216.218.206.39"
+        ], 
+        "dns-mx": [
+            "ua.edu.ph"
+        ], 
+        "dns-ns": [
+            "ns1.web.com.ph", 
+            "ns2.web.com.ph", 
+            "ns3.web.com.ph", 
+            "ns4.web.com.ph"
+        ], 
+        "domain-name": "ua.edu.ph", 
+        "fuzzer": "replacement"
+    }, 
+    {
+        "dns-a": [
+            "203.119.4.201"
+        ], 
+        "domain-name": "uz.ph", 
+        "fuzzer": "various", 
+        "geoip-country": "Philippines", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "203.119.4.201"
+        ], 
+        "domain-name": "uzedu.ph", 
+        "fuzzer": "various", 
+        "geoip-country": "Philippines", 
+        "ssdeep-score": 0
+    }
+]

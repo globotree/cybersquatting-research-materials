@@ -1,0 +1,66 @@
+[
+    {
+        "dns-mx": [
+            "gpmx.nifty.com"
+        ], 
+        "dns-ns": [
+            "ons0.nifty.ad.jp", 
+            "ons1.nifty.ad.jp"
+        ], 
+        "domain-name": "cocolog-nifty.com", 
+        "fuzzer": "original*", 
+        "mx-spy": true
+    }, 
+    {
+        "dns-a": [
+            "72.52.4.122"
+        ], 
+        "dns-mx": [
+            "localhost"
+        ], 
+        "dns-ns": [
+            "ns1.sedoparking.com", 
+            "ns2.sedoparking.com"
+        ], 
+        "domain-name": "cocolognifty.com", 
+        "fuzzer": "omission", 
+        "geoip-country": "United States", 
+        "mx-spy": true
+    }, 
+    {
+        "dns-a": [
+            "50.117.120.251"
+        ], 
+        "dns-mx": [
+            "mail.happyisp.com"
+        ], 
+        "domain-name": "cocolpg-nifty.com", 
+        "fuzzer": "replacement", 
+        "geoip-country": "United States", 
+        "mx-spy": true
+    }, 
+    {
+        "dns-a": [
+            "185.53.178.9"
+        ], 
+        "dns-mx": [
+            "mail.h-email.net"
+        ], 
+        "dns-ns": [
+            "ns1.parkingcrew.net", 
+            "ns2.parkingcrew.net"
+        ], 
+        "domain-name": "cocolog-niffy.com", 
+        "fuzzer": "replacement", 
+        "geoip-country": "Germany", 
+        "mx-spy": true
+    }, 
+    {
+        "dns-a": [
+            "63.251.38.171"
+        ], 
+        "domain-name": "cocolog-ni.fty.com", 
+        "fuzzer": "subdomain", 
+        "geoip-country": "United States"
+    }
+]

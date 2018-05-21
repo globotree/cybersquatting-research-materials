@@ -1,0 +1,122 @@
+[
+    {
+        "dns-a": [
+            "104.24.118.99", 
+            "104.24.119.99"
+        ], 
+        "dns-aaaa": [
+            "2400:cb00:2048:1::6818:7663", 
+            "2400:cb00:2048:1::6818:7763"
+        ], 
+        "dns-mx": [
+            "mxa.mailgun.org", 
+            "mxb.mailgun.org"
+        ], 
+        "dns-ns": [
+            "dean.ns.cloudflare.com", 
+            "fiona.ns.cloudflare.com"
+        ], 
+        "domain-name": "codecguide.com", 
+        "fuzzer": "original*", 
+        "geoip-country": "United States", 
+        "mx-spy": true, 
+        "ssdeep-score": 100
+    }, 
+    {
+        "dns-a": [
+            "195.149.84.100", 
+            "195.149.84.101"
+        ], 
+        "dns-aaaa": [
+            "2001:67c:38c::64", 
+            "2001:67c:38c::65"
+        ], 
+        "dns-ns": [
+            "redbusprimarydns.codesguide.com", 
+            "redbussecondarydns.codesguide.com"
+        ], 
+        "domain-name": "codesguide.com", 
+        "fuzzer": "bitsquatting", 
+        "geoip-country": "United Kingdom", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "185.53.179.6"
+        ], 
+        "dns-mx": [
+            "mail.h-email.net"
+        ], 
+        "dns-ns": [
+            "ns1.parkingcrew.net", 
+            "ns2.parkingcrew.net"
+        ], 
+        "domain-name": "codecquide.com", 
+        "fuzzer": "homoglyph", 
+        "geoip-country": "Germany", 
+        "mx-spy": true, 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "141.8.224.93"
+        ], 
+        "dns-ns": [
+            "ns7.rookdns.com", 
+            "ns8.rookdns.com"
+        ], 
+        "domain-name": "codec-guide.com", 
+        "fuzzer": "hyphenation", 
+        "geoip-country": "Switzerland", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-ns": [
+            "nsa1.schlundtech.de", 
+            "nsb1.schlundtech.de", 
+            "nsc1.schlundtech.de", 
+            "nsd1.schlundtech.de"
+        ], 
+        "domain-name": "codeguide.com", 
+        "fuzzer": "omission"
+    }, 
+    {
+        "dns-a": [
+            "69.172.201.153"
+        ], 
+        "dns-ns": [
+            "ns1.uniregistrymarket.link", 
+            "ns2.uniregistrymarket.link"
+        ], 
+        "domain-name": "codexguide.com", 
+        "fuzzer": "replacement", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "184.168.221.96"
+        ], 
+        "dns-mx": [
+            "0", 
+            "10"
+        ], 
+        "dns-ns": [
+            "ns01.cashparking.com", 
+            "ns02.cashparking.com"
+        ], 
+        "domain-name": "cod.ecguide.com", 
+        "fuzzer": "subdomain", 
+        "geoip-country": "United States", 
+        "mx-spy": true
+    }, 
+    {
+        "dns-a": [
+            "107.22.223.163"
+        ], 
+        "domain-name": "code.cguide.com", 
+        "fuzzer": "subdomain", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 0
+    }
+]

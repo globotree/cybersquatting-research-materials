@@ -1,0 +1,97 @@
+[
+    {
+        "dns-a": [
+            "202.116.64.8"
+        ], 
+        "dns-mx": [
+            "mx4.sysu.edu.cn", 
+            "mx5.sysu.edu.cn"
+        ], 
+        "dns-ns": [
+            "ns1.sysu.edu.cn", 
+            "ns2.sysu.edu.cn", 
+            "ns3.sysu.edu.cn"
+        ], 
+        "domain-name": "sysu.edu.cn", 
+        "fuzzer": "original*", 
+        "geoip-country": "China", 
+        "ssdeep-score": 100
+    }, 
+    {
+        "dns-mx": [
+            "mxbiz1.qq.com", 
+            "mxbiz2.qq.com"
+        ], 
+        "dns-ns": [
+            "flora.sisu.edu.cn", 
+            "phoebus.sisu.edu.cn"
+        ], 
+        "domain-name": "sisu.edu.cn", 
+        "fuzzer": "bitsquatting"
+    }, 
+    {
+        "dns-mx": [
+            "hzmx01.mxmail.netease.com", 
+            "hzmx02.mxmail.netease.com"
+        ], 
+        "dns-ns": [
+            "202.199.32.2.syu.edu.cn"
+        ], 
+        "domain-name": "syu.edu.cn", 
+        "fuzzer": "omission"
+    }, 
+    {
+        "dns-a": [
+            "202.206.240.14"
+        ], 
+        "dns-mx": [
+            "mail.ysu.edu.cn"
+        ], 
+        "dns-ns": [
+            "ysudns1.ysu.edu.cn", 
+            "ysudns2.ysu.edu.cn"
+        ], 
+        "domain-name": "ysu.edu.cn", 
+        "fuzzer": "omission", 
+        "geoip-country": "China", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-mx": [
+            "mail.sasu.edu.cn"
+        ], 
+        "dns-ns": [
+            "win-q7jdc4esufn"
+        ], 
+        "domain-name": "sasu.edu.cn", 
+        "fuzzer": "replacement"
+    }, 
+    {
+        "dns-mx": [
+            "mail.syau.edu.cn"
+        ], 
+        "dns-ns": [
+            "ns1.syau.edu.cn", 
+            "ns2.syau.edu.cn", 
+            "ns3.syau.edu.cn"
+        ], 
+        "domain-name": "syau.edu.cn", 
+        "fuzzer": "replacement"
+    }, 
+    {
+        "dns-ns": [
+            "dns7.hichina.com", 
+            "dns8.hichina.com"
+        ], 
+        "domain-name": "sysu.cn", 
+        "fuzzer": "various"
+    }, 
+    {
+        "dns-ns": [
+            "juming.dnsdun.com", 
+            "juming.dnsdun.net"
+        ], 
+        "domain-name": "sysuedu.cn", 
+        "fuzzer": "various"
+    }
+]

@@ -1,0 +1,57 @@
+[
+    {
+        "dns-a": [
+            "212.74.44.131"
+        ], 
+        "dns-mx": [
+            "mail2.majestic12.co.uk", 
+            "mailm.majestic12.co.uk", 
+            "mailn.majestic12.co.uk"
+        ], 
+        "dns-ns": [
+            "ns1.majesticseo.com", 
+            "ns2.majesticseo.com"
+        ], 
+        "domain-name": "majestic12.co.uk", 
+        "fuzzer": "original*", 
+        "geoip-country": "United Kingdom", 
+        "mx-spy": true, 
+        "ssdeep-score": 100
+    }, 
+    {
+        "dns-mx": [
+            "mailserver.majestic1.co.uk"
+        ], 
+        "dns-ns": [
+            "ns1.livedns.co.uk", 
+            "ns2.livedns.co.uk", 
+            "ns3.livedns.co.uk"
+        ], 
+        "domain-name": "majestic1.co.uk", 
+        "fuzzer": "omission"
+    }, 
+    {
+        "dns-ns": [
+            "pdns1.safenames.net", 
+            "pdns2.safenames.net", 
+            "pdns3.safenames.org", 
+            "pdns4.safenames.org", 
+            "pdns5.safenames.info", 
+            "pdns6.safenames.co.uk"
+        ], 
+        "domain-name": "majestic2.co.uk", 
+        "fuzzer": "omission"
+    }, 
+    {
+        "dns-a": [
+            "217.199.187.57"
+        ], 
+        "dns-mx": [
+            "mail.ic12.co.uk"
+        ], 
+        "domain-name": "majest.ic12.co.uk", 
+        "fuzzer": "subdomain", 
+        "geoip-country": "United Kingdom", 
+        "ssdeep-score": 0
+    }
+]

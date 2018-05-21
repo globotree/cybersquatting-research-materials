@@ -1,0 +1,40 @@
+[
+    {
+        "dns-a": [
+            "67.199.248.12", 
+            "67.199.248.13"
+        ], 
+        "dns-mx": [
+            "ms1.lga2.nytimes.com", 
+            "ms2.lga2.nytimes.com", 
+            "nyt-smtp-01.nytimes.com", 
+            "nyt-smtp-02.nytimes.com"
+        ], 
+        "dns-ns": [
+            "ns1.p24.dynect.net", 
+            "ns2.p24.dynect.net", 
+            "ns3.p24.dynect.net", 
+            "ns4.p24.dynect.net"
+        ], 
+        "domain-name": "nyti.ms", 
+        "fuzzer": "original*", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 100
+    }, 
+    {
+        "dns-a": [
+            "213.165.64.40"
+        ], 
+        "domain-name": "ny.ti.ms", 
+        "fuzzer": "subdomain", 
+        "geoip-country": "Germany"
+    }, 
+    {
+        "dns-a": [
+            "213.165.64.40"
+        ], 
+        "domain-name": "nyt.i.ms", 
+        "fuzzer": "subdomain", 
+        "geoip-country": "Germany"
+    }
+]

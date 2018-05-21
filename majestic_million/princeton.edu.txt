@@ -1,0 +1,39 @@
+[
+    {
+        "dns-a": [
+            "140.180.223.22"
+        ], 
+        "dns-mx": [
+            "ppa01.princeton.edu", 
+            "ppa02.princeton.edu", 
+            "ppa03.princeton.edu", 
+            "ppa04.princeton.edu"
+        ], 
+        "dns-ns": [
+            "adns1.ucsc.edu", 
+            "adns2.ucsc.edu", 
+            "auth1.dns.cogentco.com", 
+            "auth2.dns.cogentco.com", 
+            "dikahble.princeton.edu", 
+            "dns.princeton.edu"
+        ], 
+        "domain-name": "princeton.edu", 
+        "fuzzer": "original*", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 100
+    }, 
+    {
+        "dns-a": [
+            "103.224.182.207"
+        ], 
+        "dns-mx": [
+            "park-mx.above.com"
+        ], 
+        "dns-ns": [
+            "ns1.above.com", 
+            "ns2.above.com"
+        ], 
+        "domain-name": "princeton-edu.com", 
+        "fuzzer": "various"
+    }
+]

@@ -1,0 +1,106 @@
+[
+    {
+        "dns-a": [
+            "89.184.72.211"
+        ], 
+        "dns-mx": [
+            "mx1.mirohost.net"
+        ], 
+        "dns-ns": [
+            "ns1.mirohost.net", 
+            "ns2.mirohost.net", 
+            "ns3.mirohost.net"
+        ], 
+        "domain-name": "veola.com.ua", 
+        "fuzzer": "original*", 
+        "geoip-country": "Ukraine"
+    }, 
+    {
+        "dns-a": [
+            "185.68.16.194"
+        ], 
+        "dns-aaaa": [
+            "2a00:7a60:0:10c2::1"
+        ], 
+        "dns-mx": [
+            "mx15.ukraine.com.ua", 
+            "mx20.ukraine.com.ua"
+        ], 
+        "dns-ns": [
+            "ns113.inhostedns.com", 
+            "ns213.inhostedns.net", 
+            "ns313.inhostedns.org"
+        ], 
+        "domain-name": "eola.com.ua", 
+        "fuzzer": "omission", 
+        "geoip-country": "Ukraine"
+    }, 
+    {
+        "dns-a": [
+            "185.68.16.42"
+        ], 
+        "dns-aaaa": [
+            "2a00:7a60:0:102a::1"
+        ], 
+        "dns-mx": [
+            "mx15.ukraine.com.ua", 
+            "mx20.ukraine.com.ua"
+        ], 
+        "dns-ns": [
+            "ns14.inhostedns.com", 
+            "ns24.inhostedns.net", 
+            "ns34.inhostedns.org"
+        ], 
+        "domain-name": "vela.com.ua", 
+        "fuzzer": "omission", 
+        "geoip-country": "Ukraine"
+    }, 
+    {
+        "dns-mx": [
+            "mx15.ukraine.com.ua", 
+            "mx20.ukraine.com.ua"
+        ], 
+        "dns-ns": [
+            "ns14.inhostedns.com", 
+            "ns24.inhostedns.net", 
+            "ns34.inhostedns.org"
+        ], 
+        "domain-name": "vella.com.ua", 
+        "fuzzer": "replacement"
+    }, 
+    {
+        "dns-a": [
+            "185.68.16.194"
+        ], 
+        "dns-aaaa": [
+            "2a00:7a60:0:10c2::1"
+        ], 
+        "domain-name": "v.eola.com.ua", 
+        "fuzzer": "subdomain", 
+        "geoip-country": "Ukraine"
+    }, 
+    {
+        "dns-a": [
+            "78.109.16.120"
+        ], 
+        "domain-name": "ve.ola.com.ua", 
+        "fuzzer": "subdomain", 
+        "geoip-country": "Ukraine"
+    }, 
+    {
+        "dns-a": [
+            "104.236.208.190"
+        ], 
+        "dns-mx": [
+            "mail.viola.com.ua"
+        ], 
+        "dns-ns": [
+            "ns1.digitalocean.com", 
+            "ns2.digitalocean.com", 
+            "ns3.digitalocean.com"
+        ], 
+        "domain-name": "viola.com.ua", 
+        "fuzzer": "vowel-swap", 
+        "geoip-country": "United States"
+    }
+]

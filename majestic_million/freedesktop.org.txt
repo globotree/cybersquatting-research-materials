@@ -1,0 +1,61 @@
+[
+    {
+        "dns-a": [
+            "131.252.210.176"
+        ], 
+        "dns-aaaa": [
+            "2610:10:20:722:a800:ff:feda:470f"
+        ], 
+        "dns-mx": [
+            "gabe.freedesktop.org"
+        ], 
+        "dns-ns": [
+            "gabe.freedesktop.org", 
+            "leela.spi-inc.org", 
+            "opus.spi-inc.org"
+        ], 
+        "domain-name": "freedesktop.org", 
+        "fuzzer": "original*", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 100
+    }, 
+    {
+        "dns-a": [
+            "72.52.4.119"
+        ], 
+        "dns-mx": [
+            "localhost"
+        ], 
+        "dns-ns": [
+            "ns1.sedoparking.com", 
+            "ns2.sedoparking.com"
+        ], 
+        "domain-name": "free.desktop.org", 
+        "fuzzer": "subdomain"
+    }, 
+    {
+        "dns-a": [
+            "207.148.248.143"
+        ], 
+        "domain-name": "freedes.ktop.org", 
+        "fuzzer": "subdomain", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "50.63.46.1"
+        ], 
+        "dns-ns": [
+            "a.service.afiliasdns.info", 
+            "b.service.afiliasdns.org", 
+            "c.service.afiliasdns.net", 
+            "d.service.afiliasdns.com", 
+            "e.service.afiliasdns.info", 
+            "f.service.afiliasdns.net"
+        ], 
+        "domain-name": "freedeskto.p.org", 
+        "fuzzer": "subdomain", 
+        "geoip-country": "United States"
+    }
+]

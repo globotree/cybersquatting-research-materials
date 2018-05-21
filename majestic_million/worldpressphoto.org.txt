@@ -1,0 +1,122 @@
+[
+    {
+        "dns-a": [
+            "40.68.184.111"
+        ], 
+        "dns-mx": [
+            "ALT1.ASPMX.L.GOOGLE.COM", 
+            "ALT2.ASPMX.L.GOOGLE.COM", 
+            "ALT3.ASPMX.L.GOOGLE.COM", 
+            "ALT4.ASPMX.L.GOOGLE.COM", 
+            "ASPMX.L.GOOGLE.COM"
+        ], 
+        "dns-ns": [
+            "ns0.transdns.eu", 
+            "ns1.transdns.eu", 
+            "ns2.transdns.eu"
+        ], 
+        "domain-name": "worldpressphoto.org", 
+        "fuzzer": "original*", 
+        "geoip-country": "Netherlands", 
+        "ssdeep-score": 100
+    }, 
+    {
+        "dns-mx": [
+            "localhost"
+        ], 
+        "dns-ns": [
+            "ns1.sedoparking.com", 
+            "ns2.sedoparking.com"
+        ], 
+        "domain-name": "worldpressphotos.org", 
+        "fuzzer": "addition", 
+        "mx-spy": true
+    }, 
+    {
+        "dns-mx": [
+            "worldpresssphoto-org.mail.protection.outlook.com"
+        ], 
+        "dns-ns": [
+            "ns1.bdm.microsoftonline.com", 
+            "ns2.bdm.microsoftonline.com", 
+            "ns3.bdm.microsoftonline.com", 
+            "ns4.bdm.microsoftonline.com"
+        ], 
+        "domain-name": "worldpresssphoto.org", 
+        "fuzzer": "insertion"
+    }, 
+    {
+        "dns-a": [
+            "37.152.88.55"
+        ], 
+        "dns-ns": [
+            "ns1.dondominio.com", 
+            "ns2.dondominio.com"
+        ], 
+        "domain-name": "worldspressphoto.org", 
+        "fuzzer": "insertion", 
+        "geoip-country": "Spain", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "216.157.88.21"
+        ], 
+        "dns-ns": [
+            "ns1.smtmdns.com", 
+            "ns2.smtmdns.com"
+        ], 
+        "domain-name": "wordpressphoto.org", 
+        "fuzzer": "omission", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "199.191.50.73"
+        ], 
+        "dns-ns": [
+            "ns111373.ztomy.com", 
+            "ns211373.ztomy.com"
+        ], 
+        "domain-name": "worlpressphoto.org", 
+        "fuzzer": "omission", 
+        "geoip-country": "Virgin Islands", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "92.61.153.71"
+        ], 
+        "domain-name": "worldpres.sphoto.org", 
+        "fuzzer": "subdomain", 
+        "geoip-country": "Europe", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "74.117.222.18"
+        ], 
+        "domain-name": "worldpress.photo.org", 
+        "fuzzer": "subdomain", 
+        "geoip-country": "Cayman Islands", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "50.63.46.1"
+        ], 
+        "dns-ns": [
+            "a.service.afiliasdns.info", 
+            "b.service.afiliasdns.org", 
+            "c.service.afiliasdns.net", 
+            "d.service.afiliasdns.com", 
+            "e.service.afiliasdns.info", 
+            "f.service.afiliasdns.net"
+        ], 
+        "domain-name": "worldpressphot.o.org", 
+        "fuzzer": "subdomain", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 0
+    }
+]

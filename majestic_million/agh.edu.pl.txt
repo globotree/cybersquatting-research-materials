@@ -1,0 +1,187 @@
+[
+    {
+        "dns-a": [
+            "149.156.96.52"
+        ], 
+        "dns-aaaa": [
+            "2001:6d8:10:1060::6034"
+        ], 
+        "dns-mx": [
+            "fm1.uci.agh.edu.pl"
+        ], 
+        "dns-ns": [
+            "dns.fuw.edu.pl", 
+            "nms.cyf-kr.edu.pl", 
+            "ns.icm.edu.pl", 
+            "ns1.agh.edu.pl", 
+            "ns2.agh.edu.pl"
+        ], 
+        "domain-name": "agh.edu.pl", 
+        "fuzzer": "original*", 
+        "geoip-country": "Poland", 
+        "ssdeep-score": 100
+    }, 
+    {
+        "dns-a": [
+            "85.128.128.99"
+        ], 
+        "dns-mx": [
+            "aeh.edu.pl"
+        ], 
+        "dns-ns": [
+            "ns1.nazwa.pl", 
+            "ns2.nazwa.pl", 
+            "ns3.nazwa.pl"
+        ], 
+        "domain-name": "aeh.edu.pl", 
+        "fuzzer": "bitsquatting", 
+        "geoip-country": "Poland", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "188.68.232.153"
+        ], 
+        "dns-mx": [
+            "agl.edu.pl"
+        ], 
+        "dns-ns": [
+            "dns1.netwave.pl", 
+            "dns2.netwave.pl"
+        ], 
+        "domain-name": "agl.edu.pl", 
+        "fuzzer": "bitsquatting", 
+        "geoip-country": "Poland", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-ns": [
+            "ns1.wsh.edu.pl", 
+            "ns2.srv.noria.pl", 
+            "ns2.wsh.edu.pl"
+        ], 
+        "domain-name": "ah.edu.pl", 
+        "fuzzer": "omission"
+    }, 
+    {
+        "dns-a": [
+            "88.198.49.178"
+        ], 
+        "dns-mx": [
+            "mail.depesz.com"
+        ], 
+        "dns-ns": [
+            "ns1.nazwa.pl", 
+            "ns2.nazwa.pl", 
+            "ns3.nazwa.pl"
+        ], 
+        "domain-name": "ag.edu.pl", 
+        "fuzzer": "omission", 
+        "geoip-country": "Germany", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "85.128.134.236"
+        ], 
+        "dns-mx": [
+            "gh.edu.pl"
+        ], 
+        "dns-ns": [
+            "ns1.nazwa.pl", 
+            "ns2.nazwa.pl", 
+            "ns3.nazwa.pl"
+        ], 
+        "domain-name": "gh.edu.pl", 
+        "fuzzer": "omission", 
+        "geoip-country": "Poland", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-mx": [
+            "mgate1.ath.bielsko.pl"
+        ], 
+        "dns-ns": [
+            "jupiter.ath.bielsko.pl", 
+            "ns2.bielman.pl"
+        ], 
+        "domain-name": "ath.edu.pl", 
+        "fuzzer": "replacement"
+    }, 
+    {
+        "dns-a": [
+            "194.145.100.101"
+        ], 
+        "dns-ns": [
+            "dns2.sgh.waw.pl", 
+            "eomer.nask.waw.pl", 
+            "hermes.sgh.waw.pl", 
+            "ns.icm.edu.pl", 
+            "ns2.sgh.waw.pl"
+        ], 
+        "domain-name": "sgh.edu.pl", 
+        "fuzzer": "replacement"
+    }, 
+    {
+        "dns-a": [
+            "85.128.128.99"
+        ], 
+        "domain-name": "a.gh.edu.pl", 
+        "fuzzer": "subdomain", 
+        "geoip-country": "Poland", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "89.161.255.7"
+        ], 
+        "dns-mx": [
+            "h.edu.pl"
+        ], 
+        "dns-ns": [
+            "dns.home.pl", 
+            "dns2.home.pl", 
+            "dns3.home.pl"
+        ], 
+        "domain-name": "ag.h.edu.pl", 
+        "fuzzer": "subdomain", 
+        "geoip-country": "Poland", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "188.128.255.251"
+        ], 
+        "dns-ns": [
+            "ns1.premium.pl", 
+            "ns2.premium.pl"
+        ], 
+        "domain-name": "ahg.edu.pl", 
+        "fuzzer": "transposition", 
+        "geoip-country": "Poland", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-ns": [
+            "ns1.agh.edu.pl", 
+            "ns2.agh.edu.pl"
+        ], 
+        "domain-name": "agh.pl", 
+        "fuzzer": "various"
+    }, 
+    {
+        "dns-a": [
+            "195.154.179.166"
+        ], 
+        "dns-mx": [
+            "mail.aghedu.pl"
+        ], 
+        "dns-ns": [
+            "ns1.sax.pl", 
+            "ns2.sax.pl"
+        ], 
+        "domain-name": "aghedu.pl", 
+        "fuzzer": "various", 
+        "geoip-country": "France"
+    }
+]

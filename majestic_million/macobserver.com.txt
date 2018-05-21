@@ -1,0 +1,108 @@
+[
+    {
+        "dns-a": [
+            "64.131.69.134"
+        ], 
+        "dns-mx": [
+            "alt1.aspmx.l.google.com", 
+            "alt2.asmpx.l.google.com", 
+            "aspmx.l.google.com", 
+            "aspmx2.googlemail.com", 
+            "aspmx3.googlemail.com", 
+            "aspmx4.googlemail.com", 
+            "aspmx5.googlemail.com"
+        ], 
+        "dns-ns": [
+            "ns1.backbeatmedia.com", 
+            "ns2.backbeatmedia.com"
+        ], 
+        "domain-name": "macobserver.com", 
+        "fuzzer": "original*", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 100
+    }, 
+    {
+        "dns-a": [
+            "96.30.2.14"
+        ], 
+        "dns-mx": [
+            "acobserver.com"
+        ], 
+        "dns-ns": [
+            "owen.ns.cloudflare.com", 
+            "sima.ns.cloudflare.com"
+        ], 
+        "domain-name": "acobserver.com", 
+        "fuzzer": "omission", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-ns": [
+            "ns1.winhost.com", 
+            "ns2.winhost.com", 
+            "ns3.winhost.com"
+        ], 
+        "domain-name": "jacobserver.com", 
+        "fuzzer": "replacement"
+    }, 
+    {
+        "dns-a": [
+            "184.168.221.96"
+        ], 
+        "dns-mx": [
+            "0", 
+            "10"
+        ], 
+        "dns-ns": [
+            "ns01.cashparking.com", 
+            "ns02.cashparking.com"
+        ], 
+        "domain-name": "ma.cobserver.com", 
+        "fuzzer": "subdomain", 
+        "geoip-country": "United States", 
+        "mx-spy": true, 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "192.0.79.32", 
+            "192.0.79.33"
+        ], 
+        "dns-mx": [
+            "ALT1.ASPMX.L.GOOGLE.com", 
+            "ALT2.ASPMX.L.GOOGLE.com", 
+            "ASPMX.L.GOOGLE.com", 
+            "ASPMX2.GOOGLEMAIL.com", 
+            "ASPMX3.GOOGLEMAIL.com"
+        ], 
+        "dns-ns": [
+            "ns1.wordpress.com", 
+            "ns2.wordpress.com", 
+            "ns3.wordpress.com"
+        ], 
+        "domain-name": "mac.observer.com", 
+        "fuzzer": "subdomain", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "69.172.201.153"
+        ], 
+        "dns-ns": [
+            "ns1.uniregistrymarket.link", 
+            "ns2.uniregistrymarket.link"
+        ], 
+        "domain-name": "macobs.erver.com", 
+        "fuzzer": "subdomain", 
+        "geoip-country": "United States"
+    }, 
+    {
+        "dns-a": [
+            "208.73.211.70"
+        ], 
+        "domain-name": "macobserv.er.com", 
+        "fuzzer": "subdomain"
+    }
+]

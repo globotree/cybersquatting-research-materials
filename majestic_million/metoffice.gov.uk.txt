@@ -1,0 +1,53 @@
+[
+    {
+        "dns-a": [
+            "23.60.199.172"
+        ], 
+        "dns-mx": [
+            "expmgw01.metoffice.gov.uk", 
+            "expmgw02.metoffice.gov.uk"
+        ], 
+        "dns-ns": [
+            "asia2.akam.net", 
+            "asia3.akam.net", 
+            "eur2.akam.net", 
+            "ns1-110.akam.net", 
+            "ns1-172.akam.net", 
+            "use1.akam.net", 
+            "use2.akam.net", 
+            "use4.akam.net"
+        ], 
+        "domain-name": "metoffice.gov.uk", 
+        "fuzzer": "original*", 
+        "geoip-country": "Netherlands", 
+        "ssdeep-score": 100
+    }, 
+    {
+        "dns-a": [
+            "151.170.241.7"
+        ], 
+        "dns-mx": [
+            "email.meto.gov.uk", 
+            "thorn.meto.gov.uk"
+        ], 
+        "dns-ns": [
+            "dns.meto.gov.uk", 
+            "dns0.meto.gov.uk", 
+            "dns1.meto.gov.uk", 
+            "external-dns1.metoffice.gov.uk", 
+            "external-dns2.metoffice.gov.uk"
+        ], 
+        "domain-name": "met-office.gov.uk", 
+        "fuzzer": "hyphenation", 
+        "geoip-country": "United Kingdom", 
+        "ssdeep-score": 100
+    }, 
+    {
+        "dns-ns": [
+            "external-dns1.metoffice.gov.uk", 
+            "external-dns2.metoffice.gov.uk"
+        ], 
+        "domain-name": "metoffice.uk", 
+        "fuzzer": "various"
+    }
+]

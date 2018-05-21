@@ -1,0 +1,46 @@
+[
+    {
+        "dns-a": [
+            "69.163.152.152"
+        ], 
+        "dns-aaaa": [
+            "2607:f298:6:a067::a8a:7608"
+        ], 
+        "dns-mx": [
+            "mx1.sub4.homie.mail.dreamhost.com", 
+            "mx2.sub4.homie.mail.dreamhost.com"
+        ], 
+        "dns-ns": [
+            "ns1.dreamhost.com", 
+            "ns2.dreamhost.com", 
+            "ns3.dreamhost.com"
+        ], 
+        "domain-name": "famfamfam.com", 
+        "fuzzer": "original*", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 100
+    }, 
+    {
+        "dns-a": [
+            "50.117.120.251"
+        ], 
+        "dns-mx": [
+            "mail.happyisp.com"
+        ], 
+        "domain-name": "fanfanfan.com", 
+        "fuzzer": "homoglyph", 
+        "geoip-country": "United States", 
+        "mx-spy": true, 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-mx": [
+            "barracuda.am.com"
+        ], 
+        "dns-ns": [
+            "nsw1.am.com"
+        ], 
+        "domain-name": "famfamf.am.com", 
+        "fuzzer": "subdomain"
+    }
+]

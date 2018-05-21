@@ -1,0 +1,105 @@
+[
+    {
+        "dns-ns": [
+            "ns1.p31.dynect.net", 
+            "ns2.p31.dynect.net", 
+            "ns3.p31.dynect.net", 
+            "ns4.p31.dynect.net", 
+            "pdns1.ultradns.net", 
+            "pdns6.ultradns.co.uk"
+        ], 
+        "domain-name": "ssl-images-amazon.com", 
+        "fuzzer": "original*"
+    }, 
+    {
+        "dns-a": [
+            "85.13.132.44"
+        ], 
+        "dns-mx": [
+            "w013d66b.kasserver.com"
+        ], 
+        "dns-ns": [
+            "ns5.kasserver.com", 
+            "ns6.kasserver.com"
+        ], 
+        "domain-name": "ssl-imagus-amazon.com", 
+        "fuzzer": "bitsquatting", 
+        "geoip-country": "Germany"
+    }, 
+    {
+        "dns-a": [
+            "199.191.50.142"
+        ], 
+        "dns-ns": [
+            "ns111442.ztomy.com", 
+            "ns211442.ztomy.com"
+        ], 
+        "domain-name": "ssi-images-amazon.com", 
+        "fuzzer": "homoglyph", 
+        "geoip-country": "Virgin Islands"
+    }, 
+    {
+        "dns-a": [
+            "199.191.50.142"
+        ], 
+        "dns-ns": [
+            "ns111442.ztomy.com", 
+            "ns211442.ztomy.com"
+        ], 
+        "domain-name": "sl-images-amazon.com", 
+        "fuzzer": "omission", 
+        "geoip-country": "Virgin Islands"
+    }, 
+    {
+        "dns-a": [
+            "199.191.50.142"
+        ], 
+        "dns-ns": [
+            "ns111442.ztomy.com", 
+            "ns211442.ztomy.com"
+        ], 
+        "domain-name": "s.sl-images-amazon.com", 
+        "fuzzer": "subdomain", 
+        "geoip-country": "Virgin Islands"
+    }, 
+    {
+        "dns-a": [
+            "199.191.50.142"
+        ], 
+        "dns-ns": [
+            "ns111442.ztomy.com", 
+            "ns211442.ztomy.com"
+        ], 
+        "domain-name": "ss.l-images-amazon.com", 
+        "fuzzer": "subdomain", 
+        "geoip-country": "Virgin Islands"
+    }, 
+    {
+        "dns-a": [
+            "50.28.55.213"
+        ], 
+        "domain-name": "ssl-images-am.azon.com", 
+        "fuzzer": "subdomain", 
+        "geoip-country": "United States"
+    }, 
+    {
+        "dns-a": [
+            "184.168.221.104"
+        ], 
+        "dns-ns": [
+            "ns1.afternic.com", 
+            "ns2.afternic.com"
+        ], 
+        "domain-name": "ssl-images-ama.zon.com", 
+        "fuzzer": "subdomain", 
+        "geoip-country": "United States"
+    }, 
+    {
+        "dns-a": [
+            "208.78.94.160"
+        ], 
+        "domain-name": "ssl-images-amaz.on.com", 
+        "fuzzer": "subdomain", 
+        "geoip-country": "United States"
+    }
+]

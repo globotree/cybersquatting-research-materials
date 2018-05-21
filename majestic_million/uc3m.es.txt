@@ -1,0 +1,122 @@
+[
+    {
+        "dns-a": [
+            "176.58.10.138"
+        ], 
+        "dns-aaaa": [
+            "2a0a:7dc0:101:340:176:58:10:138"
+        ], 
+        "dns-mx": [
+            "ALT1.ASPMX.L.GOOGLE.COM", 
+            "ALT2.ASPMX.L.GOOGLE.COM", 
+            "ASPMX.L.GOOGLE.COM", 
+            "ASPMX2.GOOGLEMAIL.COM", 
+            "ASPMX3.GOOGLEMAIL.COM"
+        ], 
+        "dns-ns": [
+            "chico.rediris.es", 
+            "saruman.uc3m.es", 
+            "sun.rediris.es", 
+            "vorteX.uc3m.es"
+        ], 
+        "domain-name": "uc3m.es", 
+        "fuzzer": "original*", 
+        "geoip-country": "Spain", 
+        "ssdeep-score": 100
+    }, 
+    {
+        "dns-a": [
+            "216.239.32.21", 
+            "216.239.34.21", 
+            "216.239.36.21", 
+            "216.239.38.21"
+        ], 
+        "dns-ns": [
+            "dns27.servidoresdns.net", 
+            "dns28.servidoresdns.net"
+        ], 
+        "domain-name": "uc3mx.es", 
+        "fuzzer": "addition", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "37.152.88.55"
+        ], 
+        "dns-ns": [
+            "ns2.dondominio.com", 
+            "ns3.dondominio.com"
+        ], 
+        "domain-name": "c3m.es", 
+        "fuzzer": "omission", 
+        "geoip-country": "Spain", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "72.52.4.119"
+        ], 
+        "dns-mx": [
+            "localhost"
+        ], 
+        "dns-ns": [
+            "ns1.sedoparking.com", 
+            "ns2.sedoparking.com"
+        ], 
+        "domain-name": "uc3.es", 
+        "fuzzer": "omission", 
+        "geoip-country": "United States", 
+        "mx-spy": true, 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "147.96.1.15"
+        ], 
+        "dns-mx": [
+            "alt1.aspmx.l.google.com", 
+            "alt2.aspmx.l.google.com", 
+            "aspmx.l.google.com", 
+            "aspmx2.googlemail.com", 
+            "aspmx3.googlemail.com", 
+            "ucm-es.mail.protection.outlook.com", 
+            "ucsmtp.ucm.es"
+        ], 
+        "dns-ns": [
+            "chico.rediris.es", 
+            "crispin.sim.ucm.es", 
+            "sun.rediris.es", 
+            "ucdns.sis.ucm.es"
+        ], 
+        "domain-name": "ucm.es", 
+        "fuzzer": "omission", 
+        "geoip-country": "Spain", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "194.30.35.82"
+        ], 
+        "dns-mx": [
+            "smtp.sarenet.es"
+        ], 
+        "dns-ns": [
+            "ns1.sarenet.es", 
+            "ns2.sarenet.es"
+        ], 
+        "domain-name": "ucem.es", 
+        "fuzzer": "replacement", 
+        "geoip-country": "Spain", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "37.152.88.55"
+        ], 
+        "domain-name": "u.c3m.es", 
+        "fuzzer": "subdomain", 
+        "geoip-country": "Spain", 
+        "ssdeep-score": 0
+    }
+]

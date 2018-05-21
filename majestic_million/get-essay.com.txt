@@ -1,0 +1,63 @@
+[
+    {
+        "dns-mx": [
+            "mail.get-essay.com"
+        ], 
+        "dns-ns": [
+            "pdns09.domaincontrol.com", 
+            "pdns10.domaincontrol.com"
+        ], 
+        "domain-name": "get-essay.com", 
+        "fuzzer": "original*"
+    }, 
+    {
+        "dns-a": [
+            "184.168.221.48"
+        ], 
+        "dns-mx": [
+            "mailstore1.secureserver.net", 
+            "smtp.secureserver.net"
+        ], 
+        "dns-ns": [
+            "pdns05.domaincontrol.com", 
+            "pdns06.domaincontrol.com"
+        ], 
+        "domain-name": "get-essays.com", 
+        "fuzzer": "addition", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "144.217.105.53"
+        ], 
+        "dns-mx": [
+            "mail.getessay.com"
+        ], 
+        "dns-ns": [
+            "ns.securednsservices.com", 
+            "ns2.securednsservices.com"
+        ], 
+        "domain-name": "getessay.com", 
+        "fuzzer": "omission", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "72.52.4.119"
+        ], 
+        "dns-mx": [
+            "localhost"
+        ], 
+        "dns-ns": [
+            "ns1.sedoparking.com", 
+            "ns2.sedoparking.com"
+        ], 
+        "domain-name": "get-e.ssay.com", 
+        "fuzzer": "subdomain", 
+        "geoip-country": "United States", 
+        "mx-spy": true, 
+        "ssdeep-score": 0
+    }
+]

@@ -1,0 +1,106 @@
+[
+    {
+        "dns-a": [
+            "34.195.82.122", 
+            "34.197.148.4", 
+            "34.202.46.121", 
+            "34.203.126.169", 
+            "34.203.51.197", 
+            "34.204.250.133", 
+            "34.205.126.7", 
+            "34.224.9.38"
+        ], 
+        "dns-mx": [
+            "alt1.aspmx.l.google.com", 
+            "alt2.aspmx.l.google.com", 
+            "alt3.aspmx.l.google.com", 
+            "alt4.aspmx.l.google.com", 
+            "aspmx.l.google.com"
+        ], 
+        "dns-ns": [
+            "dns1.p05.nsone.net", 
+            "dns2.p05.nsone.net", 
+            "dns3.p05.nsone.net", 
+            "dns4.p05.nsone.net", 
+            "ns1.p14.dynect.net", 
+            "ns2.p14.dynect.net", 
+            "ns3.p14.dynect.net", 
+            "ns4.p14.dynect.net"
+        ], 
+        "domain-name": "eventbrite.de", 
+        "fuzzer": "original*", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 83
+    }, 
+    {
+        "dns-a": [
+            "166.78.121.55", 
+            "91.195.240.39"
+        ], 
+        "dns-ns": [
+            "ns1.dns-routing.com", 
+            "ns2.dns-routing.com"
+        ], 
+        "domain-name": "eventbride.de", 
+        "fuzzer": "bitsquatting", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "185.53.179.6"
+        ], 
+        "dns-mx": [
+            "mail.h-email.net"
+        ], 
+        "dns-ns": [
+            "ns1.parkingcrew.net", 
+            "ns2.parkingcrew.net"
+        ], 
+        "domain-name": "evenbrite.de", 
+        "fuzzer": "omission", 
+        "geoip-country": "Germany", 
+        "mx-spy": true, 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-ns": [
+            "nsa4.schlundtech.de", 
+            "nsb4.schlundtech.de", 
+            "nsc4.schlundtech.de", 
+            "nsd4.schlundtech.de"
+        ], 
+        "domain-name": "eventbite.de", 
+        "fuzzer": "omission"
+    }, 
+    {
+        "dns-a": [
+            "185.53.178.8"
+        ], 
+        "dns-ns": [
+            "ns1.parkingcrew.net", 
+            "ns2.parkingcrew.net"
+        ], 
+        "domain-name": "event.brite.de", 
+        "fuzzer": "subdomain", 
+        "geoip-country": "Germany", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "185.53.179.8"
+        ], 
+        "dns-mx": [
+            "mail.h-email.net"
+        ], 
+        "dns-ns": [
+            "ns1.parkingcrew.net", 
+            "ns2.parkingcrew.net"
+        ], 
+        "domain-name": "eventbri.te.de", 
+        "fuzzer": "subdomain", 
+        "geoip-country": "Germany", 
+        "mx-spy": true, 
+        "ssdeep-score": 0
+    }
+]

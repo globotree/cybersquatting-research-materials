@@ -1,0 +1,29 @@
+[
+    {
+        "dns-ns": [
+            "ns4.net.ohio-state.edu", 
+            "ns4.oar.net", 
+            "ns5.net.ohio-state.edu", 
+            "ns5.oar.net", 
+            "ns6.oar.net", 
+            "ns7.oar.net"
+        ], 
+        "domain-name": "ohio-state.edu", 
+        "fuzzer": "original*"
+    }, 
+    {
+        "dns-a": [
+            "38.101.67.201"
+        ], 
+        "dns-mx": [
+            "barracuda.ohiostate.edu"
+        ], 
+        "dns-ns": [
+            "ns0.oribus.net", 
+            "ns1.oribus.net"
+        ], 
+        "domain-name": "ohiostate.edu", 
+        "fuzzer": "omission", 
+        "geoip-country": "United States"
+    }
+]

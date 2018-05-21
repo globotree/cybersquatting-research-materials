@@ -1,0 +1,42 @@
+[
+    {
+        "dns-a": [
+            "120.136.9.250"
+        ], 
+        "domain-name": "xdomain.jp", 
+        "fuzzer": "original*", 
+        "geoip-country": "Japan", 
+        "ssdeep-score": 97
+    }, 
+    {
+        "dns-a": [
+            "210.154.75.242"
+        ], 
+        "dns-mx": [
+            "mail.domain.jp"
+        ], 
+        "dns-ns": [
+            "sso1.domain.jp"
+        ], 
+        "domain-name": "domain.jp", 
+        "fuzzer": "omission", 
+        "geoip-country": "Japan", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "210.136.8.15"
+        ], 
+        "dns-mx": [
+            "a.mx.cdomain.jp"
+        ], 
+        "dns-ns": [
+            "ns5.sphere.ad.jp", 
+            "ns6.sphere.ad.jp"
+        ], 
+        "domain-name": "cdomain.jp", 
+        "fuzzer": "replacement", 
+        "geoip-country": "Japan", 
+        "ssdeep-score": 0
+    }
+]

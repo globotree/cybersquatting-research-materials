@@ -1,0 +1,59 @@
+[
+    {
+        "dns-a": [
+            "198.246.102.49"
+        ], 
+        "dns-mx": [
+            "cluster5.us.messagelabs.com", 
+            "cluster5a.us.messagelabs.com"
+        ], 
+        "dns-ns": [
+            "icdc-us-ns1.cdc.gov", 
+            "icdc-us-ns2.cdc.gov", 
+            "icdc-us-ns3.cdc.gov", 
+            "ns1.cdc.gov", 
+            "ns2.cdc.gov", 
+            "ns3.cdc.gov"
+        ], 
+        "domain-name": "cdc.gov", 
+        "fuzzer": "original*", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 100
+    }, 
+    {
+        "dns-a": [
+            "164.82.40.54", 
+            "164.82.9.158"
+        ], 
+        "dns-aaaa": [
+            "2620:0:190:110::1160"
+        ], 
+        "dns-mx": [
+            "smtp3.dc.gov", 
+            "smtp3b.dc.gov"
+        ], 
+        "dns-ns": [
+            "ns1.washingtondc.gov", 
+            "ns2.washingtondc.gov", 
+            "ns3.washingtondc.gov", 
+            "ns4.washingtondc.gov"
+        ], 
+        "domain-name": "dc.gov", 
+        "fuzzer": "omission", 
+        "geoip-country": "United States"
+    }, 
+    {
+        "dns-a": [
+            "185.53.178.9"
+        ], 
+        "dns-mx": [
+            "mail.h-email.net"
+        ], 
+        "dns-ns": [
+            "ns1.parkingcrew.net", 
+            "ns2.parkingcrew.net"
+        ], 
+        "domain-name": "cdc-gov.com", 
+        "fuzzer": "various"
+    }
+]

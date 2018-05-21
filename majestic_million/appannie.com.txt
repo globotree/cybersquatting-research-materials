@@ -1,0 +1,142 @@
+[
+    {
+        "dns-a": [
+            "69.167.138.92"
+        ], 
+        "dns-mx": [
+            "ALT3.ASPMX.L.GOOGLE.com", 
+            "ALT4.ASPMX.L.GOOGLE.com", 
+            "ASPMX.L.GOOGLE.com", 
+            "alt1.ASPMX.L.GOOGLE.com", 
+            "alt2.ASPMX.L.GOOGLE.com"
+        ], 
+        "dns-ns": [
+            "ns1.p04.dynect.net", 
+            "ns2.p04.dynect.net", 
+            "ns3.p04.dynect.net", 
+            "ns4.p04.dynect.net"
+        ], 
+        "domain-name": "appannie.com", 
+        "fuzzer": "original*", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 100
+    }, 
+    {
+        "dns-a": [
+            "50.63.202.32"
+        ], 
+        "dns-mx": [
+            "mailstore1.secureserver.net", 
+            "smtp.secureserver.net"
+        ], 
+        "dns-ns": [
+            "pdns07.domaincontrol.com", 
+            "pdns08.domaincontrol.com"
+        ], 
+        "domain-name": "appann1e.com", 
+        "fuzzer": "homoglyph", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "64.202.189.170"
+        ], 
+        "dns-mx": [
+            "mailstore1.secureserver.net", 
+            "smtp.secureserver.net"
+        ], 
+        "dns-ns": [
+            "pdns03.domaincontrol.com", 
+            "pdns04.domaincontrol.com"
+        ], 
+        "domain-name": "app-annie.com", 
+        "fuzzer": "hyphenation", 
+        "geoip-country": "United States"
+    }, 
+    {
+        "dns-a": [
+            "207.7.94.153"
+        ], 
+        "dns-mx": [
+            "appsannie.com"
+        ], 
+        "dns-ns": [
+            "ns1.appsforpclove.com", 
+            "ns2.appsforpclove.com"
+        ], 
+        "domain-name": "appsannie.com", 
+        "fuzzer": "insertion", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "103.224.212.222"
+        ], 
+        "dns-mx": [
+            "park-mx.above.com"
+        ], 
+        "dns-ns": [
+            "ns1.above.com", 
+            "ns2.above.com"
+        ], 
+        "domain-name": "appanni.com", 
+        "fuzzer": "omission", 
+        "geoip-country": "Australia", 
+        "mx-spy": true, 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "199.59.242.150"
+        ], 
+        "dns-mx": [
+            "mx76.m2bp.com", 
+            "mx76.mb1p.com"
+        ], 
+        "dns-ns": [
+            "ns1.bodis.com", 
+            "ns2.bodis.com"
+        ], 
+        "domain-name": "appanie.com", 
+        "fuzzer": "omission", 
+        "geoip-country": "United States", 
+        "mx-spy": true, 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "107.148.169.42"
+        ], 
+        "dns-ns": [
+            "v1.dns234.net", 
+            "v2.dns234.net"
+        ], 
+        "domain-name": "appannue.com", 
+        "fuzzer": "replacement", 
+        "geoip-country": "United States"
+    }, 
+    {
+        "dns-a": [
+            "23.23.86.44"
+        ], 
+        "dns-mx": [
+            "0.0.0.0"
+        ], 
+        "domain-name": "app.annie.com", 
+        "fuzzer": "subdomain", 
+        "geoip-country": "United States", 
+        "mx-spy": true, 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "75.126.100.22"
+        ], 
+        "domain-name": "appan.nie.com", 
+        "fuzzer": "subdomain", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 0
+    }
+]

@@ -1,0 +1,57 @@
+[
+    {
+        "dns-a": [
+            "198.105.44.27"
+        ], 
+        "dns-mx": [
+            "pace-edu.mail.protection.outlook.com"
+        ], 
+        "dns-ns": [
+            "ns1.pace.edu", 
+            "ns2.pace.edu", 
+            "ns3.pace.edu", 
+            "ns4.pace.edu", 
+            "ns5.pace.edu"
+        ], 
+        "domain-name": "pace.edu", 
+        "fuzzer": "original*", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 100
+    }, 
+    {
+        "dns-a": [
+            "50.87.248.180"
+        ], 
+        "dns-mx": [
+            "pac.edu"
+        ], 
+        "dns-ns": [
+            "ns1.bluehost.com", 
+            "ns2.bluehost.com"
+        ], 
+        "domain-name": "pac.edu", 
+        "fuzzer": "omission"
+    }, 
+    {
+        "dns-a": [
+            "216.37.4.206"
+        ], 
+        "dns-mx": [
+            "ace-edu.mail.protection.outlook.com"
+        ], 
+        "dns-ns": [
+            "DNS1.P08.NSONE.NET", 
+            "DNS2.P08.NSONE.NET", 
+            "DNS3.P08.NSONE.NET", 
+            "DNS4.P08.NSONE.NET", 
+            "ns1.p14.dynect.NET", 
+            "ns2.p14.dynect.NET", 
+            "ns3.p14.dynect.NET", 
+            "ns4.p14.dynect.NET"
+        ], 
+        "domain-name": "ace.edu", 
+        "fuzzer": "omission", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 0
+    }
+]

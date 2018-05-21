@@ -1,0 +1,73 @@
+[
+    {
+        "dns-a": [
+            "52.0.160.83"
+        ], 
+        "dns-mx": [
+            "alt1.aspmx.l.google.com", 
+            "alt2.aspmx.l.google.com", 
+            "aspmx.l.google.com", 
+            "aspmx2.googlemail.com", 
+            "aspmx3.googlemail.com", 
+            "mng-mflow-01.digitalfirstmedia.com"
+        ], 
+        "dns-ns": [
+            "authns1.qwest.net", 
+            "authns2.qwest.net"
+        ], 
+        "domain-name": "santacruzsentinel.com", 
+        "fuzzer": "original*", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 100
+    }, 
+    {
+        "dns-a": [
+            "209.15.13.134"
+        ], 
+        "dns-mx": [
+            "mail.b-io.co"
+        ], 
+        "dns-ns": [
+            "ns1.dnslink.com", 
+            "ns2.dnslink.com"
+        ], 
+        "domain-name": "santacruzsentinal.com", 
+        "fuzzer": "bitsquatting", 
+        "geoip-country": "United States", 
+        "mx-spy": true, 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "96.46.129.200"
+        ], 
+        "dns-mx": [
+            "mail1.santacruz-sentinel.com", 
+            "mail2.santacruz-sentinel.com", 
+            "mail3.santacruz-sentinel.com", 
+            "mail4.santacruz-sentinel.com", 
+            "mail5.santacruz-sentinel.com", 
+            "mail6.santacruz-sentinel.com", 
+            "mail7.santacruz-sentinel.com"
+        ], 
+        "dns-ns": [
+            "ns1.texasdns.com", 
+            "ns2.texasdns.com", 
+            "ns3.texasdns.com"
+        ], 
+        "domain-name": "santacruz-sentinel.com", 
+        "fuzzer": "hyphenation", 
+        "geoip-country": "United States", 
+        "mx-spy": true, 
+        "ssdeep-score": 100
+    }, 
+    {
+        "dns-a": [
+            "107.180.49.116"
+        ], 
+        "domain-name": "santacruzsentin.el.com", 
+        "fuzzer": "subdomain", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 0
+    }
+]

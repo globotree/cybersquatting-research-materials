@@ -1,0 +1,137 @@
+[
+    {
+        "dns-a": [
+            "216.58.210.9"
+        ], 
+        "dns-aaaa": [
+            "2a00:1450:4001:816::2009"
+        ], 
+        "dns-ns": [
+            "ns1.google.com", 
+            "ns2.google.com", 
+            "ns3.google.com", 
+            "ns4.google.com"
+        ], 
+        "domain-name": "blogspot.com.br", 
+        "fuzzer": "original*", 
+        "geoip-country": "United States"
+    }, 
+    {
+        "dns-a": [
+            "103.224.182.246"
+        ], 
+        "dns-mx": [
+            "park-mx.above.com"
+        ], 
+        "dns-ns": [
+            "ns1.above.com", 
+            "ns2.above.com"
+        ], 
+        "domain-name": "blogspots.com.br", 
+        "fuzzer": "addition", 
+        "geoip-country": "Australia", 
+        "mx-spy": true
+    }, 
+    {
+        "dns-a": [
+            "103.224.182.251"
+        ], 
+        "dns-mx": [
+            "park-mx.above.com"
+        ], 
+        "dns-ns": [
+            "ns3.above.com", 
+            "ns4.above.com"
+        ], 
+        "domain-name": "blogstot.com.br", 
+        "fuzzer": "bitsquatting", 
+        "geoip-country": "Australia", 
+        "mx-spy": true
+    }, 
+    {
+        "dns-a": [
+            "103.224.182.251"
+        ], 
+        "dns-mx": [
+            "park-mx.above.com"
+        ], 
+        "dns-ns": [
+            "ns3.above.com", 
+            "ns4.above.com"
+        ], 
+        "domain-name": "blogspt.com.br", 
+        "fuzzer": "omission", 
+        "geoip-country": "Australia", 
+        "mx-spy": true
+    }, 
+    {
+        "dns-a": [
+            "103.224.182.251"
+        ], 
+        "dns-ns": [
+            "ns3.above.com", 
+            "ns4.above.com"
+        ], 
+        "domain-name": "blgspot.com.br", 
+        "fuzzer": "omission", 
+        "geoip-country": "Australia"
+    }, 
+    {
+        "dns-ns": [
+            "a.auto.dns.br", 
+            "b.auto.dns.br"
+        ], 
+        "domain-name": "blospot.com.br", 
+        "fuzzer": "omission"
+    }, 
+    {
+        "dns-a": [
+            "72.52.4.122"
+        ], 
+        "dns-mx": [
+            "localhost"
+        ], 
+        "dns-ns": [
+            "ns1.sedoparking.com", 
+            "ns2.sedoparking.com"
+        ], 
+        "domain-name": "blogpot.com.br", 
+        "fuzzer": "omission", 
+        "geoip-country": "United States", 
+        "mx-spy": true
+    }, 
+    {
+        "dns-a": [
+            "185.53.179.7"
+        ], 
+        "dns-ns": [
+            "ns1.parkingcrew.net", 
+            "ns2.parkingcrew.net"
+        ], 
+        "domain-name": "bogspot.com.br", 
+        "fuzzer": "omission", 
+        "geoip-country": "Germany"
+    }, 
+    {
+        "dns-a": [
+            "189.113.167.104"
+        ], 
+        "dns-mx": [
+            "bolgspot.com.br"
+        ], 
+        "dns-ns": [
+            "ns1.serverbr10.com", 
+            "ns2.serverbr10.com"
+        ], 
+        "domain-name": "bolgspot.com.br", 
+        "fuzzer": "transposition"
+    }, 
+    {
+        "dns-a": [
+            "50.63.202.40"
+        ], 
+        "domain-name": "blogpsot.com.br", 
+        "fuzzer": "transposition", 
+        "geoip-country": "United States"
+    }
+]

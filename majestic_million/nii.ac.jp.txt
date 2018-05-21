@@ -1,0 +1,83 @@
+[
+    {
+        "dns-mx": [
+            "m.nii.ac.jp"
+        ], 
+        "dns-ns": [
+            "dns-x.sinet.ad.jp", 
+            "dns1.nii.ac.jp", 
+            "dns2.nii.ac.jp"
+        ], 
+        "domain-name": "nii.ac.jp", 
+        "fuzzer": "original*"
+    }, 
+    {
+        "dns-mx": [
+            "as01.as-sol.jp", 
+            "as02.as-sol.jp"
+        ], 
+        "dns-ns": [
+            "dnsv1.nabic.jp", 
+            "dnsv2.nabic.jp"
+        ], 
+        "domain-name": "niit.ac.jp", 
+        "fuzzer": "addition"
+    }, 
+    {
+        "dns-a": [
+            "210.190.169.181"
+        ], 
+        "dns-mx": [
+            "mwbgw1.ocn.ad.jp", 
+            "mwbgw2.ocn.ad.jp"
+        ], 
+        "dns-ns": [
+            "ns-216.dns.jp-e1.cloudn-service.com", 
+            "ns-217.dns.jp-w1.cloudn-service.com", 
+            "ns-218.dns.us-e1.cloudn-service.com"
+        ], 
+        "domain-name": "nki.ac.jp", 
+        "fuzzer": "bitsquatting", 
+        "geoip-country": "Japan"
+    }, 
+    {
+        "dns-a": [
+            "219.99.168.111"
+        ], 
+        "dns-mx": [
+            "mail.nik.ac.jp"
+        ], 
+        "dns-ns": [
+            "ns01.asp-frontier.net", 
+            "ns02.asp-frontier.net"
+        ], 
+        "domain-name": "nik.ac.jp", 
+        "fuzzer": "bitsquatting", 
+        "geoip-country": "Japan"
+    }, 
+    {
+        "dns-a": [
+            "210.191.85.3"
+        ], 
+        "dns-mx": [
+            "niusrv1.niu.ac.jp"
+        ], 
+        "dns-ns": [
+            "niusrv2.niu.ac.jp"
+        ], 
+        "domain-name": "niu.ac.jp", 
+        "fuzzer": "replacement"
+    }, 
+    {
+        "dns-mx": [
+            "m.nii.ac.jp"
+        ], 
+        "dns-ns": [
+            "dns-x.sinet.ad.jp", 
+            "dns1.nii.ac.jp", 
+            "dns2.nii.ac.jp"
+        ], 
+        "domain-name": "nii.jp", 
+        "fuzzer": "various"
+    }
+]

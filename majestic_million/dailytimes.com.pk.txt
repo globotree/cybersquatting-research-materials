@@ -1,0 +1,53 @@
+[
+    {
+        "dns-a": [
+            "67.227.194.235"
+        ], 
+        "dns-mx": [
+            "mail.dailytimes.com.pk", 
+            "mail1.dailytimes.com.pk"
+        ], 
+        "dns-ns": [
+            "pdns07.domaincontrol.com", 
+            "pdns08.domaincontrol.com"
+        ], 
+        "domain-name": "dailytimes.com.pk", 
+        "fuzzer": "original*", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 97
+    }, 
+    {
+        "dns-a": [
+            "185.53.179.8"
+        ], 
+        "dns-mx": [
+            "mail.h-email.net"
+        ], 
+        "dns-ns": [
+            "ns1.parkingcrew.net", 
+            "ns2.parkingcrew.net"
+        ], 
+        "domain-name": "dailytime.com.pk", 
+        "fuzzer": "omission", 
+        "geoip-country": "Germany", 
+        "mx-spy": true, 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "72.52.4.119"
+        ], 
+        "dns-mx": [
+            "localhost"
+        ], 
+        "dns-ns": [
+            "ns1.sedoparking.com", 
+            "ns2.sedoparking.com"
+        ], 
+        "domain-name": "dailytimes.pk", 
+        "fuzzer": "various", 
+        "geoip-country": "United States", 
+        "mx-spy": true, 
+        "ssdeep-score": 0
+    }
+]

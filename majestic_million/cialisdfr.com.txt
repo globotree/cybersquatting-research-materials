@@ -1,0 +1,66 @@
+[
+    {
+        "dns-a": [
+            "104.27.158.82", 
+            "104.27.159.82"
+        ], 
+        "dns-aaaa": [
+            "2400:cb00:2048:1::681b:9e52", 
+            "2400:cb00:2048:1::681b:9f52"
+        ], 
+        "dns-ns": [
+            "graham.ns.cloudflare.com", 
+            "ines.ns.cloudflare.com"
+        ], 
+        "domain-name": "cialisdfr.com", 
+        "fuzzer": "original*", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 100
+    }, 
+    {
+        "dns-a": [
+            "80.79.119.207"
+        ], 
+        "dns-mx": [
+            "mail.cialisfr.com", 
+            "mail.cialisfr.com"
+        ], 
+        "dns-ns": [
+            "ns1.rxidns.com", 
+            "ns2.rxidns.com"
+        ], 
+        "domain-name": "cialisfr.com", 
+        "fuzzer": "omission", 
+        "geoip-country": "Estonia"
+    }, 
+    {
+        "dns-a": [
+            "185.85.75.98"
+        ], 
+        "dns-mx": [
+            "mail.cialisdr.com"
+        ], 
+        "dns-ns": [
+            "phil.ns.cloudflare.com", 
+            "zoe.ns.cloudflare.com"
+        ], 
+        "domain-name": "cialisdr.com", 
+        "fuzzer": "omission", 
+        "geoip-country": "Turkey"
+    }, 
+    {
+        "dns-a": [
+            "199.101.98.92"
+        ], 
+        "dns-ns": [
+            "ns1.hydronhosting.com", 
+            "ns2.hydronhosting.com", 
+            "ns3.hydronhosting.com", 
+            "ns4.hydronhosting.com"
+        ], 
+        "domain-name": "cialisdcr.com", 
+        "fuzzer": "replacement", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 0
+    }
+]

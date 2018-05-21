@@ -1,0 +1,83 @@
+[
+    {
+        "dns-a": [
+            "159.54.242.176", 
+            "209.97.50.225"
+        ], 
+        "dns-mx": [
+            "us-smtp-inbound-1.mimecast.com", 
+            "us-smtp-inbound-2.mimecast.com"
+        ], 
+        "dns-ns": [
+            "dns1.p03.nsone.net", 
+            "dns2.p03.nsone.net", 
+            "dns3.p03.nsone.net", 
+            "dns4.p03.nsone.net", 
+            "ns1.infi.net", 
+            "ns2.infi.net", 
+            "ns3.infi.net", 
+            "ns4.infi.net"
+        ], 
+        "domain-name": "news-leader.com", 
+        "fuzzer": "original*", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 100
+    }, 
+    {
+        "dns-a": [
+            "209.97.50.225"
+        ], 
+        "dns-mx": [
+            "us-smtp-inbound-1.mimecast.com", 
+            "us-smtp-inbound-2.mimecast.com"
+        ], 
+        "dns-ns": [
+            "dns1.p03.nsone.net", 
+            "dns2.p03.nsone.net", 
+            "dns3.p03.nsone.net", 
+            "dns4.p03.nsone.net", 
+            "ns1.gannett.com", 
+            "ns2.gannett.com", 
+            "ns3.gannett.com", 
+            "ns4.gannett.com"
+        ], 
+        "domain-name": "newsleader.com", 
+        "fuzzer": "omission", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "205.178.189.131"
+        ], 
+        "dns-mx": [
+            "p.webcom.ctmail.com"
+        ], 
+        "dns-ns": [
+            "ns63.worldnic.com", 
+            "ns64.worldnic.com"
+        ], 
+        "domain-name": "new-leader.com", 
+        "fuzzer": "omission", 
+        "geoip-country": "United States", 
+        "mx-spy": true, 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "206.188.192.209"
+        ], 
+        "domain-name": "news-le.ader.com", 
+        "fuzzer": "subdomain", 
+        "geoip-country": "United States"
+    }, 
+    {
+        "dns-a": [
+            "208.73.211.70"
+        ], 
+        "domain-name": "news-lead.er.com", 
+        "fuzzer": "subdomain", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 0
+    }
+]

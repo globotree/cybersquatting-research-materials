@@ -1,0 +1,465 @@
+[
+    {
+        "dns-a": [
+            "128.125.253.136"
+        ], 
+        "dns-mx": [
+            "mx0a-00164701.pphosted.com", 
+            "mx0b-00164701.pphosted.com"
+        ], 
+        "dns-ns": [
+            "ns1.usc.edu", 
+            "ns2.usc.edu", 
+            "ns3.usc.edu", 
+            "nserver.apple.com", 
+            "uucp-gw-1.pa.dec.com"
+        ], 
+        "domain-name": "usc.edu", 
+        "fuzzer": "original*", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 100
+    }, 
+    {
+        "dns-a": [
+            "207.144.25.22"
+        ], 
+        "dns-mx": [
+            "usca-edu.mail.eo.outlook.com"
+        ], 
+        "dns-ns": [
+            "dns1.usca.edu", 
+            "dns2.usca.edu"
+        ], 
+        "domain-name": "usca.edu", 
+        "fuzzer": "addition", 
+        "geoip-country": "United States"
+    }, 
+    {
+        "dns-a": [
+            "173.199.177.208"
+        ], 
+        "dns-mx": [
+            "mx1.mail.sc.edu"
+        ], 
+        "dns-ns": [
+            "name0.uscb.edu", 
+            "ns2.uscupstate.edu"
+        ], 
+        "domain-name": "uscb.edu", 
+        "fuzzer": "addition", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "104.28.12.170", 
+            "104.28.13.170"
+        ], 
+        "dns-aaaa": [
+            "2400:cb00:2048:1::681c:caa", 
+            "2400:cb00:2048:1::681c:daa"
+        ], 
+        "dns-mx": [
+            "tsc-edu.mail.protection.outlook.com"
+        ], 
+        "dns-ns": [
+            "lisa.ns.cloudflare.com", 
+            "mark.ns.cloudflare.com"
+        ], 
+        "domain-name": "tsc.edu", 
+        "fuzzer": "bitsquatting", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-mx": [
+            "d66569a.ess.barracudanetworks.com", 
+            "d66569b.ess.barracudanetworks.com"
+        ], 
+        "dns-ns": [
+            "dns1.doc.state.ne.us", 
+            "wscns.wsc.edu"
+        ], 
+        "domain-name": "wsc.edu", 
+        "fuzzer": "bitsquatting"
+    }, 
+    {
+        "dns-a": [
+            "138.116.179.71"
+        ], 
+        "dns-mx": [
+            "esc-edu.mail.protection.outlook.com"
+        ], 
+        "dns-ns": [
+            "ns10.dnsmadeeasy.com", 
+            "ns11.dnsmadeeasy.com", 
+            "ns12.dnsmadeeasy.com", 
+            "ns13.dnsmadeeasy.com", 
+            "ns14.dnsmadeeasy.com", 
+            "ns15.dnsmadeeasy.com"
+        ], 
+        "domain-name": "esc.edu", 
+        "fuzzer": "bitsquatting", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "107.21.104.61"
+        ], 
+        "dns-mx": [
+            "uwc-edu.mail.protection.outlook.com"
+        ], 
+        "dns-ns": [
+            "dns1.uwc.edu", 
+            "dns1.uwex.uwc.edu", 
+            "dns10.uwc.edu", 
+            "dns3.uwex.uwc.edu", 
+            "ns.uwex.edu", 
+            "ns0.uwex.edu", 
+            "ns1.uwex.edu", 
+            "ns10.uwex.edu"
+        ], 
+        "domain-name": "uwc.edu", 
+        "fuzzer": "bitsquatting", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-mx": [
+            "ucc-edu.mail.protection.outlook.com"
+        ], 
+        "dns-ns": [
+            "auth1.dns.cogentco.com", 
+            "auth2.dns.cogentco.com", 
+            "auth4.dns.cogentco.com", 
+            "auth5.dns.cogentco.com"
+        ], 
+        "domain-name": "ucc.edu", 
+        "fuzzer": "bitsquatting"
+    }, 
+    {
+        "dns-a": [
+            "109.199.115.231"
+        ], 
+        "dns-ns": [
+            "ns4.laureate.net", 
+            "ns5.laureate.net", 
+            "ns6.laureate.net"
+        ], 
+        "domain-name": "usa.edu", 
+        "fuzzer": "bitsquatting", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "168.25.48.19"
+        ], 
+        "dns-mx": [
+            "heart.bor.usg.edu", 
+            "usg-edu.mail.protection.outlook.com"
+        ], 
+        "dns-ns": [
+            "ns1.usg.edu", 
+            "ns2.usg.edu", 
+            "ns3.usg.edu", 
+            "ns4.usg.edu"
+        ], 
+        "domain-name": "usg.edu", 
+        "fuzzer": "bitsquatting", 
+        "geoip-country": "United States", 
+        "mx-spy": true, 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "66.147.244.235"
+        ], 
+        "dns-mx": [
+            "alt1.aspmx.l.google.com", 
+            "alt2.aspmx.l.google.com", 
+            "aspmx.l.google.com", 
+            "aspmx2.googlemail.com", 
+            "aspmx3.googlemail.com"
+        ], 
+        "dns-ns": [
+            "ns1.after40summit.com", 
+            "ns2.after40summit.com"
+        ], 
+        "domain-name": "usk.edu", 
+        "fuzzer": "bitsquatting", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "38.105.74.127"
+        ], 
+        "dns-mx": [
+            "usdc-edu.mail.protection.outlook.com"
+        ], 
+        "dns-ns": [
+            "192.245.136.168", 
+            "192.245.136.169", 
+            "38.105.72.3", 
+            "negate.udc.edu", 
+            "netgate3.udc.edu", 
+            "netgate4.udc.edu"
+        ], 
+        "domain-name": "usdc.edu", 
+        "fuzzer": "insertion", 
+        "geoip-country": "United States"
+    }, 
+    {
+        "dns-a": [
+            "134.197.64.76"
+        ], 
+        "dns-mx": [
+            "usac-edu.mail.protection.outlook.com"
+        ], 
+        "dns-ns": [
+            "ns21.cloudns.net", 
+            "ns22.cloudns.net", 
+            "ns23.cloudns.net", 
+            "ns24.cloudns.net"
+        ], 
+        "domain-name": "usac.edu", 
+        "fuzzer": "insertion", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "65.122.170.137"
+        ], 
+        "dns-mx": [
+            "mx1.mail.sc.edu"
+        ], 
+        "dns-ns": [
+            "ns0.dnsmadeeasy.com", 
+            "ns1.dnsmadeeasy.com", 
+            "ns2.dnsmadeeasy.com", 
+            "ns3.dnsmadeeasy.com", 
+            "ns4.dnsmadeeasy.com"
+        ], 
+        "domain-name": "sc.edu", 
+        "fuzzer": "omission", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "54.209.77.18"
+        ], 
+        "dns-mx": [
+            "us-edu.mail.eo.outlook.com"
+        ], 
+        "dns-ns": [
+            "pdns01.domaincontrol.com", 
+            "pdns02.domaincontrol.com"
+        ], 
+        "domain-name": "us.edu", 
+        "fuzzer": "omission", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-mx": [
+            "ucmailmx3.uc.edu", 
+            "ucmailmx4.uc.edu"
+        ], 
+        "dns-ns": [
+            "ucdnsa.uc.edu", 
+            "ucdnsb.uc.edu"
+        ], 
+        "domain-name": "uc.edu", 
+        "fuzzer": "omission"
+    }, 
+    {
+        "dns-a": [
+            "131.247.1.40", 
+            "131.247.100.1"
+        ], 
+        "dns-mx": [
+            "cudavm01.forest.usf.edu", 
+            "cudavm02.forest.usf.edu"
+        ], 
+        "dns-ns": [
+            "clemson-ns1.usf.edu", 
+            "mother.usf.edu", 
+            "ziggy.usf.edu"
+        ], 
+        "domain-name": "usf.edu", 
+        "fuzzer": "replacement", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "72.10.224.16"
+        ], 
+        "dns-mx": [
+            "watchguard.hsc.edu"
+        ], 
+        "dns-ns": [
+            "hams-admin-wins.hsc.edu", 
+            "hams-dhcp.hsc.edu", 
+            "hams-dns-pri.hsc.edu", 
+            "hams-dns-sec.hsc.edu", 
+            "hams-dns1.hsc.edu", 
+            "hams-dns2.hsc.edu", 
+            "hams-hsc-gc.hsc.edu"
+        ], 
+        "domain-name": "hsc.edu", 
+        "fuzzer": "replacement", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "192.236.39.24"
+        ], 
+        "dns-mx": [
+            "mx1.usd.iphmx.com", 
+            "mx2.usd.iphmx.com"
+        ], 
+        "dns-ns": [
+            "ns1-09.azure-dns.com", 
+            "ns2-09.azure-dns.net", 
+            "ns3-09.azure-dns.org", 
+            "ns4-09.azure-dns.info"
+        ], 
+        "domain-name": "usd.edu", 
+        "fuzzer": "replacement", 
+        "geoip-country": "United States", 
+        "mx-spy": true, 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "23.253.147.88"
+        ], 
+        "dns-mx": [
+            "defendermx01.vsc.edu", 
+            "defendermx02.vsc.edu"
+        ], 
+        "dns-ns": [
+            "asgard.vsc.edu", 
+            "enigma.vsc.edu", 
+            "maze.vsc.edu"
+        ], 
+        "domain-name": "jsc.edu", 
+        "fuzzer": "replacement", 
+        "geoip-country": "United States"
+    }, 
+    {
+        "dns-a": [
+            "190.144.180.141"
+        ], 
+        "dns-mx": [
+            "uac-edu.mail.protection.outlook.com"
+        ], 
+        "dns-ns": [
+            "ns-1180.awsdns-19.org", 
+            "ns-18.awsdns-02.com", 
+            "ns-1833.awsdns-37.co.uk", 
+            "ns-902.awsdns-48.net"
+        ], 
+        "domain-name": "uac.edu", 
+        "fuzzer": "replacement", 
+        "geoip-country": "Colombia", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "209.61.173.148"
+        ], 
+        "dns-mx": [
+            "udc-edu.mail.protection.outlook.com"
+        ], 
+        "dns-ns": [
+            "192.245.136.168", 
+            "192.245.136.169", 
+            "38.105.72.3", 
+            "netgate.udc.edu", 
+            "netgate3.udc.edu", 
+            "netgate4.udc.edu"
+        ], 
+        "domain-name": "udc.edu", 
+        "fuzzer": "replacement", 
+        "geoip-country": "United States"
+    }, 
+    {
+        "dns-a": [
+            "104.28.24.186", 
+            "104.28.25.186"
+        ], 
+        "dns-aaaa": [
+            "2400:cb00:2048:1::681c:18ba", 
+            "2400:cb00:2048:1::681c:19ba"
+        ], 
+        "dns-mx": [
+            "alt1.aspmx.l.google.com", 
+            "alt2.aspmx.l.google.com", 
+            "aspmx.l.google.com", 
+            "aspmx2.googlemail.com", 
+            "aspmx3.googlemail.com"
+        ], 
+        "dns-ns": [
+            "alexis.ns.cloudflare.com", 
+            "anna.ns.cloudflare.com"
+        ], 
+        "domain-name": "ucs.edu", 
+        "fuzzer": "transposition", 
+        "geoip-country": "United States"
+    }, 
+    {
+        "dns-a": [
+            "129.66.20.151"
+        ], 
+        "dns-mx": [
+            "mailscanner.asc.edu"
+        ], 
+        "dns-ns": [
+            "asnsvr.asc.edu", 
+            "asnsvr2.asc.edu", 
+            "ns1.asc.edu", 
+            "ns2.asc.edu", 
+            "ns3.asc.edu"
+        ], 
+        "domain-name": "asc.edu", 
+        "fuzzer": "vowel-swap"
+    }, 
+    {
+        "dns-a": [
+            "131.187.109.133"
+        ], 
+        "dns-mx": [
+            "osc-edu.mail.protection.outlook.com"
+        ], 
+        "dns-ns": [
+            "ns4.oar.net", 
+            "ns5.oar.net", 
+            "ns6.oar.net", 
+            "ns7.oar.net"
+        ], 
+        "domain-name": "osc.edu", 
+        "fuzzer": "vowel-swap"
+    }, 
+    {
+        "dns-a": [
+            "208.90.16.33"
+        ], 
+        "dns-mx": [
+            "uscvm02.usc-edu.com"
+        ], 
+        "dns-ns": [
+            "ns.tela.com", 
+            "ns2.tela.com", 
+            "ns3.tela.com"
+        ], 
+        "domain-name": "usc-edu.com", 
+        "fuzzer": "various"
+    }
+]

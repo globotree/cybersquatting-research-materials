@@ -1,0 +1,84 @@
+[
+    {
+        "dns-a": [
+            "213.108.110.5"
+        ], 
+        "dns-ns": [
+            "ns1.hover.com", 
+            "ns2.hover.com"
+        ], 
+        "domain-name": "globalvoices.org", 
+        "fuzzer": "original*", 
+        "geoip-country": "Netherlands", 
+        "ssdeep-score": 100
+    }, 
+    {
+        "dns-a": [
+            "72.52.4.120"
+        ], 
+        "dns-mx": [
+            "localhost"
+        ], 
+        "dns-ns": [
+            "ns1.sedoparking.com", 
+            "ns2.sedoparking.com"
+        ], 
+        "domain-name": "globalvoice.org", 
+        "fuzzer": "omission", 
+        "geoip-country": "United States", 
+        "mx-spy": true, 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-mx": [
+            "mail.globalvices.org"
+        ], 
+        "dns-ns": [
+            "ns1.hover.com", 
+            "ns2.hover.com"
+        ], 
+        "domain-name": "globalvices.org", 
+        "fuzzer": "omission"
+    }, 
+    {
+        "dns-a": [
+            "209.150.87.108"
+        ], 
+        "domain-name": "globalvoi.ces.org", 
+        "fuzzer": "subdomain"
+    }, 
+    {
+        "dns-a": [
+            "72.52.4.119"
+        ], 
+        "dns-mx": [
+            "localhost"
+        ], 
+        "dns-ns": [
+            "ns1.sedoparking.com", 
+            "ns2.sedoparking.com"
+        ], 
+        "domain-name": "globalvoic.es.org", 
+        "fuzzer": "subdomain", 
+        "geoip-country": "United States", 
+        "mx-spy": true, 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "50.63.46.1"
+        ], 
+        "dns-ns": [
+            "A.SERVICE.AFILIASDNS.INFO", 
+            "B.SERVICE.AFILIASDNS.org", 
+            "C.SERVICE.AFILIASDNS.NET", 
+            "D.SERVICE.AFILIASDNS.COM", 
+            "E.SERVICE.AFILIASDNS.INFO", 
+            "F.SERVICE.AFILIASDNS.NET"
+        ], 
+        "domain-name": "globalvoice.s.org", 
+        "fuzzer": "subdomain", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 0
+    }
+]

@@ -1,0 +1,130 @@
+[
+    {
+        "dns-a": [
+            "210.154.149.171"
+        ], 
+        "dns-mx": [
+            "ALT1.ASPMX.L.GOOGLE.COM", 
+            "ALT2.ASPMX.L.GOOGLE.COM", 
+            "ALT3.ASPMX.L.GOOGLE.COM", 
+            "ALT4.ASPMX.L.GOOGLE.COM", 
+            "ASPMX.L.GOOGLE.COM"
+        ], 
+        "dns-ns": [
+            "angels.sprite.ad.jp", 
+            "ns-kg022.ocn.ad.jp", 
+            "ns1.mynavi.jp", 
+            "ns2.mynavi.jp", 
+            "ns3.mynavi.jp"
+        ], 
+        "domain-name": "mynavi.jp", 
+        "fuzzer": "original*", 
+        "geoip-country": "Japan", 
+        "ssdeep-score": 100
+    }, 
+    {
+        "dns-mx": [
+            "sak6.furies.jp"
+        ], 
+        "dns-ns": [
+            "ns1.dns.ne.jp", 
+            "ns2.dns.ne.jp"
+        ], 
+        "domain-name": "my-navi.jp", 
+        "fuzzer": "hyphenation"
+    }, 
+    {
+        "dns-a": [
+            "153.122.54.196"
+        ], 
+        "dns-mx": [
+            "www.mnavi.jp"
+        ], 
+        "dns-ns": [
+            "01.dnsv.jp", 
+            "02.dnsv.jp", 
+            "03.dnsv.jp", 
+            "04.dnsv.jp"
+        ], 
+        "domain-name": "mnavi.jp", 
+        "fuzzer": "omission", 
+        "geoip-country": "Japan", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "103.9.92.113"
+        ], 
+        "dns-mx": [
+            "mail.ynavi.jp"
+        ], 
+        "dns-ns": [
+            "ns1.ynavi.jp", 
+            "ns2.ynavi.jp", 
+            "ns3.ynavi.jp"
+        ], 
+        "domain-name": "ynavi.jp", 
+        "fuzzer": "omission", 
+        "geoip-country": "Japan", 
+        "mx-spy": true
+    }, 
+    {
+        "dns-a": [
+            "153.126.136.94"
+        ], 
+        "dns-mx": [
+            "manavi.jp", 
+            "mx.manavi.jp"
+        ], 
+        "dns-ns": [
+            "ns1.value-domain.com", 
+            "ns2.value-domain.com"
+        ], 
+        "domain-name": "manavi.jp", 
+        "fuzzer": "replacement", 
+        "geoip-country": "China", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "210.172.132.153"
+        ], 
+        "dns-ns": [
+            "01.dnsv.jp", 
+            "02.dnsv.jp"
+        ], 
+        "domain-name": "mynabi.jp", 
+        "fuzzer": "replacement", 
+        "geoip-country": "Japan"
+    }, 
+    {
+        "dns-a": [
+            "112.78.206.32"
+        ], 
+        "dns-ns": [
+            "ns1.value-domain.com", 
+            "ns2.value-domain.com"
+        ], 
+        "domain-name": "mtnavi.jp", 
+        "fuzzer": "replacement", 
+        "geoip-country": "Japan"
+    }, 
+    {
+        "dns-a": [
+            "158.199.246.236"
+        ], 
+        "dns-mx": [
+            "vlmx20.secure.ne.jp", 
+            "vlmx21.secure.ne.jp", 
+            "vlmx22.secure.ne.jp"
+        ], 
+        "dns-ns": [
+            "ns4.cpi.ad.jp", 
+            "ns5.cpi.ad.jp"
+        ], 
+        "domain-name": "msnavi.jp", 
+        "fuzzer": "replacement", 
+        "geoip-country": "Japan", 
+        "ssdeep-score": 0
+    }
+]

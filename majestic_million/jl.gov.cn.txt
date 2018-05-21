@@ -1,0 +1,152 @@
+[
+    {
+        "dns-mx": [
+            "mailmx1.jl.gov.cn", 
+            "mailmx2.jl.gov.cn"
+        ], 
+        "dns-ns": [
+            "ns.jlccptt.net.cn", 
+            "ns2.jljlptt.net.cn"
+        ], 
+        "domain-name": "jl.gov.cn", 
+        "fuzzer": "original*"
+    }, 
+    {
+        "dns-a": [
+            "218.6.224.76"
+        ], 
+        "dns-ns": [
+            "ns1.sdc.org.cn", 
+            "ns2.sdc.org.cn", 
+            "ns3.sdc.org.cn"
+        ], 
+        "domain-name": "jlh.gov.cn", 
+        "fuzzer": "addition", 
+        "geoip-country": "China"
+    }, 
+    {
+        "dns-mx": [
+            "nospam.bl.gov.cn"
+        ], 
+        "dns-ns": [
+            "vip1.alidns.com", 
+            "vip2.alidns.com"
+        ], 
+        "domain-name": "bl.gov.cn", 
+        "fuzzer": "bitsquatting"
+    }, 
+    {
+        "dns-mx": [
+            "mail.jn.gov.cn"
+        ], 
+        "dns-ns": [
+            "xxb.jn.gov.cn"
+        ], 
+        "domain-name": "jn.gov.cn", 
+        "fuzzer": "bitsquatting"
+    }, 
+    {
+        "dns-a": [
+            "218.77.83.84"
+        ], 
+        "dns-ns": [
+            "wp.lst.gov.cn"
+        ], 
+        "domain-name": "jh.gov.cn", 
+        "fuzzer": "bitsquatting", 
+        "geoip-country": "China"
+    }, 
+    {
+        "dns-a": [
+            "115.28.155.8"
+        ], 
+        "dns-ns": [
+            "dns10.hichina.com", 
+            "dns9.hichina.com"
+        ], 
+        "domain-name": "j.gov.cn", 
+        "fuzzer": "omission", 
+        "geoip-country": "China"
+    }, 
+    {
+        "dns-a": [
+            "202.109.226.163"
+        ], 
+        "dns-mx": [
+            "m1.sanfront.com.cn"
+        ], 
+        "dns-ns": [
+            "ns1.sfn.cn", 
+            "ns2.sfn.cn"
+        ], 
+        "domain-name": "ml.gov.cn", 
+        "fuzzer": "replacement"
+    }, 
+    {
+        "dns-a": [
+            "218.25.154.173"
+        ], 
+        "dns-ns": [
+            "dns10.hichina.com", 
+            "dns9.hichina.com"
+        ], 
+        "domain-name": "jp.gov.cn", 
+        "fuzzer": "replacement", 
+        "geoip-country": "China"
+    }, 
+    {
+        "dns-a": [
+            "172.106.138.19"
+        ], 
+        "domain-name": "jo.gov.cn", 
+        "fuzzer": "replacement", 
+        "geoip-country": "United States"
+    }, 
+    {
+        "dns-a": [
+            "122.0.71.11"
+        ], 
+        "dns-ns": [
+            "ns1.01isp.com", 
+            "ns2.01isp.net"
+        ], 
+        "domain-name": "jk.gov.cn", 
+        "fuzzer": "replacement", 
+        "geoip-country": "China"
+    }, 
+    {
+        "dns-a": [
+            "60.173.219.6"
+        ], 
+        "dns-mx": [
+            "mxdomain.qq.com"
+        ], 
+        "dns-ns": [
+            "f1g1ns1.dnspod.net", 
+            "f1g1ns2.dnspod.net"
+        ], 
+        "domain-name": "lj.gov.cn", 
+        "fuzzer": "transposition"
+    }, 
+    {
+        "dns-ns": [
+            "a.dns.cn", 
+            "b.dns.cn", 
+            "c.dns.cn", 
+            "cns.cernet.net", 
+            "d.dns.cn", 
+            "e.dns.cn", 
+            "f.dns.cn", 
+            "g.dns.cn"
+        ], 
+        "domain-name": "jl.cn", 
+        "fuzzer": "various"
+    }, 
+    {
+        "dns-a": [
+            "103.232.215.129"
+        ], 
+        "domain-name": "jlgov.cn", 
+        "fuzzer": "various"
+    }
+]

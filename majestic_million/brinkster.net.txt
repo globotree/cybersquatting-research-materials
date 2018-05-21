@@ -1,0 +1,61 @@
+[
+    {
+        "dns-a": [
+            "65.182.102.190"
+        ], 
+        "dns-mx": [
+            "mail.brinkster.net"
+        ], 
+        "dns-ns": [
+            "ns1.brinkster.com", 
+            "ns2.brinkster.com"
+        ], 
+        "domain-name": "brinkster.net", 
+        "fuzzer": "original*", 
+        "geoip-country": "United States"
+    }, 
+    {
+        "dns-a": [
+            "207.234.165.237"
+        ], 
+        "dns-mx": [
+            "p.webcom.ctmail.com"
+        ], 
+        "dns-ns": [
+            "ns17.worldnic.com", 
+            "ns18.worldnic.com"
+        ], 
+        "domain-name": "brinster.net", 
+        "fuzzer": "omission", 
+        "geoip-country": "United States", 
+        "mx-spy": true
+    }, 
+    {
+        "dns-a": [
+            "208.91.196.105"
+        ], 
+        "dns-ns": [
+            "sk.s5.cm.ns1.39.ztomy.com", 
+            "sk.s5.cm.ns2.39.ztomy.com"
+        ], 
+        "domain-name": "binkster.net", 
+        "fuzzer": "omission", 
+        "geoip-country": "Virgin Islands"
+    }, 
+    {
+        "dns-a": [
+            "72.52.4.119"
+        ], 
+        "dns-mx": [
+            "localhost"
+        ], 
+        "dns-ns": [
+            "ns1.sedoparking.com", 
+            "ns2.sedoparking.com"
+        ], 
+        "domain-name": "brink.ster.net", 
+        "fuzzer": "subdomain", 
+        "geoip-country": "United States", 
+        "mx-spy": true
+    }
+]

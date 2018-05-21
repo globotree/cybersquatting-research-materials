@@ -1,0 +1,112 @@
+[
+    {
+        "dns-a": [
+            "148.251.51.235"
+        ], 
+        "dns-mx": [
+            "ALT1.ASPMX.L.GOOGLE.com", 
+            "ALT2.ASPMX.L.GOOGLE.com", 
+            "ALT3.ASPMX.L.GOOGLE.com", 
+            "ALT4.ASPMX.L.GOOGLE.com", 
+            "ASPMX.L.GOOGLE.com"
+        ], 
+        "dns-ns": [
+            "ns0.directnic.com", 
+            "ns1.directnic.com"
+        ], 
+        "domain-name": "nationmaster.com", 
+        "fuzzer": "original*", 
+        "geoip-country": "Germany", 
+        "ssdeep-score": 100
+    }, 
+    {
+        "dns-a": [
+            "173.45.167.13"
+        ], 
+        "dns-mx": [
+            "nationmasters.com"
+        ], 
+        "dns-ns": [
+            "dns1.icertified.net", 
+            "dns2.icertified.net"
+        ], 
+        "domain-name": "nationmasters.com", 
+        "fuzzer": "addition", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "185.53.179.7"
+        ], 
+        "dns-mx": [
+            "mail.h-email.net"
+        ], 
+        "dns-ns": [
+            "ns1.parkingcrew.net", 
+            "ns2.parkingcrew.net"
+        ], 
+        "domain-name": "natonmaster.com", 
+        "fuzzer": "omission", 
+        "geoip-country": "Germany", 
+        "mx-spy": true, 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "72.52.4.122"
+        ], 
+        "dns-mx": [
+            "localhost"
+        ], 
+        "dns-ns": [
+            "ns1.sedoparking.com", 
+            "ns2.sedoparking.com"
+        ], 
+        "domain-name": "nati.onmaster.com", 
+        "fuzzer": "subdomain", 
+        "geoip-country": "United States", 
+        "mx-spy": true, 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "207.148.248.143"
+        ], 
+        "domain-name": "natio.nmaster.com", 
+        "fuzzer": "subdomain", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "69.4.39.193"
+        ], 
+        "domain-name": "nation.master.com", 
+        "fuzzer": "subdomain", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "69.172.201.153"
+        ], 
+        "dns-ns": [
+            "ns1.uniregistrymarket.link", 
+            "ns2.uniregistrymarket.link"
+        ], 
+        "domain-name": "nationma.ster.com", 
+        "fuzzer": "subdomain", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "208.73.211.70"
+        ], 
+        "domain-name": "nationmast.er.com", 
+        "fuzzer": "subdomain", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 0
+    }
+]

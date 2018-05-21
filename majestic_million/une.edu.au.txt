@@ -1,0 +1,75 @@
+[
+    {
+        "dns-a": [
+            "43.245.43.58"
+        ], 
+        "dns-mx": [
+            "mailfilter1.une.edu.au", 
+            "mailfilter2.une.edu.au"
+        ], 
+        "dns-ns": [
+            "ns2.aarnet.net.au", 
+            "ns2.une.edu.au", 
+            "ns3.une.edu.au"
+        ], 
+        "domain-name": "une.edu.au", 
+        "fuzzer": "original*", 
+        "geoip-country": "Australia", 
+        "ssdeep-score": 100
+    }, 
+    {
+        "dns-a": [
+            "13.55.135.114"
+        ], 
+        "dns-mx": [
+            "unep-edu-au.mail.protection.outlook.com"
+        ], 
+        "dns-ns": [
+            "ns1.bdm.microsoftonline.com", 
+            "ns2.bdm.microsoftonline.com", 
+            "ns3.bdm.microsoftonline.com", 
+            "ns4.bdm.microsoftonline.com"
+        ], 
+        "domain-name": "unep.edu.au", 
+        "fuzzer": "addition", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "153.107.49.24"
+        ], 
+        "dns-mx": [
+            "tne-edu-au.mail.protection.outlook.com"
+        ], 
+        "dns-ns": [
+            "ns1.netregistry.net", 
+            "ns2.netregistry.net", 
+            "ns3.netregistry.net"
+        ], 
+        "domain-name": "tne.edu.au", 
+        "fuzzer": "bitsquatting", 
+        "geoip-country": "Australia", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "198.185.159.144", 
+            "198.185.159.145", 
+            "198.49.23.144", 
+            "198.49.23.145"
+        ], 
+        "dns-mx": [
+            "mx2.netregistry.net", 
+            "mx3.netregistry.net", 
+            "one-edu-au.mail.protection.outlook.com"
+        ], 
+        "dns-ns": [
+            "ns1.netregistry.net", 
+            "ns2.netregistry.net", 
+            "ns3.netregistry.net"
+        ], 
+        "domain-name": "one.edu.au", 
+        "fuzzer": "vowel-swap"
+    }
+]

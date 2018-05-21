@@ -1,0 +1,341 @@
+[
+    {
+        "dns-a": [
+            "153.1.6.41"
+        ], 
+        "dns-aaaa": [
+            "2001:708:320:6:153:1:6:41"
+        ], 
+        "dns-mx": [
+            "smtp.uta.fi", 
+            "smtp1.uta.fi", 
+            "smtp2.uta.fi"
+        ], 
+        "dns-ns": [
+            "ns-secondary.funet.fi", 
+            "pellava.uta.fi", 
+            "puuvilla.uta.fi"
+        ], 
+        "domain-name": "uta.fi", 
+        "fuzzer": "original*", 
+        "geoip-country": "Finland", 
+        "ssdeep-score": 100
+    }, 
+    {
+        "dns-a": [
+            "80.75.110.2"
+        ], 
+        "dns-mx": [
+            "birdy22.utaj.fi"
+        ], 
+        "dns-ns": [
+            "ns.utanet.fi", 
+            "ns2.utanet.fi"
+        ], 
+        "domain-name": "utaj.fi", 
+        "fuzzer": "addition", 
+        "geoip-country": "Finland", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "62.73.58.174"
+        ], 
+        "dns-mx": [
+            "mx10.int2000.net", 
+            "mx11.int2000.net"
+        ], 
+        "dns-ns": [
+            "ns.daous.com", 
+            "ns2.daous.com"
+        ], 
+        "domain-name": "tta.fi", 
+        "fuzzer": "bitsquatting", 
+        "geoip-country": "Finland", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "77.72.201.50"
+        ], 
+        "dns-mx": [
+            "failover1.email-cluster.com", 
+            "mx1.email-cluster.com", 
+            "mx2.email-cluster.com"
+        ], 
+        "dns-ns": [
+            "ns1.webbinen.org", 
+            "ns2.webbinen.org"
+        ], 
+        "domain-name": "eta.fi", 
+        "fuzzer": "bitsquatting", 
+        "geoip-country": "United Kingdom", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "185.55.84.252"
+        ], 
+        "dns-ns": [
+            "ns1.domainkauppa.fi", 
+            "ns2.domainkauppa.fi"
+        ], 
+        "domain-name": "uua.fi", 
+        "fuzzer": "bitsquatting", 
+        "geoip-country": "Finland", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "193.166.120.46"
+        ], 
+        "dns-mx": [
+            "jess.uwasa.fi", 
+            "nou.uwasa.fi"
+        ], 
+        "dns-ns": [
+            "backfire.uwasa.fi", 
+            "kickstart.uwasa.fi"
+        ], 
+        "domain-name": "uva.fi", 
+        "fuzzer": "bitsquatting", 
+        "geoip-country": "Finland", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "88.208.252.202"
+        ], 
+        "dns-mx": [
+            "mailserver.upa.fi"
+        ], 
+        "dns-ns": [
+            "ns1.livedns.co.uk", 
+            "ns2.livedns.co.uk", 
+            "ns3.livedns.co.uk"
+        ], 
+        "domain-name": "upa.fi", 
+        "fuzzer": "bitsquatting", 
+        "geoip-country": "United Kingdom"
+    }, 
+    {
+        "dns-a": [
+            "35.189.115.127"
+        ], 
+        "dns-mx": [
+            "mx.netorek.fi"
+        ], 
+        "dns-ns": [
+            "ns1.pionnet.fi", 
+            "ns2.pionnet.fi"
+        ], 
+        "domain-name": "ut.fi", 
+        "fuzzer": "omission", 
+        "geoip-country": "United States"
+    }, 
+    {
+        "dns-a": [
+            "104.27.174.156", 
+            "104.27.175.156"
+        ], 
+        "dns-aaaa": [
+            "2400:cb00:2048:1::681b:ae9c", 
+            "2400:cb00:2048:1::681b:af9c"
+        ], 
+        "dns-ns": [
+            "gabe.ns.cloudflare.com", 
+            "ivy.ns.cloudflare.com"
+        ], 
+        "domain-name": "ua.fi", 
+        "fuzzer": "omission", 
+        "geoip-country": "United States"
+    }, 
+    {
+        "dns-a": [
+            "212.213.190.4"
+        ], 
+        "dns-mx": [
+            "fimx1.d-fence.eu", 
+            "fimx2.d-fence.eu"
+        ], 
+        "dns-ns": [
+            "ns.nebula.fi", 
+            "ns2.nebula.fi"
+        ], 
+        "domain-name": "ta.fi", 
+        "fuzzer": "omission", 
+        "geoip-country": "Finland", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "72.52.4.120"
+        ], 
+        "dns-mx": [
+            "localhost"
+        ], 
+        "dns-ns": [
+            "ns1.sedoparking.com", 
+            "ns2.sedoparking.com"
+        ], 
+        "domain-name": "ura.fi", 
+        "fuzzer": "replacement", 
+        "geoip-country": "United States", 
+        "mx-spy": true, 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "212.16.104.4"
+        ], 
+        "dns-mx": [
+            "mail.mpoli.fi", 
+            "mail2.mpoli.fi"
+        ], 
+        "dns-ns": [
+            "ns.mpoli.fi", 
+            "ns2.mpoli.fi"
+        ], 
+        "domain-name": "hta.fi", 
+        "fuzzer": "replacement", 
+        "geoip-country": "Finland", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "94.199.56.42"
+        ], 
+        "dns-mx": [
+            "moxi.neutech.fi"
+        ], 
+        "dns-ns": [
+            "ns3.neutech.fi", 
+            "ns4.neutech.fi"
+        ], 
+        "domain-name": "uts.fi", 
+        "fuzzer": "replacement", 
+        "geoip-country": "Finland", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-mx": [
+            "virusscan.kotisivut.com"
+        ], 
+        "dns-ns": [
+            "named.kotisivut.com", 
+            "named3.kotisivut.com"
+        ], 
+        "domain-name": "ita.fi", 
+        "fuzzer": "replacement"
+    }, 
+    {
+        "dns-mx": [
+            "mailscan.nebula.fi"
+        ], 
+        "dns-ns": [
+            "ns.nebula.fi", 
+            "ns2.nebula.fi"
+        ], 
+        "domain-name": "jta.fi", 
+        "fuzzer": "replacement"
+    }, 
+    {
+        "dns-a": [
+            "80.83.0.107"
+        ], 
+        "dns-mx": [
+            "yta-fi.mail.protection.outlook.com"
+        ], 
+        "dns-ns": [
+            "ns.mmd.net", 
+            "ns2.mmd.net", 
+            "ns3.mmd.net"
+        ], 
+        "domain-name": "yta.fi", 
+        "fuzzer": "replacement", 
+        "geoip-country": "Finland", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "192.130.146.162"
+        ], 
+        "dns-mx": [
+            "tua.fi"
+        ], 
+        "dns-ns": [
+            "ns1.int2000.net", 
+            "ns2.int2000.net"
+        ], 
+        "domain-name": "tua.fi", 
+        "fuzzer": "transposition"
+    }, 
+    {
+        "dns-a": [
+            "54.76.107.51"
+        ], 
+        "dns-mx": [
+            "mail.ota.fi"
+        ], 
+        "dns-ns": [
+            "prodns.kotisivut.com", 
+            "prodns2.kotisivut.com", 
+            "prodns3.kotisivut.com", 
+            "prodns4.kotisivut.com"
+        ], 
+        "domain-name": "ota.fi", 
+        "fuzzer": "vowel-swap", 
+        "geoip-country": "Ireland", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "77.240.19.7"
+        ], 
+        "dns-mx": [
+            "mail.ata.fi"
+        ], 
+        "dns-ns": [
+            "dns1.louhi.net", 
+            "dns2.louhi.net", 
+            "dns3.louhi.fi"
+        ], 
+        "domain-name": "ata.fi", 
+        "fuzzer": "vowel-swap", 
+        "geoip-country": "Finland", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "212.213.88.44"
+        ], 
+        "dns-mx": [
+            "mail2.netsor.fi"
+        ], 
+        "dns-ns": [
+            "ns.kuuselanpaja.fi", 
+            "ns1.kuuselanpaja.fi"
+        ], 
+        "domain-name": "uto.fi", 
+        "fuzzer": "vowel-swap", 
+        "geoip-country": "Finland", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "130.232.202.152"
+        ], 
+        "dns-mx": [
+            "smtp-in.utu.fi"
+        ], 
+        "dns-ns": [
+            "ns-secondary.funet.fi", 
+            "ns1.utu.fi", 
+            "ns2.utu.fi"
+        ], 
+        "domain-name": "utu.fi", 
+        "fuzzer": "vowel-swap", 
+        "geoip-country": "Finland", 
+        "ssdeep-score": 0
+    }
+]

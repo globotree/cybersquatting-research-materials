@@ -1,0 +1,81 @@
+[
+    {
+        "dns-a": [
+            "65.156.1.60"
+        ], 
+        "dns-mx": [
+            "us-smtp-inbound-1.mimecast.com", 
+            "us-smtp-inbound-2.mimecast.com"
+        ], 
+        "dns-ns": [
+            "dns1.idp365.net", 
+            "dns2.idp365.net", 
+            "dns3.idp365.net"
+        ], 
+        "domain-name": "informahealthcare.com", 
+        "fuzzer": "original*", 
+        "geoip-country": "United States"
+    }, 
+    {
+        "dns-a": [
+            "217.19.248.132"
+        ], 
+        "dns-mx": [
+            "mail.idp365.net"
+        ], 
+        "dns-ns": [
+            "dns1.idp365.net", 
+            "dns2.idp365.net", 
+            "dns3.idp365.net"
+        ], 
+        "domain-name": "informa-healthcare.com", 
+        "fuzzer": "hyphenation", 
+        "geoip-country": "United Kingdom"
+    }, 
+    {
+        "dns-a": [
+            "54.236.190.114"
+        ], 
+        "dns-mx": [
+            "alt1.aspmx.l.google.com", 
+            "alt2.aspmx.l.google.com", 
+            "aspmx.l.google.com", 
+            "aspmx2.googlemail.com", 
+            "aspmx3.googlemail.com"
+        ], 
+        "dns-ns": [
+            "ns1.worldsecuresystems.com", 
+            "ns2.worldsecuresystems.com", 
+            "ns3.worldsecuresystems.com"
+        ], 
+        "domain-name": "informhealthcare.com", 
+        "fuzzer": "omission", 
+        "geoip-country": "United States"
+    }, 
+    {
+        "dns-a": [
+            "85.17.25.215"
+        ], 
+        "domain-name": "informah.ealthcare.com", 
+        "fuzzer": "subdomain", 
+        "geoip-country": "Netherlands"
+    }, 
+    {
+        "dns-a": [
+            "173.239.5.6", 
+            "173.239.8.164", 
+            "213.247.47.190"
+        ], 
+        "domain-name": "informahea.lthcare.com", 
+        "fuzzer": "subdomain", 
+        "geoip-country": "United States"
+    }, 
+    {
+        "dns-a": [
+            "216.65.206.90"
+        ], 
+        "domain-name": "informahealthc.are.com", 
+        "fuzzer": "subdomain", 
+        "geoip-country": "United States"
+    }
+]

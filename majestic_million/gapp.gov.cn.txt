@@ -1,0 +1,32 @@
+[
+    {
+        "dns-ns": [
+            "cns1.zdnscloud.net", 
+            "dns1.zdnscloud.info", 
+            "ins1.zdnscloud.com", 
+            "vns1.zdnscloud.biz"
+        ], 
+        "domain-name": "gapp.gov.cn", 
+        "fuzzer": "original*"
+    }, 
+    {
+        "dns-a": [
+            "58.16.67.113"
+        ], 
+        "dns-ns": [
+            "ns1.sfn.cn", 
+            "ns2.sfn.cn"
+        ], 
+        "domain-name": "gzpp.gov.cn", 
+        "fuzzer": "replacement", 
+        "geoip-country": "China"
+    }, 
+    {
+        "dns-ns": [
+            "ns11.xincache.com", 
+            "ns12.xincache.com"
+        ], 
+        "domain-name": "gappgov.cn", 
+        "fuzzer": "various"
+    }
+]

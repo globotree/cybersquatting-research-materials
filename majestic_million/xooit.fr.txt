@@ -1,0 +1,71 @@
+[
+    {
+        "dns-a": [
+            "5.135.39.51"
+        ], 
+        "dns-mx": [
+            "ALT1.ASPMX.L.GOOGLE.COM", 
+            "ALT2.ASPMX.L.GOOGLE.COM", 
+            "ASPMX.L.GOOGLE.COM", 
+            "ASPMX2.GOOGLEMAIL.COM", 
+            "ASPMX3.GOOGLEMAIL.COM", 
+            "ASPMX4.GOOGLEMAIL.COM", 
+            "ASPMX5.GOOGLEMAIL.COM"
+        ], 
+        "dns-ns": [
+            "a.dns.gandi.net", 
+            "b.dns.gandi.net", 
+            "c.dns.gandi.net"
+        ], 
+        "domain-name": "xooit.fr", 
+        "fuzzer": "original*", 
+        "geoip-country": "France", 
+        "ssdeep-score": 100
+    }, 
+    {
+        "dns-a": [
+            "199.59.242.150"
+        ], 
+        "dns-mx": [
+            "mx76.m2bp.com", 
+            "mx76.mb1p.com"
+        ], 
+        "dns-ns": [
+            "ns1.bodis.com", 
+            "ns2.bodis.com"
+        ], 
+        "domain-name": "xoit.fr", 
+        "fuzzer": "omission", 
+        "geoip-country": "United States", 
+        "mx-spy": true, 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "85.17.25.214"
+        ], 
+        "dns-ns": [
+            "ns1.smtmdns.com", 
+            "ns2.smtmdns.com"
+        ], 
+        "domain-name": "xoiit.fr", 
+        "fuzzer": "replacement", 
+        "geoip-country": "Netherlands"
+    }, 
+    {
+        "dns-a": [
+            "164.132.235.17"
+        ], 
+        "dns-mx": [
+            "sooit-fr.mail.protection.outlook.com"
+        ], 
+        "dns-ns": [
+            "dns200.anycast.me", 
+            "ns200.anycast.me"
+        ], 
+        "domain-name": "sooit.fr", 
+        "fuzzer": "replacement", 
+        "geoip-country": "France", 
+        "ssdeep-score": 0
+    }
+]

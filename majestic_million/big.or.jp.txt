@@ -1,0 +1,74 @@
+[
+    {
+        "dns-mx": [
+            "mx.sweep-on.net", 
+            "mx01.sweep-on.net", 
+            "mx02.sweep-on.net"
+        ], 
+        "dns-ns": [
+            "ns0.big.or.jp", 
+            "ns1.big.or.jp", 
+            "ns2.big.or.jp"
+        ], 
+        "domain-name": "big.or.jp", 
+        "fuzzer": "original*"
+    }, 
+    {
+        "dns-a": [
+            "211.125.65.176"
+        ], 
+        "dns-mx": [
+            "mail.bag.or.jp"
+        ], 
+        "dns-ns": [
+            "01.dnsv.jp", 
+            "02.dnsv.jp", 
+            "03.dnsv.jp", 
+            "04.dnsv.jp"
+        ], 
+        "domain-name": "bag.or.jp", 
+        "fuzzer": "bitsquatting", 
+        "geoip-country": "Japan"
+    }, 
+    {
+        "dns-a": [
+            "183.90.242.11"
+        ], 
+        "dns-mx": [
+            "biz.or.jp"
+        ], 
+        "dns-ns": [
+            "ns1.xserver.jp", 
+            "ns2.xserver.jp", 
+            "ns3.xserver.jp", 
+            "ns4.xserver.jp", 
+            "ns5.xserver.jp"
+        ], 
+        "domain-name": "biz.or.jp", 
+        "fuzzer": "replacement"
+    }, 
+    {
+        "dns-mx": [
+            "mail1.bit.or.jp"
+        ], 
+        "dns-ns": [
+            "ns-tk023.ocn.ad.jp", 
+            "ns.bit.or.jp"
+        ], 
+        "domain-name": "bit.or.jp", 
+        "fuzzer": "replacement"
+    }, 
+    {
+        "dns-mx": [
+            "mx.sweep-on.net", 
+            "mx01.sweep-on.net", 
+            "mx02.sweep-on.net"
+        ], 
+        "dns-ns": [
+            "ns0.big.or.jp", 
+            "ns1.big.or.jp"
+        ], 
+        "domain-name": "big.jp", 
+        "fuzzer": "various"
+    }
+]

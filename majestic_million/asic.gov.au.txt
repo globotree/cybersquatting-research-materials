@@ -1,0 +1,101 @@
+[
+    {
+        "dns-a": [
+            "202.129.142.67"
+        ], 
+        "dns-mx": [
+            "sig2asiccav.secureintellicentre.net.au", 
+            "sig4asiccav.secureintellicentre.net.au"
+        ], 
+        "dns-ns": [
+            "ns1.secureintellicentre.net.au", 
+            "ns3.secureintellicentre.net.au"
+        ], 
+        "domain-name": "asic.gov.au", 
+        "fuzzer": "original*", 
+        "geoip-country": "Australia", 
+        "ssdeep-score": 97
+    }, 
+    {
+        "dns-a": [
+            "113.20.25.157"
+        ], 
+        "dns-mx": [
+            "acc-in-156.sge.net"
+        ], 
+        "dns-ns": [
+            "dns1.sge.net", 
+            "dns2.sge.net", 
+            "dns3.sge.net", 
+            "dns4.sge.net"
+        ], 
+        "domain-name": "acic.gov.au", 
+        "fuzzer": "bitsquatting", 
+        "geoip-country": "Australia", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "144.53.226.16"
+        ], 
+        "dns-ns": [
+            "a1-217.akam.net", 
+            "a20-66.akam.net", 
+            "a4-67.akam.net", 
+            "a6-64.akam.net", 
+            "a7-65.akam.net", 
+            "a9-66.akam.net"
+        ], 
+        "domain-name": "asac.gov.au", 
+        "fuzzer": "bitsquatting", 
+        "geoip-country": "Australia", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "124.47.154.22"
+        ], 
+        "dns-mx": [
+            "mail1.dfat.gov.au", 
+            "mail2.dfat.gov.au"
+        ], 
+        "dns-ns": [
+            "ns1.intellicentre.net.au", 
+            "ns2.intellicentre.net.au", 
+            "ns3.intellicentre.net.au"
+        ], 
+        "domain-name": "asis.gov.au", 
+        "fuzzer": "bitsquatting", 
+        "geoip-country": "Australia", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-mx": [
+            "sig2asiccav.secureintellicentre.net.au", 
+            "sig4asiccav.secureintellicentre.net.au"
+        ], 
+        "dns-ns": [
+            "ns1.secureintellicentre.net.au", 
+            "ns2.secureintellicentre.net.au", 
+            "ns3.secureintellicentre.net.au"
+        ], 
+        "domain-name": "asc.gov.au", 
+        "fuzzer": "omission"
+    }, 
+    {
+        "dns-a": [
+            "113.20.25.162"
+        ], 
+        "dns-mx": [
+            "192.190.66.43", 
+            "mail.aic.gov.au"
+        ], 
+        "dns-ns": [
+            "ns1.aic.gov.au"
+        ], 
+        "domain-name": "aic.gov.au", 
+        "fuzzer": "omission", 
+        "geoip-country": "Australia", 
+        "ssdeep-score": 0
+    }
+]

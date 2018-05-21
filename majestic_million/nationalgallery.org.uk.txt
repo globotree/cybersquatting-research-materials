@@ -1,0 +1,62 @@
+[
+    {
+        "dns-a": [
+            "195.195.116.1"
+        ], 
+        "dns-ns": [
+            "dns-ns0.ucl.ac.uk", 
+            "dns-ns1.ucl.ac.uk"
+        ], 
+        "domain-name": "nationalgallery.org.uk", 
+        "fuzzer": "original*", 
+        "geoip-country": "United Kingdom", 
+        "ssdeep-score": 100
+    }, 
+    {
+        "dns-a": [
+            "104.16.206.86", 
+            "104.16.207.86", 
+            "104.16.208.86", 
+            "104.16.209.86", 
+            "104.16.210.86"
+        ], 
+        "dns-mx": [
+            "r1-smtp-in-1.dotmailer.co.uk", 
+            "r1-smtp-in-2.dotmailer.co.uk"
+        ], 
+        "dns-ns": [
+            "ns0.dns.dotmailer.co.uk", 
+            "ns1.dns.dotmailer.co.uk", 
+            "ns2.dns.dotmailer.co.uk"
+        ], 
+        "domain-name": "national-gallery.org.uk", 
+        "fuzzer": "hyphenation", 
+        "geoip-country": "United States"
+    }, 
+    {
+        "dns-a": [
+            "217.8.253.56"
+        ], 
+        "domain-name": "national.gallery.org.uk", 
+        "fuzzer": "subdomain", 
+        "geoip-country": "United Kingdom"
+    }, 
+    {
+        "dns-a": [
+            "109.239.101.62"
+        ], 
+        "domain-name": "nationalgalle.ry.org.uk", 
+        "fuzzer": "subdomain", 
+        "geoip-country": "United Kingdom", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "109.239.101.62"
+        ], 
+        "domain-name": "nationalgaller.y.org.uk", 
+        "fuzzer": "subdomain", 
+        "geoip-country": "United Kingdom", 
+        "ssdeep-score": 0
+    }
+]

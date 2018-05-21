@@ -1,0 +1,143 @@
+[
+    {
+        "dns-a": [
+            "23.59.101.96"
+        ], 
+        "dns-aaaa": [
+            "2a02:26f0:9c00:182::ce0", 
+            "2a02:26f0:9c00:1b8::ce0"
+        ], 
+        "dns-mx": [
+            "alt1.aspmx.l.google.com", 
+            "alt2.aspmx.l.google.com", 
+            "aspmx.l.google.com", 
+            "aspmx2.googlemail.com", 
+            "aspmx3.googlemail.com"
+        ], 
+        "dns-ns": [
+            "a1-16.akam.net", 
+            "a11-67.akam.net", 
+            "a14-64.akam.net", 
+            "a18-65.akam.net", 
+            "a20-66.akam.net", 
+            "a9-67.akam.net"
+        ], 
+        "domain-name": "letsencrypt.org", 
+        "fuzzer": "original*", 
+        "geoip-country": "Netherlands", 
+        "ssdeep-score": 100
+    }, 
+    {
+        "dns-a": [
+            "195.74.38.62"
+        ], 
+        "dns-ns": [
+            "ns3.binero.se", 
+            "ns4.binero.se", 
+            "ns5.binero.se", 
+            "ns6.binero.se", 
+            "ns7.binero.se"
+        ], 
+        "domain-name": "ietsencrypt.org", 
+        "fuzzer": "homoglyph", 
+        "geoip-country": "Sweden", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "192.64.119.100"
+        ], 
+        "dns-mx": [
+            "eforward1.registrar-servers.com", 
+            "eforward2.registrar-servers.com", 
+            "eforward3.registrar-servers.com", 
+            "eforward4.registrar-servers.com", 
+            "eforward5.registrar-servers.com"
+        ], 
+        "dns-ns": [
+            "dns1.registrar-servers.com", 
+            "dns2.registrar-servers.com", 
+            "dns3.registrar-servers.com", 
+            "dns4.registrar-servers.com", 
+            "dns5.registrar-servers.com"
+        ], 
+        "domain-name": "lets-encrypt.org", 
+        "fuzzer": "hyphenation", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 100
+    }, 
+    {
+        "dns-a": [
+            "185.53.179.6"
+        ], 
+        "dns-mx": [
+            "mail.h-email.net"
+        ], 
+        "dns-ns": [
+            "ns1.parkingcrew.net", 
+            "ns2.parkingcrew.net"
+        ], 
+        "domain-name": "letsencryt.org", 
+        "fuzzer": "omission", 
+        "geoip-country": "Germany", 
+        "mx-spy": true, 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "108.167.137.113"
+        ], 
+        "dns-mx": [
+            "mail.letencrypt.org"
+        ], 
+        "dns-ns": [
+            "ns139.ehosts.com", 
+            "ns140.ehosts.com"
+        ], 
+        "domain-name": "letencrypt.org", 
+        "fuzzer": "omission", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "72.52.4.119"
+        ], 
+        "dns-mx": [
+            "localhost"
+        ], 
+        "dns-ns": [
+            "ns1.sedoparking.com", 
+            "ns2.sedoparking.com"
+        ], 
+        "domain-name": "lets.encrypt.org", 
+        "fuzzer": "subdomain", 
+        "geoip-country": "United States", 
+        "mx-spy": true, 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "98.124.199.67"
+        ], 
+        "domain-name": "letsencryp.t.org", 
+        "fuzzer": "subdomain", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "94.231.103.100"
+        ], 
+        "dns-ns": [
+            "ns1.unoeuro.com", 
+            "ns2.unoeuro.com", 
+            "ns3.unoeuro.com", 
+            "ns4.unoeuro.com"
+        ], 
+        "domain-name": "letsincrypt.org", 
+        "fuzzer": "vowel-swap", 
+        "geoip-country": "Denmark", 
+        "ssdeep-score": 100
+    }
+]

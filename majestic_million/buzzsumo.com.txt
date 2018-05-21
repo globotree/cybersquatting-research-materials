@@ -1,0 +1,199 @@
+[
+    {
+        "dns-a": [
+            "104.25.240.24", 
+            "104.25.241.24"
+        ], 
+        "dns-aaaa": [
+            "2400:cb00:2048:1::6819:f018", 
+            "2400:cb00:2048:1::6819:f118"
+        ], 
+        "dns-mx": [
+            "alt1.aspmx.l.google.com", 
+            "alt2.aspmx.l.google.com", 
+            "aspmx.l.google.com", 
+            "aspmx2.googlemail.com", 
+            "aspmx3.googlemail.com"
+        ], 
+        "dns-ns": [
+            "max.ns.cloudflare.com", 
+            "sima.ns.cloudflare.com"
+        ], 
+        "domain-name": "buzzsumo.com", 
+        "fuzzer": "original*", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 100
+    }, 
+    {
+        "dns-a": [
+            "141.8.224.93"
+        ], 
+        "dns-ns": [
+            "ns7.rookdns.com", 
+            "ns8.rookdns.com"
+        ], 
+        "domain-name": "buzzsumoo.com", 
+        "fuzzer": "addition", 
+        "geoip-country": "Switzerland", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "162.255.119.35"
+        ], 
+        "dns-mx": [
+            "mx1.privateemail.com", 
+            "mx2.privateemail.com"
+        ], 
+        "dns-ns": [
+            "dns1.registrar-servers.com", 
+            "dns2.registrar-servers.com"
+        ], 
+        "domain-name": "buzz-sumo.com", 
+        "fuzzer": "hyphenation", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 100
+    }, 
+    {
+        "dns-a": [
+            "184.168.221.89"
+        ], 
+        "dns-ns": [
+            "ns03.domaincontrol.com", 
+            "ns04.domaincontrol.com"
+        ], 
+        "domain-name": "buszzsumo.com", 
+        "fuzzer": "insertion", 
+        "geoip-country": "United States"
+    }, 
+    {
+        "dns-a": [
+            "103.224.182.239"
+        ], 
+        "dns-mx": [
+            "park-mx.above.com"
+        ], 
+        "dns-ns": [
+            "ns1.above.com", 
+            "ns2.above.com"
+        ], 
+        "domain-name": "buzzsum.com", 
+        "fuzzer": "omission", 
+        "geoip-country": "Australia", 
+        "mx-spy": true, 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "95.211.117.215"
+        ], 
+        "dns-ns": [
+            "ns1.hastydns.com", 
+            "ns2.hastydns.com"
+        ], 
+        "domain-name": "buzzumo.com", 
+        "fuzzer": "omission", 
+        "geoip-country": "Netherlands"
+    }, 
+    {
+        "dns-a": [
+            "103.224.182.241"
+        ], 
+        "dns-mx": [
+            "park-mx.above.com"
+        ], 
+        "dns-ns": [
+            "ns1.above.com", 
+            "ns2.above.com"
+        ], 
+        "domain-name": "buzsumo.com", 
+        "fuzzer": "omission", 
+        "geoip-country": "Australia", 
+        "mx-spy": true, 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "173.239.5.6", 
+            "173.239.8.164", 
+            "213.247.47.190"
+        ], 
+        "dns-mx": [
+            "mx7.buzzsummo.com"
+        ], 
+        "dns-ns": [
+            "ns1.expiereddnsmanager.com", 
+            "ns2.expiereddnsmanager.com"
+        ], 
+        "domain-name": "buzzsummo.com", 
+        "fuzzer": "repetition", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "104.24.102.85", 
+            "104.24.103.85"
+        ], 
+        "dns-aaaa": [
+            "2400:cb00:2048:1::6818:6655", 
+            "2400:cb00:2048:1::6818:6755"
+        ], 
+        "dns-mx": [
+            "dc-aff8d67a4bbb.buzzsump.com"
+        ], 
+        "dns-ns": [
+            "chad.ns.cloudflare.com", 
+            "nola.ns.cloudflare.com"
+        ], 
+        "domain-name": "buzzsump.com", 
+        "fuzzer": "replacement", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "141.8.224.93"
+        ], 
+        "dns-ns": [
+            "ns7.rookdns.com", 
+            "ns8.rookdns.com"
+        ], 
+        "domain-name": "buzzzumo.com", 
+        "fuzzer": "replacement", 
+        "geoip-country": "Switzerland", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "103.224.212.222"
+        ], 
+        "dns-mx": [
+            "park-mx.above.com"
+        ], 
+        "dns-ns": [
+            "ns1.above.com", 
+            "ns2.above.com"
+        ], 
+        "domain-name": "buzzsomo.com", 
+        "fuzzer": "vowel-swap"
+    }, 
+    {
+        "dns-a": [
+            "192.64.119.56"
+        ], 
+        "dns-mx": [
+            "eforward1.registrar-servers.com", 
+            "eforward2.registrar-servers.com", 
+            "eforward3.registrar-servers.com", 
+            "eforward4.registrar-servers.com", 
+            "eforward5.registrar-servers.com"
+        ], 
+        "dns-ns": [
+            "dns1.registrar-servers.com", 
+            "dns2.registrar-servers.com"
+        ], 
+        "domain-name": "bazzsumo.com", 
+        "fuzzer": "vowel-swap"
+    }
+]

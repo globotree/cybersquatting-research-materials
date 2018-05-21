@@ -1,0 +1,152 @@
+[
+    {
+        "dns-a": [
+            "130.211.7.23"
+        ], 
+        "dns-mx": [
+            "us-smtp-inbound-1.mimecast.com", 
+            "us-smtp-inbound-2.mimecast.com"
+        ], 
+        "dns-ns": [
+            "ns-1190.awsdns-20.org", 
+            "ns-1885.awsdns-43.co.uk", 
+            "ns-406.awsdns-50.com", 
+            "ns-607.awsdns-11.net"
+        ], 
+        "domain-name": "propublica.org", 
+        "fuzzer": "original*", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 100
+    }, 
+    {
+        "dns-a": [
+            "35.168.130.24"
+        ], 
+        "dns-ns": [
+            "ns-1452.awsdns-53.org", 
+            "ns-1738.awsdns-25.co.uk", 
+            "ns-49.awsdns-06.com", 
+            "ns-839.awsdns-40.net"
+        ], 
+        "domain-name": "propublican.org", 
+        "fuzzer": "addition", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 100
+    }, 
+    {
+        "dns-a": [
+            "185.53.179.6"
+        ], 
+        "dns-ns": [
+            "ns1.parkingcrew.net", 
+            "ns2.parkingcrew.net"
+        ], 
+        "domain-name": "propulica.org", 
+        "fuzzer": "omission", 
+        "geoip-country": "Germany", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "202.166.193.68"
+        ], 
+        "dns-mx": [
+            "av2.wlinktech.com", 
+            "mail.propublic.org", 
+            "mx2.wlink.com.np"
+        ], 
+        "dns-ns": [
+            "dns3.wlink.com.np", 
+            "krishna.wlink.com.np", 
+            "ram.wlink.com.np"
+        ], 
+        "domain-name": "propublic.org", 
+        "fuzzer": "omission", 
+        "geoip-country": "Nepal", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "54.72.9.51"
+        ], 
+        "dns-ns": [
+            "ns1.parkingcrew.net", 
+            "ns2.parkingcrew.net"
+        ], 
+        "domain-name": "prpublica.org", 
+        "fuzzer": "omission", 
+        "geoip-country": "Ireland", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "141.8.224.93"
+        ], 
+        "dns-ns": [
+            "ns7.rookdns.com", 
+            "ns8.rookdns.com"
+        ], 
+        "domain-name": "propubluca.org", 
+        "fuzzer": "replacement", 
+        "geoip-country": "Switzerland", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "23.23.174.132"
+        ], 
+        "domain-name": "pro.publica.org", 
+        "fuzzer": "subdomain", 
+        "geoip-country": "United States"
+    }, 
+    {
+        "dns-a": [
+            "185.53.177.30"
+        ], 
+        "dns-ns": [
+            "ns1.parkingspa.com", 
+            "ns2.parkingspa.com"
+        ], 
+        "domain-name": "propub.lica.org", 
+        "fuzzer": "subdomain", 
+        "geoip-country": "Germany", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "104.154.94.123"
+        ], 
+        "domain-name": "propublic.a.org", 
+        "fuzzer": "subdomain", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "86.111.241.254"
+        ], 
+        "dns-mx": [
+            "mail.iq.pl", 
+            "mx1.iq.pl"
+        ], 
+        "dns-ns": [
+            "ns1.iq.pl", 
+            "ns2.iq.pl"
+        ], 
+        "domain-name": "propublico.org", 
+        "fuzzer": "vowel-swap"
+    }, 
+    {
+        "dns-a": [
+            "185.53.178.8"
+        ], 
+        "dns-ns": [
+            "ns1.parkingcrew.net", 
+            "ns2.parkingcrew.net"
+        ], 
+        "domain-name": "prepublica.org", 
+        "fuzzer": "vowel-swap", 
+        "geoip-country": "Germany", 
+        "ssdeep-score": 0
+    }
+]

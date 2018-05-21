@@ -1,0 +1,109 @@
+[
+    {
+        "dns-a": [
+            "219.94.200.238"
+        ], 
+        "dns-mx": [
+            "xsrv.jp"
+        ], 
+        "dns-ns": [
+            "ns1.xserver.jp", 
+            "ns2.xserver.jp", 
+            "ns3.xserver.jp"
+        ], 
+        "domain-name": "xsrv.jp", 
+        "fuzzer": "original*", 
+        "geoip-country": "Japan", 
+        "ssdeep-score": 100
+    }, 
+    {
+        "dns-a": [
+            "202.172.26.52"
+        ], 
+        "dns-mx": [
+            "zsrv.jp"
+        ], 
+        "dns-ns": [
+            "ns1.value-domain.com", 
+            "ns2.value-domain.com"
+        ], 
+        "domain-name": "zsrv.jp", 
+        "fuzzer": "bitsquatting", 
+        "geoip-country": "Japan", 
+        "mx-spy": true, 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-mx": [
+            "mail.x-srv.jp", 
+            "mail2.x-srv.jp"
+        ], 
+        "dns-ns": [
+            "ns.x-srv.jp", 
+            "ns2.x-srv.jp"
+        ], 
+        "domain-name": "x-srv.jp", 
+        "fuzzer": "hyphenation"
+    }, 
+    {
+        "dns-a": [
+            "52.197.151.252"
+        ], 
+        "dns-mx": [
+            "mail.xserv.jp"
+        ], 
+        "domain-name": "xserv.jp", 
+        "fuzzer": "insertion"
+    }, 
+    {
+        "dns-a": [
+            "160.16.55.239"
+        ], 
+        "dns-mx": [
+            "srv.jp"
+        ], 
+        "dns-ns": [
+            "ns1.value-domain.com", 
+            "ns2.value-domain.com"
+        ], 
+        "domain-name": "srv.jp", 
+        "fuzzer": "omission", 
+        "geoip-country": "Japan", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-mx": [
+            "dsrv.jp"
+        ], 
+        "dns-ns": [
+            "ns1.dns.ne.jp", 
+            "ns2.dns.ne.jp"
+        ], 
+        "domain-name": "dsrv.jp", 
+        "fuzzer": "replacement"
+    }, 
+    {
+        "dns-a": [
+            "54.199.208.250", 
+            "54.250.221.200"
+        ], 
+        "dns-ns": [
+            "ns-1267.awsdns-30.org", 
+            "ns-1962.awsdns-53.co.uk", 
+            "ns-48.awsdns-06.com", 
+            "ns-781.awsdns-33.net"
+        ], 
+        "domain-name": "csrv.jp", 
+        "fuzzer": "replacement", 
+        "geoip-country": "Japan", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "160.16.55.239"
+        ], 
+        "domain-name": "x.srv.jp", 
+        "fuzzer": "subdomain", 
+        "geoip-country": "Japan"
+    }
+]

@@ -1,0 +1,202 @@
+[
+    {
+        "dns-a": [
+            "216.58.210.9"
+        ], 
+        "dns-aaaa": [
+            "2a00:1450:4001:816::2009"
+        ], 
+        "dns-ns": [
+            "ns1.google.com", 
+            "ns2.google.com", 
+            "ns3.google.com", 
+            "ns4.google.com"
+        ], 
+        "domain-name": "blogspot.com.es", 
+        "fuzzer": "original*", 
+        "geoip-country": "United States"
+    }, 
+    {
+        "dns-a": [
+            "37.152.88.55"
+        ], 
+        "dns-ns": [
+            "ns2.dondominio.com", 
+            "ns4.dondominio.com"
+        ], 
+        "domain-name": "blogespot.com.es", 
+        "fuzzer": "insertion", 
+        "geoip-country": "Spain"
+    }, 
+    {
+        "dns-mx": [
+            "localhost"
+        ], 
+        "dns-ns": [
+            "ns1.sedoparking.com", 
+            "ns2.sedoparking.com"
+        ], 
+        "domain-name": "blogspt.com.es", 
+        "fuzzer": "omission", 
+        "mx-spy": true
+    }, 
+    {
+        "dns-a": [
+            "72.52.4.122"
+        ], 
+        "dns-mx": [
+            "localhost"
+        ], 
+        "dns-ns": [
+            "ns1.sedoparking.com", 
+            "ns2.sedoparking.com"
+        ], 
+        "domain-name": "blgspot.com.es", 
+        "fuzzer": "omission", 
+        "geoip-country": "United States", 
+        "mx-spy": true
+    }, 
+    {
+        "dns-a": [
+            "72.52.4.122"
+        ], 
+        "dns-mx": [
+            "localhost"
+        ], 
+        "dns-ns": [
+            "ns1.sedoparking.com", 
+            "ns2.sedoparking.com"
+        ], 
+        "domain-name": "blospot.com.es", 
+        "fuzzer": "omission", 
+        "geoip-country": "United States", 
+        "mx-spy": true
+    }, 
+    {
+        "dns-a": [
+            "72.52.4.122"
+        ], 
+        "dns-mx": [
+            "localhost"
+        ], 
+        "dns-ns": [
+            "ns1.sedoparking.com", 
+            "ns2.sedoparking.com"
+        ], 
+        "domain-name": "blogpot.com.es", 
+        "fuzzer": "omission", 
+        "geoip-country": "United States"
+    }, 
+    {
+        "dns-a": [
+            "185.53.179.6"
+        ], 
+        "dns-mx": [
+            "mail.h-email.net"
+        ], 
+        "domain-name": "bogspot.com.es", 
+        "fuzzer": "omission", 
+        "geoip-country": "Germany", 
+        "mx-spy": true
+    }, 
+    {
+        "dns-a": [
+            "72.52.4.122"
+        ], 
+        "dns-mx": [
+            "localhost"
+        ], 
+        "dns-ns": [
+            "ns1.sedoparking.com", 
+            "ns2.sedoparking.com"
+        ], 
+        "domain-name": "blogsot.com.es", 
+        "fuzzer": "omission", 
+        "geoip-country": "United States", 
+        "mx-spy": true
+    }, 
+    {
+        "dns-a": [
+            "72.52.4.122"
+        ], 
+        "dns-mx": [
+            "localhost"
+        ], 
+        "dns-ns": [
+            "ns1.sedoparking.com", 
+            "ns2.sedoparking.com"
+        ], 
+        "domain-name": "blogspo.com.es", 
+        "fuzzer": "omission", 
+        "geoip-country": "United States", 
+        "mx-spy": true
+    }, 
+    {
+        "dns-a": [
+            "72.52.4.122"
+        ], 
+        "dns-mx": [
+            "localhost"
+        ], 
+        "dns-ns": [
+            "ns1.sedoparking.com", 
+            "ns2.sedoparking.com"
+        ], 
+        "domain-name": "blogsp.ot.com.es", 
+        "fuzzer": "subdomain"
+    }, 
+    {
+        "dns-a": [
+            "199.59.242.150"
+        ], 
+        "dns-mx": [
+            "mx76.m2bp.com", 
+            "mx76.mb1p.com"
+        ], 
+        "dns-ns": [
+            "ns1.bodis.com", 
+            "ns2.bodis.com"
+        ], 
+        "domain-name": "bolgspot.com.es", 
+        "fuzzer": "transposition", 
+        "geoip-country": "United States", 
+        "mx-spy": true
+    }, 
+    {
+        "dns-a": [
+            "185.162.171.19"
+        ], 
+        "dns-ns": [
+            "dns1.sered.net", 
+            "dns2.sered.net"
+        ], 
+        "domain-name": "blogpsot.com.es", 
+        "fuzzer": "transposition"
+    }, 
+    {
+        "dns-a": [
+            "149.12.64.136"
+        ], 
+        "dns-ns": [
+            "ns1.hispavista.com", 
+            "ns2.hispavista.com"
+        ], 
+        "domain-name": "blogspot.es", 
+        "fuzzer": "various", 
+        "geoip-country": "United States"
+    }, 
+    {
+        "dns-a": [
+            "185.53.178.7"
+        ], 
+        "dns-mx": [
+            "mail.h-email.net"
+        ], 
+        "dns-ns": [
+            "ns1.parkingcrew.net", 
+            "ns2.parkingcrew.net"
+        ], 
+        "domain-name": "blogspotcom.es", 
+        "fuzzer": "various"
+    }
+]

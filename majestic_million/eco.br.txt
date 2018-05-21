@@ -1,0 +1,26 @@
+[
+    {
+        "dns-ns": [
+            "a.dns.br", 
+            "b.dns.br", 
+            "c.dns.br", 
+            "d.dns.br", 
+            "e.dns.br", 
+            "f.dns.br"
+        ], 
+        "domain-name": "eco.br", 
+        "fuzzer": "original*"
+    }, 
+    {
+        "dns-ns": [
+            "a.dns.br", 
+            "b.dns.br", 
+            "c.dns.br", 
+            "d.dns.br", 
+            "e.dns.br", 
+            "f.dns.br"
+        ], 
+        "domain-name": "ecn.br", 
+        "fuzzer": "bitsquatting"
+    }
+]

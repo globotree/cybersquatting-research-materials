@@ -1,0 +1,152 @@
+[
+    {
+        "dns-a": [
+            "61.4.185.126"
+        ], 
+        "dns-mx": [
+            "mxbiz1.qq.com", 
+            "mxbiz2.qq.com"
+        ], 
+        "dns-ns": [
+            "ns3.dnsv5.com", 
+            "ns4.dnsv5.com"
+        ], 
+        "domain-name": "weather.com.cn", 
+        "fuzzer": "original*", 
+        "geoip-country": "China", 
+        "ssdeep-score": 100
+    }, 
+    {
+        "dns-a": [
+            "23.224.132.142"
+        ], 
+        "dns-ns": [
+            "ns1.dnsdun.com", 
+            "ns1.dnsdun.net"
+        ], 
+        "domain-name": "weatherc.com.cn", 
+        "fuzzer": "addition", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "103.232.215.129"
+        ], 
+        "dns-mx": [
+            "mail.skrimple.com"
+        ], 
+        "domain-name": "weatherl.com.cn", 
+        "fuzzer": "addition", 
+        "geoip-country": "China", 
+        "mx-spy": true, 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "170.178.178.39"
+        ], 
+        "domain-name": "weathers.com.cn", 
+        "fuzzer": "addition", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "47.89.58.32"
+        ], 
+        "dns-ns": [
+            "dns29.hichina.com", 
+            "dns30.hichina.com"
+        ], 
+        "domain-name": "weether.com.cn", 
+        "fuzzer": "bitsquatting", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-ns": [
+            "dns10.hichina.com", 
+            "dns9.hichina.com"
+        ], 
+        "domain-name": "w3eather.com.cn", 
+        "fuzzer": "insertion"
+    }, 
+    {
+        "dns-a": [
+            "103.232.215.129"
+        ], 
+        "dns-mx": [
+            "mail.skrimple.com"
+        ], 
+        "domain-name": "weathe.com.cn", 
+        "fuzzer": "omission", 
+        "geoip-country": "China", 
+        "mx-spy": true, 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-ns": [
+            "dns19.hichina.com", 
+            "dns20.hichina.com"
+        ], 
+        "domain-name": "eather.com.cn", 
+        "fuzzer": "omission"
+    }, 
+    {
+        "dns-a": [
+            "47.91.131.126"
+        ], 
+        "dns-ns": [
+            "ns1.myhostadmin.net", 
+            "ns2.myhostadmin.net", 
+            "ns3.myhostadmin.net", 
+            "ns4.myhostadmin.net", 
+            "ns5.myhostadmin.net", 
+            "ns6.myhostadmin.net"
+        ], 
+        "domain-name": "wether.com.cn", 
+        "fuzzer": "omission", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "50.117.120.251"
+        ], 
+        "dns-mx": [
+            "mail.happyisp.com"
+        ], 
+        "domain-name": "weathe.r.com.cn", 
+        "fuzzer": "subdomain", 
+        "geoip-country": "United States", 
+        "mx-spy": true, 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "218.65.88.27"
+        ], 
+        "dns-ns": [
+            "dns1.hichina.com", 
+            "dns2.hichina.com"
+        ], 
+        "domain-name": "weather.cn", 
+        "fuzzer": "various"
+    }, 
+    {
+        "dns-a": [
+            "172.106.155.23"
+        ], 
+        "dns-ns": [
+            "ns1.myhostadmin.net", 
+            "ns2.myhostadmin.net", 
+            "ns3.myhostadmin.net", 
+            "ns4.myhostadmin.net", 
+            "ns5.myhostadmin.net", 
+            "ns6.myhostadmin.net"
+        ], 
+        "domain-name": "weathercom.cn", 
+        "fuzzer": "various"
+    }
+]

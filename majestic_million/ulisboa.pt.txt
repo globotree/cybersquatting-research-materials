@@ -1,0 +1,49 @@
+[
+    {
+        "dns-mx": [
+            "mx01.ulisboa.pt", 
+            "mx02.ulisboa.pt", 
+            "mx03.ulisboa.pt", 
+            "mx04.ulisboa.pt"
+        ], 
+        "dns-ns": [
+            "a.ul.pt", 
+            "b.ul.pt", 
+            "ns1.ist.utl.pt", 
+            "ns2.ist.utl.pt"
+        ], 
+        "domain-name": "ulisboa.pt", 
+        "fuzzer": "original*"
+    }, 
+    {
+        "dns-a": [
+            "94.126.169.126"
+        ], 
+        "dns-mx": [
+            "elisboa.pt"
+        ], 
+        "dns-ns": [
+            "ns1.dnscpanel.com", 
+            "ns2.dnscpanel.com"
+        ], 
+        "domain-name": "elisboa.pt", 
+        "fuzzer": "bitsquatting", 
+        "geoip-country": "Portugal"
+    }, 
+    {
+        "dns-a": [
+            "94.46.160.198"
+        ], 
+        "dns-mx": [
+            "netpub.cm-lisboa.pt", 
+            "relay1.telepac.pt"
+        ], 
+        "dns-ns": [
+            "bellatrix2.cm-lisboa.pt", 
+            "netpub.cm-lisboa.pt"
+        ], 
+        "domain-name": "lisboa.pt", 
+        "fuzzer": "omission", 
+        "geoip-country": "Portugal"
+    }
+]

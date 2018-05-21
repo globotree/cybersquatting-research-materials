@@ -1,0 +1,114 @@
+[
+    {
+        "dns-a": [
+            "23.211.149.25"
+        ], 
+        "dns-ns": [
+            "asia1.akam.net", 
+            "asia3.akam.net", 
+            "eur2.akam.net", 
+            "ns1-132.akam.net", 
+            "ns1-191.akam.net", 
+            "usc4.akam.net", 
+            "use9.akam.net", 
+            "usw1.akam.net"
+        ], 
+        "domain-name": "aka.ms", 
+        "fuzzer": "original*", 
+        "geoip-country": "Netherlands", 
+        "ssdeep-score": 100
+    }, 
+    {
+        "dns-a": [
+            "52.178.114.226"
+        ], 
+        "domain-name": "ika.ms", 
+        "fuzzer": "bitsquatting", 
+        "geoip-country": "Netherlands", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "88.99.118.179"
+        ], 
+        "dns-mx": [
+            "w016e1cd.kasserver.com"
+        ], 
+        "dns-ns": [
+            "ns5.kasserver.com", 
+            "ns6.kasserver.com"
+        ], 
+        "domain-name": "akc.ms", 
+        "fuzzer": "bitsquatting", 
+        "geoip-country": "Germany"
+    }, 
+    {
+        "dns-a": [
+            "213.165.64.40"
+        ], 
+        "dns-mx": [
+            "mx-ha02.web.de", 
+            "mx-ha03.web.de"
+        ], 
+        "dns-ns": [
+            "ns04.ui-dns.biz", 
+            "ns04.ui-dns.com", 
+            "ns04.ui-dns.de", 
+            "ns04.ui-dns.org"
+        ], 
+        "domain-name": "ka.ms", 
+        "fuzzer": "omission", 
+        "geoip-country": "Germany"
+    }, 
+    {
+        "dns-a": [
+            "69.58.188.49"
+        ], 
+        "dns-ns": [
+            "ns1.markmonitor.com", 
+            "ns2.markmonitor.com"
+        ], 
+        "domain-name": "wka.ms", 
+        "fuzzer": "replacement", 
+        "geoip-country": "United States"
+    }, 
+    {
+        "dns-a": [
+            "119.81.170.18"
+        ], 
+        "dns-mx": [
+            "mail.efty.com"
+        ], 
+        "dns-ns": [
+            "ns1.eftydns.com", 
+            "ns2.eftydns.com"
+        ], 
+        "domain-name": "ska.ms", 
+        "fuzzer": "replacement"
+    }, 
+    {
+        "dns-a": [
+            "103.224.182.249"
+        ], 
+        "dns-mx": [
+            "park-mx.above.com"
+        ], 
+        "dns-ns": [
+            "ns1.above.com", 
+            "ns2.above.com"
+        ], 
+        "domain-name": "aks.ms", 
+        "fuzzer": "replacement", 
+        "geoip-country": "Australia", 
+        "mx-spy": true, 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "213.165.64.40"
+        ], 
+        "domain-name": "a.ka.ms", 
+        "fuzzer": "subdomain", 
+        "geoip-country": "Germany"
+    }
+]

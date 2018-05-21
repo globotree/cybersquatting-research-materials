@@ -1,0 +1,120 @@
+[
+    {
+        "dns-a": [
+            "34.234.255.118", 
+            "52.201.115.151"
+        ], 
+        "dns-mx": [
+            "mxa.mailgun.org", 
+            "mxb.mailgun.org"
+        ], 
+        "dns-ns": [
+            "ns-1406.awsdns-47.org", 
+            "ns-1931.awsdns-49.co.uk", 
+            "ns-3.awsdns-00.com", 
+            "ns-673.awsdns-20.net"
+        ], 
+        "domain-name": "radiolab.org", 
+        "fuzzer": "original*", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 100
+    }, 
+    {
+        "dns-a": [
+            "50.63.202.41"
+        ], 
+        "dns-ns": [
+            "ns31.domaincontrol.com", 
+            "ns32.domaincontrol.com"
+        ], 
+        "domain-name": "radiolabs.org", 
+        "fuzzer": "addition", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "181.215.97.226"
+        ], 
+        "dns-mx": [
+            "mail.radiolaf.org"
+        ], 
+        "dns-ns": [
+            "ns1.verjnuarmu.net", 
+            "ns2.verjnuarmu.net"
+        ], 
+        "domain-name": "radiolaf.org", 
+        "fuzzer": "bitsquatting", 
+        "geoip-country": "United States"
+    }, 
+    {
+        "dns-a": [
+            "193.93.72.22"
+        ], 
+        "dns-aaaa": [
+            "2a03:a200::22"
+        ], 
+        "dns-mx": [
+            "mail.radiolan.sk", 
+            "mx2.radiolan.sk"
+        ], 
+        "dns-ns": [
+            "ns1.radiolan.sk", 
+            "ns2.radiolan.sk"
+        ], 
+        "domain-name": "radiolan.org", 
+        "fuzzer": "replacement", 
+        "geoip-country": "Slovakia"
+    }, 
+    {
+        "dns-a": [
+            "54.248.92.159"
+        ], 
+        "domain-name": "radio.lab.org", 
+        "fuzzer": "subdomain", 
+        "geoip-country": "Japan"
+    }, 
+    {
+        "dns-a": [
+            "185.53.178.6"
+        ], 
+        "dns-mx": [
+            "mail.h-email.net"
+        ], 
+        "dns-ns": [
+            "ns1.parkingcrew.net", 
+            "ns2.parkingcrew.net"
+        ], 
+        "domain-name": "radiol.ab.org", 
+        "fuzzer": "subdomain", 
+        "geoip-country": "Germany", 
+        "mx-spy": true, 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "98.124.199.32"
+        ], 
+        "domain-name": "radiola.b.org", 
+        "fuzzer": "subdomain", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "103.224.182.241"
+        ], 
+        "dns-mx": [
+            "park-mx.above.com"
+        ], 
+        "dns-ns": [
+            "ns1.above.com", 
+            "ns2.above.com"
+        ], 
+        "domain-name": "raidolab.org", 
+        "fuzzer": "transposition", 
+        "geoip-country": "Australia", 
+        "mx-spy": true, 
+        "ssdeep-score": 0
+    }
+]

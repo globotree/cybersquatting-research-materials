@@ -1,0 +1,193 @@
+[
+    {
+        "dns-a": [
+            "54.245.86.113"
+        ], 
+        "dns-mx": [
+            "alt1.aspmx.l.google.com", 
+            "alt2.aspmx.l.google.com", 
+            "aspmx.l.google.com", 
+            "aspmx2.googlemail.com"
+        ], 
+        "dns-ns": [
+            "ns-1109.awsdns-10.org", 
+            "ns-160.awsdns-20.com", 
+            "ns-1949.awsdns-51.co.uk", 
+            "ns-834.awsdns-40.net"
+        ], 
+        "domain-name": "pho.to", 
+        "fuzzer": "original*", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 100
+    }, 
+    {
+        "dns-a": [
+            "158.85.81.9"
+        ], 
+        "dns-mx": [
+            "alt1.aspmx.l.google.com", 
+            "alt2.aspmx.l.google.com", 
+            "alt3.aspmx.l.google.com", 
+            "alt4.aspmx.l.google.com", 
+            "aspmx.l.google.com"
+        ], 
+        "dns-ns": [
+            "ns1.register.to", 
+            "ns2.register.to", 
+            "ns3.register.to", 
+            "ns4.register.to"
+        ], 
+        "domain-name": "phoh.to", 
+        "fuzzer": "addition", 
+        "geoip-country": "Canada", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "104.31.78.195", 
+            "104.31.79.195"
+        ], 
+        "dns-aaaa": [
+            "2400:cb00:2048:1::681f:4ec3", 
+            "2400:cb00:2048:1::681f:4fc3"
+        ], 
+        "dns-mx": [
+            "alt1.aspmx.l.google.com", 
+            "alt2.aspmx.l.google.com", 
+            "aspmx.l.google.com", 
+            "aspmx2.googlemail.com", 
+            "aspmx3.googlemail.com"
+        ], 
+        "dns-ns": [
+            "lee.ns.cloudflare.com", 
+            "lola.ns.cloudflare.com"
+        ], 
+        "domain-name": "phon.to", 
+        "fuzzer": "addition", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "34.238.103.179"
+        ], 
+        "dns-mx": [
+            "inbound-smtp.us-east-1.amazonaws.com"
+        ], 
+        "dns-ns": [
+            "ns-1255.awsdns-28.org", 
+            "ns-1925.awsdns-48.co.uk", 
+            "ns-679.awsdns-20.net", 
+            "ns-68.awsdns-08.com"
+        ], 
+        "domain-name": "phn.to", 
+        "fuzzer": "bitsquatting", 
+        "geoip-country": "United States"
+    }, 
+    {
+        "dns-ns": [
+            "ns-1032.awsdns-01.org", 
+            "ns-1683.awsdns-18.co.uk", 
+            "ns-322.awsdns-40.com", 
+            "ns-992.awsdns-60.net"
+        ], 
+        "domain-name": "ph.to", 
+        "fuzzer": "omission"
+    }, 
+    {
+        "dns-a": [
+            "185.53.178.6"
+        ], 
+        "dns-mx": [
+            "mail.h-email.net"
+        ], 
+        "dns-ns": [
+            "ns1.parkingcrew.net", 
+            "ns2.parkingcrew.net"
+        ], 
+        "domain-name": "ho.to", 
+        "fuzzer": "omission", 
+        "geoip-country": "Germany", 
+        "mx-spy": true, 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "87.117.226.182"
+        ], 
+        "dns-ns": [
+            "vps1.aspnethosting.co.uk", 
+            "vps2.aspnethosting.co.uk"
+        ], 
+        "domain-name": "pbo.to", 
+        "fuzzer": "replacement", 
+        "geoip-country": "United Kingdom", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "49.212.140.232"
+        ], 
+        "dns-mx": [
+            "ms.cug.net"
+        ], 
+        "dns-ns": [
+            "ns.headjapan.com", 
+            "ns2.headjapan.com"
+        ], 
+        "domain-name": "php.to", 
+        "fuzzer": "replacement", 
+        "geoip-country": "Japan"
+    }, 
+    {
+        "dns-a": [
+            "185.53.178.6"
+        ], 
+        "dns-mx": [
+            "mail.h-email.net"
+        ], 
+        "dns-ns": [
+            "ns1.parkingcrew.net", 
+            "ns2.parkingcrew.net"
+        ], 
+        "domain-name": "p.ho.to", 
+        "fuzzer": "subdomain", 
+        "geoip-country": "Germany", 
+        "mx-spy": true, 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "72.52.4.119"
+        ], 
+        "dns-mx": [
+            "localhost"
+        ], 
+        "dns-ns": [
+            "ns1.sedoparking.com", 
+            "ns2.sedoparking.com"
+        ], 
+        "domain-name": "photo.to", 
+        "fuzzer": "various", 
+        "geoip-country": "United States", 
+        "mx-spy": true, 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "72.52.4.119"
+        ], 
+        "dns-mx": [
+            "localhost"
+        ], 
+        "dns-ns": [
+            "ns1.sedoparking.com", 
+            "ns2.sedoparking.com"
+        ], 
+        "domain-name": "pho-to.com", 
+        "fuzzer": "various", 
+        "geoip-country": "United States", 
+        "mx-spy": true, 
+        "ssdeep-score": 0
+    }
+]

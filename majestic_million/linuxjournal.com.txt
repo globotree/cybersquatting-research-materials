@@ -1,0 +1,89 @@
+[
+    {
+        "dns-a": [
+            "76.74.252.198"
+        ], 
+        "dns-mx": [
+            "alt1.aspmx.l.google.com", 
+            "alt2.aspmx.l.google.com", 
+            "aspmx.l.google.com", 
+            "aspmx2.googlemail.com", 
+            "aspmx3.googlemail.com", 
+            "aspmx4.googlemail.com", 
+            "aspmx5.googlemail.com"
+        ], 
+        "dns-ns": [
+            "ns65.domaincontrol.com", 
+            "ns66.domaincontrol.com"
+        ], 
+        "domain-name": "linuxjournal.com", 
+        "fuzzer": "original*", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 99
+    }, 
+    {
+        "dns-a": [
+            "91.195.240.82"
+        ], 
+        "dns-mx": [
+            "mail.b-io.co"
+        ], 
+        "dns-ns": [
+            "ns1dns.name.com", 
+            "ns2qvz.name.com", 
+            "ns3dty.name.com", 
+            "ns4cfn.name.com"
+        ], 
+        "domain-name": "linuxjournel.com", 
+        "fuzzer": "bitsquatting", 
+        "geoip-country": "Germany", 
+        "mx-spy": true, 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "69.16.230.43"
+        ], 
+        "dns-mx": [
+            "mx156.hostedmxserver.com"
+        ], 
+        "dns-ns": [
+            "ns1.parklogic.com", 
+            "ns2.parklogic.com", 
+            "ns3.parklogic.com", 
+            "ns4.parklogic.com", 
+            "ns5.parklogic.com"
+        ], 
+        "domain-name": "linux-journal.com", 
+        "fuzzer": "hyphenation", 
+        "geoip-country": "United States", 
+        "mx-spy": true, 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "207.148.248.143"
+        ], 
+        "domain-name": "linuxj.ournal.com", 
+        "fuzzer": "subdomain", 
+        "geoip-country": "United States"
+    }, 
+    {
+        "dns-a": [
+            "68.178.213.61"
+        ], 
+        "domain-name": "linuxjo.urnal.com", 
+        "fuzzer": "subdomain", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "72.9.105.30"
+        ], 
+        "domain-name": "linuxjou.rnal.com", 
+        "fuzzer": "subdomain", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 0
+    }
+]

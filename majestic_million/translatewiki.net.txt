@@ -1,0 +1,58 @@
+[
+    {
+        "dns-a": [
+            "37.120.188.137"
+        ], 
+        "dns-aaaa": [
+            "2a03:4000:6:b01e::1"
+        ], 
+        "dns-mx": [
+            "mail.translatewiki.net"
+        ], 
+        "dns-ns": [
+            "root-dns.netcup.net", 
+            "second-dns.netcup.net", 
+            "third-dns.netcup.net"
+        ], 
+        "domain-name": "translatewiki.net", 
+        "fuzzer": "original*", 
+        "geoip-country": "Germany", 
+        "ssdeep-score": 99
+    }, 
+    {
+        "dns-a": [
+            "199.59.242.150"
+        ], 
+        "domain-name": "translatew.iki.net", 
+        "fuzzer": "subdomain", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "69.172.201.153"
+        ], 
+        "dns-ns": [
+            "ns1.uniregistrymarket.link", 
+            "ns2.uniregistrymarket.link"
+        ], 
+        "domain-name": "translatewi.ki.net", 
+        "fuzzer": "subdomain", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "50.57.34.52"
+        ], 
+        "dns-mx": [
+            "mail.fma.com"
+        ], 
+        "dns-ns": [
+            "ns1.fma.net", 
+            "ns2.fma.net"
+        ], 
+        "domain-name": "translatewik.i.net", 
+        "fuzzer": "subdomain"
+    }
+]

@@ -1,0 +1,130 @@
+[
+    {
+        "dns-a": [
+            "87.98.136.71"
+        ], 
+        "dns-mx": [
+            "ALT1.ASPMX.L.GOOGLE.com", 
+            "ALT2.ASPMX.L.GOOGLE.com", 
+            "ASPMX.L.GOOGLE.com", 
+            "ASPMX2.GOOGLEMAIL.com", 
+            "ASPMX3.GOOGLEMAIL.com", 
+            "ASPMX4.GOOGLEMAIL.com", 
+            "ASPMX5.GOOGLEMAIL.com"
+        ], 
+        "dns-ns": [
+            "ns1.izismile.com", 
+            "ns2.izismile.com"
+        ], 
+        "domain-name": "izismile.com", 
+        "fuzzer": "original*", 
+        "geoip-country": "France"
+    }, 
+    {
+        "dns-a": [
+            "157.7.107.28"
+        ], 
+        "dns-mx": [
+            "mx01.lolipop.jp"
+        ], 
+        "dns-ns": [
+            "uns01.lolipop.jp", 
+            "uns02.lolipop.jp"
+        ], 
+        "domain-name": "irismile.com", 
+        "fuzzer": "bitsquatting", 
+        "geoip-country": "Japan"
+    }, 
+    {
+        "dns-a": [
+            "173.239.5.6", 
+            "173.239.8.164", 
+            "213.247.47.190"
+        ], 
+        "dns-mx": [
+            "mx7.izsmile.com"
+        ], 
+        "dns-ns": [
+            "ns1.expiereddnsmanager.com", 
+            "ns2.expiereddnsmanager.com"
+        ], 
+        "domain-name": "izsmile.com", 
+        "fuzzer": "omission", 
+        "geoip-country": "United States"
+    }, 
+    {
+        "dns-a": [
+            "173.239.5.6", 
+            "173.239.8.164", 
+            "213.247.47.190"
+        ], 
+        "dns-mx": [
+            "mx7.izimile.com"
+        ], 
+        "dns-ns": [
+            "ns1.expiereddnsmanager.com", 
+            "ns2.expiereddnsmanager.com"
+        ], 
+        "domain-name": "izimile.com", 
+        "fuzzer": "omission", 
+        "geoip-country": "United States"
+    }, 
+    {
+        "dns-a": [
+            "74.206.232.234"
+        ], 
+        "dns-ns": [
+            "ns1.izissmile.com", 
+            "ns2.izissmile.com"
+        ], 
+        "domain-name": "izissmile.com", 
+        "fuzzer": "repetition", 
+        "geoip-country": "United States"
+    }, 
+    {
+        "dns-a": [
+            "66.175.58.9"
+        ], 
+        "domain-name": "iz.ismile.com", 
+        "fuzzer": "subdomain", 
+        "geoip-country": "United States"
+    }, 
+    {
+        "dns-a": [
+            "184.168.221.104"
+        ], 
+        "dns-ns": [
+            "ns1.afternic.com", 
+            "ns2.afternic.com"
+        ], 
+        "domain-name": "izi.smile.com", 
+        "fuzzer": "subdomain", 
+        "geoip-country": "United States"
+    }, 
+    {
+        "dns-a": [
+            "115.182.94.238"
+        ], 
+        "dns-mx": [
+            "lemail.le.com", 
+            "mail10.le.com", 
+            "mail3.le.com"
+        ], 
+        "domain-name": "izismi.le.com", 
+        "fuzzer": "subdomain"
+    }, 
+    {
+        "dns-a": [
+            "27.124.118.252"
+        ], 
+        "dns-mx": [
+            "mail.ezismile.com"
+        ], 
+        "dns-ns": [
+            "ns1.syrahost.com", 
+            "ns2.syrahost.com"
+        ], 
+        "domain-name": "ezismile.com", 
+        "fuzzer": "vowel-swap"
+    }
+]

@@ -1,0 +1,90 @@
+[
+    {
+        "dns-a": [
+            "195.3.185.90"
+        ], 
+        "dns-mx": [
+            "eu-smtp-inbound-1.mimecast.com", 
+            "eu-smtp-inbound-2.mimecast.com"
+        ], 
+        "dns-ns": [
+            "ns0.ageuk.net", 
+            "ns1.ageuk.net", 
+            "ns2.ageuk.net", 
+            "ns3.ageuk.net"
+        ], 
+        "domain-name": "ageuk.org.uk", 
+        "fuzzer": "original*", 
+        "geoip-country": "United Kingdom", 
+        "ssdeep-score": 100
+    }, 
+    {
+        "dns-a": [
+            "95.131.64.149"
+        ], 
+        "dns-mx": [
+            "us2.mx1.mailhostbox.com", 
+            "us2.mx2.mailhostbox.com", 
+            "us2.mx3.mailhostbox.com"
+        ], 
+        "dns-ns": [
+            "ns1.ukdnsservers.co.uk", 
+            "ns2.ukdnsservers.co.uk", 
+            "ns3.ukdnsservers.co.uk", 
+            "ns4.ukdnsservers.co.uk"
+        ], 
+        "domain-name": "age-uk.org.uk", 
+        "fuzzer": "hyphenation", 
+        "geoip-country": "United Kingdom", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "104.28.2.104", 
+            "104.28.3.104"
+        ], 
+        "dns-ns": [
+            "jeff.ns.cloudflare.com", 
+            "vera.ns.cloudflare.com"
+        ], 
+        "domain-name": "aguk.org.uk", 
+        "fuzzer": "omission", 
+        "geoip-country": "United States"
+    }, 
+    {
+        "dns-a": [
+            "94.126.40.154"
+        ], 
+        "dns-mx": [
+            "ASPMX.L.GOOGLE.COM", 
+            "alt1.ASPMX.L.GOOGLE.COM", 
+            "alt2.ASPMX.L.GOOGLE.COM", 
+            "aspmx2.googlemail.COM", 
+            "aspmx3.googlemail.COM", 
+            "aspmx4.googlemail.COM", 
+            "aspmx5.googlemail.COM"
+        ], 
+        "dns-ns": [
+            "ns0.lcn.com", 
+            "ns1.lcn.com"
+        ], 
+        "domain-name": "abeuk.org.uk", 
+        "fuzzer": "replacement", 
+        "geoip-country": "United Kingdom"
+    }, 
+    {
+        "dns-a": [
+            "94.136.40.51"
+        ], 
+        "dns-mx": [
+            "mx0.123-reg.co.uk", 
+            "mx1.123-reg.co.uk"
+        ], 
+        "dns-ns": [
+            "ns.123-reg.co.uk", 
+            "ns2.123-reg.co.uk"
+        ], 
+        "domain-name": "ageuk.uk", 
+        "fuzzer": "various"
+    }
+]

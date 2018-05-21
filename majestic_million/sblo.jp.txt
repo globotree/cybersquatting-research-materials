@@ -1,0 +1,189 @@
+[
+    {
+        "dns-a": [
+            "59.106.18.132", 
+            "59.106.18.133"
+        ], 
+        "dns-mx": [
+            "sblo2.sakura.ad.jp", 
+            "sblo3.sakura.ad.jp"
+        ], 
+        "dns-ns": [
+            "ns1.dns.ne.jp", 
+            "ns2.dns.ne.jp"
+        ], 
+        "domain-name": "sblo.jp", 
+        "fuzzer": "original*", 
+        "geoip-country": "Japan", 
+        "mx-spy": true, 
+        "ssdeep-score": 100
+    }, 
+    {
+        "dns-a": [
+            "153.126.175.191"
+        ], 
+        "dns-mx": [
+            "mail.sblog.jp"
+        ], 
+        "domain-name": "sblog.jp", 
+        "fuzzer": "addition", 
+        "geoip-country": "Japan"
+    }, 
+    {
+        "dns-a": [
+            "160.16.124.48"
+        ], 
+        "dns-mx": [
+            "server.qblo.jp"
+        ], 
+        "dns-ns": [
+            "01.dnsv.jp", 
+            "02.dnsv.jp", 
+            "03.dnsv.jp", 
+            "04.dnsv.jp"
+        ], 
+        "domain-name": "qblo.jp", 
+        "fuzzer": "bitsquatting", 
+        "geoip-country": "Japan", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "125.206.175.102"
+        ], 
+        "dns-mx": [
+            "wblo.jp"
+        ], 
+        "dns-ns": [
+            "ns-204.dns.jp-e1.cloudn-service.com", 
+            "ns-205.dns.jp-w1.cloudn-service.com", 
+            "ns-206.dns.us-e1.cloudn-service.com"
+        ], 
+        "domain-name": "wblo.jp", 
+        "fuzzer": "bitsquatting", 
+        "geoip-country": "Japan", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-mx": [
+            "alt1.aspmx.l.google.com", 
+            "alt2.aspmx.l.google.com", 
+            "aspmx.l.google.com", 
+            "aspmx2.googlemail.com", 
+            "aspmx3.googlemail.com"
+        ], 
+        "dns-ns": [
+            "01.dnsv.jp", 
+            "02.dnsv.jp"
+        ], 
+        "domain-name": "sclo.jp", 
+        "fuzzer": "bitsquatting"
+    }, 
+    {
+        "dns-a": [
+            "120.136.10.33"
+        ], 
+        "dns-mx": [
+            "sflo.jp"
+        ], 
+        "dns-ns": [
+            "ns1.xserver.jp", 
+            "ns2.xserver.jp", 
+            "ns3.xserver.jp", 
+            "ns4.xserver.jp", 
+            "ns5.xserver.jp"
+        ], 
+        "domain-name": "sflo.jp", 
+        "fuzzer": "bitsquatting", 
+        "geoip-country": "Japan", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "112.78.126.44"
+        ], 
+        "dns-mx": [
+            "blo.jp"
+        ], 
+        "dns-ns": [
+            "ns1.dns.ne.jp", 
+            "ns2.dns.ne.jp"
+        ], 
+        "domain-name": "blo.jp", 
+        "fuzzer": "omission", 
+        "geoip-country": "Japan", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "49.212.243.57"
+        ], 
+        "dns-mx": [
+            "sbo.jp"
+        ], 
+        "dns-ns": [
+            "ns1.dns.ne.jp", 
+            "ns2.dns.ne.jp"
+        ], 
+        "domain-name": "sbo.jp", 
+        "fuzzer": "omission", 
+        "geoip-country": "Japan", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "49.212.180.211"
+        ], 
+        "dns-mx": [
+            "sbl.jp"
+        ], 
+        "dns-ns": [
+            "ns1.dns.ne.jp", 
+            "ns2.dns.ne.jp"
+        ], 
+        "domain-name": "sbl.jp", 
+        "fuzzer": "omission", 
+        "geoip-country": "Japan", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "163.44.2.154"
+        ], 
+        "dns-ns": [
+            "mns01.ucom.ne.jp", 
+            "mns02.ucom.ne.jp"
+        ], 
+        "domain-name": "eblo.jp", 
+        "fuzzer": "replacement", 
+        "geoip-country": "Japan"
+    }, 
+    {
+        "dns-a": [
+            "150.95.153.47"
+        ], 
+        "dns-ns": [
+            "ns-a1.conoha.io", 
+            "ns-a2.conoha.io", 
+            "ns-a3.conoha.io"
+        ], 
+        "domain-name": "ablo.jp", 
+        "fuzzer": "replacement", 
+        "geoip-country": "Japan", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "64.40.104.45"
+        ], 
+        "dns-mx": [
+            "mail.sbol.jp"
+        ], 
+        "dns-ns": [
+            "ns1.jp-domains.jp", 
+            "ns2.jp-domains.jp"
+        ], 
+        "domain-name": "sbol.jp", 
+        "fuzzer": "transposition"
+    }
+]

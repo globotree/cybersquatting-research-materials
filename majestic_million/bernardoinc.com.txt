@@ -1,0 +1,44 @@
+[
+    {
+        "dns-a": [
+            "74.220.215.248"
+        ], 
+        "dns-mx": [
+            "mail.bernardoinc.com"
+        ], 
+        "dns-ns": [
+            "ns1.hostmonster.com", 
+            "ns2.hostmonster.com"
+        ], 
+        "domain-name": "bernardoinc.com", 
+        "fuzzer": "original*", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 100
+    }, 
+    {
+        "dns-a": [
+            "96.45.82.214", 
+            "96.45.82.92", 
+            "96.45.83.238", 
+            "96.45.83.87"
+        ], 
+        "dns-ns": [
+            "ns0.dnsmadeeasy.com", 
+            "ns1.dnsmadeeasy.com", 
+            "ns2.dnsmadeeasy.com", 
+            "ns3.dnsmadeeasy.com", 
+            "ns4.dnsmadeeasy.com"
+        ], 
+        "domain-name": "bernardinc.com", 
+        "fuzzer": "omission", 
+        "geoip-country": "United States"
+    }, 
+    {
+        "dns-a": [
+            "198.71.232.3"
+        ], 
+        "domain-name": "bern.ardoinc.com", 
+        "fuzzer": "subdomain", 
+        "geoip-country": "United States"
+    }
+]

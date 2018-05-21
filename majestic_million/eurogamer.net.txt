@@ -1,0 +1,85 @@
+[
+    {
+        "dns-a": [
+            "94.198.83.18"
+        ], 
+        "dns-mx": [
+            "ALT1.ASPMX.L.GOOGLE.COM", 
+            "ALT2.ASPMX.L.GOOGLE.COM", 
+            "ASPMX.L.GOOGLE.COM", 
+            "ASPMX2.GOOGLEMAIL.COM", 
+            "ASPMX3.GOOGLEMAIL.COM"
+        ], 
+        "dns-ns": [
+            "ns0.eurogamer.net", 
+            "ns1.eurogamer.net"
+        ], 
+        "domain-name": "eurogamer.net", 
+        "fuzzer": "original*", 
+        "geoip-country": "United Kingdom", 
+        "ssdeep-score": 100
+    }, 
+    {
+        "dns-a": [
+            "194.14.75.163"
+        ], 
+        "dns-mx": [
+            "mailstore1.secureserver.net", 
+            "smtp.secureserver.net"
+        ], 
+        "domain-name": "eurogamers.net", 
+        "fuzzer": "addition", 
+        "geoip-country": "Switzerland", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "159.25.17.178"
+        ], 
+        "dns-mx": [
+            "mail.shopto.net"
+        ], 
+        "dns-ns": [
+            "a.ns.joker.com", 
+            "b.ns.joker.com", 
+            "c.ns.joker.com"
+        ], 
+        "domain-name": "eurogames.net", 
+        "fuzzer": "bitsquatting", 
+        "geoip-country": "Germany", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "157.7.107.118"
+        ], 
+        "dns-mx": [
+            "mx01.lolipop.jp"
+        ], 
+        "dns-ns": [
+            "dns01.muumuu-domain.com", 
+            "dns02.muumuu-domain.com"
+        ], 
+        "domain-name": "erogamer.net", 
+        "fuzzer": "omission", 
+        "geoip-country": "Japan", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "72.52.4.119"
+        ], 
+        "dns-mx": [
+            "localhost"
+        ], 
+        "dns-ns": [
+            "ns1.sedoparking.com", 
+            "ns2.sedoparking.com"
+        ], 
+        "domain-name": "eurogame.net", 
+        "fuzzer": "omission", 
+        "geoip-country": "United States", 
+        "mx-spy": true, 
+        "ssdeep-score": 0
+    }
+]

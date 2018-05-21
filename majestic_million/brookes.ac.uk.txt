@@ -1,0 +1,51 @@
+[
+    {
+        "dns-a": [
+            "161.73.246.13"
+        ], 
+        "dns-mx": [
+            "alt1.aspmx.l.google.com", 
+            "alt2.aspmx.l.google.com", 
+            "aspmx.l.google.com", 
+            "aspmx2.googlemail.com", 
+            "aspmx3.googlemail.com", 
+            "aspmx4.googlemail.com", 
+            "aspmx5.googlemail.com"
+        ], 
+        "dns-ns": [
+            "ns1.brookes.ac.uk", 
+            "ns2.brookes.ac.uk", 
+            "ns3.ja.net"
+        ], 
+        "domain-name": "brookes.ac.uk", 
+        "fuzzer": "original*", 
+        "geoip-country": "United Kingdom", 
+        "ssdeep-score": 75
+    }, 
+    {
+        "dns-a": [
+            "161.73.246.13"
+        ], 
+        "dns-ns": [
+            "ns1.brookes.ac.uk", 
+            "ns2.brookes.ac.uk", 
+            "ns3.ja.net"
+        ], 
+        "domain-name": "brooks.ac.uk", 
+        "fuzzer": "omission", 
+        "geoip-country": "United Kingdom", 
+        "ssdeep-score": 99
+    }, 
+    {
+        "dns-a": [
+            "62.233.121.5"
+        ], 
+        "dns-ns": [
+            "ns1.namecity.com", 
+            "ns2.namecity.com"
+        ], 
+        "domain-name": "brookes.uk", 
+        "fuzzer": "various", 
+        "geoip-country": "United Kingdom"
+    }
+]

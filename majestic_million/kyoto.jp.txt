@@ -1,0 +1,207 @@
+[
+    {
+        "dns-ns": [
+            "dns01.muumuu-domain.com", 
+            "dns02.muumuu-domain.com"
+        ], 
+        "domain-name": "kyotou.jp", 
+        "fuzzer": "addition"
+    }, 
+    {
+        "dns-a": [
+            "192.121.156.213"
+        ], 
+        "dns-mx": [
+            "jyoto.jp"
+        ], 
+        "dns-ns": [
+            "ns-1498.awsdns-59.org", 
+            "ns-1811.awsdns-34.co.uk", 
+            "ns-58.awsdns-07.com", 
+            "ns-697.awsdns-23.net"
+        ], 
+        "domain-name": "jyoto.jp", 
+        "fuzzer": "bitsquatting", 
+        "geoip-country": "Germany"
+    }, 
+    {
+        "dns-mx": [
+            "ms-gw.ocn.ad.jp"
+        ], 
+        "dns-ns": [
+            "ns-kgs01.ocn.ad.jp", 
+            "ns-kns01.ocn.ad.jp"
+        ], 
+        "domain-name": "kioto.jp", 
+        "fuzzer": "bitsquatting"
+    }, 
+    {
+        "dns-ns": [
+            "ns.orions.jp", 
+            "ns1.tet.i-fielding.jp", 
+            "ns1.ttk.i-fielding.jp"
+        ], 
+        "domain-name": "ikyoto.jp", 
+        "fuzzer": "homoglyph"
+    }, 
+    {
+        "dns-a": [
+            "192.64.147.150"
+        ], 
+        "dns-ns": [
+            "01.dnsv.jp", 
+            "02.dnsv.jp", 
+            "03.dnsv.jp", 
+            "04.dnsv.jp"
+        ], 
+        "domain-name": "kyo-to.jp", 
+        "fuzzer": "hyphenation", 
+        "geoip-country": "United States"
+    }, 
+    {
+        "dns-a": [
+            "49.212.72.180"
+        ], 
+        "dns-mx": [
+            "extsvr1.koto.co.jp"
+        ], 
+        "dns-ns": [
+            "extsvr2.koto.co.jp", 
+            "extsvr3.koto.co.jp", 
+            "s2nd.gishigishi.net"
+        ], 
+        "domain-name": "koto.jp", 
+        "fuzzer": "omission", 
+        "geoip-country": "Japan"
+    }, 
+    {
+        "dns-a": [
+            "210.129.88.101"
+        ], 
+        "dns-mx": [
+            "bmail.inetd.co.jp", 
+            "www14.inetd.co.jp"
+        ], 
+        "dns-ns": [
+            "ns.inetd.co.jp", 
+            "ns2.inetd.co.jp"
+        ], 
+        "domain-name": "yoto.jp", 
+        "fuzzer": "omission", 
+        "geoip-country": "Japan"
+    }, 
+    {
+        "dns-a": [
+            "157.112.189.22"
+        ], 
+        "dns-mx": [
+            "kyot.jp"
+        ], 
+        "dns-ns": [
+            "ns1.xserver.jp", 
+            "ns2.xserver.jp", 
+            "ns3.xserver.jp", 
+            "ns4.xserver.jp", 
+            "ns5.xserver.jp"
+        ], 
+        "domain-name": "kyot.jp", 
+        "fuzzer": "omission", 
+        "geoip-country": "Japan"
+    }, 
+    {
+        "dns-a": [
+            "62.116.130.8"
+        ], 
+        "dns-ns": [
+            "a.ns14.net", 
+            "b.ns14.net", 
+            "c.ns14.net", 
+            "d.ns14.net"
+        ], 
+        "domain-name": "kyto.jp", 
+        "fuzzer": "omission", 
+        "geoip-country": "Germany"
+    }, 
+    {
+        "dns-a": [
+            "210.229.242.18"
+        ], 
+        "dns-mx": [
+            "mail.kyozo.jp"
+        ], 
+        "dns-ns": [
+            "ns-1382.awsdns-44.org", 
+            "ns-1808.awsdns-34.co.uk", 
+            "ns-80.awsdns-10.com", 
+            "ns-931.awsdns-52.net"
+        ], 
+        "domain-name": "kyozo.jp", 
+        "fuzzer": "replacement", 
+        "geoip-country": "Japan"
+    }, 
+    {
+        "dns-a": [
+            "202.218.85.181"
+        ], 
+        "dns-mx": [
+            "kyoro.jp"
+        ], 
+        "dns-ns": [
+            "ns1.naviservers.net", 
+            "ns2.naviservers.net"
+        ], 
+        "domain-name": "kyoro.jp", 
+        "fuzzer": "replacement", 
+        "geoip-country": "Japan"
+    }, 
+    {
+        "dns-a": [
+            "210.129.88.101"
+        ], 
+        "domain-name": "k.yoto.jp", 
+        "fuzzer": "subdomain", 
+        "geoip-country": "Japan"
+    }, 
+    {
+        "dns-a": [
+            "210.224.185.58"
+        ], 
+        "dns-ns": [
+            "ns1.dns.ne.jp", 
+            "ns2.dns.ne.jp"
+        ], 
+        "domain-name": "kyuto.jp", 
+        "fuzzer": "vowel-swap"
+    }, 
+    {
+        "dns-a": [
+            "219.94.128.143"
+        ], 
+        "dns-mx": [
+            "kyota.jp"
+        ], 
+        "dns-ns": [
+            "ns1.dns.ne.jp", 
+            "ns2.dns.ne.jp"
+        ], 
+        "domain-name": "kyota.jp", 
+        "fuzzer": "vowel-swap"
+    }, 
+    {
+        "dns-mx": [
+            "alt1.aspmx.l.google.com", 
+            "alt2.aspmx.l.google.com", 
+            "aspmx.l.google.com", 
+            "aspmx2.googlemail.com", 
+            "aspmx3.googlemail.com", 
+            "aspmx4.googlemail.com", 
+            "aspmx5.googlemail.com"
+        ], 
+        "dns-ns": [
+            "01.dnsv.jp", 
+            "02.dnsv.jp"
+        ], 
+        "domain-name": "kyoto-jp.com", 
+        "fuzzer": "various"
+    }
+]

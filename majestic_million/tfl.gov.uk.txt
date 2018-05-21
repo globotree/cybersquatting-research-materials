@@ -1,0 +1,42 @@
+[
+    {
+        "dns-a": [
+            "104.16.24.236", 
+            "104.16.25.236", 
+            "104.16.26.236", 
+            "104.16.27.236", 
+            "104.16.28.236"
+        ], 
+        "dns-mx": [
+            "cust804-1.in.mailcontrol.com", 
+            "cust804-2.in.mailcontrol.com", 
+            "cust804-3.in.mailcontrol.com", 
+            "cust804-4.in.mailcontrol.com", 
+            "cust804-5.in.mailcontrol.com", 
+            "cust804-6.in.mailcontrol.com"
+        ], 
+        "dns-ns": [
+            "venus.ns.cloudflare.com", 
+            "vin.ns.cloudflare.com"
+        ], 
+        "domain-name": "tfl.gov.uk", 
+        "fuzzer": "original*", 
+        "geoip-country": "United States"
+    }, 
+    {
+        "dns-a": [
+            "79.125.22.101"
+        ], 
+        "dns-mx": [
+            "mailhost.f-ten.net"
+        ], 
+        "dns-ns": [
+            "dogger.f-ten.net", 
+            "fisher.f-ten.net"
+        ], 
+        "domain-name": "tfl.uk", 
+        "fuzzer": "various", 
+        "geoip-country": "Ireland", 
+        "ssdeep-score": 0
+    }
+]

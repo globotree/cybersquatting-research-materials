@@ -1,0 +1,70 @@
+[
+    {
+        "dns-a": [
+            "130.207.160.173"
+        ], 
+        "dns-mx": [
+            "mxip1a.gatech.edu", 
+            "mxip2a.gatech.edu"
+        ], 
+        "dns-ns": [
+            "dns1.gatech.edu", 
+            "dns2.gatech.edu", 
+            "dns3.gatech.edu"
+        ], 
+        "domain-name": "gatech.edu", 
+        "fuzzer": "original*", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 91
+    }, 
+    {
+        "dns-a": [
+            "164.58.253.252"
+        ], 
+        "dns-mx": [
+            "svr-fltr.gctech.edu", 
+            "svr-mail.gctech.edu"
+        ], 
+        "dns-ns": [
+            "dns.onenet.net", 
+            "terra.osrhe.edu"
+        ], 
+        "domain-name": "gctech.edu", 
+        "fuzzer": "bitsquatting", 
+        "geoip-country": "United States"
+    }, 
+    {
+        "dns-a": [
+            "72.47.231.94"
+        ], 
+        "dns-mx": [
+            "ALT1.ASPMX.L.GOOGLE.COM", 
+            "ALT2.ASPMX.L.GOOGLE.COM", 
+            "ALT3.ASPMX.L.GOOGLE.COM", 
+            "ALT4.ASPMX.L.GOOGLE.COM", 
+            "ASPMX.L.GOOGLE.COM"
+        ], 
+        "dns-ns": [
+            "crow.suite224.net", 
+            "gypsy.suite224.net"
+        ], 
+        "domain-name": "atech.edu", 
+        "fuzzer": "omission", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "198.82.215.14"
+        ], 
+        "dns-ns": [
+            "jeru.cns.vt.edu", 
+            "milo.cns.vt.edu", 
+            "yardbird.cns.vt.edu"
+        ], 
+        "domain-name": "vatech.edu", 
+        "fuzzer": "replacement", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 0
+    }
+]

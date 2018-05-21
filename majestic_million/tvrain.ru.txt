@@ -1,0 +1,139 @@
+[
+    {
+        "dns-a": [
+            "178.248.236.23"
+        ], 
+        "dns-mx": [
+            "mx.tvrain.ru", 
+            "mx1.tvrain.ru"
+        ], 
+        "dns-ns": [
+            "ns3-l2.nic.ru", 
+            "ns4-cloud.nic.ru", 
+            "ns4-l2.nic.ru", 
+            "ns8-cloud.nic.ru", 
+            "ns8-l2.nic.ru"
+        ], 
+        "domain-name": "tvrain.ru", 
+        "fuzzer": "original*", 
+        "geoip-country": "Russian Federation", 
+        "mx-spy": true, 
+        "ssdeep-score": 88
+    }, 
+    {
+        "dns-a": [
+            "109.206.181.75"
+        ], 
+        "dns-ns": [
+            "ns1.snparking.ru", 
+            "ns2.snparking.ru"
+        ], 
+        "domain-name": "tvrein.ru", 
+        "fuzzer": "bitsquatting", 
+        "geoip-country": "Netherlands", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "178.248.236.23"
+        ], 
+        "domain-name": "tv-rain.ru", 
+        "fuzzer": "hyphenation", 
+        "geoip-country": "Russian Federation"
+    }, 
+    {
+        "dns-a": [
+            "104.31.78.148", 
+            "104.31.79.148"
+        ], 
+        "dns-aaaa": [
+            "2400:cb00:2048:1::681f:4e94", 
+            "2400:cb00:2048:1::681f:4f94"
+        ], 
+        "dns-ns": [
+            "jack.ns.cloudflare.com", 
+            "rihana.ns.cloudflare.com"
+        ], 
+        "domain-name": "tvdrain.ru", 
+        "fuzzer": "insertion", 
+        "geoip-country": "United States"
+    }, 
+    {
+        "dns-a": [
+            "185.53.179.40"
+        ], 
+        "dns-ns": [
+            "ns1.snparking.ru", 
+            "ns2.snparking.ru"
+        ], 
+        "domain-name": "tvrai.ru", 
+        "fuzzer": "omission", 
+        "geoip-country": "Germany", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-ns": [
+            "ns1.r01.ru", 
+            "ns2.r01.ru"
+        ], 
+        "domain-name": "vrain.ru", 
+        "fuzzer": "omission"
+    }, 
+    {
+        "dns-a": [
+            "91.230.208.18"
+        ], 
+        "dns-mx": [
+            "mail.train.ru"
+        ], 
+        "dns-ns": [
+            "ns1.companies.ru", 
+            "ns2.companies.ru"
+        ], 
+        "domain-name": "train.ru", 
+        "fuzzer": "omission", 
+        "geoip-country": "Russian Federation", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "109.70.26.37", 
+            "194.85.61.76"
+        ], 
+        "dns-mx": [
+            "nomail.nic.ru"
+        ], 
+        "dns-ns": [
+            "expirepages-kiae-1.nic.ru", 
+            "expirepages-kiae-2.nic.ru"
+        ], 
+        "domain-name": "tvraiin.ru", 
+        "fuzzer": "repetition", 
+        "geoip-country": "Russian Federation", 
+        "mx-spy": true, 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "127.0.0.99"
+        ], 
+        "dns-mx": [
+            "localhost"
+        ], 
+        "domain-name": "tv.rain.ru", 
+        "fuzzer": "subdomain", 
+        "mx-spy": true
+    }, 
+    {
+        "dns-a": [
+            "185.53.179.40"
+        ], 
+        "dns-ns": [
+            "ns1.snparking.ru", 
+            "ns2.snparking.ru"
+        ], 
+        "domain-name": "vtrain.ru", 
+        "fuzzer": "transposition", 
+        "geoip-country": "Germany"
+    }
+]

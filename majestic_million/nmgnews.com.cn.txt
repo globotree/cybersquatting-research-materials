@@ -1,0 +1,79 @@
+[
+    {
+        "dns-a": [
+            "116.114.18.66"
+        ], 
+        "dns-mx": [
+            "mxn.mxhichina.com", 
+            "mxw.mxhichina.com"
+        ], 
+        "dns-ns": [
+            "dns3.nmgnews.com"
+        ], 
+        "domain-name": "nmgnews.com.cn", 
+        "fuzzer": "original*", 
+        "geoip-country": "China", 
+        "ssdeep-score": 100
+    }, 
+    {
+        "dns-a": [
+            "166.62.10.28"
+        ], 
+        "domain-name": "ngnews.com.cn", 
+        "fuzzer": "omission", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "47.89.58.32"
+        ], 
+        "dns-ns": [
+            "dns10.hichina.com", 
+            "dns9.hichina.com"
+        ], 
+        "domain-name": "nmnews.com.cn", 
+        "fuzzer": "omission", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "50.117.120.251"
+        ], 
+        "dns-mx": [
+            "mail.happyisp.com"
+        ], 
+        "domain-name": "nm.gnews.com.cn", 
+        "fuzzer": "subdomain", 
+        "geoip-country": "United States", 
+        "mx-spy": true, 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "34.201.177.101", 
+            "52.66.29.148"
+        ], 
+        "domain-name": "nmg.news.com.cn", 
+        "fuzzer": "subdomain", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "104.160.171.88"
+        ], 
+        "domain-name": "nmgnews.cn", 
+        "fuzzer": "various", 
+        "geoip-country": "United States"
+    }, 
+    {
+        "dns-ns": [
+            "dns10.hichina.com", 
+            "dns9.hichina.com"
+        ], 
+        "domain-name": "nmgnewscom.cn", 
+        "fuzzer": "various"
+    }
+]

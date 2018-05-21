@@ -1,0 +1,41 @@
+[
+    {
+        "dns-a": [
+            "144.32.128.115"
+        ], 
+        "dns-aaaa": [
+            "2001:630:61:180::1:73"
+        ], 
+        "dns-mx": [
+            "alt1.aspmx.l.google.com", 
+            "alt2.aspmx.l.google.com", 
+            "alt3.aspmx.l.google.com", 
+            "alt4.aspmx.l.google.com", 
+            "aspmx.l.google.com"
+        ], 
+        "dns-ns": [
+            "authdns1.csx.cam.ac.uk", 
+            "ns0.york.ac.uk", 
+            "ns1.york.ac.uk", 
+            "ns2.york.ac.uk"
+        ], 
+        "domain-name": "york.ac.uk", 
+        "fuzzer": "original*", 
+        "geoip-country": "United Kingdom", 
+        "ssdeep-score": 100
+    }, 
+    {
+        "dns-a": [
+            "198.24.128.35"
+        ], 
+        "dns-mx": [
+            "york.uk"
+        ], 
+        "dns-ns": [
+            "ns1.vvmxnet.co.uk", 
+            "ns2.vvmxnet.co.uk"
+        ], 
+        "domain-name": "york.uk", 
+        "fuzzer": "various"
+    }
+]

@@ -1,0 +1,199 @@
+[
+    {
+        "dns-mx": [
+            "postmangw1.riken.jp", 
+            "postmangw2.riken.jp"
+        ], 
+        "dns-ns": [
+            "dns-x.sinet.ad.jp", 
+            "ns.riken.jp", 
+            "rknss2.riken.jp"
+        ], 
+        "domain-name": "riken.jp", 
+        "fuzzer": "original*"
+    }, 
+    {
+        "dns-a": [
+            "133.130.68.188"
+        ], 
+        "dns-mx": [
+            "siken.jp"
+        ], 
+        "dns-ns": [
+            "2nd.dnsv.jp", 
+            "dns.siken.jp"
+        ], 
+        "domain-name": "siken.jp", 
+        "fuzzer": "bitsquatting", 
+        "geoip-country": "Japan"
+    }, 
+    {
+        "dns-a": [
+            "219.94.129.189"
+        ], 
+        "dns-mx": [
+            "biken.jp"
+        ], 
+        "dns-ns": [
+            "ns1.dns.ne.jp", 
+            "ns2.dns.ne.jp"
+        ], 
+        "domain-name": "biken.jp", 
+        "fuzzer": "bitsquatting", 
+        "geoip-country": "Japan"
+    }, 
+    {
+        "dns-a": [
+            "202.181.97.62"
+        ], 
+        "dns-mx": [
+            "rikan.jp"
+        ], 
+        "dns-ns": [
+            "ns1.dns.ne.jp", 
+            "ns2.dns.ne.jp"
+        ], 
+        "domain-name": "rikan.jp", 
+        "fuzzer": "bitsquatting", 
+        "geoip-country": "Japan"
+    }, 
+    {
+        "dns-a": [
+            "216.230.251.81"
+        ], 
+        "dns-mx": [
+            "ampub01.alpha-mail.net", 
+            "ampub02.alpha-mail.net", 
+            "ampub03.alpha-mail.net"
+        ], 
+        "domain-name": "rikken.jp", 
+        "fuzzer": "insertion", 
+        "geoip-country": "United States"
+    }, 
+    {
+        "dns-a": [
+            "157.7.107.99"
+        ], 
+        "dns-mx": [
+            "mx01.lolipop.jp"
+        ], 
+        "dns-ns": [
+            "uns01.lolipop.jp", 
+            "uns02.lolipop.jp"
+        ], 
+        "domain-name": "rien.jp", 
+        "fuzzer": "omission", 
+        "geoip-country": "Japan"
+    }, 
+    {
+        "dns-a": [
+            "157.7.188.133"
+        ], 
+        "dns-mx": [
+            "mail30.heteml.jp"
+        ], 
+        "dns-ns": [
+            "dns0.heteml.jp", 
+            "dns1.heteml.jp"
+        ], 
+        "domain-name": "rike.jp", 
+        "fuzzer": "omission", 
+        "geoip-country": "Japan"
+    }, 
+    {
+        "dns-a": [
+            "202.248.220.59"
+        ], 
+        "dns-mx": [
+            "mail.rken.jp"
+        ], 
+        "dns-ns": [
+            "ns1h.mse.jp", 
+            "ns2t.mse.jp", 
+            "ns3o.mse.jp"
+        ], 
+        "domain-name": "rken.jp", 
+        "fuzzer": "omission", 
+        "geoip-country": "Japan"
+    }, 
+    {
+        "dns-a": [
+            "222.151.194.98"
+        ], 
+        "dns-mx": [
+            "iken.jp"
+        ], 
+        "domain-name": "iken.jp", 
+        "fuzzer": "omission"
+    }, 
+    {
+        "dns-a": [
+            "150.95.255.38"
+        ], 
+        "dns-ns": [
+            "dns1.onamae.com", 
+            "dns2.onamae.com"
+        ], 
+        "domain-name": "eiken.jp", 
+        "fuzzer": "replacement", 
+        "geoip-country": "Japan"
+    }, 
+    {
+        "dns-a": [
+            "180.222.184.164"
+        ], 
+        "dns-ns": [
+            "01.dnsv.jp", 
+            "02.dnsv.jp", 
+            "03.dnsv.jp", 
+            "04.dnsv.jp"
+        ], 
+        "domain-name": "roken.jp", 
+        "fuzzer": "replacement", 
+        "geoip-country": "Japan"
+    }, 
+    {
+        "dns-a": [
+            "150.60.157.125"
+        ], 
+        "dns-mx": [
+            "vlmx20.secure.ne.jp", 
+            "vlmx21.secure.ne.jp", 
+            "vlmx22.secure.ne.jp"
+        ], 
+        "dns-ns": [
+            "ns6.cpi.ad.jp", 
+            "ns7.cpi.ad.jp"
+        ], 
+        "domain-name": "tiken.jp", 
+        "fuzzer": "replacement", 
+        "geoip-country": "Japan"
+    }, 
+    {
+        "dns-mx": [
+            "mx-0.aams6.jp", 
+            "mx-1.aams6.jp", 
+            "mx.aams6.jp"
+        ], 
+        "dns-ns": [
+            "name.technowave.ad.jp", 
+            "ns.technowave.ne.jp"
+        ], 
+        "domain-name": "ruken.jp", 
+        "fuzzer": "replacement"
+    }, 
+    {
+        "dns-a": [
+            "157.7.188.136"
+        ], 
+        "dns-mx": [
+            "mail50.heteml.jp"
+        ], 
+        "dns-ns": [
+            "dns01.muumuu-domain.com", 
+            "dns02.muumuu-domain.com"
+        ], 
+        "domain-name": "irken.jp", 
+        "fuzzer": "transposition"
+    }
+]

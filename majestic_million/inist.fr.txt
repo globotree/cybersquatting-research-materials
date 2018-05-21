@@ -1,0 +1,105 @@
+[
+    {
+        "dns-a": [
+            "193.54.109.248"
+        ], 
+        "dns-mx": [
+            "smtp1.inist.fr", 
+            "smtp2.inist.fr", 
+            "smtp3.inist.fr"
+        ], 
+        "dns-ns": [
+            "arcturus.ciril.fr", 
+            "ns1.inist.fr", 
+            "ns2.inist.fr", 
+            "ns3.inist.fr"
+        ], 
+        "domain-name": "inist.fr", 
+        "fuzzer": "original*", 
+        "geoip-country": "France", 
+        "ssdeep-score": 100
+    }, 
+    {
+        "dns-a": [
+            "62.210.108.237"
+        ], 
+        "dns-mx": [
+            "www.irist.fr"
+        ], 
+        "dns-ns": [
+            "dns100.ovh.net", 
+            "ns100.ovh.net"
+        ], 
+        "domain-name": "irist.fr", 
+        "fuzzer": "homoglyph", 
+        "geoip-country": "France", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "62.210.105.203"
+        ], 
+        "dns-ns": [
+            "ns1.digitalocean.com", 
+            "ns2.digitalocean.com", 
+            "ns3.digitalocean.com"
+        ], 
+        "domain-name": "init.fr", 
+        "fuzzer": "omission", 
+        "geoip-country": "France"
+    }, 
+    {
+        "dns-a": [
+            "199.59.242.150"
+        ], 
+        "dns-mx": [
+            "mail.inst.fr"
+        ], 
+        "dns-ns": [
+            "ns1.domeinwinkel.nl", 
+            "ns2.domeinwinkel.nl"
+        ], 
+        "domain-name": "inst.fr", 
+        "fuzzer": "omission"
+    }, 
+    {
+        "dns-a": [
+            "91.210.235.170"
+        ], 
+        "dns-mx": [
+            "inis.fr"
+        ], 
+        "dns-ns": [
+            "ns1.webhostingireland.ie", 
+            "ns2.webhostingireland.ie", 
+            "ns3.webhostingireland.ie"
+        ], 
+        "domain-name": "inis.fr", 
+        "fuzzer": "omission"
+    }, 
+    {
+        "dns-ns": [
+            "ns1.bdm.microsoftonline.com", 
+            "ns2.bdm.microsoftonline.com", 
+            "ns3.bdm.microsoftonline.com", 
+            "ns4.bdm.microsoftonline.com"
+        ], 
+        "domain-name": "inits.fr", 
+        "fuzzer": "transposition"
+    }, 
+    {
+        "dns-a": [
+            "213.186.33.5"
+        ], 
+        "dns-mx": [
+            "redirect.ovh.net"
+        ], 
+        "dns-ns": [
+            "dns103.ovh.net", 
+            "ns103.ovh.net"
+        ], 
+        "domain-name": "inest.fr", 
+        "fuzzer": "vowel-swap", 
+        "geoip-country": "France"
+    }
+]

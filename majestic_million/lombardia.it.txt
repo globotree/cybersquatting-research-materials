@@ -1,0 +1,46 @@
+[
+    {
+        "dns-ns": [
+            "ns1.netline.lu", 
+            "ns2.netline.lu", 
+            "ns3.netline.lu"
+        ], 
+        "domain-name": "lombard-ia.it", 
+        "fuzzer": "hyphenation"
+    }, 
+    {
+        "dns-a": [
+            "54.72.9.51"
+        ], 
+        "dns-ns": [
+            "ns1.parkingcrew.net", 
+            "ns2.parkingcrew.net"
+        ], 
+        "domain-name": "lombarda.it", 
+        "fuzzer": "omission", 
+        "geoip-country": "Ireland"
+    }, 
+    {
+        "dns-a": [
+            "172.104.139.171"
+        ], 
+        "dns-mx": [
+            "mail2.lombardi.it", 
+            "mx.lombardi.it"
+        ], 
+        "dns-ns": [
+            "dns1.assyrus.it", 
+            "dns2.assyrus.it"
+        ], 
+        "domain-name": "lombardi.it", 
+        "fuzzer": "omission", 
+        "geoip-country": "United States"
+    }, 
+    {
+        "dns-a": [
+            "121.42.125.183"
+        ], 
+        "domain-name": "lombardia-it.com", 
+        "fuzzer": "various"
+    }
+]

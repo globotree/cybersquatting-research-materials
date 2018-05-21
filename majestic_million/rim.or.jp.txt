@@ -1,0 +1,81 @@
+[
+    {
+        "dns-mx": [
+            "mx4support.rim.or.jp"
+        ], 
+        "dns-ns": [
+            "newmail.st.rim.or.jp", 
+            "ns.rim.or.jp"
+        ], 
+        "domain-name": "rim.or.jp", 
+        "fuzzer": "original*"
+    }, 
+    {
+        "dns-a": [
+            "61.126.16.89"
+        ], 
+        "dns-mx": [
+            "rimi.or.jp"
+        ], 
+        "dns-ns": [
+            "asns1.customer.ne.jp", 
+            "asns2.customer.ne.jp"
+        ], 
+        "domain-name": "rimi.or.jp", 
+        "fuzzer": "addition", 
+        "geoip-country": "Japan"
+    }, 
+    {
+        "dns-a": [
+            "150.60.171.158"
+        ], 
+        "dns-mx": [
+            "rin-or-jp.mail.protection.outlook.com"
+        ], 
+        "dns-ns": [
+            "dns-b.iij.ad.jp", 
+            "dns-c.iij.ad.jp"
+        ], 
+        "domain-name": "rin.or.jp", 
+        "fuzzer": "homoglyph", 
+        "geoip-country": "Japan"
+    }, 
+    {
+        "dns-a": [
+            "210.145.113.60"
+        ], 
+        "dns-mx": [
+            "mail.irm.or.jp"
+        ], 
+        "dns-ns": [
+            "ns-tk021.ocn.ad.jp", 
+            "ns.intio.or.jp", 
+            "ns.irm.or.jp"
+        ], 
+        "domain-name": "irm.or.jp", 
+        "fuzzer": "transposition"
+    }, 
+    {
+        "dns-a": [
+            "192.64.147.169"
+        ], 
+        "dns-ns": [
+            "ns1.voodoo.com", 
+            "ns2.voodoo.com"
+        ], 
+        "domain-name": "rim.jp", 
+        "fuzzer": "various", 
+        "geoip-country": "United States"
+    }, 
+    {
+        "dns-a": [
+            "150.60.11.165"
+        ], 
+        "dns-ns": [
+            "ns4.cpi.ad.jp", 
+            "ns5.cpi.ad.jp"
+        ], 
+        "domain-name": "rimor.jp", 
+        "fuzzer": "various"
+    }
+]

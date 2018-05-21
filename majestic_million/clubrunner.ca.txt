@@ -1,0 +1,46 @@
+[
+    {
+        "dns-a": [
+            "38.117.75.66"
+        ], 
+        "dns-mx": [
+            "mx05-1.mycloudmailbox.com", 
+            "mx05-2.mycloudmailbox.com"
+        ], 
+        "dns-ns": [
+            "ns1.xbase.com", 
+            "ns2.xbase.com", 
+            "ns3.xbase.com"
+        ], 
+        "domain-name": "clubrunner.ca", 
+        "fuzzer": "original*", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 100
+    }, 
+    {
+        "dns-a": [
+            "72.55.137.168"
+        ], 
+        "domain-name": "club.runner.ca", 
+        "fuzzer": "subdomain", 
+        "geoip-country": "Canada", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "98.124.245.24"
+        ], 
+        "dns-mx": [
+            "mail.b-io.co"
+        ], 
+        "dns-ns": [
+            "ns1.fabulous.com", 
+            "ns2.fabulous.com"
+        ], 
+        "domain-name": "clubrun.ner.ca", 
+        "fuzzer": "subdomain", 
+        "geoip-country": "United States", 
+        "mx-spy": true, 
+        "ssdeep-score": 0
+    }
+]

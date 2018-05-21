@@ -1,0 +1,46 @@
+[
+    {
+        "dns-a": [
+            "192.0.79.32", 
+            "192.0.79.33"
+        ], 
+        "dns-mx": [
+            "tribmedia.mail.protection.outlook.com"
+        ], 
+        "dns-ns": [
+            "a1.verisigndns.com", 
+            "a2.verisigndns.com", 
+            "a3.verisigndns.com"
+        ], 
+        "domain-name": "q13fox.com", 
+        "fuzzer": "original*", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 99
+    }, 
+    {
+        "dns-a": [
+            "67.229.166.50"
+        ], 
+        "dns-ns": [
+            "ns1.dnsdun.net", 
+            "ns5.dnsdun.com"
+        ], 
+        "domain-name": "13fox.com", 
+        "fuzzer": "omission", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "69.172.201.153"
+        ], 
+        "dns-ns": [
+            "ns1.uniregistrymarket.link", 
+            "ns2.uniregistrymarket.link"
+        ], 
+        "domain-name": "q1.3fox.com", 
+        "fuzzer": "subdomain", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 0
+    }
+]

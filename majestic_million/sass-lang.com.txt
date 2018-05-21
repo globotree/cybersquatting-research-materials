@@ -1,0 +1,70 @@
+[
+    {
+        "dns-a": [
+            "107.22.233.200", 
+            "174.129.203.239", 
+            "50.17.234.140", 
+            "50.19.110.131", 
+            "50.19.252.69", 
+            "54.225.153.22", 
+            "54.243.137.45", 
+            "54.243.252.123"
+        ], 
+        "dns-ns": [
+            "ns1.dnsimple.com", 
+            "ns2.dnsimple.com", 
+            "ns3.dnsimple.com", 
+            "ns4.dnsimple.com"
+        ], 
+        "domain-name": "sass-lang.com", 
+        "fuzzer": "original*", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 100
+    }, 
+    {
+        "dns-a": [
+            "199.59.241.250"
+        ], 
+        "dns-ns": [
+            "dns1.name-services.com", 
+            "dns2.name-services.com", 
+            "dns3.name-services.com", 
+            "dns4.name-services.com", 
+            "dns5.name-services.com"
+        ], 
+        "domain-name": "sasslang.com", 
+        "fuzzer": "omission", 
+        "geoip-country": "United States"
+    }, 
+    {
+        "dns-a": [
+            "141.8.224.93"
+        ], 
+        "dns-ns": [
+            "ns7.rookdns.com", 
+            "ns8.rookdns.com"
+        ], 
+        "domain-name": "saas-lang.com", 
+        "fuzzer": "replacement", 
+        "geoip-country": "Switzerland", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "174.133.212.29"
+        ], 
+        "domain-name": "sass-l.ang.com", 
+        "fuzzer": "subdomain", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "75.126.101.241"
+        ], 
+        "domain-name": "sass-la.ng.com", 
+        "fuzzer": "subdomain", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 0
+    }
+]

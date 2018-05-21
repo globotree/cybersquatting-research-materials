@@ -1,0 +1,39 @@
+[
+    {
+        "dns-mx": [
+            "ohiou-edu.mail.protection.outlook.com"
+        ], 
+        "dns-ns": [
+            "ens1.oit.ohio.edu", 
+            "ens2.oit.ohio.edu", 
+            "ns4.oar.net", 
+            "ns5.oar.net", 
+            "ns6.oar.net", 
+            "ns7.oar.net", 
+            "oit-dns-wp015.oit.ohio.edu"
+        ], 
+        "domain-name": "ohiou.edu", 
+        "fuzzer": "original*"
+    }, 
+    {
+        "dns-a": [
+            "132.235.8.52"
+        ], 
+        "dns-mx": [
+            "ohio-edu.mail.protection.outlook.com"
+        ], 
+        "dns-ns": [
+            "ens1.oit.ohio.edu", 
+            "ens2.oit.ohio.edu", 
+            "ns4.oar.net", 
+            "ns5.oar.net", 
+            "ns6.oar.net", 
+            "ns7.oar.net", 
+            "oit-dns-wp015.oit.ohio.edu"
+        ], 
+        "domain-name": "ohio.edu", 
+        "fuzzer": "omission", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 100
+    }
+]

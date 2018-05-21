@@ -1,0 +1,90 @@
+[
+    {
+        "dns-ns": [
+            "ns1.xgslb.net", 
+            "ns2.xgslb.net", 
+            "ns3.xgslb.net", 
+            "ns4.xgslb.net"
+        ], 
+        "domain-name": "mps.gov.cn", 
+        "fuzzer": "original*"
+    }, 
+    {
+        "dns-ns": [
+            "dns19.hichina.com", 
+            "dns20.hichina.com"
+        ], 
+        "domain-name": "lps.gov.cn", 
+        "fuzzer": "bitsquatting"
+    }, 
+    {
+        "dns-ns": [
+            "dns13.hichina.com", 
+            "dns14.hichina.com"
+        ], 
+        "domain-name": "eps.gov.cn", 
+        "fuzzer": "bitsquatting"
+    }, 
+    {
+        "dns-a": [
+            "120.68.203.114"
+        ], 
+        "dns-ns": [
+            "ns7.cnolnic.net", 
+            "ns8.cnolnic.net"
+        ], 
+        "domain-name": "ps.gov.cn", 
+        "fuzzer": "omission", 
+        "geoip-country": "China"
+    }, 
+    {
+        "dns-mx": [
+            "mx.ym.163.com"
+        ], 
+        "dns-ns": [
+            "dns10.hichina.com", 
+            "dns9.hichina.com"
+        ], 
+        "domain-name": "ms.gov.cn", 
+        "fuzzer": "omission"
+    }, 
+    {
+        "dns-mx": [
+            "mail.mos.gov.cn"
+        ], 
+        "dns-ns": [
+            "ns1.cdns.cn", 
+            "ns2.cdns.cn", 
+            "ns3.cdns.cn"
+        ], 
+        "domain-name": "mos.gov.cn", 
+        "fuzzer": "replacement"
+    }, 
+    {
+        "dns-ns": [
+            "dns19.hichina.com", 
+            "dns20.hichina.com"
+        ], 
+        "domain-name": "mpz.gov.cn", 
+        "fuzzer": "replacement"
+    }, 
+    {
+        "dns-a": [
+            "120.68.203.114"
+        ], 
+        "domain-name": "m.ps.gov.cn", 
+        "fuzzer": "subdomain", 
+        "geoip-country": "China"
+    }, 
+    {
+        "dns-a": [
+            "185.221.135.217"
+        ], 
+        "dns-ns": [
+            "v1.dns234.net", 
+            "v2.dns234.net"
+        ], 
+        "domain-name": "mpsgov.cn", 
+        "fuzzer": "various"
+    }
+]

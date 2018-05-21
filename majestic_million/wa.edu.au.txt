@@ -1,0 +1,100 @@
+[
+    {
+        "dns-ns": [
+            "w.au", 
+            "x.au", 
+            "y.au", 
+            "z.au"
+        ], 
+        "domain-name": "wa.edu.au", 
+        "fuzzer": "original*"
+    }, 
+    {
+        "dns-a": [
+            "129.127.149.1"
+        ], 
+        "dns-ns": [
+            "ns.adelaide.edu.au", 
+            "ns1.adelaide.edu.au", 
+            "ns2.adelaide.edu.au"
+        ], 
+        "domain-name": "ua.edu.au", 
+        "fuzzer": "bitsquatting", 
+        "geoip-country": "Australia"
+    }, 
+    {
+        "dns-a": [
+            "143.92.1.65"
+        ], 
+        "dns-mx": [
+            "sadie-2.tafe.sa.edu.au", 
+            "sadie.tafe.sa.edu.au"
+        ], 
+        "dns-ns": [
+            "w.au", 
+            "x.au", 
+            "y.au", 
+            "z.au"
+        ], 
+        "domain-name": "sa.edu.au", 
+        "fuzzer": "bitsquatting", 
+        "geoip-country": "Australia"
+    }, 
+    {
+        "dns-a": [
+            "104.18.60.88", 
+            "104.18.61.88"
+        ], 
+        "dns-aaaa": [
+            "2400:cb00:2048:1::6812:3c58", 
+            "2400:cb00:2048:1::6812:3d58"
+        ], 
+        "dns-mx": [
+            "alt1.aspmx.l.google.com", 
+            "alt2.aspmx.l.google.com", 
+            "alt3.aspmx.l.google.com", 
+            "alt4.aspmx.l.google.com", 
+            "aspmx.l.google.com"
+        ], 
+        "dns-ns": [
+            "adi.ns.cloudflare.com", 
+            "anuj.ns.cloudflare.com"
+        ], 
+        "domain-name": "wc.edu.au", 
+        "fuzzer": "bitsquatting", 
+        "geoip-country": "United States"
+    }, 
+    {
+        "dns-a": [
+            "103.8.61.68"
+        ], 
+        "dns-mx": [
+            "wi-edu-au.p10.spamhero.com", 
+            "wi-edu-au.p20.spamhero.net", 
+            "wi-edu-au.p30.spamhero.net", 
+            "wi-edu-au.p40.spamhero.net"
+        ], 
+        "dns-ns": [
+            "ns10.dnsmadeeasy.com", 
+            "ns11.dnsmadeeasy.com", 
+            "ns12.dnsmadeeasy.com", 
+            "ns13.dnsmadeeasy.com", 
+            "ns14.dnsmadeeasy.com", 
+            "ns15.dnsmadeeasy.com"
+        ], 
+        "domain-name": "wi.edu.au", 
+        "fuzzer": "bitsquatting", 
+        "geoip-country": "Australia", 
+        "mx-spy": true
+    }, 
+    {
+        "dns-ns": [
+            "w.au", 
+            "x.au", 
+            "y.au", 
+            "z.au"
+        ], 
+        "domain-name": "wa.au", 
+        "fuzzer": "various"
+    }
+]

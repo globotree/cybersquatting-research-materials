@@ -1,0 +1,155 @@
+[
+    {
+        "dns-a": [
+            "174.142.46.216", 
+            "174.142.76.100", 
+            "67.205.102.72", 
+            "67.205.102.82", 
+            "67.205.102.89"
+        ], 
+        "dns-ns": [
+            "e.ns.lanechange.info", 
+            "ns1.lanechange.net", 
+            "ns2.lanechange.net", 
+            "ns3.lanechange.net", 
+            "ns4.lanechange.net"
+        ], 
+        "domain-name": "imagevenue.com", 
+        "fuzzer": "original*", 
+        "geoip-country": "Canada", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "68.178.213.61"
+        ], 
+        "dns-ns": [
+            "ns1.namefind.com", 
+            "ns2.namefind.com"
+        ], 
+        "domain-name": "imagevenuec.com", 
+        "fuzzer": "addition", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "52.86.22.136", 
+            "54.174.212.152"
+        ], 
+        "dns-ns": [
+            "ns1.namebrightdns.com", 
+            "ns2.namebrightdns.com"
+        ], 
+        "domain-name": "imagesvenue.com", 
+        "fuzzer": "insertion", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "141.8.224.93"
+        ], 
+        "dns-ns": [
+            "ns7.rookdns.com", 
+            "ns8.rookdns.com"
+        ], 
+        "domain-name": "magevenue.com", 
+        "fuzzer": "omission", 
+        "geoip-country": "Switzerland", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "52.86.22.136", 
+            "54.174.212.152"
+        ], 
+        "dns-ns": [
+            "ns1.namebrightdns.com", 
+            "ns2.namebrightdns.com"
+        ], 
+        "domain-name": "imagevenu.com", 
+        "fuzzer": "omission", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "74.220.207.111"
+        ], 
+        "dns-mx": [
+            "imagsvenue.com"
+        ], 
+        "dns-ns": [
+            "ns1.hostmonster.com", 
+            "ns2.hostmonster.com"
+        ], 
+        "domain-name": "imagsvenue.com", 
+        "fuzzer": "replacement", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "74.220.207.111"
+        ], 
+        "dns-mx": [
+            "imatevenue.com"
+        ], 
+        "dns-ns": [
+            "ns1.hostmonster.com", 
+            "ns2.hostmonster.com"
+        ], 
+        "domain-name": "imatevenue.com", 
+        "fuzzer": "replacement", 
+        "geoip-country": "United States"
+    }, 
+    {
+        "dns-a": [
+            "141.8.224.93"
+        ], 
+        "dns-ns": [
+            "ns7.rookdns.com", 
+            "ns8.rookdns.com"
+        ], 
+        "domain-name": "i.magevenue.com", 
+        "fuzzer": "subdomain", 
+        "geoip-country": "Switzerland", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "185.53.178.6"
+        ], 
+        "dns-mx": [
+            "mail.h-email.net"
+        ], 
+        "dns-ns": [
+            "ns1.parkingcrew.net", 
+            "ns2.parkingcrew.net"
+        ], 
+        "domain-name": "ima.gevenue.com", 
+        "fuzzer": "subdomain", 
+        "geoip-country": "Germany", 
+        "mx-spy": true, 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "72.9.105.30"
+        ], 
+        "domain-name": "imagev.enue.com", 
+        "fuzzer": "subdomain", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "141.8.225.31"
+        ], 
+        "domain-name": "imageve.nue.com", 
+        "fuzzer": "subdomain", 
+        "geoip-country": "Switzerland", 
+        "ssdeep-score": 0
+    }
+]

@@ -1,0 +1,41 @@
+[
+    {
+        "dns-mx": [
+            "mx-relay.chiark.greenend.org.uk"
+        ], 
+        "dns-ns": [
+            "master.ns.chiark.greenend.org.uk", 
+            "ns1.mythic-beasts.com", 
+            "ns2.mythic-beasts.com"
+        ], 
+        "domain-name": "greenend.org.uk", 
+        "fuzzer": "original*"
+    }, 
+    {
+        "dns-a": [
+            "103.224.182.250"
+        ], 
+        "dns-mx": [
+            "park-mx.above.com"
+        ], 
+        "dns-ns": [
+            "ns3.above.com", 
+            "ns4.above.com"
+        ], 
+        "domain-name": "greened.org.uk", 
+        "fuzzer": "omission", 
+        "geoip-country": "Australia", 
+        "mx-spy": true
+    }, 
+    {
+        "dns-a": [
+            "72.52.4.122"
+        ], 
+        "dns-ns": [
+            "ns1.sedoparking.com", 
+            "ns2.sedoparking.com"
+        ], 
+        "domain-name": "greene.nd.org.uk", 
+        "fuzzer": "subdomain"
+    }
+]

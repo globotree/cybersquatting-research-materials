@@ -1,0 +1,80 @@
+[
+    {
+        "dns-a": [
+            "66.146.219.98"
+        ], 
+        "dns-mx": [
+            "sanpietro.red-bean.com"
+        ], 
+        "dns-ns": [
+            "ns.red-bean.com", 
+            "ns2.red-bean.com"
+        ], 
+        "domain-name": "red-bean.com", 
+        "fuzzer": "original*", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 100
+    }, 
+    {
+        "dns-a": [
+            "50.116.70.189"
+        ], 
+        "dns-mx": [
+            "mail.red-beam.com"
+        ], 
+        "dns-ns": [
+            "ns1.bluehost.com", 
+            "ns2.bluehost.com"
+        ], 
+        "domain-name": "red-beam.com", 
+        "fuzzer": "homoglyph", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "72.52.4.119"
+        ], 
+        "dns-mx": [
+            "localhost"
+        ], 
+        "dns-ns": [
+            "ns1.sedoparking.com", 
+            "ns2.sedoparking.com"
+        ], 
+        "domain-name": "red-bear.com", 
+        "fuzzer": "homoglyph", 
+        "geoip-country": "United States", 
+        "mx-spy": true, 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "198.185.159.144", 
+            "198.185.159.145", 
+            "198.49.23.144", 
+            "198.49.23.145"
+        ], 
+        "dns-mx": [
+            "mx1.privateemail.com", 
+            "mx2.privateemail.com"
+        ], 
+        "dns-ns": [
+            "ns13.worldnic.com", 
+            "ns14.worldnic.com"
+        ], 
+        "domain-name": "redbean.com", 
+        "fuzzer": "omission", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "75.126.101.249"
+        ], 
+        "domain-name": "red-be.an.com", 
+        "fuzzer": "subdomain", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 0
+    }
+]

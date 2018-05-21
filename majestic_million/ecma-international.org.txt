@@ -1,0 +1,86 @@
+[
+    {
+        "dns-a": [
+            "195.70.7.123"
+        ], 
+        "dns-mx": [
+            "spam1.ixion.ch", 
+            "spam2.ixion.ch", 
+            "spam3.ixion.ch"
+        ], 
+        "dns-ns": [
+            "dns170.a.register.com", 
+            "dns203.b.register.com", 
+            "dns245.c.register.com", 
+            "dns249.d.register.com"
+        ], 
+        "domain-name": "ecma-international.org", 
+        "fuzzer": "original*", 
+        "geoip-country": "Switzerland", 
+        "ssdeep-score": 100
+    }, 
+    {
+        "dns-a": [
+            "68.168.105.27"
+        ], 
+        "dns-mx": [
+            "mail.ecmainternational.org"
+        ], 
+        "dns-ns": [
+            "ns1.codero.com", 
+            "ns2.codero.com"
+        ], 
+        "domain-name": "ecmainternational.org", 
+        "fuzzer": "omission", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "69.64.71.83"
+        ], 
+        "dns-ns": [
+            "ns1.codero.com", 
+            "ns2.codero.com"
+        ], 
+        "domain-name": "ecma-i.nternational.org", 
+        "fuzzer": "subdomain", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "74.117.222.18"
+        ], 
+        "domain-name": "ecma-inter.national.org", 
+        "fuzzer": "subdomain", 
+        "geoip-country": "Cayman Islands", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "72.52.10.14"
+        ], 
+        "domain-name": "ecma-intern.ational.org", 
+        "fuzzer": "subdomain", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "50.63.46.1"
+        ], 
+        "dns-ns": [
+            "A.SERVICE.AFILIASDNS.INFO", 
+            "B.SERVICE.AFILIASDNS.org", 
+            "C.SERVICE.AFILIASDNS.NET", 
+            "D.SERVICE.AFILIASDNS.COM", 
+            "E.SERVICE.AFILIASDNS.INFO", 
+            "F.SERVICE.AFILIASDNS.NET"
+        ], 
+        "domain-name": "ecma-internationa.l.org", 
+        "fuzzer": "subdomain", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 0
+    }
+]

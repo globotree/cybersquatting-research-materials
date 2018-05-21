@@ -1,0 +1,237 @@
+[
+    {
+        "dns-mx": [
+            "mx1.rz.rwth-aachen.de"
+        ], 
+        "dns-ns": [
+            "dns-1.dfn.de", 
+            "dns-2.dfn.de", 
+            "zs1.rz.rwth-aachen.de", 
+            "zs2.rz.rwth-aachen.de"
+        ], 
+        "domain-name": "rwth-aachen.de", 
+        "fuzzer": "original*"
+    }, 
+    {
+        "dns-a": [
+            "217.70.142.74"
+        ], 
+        "dns-ns": [
+            "ns.inwx.de", 
+            "ns2.inwx.de", 
+            "ns3.inwx.eu", 
+            "ns4.inwx.com", 
+            "ns5.inwx.net"
+        ], 
+        "domain-name": "rvvth-aachen.de", 
+        "fuzzer": "homoglyph", 
+        "geoip-country": "Germany"
+    }, 
+    {
+        "dns-a": [
+            "185.53.178.6"
+        ], 
+        "dns-mx": [
+            "mail.h-email.net"
+        ], 
+        "dns-ns": [
+            "ns1.parkingcrew.net", 
+            "ns2.parkingcrew.net"
+        ], 
+        "domain-name": "wth-aachen.de", 
+        "fuzzer": "omission", 
+        "geoip-country": "Germany", 
+        "mx-spy": true
+    }, 
+    {
+        "dns-ns": [
+            "dns-1.dfn.de", 
+            "dns-2.dfn.de", 
+            "zs1.rz.rwth-aachen.de", 
+            "zs2.rz.rwth-aachen.de"
+        ], 
+        "domain-name": "rwthaachen.de", 
+        "fuzzer": "omission"
+    }, 
+    {
+        "dns-a": [
+            "185.53.178.8"
+        ], 
+        "dns-mx": [
+            "mail.h-email.net"
+        ], 
+        "dns-ns": [
+            "ns1.parkingcrew.net", 
+            "ns2.parkingcrew.net"
+        ], 
+        "domain-name": "rwth-aachn.de", 
+        "fuzzer": "omission", 
+        "geoip-country": "Germany", 
+        "mx-spy": true
+    }, 
+    {
+        "dns-a": [
+            "185.53.179.8"
+        ], 
+        "dns-mx": [
+            "mail.h-email.net"
+        ], 
+        "dns-ns": [
+            "ns1.parkingcrew.net", 
+            "ns2.parkingcrew.net"
+        ], 
+        "domain-name": "rwth-aache.de", 
+        "fuzzer": "omission", 
+        "geoip-country": "Germany", 
+        "mx-spy": true
+    }, 
+    {
+        "dns-a": [
+            "185.53.178.9"
+        ], 
+        "dns-mx": [
+            "mail.h-email.net"
+        ], 
+        "dns-ns": [
+            "ns1.parkingcrew.net", 
+            "ns2.parkingcrew.net"
+        ], 
+        "domain-name": "rwt-aachen.de", 
+        "fuzzer": "omission", 
+        "geoip-country": "Germany", 
+        "mx-spy": true
+    }, 
+    {
+        "dns-a": [
+            "185.53.178.9"
+        ], 
+        "dns-mx": [
+            "mail.h-email.net"
+        ], 
+        "dns-ns": [
+            "ns1.parkingcrew.net", 
+            "ns2.parkingcrew.net"
+        ], 
+        "domain-name": "rwh-aachen.de", 
+        "fuzzer": "omission", 
+        "geoip-country": "Germany", 
+        "mx-spy": true
+    }, 
+    {
+        "dns-a": [
+            "72.52.179.175"
+        ], 
+        "dns-mx": [
+            "mx156.hostedmxserver.com"
+        ], 
+        "dns-ns": [
+            "ns1.parklogic.com", 
+            "ns2.parklogic.com", 
+            "ns3.parklogic.com"
+        ], 
+        "domain-name": "rwth-aahen.de", 
+        "fuzzer": "omission", 
+        "geoip-country": "United States", 
+        "mx-spy": true
+    }, 
+    {
+        "dns-a": [
+            "185.53.178.9"
+        ], 
+        "dns-mx": [
+            "mail.h-email.net"
+        ], 
+        "dns-ns": [
+            "ns1.parkingcrew.net", 
+            "ns2.parkingcrew.net"
+        ], 
+        "domain-name": "rwth-achen.de", 
+        "fuzzer": "omission", 
+        "geoip-country": "Germany", 
+        "mx-spy": true
+    }, 
+    {
+        "dns-a": [
+            "85.13.150.178"
+        ], 
+        "dns-mx": [
+            "v085203.kasserver.com"
+        ], 
+        "dns-ns": [
+            "ns5.kasserver.com", 
+            "ns6.kasserver.com"
+        ], 
+        "domain-name": "rwth-aacchen.de", 
+        "fuzzer": "repetition", 
+        "geoip-country": "Germany"
+    }, 
+    {
+        "dns-a": [
+            "72.52.179.175"
+        ], 
+        "dns-mx": [
+            "mx156.hostedmxserver.com"
+        ], 
+        "dns-ns": [
+            "ns1.parklogic.com", 
+            "ns2.parklogic.com", 
+            "ns3.parklogic.com"
+        ], 
+        "domain-name": "rath-aachen.de", 
+        "fuzzer": "replacement", 
+        "geoip-country": "United States", 
+        "mx-spy": true
+    }, 
+    {
+        "dns-a": [
+            "185.53.178.6"
+        ], 
+        "dns-mx": [
+            "mail.h-email.net"
+        ], 
+        "dns-ns": [
+            "ns1.parkingcrew.net", 
+            "ns2.parkingcrew.net"
+        ], 
+        "domain-name": "r.wth-aachen.de", 
+        "fuzzer": "subdomain", 
+        "geoip-country": "Germany", 
+        "mx-spy": true
+    }, 
+    {
+        "dns-a": [
+            "178.254.16.194"
+        ], 
+        "domain-name": "rwth-a.achen.de", 
+        "fuzzer": "subdomain", 
+        "geoip-country": "Germany"
+    }, 
+    {
+        "dns-a": [
+            "89.31.143.100"
+        ], 
+        "domain-name": "rwth-aach.en.de", 
+        "fuzzer": "subdomain", 
+        "geoip-country": "Germany"
+    }, 
+    {
+        "dns-ns": [
+            "dns-1.dfn.de", 
+            "dns-2.dfn.de", 
+            "zs1.rz.rwth-aachen.de", 
+            "zs2.rz.rwth-aachen.de"
+        ], 
+        "domain-name": "rtwh-aachen.de", 
+        "fuzzer": "transposition"
+    }, 
+    {
+        "dns-ns": [
+            "dns-1.dfn.de", 
+            "dns-2.dfn.de", 
+            "zs1.rz.rwth-aachen.de", 
+            "zs2.rz.rwth-aachen.de"
+        ], 
+        "domain-name": "rwht-aachen.de", 
+        "fuzzer": "transposition"
+    }
+]

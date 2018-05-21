@@ -1,0 +1,65 @@
+[
+    {
+        "dns-a": [
+            "115.68.95.4"
+        ], 
+        "dns-mx": [
+            "mail.ivyro.net", 
+            "mail1.ivyro.net"
+        ], 
+        "dns-ns": [
+            "ns1.ivyro.net", 
+            "ns2.ivyro.net", 
+            "ns3.ivyro.net"
+        ], 
+        "domain-name": "ivyro.net", 
+        "fuzzer": "original*", 
+        "geoip-country": "Korea", 
+        "mx-spy": true, 
+        "ssdeep-score": 100
+    }, 
+    {
+        "dns-a": [
+            "204.11.56.48"
+        ], 
+        "domain-name": "ivyo.net", 
+        "fuzzer": "omission", 
+        "geoip-country": "Virgin Islands", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "37.152.88.55"
+        ], 
+        "dns-ns": [
+            "ns1.dondominio.com", 
+            "ns2.dondominio.com"
+        ], 
+        "domain-name": "ivaro.net", 
+        "fuzzer": "replacement", 
+        "geoip-country": "Spain", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "199.59.242.150"
+        ], 
+        "domain-name": "iv.yro.net", 
+        "fuzzer": "subdomain", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "208.91.197.46"
+        ], 
+        "dns-ns": [
+            "sk.s5.ans1.ns148.ztomy.com", 
+            "sk.s5.ans2.ns148.ztomy.com"
+        ], 
+        "domain-name": "ivryo.net", 
+        "fuzzer": "transposition", 
+        "geoip-country": "Virgin Islands", 
+        "ssdeep-score": 0
+    }
+]

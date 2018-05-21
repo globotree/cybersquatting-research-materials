@@ -1,0 +1,138 @@
+[
+    {
+        "dns-a": [
+            "216.146.46.10", 
+            "216.146.46.11"
+        ], 
+        "dns-ns": [
+            "ns1.p48.dynect.net", 
+            "ns2.p48.dynect.net", 
+            "ns3.p48.dynect.net", 
+            "ns4.p48.dynect.net"
+        ], 
+        "domain-name": "nationalgeographic.org", 
+        "fuzzer": "original*", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 100
+    }, 
+    {
+        "dns-a": [
+            "199.59.242.150"
+        ], 
+        "dns-mx": [
+            "mx76.m2bp.com", 
+            "mx76.mb1p.com"
+        ], 
+        "dns-ns": [
+            "ns1.bodis.com", 
+            "ns2.bodis.com"
+        ], 
+        "domain-name": "nationalgeographics.org", 
+        "fuzzer": "addition", 
+        "geoip-country": "United States", 
+        "mx-spy": true, 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "216.146.46.10", 
+            "216.146.46.11"
+        ], 
+        "dns-ns": [
+            "ns1.p48.dynect.net", 
+            "ns2.p48.dynect.net", 
+            "ns3.p48.dynect.net", 
+            "ns4.p48.dynect.net"
+        ], 
+        "domain-name": "national-geographic.org", 
+        "fuzzer": "hyphenation", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 100
+    }, 
+    {
+        "dns-a": [
+            "198.105.244.111", 
+            "198.105.254.111"
+        ], 
+        "dns-aaaa": [
+            "2620:118:7002::1111", 
+            "2620:118:7008::1111"
+        ], 
+        "dns-ns": [
+            "a1-144.akam.net", 
+            "a10-65.akam.net", 
+            "a13-66.akam.net", 
+            "a22-67.akam.net", 
+            "a6-64.akam.net", 
+            "a9-65.akam.net"
+        ], 
+        "domain-name": "natinalgeographic.org", 
+        "fuzzer": "omission", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "216.146.46.10", 
+            "216.146.46.11"
+        ], 
+        "dns-ns": [
+            "ns1.p48.dynect.net", 
+            "ns2.p48.dynect.net", 
+            "ns3.p48.dynect.net", 
+            "ns4.p48.dynect.net"
+        ], 
+        "domain-name": "nationalgeograhic.org", 
+        "fuzzer": "omission", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 100
+    }, 
+    {
+        "dns-a": [
+            "72.52.4.119"
+        ], 
+        "dns-mx": [
+            "localhost"
+        ], 
+        "dns-ns": [
+            "ns1.sedoparking.com", 
+            "ns2.sedoparking.com"
+        ], 
+        "domain-name": "nationalgeogra.phic.org", 
+        "fuzzer": "subdomain", 
+        "geoip-country": "United States", 
+        "mx-spy": true, 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "45.79.159.185"
+        ], 
+        "domain-name": "nationalgeograph.ic.org", 
+        "fuzzer": "subdomain", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "34.216.49.207", 
+            "52.43.35.212", 
+            "54.186.0.231"
+        ], 
+        "domain-name": "nationalgeographi.c.org", 
+        "fuzzer": "subdomain", 
+        "geoip-country": "United States"
+    }, 
+    {
+        "dns-a": [
+            "50.63.202.40"
+        ], 
+        "dns-ns": [
+            "ns19.domaincontrol.com", 
+            "ns20.domaincontrol.com"
+        ], 
+        "domain-name": "naitonalgeographic.org", 
+        "fuzzer": "transposition", 
+        "geoip-country": "United States"
+    }
+]

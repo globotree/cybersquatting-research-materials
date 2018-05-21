@@ -1,0 +1,46 @@
+[
+    {
+        "dns-a": [
+            "188.166.89.47"
+        ], 
+        "dns-mx": [
+            "ALT1.ASPMX.L.GOOGLE.COM", 
+            "ALT2.ASPMX.L.GOOGLE.COM", 
+            "ASPMX.L.GOOGLE.COM", 
+            "ASPMX2.GOOGLEMAIL.COM", 
+            "ASPMX3.GOOGLEMAIL.COM"
+        ], 
+        "dns-ns": [
+            "ns1.fliks.net", 
+            "ns2.fliks.net"
+        ], 
+        "domain-name": "anonym.to", 
+        "fuzzer": "original*", 
+        "geoip-country": "Netherlands", 
+        "ssdeep-score": 100
+    }, 
+    {
+        "dns-a": [
+            "149.56.98.151"
+        ], 
+        "dns-aaaa": [
+            "2607:5300:201:3000::3d19"
+        ], 
+        "domain-name": "anon.ym.to", 
+        "fuzzer": "subdomain", 
+        "geoip-country": "Canada", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "68.178.213.61"
+        ], 
+        "dns-ns": [
+            "ns1.namefind.com", 
+            "ns2.namefind.com"
+        ], 
+        "domain-name": "anonym-to.com", 
+        "fuzzer": "various", 
+        "geoip-country": "United States"
+    }
+]

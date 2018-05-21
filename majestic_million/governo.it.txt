@@ -1,0 +1,95 @@
+[
+    {
+        "dns-a": [
+            "195.66.10.19"
+        ], 
+        "dns-mx": [
+            "mx-ext3.palazzochigi.it", 
+            "mx-ext4.palazzochigi.it"
+        ], 
+        "dns-ns": [
+            "dns11.interbusiness.it", 
+            "ns.palazzochigi.it", 
+            "ns2.palazzochigi.it"
+        ], 
+        "domain-name": "governo.it", 
+        "fuzzer": "original*", 
+        "geoip-country": "Italy", 
+        "ssdeep-score": 100
+    }, 
+    {
+        "dns-a": [
+            "185.53.179.7"
+        ], 
+        "dns-mx": [
+            "mail.h-email.net"
+        ], 
+        "dns-ns": [
+            "ns1.parkingcrew.net", 
+            "ns2.parkingcrew.net"
+        ], 
+        "domain-name": "governor.it", 
+        "fuzzer": "addition", 
+        "geoip-country": "Germany", 
+        "mx-spy": true, 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "82.143.11.5"
+        ], 
+        "dns-mx": [
+            "mail.govern.it"
+        ], 
+        "dns-ns": [
+            "dns1.frezza.net", 
+            "dns2.frezza.net"
+        ], 
+        "domain-name": "govern.it", 
+        "fuzzer": "omission", 
+        "geoip-country": "Italy", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "46.37.14.18", 
+            "46.37.14.27", 
+            "46.37.14.7"
+        ], 
+        "dns-ns": [
+            "ns1.publinord.it", 
+            "ns2.publinord.it"
+        ], 
+        "domain-name": "governi.it", 
+        "fuzzer": "replacement", 
+        "geoip-country": "Italy"
+    }, 
+    {
+        "dns-a": [
+            "188.213.172.156"
+        ], 
+        "dns-mx": [
+            "mail.ipfrom.it"
+        ], 
+        "dns-ns": [
+            "ns1.domaindirect.it", 
+            "ns2.domaindirect.it"
+        ], 
+        "domain-name": "gov.erno.it", 
+        "fuzzer": "subdomain", 
+        "geoip-country": "Italy"
+    }, 
+    {
+        "dns-a": [
+            "151.236.52.140"
+        ], 
+        "dns-ns": [
+            "ns1.register.it", 
+            "ns2.register.it"
+        ], 
+        "domain-name": "governa.it", 
+        "fuzzer": "vowel-swap", 
+        "geoip-country": "United Kingdom", 
+        "ssdeep-score": 0
+    }
+]

@@ -1,0 +1,68 @@
+[
+    {
+        "dns-ns": [
+            "dns1.registrar-servers.com", 
+            "dns2.registrar-servers.com"
+        ], 
+        "domain-name": "codehaus.org", 
+        "fuzzer": "original*"
+    }, 
+    {
+        "dns-a": [
+            "184.168.221.35"
+        ], 
+        "dns-mx": [
+            "mailstore1.secureserver.net", 
+            "smtp.secureserver.net"
+        ], 
+        "dns-ns": [
+            "ns55.domaincontrol.com", 
+            "ns56.domaincontrol.com"
+        ], 
+        "domain-name": "codehats.org", 
+        "fuzzer": "bitsquatting", 
+        "geoip-country": "United States"
+    }, 
+    {
+        "dns-a": [
+            "72.52.4.119"
+        ], 
+        "dns-mx": [
+            "localhost"
+        ], 
+        "dns-ns": [
+            "ns1.sedoparking.com", 
+            "ns2.sedoparking.com"
+        ], 
+        "domain-name": "cod.ehaus.org", 
+        "fuzzer": "subdomain", 
+        "geoip-country": "United States", 
+        "mx-spy": true
+    }, 
+    {
+        "dns-a": [
+            "45.77.120.220"
+        ], 
+        "dns-mx": [
+            "us-org-wildcard-null-mx.centralnic.net"
+        ], 
+        "domain-name": "codeha.us.org", 
+        "fuzzer": "subdomain"
+    }, 
+    {
+        "dns-a": [
+            "50.63.46.1"
+        ], 
+        "dns-ns": [
+            "a.service.afiliasdns.info", 
+            "b.service.afiliasdns.org", 
+            "c.service.afiliasdns.net", 
+            "d.service.afiliasdns.com", 
+            "e.service.afiliasdns.info", 
+            "f.service.afiliasdns.net"
+        ], 
+        "domain-name": "codehau.s.org", 
+        "fuzzer": "subdomain", 
+        "geoip-country": "United States"
+    }
+]

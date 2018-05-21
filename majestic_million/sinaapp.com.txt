@@ -1,0 +1,314 @@
+[
+    {
+        "dns-a": [
+            "202.108.35.235", 
+            "202.108.35.250"
+        ], 
+        "dns-ns": [
+            "ns1.sinacloud.com", 
+            "ns2.sinacloud.com", 
+            "ns6.sinacloud.com"
+        ], 
+        "domain-name": "sinaapp.com", 
+        "fuzzer": "original*", 
+        "geoip-country": "China", 
+        "ssdeep-score": 100
+    }, 
+    {
+        "dns-a": [
+            "170.178.178.38"
+        ], 
+        "domain-name": "sinaapps.com", 
+        "fuzzer": "addition", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "127.0.0.1"
+        ], 
+        "dns-mx": [
+            "mail.sanaapp.com"
+        ], 
+        "dns-ns": [
+            "ns1.ns-serve.net", 
+            "ns2.ns-serve.net"
+        ], 
+        "domain-name": "sanaapp.com", 
+        "fuzzer": "bitsquatting", 
+        "mx-spy": true
+    }, 
+    {
+        "dns-a": [
+            "216.104.165.30", 
+            "216.104.165.90"
+        ], 
+        "dns-mx": [
+            "mx1.daemonmail.net", 
+            "mx2.daemonmail.net"
+        ], 
+        "dns-ns": [
+            "ns1.domaindiscover.com", 
+            "ns2.domaindiscover.com"
+        ], 
+        "domain-name": "silaapp.com", 
+        "fuzzer": "bitsquatting", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-ns": [
+            "ns1.namebrightdns.com", 
+            "ns2.namebrightdns.com"
+        ], 
+        "domain-name": "sineapp.com", 
+        "fuzzer": "bitsquatting"
+    }, 
+    {
+        "dns-a": [
+            "104.24.106.104", 
+            "104.24.107.104"
+        ], 
+        "dns-aaaa": [
+            "2400:cb00:2048:1::6818:6a68", 
+            "2400:cb00:2048:1::6818:6b68"
+        ], 
+        "dns-mx": [
+            "mx.yandex.net"
+        ], 
+        "dns-ns": [
+            "dora.ns.cloudflare.com", 
+            "ivan.ns.cloudflare.com"
+        ], 
+        "domain-name": "siniapp.com", 
+        "fuzzer": "bitsquatting", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "185.182.56.188"
+        ], 
+        "dns-ns": [
+            "nszero1.axc.nl", 
+            "nszero2.axc.nl"
+        ], 
+        "domain-name": "sinqapp.com", 
+        "fuzzer": "bitsquatting", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "188.121.43.35"
+        ], 
+        "dns-ns": [
+            "ns55.domaincontrol.com", 
+            "ns56.domaincontrol.com"
+        ], 
+        "domain-name": "siraapp.com", 
+        "fuzzer": "homoglyph", 
+        "geoip-country": "Netherlands", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "23.236.62.147"
+        ], 
+        "dns-mx": [
+            "alt1.aspmx.l.google.com", 
+            "alt2.aspmx.l.google.com", 
+            "aspmx.l.google.com", 
+            "aspmx2.googlemail.com", 
+            "aspmx3.googlemail.com"
+        ], 
+        "dns-ns": [
+            "ns10.wixdns.net", 
+            "ns11.wixdns.net"
+        ], 
+        "domain-name": "simaapp.com", 
+        "fuzzer": "homoglyph", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "85.17.96.111"
+        ], 
+        "dns-ns": [
+            "ns1.leaseweb.nl", 
+            "ns4.leaseweb.net", 
+            "ns5.leaseweb.nl"
+        ], 
+        "domain-name": "sinasapp.com", 
+        "fuzzer": "insertion", 
+        "geoip-country": "Netherlands", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "141.8.230.20"
+        ], 
+        "dns-mx": [
+            "mxs1.domainrecover.com", 
+            "mxs2.domainrecover.com"
+        ], 
+        "domain-name": "sinap.com", 
+        "fuzzer": "omission", 
+        "geoip-country": "Switzerland", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "107.148.119.207"
+        ], 
+        "dns-ns": [
+            "f1g1ns1.dnspod.net", 
+            "f1g1ns2.dnspod.net"
+        ], 
+        "domain-name": "sinaap.com", 
+        "fuzzer": "omission", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "170.178.178.38"
+        ], 
+        "domain-name": "snaapp.com", 
+        "fuzzer": "omission", 
+        "geoip-country": "United States"
+    }, 
+    {
+        "dns-a": [
+            "46.20.236.57"
+        ], 
+        "dns-ns": [
+            "ns1.equiphase.net", 
+            "ns2.equiphase.net"
+        ], 
+        "domain-name": "siaapp.com", 
+        "fuzzer": "omission", 
+        "geoip-country": "United Kingdom", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "52.86.22.136", 
+            "54.174.212.152"
+        ], 
+        "domain-name": "sinapp.com", 
+        "fuzzer": "omission", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "52.86.22.136", 
+            "54.174.212.152"
+        ], 
+        "domain-name": "sinaalp.com", 
+        "fuzzer": "replacement", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-ns": [
+            "ns17.xincache.com", 
+            "ns18.xincache.com"
+        ], 
+        "domain-name": "xinaapp.com", 
+        "fuzzer": "replacement"
+    }, 
+    {
+        "dns-a": [
+            "107.183.72.167"
+        ], 
+        "dns-ns": [
+            "ns1.cloud-dns.net", 
+            "ns2.cloud-dns.net"
+        ], 
+        "domain-name": "ainaapp.com", 
+        "fuzzer": "replacement", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "72.52.4.119"
+        ], 
+        "dns-mx": [
+            "localhost"
+        ], 
+        "dns-ns": [
+            "ns1.sedoparking.com", 
+            "ns2.sedoparking.com"
+        ], 
+        "domain-name": "sihaapp.com", 
+        "fuzzer": "replacement", 
+        "geoip-country": "United States", 
+        "mx-spy": true, 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "184.168.221.96"
+        ], 
+        "dns-mx": [
+            "0", 
+            "10"
+        ], 
+        "dns-ns": [
+            "ns01.cashparking.com", 
+            "ns02.cashparking.com"
+        ], 
+        "domain-name": "si.naapp.com", 
+        "fuzzer": "subdomain", 
+        "geoip-country": "United States", 
+        "mx-spy": true
+    }, 
+    {
+        "dns-a": [
+            "159.54.247.168"
+        ], 
+        "domain-name": "sina.app.com", 
+        "fuzzer": "subdomain", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "23.235.208.237"
+        ], 
+        "domain-name": "sinaa.pp.com", 
+        "fuzzer": "subdomain", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "185.53.178.7"
+        ], 
+        "dns-mx": [
+            "mail.h-email.net"
+        ], 
+        "dns-ns": [
+            "ns1.parkingcrew.net", 
+            "ns2.parkingcrew.net"
+        ], 
+        "domain-name": "sinoapp.com", 
+        "fuzzer": "vowel-swap"
+    }, 
+    {
+        "dns-a": [
+            "31.220.104.156"
+        ], 
+        "dns-ns": [
+            "ns1.hostinger.co", 
+            "ns2.hostinger.co", 
+            "ns3.hostinger.co", 
+            "ns4.hostinger.co"
+        ], 
+        "domain-name": "sinuapp.com", 
+        "fuzzer": "vowel-swap"
+    }
+]

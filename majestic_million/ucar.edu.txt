@@ -1,0 +1,91 @@
+[
+    {
+        "dns-mx": [
+            "ALT1.ASPMX.L.GOOGLE.COM", 
+            "ALT2.ASPMX.L.GOOGLE.COM", 
+            "ASPMX.L.GOOGLE.COM", 
+            "ASPMX2.GOOGLEMAIL.COM", 
+            "ASPMX3.GOOGLEMAIL.COM"
+        ], 
+        "dns-ns": [
+            "dns.ucar.edu", 
+            "dnsnx1.nwsc.ucar.edu", 
+            "dnsnx2.nwsc.ucar.edu", 
+            "dnsx1.ucar.edu", 
+            "dnsx2.ucar.edu"
+        ], 
+        "domain-name": "ucar.edu", 
+        "fuzzer": "original*"
+    }, 
+    {
+        "dns-a": [
+            "84.88.95.28"
+        ], 
+        "dns-aaaa": [
+            "2001:40b0:7900:1::28"
+        ], 
+        "dns-ns": [
+            "dns1.car.edu", 
+            "dns2.car.edu", 
+            "ns1.cccb.org", 
+            "ns1.cesca.cat", 
+            "ns2.cesca.cat"
+        ], 
+        "domain-name": "car.edu", 
+        "fuzzer": "omission"
+    }, 
+    {
+        "dns-a": [
+            "138.23.226.208"
+        ], 
+        "dns-mx": [
+            "mx1.ucr.edu", 
+            "mx2.ucr.edu"
+        ], 
+        "dns-ns": [
+            "ns1.ucr.edu", 
+            "ns2.ucr.edu", 
+            "sdns1.berkeley.edu"
+        ], 
+        "domain-name": "ucr.edu", 
+        "fuzzer": "omission", 
+        "geoip-country": "United States"
+    }, 
+    {
+        "dns-a": [
+            "161.31.3.35"
+        ], 
+        "dns-mx": [
+            "alt1.aspmx.l.google.com", 
+            "alt2.aspmx.l.google.com", 
+            "alt3.aspmx.l.google.com", 
+            "alt4.aspmx.l.google.com", 
+            "aspmx.l.google.com"
+        ], 
+        "dns-ns": [
+            "ns.arknet.edu", 
+            "ns1.uca.edu", 
+            "ns2.uca.edu"
+        ], 
+        "domain-name": "uca.edu", 
+        "fuzzer": "omission", 
+        "geoip-country": "United States"
+    }, 
+    {
+        "dns-a": [
+            "205.122.21.38"
+        ], 
+        "dns-mx": [
+            "ucat-edu.mail.protection.outlook.com"
+        ], 
+        "dns-ns": [
+            "ns-1106.awsdns-10.org", 
+            "ns-1737.awsdns-25.co.uk", 
+            "ns-391.awsdns-48.com", 
+            "ns-889.awsdns-47.net"
+        ], 
+        "domain-name": "ucat.edu", 
+        "fuzzer": "replacement", 
+        "geoip-country": "United States"
+    }
+]

@@ -1,0 +1,131 @@
+[
+    {
+        "dns-a": [
+            "139.2.165.112"
+        ], 
+        "dns-aaaa": [
+            "2001:67c:510:1164::1112:1"
+        ], 
+        "dns-mx": [
+            "mailin1.de1.retarus.com", 
+            "mailin1.rmx.de", 
+            "mailin2.de1.retarus.com", 
+            "mailin2.rmx.de", 
+            "mailin3.rmx.de", 
+            "mailin4.rmx.de"
+        ], 
+        "dns-ns": [
+            "dns1.cscdns.net", 
+            "dns2.cscdns.net"
+        ], 
+        "domain-name": "conti-online.com", 
+        "fuzzer": "original*", 
+        "geoip-country": "Germany", 
+        "ssdeep-score": 94
+    }, 
+    {
+        "dns-a": [
+            "185.53.178.8"
+        ], 
+        "dns-mx": [
+            "mail.h-email.net"
+        ], 
+        "dns-ns": [
+            "ns1.parkingcrew.net", 
+            "ns2.parkingcrew.net"
+        ], 
+        "domain-name": "cont-online.com", 
+        "fuzzer": "omission", 
+        "geoip-country": "Germany", 
+        "mx-spy": true, 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "72.52.4.122"
+        ], 
+        "dns-mx": [
+            "localhost"
+        ], 
+        "dns-ns": [
+            "ns1.sedoparking.com", 
+            "ns2.sedoparking.com"
+        ], 
+        "domain-name": "contionline.com", 
+        "fuzzer": "omission", 
+        "geoip-country": "United States", 
+        "mx-spy": true, 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "72.52.4.122"
+        ], 
+        "dns-mx": [
+            "localhost"
+        ], 
+        "dns-ns": [
+            "ns1.sedoparking.com", 
+            "ns2.sedoparking.com"
+        ], 
+        "domain-name": "conto-online.com", 
+        "fuzzer": "replacement", 
+        "geoip-country": "United States", 
+        "mx-spy": true, 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "72.52.4.122"
+        ], 
+        "dns-mx": [
+            "localhost"
+        ], 
+        "dns-ns": [
+            "ns1.sedoparking.com", 
+            "ns2.sedoparking.com"
+        ], 
+        "domain-name": "co.nti-online.com", 
+        "fuzzer": "subdomain", 
+        "geoip-country": "United States", 
+        "mx-spy": true, 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "69.172.201.153"
+        ], 
+        "dns-ns": [
+            "ns1.uniregistrymarket.link", 
+            "ns2.uniregistrymarket.link"
+        ], 
+        "domain-name": "cont.i-online.com", 
+        "fuzzer": "subdomain", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "216.157.88.27"
+        ], 
+        "domain-name": "conti-o.nline.com", 
+        "fuzzer": "subdomain", 
+        "geoip-country": "United States"
+    }, 
+    {
+        "dns-a": [
+            "40.77.56.174"
+        ], 
+        "dns-mx": [
+            "ncorp-spamfilter.nooter.com", 
+            "ne-spamfilter.ne.com"
+        ], 
+        "dns-ns": [
+            "cbru.br.ns.els-gms.att.net", 
+            "cmtu.mt.ns.els-gms.att.net"
+        ], 
+        "domain-name": "conti-onli.ne.com", 
+        "fuzzer": "subdomain", 
+        "geoip-country": "United States"
+    }
+]

@@ -1,0 +1,212 @@
+[
+    {
+        "dns-ns": [
+            "dns1.p02.nsone.net", 
+            "dns2.p02.nsone.net", 
+            "dns3.p02.nsone.net", 
+            "dns4.p02.nsone.net", 
+            "ns1.p30.dynect.net", 
+            "ns2.p30.dynect.net", 
+            "ns3.p30.dynect.net", 
+            "ns4.p30.dynect.net"
+        ], 
+        "domain-name": "allexperts.com", 
+        "fuzzer": "original*"
+    }, 
+    {
+        "dns-a": [
+            "162.241.216.77"
+        ], 
+        "dns-mx": [
+            "fallbackmx.spamexperts.eu", 
+            "lastmx.spamexperts.net", 
+            "mx.spamexperts.com"
+        ], 
+        "dns-ns": [
+            "ns1.bluehost.com", 
+            "ns2.bluehost.com"
+        ], 
+        "domain-name": "amlexperts.com", 
+        "fuzzer": "bitsquatting", 
+        "geoip-country": "United States"
+    }, 
+    {
+        "dns-a": [
+            "208.91.197.39"
+        ], 
+        "dns-mx": [
+            "p.webcom.ctmail.com"
+        ], 
+        "dns-ns": [
+            "dns135.a.register.com", 
+            "dns171.b.register.com", 
+            "dns220.c.register.com", 
+            "dns249.d.register.com"
+        ], 
+        "domain-name": "adlexperts.com", 
+        "fuzzer": "bitsquatting", 
+        "geoip-country": "Virgin Islands", 
+        "mx-spy": true
+    }, 
+    {
+        "dns-a": [
+            "34.224.164.246", 
+            "34.232.157.132"
+        ], 
+        "dns-mx": [
+            "mail1.amlaw.com", 
+            "mail3.amlaw.com"
+        ], 
+        "dns-ns": [
+            "ns1.amlaw.com", 
+            "ns2.amlaw.com", 
+            "ns3.amlaw.com", 
+            "ns4.amlaw.com"
+        ], 
+        "domain-name": "almexperts.com", 
+        "fuzzer": "bitsquatting", 
+        "geoip-country": "United States"
+    }, 
+    {
+        "dns-a": [
+            "185.53.178.6"
+        ], 
+        "dns-mx": [
+            "mail.h-email.net"
+        ], 
+        "dns-ns": [
+            "ns1.parkingcrew.net", 
+            "ns2.parkingcrew.net"
+        ], 
+        "domain-name": "aliexperts.com", 
+        "fuzzer": "homoglyph", 
+        "geoip-country": "Germany", 
+        "mx-spy": true
+    }, 
+    {
+        "dns-a": [
+            "77.222.61.167"
+        ], 
+        "dns-mx": [
+            "mx1.spaceweb.ru", 
+            "mx2.spaceweb.ru"
+        ], 
+        "dns-ns": [
+            "ns1.spaceweb.ru", 
+            "ns2.spaceweb.ru", 
+            "ns3.spaceweb.pro", 
+            "ns4.spaceweb.pro"
+        ], 
+        "domain-name": "all-experts.com", 
+        "fuzzer": "hyphenation", 
+        "geoip-country": "Russian Federation"
+    }, 
+    {
+        "dns-a": [
+            "52.86.22.136", 
+            "54.174.212.152"
+        ], 
+        "dns-ns": [
+            "ns1.namebrightdns.com", 
+            "ns2.namebrightdns.com"
+        ], 
+        "domain-name": "alloexperts.com", 
+        "fuzzer": "insertion", 
+        "geoip-country": "United States"
+    }, 
+    {
+        "dns-a": [
+            "52.86.22.136", 
+            "54.174.212.152"
+        ], 
+        "dns-ns": [
+            "ns1.namebrightdns.com", 
+            "ns2.namebrightdns.com"
+        ], 
+        "domain-name": "alexperts.com", 
+        "fuzzer": "omission", 
+        "geoip-country": "United States"
+    }, 
+    {
+        "dns-a": [
+            "185.53.178.7"
+        ], 
+        "dns-ns": [
+            "ns1.parkingcrew.net", 
+            "ns2.parkingcrew.net"
+        ], 
+        "domain-name": "allexpers.com", 
+        "fuzzer": "omission", 
+        "geoip-country": "Germany"
+    }, 
+    {
+        "dns-a": [
+            "50.63.202.71"
+        ], 
+        "dns-ns": [
+            "ns47.domaincontrol.com", 
+            "ns48.domaincontrol.com"
+        ], 
+        "domain-name": "llexperts.com", 
+        "fuzzer": "omission", 
+        "geoip-country": "United States"
+    }, 
+    {
+        "dns-a": [
+            "34.212.62.44"
+        ], 
+        "dns-ns": [
+            "ns-1448.awsdns-53.org", 
+            "ns-1752.awsdns-27.co.uk", 
+            "ns-882.awsdns-46.net", 
+            "ns-9.awsdns-01.com"
+        ], 
+        "domain-name": "allexpertz.com", 
+        "fuzzer": "replacement", 
+        "geoip-country": "United States"
+    }, 
+    {
+        "dns-a": [
+            "165.160.13.20", 
+            "165.160.15.20"
+        ], 
+        "dns-mx": [
+            "custmx.cscdns.net"
+        ], 
+        "dns-ns": [
+            "dns1.cscdns.net", 
+            "dns2.cscdns.net"
+        ], 
+        "domain-name": "aolexperts.com", 
+        "fuzzer": "replacement", 
+        "geoip-country": "United States", 
+        "mx-spy": true
+    }, 
+    {
+        "dns-a": [
+            "208.73.210.202", 
+            "208.73.210.217", 
+            "208.73.211.165", 
+            "208.73.211.177"
+        ], 
+        "dns-ns": [
+            "ns1.dsredirection.com", 
+            "ns2.dsredirection.com"
+        ], 
+        "domain-name": "allex.perts.com", 
+        "fuzzer": "subdomain", 
+        "geoip-country": "United States"
+    }, 
+    {
+        "dns-a": [
+            "69.172.201.153"
+        ], 
+        "dns-ns": [
+            "ns1.uniregistrymarket.link", 
+            "ns2.uniregistrymarket.link"
+        ], 
+        "domain-name": "allexports.com", 
+        "fuzzer": "vowel-swap", 
+        "geoip-country": "United States"
+    }
+]

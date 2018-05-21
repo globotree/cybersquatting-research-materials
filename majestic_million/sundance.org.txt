@@ -1,0 +1,161 @@
+[
+    {
+        "dns-a": [
+            "104.16.198.240", 
+            "104.16.199.240"
+        ], 
+        "dns-aaaa": [
+            "2400:cb00:2048:1::6810:c6f0", 
+            "2400:cb00:2048:1::6810:c7f0"
+        ], 
+        "dns-mx": [
+            "alt1.aspmx.l.google.com", 
+            "alt2.aspmx.l.google.com", 
+            "aspmx.l.google.com", 
+            "aspmx2.googlemail.com", 
+            "aspmx3.googlemail.com"
+        ], 
+        "dns-ns": [
+            "woz.ns.cloudflare.com", 
+            "zoe.ns.cloudflare.com"
+        ], 
+        "domain-name": "sundance.org", 
+        "fuzzer": "original*", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 100
+    }, 
+    {
+        "dns-a": [
+            "202.172.28.127"
+        ], 
+        "dns-mx": [
+            "sundancer.org"
+        ], 
+        "dns-ns": [
+            "ns1.value-domain.com", 
+            "ns2.value-domain.com"
+        ], 
+        "domain-name": "sundancer.org", 
+        "fuzzer": "addition", 
+        "geoip-country": "Japan", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "199.34.228.100"
+        ], 
+        "dns-mx": [
+            "mail.rundance.org"
+        ], 
+        "dns-ns": [
+            "ns.heartinternet.co.uk", 
+            "ns2.heartinternet.co.uk"
+        ], 
+        "domain-name": "rundance.org", 
+        "fuzzer": "bitsquatting", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "192.254.189.65"
+        ], 
+        "dns-mx": [
+            "sun-dance.org"
+        ], 
+        "dns-ns": [
+            "ns6383.hostgator.com", 
+            "ns6384.hostgator.com"
+        ], 
+        "domain-name": "sun-dance.org", 
+        "fuzzer": "hyphenation", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "209.99.64.53"
+        ], 
+        "dns-ns": [
+            "ns11053.ztomy.com", 
+            "ns21053.ztomy.com"
+        ], 
+        "domain-name": "sundancce.org", 
+        "fuzzer": "repetition", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-ns": [
+            "ns1.monikerdns.net", 
+            "ns2.monikerdns.net", 
+            "ns3.monikerdns.net", 
+            "ns4.monikerdns.net"
+        ], 
+        "domain-name": "sindance.org", 
+        "fuzzer": "replacement"
+    }, 
+    {
+        "dns-a": [
+            "72.52.4.119"
+        ], 
+        "dns-mx": [
+            "localhost"
+        ], 
+        "dns-ns": [
+            "ns1.sedoparking.com", 
+            "ns2.sedoparking.com"
+        ], 
+        "domain-name": "sun.dance.org", 
+        "fuzzer": "subdomain", 
+        "geoip-country": "United States", 
+        "mx-spy": true, 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "72.52.4.122"
+        ], 
+        "dns-mx": [
+            "localhost"
+        ], 
+        "dns-ns": [
+            "ns1.sedoparking.com", 
+            "ns2.sedoparking.com"
+        ], 
+        "domain-name": "sund.ance.org", 
+        "fuzzer": "subdomain", 
+        "geoip-country": "United States", 
+        "mx-spy": true, 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "216.83.206.108"
+        ], 
+        "domain-name": "sundan.ce.org", 
+        "fuzzer": "subdomain", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "217.194.213.243"
+        ], 
+        "domain-name": "sundanc.e.org", 
+        "fuzzer": "subdomain", 
+        "geoip-country": "United Kingdom", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "23.236.62.147"
+        ], 
+        "dns-ns": [
+            "ns6.wixdns.net", 
+            "ns7.wixdns.net"
+        ], 
+        "domain-name": "sondance.org", 
+        "fuzzer": "vowel-swap"
+    }
+]

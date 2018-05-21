@@ -1,0 +1,35 @@
+[
+    {
+        "dns-mx": [
+            "mail.sport.gov.cn", 
+            "pop3.sport.gov.cn"
+        ], 
+        "dns-ns": [
+            "ns1.cdns.cn", 
+            "ns2.cdns.cn", 
+            "ns3.cdns.cn"
+        ], 
+        "domain-name": "sport.gov.cn", 
+        "fuzzer": "original*"
+    }, 
+    {
+        "dns-a": [
+            "220.168.18.82"
+        ], 
+        "dns-ns": [
+            "ns13.xincache.com", 
+            "ns14.xincache.com"
+        ], 
+        "domain-name": "sports.gov.cn", 
+        "fuzzer": "addition", 
+        "geoip-country": "China"
+    }, 
+    {
+        "dns-ns": [
+            "f1g1ns1.dnspod.net", 
+            "f1g1ns2.dnspod.net"
+        ], 
+        "domain-name": "sportgov.cn", 
+        "fuzzer": "various"
+    }
+]

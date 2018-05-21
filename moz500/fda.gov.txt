@@ -1,0 +1,49 @@
+[
+    {
+        "dns-mx": [
+            "smtp1.fda.gov", 
+            "smtp2.fda.gov", 
+            "smtp3.fda.gov"
+        ], 
+        "dns-ns": [
+            "ns1.fda.gov", 
+            "wodc-intnsdns-01.fda.gov"
+        ], 
+        "domain-name": "fda.gov", 
+        "fuzzer": "original*"
+    }, 
+    {
+        "dns-a": [
+            "209.193.7.22"
+        ], 
+        "dns-ns": [
+            "ns1.acsalaska.net", 
+            "ns2.acsalaska.net", 
+            "ns3.acsalaska.net", 
+            "ns4.acsalaska.net"
+        ], 
+        "domain-name": "fea.gov", 
+        "fuzzer": "bitsquatting", 
+        "geoip-country": "United States"
+    }, 
+    {
+        "dns-a": [
+            "152.180.6.131"
+        ], 
+        "dns-mx": [
+            "mail.fca.gov", 
+            "mail2.fca.gov"
+        ], 
+        "dns-ns": [
+            "dnssec10.datamtn.com", 
+            "dnssec11.datamtn.com", 
+            "dnssec12.datamtn.com", 
+            "dnssec14.datamtn.com", 
+            "dnssec7.datamtn.com", 
+            "dnssec9.datamtn.com"
+        ], 
+        "domain-name": "fca.gov", 
+        "fuzzer": "replacement", 
+        "geoip-country": "United States"
+    }
+]

@@ -1,0 +1,149 @@
+[
+    {
+        "dns-mx": [
+            "mx.zzu.edu.cn"
+        ], 
+        "dns-ns": [
+            "dns.zzu.edu.cn", 
+            "dns2.zzu.edu.cn"
+        ], 
+        "domain-name": "zzu.edu.cn", 
+        "fuzzer": "original*"
+    }, 
+    {
+        "dns-mx": [
+            "mail.jzu.edu.cn"
+        ], 
+        "dns-ns": [
+            "dns.jzu.edu.cn"
+        ], 
+        "domain-name": "jzu.edu.cn", 
+        "fuzzer": "bitsquatting"
+    }, 
+    {
+        "dns-mx": [
+            "mail.zju.edu.cn", 
+            "mx-zju-edu-cn.icoremail.net"
+        ], 
+        "dns-ns": [
+            "alpha.zju.edu.cn"
+        ], 
+        "domain-name": "zju.edu.cn", 
+        "fuzzer": "bitsquatting"
+    }, 
+    {
+        "dns-ns": [
+            "ns1.cernet.com", 
+            "ns2.cernet.com"
+        ], 
+        "domain-name": "zz.edu.cn", 
+        "fuzzer": "omission"
+    }, 
+    {
+        "dns-a": [
+            "59.34.5.217"
+        ], 
+        "dns-mx": [
+            "hzmx01.mxmail.netease.com", 
+            "hzmx02.mxmail.netease.com"
+        ], 
+        "dns-ns": [
+            "ns1.zqu.edu.cn", 
+            "ns2.zqu.edu.cn"
+        ], 
+        "domain-name": "zqu.edu.cn", 
+        "fuzzer": "replacement", 
+        "geoip-country": "China"
+    }, 
+    {
+        "dns-a": [
+            "218.90.212.39"
+        ], 
+        "dns-mx": [
+            "mxbiz1.qq.com", 
+            "mxbiz2.qq.com"
+        ], 
+        "dns-ns": [
+            "dns1.tzu.edu.cn", 
+            "dns2.tzu.edu.cn"
+        ], 
+        "domain-name": "tzu.edu.cn", 
+        "fuzzer": "replacement", 
+        "geoip-country": "China"
+    }, 
+    {
+        "dns-mx": [
+            "hzmx01.mxmail.netease.com", 
+            "hzmx02.mxmail.netease.com"
+        ], 
+        "dns-ns": [
+            "dns1.qzu.edu.cn"
+        ], 
+        "domain-name": "qzu.edu.cn", 
+        "fuzzer": "replacement"
+    }, 
+    {
+        "dns-mx": [
+            "gw.szu.edu.cn", 
+            "mx-szu-edu-cn.icoremail.net"
+        ], 
+        "dns-ns": [
+            "bay.szu.edu.cn", 
+            "sea.szu.edu.cn"
+        ], 
+        "domain-name": "szu.edu.cn", 
+        "fuzzer": "replacement"
+    }, 
+    {
+        "dns-mx": [
+            "mailmx.gzu.edu.cn"
+        ], 
+        "dns-ns": [
+            "pri-dns.gzu.edu.cn", 
+            "sec-dns.gzu.edu.cn"
+        ], 
+        "domain-name": "gzu.edu.cn", 
+        "fuzzer": "replacement"
+    }, 
+    {
+        "dns-mx": [
+            "mx1.icoremail.net"
+        ], 
+        "dns-ns": [
+            "ns1.hzu.edu.cn", 
+            "ns2.hzu.edu.cn"
+        ], 
+        "domain-name": "hzu.edu.cn", 
+        "fuzzer": "replacement", 
+        "mx-spy": true
+    }, 
+    {
+        "dns-mx": [
+            "mail.ztu.edu.cn"
+        ], 
+        "dns-ns": [
+            "dns.ztu.edu.cn"
+        ], 
+        "domain-name": "ztu.edu.cn", 
+        "fuzzer": "replacement"
+    }, 
+    {
+        "dns-ns": [
+            "dns.zzu.cn", 
+            "dns2.zzu.cn"
+        ], 
+        "domain-name": "zzu.cn", 
+        "fuzzer": "various"
+    }, 
+    {
+        "dns-a": [
+            "202.197.190.12"
+        ], 
+        "dns-ns": [
+            "ns19.xincache.com", 
+            "ns20.xincache.com"
+        ], 
+        "domain-name": "zzuedu.cn", 
+        "fuzzer": "various"
+    }
+]

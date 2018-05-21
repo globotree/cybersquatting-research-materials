@@ -1,0 +1,68 @@
+[
+    {
+        "dns-a": [
+            "54.192.1.23"
+        ], 
+        "dns-mx": [
+            "ironport1.thestar.ca", 
+            "ironport2.thestar.ca"
+        ], 
+        "dns-ns": [
+            "ns-1043.awsdns-02.org", 
+            "ns-1972.awsdns-54.co.uk", 
+            "ns-209.awsdns-26.com", 
+            "ns-838.awsdns-40.net"
+        ], 
+        "domain-name": "metronews.ca", 
+        "fuzzer": "original*", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 100
+    }, 
+    {
+        "dns-a": [
+            "98.124.245.24"
+        ], 
+        "dns-mx": [
+            "mail.b-io.co"
+        ], 
+        "dns-ns": [
+            "ns1.fabulous.com", 
+            "ns2.fabulous.com"
+        ], 
+        "domain-name": "metronew.ca", 
+        "fuzzer": "omission", 
+        "geoip-country": "United States", 
+        "mx-spy": true, 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "69.172.201.153"
+        ], 
+        "dns-ns": [
+            "ns1.uniregistrymarket.link", 
+            "ns2.uniregistrymarket.link"
+        ], 
+        "domain-name": "metro.news.ca", 
+        "fuzzer": "subdomain", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "98.124.245.24"
+        ], 
+        "dns-mx": [
+            "mail.b-io.co"
+        ], 
+        "dns-ns": [
+            "ns1.fabulous.com", 
+            "ns2.fabulous.com"
+        ], 
+        "domain-name": "metron.ews.ca", 
+        "fuzzer": "subdomain", 
+        "geoip-country": "United States", 
+        "mx-spy": true, 
+        "ssdeep-score": 0
+    }
+]

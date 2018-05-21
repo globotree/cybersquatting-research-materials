@@ -1,0 +1,80 @@
+[
+    {
+        "dns-a": [
+            "194.63.251.25"
+        ], 
+        "dns-aaaa": [
+            "2a01:5b40:0:1025::1"
+        ], 
+        "dns-mx": [
+            "mx.domeneshop.no"
+        ], 
+        "dns-ns": [
+            "ns1.hyp.net", 
+            "ns2.hyp.net", 
+            "ns3.hyp.net"
+        ], 
+        "domain-name": "domeneshop.no", 
+        "fuzzer": "original*", 
+        "geoip-country": "Norway", 
+        "ssdeep-score": 97
+    }, 
+    {
+        "dns-aaaa": [
+            "2a01:5b40:0:248::52"
+        ], 
+        "dns-mx": [
+            "mx.domeneshop.no"
+        ], 
+        "dns-ns": [
+            "ns1.hyp.net", 
+            "ns2.hyp.net", 
+            "ns3.hyp.net"
+        ], 
+        "domain-name": "domaneshop.no", 
+        "fuzzer": "bitsquatting"
+    }, 
+    {
+        "dns-a": [
+            "194.63.248.52"
+        ], 
+        "dns-aaaa": [
+            "2a01:5b40:0:248::52"
+        ], 
+        "dns-ns": [
+            "ns1.hyp.net", 
+            "ns2.hyp.net", 
+            "ns3.hyp.net"
+        ], 
+        "domain-name": "domenshop.no", 
+        "fuzzer": "omission", 
+        "geoip-country": "Norway", 
+        "ssdeep-score": 97
+    }, 
+    {
+        "dns-a": [
+            "185.53.178.8"
+        ], 
+        "dns-ns": [
+            "ns1.parkingcrew.net", 
+            "ns2.parkingcrew.net"
+        ], 
+        "domain-name": "domen.eshop.no", 
+        "fuzzer": "subdomain", 
+        "geoip-country": "Germany", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "185.53.178.9"
+        ], 
+        "dns-ns": [
+            "ns1.parkingcrew.net", 
+            "ns2.parkingcrew.net"
+        ], 
+        "domain-name": "domene.shop.no", 
+        "fuzzer": "subdomain", 
+        "geoip-country": "Germany", 
+        "ssdeep-score": 0
+    }
+]

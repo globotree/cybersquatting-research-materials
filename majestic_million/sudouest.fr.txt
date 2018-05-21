@@ -1,0 +1,69 @@
+[
+    {
+        "dns-a": [
+            "35.190.61.221"
+        ], 
+        "dns-mx": [
+            "ALT1.ASPMX.L.GOOGLE.COM", 
+            "ALT2.ASPMX.L.GOOGLE.COM", 
+            "ALT3.ASPMX.L.GOOGLE.COM", 
+            "ALT4.ASPMX.L.GOOGLE.COM", 
+            "ASPMX.L.GOOGLE.COM"
+        ], 
+        "dns-ns": [
+            "a.dns.gandi.net", 
+            "b.dns.gandi.net", 
+            "c.dns.gandi.net"
+        ], 
+        "domain-name": "sudouest.fr", 
+        "fuzzer": "original*", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 96
+    }, 
+    {
+        "dns-a": [
+            "185.203.150.6"
+        ], 
+        "dns-ns": [
+            "a.ns14.net", 
+            "b.ns14.net", 
+            "c.ns14.net", 
+            "d.ns14.net"
+        ], 
+        "domain-name": "subouest.fr", 
+        "fuzzer": "homoglyph", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "5.135.252.9"
+        ], 
+        "dns-mx": [
+            "mx5.dataxy.fr"
+        ], 
+        "dns-ns": [
+            "ns0.dataxy.fr", 
+            "ns1.dataxy.fr"
+        ], 
+        "domain-name": "sud-ouest.fr", 
+        "fuzzer": "hyphenation", 
+        "geoip-country": "France", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "194.206.126.209"
+        ], 
+        "dns-mx": [
+            "smtppromx.orange.fr"
+        ], 
+        "dns-ns": [
+            "nsmpro1.nordnet.com", 
+            "nsmpro2.nordnet.com"
+        ], 
+        "domain-name": "sdouest.fr", 
+        "fuzzer": "omission", 
+        "geoip-country": "France", 
+        "ssdeep-score": 0
+    }
+]

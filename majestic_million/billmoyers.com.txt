@@ -1,0 +1,150 @@
+[
+    {
+        "dns-a": [
+            "52.5.231.46"
+        ], 
+        "dns-mx": [
+            "billmoyers-com.mail.protection.outlook.com"
+        ], 
+        "dns-ns": [
+            "dns118.a.register.com", 
+            "dns159.b.register.com", 
+            "dns249.c.register.com", 
+            "dns249.d.register.com"
+        ], 
+        "domain-name": "billmoyers.com", 
+        "fuzzer": "original*", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 100
+    }, 
+    {
+        "dns-a": [
+            "68.178.213.61"
+        ], 
+        "dns-ns": [
+            "ns1.namefind.com", 
+            "ns2.namefind.com"
+        ], 
+        "domain-name": "billmoyer.com", 
+        "fuzzer": "omission", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "67.55.92.184", 
+            "67.55.92.187"
+        ], 
+        "dns-mx": [
+            "mx7.bilmoyers.com"
+        ], 
+        "dns-ns": [
+            "ns1.liverealdeals.com", 
+            "ns2.liverealdeals.com"
+        ], 
+        "domain-name": "bilmoyers.com", 
+        "fuzzer": "omission", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "185.53.179.7"
+        ], 
+        "dns-mx": [
+            "mail.h-email.net"
+        ], 
+        "dns-ns": [
+            "ns1.parkingcrew.net", 
+            "ns2.parkingcrew.net"
+        ], 
+        "domain-name": "billmoyes.com", 
+        "fuzzer": "omission", 
+        "geoip-country": "Germany", 
+        "mx-spy": true, 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "208.113.154.11"
+        ], 
+        "dns-mx": [
+            "ALT1.ASPMX.L.GOOGLE.com", 
+            "ALT2.ASPMX.L.GOOGLE.com", 
+            "ALT3.ASPMX.L.GOOGLE.com", 
+            "ALT4.ASPMX.L.GOOGLE.com", 
+            "ASPMX.L.GOOGLE.com"
+        ], 
+        "dns-ns": [
+            "ns1.dreamhost.com", 
+            "ns2.dreamhost.com", 
+            "ns3.dreamhost.com"
+        ], 
+        "domain-name": "billmyers.com", 
+        "fuzzer": "omission", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "104.200.22.130", 
+            "104.200.23.95"
+        ], 
+        "dns-mx": [
+            "mail.mxproc.com"
+        ], 
+        "dns-ns": [
+            "ns1.mytrafficmanagement.com", 
+            "ns2.mytrafficmanagement.com"
+        ], 
+        "domain-name": "bollmoyers.com", 
+        "fuzzer": "replacement", 
+        "geoip-country": "United States", 
+        "mx-spy": true, 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "64.99.80.121"
+        ], 
+        "domain-name": "bill.moyers.com", 
+        "fuzzer": "subdomain", 
+        "geoip-country": "Canada", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "72.52.4.122"
+        ], 
+        "dns-mx": [
+            "localhost"
+        ], 
+        "dns-ns": [
+            "ns1.sedoparking.com", 
+            "ns2.sedoparking.com"
+        ], 
+        "domain-name": "billm.oyers.com", 
+        "fuzzer": "subdomain", 
+        "geoip-country": "United States", 
+        "mx-spy": true, 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "68.178.213.61"
+        ], 
+        "domain-name": "billmo.yers.com", 
+        "fuzzer": "subdomain", 
+        "geoip-country": "United States"
+    }, 
+    {
+        "dns-a": [
+            "204.11.243.65"
+        ], 
+        "dns-ns": [
+            "ns4.d0m.com"
+        ], 
+        "domain-name": "billmeyers.com", 
+        "fuzzer": "vowel-swap"
+    }
+]

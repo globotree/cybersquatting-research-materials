@@ -1,0 +1,214 @@
+[
+    {
+        "dns-a": [
+            "193.27.220.219"
+        ], 
+        "dns-aaaa": [
+            "2a01:a080:0:11f7:9a3d:dbd7:56e2:2a40"
+        ], 
+        "dns-mx": [
+            "lissvexedge01.liebherr.com", 
+            "lissvexedge02.liebherr.com"
+        ], 
+        "dns-ns": [
+            "lhpns01.liebherr.de", 
+            "ns3.lemarit.net", 
+            "ns4.lemarit.de"
+        ], 
+        "domain-name": "liebherr.com", 
+        "fuzzer": "original*", 
+        "geoip-country": "Germany", 
+        "ssdeep-score": 100
+    }, 
+    {
+        "dns-ns": [
+            "lhpns01.liebherr.de", 
+            "ns3.lemarit.net", 
+            "ns4.lemarit.de"
+        ], 
+        "domain-name": "liebherrr.com", 
+        "fuzzer": "addition"
+    }, 
+    {
+        "dns-a": [
+            "193.27.220.219"
+        ], 
+        "dns-aaaa": [
+            "2a01:a080:0:11f7:9a3d:dbd7:56e2:2a40"
+        ], 
+        "dns-ns": [
+            "lhpns01.liebherr.de", 
+            "ns3.lemarit.net", 
+            "ns4.lemarit.de"
+        ], 
+        "domain-name": "llebherr.com", 
+        "fuzzer": "homoglyph", 
+        "geoip-country": "Germany", 
+        "ssdeep-score": 100
+    }, 
+    {
+        "dns-a": [
+            "72.52.4.122"
+        ], 
+        "dns-mx": [
+            "localhost"
+        ], 
+        "dns-ns": [
+            "ns1.sedoparking.com", 
+            "ns2.sedoparking.com"
+        ], 
+        "domain-name": "lieberr.com", 
+        "fuzzer": "omission", 
+        "geoip-country": "United States", 
+        "mx-spy": true, 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "184.168.221.104"
+        ], 
+        "dns-ns": [
+            "ns1.afternic.com", 
+            "ns2.afternic.com"
+        ], 
+        "domain-name": "libherr.com", 
+        "fuzzer": "omission", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "185.53.178.8"
+        ], 
+        "dns-mx": [
+            "mail.h-email.net"
+        ], 
+        "dns-ns": [
+            "ns1.parkingcrew.net", 
+            "ns2.parkingcrew.net"
+        ], 
+        "domain-name": "liebher.com", 
+        "fuzzer": "omission", 
+        "geoip-country": "Germany", 
+        "mx-spy": true, 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "192.64.119.191"
+        ], 
+        "dns-mx": [
+            "mx1.privateemail.com", 
+            "mx2.privateemail.com"
+        ], 
+        "dns-ns": [
+            "dns1.registrar-servers.com", 
+            "dns2.registrar-servers.com"
+        ], 
+        "domain-name": "lieebherr.com", 
+        "fuzzer": "repetition", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "141.8.224.93"
+        ], 
+        "dns-ns": [
+            "ns7.rookdns.com", 
+            "ns8.rookdns.com"
+        ], 
+        "domain-name": "lliebherr.com", 
+        "fuzzer": "repetition", 
+        "geoip-country": "Switzerland", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "69.162.80.59"
+        ], 
+        "dns-ns": [
+            "ns1.hastydns.com", 
+            "ns2.hastydns.com"
+        ], 
+        "domain-name": "liebheer.com", 
+        "fuzzer": "replacement", 
+        "geoip-country": "United States"
+    }, 
+    {
+        "dns-a": [
+            "91.195.240.82"
+        ], 
+        "dns-mx": [
+            "mail.b-io.co"
+        ], 
+        "dns-ns": [
+            "ns1ntw.name.com", 
+            "ns2fgp.name.com", 
+            "ns3gmt.name.com", 
+            "ns4lpv.name.com"
+        ], 
+        "domain-name": "liehherr.com", 
+        "fuzzer": "replacement", 
+        "geoip-country": "Germany", 
+        "mx-spy": true, 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "207.148.248.143"
+        ], 
+        "domain-name": "lie.bherr.com", 
+        "fuzzer": "subdomain", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "64.99.80.121"
+        ], 
+        "domain-name": "lieb.herr.com", 
+        "fuzzer": "subdomain"
+    }, 
+    {
+        "dns-a": [
+            "72.52.4.91"
+        ], 
+        "dns-mx": [
+            "mail.b-io.co"
+        ], 
+        "dns-ns": [
+            "ns1.kibernet.hu", 
+            "ns2.kibernet.hu"
+        ], 
+        "domain-name": "leibherr.com", 
+        "fuzzer": "transposition", 
+        "geoip-country": "United States", 
+        "mx-spy": true
+    }, 
+    {
+        "dns-a": [
+            "199.191.50.73"
+        ], 
+        "dns-ns": [
+            "ns111373.ztomy.com", 
+            "ns211373.ztomy.com"
+        ], 
+        "domain-name": "liehberr.com", 
+        "fuzzer": "transposition", 
+        "geoip-country": "Virgin Islands", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "104.217.142.165"
+        ], 
+        "dns-ns": [
+            "v1.dns234.net", 
+            "v2.dns234.net"
+        ], 
+        "domain-name": "liebehrr.com", 
+        "fuzzer": "transposition", 
+        "geoip-country": "United States"
+    }
+]

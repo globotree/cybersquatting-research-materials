@@ -1,0 +1,41 @@
+[
+    {
+        "dns-mx": [
+            "topmx.osaka-u.ac.jp"
+        ], 
+        "dns-ns": [
+            "a.osaka-u.ac.jp", 
+            "b.osaka-u.ac.jp", 
+            "dns-x.sinet.ad.jp"
+        ], 
+        "domain-name": "osaka-u.ac.jp", 
+        "fuzzer": "original*"
+    }, 
+    {
+        "dns-mx": [
+            "osakaue-ac-jp01c.mail.protection.outlook.com"
+        ], 
+        "dns-ns": [
+            "dns-x.sinet.ad.jp", 
+            "ns.osaka-ue.ac.jp", 
+            "ns2.osaka-ue.ac.jp", 
+            "ns3.osaka-ue.ac.jp"
+        ], 
+        "domain-name": "osaka-ue.ac.jp", 
+        "fuzzer": "addition"
+    }, 
+    {
+        "dns-a": [
+            "150.95.9.50"
+        ], 
+        "dns-mx": [
+            "osaka-uac.jp"
+        ], 
+        "dns-ns": [
+            "ns1.value-domain.com", 
+            "ns2.value-domain.com"
+        ], 
+        "domain-name": "osaka-uac.jp", 
+        "fuzzer": "various"
+    }
+]

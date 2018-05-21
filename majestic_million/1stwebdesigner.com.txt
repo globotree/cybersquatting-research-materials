@@ -1,0 +1,105 @@
+[
+    {
+        "dns-a": [
+            "104.28.8.111", 
+            "104.28.9.111"
+        ], 
+        "dns-mx": [
+            "alt1.aspmx.l.google.com", 
+            "alt2.aspmx.l.google.com", 
+            "alt3.aspmx.l.google.com", 
+            "alt4.aspmx.l.google.com", 
+            "aspmx.l.google.com"
+        ], 
+        "dns-ns": [
+            "gina.ns.cloudflare.com", 
+            "phil.ns.cloudflare.com"
+        ], 
+        "domain-name": "1stwebdesigner.com", 
+        "fuzzer": "original*", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 100
+    }, 
+    {
+        "dns-a": [
+            "104.200.22.130", 
+            "104.200.23.95"
+        ], 
+        "dns-mx": [
+            "mail.mxproc.com"
+        ], 
+        "dns-ns": [
+            "ns1.mytrafficmanagement.com", 
+            "ns2.mytrafficmanagement.com"
+        ], 
+        "domain-name": "stwebdesigner.com", 
+        "fuzzer": "omission", 
+        "geoip-country": "United States", 
+        "mx-spy": true, 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "104.200.22.130", 
+            "104.200.23.95"
+        ], 
+        "dns-mx": [
+            "mail.mxproc.com"
+        ], 
+        "dns-ns": [
+            "ns1.mytrafficmanagement.com", 
+            "ns2.mytrafficmanagement.com"
+        ], 
+        "domain-name": "1.stwebdesigner.com", 
+        "fuzzer": "subdomain", 
+        "geoip-country": "United States", 
+        "mx-spy": true, 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "207.148.248.143"
+        ], 
+        "domain-name": "1stw.ebdesigner.com", 
+        "fuzzer": "subdomain", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "205.178.189.131"
+        ], 
+        "domain-name": "1stwebde.signer.com", 
+        "fuzzer": "subdomain", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "207.148.248.143"
+        ], 
+        "domain-name": "1stwebdes.igner.com", 
+        "fuzzer": "subdomain", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "66.111.4.53", 
+            "66.111.4.54"
+        ], 
+        "dns-mx": [
+            "in1-smtp.messagingengine.com", 
+            "in2-smtp.messagingengine.com"
+        ], 
+        "domain-name": "1stwebdesig.ner.com", 
+        "fuzzer": "subdomain"
+    }, 
+    {
+        "dns-a": [
+            "208.73.211.70"
+        ], 
+        "domain-name": "1stwebdesign.er.com", 
+        "fuzzer": "subdomain"
+    }
+]

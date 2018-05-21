@@ -1,0 +1,172 @@
+[
+    {
+        "dns-mx": [
+            "email.zhb.gov.cn"
+        ], 
+        "dns-ns": [
+            "ns.xinnet.cn", 
+            "ns.xinnetdns.com"
+        ], 
+        "domain-name": "zhb.gov.cn", 
+        "fuzzer": "original*"
+    }, 
+    {
+        "dns-a": [
+            "23.225.212.221"
+        ], 
+        "dns-ns": [
+            "ns1.cnspeed.com", 
+            "ns2.cnspeed.com"
+        ], 
+        "domain-name": "zhbj.gov.cn", 
+        "fuzzer": "addition", 
+        "geoip-country": "United States"
+    }, 
+    {
+        "dns-a": [
+            "203.192.4.47"
+        ], 
+        "dns-mx": [
+            "mail.zlb.gov.cn"
+        ], 
+        "domain-name": "zlb.gov.cn", 
+        "fuzzer": "bitsquatting", 
+        "geoip-country": "China"
+    }, 
+    {
+        "dns-a": [
+            "218.56.36.52"
+        ], 
+        "domain-name": "zyhb.gov.cn", 
+        "fuzzer": "insertion", 
+        "geoip-country": "China"
+    }, 
+    {
+        "dns-ns": [
+            "dns19.hichina.com", 
+            "dns20.hichina.com"
+        ], 
+        "domain-name": "zjhb.gov.cn", 
+        "fuzzer": "insertion"
+    }, 
+    {
+        "dns-a": [
+            "60.214.98.132"
+        ], 
+        "dns-mx": [
+            "mxbiz1.qq.com", 
+            "mxbiz2.qq.com"
+        ], 
+        "dns-ns": [
+            "ns1.sfn.cn", 
+            "ns2.sfn.cn"
+        ], 
+        "domain-name": "zzhb.gov.cn", 
+        "fuzzer": "insertion", 
+        "geoip-country": "China"
+    }, 
+    {
+        "dns-ns": [
+            "ns17.xincache.com", 
+            "ns18.xincache.com"
+        ], 
+        "domain-name": "znhb.gov.cn", 
+        "fuzzer": "insertion"
+    }, 
+    {
+        "dns-mx": [
+            "mail.zh.gov.cn"
+        ], 
+        "dns-ns": [
+            "dns21.hichina.com", 
+            "dns22.hichina.com"
+        ], 
+        "domain-name": "zh.gov.cn", 
+        "fuzzer": "omission"
+    }, 
+    {
+        "dns-a": [
+            "61.134.36.76"
+        ], 
+        "dns-ns": [
+            "dns1.hichina.com", 
+            "dns2.hichina.com"
+        ], 
+        "domain-name": "zb.gov.cn", 
+        "fuzzer": "omission", 
+        "geoip-country": "China"
+    }, 
+    {
+        "dns-a": [
+            "125.64.55.41"
+        ], 
+        "dns-ns": [
+            "dns19.hichina.com", 
+            "dns20.hichina.com"
+        ], 
+        "domain-name": "zhhb.gov.cn", 
+        "fuzzer": "repetition", 
+        "geoip-country": "China"
+    }, 
+    {
+        "dns-mx": [
+            "mail.ghb.gov.cn.ghb.gov.cn"
+        ], 
+        "dns-ns": [
+            "ns1.8hy.cn", 
+            "ns2.8hy.cn"
+        ], 
+        "domain-name": "ghb.gov.cn", 
+        "fuzzer": "replacement"
+    }, 
+    {
+        "dns-a": [
+            "116.255.173.213"
+        ], 
+        "dns-ns": [
+            "ns1.01isp.com", 
+            "ns2.01isp.net"
+        ], 
+        "domain-name": "zyb.gov.cn", 
+        "fuzzer": "replacement"
+    }, 
+    {
+        "dns-a": [
+            "61.131.38.239"
+        ], 
+        "domain-name": "shb.gov.cn", 
+        "fuzzer": "replacement", 
+        "geoip-country": "China"
+    }, 
+    {
+        "dns-a": [
+            "202.105.183.126"
+        ], 
+        "domain-name": "zhh.gov.cn", 
+        "fuzzer": "replacement", 
+        "geoip-country": "China"
+    }, 
+    {
+        "dns-ns": [
+            "dns7.hichina.com", 
+            "dns8.hichina.com"
+        ], 
+        "domain-name": "hzb.gov.cn", 
+        "fuzzer": "transposition"
+    }, 
+    {
+        "dns-a": [
+            "203.78.142.12"
+        ], 
+        "domain-name": "zhb.cn", 
+        "fuzzer": "various"
+    }, 
+    {
+        "dns-ns": [
+            "f1g1ns1.dnspod.net", 
+            "f1g1ns2.dnspod.net"
+        ], 
+        "domain-name": "zhbgov.cn", 
+        "fuzzer": "various"
+    }
+]

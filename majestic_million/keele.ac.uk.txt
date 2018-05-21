@@ -1,0 +1,38 @@
+[
+    {
+        "dns-a": [
+            "160.5.40.87"
+        ], 
+        "dns-mx": [
+            "alt1.aspmx.l.google.com", 
+            "alt2.aspmx.l.google.com", 
+            "aspmx.l.google.com", 
+            "aspmx2.googlemail.com", 
+            "aspmx3.googlemail.com", 
+            "mailgateway1.keele.ac.uk", 
+            "mailgateway2.keele.ac.uk"
+        ], 
+        "dns-ns": [
+            "dns0.kis.keele.ac.uk", 
+            "dns1.kis.keele.ac.uk", 
+            "dns2.kis.keele.ac.uk", 
+            "dns3.kis.keele.ac.uk"
+        ], 
+        "domain-name": "keele.ac.uk", 
+        "fuzzer": "original*", 
+        "geoip-country": "United Kingdom", 
+        "ssdeep-score": 100
+    }, 
+    {
+        "dns-a": [
+            "184.168.221.46"
+        ], 
+        "dns-ns": [
+            "ns69.domaincontrol.com", 
+            "ns70.domaincontrol.com"
+        ], 
+        "domain-name": "keele.uk", 
+        "fuzzer": "various", 
+        "geoip-country": "United States"
+    }
+]

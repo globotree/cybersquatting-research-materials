@@ -1,0 +1,140 @@
+[
+    {
+        "dns-a": [
+            "75.101.146.169"
+        ], 
+        "dns-mx": [
+            "mxa-00262c01.gslb.pphosted.com", 
+            "mxb-00262c01.gslb.pphosted.com"
+        ], 
+        "dns-ns": [
+            "ns10.cbsig.net", 
+            "ns11.cbsig.net"
+        ], 
+        "domain-name": "simonandschuster.com", 
+        "fuzzer": "original*", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 83
+    }, 
+    {
+        "dns-a": [
+            "64.30.228.118"
+        ], 
+        "dns-ns": [
+            "ns10.cbsig.net", 
+            "ns11.cbsig.net"
+        ], 
+        "domain-name": "simonandschusters.com", 
+        "fuzzer": "addition", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 83
+    }, 
+    {
+        "dns-a": [
+            "209.251.186.66"
+        ], 
+        "dns-ns": [
+            "ns10.cbsig.net", 
+            "ns11.cbsig.net"
+        ], 
+        "domain-name": "simonandschuester.com", 
+        "fuzzer": "insertion", 
+        "geoip-country": "United States"
+    }, 
+    {
+        "dns-a": [
+            "67.55.92.184", 
+            "67.55.92.187"
+        ], 
+        "dns-mx": [
+            "mx7.simonandchuster.com"
+        ], 
+        "dns-ns": [
+            "ns1.liverealdeals.com", 
+            "ns2.liverealdeals.com"
+        ], 
+        "domain-name": "simonandchuster.com", 
+        "fuzzer": "omission", 
+        "geoip-country": "United States"
+    }, 
+    {
+        "dns-a": [
+            "54.72.11.253"
+        ], 
+        "dns-mx": [
+            "mail.h-email.net"
+        ], 
+        "dns-ns": [
+            "ns1.parkingcrew.net", 
+            "ns2.parkingcrew.net"
+        ], 
+        "domain-name": "simonandschuter.com", 
+        "fuzzer": "omission", 
+        "geoip-country": "Ireland", 
+        "mx-spy": true, 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "192.238.64.72"
+        ], 
+        "dns-ns": [
+            "ns10.cbsig.net", 
+            "ns11.cbsig.net"
+        ], 
+        "domain-name": "simonandshuster.com", 
+        "fuzzer": "omission", 
+        "geoip-country": "United States"
+    }, 
+    {
+        "dns-a": [
+            "141.8.224.93"
+        ], 
+        "dns-ns": [
+            "ns7.rookdns.com", 
+            "ns8.rookdns.com"
+        ], 
+        "domain-name": "simonsndschuster.com", 
+        "fuzzer": "replacement", 
+        "geoip-country": "Switzerland", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "52.86.22.136", 
+            "54.174.212.152"
+        ], 
+        "dns-ns": [
+            "ns1.namebrightdns.com", 
+            "ns2.namebrightdns.com"
+        ], 
+        "domain-name": "simonands.chuster.com", 
+        "fuzzer": "subdomain", 
+        "geoip-country": "United States"
+    }, 
+    {
+        "dns-a": [
+            "209.15.13.134"
+        ], 
+        "dns-mx": [
+            "mail.b-io.co"
+        ], 
+        "dns-ns": [
+            "ns1.dnslink.com", 
+            "ns2.dnslink.com"
+        ], 
+        "domain-name": "simonandsc.huster.com", 
+        "fuzzer": "subdomain", 
+        "geoip-country": "United States", 
+        "mx-spy": true, 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-ns": [
+            "ns1.uniregistrymarket.link", 
+            "ns2.uniregistrymarket.link"
+        ], 
+        "domain-name": "simonandschu.ster.com", 
+        "fuzzer": "subdomain"
+    }
+]

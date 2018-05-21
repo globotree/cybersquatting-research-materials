@@ -1,0 +1,147 @@
+[
+    {
+        "dns-a": [
+            "62.146.210.2", 
+            "62.146.210.52", 
+            "62.146.210.53", 
+            "62.146.210.54", 
+            "62.146.210.55"
+        ], 
+        "dns-aaaa": [
+            "2a01:138:a001:102:babe::6", 
+            "2a01:138:a001:102:babe::7", 
+            "2a01:138:a001:102:babe::8", 
+            "2a01:138:a001:102:babe::9", 
+            "2a01:138:a001:102:babe::a"
+        ], 
+        "dns-mx": [
+            "mx1.c01.avira.com", 
+            "mx2.c01.avira.com"
+        ], 
+        "dns-ns": [
+            "ns10.avira-ns.de", 
+            "ns12.avira-ns.de", 
+            "ns13.avira-ns.net", 
+            "ns14.avira-ns.de", 
+            "ns9.avira-ns.net"
+        ], 
+        "domain-name": "free-av.com", 
+        "fuzzer": "original*", 
+        "geoip-country": "Germany"
+    }, 
+    {
+        "dns-a": [
+            "68.178.213.61"
+        ], 
+        "dns-ns": [
+            "ns1.namefind.com", 
+            "ns2.namefind.com"
+        ], 
+        "domain-name": "free-ave.com", 
+        "fuzzer": "addition", 
+        "geoip-country": "United States"
+    }, 
+    {
+        "dns-a": [
+            "199.191.50.73"
+        ], 
+        "dns-ns": [
+            "ns111373.ztomy.com", 
+            "ns211373.ztomy.com"
+        ], 
+        "domain-name": "free-avg.com", 
+        "fuzzer": "addition", 
+        "geoip-country": "Virgin Islands"
+    }, 
+    {
+        "dns-a": [
+            "213.186.33.16"
+        ], 
+        "dns-mx": [
+            "mailstore1.secureserver.net", 
+            "smtp.secureserver.net"
+        ], 
+        "dns-ns": [
+            "ns19.domaincontrol.com", 
+            "ns20.domaincontrol.com"
+        ], 
+        "domain-name": "free-cv.com", 
+        "fuzzer": "bitsquatting", 
+        "geoip-country": "France"
+    }, 
+    {
+        "dns-a": [
+            "58.64.177.231"
+        ], 
+        "dns-ns": [
+            "ns3.01isp.com", 
+            "ns4.01isp.net"
+        ], 
+        "domain-name": "free-ar.com", 
+        "fuzzer": "bitsquatting", 
+        "geoip-country": "Hong Kong"
+    }, 
+    {
+        "dns-a": [
+            "54.194.79.44"
+        ], 
+        "dns-mx": [
+            "mx1.jimdo.com", 
+            "mx2.jimdo.com"
+        ], 
+        "dns-ns": [
+            "ns1.jimdo.com", 
+            "ns2.jimdo.com"
+        ], 
+        "domain-name": "free-af.com", 
+        "fuzzer": "bitsquatting", 
+        "geoip-country": "Ireland"
+    }, 
+    {
+        "dns-a": [
+            "98.124.199.30"
+        ], 
+        "dns-ns": [
+            "dns1.name-services.com", 
+            "dns2.name-services.com", 
+            "dns3.name-services.com", 
+            "dns4.name-services.com", 
+            "dns5.name-services.com"
+        ], 
+        "domain-name": "free-v.com", 
+        "fuzzer": "omission", 
+        "geoip-country": "United States"
+    }, 
+    {
+        "dns-mx": [
+            "mx1.c01.avira.com", 
+            "mx2.c01.avira.com"
+        ], 
+        "dns-ns": [
+            "ns10.avira-ns.de", 
+            "ns12.avira-ns.de", 
+            "ns13.avira-ns.net", 
+            "ns14.avira-ns.de", 
+            "ns9.avira-ns.net"
+        ], 
+        "domain-name": "freeav.com", 
+        "fuzzer": "omission"
+    }, 
+    {
+        "dns-mx": [
+            "alt1.aspmx.l.google.com", 
+            "alt2.aspmx.l.google.com", 
+            "alt3.aspmx.l.google.com", 
+            "alt4.aspmx.l.google.com", 
+            "aspmx.l.google.com"
+        ], 
+        "dns-ns": [
+            "ns-cloud-b1.googledomains.com", 
+            "ns-cloud-b2.googledomains.com", 
+            "ns-cloud-b3.googledomains.com", 
+            "ns-cloud-b4.googledomains.com"
+        ], 
+        "domain-name": "free-a.com", 
+        "fuzzer": "omission"
+    }
+]

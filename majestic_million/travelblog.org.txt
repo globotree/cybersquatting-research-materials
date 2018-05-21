@@ -1,0 +1,112 @@
+[
+    {
+        "dns-a": [
+            "104.131.125.221"
+        ], 
+        "dns-mx": [
+            "alt1.aspmx.l.google.com", 
+            "alt2.aspmx.l.google.com", 
+            "aspmx.l.google.com", 
+            "aspmx2.googlemail.com", 
+            "aspmx3.googlemail.com"
+        ], 
+        "dns-ns": [
+            "ns-1219.awsdns-24.org", 
+            "ns-1836.awsdns-37.co.uk", 
+            "ns-909.awsdns-49.net", 
+            "ns-97.awsdns-12.com"
+        ], 
+        "domain-name": "travelblog.org", 
+        "fuzzer": "original*", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 99
+    }, 
+    {
+        "dns-a": [
+            "5.22.149.135"
+        ], 
+        "dns-ns": [
+            "ns1.monikerdns.net", 
+            "ns2.monikerdns.net", 
+            "ns3.monikerdns.net", 
+            "ns4.monikerdns.net"
+        ], 
+        "domain-name": "travelblogg.org", 
+        "fuzzer": "addition", 
+        "geoip-country": "Germany", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "185.44.104.72"
+        ], 
+        "dns-aaaa": [
+            "2a00:f820:480::123"
+        ], 
+        "dns-mx": [
+            "mx0.travel-blog.org"
+        ], 
+        "dns-ns": [
+            "ns5.kasserver.com", 
+            "ns6.kasserver.com"
+        ], 
+        "domain-name": "travel-blog.org", 
+        "fuzzer": "hyphenation", 
+        "geoip-country": "Germany", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "91.207.158.90"
+        ], 
+        "dns-ns": [
+            "ns1.uniweb.no", 
+            "ns3.uniweb.no"
+        ], 
+        "domain-name": "travellog.org", 
+        "fuzzer": "omission", 
+        "geoip-country": "Norway", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "173.236.169.117"
+        ], 
+        "dns-ns": [
+            "ns1.dreamhost.com", 
+            "ns2.dreamhost.com", 
+            "ns3.dreamhost.com"
+        ], 
+        "domain-name": "traveblog.org", 
+        "fuzzer": "omission", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "74.220.199.9"
+        ], 
+        "domain-name": "travelvlog.org", 
+        "fuzzer": "replacement", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "68.178.213.61"
+        ], 
+        "domain-name": "travelbl.og.org", 
+        "fuzzer": "subdomain", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "188.166.216.219"
+        ], 
+        "domain-name": "travelblo.g.org", 
+        "fuzzer": "subdomain", 
+        "geoip-country": "Singapore", 
+        "ssdeep-score": 0
+    }
+]

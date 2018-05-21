@@ -1,0 +1,53 @@
+[
+    {
+        "dns-mx": [
+            "mailgw.tku.edu.tw"
+        ], 
+        "dns-ns": [
+            "secdns.tku.edu.tw", 
+            "tkurs1.tku.edu.tw"
+        ], 
+        "domain-name": "tku.edu.tw", 
+        "fuzzer": "original*"
+    }, 
+    {
+        "dns-mx": [
+            "ALT1.ASPMX.L.GOOGLE.COM", 
+            "ALT2.ASPMX.L.GOOGLE.COM", 
+            "ASPMX.L.GOOGLE.COM", 
+            "ASPMX2.GOOGLEMAIL.COM", 
+            "ASPMX3.GOOGLEMAIL.COM", 
+            "ASPMX4.GOOGLEMAIL.COM", 
+            "ASPMX5.GOOGLEMAIL.COM", 
+            "spam.tcu.edu.tw"
+        ], 
+        "dns-ns": [
+            "dns.tcu.edu.tw", 
+            "dns1.tcu.edu.tw", 
+            "dns2.tcu.edu.tw", 
+            "mercury.tcu.edu.tw", 
+            "venus.tcu.edu.tw"
+        ], 
+        "domain-name": "tcu.edu.tw", 
+        "fuzzer": "bitsquatting"
+    }, 
+    {
+        "dns-mx": [
+            "ALT1.ASPMX.L.GOOGLE.COM", 
+            "ALT2.ASPMX.L.GOOGLE.COM", 
+            "ASPMX.L.GOOGLE.COM", 
+            "ASPMX2.GOOGLEMAIL.COM", 
+            "ASPMX3.GOOGLEMAIL.COM", 
+            "ASPMX4.GOOGLEMAIL.COM", 
+            "ASPMX5.GOOGLEMAIL.COM"
+        ], 
+        "dns-ns": [
+            "ns1.tmu.edu.tw", 
+            "ns2.tmu.edu.tw", 
+            "ns3.tmu.edu.tw", 
+            "ns4.tmu.edu.tw"
+        ], 
+        "domain-name": "tmu.edu.tw", 
+        "fuzzer": "replacement"
+    }
+]

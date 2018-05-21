@@ -1,0 +1,112 @@
+[
+    {
+        "dns-mx": [
+            "dediextern.your-server.de"
+        ], 
+        "dns-ns": [
+            "ns.second-ns.com", 
+            "ns1.your-server.de", 
+            "ns3.second-ns.de"
+        ], 
+        "domain-name": "your-server.de", 
+        "fuzzer": "original*"
+    }, 
+    {
+        "dns-a": [
+            "188.40.131.68"
+        ], 
+        "dns-mx": [
+            "mail.our-server.de"
+        ], 
+        "dns-ns": [
+            "ns1.first-ns.de", 
+            "ns1.no-timeout.de", 
+            "robotns2.second-ns.de", 
+            "robotns3.second-ns.com"
+        ], 
+        "domain-name": "our-server.de", 
+        "fuzzer": "omission", 
+        "geoip-country": "Germany"
+    }, 
+    {
+        "dns-a": [
+            "78.46.75.24"
+        ], 
+        "dns-mx": [
+            "mail.yourserver.de"
+        ], 
+        "dns-ns": [
+            "ns01.yourserver.de", 
+            "ns02.yourserver.de", 
+            "ns03.yourserver.de", 
+            "ns04.yourserver.de"
+        ], 
+        "domain-name": "yourserver.de", 
+        "fuzzer": "omission", 
+        "geoip-country": "Germany"
+    }, 
+    {
+        "dns-a": [
+            "185.53.178.7"
+        ], 
+        "dns-mx": [
+            "mail.h-email.net"
+        ], 
+        "dns-ns": [
+            "ns1.parkingcrew.net", 
+            "ns2.parkingcrew.net"
+        ], 
+        "domain-name": "your-sever.de", 
+        "fuzzer": "omission", 
+        "geoip-country": "Germany", 
+        "mx-spy": true
+    }, 
+    {
+        "dns-a": [
+            "185.53.178.7"
+        ], 
+        "dns-mx": [
+            "mail.h-email.net"
+        ], 
+        "dns-ns": [
+            "ns1.parkingcrew.net", 
+            "ns2.parkingcrew.net"
+        ], 
+        "domain-name": "you-server.de", 
+        "fuzzer": "omission", 
+        "geoip-country": "Germany", 
+        "mx-spy": true
+    }, 
+    {
+        "dns-a": [
+            "188.40.131.68"
+        ], 
+        "domain-name": "y.our-server.de", 
+        "fuzzer": "subdomain", 
+        "geoip-country": "Germany"
+    }, 
+    {
+        "dns-a": [
+            "213.239.215.152"
+        ], 
+        "domain-name": "you.r-server.de", 
+        "fuzzer": "subdomain", 
+        "geoip-country": "Germany"
+    }, 
+    {
+        "dns-a": [
+            "88.198.231.1"
+        ], 
+        "dns-mx": [
+            "mail.b-io.co"
+        ], 
+        "dns-ns": [
+            "ns1.domainprofi.de", 
+            "ns2.domainprofi.de"
+        ], 
+        "domain-name": "your-se.rver.de", 
+        "fuzzer": "subdomain", 
+        "geoip-country": "Germany", 
+        "mx-spy": true
+    }
+]

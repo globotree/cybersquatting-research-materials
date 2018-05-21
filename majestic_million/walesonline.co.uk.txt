@@ -1,0 +1,147 @@
+[
+    {
+        "dns-a": [
+            "176.34.237.245", 
+            "176.34.246.220"
+        ], 
+        "dns-mx": [
+            "alt1.aspmx.l.google.com", 
+            "alt2.aspmx.l.google.com", 
+            "alt3.aspmx.l.google.com", 
+            "alt4.aspmx.l.google.com", 
+            "aspmx.l.google.com"
+        ], 
+        "dns-ns": [
+            "ns-1452.awsdns-53.org", 
+            "ns-1549.awsdns-01.co.uk", 
+            "ns-200.awsdns-25.com", 
+            "ns-879.awsdns-45.net"
+        ], 
+        "domain-name": "walesonline.co.uk", 
+        "fuzzer": "original*", 
+        "geoip-country": "Ireland", 
+        "ssdeep-score": 100
+    }, 
+    {
+        "dns-a": [
+            "141.8.224.169"
+        ], 
+        "dns-ns": [
+            "ns27.rookdns.com", 
+            "ns28.rookdns.com"
+        ], 
+        "domain-name": "walesonlineg.co.uk", 
+        "fuzzer": "addition", 
+        "geoip-country": "Switzerland", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-mx": [
+            "mx76.m2bp.com", 
+            "mx76.mb1p.com"
+        ], 
+        "dns-ns": [
+            "ns1.bodis.com", 
+            "ns2.bodis.com"
+        ], 
+        "domain-name": "salesonline.co.uk", 
+        "fuzzer": "bitsquatting", 
+        "mx-spy": true
+    }, 
+    {
+        "dns-a": [
+            "91.186.0.10"
+        ], 
+        "dns-mx": [
+            "mail.galesonline.co.uk"
+        ], 
+        "dns-ns": [
+            "ns27.eukdns.com", 
+            "ns28.eukdns.com"
+        ], 
+        "domain-name": "galesonline.co.uk", 
+        "fuzzer": "bitsquatting", 
+        "geoip-country": "United Kingdom"
+    }, 
+    {
+        "dns-a": [
+            "213.229.102.139"
+        ], 
+        "dns-ns": [
+            "ns1.kenby.com"
+        ], 
+        "domain-name": "wales-online.co.uk", 
+        "fuzzer": "hyphenation", 
+        "geoip-country": "United Kingdom", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "141.8.224.169"
+        ], 
+        "dns-ns": [
+            "ns27.rookdns.com", 
+            "ns28.rookdns.com"
+        ], 
+        "domain-name": "walesonine.co.uk", 
+        "fuzzer": "omission", 
+        "geoip-country": "Switzerland", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "141.8.224.169"
+        ], 
+        "dns-ns": [
+            "ns27.rookdns.com", 
+            "ns28.rookdns.com"
+        ], 
+        "domain-name": "walesonlone.co.uk", 
+        "fuzzer": "replacement", 
+        "geoip-country": "Switzerland", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "46.51.204.184"
+        ], 
+        "dns-mx": [
+            "fwd0.hosts.co.uk", 
+            "fwd1.hosts.co.uk", 
+            "fwd2.hosts.co.uk"
+        ], 
+        "dns-ns": [
+            "ns0.phase8.net", 
+            "ns1.phase8.net", 
+            "ns2.phase8.net"
+        ], 
+        "domain-name": "ealesonline.co.uk", 
+        "fuzzer": "replacement", 
+        "geoip-country": "Ireland", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "91.197.229.242"
+        ], 
+        "domain-name": "wale.sonline.co.uk", 
+        "fuzzer": "subdomain", 
+        "geoip-country": "United Kingdom"
+    }, 
+    {
+        "dns-a": [
+            "176.34.237.245", 
+            "176.34.246.220"
+        ], 
+        "dns-ns": [
+            "ns-1491.awsdns-58.org", 
+            "ns-1633.awsdns-12.co.uk", 
+            "ns-174.awsdns-21.com", 
+            "ns-778.awsdns-33.net"
+        ], 
+        "domain-name": "walesonline.uk", 
+        "fuzzer": "various", 
+        "geoip-country": "Ireland", 
+        "ssdeep-score": 100
+    }
+]

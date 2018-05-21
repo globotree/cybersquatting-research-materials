@@ -1,0 +1,229 @@
+[
+    {
+        "dns-a": [
+            "146.247.14.139"
+        ], 
+        "dns-mx": [
+            "mx.unicc.org", 
+            "mx10.unicc.org", 
+            "mx20.unicc.org"
+        ], 
+        "dns-ns": [
+            "ns-1127.awsdns-12.org", 
+            "ns-1747.awsdns-26.co.uk", 
+            "ns-399.awsdns-49.com", 
+            "ns-808.awsdns-37.net"
+        ], 
+        "domain-name": "unhcr.org", 
+        "fuzzer": "original*", 
+        "geoip-country": "Switzerland", 
+        "ssdeep-score": 100
+    }, 
+    {
+        "dns-a": [
+            "66.96.147.103"
+        ], 
+        "dns-mx": [
+            "mx.unhcrs.org"
+        ], 
+        "dns-ns": [
+            "ns1.ipage.com", 
+            "ns2.ipage.com"
+        ], 
+        "domain-name": "unhcrs.org", 
+        "fuzzer": "addition", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "67.20.78.201"
+        ], 
+        "dns-mx": [
+            "mail.unicr.org"
+        ], 
+        "dns-ns": [
+            "ns1.hostmonster.com", 
+            "ns2.hostmonster.com"
+        ], 
+        "domain-name": "unicr.org", 
+        "fuzzer": "bitsquatting", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-mx": [
+            "mx1.cpt.wa.co.za", 
+            "mx2.cpt.wa.co.za"
+        ], 
+        "dns-ns": [
+            "ns1.cpt.wa.co.za", 
+            "ns2.cpt.wa.co.za"
+        ], 
+        "domain-name": "un-hcr.org", 
+        "fuzzer": "hyphenation"
+    }, 
+    {
+        "dns-a": [
+            "207.148.248.143"
+        ], 
+        "domain-name": "nhcr.org", 
+        "fuzzer": "omission", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "103.224.182.251"
+        ], 
+        "dns-mx": [
+            "park-mx.above.com"
+        ], 
+        "dns-ns": [
+            "ns3.above.com", 
+            "ns4.above.com"
+        ], 
+        "domain-name": "uhcr.org", 
+        "fuzzer": "omission", 
+        "geoip-country": "Australia", 
+        "mx-spy": true, 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "72.52.4.120"
+        ], 
+        "dns-mx": [
+            "localhost"
+        ], 
+        "domain-name": "unhc.org", 
+        "fuzzer": "omission", 
+        "geoip-country": "United States", 
+        "mx-spy": true, 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "85.17.25.242"
+        ], 
+        "dns-ns": [
+            "ns1.smtmdns.com", 
+            "ns2.smtmdns.com"
+        ], 
+        "domain-name": "uncr.org", 
+        "fuzzer": "omission", 
+        "geoip-country": "Netherlands", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "103.224.212.222"
+        ], 
+        "dns-mx": [
+            "park-mx.above.com"
+        ], 
+        "dns-ns": [
+            "ns1.above.com", 
+            "ns2.above.com"
+        ], 
+        "domain-name": "unhr.org", 
+        "fuzzer": "omission", 
+        "geoip-country": "Australia", 
+        "mx-spy": true, 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "95.183.12.33"
+        ], 
+        "dns-mx": [
+            "mail.ungcr.org"
+        ], 
+        "dns-ns": [
+            "ns1.ihc.ru", 
+            "ns2.ihc.ru"
+        ], 
+        "domain-name": "ungcr.org", 
+        "fuzzer": "replacement", 
+        "geoip-country": "Russian Federation", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "185.53.178.8"
+        ], 
+        "dns-mx": [
+            "mail.h-email.net"
+        ], 
+        "dns-ns": [
+            "ns1.parkingcrew.net", 
+            "ns2.parkingcrew.net"
+        ], 
+        "domain-name": "unncr.org", 
+        "fuzzer": "replacement", 
+        "geoip-country": "Germany", 
+        "mx-spy": true, 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "185.53.179.8"
+        ], 
+        "dns-ns": [
+            "ns1.parkingcrew.net", 
+            "ns2.parkingcrew.net"
+        ], 
+        "domain-name": "unhcf.org", 
+        "fuzzer": "replacement", 
+        "geoip-country": "Germany", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "207.148.248.143"
+        ], 
+        "domain-name": "u.nhcr.org", 
+        "fuzzer": "subdomain", 
+        "geoip-country": "United States"
+    }, 
+    {
+        "dns-a": [
+            "98.124.199.35"
+        ], 
+        "domain-name": "unhc.r.org", 
+        "fuzzer": "subdomain", 
+        "geoip-country": "United States"
+    }, 
+    {
+        "dns-a": [
+            "104.200.22.130", 
+            "104.200.23.95"
+        ], 
+        "dns-mx": [
+            "mail.mxproc.com"
+        ], 
+        "dns-ns": [
+            "ns1.mytrafficmanagement.com", 
+            "ns2.mytrafficmanagement.com"
+        ], 
+        "domain-name": "unchr.org", 
+        "fuzzer": "transposition"
+    }, 
+    {
+        "dns-a": [
+            "72.52.179.175"
+        ], 
+        "dns-mx": [
+            "mx156.hostedmxserver.com"
+        ], 
+        "dns-ns": [
+            "ns1.parklogic.com", 
+            "ns2.parklogic.com", 
+            "ns3.parklogic.com", 
+            "ns4.parklogic.com", 
+            "ns5.parklogic.com"
+        ], 
+        "domain-name": "unhrc.org", 
+        "fuzzer": "transposition"
+    }
+]

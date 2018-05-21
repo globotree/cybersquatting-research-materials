@@ -1,0 +1,67 @@
+[
+    {
+        "dns-a": [
+            "104.25.250.13", 
+            "104.25.251.13"
+        ], 
+        "dns-aaaa": [
+            "2400:cb00:2048:1::6819:fa0d", 
+            "2400:cb00:2048:1::6819:fb0d"
+        ], 
+        "dns-mx": [
+            "dc-3d7401922b29.monstersandcritics.com"
+        ], 
+        "dns-ns": [
+            "dina.ns.cloudflare.com", 
+            "jack.ns.cloudflare.com"
+        ], 
+        "domain-name": "monstersandcritics.com", 
+        "fuzzer": "original*", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 96
+    }, 
+    {
+        "dns-a": [
+            "218.251.65.186"
+        ], 
+        "dns-mx": [
+            "monsterandcritics.com"
+        ], 
+        "dns-ns": [
+            "ns1.k032jp0692.info", 
+            "ns2.k032jp0692.info"
+        ], 
+        "domain-name": "monsterandcritics.com", 
+        "fuzzer": "omission", 
+        "geoip-country": "Japan"
+    }, 
+    {
+        "dns-a": [
+            "185.53.179.6"
+        ], 
+        "dns-mx": [
+            "mail.h-email.net"
+        ], 
+        "dns-ns": [
+            "ns1.parkingcrew.net", 
+            "ns2.parkingcrew.net"
+        ], 
+        "domain-name": "monstersandcr.itics.com", 
+        "fuzzer": "subdomain", 
+        "geoip-country": "Germany", 
+        "mx-spy": true
+    }, 
+    {
+        "dns-a": [
+            "69.172.201.153"
+        ], 
+        "dns-ns": [
+            "ns1.uniregistrymarket.link", 
+            "ns2.uniregistrymarket.link"
+        ], 
+        "domain-name": "monstersandcri.tics.com", 
+        "fuzzer": "subdomain", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 0
+    }
+]

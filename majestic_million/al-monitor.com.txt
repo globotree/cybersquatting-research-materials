@@ -1,0 +1,106 @@
+[
+    {
+        "dns-a": [
+            "104.20.67.161", 
+            "104.20.68.161"
+        ], 
+        "dns-aaaa": [
+            "2400:cb00:2048:1::6814:43a1", 
+            "2400:cb00:2048:1::6814:44a1"
+        ], 
+        "dns-mx": [
+            "dc-2ef5cb03917d.al-monitor.com", 
+            "dc-88bd0a0a6a9f.al-monitor.com"
+        ], 
+        "dns-ns": [
+            "dara.ns.cloudflare.com", 
+            "ian.ns.cloudflare.com"
+        ], 
+        "domain-name": "al-monitor.com", 
+        "fuzzer": "original*", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 100
+    }, 
+    {
+        "dns-ns": [
+            "ns-cloud-c1.googledomains.com", 
+            "ns-cloud-c2.googledomains.com", 
+            "ns-cloud-c3.googledomains.com", 
+            "ns-cloud-c4.googledomains.com"
+        ], 
+        "domain-name": "cl-monitor.com", 
+        "fuzzer": "bitsquatting"
+    }, 
+    {
+        "dns-a": [
+            "94.126.40.154"
+        ], 
+        "dns-mx": [
+            "mailforward.lcn.com"
+        ], 
+        "dns-ns": [
+            "ns0.lcn.com", 
+            "ns1.lcn.com"
+        ], 
+        "domain-name": "am-monitor.com", 
+        "fuzzer": "bitsquatting", 
+        "geoip-country": "United Kingdom", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "204.197.251.201"
+        ], 
+        "dns-mx": [
+            "ad-monitor.com"
+        ], 
+        "dns-ns": [
+            "ns1.ad-monitor.com", 
+            "ns2.ad-monitor.com"
+        ], 
+        "domain-name": "ad-monitor.com", 
+        "fuzzer": "bitsquatting", 
+        "geoip-country": "United States"
+    }, 
+    {
+        "dns-a": [
+            "50.63.202.42"
+        ], 
+        "dns-mx": [
+            "mailstore1.secureserver.net", 
+            "smtp.secureserver.net"
+        ], 
+        "dns-ns": [
+            "ns29.domaincontrol.com", 
+            "ns30.domaincontrol.com"
+        ], 
+        "domain-name": "ai-monitor.com", 
+        "fuzzer": "homoglyph", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "173.236.176.176"
+        ], 
+        "dns-mx": [
+            "mail.al-monitor.com"
+        ], 
+        "dns-ns": [
+            "ns1.dreamhost.com", 
+            "ns2.dreamhost.com", 
+            "ns3.dreamhost.com"
+        ], 
+        "domain-name": "almonitor.com", 
+        "fuzzer": "omission"
+    }, 
+    {
+        "dns-a": [
+            "46.32.240.39"
+        ], 
+        "domain-name": "al-m.onitor.com", 
+        "fuzzer": "subdomain", 
+        "geoip-country": "United Kingdom", 
+        "ssdeep-score": 0
+    }
+]

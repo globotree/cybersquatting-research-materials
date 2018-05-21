@@ -1,0 +1,48 @@
+[
+    {
+        "dns-a": [
+            "109.228.36.175"
+        ], 
+        "dns-mx": [
+            "ALT1.ASPMX.L.GOOGLE.COM", 
+            "ALT2.ASPMX.L.GOOGLE.COM", 
+            "ALT3.ASPMX.L.GOOGLE.COM", 
+            "ALT4.ASPMX.L.GOOGLE.COM", 
+            "ASPMX.L.GOOGLE.COM"
+        ], 
+        "dns-ns": [
+            "ns41.domaincontrol.com", 
+            "ns42.domaincontrol.com"
+        ], 
+        "domain-name": "youronlinechoices.eu", 
+        "fuzzer": "original*", 
+        "geoip-country": "United Kingdom", 
+        "ssdeep-score": 100
+    }, 
+    {
+        "dns-a": [
+            "194.88.107.208"
+        ], 
+        "dns-mx": [
+            "mail.youronlinechoice.eu", 
+            "mail.youronlinechoice.eu"
+        ], 
+        "dns-ns": [
+            "ns1.dnsdomen.info", 
+            "ns2.dnsdomen.info"
+        ], 
+        "domain-name": "youronlinechoice.eu", 
+        "fuzzer": "omission", 
+        "geoip-country": "Belgium", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "213.187.247.79"
+        ], 
+        "domain-name": "youronline.choices.eu", 
+        "fuzzer": "subdomain", 
+        "geoip-country": "Lebanon", 
+        "ssdeep-score": 0
+    }
+]

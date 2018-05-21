@@ -1,0 +1,131 @@
+[
+    {
+        "dns-a": [
+            "213.52.133.241"
+        ], 
+        "dns-mx": [
+            "yougov-co-uk.mail.protection.outlook.com"
+        ], 
+        "dns-ns": [
+            "dns1.cscdns.net", 
+            "dns2.cscdns.net"
+        ], 
+        "domain-name": "yougov.co.uk", 
+        "fuzzer": "original*", 
+        "geoip-country": "Russian Federation", 
+        "ssdeep-score": 99
+    }, 
+    {
+        "dns-a": [
+            "217.19.248.132"
+        ], 
+        "dns-mx": [
+            "cluster1.uk.messagelabs.com", 
+            "cluster1a.uk.messagelabs.com"
+        ], 
+        "dns-ns": [
+            "dns1.idp365.net", 
+            "dns2.idp365.net", 
+            "dns3.idp365.net"
+        ], 
+        "domain-name": "yougo.co.uk", 
+        "fuzzer": "omission", 
+        "geoip-country": "United Kingdom", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "72.52.4.120"
+        ], 
+        "dns-mx": [
+            "localhost"
+        ], 
+        "dns-ns": [
+            "ns1.sedoparking.com", 
+            "ns2.sedoparking.com"
+        ], 
+        "domain-name": "yogov.co.uk", 
+        "fuzzer": "omission", 
+        "geoip-country": "United States", 
+        "mx-spy": true, 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "72.52.4.120"
+        ], 
+        "dns-mx": [
+            "localhost"
+        ], 
+        "dns-ns": [
+            "ns1.sedoparking.com", 
+            "ns2.sedoparking.com"
+        ], 
+        "domain-name": "yugov.co.uk", 
+        "fuzzer": "omission", 
+        "geoip-country": "United States", 
+        "mx-spy": true, 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "72.52.4.119"
+        ], 
+        "dns-mx": [
+            "localhost"
+        ], 
+        "dns-ns": [
+            "ns1.sedoparking.com", 
+            "ns2.sedoparking.com"
+        ], 
+        "domain-name": "yo.ugov.co.uk", 
+        "fuzzer": "subdomain", 
+        "geoip-country": "United States", 
+        "mx-spy": true, 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "69.172.201.153"
+        ], 
+        "dns-ns": [
+            "ns1.uniregistrymarket.link", 
+            "ns2.uniregistrymarket.link"
+        ], 
+        "domain-name": "youg.ov.co.uk", 
+        "fuzzer": "subdomain", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "72.52.4.120"
+        ], 
+        "dns-mx": [
+            "localhost"
+        ], 
+        "dns-ns": [
+            "ns1.sedoparking.com", 
+            "ns2.sedoparking.com"
+        ], 
+        "domain-name": "yuogov.co.uk", 
+        "fuzzer": "transposition", 
+        "geoip-country": "United States", 
+        "mx-spy": true, 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "62.50.38.91"
+        ], 
+        "dns-mx": [
+            "custmx.cscdns.net"
+        ], 
+        "dns-ns": [
+            "dns1.cscdns.net", 
+            "dns2.cscdns.net"
+        ], 
+        "domain-name": "youguv.co.uk", 
+        "fuzzer": "vowel-swap"
+    }
+]

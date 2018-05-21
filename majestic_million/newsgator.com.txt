@@ -1,0 +1,102 @@
+[
+    {
+        "dns-a": [
+            "192.237.142.203"
+        ], 
+        "dns-mx": [
+            "newsgator-com.mail.protection.outlook.com"
+        ], 
+        "dns-ns": [
+            "ns1.viawest.net", 
+            "ns2.viawest.net"
+        ], 
+        "domain-name": "newsgator.com", 
+        "fuzzer": "original*", 
+        "geoip-country": "United States"
+    }, 
+    {
+        "dns-a": [
+            "50.63.202.75"
+        ], 
+        "dns-mx": [
+            "mailstore1.secureserver.net", 
+            "smtp.secureserver.net"
+        ], 
+        "dns-ns": [
+            "ns57.domaincontrol.com", 
+            "ns58.domaincontrol.com"
+        ], 
+        "domain-name": "newsgators.com", 
+        "fuzzer": "addition", 
+        "geoip-country": "United States"
+    }, 
+    {
+        "dns-a": [
+            "184.168.221.96"
+        ], 
+        "dns-mx": [
+            "0", 
+            "10"
+        ], 
+        "dns-ns": [
+            "ns01.cashparking.com", 
+            "ns02.cashparking.com"
+        ], 
+        "domain-name": "news-gator.com", 
+        "fuzzer": "hyphenation", 
+        "geoip-country": "United States", 
+        "mx-spy": true
+    }, 
+    {
+        "dns-a": [
+            "103.11.188.125"
+        ], 
+        "dns-mx": [
+            "newsygator.com"
+        ], 
+        "dns-ns": [
+            "ns1.hostsoln.com", 
+            "ns2.hostsoln.com"
+        ], 
+        "domain-name": "newsygator.com", 
+        "fuzzer": "insertion", 
+        "geoip-country": "Singapore"
+    }, 
+    {
+        "dns-a": [
+            "52.86.22.136", 
+            "54.174.212.152"
+        ], 
+        "dns-ns": [
+            "ns1.namebrightdns.com", 
+            "ns2.namebrightdns.com"
+        ], 
+        "domain-name": "newgator.com", 
+        "fuzzer": "omission", 
+        "geoip-country": "United States"
+    }, 
+    {
+        "dns-a": [
+            "74.220.199.6"
+        ], 
+        "domain-name": "newzgator.com", 
+        "fuzzer": "replacement", 
+        "geoip-country": "United States"
+    }, 
+    {
+        "dns-a": [
+            "50.63.202.4"
+        ], 
+        "dns-mx": [
+            "mailstore1.secureserver.net", 
+            "smtp.secureserver.net"
+        ], 
+        "dns-ns": [
+            "ns65.domaincontrol.com", 
+            "ns66.domaincontrol.com"
+        ], 
+        "domain-name": "newsgater.com", 
+        "fuzzer": "vowel-swap", 
+        "geoip-country": "United States"
+    }
+]

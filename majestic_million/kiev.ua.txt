@@ -1,0 +1,54 @@
+[
+    {
+        "dns-ns": [
+            "ba1.ns.ua", 
+            "ho1.ns.kiev.ua", 
+            "k.ns.com.ua", 
+            "nix.ns.ua", 
+            "sns-pb.isc.org"
+        ], 
+        "domain-name": "kiev.ua", 
+        "fuzzer": "original*"
+    }, 
+    {
+        "dns-a": [
+            "194.183.172.244"
+        ], 
+        "dns-mx": [
+            "mail.ikiev.ua", 
+            "mail.ikiev.ua"
+        ], 
+        "dns-ns": [
+            "ns1.p-host.kiev.ua", 
+            "ns2.p-host.kiev.ua"
+        ], 
+        "domain-name": "ikiev.ua", 
+        "fuzzer": "homoglyph", 
+        "geoip-country": "Ukraine"
+    }, 
+    {
+        "dns-a": [
+            "195.149.114.22"
+        ], 
+        "dns-ns": [
+            "parked1.uadns.com", 
+            "parked2.uadns.com"
+        ], 
+        "domain-name": "ki.ev.ua", 
+        "fuzzer": "subdomain", 
+        "geoip-country": "Ukraine"
+    }, 
+    {
+        "dns-a": [
+            "52.86.22.136", 
+            "54.174.212.152"
+        ], 
+        "dns-ns": [
+            "ns1.namebrightdns.com", 
+            "ns2.namebrightdns.com"
+        ], 
+        "domain-name": "kiev-ua.com", 
+        "fuzzer": "various", 
+        "geoip-country": "United States"
+    }
+]

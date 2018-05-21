@@ -1,0 +1,813 @@
+[
+    {
+        "dns-a": [
+            "104.40.211.35", 
+            "104.43.195.251", 
+            "191.239.213.197", 
+            "23.100.122.175", 
+            "23.96.52.53"
+        ], 
+        "dns-ns": [
+            "ns1.msft.net", 
+            "ns2.msft.net", 
+            "ns3.msft.net", 
+            "ns4.msft.net"
+        ], 
+        "domain-name": "microsoftstore.com", 
+        "fuzzer": "original*", 
+        "geoip-country": "Netherlands", 
+        "ssdeep-score": 91
+    }, 
+    {
+        "dns-a": [
+            "104.215.95.187", 
+            "52.164.206.56"
+        ], 
+        "dns-ns": [
+            "ns1.msft.net", 
+            "ns2.msft.net", 
+            "ns3.msft.net", 
+            "ns4.msft.net"
+        ], 
+        "domain-name": "microsoftstores.com", 
+        "fuzzer": "addition", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 91
+    }, 
+    {
+        "dns-a": [
+            "216.239.32.21", 
+            "216.239.34.21", 
+            "216.239.36.21", 
+            "216.239.38.21"
+        ], 
+        "domain-name": "macrosoftstore.com", 
+        "fuzzer": "bitsquatting", 
+        "geoip-country": "United States"
+    }, 
+    {
+        "dns-a": [
+            "104.215.95.187", 
+            "52.164.206.56"
+        ], 
+        "dns-ns": [
+            "ns1.msft.net", 
+            "ns2.msft.net", 
+            "ns3.msft.net", 
+            "ns4.msft.net"
+        ], 
+        "domain-name": "micr0softstore.com", 
+        "fuzzer": "homoglyph", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 93
+    }, 
+    {
+        "dns-a": [
+            "104.215.95.187", 
+            "52.164.206.56"
+        ], 
+        "dns-ns": [
+            "ns1.msft.net", 
+            "ns2.msft.net", 
+            "ns3.msft.net", 
+            "ns4.msft.net"
+        ], 
+        "domain-name": "microsoftst0re.com", 
+        "fuzzer": "homoglyph", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 91
+    }, 
+    {
+        "dns-a": [
+            "104.215.95.187", 
+            "52.164.206.56"
+        ], 
+        "dns-ns": [
+            "ns1.msft.net", 
+            "ns2.msft.net", 
+            "ns3.msft.net", 
+            "ns4.msft.net"
+        ], 
+        "domain-name": "micros0ftstore.com", 
+        "fuzzer": "homoglyph", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 91
+    }, 
+    {
+        "dns-a": [
+            "198.54.117.200"
+        ], 
+        "dns-ns": [
+            "dns101.registrar-servers.com", 
+            "dns102.registrar-servers.com"
+        ], 
+        "domain-name": "xn--mcrosoftstore-39b.com", 
+        "fuzzer": "homoglyph", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-ns": [
+            "dns1.name-services.com", 
+            "dns2.name-services.com", 
+            "dns3.name-services.com", 
+            "dns4.name-services.com", 
+            "dns5.name-services.com"
+        ], 
+        "domain-name": "m1crosoftstore.com", 
+        "fuzzer": "homoglyph"
+    }, 
+    {
+        "dns-a": [
+            "68.65.122.60"
+        ], 
+        "dns-ns": [
+            "dns1.registrar-servers.com", 
+            "dns2.registrar-servers.com"
+        ], 
+        "domain-name": "micro-softstore.com", 
+        "fuzzer": "hyphenation", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "199.59.242.150"
+        ], 
+        "dns-mx": [
+            "mx76.m2bp.com", 
+            "mx76.mb1p.com"
+        ], 
+        "dns-ns": [
+            "ns1.bodis.com", 
+            "ns2.bodis.com"
+        ], 
+        "domain-name": "microsoftstrore.com", 
+        "fuzzer": "insertion", 
+        "geoip-country": "United States", 
+        "mx-spy": true, 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "104.215.95.187", 
+            "52.164.206.56"
+        ], 
+        "dns-ns": [
+            "ns1.msft.net", 
+            "ns2.msft.net", 
+            "ns3.msft.net", 
+            "ns4.msft.net"
+        ], 
+        "domain-name": "microsofttstore.com", 
+        "fuzzer": "insertion", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 91
+    }, 
+    {
+        "dns-a": [
+            "199.59.242.150"
+        ], 
+        "dns-mx": [
+            "mx76.m2bp.com", 
+            "mx76.mb1p.com"
+        ], 
+        "dns-ns": [
+            "ns1.bodis.com", 
+            "ns2.bodis.com"
+        ], 
+        "domain-name": "microsoftestore.com", 
+        "fuzzer": "insertion", 
+        "geoip-country": "United States", 
+        "mx-spy": true, 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "104.215.95.187", 
+            "52.164.206.56"
+        ], 
+        "dns-ns": [
+            "ns1.msft.net", 
+            "ns2.msft.net", 
+            "ns3.msft.net", 
+            "ns4.msft.net"
+        ], 
+        "domain-name": "microsofftstore.com", 
+        "fuzzer": "insertion", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 91
+    }, 
+    {
+        "dns-a": [
+            "104.215.95.187", 
+            "52.164.206.56"
+        ], 
+        "dns-ns": [
+            "ns1.msft.net", 
+            "ns2.msft.net", 
+            "ns3.msft.net", 
+            "ns4.msft.net"
+        ], 
+        "domain-name": "microsoftstre.com", 
+        "fuzzer": "omission", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 91
+    }, 
+    {
+        "dns-ns": [
+            "ns1.msft.net", 
+            "ns2.msft.net", 
+            "ns3.msft.net", 
+            "ns4.msft.net"
+        ], 
+        "domain-name": "microsoftstoe.com", 
+        "fuzzer": "omission"
+    }, 
+    {
+        "dns-a": [
+            "104.215.95.187", 
+            "52.164.206.56"
+        ], 
+        "dns-ns": [
+            "ns1.msft.net", 
+            "ns2.msft.net", 
+            "ns3.msft.net", 
+            "ns4.msft.net"
+        ], 
+        "domain-name": "microsftstore.com", 
+        "fuzzer": "omission", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 91
+    }, 
+    {
+        "dns-a": [
+            "104.215.95.187", 
+            "52.164.206.56"
+        ], 
+        "dns-ns": [
+            "ns1.msft.net", 
+            "ns2.msft.net", 
+            "ns3.msft.net", 
+            "ns4.msft.net"
+        ], 
+        "domain-name": "mirosoftstore.com", 
+        "fuzzer": "omission", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 91
+    }, 
+    {
+        "dns-a": [
+            "104.215.95.187", 
+            "52.164.206.56"
+        ], 
+        "dns-ns": [
+            "ns1.msft.net", 
+            "ns2.msft.net", 
+            "ns3.msft.net", 
+            "ns4.msft.net"
+        ], 
+        "domain-name": "microsofttore.com", 
+        "fuzzer": "omission", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 93
+    }, 
+    {
+        "dns-a": [
+            "104.215.95.187", 
+            "52.164.206.56"
+        ], 
+        "dns-ns": [
+            "ns1.msft.net", 
+            "ns2.msft.net", 
+            "ns3.msft.net", 
+            "ns4.msft.net"
+        ], 
+        "domain-name": "microsotstore.com", 
+        "fuzzer": "omission", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 91
+    }, 
+    {
+        "dns-a": [
+            "104.215.95.187", 
+            "52.164.206.56"
+        ], 
+        "dns-ns": [
+            "ns1.msft.net", 
+            "ns2.msft.net", 
+            "ns3.msft.net", 
+            "ns4.msft.net"
+        ], 
+        "domain-name": "microoftstore.com", 
+        "fuzzer": "omission", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 91
+    }, 
+    {
+        "dns-a": [
+            "104.215.95.187", 
+            "52.164.206.56"
+        ], 
+        "dns-ns": [
+            "ns1.msft.net", 
+            "ns2.msft.net", 
+            "ns3.msft.net", 
+            "ns4.msft.net"
+        ], 
+        "domain-name": "micosoftstore.com", 
+        "fuzzer": "omission", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 91
+    }, 
+    {
+        "dns-a": [
+            "104.215.95.187", 
+            "52.164.206.56"
+        ], 
+        "dns-ns": [
+            "ns1.msft.net", 
+            "ns2.msft.net", 
+            "ns3.msft.net", 
+            "ns4.msft.net"
+        ], 
+        "domain-name": "microsoftstor.com", 
+        "fuzzer": "omission", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 91
+    }, 
+    {
+        "dns-a": [
+            "104.215.95.187", 
+            "52.164.206.56"
+        ], 
+        "dns-ns": [
+            "ns1.msft.net", 
+            "ns2.msft.net", 
+            "ns3.msft.net", 
+            "ns4.msft.net"
+        ], 
+        "domain-name": "microsoftsore.com", 
+        "fuzzer": "omission", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 91
+    }, 
+    {
+        "dns-a": [
+            "104.215.95.187", 
+            "52.164.206.56"
+        ], 
+        "dns-ns": [
+            "ns1.msft.net", 
+            "ns2.msft.net", 
+            "ns3.msft.net", 
+            "ns4.msft.net"
+        ], 
+        "domain-name": "icrosoftstore.com", 
+        "fuzzer": "omission", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 91
+    }, 
+    {
+        "dns-a": [
+            "104.215.95.187", 
+            "52.164.206.56"
+        ], 
+        "dns-ns": [
+            "ns1.msft.net", 
+            "ns2.msft.net", 
+            "ns3.msft.net", 
+            "ns4.msft.net"
+        ], 
+        "domain-name": "microsofstore.com", 
+        "fuzzer": "omission", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 91
+    }, 
+    {
+        "dns-a": [
+            "104.215.95.187", 
+            "52.164.206.56"
+        ], 
+        "dns-ns": [
+            "ns1.msft.net", 
+            "ns2.msft.net", 
+            "ns3.msft.net", 
+            "ns4.msft.net"
+        ], 
+        "domain-name": "mcrosoftstore.com", 
+        "fuzzer": "omission", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 91
+    }, 
+    {
+        "dns-a": [
+            "104.215.95.187", 
+            "52.164.206.56"
+        ], 
+        "dns-ns": [
+            "ns1.msft.net", 
+            "ns2.msft.net", 
+            "ns3.msft.net", 
+            "ns4.msft.net"
+        ], 
+        "domain-name": "micrsoftstore.com", 
+        "fuzzer": "omission", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 91
+    }, 
+    {
+        "dns-a": [
+            "104.215.95.187", 
+            "52.164.206.56"
+        ], 
+        "dns-ns": [
+            "ns1.msft.net", 
+            "ns2.msft.net", 
+            "ns3.msft.net", 
+            "ns4.msft.net"
+        ], 
+        "domain-name": "miicrosoftstore.com", 
+        "fuzzer": "repetition", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 91
+    }, 
+    {
+        "dns-a": [
+            "185.53.178.6"
+        ], 
+        "dns-ns": [
+            "ns1.parkingcrew.net", 
+            "ns2.parkingcrew.net"
+        ], 
+        "domain-name": "microssoftstore.com", 
+        "fuzzer": "repetition", 
+        "geoip-country": "Germany", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "104.215.95.187", 
+            "52.164.206.56"
+        ], 
+        "dns-ns": [
+            "ns1.msft.net", 
+            "ns2.msft.net", 
+            "ns3.msft.net", 
+            "ns4.msft.net"
+        ], 
+        "domain-name": "microosoftstore.com", 
+        "fuzzer": "repetition", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 91
+    }, 
+    {
+        "dns-a": [
+            "104.215.95.187", 
+            "52.164.206.56"
+        ], 
+        "dns-ns": [
+            "ns1.msft.net", 
+            "ns2.msft.net", 
+            "ns3.msft.net", 
+            "ns4.msft.net"
+        ], 
+        "domain-name": "miccrosoftstore.com", 
+        "fuzzer": "repetition", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 91
+    }, 
+    {
+        "dns-a": [
+            "104.215.95.187", 
+            "52.164.206.56"
+        ], 
+        "dns-ns": [
+            "ns1.msft.net", 
+            "ns2.msft.net", 
+            "ns3.msft.net", 
+            "ns4.msft.net"
+        ], 
+        "domain-name": "microsoftsstore.com", 
+        "fuzzer": "repetition", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 91
+    }, 
+    {
+        "dns-a": [
+            "119.28.48.240"
+        ], 
+        "dns-ns": [
+            "a.dnspod.com", 
+            "b.dnspod.com", 
+            "c.dnspod.com"
+        ], 
+        "domain-name": "microsiftstore.com", 
+        "fuzzer": "replacement", 
+        "geoip-country": "China", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "158.85.160.38"
+        ], 
+        "dns-ns": [
+            "f1g1ns1.dnspod.net", 
+            "f1g1ns2.dnspod.net"
+        ], 
+        "domain-name": "microsoftstire.com", 
+        "fuzzer": "replacement", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "141.8.224.195"
+        ], 
+        "dns-ns": [
+            "ns1.dsredirects.com", 
+            "ns2.dsredirects.com"
+        ], 
+        "domain-name": "microsoftatore.com", 
+        "fuzzer": "replacement", 
+        "geoip-country": "Switzerland", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "185.53.179.6"
+        ], 
+        "dns-mx": [
+            "mail.h-email.net"
+        ], 
+        "dns-ns": [
+            "ns1.parkingcrew.net", 
+            "ns2.parkingcrew.net"
+        ], 
+        "domain-name": "mocrosoftstore.com", 
+        "fuzzer": "replacement", 
+        "geoip-country": "Germany", 
+        "mx-spy": true, 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "119.28.48.240"
+        ], 
+        "dns-ns": [
+            "a.dnspod.com", 
+            "b.dnspod.com", 
+            "c.dnspod.com"
+        ], 
+        "domain-name": "microsofrstore.com", 
+        "fuzzer": "replacement", 
+        "geoip-country": "China", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "199.59.242.150"
+        ], 
+        "dns-mx": [
+            "mx76.m2bp.com", 
+            "mx76.mb1p.com"
+        ], 
+        "dns-ns": [
+            "ns1.bodis.com", 
+            "ns2.bodis.com"
+        ], 
+        "domain-name": "micrisoftstore.com", 
+        "fuzzer": "replacement", 
+        "geoip-country": "United States", 
+        "mx-spy": true, 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "119.28.48.240"
+        ], 
+        "dns-ns": [
+            "a.dnspod.com", 
+            "b.dnspod.com", 
+            "c.dnspod.com"
+        ], 
+        "domain-name": "miceosoftstore.com", 
+        "fuzzer": "replacement", 
+        "geoip-country": "China", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "119.28.48.240"
+        ], 
+        "dns-ns": [
+            "a.dnspod.com", 
+            "b.dnspod.com", 
+            "c.dnspod.com"
+        ], 
+        "domain-name": "microsoftsrore.com", 
+        "fuzzer": "replacement", 
+        "geoip-country": "China", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "72.52.4.119"
+        ], 
+        "dns-mx": [
+            "localhost"
+        ], 
+        "dns-ns": [
+            "ns1.sedoparking.com", 
+            "ns2.sedoparking.com"
+        ], 
+        "domain-name": "micro.softstore.com", 
+        "fuzzer": "subdomain", 
+        "geoip-country": "United States", 
+        "mx-spy": true, 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "52.86.22.136", 
+            "54.174.212.152"
+        ], 
+        "domain-name": "microso.ftstore.com", 
+        "fuzzer": "subdomain", 
+        "geoip-country": "United States"
+    }, 
+    {
+        "dns-a": [
+            "216.21.239.197"
+        ], 
+        "domain-name": "microsof.tstore.com", 
+        "fuzzer": "subdomain", 
+        "geoip-country": "United States"
+    }, 
+    {
+        "dns-a": [
+            "64.30.228.118"
+        ], 
+        "domain-name": "microsoft.store.com", 
+        "fuzzer": "subdomain", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "72.52.4.119"
+        ], 
+        "dns-mx": [
+            "localhost"
+        ], 
+        "dns-ns": [
+            "ns1.sedoparking.com", 
+            "ns2.sedoparking.com"
+        ], 
+        "domain-name": "microsofts.tore.com", 
+        "fuzzer": "subdomain", 
+        "geoip-country": "United States", 
+        "mx-spy": true, 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "104.215.95.187", 
+            "52.164.206.56"
+        ], 
+        "dns-ns": [
+            "ns1.msft.net", 
+            "ns2.msft.net", 
+            "ns3.msft.net", 
+            "ns4.msft.net"
+        ], 
+        "domain-name": "imcrosoftstore.com", 
+        "fuzzer": "transposition", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 91
+    }, 
+    {
+        "dns-a": [
+            "104.215.95.187", 
+            "52.164.206.56"
+        ], 
+        "dns-ns": [
+            "ns1.msft.net", 
+            "ns2.msft.net", 
+            "ns3.msft.net", 
+            "ns4.msft.net"
+        ], 
+        "domain-name": "mcirosoftstore.com", 
+        "fuzzer": "transposition", 
+        "geoip-country": "United States"
+    }, 
+    {
+        "dns-a": [
+            "185.53.178.7"
+        ], 
+        "dns-ns": [
+            "ns1.parkingcrew.net", 
+            "ns2.parkingcrew.net"
+        ], 
+        "domain-name": "mircosoftstore.com", 
+        "fuzzer": "transposition", 
+        "geoip-country": "Germany", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "104.215.95.187", 
+            "52.164.206.56"
+        ], 
+        "dns-ns": [
+            "ns1.msft.net", 
+            "ns2.msft.net", 
+            "ns3.msft.net", 
+            "ns4.msft.net"
+        ], 
+        "domain-name": "micorsoftstore.com", 
+        "fuzzer": "transposition", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 91
+    }, 
+    {
+        "dns-a": [
+            "104.215.95.187", 
+            "52.164.206.56"
+        ], 
+        "dns-ns": [
+            "ns1.msft.net", 
+            "ns2.msft.net", 
+            "ns3.msft.net", 
+            "ns4.msft.net"
+        ], 
+        "domain-name": "microsfotstore.com", 
+        "fuzzer": "transposition", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 91
+    }, 
+    {
+        "dns-a": [
+            "104.215.95.187", 
+            "52.164.206.56"
+        ], 
+        "dns-ns": [
+            "ns1.msft.net", 
+            "ns2.msft.net", 
+            "ns3.msft.net", 
+            "ns4.msft.net"
+        ], 
+        "domain-name": "microsofsttore.com", 
+        "fuzzer": "transposition", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 91
+    }, 
+    {
+        "dns-a": [
+            "104.215.95.187", 
+            "52.164.206.56"
+        ], 
+        "dns-ns": [
+            "ns1.msft.net", 
+            "ns2.msft.net", 
+            "ns3.msft.net", 
+            "ns4.msft.net"
+        ], 
+        "domain-name": "microsoftsotre.com", 
+        "fuzzer": "transposition", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 91
+    }, 
+    {
+        "dns-a": [
+            "104.215.95.187", 
+            "52.164.206.56"
+        ], 
+        "dns-ns": [
+            "ns1.msft.net", 
+            "ns2.msft.net", 
+            "ns3.msft.net", 
+            "ns4.msft.net"
+        ], 
+        "domain-name": "microsoftstroe.com", 
+        "fuzzer": "transposition", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 91
+    }, 
+    {
+        "dns-a": [
+            "104.215.95.187", 
+            "52.164.206.56"
+        ], 
+        "dns-ns": [
+            "ns1.msft.net", 
+            "ns2.msft.net", 
+            "ns3.msft.net", 
+            "ns4.msft.net"
+        ], 
+        "domain-name": "microsoftstoer.com", 
+        "fuzzer": "transposition", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 91
+    }
+]

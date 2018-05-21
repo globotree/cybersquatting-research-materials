@@ -1,0 +1,330 @@
+[
+    {
+        "dns-ns": [
+            "a-dns.pl", 
+            "b-dns.pl", 
+            "e-dns.pl", 
+            "f-dns.pl", 
+            "h-dns.pl"
+        ], 
+        "domain-name": "wroclaw.pl", 
+        "fuzzer": "original*"
+    }, 
+    {
+        "dns-a": [
+            "144.76.122.251"
+        ], 
+        "dns-mx": [
+            "mx-svstu.vipserv.org"
+        ], 
+        "dns-ns": [
+            "ns1.yum.pl", 
+            "ns3.yum.pl"
+        ], 
+        "domain-name": "wroclawm.pl", 
+        "fuzzer": "addition", 
+        "geoip-country": "Germany"
+    }, 
+    {
+        "dns-a": [
+            "178.19.110.187"
+        ], 
+        "dns-mx": [
+            "wroclawu.pl"
+        ], 
+        "dns-ns": [
+            "dns1.slaskdatacenter.pl", 
+            "dns2.slaskdatacenter.pl", 
+            "dns3.slaskdatacenter.pl"
+        ], 
+        "domain-name": "wroclawu.pl", 
+        "fuzzer": "addition", 
+        "geoip-country": "Poland"
+    }, 
+    {
+        "dns-a": [
+            "178.255.41.10"
+        ], 
+        "dns-mx": [
+            "mail.vroclaw.pl"
+        ], 
+        "dns-ns": [
+            "ns1.vipower.pl", 
+            "ns2.vipower.pl"
+        ], 
+        "domain-name": "vroclaw.pl", 
+        "fuzzer": "bitsquatting", 
+        "geoip-country": "Poland"
+    }, 
+    {
+        "dns-a": [
+            "213.186.33.5"
+        ], 
+        "dns-mx": [
+            "redirect.ovh.net"
+        ], 
+        "dns-ns": [
+            "dns11.ovh.net", 
+            "ns11.ovh.net"
+        ], 
+        "domain-name": "wroslaw.pl", 
+        "fuzzer": "bitsquatting", 
+        "geoip-country": "France"
+    }, 
+    {
+        "dns-mx": [
+            "wroclav.pl"
+        ], 
+        "dns-ns": [
+            "dns.home.pl", 
+            "dns2.home.pl", 
+            "dns3.home.pl"
+        ], 
+        "domain-name": "wroclav.pl", 
+        "fuzzer": "bitsquatting"
+    }, 
+    {
+        "dns-a": [
+            "213.108.58.44"
+        ], 
+        "dns-mx": [
+            "mx.active24.pl"
+        ], 
+        "dns-ns": [
+            "dns1.nano.pl", 
+            "dns2.nano.pl", 
+            "dns3.nano.pl"
+        ], 
+        "domain-name": "wrociaw.pl", 
+        "fuzzer": "homoglyph", 
+        "geoip-country": "Poland"
+    }, 
+    {
+        "dns-ns": [
+            "dns.korbank.com", 
+            "dns.korbank.pl", 
+            "dns1.exatel.pl", 
+            "dns1.um.wroc.pl", 
+            "dns2.exatel.pl", 
+            "dns2.um.wroc.pl"
+        ], 
+        "domain-name": "xn--wrocaw-6db.pl", 
+        "fuzzer": "homoglyph"
+    }, 
+    {
+        "dns-a": [
+            "213.186.33.5"
+        ], 
+        "dns-mx": [
+            "redirect.ovh.net"
+        ], 
+        "dns-ns": [
+            "dns102.ovh.net", 
+            "ns102.ovh.net"
+        ], 
+        "domain-name": "wrclaw.pl", 
+        "fuzzer": "omission", 
+        "geoip-country": "France"
+    }, 
+    {
+        "dns-a": [
+            "85.128.128.99"
+        ], 
+        "dns-mx": [
+            "woclaw.pl"
+        ], 
+        "dns-ns": [
+            "ns1.nazwa.pl", 
+            "ns2.nazwa.pl", 
+            "ns3.nazwa.pl"
+        ], 
+        "domain-name": "woclaw.pl", 
+        "fuzzer": "omission", 
+        "geoip-country": "Poland"
+    }, 
+    {
+        "dns-ns": [
+            "ns1.blocked.nazwa.pl", 
+            "ns2.blocked.nazwa.pl"
+        ], 
+        "domain-name": "roclaw.pl", 
+        "fuzzer": "omission"
+    }, 
+    {
+        "dns-a": [
+            "185.53.178.8"
+        ], 
+        "dns-mx": [
+            "mail.h-email.net"
+        ], 
+        "dns-ns": [
+            "ns1.parkingcrew.net", 
+            "ns2.parkingcrew.net"
+        ], 
+        "domain-name": "wroclw.pl", 
+        "fuzzer": "omission", 
+        "geoip-country": "Germany", 
+        "mx-spy": true
+    }, 
+    {
+        "dns-a": [
+            "212.91.7.33"
+        ], 
+        "dns-ns": [
+            "ns1.aftermarket.pl", 
+            "ns2.aftermarket.pl"
+        ], 
+        "domain-name": "wrocaw.pl", 
+        "fuzzer": "omission", 
+        "geoip-country": "Poland"
+    }, 
+    {
+        "dns-a": [
+            "54.72.9.51"
+        ], 
+        "dns-mx": [
+            "mail.h-email.net"
+        ], 
+        "dns-ns": [
+            "ns1.parkingcrew.net", 
+            "ns2.parkingcrew.net"
+        ], 
+        "domain-name": "wrocla.pl", 
+        "fuzzer": "omission", 
+        "geoip-country": "Ireland", 
+        "mx-spy": true
+    }, 
+    {
+        "dns-a": [
+            "85.128.246.236"
+        ], 
+        "dns-mx": [
+            "wrooclaw.pl"
+        ], 
+        "dns-ns": [
+            "ns1.nazwa.pl", 
+            "ns2.nazwa.pl", 
+            "ns3.nazwa.pl"
+        ], 
+        "domain-name": "wrooclaw.pl", 
+        "fuzzer": "repetition", 
+        "geoip-country": "Poland"
+    }, 
+    {
+        "dns-a": [
+            "212.91.6.58", 
+            "212.91.7.33"
+        ], 
+        "domain-name": "wrovlaw.pl", 
+        "fuzzer": "replacement", 
+        "geoip-country": "Poland"
+    }, 
+    {
+        "dns-a": [
+            "212.91.6.58", 
+            "212.91.7.33"
+        ], 
+        "domain-name": "wrpclaw.pl", 
+        "fuzzer": "replacement", 
+        "geoip-country": "Poland"
+    }, 
+    {
+        "dns-a": [
+            "212.91.6.58", 
+            "212.91.7.33"
+        ], 
+        "domain-name": "qroclaw.pl", 
+        "fuzzer": "replacement", 
+        "geoip-country": "Poland"
+    }, 
+    {
+        "dns-ns": [
+            "ns1.blocked.nazwa.pl", 
+            "ns2.blocked.nazwa.pl"
+        ], 
+        "domain-name": "weoclaw.pl", 
+        "fuzzer": "replacement"
+    }, 
+    {
+        "dns-ns": [
+            "ns1.blocked.nazwa.pl", 
+            "ns2.blocked.nazwa.pl"
+        ], 
+        "domain-name": "w.roclaw.pl", 
+        "fuzzer": "subdomain"
+    }, 
+    {
+        "dns-a": [
+            "85.128.128.99"
+        ], 
+        "domain-name": "wro.claw.pl", 
+        "fuzzer": "subdomain", 
+        "geoip-country": "Poland"
+    }, 
+    {
+        "dns-a": [
+            "188.40.229.252"
+        ], 
+        "domain-name": "wrocl.aw.pl", 
+        "fuzzer": "subdomain", 
+        "geoip-country": "Germany"
+    }, 
+    {
+        "dns-a": [
+            "81.219.55.202"
+        ], 
+        "domain-name": "wrocla.w.pl", 
+        "fuzzer": "subdomain", 
+        "geoip-country": "Poland"
+    }, 
+    {
+        "dns-a": [
+            "212.91.6.58", 
+            "212.91.7.33"
+        ], 
+        "domain-name": "rwoclaw.pl", 
+        "fuzzer": "transposition", 
+        "geoip-country": "Poland"
+    }, 
+    {
+        "dns-ns": [
+            "ns1.aftermarket.pl", 
+            "ns2.aftermarket.pl"
+        ], 
+        "domain-name": "worclaw.pl", 
+        "fuzzer": "transposition"
+    }, 
+    {
+        "dns-a": [
+            "212.91.6.58", 
+            "212.91.7.33"
+        ], 
+        "domain-name": "wrcolaw.pl", 
+        "fuzzer": "transposition", 
+        "geoip-country": "Poland"
+    }, 
+    {
+        "dns-a": [
+            "212.91.6.58", 
+            "212.91.7.33"
+        ], 
+        "domain-name": "wrocalw.pl", 
+        "fuzzer": "transposition", 
+        "geoip-country": "Poland"
+    }, 
+    {
+        "dns-a": [
+            "144.76.34.117"
+        ], 
+        "dns-mx": [
+            "mail.wroclow.pl"
+        ], 
+        "dns-ns": [
+            "ns1.firehost.pl", 
+            "ns2.firehost.pl"
+        ], 
+        "domain-name": "wroclow.pl", 
+        "fuzzer": "vowel-swap", 
+        "geoip-country": "Germany"
+    }
+]

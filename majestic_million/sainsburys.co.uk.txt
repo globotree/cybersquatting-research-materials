@@ -1,0 +1,835 @@
+[
+    {
+        "dns-a": [
+            "54.239.168.177", 
+            "54.239.168.198", 
+            "54.239.168.22", 
+            "54.239.168.31", 
+            "54.239.168.37", 
+            "54.239.168.50", 
+            "54.239.168.60", 
+            "54.239.168.84"
+        ], 
+        "dns-mx": [
+            "cluster1.eu.messagelabs.com", 
+            "cluster1a.eu.messagelabs.com"
+        ], 
+        "dns-ns": [
+            "edns63.ultradns.biz", 
+            "edns63.ultradns.com", 
+            "edns63.ultradns.net", 
+            "edns63.ultradns.org"
+        ], 
+        "domain-name": "sainsburys.co.uk", 
+        "fuzzer": "original*", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 100
+    }, 
+    {
+        "dns-a": [
+            "104.31.84.105", 
+            "104.31.85.105"
+        ], 
+        "dns-aaaa": [
+            "2400:cb00:2048:1::681f:5469", 
+            "2400:cb00:2048:1::681f:5569"
+        ], 
+        "dns-mx": [
+            "dc-424561ef2cfe.sainsburysb.co.uk"
+        ], 
+        "dns-ns": [
+            "beth.ns.cloudflare.com", 
+            "jay.ns.cloudflare.com"
+        ], 
+        "domain-name": "sainsburysb.co.uk", 
+        "fuzzer": "addition", 
+        "geoip-country": "United States"
+    }, 
+    {
+        "dns-a": [
+            "70.32.1.32"
+        ], 
+        "dns-mx": [
+            "park-mx.above.com"
+        ], 
+        "dns-ns": [
+            "ns1.above.com", 
+            "ns2.above.com"
+        ], 
+        "domain-name": "sainsburyss.co.uk", 
+        "fuzzer": "addition", 
+        "geoip-country": "United States", 
+        "mx-spy": true, 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "72.52.4.119"
+        ], 
+        "dns-mx": [
+            "localhost"
+        ], 
+        "dns-ns": [
+            "ns1.sedoparking.com", 
+            "ns2.sedoparking.com"
+        ], 
+        "domain-name": "saynsburys.co.uk", 
+        "fuzzer": "bitsquatting", 
+        "geoip-country": "United States", 
+        "mx-spy": true, 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "69.172.201.153"
+        ], 
+        "dns-ns": [
+            "ns1.uniregistrymarket.link", 
+            "ns2.uniregistrymarket.link"
+        ], 
+        "domain-name": "sainsburis.co.uk", 
+        "fuzzer": "bitsquatting", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "141.8.224.169"
+        ], 
+        "dns-ns": [
+            "ns27.rookdns.com", 
+            "ns28.rookdns.com"
+        ], 
+        "domain-name": "sainsdurys.co.uk", 
+        "fuzzer": "homoglyph", 
+        "geoip-country": "Switzerland", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "207.244.67.216"
+        ], 
+        "dns-ns": [
+            "ns1.dnsnuts.com", 
+            "ns2.dnsnuts.com"
+        ], 
+        "domain-name": "saimsburys.co.uk", 
+        "fuzzer": "homoglyph", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "103.224.182.251"
+        ], 
+        "dns-mx": [
+            "park-mx.above.com"
+        ], 
+        "dns-ns": [
+            "ns3.above.com", 
+            "ns4.above.com"
+        ], 
+        "domain-name": "salnsburys.co.uk", 
+        "fuzzer": "homoglyph", 
+        "geoip-country": "Australia", 
+        "mx-spy": true, 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "103.224.182.251"
+        ], 
+        "dns-mx": [
+            "park-mx.above.com"
+        ], 
+        "dns-ns": [
+            "ns3.above.com", 
+            "ns4.above.com"
+        ], 
+        "domain-name": "sainsburtys.co.uk", 
+        "fuzzer": "insertion", 
+        "geoip-country": "Australia", 
+        "mx-spy": true, 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "103.224.182.253"
+        ], 
+        "dns-mx": [
+            "park-mx.above.com"
+        ], 
+        "dns-ns": [
+            "ns3.above.com", 
+            "ns4.above.com"
+        ], 
+        "domain-name": "sainmsburys.co.uk", 
+        "fuzzer": "insertion", 
+        "geoip-country": "Australia", 
+        "mx-spy": true, 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "70.32.1.32"
+        ], 
+        "dns-mx": [
+            "park-mx.above.com"
+        ], 
+        "dns-ns": [
+            "ns1.above.com", 
+            "ns2.above.com"
+        ], 
+        "domain-name": "sainesburys.co.uk", 
+        "fuzzer": "insertion", 
+        "geoip-country": "United States", 
+        "mx-spy": true, 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "141.8.224.169"
+        ], 
+        "dns-ns": [
+            "ns27.rookdns.com", 
+            "ns28.rookdns.com"
+        ], 
+        "domain-name": "sainsbujrys.co.uk", 
+        "fuzzer": "insertion", 
+        "geoip-country": "Switzerland", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "141.8.224.169"
+        ], 
+        "dns-ns": [
+            "ns27.rookdns.com", 
+            "ns28.rookdns.com"
+        ], 
+        "domain-name": "ssainsburys.co.uk", 
+        "fuzzer": "insertion", 
+        "geoip-country": "Switzerland", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "185.26.230.131"
+        ], 
+        "dns-mx": [
+            "easymx2.easily.co.uk", 
+            "rhea.easily.co.uk"
+        ], 
+        "dns-ns": [
+            "dns0.easily.co.uk", 
+            "dns1.easily.co.uk"
+        ], 
+        "domain-name": "sansburys.co.uk", 
+        "fuzzer": "omission", 
+        "geoip-country": "United Kingdom", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "185.53.179.7"
+        ], 
+        "dns-mx": [
+            "mail.h-email.net"
+        ], 
+        "dns-ns": [
+            "ns1.parkingcrew.net", 
+            "ns2.parkingcrew.net"
+        ], 
+        "domain-name": "saisburys.co.uk", 
+        "fuzzer": "omission", 
+        "geoip-country": "Germany", 
+        "mx-spy": true, 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "103.224.182.251"
+        ], 
+        "dns-mx": [
+            "park-mx.above.com"
+        ], 
+        "dns-ns": [
+            "ns3.above.com", 
+            "ns4.above.com"
+        ], 
+        "domain-name": "ainsburys.co.uk", 
+        "fuzzer": "omission", 
+        "geoip-country": "Australia", 
+        "mx-spy": true, 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-ns": [
+            "ns1.chookdns.com", 
+            "ns2.chookdns.com"
+        ], 
+        "domain-name": "sainsbuys.co.uk", 
+        "fuzzer": "omission"
+    }, 
+    {
+        "dns-a": [
+            "95.211.219.66"
+        ], 
+        "dns-ns": [
+            "ns1.hastydns.com", 
+            "ns2.hastydns.com"
+        ], 
+        "domain-name": "sainsburs.co.uk", 
+        "fuzzer": "omission", 
+        "geoip-country": "Netherlands", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "109.94.142.1"
+        ], 
+        "dns-ns": [
+            "edns63.ultradns.biz", 
+            "edns63.ultradns.com", 
+            "edns63.ultradns.net", 
+            "edns63.ultradns.org"
+        ], 
+        "domain-name": "sainsbury.co.uk", 
+        "fuzzer": "omission", 
+        "geoip-country": "United Kingdom", 
+        "ssdeep-score": 100
+    }, 
+    {
+        "dns-a": [
+            "72.52.4.119"
+        ], 
+        "dns-mx": [
+            "localhost"
+        ], 
+        "dns-ns": [
+            "ns1.sedoparking.com", 
+            "ns2.sedoparking.com"
+        ], 
+        "domain-name": "sainsbrys.co.uk", 
+        "fuzzer": "omission", 
+        "geoip-country": "United States", 
+        "mx-spy": true, 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "185.53.177.29"
+        ], 
+        "dns-ns": [
+            "ns1.singleplan.com", 
+            "ns2.singleplan.com"
+        ], 
+        "domain-name": "sinsburys.co.uk", 
+        "fuzzer": "omission", 
+        "geoip-country": "Germany"
+    }, 
+    {
+        "dns-a": [
+            "85.159.233.40"
+        ], 
+        "dns-ns": [
+            "ns1.domainmx.com", 
+            "ns2.domainmx.com"
+        ], 
+        "domain-name": "sainsurys.co.uk", 
+        "fuzzer": "omission", 
+        "geoip-country": "Netherlands", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "77.78.104.3"
+        ], 
+        "dns-ns": [
+            "ns.gransy.com", 
+            "ns2.gransy.com", 
+            "ns3.gransy.com", 
+            "ns4.gransy.com", 
+            "ns5.gransy.com"
+        ], 
+        "domain-name": "sainburys.co.uk", 
+        "fuzzer": "omission", 
+        "geoip-country": "Czech Republic", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "72.52.4.119"
+        ], 
+        "dns-mx": [
+            "localhost"
+        ], 
+        "dns-ns": [
+            "ns1.sedoparking.com", 
+            "ns2.sedoparking.com"
+        ], 
+        "domain-name": "saiinsburys.co.uk", 
+        "fuzzer": "repetition", 
+        "geoip-country": "United States", 
+        "mx-spy": true, 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "185.53.178.9"
+        ], 
+        "dns-mx": [
+            "mail.h-email.net"
+        ], 
+        "dns-ns": [
+            "ns1.parkingcrew.net", 
+            "ns2.parkingcrew.net"
+        ], 
+        "domain-name": "sainsburrys.co.uk", 
+        "fuzzer": "repetition", 
+        "geoip-country": "Germany", 
+        "mx-spy": true, 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "141.8.224.169"
+        ], 
+        "dns-ns": [
+            "ns27.rookdns.com", 
+            "ns28.rookdns.com"
+        ], 
+        "domain-name": "saainsburys.co.uk", 
+        "fuzzer": "repetition", 
+        "geoip-country": "Switzerland", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "54.72.9.51"
+        ], 
+        "dns-ns": [
+            "ns1.parkingcrew.net", 
+            "ns2.parkingcrew.net"
+        ], 
+        "domain-name": "sainsburyys.co.uk", 
+        "fuzzer": "repetition", 
+        "geoip-country": "Ireland", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "70.32.1.32"
+        ], 
+        "dns-mx": [
+            "park-mx.above.com"
+        ], 
+        "dns-ns": [
+            "ns1.above.com", 
+            "ns2.above.com"
+        ], 
+        "domain-name": "sainsburts.co.uk", 
+        "fuzzer": "replacement", 
+        "geoip-country": "United States", 
+        "mx-spy": true, 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "34.196.13.28"
+        ], 
+        "dns-mx": [
+            "mail.happyisp.com"
+        ], 
+        "dns-ns": [
+            "ns1.pql.net", 
+            "ns2.pql.net", 
+            "ns3.tppns.com", 
+            "ns4.tppns.com"
+        ], 
+        "domain-name": "dainsburys.co.uk", 
+        "fuzzer": "replacement", 
+        "geoip-country": "United States", 
+        "mx-spy": true, 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "85.159.233.40"
+        ], 
+        "dns-ns": [
+            "ns1.domainmx.com", 
+            "ns2.domainmx.com"
+        ], 
+        "domain-name": "sainaburys.co.uk", 
+        "fuzzer": "replacement", 
+        "geoip-country": "Netherlands", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "69.162.80.52"
+        ], 
+        "dns-ns": [
+            "ns1.hastydns.com", 
+            "ns2.hastydns.com"
+        ], 
+        "domain-name": "sainsbueys.co.uk", 
+        "fuzzer": "replacement", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "141.8.224.169"
+        ], 
+        "dns-ns": [
+            "ns27.rookdns.com", 
+            "ns28.rookdns.com"
+        ], 
+        "domain-name": "sainyburys.co.uk", 
+        "fuzzer": "replacement", 
+        "geoip-country": "Switzerland", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "141.8.224.169"
+        ], 
+        "dns-ns": [
+            "ns27.rookdns.com", 
+            "ns28.rookdns.com"
+        ], 
+        "domain-name": "saibsburys.co.uk", 
+        "fuzzer": "replacement", 
+        "geoip-country": "Switzerland", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "188.241.58.61"
+        ], 
+        "dns-mx": [
+            "sainsburye.co.uk"
+        ], 
+        "dns-ns": [
+            "ns1.thcservers.com", 
+            "ns2.thcservers.com", 
+            "ns3.thcservers.com", 
+            "ns4.thcservers.com"
+        ], 
+        "domain-name": "sainsburye.co.uk", 
+        "fuzzer": "replacement", 
+        "geoip-country": "Romania", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "72.52.179.175"
+        ], 
+        "dns-mx": [
+            "mx156.hostedmxserver.com"
+        ], 
+        "dns-ns": [
+            "ns1.parklogic.com", 
+            "ns2.parklogic.com", 
+            "ns3.parklogic.com", 
+            "ns4.parklogic.com", 
+            "ns5.parklogic.com"
+        ], 
+        "domain-name": "sainsbutys.co.uk", 
+        "fuzzer": "replacement", 
+        "geoip-country": "United States", 
+        "mx-spy": true, 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "70.32.1.32"
+        ], 
+        "dns-mx": [
+            "park-mx.above.com"
+        ], 
+        "dns-ns": [
+            "ns1.above.com", 
+            "ns2.above.com"
+        ], 
+        "domain-name": "sainsbirys.co.uk", 
+        "fuzzer": "replacement", 
+        "geoip-country": "United States", 
+        "mx-spy": true, 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "95.211.117.215"
+        ], 
+        "dns-ns": [
+            "ns1.hastydns.com", 
+            "ns2.hastydns.com"
+        ], 
+        "domain-name": "sainsburus.co.uk", 
+        "fuzzer": "replacement", 
+        "geoip-country": "Netherlands", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "69.162.80.59"
+        ], 
+        "dns-ns": [
+            "ns1.hastydns.com", 
+            "ns2.hastydns.com"
+        ], 
+        "domain-name": "saindburys.co.uk", 
+        "fuzzer": "replacement", 
+        "geoip-country": "United States"
+    }, 
+    {
+        "dns-a": [
+            "69.162.80.57"
+        ], 
+        "dns-ns": [
+            "ns1.hastydns.com", 
+            "ns2.hastydns.com"
+        ], 
+        "domain-name": "sainsburya.co.uk", 
+        "fuzzer": "replacement", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "141.8.224.169"
+        ], 
+        "dns-ns": [
+            "ns27.rookdns.com", 
+            "ns28.rookdns.com"
+        ], 
+        "domain-name": "sainxburys.co.uk", 
+        "fuzzer": "replacement", 
+        "geoip-country": "Switzerland", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "141.8.224.169"
+        ], 
+        "dns-ns": [
+            "ns27.rookdns.com", 
+            "ns28.rookdns.com"
+        ], 
+        "domain-name": "saonsburys.co.uk", 
+        "fuzzer": "replacement", 
+        "geoip-country": "Switzerland", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "103.224.182.251"
+        ], 
+        "dns-mx": [
+            "park-mx.above.com"
+        ], 
+        "dns-ns": [
+            "ns3.above.com", 
+            "ns4.above.com"
+        ], 
+        "domain-name": "sainsbyrys.co.uk", 
+        "fuzzer": "replacement", 
+        "geoip-country": "Australia", 
+        "mx-spy": true, 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "69.162.80.54"
+        ], 
+        "dns-ns": [
+            "ns1.hastydns.com", 
+            "ns2.hastydns.com"
+        ], 
+        "domain-name": "sainsnurys.co.uk", 
+        "fuzzer": "replacement", 
+        "geoip-country": "United States"
+    }, 
+    {
+        "dns-a": [
+            "103.224.182.251"
+        ], 
+        "dns-mx": [
+            "park-mx.above.com"
+        ], 
+        "dns-ns": [
+            "ns3.above.com", 
+            "ns4.above.com"
+        ], 
+        "domain-name": "s.ainsburys.co.uk", 
+        "fuzzer": "subdomain", 
+        "geoip-country": "Australia", 
+        "mx-spy": true, 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "139.59.181.152"
+        ], 
+        "domain-name": "sains.burys.co.uk", 
+        "fuzzer": "subdomain", 
+        "geoip-country": "United Kingdom"
+    }, 
+    {
+        "dns-a": [
+            "87.106.142.81"
+        ], 
+        "dns-ns": [
+            "a.giraffe.co.uk", 
+            "b.giraffe.co.uk"
+        ], 
+        "domain-name": "sainsbu.rys.co.uk", 
+        "fuzzer": "subdomain", 
+        "geoip-country": "Germany", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "98.124.245.24"
+        ], 
+        "dns-mx": [
+            "mail.b-io.co"
+        ], 
+        "dns-ns": [
+            "ns1.fabulous.com", 
+            "ns2.fabulous.com"
+        ], 
+        "domain-name": "sainsbury.s.co.uk", 
+        "fuzzer": "subdomain", 
+        "geoip-country": "United States", 
+        "mx-spy": true, 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "103.224.182.253"
+        ], 
+        "dns-mx": [
+            "park-mx.above.com"
+        ], 
+        "dns-ns": [
+            "ns3.above.com", 
+            "ns4.above.com"
+        ], 
+        "domain-name": "asinsburys.co.uk", 
+        "fuzzer": "transposition", 
+        "geoip-country": "Australia", 
+        "mx-spy": true, 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "72.52.4.119"
+        ], 
+        "dns-mx": [
+            "localhost"
+        ], 
+        "dns-ns": [
+            "ns1.sedoparking.com", 
+            "ns2.sedoparking.com"
+        ], 
+        "domain-name": "siansburys.co.uk", 
+        "fuzzer": "transposition", 
+        "geoip-country": "United States", 
+        "mx-spy": true, 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "207.244.67.218"
+        ], 
+        "dns-ns": [
+            "ns1.chookdns.com", 
+            "ns2.chookdns.com"
+        ], 
+        "domain-name": "saisnburys.co.uk", 
+        "fuzzer": "transposition", 
+        "geoip-country": "United States"
+    }, 
+    {
+        "dns-a": [
+            "69.162.80.52"
+        ], 
+        "dns-ns": [
+            "ns1.hastydns.com", 
+            "ns2.hastydns.com"
+        ], 
+        "domain-name": "sainsubrys.co.uk", 
+        "fuzzer": "transposition", 
+        "geoip-country": "United States"
+    }, 
+    {
+        "dns-a": [
+            "208.73.210.202", 
+            "208.73.210.217", 
+            "208.73.211.165", 
+            "208.73.211.177"
+        ], 
+        "dns-ns": [
+            "ns1.dsredirection.com", 
+            "ns2.dsredirection.com"
+        ], 
+        "domain-name": "sainsbruys.co.uk", 
+        "fuzzer": "transposition", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "184.168.221.104"
+        ], 
+        "dns-ns": [
+            "ns1.afternic.com", 
+            "ns2.afternic.com"
+        ], 
+        "domain-name": "sainsbursy.co.uk", 
+        "fuzzer": "transposition", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "103.224.182.240"
+        ], 
+        "dns-mx": [
+            "park-mx.above.com"
+        ], 
+        "dns-ns": [
+            "ns1.above.com", 
+            "ns2.above.com"
+        ], 
+        "domain-name": "sainsborys.co.uk", 
+        "fuzzer": "vowel-swap"
+    }, 
+    {
+        "dns-ns": [
+            "ans1.cw.net", 
+            "ans2.cw.net"
+        ], 
+        "domain-name": "sainsburys.uk", 
+        "fuzzer": "various"
+    }, 
+    {
+        "dns-a": [
+            "199.59.242.150"
+        ], 
+        "dns-mx": [
+            "mx76.m2bp.com", 
+            "mx76.mb1p.com"
+        ], 
+        "dns-ns": [
+            "ns1.bodis.com", 
+            "ns2.bodis.com"
+        ], 
+        "domain-name": "sainsburysco.uk", 
+        "fuzzer": "various"
+    }
+]

@@ -1,0 +1,173 @@
+[
+    {
+        "dns-a": [
+            "212.0.104.158"
+        ], 
+        "dns-mx": [
+            "mx01cef.spamina.com", 
+            "mx02cef.spamina.com"
+        ], 
+        "dns-ns": [
+            "ns1.dominioabsoluto.com", 
+            "ns2.dominioabsoluto.com", 
+            "ns7.acens.net"
+        ], 
+        "domain-name": "casadellibro.com", 
+        "fuzzer": "original*", 
+        "geoip-country": "Spain", 
+        "ssdeep-score": 100
+    }, 
+    {
+        "dns-a": [
+            "194.63.248.52"
+        ], 
+        "dns-aaaa": [
+            "2a01:5b40:0:248::52"
+        ], 
+        "dns-ns": [
+            "ns1.hyp.net", 
+            "ns2.hyp.net", 
+            "ns3.hyp.net"
+        ], 
+        "domain-name": "casadellibros.com", 
+        "fuzzer": "addition", 
+        "geoip-country": "Norway", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "72.52.4.122"
+        ], 
+        "dns-mx": [
+            "localhost"
+        ], 
+        "dns-ns": [
+            "ns1.sedoparking.com", 
+            "ns2.sedoparking.com"
+        ], 
+        "domain-name": "casasdellibro.com", 
+        "fuzzer": "insertion", 
+        "geoip-country": "United States", 
+        "mx-spy": true, 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "212.0.104.158"
+        ], 
+        "dns-mx": [
+            "mail.casadelibro.com"
+        ], 
+        "dns-ns": [
+            "ns1.dominioabsoluto.com", 
+            "ns2.dominioabsoluto.com", 
+            "ns7.acens.net"
+        ], 
+        "domain-name": "casadelibro.com", 
+        "fuzzer": "omission", 
+        "geoip-country": "Spain", 
+        "ssdeep-score": 100
+    }, 
+    {
+        "dns-a": [
+            "52.73.124.185", 
+            "54.164.198.60"
+        ], 
+        "dns-ns": [
+            "ns1.namebrightdns.com", 
+            "ns2.namebrightdns.com"
+        ], 
+        "domain-name": "asadellibro.com", 
+        "fuzzer": "omission", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "50.63.202.18"
+        ], 
+        "dns-mx": [
+            "mailstore1.secureserver.net", 
+            "smtp.secureserver.net"
+        ], 
+        "dns-ns": [
+            "ns45.domaincontrol.com", 
+            "ns46.domaincontrol.com"
+        ], 
+        "domain-name": "casadellbro.com", 
+        "fuzzer": "omission", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "52.73.124.185", 
+            "54.164.198.60"
+        ], 
+        "dns-ns": [
+            "ns1.namebrightdns.com", 
+            "ns2.namebrightdns.com"
+        ], 
+        "domain-name": "c.asadellibro.com", 
+        "fuzzer": "subdomain", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "192.185.4.44"
+        ], 
+        "domain-name": "casa.dellibro.com", 
+        "fuzzer": "subdomain", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "52.73.124.185", 
+            "54.164.198.60"
+        ], 
+        "dns-ns": [
+            "ns1.namebrightdns.com", 
+            "ns2.namebrightdns.com"
+        ], 
+        "domain-name": "casade.llibro.com", 
+        "fuzzer": "subdomain", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "69.172.201.153"
+        ], 
+        "dns-ns": [
+            "ns1.uniregistrymarket.link", 
+            "ns2.uniregistrymarket.link"
+        ], 
+        "domain-name": "casadell.ibro.com", 
+        "fuzzer": "subdomain", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "192.237.142.203"
+        ], 
+        "domain-name": "casadelli.bro.com", 
+        "fuzzer": "subdomain", 
+        "geoip-country": "United States"
+    }, 
+    {
+        "dns-a": [
+            "69.172.201.153"
+        ], 
+        "dns-ns": [
+            "ns1.uniregistrymarket.link", 
+            "ns2.uniregistrymarket.link"
+        ], 
+        "domain-name": "casadellibre.com", 
+        "fuzzer": "vowel-swap", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 0
+    }
+]

@@ -1,0 +1,293 @@
+[
+    {
+        "dns-a": [
+            "193.180.16.203"
+        ], 
+        "dns-mx": [
+            "sesbmg11.ericsson.net", 
+            "sesbmg12.ericsson.net", 
+            "sesbmg13.ericsson.net", 
+            "sesbmg14.ericsson.net", 
+            "sessmg11.ericsson.net", 
+            "sessmg12.ericsson.net", 
+            "sessmg13.ericsson.net", 
+            "sessmg14.ericsson.net"
+        ], 
+        "dns-ns": [
+            "a1-76.akam.net", 
+            "a11-65.akam.net", 
+            "a12-66.akam.net", 
+            "a20-67.akam.net", 
+            "a3-64.akam.net", 
+            "a6-65.akam.net"
+        ], 
+        "domain-name": "ericsson.com", 
+        "fuzzer": "original*", 
+        "geoip-country": "Sweden", 
+        "ssdeep-score": 100
+    }, 
+    {
+        "dns-a": [
+            "107.180.55.13"
+        ], 
+        "dns-mx": [
+            "mail.ericssone.com"
+        ], 
+        "dns-ns": [
+            "ns03.domaincontrol.com", 
+            "ns04.domaincontrol.com"
+        ], 
+        "domain-name": "ericssone.com", 
+        "fuzzer": "addition", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-mx": [
+            "ericssonn-com.mail.protection.outlook.com"
+        ], 
+        "dns-ns": [
+            "ns1.bdm.microsoftonline.com", 
+            "ns2.bdm.microsoftonline.com", 
+            "ns3.bdm.microsoftonline.com", 
+            "ns4.bdm.microsoftonline.com"
+        ], 
+        "domain-name": "ericssonn.com", 
+        "fuzzer": "addition"
+    }, 
+    {
+        "dns-a": [
+            "184.168.221.104"
+        ], 
+        "domain-name": "ericssons.com", 
+        "fuzzer": "addition", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "89.31.143.1"
+        ], 
+        "dns-mx": [
+            "mx00.udag.de", 
+            "mx01.udag.de"
+        ], 
+        "dns-ns": [
+            "ns.udag.de", 
+            "ns.udag.net", 
+            "ns.udag.org"
+        ], 
+        "domain-name": "aricsson.com", 
+        "fuzzer": "bitsquatting", 
+        "geoip-country": "Germany", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-ns": [
+            "ns7.ns365.net", 
+            "ns8.ns365.net"
+        ], 
+        "domain-name": "uricsson.com", 
+        "fuzzer": "bitsquatting"
+    }, 
+    {
+        "dns-a": [
+            "216.114.192.26"
+        ], 
+        "dns-mx": [
+            "htenvmail.net.mx1.mailanyone.net", 
+            "htenvmail.net.mx2.mailanyone.net", 
+            "htenvmail.net.mx3.mailanyone.net"
+        ], 
+        "dns-ns": [
+            "ns.cpinternet.com", 
+            "ns2.cpinternet.com"
+        ], 
+        "domain-name": "eriksson.com", 
+        "fuzzer": "bitsquatting", 
+        "geoip-country": "United States"
+    }, 
+    {
+        "dns-ns": [
+            "ns33.domaincontrol.com", 
+            "ns34.domaincontrol.com"
+        ], 
+        "domain-name": "er1csson.com", 
+        "fuzzer": "homoglyph"
+    }, 
+    {
+        "dns-mx": [
+            "ericss0n-com.mail.protection.outlook.com"
+        ], 
+        "dns-ns": [
+            "ns1.bdm.microsoftonline.com", 
+            "ns2.bdm.microsoftonline.com", 
+            "ns3.bdm.microsoftonline.com", 
+            "ns4.bdm.microsoftonline.com"
+        ], 
+        "domain-name": "ericss0n.com", 
+        "fuzzer": "homoglyph"
+    }, 
+    {
+        "dns-a": [
+            "209.163.169.217"
+        ], 
+        "dns-mx": [
+            "erics-son.com"
+        ], 
+        "dns-ns": [
+            "ns1.erics-son.com", 
+            "ns2.erics-son.com"
+        ], 
+        "domain-name": "erics-son.com", 
+        "fuzzer": "hyphenation", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "185.53.179.7"
+        ], 
+        "dns-mx": [
+            "mail.h-email.net"
+        ], 
+        "dns-ns": [
+            "ns1.parkingcrew.net", 
+            "ns2.parkingcrew.net"
+        ], 
+        "domain-name": "ericssion.com", 
+        "fuzzer": "insertion", 
+        "geoip-country": "Germany", 
+        "mx-spy": true, 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "141.8.224.25"
+        ], 
+        "dns-ns": [
+            "ns1.rookdns.com", 
+            "ns2.rookdns.com"
+        ], 
+        "domain-name": "erisson.com", 
+        "fuzzer": "omission", 
+        "geoip-country": "Switzerland", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "141.8.224.93"
+        ], 
+        "dns-ns": [
+            "ns7.rookdns.com", 
+            "ns8.rookdns.com"
+        ], 
+        "domain-name": "ercsson.com", 
+        "fuzzer": "omission", 
+        "geoip-country": "Switzerland", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "193.180.16.203"
+        ], 
+        "dns-ns": [
+            "e3dns.ericy.com", 
+            "ns1.ericsson.se", 
+            "ns2.ericsson.se"
+        ], 
+        "domain-name": "ericssn.com", 
+        "fuzzer": "omission", 
+        "geoip-country": "Sweden"
+    }, 
+    {
+        "dns-a": [
+            "23.239.11.9"
+        ], 
+        "dns-mx": [
+            "mx101.everycloudtech.us", 
+            "mx102.everycloudtech.us", 
+            "mx103.everycloudtech.us", 
+            "mx104.everycloudtech.us"
+        ], 
+        "dns-ns": [
+            "ns11.worldnic.com", 
+            "ns12.worldnic.com"
+        ], 
+        "domain-name": "ericson.com", 
+        "fuzzer": "omission", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "95.211.219.65"
+        ], 
+        "dns-ns": [
+            "ns1.hastydns.com", 
+            "ns2.hastydns.com"
+        ], 
+        "domain-name": "erricsson.com", 
+        "fuzzer": "repetition", 
+        "geoip-country": "Netherlands"
+    }, 
+    {
+        "dns-a": [
+            "192.185.52.206"
+        ], 
+        "dns-mx": [
+            "mail.erixsson.com"
+        ], 
+        "dns-ns": [
+            "ns8299.hostgator.com", 
+            "ns8300.hostgator.com"
+        ], 
+        "domain-name": "erixsson.com", 
+        "fuzzer": "replacement", 
+        "geoip-country": "United States"
+    }, 
+    {
+        "dns-a": [
+            "141.8.230.20"
+        ], 
+        "domain-name": "eri.csson.com", 
+        "fuzzer": "subdomain", 
+        "geoip-country": "Switzerland", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "65.254.248.201"
+        ], 
+        "dns-mx": [
+            "mx.sson.com"
+        ], 
+        "domain-name": "eric.sson.com", 
+        "fuzzer": "subdomain", 
+        "geoip-country": "United States"
+    }, 
+    {
+        "dns-a": [
+            "23.23.86.44"
+        ], 
+        "domain-name": "erics.son.com", 
+        "fuzzer": "subdomain"
+    }, 
+    {
+        "dns-a": [
+            "208.78.94.160"
+        ], 
+        "domain-name": "ericss.on.com", 
+        "fuzzer": "subdomain", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-ns": [
+            "ns17.xincache.com", 
+            "ns18.xincache.com"
+        ], 
+        "domain-name": "oricsson.com", 
+        "fuzzer": "vowel-swap"
+    }
+]

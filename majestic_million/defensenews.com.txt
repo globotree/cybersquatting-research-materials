@@ -1,0 +1,79 @@
+[
+    {
+        "dns-a": [
+            "34.197.202.66", 
+            "52.1.186.121", 
+            "54.172.75.131"
+        ], 
+        "dns-mx": [
+            "defensenews-com.mail.protection.outlook.com"
+        ], 
+        "dns-ns": [
+            "ns-1491.awsdns-58.org", 
+            "ns-16.awsdns-02.com", 
+            "ns-1818.awsdns-35.co.uk", 
+            "ns-896.awsdns-48.net"
+        ], 
+        "domain-name": "defensenews.com", 
+        "fuzzer": "original*", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 100
+    }, 
+    {
+        "dns-aaaa": [
+            "2001:67c:38c::64", 
+            "2001:67c:38c::65"
+        ], 
+        "dns-ns": [
+            "redbusprimarydns.defencenews.com", 
+            "redbussecondarydns.defencenews.com"
+        ], 
+        "domain-name": "defencenews.com", 
+        "fuzzer": "bitsquatting"
+    }, 
+    {
+        "dns-a": [
+            "68.178.213.61"
+        ], 
+        "dns-ns": [
+            "ns1.namefind.com", 
+            "ns2.namefind.com"
+        ], 
+        "domain-name": "defense-news.com", 
+        "fuzzer": "hyphenation", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "108.179.242.205"
+        ], 
+        "dns-mx": [
+            "mail.defensenewz.com"
+        ], 
+        "dns-ns": [
+            "cns103.hostgator.com", 
+            "cns104.hostgator.com"
+        ], 
+        "domain-name": "defensenewz.com", 
+        "fuzzer": "replacement", 
+        "geoip-country": "United States"
+    }, 
+    {
+        "dns-a": [
+            "68.178.213.61"
+        ], 
+        "domain-name": "defen.senews.com", 
+        "fuzzer": "subdomain", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "64.30.224.118"
+        ], 
+        "domain-name": "defense.news.com", 
+        "fuzzer": "subdomain", 
+        "geoip-country": "United States"
+    }
+]

@@ -1,0 +1,54 @@
+[
+    {
+        "dns-a": [
+            "129.67.242.154", 
+            "129.67.242.155"
+        ], 
+        "dns-mx": [
+            "oxmail.ox.ac.uk"
+        ], 
+        "dns-ns": [
+            "dns0.ox.ac.uk", 
+            "dns1.ox.ac.uk", 
+            "dns2.ox.ac.uk", 
+            "ns2.ja.net"
+        ], 
+        "domain-name": "ox.ac.uk", 
+        "fuzzer": "original*"
+    }, 
+    {
+        "dns-a": [
+            "144.173.6.226"
+        ], 
+        "dns-mx": [
+            "mx1.ex.ac.uk", 
+            "mx2.ex.ac.uk", 
+            "mx3.ex.ac.uk", 
+            "mx4.ex.ac.uk"
+        ], 
+        "dns-ns": [
+            "dns0.ex.ac.uk", 
+            "dns1.ex.ac.uk", 
+            "ns4.ja.net"
+        ], 
+        "domain-name": "ex.ac.uk", 
+        "fuzzer": "vowel-swap"
+    }, 
+    {
+        "dns-a": [
+            "109.239.101.62"
+        ], 
+        "dns-mx": [
+            "mail.any-mail.com", 
+            "mail.any-mail.com"
+        ], 
+        "dns-ns": [
+            "ns01.any-dns.co.uk", 
+            "ns02.any-dns.co.uk"
+        ], 
+        "domain-name": "ox.uk", 
+        "fuzzer": "various", 
+        "geoip-country": "United Kingdom", 
+        "ssdeep-score": 0
+    }
+]

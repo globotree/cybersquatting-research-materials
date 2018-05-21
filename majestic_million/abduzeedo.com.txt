@@ -1,0 +1,167 @@
+[
+    {
+        "dns-a": [
+            "72.47.232.50"
+        ], 
+        "dns-mx": [
+            "ALT1.ASPMX.L.GOOGLE.com", 
+            "ALT2.ASPMX.L.GOOGLE.com", 
+            "ALT3.ASPMX.L.GOOGLE.com", 
+            "ALT4.ASPMX.L.GOOGLE.com", 
+            "ASPMX.L.GOOGLE.com"
+        ], 
+        "dns-ns": [
+            "ns1.mediatemple.net", 
+            "ns2.mediatemple.net"
+        ], 
+        "domain-name": "abduzeedo.com", 
+        "fuzzer": "original*", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 100
+    }, 
+    {
+        "dns-a": [
+            "95.211.219.67"
+        ], 
+        "dns-ns": [
+            "ns1.hastydns.com", 
+            "ns2.hastydns.com"
+        ], 
+        "domain-name": "abduzeedoo.com", 
+        "fuzzer": "addition", 
+        "geoip-country": "Netherlands", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "69.162.80.51"
+        ], 
+        "dns-ns": [
+            "ns1.hastydns.com", 
+            "ns2.hastydns.com"
+        ], 
+        "domain-name": "abduzeed.com", 
+        "fuzzer": "omission", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "208.91.196.105"
+        ], 
+        "dns-ns": [
+            "sk.s5.cm.ns1.39.ztomy.com", 
+            "sk.s5.cm.ns2.39.ztomy.com"
+        ], 
+        "domain-name": "abuzeedo.com", 
+        "fuzzer": "omission", 
+        "geoip-country": "Virgin Islands", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "37.58.107.93"
+        ], 
+        "dns-mx": [
+            "mail.efty.com"
+        ], 
+        "dns-ns": [
+            "ns1.eftydns.com", 
+            "ns2.eftydns.com"
+        ], 
+        "domain-name": "abduzedo.com", 
+        "fuzzer": "omission", 
+        "geoip-country": "Netherlands", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "67.227.226.241"
+        ], 
+        "dns-mx": [
+            "mx174.mb5p.com"
+        ], 
+        "dns-ns": [
+            "ns1.parklogic.com", 
+            "ns2.parklogic.com", 
+            "ns3.parklogic.com", 
+            "ns4.parklogic.com", 
+            "ns5.parklogic.com"
+        ], 
+        "domain-name": "abdu.zeedo.com", 
+        "fuzzer": "subdomain", 
+        "geoip-country": "United States", 
+        "mx-spy": true, 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "72.52.4.119"
+        ], 
+        "dns-mx": [
+            "localhost"
+        ], 
+        "dns-ns": [
+            "ns1.sedoparking.com", 
+            "ns2.sedoparking.com"
+        ], 
+        "domain-name": "abduz.eedo.com", 
+        "fuzzer": "subdomain", 
+        "geoip-country": "United States", 
+        "mx-spy": true, 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "47.88.28.14"
+        ], 
+        "domain-name": "abduzee.do.com", 
+        "fuzzer": "subdomain", 
+        "geoip-country": "United States"
+    }, 
+    {
+        "dns-a": [
+            "68.178.213.61"
+        ], 
+        "dns-ns": [
+            "ns1.namefind.com", 
+            "ns2.namefind.com"
+        ], 
+        "domain-name": "adbuzeedo.com", 
+        "fuzzer": "transposition", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "95.211.117.215"
+        ], 
+        "dns-ns": [
+            "ns1.hastydns.com", 
+            "ns2.hastydns.com"
+        ], 
+        "domain-name": "abudzeedo.com", 
+        "fuzzer": "transposition", 
+        "geoip-country": "Netherlands", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "67.227.226.241"
+        ], 
+        "dns-mx": [
+            "mx156.hostedmxserver.com"
+        ], 
+        "dns-ns": [
+            "ns1.parklogic.com", 
+            "ns2.parklogic.com", 
+            "ns3.parklogic.com", 
+            "ns4.parklogic.com", 
+            "ns5.parklogic.com"
+        ], 
+        "domain-name": "abdozeedo.com", 
+        "fuzzer": "vowel-swap", 
+        "geoip-country": "United States", 
+        "mx-spy": true
+    }
+]

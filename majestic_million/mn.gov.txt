@@ -1,0 +1,73 @@
+[
+    {
+        "dns-a": [
+            "151.111.166.96"
+        ], 
+        "dns-mx": [
+            "mn365.mail.protection.outlook.com"
+        ], 
+        "dns-ns": [
+            "ns1.state.mn.us", 
+            "ns2.state.mn.us", 
+            "ns3.state.mn.us"
+        ], 
+        "domain-name": "mn.gov", 
+        "fuzzer": "original*", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 100
+    }, 
+    {
+        "dns-a": [
+            "208.40.244.65"
+        ], 
+        "dns-mx": [
+            "mail1.egov.com", 
+            "mail3.egov.com"
+        ], 
+        "dns-ns": [
+            "ns1.in.gov", 
+            "ns2.in.gov", 
+            "ns2.state.in.us", 
+            "ns3.in.gov"
+        ], 
+        "domain-name": "in.gov", 
+        "fuzzer": "bitsquatting", 
+        "geoip-country": "United States"
+    }, 
+    {
+        "dns-a": [
+            "45.60.32.21", 
+            "45.60.34.21"
+        ], 
+        "dns-aaaa": [
+            "2a02:e980:d1::15", 
+            "2a02:e980:d3::15"
+        ], 
+        "dns-mx": [
+            "momail1.mo.gov", 
+            "momail1dr.mo.gov", 
+            "momail2.mo.gov", 
+            "momail2dr.mo.gov", 
+            "momail3.mo.gov", 
+            "momail3dr.mo.gov", 
+            "momail4.mo.gov", 
+            "momail5.mo.gov"
+        ], 
+        "dns-ns": [
+            "a1.verisigndns.com", 
+            "a2.verisigndns.com", 
+            "a3.verisigndns.com"
+        ], 
+        "domain-name": "mo.gov", 
+        "fuzzer": "bitsquatting"
+    }, 
+    {
+        "dns-ns": [
+            "dns3.nm.gov", 
+            "ns1.nm.gov", 
+            "ns2.nm.gov"
+        ], 
+        "domain-name": "nm.gov", 
+        "fuzzer": "transposition"
+    }
+]

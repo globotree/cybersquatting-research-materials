@@ -1,0 +1,100 @@
+[
+    {
+        "dns-a": [
+            "23.59.108.194"
+        ], 
+        "dns-mx": [
+            "mx0a-00176a04.pphosted.com", 
+            "mx0b-00176a04.pphosted.com", 
+            "mxa-00176a04.gslb.pphosted.com", 
+            "mxb-00176a04.gslb.pphosted.com"
+        ], 
+        "dns-ns": [
+            "asia2.akam.net", 
+            "asia3.akam.net", 
+            "aus1.akam.net", 
+            "eur3.akam.net", 
+            "eur4.akam.net", 
+            "ns1-102.akam.net", 
+            "ns1-161.akam.net", 
+            "use3.akam.net", 
+            "usw1.akam.net"
+        ], 
+        "domain-name": "nbcbayarea.com", 
+        "fuzzer": "original*", 
+        "geoip-country": "Netherlands", 
+        "ssdeep-score": 100
+    }, 
+    {
+        "dns-ns": [
+            "ns1.hastydns.com", 
+            "ns2.hastydns.com"
+        ], 
+        "domain-name": "nbcbayare.com", 
+        "fuzzer": "omission"
+    }, 
+    {
+        "dns-a": [
+            "50.63.202.81"
+        ], 
+        "dns-ns": [
+            "ns47.domaincontrol.com", 
+            "ns48.domaincontrol.com"
+        ], 
+        "domain-name": "bcbayarea.com", 
+        "fuzzer": "omission", 
+        "geoip-country": "United States"
+    }, 
+    {
+        "dns-a": [
+            "198.185.159.144", 
+            "198.185.159.145", 
+            "198.49.23.144", 
+            "198.49.23.145"
+        ], 
+        "dns-mx": [
+            "ALT1.ASPMX.L.GOOGLE.com", 
+            "ALT2.ASPMX.L.GOOGLE.com", 
+            "ASPMX.L.GOOGLE.com", 
+            "ASPMX2.GOOGLEMAIL.com", 
+            "ASPMX3.GOOGLEMAIL.com", 
+            "ASPMX4.GOOGLEMAIL.com", 
+            "ASPMX5.GOOGLEMAIL.com"
+        ], 
+        "dns-ns": [
+            "ns1.dreamhost.com", 
+            "ns2.dreamhost.com", 
+            "ns3.dreamhost.com"
+        ], 
+        "domain-name": "nbccbayarea.com", 
+        "fuzzer": "repetition", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "104.200.22.130", 
+            "104.200.23.95"
+        ], 
+        "dns-mx": [
+            "mail.mxproc.com"
+        ], 
+        "dns-ns": [
+            "ns1.mytrafficmanagement.com", 
+            "ns2.mytrafficmanagement.com"
+        ], 
+        "domain-name": "nbcbayatea.com", 
+        "fuzzer": "replacement", 
+        "geoip-country": "United States", 
+        "mx-spy": true, 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "50.63.202.88"
+        ], 
+        "domain-name": "n.bcbayarea.com", 
+        "fuzzer": "subdomain", 
+        "geoip-country": "United States"
+    }
+]

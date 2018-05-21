@@ -1,0 +1,96 @@
+[
+    {
+        "dns-a": [
+            "217.70.184.38"
+        ], 
+        "dns-mx": [
+            "ex2.mail.ovh.net"
+        ], 
+        "dns-ns": [
+            "a.dns.gandi.net", 
+            "b.dns.gandi.net", 
+            "c.dns.gandi.net"
+        ], 
+        "domain-name": "tv5monde.com", 
+        "fuzzer": "original*", 
+        "geoip-country": "France", 
+        "mx-spy": true, 
+        "ssdeep-score": 100
+    }, 
+    {
+        "dns-a": [
+            "78.41.204.26"
+        ], 
+        "dns-ns": [
+            "ns1.torresdns.com", 
+            "ns2.torresdns.com"
+        ], 
+        "domain-name": "tvmonde.com", 
+        "fuzzer": "omission", 
+        "geoip-country": "Netherlands", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "208.91.196.105"
+        ], 
+        "dns-ns": [
+            "sk.s5.cm.ns1.39.ztomy.com", 
+            "sk.s5.cm.ns2.39.ztomy.com"
+        ], 
+        "domain-name": "tv5mond.com", 
+        "fuzzer": "omission", 
+        "geoip-country": "Virgin Islands", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "208.91.196.105"
+        ], 
+        "dns-ns": [
+            "sk.s5.cm.ns1.39.ztomy.com", 
+            "sk.s5.cm.ns2.39.ztomy.com"
+        ], 
+        "domain-name": "tv5mode.com", 
+        "fuzzer": "omission", 
+        "geoip-country": "Virgin Islands", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "69.172.201.153"
+        ], 
+        "dns-ns": [
+            "ns1.uniregistrymarket.link", 
+            "ns2.uniregistrymarket.link"
+        ], 
+        "domain-name": "tv5.monde.com", 
+        "fuzzer": "subdomain", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "69.172.201.153"
+        ], 
+        "dns-ns": [
+            "ns1.uniregistrymarket.link", 
+            "ns2.uniregistrymarket.link"
+        ], 
+        "domain-name": "tv5m.onde.com", 
+        "fuzzer": "subdomain", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "45.77.120.220"
+        ], 
+        "dns-mx": [
+            "de-com-wildcard-null-mx.centralnic.net"
+        ], 
+        "domain-name": "tv5mon.de.com", 
+        "fuzzer": "subdomain", 
+        "geoip-country": "United States"
+    }
+]

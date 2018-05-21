@@ -1,0 +1,58 @@
+[
+    {
+        "dns-mx": [
+            "um-kip5.um.umsystem.edu", 
+            "um-kip6.um.umsystem.edu", 
+            "um-nip3.um.umsystem.edu", 
+            "um-nip4.um.umsystem.edu", 
+            "um-tip1.um.umsystem.edu", 
+            "um-tip2.um.umsystem.edu"
+        ], 
+        "dns-ns": [
+            "ns3.umkc.edu", 
+            "ns4.umkc.edu", 
+            "ns5.umkc.edu", 
+            "ns7.umkc.edu", 
+            "ns8.umkc.edu"
+        ], 
+        "domain-name": "umkc.edu", 
+        "fuzzer": "original*"
+    }, 
+    {
+        "dns-mx": [
+            "mxmas.kent.ac.uk"
+        ], 
+        "dns-ns": [
+            "dns0.ukc.ac.uk", 
+            "dns1.ukc.ac.uk"
+        ], 
+        "domain-name": "ukc.edu", 
+        "fuzzer": "omission"
+    }, 
+    {
+        "dns-a": [
+            "192.231.68.40"
+        ], 
+        "dns-mx": [
+            "mxa-00141b01.gslb.pphosted.com", 
+            "mxb-00141b01.gslb.pphosted.com"
+        ], 
+        "dns-ns": [
+            "ibdmzns1vip.umc.edu", 
+            "ibdmzns2vip.umc.edu"
+        ], 
+        "domain-name": "umc.edu", 
+        "fuzzer": "omission", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-ns": [
+            "ummsdns01.umassmed.edu", 
+            "umwibx01a.umassmed.edu", 
+            "umwibx01b.umassmed.edu"
+        ], 
+        "domain-name": "ummc.edu", 
+        "fuzzer": "replacement"
+    }
+]

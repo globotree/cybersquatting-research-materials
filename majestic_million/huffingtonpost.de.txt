@@ -1,0 +1,131 @@
+[
+    {
+        "dns-a": [
+            "149.174.107.97", 
+            "149.174.110.102", 
+            "207.200.74.38", 
+            "64.12.79.57", 
+            "64.12.89.186"
+        ], 
+        "dns-mx": [
+            "mx-l01.red.aol.com", 
+            "mx-m01.red.aol.com"
+        ], 
+        "dns-ns": [
+            "ns1.p132.dynect.net", 
+            "ns2.p132.dynect.net", 
+            "ns3.p132.dynect.net", 
+            "ns4.p132.dynect.net", 
+            "pdns120.ultradns.biz", 
+            "pdns120.ultradns.com", 
+            "pdns120.ultradns.net", 
+            "pdns120.ultradns.org"
+        ], 
+        "domain-name": "huffingtonpost.de", 
+        "fuzzer": "original*", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 100
+    }, 
+    {
+        "dns-a": [
+            "165.160.13.20", 
+            "165.160.15.20"
+        ], 
+        "dns-ns": [
+            "a4.nstld.com", 
+            "f4.nstld.com", 
+            "g4.nstld.com", 
+            "l4.nstld.com"
+        ], 
+        "domain-name": "huffington-post.de", 
+        "fuzzer": "hyphenation", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 100
+    }, 
+    {
+        "dns-a": [
+            "176.9.83.229"
+        ], 
+        "dns-ns": [
+            "ns1.redirectdom.com", 
+            "ns2.redirectdom.com"
+        ], 
+        "domain-name": "hufftingtonpost.de", 
+        "fuzzer": "insertion", 
+        "geoip-country": "Germany", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "103.224.182.239"
+        ], 
+        "dns-mx": [
+            "park-mx.above.com"
+        ], 
+        "dns-ns": [
+            "ns1.above.com", 
+            "ns2.above.com"
+        ], 
+        "domain-name": "huffigtonpost.de", 
+        "fuzzer": "omission", 
+        "geoip-country": "Australia", 
+        "mx-spy": true, 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "185.163.146.21"
+        ], 
+        "dns-ns": [
+            "f1g1ns1.dnspod.net", 
+            "f1g1ns2.dnspod.net"
+        ], 
+        "domain-name": "huffungtonpost.de", 
+        "fuzzer": "replacement", 
+        "geoip-country": "Turkey", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "72.52.4.122"
+        ], 
+        "dns-mx": [
+            "localhost"
+        ], 
+        "dns-ns": [
+            "ns1.sedoparking.com", 
+            "ns2.sedoparking.com"
+        ], 
+        "domain-name": "huffingto.npost.de", 
+        "fuzzer": "subdomain", 
+        "geoip-country": "United States", 
+        "mx-spy": true, 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "185.53.178.7"
+        ], 
+        "dns-ns": [
+            "ns1.parkingcrew.net", 
+            "ns2.parkingcrew.net"
+        ], 
+        "domain-name": "huffingtenpost.de", 
+        "fuzzer": "vowel-swap", 
+        "geoip-country": "Germany", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "185.53.178.8"
+        ], 
+        "dns-ns": [
+            "ns1.parkingcrew.net", 
+            "ns2.parkingcrew.net"
+        ], 
+        "domain-name": "haffingtonpost.de", 
+        "fuzzer": "vowel-swap", 
+        "geoip-country": "Germany", 
+        "ssdeep-score": 0
+    }
+]

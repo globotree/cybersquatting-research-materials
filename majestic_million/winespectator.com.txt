@@ -1,0 +1,208 @@
+[
+    {
+        "dns-a": [
+            "216.146.46.10", 
+            "216.146.46.11"
+        ], 
+        "dns-mx": [
+            "ALT1.ASPMX.L.GOOGLE.com", 
+            "ALT2.ASPMX.L.GOOGLE.com", 
+            "ALT3.ASPMX.L.GOOGLE.com", 
+            "ALT4.ASPMX.L.GOOGLE.com", 
+            "ASPMX.L.GOOGLE.com"
+        ], 
+        "dns-ns": [
+            "ns1.p09.dynect.net", 
+            "ns2.p09.dynect.net", 
+            "ns3.p09.dynect.net", 
+            "ns4.p09.dynect.net"
+        ], 
+        "domain-name": "winespectator.com", 
+        "fuzzer": "original*", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 97
+    }, 
+    {
+        "dns-a": [
+            "98.124.245.24"
+        ], 
+        "dns-mx": [
+            "mail.b-io.co"
+        ], 
+        "dns-ns": [
+            "ns1.fabulous.com", 
+            "ns2.fabulous.com"
+        ], 
+        "domain-name": "winespectators.com", 
+        "fuzzer": "addition", 
+        "geoip-country": "United States", 
+        "mx-spy": true, 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "185.53.178.8"
+        ], 
+        "dns-mx": [
+            "mail.h-email.net"
+        ], 
+        "dns-ns": [
+            "ns1.parkingcrew.net", 
+            "ns2.parkingcrew.net"
+        ], 
+        "domain-name": "winespactator.com", 
+        "fuzzer": "bitsquatting", 
+        "geoip-country": "Germany", 
+        "mx-spy": true, 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-ns": [
+            "ns1.p09.dynect.net", 
+            "ns2.p09.dynect.net", 
+            "ns3.p09.dynect.net", 
+            "ns4.p09.dynect.net"
+        ], 
+        "domain-name": "wine-spectator.com", 
+        "fuzzer": "hyphenation"
+    }, 
+    {
+        "dns-mx": [
+            "mx.wineespectator.com"
+        ], 
+        "dns-ns": [
+            "ns1.mydomain.com", 
+            "ns2.mydomain.com"
+        ], 
+        "domain-name": "wineespectator.com", 
+        "fuzzer": "insertion"
+    }, 
+    {
+        "dns-a": [
+            "66.96.149.1"
+        ], 
+        "dns-mx": [
+            "mx.winespectaor.com"
+        ], 
+        "dns-ns": [
+            "ns1.mydomain.com", 
+            "ns2.mydomain.com"
+        ], 
+        "domain-name": "winespectaor.com", 
+        "fuzzer": "omission", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "24.89.132.150"
+        ], 
+        "dns-ns": [
+            "dns1.name-services.com", 
+            "dns2.name-services.com", 
+            "dns3.name-services.com", 
+            "dns4.name-services.com", 
+            "dns5.name-services.com"
+        ], 
+        "domain-name": "winespecator.com", 
+        "fuzzer": "omission", 
+        "geoip-country": "United States"
+    }, 
+    {
+        "dns-a": [
+            "24.89.132.150"
+        ], 
+        "dns-ns": [
+            "dns1.name-services.com", 
+            "dns2.name-services.com", 
+            "dns3.name-services.com", 
+            "dns4.name-services.com", 
+            "dns5.name-services.com"
+        ], 
+        "domain-name": "winspectator.com", 
+        "fuzzer": "omission", 
+        "geoip-country": "United States"
+    }, 
+    {
+        "dns-a": [
+            "66.96.149.23"
+        ], 
+        "dns-mx": [
+            "mx.wwinespectator.com"
+        ], 
+        "dns-ns": [
+            "ns1.mydomain.com", 
+            "ns2.mydomain.com"
+        ], 
+        "domain-name": "wwinespectator.com", 
+        "fuzzer": "repetition", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "141.8.225.80"
+        ], 
+        "dns-ns": [
+            "ns5.dsredirection.com", 
+            "ns6.dsredirection.com"
+        ], 
+        "domain-name": "winwspectator.com", 
+        "fuzzer": "replacement", 
+        "geoip-country": "Switzerland", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "69.172.201.153"
+        ], 
+        "dns-ns": [
+            "ns1.uniregistrymarket.link", 
+            "ns2.uniregistrymarket.link"
+        ], 
+        "domain-name": "win.espectator.com", 
+        "fuzzer": "subdomain", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "23.236.62.147"
+        ], 
+        "domain-name": "wine.spectator.com", 
+        "fuzzer": "subdomain", 
+        "geoip-country": "United States"
+    }, 
+    {
+        "dns-a": [
+            "104.200.22.130", 
+            "104.200.23.95"
+        ], 
+        "dns-mx": [
+            "mail.mxproc.com"
+        ], 
+        "dns-ns": [
+            "ns1.mytrafficmanagement.com", 
+            "ns2.mytrafficmanagement.com"
+        ], 
+        "domain-name": "winepsectator.com", 
+        "fuzzer": "transposition", 
+        "geoip-country": "United States", 
+        "mx-spy": true, 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "216.146.46.10", 
+            "216.146.46.11"
+        ], 
+        "dns-ns": [
+            "ns1.p09.dynect.net", 
+            "ns2.p09.dynect.net", 
+            "ns3.p09.dynect.net", 
+            "ns4.p09.dynect.net"
+        ], 
+        "domain-name": "winespectater.com", 
+        "fuzzer": "vowel-swap"
+    }
+]

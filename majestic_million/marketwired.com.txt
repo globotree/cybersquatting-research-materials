@@ -1,0 +1,101 @@
+[
+    {
+        "dns-a": [
+            "198.55.220.26"
+        ], 
+        "dns-mx": [
+            "smtp2.nasdaqomx.com", 
+            "smtp4.nasdaqomx.com"
+        ], 
+        "dns-ns": [
+            "a1.verisigndns.com", 
+            "a2.verisigndns.com", 
+            "a3.verisigndns.com"
+        ], 
+        "domain-name": "marketwired.com", 
+        "fuzzer": "original*", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 100
+    }, 
+    {
+        "dns-a": [
+            "50.63.202.20"
+        ], 
+        "dns-mx": [
+            "mailstore1.secureserver.net", 
+            "smtp.secureserver.net"
+        ], 
+        "dns-ns": [
+            "ns47.domaincontrol.com", 
+            "ns48.domaincontrol.com"
+        ], 
+        "domain-name": "market-wired.com", 
+        "fuzzer": "hyphenation", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "72.52.145.187"
+        ], 
+        "dns-mx": [
+            "marketswired.com"
+        ], 
+        "dns-ns": [
+            "ns.liquidweb.com", 
+            "ns1.liquidweb.com"
+        ], 
+        "domain-name": "marketswired.com", 
+        "fuzzer": "insertion", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "103.224.182.253"
+        ], 
+        "dns-mx": [
+            "park-mx.above.com"
+        ], 
+        "dns-ns": [
+            "ns3.above.com", 
+            "ns4.above.com"
+        ], 
+        "domain-name": "maretwired.com", 
+        "fuzzer": "omission", 
+        "geoip-country": "Australia", 
+        "mx-spy": true, 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "198.55.220.46"
+        ], 
+        "dns-mx": [
+            "smtp2.nasdaqomx.com", 
+            "smtp4.nasdaqomx.com"
+        ], 
+        "dns-ns": [
+            "a1.verisigndns.com", 
+            "a2.verisigndns.com", 
+            "a3.verisigndns.com"
+        ], 
+        "domain-name": "marketwire.com", 
+        "fuzzer": "omission", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 100
+    }, 
+    {
+        "dns-a": [
+            "173.239.23.228"
+        ], 
+        "dns-ns": [
+            "NS1.DOMAIN-IS-4-SALE-AT-DOMAINMARKET.com", 
+            "NS2.DOMAINMARKET.com"
+        ], 
+        "domain-name": "marketwires.com", 
+        "fuzzer": "replacement", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 0
+    }
+]

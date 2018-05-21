@@ -1,0 +1,57 @@
+[
+    {
+        "dns-a": [
+            "18.196.239.119"
+        ], 
+        "dns-mx": [
+            "mail.phrases.org.uk"
+        ], 
+        "dns-ns": [
+            "ant.ezoicns.com", 
+            "cow.ezoicns.com", 
+            "olm.ezoicns.com", 
+            "rat.ezoicns.com"
+        ], 
+        "domain-name": "phrases.org.uk", 
+        "fuzzer": "original*", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 93
+    }, 
+    {
+        "dns-a": [
+            "217.160.0.251"
+        ], 
+        "dns-mx": [
+            "mx00.1and1.co.uk", 
+            "mx01.1and1.co.uk"
+        ], 
+        "dns-ns": [
+            "ns1075.ui-dns.biz", 
+            "ns1075.ui-dns.com", 
+            "ns1075.ui-dns.de", 
+            "ns1075.ui-dns.org"
+        ], 
+        "domain-name": "phases.org.uk", 
+        "fuzzer": "omission", 
+        "geoip-country": "Germany", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "109.239.101.62"
+        ], 
+        "domain-name": "phras.es.org.uk", 
+        "fuzzer": "subdomain", 
+        "geoip-country": "United Kingdom", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "109.239.101.62"
+        ], 
+        "domain-name": "phrase.s.org.uk", 
+        "fuzzer": "subdomain", 
+        "geoip-country": "United Kingdom", 
+        "ssdeep-score": 0
+    }
+]

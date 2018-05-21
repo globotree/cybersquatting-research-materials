@@ -1,0 +1,65 @@
+[
+    {
+        "dns-mx": [
+            "mx1.dlut.edu.cn", 
+            "mx2.dlut.edu.cn"
+        ], 
+        "dns-ns": [
+            "cedrus.dlut.edu.cn", 
+            "gingko.dlut.edu.cn"
+        ], 
+        "domain-name": "dlut.edu.cn", 
+        "fuzzer": "original*"
+    }, 
+    {
+        "dns-ns": [
+            "cedrus.dut.edu.cn", 
+            "gingko.dut.edu.cn"
+        ], 
+        "domain-name": "dut.edu.cn", 
+        "fuzzer": "omission"
+    }, 
+    {
+        "dns-mx": [
+            "lut.abroad.eyou.net", 
+            "mail.lut.cn"
+        ], 
+        "dns-ns": [
+            "dns.lut.cn"
+        ], 
+        "domain-name": "lut.edu.cn", 
+        "fuzzer": "omission"
+    }, 
+    {
+        "dns-a": [
+            "219.216.221.10"
+        ], 
+        "dns-mx": [
+            "mail.dlu.edu.cn"
+        ], 
+        "dns-ns": [
+            "dns.dlu.edu.cn", 
+            "dns1.dlu.edu.cn", 
+            "dns2.dlu.edu.cn"
+        ], 
+        "domain-name": "dlu.edu.cn", 
+        "fuzzer": "omission", 
+        "geoip-country": "China"
+    }, 
+    {
+        "dns-ns": [
+            "cedrus.dlut.edu.cn", 
+            "gingko.dlut.edu.cn"
+        ], 
+        "domain-name": "dlut.cn", 
+        "fuzzer": "various"
+    }, 
+    {
+        "dns-ns": [
+            "f1g1ns1.dnspod.net", 
+            "f1g1ns2.dnspod.net"
+        ], 
+        "domain-name": "dlutedu.cn", 
+        "fuzzer": "various"
+    }
+]

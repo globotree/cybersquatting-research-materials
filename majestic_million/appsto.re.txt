@@ -1,0 +1,79 @@
+[
+    {
+        "dns-a": [
+            "17.173.65.161", 
+            "17.173.65.162", 
+            "17.173.65.163", 
+            "17.173.65.164", 
+            "17.173.65.165", 
+            "17.173.65.166"
+        ], 
+        "dns-ns": [
+            "asia2.akam.net", 
+            "asia3.akam.net", 
+            "eur5.akam.net", 
+            "ns1-235.akam.net", 
+            "ns1-45.akam.net", 
+            "use1.akam.net", 
+            "usw2.akam.net", 
+            "usw6.akam.net"
+        ], 
+        "domain-name": "appsto.re", 
+        "fuzzer": "original*", 
+        "geoip-country": "United States"
+    }, 
+    {
+        "dns-a": [
+            "46.101.50.21"
+        ], 
+        "dns-ns": [
+            "u1.hoster.by", 
+            "u2.hoster.by"
+        ], 
+        "domain-name": "appstor.re", 
+        "fuzzer": "addition", 
+        "geoip-country": "United Kingdom"
+    }, 
+    {
+        "dns-a": [
+            "107.170.195.121"
+        ], 
+        "dns-mx": [
+            "MAIL.101DOMAIN.COM"
+        ], 
+        "dns-ns": [
+            "NS1.101DOMAIN.COM", 
+            "NS2.101DOMAIN.COM", 
+            "NS5.101DOMAIN.COM"
+        ], 
+        "domain-name": "appst.re", 
+        "fuzzer": "omission", 
+        "geoip-country": "United States"
+    }, 
+    {
+        "dns-ns": [
+            "ns-1199.awsdns-21.org", 
+            "ns-1795.awsdns-32.co.uk", 
+            "ns-201.awsdns-25.com", 
+            "ns-980.awsdns-58.net"
+        ], 
+        "domain-name": "ppsto.re", 
+        "fuzzer": "omission"
+    }, 
+    {
+        "dns-a": [
+            "169.44.87.44"
+        ], 
+        "domain-name": "a.ppsto.re", 
+        "fuzzer": "subdomain", 
+        "geoip-country": "United States"
+    }, 
+    {
+        "dns-a": [
+            "23.227.38.64"
+        ], 
+        "domain-name": "app.sto.re", 
+        "fuzzer": "subdomain", 
+        "geoip-country": "Canada"
+    }
+]

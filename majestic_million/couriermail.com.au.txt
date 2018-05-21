@@ -1,0 +1,61 @@
+[
+    {
+        "dns-a": [
+            "88.221.214.43", 
+            "88.221.214.65"
+        ], 
+        "dns-mx": [
+            "alt1.aspmx.l.google.com", 
+            "alt2.aspmx.l.google.com", 
+            "alt3.aspmx.l.google.com", 
+            "alt4.aspmx.l.google.com", 
+            "aspmx.l.google.com"
+        ], 
+        "dns-ns": [
+            "asia1.akam.net", 
+            "ns1-24.akam.net", 
+            "ns1-50.akam.net", 
+            "usc1.akam.net", 
+            "usc4.akam.net", 
+            "usw1.akam.net", 
+            "usw4.akam.net", 
+            "usw5.akam.net"
+        ], 
+        "domain-name": "couriermail.com.au", 
+        "fuzzer": "original*", 
+        "geoip-country": "Germany", 
+        "ssdeep-score": 100
+    }, 
+    {
+        "dns-a": [
+            "165.69.10.27"
+        ], 
+        "dns-ns": [
+            "dns0.news.com.au", 
+            "dns1.news.com.au", 
+            "dns2.news.com.au", 
+            "dns3.news.com.au"
+        ], 
+        "domain-name": "courier-mail.com.au", 
+        "fuzzer": "hyphenation", 
+        "geoip-country": "Australia", 
+        "ssdeep-score": 99
+    }, 
+    {
+        "dns-a": [
+            "98.124.245.24"
+        ], 
+        "dns-mx": [
+            "mail.b-io.co"
+        ], 
+        "dns-ns": [
+            "ns1.fabulous.com", 
+            "ns2.fabulous.com"
+        ], 
+        "domain-name": "courier.mail.com.au", 
+        "fuzzer": "subdomain", 
+        "geoip-country": "United States", 
+        "mx-spy": true, 
+        "ssdeep-score": 0
+    }
+]

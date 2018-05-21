@@ -1,0 +1,30 @@
+[
+    {
+        "dns-a": [
+            "130.123.10.101"
+        ], 
+        "dns-mx": [
+            "alb-dmz1.massey.ac.nz", 
+            "tur-dmz1.massey.ac.nz", 
+            "wel-dmz1.massey.ac.nz"
+        ], 
+        "dns-ns": [
+            "ns2.massey.ac.nz", 
+            "ns3.massey.ac.nz", 
+            "ns4.massey.ac.nz"
+        ], 
+        "domain-name": "massey.ac.nz", 
+        "fuzzer": "original*", 
+        "geoip-country": "New Zealand", 
+        "ssdeep-score": 88
+    }, 
+    {
+        "dns-ns": [
+            "ns1.massey.ac.nz", 
+            "ns2.massey.ac.nz", 
+            "ns3.massey.ac.nz"
+        ], 
+        "domain-name": "massey.nz", 
+        "fuzzer": "various"
+    }
+]

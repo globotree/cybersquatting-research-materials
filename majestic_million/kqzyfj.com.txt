@@ -1,0 +1,46 @@
+[
+    {
+        "dns-mx": [
+            ""
+        ], 
+        "dns-ns": [
+            "asia9.akam.net", 
+            "eur2.akam.net", 
+            "eur3.akam.net", 
+            "eur7.akam.net", 
+            "ns1-100.akam.net", 
+            "ns1-27.akam.net", 
+            "use4.akam.net", 
+            "usw1.akam.net"
+        ], 
+        "domain-name": "kqzyfj.com", 
+        "fuzzer": "original*"
+    }, 
+    {
+        "dns-a": [
+            "47.89.29.161"
+        ], 
+        "domain-name": "qzyfj.com", 
+        "fuzzer": "omission", 
+        "geoip-country": "United States"
+    }, 
+    {
+        "dns-a": [
+            "123.60.234.4"
+        ], 
+        "domain-name": "kqzyf.com", 
+        "fuzzer": "omission"
+    }, 
+    {
+        "dns-a": [
+            "104.203.33.70"
+        ], 
+        "dns-ns": [
+            "ns4.dnsdun.com", 
+            "ns4.dnsdun.net"
+        ], 
+        "domain-name": "kqzyfm.com", 
+        "fuzzer": "replacement", 
+        "geoip-country": "United States"
+    }
+]

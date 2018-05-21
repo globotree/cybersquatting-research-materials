@@ -1,0 +1,124 @@
+[
+    {
+        "dns-a": [
+            "5.10.31.155", 
+            "5.10.31.164", 
+            "5.10.31.214"
+        ], 
+        "dns-mx": [
+            "mailhost1.ingenta.com", 
+            "mailhost2.ingenta.com", 
+            "mailhost3.ingenta.com"
+        ], 
+        "dns-ns": [
+            "ns1.ingenta.com", 
+            "ns2.ingenta.com", 
+            "ns3.ingenta.com"
+        ], 
+        "domain-name": "oecd-ilibrary.org", 
+        "fuzzer": "original*", 
+        "geoip-country": "United Kingdom", 
+        "ssdeep-score": 75
+    }, 
+    {
+        "dns-a": [
+            "103.224.212.251"
+        ], 
+        "dns-mx": [
+            "park-mx.above.com"
+        ], 
+        "dns-ns": [
+            "ns3.above.com", 
+            "ns4.above.com"
+        ], 
+        "domain-name": "oecd-library.org", 
+        "fuzzer": "omission", 
+        "geoip-country": "Australia", 
+        "mx-spy": true, 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "5.10.31.155", 
+            "5.10.31.164", 
+            "5.10.31.214"
+        ], 
+        "dns-mx": [
+            "mailhost1.ingenta.com", 
+            "mailhost2.ingenta.com", 
+            "mailhost3.ingenta.com"
+        ], 
+        "dns-ns": [
+            "ns1.ingenta.com", 
+            "ns2.ingenta.com", 
+            "ns3.ingenta.com"
+        ], 
+        "domain-name": "oecdilibrary.org", 
+        "fuzzer": "omission", 
+        "geoip-country": "United Kingdom"
+    }, 
+    {
+        "dns-a": [
+            "184.168.221.104"
+        ], 
+        "dns-ns": [
+            "ns1.afternic.com", 
+            "ns2.afternic.com"
+        ], 
+        "domain-name": "oecd-i.library.org", 
+        "fuzzer": "subdomain", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "64.29.151.221"
+        ], 
+        "dns-mx": [
+            "mx1c40.carrierzone.com", 
+            "mx2c40.carrierzone.com", 
+            "mx3c40.carrierzone.com"
+        ], 
+        "dns-ns": [
+            "ns1.aplus.net", 
+            "ns2.aplus.net"
+        ], 
+        "domain-name": "oecd-il.ibrary.org", 
+        "fuzzer": "subdomain"
+    }, 
+    {
+        "dns-a": [
+            "74.119.239.234"
+        ], 
+        "domain-name": "oecd-ili.brary.org", 
+        "fuzzer": "subdomain", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "68.178.213.61"
+        ], 
+        "domain-name": "oecd-ilib.rary.org", 
+        "fuzzer": "subdomain", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "72.52.4.119"
+        ], 
+        "dns-mx": [
+            "localhost"
+        ], 
+        "dns-ns": [
+            "ns1.sedoparking.com", 
+            "ns2.sedoparking.com"
+        ], 
+        "domain-name": "oecd-ilibra.ry.org", 
+        "fuzzer": "subdomain", 
+        "geoip-country": "United States", 
+        "mx-spy": true, 
+        "ssdeep-score": 0
+    }
+]

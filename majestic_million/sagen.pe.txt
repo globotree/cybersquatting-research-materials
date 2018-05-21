@@ -1,0 +1,55 @@
+[
+    {
+        "dns-a": [
+            "107.180.37.105"
+        ], 
+        "dns-mx": [
+            "mailstore1.secureserver.net", 
+            "smtp.secureserver.net"
+        ], 
+        "dns-ns": [
+            "ns25.domaincontrol.com", 
+            "ns26.domaincontrol.com"
+        ], 
+        "domain-name": "sagen.pe", 
+        "fuzzer": "original*", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 100
+    }, 
+    {
+        "dns-a": [
+            "185.26.230.129"
+        ], 
+        "dns-mx": [
+            "mail.sagem.pe"
+        ], 
+        "dns-ns": [
+            "indom10.indomco.com", 
+            "indom20.indomco.net", 
+            "indom30.indomco.fr", 
+            "indom80.indomco.hk"
+        ], 
+        "domain-name": "sagem.pe", 
+        "fuzzer": "homoglyph", 
+        "geoip-country": "United Kingdom", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "192.64.119.254"
+        ], 
+        "domain-name": "sag.en.pe", 
+        "fuzzer": "subdomain", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "199.59.242.150"
+        ], 
+        "domain-name": "sage.n.pe", 
+        "fuzzer": "subdomain", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 0
+    }
+]

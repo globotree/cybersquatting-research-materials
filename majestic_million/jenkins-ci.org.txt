@@ -1,0 +1,44 @@
+[
+    {
+        "dns-a": [
+            "40.79.70.97"
+        ], 
+        "dns-mx": [
+            "cucumber.jenkins-ci.org"
+        ], 
+        "dns-ns": [
+            "ns1.jenkins-ci.org", 
+            "ns2.jenkins-ci.org", 
+            "ns3.jenkins-ci.org"
+        ], 
+        "domain-name": "jenkins-ci.org", 
+        "fuzzer": "original*", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 100
+    }, 
+    {
+        "dns-a": [
+            "66.33.223.82"
+        ], 
+        "dns-ns": [
+            "ns1.dreamhost.com", 
+            "ns2.dreamhost.com", 
+            "ns3.dreamhost.com"
+        ], 
+        "domain-name": "jenkinsci.org", 
+        "fuzzer": "omission", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 100
+    }, 
+    {
+        "dns-a": [
+            "157.240.20.36"
+        ], 
+        "dns-aaaa": [
+            "2a03:2880:f11c:8184:face:b00c:0:14c9"
+        ], 
+        "domain-name": "jenkins-c.i.org", 
+        "fuzzer": "subdomain", 
+        "geoip-country": "United States"
+    }
+]

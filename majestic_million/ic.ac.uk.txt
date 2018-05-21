@@ -1,0 +1,104 @@
+[
+    {
+        "dns-a": [
+            "129.31.100.150", 
+            "129.31.22.11", 
+            "129.31.47.2", 
+            "146.179.32.12", 
+            "146.179.32.37", 
+            "155.198.30.55", 
+            "155.198.30.71", 
+            "155.198.30.98", 
+            "155.198.63.21"
+        ], 
+        "dns-mx": [
+            "mx1.cc.ic.ac.uk", 
+            "mx2.cc.ic.ac.uk", 
+            "mx3.cc.ic.ac.uk", 
+            "mx4.cc.ic.ac.uk"
+        ], 
+        "dns-ns": [
+            "authdns1.csx.cam.ac.uk", 
+            "ns0.ic.ac.uk", 
+            "ns1.ic.ac.uk", 
+            "ns2.ic.ac.uk"
+        ], 
+        "domain-name": "ic.ac.uk", 
+        "fuzzer": "original*", 
+        "geoip-country": "United Kingdom"
+    }, 
+    {
+        "dns-a": [
+            "193.200.98.213"
+        ], 
+        "dns-mx": [
+            "icc-ac-uk.mail.protection.outlook.com"
+        ], 
+        "dns-ns": [
+            "ns1.digitaldaemons.co.uk", 
+            "ns2.digitaldaemons.co.uk"
+        ], 
+        "domain-name": "icc.ac.uk", 
+        "fuzzer": "addition", 
+        "geoip-country": "United Kingdom"
+    }, 
+    {
+        "dns-a": [
+            "141.101.113.165"
+        ], 
+        "dns-mx": [
+            "cluster1.eu.messagelabs.com", 
+            "cluster1a.eu.messagelabs.com"
+        ], 
+        "dns-ns": [
+            "ns3.ja.net", 
+            "rhine.icr.ac.uk", 
+            "tiber.icr.ac.uk"
+        ], 
+        "domain-name": "icr.ac.uk", 
+        "fuzzer": "addition", 
+        "geoip-country": "United States"
+    }, 
+    {
+        "dns-a": [
+            "80.253.110.142"
+        ], 
+        "dns-mx": [
+            "ics-ac-uk.mail.protection.outlook.com"
+        ], 
+        "domain-name": "ics.ac.uk", 
+        "fuzzer": "addition"
+    }, 
+    {
+        "dns-a": [
+            "195.62.198.11"
+        ], 
+        "dns-mx": [
+            "ic-uk.mail.protection.outlook.com"
+        ], 
+        "dns-ns": [
+            "ns1.ic.net.uk", 
+            "ns2.ic.net.uk"
+        ], 
+        "domain-name": "ic.uk", 
+        "fuzzer": "various", 
+        "geoip-country": "United Kingdom"
+    }, 
+    {
+        "dns-a": [
+            "217.70.184.38"
+        ], 
+        "dns-mx": [
+            "fb.mail.gandi.net", 
+            "spool.mail.gandi.net"
+        ], 
+        "dns-ns": [
+            "a.dns.gandi.net", 
+            "b.dns.gandi.net", 
+            "c.dns.gandi.net"
+        ], 
+        "domain-name": "icac.uk", 
+        "fuzzer": "various", 
+        "geoip-country": "France"
+    }
+]

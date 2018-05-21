@@ -1,0 +1,312 @@
+[
+    {
+        "dns-a": [
+            "128.195.188.232"
+        ], 
+        "dns-mx": [
+            "mta.service.uci.edu"
+        ], 
+        "dns-ns": [
+            "ns5.service.uci.edu", 
+            "ns6.service.uci.edu"
+        ], 
+        "domain-name": "uci.edu", 
+        "fuzzer": "original*", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 99
+    }, 
+    {
+        "dns-mx": [
+            "dns.stjohns.edu", 
+            "relay.stjohns.edu"
+        ], 
+        "dns-ns": [
+            "auth1.dns.cogentco.com", 
+            "awsdns.stjohns.edu", 
+            "qcenextdns2.stjohns.edu", 
+            "qnewextdns1.stjohns.edu"
+        ], 
+        "domain-name": "tci.edu", 
+        "fuzzer": "bitsquatting"
+    }, 
+    {
+        "dns-a": [
+            "216.49.218.16"
+        ], 
+        "dns-mx": [
+            "mailbag.careered.com"
+        ], 
+        "dns-ns": [
+            "a1.uberns.com", 
+            "b1.uberns.com"
+        ], 
+        "domain-name": "wci.edu", 
+        "fuzzer": "bitsquatting", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "178.208.52.110"
+        ], 
+        "dns-mx": [
+            "in-mx.online.be"
+        ], 
+        "dns-ns": [
+            "ns1.ionip.as6696.net", 
+            "ns2.ionip.as6696.net"
+        ], 
+        "domain-name": "ubi.edu", 
+        "fuzzer": "bitsquatting", 
+        "geoip-country": "Belgium", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "192.206.10.36"
+        ], 
+        "dns-mx": [
+            "usi-edu.mail.protection.outlook.com"
+        ], 
+        "dns-ns": [
+            "ns1.usi.edu", 
+            "ns2.usi.edu", 
+            "ns3.usi.edu"
+        ], 
+        "domain-name": "usi.edu", 
+        "fuzzer": "bitsquatting", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "168.200.5.63"
+        ], 
+        "dns-mx": [
+            "uch-edu.mail.eo.outlook.com"
+        ], 
+        "dns-ns": [
+            "a-info-dmz.uchealth.org", 
+            "h-info-dmz.uchealth.org"
+        ], 
+        "domain-name": "uch.edu", 
+        "fuzzer": "bitsquatting", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "169.236.13.50"
+        ], 
+        "dns-mx": [
+            "lpvmg01.ucmerced.edu", 
+            "lpvmg01.ucmerced.edu"
+        ], 
+        "dns-ns": [
+            "fatxmb.ucmerced.edu", 
+            "luigi.ucmerced.edu", 
+            "tulum.ucmerced.edu"
+        ], 
+        "domain-name": "ucm.edu", 
+        "fuzzer": "bitsquatting", 
+        "geoip-country": "United States", 
+        "mx-spy": true, 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "161.31.3.35"
+        ], 
+        "dns-mx": [
+            "alt1.aspmx.l.google.com", 
+            "alt2.aspmx.l.google.com", 
+            "alt3.aspmx.l.google.com", 
+            "alt4.aspmx.l.google.com", 
+            "aspmx.l.google.com"
+        ], 
+        "dns-ns": [
+            "ns.arknet.edu", 
+            "ns1.uca.edu", 
+            "ns2.uca.edu"
+        ], 
+        "domain-name": "uca.edu", 
+        "fuzzer": "bitsquatting", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-ns": [
+            "dns-ns0.ucl.ac.uk", 
+            "dns-ns1.ucl.ac.uk"
+        ], 
+        "domain-name": "ucl.edu", 
+        "fuzzer": "homoglyph"
+    }, 
+    {
+        "dns-a": [
+            "152.118.24.40"
+        ], 
+        "dns-ns": [
+            "ns1.itb.ac.id", 
+            "ranggalawe.ui.ac.id", 
+            "uicsgtw.cs.ui.ac.id"
+        ], 
+        "domain-name": "ui.edu", 
+        "fuzzer": "omission"
+    }, 
+    {
+        "dns-a": [
+            "129.137.4.225"
+        ], 
+        "dns-mx": [
+            "ucmailmx3.uc.edu", 
+            "ucmailmx4.uc.edu"
+        ], 
+        "dns-ns": [
+            "ucdnsa.uc.edu", 
+            "ucdnsb.uc.edu"
+        ], 
+        "domain-name": "uc.edu", 
+        "fuzzer": "omission", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "65.23.47.82"
+        ], 
+        "dns-ns": [
+            "gu-dns.globaluniversity.edu"
+        ], 
+        "domain-name": "ici.edu", 
+        "fuzzer": "replacement", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "216.54.215.223"
+        ], 
+        "dns-mx": [
+            "b1f4d890c8ce3f4ea882cabd3b3c81.mail.outlook.com", 
+            "uvi-edu.mail.protection.outlook.com"
+        ], 
+        "dns-ns": [
+            "dns1.easydns.com", 
+            "dns2.easydns.net", 
+            "mola.uvi.edu", 
+            "stxdns01.uvi.edu"
+        ], 
+        "domain-name": "uvi.edu", 
+        "fuzzer": "replacement", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "199.59.157.232"
+        ], 
+        "dns-mx": [
+            "hci-edu.mail.protection.outlook.com"
+        ], 
+        "dns-ns": [
+            "ns3821.hostgator.com", 
+            "ns3822.hostgator.com"
+        ], 
+        "domain-name": "hci.edu", 
+        "fuzzer": "replacement", 
+        "geoip-country": "United States"
+    }, 
+    {
+        "dns-a": [
+            "192.206.65.23"
+        ], 
+        "dns-mx": [
+            "uco-edu.mail.protection.outlook.com"
+        ], 
+        "dns-ns": [
+            "ns1.uco.edu", 
+            "ns2.uco.edu", 
+            "ns3.uco.edu"
+        ], 
+        "domain-name": "uco.edu", 
+        "fuzzer": "replacement", 
+        "geoip-country": "United States"
+    }, 
+    {
+        "dns-a": [
+            "104.28.4.17", 
+            "104.28.5.17"
+        ], 
+        "dns-aaaa": [
+            "2400:cb00:2048:1::681c:411", 
+            "2400:cb00:2048:1::681c:511"
+        ], 
+        "dns-mx": [
+            "alt1.aspmx.l.google.com", 
+            "alt2.aspmx.l.google.com", 
+            "aspmx.l.google.com"
+        ], 
+        "dns-ns": [
+            "may.ns.cloudflare.com", 
+            "seth.ns.cloudflare.com"
+        ], 
+        "domain-name": "cui.edu", 
+        "fuzzer": "transposition", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "128.248.155.15"
+        ], 
+        "dns-mx": [
+            "mxeast1.uic.edu", 
+            "mxeast2.uic.edu", 
+            "mxwest1.uic.edu", 
+            "mxwest2.uic.edu"
+        ], 
+        "dns-ns": [
+            "icestation.uic-accc.uiuc.edu", 
+            "uic-dns1.uic.edu", 
+            "uic-dns2.uic.edu", 
+            "uic-dns3.uic.edu"
+        ], 
+        "domain-name": "uic.edu", 
+        "fuzzer": "transposition", 
+        "geoip-country": "United States"
+    }, 
+    {
+        "dns-a": [
+            "35.229.113.102"
+        ], 
+        "dns-mx": [
+            "alt1.aspmx.l.google.com", 
+            "alt2.aspmx.l.google.com", 
+            "aspmx.l.google.com", 
+            "aspmx2.googlemail.com", 
+            "aspmx3.googlemail.com"
+        ], 
+        "dns-ns": [
+            "aron.ns.cloudflare.com", 
+            "kai.ns.cloudflare.com"
+        ], 
+        "domain-name": "aci.edu", 
+        "fuzzer": "vowel-swap", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "116.126.87.72"
+        ], 
+        "dns-ns": [
+            "ns1.whoisdomain.kr", 
+            "ns2.whoisdomain.kr", 
+            "ns3.whoisdomain.kr", 
+            "ns4.whoisdomain.kr"
+        ], 
+        "domain-name": "uci-edu.com", 
+        "fuzzer": "various"
+    }
+]

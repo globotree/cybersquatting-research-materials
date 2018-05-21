@@ -1,0 +1,125 @@
+[
+    {
+        "dns-a": [
+            "52.222.146.108", 
+            "52.222.146.178", 
+            "52.222.146.245", 
+            "52.222.146.40", 
+            "52.222.146.60", 
+            "52.222.146.77", 
+            "52.222.146.78", 
+            "52.222.146.94"
+        ], 
+        "dns-mx": [
+            "alt1.aspmx.l.google.com", 
+            "alt2.aspmx.l.google.com", 
+            "alt3.aspmx.l.google.com", 
+            "alt4.aspmx.l.google.com", 
+            "aspmx.l.google.com"
+        ], 
+        "dns-ns": [
+            "ns-1168.awsdns-18.org", 
+            "ns-1771.awsdns-29.co.uk", 
+            "ns-222.awsdns-27.com", 
+            "ns-968.awsdns-57.net"
+        ], 
+        "domain-name": "technobuffalo.com", 
+        "fuzzer": "original*", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 100
+    }, 
+    {
+        "dns-a": [
+            "72.52.179.175"
+        ], 
+        "dns-mx": [
+            "mx156.hostedmxserver.com"
+        ], 
+        "dns-ns": [
+            "ns1.parklogic.com", 
+            "ns2.parklogic.com", 
+            "ns3.parklogic.com", 
+            "ns4.parklogic.com", 
+            "ns5.parklogic.com"
+        ], 
+        "domain-name": "technobufflo.com", 
+        "fuzzer": "omission", 
+        "geoip-country": "United States", 
+        "mx-spy": true, 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "67.55.92.184", 
+            "67.55.92.187"
+        ], 
+        "dns-mx": [
+            "mx7.techobuffalo.com"
+        ], 
+        "dns-ns": [
+            "ns1.liverealdeals.com", 
+            "ns2.liverealdeals.com"
+        ], 
+        "domain-name": "techobuffalo.com", 
+        "fuzzer": "omission", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "69.172.201.153"
+        ], 
+        "domain-name": "technob.uffalo.com", 
+        "fuzzer": "subdomain", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "52.73.124.185", 
+            "54.164.198.60"
+        ], 
+        "dns-ns": [
+            "ns1.namebrightdns.com", 
+            "ns2.namebrightdns.com"
+        ], 
+        "domain-name": "technobu.ffalo.com", 
+        "fuzzer": "subdomain", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "69.172.201.153"
+        ], 
+        "domain-name": "technobuf.falo.com", 
+        "fuzzer": "subdomain", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "69.172.201.153"
+        ], 
+        "dns-ns": [
+            "ns1.uniregistrymarket.link", 
+            "ns2.uniregistrymarket.link"
+        ], 
+        "domain-name": "technobuff.alo.com", 
+        "fuzzer": "subdomain", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "74.208.149.130"
+        ], 
+        "dns-aaaa": [
+            "2607:f1c0:82b:8600::79:7d2f"
+        ], 
+        "domain-name": "technobuffa.lo.com", 
+        "fuzzer": "subdomain", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 0
+    }
+]

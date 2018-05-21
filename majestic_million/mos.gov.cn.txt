@@ -1,0 +1,120 @@
+[
+    {
+        "dns-mx": [
+            "mail.mos.gov.cn"
+        ], 
+        "dns-ns": [
+            "ns1.cdns.cn", 
+            "ns2.cdns.cn", 
+            "ns3.cdns.cn"
+        ], 
+        "domain-name": "mos.gov.cn", 
+        "fuzzer": "original*"
+    }, 
+    {
+        "dns-a": [
+            "168.160.11.102"
+        ], 
+        "dns-mx": [
+            "anmail.most.gov.cn", 
+            "smg.most.gov.cn"
+        ], 
+        "dns-ns": [
+            "hp51s.most.gov.cn", 
+            "ns.most.gov.cn"
+        ], 
+        "domain-name": "most.gov.cn", 
+        "fuzzer": "addition", 
+        "geoip-country": "China"
+    }, 
+    {
+        "dns-a": [
+            "112.74.104.224"
+        ], 
+        "dns-ns": [
+            "dns19.hichina.com", 
+            "dns20.hichina.com"
+        ], 
+        "domain-name": "mgs.gov.cn", 
+        "fuzzer": "bitsquatting", 
+        "geoip-country": "China"
+    }, 
+    {
+        "dns-mx": [
+            "mx.ym.163.com"
+        ], 
+        "dns-ns": [
+            "dns10.hichina.com", 
+            "dns9.hichina.com"
+        ], 
+        "domain-name": "ms.gov.cn", 
+        "fuzzer": "omission"
+    }, 
+    {
+        "dns-ns": [
+            "agri-dns01.agri.org.cn", 
+            "agri-dns02.agri.org.cn"
+        ], 
+        "domain-name": "moa.gov.cn", 
+        "fuzzer": "replacement"
+    }, 
+    {
+        "dns-mx": [
+            "mail.mod.gov.cn"
+        ], 
+        "dns-ns": [
+            "dns1.jfjb.com.cn", 
+            "dns2.jfjb.com.cn", 
+            "ns1.cdns.cn", 
+            "ns2.cdns.cn", 
+            "ns3.cdns.cn"
+        ], 
+        "domain-name": "mod.gov.cn", 
+        "fuzzer": "replacement", 
+        "mx-spy": true
+    }, 
+    {
+        "dns-mx": [
+            "mail.moe.gov.cn", 
+            "smtp.moe.gov.cn"
+        ], 
+        "dns-ns": [
+            "dnsprim.moe.gov.cn", 
+            "dnssec.moe.gov.cn"
+        ], 
+        "domain-name": "moe.gov.cn", 
+        "fuzzer": "replacement"
+    }, 
+    {
+        "dns-mx": [
+            "mail.mps.gov.cn"
+        ], 
+        "dns-ns": [
+            "ns1.xgslb.net", 
+            "ns2.xgslb.net", 
+            "ns3.xgslb.net", 
+            "ns4.xgslb.net"
+        ], 
+        "domain-name": "mps.gov.cn", 
+        "fuzzer": "replacement"
+    }, 
+    {
+        "dns-a": [
+            "123.57.189.140"
+        ], 
+        "dns-ns": [
+            "f1g1ns1.dnspod.net", 
+            "f1g1ns2.dnspod.net"
+        ], 
+        "domain-name": "mos.cn", 
+        "fuzzer": "various"
+    }, 
+    {
+        "dns-ns": [
+            "dns21.hichina.com", 
+            "dns22.hichina.com"
+        ], 
+        "domain-name": "mosgov.cn", 
+        "fuzzer": "various"
+    }
+]

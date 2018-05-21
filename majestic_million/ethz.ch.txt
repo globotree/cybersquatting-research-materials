@@ -1,0 +1,186 @@
+[
+    {
+        "dns-a": [
+            "129.132.128.139"
+        ], 
+        "dns-mx": [
+            "phil1.ethz.ch", 
+            "phil2.ethz.ch", 
+            "phil3.ethz.ch", 
+            "phil4.ethz.ch"
+        ], 
+        "dns-ns": [
+            "ns1.ethz.ch", 
+            "ns2.ethz.ch", 
+            "ns2.switch.ch"
+        ], 
+        "domain-name": "ethz.ch", 
+        "fuzzer": "original*", 
+        "geoip-country": "Switzerland", 
+        "ssdeep-score": 100
+    }, 
+    {
+        "dns-a": [
+            "88.198.40.25"
+        ], 
+        "dns-mx": [
+            "mail.ethzh.ch"
+        ], 
+        "dns-ns": [
+            "ns111.hoststar.ch", 
+            "ns112.hoststar.ch"
+        ], 
+        "domain-name": "ethzh.ch", 
+        "fuzzer": "addition", 
+        "geoip-country": "Germany", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "217.26.48.101"
+        ], 
+        "dns-mx": [
+            "mx1.mail.hostpoint.ch", 
+            "mx2.mail.hostpoint.ch"
+        ], 
+        "dns-ns": [
+            "ns.hostpoint.ch", 
+            "ns2.hostpoint.ch", 
+            "ns3.hostpoint.ch"
+        ], 
+        "domain-name": "ethzx.ch", 
+        "fuzzer": "addition", 
+        "geoip-country": "Switzerland", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "217.26.52.14"
+        ], 
+        "dns-mx": [
+            "mx1.mail.hostpoint.ch", 
+            "mx2.mail.hostpoint.ch"
+        ], 
+        "dns-ns": [
+            "ns.hostpoint.ch", 
+            "ns2.hostpoint.ch", 
+            "ns3.hostpoint.ch"
+        ], 
+        "domain-name": "edhz.ch", 
+        "fuzzer": "bitsquatting", 
+        "geoip-country": "Switzerland"
+    }, 
+    {
+        "dns-a": [
+            "217.26.48.101"
+        ], 
+        "dns-mx": [
+            "mx1.mail.hostpoint.ch", 
+            "mx2.mail.hostpoint.ch"
+        ], 
+        "dns-ns": [
+            "ns.hostpoint.ch", 
+            "ns2.hostpoint.ch", 
+            "ns3.hostpoint.ch"
+        ], 
+        "domain-name": "ethx.ch", 
+        "fuzzer": "bitsquatting", 
+        "geoip-country": "Switzerland", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "178.209.55.12"
+        ], 
+        "dns-mx": [
+            "mx1.nine.ch"
+        ], 
+        "dns-ns": [
+            "ns5.nine.ch", 
+            "ns6.nine.ch"
+        ], 
+        "domain-name": "etz.ch", 
+        "fuzzer": "omission", 
+        "geoip-country": "Switzerland", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "129.132.19.216"
+        ], 
+        "dns-mx": [
+            "phil1.ethz.ch", 
+            "phil2.ethz.ch", 
+            "phil3.ethz.ch", 
+            "phil4.ethz.ch"
+        ], 
+        "dns-ns": [
+            "ns1.ethz.ch", 
+            "ns2.ethz.ch"
+        ], 
+        "domain-name": "eth.ch", 
+        "fuzzer": "omission", 
+        "geoip-country": "Switzerland"
+    }, 
+    {
+        "dns-a": [
+            "80.74.159.100"
+        ], 
+        "dns-mx": [
+            "mail.ehz.ch"
+        ], 
+        "dns-ns": [
+            "ns.hostorama.com", 
+            "ns7.hostorama.com"
+        ], 
+        "domain-name": "ehz.ch", 
+        "fuzzer": "omission", 
+        "geoip-country": "Switzerland", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "77.104.141.185"
+        ], 
+        "dns-mx": [
+            "mx10.mailspamprotection.com", 
+            "mx20.mailspamprotection.com", 
+            "mx30.mailspamprotection.com"
+        ], 
+        "dns-ns": [
+            "ns1.es38.siteground.eu", 
+            "ns2.es38.siteground.eu"
+        ], 
+        "domain-name": "etgz.ch", 
+        "fuzzer": "replacement", 
+        "geoip-country": "United States"
+    }, 
+    {
+        "dns-a": [
+            "83.166.138.20"
+        ], 
+        "dns-mx": [
+            "mta-gw.infomaniak.ch"
+        ], 
+        "dns-ns": [
+            "ns1.infomaniak.ch", 
+            "ns2.infomaniak.ch"
+        ], 
+        "domain-name": "etha.ch", 
+        "fuzzer": "replacement"
+    }, 
+    {
+        "dns-a": [
+            "103.224.182.211"
+        ], 
+        "dns-mx": [
+            "park-mx.above.com"
+        ], 
+        "dns-ns": [
+            "ns1.above.com", 
+            "ns2.above.com"
+        ], 
+        "domain-name": "ehtz.ch", 
+        "fuzzer": "transposition"
+    }
+]

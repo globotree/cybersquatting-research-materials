@@ -1,0 +1,26 @@
+[
+    {
+        "dns-ns": [
+            "a.dns.ar", 
+            "ar.cctld.authdns.ripe.net", 
+            "b.dns.ar", 
+            "c.dns.ar", 
+            "e.dns.ar", 
+            "ns2.switch.ch"
+        ], 
+        "domain-name": "gob.ar", 
+        "fuzzer": "original*"
+    }, 
+    {
+        "dns-ns": [
+            "a.dns.ar", 
+            "ar.cctld.authdns.ripe.net", 
+            "b.dns.ar", 
+            "c.dns.ar", 
+            "e.dns.ar", 
+            "ns2.switch.ch"
+        ], 
+        "domain-name": "gov.ar", 
+        "fuzzer": "replacement"
+    }
+]

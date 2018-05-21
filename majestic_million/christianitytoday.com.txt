@@ -1,0 +1,136 @@
+[
+    {
+        "dns-a": [
+            "12.227.87.140"
+        ], 
+        "dns-mx": [
+            "mail.christianitytoday.com"
+        ], 
+        "dns-ns": [
+            "dns1.christianitytoday.com", 
+            "dns2.christianitytoday.com"
+        ], 
+        "domain-name": "christianitytoday.com", 
+        "fuzzer": "original*", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 97
+    }, 
+    {
+        "dns-a": [
+            "138.197.14.74"
+        ], 
+        "dns-ns": [
+            "ns1fkl.name.com", 
+            "ns2dky.name.com", 
+            "ns3fgh.name.com", 
+            "ns4cfn.name.com"
+        ], 
+        "domain-name": "christianitytodays.com", 
+        "fuzzer": "addition", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "12.227.87.140"
+        ], 
+        "dns-aaaa": [
+            "2001:1890:12bb:dea1::777"
+        ], 
+        "dns-ns": [
+            "dns1.christianitytoday.com", 
+            "dns2.christianitytoday.com"
+        ], 
+        "domain-name": "christianity-today.com", 
+        "fuzzer": "hyphenation", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 97
+    }, 
+    {
+        "dns-a": [
+            "173.239.5.6", 
+            "173.239.8.164", 
+            "213.247.47.190"
+        ], 
+        "dns-mx": [
+            "mx7.chrisianitytoday.com"
+        ], 
+        "dns-ns": [
+            "ns1.expiereddnsmanager.com", 
+            "ns2.expiereddnsmanager.com"
+        ], 
+        "domain-name": "chrisianitytoday.com", 
+        "fuzzer": "omission", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "68.178.213.61"
+        ], 
+        "dns-ns": [
+            "ns1.namefind.com", 
+            "ns2.namefind.com"
+        ], 
+        "domain-name": "christiantytoday.com", 
+        "fuzzer": "omission", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "68.178.213.61"
+        ], 
+        "dns-ns": [
+            "ns1.namefind.com", 
+            "ns2.namefind.com"
+        ], 
+        "domain-name": "chritianitytoday.com", 
+        "fuzzer": "omission", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "184.168.221.96"
+        ], 
+        "dns-mx": [
+            "0", 
+            "10"
+        ], 
+        "dns-ns": [
+            "ns01.cashparking.com", 
+            "ns02.cashparking.com"
+        ], 
+        "domain-name": "christianit.ytoday.com", 
+        "fuzzer": "subdomain", 
+        "geoip-country": "United States", 
+        "mx-spy": true
+    }, 
+    {
+        "dns-a": [
+            "50.204.7.60"
+        ], 
+        "domain-name": "christianity.today.com", 
+        "fuzzer": "subdomain", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "185.53.178.7"
+        ], 
+        "dns-mx": [
+            "mail.h-email.net"
+        ], 
+        "dns-ns": [
+            "ns1.parkingcrew.net", 
+            "ns2.parkingcrew.net"
+        ], 
+        "domain-name": "christianitytoady.com", 
+        "fuzzer": "transposition", 
+        "geoip-country": "Germany", 
+        "mx-spy": true, 
+        "ssdeep-score": 0
+    }
+]

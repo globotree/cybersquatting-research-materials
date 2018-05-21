@@ -1,0 +1,89 @@
+[
+    {
+        "dns-a": [
+            "88.99.137.221"
+        ], 
+        "dns-mx": [
+            "mail.c4pserver.net"
+        ], 
+        "dns-ns": [
+            "dns1.c4pserver.de", 
+            "dns2.c4pserver.de"
+        ], 
+        "domain-name": "page4.me", 
+        "fuzzer": "original*", 
+        "geoip-country": "Germany", 
+        "ssdeep-score": 94
+    }, 
+    {
+        "dns-a": [
+            "62.233.121.61"
+        ], 
+        "dns-mx": [
+            "smtp1d.netintelligence.com", 
+            "smtp2d.netintelligence.com"
+        ], 
+        "dns-ns": [
+            "ns1.namecity.com", 
+            "ns2.namecity.com"
+        ], 
+        "domain-name": "paget.me", 
+        "fuzzer": "bitsquatting", 
+        "geoip-country": "United Kingdom", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "50.63.202.36"
+        ], 
+        "dns-ns": [
+            "ns07.domaincontrol.com", 
+            "ns08.domaincontrol.com"
+        ], 
+        "domain-name": "pag4.me", 
+        "fuzzer": "omission", 
+        "geoip-country": "United States"
+    }, 
+    {
+        "dns-a": [
+            "91.134.133.164"
+        ], 
+        "dns-mx": [
+            "alt1.aspmx.l.google.com", 
+            "alt2.aspmx.l.google.com", 
+            "alt3.aspmx.l.google.com", 
+            "alt4.aspmx.l.google.com", 
+            "aspmx.l.google.com"
+        ], 
+        "dns-ns": [
+            "ns1.uniregistry-dns.com", 
+            "ns1.uniregistry-dns.net", 
+            "ns2.uniregistry-dns.com", 
+            "ns2.uniregistry-dns.net"
+        ], 
+        "domain-name": "page.me", 
+        "fuzzer": "omission", 
+        "geoip-country": "France", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "72.52.179.175"
+        ], 
+        "dns-mx": [
+            "mx156.hostedmxserver.com"
+        ], 
+        "dns-ns": [
+            "ns1.parklogic.com", 
+            "ns2.parklogic.com", 
+            "ns3.parklogic.com", 
+            "ns4.parklogic.com", 
+            "ns5.parklogic.com"
+        ], 
+        "domain-name": "pager.me", 
+        "fuzzer": "replacement", 
+        "geoip-country": "United States", 
+        "mx-spy": true, 
+        "ssdeep-score": 0
+    }
+]

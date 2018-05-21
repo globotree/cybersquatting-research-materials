@@ -1,0 +1,112 @@
+[
+    {
+        "dns-a": [
+            "213.180.193.50"
+        ], 
+        "dns-aaaa": [
+            "2a02:6b8::50"
+        ], 
+        "dns-ns": [
+            "ns3.yandex.ru", 
+            "ns4.yandex.ru"
+        ], 
+        "domain-name": "yadi.sk", 
+        "fuzzer": "original*", 
+        "geoip-country": "Russian Federation"
+    }, 
+    {
+        "dns-a": [
+            "195.168.66.83"
+        ], 
+        "dns-ns": [
+            "alfa.ns.active24.cz", 
+            "beta.ns.active24.cz"
+        ], 
+        "domain-name": "yada.sk", 
+        "fuzzer": "bitsquatting", 
+        "geoip-country": "Slovakia"
+    }, 
+    {
+        "dns-a": [
+            "185.53.177.20"
+        ], 
+        "dns-ns": [
+            "ns1.eurodns.com", 
+            "ns2.eurodns.com", 
+            "ns3.eurodns.com", 
+            "ns4.eurodns.com"
+        ], 
+        "domain-name": "yardi.sk", 
+        "fuzzer": "insertion", 
+        "geoip-country": "Germany"
+    }, 
+    {
+        "dns-mx": [
+            "mail-relay1.slovanet.net", 
+            "mail-relay2.slovanet.net", 
+            "smtp.slovanet.sk"
+        ], 
+        "dns-ns": [
+            "ns.slovanet.net", 
+            "ns1.slovanet.net"
+        ], 
+        "domain-name": "adi.sk", 
+        "fuzzer": "omission"
+    }, 
+    {
+        "dns-a": [
+            "85.248.29.38"
+        ], 
+        "dns-mx": [
+            "mx0.atlantis.sk", 
+            "mx2.atlantis.sk"
+        ], 
+        "dns-ns": [
+            "ns0.atlantis.sk", 
+            "ns1.atlantis.sk"
+        ], 
+        "domain-name": "yaxi.sk", 
+        "fuzzer": "replacement", 
+        "geoip-country": "Slovakia"
+    }, 
+    {
+        "dns-a": [
+            "82.208.7.138"
+        ], 
+        "dns-mx": [
+            "jupiter.mediahost.sk", 
+            "mail-relay-1.nethost.cz"
+        ], 
+        "dns-ns": [
+            "dns.nethost.cz", 
+            "sns.nethost.sk"
+        ], 
+        "domain-name": "yado.sk", 
+        "fuzzer": "replacement", 
+        "geoip-country": "Czech Republic"
+    }, 
+    {
+        "dns-a": [
+            "212.91.7.33"
+        ], 
+        "domain-name": "ya.di.sk", 
+        "fuzzer": "subdomain", 
+        "geoip-country": "Poland"
+    }, 
+    {
+        "dns-a": [
+            "37.9.175.21"
+        ], 
+        "dns-mx": [
+            "mailin1.yodi.sk", 
+            "mailin2.yodi.sk"
+        ], 
+        "dns-ns": [
+            "ns1.websupport.sk", 
+            "ns2.websupport.sk", 
+            "ns3.websupport.sk"
+        ], 
+        "domain-name": "yodi.sk", 
+        "fuzzer": "vowel-swap"
+    }
+]

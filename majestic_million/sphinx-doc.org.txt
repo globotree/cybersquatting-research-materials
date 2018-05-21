@@ -1,0 +1,28 @@
+[
+    {
+        "dns-a": [
+            "80.67.16.8"
+        ], 
+        "dns-aaaa": [
+            "2a00:1158:0:100::14"
+        ], 
+        "dns-ns": [
+            "ns.namespace4you.de", 
+            "ns2.namespace4you.de"
+        ], 
+        "domain-name": "sphinx-doc.org", 
+        "fuzzer": "original*", 
+        "geoip-country": "Germany", 
+        "ssdeep-score": 100
+    }, 
+    {
+        "dns-a": [
+            "34.216.49.207", 
+            "52.43.35.212", 
+            "54.186.0.231"
+        ], 
+        "domain-name": "sphinx-do.c.org", 
+        "fuzzer": "subdomain", 
+        "geoip-country": "United States"
+    }
+]

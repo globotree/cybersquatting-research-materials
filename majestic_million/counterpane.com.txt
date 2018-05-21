@@ -1,0 +1,98 @@
+[
+    {
+        "dns-mx": [
+            "cluster5.us.messagelabs.com", 
+            "cluster5a.us.messagelabs.com"
+        ], 
+        "dns-ns": [
+            "ns10.dnsmadeeasy.com", 
+            "ns11.dnsmadeeasy.com", 
+            "ns12.dnsmadeeasy.com", 
+            "ns13.dnsmadeeasy.com", 
+            "ns14.dnsmadeeasy.com", 
+            "ns15.dnsmadeeasy.com"
+        ], 
+        "domain-name": "counterpane.com", 
+        "fuzzer": "original*"
+    }, 
+    {
+        "dns-a": [
+            "178.33.113.182"
+        ], 
+        "dns-aaaa": [
+            "2001:41d0:2:8d10::"
+        ], 
+        "dns-mx": [
+            "mail.counterpanel.com"
+        ], 
+        "dns-ns": [
+            "ns340827.ip-188-165-196.eu", 
+            "sdns2.ovh.net"
+        ], 
+        "domain-name": "counterpanel.com", 
+        "fuzzer": "addition", 
+        "geoip-country": "Spain"
+    }, 
+    {
+        "dns-a": [
+            "207.148.248.143"
+        ], 
+        "domain-name": "counterpanes.com", 
+        "fuzzer": "addition", 
+        "geoip-country": "United States"
+    }, 
+    {
+        "dns-a": [
+            "202.181.99.90"
+        ], 
+        "dns-mx": [
+            "couterpane.com"
+        ], 
+        "dns-ns": [
+            "ns1.dns.ne.jp", 
+            "ns2.dns.ne.jp"
+        ], 
+        "domain-name": "couterpane.com", 
+        "fuzzer": "omission", 
+        "geoip-country": "Japan"
+    }, 
+    {
+        "dns-a": [
+            "65.60.22.74"
+        ], 
+        "dns-mx": [
+            "counterlane.com"
+        ], 
+        "dns-ns": [
+            "ns1.web2digital.net", 
+            "ns2.web2digital.net"
+        ], 
+        "domain-name": "counterlane.com", 
+        "fuzzer": "replacement", 
+        "geoip-country": "United States"
+    }, 
+    {
+        "dns-a": [
+            "192.64.147.193"
+        ], 
+        "domain-name": "counterp.ane.com", 
+        "fuzzer": "subdomain", 
+        "geoip-country": "United States"
+    }, 
+    {
+        "dns-a": [
+            "40.77.56.174"
+        ], 
+        "dns-mx": [
+            "ncorp-spamfilter.nooter.com", 
+            "ne-spamfilter.ne.com"
+        ], 
+        "dns-ns": [
+            "cbru.br.ns.els-gms.att.net", 
+            "cmtu.mt.ns.els-gms.att.net"
+        ], 
+        "domain-name": "counterpa.ne.com", 
+        "fuzzer": "subdomain", 
+        "geoip-country": "United States"
+    }
+]

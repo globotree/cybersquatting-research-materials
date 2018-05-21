@@ -1,0 +1,35 @@
+[
+    {
+        "dns-ns": [
+            "a.dns.br", 
+            "b.dns.br", 
+            "c.dns.br", 
+            "d.dns.br", 
+            "e.dns.br", 
+            "f.dns.br"
+        ], 
+        "domain-name": "art.br", 
+        "fuzzer": "original*"
+    }, 
+    {
+        "dns-a": [
+            "217.160.0.52"
+        ], 
+        "dns-aaaa": [
+            "2001:8d8:100f:f000::241"
+        ], 
+        "dns-mx": [
+            "mx00.kundenserver.de", 
+            "mx01.kundenserver.de"
+        ], 
+        "dns-ns": [
+            "ns1022.ui-dns.de", 
+            "ns1028.ui-dns.com", 
+            "ns1088.ui-dns.biz", 
+            "ns1114.ui-dns.org"
+        ], 
+        "domain-name": "art-br.com", 
+        "fuzzer": "various", 
+        "geoip-country": "Germany"
+    }
+]

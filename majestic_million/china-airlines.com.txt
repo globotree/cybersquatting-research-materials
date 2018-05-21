@@ -1,0 +1,114 @@
+[
+    {
+        "dns-mx": [
+            "tpescu41.china-airlines.com", 
+            "tpescu43.china-airlines.com"
+        ], 
+        "dns-ns": [
+            "a1-219.akam.net", 
+            "a10-64.akam.net", 
+            "a26-65.akam.net", 
+            "a5-66.akam.net", 
+            "a7-67.akam.net", 
+            "a8-64.akam.net"
+        ], 
+        "domain-name": "china-airlines.com", 
+        "fuzzer": "original*"
+    }, 
+    {
+        "dns-a": [
+            "103.75.177.112"
+        ], 
+        "dns-ns": [
+            "ns1.matbao.com", 
+            "ns2.matbao.com"
+        ], 
+        "domain-name": "china-airliness.com", 
+        "fuzzer": "addition"
+    }, 
+    {
+        "dns-a": [
+            "74.220.199.6"
+        ], 
+        "domain-name": "chinaairlines.com", 
+        "fuzzer": "omission", 
+        "geoip-country": "United States"
+    }, 
+    {
+        "dns-a": [
+            "37.48.65.150"
+        ], 
+        "dns-ns": [
+            "ns1.dnsnuts.com", 
+            "ns2.dnsnuts.com"
+        ], 
+        "domain-name": "china-airline.com", 
+        "fuzzer": "omission", 
+        "geoip-country": "Netherlands"
+    }, 
+    {
+        "dns-a": [
+            "34.202.122.77", 
+            "35.169.225.248", 
+            "52.0.7.30"
+        ], 
+        "dns-ns": [
+            "ns1.dynadot.com", 
+            "ns2.dynadot.com"
+        ], 
+        "domain-name": "china-airlins.com", 
+        "fuzzer": "omission", 
+        "geoip-country": "United States"
+    }, 
+    {
+        "dns-a": [
+            "103.75.177.88"
+        ], 
+        "dns-ns": [
+            "ns1.matbao.com", 
+            "ns2.matbao.com"
+        ], 
+        "domain-name": "china-airliines.com", 
+        "fuzzer": "repetition"
+    }, 
+    {
+        "dns-a": [
+            "103.224.182.210"
+        ], 
+        "dns-mx": [
+            "park-mx.above.com"
+        ], 
+        "dns-ns": [
+            "ns1.above.com", 
+            "ns2.above.com"
+        ], 
+        "domain-name": "china-a.irlines.com", 
+        "fuzzer": "subdomain", 
+        "geoip-country": "Australia", 
+        "mx-spy": true
+    }, 
+    {
+        "dns-a": [
+            "209.99.64.18"
+        ], 
+        "dns-ns": [
+            "ns11018.ztomy.com", 
+            "ns21018.ztomy.com"
+        ], 
+        "domain-name": "china-ai.rlines.com", 
+        "fuzzer": "subdomain", 
+        "geoip-country": "United States"
+    }, 
+    {
+        "dns-a": [
+            "208.91.196.152"
+        ], 
+        "dns-ns": [
+            "sk.s7.ans1.ns147.klczy.com", 
+            "sk.s7.ans2.ns147.klczy.com"
+        ], 
+        "domain-name": "china-arilines.com", 
+        "fuzzer": "transposition", 
+        "geoip-country": "Virgin Islands"
+    }
+]

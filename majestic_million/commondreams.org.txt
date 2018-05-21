@@ -1,0 +1,92 @@
+[
+    {
+        "dns-a": [
+            "23.253.147.210"
+        ], 
+        "dns-mx": [
+            "alt1.aspmx.l.google.com", 
+            "alt2.aspmx.l.google.com", 
+            "alt3.aspmx.l.google.com", 
+            "alt4.aspmx.l.google.com", 
+            "aspmx.l.google.com"
+        ], 
+        "dns-ns": [
+            "ns-cloud-c1.googledomains.com", 
+            "ns-cloud-c2.googledomains.com", 
+            "ns-cloud-c3.googledomains.com", 
+            "ns-cloud-c4.googledomains.com"
+        ], 
+        "domain-name": "commondreams.org", 
+        "fuzzer": "original*", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 90
+    }, 
+    {
+        "dns-a": [
+            "167.114.93.126"
+        ], 
+        "dns-mx": [
+            "comondreams.org"
+        ], 
+        "dns-ns": [
+            "ns-canada.topdns.com", 
+            "ns-uk.topdns.com", 
+            "ns-usa.topdns.com"
+        ], 
+        "domain-name": "comondreams.org", 
+        "fuzzer": "omission", 
+        "geoip-country": "Canada", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "185.53.179.7"
+        ], 
+        "dns-mx": [
+            "mail.h-email.net"
+        ], 
+        "dns-ns": [
+            "ns1.parkingcrew.net", 
+            "ns2.parkingcrew.net"
+        ], 
+        "domain-name": "com.mondreams.org", 
+        "fuzzer": "subdomain", 
+        "geoip-country": "Germany", 
+        "mx-spy": true, 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "72.52.4.119"
+        ], 
+        "dns-mx": [
+            "localhost"
+        ], 
+        "dns-ns": [
+            "ns1.sedoparking.com", 
+            "ns2.sedoparking.com"
+        ], 
+        "domain-name": "commondr.eams.org", 
+        "fuzzer": "subdomain", 
+        "geoip-country": "United States", 
+        "mx-spy": true, 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "50.63.46.1"
+        ], 
+        "dns-ns": [
+            "a.service.afiliasdns.info", 
+            "b.service.afiliasdns.org", 
+            "c.service.afiliasdns.net", 
+            "d.service.afiliasdns.com", 
+            "e.service.afiliasdns.info", 
+            "f.service.afiliasdns.net"
+        ], 
+        "domain-name": "commondream.s.org", 
+        "fuzzer": "subdomain", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 0
+    }
+]

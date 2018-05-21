@@ -1,0 +1,69 @@
+[
+    {
+        "dns-a": [
+            "50.56.192.79"
+        ], 
+        "dns-mx": [
+            "rubyforge.org"
+        ], 
+        "dns-ns": [
+            "dns033.a.register.com", 
+            "dns211.b.register.com", 
+            "dns244.c.register.com", 
+            "dns249.d.register.com"
+        ], 
+        "domain-name": "rubyforge.org", 
+        "fuzzer": "original*", 
+        "geoip-country": "United States"
+    }, 
+    {
+        "dns-a": [
+            "23.236.62.147"
+        ], 
+        "dns-ns": [
+            "ns10.wixdns.net", 
+            "ns11.wixdns.net"
+        ], 
+        "domain-name": "rugbyforge.org", 
+        "fuzzer": "insertion", 
+        "geoip-country": "United States"
+    }, 
+    {
+        "dns-a": [
+            "72.52.4.122"
+        ], 
+        "dns-mx": [
+            "localhost"
+        ], 
+        "dns-ns": [
+            "ns1.sedoparking.com", 
+            "ns2.sedoparking.com"
+        ], 
+        "domain-name": "rubyf.orge.org", 
+        "fuzzer": "subdomain"
+    }, 
+    {
+        "dns-a": [
+            "72.52.4.119"
+        ], 
+        "dns-mx": [
+            "localhost"
+        ], 
+        "dns-ns": [
+            "ns1.sedoparking.com", 
+            "ns2.sedoparking.com"
+        ], 
+        "domain-name": "rubyfo.rge.org", 
+        "fuzzer": "subdomain", 
+        "geoip-country": "United States", 
+        "mx-spy": true
+    }, 
+    {
+        "dns-a": [
+            "217.194.213.243"
+        ], 
+        "domain-name": "rubyforg.e.org", 
+        "fuzzer": "subdomain", 
+        "geoip-country": "United Kingdom"
+    }
+]

@@ -1,0 +1,40 @@
+[
+    {
+        "dns-a": [
+            "192.254.237.102"
+        ], 
+        "dns-mx": [
+            "manifest-joy.com"
+        ], 
+        "dns-ns": [
+            "ns2709.hostgator.com", 
+            "ns2710.hostgator.com"
+        ], 
+        "domain-name": "manifest-joy.com", 
+        "fuzzer": "original*", 
+        "geoip-country": "United States"
+    }, 
+    {
+        "dns-a": [
+            "98.124.199.123"
+        ], 
+        "dns-ns": [
+            "dns1.name-services.com", 
+            "dns2.name-services.com", 
+            "dns3.name-services.com", 
+            "dns4.name-services.com", 
+            "dns5.name-services.com"
+        ], 
+        "domain-name": "manifestjoy.com", 
+        "fuzzer": "omission", 
+        "geoip-country": "United States"
+    }, 
+    {
+        "dns-a": [
+            "162.243.47.214"
+        ], 
+        "domain-name": "manifes.t-joy.com", 
+        "fuzzer": "subdomain", 
+        "geoip-country": "United States"
+    }
+]

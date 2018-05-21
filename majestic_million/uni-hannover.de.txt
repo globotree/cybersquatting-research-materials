@@ -1,0 +1,115 @@
+[
+    {
+        "dns-a": [
+            "130.75.2.151"
+        ], 
+        "dns-ns": [
+            "ns1.uni-hannover.de", 
+            "ns2.uni-hannover.de", 
+            "ns3.uni-hannover.de"
+        ], 
+        "domain-name": "uni-hannover.de", 
+        "fuzzer": "original*", 
+        "geoip-country": "Germany", 
+        "ssdeep-score": 100
+    }, 
+    {
+        "dns-ns": [
+            "dns-1.dfn.de", 
+            "dns-2.dfn.de", 
+            "dns-3.dfn.de"
+        ], 
+        "domain-name": "unihannover.de", 
+        "fuzzer": "omission"
+    }, 
+    {
+        "dns-ns": [
+            "dns-1.dfn.de", 
+            "dns-2.dfn.de", 
+            "dns-3.dfn.de"
+        ], 
+        "domain-name": "uni-hanover.de", 
+        "fuzzer": "omission"
+    }, 
+    {
+        "dns-a": [
+            "185.53.179.7"
+        ], 
+        "dns-mx": [
+            "mail.h-email.net"
+        ], 
+        "dns-ns": [
+            "ns1.parkingcrew.net", 
+            "ns2.parkingcrew.net"
+        ], 
+        "domain-name": "uni-hannver.de", 
+        "fuzzer": "omission", 
+        "geoip-country": "Germany", 
+        "mx-spy": true, 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "185.53.178.7"
+        ], 
+        "dns-mx": [
+            "mail.h-email.net"
+        ], 
+        "dns-ns": [
+            "ns1.parkingcrew.net", 
+            "ns2.parkingcrew.net"
+        ], 
+        "domain-name": "uni-hannoer.de", 
+        "fuzzer": "omission", 
+        "geoip-country": "Germany", 
+        "mx-spy": true, 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-ns": [
+            "dns-1.dfn.de", 
+            "dns-2.dfn.de", 
+            "dns-3.dfn.de"
+        ], 
+        "domain-name": "uni-hannnover.de", 
+        "fuzzer": "repetition"
+    }, 
+    {
+        "dns-a": [
+            "81.14.175.61"
+        ], 
+        "dns-mx": [
+            "mail.ini-hannover.de"
+        ], 
+        "dns-ns": [
+            "ns.htp-tel.de", 
+            "ns1.htp-tel.de", 
+            "ns2.htp-tel.de"
+        ], 
+        "domain-name": "ini-hannover.de", 
+        "fuzzer": "replacement", 
+        "geoip-country": "Germany", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "176.9.83.229"
+        ], 
+        "domain-name": "uni-h.annover.de", 
+        "fuzzer": "subdomain", 
+        "geoip-country": "Germany", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "134.0.26.181"
+        ], 
+        "dns-aaaa": [
+            "2a03:2900:2::34"
+        ], 
+        "domain-name": "uni-ha.nnover.de", 
+        "fuzzer": "subdomain", 
+        "geoip-country": "Germany", 
+        "ssdeep-score": 0
+    }
+]

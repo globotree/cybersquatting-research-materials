@@ -1,0 +1,120 @@
+[
+    {
+        "dns-mx": [
+            "egw.cein.gov.cn"
+        ], 
+        "dns-ns": [
+            "dns1-jsb.mohurd.gov.cn"
+        ], 
+        "domain-name": "cein.gov.cn", 
+        "fuzzer": "addition"
+    }, 
+    {
+        "dns-a": [
+            "61.185.238.215"
+        ], 
+        "domain-name": "sei.gov.cn", 
+        "fuzzer": "bitsquatting", 
+        "geoip-country": "China"
+    }, 
+    {
+        "dns-mx": [
+            "mail.cgi.gov.cn"
+        ], 
+        "dns-ns": [
+            "dns13.hichina.com", 
+            "dns14.hichina.com"
+        ], 
+        "domain-name": "cgi.gov.cn", 
+        "fuzzer": "bitsquatting"
+    }, 
+    {
+        "dns-a": [
+            "182.150.40.134"
+        ], 
+        "dns-ns": [
+            "dns10.hichina.com", 
+            "dns9.hichina.com"
+        ], 
+        "domain-name": "cem.gov.cn", 
+        "fuzzer": "bitsquatting", 
+        "geoip-country": "China"
+    }, 
+    {
+        "dns-mx": [
+            "mx.cea.gov.cn"
+        ], 
+        "dns-ns": [
+            "ns1.sfn.cn", 
+            "ns2.sfn.cn"
+        ], 
+        "domain-name": "cea.gov.cn", 
+        "fuzzer": "bitsquatting"
+    }, 
+    {
+        "dns-a": [
+            "203.207.99.15"
+        ], 
+        "dns-ns": [
+            "dns.jconline.cn", 
+            "dns2.jconline.cn"
+        ], 
+        "domain-name": "ccei.gov.cn", 
+        "fuzzer": "repetition", 
+        "geoip-country": "China"
+    }, 
+    {
+        "dns-a": [
+            "220.191.225.91"
+        ], 
+        "dns-ns": [
+            "dns13.hichina.com", 
+            "dns14.hichina.com"
+        ], 
+        "domain-name": "cej.gov.cn", 
+        "fuzzer": "replacement", 
+        "geoip-country": "China"
+    }, 
+    {
+        "dns-a": [
+            "168.160.159.194"
+        ], 
+        "dns-ns": [
+            "ns1.sfn.cn", 
+            "ns2.sfn.cn"
+        ], 
+        "domain-name": "csi.gov.cn", 
+        "fuzzer": "replacement", 
+        "geoip-country": "China"
+    }, 
+    {
+        "dns-ns": [
+            "ns3.molss.gov.cn", 
+            "ns4.molss.gov.cn", 
+            "ns5.molss.gov.cn"
+        ], 
+        "domain-name": "cie.gov.cn", 
+        "fuzzer": "transposition"
+    }, 
+    {
+        "dns-a": [
+            "222.177.244.200"
+        ], 
+        "dns-ns": [
+            "dns.bizcn.com", 
+            "dns.cnmsn.net"
+        ], 
+        "domain-name": "cee.gov.cn", 
+        "fuzzer": "vowel-swap"
+    }, 
+    {
+        "dns-ns": [
+            "ns.cei.cn", 
+            "ns1.cei.cn", 
+            "ns2.cei.cn", 
+            "stup5.cei.cn"
+        ], 
+        "domain-name": "cei.cn", 
+        "fuzzer": "various"
+    }
+]

@@ -1,0 +1,68 @@
+[
+    {
+        "dns-a": [
+            "104.17.240.204", 
+            "104.17.241.204", 
+            "104.17.242.204", 
+            "104.17.243.204", 
+            "104.17.244.204"
+        ], 
+        "dns-aaaa": [
+            "2400:cb00:2048:1::6811:f0cc", 
+            "2400:cb00:2048:1::6811:f1cc", 
+            "2400:cb00:2048:1::6811:f2cc", 
+            "2400:cb00:2048:1::6811:f3cc", 
+            "2400:cb00:2048:1::6811:f4cc"
+        ], 
+        "dns-ns": [
+            "jerry.ns.cloudflare.com", 
+            "yolanda.ns.cloudflare.com"
+        ], 
+        "domain-name": "hubspot.net", 
+        "fuzzer": "original*", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 96
+    }, 
+    {
+        "dns-a": [
+            "104.28.6.51", 
+            "104.28.7.51"
+        ], 
+        "dns-aaaa": [
+            "2400:cb00:2048:1::681c:633", 
+            "2400:cb00:2048:1::681c:733"
+        ], 
+        "dns-ns": [
+            "brad.ns.cloudflare.com", 
+            "cass.ns.cloudflare.com"
+        ], 
+        "domain-name": "hub-spot.net", 
+        "fuzzer": "hyphenation", 
+        "geoip-country": "United States"
+    }, 
+    {
+        "dns-a": [
+            "116.121.31.50"
+        ], 
+        "dns-ns": [
+            "ns1.cj.net", 
+            "ns2.cj.net"
+        ], 
+        "domain-name": "hubpot.net", 
+        "fuzzer": "omission", 
+        "geoip-country": "Korea"
+    }, 
+    {
+        "dns-a": [
+            "23.23.86.44"
+        ], 
+        "dns-mx": [
+            "0.0.0.0"
+        ], 
+        "domain-name": "hubs.pot.net", 
+        "fuzzer": "subdomain", 
+        "geoip-country": "United States", 
+        "mx-spy": true, 
+        "ssdeep-score": 0
+    }
+]

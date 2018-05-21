@@ -1,0 +1,125 @@
+[
+    {
+        "dns-a": [
+            "34.213.106.51", 
+            "54.68.182.72"
+        ], 
+        "dns-mx": [
+            "mx1.emailsrvr.com", 
+            "mx2.emailsrvr.com"
+        ], 
+        "dns-ns": [
+            "ns1.monikerdns.net", 
+            "ns2.monikerdns.net", 
+            "ns3.monikerdns.net", 
+            "ns4.monikerdns.net"
+        ], 
+        "domain-name": "adsoftheworld.com", 
+        "fuzzer": "original*", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 100
+    }, 
+    {
+        "dns-a": [
+            "141.8.224.169"
+        ], 
+        "dns-ns": [
+            "ns27.rookdns.com", 
+            "ns28.rookdns.com"
+        ], 
+        "domain-name": "adsoftheworlds.com", 
+        "fuzzer": "addition", 
+        "geoip-country": "Switzerland", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "141.8.224.169"
+        ], 
+        "domain-name": "adsofttheworld.com", 
+        "fuzzer": "insertion", 
+        "geoip-country": "Switzerland", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "141.8.224.169"
+        ], 
+        "dns-ns": [
+            "ns27.rookdns.com", 
+            "ns28.rookdns.com"
+        ], 
+        "domain-name": "addsoftheworld.com", 
+        "fuzzer": "insertion", 
+        "geoip-country": "Switzerland", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "185.53.178.6"
+        ], 
+        "dns-mx": [
+            "mail.h-email.net"
+        ], 
+        "dns-ns": [
+            "ns1.parkingcrew.net", 
+            "ns2.parkingcrew.net"
+        ], 
+        "domain-name": "adsoftheworl.com", 
+        "fuzzer": "omission", 
+        "geoip-country": "Germany", 
+        "mx-spy": true, 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "208.91.196.105"
+        ], 
+        "dns-ns": [
+            "sk.s5.cm.ns1.39.ztomy.com", 
+            "sk.s5.cm.ns2.39.ztomy.com"
+        ], 
+        "domain-name": "adsoftheword.com", 
+        "fuzzer": "omission", 
+        "geoip-country": "Virgin Islands", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "184.168.221.104"
+        ], 
+        "dns-ns": [
+            "ns1.afternic.com", 
+            "ns2.afternic.com"
+        ], 
+        "domain-name": "adoftheworld.com", 
+        "fuzzer": "omission", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-ns": [
+            "ns1.namebrightdns.com", 
+            "ns2.namebrightdns.com"
+        ], 
+        "domain-name": "adso.ftheworld.com", 
+        "fuzzer": "subdomain"
+    }, 
+    {
+        "dns-a": [
+            "50.31.210.85"
+        ], 
+        "domain-name": "adsofthe.world.com", 
+        "fuzzer": "subdomain", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "206.188.193.2"
+        ], 
+        "domain-name": "adsofthewo.rld.com", 
+        "fuzzer": "subdomain", 
+        "geoip-country": "United States"
+    }
+]

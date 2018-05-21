@@ -1,0 +1,163 @@
+[
+    {
+        "dns-a": [
+            "104.20.0.108", 
+            "104.20.1.108"
+        ], 
+        "dns-aaaa": [
+            "2400:cb00:2048:1::6814:16c", 
+            "2400:cb00:2048:1::6814:6c"
+        ], 
+        "dns-mx": [
+            "alt1.aspmx.l.google.com", 
+            "alt2.aspmx.l.google.com", 
+            "aspmx.l.google.com", 
+            "aspmx2.googlemail.com", 
+            "aspmx3.googlemail.com", 
+            "aspmx4.googlemail.com", 
+            "aspmx5.googlemail.com"
+        ], 
+        "dns-ns": [
+            "anirban.ns.cloudflare.com", 
+            "cass.ns.cloudflare.com"
+        ], 
+        "domain-name": "desiringgod.org", 
+        "fuzzer": "original*", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 99
+    }, 
+    {
+        "dns-a": [
+            "208.91.196.126"
+        ], 
+        "dns-ns": [
+            "ns1126.ztomy.com", 
+            "ns2126.ztomy.com"
+        ], 
+        "domain-name": "desireinggod.org", 
+        "fuzzer": "insertion", 
+        "geoip-country": "Virgin Islands", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "199.191.50.73"
+        ], 
+        "dns-ns": [
+            "ns111373.ztomy.com", 
+            "ns211373.ztomy.com"
+        ], 
+        "domain-name": "desirnggod.org", 
+        "fuzzer": "omission", 
+        "geoip-country": "Virgin Islands", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "54.72.9.51"
+        ], 
+        "dns-mx": [
+            "mail.h-email.net"
+        ], 
+        "dns-ns": [
+            "ns1.parkingcrew.net", 
+            "ns2.parkingcrew.net"
+        ], 
+        "domain-name": "desiriggod.org", 
+        "fuzzer": "omission", 
+        "geoip-country": "Ireland", 
+        "mx-spy": true, 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "96.45.82.174", 
+            "96.45.82.45", 
+            "96.45.83.181", 
+            "96.45.83.58"
+        ], 
+        "dns-ns": [
+            "ns10.dnsmadeeasy.com", 
+            "ns11.dnsmadeeasy.com", 
+            "ns12.dnsmadeeasy.com", 
+            "ns13.dnsmadeeasy.com", 
+            "ns14.dnsmadeeasy.com", 
+            "ns15.dnsmadeeasy.com"
+        ], 
+        "domain-name": "desiringod.org", 
+        "fuzzer": "omission", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 99
+    }, 
+    {
+        "dns-a": [
+            "5.39.99.49"
+        ], 
+        "dns-ns": [
+            "ns1.chookdns.com", 
+            "ns2.chookdns.com"
+        ], 
+        "domain-name": "desringgod.org", 
+        "fuzzer": "omission", 
+        "geoip-country": "France", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "72.52.4.120"
+        ], 
+        "dns-mx": [
+            "localhost"
+        ], 
+        "dns-ns": [
+            "ns1.sedoparking.com", 
+            "ns2.sedoparking.com"
+        ], 
+        "domain-name": "desirin.ggod.org", 
+        "fuzzer": "subdomain", 
+        "geoip-country": "United States", 
+        "mx-spy": true, 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "69.172.201.153"
+        ], 
+        "dns-ns": [
+            "ns1.uniregistrymarket.link", 
+            "ns2.uniregistrymarket.link"
+        ], 
+        "domain-name": "desiring.god.org", 
+        "fuzzer": "subdomain", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-ns": [
+            "A.SERVICE.AFILIASDNS.INFO", 
+            "B.SERVICE.AFILIASDNS.org", 
+            "C.SERVICE.AFILIASDNS.NET", 
+            "D.SERVICE.AFILIASDNS.COM", 
+            "E.SERVICE.AFILIASDNS.INFO", 
+            "F.SERVICE.AFILIASDNS.NET"
+        ], 
+        "domain-name": "desiringgo.d.org", 
+        "fuzzer": "subdomain"
+    }, 
+    {
+        "dns-a": [
+            "103.224.182.241"
+        ], 
+        "dns-mx": [
+            "park-mx.above.com"
+        ], 
+        "dns-ns": [
+            "ns1.above.com", 
+            "ns2.above.com"
+        ], 
+        "domain-name": "disiringgod.org", 
+        "fuzzer": "vowel-swap", 
+        "geoip-country": "Australia", 
+        "mx-spy": true
+    }
+]

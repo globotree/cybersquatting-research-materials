@@ -1,0 +1,165 @@
+[
+    {
+        "dns-a": [
+            "141.219.70.117"
+        ], 
+        "dns-mx": [
+            "alt1.aspmx.l.google.com", 
+            "alt2.aspmx.l.google.com", 
+            "aspmx.l.google.com", 
+            "aspmx2.googlemail.com", 
+            "aspmx3.googlemail.com"
+        ], 
+        "dns-ns": [
+            "dns.mtu.edu", 
+            "dns1.merit.net", 
+            "dns2.merit.net", 
+            "dns2.mtu.edu", 
+            "dns3.merit.net"
+        ], 
+        "domain-name": "mtu.edu", 
+        "fuzzer": "original*", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 99
+    }, 
+    {
+        "dns-a": [
+            "72.32.52.66"
+        ], 
+        "dns-mx": [
+            "ALT1.ASPMX.L.GOOGLE.COM", 
+            "ALT2.ASPMX.L.GOOGLE.COM", 
+            "ASPMX.L.GOOGLE.COM", 
+            "ASPMX2.GOOGLEMAIL.COM", 
+            "ASPMX3.GOOGLEMAIL.COM"
+        ], 
+        "dns-ns": [
+            "dns1.merit.net", 
+            "dns2.merit.net", 
+            "dns3.merit.net", 
+            "ns1.ltu.edu", 
+            "ns3.ltu.edu"
+        ], 
+        "domain-name": "ltu.edu", 
+        "fuzzer": "bitsquatting", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "23.185.0.2"
+        ], 
+        "dns-mx": [
+            "alt1.aspmx.l.google.com", 
+            "alt2.aspmx.l.google.com", 
+            "aspmx.l.google.com", 
+            "aspmx2.google.com", 
+            "aspmx3.google.com", 
+            "aspmx4.google.com", 
+            "aspmx5.google.com"
+        ], 
+        "dns-ns": [
+            "ns1.p13.dynect.net", 
+            "ns2.p13.dynect.net", 
+            "ns3.p13.dynect.net", 
+            "ns4.p13.dynect.net"
+        ], 
+        "domain-name": "itu.edu", 
+        "fuzzer": "bitsquatting", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "69.18.50.66"
+        ], 
+        "dns-mx": [
+            "cserv.mum.edu"
+        ], 
+        "dns-ns": [
+            "dns1.lisco.com", 
+            "dns1.mum.edu"
+        ], 
+        "domain-name": "mvu.edu", 
+        "fuzzer": "bitsquatting", 
+        "geoip-country": "United States"
+    }, 
+    {
+        "dns-a": [
+            "173.83.250.101"
+        ], 
+        "dns-mx": [
+            "mail.tu.edu"
+        ], 
+        "dns-ns": [
+            "ns17.ixwebhosting.com", 
+            "ns18.ixwebhosting.com"
+        ], 
+        "domain-name": "tu.edu", 
+        "fuzzer": "omission", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "158.129.0.168"
+        ], 
+        "dns-mx": [
+            "ktu-edu.mail.protection.outlook.com"
+        ], 
+        "dns-ns": [
+            "ns1.domreg.lt", 
+            "ns2.domreg.lt", 
+            "ns3.domreg.lt"
+        ], 
+        "domain-name": "ktu.edu", 
+        "fuzzer": "replacement", 
+        "geoip-country": "Lithuania", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-ns": [
+            "ns1.name.com", 
+            "ns2.name.com", 
+            "ns3.name.com", 
+            "ns4.name.com"
+        ], 
+        "domain-name": "mtj.edu", 
+        "fuzzer": "replacement"
+    }, 
+    {
+        "dns-a": [
+            "104.154.37.70"
+        ], 
+        "dns-mx": [
+            "mru-edu.mail.protection.outlook.com"
+        ], 
+        "dns-ns": [
+            "lia.ns.cloudflare.com", 
+            "logan.ns.cloudflare.com"
+        ], 
+        "domain-name": "mru.edu", 
+        "fuzzer": "replacement", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "173.83.250.101"
+        ], 
+        "domain-name": "m.tu.edu", 
+        "fuzzer": "subdomain", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "104.151.17.21"
+        ], 
+        "dns-ns": [
+            "ns4.dnsdun.com", 
+            "ns4.dnsdun.net"
+        ], 
+        "domain-name": "mtu-edu.com", 
+        "fuzzer": "various"
+    }
+]

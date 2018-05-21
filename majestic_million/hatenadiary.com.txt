@@ -1,0 +1,58 @@
+[
+    {
+        "dns-a": [
+            "13.112.159.226", 
+            "52.69.186.243"
+        ], 
+        "dns-mx": [
+            "mailinbound.hatena.ne.jp"
+        ], 
+        "dns-ns": [
+            "ns-1178.awsdns-19.org", 
+            "ns-2040.awsdns-63.co.uk", 
+            "ns-887.awsdns-46.net", 
+            "ns-91.awsdns-11.com"
+        ], 
+        "domain-name": "hatenadiary.com", 
+        "fuzzer": "original*", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 100
+    }, 
+    {
+        "dns-a": [
+            "54.249.40.237"
+        ], 
+        "dns-ns": [
+            "ns-1160.awsdns-17.org", 
+            "ns-1812.awsdns-34.co.uk", 
+            "ns-58.awsdns-07.com", 
+            "ns-957.awsdns-55.net"
+        ], 
+        "domain-name": "hatena-diary.com", 
+        "fuzzer": "hyphenation", 
+        "geoip-country": "Japan"
+    }, 
+    {
+        "dns-a": [
+            "72.52.4.122"
+        ], 
+        "dns-mx": [
+            "localhost"
+        ], 
+        "dns-ns": [
+            "ns1.sedoparking.com", 
+            "ns2.sedoparking.com"
+        ], 
+        "domain-name": "haten.adiary.com", 
+        "fuzzer": "subdomain"
+    }, 
+    {
+        "dns-a": [
+            "68.178.213.61"
+        ], 
+        "domain-name": "hatenad.iary.com", 
+        "fuzzer": "subdomain", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 0
+    }
+]

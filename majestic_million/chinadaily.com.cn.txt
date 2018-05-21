@@ -1,0 +1,166 @@
+[
+    {
+        "dns-a": [
+            "124.127.180.200"
+        ], 
+        "dns-mx": [
+            "mail.chinadaily.com.cn"
+        ], 
+        "dns-ns": [
+            "cns1.zdnscloud.net", 
+            "dns1.zdnscloud.info", 
+            "ins1.zdnscloud.com", 
+            "vns1.zdnscloud.biz"
+        ], 
+        "domain-name": "chinadaily.com.cn", 
+        "fuzzer": "original*", 
+        "geoip-country": "China", 
+        "ssdeep-score": 100
+    }, 
+    {
+        "dns-a": [
+            "23.224.132.177"
+        ], 
+        "dns-ns": [
+            "ns1.dnsdun.com", 
+            "ns1.dnsdun.net"
+        ], 
+        "domain-name": "chinadailyo.com.cn", 
+        "fuzzer": "addition", 
+        "geoip-country": "United States"
+    }, 
+    {
+        "dns-a": [
+            "23.224.132.51"
+        ], 
+        "dns-ns": [
+            "ns1.dnsdun.com", 
+            "ns1.dnsdun.net"
+        ], 
+        "domain-name": "chinadailys.com.cn", 
+        "fuzzer": "addition", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-ns": [
+            "ns1.myhostadmin.net", 
+            "ns2.myhostadmin.net", 
+            "ns3.myhostadmin.net", 
+            "ns4.myhostadmin.net", 
+            "ns5.myhostadmin.net", 
+            "ns6.myhostadmin.net"
+        ], 
+        "domain-name": "chinasdaily.com.cn", 
+        "fuzzer": "insertion"
+    }, 
+    {
+        "dns-a": [
+            "184.154.126.180"
+        ], 
+        "domain-name": "chinadily.com.cn", 
+        "fuzzer": "omission", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "184.154.126.180"
+        ], 
+        "domain-name": "chinadail.com.cn", 
+        "fuzzer": "omission", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "184.154.126.180"
+        ], 
+        "domain-name": "chiadaily.com.cn", 
+        "fuzzer": "omission", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "50.117.120.251"
+        ], 
+        "dns-mx": [
+            "mail.happyisp.com"
+        ], 
+        "domain-name": "chindaily.com.cn", 
+        "fuzzer": "omission", 
+        "geoip-country": "United States", 
+        "mx-spy": true
+    }, 
+    {
+        "dns-a": [
+            "103.37.40.133"
+        ], 
+        "dns-ns": [
+            "ns5.dnsdun.com", 
+            "ns5.dnsdun.net"
+        ], 
+        "domain-name": "chinadaiy.com.cn", 
+        "fuzzer": "omission", 
+        "geoip-country": "Hong Kong", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-ns": [
+            "ns1.myhostadmin.net", 
+            "ns2.myhostadmin.net", 
+            "ns3.myhostadmin.net", 
+            "ns4.myhostadmin.net", 
+            "ns5.myhostadmin.net", 
+            "ns6.myhostadmin.net"
+        ], 
+        "domain-name": "chinadaiily.com.cn", 
+        "fuzzer": "repetition"
+    }, 
+    {
+        "dns-ns": [
+            "f1g1ns1.dnspod.net", 
+            "f1g1ns2.dnspod.net"
+        ], 
+        "domain-name": "chinadajly.com.cn", 
+        "fuzzer": "replacement"
+    }, 
+    {
+        "dns-a": [
+            "210.56.52.221"
+        ], 
+        "domain-name": "chiandaily.com.cn", 
+        "fuzzer": "transposition", 
+        "geoip-country": "Hong Kong", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "103.232.215.129"
+        ], 
+        "dns-mx": [
+            "mail.skrimple.com"
+        ], 
+        "domain-name": "chinadialy.com.cn", 
+        "fuzzer": "transposition"
+    }, 
+    {
+        "dns-ns": [
+            "ns11.xincache.com", 
+            "ns12.xincache.com"
+        ], 
+        "domain-name": "chinaduily.com.cn", 
+        "fuzzer": "vowel-swap"
+    }, 
+    {
+        "dns-ns": [
+            "cns1.zdnscloud.net", 
+            "dns1.zdnscloud.info", 
+            "ins1.zdnscloud.com", 
+            "vns1.zdnscloud.biz"
+        ], 
+        "domain-name": "chinadaily.cn", 
+        "fuzzer": "various"
+    }
+]

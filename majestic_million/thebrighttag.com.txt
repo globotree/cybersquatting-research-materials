@@ -1,0 +1,47 @@
+[
+    {
+        "dns-mx": [
+            "alt1.aspmx.l.google.com", 
+            "alt2.aspmx.l.google.com", 
+            "aspmx.l.google.com", 
+            "aspmx2.googlemail.com", 
+            "aspmx3.googlemail.com", 
+            "aspmx4.googlemail.com", 
+            "aspmx5.googlemail.com"
+        ], 
+        "dns-ns": [
+            "ns1.p09.dynect.net", 
+            "ns2.p09.dynect.net", 
+            "ns3.p09.dynect.net", 
+            "ns4.p09.dynect.net"
+        ], 
+        "domain-name": "thebrighttag.com", 
+        "fuzzer": "original*"
+    }, 
+    {
+        "dns-a": [
+            "216.21.239.197"
+        ], 
+        "dns-mx": [
+            "p.webcom.ctmail.com"
+        ], 
+        "dns-ns": [
+            "dns037.b.register.com", 
+            "dns137.a.register.com", 
+            "dns208.c.register.com", 
+            "dns249.d.register.com"
+        ], 
+        "domain-name": "thebrightag.com", 
+        "fuzzer": "omission", 
+        "geoip-country": "United States", 
+        "mx-spy": true
+    }, 
+    {
+        "dns-a": [
+            "72.52.10.14"
+        ], 
+        "domain-name": "thebrigh.ttag.com", 
+        "fuzzer": "subdomain", 
+        "geoip-country": "United States"
+    }
+]

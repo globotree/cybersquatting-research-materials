@@ -1,0 +1,31 @@
+[
+    {
+        "dns-a": [
+            "95.100.3.152"
+        ], 
+        "dns-aaaa": [
+            "2a02:26f0:18:48f::348", 
+            "2a02:26f0:18:4a3::348"
+        ], 
+        "dns-ns": [
+            "a1-86.akam.net", 
+            "a10-67.akam.net", 
+            "a13-64.akam.net", 
+            "a24-65.akam.net", 
+            "a3-66.akam.net", 
+            "a8-67.akam.net"
+        ], 
+        "domain-name": "medicare.gov", 
+        "fuzzer": "original*", 
+        "geoip-country": "Europe", 
+        "ssdeep-score": 100
+    }, 
+    {
+        "dns-ns": [
+            "ns3.above.com", 
+            "ns4.above.com"
+        ], 
+        "domain-name": "medicare-gov.com", 
+        "fuzzer": "various"
+    }
+]

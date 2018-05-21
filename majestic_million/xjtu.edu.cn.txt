@@ -1,0 +1,93 @@
+[
+    {
+        "dns-mx": [
+            "mail.xjtu.edu.cn"
+        ], 
+        "dns-ns": [
+            "dec3000.xjtu.edu.cn", 
+            "ns2.xjtu.edu.cn"
+        ], 
+        "domain-name": "xjtu.edu.cn", 
+        "fuzzer": "original*"
+    }, 
+    {
+        "dns-mx": [
+            "mxbiz1.qq.com", 
+            "mxbiz2.qq.com"
+        ], 
+        "dns-ns": [
+            "dns.zjtu.edu.cn"
+        ], 
+        "domain-name": "zjtu.edu.cn", 
+        "fuzzer": "bitsquatting"
+    }, 
+    {
+        "dns-ns": [
+            "chinese-0bdb82e"
+        ], 
+        "domain-name": "xjvu.edu.cn", 
+        "fuzzer": "bitsquatting"
+    }, 
+    {
+        "dns-mx": [
+            "mail.xju.edu.cn", 
+            "mailhost.xju.edu.cn", 
+            "xju.abroad.eyou.net"
+        ], 
+        "dns-ns": [
+            "dns1.xju.edu.cn", 
+            "dns2.xju.edu.cn"
+        ], 
+        "domain-name": "xju.edu.cn", 
+        "fuzzer": "omission"
+    }, 
+    {
+        "dns-mx": [
+            "mxbiz1.qq.com", 
+            "mxbiz2.qq.com"
+        ], 
+        "dns-ns": [
+            "dns.hn.edu.cn", 
+            "pdns.xtu.edu.cn"
+        ], 
+        "domain-name": "xtu.edu.cn", 
+        "fuzzer": "omission", 
+        "mx-spy": true
+    }, 
+    {
+        "dns-mx": [
+            "oar.djtu.edu.cn"
+        ], 
+        "dns-ns": [
+            "dns.djtu.edu.cn", 
+            "oar.djtu.edu.cn"
+        ], 
+        "domain-name": "djtu.edu.cn", 
+        "fuzzer": "replacement"
+    }, 
+    {
+        "dns-a": [
+            "202.112.26.54"
+        ], 
+        "dns-mx": [
+            "mx.sjtu.edu.cn"
+        ], 
+        "dns-ns": [
+            "apple.sjtu.edu.cn", 
+            "dns.sjtu.edu.cn"
+        ], 
+        "domain-name": "sjtu.edu.cn", 
+        "fuzzer": "replacement"
+    }, 
+    {
+        "dns-a": [
+            "104.149.30.157"
+        ], 
+        "dns-ns": [
+            "ns6.dnsdun.com", 
+            "ns6.dnsdun.net"
+        ], 
+        "domain-name": "xjtuedu.cn", 
+        "fuzzer": "various"
+    }
+]

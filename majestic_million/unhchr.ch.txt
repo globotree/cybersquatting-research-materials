@@ -1,0 +1,62 @@
+[
+    {
+        "dns-a": [
+            "185.53.177.20"
+        ], 
+        "dns-mx": [
+            "mail.unhchr.ch"
+        ], 
+        "dns-ns": [
+            "dns1.realtime.at", 
+            "dns2.realtime.at"
+        ], 
+        "domain-name": "unhchr.ch", 
+        "fuzzer": "original*", 
+        "geoip-country": "Germany", 
+        "ssdeep-score": 88
+    }, 
+    {
+        "dns-a": [
+            "146.247.14.139"
+        ], 
+        "dns-mx": [
+            "mx.unicc.org", 
+            "mx10.unicc.org", 
+            "mx20.unicc.org"
+        ], 
+        "dns-ns": [
+            "dns1.idp365.net", 
+            "dns2.idp365.net", 
+            "dns3.idp365.net"
+        ], 
+        "domain-name": "unhcr.ch", 
+        "fuzzer": "omission", 
+        "geoip-country": "Switzerland", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "185.53.177.20"
+        ], 
+        "dns-mx": [
+            "mail.unchr.ch"
+        ], 
+        "dns-ns": [
+            "dns1.realtime.at", 
+            "dns2.realtime.at"
+        ], 
+        "domain-name": "unchr.ch", 
+        "fuzzer": "omission", 
+        "geoip-country": "Germany", 
+        "ssdeep-score": 75
+    }, 
+    {
+        "dns-a": [
+            "136.243.76.23"
+        ], 
+        "domain-name": "un.hchr.ch", 
+        "fuzzer": "subdomain", 
+        "geoip-country": "Germany", 
+        "ssdeep-score": 0
+    }
+]

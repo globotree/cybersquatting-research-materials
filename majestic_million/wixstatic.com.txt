@@ -1,0 +1,75 @@
+[
+    {
+        "dns-ns": [
+            "ns1.p14.dynect.net", 
+            "ns2.p14.dynect.net", 
+            "ns3.p14.dynect.net", 
+            "ns4.p14.dynect.net"
+        ], 
+        "domain-name": "wixstatic.com", 
+        "fuzzer": "original*"
+    }, 
+    {
+        "dns-a": [
+            "141.8.224.93"
+        ], 
+        "dns-ns": [
+            "ns7.rookdns.com", 
+            "ns8.rookdns.com"
+        ], 
+        "domain-name": "wixstatics.com", 
+        "fuzzer": "addition", 
+        "geoip-country": "Switzerland"
+    }, 
+    {
+        "dns-mx": [
+            "mx1.sub5.homie.mail.dreamhost.com", 
+            "mx2.sub5.homie.mail.dreamhost.com"
+        ], 
+        "dns-ns": [
+            "ns1.dreamhost.com", 
+            "ns2.dreamhost.com", 
+            "ns3.dreamhost.com"
+        ], 
+        "domain-name": "waxstatic.com", 
+        "fuzzer": "bitsquatting"
+    }, 
+    {
+        "dns-ns": [
+            "pdns98.ultradns.biz", 
+            "pdns98.ultradns.com", 
+            "pdns98.ultradns.net", 
+            "pdns98.ultradns.org"
+        ], 
+        "domain-name": "ixstatic.com", 
+        "fuzzer": "omission"
+    }, 
+    {
+        "dns-a": [
+            "199.59.242.150"
+        ], 
+        "domain-name": "wi.xstatic.com", 
+        "fuzzer": "subdomain", 
+        "geoip-country": "United States"
+    }, 
+    {
+        "dns-a": [
+            "69.172.201.153"
+        ], 
+        "dns-mx": [
+            "mail.b-io.co"
+        ], 
+        "domain-name": "wixs.tatic.com", 
+        "fuzzer": "subdomain", 
+        "geoip-country": "United States", 
+        "mx-spy": true
+    }, 
+    {
+        "dns-a": [
+            "75.126.101.240"
+        ], 
+        "domain-name": "wixstat.ic.com", 
+        "fuzzer": "subdomain", 
+        "geoip-country": "United States"
+    }
+]

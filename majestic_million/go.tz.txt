@@ -1,0 +1,38 @@
+[
+    {
+        "dns-ns": [
+            "d.ext.nic.cz", 
+            "fork.sth.dnsnode.net", 
+            "ns.anycast.co.tz", 
+            "ns2.tznic.or.tz", 
+            "rip.psg.com", 
+            "sns-pb.isc.org"
+        ], 
+        "domain-name": "go.tz", 
+        "fuzzer": "original*"
+    }, 
+    {
+        "dns-ns": [
+            "d.ext.nic.cz", 
+            "fork.sth.dnsnode.net", 
+            "ns.anycast.co.tz", 
+            "ns2.tznic.or.tz", 
+            "rip.psg.com", 
+            "sns-pb.isc.org"
+        ], 
+        "domain-name": "co.tz", 
+        "fuzzer": "bitsquatting"
+    }, 
+    {
+        "dns-mx": [
+            "mxn.mxhichina.com", 
+            "mxw.mxhichina.com"
+        ], 
+        "dns-ns": [
+            "dns10.hichina.com", 
+            "dns9.hichina.com"
+        ], 
+        "domain-name": "go-tz.com", 
+        "fuzzer": "various"
+    }
+]

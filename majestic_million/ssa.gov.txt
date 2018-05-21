@@ -1,0 +1,99 @@
+[
+    {
+        "dns-a": [
+            "137.200.39.19", 
+            "137.200.4.16"
+        ], 
+        "dns-aaaa": [
+            "2001:1930:d07::aaaa", 
+            "2001:1930:e03::aaaa"
+        ], 
+        "dns-mx": [
+            "mailin1.ssa.gov", 
+            "mailin2.ssa.gov", 
+            "mailin3.ssa.gov", 
+            "mailin4.ssa.gov"
+        ], 
+        "dns-ns": [
+            "dns1.ssa.gov", 
+            "dns2.ssa.gov", 
+            "dns5.ssa.gov", 
+            "dns6.ssa.gov"
+        ], 
+        "domain-name": "ssa.gov", 
+        "fuzzer": "original*", 
+        "geoip-country": "United States"
+    }, 
+    {
+        "dns-a": [
+            "64.210.231.138"
+        ], 
+        "dns-mx": [
+            "ssab.gov.mf.emailfilteringservice.net", 
+            "ssab.gov.mg.emailfilteringservice.net", 
+            "ssab.gov.mh.emailfilteringservice.net", 
+            "ssab.gov.mi.emailfilteringservice.net"
+        ], 
+        "dns-ns": [
+            "ns3.madwolf.com", 
+            "ns4.madwolf.com"
+        ], 
+        "domain-name": "ssab.gov", 
+        "fuzzer": "addition", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "192.149.12.39"
+        ], 
+        "dns-aaaa": [
+            "2610:20:3006:1::15"
+        ], 
+        "dns-mx": [
+            "smtpedge1.uspto.gov", 
+            "smtpedge2.uspto.gov"
+        ], 
+        "dns-ns": [
+            "dnssec10.datamtn.com", 
+            "dnssec11.datamtn.com", 
+            "dnssec7.datamtn.com", 
+            "dnssec9.datamtn.com", 
+            "gpaens2.doc.gov", 
+            "hchbens1.doc.gov"
+        ], 
+        "domain-name": "esa.gov", 
+        "fuzzer": "replacement"
+    }, 
+    {
+        "dns-a": [
+            "208.46.115.66"
+        ], 
+        "dns-mx": [
+            "cec-mtpe-01-03-p.inet.qwest.net", 
+            "stn-mtpe-01-03-p.inet.qwest.net"
+        ], 
+        "dns-ns": [
+            "sauthns1.qwest.net", 
+            "sauthns2.qwest.net"
+        ], 
+        "domain-name": "sss.gov", 
+        "fuzzer": "replacement", 
+        "geoip-country": "United States"
+    }, 
+    {
+        "dns-a": [
+            "199.59.242.150"
+        ], 
+        "dns-mx": [
+            "mx76.m2bp.com", 
+            "mx76.mb1p.com"
+        ], 
+        "dns-ns": [
+            "ns1.bodis.com", 
+            "ns2.bodis.com"
+        ], 
+        "domain-name": "ssa-gov.com", 
+        "fuzzer": "various"
+    }
+]

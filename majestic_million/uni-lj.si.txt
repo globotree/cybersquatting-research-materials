@@ -1,0 +1,35 @@
+[
+    {
+        "dns-a": [
+            "141.255.207.11", 
+            "193.2.64.45", 
+            "193.2.64.46"
+        ], 
+        "dns-mx": [
+            "mail.uni-lj.si"
+        ], 
+        "dns-ns": [
+            "dns1.uni-lj.si", 
+            "dns2.uni-lj.si", 
+            "dns3.uni-lj.si"
+        ], 
+        "domain-name": "uni-lj.si", 
+        "fuzzer": "original*", 
+        "geoip-country": "Slovenia"
+    }, 
+    {
+        "dns-a": [
+            "91.121.54.249"
+        ], 
+        "dns-mx": [
+            "mail.unilj.si"
+        ], 
+        "dns-ns": [
+            "dns209za.nsxf.net", 
+            "dns830va.dnslite.eu"
+        ], 
+        "domain-name": "unilj.si", 
+        "fuzzer": "omission", 
+        "geoip-country": "France"
+    }
+]

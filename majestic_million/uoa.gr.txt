@@ -1,0 +1,172 @@
+[
+    {
+        "dns-a": [
+            "195.134.71.229"
+        ], 
+        "dns-mx": [
+            "mta01.uoa.gr", 
+            "mta02.uoa.gr"
+        ], 
+        "dns-ns": [
+            "ns1.uoa.gr", 
+            "ns2.uoa.gr", 
+            "sns0.grnet.gr", 
+            "sns1.grnet.gr"
+        ], 
+        "domain-name": "uoa.gr", 
+        "fuzzer": "original*", 
+        "geoip-country": "Greece"
+    }, 
+    {
+        "dns-a": [
+            "94.70.193.154"
+        ], 
+        "dns-mx": [
+            "mail.eoa.gr"
+        ], 
+        "dns-ns": [
+            "ns1.eoa.gr", 
+            "ns2.eoa.gr"
+        ], 
+        "domain-name": "eoa.gr", 
+        "fuzzer": "bitsquatting", 
+        "geoip-country": "Greece", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "91.136.8.9"
+        ], 
+        "dns-mx": [
+            "vmail.hol.gr", 
+            "vmailin01mx.hol.gr", 
+            "vmailin02mx.hol.gr"
+        ], 
+        "dns-ns": [
+            "ns0.hol.gr", 
+            "ns1.hol.gr", 
+            "ns2.hol.gr"
+        ], 
+        "domain-name": "una.gr", 
+        "fuzzer": "bitsquatting", 
+        "geoip-country": "United Kingdom", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "64.13.192.137"
+        ], 
+        "dns-mx": [
+            "uma-gr.mail.protection.outlook.com"
+        ], 
+        "dns-ns": [
+            "ns1.otenet.gr", 
+            "ns2.otenet.gr"
+        ], 
+        "domain-name": "uma.gr", 
+        "fuzzer": "bitsquatting", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "147.52.80.1"
+        ], 
+        "dns-aaaa": [
+            "2001:648:2c00:50::1"
+        ], 
+        "dns-mx": [
+            "mta.uoc.gr"
+        ], 
+        "dns-ns": [
+            "estia.csi.forth.gr", 
+            "ns.uoc.gr", 
+            "ns2.uoc.gr", 
+            "ns4.uoc.gr", 
+            "sns0.grnet.gr", 
+            "sns1.grnet.gr"
+        ], 
+        "domain-name": "uoc.gr", 
+        "fuzzer": "bitsquatting", 
+        "geoip-country": "Greece", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "195.130.120.109"
+        ], 
+        "dns-mx": [
+            "cerberus.noc.uoi.gr"
+        ], 
+        "dns-ns": [
+            "kouzina.noc.uoi.gr", 
+            "marina.noc.uoi.gr", 
+            "sns0.grnet.gr", 
+            "sns1.grnet.gr"
+        ], 
+        "domain-name": "uoi.gr", 
+        "fuzzer": "bitsquatting", 
+        "geoip-country": "Greece", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "146.255.36.1"
+        ], 
+        "dns-mx": [
+            "mailstore1.europe.secureserver.net", 
+            "smtp.europe.secureserver.net"
+        ], 
+        "dns-ns": [
+            "ns69.domaincontrol.com", 
+            "ns70.domaincontrol.com"
+        ], 
+        "domain-name": "uia.gr", 
+        "fuzzer": "replacement", 
+        "geoip-country": "Netherlands", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "185.4.133.174"
+        ], 
+        "dns-mx": [
+            "mail.hoa.gr"
+        ], 
+        "dns-ns": [
+            "ns47.grserver.gr", 
+            "ns48.grserver.gr"
+        ], 
+        "domain-name": "hoa.gr", 
+        "fuzzer": "replacement", 
+        "geoip-country": "Greece"
+    }, 
+    {
+        "dns-a": [
+            "66.6.44.4"
+        ], 
+        "dns-mx": [
+            "mail.ioa.gr"
+        ], 
+        "dns-ns": [
+            "dns1.fusioned.net", 
+            "dns2.fusioned.net"
+        ], 
+        "domain-name": "ioa.gr", 
+        "fuzzer": "replacement"
+    }, 
+    {
+        "dns-a": [
+            "67.225.209.93"
+        ], 
+        "dns-mx": [
+            "aoa.gr"
+        ], 
+        "dns-ns": [
+            "ns1.greekwebhosting.com", 
+            "ns2.greekwebhosting.com"
+        ], 
+        "domain-name": "aoa.gr", 
+        "fuzzer": "vowel-swap"
+    }
+]

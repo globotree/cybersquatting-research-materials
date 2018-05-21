@@ -1,0 +1,51 @@
+[
+    {
+        "dns-a": [
+            "151.101.130.30", 
+            "151.101.194.30", 
+            "151.101.2.30", 
+            "151.101.66.30"
+        ], 
+        "dns-mx": [
+            "cluster5.eu.messagelabs.com", 
+            "cluster5a.eu.messagelabs.com"
+        ], 
+        "dns-ns": [
+            "columbus.fco.gov.uk", 
+            "nautilus.fco.gov.uk", 
+            "snowcone.fco.gov.uk"
+        ], 
+        "domain-name": "fco.gov.uk", 
+        "fuzzer": "original*", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 100
+    }, 
+    {
+        "dns-mx": [
+            "cluster5.eu.messagelabs.com", 
+            "cluster5a.eu.messagelabs.com"
+        ], 
+        "dns-ns": [
+            "columbus.fco.gov.uk", 
+            "nautilus.fco.gov.uk", 
+            "snowcone.fco.gov.uk"
+        ], 
+        "domain-name": "fcos.gov.uk", 
+        "fuzzer": "addition"
+    }, 
+    {
+        "dns-mx": [
+            "us2.mx1.mailhostbox.com", 
+            "us2.mx2.mailhostbox.com", 
+            "us2.mx3.mailhostbox.com"
+        ], 
+        "dns-ns": [
+            "1a7ea920.bitcoin-dns.hosting", 
+            "a8332f3a.bitcoin-dns.hosting", 
+            "ad636824.bitcoin-dns.hosting", 
+            "c358ea2d.bitcoin-dns.hosting"
+        ], 
+        "domain-name": "fcogov.uk", 
+        "fuzzer": "various"
+    }
+]

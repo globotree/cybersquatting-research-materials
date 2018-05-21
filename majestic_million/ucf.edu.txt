@@ -1,0 +1,191 @@
+[
+    {
+        "dns-a": [
+            "132.170.219.161"
+        ], 
+        "dns-mx": [
+            "ucf-edu.mail.protection.outlook.com"
+        ], 
+        "dns-ns": [
+            "ns1-01.azure-dns.com", 
+            "ns2-01.azure-dns.net", 
+            "ns3-01.azure-dns.org", 
+            "ns4-01.azure-dns.info"
+        ], 
+        "domain-name": "ucf.edu", 
+        "fuzzer": "original*", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 100
+    }, 
+    {
+        "dns-a": [
+            "137.229.114.86"
+        ], 
+        "dns-mx": [
+            "seven.alaska.edu", 
+            "seventeen.alaska.edu"
+        ], 
+        "dns-ns": [
+            "aduans-a.alaska.edu", 
+            "aduans-f.alaska.edu", 
+            "ns1.uaf.edu", 
+            "ns2.uaf.edu"
+        ], 
+        "domain-name": "uaf.edu", 
+        "fuzzer": "bitsquatting", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "66.203.150.6"
+        ], 
+        "dns-mx": [
+            "ugf-edu.mail.protection.outlook.com"
+        ], 
+        "dns-ns": [
+            "ns1.vision.net", 
+            "ns2.vision.net"
+        ], 
+        "domain-name": "ugf.edu", 
+        "fuzzer": "bitsquatting", 
+        "geoip-country": "United States"
+    }, 
+    {
+        "dns-a": [
+            "131.247.1.40", 
+            "131.247.100.1"
+        ], 
+        "dns-mx": [
+            "cudavm01.forest.usf.edu", 
+            "cudavm02.forest.usf.edu"
+        ], 
+        "dns-ns": [
+            "clemson-ns1.usf.edu", 
+            "mother.usf.edu", 
+            "ziggy.usf.edu"
+        ], 
+        "domain-name": "usf.edu", 
+        "fuzzer": "bitsquatting", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-ns": [
+            "dns-one.ucdavis.edu", 
+            "dns-three.ucdavis.edu", 
+            "dns-two.ucdavis.edu"
+        ], 
+        "domain-name": "ucd.edu", 
+        "fuzzer": "bitsquatting"
+    }, 
+    {
+        "dns-a": [
+            "169.229.131.81"
+        ], 
+        "dns-ns": [
+            "adns1.berkeley.edu", 
+            "adns2.berkeley.edu", 
+            "adns3.berkeley.edu"
+        ], 
+        "domain-name": "ucb.edu", 
+        "fuzzer": "bitsquatting", 
+        "geoip-country": "United States"
+    }, 
+    {
+        "dns-a": [
+            "128.227.9.98"
+        ], 
+        "dns-mx": [
+            "virtual-smtp-prod01.osg.ufl.edu"
+        ], 
+        "dns-ns": [
+            "ns.name.ufl.edu", 
+            "rns.name.ufl.edu"
+        ], 
+        "domain-name": "uf.edu", 
+        "fuzzer": "omission", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "162.248.69.68"
+        ], 
+        "dns-mx": [
+            "cfironport01.cf.edu", 
+            "cfironport02.cf.edu"
+        ], 
+        "dns-ns": [
+            "dmzdns1.cf.edu", 
+            "dmzdns2.cf.edu", 
+            "dns2.cf.edu", 
+            "ns1.cf.edu"
+        ], 
+        "domain-name": "cf.edu", 
+        "fuzzer": "omission", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "129.137.4.225"
+        ], 
+        "dns-mx": [
+            "ucmailmx3.uc.edu", 
+            "ucmailmx4.uc.edu"
+        ], 
+        "dns-ns": [
+            "ucdnsa.uc.edu", 
+            "ucdnsb.uc.edu"
+        ], 
+        "domain-name": "uc.edu", 
+        "fuzzer": "omission", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "138.23.226.208"
+        ], 
+        "dns-mx": [
+            "mx1.ucr.edu", 
+            "mx2.ucr.edu"
+        ], 
+        "dns-ns": [
+            "ns1.ucr.edu", 
+            "ns2.ucr.edu", 
+            "sdns1.berkeley.edu"
+        ], 
+        "domain-name": "ucr.edu", 
+        "fuzzer": "replacement", 
+        "geoip-country": "United States"
+    }, 
+    {
+        "dns-mx": [
+            "ucc-edu.mail.protection.outlook.com"
+        ], 
+        "dns-ns": [
+            "auth1.dns.cogentco.com", 
+            "auth2.dns.cogentco.com", 
+            "auth4.dns.cogentco.com", 
+            "auth5.dns.cogentco.com"
+        ], 
+        "domain-name": "ucc.edu", 
+        "fuzzer": "replacement"
+    }, 
+    {
+        "dns-a": [
+            "23.229.188.99"
+        ], 
+        "dns-mx": [
+            "mail.udf.edu"
+        ], 
+        "dns-ns": [
+            "ns73.domaincontrol.com", 
+            "ns74.domaincontrol.com"
+        ], 
+        "domain-name": "udf.edu", 
+        "fuzzer": "replacement"
+    }
+]

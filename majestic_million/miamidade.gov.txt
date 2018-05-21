@@ -1,0 +1,36 @@
+[
+    {
+        "dns-a": [
+            "65.87.66.32"
+        ], 
+        "dns-mx": [
+            "in-mig04.hes.trendmicro.com"
+        ], 
+        "dns-ns": [
+            "ns1-07.azure-dns.com", 
+            "ns2-07.azure-dns.net", 
+            "ns3-07.azure-dns.org", 
+            "ns4-07.azure-dns.info"
+        ], 
+        "domain-name": "miamidade.gov", 
+        "fuzzer": "original*", 
+        "geoip-country": "United States"
+    }, 
+    {
+        "dns-a": [
+            "65.87.66.32"
+        ], 
+        "dns-mx": [
+            "in-mig04.hes.trendmicro.com"
+        ], 
+        "dns-ns": [
+            "ns1-04.azure-dns.com", 
+            "ns2-04.azure-dns.net", 
+            "ns3-04.azure-dns.org", 
+            "ns4-04.azure-dns.info"
+        ], 
+        "domain-name": "miami-dade.gov", 
+        "fuzzer": "hyphenation", 
+        "geoip-country": "United States"
+    }
+]

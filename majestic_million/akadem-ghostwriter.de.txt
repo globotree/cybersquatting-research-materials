@@ -1,0 +1,48 @@
+[
+    {
+        "dns-a": [
+            "94.130.119.2"
+        ], 
+        "dns-mx": [
+            "mail.akadem-ghostwriter.de"
+        ], 
+        "dns-ns": [
+            "ns.securednsservices.com", 
+            "ns2.securednsservices.com"
+        ], 
+        "domain-name": "akadem-ghostwriter.de", 
+        "fuzzer": "original*", 
+        "geoip-country": "Ukraine", 
+        "ssdeep-score": 100
+    }, 
+    {
+        "dns-a": [
+            "50.63.202.53"
+        ], 
+        "dns-ns": [
+            "ns81.domaincontrol.com", 
+            "ns82.domaincontrol.com"
+        ], 
+        "domain-name": "akademghostwriter.de", 
+        "fuzzer": "omission", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "185.53.178.6"
+        ], 
+        "dns-mx": [
+            "mail.h-email.net"
+        ], 
+        "dns-ns": [
+            "ns1.parkingcrew.net", 
+            "ns2.parkingcrew.net"
+        ], 
+        "domain-name": "akadem-ghostw.riter.de", 
+        "fuzzer": "subdomain", 
+        "geoip-country": "Germany", 
+        "mx-spy": true, 
+        "ssdeep-score": 0
+    }
+]

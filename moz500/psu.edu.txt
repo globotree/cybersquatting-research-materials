@@ -1,0 +1,254 @@
+[
+    {
+        "dns-a": [
+            "128.118.142.105", 
+            "128.118.142.114", 
+            "128.118.146.130", 
+            "128.118.146.135", 
+            "146.186.15.17", 
+            "146.186.157.8", 
+            "146.186.16.57"
+        ], 
+        "dns-mx": [
+            "r02a07.cac.psu.edu", 
+            "r02n08-fddi.cac.psu.edu", 
+            "tr10g04.aset.psu.edu", 
+            "tr10g05.aset.psu.edu", 
+            "tr12g04.aset.psu.edu", 
+            "tr12g05.aset.psu.edu", 
+            "tr16g04.aset.psu.edu"
+        ], 
+        "dns-ns": [
+            "ns1.psu.edu", 
+            "ns2.psu.edu", 
+            "psu-ns.acns.msu.edu"
+        ], 
+        "domain-name": "psu.edu", 
+        "fuzzer": "original*", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 85
+    }, 
+    {
+        "dns-a": [
+            "104.27.142.181", 
+            "104.27.143.181"
+        ], 
+        "dns-aaaa": [
+            "2400:cb00:2048:1::681b:8eb5", 
+            "2400:cb00:2048:1::681b:8fb5"
+        ], 
+        "dns-mx": [
+            "rsufsgw.rsu.edu"
+        ], 
+        "dns-ns": [
+            "lex.ns.cloudflare.com", 
+            "rafe.ns.cloudflare.com"
+        ], 
+        "domain-name": "rsu.edu", 
+        "fuzzer": "bitsquatting", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "67.66.218.201"
+        ], 
+        "dns-mx": [
+            "spam.tsu.edu", 
+            "spamdr.tsu.edu"
+        ], 
+        "dns-ns": [
+            "ns0.dnsmadeeasy.com", 
+            "ns1.dnsmadeeasy.com", 
+            "ns2.dnsmadeeasy.com", 
+            "ns3.dnsmadeeasy.com", 
+            "ns4.dnsmadeeasy.com"
+        ], 
+        "domain-name": "tsu.edu", 
+        "fuzzer": "bitsquatting", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "104.196.163.46"
+        ], 
+        "dns-mx": [
+            "ps-edu.mail.protection.outlook.com"
+        ], 
+        "dns-ns": [
+            "dns1.stabletransit.com", 
+            "dns2.stabletransit.com"
+        ], 
+        "domain-name": "ps.edu", 
+        "fuzzer": "omission", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "104.196.180.211"
+        ], 
+        "dns-mx": [
+            "alt1.aspmx.l.google.com", 
+            "alt2.aspmx.l.google.com", 
+            "aspmx.l.google.com", 
+            "aspmx2.googlemail.com", 
+            "aspmx3.googlemail.com", 
+            "aspmx4.googlemail.com", 
+            "aspmx5.googlemail.com"
+        ], 
+        "dns-ns": [
+            "dina.ns.cloudflare.com", 
+            "tim.ns.cloudflare.com"
+        ], 
+        "domain-name": "su.edu", 
+        "fuzzer": "omission", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "67.225.228.56"
+        ], 
+        "dns-mx": [
+            "aspmx.l.google.com"
+        ], 
+        "dns-ns": [
+            "dns61.rightdns.com", 
+            "dns62.rightdns.com"
+        ], 
+        "domain-name": "pau.edu", 
+        "fuzzer": "replacement", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "204.17.61.106"
+        ], 
+        "dns-mx": [
+            "ALT1.ASPMX.L.GOOGLE.COM", 
+            "ALT2.ASPMX.L.GOOGLE.COM", 
+            "ASPMX.L.GOOGLE.COM", 
+            "ASPMX2.GOOGLEMAIL.COM", 
+            "ASPMX3.GOOGLEMAIL.COM"
+        ], 
+        "dns-ns": [
+            "dns1.login.com", 
+            "dns3.login.com"
+        ], 
+        "domain-name": "psi.edu", 
+        "fuzzer": "replacement"
+    }, 
+    {
+        "dns-a": [
+            "35.9.247.69"
+        ], 
+        "dns-mx": [
+            "mxa-00165801.gslb.pphosted.com", 
+            "mxb-00165801.gslb.pphosted.com"
+        ], 
+        "dns-ns": [
+            "ns-1432.awsdns-51.org", 
+            "ns-1827.awsdns-36.co.uk", 
+            "ns-64.awsdns-08.com", 
+            "ns-665.awsdns-19.net"
+        ], 
+        "domain-name": "msu.edu", 
+        "fuzzer": "replacement", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "69.89.31.120"
+        ], 
+        "dns-mx": [
+            "psy.edu.s6a1.psmtp.com", 
+            "psy.edu.s6a2.psmtp.com", 
+            "psy.edu.s6b1.psmtp.com", 
+            "psy.edu.s6b2.psmtp.com"
+        ], 
+        "dns-ns": [
+            "ns1.epbinternet.net", 
+            "ns2.epbinternet.net"
+        ], 
+        "domain-name": "psy.edu", 
+        "fuzzer": "replacement", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "140.254.112.130"
+        ], 
+        "dns-aaaa": [
+            "2620:0:1a10:80ea::130"
+        ], 
+        "dns-mx": [
+            "osu-edu.mail.protection.outlook.com"
+        ], 
+        "dns-ns": [
+            "ns4.net.ohio-state.edu", 
+            "ns4.oar.net", 
+            "ns5.net.ohio-state.edu", 
+            "ns5.oar.net", 
+            "ns6.oar.net", 
+            "ns7.oar.net"
+        ], 
+        "domain-name": "osu.edu", 
+        "fuzzer": "replacement", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "130.39.6.220"
+        ], 
+        "dns-mx": [
+            "lsu-edu.mail.protection.outlook.com"
+        ], 
+        "dns-ns": [
+            "lsu-bdds1.lsu.edu", 
+            "lsu-bdds2.lsu.edu", 
+            "lsu-bdds4.lsu.edu", 
+            "lsu-bdds6.lsu.edu"
+        ], 
+        "domain-name": "lsu.edu", 
+        "fuzzer": "replacement", 
+        "geoip-country": "United States"
+    }, 
+    {
+        "dns-a": [
+            "72.233.151.58"
+        ], 
+        "dns-mx": [
+            "spu-edu.mail.protection.outlook.com"
+        ], 
+        "dns-ns": [
+            "apple.wa-k20.net", 
+            "dns01.spu.edu", 
+            "dns05.spu.edu", 
+            "ruler.wa-k20.net"
+        ], 
+        "domain-name": "spu.edu", 
+        "fuzzer": "transposition"
+    }, 
+    {
+        "dns-a": [
+            "64.99.64.37"
+        ], 
+        "dns-mx": [
+            "mx.psu-edu.com.cust.b.hostedemail.com"
+        ], 
+        "dns-ns": [
+            "ns1.systemdns.com", 
+            "ns2.systemdns.com", 
+            "ns3.systemdns.com"
+        ], 
+        "domain-name": "psu-edu.com", 
+        "fuzzer": "various", 
+        "geoip-country": "Canada"
+    }
+]

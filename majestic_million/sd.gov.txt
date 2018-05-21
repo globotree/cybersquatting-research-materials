@@ -1,0 +1,98 @@
+[
+    {
+        "dns-a": [
+            "164.154.226.126"
+        ], 
+        "dns-mx": [
+            "smtp.sd.gov", 
+            "smtp.sd.gov"
+        ], 
+        "dns-ns": [
+            "ns1.k12.sd.us", 
+            "ns1.sd.gov", 
+            "ns2.sd.gov"
+        ], 
+        "domain-name": "sd.gov", 
+        "fuzzer": "original*", 
+        "geoip-country": "United States"
+    }, 
+    {
+        "dns-ns": [
+            "ns-e.noaa.gov", 
+            "ns-mw.noaa.gov", 
+            "ns-nw.noaa.gov"
+        ], 
+        "domain-name": "sdr.gov", 
+        "fuzzer": "addition"
+    }, 
+    {
+        "dns-a": [
+            "199.48.133.250"
+        ], 
+        "dns-ns": [
+            "dns101.netops.sspdata.net", 
+            "dns101.tripwire.net", 
+            "dns111.netops.sspdata.net", 
+            "dns121.netops.sspdata.net", 
+            "ns1.sfgov.org", 
+            "ns2.sfgov.org"
+        ], 
+        "domain-name": "sf.gov", 
+        "fuzzer": "bitsquatting", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "165.224.212.35"
+        ], 
+        "dns-aaaa": [
+            "2610:e8:9080:1ff:ec0a:e86:790d:cee5"
+        ], 
+        "dns-mx": [
+            "ed-gov.mail.protection.outlook.com"
+        ], 
+        "dns-ns": [
+            "eduftcdnsp01.ed.gov", 
+            "eduftcdnsp02.ed.gov", 
+            "eduptcdnsp01.ed.gov", 
+            "eduptcdnsp02.ed.gov"
+        ], 
+        "domain-name": "ed.gov", 
+        "fuzzer": "replacement", 
+        "geoip-country": "United States"
+    }, 
+    {
+        "dns-a": [
+            "148.129.75.154"
+        ], 
+        "dns-ns": [
+            "ns1e.census.gov", 
+            "ns2e.census.gov"
+        ], 
+        "domain-name": "xd.gov", 
+        "fuzzer": "replacement"
+    }, 
+    {
+        "dns-a": [
+            "167.7.51.20"
+        ], 
+        "dns-mx": [
+            "cioe500.state.sc.us"
+        ], 
+        "dns-ns": [
+            "ns1.net.state.sc.us", 
+            "ns2.net.state.sc.us"
+        ], 
+        "domain-name": "sc.gov", 
+        "fuzzer": "replacement"
+    }, 
+    {
+        "dns-ns": [
+            "dns15.hichina.com", 
+            "dns16.hichina.com"
+        ], 
+        "domain-name": "sd-gov.com", 
+        "fuzzer": "various"
+    }
+]

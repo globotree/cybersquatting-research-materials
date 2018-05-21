@@ -1,0 +1,56 @@
+[
+    {
+        "dns-a": [
+            "178.32.102.34"
+        ], 
+        "dns-mx": [
+            "smtp.livehost.fr"
+        ], 
+        "dns-ns": [
+            "ns1.livehost.fr", 
+            "ns2.livehost.fr"
+        ], 
+        "domain-name": "livehost.fr", 
+        "fuzzer": "original*", 
+        "geoip-country": "France", 
+        "ssdeep-score": 91
+    }, 
+    {
+        "dns-a": [
+            "91.208.175.119"
+        ], 
+        "dns-ns": [
+            "ns101.acwebconnecting.com", 
+            "ns102.acwebconnecting.com"
+        ], 
+        "domain-name": "livehot.fr", 
+        "fuzzer": "omission", 
+        "geoip-country": "Netherlands", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "79.98.16.11"
+        ], 
+        "domain-name": "live.host.fr", 
+        "fuzzer": "subdomain", 
+        "geoip-country": "France"
+    }, 
+    {
+        "dns-a": [
+            "72.52.4.122"
+        ], 
+        "dns-mx": [
+            "localhost"
+        ], 
+        "dns-ns": [
+            "ns1.sedoparking.com", 
+            "ns2.sedoparking.com"
+        ], 
+        "domain-name": "liveh.ost.fr", 
+        "fuzzer": "subdomain", 
+        "geoip-country": "United States", 
+        "mx-spy": true, 
+        "ssdeep-score": 0
+    }
+]

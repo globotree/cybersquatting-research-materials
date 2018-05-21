@@ -1,0 +1,277 @@
+[
+    {
+        "dns-mx": [
+            "ns.ck.ua", 
+            "ns3.ck.ua", 
+            "smtp.ctsense.net"
+        ], 
+        "dns-ns": [
+            "ba1.ns.ua", 
+            "nix.ns.ua", 
+            "ns2.km.ua"
+        ], 
+        "domain-name": "ck.ua", 
+        "fuzzer": "original*"
+    }, 
+    {
+        "dns-a": [
+            "77.88.254.179"
+        ], 
+        "dns-mx": [
+            "smtp2.alkar.net"
+        ], 
+        "dns-ns": [
+            "dns-kv-01.vegatele.com", 
+            "dns-kv-02.vegatele.com"
+        ], 
+        "domain-name": "ckm.ua", 
+        "fuzzer": "addition", 
+        "geoip-country": "Ukraine"
+    }, 
+    {
+        "dns-a": [
+            "185.104.45.9"
+        ], 
+        "dns-aaaa": [
+            "2a06:6440:0:2d09::1"
+        ], 
+        "dns-mx": [
+            "mx15.ukraine.com.ua", 
+            "mx20.ukraine.com.ua"
+        ], 
+        "dns-ns": [
+            "ns1.fastdns.hosting", 
+            "ns2.fastdns.hosting", 
+            "ns3.fastdns.hosting"
+        ], 
+        "domain-name": "cks.ua", 
+        "fuzzer": "addition", 
+        "geoip-country": "United Kingdom"
+    }, 
+    {
+        "dns-a": [
+            "212.32.230.162"
+        ], 
+        "dns-mx": [
+            "ALT1.ASPMX.L.GOOGLE.COM", 
+            "ASPMX.L.GOOGLE.COM", 
+            "ASPMX2.GOOGLEMAIL.COM", 
+            "ASPMX3.GOOGLEMAIL.COM", 
+            "ASPMX4.GOOGLEMAIL.COM", 
+            "ASPMX5.GOOGLEMAIL.COM", 
+            "LT2.ASPMX.L.GOOGLE.COM"
+        ], 
+        "dns-ns": [
+            "a.ns.litech.net", 
+            "c.ns.litech.net"
+        ], 
+        "domain-name": "bk.ua", 
+        "fuzzer": "bitsquatting", 
+        "geoip-country": "Netherlands"
+    }, 
+    {
+        "dns-a": [
+            "104.24.100.77", 
+            "104.24.101.77"
+        ], 
+        "dns-aaaa": [
+            "2400:cb00:2048:1::6818:644d", 
+            "2400:cb00:2048:1::6818:654d"
+        ], 
+        "dns-mx": [
+            "mail.ak.ua"
+        ], 
+        "dns-ns": [
+            "connie.ns.cloudflare.com", 
+            "todd.ns.cloudflare.com"
+        ], 
+        "domain-name": "ak.ua", 
+        "fuzzer": "bitsquatting", 
+        "geoip-country": "United States"
+    }, 
+    {
+        "dns-a": [
+            "89.184.91.206"
+        ], 
+        "dns-mx": [
+            "sk-ua.mail.protection.outlook.com"
+        ], 
+        "dns-ns": [
+            "ns1.mirohost.net", 
+            "ns2.mirohost.net", 
+            "ns3.mirohost.net"
+        ], 
+        "domain-name": "sk.ua", 
+        "fuzzer": "bitsquatting", 
+        "geoip-country": "Ukraine"
+    }, 
+    {
+        "dns-a": [
+            "194.0.200.16"
+        ], 
+        "dns-mx": [
+            "mx0.mail7.freehost.com.ua", 
+            "mx1.mail7.freehost.com.ua", 
+            "mx2.mail7.freehost.com.ua"
+        ], 
+        "dns-ns": [
+            "alpha.freehost.com.ua", 
+            "beta.freehost.com.ua"
+        ], 
+        "domain-name": "cj.ua", 
+        "fuzzer": "bitsquatting", 
+        "geoip-country": "Ukraine"
+    }, 
+    {
+        "dns-a": [
+            "148.251.89.47"
+        ], 
+        "dns-mx": [
+            "mail.ci.ua", 
+            "mail.ci.ua"
+        ], 
+        "dns-ns": [
+            "ns1.wishhost.net", 
+            "ns2.wishhost.net"
+        ], 
+        "domain-name": "ci.ua", 
+        "fuzzer": "bitsquatting", 
+        "geoip-country": "Germany"
+    }, 
+    {
+        "dns-mx": [
+            "mx1.co.ua.uadns.com", 
+            "mx2.co.ua.uadns.com", 
+            "mx3.co.ua.uadns.com"
+        ], 
+        "dns-ns": [
+            "ns1.uadns.com", 
+            "ns2.uadns.com", 
+            "ns3.uadns.com", 
+            "ns4.uadns.com", 
+            "ns5.uadns.com"
+        ], 
+        "domain-name": "co.ua", 
+        "fuzzer": "bitsquatting"
+    }, 
+    {
+        "dns-a": [
+            "195.234.4.26"
+        ], 
+        "dns-mx": [
+            "mail-u4.1gb.ua"
+        ], 
+        "dns-ns": [
+            "ns1.1gb.ua", 
+            "ns2.1gb.ua"
+        ], 
+        "domain-name": "cc.ua", 
+        "fuzzer": "bitsquatting", 
+        "geoip-country": "Ukraine"
+    }, 
+    {
+        "dns-a": [
+            "195.149.114.22"
+        ], 
+        "dns-ns": [
+            "parked1.uadns.com", 
+            "parked2.uadns.com"
+        ], 
+        "domain-name": "k.ua", 
+        "fuzzer": "omission", 
+        "geoip-country": "Ukraine"
+    }, 
+    {
+        "dns-a": [
+            "194.28.86.27"
+        ], 
+        "dns-mx": [
+            "mail.dk.ua"
+        ], 
+        "dns-ns": [
+            "nsa3.srv53.net", 
+            "nsa3.srv53.org", 
+            "nsa4.srv53.com", 
+            "nsb1.srv53.net", 
+            "nsb3.srv53.org", 
+            "nsb4.srv53.com", 
+            "nsc2.srv53.com", 
+            "nsc2.srv53.org", 
+            "nsc3.srv53.net", 
+            "nsd1.srv53.com", 
+            "nsd1.srv53.org", 
+            "nsd3.srv53.net"
+        ], 
+        "domain-name": "dk.ua", 
+        "fuzzer": "replacement", 
+        "geoip-country": "Ukraine"
+    }, 
+    {
+        "dns-a": [
+            "46.182.84.232"
+        ], 
+        "dns-mx": [
+            "mx1.muk.ua", 
+            "mx2.muk.ua", 
+            "smtp2.muk.com.ua", 
+            "smtp3.muk.com.ua"
+        ], 
+        "dns-ns": [
+            "nsa2.srv53.net", 
+            "nsa3.srv53.com", 
+            "nsa4.srv53.org", 
+            "nsb2.srv53.com", 
+            "nsb2.srv53.net", 
+            "nsb2.srv53.org", 
+            "nsc1.srv53.net", 
+            "nsc2.srv53.org", 
+            "nsc3.srv53.com", 
+            "nsd1.srv53.net", 
+            "nsd3.srv53.com", 
+            "nsd4.srv53.org"
+        ], 
+        "domain-name": "cl.ua", 
+        "fuzzer": "replacement", 
+        "geoip-country": "Ukraine"
+    }, 
+    {
+        "dns-a": [
+            "91.197.128.157"
+        ], 
+        "dns-mx": [
+            "mail.imena.com.ua"
+        ], 
+        "dns-ns": [
+            "nsa1.srv53.net", 
+            "nsa1.srv53.org", 
+            "nsa3.srv53.com", 
+            "nsb3.srv53.com", 
+            "nsb3.srv53.org", 
+            "nsb4.srv53.net", 
+            "nsc1.srv53.net", 
+            "nsc1.srv53.org", 
+            "nsc2.srv53.com", 
+            "nsd1.srv53.com", 
+            "nsd3.srv53.net", 
+            "nsd3.srv53.org"
+        ], 
+        "domain-name": "vk.ua", 
+        "fuzzer": "replacement", 
+        "geoip-country": "Ukraine"
+    }, 
+    {
+        "dns-a": [
+            "31.31.196.108"
+        ], 
+        "dns-mx": [
+            "mx1.hosting.reg.ru", 
+            "mx2.hosting.reg.ru"
+        ], 
+        "dns-ns": [
+            "ns1.hosting.reg.ru", 
+            "ns2.hosting.reg.ru"
+        ], 
+        "domain-name": "ck-ua.com", 
+        "fuzzer": "various"
+    }
+]

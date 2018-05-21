@@ -1,0 +1,64 @@
+[
+    {
+        "dns-a": [
+            "52.222.146.148", 
+            "52.222.146.162", 
+            "52.222.146.169", 
+            "52.222.146.191", 
+            "52.222.146.216", 
+            "52.222.146.54", 
+            "52.222.146.59", 
+            "52.222.146.67"
+        ], 
+        "dns-mx": [
+            "mail.kirkusreviews.com"
+        ], 
+        "dns-ns": [
+            "ns-1491.awsdns-58.org", 
+            "ns-1717.awsdns-22.co.uk", 
+            "ns-336.awsdns-42.com", 
+            "ns-985.awsdns-59.net"
+        ], 
+        "domain-name": "kirkusreviews.com", 
+        "fuzzer": "original*", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 93
+    }, 
+    {
+        "dns-a": [
+            "95.211.219.67"
+        ], 
+        "dns-ns": [
+            "ns1.hastydns.com", 
+            "ns2.hastydns.com"
+        ], 
+        "domain-name": "kirkusreview.com", 
+        "fuzzer": "omission", 
+        "geoip-country": "Netherlands"
+    }, 
+    {
+        "dns-a": [
+            "184.168.221.30"
+        ], 
+        "dns-mx": [
+            "mailstore1.secureserver.net", 
+            "smtp.secureserver.net"
+        ], 
+        "dns-ns": [
+            "ns05.domaincontrol.com", 
+            "ns06.domaincontrol.com"
+        ], 
+        "domain-name": "kirksreviews.com", 
+        "fuzzer": "omission", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-ns": [
+            "ns1.uniregistrymarket.link", 
+            "ns2.uniregistrymarket.link"
+        ], 
+        "domain-name": "kirk.usreviews.com", 
+        "fuzzer": "subdomain"
+    }
+]

@@ -1,0 +1,101 @@
+[
+    {
+        "dns-a": [
+            "13.32.163.102", 
+            "13.32.163.144", 
+            "13.32.163.15", 
+            "13.32.163.199", 
+            "13.32.163.252", 
+            "13.32.163.45", 
+            "13.32.163.63", 
+            "13.32.163.79"
+        ], 
+        "dns-mx": [
+            "pewglobal-org.mail.protection.outlook.com"
+        ], 
+        "dns-ns": [
+            "ns-1526.awsdns-62.org", 
+            "ns-1895.awsdns-44.co.uk", 
+            "ns-422.awsdns-52.com", 
+            "ns-532.awsdns-02.net"
+        ], 
+        "domain-name": "pewglobal.org", 
+        "fuzzer": "original*", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 100
+    }, 
+    {
+        "dns-a": [
+            "208.91.197.27"
+        ], 
+        "dns-mx": [
+            "p.webcom.ctmail.com"
+        ], 
+        "dns-ns": [
+            "ns69.worldnic.com", 
+            "ns70.worldnic.com"
+        ], 
+        "domain-name": "peaglobal.org", 
+        "fuzzer": "replacement", 
+        "geoip-country": "United States", 
+        "mx-spy": true, 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "199.188.200.202"
+        ], 
+        "domain-name": "pew.global.org", 
+        "fuzzer": "subdomain", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "89.110.148.249"
+        ], 
+        "domain-name": "pewg.lobal.org", 
+        "fuzzer": "subdomain", 
+        "geoip-country": "Germany", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "89.215.231.3"
+        ], 
+        "domain-name": "pewgl.obal.org", 
+        "fuzzer": "subdomain", 
+        "geoip-country": "Bulgaria"
+    }, 
+    {
+        "dns-a": [
+            "50.63.46.1"
+        ], 
+        "dns-ns": [
+            "A.SERVICE.AFILIASDNS.INFO", 
+            "B.SERVICE.AFILIASDNS.org", 
+            "C.SERVICE.AFILIASDNS.NET", 
+            "D.SERVICE.AFILIASDNS.COM", 
+            "E.SERVICE.AFILIASDNS.INFO", 
+            "F.SERVICE.AFILIASDNS.NET"
+        ], 
+        "domain-name": "pewgloba.l.org", 
+        "fuzzer": "subdomain", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "96.30.35.64"
+        ], 
+        "dns-mx": [
+            "powglobal.org"
+        ], 
+        "dns-ns": [
+            "ns1.ovasp.com", 
+            "ns2.ovasp.com"
+        ], 
+        "domain-name": "powglobal.org", 
+        "fuzzer": "vowel-swap"
+    }
+]

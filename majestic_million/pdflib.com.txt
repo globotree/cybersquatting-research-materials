@@ -1,0 +1,152 @@
+[
+    {
+        "dns-a": [
+            "217.160.0.96"
+        ], 
+        "dns-aaaa": [
+            "2001:8d8:100f:f000::2c9"
+        ], 
+        "dns-mx": [
+            "mx00.kundenserver.de", 
+            "mx01.kundenserver.de"
+        ], 
+        "dns-ns": [
+            "ns1028.ui-dns.de", 
+            "ns1042.ui-dns.com", 
+            "ns1096.ui-dns.org", 
+            "ns1111.ui-dns.biz"
+        ], 
+        "domain-name": "pdflib.com", 
+        "fuzzer": "original*", 
+        "geoip-country": "Germany", 
+        "ssdeep-score": 100
+    }, 
+    {
+        "dns-a": [
+            "119.29.77.26"
+        ], 
+        "dns-ns": [
+            "f1g1ns1.dnspod.net", 
+            "f1g1ns2.dnspod.net"
+        ], 
+        "domain-name": "pdflibr.com", 
+        "fuzzer": "addition", 
+        "geoip-country": "China", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "192.95.11.90"
+        ], 
+        "dns-mx": [
+            "pdflibs.com"
+        ], 
+        "domain-name": "pdflibs.com", 
+        "fuzzer": "addition", 
+        "geoip-country": "Canada", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "199.184.144.27"
+        ], 
+        "dns-ns": [
+            "ns1.expired.uniregistry-dns.com", 
+            "ns2.expired.uniregistry-dns.com"
+        ], 
+        "domain-name": "rdflib.com", 
+        "fuzzer": "bitsquatting", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-ns": [
+            "dns1.registrar-servers.com", 
+            "dns2.registrar-servers.com"
+        ], 
+        "domain-name": "pdflab.com", 
+        "fuzzer": "bitsquatting"
+    }, 
+    {
+        "dns-a": [
+            "198.7.62.93"
+        ], 
+        "dns-ns": [
+            "beth.ns.cloudflare.com", 
+            "frank.ns.cloudflare.com"
+        ], 
+        "domain-name": "pdf-lib.com", 
+        "fuzzer": "hyphenation", 
+        "geoip-country": "United States"
+    }, 
+    {
+        "dns-a": [
+            "204.11.56.48"
+        ], 
+        "dns-ns": [
+            "ns1626.ztomy.com", 
+            "ns2626.ztomy.com"
+        ], 
+        "domain-name": "pdflb.com", 
+        "fuzzer": "omission", 
+        "geoip-country": "Virgin Islands", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "78.41.204.26"
+        ], 
+        "dns-ns": [
+            "ns1.torresdns.com", 
+            "ns2.torresdns.com"
+        ], 
+        "domain-name": "pdfli.com", 
+        "fuzzer": "omission", 
+        "geoip-country": "Netherlands"
+    }, 
+    {
+        "dns-mx": [
+            "mail.pdlib.com"
+        ], 
+        "dns-ns": [
+            "ns1.sheinet.com", 
+            "ns2.sheinet.com"
+        ], 
+        "domain-name": "pdlib.com", 
+        "fuzzer": "omission"
+    }, 
+    {
+        "dns-ns": [
+            "ns17.xincache.com", 
+            "ns18.xincache.com"
+        ], 
+        "domain-name": "dflib.com", 
+        "fuzzer": "omission"
+    }, 
+    {
+        "dns-a": [
+            "72.52.4.120"
+        ], 
+        "dns-mx": [
+            "localhost"
+        ], 
+        "dns-ns": [
+            "ns1.sedoparking.com", 
+            "ns2.sedoparking.com"
+        ], 
+        "domain-name": "pd.flib.com", 
+        "fuzzer": "subdomain", 
+        "geoip-country": "United States", 
+        "mx-spy": true, 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "70.32.66.129"
+        ], 
+        "domain-name": "pdfl.ib.com", 
+        "fuzzer": "subdomain", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 0
+    }
+]

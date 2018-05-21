@@ -1,0 +1,156 @@
+[
+    {
+        "dns-a": [
+            "129.7.97.54"
+        ], 
+        "dns-mx": [
+            "ms38595472.msv1.invalid.outlook.com", 
+            "smtp3.cc.uh.edu", 
+            "smtp4.cc.uh.edu"
+        ], 
+        "dns-ns": [
+            "ns1.uh.edu", 
+            "ns2.uh.edu"
+        ], 
+        "domain-name": "uh.edu", 
+        "fuzzer": "original*", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 100
+    }, 
+    {
+        "dns-a": [
+            "216.145.163.229"
+        ], 
+        "dns-mx": [
+            "gateway1.uhd.edu", 
+            "gateway2.uhd.edu"
+        ], 
+        "dns-ns": [
+            "larry.uhd.edu", 
+            "moe.uhd.edu", 
+            "ns2.uh.edu"
+        ], 
+        "domain-name": "uhd.edu", 
+        "fuzzer": "addition", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "129.7.112.13"
+        ], 
+        "dns-mx": [
+            "uhv-edu.mail.protection.outlook.com"
+        ], 
+        "dns-ns": [
+            "dnsx.uhv.edu", 
+            "dnsy.uhv.edu"
+        ], 
+        "domain-name": "uhv.edu", 
+        "fuzzer": "addition", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-ns": [
+            "ksc.au.ac.th", 
+            "ns.au.edu"
+        ], 
+        "domain-name": "th.edu", 
+        "fuzzer": "bitsquatting"
+    }, 
+    {
+        "dns-a": [
+            "152.118.24.40"
+        ], 
+        "dns-ns": [
+            "ns1.itb.ac.id", 
+            "ranggalawe.ui.ac.id", 
+            "uicsgtw.cs.ui.ac.id"
+        ], 
+        "domain-name": "ui.edu", 
+        "fuzzer": "bitsquatting"
+    }, 
+    {
+        "dns-a": [
+            "192.163.232.166"
+        ], 
+        "dns-mx": [
+            "irport.jc.edu"
+        ], 
+        "dns-ns": [
+            "ns1.jc.edu"
+        ], 
+        "domain-name": "uj.edu", 
+        "fuzzer": "bitsquatting", 
+        "geoip-country": "United States"
+    }, 
+    {
+        "dns-a": [
+            "69.167.204.55"
+        ], 
+        "dns-mx": [
+            "uu-edu.mail.protection.outlook.com"
+        ], 
+        "dns-ns": [
+            "dns1.stabletransit.com", 
+            "dns2.stabletransit.com"
+        ], 
+        "domain-name": "uu.edu", 
+        "fuzzer": "replacement", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-ns": [
+            "ens1.jhmi.edu", 
+            "ens1.jhu.edu"
+        ], 
+        "domain-name": "jh.edu", 
+        "fuzzer": "replacement"
+    }, 
+    {
+        "dns-a": [
+            "161.116.100.2"
+        ], 
+        "dns-mx": [
+            "mailgate1a.com.ub.edu", 
+            "mailgate2.ub.es", 
+            "mailgate2a.com.ub.edu", 
+            "mx.edau.ub.edu"
+        ], 
+        "dns-ns": [
+            "chico.rediris.es", 
+            "rnpro01.com.ub.edu", 
+            "rnpro04.com.ub.edu", 
+            "rnpro07.com.ub.edu", 
+            "sun.rediris.es"
+        ], 
+        "domain-name": "ub.edu", 
+        "fuzzer": "replacement", 
+        "geoip-country": "Spain", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-ns": [
+            "pathfinder"
+        ], 
+        "domain-name": "hu.edu", 
+        "fuzzer": "transposition"
+    }, 
+    {
+        "dns-a": [
+            "113.10.173.4"
+        ], 
+        "dns-ns": [
+            "ns1.myhostadmin.net", 
+            "ns2.myhostadmin.net", 
+            "ns3.myhostadmin.net", 
+            "ns4.myhostadmin.net", 
+            "ns5.myhostadmin.net", 
+            "ns6.myhostadmin.net"
+        ], 
+        "domain-name": "uh-edu.com", 
+        "fuzzer": "various"
+    }
+]

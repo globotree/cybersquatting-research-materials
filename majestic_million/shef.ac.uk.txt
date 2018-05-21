@@ -1,0 +1,50 @@
+[
+    {
+        "dns-a": [
+            "143.167.2.102"
+        ], 
+        "dns-mx": [
+            "alt1.aspmx.l.google.com", 
+            "alt2.aspmx.l.google.com", 
+            "aspmx.l.google.com", 
+            "aspmx2.googlemail.com", 
+            "aspmx3.googlemail.com"
+        ], 
+        "dns-ns": [
+            "acheron.shef.ac.uk", 
+            "hippo.shef.ac.uk", 
+            "katheter.st-and.ac.uk"
+        ], 
+        "domain-name": "shef.ac.uk", 
+        "fuzzer": "original*", 
+        "geoip-country": "United Kingdom", 
+        "ssdeep-score": 100
+    }, 
+    {
+        "dns-mx": [
+            "s32.sfc.ac.uk", 
+            "s40.sfc.ac.uk"
+        ], 
+        "dns-ns": [
+            "cancer.ucs.ed.ac.uk", 
+            "dns0.doc.ic.ac.uk", 
+            "dns1.doc.ic.ac.uk", 
+            "extdns1.warwick.ac.uk", 
+            "extdns2.warwick.ac.uk"
+        ], 
+        "domain-name": "shefc.ac.uk", 
+        "fuzzer": "addition"
+    }, 
+    {
+        "dns-mx": [
+            "cluster-e.mailcontrol.com", 
+            "cluster-j.mailcontrol.com"
+        ], 
+        "dns-ns": [
+            "auth0.exponential-e.net", 
+            "auth1.exponential-e.net"
+        ], 
+        "domain-name": "shdf.ac.uk", 
+        "fuzzer": "bitsquatting"
+    }
+]

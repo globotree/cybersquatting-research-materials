@@ -1,0 +1,102 @@
+[
+    {
+        "dns-a": [
+            "54.225.96.63"
+        ], 
+        "dns-mx": [
+            "208-117-40-22.boardhost.com"
+        ], 
+        "dns-ns": [
+            "dns1.boardhost.com", 
+            "dns2.boardhost.com", 
+            "dns3.boardhost.com"
+        ], 
+        "domain-name": "boardhost.com", 
+        "fuzzer": "original*", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 100
+    }, 
+    {
+        "dns-a": [
+            "69.172.201.153"
+        ], 
+        "dns-ns": [
+            "ns1.uniregistrymarket.link", 
+            "ns2.uniregistrymarket.link"
+        ], 
+        "domain-name": "boardhosts.com", 
+        "fuzzer": "addition", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "66.55.82.190"
+        ], 
+        "dns-mx": [
+            "board-host.com"
+        ], 
+        "dns-ns": [
+            "ns1.hosthut.com", 
+            "ns2.hosthut.com"
+        ], 
+        "domain-name": "board-host.com", 
+        "fuzzer": "hyphenation", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "74.220.199.6"
+        ], 
+        "dns-mx": [
+            "boardghost.com"
+        ], 
+        "dns-ns": [
+            "ns1.bluehost.com", 
+            "ns2.bluehost.com"
+        ], 
+        "domain-name": "boardghost.com", 
+        "fuzzer": "insertion", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "108.167.137.112"
+        ], 
+        "dns-mx": [
+            "mail.boarhost.com"
+        ], 
+        "dns-ns": [
+            "ns139.ehosts.com", 
+            "ns140.ehosts.com"
+        ], 
+        "domain-name": "boarhost.com", 
+        "fuzzer": "omission", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "199.59.242.150"
+        ], 
+        "domain-name": "bo.ardhost.com", 
+        "fuzzer": "subdomain", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "209.99.17.23"
+        ], 
+        "dns-ns": [
+            "beardhost.earth.orderbox-dns.com", 
+            "beardhost.mars.orderbox-dns.com", 
+            "beardhost.mercury.orderbox-dns.com"
+        ], 
+        "domain-name": "beardhost.com", 
+        "fuzzer": "vowel-swap", 
+        "geoip-country": "United States"
+    }
+]

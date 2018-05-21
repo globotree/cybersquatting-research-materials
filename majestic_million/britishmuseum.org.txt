@@ -1,0 +1,95 @@
+[
+    {
+        "dns-a": [
+            "195.224.71.221"
+        ], 
+        "dns-mx": [
+            "smtp-external-a.ucl.ac.uk", 
+            "smtp-external-b.ucl.ac.uk"
+        ], 
+        "dns-ns": [
+            "ns-1437.awsdns-51.org", 
+            "ns-1557.awsdns-02.co.uk", 
+            "ns-391.awsdns-48.com", 
+            "ns-824.awsdns-39.net"
+        ], 
+        "domain-name": "britishmuseum.org", 
+        "fuzzer": "original*", 
+        "geoip-country": "United Kingdom"
+    }, 
+    {
+        "dns-a": [
+            "185.26.230.129"
+        ], 
+        "dns-mx": [
+            "relay1.netnames.net", 
+            "relay2.netnames.net"
+        ], 
+        "dns-ns": [
+            "ns1.netnames.net", 
+            "ns2.netnames.net"
+        ], 
+        "domain-name": "british-museum.org", 
+        "fuzzer": "hyphenation", 
+        "geoip-country": "United Kingdom"
+    }, 
+    {
+        "dns-a": [
+            "141.8.224.93"
+        ], 
+        "dns-ns": [
+            "ns7.rookdns.com", 
+            "ns8.rookdns.com"
+        ], 
+        "domain-name": "britishmueseum.org", 
+        "fuzzer": "insertion", 
+        "geoip-country": "Switzerland"
+    }, 
+    {
+        "dns-a": [
+            "185.53.178.7"
+        ], 
+        "dns-ns": [
+            "ns1.parkingcrew.net", 
+            "ns2.parkingcrew.net"
+        ], 
+        "domain-name": "britshmuseum.org", 
+        "fuzzer": "omission", 
+        "geoip-country": "Germany"
+    }, 
+    {
+        "dns-a": [
+            "72.52.179.175"
+        ], 
+        "dns-mx": [
+            "mx156.hostedmxserver.com"
+        ], 
+        "dns-ns": [
+            "ns1.parklogic.com", 
+            "ns2.parklogic.com", 
+            "ns3.parklogic.com", 
+            "ns4.parklogic.com", 
+            "ns5.parklogic.com"
+        ], 
+        "domain-name": "britishmusem.org", 
+        "fuzzer": "omission", 
+        "geoip-country": "United States", 
+        "mx-spy": true
+    }, 
+    {
+        "dns-a": [
+            "199.59.242.150"
+        ], 
+        "domain-name": "britishmu.seum.org", 
+        "fuzzer": "subdomain", 
+        "geoip-country": "United States"
+    }, 
+    {
+        "dns-a": [
+            "85.17.25.242"
+        ], 
+        "domain-name": "britishmus.eum.org", 
+        "fuzzer": "subdomain", 
+        "geoip-country": "Netherlands"
+    }
+]

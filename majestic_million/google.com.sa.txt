@@ -1,0 +1,38 @@
+[
+    {
+        "dns-a": [
+            "216.58.214.67"
+        ], 
+        "dns-aaaa": [
+            "2a00:1450:4001:811::2003"
+        ], 
+        "dns-mx": [
+            "google.com.s9a1.psmtp.com", 
+            "google.com.s9a2.psmtp.com", 
+            "google.com.s9b1.psmtp.com", 
+            "google.com.s9b2.psmtp.com"
+        ], 
+        "dns-ns": [
+            "ns1.google.com", 
+            "ns2.google.com", 
+            "ns3.google.com", 
+            "ns4.google.com"
+        ], 
+        "domain-name": "google.com.sa", 
+        "fuzzer": "original*", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 79
+    }, 
+    {
+        "dns-a": [
+            "63.124.14.82"
+        ], 
+        "dns-ns": [
+            "ns1.markmonitor.com", 
+            "ns3.markmonitor.com"
+        ], 
+        "domain-name": "google.sa", 
+        "fuzzer": "various", 
+        "geoip-country": "United States"
+    }
+]

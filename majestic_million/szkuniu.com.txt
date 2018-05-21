@@ -1,0 +1,53 @@
+[
+    {
+        "dns-a": [
+            "203.195.148.115"
+        ], 
+        "dns-mx": [
+            "mxbiz1.qq.com", 
+            "mxbiz2.qq.com"
+        ], 
+        "dns-ns": [
+            "ns3.dnsv4.com", 
+            "ns4.dnsv4.com"
+        ], 
+        "domain-name": "szkuniu.com", 
+        "fuzzer": "original*", 
+        "geoip-country": "China", 
+        "ssdeep-score": 100
+    }, 
+    {
+        "dns-ns": [
+            "a.dnspod.com", 
+            "b.dnspod.com", 
+            "c.dnspod.com"
+        ], 
+        "domain-name": "szkunyu.com", 
+        "fuzzer": "bitsquatting"
+    }, 
+    {
+        "dns-a": [
+            "110.173.196.1"
+        ], 
+        "dns-ns": [
+            "dns27.hichina.com", 
+            "dns28.hichina.com"
+        ], 
+        "domain-name": "szuniu.com", 
+        "fuzzer": "omission", 
+        "geoip-country": "China"
+    }, 
+    {
+        "dns-a": [
+            "146.71.39.241"
+        ], 
+        "dns-ns": [
+            "b.dnspod.com", 
+            "c.dnspod.com"
+        ], 
+        "domain-name": "zkuniu.com", 
+        "fuzzer": "omission", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 0
+    }
+]

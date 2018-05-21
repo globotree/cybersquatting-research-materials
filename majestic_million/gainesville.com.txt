@@ -1,0 +1,287 @@
+[
+    {
+        "dns-a": [
+            "52.0.160.83"
+        ], 
+        "dns-mx": [
+            "alt1.aspmx.l.google.com", 
+            "alt2.aspmx.l.google.com", 
+            "alt3.aspmx.l.google.com", 
+            "alt4.aspmx.l.google.com", 
+            "aspx.l.google.com"
+        ], 
+        "dns-ns": [
+            "ns-1526.awsdns-62.org", 
+            "ns-184.awsdns-23.com", 
+            "ns-1937.awsdns-50.co.uk", 
+            "ns-812.awsdns-37.net"
+        ], 
+        "domain-name": "gainesville.com", 
+        "fuzzer": "original*", 
+        "geoip-country": "United States"
+    }, 
+    {
+        "dns-a": [
+            "213.252.82.9"
+        ], 
+        "dns-mx": [
+            "mail.gainesvillee.com"
+        ], 
+        "dns-ns": [
+            "ns.gainesvillee.com", 
+            "ns2.gainesvillee.com"
+        ], 
+        "domain-name": "gainesvillee.com", 
+        "fuzzer": "addition", 
+        "geoip-country": "Russian Federation"
+    }, 
+    {
+        "dns-a": [
+            "208.91.197.194"
+        ], 
+        "dns-ns": [
+            "dns01.gpn.register.com", 
+            "dns02.gpn.register.com", 
+            "dns03.gpn.register.com", 
+            "dns04.gpn.register.com", 
+            "dns05.gpn.register.com"
+        ], 
+        "domain-name": "gainesvillei.com", 
+        "fuzzer": "addition", 
+        "geoip-country": "Virgin Islands"
+    }, 
+    {
+        "dns-a": [
+            "184.168.221.1"
+        ], 
+        "dns-mx": [
+            "mailstore1.secureserver.net", 
+            "smtp.secureserver.net"
+        ], 
+        "dns-ns": [
+            "ns43.domaincontrol.com", 
+            "ns44.domaincontrol.com"
+        ], 
+        "domain-name": "gainesvillen.com", 
+        "fuzzer": "addition", 
+        "geoip-country": "United States"
+    }, 
+    {
+        "dns-a": [
+            "50.63.202.39"
+        ], 
+        "dns-ns": [
+            "ns69.domaincontrol.com", 
+            "ns70.domaincontrol.com"
+        ], 
+        "domain-name": "gaimesville.com", 
+        "fuzzer": "homoglyph", 
+        "geoip-country": "United States"
+    }, 
+    {
+        "dns-a": [
+            "67.227.226.241"
+        ], 
+        "dns-mx": [
+            "mx174.mb5p.com"
+        ], 
+        "dns-ns": [
+            "ns1.parklogic.com", 
+            "ns2.parklogic.com", 
+            "ns3.parklogic.com", 
+            "ns4.parklogic.com", 
+            "ns5.parklogic.com"
+        ], 
+        "domain-name": "gainesvill.com", 
+        "fuzzer": "omission", 
+        "geoip-country": "United States", 
+        "mx-spy": true
+    }, 
+    {
+        "dns-a": [
+            "185.53.178.9"
+        ], 
+        "dns-mx": [
+            "mail.h-email.net"
+        ], 
+        "dns-ns": [
+            "ns1.parkingcrew.net", 
+            "ns2.parkingcrew.net"
+        ], 
+        "domain-name": "gainsville.com", 
+        "fuzzer": "omission", 
+        "geoip-country": "Germany", 
+        "mx-spy": true
+    }, 
+    {
+        "dns-a": [
+            "52.86.22.136", 
+            "54.174.212.152"
+        ], 
+        "dns-ns": [
+            "ns1.namebrightdns.com", 
+            "ns2.namebrightdns.com"
+        ], 
+        "domain-name": "gaineville.com", 
+        "fuzzer": "omission", 
+        "geoip-country": "United States"
+    }, 
+    {
+        "dns-a": [
+            "185.53.178.6"
+        ], 
+        "dns-mx": [
+            "mail.h-email.net"
+        ], 
+        "dns-ns": [
+            "ns1.parkingcrew.net", 
+            "ns2.parkingcrew.net"
+        ], 
+        "domain-name": "ginesville.com", 
+        "fuzzer": "omission", 
+        "geoip-country": "Germany", 
+        "mx-spy": true
+    }, 
+    {
+        "dns-a": [
+            "67.55.92.184", 
+            "67.55.92.187"
+        ], 
+        "dns-mx": [
+            "mx7.gainesvile.com"
+        ], 
+        "dns-ns": [
+            "ns1.liverealdeals.com", 
+            "ns2.liverealdeals.com"
+        ], 
+        "domain-name": "gainesvile.com", 
+        "fuzzer": "omission", 
+        "geoip-country": "United States"
+    }, 
+    {
+        "dns-a": [
+            "67.55.92.184", 
+            "67.55.92.187"
+        ], 
+        "dns-mx": [
+            "mx7.gainesvillle.com"
+        ], 
+        "dns-ns": [
+            "ns1.liverealdeals.com", 
+            "ns2.liverealdeals.com"
+        ], 
+        "domain-name": "gainesvillle.com", 
+        "fuzzer": "repetition", 
+        "geoip-country": "United States"
+    }, 
+    {
+        "dns-a": [
+            "68.178.213.61"
+        ], 
+        "dns-ns": [
+            "ns1.namefind.com", 
+            "ns2.namefind.com"
+        ], 
+        "domain-name": "bainesville.com", 
+        "fuzzer": "replacement", 
+        "geoip-country": "United States"
+    }, 
+    {
+        "dns-a": [
+            "209.17.116.160"
+        ], 
+        "dns-mx": [
+            "box5013.bluehost.com"
+        ], 
+        "dns-ns": [
+            "ns91.worldnic.com", 
+            "ns92.worldnic.com"
+        ], 
+        "domain-name": "hainesville.com", 
+        "fuzzer": "replacement"
+    }, 
+    {
+        "dns-a": [
+            "109.235.74.158"
+        ], 
+        "domain-name": "gai.nesville.com", 
+        "fuzzer": "subdomain", 
+        "geoip-country": "Netherlands"
+    }, 
+    {
+        "dns-a": [
+            "69.172.201.153"
+        ], 
+        "dns-ns": [
+            "ns1.uniregistrymarket.link", 
+            "ns2.uniregistrymarket.link"
+        ], 
+        "domain-name": "gaines.ville.com", 
+        "fuzzer": "subdomain", 
+        "geoip-country": "United States"
+    }, 
+    {
+        "dns-a": [
+            "69.172.201.153"
+        ], 
+        "dns-ns": [
+            "ns1.uniregistrymarket.link", 
+            "ns2.uniregistrymarket.link"
+        ], 
+        "domain-name": "gainesvi.lle.com", 
+        "fuzzer": "subdomain", 
+        "geoip-country": "United States"
+    }, 
+    {
+        "dns-a": [
+            "115.182.94.238"
+        ], 
+        "dns-mx": [
+            "lemail.le.com", 
+            "mail10.le.com", 
+            "mail3.le.com"
+        ], 
+        "domain-name": "gainesvil.le.com", 
+        "fuzzer": "subdomain"
+    }, 
+    {
+        "dns-a": [
+            "69.172.201.153"
+        ], 
+        "dns-ns": [
+            "ns1.uniregistrymarket.link", 
+            "ns2.uniregistrymarket.link"
+        ], 
+        "domain-name": "gianesville.com", 
+        "fuzzer": "transposition", 
+        "geoip-country": "United States"
+    }, 
+    {
+        "dns-a": [
+            "103.224.212.249"
+        ], 
+        "dns-mx": [
+            "park-mx.above.com"
+        ], 
+        "dns-ns": [
+            "ns3.above.com", 
+            "ns4.above.com"
+        ], 
+        "domain-name": "gaiensville.com", 
+        "fuzzer": "transposition", 
+        "geoip-country": "Australia", 
+        "mx-spy": true
+    }, 
+    {
+        "dns-a": [
+            "204.11.56.37"
+        ], 
+        "dns-ns": [
+            "ns1637.ztomy.com", 
+            "ns2637.ztomy.com"
+        ], 
+        "domain-name": "gainseville.com", 
+        "fuzzer": "transposition", 
+        "geoip-country": "Virgin Islands"
+    }
+]

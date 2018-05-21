@@ -1,0 +1,55 @@
+[
+    {
+        "dns-a": [
+            "195.254.146.9"
+        ], 
+        "dns-mx": [
+            "solferino.musee-orsay.fr"
+        ], 
+        "dns-ns": [
+            "a.dns.gandi.net", 
+            "b.dns.gandi.net", 
+            "c.dns.gandi.net"
+        ], 
+        "domain-name": "musee-orsay.fr", 
+        "fuzzer": "original*", 
+        "geoip-country": "France", 
+        "ssdeep-score": 100
+    }, 
+    {
+        "dns-a": [
+            "217.70.184.38"
+        ], 
+        "dns-mx": [
+            "fb.mail.gandi.net", 
+            "spool.mail.gandi.net"
+        ], 
+        "dns-ns": [
+            "a.dns.gandi.net", 
+            "b.dns.gandi.net", 
+            "c.dns.gandi.net"
+        ], 
+        "domain-name": "xn--muse-orsay-d7a.fr", 
+        "fuzzer": "homoglyph", 
+        "geoip-country": "France", 
+        "ssdeep-score": 100
+    }, 
+    {
+        "dns-a": [
+            "217.70.184.38"
+        ], 
+        "dns-mx": [
+            "fb.mail.gandi.net", 
+            "spool.mail.gandi.net"
+        ], 
+        "dns-ns": [
+            "a.dns.gandi.net", 
+            "b.dns.gandi.net", 
+            "c.dns.gandi.net"
+        ], 
+        "domain-name": "museeorsay.fr", 
+        "fuzzer": "omission", 
+        "geoip-country": "France", 
+        "ssdeep-score": 100
+    }
+]

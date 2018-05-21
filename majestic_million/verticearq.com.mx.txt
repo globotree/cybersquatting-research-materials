@@ -1,0 +1,63 @@
+[
+    {
+        "dns-a": [
+            "50.87.248.147"
+        ], 
+        "dns-mx": [
+            "verticearq.com.mx"
+        ], 
+        "dns-ns": [
+            "ns1.bluehost.com", 
+            "ns2.bluehost.com"
+        ], 
+        "domain-name": "verticearq.com.mx", 
+        "fuzzer": "original*", 
+        "geoip-country": "United States"
+    }, 
+    {
+        "dns-a": [
+            "192.64.147.150"
+        ], 
+        "dns-mx": [
+            "mail.rq.com.mx"
+        ], 
+        "dns-ns": [
+            "dns1.hospeda.mx", 
+            "dns2.hospeda.mx"
+        ], 
+        "domain-name": "verticea.rq.com.mx", 
+        "fuzzer": "subdomain", 
+        "geoip-country": "United States"
+    }, 
+    {
+        "dns-a": [
+            "72.52.4.119"
+        ], 
+        "dns-mx": [
+            "localhost"
+        ], 
+        "dns-ns": [
+            "ns1.sedoparking.com", 
+            "ns2.sedoparking.com"
+        ], 
+        "domain-name": "verticear.q.com.mx", 
+        "fuzzer": "subdomain", 
+        "geoip-country": "United States", 
+        "mx-spy": true
+    }, 
+    {
+        "dns-a": [
+            "200.58.101.200"
+        ], 
+        "dns-mx": [
+            "mail.verticearq.mx", 
+            "mx1.verticearq.mx"
+        ], 
+        "dns-ns": [
+            "ns3.hostmar.com", 
+            "ns4.hostmar.com"
+        ], 
+        "domain-name": "verticearq.mx", 
+        "fuzzer": "various"
+    }
+]

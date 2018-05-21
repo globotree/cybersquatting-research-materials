@@ -1,0 +1,50 @@
+[
+    {
+        "dns-a": [
+            "79.124.17.100"
+        ], 
+        "dns-mx": [
+            "ffbox0-bg.ffmpeg.org"
+        ], 
+        "dns-ns": [
+            "ns1.avcodec.org", 
+            "ns2.avcodec.org", 
+            "ns3.avcodec.org"
+        ], 
+        "domain-name": "ffmpeg.org", 
+        "fuzzer": "original*", 
+        "geoip-country": "Bulgaria", 
+        "ssdeep-score": 100
+    }, 
+    {
+        "dns-ns": [
+            "ns1.dreamhost.com", 
+            "ns2.dreamhost.com", 
+            "ns3.dreamhost.com"
+        ], 
+        "domain-name": "ffnpeg.org", 
+        "fuzzer": "homoglyph"
+    }, 
+    {
+        "dns-a": [
+            "54.72.9.51"
+        ], 
+        "dns-ns": [
+            "ns1.fastpark.net", 
+            "ns2.fastpark.net"
+        ], 
+        "domain-name": "ffm.peg.org", 
+        "fuzzer": "subdomain", 
+        "geoip-country": "Ireland", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "188.166.216.219"
+        ], 
+        "domain-name": "ffmpe.g.org", 
+        "fuzzer": "subdomain", 
+        "geoip-country": "Singapore", 
+        "ssdeep-score": 0
+    }
+]

@@ -1,0 +1,94 @@
+[
+    {
+        "dns-a": [
+            "64.112.236.27"
+        ], 
+        "dns-mx": [
+            "barracuda300.guardnet.com", 
+            "barracuda400.guardnet.com"
+        ], 
+        "dns-ns": [
+            "ns10.dnsmadeeasy.com", 
+            "ns11.dnsmadeeasy.com", 
+            "ns12.dnsmadeeasy.com", 
+            "ns13.dnsmadeeasy.com", 
+            "ns14.dnsmadeeasy.com", 
+            "ns15.dnsmadeeasy.com"
+        ], 
+        "domain-name": "registerguard.com", 
+        "fuzzer": "original*", 
+        "geoip-country": "United States"
+    }, 
+    {
+        "dns-a": [
+            "69.172.201.153"
+        ], 
+        "dns-ns": [
+            "ns1.uniregistrymarket.link", 
+            "ns2.uniregistrymarket.link"
+        ], 
+        "domain-name": "registarguard.com", 
+        "fuzzer": "bitsquatting", 
+        "geoip-country": "United States"
+    }, 
+    {
+        "dns-a": [
+            "98.124.245.24"
+        ], 
+        "dns-ns": [
+            "ns1.fabulous.com", 
+            "ns2.fabulous.com"
+        ], 
+        "domain-name": "registergard.com", 
+        "fuzzer": "omission", 
+        "geoip-country": "United States"
+    }, 
+    {
+        "dns-a": [
+            "72.52.4.119"
+        ], 
+        "dns-mx": [
+            "localhost"
+        ], 
+        "dns-ns": [
+            "ns1.sedoparking.com", 
+            "ns2.sedoparking.com"
+        ], 
+        "domain-name": "registe.rguard.com", 
+        "fuzzer": "subdomain", 
+        "geoip-country": "United States", 
+        "mx-spy": true
+    }, 
+    {
+        "dns-a": [
+            "216.157.88.22"
+        ], 
+        "domain-name": "registerg.uard.com", 
+        "fuzzer": "subdomain", 
+        "geoip-country": "United States"
+    }, 
+    {
+        "dns-a": [
+            "205.178.189.129"
+        ], 
+        "domain-name": "registergu.ard.com", 
+        "fuzzer": "subdomain", 
+        "geoip-country": "United States"
+    }, 
+    {
+        "dns-a": [
+            "103.224.182.253"
+        ], 
+        "dns-mx": [
+            "park-mx.above.com"
+        ], 
+        "dns-ns": [
+            "ns3.above.com", 
+            "ns4.above.com"
+        ], 
+        "domain-name": "registergaurd.com", 
+        "fuzzer": "transposition", 
+        "geoip-country": "Australia", 
+        "mx-spy": true
+    }
+]

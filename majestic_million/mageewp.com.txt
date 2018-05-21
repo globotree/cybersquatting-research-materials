@@ -1,0 +1,80 @@
+[
+    {
+        "dns-a": [
+            "69.164.204.38"
+        ], 
+        "dns-aaaa": [
+            "2600:3c00::f03c:91ff:fe86:9dc"
+        ], 
+        "dns-mx": [
+            "mailstore1.secureserver.net", 
+            "smtp.secureserver.net"
+        ], 
+        "dns-ns": [
+            "ns1.linode.com", 
+            "ns2.linode.com", 
+            "ns3.linode.com", 
+            "ns4.linode.com", 
+            "ns5.linode.com"
+        ], 
+        "domain-name": "mageewp.com", 
+        "fuzzer": "original*", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 100
+    }, 
+    {
+        "dns-a": [
+            "168.144.189.129"
+        ], 
+        "dns-mx": [
+            "mail.mageep.com"
+        ], 
+        "dns-ns": [
+            "ns3.softcomca.com", 
+            "ns4.softcomca.com"
+        ], 
+        "domain-name": "mageep.com", 
+        "fuzzer": "omission", 
+        "geoip-country": "Canada", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "50.87.248.237"
+        ], 
+        "domain-name": "mag.eewp.com", 
+        "fuzzer": "subdomain", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "69.172.201.153"
+        ], 
+        "dns-ns": [
+            "ns1.uniregistrymarket.link", 
+            "ns2.uniregistrymarket.link"
+        ], 
+        "domain-name": "mage.ewp.com", 
+        "fuzzer": "subdomain", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "192.0.78.24", 
+            "192.0.78.25"
+        ], 
+        "dns-mx": [
+            "mx1.bur.wordpress.com", 
+            "mx1.dfw.wordpress.com"
+        ], 
+        "dns-ns": [
+            "ns1.automattic.com", 
+            "ns2.automattic.com", 
+            "ns3.automattic.com"
+        ], 
+        "domain-name": "magee.wp.com", 
+        "fuzzer": "subdomain"
+    }
+]

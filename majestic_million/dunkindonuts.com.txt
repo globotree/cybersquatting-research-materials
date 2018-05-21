@@ -1,0 +1,814 @@
+[
+    {
+        "dns-a": [
+            "34.224.255.56", 
+            "52.4.151.146"
+        ], 
+        "dns-mx": [
+            "dunkindonuts.com.s8a1.psmtp.com", 
+            "dunkindonuts.com.s8a2.psmtp.com", 
+            "dunkindonuts.com.s8b1.psmtp.com", 
+            "dunkindonuts.com.s8b2.psmtp.com"
+        ], 
+        "dns-ns": [
+            "ns-1463.awsdns-54.org", 
+            "ns-1876.awsdns-42.co.uk", 
+            "ns-271.awsdns-33.com", 
+            "ns-727.awsdns-26.net"
+        ], 
+        "domain-name": "dunkindonuts.com", 
+        "fuzzer": "original*", 
+        "geoip-country": "United States"
+    }, 
+    {
+        "dns-a": [
+            "184.168.221.7"
+        ], 
+        "dns-mx": [
+            "mailstore1.secureserver.net", 
+            "smtp.secureserver.net"
+        ], 
+        "dns-ns": [
+            "ns21.domaincontrol.com", 
+            "ns22.domaincontrol.com"
+        ], 
+        "domain-name": "dunkindonutss.com", 
+        "fuzzer": "addition", 
+        "geoip-country": "United States"
+    }, 
+    {
+        "dns-a": [
+            "95.211.219.66"
+        ], 
+        "dns-ns": [
+            "ns1.hastydns.com", 
+            "ns2.hastydns.com"
+        ], 
+        "domain-name": "duncindonuts.com", 
+        "fuzzer": "bitsquatting", 
+        "geoip-country": "Netherlands"
+    }, 
+    {
+        "dns-a": [
+            "184.168.221.104"
+        ], 
+        "dns-ns": [
+            "ns1.afternic.com", 
+            "ns2.afternic.com"
+        ], 
+        "domain-name": "dunkinfonuts.com", 
+        "fuzzer": "bitsquatting", 
+        "geoip-country": "United States"
+    }, 
+    {
+        "dns-a": [
+            "54.72.9.51"
+        ], 
+        "dns-ns": [
+            "ns1.parkingcrew.net", 
+            "ns2.parkingcrew.net"
+        ], 
+        "domain-name": "dunkindonets.com", 
+        "fuzzer": "bitsquatting", 
+        "geoip-country": "Ireland"
+    }, 
+    {
+        "dns-a": [
+            "165.160.13.20", 
+            "165.160.15.20"
+        ], 
+        "dns-mx": [
+            "custmx.cscdns.net"
+        ], 
+        "dns-ns": [
+            "dns1.cscdns.net", 
+            "dns2.cscdns.net"
+        ], 
+        "domain-name": "diunkindonuts.com", 
+        "fuzzer": "homoglyph", 
+        "geoip-country": "United States", 
+        "mx-spy": true
+    }, 
+    {
+        "dns-a": [
+            "67.55.121.97"
+        ], 
+        "dns-ns": [
+            "ns1.dunkinbonuts.com", 
+            "ns2.dunkinbonuts.com"
+        ], 
+        "domain-name": "dunkinbonuts.com", 
+        "fuzzer": "homoglyph", 
+        "geoip-country": "United States"
+    }, 
+    {
+        "dns-a": [
+            "165.160.13.20", 
+            "165.160.15.20"
+        ], 
+        "dns-mx": [
+            "custmx.cscdns.net"
+        ], 
+        "dns-ns": [
+            "dns1.cscdns.net", 
+            "dns2.cscdns.net"
+        ], 
+        "domain-name": "dumkindonuts.com", 
+        "fuzzer": "homoglyph", 
+        "geoip-country": "United States", 
+        "mx-spy": true
+    }, 
+    {
+        "dns-a": [
+            "185.53.178.8"
+        ], 
+        "dns-ns": [
+            "ns1.parkingcrew.net", 
+            "ns2.parkingcrew.net"
+        ], 
+        "domain-name": "dunkindomuts.com", 
+        "fuzzer": "homoglyph", 
+        "geoip-country": "Germany"
+    }, 
+    {
+        "dns-a": [
+            "208.73.210.202", 
+            "208.73.210.217", 
+            "208.73.211.165", 
+            "208.73.211.177"
+        ], 
+        "dns-ns": [
+            "ns1.dsredirection.com", 
+            "ns2.dsredirection.com"
+        ], 
+        "domain-name": "dunkin-donuts.com", 
+        "fuzzer": "hyphenation", 
+        "geoip-country": "United States"
+    }, 
+    {
+        "dns-a": [
+            "50.63.202.65"
+        ], 
+        "dns-ns": [
+            "ns27.domaincontrol.com", 
+            "ns28.domaincontrol.com"
+        ], 
+        "domain-name": "dunkindronuts.com", 
+        "fuzzer": "insertion", 
+        "geoip-country": "United States"
+    }, 
+    {
+        "dns-a": [
+            "85.17.25.242"
+        ], 
+        "dns-ns": [
+            "ns1.smtmdns.com", 
+            "ns2.smtmdns.com"
+        ], 
+        "domain-name": "dunkinsdonuts.com", 
+        "fuzzer": "insertion", 
+        "geoip-country": "Netherlands"
+    }, 
+    {
+        "dns-a": [
+            "165.160.13.20", 
+            "165.160.15.20"
+        ], 
+        "dns-mx": [
+            "custmx.cscdns.net"
+        ], 
+        "dns-ns": [
+            "dns1.cscdns.net", 
+            "dns2.cscdns.net"
+        ], 
+        "domain-name": "dunkkindonuts.com", 
+        "fuzzer": "insertion", 
+        "geoip-country": "United States", 
+        "mx-spy": true
+    }, 
+    {
+        "dns-a": [
+            "165.160.13.20", 
+            "165.160.15.20"
+        ], 
+        "dns-mx": [
+            "custmx.cscdns.net"
+        ], 
+        "dns-ns": [
+            "dns1.cscdns.net", 
+            "dns2.cscdns.net"
+        ], 
+        "domain-name": "dunkiindonuts.com", 
+        "fuzzer": "insertion", 
+        "geoip-country": "United States", 
+        "mx-spy": true
+    }, 
+    {
+        "dns-a": [
+            "184.168.221.104"
+        ], 
+        "dns-ns": [
+            "ns1.afternic.com", 
+            "ns2.afternic.com"
+        ], 
+        "domain-name": "dnkindonuts.com", 
+        "fuzzer": "omission", 
+        "geoip-country": "United States"
+    }, 
+    {
+        "dns-mx": [
+            "localhost"
+        ], 
+        "dns-ns": [
+            "ns1.sedoparking.com", 
+            "ns2.sedoparking.com"
+        ], 
+        "domain-name": "dunkindonut.com", 
+        "fuzzer": "omission", 
+        "mx-spy": true
+    }, 
+    {
+        "dns-a": [
+            "165.160.13.20", 
+            "165.160.15.20"
+        ], 
+        "dns-mx": [
+            "custmx.cscdns.net"
+        ], 
+        "dns-ns": [
+            "dns1.cscdns.net", 
+            "dns2.cscdns.net"
+        ], 
+        "domain-name": "dunkindonts.com", 
+        "fuzzer": "omission", 
+        "geoip-country": "United States", 
+        "mx-spy": true
+    }, 
+    {
+        "dns-a": [
+            "78.41.204.29"
+        ], 
+        "dns-ns": [
+            "ns1.torresdns.com", 
+            "ns2.torresdns.com"
+        ], 
+        "domain-name": "dunkidonuts.com", 
+        "fuzzer": "omission", 
+        "geoip-country": "Netherlands"
+    }, 
+    {
+        "dns-a": [
+            "78.41.204.28"
+        ], 
+        "dns-ns": [
+            "ns1.torresdns.com", 
+            "ns2.torresdns.com"
+        ], 
+        "domain-name": "dunkndonuts.com", 
+        "fuzzer": "omission", 
+        "geoip-country": "Netherlands"
+    }, 
+    {
+        "dns-a": [
+            "45.35.123.129"
+        ], 
+        "dns-ns": [
+            "a.dnspod.com", 
+            "b.dnspod.com", 
+            "c.dnspod.com"
+        ], 
+        "domain-name": "dunkinonuts.com", 
+        "fuzzer": "omission", 
+        "geoip-country": "United States"
+    }, 
+    {
+        "dns-a": [
+            "141.8.224.93"
+        ], 
+        "dns-ns": [
+            "ns7.rookdns.com", 
+            "ns8.rookdns.com"
+        ], 
+        "domain-name": "dunindonuts.com", 
+        "fuzzer": "omission", 
+        "geoip-country": "Switzerland"
+    }, 
+    {
+        "dns-a": [
+            "165.160.13.20", 
+            "165.160.15.20"
+        ], 
+        "dns-mx": [
+            "custmx.cscdns.net"
+        ], 
+        "dns-ns": [
+            "dns1.cscdns.net", 
+            "dns2.cscdns.net"
+        ], 
+        "domain-name": "dunkindonus.com", 
+        "fuzzer": "omission", 
+        "geoip-country": "United States", 
+        "mx-spy": true
+    }, 
+    {
+        "dns-a": [
+            "185.53.179.8"
+        ], 
+        "dns-mx": [
+            "mail.h-email.net"
+        ], 
+        "dns-ns": [
+            "ns1.parkingcrew.net", 
+            "ns2.parkingcrew.net"
+        ], 
+        "domain-name": "dunkindnuts.com", 
+        "fuzzer": "omission", 
+        "geoip-country": "Germany", 
+        "mx-spy": true
+    }, 
+    {
+        "dns-a": [
+            "103.224.212.222"
+        ], 
+        "dns-mx": [
+            "park-mx.above.com"
+        ], 
+        "dns-ns": [
+            "ns1.above.com", 
+            "ns2.above.com"
+        ], 
+        "domain-name": "dukindonuts.com", 
+        "fuzzer": "omission", 
+        "geoip-country": "Australia", 
+        "mx-spy": true
+    }, 
+    {
+        "dns-a": [
+            "184.168.221.104"
+        ], 
+        "dns-ns": [
+            "ns1.afternic.com", 
+            "ns2.afternic.com"
+        ], 
+        "domain-name": "unkindonuts.com", 
+        "fuzzer": "omission", 
+        "geoip-country": "United States"
+    }, 
+    {
+        "dns-a": [
+            "165.160.13.20", 
+            "165.160.15.20"
+        ], 
+        "dns-mx": [
+            "custmx.cscdns.net"
+        ], 
+        "dns-ns": [
+            "dns1.cscdns.net", 
+            "dns2.cscdns.net"
+        ], 
+        "domain-name": "dunkindonuuts.com", 
+        "fuzzer": "repetition", 
+        "geoip-country": "United States", 
+        "mx-spy": true
+    }, 
+    {
+        "dns-a": [
+            "165.160.13.20", 
+            "165.160.15.20"
+        ], 
+        "dns-mx": [
+            "custmx.cscdns.net"
+        ], 
+        "dns-ns": [
+            "dns1.cscdns.net", 
+            "dns2.cscdns.net"
+        ], 
+        "domain-name": "dunkindonutts.com", 
+        "fuzzer": "repetition", 
+        "geoip-country": "United States", 
+        "mx-spy": true
+    }, 
+    {
+        "dns-a": [
+            "165.160.13.20", 
+            "165.160.15.20"
+        ], 
+        "dns-mx": [
+            "custmx.cscdns.net"
+        ], 
+        "dns-ns": [
+            "dns1.cscdns.net", 
+            "dns2.cscdns.net"
+        ], 
+        "domain-name": "dunkindonnuts.com", 
+        "fuzzer": "repetition", 
+        "geoip-country": "United States", 
+        "mx-spy": true
+    }, 
+    {
+        "dns-a": [
+            "165.160.13.20", 
+            "165.160.15.20"
+        ], 
+        "dns-mx": [
+            "custmx.cscdns.net"
+        ], 
+        "dns-ns": [
+            "dns1.cscdns.net", 
+            "dns2.cscdns.net"
+        ], 
+        "domain-name": "dunnkindonuts.com", 
+        "fuzzer": "repetition", 
+        "geoip-country": "United States", 
+        "mx-spy": true
+    }, 
+    {
+        "dns-a": [
+            "165.160.13.20", 
+            "165.160.15.20"
+        ], 
+        "dns-mx": [
+            "custmx.cscdns.net"
+        ], 
+        "dns-ns": [
+            "dns1.cscdns.net", 
+            "dns2.cscdns.net"
+        ], 
+        "domain-name": "duunkindonuts.com", 
+        "fuzzer": "repetition", 
+        "geoip-country": "United States", 
+        "mx-spy": true
+    }, 
+    {
+        "dns-a": [
+            "165.160.13.20", 
+            "165.160.15.20"
+        ], 
+        "dns-mx": [
+            "custmx.cscdns.net"
+        ], 
+        "dns-ns": [
+            "dns1.cscdns.net", 
+            "dns2.cscdns.net"
+        ], 
+        "domain-name": "dunkinndonuts.com", 
+        "fuzzer": "repetition", 
+        "geoip-country": "United States", 
+        "mx-spy": true
+    }, 
+    {
+        "dns-a": [
+            "165.160.13.20", 
+            "165.160.15.20"
+        ], 
+        "dns-mx": [
+            "custmx.cscdns.net"
+        ], 
+        "dns-ns": [
+            "dns1.cscdns.net", 
+            "dns2.cscdns.net"
+        ], 
+        "domain-name": "dunkundonuts.com", 
+        "fuzzer": "replacement", 
+        "geoip-country": "United States", 
+        "mx-spy": true
+    }, 
+    {
+        "dns-a": [
+            "185.53.178.6"
+        ], 
+        "dns-mx": [
+            "mail.h-email.net"
+        ], 
+        "dns-ns": [
+            "ns1.parkingcrew.net", 
+            "ns2.parkingcrew.net"
+        ], 
+        "domain-name": "dunkindonyts.com", 
+        "fuzzer": "replacement", 
+        "geoip-country": "Germany", 
+        "mx-spy": true
+    }, 
+    {
+        "dns-a": [
+            "165.160.13.20", 
+            "165.160.15.20"
+        ], 
+        "dns-mx": [
+            "custmx.cscdns.net"
+        ], 
+        "dns-ns": [
+            "dns1.cscdns.net", 
+            "dns2.cscdns.net"
+        ], 
+        "domain-name": "dunkindonuta.com", 
+        "fuzzer": "replacement", 
+        "geoip-country": "United States", 
+        "mx-spy": true
+    }, 
+    {
+        "dns-a": [
+            "165.160.13.20", 
+            "165.160.15.20"
+        ], 
+        "dns-mx": [
+            "custmx.cscdns.net"
+        ], 
+        "dns-ns": [
+            "dns1.cscdns.net", 
+            "dns2.cscdns.net"
+        ], 
+        "domain-name": "dunkindonurs.com", 
+        "fuzzer": "replacement", 
+        "geoip-country": "United States", 
+        "mx-spy": true
+    }, 
+    {
+        "dns-a": [
+            "165.160.13.20", 
+            "165.160.15.20"
+        ], 
+        "dns-mx": [
+            "custmx.cscdns.net"
+        ], 
+        "dns-ns": [
+            "dns1.cscdns.net", 
+            "dns2.cscdns.net"
+        ], 
+        "domain-name": "dunkindonute.com", 
+        "fuzzer": "replacement", 
+        "geoip-country": "United States", 
+        "mx-spy": true
+    }, 
+    {
+        "dns-a": [
+            "165.160.13.20", 
+            "165.160.15.20"
+        ], 
+        "dns-mx": [
+            "custmx.cscdns.net"
+        ], 
+        "dns-ns": [
+            "dns1.cscdns.net", 
+            "dns2.cscdns.net"
+        ], 
+        "domain-name": "dunkindonutd.com", 
+        "fuzzer": "replacement", 
+        "geoip-country": "United States", 
+        "mx-spy": true
+    }, 
+    {
+        "dns-a": [
+            "184.168.221.104"
+        ], 
+        "dns-ns": [
+            "ns1.afternic.com", 
+            "ns2.afternic.com"
+        ], 
+        "domain-name": "dunkindobuts.com", 
+        "fuzzer": "replacement", 
+        "geoip-country": "United States"
+    }, 
+    {
+        "dns-a": [
+            "199.191.50.142"
+        ], 
+        "dns-ns": [
+            "ns111442.ztomy.com", 
+            "ns211442.ztomy.com"
+        ], 
+        "domain-name": "dunkindonjts.com", 
+        "fuzzer": "replacement", 
+        "geoip-country": "Virgin Islands"
+    }, 
+    {
+        "dns-a": [
+            "85.17.25.202"
+        ], 
+        "dns-ns": [
+            "ns1.smtmdns.com", 
+            "ns2.smtmdns.com"
+        ], 
+        "domain-name": "dunkindonits.com", 
+        "fuzzer": "replacement", 
+        "geoip-country": "Netherlands"
+    }, 
+    {
+        "dns-a": [
+            "208.91.196.105"
+        ], 
+        "dns-ns": [
+            "sk.s5.cm.ns1.39.ztomy.com", 
+            "sk.s5.cm.ns2.39.ztomy.com"
+        ], 
+        "domain-name": "dinkindonuts.com", 
+        "fuzzer": "replacement", 
+        "geoip-country": "Virgin Islands"
+    }, 
+    {
+        "dns-a": [
+            "78.41.204.28"
+        ], 
+        "dns-ns": [
+            "ns1.torresdns.com", 
+            "ns2.torresdns.com"
+        ], 
+        "domain-name": "dunkindinuts.com", 
+        "fuzzer": "replacement", 
+        "geoip-country": "Netherlands"
+    }, 
+    {
+        "dns-a": [
+            "95.211.117.215"
+        ], 
+        "dns-ns": [
+            "ns1.hastydns.com", 
+            "ns2.hastydns.com"
+        ], 
+        "domain-name": "dunlindonuts.com", 
+        "fuzzer": "replacement", 
+        "geoip-country": "Netherlands"
+    }, 
+    {
+        "dns-a": [
+            "50.63.202.88"
+        ], 
+        "dns-ns": [
+            "ns31.domaincontrol.com", 
+            "ns32.domaincontrol.com"
+        ], 
+        "domain-name": "dubkindonuts.com", 
+        "fuzzer": "replacement", 
+        "geoip-country": "United States"
+    }, 
+    {
+        "dns-a": [
+            "184.168.221.104"
+        ], 
+        "dns-ns": [
+            "ns1.afternic.com", 
+            "ns2.afternic.com"
+        ], 
+        "domain-name": "dunkindonuys.com", 
+        "fuzzer": "replacement", 
+        "geoip-country": "United States"
+    }, 
+    {
+        "dns-a": [
+            "50.63.202.90"
+        ], 
+        "dns-ns": [
+            "ns31.domaincontrol.com", 
+            "ns32.domaincontrol.com"
+        ], 
+        "domain-name": "dunkinconuts.com", 
+        "fuzzer": "replacement", 
+        "geoip-country": "United States"
+    }, 
+    {
+        "dns-a": [
+            "104.200.22.130", 
+            "104.200.23.95"
+        ], 
+        "dns-mx": [
+            "mail.mxproc.com"
+        ], 
+        "dns-ns": [
+            "ns1.mytrafficmanagement.com", 
+            "ns2.mytrafficmanagement.com"
+        ], 
+        "domain-name": "dunkinsonuts.com", 
+        "fuzzer": "replacement", 
+        "geoip-country": "United States", 
+        "mx-spy": true
+    }, 
+    {
+        "dns-a": [
+            "184.168.221.104"
+        ], 
+        "dns-ns": [
+            "ns1.afternic.com", 
+            "ns2.afternic.com"
+        ], 
+        "domain-name": "sunkindonuts.com", 
+        "fuzzer": "replacement", 
+        "geoip-country": "United States"
+    }, 
+    {
+        "dns-a": [
+            "184.168.221.104"
+        ], 
+        "dns-ns": [
+            "ns1.afternic.com", 
+            "ns2.afternic.com"
+        ], 
+        "domain-name": "d.unkindonuts.com", 
+        "fuzzer": "subdomain", 
+        "geoip-country": "United States"
+    }, 
+    {
+        "dns-a": [
+            "69.172.201.153"
+        ], 
+        "dns-ns": [
+            "ns1.uniregistrymarket.link", 
+            "ns2.uniregistrymarket.link"
+        ], 
+        "domain-name": "dunkin.donuts.com", 
+        "fuzzer": "subdomain", 
+        "geoip-country": "United States"
+    }, 
+    {
+        "dns-a": [
+            "69.172.201.153"
+        ], 
+        "domain-name": "dunkind.onuts.com", 
+        "fuzzer": "subdomain", 
+        "geoip-country": "United States"
+    }, 
+    {
+        "dns-mx": [
+            "custmx.cscdns.net"
+        ], 
+        "dns-ns": [
+            "dns1.cscdns.net", 
+            "dns2.cscdns.net"
+        ], 
+        "domain-name": "dunkindounts.com", 
+        "fuzzer": "transposition"
+    }, 
+    {
+        "dns-a": [
+            "81.171.22.5"
+        ], 
+        "dns-ns": [
+            "ns1.koaladns.com", 
+            "ns2.koaladns.com"
+        ], 
+        "domain-name": "donkindonuts.com", 
+        "fuzzer": "vowel-swap", 
+        "geoip-country": "Netherlands"
+    }, 
+    {
+        "dns-a": [
+            "184.168.221.2"
+        ], 
+        "dns-mx": [
+            "mailstore1.secureserver.net", 
+            "smtp.secureserver.net"
+        ], 
+        "dns-ns": [
+            "ns65.domaincontrol.com", 
+            "ns66.domaincontrol.com"
+        ], 
+        "domain-name": "dankindonuts.com", 
+        "fuzzer": "vowel-swap", 
+        "geoip-country": "United States"
+    }, 
+    {
+        "dns-a": [
+            "103.224.182.212"
+        ], 
+        "dns-mx": [
+            "park-mx.above.com"
+        ], 
+        "dns-ns": [
+            "ns1.above.com", 
+            "ns2.above.com"
+        ], 
+        "domain-name": "dunkindunuts.com", 
+        "fuzzer": "vowel-swap"
+    }, 
+    {
+        "dns-ns": [
+            "dns1.cscdns.net", 
+            "dns2.cscdns.net"
+        ], 
+        "domain-name": "dunkendonuts.com", 
+        "fuzzer": "vowel-swap"
+    }, 
+    {
+        "dns-a": [
+            "95.211.219.66"
+        ], 
+        "dns-ns": [
+            "ns1.hastydns.com", 
+            "ns2.hastydns.com"
+        ], 
+        "domain-name": "dunkindonots.com", 
+        "fuzzer": "vowel-swap", 
+        "geoip-country": "Netherlands"
+    }, 
+    {
+        "dns-a": [
+            "95.211.117.215"
+        ], 
+        "dns-ns": [
+            "ns1.hastydns.com", 
+            "ns2.hastydns.com"
+        ], 
+        "domain-name": "dunkindonats.com", 
+        "fuzzer": "vowel-swap", 
+        "geoip-country": "Netherlands"
+    }
+]

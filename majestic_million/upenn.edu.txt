@@ -1,0 +1,36 @@
+[
+    {
+        "dns-a": [
+            "130.91.210.133"
+        ], 
+        "dns-mx": [
+            "cluster5.us.messagelabs.com", 
+            "cluster5a.us.messagelabs.com"
+        ], 
+        "dns-ns": [
+            "adns1.upenn.edu", 
+            "adns2.upenn.edu", 
+            "adns3.upenn.edu", 
+            "dns1.udel.edu", 
+            "dns2.udel.edu", 
+            "sns-pb.isc.org"
+        ], 
+        "domain-name": "upenn.edu", 
+        "fuzzer": "original*", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 100
+    }, 
+    {
+        "dns-mx": [
+            "nisc.net.isc.upenn.edu"
+        ], 
+        "dns-ns": [
+            "adns1.upenn.edu", 
+            "adns2.upenn.edu", 
+            "adns3.upenn.edu", 
+            "sns-pb.isc.org"
+        ], 
+        "domain-name": "penn.edu", 
+        "fuzzer": "omission"
+    }
+]

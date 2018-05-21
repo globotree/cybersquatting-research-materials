@@ -1,0 +1,130 @@
+[
+    {
+        "dns-a": [
+            "132.208.246.6"
+        ], 
+        "dns-mx": [
+            "mail2.uqam.ca", 
+            "mail3.uqam.ca", 
+            "zuqam-ca.mail.protection.outlook.com"
+        ], 
+        "dns-ns": [
+            "ns1.uqam.ca", 
+            "ns4.uqam.ca"
+        ], 
+        "domain-name": "uqam.ca", 
+        "fuzzer": "original*", 
+        "geoip-country": "Canada", 
+        "ssdeep-score": 99
+    }, 
+    {
+        "dns-a": [
+            "216.40.47.17"
+        ], 
+        "dns-ns": [
+            "ns1.mdnsservice.com", 
+            "ns2.mdnsservice.com", 
+            "ns3.mdnsservice.com"
+        ], 
+        "domain-name": "uqan.ca", 
+        "fuzzer": "homoglyph", 
+        "geoip-country": "Canada"
+    }, 
+    {
+        "dns-a": [
+            "185.53.178.7"
+        ], 
+        "dns-mx": [
+            "mail.h-email.net"
+        ], 
+        "dns-ns": [
+            "ns1.parkingcrew.net", 
+            "ns2.parkingcrew.net"
+        ], 
+        "domain-name": "ugam.ca", 
+        "fuzzer": "homoglyph", 
+        "geoip-country": "Germany", 
+        "mx-spy": true, 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "158.85.87.76"
+        ], 
+        "dns-mx": [
+            "mail.qam.ca"
+        ], 
+        "dns-ns": [
+            "slns1.namespro.ca", 
+            "slns2.namespro.ca"
+        ], 
+        "domain-name": "qam.ca", 
+        "fuzzer": "omission", 
+        "geoip-country": "Canada", 
+        "mx-spy": true, 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "103.224.182.239"
+        ], 
+        "dns-mx": [
+            "park-mx.above.com"
+        ], 
+        "dns-ns": [
+            "ns1.above.com", 
+            "ns2.above.com"
+        ], 
+        "domain-name": "uqm.ca", 
+        "fuzzer": "omission", 
+        "geoip-country": "Australia", 
+        "mx-spy": true, 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "64.182.91.176"
+        ], 
+        "dns-ns": [
+            "ns1.bonfiredev.ca", 
+            "ns2.bonfiredev.ca"
+        ], 
+        "domain-name": "uqa.ca", 
+        "fuzzer": "omission", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "208.73.210.202", 
+            "208.73.210.217", 
+            "208.73.211.165", 
+            "208.73.211.177"
+        ], 
+        "dns-ns": [
+            "ns1.dsredirection.com", 
+            "ns2.dsredirection.com"
+        ], 
+        "domain-name": "uam.ca", 
+        "fuzzer": "omission", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "199.59.242.150"
+        ], 
+        "dns-mx": [
+            "mx76.m2bp.com", 
+            "mx76.mb1p.com"
+        ], 
+        "dns-ns": [
+            "ns1.bodis.com", 
+            "ns2.bodis.com"
+        ], 
+        "domain-name": "quam.ca", 
+        "fuzzer": "transposition", 
+        "geoip-country": "United States", 
+        "mx-spy": true
+    }
+]

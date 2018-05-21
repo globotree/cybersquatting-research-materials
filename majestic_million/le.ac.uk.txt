@@ -1,0 +1,68 @@
+[
+    {
+        "dns-a": [
+            "143.210.133.220"
+        ], 
+        "dns-mx": [
+            "mailin1.le.ac.uk", 
+            "mailin2.le.ac.uk", 
+            "mailin3.le.ac.uk", 
+            "mailin4.le.ac.uk"
+        ], 
+        "dns-ns": [
+            "adns0.bath.ac.uk", 
+            "ns0.le.ac.uk", 
+            "ns1.le.ac.uk", 
+            "ns2.le.ac.uk", 
+            "sns-pb.isc.org"
+        ], 
+        "domain-name": "le.ac.uk", 
+        "fuzzer": "original*", 
+        "geoip-country": "United Kingdom", 
+        "ssdeep-score": 100
+    }, 
+    {
+        "dns-a": [
+            "78.109.168.63"
+        ], 
+        "dns-mx": [
+            "lec-ac-uk.mail.protection.outlook.com"
+        ], 
+        "dns-ns": [
+            "lcdns1.leicestercollege.ac.uk", 
+            "lcdns2.leicestercollege.ac.uk", 
+            "ns3.ja.net"
+        ], 
+        "domain-name": "lec.ac.uk", 
+        "fuzzer": "addition", 
+        "geoip-country": "United Kingdom"
+    }, 
+    {
+        "dns-a": [
+            "185.24.99.98"
+        ], 
+        "dns-ns": [
+            "ns1.ic.ac.uk", 
+            "ns2.ic.ac.uk"
+        ], 
+        "domain-name": "lz.ac.uk", 
+        "fuzzer": "replacement", 
+        "geoip-country": "United Kingdom"
+    }, 
+    {
+        "dns-a": [
+            "109.239.101.62"
+        ], 
+        "dns-mx": [
+            "mail.any-mail.com", 
+            "mail.any-mail.com"
+        ], 
+        "dns-ns": [
+            "ns01.any-dns.co.uk", 
+            "ns02.any-dns.co.uk"
+        ], 
+        "domain-name": "le.uk", 
+        "fuzzer": "various", 
+        "geoip-country": "United Kingdom"
+    }
+]

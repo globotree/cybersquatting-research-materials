@@ -1,0 +1,83 @@
+[
+    {
+        "dns-a": [
+            "104.27.128.126", 
+            "104.27.129.126"
+        ], 
+        "dns-aaaa": [
+            "2400:cb00:2048:1::681b:807e", 
+            "2400:cb00:2048:1::681b:817e"
+        ], 
+        "dns-ns": [
+            "cheryl.ns.cloudflare.com", 
+            "lee.ns.cloudflare.com"
+        ], 
+        "domain-name": "xblog.in", 
+        "fuzzer": "original*", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 100
+    }, 
+    {
+        "dns-mx": [
+            "o.mx.zblog.in", 
+            "p.mx.zblog.in"
+        ], 
+        "dns-ns": [
+            "o.ns.blog.com", 
+            "p.ns.blog.com"
+        ], 
+        "domain-name": "zblog.in", 
+        "fuzzer": "bitsquatting"
+    }, 
+    {
+        "dns-a": [
+            "209.99.40.222"
+        ], 
+        "dns-ns": [
+            "dns10.parkpage.foundationapi.com", 
+            "dns9.parkpage.foundationapi.com"
+        ], 
+        "domain-name": "pblog.in", 
+        "fuzzer": "bitsquatting", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "69.44.159.41"
+        ], 
+        "dns-ns": [
+            "999999999.earth.orderbox-dns.com", 
+            "999999999.mars.orderbox-dns.com", 
+            "999999999.mercury.orderbox-dns.com", 
+            "999999999.venus.orderbox-dns.com"
+        ], 
+        "domain-name": "blog.in", 
+        "fuzzer": "omission", 
+        "geoip-country": "United States"
+    }, 
+    {
+        "dns-a": [
+            "88.198.26.13"
+        ], 
+        "dns-mx": [
+            "mail.variomedia.de"
+        ], 
+        "dns-ns": [
+            "ns1.variomedia.de", 
+            "ns2.variomedia.de"
+        ], 
+        "domain-name": "xlog.in", 
+        "fuzzer": "omission", 
+        "geoip-country": "Germany", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-ns": [
+            "ns19.domaincontrol.com", 
+            "ns20.domaincontrol.com"
+        ], 
+        "domain-name": "dblog.in", 
+        "fuzzer": "replacement"
+    }
+]

@@ -1,0 +1,53 @@
+[
+    {
+        "dns-a": [
+            "173.252.133.166"
+        ], 
+        "dns-mx": [
+            "fema-gov.mail.protection.outlook.com"
+        ], 
+        "dns-ns": [
+            "asia2.akam.net", 
+            "asia3.akam.net", 
+            "eur2.akam.net", 
+            "usc2.akam.net", 
+            "use1.akam.net", 
+            "use3.akam.net", 
+            "usw3.akam.net", 
+            "usw4.akam.net"
+        ], 
+        "domain-name": "fema.gov", 
+        "fuzzer": "original*", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 100
+    }, 
+    {
+        "dns-a": [
+            "209.193.7.22"
+        ], 
+        "dns-ns": [
+            "ns1.acsalaska.net", 
+            "ns2.acsalaska.net", 
+            "ns3.acsalaska.net", 
+            "ns4.acsalaska.net"
+        ], 
+        "domain-name": "fea.gov", 
+        "fuzzer": "omission", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "185.53.179.7"
+        ], 
+        "dns-mx": [
+            "mail.h-email.net"
+        ], 
+        "dns-ns": [
+            "ns1.parkingcrew.net", 
+            "ns2.parkingcrew.net"
+        ], 
+        "domain-name": "fema-gov.com", 
+        "fuzzer": "various"
+    }
+]

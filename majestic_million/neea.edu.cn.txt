@@ -1,0 +1,54 @@
+[
+    {
+        "dns-a": [
+            "202.205.136.33"
+        ], 
+        "dns-mx": [
+            "mail.neea.edu.cn"
+        ], 
+        "dns-ns": [
+            "carnation.neea.edu.cn", 
+            "dnsbk.neea.edu.cn", 
+            "mail.neea.edu.cn"
+        ], 
+        "domain-name": "neea.edu.cn", 
+        "fuzzer": "original*", 
+        "geoip-country": "China"
+    }, 
+    {
+        "dns-a": [
+            "60.247.22.250"
+        ], 
+        "dns-mx": [
+            "mxbiz1.qq.com", 
+            "mxbiz2.qq.com"
+        ], 
+        "dns-ns": [
+            "dns1.service.edu.cn", 
+            "dns2.service.edu.cn"
+        ], 
+        "domain-name": "naea.edu.cn", 
+        "fuzzer": "bitsquatting", 
+        "geoip-country": "China"
+    }, 
+    {
+        "dns-ns": [
+            "dns1.neea.cn", 
+            "dns2.neea.cn"
+        ], 
+        "domain-name": "neea.cn", 
+        "fuzzer": "various"
+    }, 
+    {
+        "dns-ns": [
+            "ns1.myhostadmin.net", 
+            "ns2.myhostadmin.net", 
+            "ns3.myhostadmin.net", 
+            "ns4.myhostadmin.net", 
+            "ns5.myhostadmin.net", 
+            "ns6.myhostadmin.net"
+        ], 
+        "domain-name": "neeaedu.cn", 
+        "fuzzer": "various"
+    }
+]

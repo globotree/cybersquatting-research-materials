@@ -1,0 +1,155 @@
+[
+    {
+        "dns-a": [
+            "192.104.182.109", 
+            "192.104.182.209"
+        ], 
+        "dns-mx": [
+            "mx0a-00292f01.pphosted.com", 
+            "mx0b-00292f01.pphosted.com"
+        ], 
+        "dns-ns": [
+            "ns1.townnews.com", 
+            "ns2.townnews.com"
+        ], 
+        "domain-name": "billingsgazette.com", 
+        "fuzzer": "original*", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 100
+    }, 
+    {
+        "dns-a": [
+            "192.241.181.69"
+        ], 
+        "dns-ns": [
+            "ns1fkl.name.com", 
+            "ns2dky.name.com", 
+            "ns3fgh.name.com", 
+            "ns4cfn.name.com"
+        ], 
+        "domain-name": "billingsgazettes.com", 
+        "fuzzer": "addition", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "199.191.50.73"
+        ], 
+        "dns-ns": [
+            "ns111373.ztomy.com", 
+            "ns211373.ztomy.com"
+        ], 
+        "domain-name": "billingsgazatte.com", 
+        "fuzzer": "bitsquatting", 
+        "geoip-country": "Virgin Islands", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "192.104.182.109", 
+            "192.104.182.209"
+        ], 
+        "dns-mx": [
+            "mail.billingsgazzette.com"
+        ], 
+        "dns-ns": [
+            "ns1.townnews.com", 
+            "ns2.townnews.com"
+        ], 
+        "domain-name": "billingsgazzette.com", 
+        "fuzzer": "insertion", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 100
+    }, 
+    {
+        "dns-a": [
+            "173.239.5.6", 
+            "173.239.8.164", 
+            "213.247.47.190"
+        ], 
+        "dns-mx": [
+            "mx7.billingsgazete.com"
+        ], 
+        "dns-ns": [
+            "ns1.expiereddnsmanager.com", 
+            "ns2.expiereddnsmanager.com"
+        ], 
+        "domain-name": "billingsgazete.com", 
+        "fuzzer": "omission", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "207.244.67.215"
+        ], 
+        "domain-name": "bilingsgazette.com", 
+        "fuzzer": "omission", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "67.227.226.241"
+        ], 
+        "dns-mx": [
+            "mx156.hostedmxserver.com"
+        ], 
+        "dns-ns": [
+            "ns1.parklogic.com", 
+            "ns2.parklogic.com", 
+            "ns3.parklogic.com", 
+            "ns4.parklogic.com", 
+            "ns5.parklogic.com"
+        ], 
+        "domain-name": "billingsgazett.com", 
+        "fuzzer": "omission", 
+        "geoip-country": "United States", 
+        "mx-spy": true, 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "199.191.50.73"
+        ], 
+        "dns-ns": [
+            "ns111373.ztomy.com", 
+            "ns211373.ztomy.com"
+        ], 
+        "domain-name": "billinsgazette.com", 
+        "fuzzer": "omission", 
+        "geoip-country": "Virgin Islands", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "192.104.182.109", 
+            "192.104.182.209"
+        ], 
+        "dns-mx": [
+            "mail.billinggazette.com"
+        ], 
+        "dns-ns": [
+            "ns1.townnews.com", 
+            "ns2.townnews.com"
+        ], 
+        "domain-name": "billinggazette.com", 
+        "fuzzer": "omission", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 100
+    }, 
+    {
+        "dns-a": [
+            "199.191.50.73"
+        ], 
+        "dns-ns": [
+            "ns111373.ztomy.com", 
+            "ns211373.ztomy.com"
+        ], 
+        "domain-name": "billlingsgazette.com", 
+        "fuzzer": "repetition", 
+        "geoip-country": "Virgin Islands", 
+        "ssdeep-score": 0
+    }
+]

@@ -1,0 +1,420 @@
+[
+    {
+        "dns-a": [
+            "104.16.159.215", 
+            "104.16.160.215", 
+            "104.16.161.215", 
+            "104.16.162.215", 
+            "104.16.163.215"
+        ], 
+        "dns-aaaa": [
+            "2400:cb00:2048:1::6810:9fd7", 
+            "2400:cb00:2048:1::6810:a0d7", 
+            "2400:cb00:2048:1::6810:a1d7", 
+            "2400:cb00:2048:1::6810:a2d7", 
+            "2400:cb00:2048:1::6810:a3d7"
+        ], 
+        "dns-ns": [
+            "coby.ns.cloudflare.com", 
+            "nola.ns.cloudflare.com"
+        ], 
+        "domain-name": "yolasite.com", 
+        "fuzzer": "original*", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 99
+    }, 
+    {
+        "dns-a": [
+            "104.27.156.72", 
+            "104.27.157.72"
+        ], 
+        "dns-aaaa": [
+            "2400:cb00:2048:1::681b:9c48", 
+            "2400:cb00:2048:1::681b:9d48"
+        ], 
+        "dns-ns": [
+            "ada.ns.cloudflare.com", 
+            "ben.ns.cloudflare.com"
+        ], 
+        "domain-name": "yolasites.com", 
+        "fuzzer": "addition", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 99
+    }, 
+    {
+        "dns-a": [
+            "199.191.50.73"
+        ], 
+        "dns-ns": [
+            "ns111373.ztomy.com", 
+            "ns211373.ztomy.com"
+        ], 
+        "domain-name": "yolesite.com", 
+        "fuzzer": "bitsquatting", 
+        "geoip-country": "Virgin Islands", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "95.211.219.67"
+        ], 
+        "dns-ns": [
+            "ns1.hastydns.com", 
+            "ns2.hastydns.com"
+        ], 
+        "domain-name": "yolisite.com", 
+        "fuzzer": "bitsquatting", 
+        "geoip-country": "Netherlands"
+    }, 
+    {
+        "dns-a": [
+            "199.191.50.73"
+        ], 
+        "dns-ns": [
+            "ns111373.ztomy.com", 
+            "ns211373.ztomy.com"
+        ], 
+        "domain-name": "yolacite.com", 
+        "fuzzer": "bitsquatting", 
+        "geoip-country": "Virgin Islands", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "103.224.182.253"
+        ], 
+        "dns-mx": [
+            "park-mx.above.com"
+        ], 
+        "dns-ns": [
+            "ns3.above.com", 
+            "ns4.above.com"
+        ], 
+        "domain-name": "yolaside.com", 
+        "fuzzer": "bitsquatting", 
+        "geoip-country": "Australia", 
+        "mx-spy": true, 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "199.191.50.73"
+        ], 
+        "dns-ns": [
+            "ns111373.ztomy.com", 
+            "ns211373.ztomy.com"
+        ], 
+        "domain-name": "yoiasite.com", 
+        "fuzzer": "homoglyph", 
+        "geoip-country": "Virgin Islands", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "104.31.94.34", 
+            "104.31.95.34"
+        ], 
+        "dns-aaaa": [
+            "2400:cb00:2048:1::681f:5e22", 
+            "2400:cb00:2048:1::681f:5f22"
+        ], 
+        "dns-ns": [
+            "ada.ns.cloudflare.com", 
+            "ben.ns.cloudflare.com"
+        ], 
+        "domain-name": "yola-site.com", 
+        "fuzzer": "hyphenation", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 100
+    }, 
+    {
+        "dns-a": [
+            "199.191.50.73"
+        ], 
+        "dns-ns": [
+            "ns111373.ztomy.com", 
+            "ns211373.ztomy.com"
+        ], 
+        "domain-name": "yollasite.com", 
+        "fuzzer": "insertion", 
+        "geoip-country": "Virgin Islands", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "103.224.212.253"
+        ], 
+        "dns-mx": [
+            "park-mx.above.com"
+        ], 
+        "dns-ns": [
+            "ns3.above.com", 
+            "ns4.above.com"
+        ], 
+        "domain-name": "yolasaite.com", 
+        "fuzzer": "insertion", 
+        "geoip-country": "Australia", 
+        "mx-spy": true, 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "141.8.224.169"
+        ], 
+        "dns-ns": [
+            "ns27.rookdns.com", 
+            "ns28.rookdns.com"
+        ], 
+        "domain-name": "yolassite.com", 
+        "fuzzer": "insertion", 
+        "geoip-country": "Switzerland", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "50.63.202.73"
+        ], 
+        "dns-ns": [
+            "ns43.domaincontrol.com", 
+            "ns44.domaincontrol.com"
+        ], 
+        "domain-name": "yolasigte.com", 
+        "fuzzer": "insertion", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "199.191.50.73"
+        ], 
+        "dns-ns": [
+            "ns111373.ztomy.com", 
+            "ns211373.ztomy.com"
+        ], 
+        "domain-name": "yoasite.com", 
+        "fuzzer": "omission", 
+        "geoip-country": "Virgin Islands", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "46.166.182.64"
+        ], 
+        "dns-ns": [
+            "ns1.commonmx.com", 
+            "ns2.commonmx.com"
+        ], 
+        "domain-name": "yolasie.com", 
+        "fuzzer": "omission", 
+        "geoip-country": "Netherlands", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "199.191.50.73"
+        ], 
+        "dns-ns": [
+            "ns111373.ztomy.com", 
+            "ns211373.ztomy.com"
+        ], 
+        "domain-name": "ylasite.com", 
+        "fuzzer": "omission", 
+        "geoip-country": "Virgin Islands", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "103.224.182.253"
+        ], 
+        "dns-mx": [
+            "park-mx.above.com"
+        ], 
+        "dns-ns": [
+            "ns3.above.com", 
+            "ns4.above.com"
+        ], 
+        "domain-name": "yolaste.com", 
+        "fuzzer": "omission", 
+        "geoip-country": "Australia", 
+        "mx-spy": true, 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "199.59.242.150"
+        ], 
+        "dns-mx": [
+            "mx76.m2bp.com", 
+            "mx76.mb1p.com"
+        ], 
+        "dns-ns": [
+            "ns1.bodis.com", 
+            "ns2.bodis.com"
+        ], 
+        "domain-name": "yolsite.com", 
+        "fuzzer": "omission", 
+        "geoip-country": "United States", 
+        "mx-spy": true, 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "199.191.50.73"
+        ], 
+        "dns-ns": [
+            "ns111373.ztomy.com", 
+            "ns211373.ztomy.com"
+        ], 
+        "domain-name": "yolasit.com", 
+        "fuzzer": "omission", 
+        "geoip-country": "Virgin Islands", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "103.224.212.240"
+        ], 
+        "dns-mx": [
+            "park-mx.above.com"
+        ], 
+        "dns-ns": [
+            "ns3.above.com", 
+            "ns4.above.com"
+        ], 
+        "domain-name": "yolaite.com", 
+        "fuzzer": "omission", 
+        "geoip-country": "Australia", 
+        "mx-spy": true, 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "199.191.50.73"
+        ], 
+        "dns-ns": [
+            "ns111373.ztomy.com", 
+            "ns211373.ztomy.com"
+        ], 
+        "domain-name": "tolasite.com", 
+        "fuzzer": "replacement", 
+        "geoip-country": "Virgin Islands", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "199.191.50.73"
+        ], 
+        "dns-ns": [
+            "ns111373.ztomy.com", 
+            "ns211373.ztomy.com"
+        ], 
+        "domain-name": "yolasire.com", 
+        "fuzzer": "replacement", 
+        "geoip-country": "Virgin Islands", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "199.191.50.73"
+        ], 
+        "dns-ns": [
+            "ns111373.ztomy.com", 
+            "ns211373.ztomy.com"
+        ], 
+        "domain-name": "yolasote.com", 
+        "fuzzer": "replacement", 
+        "geoip-country": "Virgin Islands", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "67.55.121.97"
+        ], 
+        "dns-ns": [
+            "ns1.yolasitr.com", 
+            "ns2.yolasitr.com"
+        ], 
+        "domain-name": "yolasitr.com", 
+        "fuzzer": "replacement", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "199.191.50.73"
+        ], 
+        "dns-ns": [
+            "ns111373.ztomy.com", 
+            "ns211373.ztomy.com"
+        ], 
+        "domain-name": "yoalsite.com", 
+        "fuzzer": "transposition", 
+        "geoip-country": "Virgin Islands", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "54.217.222.113"
+        ], 
+        "dns-mx": [
+            "mail.h-email.net"
+        ], 
+        "dns-ns": [
+            "ns1.parkingcrew.net", 
+            "ns2.parkingcrew.net"
+        ], 
+        "domain-name": "yolaiste.com", 
+        "fuzzer": "transposition", 
+        "geoip-country": "Ireland", 
+        "mx-spy": true, 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "46.166.182.62"
+        ], 
+        "dns-ns": [
+            "ns1.commonmx.com", 
+            "ns2.commonmx.com"
+        ], 
+        "domain-name": "yolastie.com", 
+        "fuzzer": "transposition", 
+        "geoip-country": "Netherlands", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "37.48.65.148"
+        ], 
+        "dns-ns": [
+            "ns1.dnsnuts.com", 
+            "ns2.dnsnuts.com"
+        ], 
+        "domain-name": "yolosite.com", 
+        "fuzzer": "vowel-swap"
+    }, 
+    {
+        "dns-a": [
+            "104.203.138.107"
+        ], 
+        "dns-ns": [
+            "juming.dnsdun.com", 
+            "juming.dnsdun.net"
+        ], 
+        "domain-name": "yulasite.com", 
+        "fuzzer": "vowel-swap", 
+        "geoip-country": "United States"
+    }, 
+    {
+        "dns-a": [
+            "78.41.204.26"
+        ], 
+        "dns-ns": [
+            "ns1.torresdns.com", 
+            "ns2.torresdns.com"
+        ], 
+        "domain-name": "yalasite.com", 
+        "fuzzer": "vowel-swap", 
+        "geoip-country": "Netherlands"
+    }
+]

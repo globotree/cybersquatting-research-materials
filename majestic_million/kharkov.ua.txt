@@ -1,0 +1,63 @@
+[
+    {
+        "dns-a": [
+            "80.92.225.121"
+        ], 
+        "dns-aaaa": [
+            "2a01:6b0:1:2::225:121"
+        ], 
+        "dns-ns": [
+            "ho1.eunic.net.ua", 
+            "ns.dn.ua", 
+            "ns.kh.ua", 
+            "ns.sm.ua", 
+            "ns.zp.ua"
+        ], 
+        "domain-name": "kharkov.ua", 
+        "fuzzer": "original*", 
+        "geoip-country": "Ukraine", 
+        "ssdeep-score": 99
+    }, 
+    {
+        "dns-a": [
+            "195.69.185.101"
+        ], 
+        "dns-mx": [
+            "relay.kh.ua"
+        ], 
+        "dns-ns": [
+            "ho1.eunic.net.ua", 
+            "ns.dn.ua", 
+            "ns.kh.ua", 
+            "ns.sm.ua", 
+            "ns.zp.ua"
+        ], 
+        "domain-name": "kharkiv.ua", 
+        "fuzzer": "replacement"
+    }, 
+    {
+        "dns-a": [
+            "91.196.96.18"
+        ], 
+        "dns-mx": [
+            "mail.kharkov-ua.com"
+        ], 
+        "dns-ns": [
+            "nsa1.srv53.com", 
+            "nsa4.srv53.net", 
+            "nsa4.srv53.org", 
+            "nsb2.srv53.org", 
+            "nsb4.srv53.com", 
+            "nsb4.srv53.net", 
+            "nsc1.srv53.org", 
+            "nsc2.srv53.com", 
+            "nsc4.srv53.net", 
+            "nsd2.srv53.com", 
+            "nsd2.srv53.net", 
+            "nsd4.srv53.org"
+        ], 
+        "domain-name": "kharkov-ua.com", 
+        "fuzzer": "various", 
+        "geoip-country": "Ukraine"
+    }
+]

@@ -1,0 +1,125 @@
+[
+    {
+        "dns-a": [
+            "75.126.102.251"
+        ], 
+        "dns-mx": [
+            "Alt3.aspmx.l.google.com", 
+            "alt1.aspmx.l.google.com", 
+            "alt2.aspmx.l.google.com", 
+            "alt4.aspmx.l.google.com", 
+            "aspmx.l.google.com"
+        ], 
+        "dns-ns": [
+            "ns1ntw.name.com", 
+            "ns2cvx.name.com", 
+            "ns3dty.name.com", 
+            "ns4cjp.name.com"
+        ], 
+        "domain-name": "acquirethisname.com", 
+        "fuzzer": "original*", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 99
+    }, 
+    {
+        "dns-a": [
+            "75.126.102.252"
+        ], 
+        "dns-ns": [
+            "ns1ntw.name.com", 
+            "ns2cvx.name.com", 
+            "ns3dty.name.com", 
+            "ns4cjp.name.com"
+        ], 
+        "domain-name": "acguirethisname.com", 
+        "fuzzer": "homoglyph", 
+        "geoip-country": "United States"
+    }, 
+    {
+        "dns-a": [
+            "184.168.221.40"
+        ], 
+        "domain-name": "aquirethisname.com", 
+        "fuzzer": "omission", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "75.126.102.228"
+        ], 
+        "dns-ns": [
+            "ns1ntw.name.com", 
+            "ns2cvx.name.com", 
+            "ns3dty.name.com", 
+            "ns4cjp.name.com"
+        ], 
+        "domain-name": "acquirethisnam.com", 
+        "fuzzer": "omission", 
+        "geoip-country": "United States"
+    }, 
+    {
+        "dns-a": [
+            "52.73.124.185", 
+            "54.164.198.60"
+        ], 
+        "dns-ns": [
+            "ns1.namebrightdns.com", 
+            "ns2.namebrightdns.com"
+        ], 
+        "domain-name": "acquiret.hisname.com", 
+        "fuzzer": "subdomain", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-ns": [
+            "ns1.namebrightdns.com", 
+            "ns2.namebrightdns.com"
+        ], 
+        "domain-name": "acquireth.isname.com", 
+        "fuzzer": "subdomain"
+    }, 
+    {
+        "dns-a": [
+            "69.64.159.21"
+        ], 
+        "domain-name": "acquirethis.name.com", 
+        "fuzzer": "subdomain", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "75.126.102.233"
+        ], 
+        "dns-mx": [
+            "eforwardct.name-services.com", 
+            "eforwardct2.name-services.com", 
+            "eforwardct3.name-services.com"
+        ], 
+        "dns-ns": [
+            "ns1ntw.name.com", 
+            "ns2cvx.name.com", 
+            "ns3dty.name.com", 
+            "ns4cjp.name.com"
+        ], 
+        "domain-name": "acqiurethisname.com", 
+        "fuzzer": "transposition", 
+        "geoip-country": "United States"
+    }, 
+    {
+        "dns-a": [
+            "75.126.102.249"
+        ], 
+        "dns-ns": [
+            "ns1ntw.name.com", 
+            "ns2cvx.name.com", 
+            "ns3dty.name.com", 
+            "ns4cjp.name.com"
+        ], 
+        "domain-name": "acquirethisnaem.com", 
+        "fuzzer": "transposition", 
+        "geoip-country": "United States"
+    }
+]

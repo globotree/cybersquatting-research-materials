@@ -1,0 +1,65 @@
+[
+    {
+        "dns-a": [
+            "130.102.131.123"
+        ], 
+        "dns-mx": [
+            "mx1.uq.edu.au", 
+            "mx2.uq.edu.au", 
+            "mx3.uq.edu.au", 
+            "mx4.uq.edu.au"
+        ], 
+        "dns-ns": [
+            "ns1.dc.uq.edu.au", 
+            "ns2.dc.uq.edu.au", 
+            "ns3.dc.uq.edu.au", 
+            "ns4.dc.uq.edu.au"
+        ], 
+        "domain-name": "uq.edu.au", 
+        "fuzzer": "original*", 
+        "geoip-country": "Australia", 
+        "ssdeep-score": 100
+    }, 
+    {
+        "dns-ns": [
+            "ns1.dc.uq.edu.au", 
+            "ns2.dc.uq.edu.au", 
+            "ns3.dc.uq.edu.au", 
+            "ns4.dc.uq.edu.au"
+        ], 
+        "domain-name": "uqx.edu.au", 
+        "fuzzer": "addition"
+    }, 
+    {
+        "dns-a": [
+            "203.10.121.50"
+        ], 
+        "dns-mx": [
+            "eq-edu-au.mail.protection.outlook.com"
+        ], 
+        "dns-ns": [
+            "w.au", 
+            "x.au", 
+            "y.au", 
+            "z.au"
+        ], 
+        "domain-name": "eq.edu.au", 
+        "fuzzer": "bitsquatting", 
+        "geoip-country": "Australia", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "129.127.149.1"
+        ], 
+        "dns-ns": [
+            "ns.adelaide.edu.au", 
+            "ns1.adelaide.edu.au", 
+            "ns2.adelaide.edu.au"
+        ], 
+        "domain-name": "ua.edu.au", 
+        "fuzzer": "bitsquatting", 
+        "geoip-country": "Australia", 
+        "ssdeep-score": 0
+    }
+]

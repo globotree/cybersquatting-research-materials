@@ -1,0 +1,139 @@
+[
+    {
+        "dns-a": [
+            "185.196.72.10"
+        ], 
+        "dns-mx": [
+            "mail.mediapart.fr"
+        ], 
+        "dns-ns": [
+            "pat.ns.cloudflare.com", 
+            "will.ns.cloudflare.com"
+        ], 
+        "domain-name": "mediapart.fr", 
+        "fuzzer": "original*", 
+        "ssdeep-score": 100
+    }, 
+    {
+        "dns-a": [
+            "213.186.33.5"
+        ], 
+        "dns-mx": [
+            "mx1.mail.ovh.net", 
+            "mx2.mail.ovh.net", 
+            "mx3.mail.ovh.net"
+        ], 
+        "dns-ns": [
+            "dns17.ovh.net", 
+            "ns17.ovh.net"
+        ], 
+        "domain-name": "rnediapart.fr", 
+        "fuzzer": "homoglyph", 
+        "geoip-country": "France"
+    }, 
+    {
+        "dns-a": [
+            "217.70.184.38"
+        ], 
+        "dns-mx": [
+            "fb.mail.gandi.net", 
+            "spool.mail.gandi.net"
+        ], 
+        "dns-ns": [
+            "a.dns.gandi.net", 
+            "b.dns.gandi.net", 
+            "c.dns.gandi.net"
+        ], 
+        "domain-name": "xn--mdiapart-b1a.fr", 
+        "fuzzer": "homoglyph", 
+        "geoip-country": "France", 
+        "ssdeep-score": 100
+    }, 
+    {
+        "dns-a": [
+            "217.70.184.38"
+        ], 
+        "dns-mx": [
+            "fb.mail.gandi.net", 
+            "spool.mail.gandi.net"
+        ], 
+        "dns-ns": [
+            "a.dns.gandi.net", 
+            "b.dns.gandi.net", 
+            "c.dns.gandi.net"
+        ], 
+        "domain-name": "media-part.fr", 
+        "fuzzer": "hyphenation", 
+        "geoip-country": "France", 
+        "ssdeep-score": 100
+    }, 
+    {
+        "dns-a": [
+            "213.186.33.4"
+        ], 
+        "dns-aaaa": [
+            "2001:41d0:1:1b00:213:186:33:4"
+        ], 
+        "dns-mx": [
+            "mx1.ovh.net", 
+            "mx2.ovh.net", 
+            "mxb.ovh.net"
+        ], 
+        "dns-ns": [
+            "dns16.ovh.net", 
+            "ns16.ovh.net"
+        ], 
+        "domain-name": "mediaart.fr", 
+        "fuzzer": "omission", 
+        "geoip-country": "France", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "212.227.247.123"
+        ], 
+        "dns-aaaa": [
+            "2001:8d8:1001:4366:a7f:45a2:12eb:e004"
+        ], 
+        "dns-mx": [
+            "mx00.1and1.fr", 
+            "mx01.1and1.fr"
+        ], 
+        "domain-name": "mediamart.fr", 
+        "fuzzer": "replacement", 
+        "geoip-country": "Germany", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "199.59.242.150"
+        ], 
+        "domain-name": "media.part.fr", 
+        "fuzzer": "subdomain", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "95.142.101.112"
+        ], 
+        "domain-name": "mediapa.rt.fr", 
+        "fuzzer": "subdomain", 
+        "geoip-country": "Netherlands", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "92.39.255.45"
+        ], 
+        "dns-mx": [
+            "mail.mediaport.fr"
+        ], 
+        "dns-ns": [
+            "ns3.dns26.net", 
+            "ns4.dns26.net"
+        ], 
+        "domain-name": "mediaport.fr", 
+        "fuzzer": "vowel-swap"
+    }
+]

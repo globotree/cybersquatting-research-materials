@@ -1,0 +1,46 @@
+[
+    {
+        "dns-a": [
+            "65.156.1.145"
+        ], 
+        "dns-mx": [
+            "mail01.ascopubs.org"
+        ], 
+        "dns-ns": [
+            "ns101.literatumonline.com", 
+            "ns102.literatumonline.com", 
+            "nsa.literatumonline.com", 
+            "nsb.literatumonline.com"
+        ], 
+        "domain-name": "ascopubs.org", 
+        "fuzzer": "original*", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 99
+    }, 
+    {
+        "dns-a": [
+            "199.59.242.150"
+        ], 
+        "domain-name": "ascop.ubs.org", 
+        "fuzzer": "subdomain", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "50.63.46.1"
+        ], 
+        "dns-ns": [
+            "A.SERVICE.AFILIASDNS.INFO", 
+            "B.SERVICE.AFILIASDNS.org", 
+            "C.SERVICE.AFILIASDNS.NET", 
+            "D.SERVICE.AFILIASDNS.COM", 
+            "E.SERVICE.AFILIASDNS.INFO", 
+            "F.SERVICE.AFILIASDNS.NET"
+        ], 
+        "domain-name": "ascopub.s.org", 
+        "fuzzer": "subdomain", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 0
+    }
+]

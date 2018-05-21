@@ -1,0 +1,62 @@
+[
+    {
+        "dns-a": [
+            "164.132.29.111"
+        ], 
+        "dns-mx": [
+            "mail.iespana.es"
+        ], 
+        "dns-ns": [
+            "sdns2.ovh.net", 
+            "vps240214.ovh.net"
+        ], 
+        "domain-name": "iespana.es", 
+        "fuzzer": "original*", 
+        "geoip-country": "Spain", 
+        "ssdeep-score": 100
+    }, 
+    {
+        "dns-a": [
+            "66.79.191.134"
+        ], 
+        "dns-ns": [
+            "or.earth.orderbox-dns.com", 
+            "or.mars.orderbox-dns.com", 
+            "or.mercury.orderbox-dns.com", 
+            "or.venus.orderbox-dns.com"
+        ], 
+        "domain-name": "aespana.es", 
+        "fuzzer": "bitsquatting", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "185.224.137.107"
+        ], 
+        "dns-mx": [
+            "mx1.hostinger.es"
+        ], 
+        "dns-ns": [
+            "ns1.hostinger.es", 
+            "ns2.hostinger.es", 
+            "ns3.hostinger.es", 
+            "ns4.hostinger.es"
+        ], 
+        "domain-name": "ispana.es", 
+        "fuzzer": "omission"
+    }, 
+    {
+        "dns-a": [
+            "141.8.224.169"
+        ], 
+        "dns-ns": [
+            "ns27.rookdns.com", 
+            "ns28.rookdns.com"
+        ], 
+        "domain-name": "ie.spana.es", 
+        "fuzzer": "subdomain", 
+        "geoip-country": "Switzerland", 
+        "ssdeep-score": 0
+    }
+]

@@ -1,0 +1,143 @@
+[
+    {
+        "dns-a": [
+            "107.22.243.226", 
+            "107.22.249.130", 
+            "174.129.13.98", 
+            "174.129.22.75", 
+            "174.129.221.117", 
+            "174.129.242.210", 
+            "174.129.3.215", 
+            "54.225.153.48"
+        ], 
+        "dns-ns": [
+            "dns1.000webhost.com", 
+            "dns2.000webhost.com"
+        ], 
+        "domain-name": "site40.net", 
+        "fuzzer": "original*", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 100
+    }, 
+    {
+        "dns-a": [
+            "107.22.243.226", 
+            "107.22.249.130", 
+            "174.129.13.98", 
+            "174.129.22.75", 
+            "174.129.221.117", 
+            "174.129.242.210", 
+            "174.129.3.215", 
+            "54.225.153.48"
+        ], 
+        "dns-ns": [
+            "dns1.000webhost.com", 
+            "dns2.000webhost.com"
+        ], 
+        "domain-name": "site50.net", 
+        "fuzzer": "bitsquatting", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 96
+    }, 
+    {
+        "dns-a": [
+            "72.249.30.164"
+        ], 
+        "dns-mx": [
+            "mx-dfw.smtp.directrouter.com", 
+            "mx-lon.smtp.directrouter.com"
+        ], 
+        "dns-ns": [
+            "ns1.site17.net", 
+            "ns2.site17.net"
+        ], 
+        "domain-name": "site42.net", 
+        "fuzzer": "bitsquatting", 
+        "geoip-country": "United States"
+    }, 
+    {
+        "dns-a": [
+            "81.169.136.76"
+        ], 
+        "dns-mx": [
+            "site4.net"
+        ], 
+        "dns-ns": [
+            "ns3.edns.de", 
+            "ns4.edns.de"
+        ], 
+        "domain-name": "site4.net", 
+        "fuzzer": "omission", 
+        "geoip-country": "Germany"
+    }, 
+    {
+        "dns-a": [
+            "216.144.247.226"
+        ], 
+        "dns-mx": [
+            "mailstore1.secureserver.net", 
+            "smtp.secureserver.net"
+        ], 
+        "dns-ns": [
+            "ns67.domaincontrol.com", 
+            "ns68.domaincontrol.com"
+        ], 
+        "domain-name": "site0.net", 
+        "fuzzer": "omission", 
+        "geoip-country": "United States"
+    }, 
+    {
+        "dns-a": [
+            "182.48.49.194"
+        ], 
+        "dns-mx": [
+            "site30.net"
+        ], 
+        "dns-ns": [
+            "ns1.dns.ne.jp", 
+            "ns2.dns.ne.jp"
+        ], 
+        "domain-name": "site30.net", 
+        "fuzzer": "replacement", 
+        "geoip-country": "Japan"
+    }, 
+    {
+        "dns-mx": [
+            "in.mx.skynet.be", 
+            "relay.mx.skynet.be"
+        ], 
+        "dns-ns": [
+            "ns1.skynet.be", 
+            "ns2.skynet.be", 
+            "ns3.skynet.be", 
+            "ns4.skynet.be"
+        ], 
+        "domain-name": "site49.net", 
+        "fuzzer": "replacement"
+    }, 
+    {
+        "dns-a": [
+            "107.174.70.149"
+        ], 
+        "domain-name": "sit.e40.net", 
+        "fuzzer": "subdomain", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "208.73.210.202", 
+            "208.73.210.217", 
+            "208.73.211.165", 
+            "208.73.211.177"
+        ], 
+        "dns-ns": [
+            "ns1.dsredirection.com", 
+            "ns2.dsredirection.com"
+        ], 
+        "domain-name": "site.40.net", 
+        "fuzzer": "subdomain", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 0
+    }
+]

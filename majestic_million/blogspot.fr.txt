@@ -1,0 +1,155 @@
+[
+    {
+        "dns-a": [
+            "172.217.23.169"
+        ], 
+        "dns-aaaa": [
+            "2a00:1450:4001:81f::2009"
+        ], 
+        "dns-ns": [
+            "ns1.google.com", 
+            "ns2.google.com", 
+            "ns3.google.com", 
+            "ns4.google.com"
+        ], 
+        "domain-name": "blogspot.fr", 
+        "fuzzer": "original*", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 80
+    }, 
+    {
+        "dns-a": [
+            "178.32.107.116"
+        ], 
+        "dns-mx": [
+            "blogsppot.fr"
+        ], 
+        "dns-ns": [
+            "ns1.raidhost-cluster60.co.uk", 
+            "ns2.raidhost-cluster60.co.uk"
+        ], 
+        "domain-name": "blogsppot.fr", 
+        "fuzzer": "insertion", 
+        "geoip-country": "France", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "46.166.189.98"
+        ], 
+        "dns-ns": [
+            "ns-canada.topdns.com", 
+            "ns-uk.topdns.com", 
+            "ns-usa.topdns.com"
+        ], 
+        "domain-name": "blgspot.fr", 
+        "fuzzer": "omission", 
+        "geoip-country": "Netherlands", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "52.18.157.175"
+        ], 
+        "dns-ns": [
+            "ns1.parkingcrew.net", 
+            "ns2.parkingcrew.net"
+        ], 
+        "domain-name": "blospot.fr", 
+        "fuzzer": "omission", 
+        "geoip-country": "Ireland", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "178.32.107.116"
+        ], 
+        "dns-mx": [
+            "blogpot.fr"
+        ], 
+        "dns-ns": [
+            "ns1.raidhost-cluster60.co.uk", 
+            "ns2.raidhost-cluster60.co.uk"
+        ], 
+        "domain-name": "blogpot.fr", 
+        "fuzzer": "omission", 
+        "geoip-country": "France"
+    }, 
+    {
+        "dns-a": [
+            "46.166.189.98"
+        ], 
+        "dns-ns": [
+            "ns-canada.topdns.com", 
+            "ns-uk.topdns.com", 
+            "ns-usa.topdns.com"
+        ], 
+        "domain-name": "bogspot.fr", 
+        "fuzzer": "omission", 
+        "geoip-country": "Netherlands", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "208.73.210.202", 
+            "208.73.210.217", 
+            "208.73.211.165", 
+            "208.73.211.177"
+        ], 
+        "dns-ns": [
+            "ns1.dsredirection.com", 
+            "ns2.dsredirection.com"
+        ], 
+        "domain-name": "blo.gspot.fr", 
+        "fuzzer": "subdomain", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "149.202.133.35"
+        ], 
+        "domain-name": "blogs.pot.fr", 
+        "fuzzer": "subdomain", 
+        "geoip-country": "France"
+    }, 
+    {
+        "dns-a": [
+            "37.187.144.23"
+        ], 
+        "domain-name": "blogsp.ot.fr", 
+        "fuzzer": "subdomain", 
+        "geoip-country": "France"
+    }, 
+    {
+        "dns-a": [
+            "72.52.4.122"
+        ], 
+        "dns-mx": [
+            "localhost"
+        ], 
+        "dns-ns": [
+            "ns1.sedoparking.com", 
+            "ns2.sedoparking.com"
+        ], 
+        "domain-name": "blogpsot.fr", 
+        "fuzzer": "transposition", 
+        "geoip-country": "United States", 
+        "mx-spy": true, 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "178.32.107.116"
+        ], 
+        "dns-mx": [
+            "blogsopt.fr"
+        ], 
+        "dns-ns": [
+            "ns1.raidhost-cluster60.co.uk", 
+            "ns2.raidhost-cluster60.co.uk"
+        ], 
+        "domain-name": "blogsopt.fr", 
+        "fuzzer": "transposition"
+    }
+]

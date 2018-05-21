@@ -1,0 +1,51 @@
+[
+    {
+        "dns-a": [
+            "172.217.23.169"
+        ], 
+        "dns-aaaa": [
+            "2a00:1450:4001:81f::2009"
+        ], 
+        "dns-ns": [
+            "ns1.google.com", 
+            "ns2.google.com", 
+            "ns3.google.com", 
+            "ns4.google.com"
+        ], 
+        "domain-name": "blogspot.com.au", 
+        "fuzzer": "original*", 
+        "geoip-country": "United States"
+    }, 
+    {
+        "dns-a": [
+            "199.59.242.150"
+        ], 
+        "domain-name": "blo.gspot.com.au", 
+        "fuzzer": "subdomain", 
+        "geoip-country": "United States"
+    }, 
+    {
+        "dns-a": [
+            "37.48.65.151"
+        ], 
+        "domain-name": "blogs.pot.com.au", 
+        "fuzzer": "subdomain", 
+        "geoip-country": "Netherlands"
+    }, 
+    {
+        "dns-a": [
+            "98.124.245.24"
+        ], 
+        "dns-mx": [
+            "mail.b-io.co"
+        ], 
+        "dns-ns": [
+            "ns1.fabulous.com", 
+            "ns2.fabulous.com"
+        ], 
+        "domain-name": "blogsp.ot.com.au", 
+        "fuzzer": "subdomain", 
+        "geoip-country": "United States", 
+        "mx-spy": true
+    }
+]

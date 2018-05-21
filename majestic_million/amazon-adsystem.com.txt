@@ -1,0 +1,69 @@
+[
+    {
+        "dns-ns": [
+            "ns1.p31.dynect.net", 
+            "ns2.p31.dynect.net", 
+            "ns3.p31.dynect.net", 
+            "ns4.p31.dynect.net", 
+            "pdns1.ultradns.net", 
+            "pdns2.ultradns.net", 
+            "pdns3.ultradns.org", 
+            "pdns4.ultradns.org", 
+            "pdns5.ultradns.info", 
+            "pdns6.ultradns.co.uk"
+        ], 
+        "domain-name": "amazon-adsystem.com", 
+        "fuzzer": "original*"
+    }, 
+    {
+        "dns-a": [
+            "72.52.10.14"
+        ], 
+        "dns-ns": [
+            "ns1.markmonitor.com", 
+            "ns2.markmonitor.com", 
+            "ns3.markmonitor.com", 
+            "ns4.markmonitor.com", 
+            "ns5.markmonitor.com", 
+            "ns6.markmonitor.com", 
+            "ns7.markmonitor.com"
+        ], 
+        "domain-name": "amazon-adsystems.com", 
+        "fuzzer": "addition", 
+        "geoip-country": "United States"
+    }, 
+    {
+        "dns-ns": [
+            "ns1.markmonitor.com", 
+            "ns2.markmonitor.com", 
+            "ns3.markmonitor.com", 
+            "ns4.markmonitor.com", 
+            "ns5.markmonitor.com", 
+            "ns6.markmonitor.com", 
+            "ns7.markmonitor.com"
+        ], 
+        "domain-name": "amazonadsystem.com", 
+        "fuzzer": "omission"
+    }, 
+    {
+        "dns-a": [
+            "209.17.116.2"
+        ], 
+        "domain-name": "amazon-ad.system.com", 
+        "fuzzer": "subdomain", 
+        "geoip-country": "United States"
+    }, 
+    {
+        "dns-a": [
+            "52.86.22.136", 
+            "54.174.212.152"
+        ], 
+        "dns-ns": [
+            "ns1.namebrightdns.com", 
+            "ns2.namebrightdns.com"
+        ], 
+        "domain-name": "amazon-ads.ystem.com", 
+        "fuzzer": "subdomain", 
+        "geoip-country": "United States"
+    }
+]

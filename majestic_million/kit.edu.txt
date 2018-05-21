@@ -1,0 +1,183 @@
+[
+    {
+        "dns-aaaa": [
+            "2a00:1398:9:fd10::810d:280a"
+        ], 
+        "dns-mx": [
+            "scc-mailin-cn-01.scc.kit.edu", 
+            "scc-mailin-cs-01.scc.kit.edu", 
+            "scc-spamtrap-always-defer.scc.kit.edu", 
+            "scc-spamtrap-no-smtp-here.scc.kit.edu"
+        ], 
+        "dns-ns": [
+            "dns1.belwue.de", 
+            "dns1.kit.edu", 
+            "dns2.kit.edu", 
+            "dns3.belwue.de"
+        ], 
+        "domain-name": "kit.edu", 
+        "fuzzer": "original*"
+    }, 
+    {
+        "dns-a": [
+            "182.50.130.70"
+        ], 
+        "dns-mx": [
+            "mailstore1.asia.secureserver.net", 
+            "smtp.asia.secureserver.net"
+        ], 
+        "dns-ns": [
+            "ns39.domaincontrol.com", 
+            "ns40.domaincontrol.com"
+        ], 
+        "domain-name": "kits.edu", 
+        "fuzzer": "addition", 
+        "geoip-country": "Singapore", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "216.47.143.249"
+        ], 
+        "dns-mx": [
+            "alt1.aspmx.l.google.com", 
+            "alt2.aspmx.l.google.com", 
+            "aspmx.l.google.com", 
+            "aspmx2.googlemail.com", 
+            "aspmx3.googlemail.com", 
+            "aspmx4.googlemail.com", 
+            "aspmx5.googlemail.com"
+        ], 
+        "dns-ns": [
+            "dda-rs2.iit.edu", 
+            "dns.ent.iit.edu", 
+            "dns2.ent.iit.edu"
+        ], 
+        "domain-name": "iit.edu", 
+        "fuzzer": "bitsquatting", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "140.211.128.21"
+        ], 
+        "dns-mx": [
+            "oit-edu.mail.protection.outlook.com"
+        ], 
+        "dns-ns": [
+            "dns3.oit.edu", 
+            "ns1.nero.net", 
+            "ns2.nero.net"
+        ], 
+        "domain-name": "oit.edu", 
+        "fuzzer": "bitsquatting", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "192.185.71.149"
+        ], 
+        "dns-mx": [
+            "cit-edu.mail.protection.outlook.com"
+        ], 
+        "dns-ns": [
+            "ns8369.hostgator.com", 
+            "ns8370.hostgator.com"
+        ], 
+        "domain-name": "cit.edu", 
+        "fuzzer": "bitsquatting", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "130.226.142.6"
+        ], 
+        "dns-mx": [
+            "itu-dk.mail.eo.outlook.com"
+        ], 
+        "dns-ns": [
+            "ns.itu.dk", 
+            "ns1.gratisdns.dk", 
+            "ns2.gratisdns.dk", 
+            "ns2.itu.dk", 
+            "ns3.gratisdns.dk", 
+            "ns4.gratisdns.dk", 
+            "ns5.gratisdns.dk"
+        ], 
+        "domain-name": "it.edu", 
+        "fuzzer": "omission", 
+        "geoip-country": "Denmark"
+    }, 
+    {
+        "dns-a": [
+            "52.173.247.53"
+        ], 
+        "dns-mx": [
+            "mailgate.lit.edu"
+        ], 
+        "dns-ns": [
+            "a-dns01.lit.edu", 
+            "ns1.lit.edu", 
+            "ns2.lit.edu"
+        ], 
+        "domain-name": "lit.edu", 
+        "fuzzer": "replacement", 
+        "geoip-country": "United States"
+    }, 
+    {
+        "dns-a": [
+            "104.106.249.238"
+        ], 
+        "dns-aaaa": [
+            "2a02:26f0:c6:287::255e", 
+            "2a02:26f0:c6:290::255e"
+        ], 
+        "dns-mx": [
+            "dmz-mailsec-scanner-1.mit.edu", 
+            "dmz-mailsec-scanner-2.mit.edu", 
+            "dmz-mailsec-scanner-3.mit.edu", 
+            "dmz-mailsec-scanner-4.mit.edu", 
+            "dmz-mailsec-scanner-5.mit.edu", 
+            "dmz-mailsec-scanner-6.mit.edu", 
+            "dmz-mailsec-scanner-7.mit.edu", 
+            "dmz-mailsec-scanner-8.mit.edu"
+        ], 
+        "dns-ns": [
+            "asia1.akam.net", 
+            "asia2.akam.net", 
+            "eur5.akam.net", 
+            "ns1-173.akam.net", 
+            "ns1-37.akam.net", 
+            "use2.akam.net", 
+            "use5.akam.net", 
+            "usw2.akam.net"
+        ], 
+        "domain-name": "mit.edu", 
+        "fuzzer": "replacement", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "208.97.138.118"
+        ], 
+        "dns-mx": [
+            "ALT1.ASPMX.L.GOOGLE.COM", 
+            "ALT2.ASPMX.L.GOOGLE.COM", 
+            "ALT3.ASPMX.L.GOOGLE.COM", 
+            "ALT4.ASPMX.L.GOOGLE.COM", 
+            "ASPMX.L.GOOGLE.COM"
+        ], 
+        "dns-ns": [
+            "ns1.dreamhost.com", 
+            "ns2.dreamhost.com", 
+            "ns3.dreamhost.com"
+        ], 
+        "domain-name": "kti.edu", 
+        "fuzzer": "transposition", 
+        "geoip-country": "United States"
+    }
+]

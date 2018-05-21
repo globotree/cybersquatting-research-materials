@@ -1,0 +1,74 @@
+[
+    {
+        "dns-a": [
+            "104.28.6.53", 
+            "104.28.7.53"
+        ], 
+        "dns-aaaa": [
+            "2400:cb00:2048:1::681c:635", 
+            "2400:cb00:2048:1::681c:735"
+        ], 
+        "dns-mx": [
+            "dc-fbfccf2084de.notehub.org"
+        ], 
+        "dns-ns": [
+            "chloe.ns.cloudflare.com", 
+            "rajeev.ns.cloudflare.com"
+        ], 
+        "domain-name": "notehub.org", 
+        "fuzzer": "original*", 
+        "geoip-country": "United States"
+    }, 
+    {
+        "dns-a": [
+            "192.30.252.153", 
+            "192.30.252.154"
+        ], 
+        "dns-ns": [
+            "01.dnsv.jp", 
+            "02.dnsv.jp", 
+            "03.dnsv.jp", 
+            "04.dnsv.jp"
+        ], 
+        "domain-name": "nothub.org", 
+        "fuzzer": "omission", 
+        "geoip-country": "United States"
+    }, 
+    {
+        "dns-a": [
+            "217.160.231.225"
+        ], 
+        "dns-aaaa": [
+            "2001:8d8:1000:4011:2a0a:148a:8866:f012"
+        ], 
+        "dns-mx": [
+            "mx00.1and1.co.uk", 
+            "mx01.1and1.co.uk"
+        ], 
+        "dns-ns": [
+            "ns1081.ui-dns.biz", 
+            "ns1081.ui-dns.com", 
+            "ns1081.ui-dns.de", 
+            "ns1081.ui-dns.org"
+        ], 
+        "domain-name": "notzhub.org", 
+        "fuzzer": "replacement", 
+        "geoip-country": "Germany"
+    }, 
+    {
+        "dns-a": [
+            "69.16.232.146"
+        ], 
+        "domain-name": "noteh.ub.org", 
+        "fuzzer": "subdomain", 
+        "geoip-country": "United States"
+    }, 
+    {
+        "dns-a": [
+            "98.124.199.32"
+        ], 
+        "domain-name": "notehu.b.org", 
+        "fuzzer": "subdomain", 
+        "geoip-country": "United States"
+    }
+]

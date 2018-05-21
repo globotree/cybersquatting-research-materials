@@ -1,0 +1,57 @@
+[
+    {
+        "dns-a": [
+            "173.252.133.166"
+        ], 
+        "dns-mx": [
+            "dhs-gov.mail.protection.outlook.com"
+        ], 
+        "dns-ns": [
+            "asia2.akam.net", 
+            "asia3.akam.net", 
+            "eur2.akam.net", 
+            "usc2.akam.net", 
+            "use1.akam.net", 
+            "use3.akam.net", 
+            "usw3.akam.net", 
+            "usw4.akam.net"
+        ], 
+        "domain-name": "dhs.gov", 
+        "fuzzer": "original*", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 99
+    }, 
+    {
+        "dns-a": [
+            "52.7.111.176"
+        ], 
+        "dns-mx": [
+            "smtp.ees.hhs.gov", 
+            "smtp2.ees.hhs.gov"
+        ], 
+        "dns-ns": [
+            "rh120ns1.368.dhhs.gov", 
+            "rh120ns2.368.dhhs.gov", 
+            "rh202ns1.355.dhhs.gov", 
+            "rh202ns2.355.dhhs.gov"
+        ], 
+        "domain-name": "dhhs.gov", 
+        "fuzzer": "repetition", 
+        "geoip-country": "United States"
+    }, 
+    {
+        "dns-mx": [
+            "us2.mx1.mailhostbox.com", 
+            "us2.mx2.mailhostbox.com", 
+            "us2.mx3.mailhostbox.com"
+        ], 
+        "dns-ns": [
+            "ourl147694.earth.orderbox-dns.com", 
+            "ourl147694.mars.orderbox-dns.com", 
+            "ourl147694.mercury.orderbox-dns.com", 
+            "ourl147694.venus.orderbox-dns.com"
+        ], 
+        "domain-name": "dhs-gov.com", 
+        "fuzzer": "various"
+    }
+]

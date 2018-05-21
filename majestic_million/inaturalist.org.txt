@@ -1,0 +1,106 @@
+[
+    {
+        "dns-a": [
+            "51.143.92.118"
+        ], 
+        "dns-mx": [
+            "ALT1.ASPMX.L.GOOGLE.COM", 
+            "ALT2.ASPMX.L.GOOGLE.COM", 
+            "ASPMX.L.GOOGLE.COM", 
+            "ASPMX2.GOOGLEMAIL.COM", 
+            "ASPMX3.GOOGLEMAIL.COM", 
+            "ASPMX4.GOOGLEMAIL.COM", 
+            "ASPMX5.GOOGLEMAIL.COM"
+        ], 
+        "dns-ns": [
+            "ns1.slicehost.net", 
+            "ns2.slicehost.net", 
+            "ns3.slicehost.net"
+        ], 
+        "domain-name": "inaturalist.org", 
+        "fuzzer": "original*", 
+        "geoip-country": "United Kingdom", 
+        "ssdeep-score": 96
+    }, 
+    {
+        "dns-a": [
+            "185.53.178.6"
+        ], 
+        "dns-ns": [
+            "ns1.parkingcrew.net", 
+            "ns2.parkingcrew.net"
+        ], 
+        "domain-name": "inaturaist.org", 
+        "fuzzer": "omission", 
+        "geoip-country": "Germany", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "74.220.202.11"
+        ], 
+        "dns-mx": [
+            "mail.naturalist.org"
+        ], 
+        "dns-ns": [
+            "ns1.hostmonster.com", 
+            "ns2.hostmonster.com"
+        ], 
+        "domain-name": "naturalist.org", 
+        "fuzzer": "omission", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "185.53.179.8"
+        ], 
+        "dns-ns": [
+            "ns1.parkingcrew.net", 
+            "ns2.parkingcrew.net"
+        ], 
+        "domain-name": "inatralist.org", 
+        "fuzzer": "omission", 
+        "geoip-country": "Germany", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "212.69.161.113"
+        ], 
+        "dns-mx": [
+            "zimbra.ist.org"
+        ], 
+        "dns-ns": [
+            "ns1.linbit.com", 
+            "ns1.upstreamnet.at", 
+            "ns2.upstreamnet.at"
+        ], 
+        "domain-name": "inatural.ist.org", 
+        "fuzzer": "subdomain", 
+        "geoip-country": "Austria", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "98.124.199.67"
+        ], 
+        "domain-name": "inaturalis.t.org", 
+        "fuzzer": "subdomain", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "184.168.221.104"
+        ], 
+        "dns-ns": [
+            "ns1.afternic.com", 
+            "ns2.afternic.com"
+        ], 
+        "domain-name": "enaturalist.org", 
+        "fuzzer": "vowel-swap", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 0
+    }
+]

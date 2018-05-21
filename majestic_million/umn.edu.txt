@@ -1,0 +1,145 @@
+[
+    {
+        "dns-a": [
+            "134.84.119.107", 
+            "134.84.119.7"
+        ], 
+        "dns-mx": [
+            "mta-p10.oit.umn.edu", 
+            "mta-p11.oit.umn.edu", 
+            "mta-p12.oit.umn.edu", 
+            "mta-p13.oit.umn.edu", 
+            "mta-p14.oit.umn.edu", 
+            "mta-p15.oit.umn.edu", 
+            "mta-p16.oit.umn.edu", 
+            "mta-p17.oit.umn.edu", 
+            "mta-p18.oit.umn.edu", 
+            "mta-p9.oit.umn.edu"
+        ], 
+        "dns-ns": [
+            "infoblox-1l1.d.umn.edu", 
+            "ns-auth-1.umn.edu", 
+            "ns-auth-remote-1.umn.edu"
+        ], 
+        "domain-name": "umn.edu", 
+        "fuzzer": "original*", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 100
+    }, 
+    {
+        "dns-a": [
+            "209.59.151.196"
+        ], 
+        "dns-mx": [
+            "alt1.aspmx.l.google.com", 
+            "alt2.aspmx.l.google.com", 
+            "aspmx.l.google.com", 
+            "aspmx2.googlemail.com", 
+            "aspmx3.googlemail.com"
+        ], 
+        "dns-ns": [
+            "ns-1025.awsdns-00.org", 
+            "ns-1836.awsdns-37.co.uk", 
+            "ns-462.awsdns-57.com", 
+            "ns-677.awsdns-20.net"
+        ], 
+        "domain-name": "umo.edu", 
+        "fuzzer": "bitsquatting", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "129.63.176.200"
+        ], 
+        "dns-mx": [
+            "emailgwa.uml.edu", 
+            "emailgwb.uml.edu", 
+            "emailsr1.uml.edu", 
+            "emailsr2.uml.edu"
+        ], 
+        "dns-ns": [
+            "dnsext01.uml.edu", 
+            "dnsext02.uml.edu"
+        ], 
+        "domain-name": "uml.edu", 
+        "fuzzer": "bitsquatting", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "216.230.104.244"
+        ], 
+        "dns-mx": [
+            "cluster1.us.messagelabs.com", 
+            "cluster1a.us.messagelabs.com"
+        ], 
+        "dns-ns": [
+            "dns1.umm.edu", 
+            "dns3.umm.edu"
+        ], 
+        "domain-name": "umm.edu", 
+        "fuzzer": "homoglyph", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "216.243.141.139"
+        ], 
+        "dns-mx": [
+            "umb-edu.mail.eo.outlook.com"
+        ], 
+        "dns-ns": [
+            "ns1.umb.edu", 
+            "ns2.umb.edu"
+        ], 
+        "domain-name": "umb.edu", 
+        "fuzzer": "replacement", 
+        "geoip-country": "United States"
+    }, 
+    {
+        "dns-a": [
+            "161.130.83.41", 
+            "161.130.83.44", 
+            "161.130.83.45", 
+            "209.106.229.123"
+        ], 
+        "dns-ns": [
+            "NS1.umh.edu", 
+            "ns2.umh.edu", 
+            "ns3.umh.edu"
+        ], 
+        "domain-name": "umh.edu", 
+        "fuzzer": "replacement", 
+        "geoip-country": "United States"
+    }, 
+    {
+        "dns-a": [
+            "129.24.168.32"
+        ], 
+        "dns-mx": [
+            "mxvs.unm.edu"
+        ], 
+        "dns-ns": [
+            "externaldns0.nmt.edu", 
+            "ns1.unm.edu", 
+            "ns2.unm.edu"
+        ], 
+        "domain-name": "unm.edu", 
+        "fuzzer": "transposition"
+    }, 
+    {
+        "dns-a": [
+            "184.168.221.81"
+        ], 
+        "dns-ns": [
+            "ns47.domaincontrol.com", 
+            "ns48.domaincontrol.com"
+        ], 
+        "domain-name": "umn-edu.com", 
+        "fuzzer": "various", 
+        "geoip-country": "United States"
+    }
+]

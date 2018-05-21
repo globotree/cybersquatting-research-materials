@@ -1,0 +1,117 @@
+[
+    {
+        "dns-a": [
+            "210.59.228.17"
+        ], 
+        "domain-name": "url.tw", 
+        "fuzzer": "original*", 
+        "geoip-country": "Taiwan", 
+        "ssdeep-score": 100
+    }, 
+    {
+        "dns-a": [
+            "5.9.63.243"
+        ], 
+        "dns-mx": [
+            "mail.urls.tw"
+        ], 
+        "dns-ns": [
+            "ns1.dreifisch.com", 
+            "ns2.dreifisch.com", 
+            "ns3.dreifisch.com"
+        ], 
+        "domain-name": "urls.tw", 
+        "fuzzer": "addition", 
+        "geoip-country": "Germany", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "96.44.156.21"
+        ], 
+        "dns-mx": [
+            "qrl.tw"
+        ], 
+        "dns-ns": [
+            "ns15.potia.net", 
+            "ns16.potia.net"
+        ], 
+        "domain-name": "qrl.tw", 
+        "fuzzer": "bitsquatting", 
+        "geoip-country": "United States"
+    }, 
+    {
+        "dns-a": [
+            "107.150.36.42"
+        ], 
+        "dns-mx": [
+            "mail.ubl.tw"
+        ], 
+        "dns-ns": [
+            "ns1.e4to.com", 
+            "ns2.e4to.com"
+        ], 
+        "domain-name": "ubl.tw", 
+        "fuzzer": "bitsquatting", 
+        "geoip-country": "United States", 
+        "mx-spy": true, 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "219.84.199.172"
+        ], 
+        "dns-mx": [
+            "mail.uri.tw"
+        ], 
+        "dns-ns": [
+            "ns1.wa1000.com", 
+            "ns2.wa1000.com"
+        ], 
+        "domain-name": "uri.tw", 
+        "fuzzer": "homoglyph", 
+        "geoip-country": "Taiwan"
+    }, 
+    {
+        "dns-a": [
+            "61.63.128.70"
+        ], 
+        "dns-mx": [
+            "mg2.savecom.net.tw"
+        ], 
+        "dns-ns": [
+            "cns1.net-chinese.com.tw", 
+            "cns2.net-chinese.com.tw"
+        ], 
+        "domain-name": "urk.tw", 
+        "fuzzer": "replacement", 
+        "geoip-country": "Taiwan"
+    }, 
+    {
+        "dns-a": [
+            "117.18.114.45"
+        ], 
+        "dns-mx": [
+            "mail.hrl.tw"
+        ], 
+        "dns-ns": [
+            "ns1.cram-shop.com", 
+            "ns2.cram-shop.com"
+        ], 
+        "domain-name": "hrl.tw", 
+        "fuzzer": "replacement"
+    }, 
+    {
+        "dns-a": [
+            "122.147.183.61"
+        ], 
+        "dns-ns": [
+            "cns1.net-chinese.com.tw", 
+            "cns2.net-chinese.com.tw"
+        ], 
+        "domain-name": "rul.tw", 
+        "fuzzer": "transposition", 
+        "geoip-country": "Taiwan", 
+        "ssdeep-score": 0
+    }
+]

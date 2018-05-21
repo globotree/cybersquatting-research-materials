@@ -1,0 +1,61 @@
+[
+    {
+        "dns-a": [
+            "216.238.155.60"
+        ], 
+        "dns-mx": [
+            "marketingsherpa-com.mail.protection.outlook.com"
+        ], 
+        "dns-ns": [
+            "ns21.cloudns.net", 
+            "ns22.cloudns.net", 
+            "ns23.cloudns.net", 
+            "ns24.cloudns.net", 
+            "pns21.cloudns.net", 
+            "pns22.cloudns.net", 
+            "pns23.cloudns.net", 
+            "pns24.cloudns.net"
+        ], 
+        "domain-name": "marketingsherpa.com", 
+        "fuzzer": "original*", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 99
+    }, 
+    {
+        "dns-a": [
+            "74.220.199.6"
+        ], 
+        "domain-name": "marketingsherpas.com", 
+        "fuzzer": "addition", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "91.184.0.100"
+        ], 
+        "dns-aaaa": [
+            "2a02:2268:ffff:ffff::4"
+        ], 
+        "dns-ns": [
+            "ns1.hostnet.nl", 
+            "ns2.hostnetbv.com", 
+            "ns3.hostnetbv.nl"
+        ], 
+        "domain-name": "marketing-sherpa.com", 
+        "fuzzer": "hyphenation", 
+        "geoip-country": "Netherlands", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "66.96.146.80"
+        ], 
+        "dns-mx": [
+            "mx.erpa.com"
+        ], 
+        "domain-name": "marketingsh.erpa.com", 
+        "fuzzer": "subdomain", 
+        "geoip-country": "United States"
+    }
+]

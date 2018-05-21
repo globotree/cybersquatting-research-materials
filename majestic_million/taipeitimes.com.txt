@@ -1,0 +1,105 @@
+[
+    {
+        "dns-a": [
+            "218.211.33.81", 
+            "61.218.68.186"
+        ], 
+        "dns-mx": [
+            "home.taipeitimes.com"
+        ], 
+        "dns-ns": [
+            "ns1.taipeitimes.com", 
+            "ns2.taipeitimes.com"
+        ], 
+        "domain-name": "taipeitimes.com", 
+        "fuzzer": "original*", 
+        "geoip-country": "Taiwan", 
+        "ssdeep-score": 100
+    }, 
+    {
+        "dns-a": [
+            "74.208.236.33"
+        ], 
+        "dns-aaaa": [
+            "2607:f1c0:100f:f000::21a"
+        ], 
+        "dns-mx": [
+            "mx00.1and1.com", 
+            "mx01.1and1.com"
+        ], 
+        "dns-ns": [
+            "ns1108.ui-dns.biz", 
+            "ns1108.ui-dns.com", 
+            "ns1108.ui-dns.de", 
+            "ns1108.ui-dns.org"
+        ], 
+        "domain-name": "taipei-times.com", 
+        "fuzzer": "hyphenation", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-mx": [
+            "mail.b-io.co"
+        ], 
+        "dns-ns": [
+            "ns1.fabulous.com", 
+            "ns2.fabulous.com"
+        ], 
+        "domain-name": "taipeitime.com", 
+        "fuzzer": "omission", 
+        "mx-spy": true
+    }, 
+    {
+        "dns-a": [
+            "185.53.179.7"
+        ], 
+        "dns-mx": [
+            "mail.h-email.net"
+        ], 
+        "dns-ns": [
+            "ns1.parkingcrew.net", 
+            "ns2.parkingcrew.net"
+        ], 
+        "domain-name": "taipetimes.com", 
+        "fuzzer": "omission", 
+        "geoip-country": "Germany", 
+        "mx-spy": true, 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "52.73.124.185", 
+            "54.164.198.60"
+        ], 
+        "dns-ns": [
+            "ns1.namebrightdns.com", 
+            "ns2.namebrightdns.com"
+        ], 
+        "domain-name": "taip.eitimes.com", 
+        "fuzzer": "subdomain", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "23.23.174.132"
+        ], 
+        "domain-name": "taipeit.imes.com", 
+        "fuzzer": "subdomain", 
+        "geoip-country": "United States"
+    }, 
+    {
+        "dns-a": [
+            "69.172.201.153"
+        ], 
+        "dns-ns": [
+            "ns1.uniregistrymarket.link", 
+            "ns2.uniregistrymarket.link"
+        ], 
+        "domain-name": "taipeiti.mes.com", 
+        "fuzzer": "subdomain", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 0
+    }
+]

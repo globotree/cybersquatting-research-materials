@@ -1,0 +1,78 @@
+[
+    {
+        "dns-a": [
+            "140.119.166.2"
+        ], 
+        "dns-mx": [
+            "mg.nccu.edu.tw"
+        ], 
+        "dns-ns": [
+            "dns2.nccu.edu.tw", 
+            "sun2cc.nccu.edu.tw"
+        ], 
+        "domain-name": "nccu.edu.tw", 
+        "fuzzer": "original*", 
+        "geoip-country": "Taiwan", 
+        "ssdeep-score": 100
+    }, 
+    {
+        "dns-a": [
+            "140.116.229.2"
+        ], 
+        "dns-mx": [
+            "mail.ncku.edu.tw"
+        ], 
+        "dns-ns": [
+            "apple.ncku.edu.tw", 
+            "name.ncku.edu.tw"
+        ], 
+        "domain-name": "ncku.edu.tw", 
+        "fuzzer": "bitsquatting", 
+        "geoip-country": "Taiwan", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "140.123.1.2"
+        ], 
+        "dns-aaaa": [
+            "2001:288:6001:1::2"
+        ], 
+        "dns-mx": [
+            "mail-nsg040.ccu.edu.tw", 
+            "mail-nsg041.ccu.edu.tw"
+        ], 
+        "domain-name": "ccu.edu.tw", 
+        "fuzzer": "omission", 
+        "geoip-country": "Taiwan"
+    }, 
+    {
+        "dns-a": [
+            "140.115.0.251"
+        ], 
+        "dns-aaaa": [
+            "2001:288:3001::251"
+        ], 
+        "dns-mx": [
+            "mx1.cc.ncu.edu.tw", 
+            "mx2.cc.ncu.edu.tw"
+        ], 
+        "dns-ns": [
+            "dns.ncu.edu.tw", 
+            "dns2.ncu.edu.tw", 
+            "moevax.edu.tw"
+        ], 
+        "domain-name": "ncu.edu.tw", 
+        "fuzzer": "omission", 
+        "geoip-country": "Taiwan", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-ns": [
+            "ns1.nccu.tw", 
+            "ns2.nccu.tw"
+        ], 
+        "domain-name": "nccu.tw", 
+        "fuzzer": "various"
+    }
+]

@@ -1,0 +1,41 @@
+[
+    {
+        "dns-ns": [
+            "a.dns.br", 
+            "b.dns.br", 
+            "c.dns.br", 
+            "d.dns.br", 
+            "e.dns.br", 
+            "f.dns.br"
+        ], 
+        "domain-name": "tv.br", 
+        "fuzzer": "original*"
+    }, 
+    {
+        "dns-a": [
+            "187.45.193.214"
+        ], 
+        "dns-ns": [
+            "dns01.anhembi.br"
+        ], 
+        "domain-name": "uv.br", 
+        "fuzzer": "bitsquatting", 
+        "geoip-country": "Brazil"
+    }, 
+    {
+        "dns-a": [
+            "200.143.14.16"
+        ], 
+        "dns-mx": [
+            "5c00d107a1f741a3cbb67396a5b186.msv1.invalid", 
+            "5c00d107a1f741a3cbb67396a5b186.pamx1.hotmail.com"
+        ], 
+        "dns-ns": [
+            "9je020.fgv.br", 
+            "fgv082.fgv.br"
+        ], 
+        "domain-name": "gv.br", 
+        "fuzzer": "replacement", 
+        "geoip-country": "Brazil"
+    }
+]

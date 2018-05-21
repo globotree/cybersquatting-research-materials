@@ -1,0 +1,67 @@
+[
+    {
+        "dns-a": [
+            "66.151.109.46", 
+            "66.151.109.54"
+        ], 
+        "dns-aaaa": [
+            "2600:c08:2020::1:6", 
+            "2600:c08:2020::1:7"
+        ], 
+        "dns-mx": [
+            "smtp.fbo.gov"
+        ], 
+        "dns-ns": [
+            "ns03.symplicity.com", 
+            "ns04.symplicity.com", 
+            "ns06.symplicity.com"
+        ], 
+        "domain-name": "fbo.gov", 
+        "fuzzer": "original*", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 97
+    }, 
+    {
+        "dns-a": [
+            "23.185.0.1"
+        ], 
+        "dns-aaaa": [
+            "2620:12a:8000::1", 
+            "2620:12a:8001::1"
+        ], 
+        "dns-mx": [
+            "mxa-001ec201.gslb.pphosted.com", 
+            "mxb-001ec201.gslb.pphosted.com"
+        ], 
+        "dns-ns": [
+            "pdns89.ultradns.biz", 
+            "pdns89.ultradns.com", 
+            "pdns89.ultradns.net", 
+            "pdns89.ultradns.org"
+        ], 
+        "domain-name": "cbo.gov", 
+        "fuzzer": "replacement"
+    }, 
+    {
+        "dns-a": [
+            "104.16.77.187", 
+            "104.16.78.187"
+        ], 
+        "dns-aaaa": [
+            "2400:cb00:2048:1::6810:4cbb", 
+            "2400:cb00:2048:1::6810:4ebb"
+        ], 
+        "dns-mx": [
+            "mx-east.fbi.gov"
+        ], 
+        "dns-ns": [
+            "a1.fbi.gov", 
+            "a2.fbi.gov", 
+            "a3.fbi.gov"
+        ], 
+        "domain-name": "fbi.gov", 
+        "fuzzer": "replacement", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 0
+    }
+]

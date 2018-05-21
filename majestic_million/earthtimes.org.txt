@@ -1,0 +1,109 @@
+[
+    {
+        "dns-a": [
+            "207.58.161.129"
+        ], 
+        "dns-mx": [
+            "ALT1.ASPMX.L.GOOGLE.COM", 
+            "ALT2.ASPMX.L.GOOGLE.COM", 
+            "ASPMX.L.GOOGLE.COM", 
+            "ASPMX2.GOOGLEMAIL.COM", 
+            "ASPMX3.GOOGLEMAIL.COM"
+        ], 
+        "dns-ns": [
+            "dns1.earthtimes.org", 
+            "dns2.earthtimes.org", 
+            "ns3.earthtimes.org", 
+            "ns4.earthtimes.org"
+        ], 
+        "domain-name": "earthtimes.org", 
+        "fuzzer": "original*", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 100
+    }, 
+    {
+        "dns-a": [
+            "185.82.201.104"
+        ], 
+        "dns-mx": [
+            "earth-times.org"
+        ], 
+        "dns-ns": [
+            "ns1-violet.anonymous-hosting.info", 
+            "ns2-violet.anonymous-hosting.info"
+        ], 
+        "domain-name": "earth-times.org", 
+        "fuzzer": "hyphenation", 
+        "geoip-country": "Netherlands", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "12.180.59.159"
+        ], 
+        "dns-mx": [
+            "earthties.org"
+        ], 
+        "dns-ns": [
+            "ns1.canvashost.com", 
+            "ns2.canvashost.com", 
+            "ns3.canvashost.com", 
+            "ns4.canvashost.com"
+        ], 
+        "domain-name": "earthties.org", 
+        "fuzzer": "omission", 
+        "geoip-country": "United States"
+    }, 
+    {
+        "dns-a": [
+            "128.2.204.59"
+        ], 
+        "dns-mx": [
+            "earthtime-org.mail.protection.outlook.com"
+        ], 
+        "dns-ns": [
+            "ns-cloud-b1.googledomains.com", 
+            "ns-cloud-b2.googledomains.com", 
+            "ns-cloud-b3.googledomains.com", 
+            "ns-cloud-b4.googledomains.com"
+        ], 
+        "domain-name": "earthtime.org", 
+        "fuzzer": "omission", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "104.228.21.25"
+        ], 
+        "domain-name": "earthti.mes.org", 
+        "fuzzer": "subdomain", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-ns": [
+            "ns1.sedoparking.com", 
+            "ns2.sedoparking.com"
+        ], 
+        "domain-name": "earthtim.es.org", 
+        "fuzzer": "subdomain"
+    }, 
+    {
+        "dns-a": [
+            "50.63.46.1"
+        ], 
+        "dns-ns": [
+            "a.service.afiliasdns.info", 
+            "b.service.afiliasdns.org", 
+            "c.service.afiliasdns.net", 
+            "d.service.afiliasdns.com", 
+            "e.service.afiliasdns.info", 
+            "f.service.afiliasdns.net"
+        ], 
+        "domain-name": "earthtime.s.org", 
+        "fuzzer": "subdomain", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 0
+    }
+]

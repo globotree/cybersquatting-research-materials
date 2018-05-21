@@ -1,0 +1,319 @@
+[
+    {
+        "dns-a": [
+            "81.4.97.160"
+        ], 
+        "dns-aaaa": [
+            "2a00:4e40:1:1::2:2"
+        ], 
+        "dns-mx": [
+            "mailfilter1.mijndomein.nl", 
+            "mailfilter2.mijndomein.nl"
+        ], 
+        "dns-ns": [
+            "ns1.mijndomein.nl", 
+            "ns2.mijndomein.nl"
+        ], 
+        "domain-name": "mijndomein.nl", 
+        "fuzzer": "original*", 
+        "geoip-country": "Netherlands", 
+        "ssdeep-score": 100
+    }, 
+    {
+        "dns-a": [
+            "37.16.0.148"
+        ], 
+        "dns-aaaa": [
+            "2a00:4e40:1:1::2:10a"
+        ], 
+        "dns-ns": [
+            "ns1.metaregistrar.nl", 
+            "ns2.metaregistrar.nl"
+        ], 
+        "domain-name": "mijndomeinn.nl", 
+        "fuzzer": "addition", 
+        "geoip-country": "Netherlands", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "37.16.0.147"
+        ], 
+        "dns-aaaa": [
+            "2a00:4e40:1:1::2:109"
+        ], 
+        "dns-ns": [
+            "ns1.metaregistrar.nl", 
+            "ns2.metaregistrar.nl"
+        ], 
+        "domain-name": "mijndomeins.nl", 
+        "fuzzer": "addition", 
+        "geoip-country": "Netherlands", 
+        "ssdeep-score": 100
+    }, 
+    {
+        "dns-a": [
+            "37.16.0.119"
+        ], 
+        "dns-aaaa": [
+            "2a00:4e40:1:1::2:103"
+        ], 
+        "dns-mx": [
+            "mailfilter1.mijndomein.nl", 
+            "mailfilter2.mijndomein.nl"
+        ], 
+        "dns-ns": [
+            "ns1.metaregistrar.nl", 
+            "ns2.metaregistrar.nl"
+        ], 
+        "domain-name": "mijndomeinx.nl", 
+        "fuzzer": "addition", 
+        "geoip-country": "Netherlands"
+    }, 
+    {
+        "dns-a": [
+            "94.124.120.11"
+        ], 
+        "dns-mx": [
+            "mx.bhosted.nl"
+        ], 
+        "dns-ns": [
+            "ns1.bhosted.nl", 
+            "ns3.bhosted.nl", 
+            "ns4.bhosted.nl"
+        ], 
+        "domain-name": "mijndomain.nl", 
+        "fuzzer": "bitsquatting", 
+        "geoip-country": "Netherlands"
+    }, 
+    {
+        "dns-aaaa": [
+            "2a00:4e40:1:1::2:10d"
+        ], 
+        "dns-mx": [
+            "mailfilter1.mijndomein.nl", 
+            "mailfilter2.mijndomein.nl"
+        ], 
+        "dns-ns": [
+            "ns1.metaregistrar.nl", 
+            "ns2.metaregistrar.nl"
+        ], 
+        "domain-name": "mijn-domein.nl", 
+        "fuzzer": "hyphenation"
+    }, 
+    {
+        "dns-a": [
+            "85.92.144.42"
+        ], 
+        "dns-mx": [
+            "mail.mijndomeijn.nl"
+        ], 
+        "dns-ns": [
+            "ns1.yesmina.nl", 
+            "ns2.yesmina.nl"
+        ], 
+        "domain-name": "mijndomeijn.nl", 
+        "fuzzer": "insertion", 
+        "geoip-country": "Netherlands"
+    }, 
+    {
+        "dns-a": [
+            "141.255.181.7"
+        ], 
+        "dns-mx": [
+            "fallback.premiumantispam.nl", 
+            "filter.cluster02.premiumantispam.nl"
+        ], 
+        "dns-ns": [
+            "nameserver1.digitalus.nl", 
+            "nameserver2.digitalus.nl", 
+            "nameserver3.digitalus.nl"
+        ], 
+        "domain-name": "mijndromein.nl", 
+        "fuzzer": "insertion", 
+        "geoip-country": "Netherlands", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "69.162.80.52"
+        ], 
+        "dns-ns": [
+            "ns1.hastydns.com", 
+            "ns2.hastydns.com"
+        ], 
+        "domain-name": "mijndomei.nl", 
+        "fuzzer": "omission", 
+        "geoip-country": "United States"
+    }, 
+    {
+        "dns-a": [
+            "185.53.179.7"
+        ], 
+        "dns-mx": [
+            "mail.h-email.net"
+        ], 
+        "dns-ns": [
+            "ns1.fastpark.net", 
+            "ns2.fastpark.net"
+        ], 
+        "domain-name": "mijndomen.nl", 
+        "fuzzer": "omission", 
+        "geoip-country": "Germany", 
+        "mx-spy": true, 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "95.211.219.67"
+        ], 
+        "dns-ns": [
+            "ns1.hastydns.com", 
+            "ns2.hastydns.com"
+        ], 
+        "domain-name": "mindomein.nl", 
+        "fuzzer": "omission", 
+        "geoip-country": "Netherlands", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "188.93.150.44"
+        ], 
+        "dns-aaaa": [
+            "2a00:4e40:1:1::2:200"
+        ], 
+        "dns-ns": [
+            "ns1.metaregistrar.nl", 
+            "ns2.metaregistrar.nl"
+        ], 
+        "domain-name": "mijndoomein.nl", 
+        "fuzzer": "repetition", 
+        "geoip-country": "Netherlands", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "37.16.0.143"
+        ], 
+        "dns-aaaa": [
+            "2a00:4e40:1:1::2:10e"
+        ], 
+        "dns-mx": [
+            "mailfilter1.mijndomein.nl", 
+            "mailfilter2.mijndomein.nl"
+        ], 
+        "dns-ns": [
+            "ns1.metaregistrar.nl", 
+            "ns2.metaregistrar.nl"
+        ], 
+        "domain-name": "mijndommein.nl", 
+        "fuzzer": "repetition", 
+        "geoip-country": "Netherlands", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "37.16.0.136"
+        ], 
+        "dns-aaaa": [
+            "2a00:4e40:1:1::2:109"
+        ], 
+        "dns-ns": [
+            "ns1.metaregistrar.nl", 
+            "ns2.metaregistrar.nl"
+        ], 
+        "domain-name": "pijndomein.nl", 
+        "fuzzer": "replacement", 
+        "geoip-country": "Netherlands", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "37.97.135.129"
+        ], 
+        "dns-aaaa": [
+            "2a01:7c8:aabc:2e:5054:ff:fe24:1b7d"
+        ], 
+        "domain-name": "mijndo.mein.nl", 
+        "fuzzer": "subdomain", 
+        "geoip-country": "Netherlands", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "77.95.252.68"
+        ], 
+        "domain-name": "mijndome.in.nl", 
+        "fuzzer": "subdomain", 
+        "geoip-country": "Netherlands", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "199.59.242.150"
+        ], 
+        "dns-mx": [
+            "mx76.m2bp.com", 
+            "mx76.mb1p.com"
+        ], 
+        "dns-ns": [
+            "ns1.bodis.com", 
+            "ns2.bodis.com"
+        ], 
+        "domain-name": "mjindomein.nl", 
+        "fuzzer": "transposition", 
+        "geoip-country": "United States", 
+        "mx-spy": true, 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "178.62.186.220"
+        ], 
+        "dns-aaaa": [
+            "2a03:b0c0:0:1010::de:4001"
+        ], 
+        "dns-mx": [
+            "fallbackmail.zxcs.nl", 
+            "mijndoemin.nl"
+        ], 
+        "dns-ns": [
+            "ns1.zxcs.nl", 
+            "ns2.zxcs.nl", 
+            "ns3.zxcs.nl"
+        ], 
+        "domain-name": "mijndoemin.nl", 
+        "fuzzer": "transposition"
+    }, 
+    {
+        "dns-a": [
+            "83.98.131.148"
+        ], 
+        "dns-mx": [
+            "mail.mijndomien.nl"
+        ], 
+        "dns-ns": [
+            "ns1.nldns.com", 
+            "ns2.nldns.com"
+        ], 
+        "domain-name": "mijndomien.nl", 
+        "fuzzer": "transposition", 
+        "geoip-country": "Netherlands"
+    }, 
+    {
+        "dns-a": [
+            "188.93.150.44"
+        ], 
+        "dns-aaaa": [
+            "2a00:4e40:1:1::2:205"
+        ], 
+        "dns-ns": [
+            "ns1.metaregistrar.nl", 
+            "ns2.metaregistrar.nl"
+        ], 
+        "domain-name": "mijndomein-nl.com", 
+        "fuzzer": "various", 
+        "geoip-country": "Netherlands"
+    }
+]

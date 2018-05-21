@@ -1,0 +1,157 @@
+[
+    {
+        "dns-a": [
+            "66.218.85.44", 
+            "98.136.145.80"
+        ], 
+        "dns-mx": [
+            ""
+        ], 
+        "dns-ns": [
+            "ns1.yahoo.com", 
+            "ns2.yahoo.com", 
+            "ns3.yahoo.com", 
+            "ns4.yahoo.com", 
+            "ns5.yahoo.com", 
+            "ns6.yahoo.com"
+        ], 
+        "domain-name": "flic.kr", 
+        "fuzzer": "original*", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 88
+    }, 
+    {
+        "dns-mx": [
+            "mail.flics.kr"
+        ], 
+        "dns-ns": [
+            "ns1.sdsns.com", 
+            "ns2.sdsns.com"
+        ], 
+        "domain-name": "flics.kr", 
+        "fuzzer": "addition"
+    }, 
+    {
+        "dns-a": [
+            "221.143.20.101"
+        ], 
+        "dns-ns": [
+            "ns3.hostcenter.co.kr", 
+            "ns4.hostcenter.co.kr"
+        ], 
+        "domain-name": "flac.kr", 
+        "fuzzer": "bitsquatting", 
+        "geoip-country": "Korea"
+    }, 
+    {
+        "dns-a": [
+            "211.231.112.40"
+        ], 
+        "dns-mx": [
+            "alt.aspmx.daum.net", 
+            "aspmx.daum.net"
+        ], 
+        "dns-ns": [
+            "ns.gabia.co.kr", 
+            "ns.gabia.net", 
+            "ns1.gabia.co.kr"
+        ], 
+        "domain-name": "fli.kr", 
+        "fuzzer": "omission", 
+        "geoip-country": "Korea"
+    }, 
+    {
+        "dns-a": [
+            "72.52.4.120"
+        ], 
+        "dns-mx": [
+            "localhost"
+        ], 
+        "dns-ns": [
+            "ns1.sedoparking.com", 
+            "ns2.sedoparking.com"
+        ], 
+        "domain-name": "fic.kr", 
+        "fuzzer": "omission", 
+        "geoip-country": "United States", 
+        "mx-spy": true, 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "72.52.4.120"
+        ], 
+        "dns-mx": [
+            "localhost"
+        ], 
+        "dns-ns": [
+            "ns1.sedoparking.com", 
+            "ns2.sedoparking.com"
+        ], 
+        "domain-name": "flc.kr", 
+        "fuzzer": "omission", 
+        "geoip-country": "United States", 
+        "mx-spy": true, 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "121.135.147.90"
+        ], 
+        "dns-ns": [
+            "ns1.uhost.co.kr", 
+            "ns2.uhost.co.kr"
+        ], 
+        "domain-name": "lic.kr", 
+        "fuzzer": "omission", 
+        "geoip-country": "Korea", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "182.162.73.77"
+        ], 
+        "dns-ns": [
+            "ns1.hosting.co.kr", 
+            "ns2.hosting.co.kr"
+        ], 
+        "domain-name": "clic.kr", 
+        "fuzzer": "replacement", 
+        "geoip-country": "Korea"
+    }, 
+    {
+        "dns-a": [
+            "211.234.63.232"
+        ], 
+        "dns-ns": [
+            "ns1.hosting.co.kr", 
+            "ns2.hosting.co.kr"
+        ], 
+        "domain-name": "flix.kr", 
+        "fuzzer": "replacement", 
+        "geoip-country": "Korea"
+    }, 
+    {
+        "dns-a": [
+            "185.53.178.7"
+        ], 
+        "dns-ns": [
+            "ns1.parkingcrew.net", 
+            "ns2.parkingcrew.net"
+        ], 
+        "domain-name": "flickr.kr", 
+        "fuzzer": "various"
+    }, 
+    {
+        "dns-a": [
+            "74.117.114.116"
+        ], 
+        "dns-ns": [
+            "ns1.parked.com", 
+            "ns2.parked.com"
+        ], 
+        "domain-name": "flic-kr.com", 
+        "fuzzer": "various", 
+        "geoip-country": "Cayman Islands"
+    }
+]

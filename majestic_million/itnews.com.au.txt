@@ -1,0 +1,41 @@
+[
+    {
+        "dns-a": [
+            "119.9.39.10"
+        ], 
+        "dns-mx": [
+            "mail.nextmedia.com.au"
+        ], 
+        "dns-ns": [
+            "ns1.nextmedia.com.au", 
+            "ns2.nextmedia.com.au"
+        ], 
+        "domain-name": "itnews.com.au", 
+        "fuzzer": "original*", 
+        "geoip-country": "Australia", 
+        "ssdeep-score": 99
+    }, 
+    {
+        "dns-a": [
+            "138.68.46.128"
+        ], 
+        "dns-mx": [
+            "box.ajsbookkeeping.com.au"
+        ], 
+        "dns-ns": [
+            "ns1.box.ajsbookkeeping.com.au", 
+            "ns2.box.ajsbookkeeping.com.au"
+        ], 
+        "domain-name": "itnes.com.au", 
+        "fuzzer": "omission", 
+        "geoip-country": "United States"
+    }, 
+    {
+        "dns-ns": [
+            "dns0.iseek.com.au", 
+            "dns1.iseek.com.au"
+        ], 
+        "domain-name": "inews.com.au", 
+        "fuzzer": "omission"
+    }
+]

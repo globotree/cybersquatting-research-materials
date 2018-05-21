@@ -1,0 +1,42 @@
+[
+    {
+        "dns-a": [
+            "61.178.241.223"
+        ], 
+        "dns-mx": [
+            "mail.gansudaily.com.cn", 
+            "mail.gansudaily.com.cn"
+        ], 
+        "dns-ns": [
+            "ns1.365cyd.net", 
+            "ns1.jiasule.net", 
+            "ns1.kangdns.com", 
+            "ns2.365cyd.net", 
+            "ns2.jiasule.net", 
+            "ns2.kangdns.com"
+        ], 
+        "domain-name": "gansudaily.com.cn", 
+        "fuzzer": "original*", 
+        "geoip-country": "China", 
+        "ssdeep-score": 100
+    }, 
+    {
+        "dns-ns": [
+            "igor.ns.cloudflare.com", 
+            "karina.ns.cloudflare.com"
+        ], 
+        "domain-name": "gansudaliy.com.cn", 
+        "fuzzer": "transposition"
+    }, 
+    {
+        "dns-a": [
+            "172.106.57.50"
+        ], 
+        "dns-ns": [
+            "f1g1ns1.dnspod.net", 
+            "f1g1ns2.dnspod.net"
+        ], 
+        "domain-name": "gansudailycom.cn", 
+        "fuzzer": "various"
+    }
+]

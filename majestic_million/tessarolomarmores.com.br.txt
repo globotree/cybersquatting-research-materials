@@ -1,0 +1,36 @@
+[
+    {
+        "dns-a": [
+            "187.17.98.133"
+        ], 
+        "dns-mx": [
+            "mx.uhserver.com"
+        ], 
+        "dns-ns": [
+            "ns1.dominios.uol.com.br", 
+            "ns2.dominios.uol.com.br", 
+            "ns3.dominios.uol.com.br"
+        ], 
+        "domain-name": "tessarolomarmores.com.br", 
+        "fuzzer": "original*", 
+        "geoip-country": "Brazil", 
+        "ssdeep-score": 100
+    }, 
+    {
+        "dns-a": [
+            "185.53.178.6"
+        ], 
+        "dns-mx": [
+            "mail.h-email.net"
+        ], 
+        "dns-ns": [
+            "ns1.fastpark.net", 
+            "ns2.fastpark.net"
+        ], 
+        "domain-name": "tessarolomarmo.res.com.br", 
+        "fuzzer": "subdomain", 
+        "geoip-country": "Germany", 
+        "mx-spy": true, 
+        "ssdeep-score": 0
+    }
+]

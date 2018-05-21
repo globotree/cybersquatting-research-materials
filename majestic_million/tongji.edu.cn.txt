@@ -1,0 +1,22 @@
+[
+    {
+        "dns-mx": [
+            "mx1.tongji.edu.cn", 
+            "mx2.tongji.edu.cn"
+        ], 
+        "dns-ns": [
+            "dns.tongji.edu.cn", 
+            "dns1.tongji.edu.cn"
+        ], 
+        "domain-name": "tongji.edu.cn", 
+        "fuzzer": "original*"
+    }, 
+    {
+        "dns-ns": [
+            "dns.tongji.edu.cn", 
+            "dns1.tongji.edu.cn"
+        ], 
+        "domain-name": "tongji.cn", 
+        "fuzzer": "various"
+    }
+]

@@ -1,0 +1,76 @@
+[
+    {
+        "dns-a": [
+            "76.162.124.105"
+        ], 
+        "dns-mx": [
+            "alt1.aspmx.l.google.com", 
+            "alt2.aspmx.l.google.com", 
+            "aspmx2.googlemail.com", 
+            "aspmx3.googlemail.com"
+        ], 
+        "dns-ns": [
+            "ns21.ixwebhosting.com", 
+            "ns22.ixwebhosting.com"
+        ], 
+        "domain-name": "drizzled.org", 
+        "fuzzer": "addition", 
+        "geoip-country": "United States"
+    }, 
+    {
+        "dns-a": [
+            "150.101.68.241"
+        ], 
+        "dns-mx": [
+            "mail.i-nex.com.au"
+        ], 
+        "dns-ns": [
+            "ns.i-nex.com.au", 
+            "ns2.i-nex.com.au"
+        ], 
+        "domain-name": "frizzle.org", 
+        "fuzzer": "bitsquatting", 
+        "geoip-country": "Australia"
+    }, 
+    {
+        "dns-a": [
+            "74.208.162.203"
+        ], 
+        "dns-mx": [
+            "mx00.1and1.com", 
+            "mx01.1and1.com"
+        ], 
+        "dns-ns": [
+            "ns1042.ui-dns.biz", 
+            "ns1042.ui-dns.com", 
+            "ns1042.ui-dns.de", 
+            "ns1042.ui-dns.org"
+        ], 
+        "domain-name": "rizzle.org", 
+        "fuzzer": "omission", 
+        "geoip-country": "United States"
+    }, 
+    {
+        "dns-a": [
+            "75.126.101.247"
+        ], 
+        "domain-name": "driz.zle.org", 
+        "fuzzer": "subdomain"
+    }, 
+    {
+        "dns-a": [
+            "52.70.116.201"
+        ], 
+        "domain-name": "drizz.le.org", 
+        "fuzzer": "subdomain", 
+        "geoip-country": "United States"
+    }, 
+    {
+        "dns-a": [
+            "217.194.213.243"
+        ], 
+        "domain-name": "drizzl.e.org", 
+        "fuzzer": "subdomain", 
+        "geoip-country": "United Kingdom"
+    }
+]

@@ -1,0 +1,126 @@
+[
+    {
+        "dns-a": [
+            "130.15.126.136"
+        ], 
+        "dns-mx": [
+            "mailgw.queensu.ca", 
+            "queensu-ca.mail.protection.outlook.com"
+        ], 
+        "dns-ns": [
+            "ns1.d-zone.ca", 
+            "ns2.d-zone.ca"
+        ], 
+        "domain-name": "queensu.ca", 
+        "fuzzer": "original*", 
+        "geoip-country": "Canada", 
+        "ssdeep-score": 100
+    }, 
+    {
+        "dns-a": [
+            "184.168.221.58"
+        ], 
+        "dns-mx": [
+            "mailstore1.secureserver.net", 
+            "smtp.secureserver.net"
+        ], 
+        "dns-ns": [
+            "pdns05.domaincontrol.com", 
+            "pdns06.domaincontrol.com"
+        ], 
+        "domain-name": "queenst.ca", 
+        "fuzzer": "bitsquatting", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "103.224.182.219"
+        ], 
+        "dns-mx": [
+            "park-mx.above.com"
+        ], 
+        "dns-ns": [
+            "ns1.above.com", 
+            "ns2.above.com"
+        ], 
+        "domain-name": "quensu.ca", 
+        "fuzzer": "omission", 
+        "geoip-country": "Australia", 
+        "mx-spy": true, 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "141.8.224.93"
+        ], 
+        "dns-ns": [
+            "ns7.rookdns.com", 
+            "ns8.rookdns.com"
+        ], 
+        "domain-name": "queenu.ca", 
+        "fuzzer": "omission", 
+        "geoip-country": "Switzerland", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "104.152.168.32"
+        ], 
+        "dns-mx": [
+            "mx1c11.megamailservers.com", 
+            "mx2c11.megamailservers.com", 
+            "mx3c11.megamailservers.com"
+        ], 
+        "dns-ns": [
+            "dns1.datacentres.rogers.com", 
+            "dns2.datacentres.rogers.com", 
+            "dns3.datacentres.rogers.com"
+        ], 
+        "domain-name": "queens.ca", 
+        "fuzzer": "omission", 
+        "geoip-country": "Canada", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "192.0.78.24", 
+            "192.0.78.25"
+        ], 
+        "dns-ns": [
+            "ns1.wordpress.com", 
+            "ns2.wordpress.com", 
+            "ns3.wordpress.com"
+        ], 
+        "domain-name": "que.ensu.ca", 
+        "fuzzer": "subdomain", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "72.52.4.122"
+        ], 
+        "dns-mx": [
+            "localhost"
+        ], 
+        "dns-ns": [
+            "ns1.sedoparking.com", 
+            "ns2.sedoparking.com"
+        ], 
+        "domain-name": "quee.nsu.ca", 
+        "fuzzer": "subdomain", 
+        "geoip-country": "United States", 
+        "mx-spy": true, 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "199.59.242.150"
+        ], 
+        "domain-name": "queen.su.ca", 
+        "fuzzer": "subdomain", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 0
+    }
+]

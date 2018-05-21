@@ -1,0 +1,92 @@
+[
+    {
+        "dns-mx": [
+            "mail.cloud9.net"
+        ], 
+        "dns-ns": [
+            "ns1.cloud9.net", 
+            "ns2.cloud9.net", 
+            "ns4.cloud9.net", 
+            "ns5.cloud9.net", 
+            "static-70-104-130-26.nycmny.fios.verizon.net"
+        ], 
+        "domain-name": "postfix.org", 
+        "fuzzer": "original*"
+    }, 
+    {
+        "dns-mx": [
+            "alt1.aspmx.l.google.com", 
+            "alt2.aspmx.l.google.com", 
+            "aspmx.l.google.com", 
+            "aspmx3.googlemail.com", 
+            "aspmx5.googlemail.com"
+        ], 
+        "dns-ns": [
+            "ns-cloud-c1.googledomains.com", 
+            "ns-cloud-c2.googledomains.com", 
+            "ns-cloud-c3.googledomains.com", 
+            "ns-cloud-c4.googledomains.com"
+        ], 
+        "domain-name": "postix.org", 
+        "fuzzer": "omission"
+    }, 
+    {
+        "dns-a": [
+            "184.168.221.35"
+        ], 
+        "dns-mx": [
+            "mailstore1.secureserver.net", 
+            "smtp.secureserver.net"
+        ], 
+        "dns-ns": [
+            "ns37.domaincontrol.com", 
+            "ns38.domaincontrol.com"
+        ], 
+        "domain-name": "pstfix.org", 
+        "fuzzer": "omission", 
+        "geoip-country": "United States"
+    }, 
+    {
+        "dns-a": [
+            "208.73.210.29"
+        ], 
+        "dns-ns": [
+            "ns1.monikerdns.net", 
+            "ns2.monikerdns.net", 
+            "ns3.monikerdns.net", 
+            "ns4.monikerdns.net"
+        ], 
+        "domain-name": "ostfix.org", 
+        "fuzzer": "omission", 
+        "geoip-country": "United States"
+    }, 
+    {
+        "dns-a": [
+            "208.73.210.29"
+        ], 
+        "domain-name": "p.ostfix.org", 
+        "fuzzer": "subdomain", 
+        "geoip-country": "United States"
+    }, 
+    {
+        "dns-a": [
+            "109.237.138.24"
+        ], 
+        "domain-name": "pos.tfix.org", 
+        "fuzzer": "subdomain", 
+        "geoip-country": "Germany"
+    }, 
+    {
+        "dns-a": [
+            "213.171.195.105"
+        ], 
+        "dns-ns": [
+            "ns1.livedns.co.uk", 
+            "ns2.livedns.co.uk", 
+            "ns3.livedns.co.uk"
+        ], 
+        "domain-name": "pestfix.org", 
+        "fuzzer": "vowel-swap", 
+        "geoip-country": "United Kingdom"
+    }
+]

@@ -1,0 +1,43 @@
+[
+    {
+        "dns-a": [
+            "158.182.0.81"
+        ], 
+        "dns-mx": [
+            "mailgwy56.hkbu.edu.hk", 
+            "mailgwy57.hkbu.edu.hk"
+        ], 
+        "dns-ns": [
+            "dns01.hkbu.edu.hk", 
+            "dns3.hkbu.edu.hk"
+        ], 
+        "domain-name": "hkbu.edu.hk", 
+        "fuzzer": "original*", 
+        "geoip-country": "Hong Kong", 
+        "ssdeep-score": 100
+    }, 
+    {
+        "dns-ns": [
+            "dns01.hkbu.edu.hk", 
+            "dns3.hkbu.edu.hk"
+        ], 
+        "domain-name": "hkbuk.edu.hk", 
+        "fuzzer": "addition"
+    }, 
+    {
+        "dns-ns": [
+            "ns3.hku.hk", 
+            "ns4.hku.hk"
+        ], 
+        "domain-name": "hku.edu.hk", 
+        "fuzzer": "omission"
+    }, 
+    {
+        "dns-ns": [
+            "dns01.hkbu.edu.hk", 
+            "dns3.hkbu.edu.hk"
+        ], 
+        "domain-name": "hkbu.hk", 
+        "fuzzer": "various"
+    }
+]

@@ -1,0 +1,44 @@
+[
+    {
+        "dns-a": [
+            "128.230.18.198"
+        ], 
+        "dns-mx": [
+            "mx1.syr.edu", 
+            "mx2.syr.edu", 
+            "mx3.syr.edu"
+        ], 
+        "dns-ns": [
+            "icarus.syr.edu", 
+            "its-ndd-nc-extns-01.syr.edu", 
+            "its-ndd-nyc-extns-01.syr.edu", 
+            "its-ndd-sc-extns-01.syr.edu", 
+            "lurch.cns.syr.edu", 
+            "lurch.syr.edu", 
+            "ns1.syr.edu", 
+            "ns2.syr.edu"
+        ], 
+        "domain-name": "syr.edu", 
+        "fuzzer": "original*", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 99
+    }, 
+    {
+        "dns-a": [
+            "5.45.126.190"
+        ], 
+        "dns-mx": [
+            "mx.yandex.net"
+        ], 
+        "dns-ns": [
+            "dns.fastdns24.com", 
+            "dns2.fastdns24.org", 
+            "dns3.fastdns24.eu", 
+            "dns4.fastdns24.link"
+        ], 
+        "domain-name": "sir.edu", 
+        "fuzzer": "bitsquatting", 
+        "geoip-country": "Estonia", 
+        "ssdeep-score": 0
+    }
+]

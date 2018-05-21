@@ -1,0 +1,56 @@
+[
+    {
+        "dns-a": [
+            "46.105.102.78"
+        ], 
+        "dns-aaaa": [
+            "2001:41d0:2:d54e::1"
+        ], 
+        "dns-mx": [
+            "e.cacaoweb.org"
+        ], 
+        "dns-ns": [
+            "ns47.domaincontrol.com", 
+            "ns48.domaincontrol.com"
+        ], 
+        "domain-name": "cacaoweb.org", 
+        "fuzzer": "original*", 
+        "geoip-country": "France", 
+        "ssdeep-score": 100
+    }, 
+    {
+        "dns-a": [
+            "78.41.204.28"
+        ], 
+        "dns-ns": [
+            "ns1.torresdns.com", 
+            "ns2.torresdns.com"
+        ], 
+        "domain-name": "cacoweb.org", 
+        "fuzzer": "omission", 
+        "geoip-country": "Netherlands", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "199.191.50.73"
+        ], 
+        "dns-ns": [
+            "ns111373.ztomy.com", 
+            "ns211373.ztomy.com"
+        ], 
+        "domain-name": "cacaweb.org", 
+        "fuzzer": "omission", 
+        "geoip-country": "Virgin Islands", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "98.124.199.32"
+        ], 
+        "domain-name": "cacaowe.b.org", 
+        "fuzzer": "subdomain", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 0
+    }
+]

@@ -1,0 +1,88 @@
+[
+    {
+        "dns-a": [
+            "192.0.79.32", 
+            "192.0.79.33"
+        ], 
+        "dns-mx": [
+            "spamgateway.corusent.com", 
+            "spamgateway3.corusent.com"
+        ], 
+        "dns-ns": [
+            "ns-1117.awsdns-11.org", 
+            "ns-1893.awsdns-44.co.uk", 
+            "ns-190.awsdns-23.com", 
+            "ns-663.awsdns-18.net"
+        ], 
+        "domain-name": "globalnews.ca", 
+        "fuzzer": "original*", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 99
+    }, 
+    {
+        "dns-a": [
+            "160.153.51.201"
+        ], 
+        "dns-mx": [
+            "mail.global-news.ca"
+        ], 
+        "dns-ns": [
+            "ns35.domaincontrol.com", 
+            "ns36.domaincontrol.com"
+        ], 
+        "domain-name": "global-news.ca", 
+        "fuzzer": "hyphenation", 
+        "geoip-country": "United States"
+    }, 
+    {
+        "dns-a": [
+            "141.8.224.247"
+        ], 
+        "dns-ns": [
+            "ns5.dsredirection.com", 
+            "ns6.dsredirection.com"
+        ], 
+        "domain-name": "globalnew.ca", 
+        "fuzzer": "omission", 
+        "geoip-country": "Switzerland", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "185.53.178.6"
+        ], 
+        "dns-ns": [
+            "ns1.parkingcrew.net", 
+            "ns2.parkingcrew.net"
+        ], 
+        "domain-name": "gobalnews.ca", 
+        "fuzzer": "omission", 
+        "geoip-country": "Germany", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-ns": [
+            "ns1.uniregistrymarket.link", 
+            "ns2.uniregistrymarket.link"
+        ], 
+        "domain-name": "global.news.ca", 
+        "fuzzer": "subdomain"
+    }, 
+    {
+        "dns-a": [
+            "98.124.245.24"
+        ], 
+        "dns-mx": [
+            "mail.b-io.co"
+        ], 
+        "dns-ns": [
+            "ns1.fabulous.com", 
+            "ns2.fabulous.com"
+        ], 
+        "domain-name": "globaln.ews.ca", 
+        "fuzzer": "subdomain", 
+        "geoip-country": "United States", 
+        "mx-spy": true, 
+        "ssdeep-score": 0
+    }
+]

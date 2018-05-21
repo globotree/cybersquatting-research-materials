@@ -1,0 +1,93 @@
+[
+    {
+        "dns-a": [
+            "155.97.137.55"
+        ], 
+        "dns-mx": [
+            "ipo.cc.utah.edu"
+        ], 
+        "dns-ns": [
+            "fiber.utah.edu", 
+            "fiber1.utah.edu", 
+            "ns.utah.edu", 
+            "ns1.utah.edu"
+        ], 
+        "domain-name": "utah.edu", 
+        "fuzzer": "original*", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 100
+    }, 
+    {
+        "dns-a": [
+            "146.229.1.10"
+        ], 
+        "dns-mx": [
+            "alt1.aspmx.l.google.com", 
+            "alt2.aspmx.l.google.com", 
+            "alt3.aspmx.l.google.com", 
+            "alt4.aspmx.l.google.com", 
+            "aspmx.l.google.com"
+        ], 
+        "dns-ns": [
+            "uahis1.uah.edu", 
+            "uahoffsitens1.uah.edu"
+        ], 
+        "domain-name": "uah.edu", 
+        "fuzzer": "omission", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "129.106.150.237"
+        ], 
+        "dns-mx": [
+            "ALT1.ASPMX.L.GOOGLE.COM", 
+            "ALT2.ASPMX.L.GOOGLE.COM", 
+            "ASPMX.L.GOOGLE.COM", 
+            "ASPMX2.GOOGLEMAIL.COM", 
+            "ASPMX3.GOOGLEMAIL.COM"
+        ], 
+        "dns-ns": [
+            "depot.uth.edu", 
+            "dns2.uth.edu", 
+            "dns3.uth.edu"
+        ], 
+        "domain-name": "uth.edu", 
+        "fuzzer": "omission"
+    }, 
+    {
+        "dns-a": [
+            "129.107.58.60"
+        ], 
+        "dns-mx": [
+            "smtp.uta.edu"
+        ], 
+        "dns-ns": [
+            "maggie.telcom.arizona.edu", 
+            "ns-remote.arizona.edu", 
+            "ns1.uta.edu", 
+            "ns2.ots.utsystem.edu", 
+            "ns2.uta.edu"
+        ], 
+        "domain-name": "uta.edu", 
+        "fuzzer": "omission", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-mx": [
+            "us2.mx1.mailhostbox.com", 
+            "us2.mx2.mailhostbox.com", 
+            "us2.mx3.mailhostbox.com"
+        ], 
+        "dns-ns": [
+            "monovm.earth.orderbox-dns.com", 
+            "monovm.mars.orderbox-dns.com", 
+            "monovm.mercury.orderbox-dns.com", 
+            "monovm.venus.orderbox-dns.com"
+        ], 
+        "domain-name": "utah-edu.com", 
+        "fuzzer": "various"
+    }
+]

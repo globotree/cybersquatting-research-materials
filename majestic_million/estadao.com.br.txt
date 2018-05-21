@@ -1,0 +1,116 @@
+[
+    {
+        "dns-a": [
+            "23.59.116.12"
+        ], 
+        "dns-mx": [
+            "correio3.estadao.com.br", 
+            "correio4.estadao.com.br", 
+            "correio5.estadao.com.br", 
+            "mailer.estadao.com.br", 
+            "mailer1.estadao.com.br", 
+            "mailer5.estadao.com.br"
+        ], 
+        "dns-ns": [
+            "a1-97.akam.net", 
+            "a13-64.akam.net", 
+            "a2-65.akam.net", 
+            "a20-66.akam.net", 
+            "a4-67.akam.net", 
+            "a5-64.akam.net"
+        ], 
+        "domain-name": "estadao.com.br", 
+        "fuzzer": "original*", 
+        "geoip-country": "Netherlands", 
+        "ssdeep-score": 100
+    }, 
+    {
+        "dns-ns": [
+            "a.auto.dns.br", 
+            "b.auto.dns.br"
+        ], 
+        "domain-name": "estadio.com.br", 
+        "fuzzer": "bitsquatting"
+    }, 
+    {
+        "dns-a": [
+            "200.185.145.182"
+        ], 
+        "dns-ns": [
+            "dns1.optiglobe.net.br", 
+            "dns2.optiglobe.net.br", 
+            "ns1.p06.dynect.net", 
+            "ns1.tivit.net", 
+            "ns2.p06.dynect.net", 
+            "ns2.tivit.net", 
+            "ns3.p06.dynect.net", 
+            "ns3.tivit.net", 
+            "ns4.p06.dynect.net", 
+            "ns4.tivit.net"
+        ], 
+        "domain-name": "xn--estado-7ta.com.br", 
+        "fuzzer": "homoglyph", 
+        "geoip-country": "Brazil", 
+        "ssdeep-score": 100
+    }, 
+    {
+        "dns-a": [
+            "192.185.210.7"
+        ], 
+        "dns-mx": [
+            "estradao.com.br"
+        ], 
+        "dns-ns": [
+            "ns114.hostgator.com.br", 
+            "ns115.hostgator.com.br"
+        ], 
+        "domain-name": "estradao.com.br", 
+        "fuzzer": "insertion", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-ns": [
+            "a.auto.dns.br", 
+            "b.auto.dns.br"
+        ], 
+        "domain-name": "estada.com.br", 
+        "fuzzer": "omission"
+    }, 
+    {
+        "dns-a": [
+            "200.185.148.46"
+        ], 
+        "dns-mx": [
+            "correio3.grupoestado.com.br", 
+            "correio4.grupoestado.com.br"
+        ], 
+        "dns-ns": [
+            "ns1.tivit.net", 
+            "ns2.tivit.net", 
+            "ns3.tivit.net", 
+            "ns4.tivit.net"
+        ], 
+        "domain-name": "estado.com.br", 
+        "fuzzer": "omission", 
+        "geoip-country": "Brazil", 
+        "ssdeep-score": 100
+    }, 
+    {
+        "dns-ns": [
+            "b.sec.dns.br", 
+            "c.sec.dns.br"
+        ], 
+        "domain-name": "estacao.com.br", 
+        "fuzzer": "replacement"
+    }, 
+    {
+        "dns-ns": [
+            "ns1.locaweb.com.br", 
+            "ns2.locaweb.com.br", 
+            "ns3.locaweb.com.br"
+        ], 
+        "domain-name": "extadao.com.br", 
+        "fuzzer": "replacement"
+    }
+]

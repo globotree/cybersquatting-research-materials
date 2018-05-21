@@ -1,0 +1,147 @@
+[
+    {
+        "dns-a": [
+            "156.110.247.18"
+        ], 
+        "dns-mx": [
+            "mxa-00272701.gslb.pphosted.com", 
+            "mxb-00272701.gslb.pphosted.com"
+        ], 
+        "dns-ns": [
+            "mc1.backbone.ou.edu", 
+            "nc1.backbone.ou.edu", 
+            "rc1.backbone.ou.edu", 
+            "rc2.backbone.ou.edu", 
+            "sc1.backbone.ou.edu", 
+            "sc2.backbone.ou.edu"
+        ], 
+        "domain-name": "ou.edu", 
+        "fuzzer": "original*", 
+        "geoip-country": "United States", 
+        "mx-spy": true, 
+        "ssdeep-score": 100
+    }, 
+    {
+        "dns-mx": [
+            "relay.oregonstate.edu"
+        ], 
+        "dns-ns": [
+            "ns1.nero.net", 
+            "ns1.oregonstate.edu", 
+            "ns2.oregonstate.edu"
+        ], 
+        "domain-name": "ous.edu", 
+        "fuzzer": "addition"
+    }, 
+    {
+        "dns-a": [
+            "198.17.145.124"
+        ], 
+        "dns-mx": [
+            "mxa-002b4301.gslb.pphosted.com", 
+            "mxb-002b4301.gslb.pphosted.com"
+        ], 
+        "dns-ns": [
+            "ns1-05.azure-dns.com", 
+            "ns2-05.azure-dns.net", 
+            "ns3-05.azure-dns.org", 
+            "ns4-05.azure-dns.info"
+        ], 
+        "domain-name": "nu.edu", 
+        "fuzzer": "bitsquatting", 
+        "geoip-country": "United States", 
+        "mx-spy": true, 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "134.48.29.23"
+        ], 
+        "dns-mx": [
+            "mxa-0020b801.gslb.pphosted.com", 
+            "mxb-0020b801.gslb.pphosted.com"
+        ], 
+        "dns-ns": [
+            "dns1.mu.edu", 
+            "dns2.mu.edu", 
+            "ns1.twtelecom.net", 
+            "ns2.twtelecom.net"
+        ], 
+        "domain-name": "mu.edu", 
+        "fuzzer": "bitsquatting", 
+        "geoip-country": "United States", 
+        "mx-spy": true, 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "129.237.11.182"
+        ], 
+        "dns-mx": [
+            "ku-edu.mail.protection.outlook.com"
+        ], 
+        "dns-ns": [
+            "ns1.ku.edu", 
+            "ns2.ku.edu"
+        ], 
+        "domain-name": "ku.edu", 
+        "fuzzer": "bitsquatting", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "23.23.92.211"
+        ], 
+        "dns-ns": [
+            "ns1.gu.edu", 
+            "ns2.gu.edu", 
+            "ns3.gu.edu"
+        ], 
+        "domain-name": "gu.edu", 
+        "fuzzer": "bitsquatting", 
+        "geoip-country": "United States"
+    }, 
+    {
+        "dns-a": [
+            "129.79.78.188", 
+            "129.79.78.189"
+        ], 
+        "dns-mx": [
+            "external-relay.indiana.edu"
+        ], 
+        "dns-ns": [
+            "dns1.illinois.edu", 
+            "dns1.iu.edu", 
+            "dns2.iu.edu"
+        ], 
+        "domain-name": "iu.edu", 
+        "fuzzer": "replacement", 
+        "geoip-country": "United States"
+    }, 
+    {
+        "dns-a": [
+            "69.167.204.55"
+        ], 
+        "dns-mx": [
+            "uu-edu.mail.protection.outlook.com"
+        ], 
+        "dns-ns": [
+            "dns1.stabletransit.com", 
+            "dns2.stabletransit.com"
+        ], 
+        "domain-name": "uu.edu", 
+        "fuzzer": "vowel-swap"
+    }, 
+    {
+        "dns-a": [
+            "168.120.16.231"
+        ], 
+        "dns-ns": [
+            "abac.au.ac.th", 
+            "ksc.au.ac.th"
+        ], 
+        "domain-name": "au.edu", 
+        "fuzzer": "vowel-swap"
+    }
+]

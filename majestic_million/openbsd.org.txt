@@ -1,0 +1,201 @@
+[
+    {
+        "dns-mx": [
+            "shear.ucar.edu"
+        ], 
+        "dns-ns": [
+            "a.ns.bsws.de", 
+            "auth1.ns.gin.ntt.net", 
+            "auth4.ns.gin.ntt.net", 
+            "auth5.ns.gin.ntt.net", 
+            "b.ns.bsws.de", 
+            "c.ns.bsws.de", 
+            "dns1.openbsd.org", 
+            "dns2.openbsd.org"
+        ], 
+        "domain-name": "openbsd.org", 
+        "fuzzer": "original*"
+    }, 
+    {
+        "dns-ns": [
+            "ns-1422.awsdns-49.org", 
+            "ns-150.awsdns-18.com", 
+            "ns-1584.awsdns-06.co.uk", 
+            "ns-815.awsdns-37.net"
+        ], 
+        "domain-name": "opendsd.org", 
+        "fuzzer": "homoglyph"
+    }, 
+    {
+        "dns-a": [
+            "45.76.240.186"
+        ], 
+        "dns-mx": [
+            "0penbsd.org"
+        ], 
+        "dns-ns": [
+            "ns41.domaincontrol.com", 
+            "ns42.domaincontrol.com"
+        ], 
+        "domain-name": "0penbsd.org", 
+        "fuzzer": "homoglyph", 
+        "geoip-country": "United States"
+    }, 
+    {
+        "dns-a": [
+            "50.63.202.59"
+        ], 
+        "dns-ns": [
+            "ns01.domaincontrol.com", 
+            "ns02.domaincontrol.com"
+        ], 
+        "domain-name": "openbvsd.org", 
+        "fuzzer": "insertion", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "54.148.194.167"
+        ], 
+        "dns-mx": [
+            "in1-smtp.messagingengine.com", 
+            "in2-smtp.messagingengine.com"
+        ], 
+        "dns-ns": [
+            "a.dns.gandi.net", 
+            "b.dns.gandi.net", 
+            "c.dns.gandi.net"
+        ], 
+        "domain-name": "openbs.org", 
+        "fuzzer": "omission", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "217.160.233.84"
+        ], 
+        "dns-mx": [
+            "mx00.1and1.co.uk", 
+            "mx01.1and1.co.uk"
+        ], 
+        "dns-ns": [
+            "ns1121.ui-dns.biz", 
+            "ns1121.ui-dns.com", 
+            "ns1121.ui-dns.de", 
+            "ns1121.ui-dns.org"
+        ], 
+        "domain-name": "opensd.org", 
+        "fuzzer": "omission", 
+        "geoip-country": "Germany", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "108.171.160.101"
+        ], 
+        "dns-ns": [
+            "ns71.domaincontrol.com", 
+            "ns72.domaincontrol.com"
+        ], 
+        "domain-name": "openbd.org", 
+        "fuzzer": "omission", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-mx": [
+            "mx-1.rightbox.com", 
+            "mx-2.rightbox.com", 
+            "mx-3.rightbox.com"
+        ], 
+        "dns-ns": [
+            "ns1.animata.net", 
+            "ns2.animata.net", 
+            "ns3.animata.net"
+        ], 
+        "domain-name": "opwnbsd.org", 
+        "fuzzer": "replacement"
+    }, 
+    {
+        "dns-a": [
+            "208.73.221.38"
+        ], 
+        "dns-mx": [
+            "ineffable.net"
+        ], 
+        "dns-ns": [
+            "ns1.remotelinux.com"
+        ], 
+        "domain-name": "opengsd.org", 
+        "fuzzer": "replacement", 
+        "geoip-country": "United States"
+    }, 
+    {
+        "dns-a": [
+            "66.96.149.32"
+        ], 
+        "dns-mx": [
+            "mx.openbed.org"
+        ], 
+        "dns-ns": [
+            "ns1.ipage.com", 
+            "ns2.ipage.com"
+        ], 
+        "domain-name": "openbed.org", 
+        "fuzzer": "replacement"
+    }, 
+    {
+        "dns-a": [
+            "216.157.88.24"
+        ], 
+        "domain-name": "ope.nbsd.org", 
+        "fuzzer": "subdomain", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "192.64.147.192"
+        ], 
+        "domain-name": "openb.sd.org", 
+        "fuzzer": "subdomain", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "50.63.46.1"
+        ], 
+        "dns-ns": [
+            "A.SERVICE.AFILIASDNS.INFO", 
+            "B.SERVICE.AFILIASDNS.org", 
+            "C.SERVICE.AFILIASDNS.NET", 
+            "D.SERVICE.AFILIASDNS.COM", 
+            "E.SERVICE.AFILIASDNS.INFO", 
+            "F.SERVICE.AFILIASDNS.NET"
+        ], 
+        "domain-name": "openbs.d.org", 
+        "fuzzer": "subdomain", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "104.24.104.94", 
+            "104.24.105.94"
+        ], 
+        "dns-aaaa": [
+            "2400:cb00:2048:1::6818:685e", 
+            "2400:cb00:2048:1::6818:695e"
+        ], 
+        "dns-ns": [
+            "chin.ns.cloudflare.com", 
+            "cory.ns.cloudflare.com"
+        ], 
+        "domain-name": "openbds.org", 
+        "fuzzer": "transposition", 
+        "geoip-country": "United States"
+    }
+]

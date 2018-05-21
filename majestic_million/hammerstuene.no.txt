@@ -1,0 +1,34 @@
+[
+    {
+        "dns-a": [
+            "185.101.35.12"
+        ], 
+        "dns-mx": [
+            "aspmx.l.google.com"
+        ], 
+        "dns-ns": [
+            "ns1.proisp.no", 
+            "ns2.proisp.no"
+        ], 
+        "domain-name": "hammerstuene.no", 
+        "fuzzer": "original*", 
+        "geoip-country": "Norway", 
+        "ssdeep-score": 88
+    }, 
+    {
+        "dns-a": [
+            "195.249.40.95"
+        ], 
+        "domain-name": "hammers.tuene.no", 
+        "fuzzer": "subdomain", 
+        "geoip-country": "Denmark"
+    }, 
+    {
+        "dns-a": [
+            "81.27.32.175"
+        ], 
+        "domain-name": "hammerstu.ene.no", 
+        "fuzzer": "subdomain", 
+        "geoip-country": "Norway"
+    }
+]

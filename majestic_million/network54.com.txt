@@ -1,0 +1,190 @@
+[
+    {
+        "dns-a": [
+            "104.25.156.5", 
+            "104.25.157.5"
+        ], 
+        "dns-mx": [
+            "alt1.aspmx.l.google.com", 
+            "alt2.aspmx.l.google.com", 
+            "aspmx.l.google.com", 
+            "aspmx2.googlemail.com", 
+            "aspmx3.googlemail.com"
+        ], 
+        "dns-ns": [
+            "norm.ns.cloudflare.com", 
+            "pam.ns.cloudflare.com"
+        ], 
+        "domain-name": "network54.com", 
+        "fuzzer": "original*", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 100
+    }, 
+    {
+        "dns-ns": [
+            "ns1.namebrightdns.com", 
+            "ns2.namebrightdns.com"
+        ], 
+        "domain-name": "network44.com", 
+        "fuzzer": "bitsquatting"
+    }, 
+    {
+        "dns-a": [
+            "199.59.242.150"
+        ], 
+        "dns-mx": [
+            "mx76.m2bp.com", 
+            "mx76.mb1p.com"
+        ], 
+        "dns-ns": [
+            "ns1.bodis.com", 
+            "ns2.bodis.com"
+        ], 
+        "domain-name": "network14.com", 
+        "fuzzer": "bitsquatting", 
+        "geoip-country": "United States", 
+        "mx-spy": true, 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "208.91.197.22"
+        ], 
+        "dns-ns": [
+            "dns1.namesecure.com", 
+            "dns2.namesecure.com"
+        ], 
+        "domain-name": "network55.com", 
+        "fuzzer": "bitsquatting", 
+        "geoip-country": "Virgin Islands", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "192.185.185.144"
+        ], 
+        "dns-mx": [
+            "network56.com"
+        ], 
+        "dns-ns": [
+            "ns171.websitewelcome.com", 
+            "ns172.websitewelcome.com"
+        ], 
+        "domain-name": "network56.com", 
+        "fuzzer": "bitsquatting", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "74.117.221.21", 
+            "74.117.221.22"
+        ], 
+        "dns-ns": [
+            "ns0.directnic.com", 
+            "ns1.directnic.com"
+        ], 
+        "domain-name": "network50.com", 
+        "fuzzer": "bitsquatting", 
+        "geoip-country": "Cayman Islands", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "5.35.254.100"
+        ], 
+        "dns-mx": [
+            "mx.network-54.com"
+        ], 
+        "dns-ns": [
+            "ns1.namemaster.de", 
+            "ns2.namemaster.de", 
+            "ns3.namemaster.de", 
+            "ns4.namemaster.de", 
+            "ns5.namemaster.de"
+        ], 
+        "domain-name": "network-54.com", 
+        "fuzzer": "hyphenation", 
+        "geoip-country": "Germany", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "74.217.192.210"
+        ], 
+        "dns-mx": [
+            "nomail.network4.com"
+        ], 
+        "dns-ns": [
+            "hip.soma.net", 
+            "ns.soma.net"
+        ], 
+        "domain-name": "network4.com", 
+        "fuzzer": "omission", 
+        "geoip-country": "United States", 
+        "mx-spy": true, 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "72.52.4.122"
+        ], 
+        "dns-mx": [
+            "localhost"
+        ], 
+        "dns-ns": [
+            "ns1.sedoparking.com", 
+            "ns2.sedoparking.com"
+        ], 
+        "domain-name": "network5.com", 
+        "fuzzer": "omission", 
+        "geoip-country": "United States", 
+        "mx-spy": true, 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "185.53.178.6"
+        ], 
+        "dns-mx": [
+            "mail.h-email.net"
+        ], 
+        "dns-ns": [
+            "ns1.parkingcrew.net", 
+            "ns2.parkingcrew.net"
+        ], 
+        "domain-name": "network53.com", 
+        "fuzzer": "replacement"
+    }, 
+    {
+        "dns-a": [
+            "0.0.0.0"
+        ], 
+        "dns-mx": [
+            "alt1.aspmx.l.google.com", 
+            "alt2.aspmx.l.google.com", 
+            "aspmx.l.google.com", 
+            "aspmx2.googlemail.com", 
+            "aspmx3.googlemail.com"
+        ], 
+        "dns-ns": [
+            "ns1.hover.com", 
+            "ns2.hover.com"
+        ], 
+        "domain-name": "network64.com", 
+        "fuzzer": "replacement"
+    }, 
+    {
+        "dns-a": [
+            "52.73.124.185", 
+            "54.164.198.60"
+        ], 
+        "dns-ns": [
+            "ns1.namebrightdns.com", 
+            "ns2.namebrightdns.com"
+        ], 
+        "domain-name": "network45.com", 
+        "fuzzer": "transposition", 
+        "geoip-country": "United States"
+    }
+]

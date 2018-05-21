@@ -1,0 +1,51 @@
+[
+    {
+        "dns-mx": [
+            ""
+        ], 
+        "dns-ns": [
+            "asia9.akam.net", 
+            "eur2.akam.net", 
+            "eur3.akam.net", 
+            "eur7.akam.net", 
+            "ns1-100.akam.net", 
+            "ns1-27.akam.net", 
+            "use4.akam.net", 
+            "usw1.akam.net"
+        ], 
+        "domain-name": "jdoqocy.com", 
+        "fuzzer": "original*"
+    }, 
+    {
+        "dns-a": [
+            "103.224.182.243"
+        ], 
+        "dns-mx": [
+            "park-mx.above.com"
+        ], 
+        "dns-ns": [
+            "ns1.above.com", 
+            "ns2.above.com"
+        ], 
+        "domain-name": "jdoqoy.com", 
+        "fuzzer": "omission", 
+        "geoip-country": "Australia", 
+        "mx-spy": true
+    }, 
+    {
+        "dns-a": [
+            "192.64.147.195"
+        ], 
+        "domain-name": "jdo.qocy.com", 
+        "fuzzer": "subdomain", 
+        "geoip-country": "United States"
+    }, 
+    {
+        "dns-ns": [
+            "ns1.uniregistrymarket.link", 
+            "ns2.uniregistrymarket.link"
+        ], 
+        "domain-name": "jdoq.ocy.com", 
+        "fuzzer": "subdomain"
+    }
+]

@@ -1,0 +1,355 @@
+[
+    {
+        "dns-a": [
+            "23.211.10.111"
+        ], 
+        "dns-mx": [
+            "mx1.ynet.co.il", 
+            "mx2.ynet.co.il", 
+            "mx3.ynet.co.il"
+        ], 
+        "dns-ns": [
+            "asia2.akam.net", 
+            "eur2.akam.net", 
+            "ns1-168.akam.net", 
+            "ns1-61.akam.net", 
+            "ns1-92.akam.net", 
+            "usc2.akam.net", 
+            "use1.akam.net", 
+            "usw1.akam.net"
+        ], 
+        "domain-name": "ynet.co.il", 
+        "fuzzer": "original*", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 100
+    }, 
+    {
+        "dns-a": [
+            "192.115.80.55"
+        ], 
+        "dns-mx": [
+            "mail.xnet.co.il", 
+            "mail2.xnet.co.il", 
+            "nmail.xnet.co.il"
+        ], 
+        "dns-ns": [
+            "asia2.akam.net", 
+            "eur2.akam.net", 
+            "ns1-168.akam.net", 
+            "ns1-61.akam.net", 
+            "ns1-92.akam.net", 
+            "usc2.akam.net", 
+            "use1.akam.net", 
+            "usw1.akam.net"
+        ], 
+        "domain-name": "xnet.co.il", 
+        "fuzzer": "bitsquatting", 
+        "geoip-country": "Israel", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-mx": [
+            "alt1.aspmx.l.google.com", 
+            "alt2.aspmx.l.google.com", 
+            "alt3.aspmx.l.google.com", 
+            "alt4.aspmx.l.google.com", 
+            "aspmx.l.google.com"
+        ], 
+        "dns-ns": [
+            "ns1.dtnt.info", 
+            "ns2.dtnt.info", 
+            "ns3.dtnt.info"
+        ], 
+        "domain-name": "inet.co.il", 
+        "fuzzer": "bitsquatting"
+    }, 
+    {
+        "dns-a": [
+            "82.166.192.198"
+        ], 
+        "dns-ns": [
+            "ns1.sitesdepot.COM", 
+            "ns2.sitesdepot.COM"
+        ], 
+        "domain-name": "ylet.co.il", 
+        "fuzzer": "bitsquatting", 
+        "geoip-country": "Israel", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "62.219.78.222"
+        ], 
+        "dns-ns": [
+            "park1.livedns.co.il", 
+            "park2.livedns.co.il"
+        ], 
+        "domain-name": "ynat.co.il", 
+        "fuzzer": "bitsquatting", 
+        "geoip-country": "Israel", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "62.219.91.45"
+        ], 
+        "domain-name": "ymet.co.il", 
+        "fuzzer": "homoglyph", 
+        "geoip-country": "Israel", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "185.56.75.120"
+        ], 
+        "dns-mx": [
+            "net.co.il"
+        ], 
+        "dns-ns": [
+            "ns1.esmhosting.com", 
+            "ns2.esmhosting.com"
+        ], 
+        "domain-name": "net.co.il", 
+        "fuzzer": "omission", 
+        "geoip-country": "Israel"
+    }, 
+    {
+        "dns-a": [
+            "199.203.206.106"
+        ], 
+        "dns-ns": [
+            "ns1.knan.co.il", 
+            "ns2.knan.co.il", 
+            "ns3.knan.co.il"
+        ], 
+        "domain-name": "yne.co.il", 
+        "fuzzer": "omission", 
+        "geoip-country": "Israel", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "69.163.160.51"
+        ], 
+        "dns-ns": [
+            "ns1.dreamhost.com", 
+            "ns2.dreamhost.com", 
+            "ns3.dreamhost.com"
+        ], 
+        "domain-name": "ynt.co.il", 
+        "fuzzer": "omission", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "185.56.74.231"
+        ], 
+        "dns-mx": [
+            "yet-co-il.mail.protection.outlook.com"
+        ], 
+        "dns-ns": [
+            "pdns.goldenlines.net.il", 
+            "sdns.goldenlines.net.il"
+        ], 
+        "domain-name": "yet.co.il", 
+        "fuzzer": "omission", 
+        "geoip-country": "Israel"
+    }, 
+    {
+        "dns-a": [
+            "107.154.158.72", 
+            "107.154.165.72"
+        ], 
+        "dns-mx": [
+            "anet-co-il.mail.eo.outlook.com"
+        ], 
+        "dns-ns": [
+            "dns.netvision.net.il", 
+            "nypop.netvision.net.il"
+        ], 
+        "domain-name": "anet.co.il", 
+        "fuzzer": "replacement", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "72.3.252.243"
+        ], 
+        "dns-ns": [
+            "ns.rackspace.com", 
+            "ns2.rackspace.com"
+        ], 
+        "domain-name": "gnet.co.il", 
+        "fuzzer": "replacement", 
+        "geoip-country": "United States"
+    }, 
+    {
+        "dns-a": [
+            "185.53.177.29"
+        ], 
+        "dns-ns": [
+            "ns1.gegidns.com", 
+            "ns2.gegidns.com"
+        ], 
+        "domain-name": "ynwt.co.il", 
+        "fuzzer": "replacement", 
+        "geoip-country": "Germany", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-ns": [
+            "ns1.box.co.il", 
+            "ns2.box.co.il"
+        ], 
+        "domain-name": "yner.co.il", 
+        "fuzzer": "replacement"
+    }, 
+    {
+        "dns-a": [
+            "62.219.12.179"
+        ], 
+        "dns-mx": [
+            "mailme-backup.enter-system.com", 
+            "mailme.enter-system.com", 
+            "mailme.enter-system.com"
+        ], 
+        "dns-ns": [
+            "pdns.goldenlines.net.il", 
+            "sdns.goldenlines.net.il"
+        ], 
+        "domain-name": "6net.co.il", 
+        "fuzzer": "replacement", 
+        "geoip-country": "Israel", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "66.96.147.106"
+        ], 
+        "dns-mx": [
+            "mx.7net.co.il"
+        ], 
+        "dns-ns": [
+            "ns1.ipage.com", 
+            "ns2.ipage.com"
+        ], 
+        "domain-name": "7net.co.il", 
+        "fuzzer": "replacement", 
+        "geoip-country": "United States"
+    }, 
+    {
+        "dns-a": [
+            "5.100.249.242"
+        ], 
+        "dns-mx": [
+            "mail.hnet.co.il"
+        ], 
+        "dns-ns": [
+            "ns1.sitesdepot.com", 
+            "ns2.sitesdepot.com"
+        ], 
+        "domain-name": "hnet.co.il", 
+        "fuzzer": "replacement", 
+        "geoip-country": "Israel", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "190.203.101.136", 
+            "5.100.255.88"
+        ], 
+        "dns-mx": [
+            "vsp-mx01.ateranetworks.com", 
+            "vsp-mx02.ateranetworks.com"
+        ], 
+        "dns-ns": [
+            "ns1.dtnt.info", 
+            "ns2.dtnt.info", 
+            "ns3.dtnt.info"
+        ], 
+        "domain-name": "unet.co.il", 
+        "fuzzer": "replacement", 
+        "geoip-country": "Venezuela"
+    }, 
+    {
+        "dns-a": [
+            "185.53.177.29"
+        ], 
+        "dns-ns": [
+            "ns1.gegidns.com", 
+            "ns2.gegidns.com"
+        ], 
+        "domain-name": "yney.co.il", 
+        "fuzzer": "replacement", 
+        "geoip-country": "Germany", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "212.179.114.62"
+        ], 
+        "dns-mx": [
+            "Mail.Global.FrontBridge.com"
+        ], 
+        "dns-ns": [
+            "accend.actcom.co.il", 
+            "ns1.actcom.net.il"
+        ], 
+        "domain-name": "tnet.co.il", 
+        "fuzzer": "replacement", 
+        "geoip-country": "Israel"
+    }, 
+    {
+        "dns-a": [
+            "185.53.177.29"
+        ], 
+        "dns-ns": [
+            "ns1.gegidns.com", 
+            "ns2.gegidns.com"
+        ], 
+        "domain-name": "ynrt.co.il", 
+        "fuzzer": "replacement", 
+        "geoip-country": "Germany", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "213.8.144.130"
+        ], 
+        "domain-name": "yne.t.co.il", 
+        "fuzzer": "subdomain", 
+        "geoip-country": "Israel", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "62.219.78.203"
+        ], 
+        "dns-mx": [
+            "mx-mcn.trio-cloud.com"
+        ], 
+        "dns-ns": [
+            "ns1.livedns.co.il", 
+            "ns2.livedns.co.il"
+        ], 
+        "domain-name": "ynit.co.il", 
+        "fuzzer": "vowel-swap", 
+        "geoip-country": "Israel"
+    }, 
+    {
+        "dns-a": [
+            "209.15.13.134"
+        ], 
+        "dns-mx": [
+            "mail.b-io.co"
+        ], 
+        "dns-ns": [
+            "ns1.dnslink.com", 
+            "ns2.dnslink.com"
+        ], 
+        "domain-name": "ynet.co-il.com", 
+        "fuzzer": "various"
+    }
+]

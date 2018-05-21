@@ -1,0 +1,71 @@
+[
+    {
+        "dns-a": [
+            "103.1.193.78"
+        ], 
+        "dns-mx": [
+            "au-smtp-inbound-1.mimecast.com", 
+            "au-smtp-inbound-2.mimecast.com"
+        ], 
+        "dns-ns": [
+            "w.au", 
+            "x.au", 
+            "y.au", 
+            "z.au"
+        ], 
+        "domain-name": "sa.gov.au", 
+        "fuzzer": "original*", 
+        "geoip-country": "Australia", 
+        "ssdeep-score": 100
+    }, 
+    {
+        "dns-a": [
+            "34.213.106.51", 
+            "54.68.182.72"
+        ], 
+        "dns-mx": [
+            "mailgw.bs.wa.gov.au"
+        ], 
+        "dns-ns": [
+            "w.au", 
+            "x.au", 
+            "y.au", 
+            "z.au"
+        ], 
+        "domain-name": "wa.gov.au", 
+        "fuzzer": "bitsquatting", 
+        "geoip-country": "United States"
+    }, 
+    {
+        "dns-a": [
+            "203.7.140.81"
+        ], 
+        "dns-ns": [
+            "ns1.naa.gov.au", 
+            "ns2.naa.gov.au"
+        ], 
+        "domain-name": "aa.gov.au", 
+        "fuzzer": "replacement", 
+        "geoip-country": "Australia", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-ns": [
+            "ns1.secureintellicentre.net.au", 
+            "ns2.secureintellicentre.net.au", 
+            "ns3.secureintellicentre.net.au"
+        ], 
+        "domain-name": "ea.gov.au", 
+        "fuzzer": "replacement"
+    }, 
+    {
+        "dns-ns": [
+            "w.au", 
+            "x.au", 
+            "y.au", 
+            "z.au"
+        ], 
+        "domain-name": "sa.au", 
+        "fuzzer": "various"
+    }
+]

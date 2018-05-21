@@ -1,0 +1,81 @@
+[
+    {
+        "dns-a": [
+            "147.229.2.90"
+        ], 
+        "dns-mx": [
+            "mx.vutbr.cz"
+        ], 
+        "dns-ns": [
+            "pipit.cis.vutbr.cz", 
+            "rhino.cis.vutbr.cz"
+        ], 
+        "domain-name": "vutbr.cz", 
+        "fuzzer": "original*", 
+        "geoip-country": "Czech Republic", 
+        "ssdeep-score": 100
+    }, 
+    {
+        "dns-a": [
+            "77.78.104.3"
+        ], 
+        "dns-ns": [
+            "ns.gransy.com", 
+            "ns2.gransy.com", 
+            "ns3.gransy.com", 
+            "ns4.gransy.com", 
+            "ns5.gransy.com"
+        ], 
+        "domain-name": "vutb.cz", 
+        "fuzzer": "omission", 
+        "geoip-country": "Czech Republic", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "103.224.182.250"
+        ], 
+        "dns-ns": [
+            "ns3.above.com", 
+            "ns4.above.com"
+        ], 
+        "domain-name": "vubr.cz", 
+        "fuzzer": "omission"
+    }, 
+    {
+        "dns-a": [
+            "217.198.119.76"
+        ], 
+        "dns-mx": [
+            "mail.zetor.cz", 
+            "mailo2.zetor.cz"
+        ], 
+        "dns-ns": [
+            "alfa.ns.active24.cz", 
+            "beta.ns.active24.cz", 
+            "gama.ns.active24.sk"
+        ], 
+        "domain-name": "vutr.cz", 
+        "fuzzer": "omission", 
+        "geoip-country": "Czech Republic"
+    }, 
+    {
+        "dns-a": [
+            "77.78.104.3"
+        ], 
+        "dns-mx": [
+            "mail.tbr.cz"
+        ], 
+        "dns-ns": [
+            "ns.gransy.com", 
+            "ns2.gransy.com", 
+            "ns3.gransy.com", 
+            "ns4.gransy.com", 
+            "ns5.gransy.com"
+        ], 
+        "domain-name": "vu.tbr.cz", 
+        "fuzzer": "subdomain", 
+        "geoip-country": "Czech Republic", 
+        "ssdeep-score": 0
+    }
+]

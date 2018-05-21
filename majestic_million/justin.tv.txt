@@ -1,0 +1,180 @@
+[
+    {
+        "dns-a": [
+            "192.16.71.177"
+        ], 
+        "dns-mx": [
+            "alt1.aspmx.l.google.com", 
+            "alt2.aspmx.l.google.com", 
+            "aspmx.l.google.com", 
+            "aspmx2.googlemail.com"
+        ], 
+        "dns-ns": [
+            "a1.verisigndns.com", 
+            "a2.verisigndns.com", 
+            "a3.verisigndns.com", 
+            "ns1.p18.dynect.net", 
+            "ns2.p18.dynect.net", 
+            "ns3.p18.dynect.net"
+        ], 
+        "domain-name": "justin.tv", 
+        "fuzzer": "original*", 
+        "geoip-country": "United States"
+    }, 
+    {
+        "dns-a": [
+            "192.64.119.239"
+        ], 
+        "dns-mx": [
+            "eforward1.registrar-servers.com", 
+            "eforward2.registrar-servers.com", 
+            "eforward3.registrar-servers.com", 
+            "eforward4.registrar-servers.com", 
+            "eforward5.registrar-servers.com"
+        ], 
+        "dns-ns": [
+            "dns1.registrar-servers.com", 
+            "dns2.registrar-servers.com"
+        ], 
+        "domain-name": "justina.tv", 
+        "fuzzer": "addition", 
+        "geoip-country": "United States"
+    }, 
+    {
+        "dns-a": [
+            "185.53.177.30"
+        ], 
+        "dns-ns": [
+            "ns1.parkingspa.com", 
+            "ns2.parkingspa.com"
+        ], 
+        "domain-name": "justine.tv", 
+        "fuzzer": "addition", 
+        "geoip-country": "Germany"
+    }, 
+    {
+        "dns-a": [
+            "69.64.147.34"
+        ], 
+        "dns-mx": [
+            "mail.b-io.co", 
+            "mx.justins.tv.cust.a.hostedemail.com"
+        ], 
+        "dns-ns": [
+            "dns1.name-services.com", 
+            "dns2.name-services.com", 
+            "dns3.name-services.com", 
+            "dns4.name-services.com", 
+            "dns5.name-services.com"
+        ], 
+        "domain-name": "justins.tv", 
+        "fuzzer": "addition", 
+        "geoip-country": "United States", 
+        "mx-spy": true
+    }, 
+    {
+        "dns-a": [
+            "192.64.119.86"
+        ], 
+        "dns-mx": [
+            "eforward1.registrar-servers.com", 
+            "eforward2.registrar-servers.com", 
+            "eforward3.registrar-servers.com", 
+            "eforward4.registrar-servers.com", 
+            "eforward5.registrar-servers.com"
+        ], 
+        "dns-ns": [
+            "dns1.registrar-servers.com", 
+            "dns2.registrar-servers.com", 
+            "dns3.registrar-servers.com", 
+            "dns4.registrar-servers.com", 
+            "dns5.registrar-servers.com"
+        ], 
+        "domain-name": "juston.tv", 
+        "fuzzer": "replacement", 
+        "geoip-country": "United States"
+    }, 
+    {
+        "dns-a": [
+            "69.172.201.153"
+        ], 
+        "dns-ns": [
+            "ns1.uniregistrymarket.link", 
+            "ns2.uniregistrymarket.link"
+        ], 
+        "domain-name": "juatin.tv", 
+        "fuzzer": "replacement", 
+        "geoip-country": "United States"
+    }, 
+    {
+        "dns-a": [
+            "72.52.4.121"
+        ], 
+        "dns-mx": [
+            "localhost"
+        ], 
+        "dns-ns": [
+            "ns1.sedoparking.com", 
+            "ns2.sedoparking.com"
+        ], 
+        "domain-name": "just.in.tv", 
+        "fuzzer": "subdomain", 
+        "geoip-country": "United States", 
+        "mx-spy": true
+    }, 
+    {
+        "dns-a": [
+            "185.53.178.9"
+        ], 
+        "dns-ns": [
+            "ns1.parkingcrew.net", 
+            "ns2.parkingcrew.net"
+        ], 
+        "domain-name": "justi.n.tv", 
+        "fuzzer": "subdomain", 
+        "geoip-country": "Germany"
+    }, 
+    {
+        "dns-a": [
+            "104.200.22.130", 
+            "104.200.23.95"
+        ], 
+        "dns-mx": [
+            "mail.mxproc.com"
+        ], 
+        "dns-ns": [
+            "ns1.mytrafficmanagement.com", 
+            "ns2.mytrafficmanagement.com"
+        ], 
+        "domain-name": "justen.tv", 
+        "fuzzer": "vowel-swap"
+    }, 
+    {
+        "dns-a": [
+            "184.168.221.104"
+        ], 
+        "dns-ns": [
+            "ns1.afternic.com", 
+            "ns2.afternic.com"
+        ], 
+        "domain-name": "justintv.tv", 
+        "fuzzer": "various", 
+        "geoip-country": "United States"
+    }, 
+    {
+        "dns-a": [
+            "72.52.4.90"
+        ], 
+        "dns-mx": [
+            "mailgw.ns36.de"
+        ], 
+        "dns-ns": [
+            "a.ns36.de", 
+            "b.ns36.de"
+        ], 
+        "domain-name": "justin-tv.com", 
+        "fuzzer": "various", 
+        "geoip-country": "United States", 
+        "mx-spy": true
+    }
+]

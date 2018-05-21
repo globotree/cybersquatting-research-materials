@@ -1,0 +1,84 @@
+[
+    {
+        "dns-a": [
+            "74.125.206.191"
+        ], 
+        "dns-aaaa": [
+            "2a00:1450:4001:81b::2009"
+        ], 
+        "dns-ns": [
+            "ns1.google.com", 
+            "ns2.google.com", 
+            "ns3.google.com", 
+            "ns4.google.com"
+        ], 
+        "domain-name": "blogspot.kr", 
+        "fuzzer": "original*", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 77
+    }, 
+    {
+        "dns-mx": [
+            "blogspots.kr"
+        ], 
+        "dns-ns": [
+            "ns1.vultr.com", 
+            "ns2.vultr.com"
+        ], 
+        "domain-name": "blogspots.kr", 
+        "fuzzer": "addition"
+    }, 
+    {
+        "dns-a": [
+            "119.205.233.226"
+        ], 
+        "dns-ns": [
+            "ns1.hosting.co.kr", 
+            "ns2.hosting.co.kr"
+        ], 
+        "domain-name": "blogspott.kr", 
+        "fuzzer": "addition", 
+        "geoip-country": "Korea", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-mx": [
+            "mail.h-email.net"
+        ], 
+        "dns-ns": [
+            "ns1.parkingcrew.net", 
+            "ns2.parkingcrew.net"
+        ], 
+        "domain-name": "blog.spot.kr", 
+        "fuzzer": "subdomain", 
+        "mx-spy": true
+    }, 
+    {
+        "dns-a": [
+            "222.112.80.81"
+        ], 
+        "dns-ns": [
+            "win-i8lhu55kjec"
+        ], 
+        "domain-name": "blgospot.kr", 
+        "fuzzer": "transposition", 
+        "geoip-country": "Korea"
+    }, 
+    {
+        "dns-a": [
+            "112.175.85.150"
+        ], 
+        "dns-mx": [
+            "mw-002.cafe24.com"
+        ], 
+        "dns-ns": [
+            "ns1.cafe24.co.kr", 
+            "ns1.cafe24.com", 
+            "ns2.cafe24.co.kr", 
+            "ns2.cafe24.com"
+        ], 
+        "domain-name": "blogsopt.kr", 
+        "fuzzer": "transposition", 
+        "geoip-country": "Korea"
+    }
+]

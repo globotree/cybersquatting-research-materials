@@ -1,0 +1,101 @@
+[
+    {
+        "dns-a": [
+            "65.156.1.60"
+        ], 
+        "dns-mx": [
+            "us-smtp-inbound-1.mimecast.com", 
+            "us-smtp-inbound-2.mimecast.com"
+        ], 
+        "dns-ns": [
+            "dns1.idp365.net", 
+            "dns2.idp365.net", 
+            "dns3.idp365.net"
+        ], 
+        "domain-name": "informaworld.com", 
+        "fuzzer": "original*", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 99
+    }, 
+    {
+        "dns-a": [
+            "34.241.48.49"
+        ], 
+        "dns-ns": [
+            "dns1.idp365.net", 
+            "dns2.idp365.net", 
+            "dns3.idp365.net"
+        ], 
+        "domain-name": "informa-world.com", 
+        "fuzzer": "hyphenation", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 99
+    }, 
+    {
+        "dns-a": [
+            "69.172.201.153"
+        ], 
+        "dns-ns": [
+            "ns1.uniregistrymarket.link", 
+            "ns2.uniregistrymarket.link"
+        ], 
+        "domain-name": "informworld.com", 
+        "fuzzer": "omission", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "63.123.82.96"
+        ], 
+        "domain-name": "info.rmaworld.com", 
+        "fuzzer": "subdomain", 
+        "geoip-country": "United States"
+    }, 
+    {
+        "dns-a": [
+            "72.52.4.122"
+        ], 
+        "dns-mx": [
+            "localhost"
+        ], 
+        "dns-ns": [
+            "ns1.sedoparking.com", 
+            "ns2.sedoparking.com"
+        ], 
+        "domain-name": "infor.maworld.com", 
+        "fuzzer": "subdomain", 
+        "geoip-country": "United States", 
+        "mx-spy": true, 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-mx": [
+            "localhost"
+        ], 
+        "dns-ns": [
+            "ns1.sedoparking.com", 
+            "ns2.sedoparking.com"
+        ], 
+        "domain-name": "inform.aworld.com", 
+        "fuzzer": "subdomain", 
+        "mx-spy": true
+    }, 
+    {
+        "dns-a": [
+            "50.31.210.85"
+        ], 
+        "domain-name": "informa.world.com", 
+        "fuzzer": "subdomain", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "206.188.193.2"
+        ], 
+        "domain-name": "informawo.rld.com", 
+        "fuzzer": "subdomain", 
+        "geoip-country": "United States"
+    }
+]

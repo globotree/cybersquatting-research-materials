@@ -1,0 +1,116 @@
+[
+    {
+        "dns-mx": [
+            "mail-r210.rz.uni-mannheim.de", 
+            "mail-r211.rz.uni-mannheim.de", 
+            "mail-r84.rz.uni-mannheim.de"
+        ], 
+        "dns-ns": [
+            "dns1.belwue.de", 
+            "dns1.uni-mannheim.de", 
+            "dns2.uni-mannheim.de", 
+            "dns3.belwue.de", 
+            "dns3.uni-mannheim.de"
+        ], 
+        "domain-name": "uni-mannheim.de", 
+        "fuzzer": "original*"
+    }, 
+    {
+        "dns-a": [
+            "136.243.99.141"
+        ], 
+        "dns-mx": [
+            "mxlb.ispgateway.de"
+        ], 
+        "dns-ns": [
+            "ns.namespace4you.de", 
+            "ns2.namespace4you.de"
+        ], 
+        "domain-name": "uni-mann-heim.de", 
+        "fuzzer": "hyphenation", 
+        "geoip-country": "Germany"
+    }, 
+    {
+        "dns-a": [
+            "185.53.178.6"
+        ], 
+        "dns-mx": [
+            "mail.h-email.net"
+        ], 
+        "dns-ns": [
+            "ns1.parkingcrew.net", 
+            "ns2.parkingcrew.net"
+        ], 
+        "domain-name": "uni-mannhim.de", 
+        "fuzzer": "omission", 
+        "geoip-country": "Germany", 
+        "mx-spy": true
+    }, 
+    {
+        "dns-a": [
+            "166.78.121.55", 
+            "91.195.240.39"
+        ], 
+        "dns-ns": [
+            "ns1.dns-routing.com", 
+            "ns2.dns-routing.com"
+        ], 
+        "domain-name": "uni-manheim.de", 
+        "fuzzer": "omission", 
+        "geoip-country": "United States"
+    }, 
+    {
+        "dns-a": [
+            "37.120.176.172"
+        ], 
+        "dns-mx": [
+            "mx00.kundenserver.de", 
+            "mx01.kundenserver.de"
+        ], 
+        "dns-ns": [
+            "ns-de.1and1-dns.biz", 
+            "ns-de.1and1-dns.com", 
+            "ns-de.1and1-dns.de", 
+            "ns-de.1and1-dns.org"
+        ], 
+        "domain-name": "ni-mannheim.de", 
+        "fuzzer": "omission", 
+        "geoip-country": "Germany"
+    }, 
+    {
+        "dns-a": [
+            "185.53.178.7"
+        ], 
+        "dns-mx": [
+            "mail.h-email.net"
+        ], 
+        "dns-ns": [
+            "ns1.parkingcrew.net", 
+            "ns2.parkingcrew.net"
+        ], 
+        "domain-name": "uni-manneim.de", 
+        "fuzzer": "omission", 
+        "geoip-country": "Germany", 
+        "mx-spy": true
+    }, 
+    {
+        "dns-a": [
+            "185.53.177.20"
+        ], 
+        "dns-ns": [
+            "ns10.domainname.at", 
+            "ns11.domainname.at"
+        ], 
+        "domain-name": "unimannheim.de", 
+        "fuzzer": "omission", 
+        "geoip-country": "Germany"
+    }, 
+    {
+        "dns-a": [
+            "213.239.215.88"
+        ], 
+        "domain-name": "uni-mannhe.im.de", 
+        "fuzzer": "subdomain", 
+        "geoip-country": "Germany"
+    }
+]

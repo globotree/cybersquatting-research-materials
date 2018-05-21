@@ -1,0 +1,130 @@
+[
+    {
+        "dns-a": [
+            "98.138.8.78"
+        ], 
+        "dns-ns": [
+            "ns1.yahoo.com", 
+            "ns2.yahoo.com", 
+            "ns3.yahoo.com", 
+            "ns4.yahoo.com", 
+            "ns5.yahoo.com"
+        ], 
+        "domain-name": "associatedcontent.com", 
+        "fuzzer": "original*", 
+        "geoip-country": "United States"
+    }, 
+    {
+        "dns-a": [
+            "52.86.22.136", 
+            "54.174.212.152"
+        ], 
+        "dns-ns": [
+            "ns1.namebrightdns.com", 
+            "ns2.namebrightdns.com"
+        ], 
+        "domain-name": "associatedcontents.com", 
+        "fuzzer": "addition", 
+        "geoip-country": "United States"
+    }, 
+    {
+        "dns-ns": [
+            "ns1.yahoo.com", 
+            "ns2.yahoo.com", 
+            "ns3.yahoo.com", 
+            "ns4.yahoo.com", 
+            "ns5.yahoo.com"
+        ], 
+        "domain-name": "associatedcotent.com", 
+        "fuzzer": "omission"
+    }, 
+    {
+        "dns-ns": [
+            "ns1.yahoo.com", 
+            "ns2.yahoo.com", 
+            "ns3.yahoo.com", 
+            "ns4.yahoo.com", 
+            "ns5.yahoo.com"
+        ], 
+        "domain-name": "assocatedcontent.com", 
+        "fuzzer": "omission"
+    }, 
+    {
+        "dns-a": [
+            "103.224.212.222"
+        ], 
+        "dns-mx": [
+            "park-mx.above.com"
+        ], 
+        "dns-ns": [
+            "ns1.above.com", 
+            "ns2.above.com"
+        ], 
+        "domain-name": "associatecontent.com", 
+        "fuzzer": "omission", 
+        "geoip-country": "Australia", 
+        "mx-spy": true
+    }, 
+    {
+        "dns-ns": [
+            "ns1.yahoo.com", 
+            "ns2.yahoo.com", 
+            "ns3.yahoo.com", 
+            "ns4.yahoo.com", 
+            "ns5.yahoo.com"
+        ], 
+        "domain-name": "asociatedcontent.com", 
+        "fuzzer": "omission"
+    }, 
+    {
+        "dns-a": [
+            "52.86.22.136", 
+            "54.174.212.152"
+        ], 
+        "dns-ns": [
+            "ns1.namebrightdns.com", 
+            "ns2.namebrightdns.com"
+        ], 
+        "domain-name": "associatedconten.com", 
+        "fuzzer": "omission", 
+        "geoip-country": "United States"
+    }, 
+    {
+        "dns-a": [
+            "72.52.4.122"
+        ], 
+        "dns-mx": [
+            "localhost"
+        ], 
+        "dns-ns": [
+            "ns1.sedoparking.com", 
+            "ns2.sedoparking.com"
+        ], 
+        "domain-name": "associatedc.ontent.com", 
+        "fuzzer": "subdomain", 
+        "geoip-country": "United States", 
+        "mx-spy": true
+    }, 
+    {
+        "dns-ns": [
+            "ns1.yahoo.com", 
+            "ns2.yahoo.com", 
+            "ns3.yahoo.com", 
+            "ns4.yahoo.com", 
+            "ns5.yahoo.com"
+        ], 
+        "domain-name": "assocaitedcontent.com", 
+        "fuzzer": "transposition"
+    }, 
+    {
+        "dns-ns": [
+            "ns1.yahoo.com", 
+            "ns2.yahoo.com", 
+            "ns3.yahoo.com", 
+            "ns4.yahoo.com", 
+            "ns5.yahoo.com"
+        ], 
+        "domain-name": "associatedcotnent.com", 
+        "fuzzer": "transposition"
+    }
+]

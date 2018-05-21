@@ -1,0 +1,141 @@
+[
+    {
+        "dns-a": [
+            "23.23.171.5", 
+            "23.23.215.144", 
+            "50.17.234.140", 
+            "50.19.110.131", 
+            "50.19.252.69", 
+            "54.225.153.22", 
+            "54.243.137.45", 
+            "54.243.252.123"
+        ], 
+        "dns-mx": [
+            "alt1.aspmx.l.google.com", 
+            "alt2.aspmx.l.google.com", 
+            "aspmx.l.google.com", 
+            "aspmx2.googlemail.com", 
+            "aspmx3.googlemail.com"
+        ], 
+        "dns-ns": [
+            "dns10.pointhq.com", 
+            "dns11.pointhq.com", 
+            "dns4.pointhq.com", 
+            "dns8.pointhq.com", 
+            "dns9.pointhq.com"
+        ], 
+        "domain-name": "list.ly", 
+        "fuzzer": "original*", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 79
+    }, 
+    {
+        "dns-a": [
+            "199.73.55.48"
+        ], 
+        "dns-mx": [
+            "MAIL.101DOMAIN.COM"
+        ], 
+        "dns-ns": [
+            "NS1.101DOMAIN.COM", 
+            "NS2.101DOMAIN.COM", 
+            "NS5.101DOMAIN.COM"
+        ], 
+        "domain-name": "mist.ly", 
+        "fuzzer": "bitsquatting", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "34.197.90.97"
+        ], 
+        "domain-name": "last.ly", 
+        "fuzzer": "bitsquatting", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "41.208.71.12"
+        ], 
+        "dns-mx": [
+            "mx1.secure.ly", 
+            "mx2.secure.ly", 
+            "mx3.secure.ly", 
+            "mx4.secure.ly"
+        ], 
+        "dns-ns": [
+            "ng1.libyanspider5.com", 
+            "ng2.libyanspider5.com"
+        ], 
+        "domain-name": "lit.ly", 
+        "fuzzer": "omission", 
+        "geoip-country": "Libya", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "174.129.249.253"
+        ], 
+        "dns-ns": [
+            "ns1.dnspark.com", 
+            "ns2.dnspark.net", 
+            "ns3.dnspark.net", 
+            "ns4.dnspark.net", 
+            "ns5.dnspark.net"
+        ], 
+        "domain-name": "lst.ly", 
+        "fuzzer": "omission", 
+        "geoip-country": "United States"
+    }, 
+    {
+        "dns-a": [
+            "23.23.117.64", 
+            "23.23.164.223"
+        ], 
+        "dns-mx": [
+            "alt1.aspmx.l.google.com", 
+            "alt2.aspmx.l.google.com", 
+            "aspmx.l.google.com", 
+            "aspmx2.googlemail.com", 
+            "aspmx3.googlemail.com"
+        ], 
+        "dns-ns": [
+            "ns-1348.awsdns-40.org", 
+            "ns-1624.awsdns-11.co.uk", 
+            "ns-441.awsdns-55.com", 
+            "ns-672.awsdns-20.net"
+        ], 
+        "domain-name": "lost.ly", 
+        "fuzzer": "replacement", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "50.18.217.93"
+        ], 
+        "dns-ns": [
+            "ns1.101domain.com", 
+            "ns2.101domain.com", 
+            "ns5.101domain.com"
+        ], 
+        "domain-name": "listly.ly", 
+        "fuzzer": "various"
+    }, 
+    {
+        "dns-a": [
+            "23.254.201.137"
+        ], 
+        "dns-mx": [
+            "list-ly.com"
+        ], 
+        "dns-ns": [
+            "cns168539.hostwindsdns.com", 
+            "cns268539.hostwindsdns.com"
+        ], 
+        "domain-name": "list-ly.com", 
+        "fuzzer": "various"
+    }
+]

@@ -1,0 +1,115 @@
+[
+    {
+        "dns-a": [
+            "54.244.237.21"
+        ], 
+        "dns-mx": [
+            "belllabs-com01b.mail.protection.outlook.com"
+        ], 
+        "dns-ns": [
+            "deextdns.alcatel-lucent.com", 
+            "frextdns.alcatel-lucent.com", 
+            "ilextdns1.alcatel-lucent.com", 
+            "ilextdns2.alcatel-lucent.com", 
+            "sgextdns.alcatel-lucent.com", 
+            "txextdns.alcatel-lucent.com"
+        ], 
+        "domain-name": "bell-labs.com", 
+        "fuzzer": "original*", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 90
+    }, 
+    {
+        "dns-a": [
+            "208.91.197.27"
+        ], 
+        "dns-mx": [
+            "inbound.ball-labs.netsolmail.net", 
+            "mx1.netsolmail.net"
+        ], 
+        "dns-ns": [
+            "ns11.worldnic.com", 
+            "ns12.worldnic.com"
+        ], 
+        "domain-name": "ball-labs.com", 
+        "fuzzer": "bitsquatting", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "50.63.202.6"
+        ], 
+        "dns-mx": [
+            "mailstore1.secureserver.net", 
+            "smtp.secureserver.net"
+        ], 
+        "dns-ns": [
+            "ns27.domaincontrol.com", 
+            "ns28.domaincontrol.com"
+        ], 
+        "domain-name": "bull-labs.com", 
+        "fuzzer": "bitsquatting", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "144.208.72.9"
+        ], 
+        "dns-mx": [
+            "mx1-us1.ppe-hosted.com", 
+            "mx2-us1.ppe-hosted.com"
+        ], 
+        "dns-ns": [
+            "ns0.corecommhosting.com", 
+            "ns1.corecommhosting.com"
+        ], 
+        "domain-name": "belllabs.com", 
+        "fuzzer": "omission", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "14.63.216.242"
+        ], 
+        "dns-ns": [
+            "ns1.hosting.co.kr", 
+            "ns2.hosting.co.kr"
+        ], 
+        "domain-name": "bell-lab.com", 
+        "fuzzer": "omission", 
+        "geoip-country": "Korea", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "207.150.212.18"
+        ], 
+        "dns-mx": [
+            "mx.hell-labs.com"
+        ], 
+        "dns-ns": [
+            "ns1.gate.com", 
+            "ns2.gate.com", 
+            "ns3.gate.com"
+        ], 
+        "domain-name": "hell-labs.com", 
+        "fuzzer": "replacement", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-mx": [
+            "mxn.mxhichina.com", 
+            "mxw.mxhichina.com"
+        ], 
+        "dns-ns": [
+            "dns1.hichina.com", 
+            "dns2.hichina.com"
+        ], 
+        "domain-name": "bill-labs.com", 
+        "fuzzer": "vowel-swap"
+    }
+]

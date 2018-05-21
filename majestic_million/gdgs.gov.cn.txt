@@ -1,0 +1,165 @@
+[
+    {
+        "dns-mx": [
+            "mail.gdgs.gov.cn"
+        ], 
+        "dns-ns": [
+            "gd-wwwdc-1.gdgs.gov.cn", 
+            "gd-wwwdc-2.gdgs.gov.cn"
+        ], 
+        "domain-name": "gdgs.gov.cn", 
+        "fuzzer": "original*"
+    }, 
+    {
+        "dns-ns": [
+            "ns1.alidns.com", 
+            "ns2.alidns.com"
+        ], 
+        "domain-name": "cdgs.gov.cn", 
+        "fuzzer": "bitsquatting"
+    }, 
+    {
+        "dns-a": [
+            "222.219.118.205"
+        ], 
+        "dns-ns": [
+            "ns1.sfn.cn", 
+            "ns2.sfn.cn"
+        ], 
+        "domain-name": "glgs.gov.cn", 
+        "fuzzer": "bitsquatting", 
+        "geoip-country": "China"
+    }, 
+    {
+        "dns-ns": [
+            "ns1.dns.com.cn", 
+            "ns2.dns.com.cn"
+        ], 
+        "domain-name": "gdfs.gov.cn", 
+        "fuzzer": "bitsquatting"
+    }, 
+    {
+        "dns-ns": [
+            "www.dg.gov.cn"
+        ], 
+        "domain-name": "dgs.gov.cn", 
+        "fuzzer": "omission"
+    }, 
+    {
+        "dns-mx": [
+            "mxbiz1.qq.com", 
+            "mxbiz2.qq.com"
+        ], 
+        "dns-ns": [
+            "ns13.xincache.com", 
+            "ns14.xincache.com"
+        ], 
+        "domain-name": "ggs.gov.cn", 
+        "fuzzer": "omission", 
+        "mx-spy": true
+    }, 
+    {
+        "dns-a": [
+            "59.37.165.158"
+        ], 
+        "dns-mx": [
+            "mail-g3.xinnetdns.com"
+        ], 
+        "dns-ns": [
+            "ns19.xincache.com", 
+            "ns20.xincache.com"
+        ], 
+        "domain-name": "gdts.gov.cn", 
+        "fuzzer": "replacement", 
+        "geoip-country": "China"
+    }, 
+    {
+        "dns-ns": [
+            "dns21.hichina.com", 
+            "dns22.hichina.com"
+        ], 
+        "domain-name": "ydgs.gov.cn", 
+        "fuzzer": "replacement"
+    }, 
+    {
+        "dns-a": [
+            "111.38.109.101"
+        ], 
+        "dns-mx": [
+            "mxbiz1.qq.com", 
+            "mxbiz2.qq.com"
+        ], 
+        "dns-ns": [
+            "dns1.hichina.com", 
+            "dns2.hichina.com"
+        ], 
+        "domain-name": "gcgs.gov.cn", 
+        "fuzzer": "replacement", 
+        "geoip-country": "China"
+    }, 
+    {
+        "dns-a": [
+            "119.188.35.95", 
+            "210.76.65.131"
+        ], 
+        "dns-mx": [
+            "email.gdga.gov.cn"
+        ], 
+        "dns-ns": [
+            "ns1.sfn.cn", 
+            "ns2.sfn.cn"
+        ], 
+        "domain-name": "gdga.gov.cn", 
+        "fuzzer": "replacement"
+    }, 
+    {
+        "dns-a": [
+            "125.93.48.3"
+        ], 
+        "dns-ns": [
+            "ns5010.01isp.com", 
+            "ns5011.01isp.cn"
+        ], 
+        "domain-name": "hdgs.gov.cn", 
+        "fuzzer": "replacement"
+    }, 
+    {
+        "dns-a": [
+            "61.178.65.73"
+        ], 
+        "dns-ns": [
+            "ns1.cnolnic.com", 
+            "ns2.cnolnic.com"
+        ], 
+        "domain-name": "gsgs.gov.cn", 
+        "fuzzer": "replacement", 
+        "geoip-country": "China"
+    }, 
+    {
+        "dns-mx": [
+            "qiye163mx01.mxmail.netease.com", 
+            "qiye163mx02.mxmail.netease.com"
+        ], 
+        "dns-ns": [
+            "ns1.gxgs.gov.cn", 
+            "ns2.gxgs.gov.cn"
+        ], 
+        "domain-name": "gxgs.gov.cn", 
+        "fuzzer": "replacement"
+    }, 
+    {
+        "dns-ns": [
+            "ns1.gdsg.gov.cn", 
+            "ns2.gdsg.gov.cn"
+        ], 
+        "domain-name": "gdsg.gov.cn", 
+        "fuzzer": "transposition"
+    }, 
+    {
+        "dns-a": [
+            "103.243.183.107"
+        ], 
+        "domain-name": "gdgs.cn", 
+        "fuzzer": "various"
+    }
+]

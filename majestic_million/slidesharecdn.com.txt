@@ -1,0 +1,60 @@
+[
+    {
+        "dns-mx": [
+            "mail-c.linkedin.com", 
+            "mail.linkedin.com"
+        ], 
+        "dns-ns": [
+            "dns1.p09.nsone.net", 
+            "dns2.p09.nsone.net", 
+            "dns3.p09.nsone.net", 
+            "dns4.p09.nsone.net", 
+            "ns1.p43.dynect.net", 
+            "ns2.p43.dynect.net", 
+            "ns3.p43.dynect.net", 
+            "ns4.p43.dynect.net"
+        ], 
+        "domain-name": "slidesharecdn.com", 
+        "fuzzer": "original*"
+    }, 
+    {
+        "dns-a": [
+            "52.73.124.185", 
+            "54.164.198.60"
+        ], 
+        "dns-ns": [
+            "ns1.namebrightdns.com", 
+            "ns2.namebrightdns.com"
+        ], 
+        "domain-name": "slide.sharecdn.com", 
+        "fuzzer": "subdomain", 
+        "geoip-country": "United States"
+    }, 
+    {
+        "dns-a": [
+            "45.63.16.181"
+        ], 
+        "dns-mx": [
+            "alt1.aspmx.l.google.com", 
+            "alt2.aspmx.l.google.com", 
+            "aspmx.l.google.com", 
+            "aspmx2.googlemail.com", 
+            "aspmx3.googlemail.com"
+        ], 
+        "dns-ns": [
+            "ashley.ns.cloudflare.com", 
+            "guy.ns.cloudflare.com"
+        ], 
+        "domain-name": "slidesha.recdn.com", 
+        "fuzzer": "subdomain", 
+        "geoip-country": "United States"
+    }, 
+    {
+        "dns-a": [
+            "45.120.153.79"
+        ], 
+        "domain-name": "slideshar.ecdn.com", 
+        "fuzzer": "subdomain", 
+        "geoip-country": "Hong Kong"
+    }
+]

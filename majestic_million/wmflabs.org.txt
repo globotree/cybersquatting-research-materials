@@ -1,0 +1,65 @@
+[
+    {
+        "dns-a": [
+            "208.80.155.156"
+        ], 
+        "dns-mx": [
+            "mx1001.wikimedia.org", 
+            "mx2001.wikimedia.org"
+        ], 
+        "dns-ns": [
+            "labs-ns0.wikimedia.org", 
+            "labs-ns1.wikimedia.org"
+        ], 
+        "domain-name": "wmflabs.org", 
+        "fuzzer": "original*", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 97
+    }, 
+    {
+        "dns-a": [
+            "209.99.40.225"
+        ], 
+        "dns-ns": [
+            "dns15.parkpage.foundationapi.com", 
+            "dns16.parkpage.foundationapi.com"
+        ], 
+        "domain-name": "wflabs.org", 
+        "fuzzer": "omission", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "184.168.221.54"
+        ], 
+        "dns-mx": [
+            "wmtlabs-org.mail.protection.outlook.com"
+        ], 
+        "dns-ns": [
+            "ns57.domaincontrol.com", 
+            "ns58.domaincontrol.com"
+        ], 
+        "domain-name": "wmtlabs.org", 
+        "fuzzer": "replacement", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "50.63.46.1"
+        ], 
+        "dns-ns": [
+            "a.service.afiliasdns.info", 
+            "b.service.afiliasdns.org", 
+            "c.service.afiliasdns.net", 
+            "d.service.afiliasdns.com", 
+            "e.service.afiliasdns.info", 
+            "f.service.afiliasdns.net"
+        ], 
+        "domain-name": "wmflab.s.org", 
+        "fuzzer": "subdomain", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 0
+    }
+]

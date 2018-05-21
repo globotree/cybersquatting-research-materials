@@ -1,0 +1,94 @@
+[
+    {
+        "dns-ns": [
+            "ns1.chookdns.com", 
+            "ns2.chookdns.com"
+        ], 
+        "domain-name": "vanadoo.nl", 
+        "fuzzer": "bitsquatting"
+    }, 
+    {
+        "dns-a": [
+            "216.239.32.21", 
+            "216.239.34.21", 
+            "216.239.36.21", 
+            "216.239.38.21"
+        ], 
+        "dns-mx": [
+            "alt1.aspmx.l.google.com", 
+            "alt2.aspmx.l.google.com", 
+            "aspmx.l.google.com", 
+            "aspmx2.googlemail.com", 
+            "aspmx3.googlemail.com"
+        ], 
+        "dns-ns": [
+            "ns1.domaindiscount24.net", 
+            "ns2.domaindiscount24.net", 
+            "ns3.domaindiscount24.net"
+        ], 
+        "domain-name": "vvanadoo.nl", 
+        "fuzzer": "homoglyph", 
+        "geoip-country": "United States"
+    }, 
+    {
+        "dns-a": [
+            "199.59.242.150"
+        ], 
+        "domain-name": "wnadoo.nl", 
+        "fuzzer": "omission", 
+        "geoip-country": "United States"
+    }, 
+    {
+        "dns-a": [
+            "185.53.177.29"
+        ], 
+        "dns-ns": [
+            "ns1.gegidns.com", 
+            "ns2.gegidns.com"
+        ], 
+        "domain-name": "wandoo.nl", 
+        "fuzzer": "omission", 
+        "geoip-country": "Germany"
+    }, 
+    {
+        "dns-a": [
+            "185.53.177.29"
+        ], 
+        "dns-ns": [
+            "ns1.gegidns.com", 
+            "ns2.gegidns.com"
+        ], 
+        "domain-name": "wanado.nl", 
+        "fuzzer": "omission", 
+        "geoip-country": "Germany"
+    }, 
+    {
+        "dns-a": [
+            "213.132.197.183"
+        ], 
+        "dns-mx": [
+            "mailfilter.webguru.nl"
+        ], 
+        "dns-ns": [
+            "ns.domeinguru.nl", 
+            "ns1.domeinguru.nl"
+        ], 
+        "domain-name": "wannadoo.nl", 
+        "fuzzer": "repetition", 
+        "geoip-country": "Netherlands"
+    }, 
+    {
+        "dns-a": [
+            "52.58.78.16"
+        ], 
+        "dns-mx": [
+            "mx.wanad.oo.nl"
+        ], 
+        "dns-ns": [
+            "ns1.undeveloped.com", 
+            "ns2.undeveloped.com"
+        ], 
+        "domain-name": "wanad.oo.nl", 
+        "fuzzer": "subdomain"
+    }
+]

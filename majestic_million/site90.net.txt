@@ -1,0 +1,99 @@
+[
+    {
+        "dns-a": [
+            "107.22.243.226", 
+            "107.22.249.130", 
+            "174.129.13.98", 
+            "23.23.246.35", 
+            "50.17.207.130", 
+            "50.19.118.169", 
+            "54.225.111.83", 
+            "54.225.153.48"
+        ], 
+        "dns-ns": [
+            "dns1.000webhost.com", 
+            "dns2.000webhost.com"
+        ], 
+        "domain-name": "site90.net", 
+        "fuzzer": "original*", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 100
+    }, 
+    {
+        "dns-a": [
+            "103.224.212.222"
+        ], 
+        "dns-mx": [
+            "park-mx.above.com"
+        ], 
+        "dns-ns": [
+            "ns1.above.com", 
+            "ns2.above.com"
+        ], 
+        "domain-name": "site10.net", 
+        "fuzzer": "bitsquatting", 
+        "geoip-country": "Australia", 
+        "mx-spy": true, 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "168.143.93.90"
+        ], 
+        "dns-mx": [
+            "mx1.emailsrvr.com", 
+            "mx2.emailsrvr.com"
+        ], 
+        "dns-ns": [
+            "ns0.dnsmadeeasy.com", 
+            "ns1.dnsmadeeasy.com", 
+            "ns2.dnsmadeeasy.com", 
+            "ns3.dnsmadeeasy.com", 
+            "ns4.dnsmadeeasy.com"
+        ], 
+        "domain-name": "site9.net", 
+        "fuzzer": "omission", 
+        "geoip-country": "United States"
+    }, 
+    {
+        "dns-a": [
+            "216.144.247.226"
+        ], 
+        "dns-mx": [
+            "mailstore1.secureserver.net", 
+            "smtp.secureserver.net"
+        ], 
+        "dns-ns": [
+            "ns67.domaincontrol.com", 
+            "ns68.domaincontrol.com"
+        ], 
+        "domain-name": "site0.net", 
+        "fuzzer": "omission", 
+        "geoip-country": "United States"
+    }, 
+    {
+        "dns-a": [
+            "74.208.236.94"
+        ], 
+        "dns-mx": [
+            "mx00.1and1.com", 
+            "mx01.1and1.com"
+        ], 
+        "dns-ns": [
+            "ns1016.ui-dns.biz", 
+            "ns1016.ui-dns.com", 
+            "ns1016.ui-dns.de", 
+            "ns1016.ui-dns.org"
+        ], 
+        "domain-name": "site99.net", 
+        "fuzzer": "replacement"
+    }, 
+    {
+        "dns-a": [
+            "47.88.28.14"
+        ], 
+        "domain-name": "site.90.net", 
+        "fuzzer": "subdomain", 
+        "geoip-country": "United States"
+    }
+]

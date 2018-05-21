@@ -1,0 +1,113 @@
+[
+    {
+        "dns-a": [
+            "207.24.42.235"
+        ], 
+        "dns-mx": [
+            "elsevier-nl.mail.protection.outlook.com"
+        ], 
+        "dns-ns": [
+            "ns1.reedelsevier.com", 
+            "ns2.reedelsevier.com", 
+            "ns3.reedelsevier.com"
+        ], 
+        "domain-name": "elsevier.nl", 
+        "fuzzer": "original*", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 100
+    }, 
+    {
+        "dns-mx": [
+            "mail.rbsrv.nl"
+        ], 
+        "dns-ns": [
+            "ns.domainnetwork.se", 
+            "ns2.domainnetwork.se"
+        ], 
+        "domain-name": "elseviers.nl", 
+        "fuzzer": "addition"
+    }, 
+    {
+        "dns-a": [
+            "185.53.178.9"
+        ], 
+        "dns-mx": [
+            "mail.h-email.net"
+        ], 
+        "dns-ns": [
+            "ns1.parkingcrew.net", 
+            "ns2.parkingcrew.net"
+        ], 
+        "domain-name": "elsevies.nl", 
+        "fuzzer": "bitsquatting", 
+        "geoip-country": "Germany", 
+        "mx-spy": true, 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "208.73.210.202", 
+            "208.73.210.217", 
+            "208.73.211.165", 
+            "208.73.211.177"
+        ], 
+        "dns-ns": [
+            "ns1.dsredirection.com", 
+            "ns2.dsredirection.com"
+        ], 
+        "domain-name": "elesevier.nl", 
+        "fuzzer": "insertion", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "185.53.177.29"
+        ], 
+        "dns-ns": [
+            "ns1.singleplan.com", 
+            "ns2.singleplan.com"
+        ], 
+        "domain-name": "elsevie.nl", 
+        "fuzzer": "omission", 
+        "geoip-country": "Germany", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "91.184.0.64"
+        ], 
+        "dns-mx": [
+            "mailfilter.hostnet.nl"
+        ], 
+        "dns-ns": [
+            "ns1.hostnet.nl", 
+            "ns2.hostnetbv.com", 
+            "ns3.hostnetbv.nl"
+        ], 
+        "domain-name": "elzevier.nl", 
+        "fuzzer": "replacement", 
+        "geoip-country": "Netherlands", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "94.228.131.95"
+        ], 
+        "domain-name": "elsev.ier.nl", 
+        "fuzzer": "subdomain", 
+        "geoip-country": "Netherlands", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "95.170.70.116"
+        ], 
+        "dns-aaaa": [
+            "2a01:7c8:eb:0:95:170:70:116"
+        ], 
+        "domain-name": "elsevi.er.nl", 
+        "fuzzer": "subdomain", 
+        "geoip-country": "Netherlands"
+    }
+]

@@ -1,0 +1,170 @@
+[
+    {
+        "dns-ns": [
+            "ns3.nic.ru", 
+            "ns4.nic.ru", 
+            "ns8.nic.ru"
+        ], 
+        "domain-name": "nichost.ru", 
+        "fuzzer": "original*"
+    }, 
+    {
+        "dns-a": [
+            "109.70.27.4"
+        ], 
+        "dns-mx": [
+            "mf1.nic.ru"
+        ], 
+        "dns-ns": [
+            "ns3-fwl2.nic.ru", 
+            "ns4-fwl2.nic.ru", 
+            "ns8-fwl2.nic.ru"
+        ], 
+        "domain-name": "nikhost.ru", 
+        "fuzzer": "bitsquatting", 
+        "geoip-country": "Russian Federation"
+    }, 
+    {
+        "dns-a": [
+            "88.99.191.142"
+        ], 
+        "dns-mx": [
+            "mail.michost.ru"
+        ], 
+        "dns-ns": [
+            "ns.michost.ru", 
+            "ns1.michost.ru"
+        ], 
+        "domain-name": "michost.ru", 
+        "fuzzer": "homoglyph", 
+        "geoip-country": "Germany"
+    }, 
+    {
+        "dns-a": [
+            "213.145.38.252"
+        ], 
+        "dns-ns": [
+            "ns1.ipatron.ru"
+        ], 
+        "domain-name": "nchost.ru", 
+        "fuzzer": "omission", 
+        "geoip-country": "Russian Federation"
+    }, 
+    {
+        "dns-mx": [
+            "mx.yandex.ru"
+        ], 
+        "dns-ns": [
+            "dns1.yandex.ru", 
+            "dns2.yandex.ru"
+        ], 
+        "domain-name": "ichost.ru", 
+        "fuzzer": "omission"
+    }, 
+    {
+        "dns-a": [
+            "185.53.179.40"
+        ], 
+        "dns-ns": [
+            "ns1.snparking.ru", 
+            "ns2.snparking.ru"
+        ], 
+        "domain-name": "nichos.ru", 
+        "fuzzer": "omission", 
+        "geoip-country": "Germany"
+    }, 
+    {
+        "dns-a": [
+            "146.185.148.189"
+        ], 
+        "dns-mx": [
+            "mail.nihost.ru", 
+            "mail.nihost.ru"
+        ], 
+        "dns-ns": [
+            "ns1.moinet.ru", 
+            "ns2.moinet.ru"
+        ], 
+        "domain-name": "nihost.ru", 
+        "fuzzer": "omission", 
+        "geoip-country": "Netherlands"
+    }, 
+    {
+        "dns-a": [
+            "90.156.201.106", 
+            "90.156.201.37", 
+            "90.156.201.38", 
+            "90.156.201.49"
+        ], 
+        "dns-aaaa": [
+            "2a00:15f8:a000:5:1:11:6:bc64", 
+            "2a00:15f8:a000:5:1:12:6:bc64", 
+            "2a00:15f8:a000:5:1:13:6:bc64", 
+            "2a00:15f8:a000:5:1:14:6:bc64"
+        ], 
+        "dns-mx": [
+            "mx1.masterhost.ru"
+        ], 
+        "dns-ns": [
+            "ns.masterhost.ru", 
+            "ns1.masterhost.ru", 
+            "ns2.masterhost.ru"
+        ], 
+        "domain-name": "nichosy.ru", 
+        "fuzzer": "replacement", 
+        "geoip-country": "Russian Federation"
+    }, 
+    {
+        "dns-a": [
+            "217.29.62.151"
+        ], 
+        "dns-mx": [
+            "mail.nochost.ru", 
+            "mail.nochost.ru"
+        ], 
+        "dns-ns": [
+            "ns1.nocsu.com", 
+            "ns2.nocsu.com"
+        ], 
+        "domain-name": "nochost.ru", 
+        "fuzzer": "replacement", 
+        "geoip-country": "Russian Federation"
+    }, 
+    {
+        "dns-a": [
+            "91.109.201.140"
+        ], 
+        "dns-mx": [
+            "alt1.aspmx.l.google.com", 
+            "alt2.aspmx.l.google.com", 
+            "aspmx.l.google.com", 
+            "aspmx2.googlemail.com", 
+            "aspmx3.googlemail.com", 
+            "aspmx4.googlemail.com", 
+            "aspmx5.googlemail.com"
+        ], 
+        "dns-ns": [
+            "ns4001a.avahost.net", 
+            "ns4001b.avahost.net"
+        ], 
+        "domain-name": "nixhost.ru", 
+        "fuzzer": "replacement", 
+        "geoip-country": "Russian Federation"
+    }, 
+    {
+        "dns-a": [
+            "185.53.179.29"
+        ], 
+        "domain-name": "ni.chost.ru", 
+        "fuzzer": "subdomain", 
+        "geoip-country": "Germany"
+    }, 
+    {
+        "dns-a": [
+            "72.52.4.90"
+        ], 
+        "domain-name": "nicho.st.ru", 
+        "fuzzer": "subdomain", 
+        "geoip-country": "United States"
+    }
+]

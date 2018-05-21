@@ -1,0 +1,58 @@
+[
+    {
+        "dns-a": [
+            "168.235.67.115"
+        ], 
+        "dns-mx": [
+            "mail.techpowerup.com"
+        ], 
+        "dns-ns": [
+            "dns1.registrar-servers.com", 
+            "dns2.registrar-servers.com"
+        ], 
+        "domain-name": "techpowerup.com", 
+        "fuzzer": "original*", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 96
+    }, 
+    {
+        "dns-a": [
+            "50.63.20.129"
+        ], 
+        "dns-mx": [
+            "mailstore1.secureserver.net", 
+            "mx.zoho.com", 
+            "mx2.zoho.com", 
+            "smtp.secureserver.net"
+        ], 
+        "dns-ns": [
+            "pdns05.domaincontrol.com", 
+            "pdns06.domaincontrol.com"
+        ], 
+        "domain-name": "tech-powerup.com", 
+        "fuzzer": "hyphenation", 
+        "geoip-country": "United States"
+    }, 
+    {
+        "dns-a": [
+            "52.73.124.185", 
+            "54.164.198.60"
+        ], 
+        "dns-ns": [
+            "ns1.namebrightdns.com", 
+            "ns2.namebrightdns.com"
+        ], 
+        "domain-name": "techpowerjp.com", 
+        "fuzzer": "replacement", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "198.71.232.3"
+        ], 
+        "domain-name": "tech.powerup.com", 
+        "fuzzer": "subdomain", 
+        "geoip-country": "United States"
+    }
+]

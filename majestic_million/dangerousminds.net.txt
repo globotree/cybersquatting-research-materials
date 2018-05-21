@@ -1,0 +1,68 @@
+[
+    {
+        "dns-a": [
+            "104.24.114.133", 
+            "104.24.115.133"
+        ], 
+        "dns-aaaa": [
+            "2400:cb00:2048:1::6818:7285", 
+            "2400:cb00:2048:1::6818:7385"
+        ], 
+        "dns-mx": [
+            "mail.dangerousminds.net"
+        ], 
+        "dns-ns": [
+            "ian.ns.cloudflare.com", 
+            "lana.ns.cloudflare.com"
+        ], 
+        "domain-name": "dangerousminds.net", 
+        "fuzzer": "original*", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 96
+    }, 
+    {
+        "dns-a": [
+            "12.167.51.51"
+        ], 
+        "dns-mx": [
+            "mail.desktopmasters.com", 
+            "mail2.desktopmasters.com"
+        ], 
+        "dns-ns": [
+            "ns1.dmindustries.net", 
+            "ns2.dmindustries.net"
+        ], 
+        "domain-name": "dangerous-minds.net", 
+        "fuzzer": "hyphenation", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "103.9.171.53"
+        ], 
+        "dns-mx": [
+            "mx.zoho.com", 
+            "mx2.zoho.com"
+        ], 
+        "dns-ns": [
+            "ns1.hosting-services.net.au", 
+            "ns2.hosting-services.net.au", 
+            "ns3.hosting-services.net.au"
+        ], 
+        "domain-name": "dangerousmind.net", 
+        "fuzzer": "omission", 
+        "geoip-country": "Australia", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "66.96.160.202"
+        ], 
+        "dns-mx": [
+            "mx.sminds.net"
+        ], 
+        "domain-name": "dangerou.sminds.net", 
+        "fuzzer": "subdomain"
+    }
+]

@@ -1,0 +1,119 @@
+[
+    {
+        "dns-a": [
+            "134.245.13.21", 
+            "134.245.13.22", 
+            "134.245.13.28"
+        ], 
+        "dns-mx": [
+            "l1ms.rz.uni-kiel.de", 
+            "l2ms.rz.uni-kiel.de", 
+            "l3ms.rz.uni-kiel.de", 
+            "l5ms.rz.uni-kiel.de", 
+            "l6ms.rz.uni-kiel.de"
+        ], 
+        "dns-ns": [
+            "dns-2.dfn.de", 
+            "ns1.rz.uni-kiel.de", 
+            "ns2.rz.uni-kiel.de", 
+            "ns3.rz.uni-kiel.de"
+        ], 
+        "domain-name": "uni-kiel.de", 
+        "fuzzer": "original*", 
+        "geoip-country": "Germany", 
+        "ssdeep-score": 100
+    }, 
+    {
+        "dns-a": [
+            "217.160.0.43"
+        ], 
+        "dns-aaaa": [
+            "2001:8d8:100f:f000::252"
+        ], 
+        "dns-mx": [
+            "mx00.kundenserver.de", 
+            "mx01.kundenserver.de"
+        ], 
+        "dns-ns": [
+            "ns-de.1and1-dns.biz", 
+            "ns-de.1and1-dns.com", 
+            "ns-de.1and1-dns.de", 
+            "ns-de.1and1-dns.org"
+        ], 
+        "domain-name": "un-kiel.de", 
+        "fuzzer": "omission", 
+        "geoip-country": "Germany", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "185.53.178.8"
+        ], 
+        "dns-mx": [
+            "mail.h-email.net"
+        ], 
+        "dns-ns": [
+            "ns1.parkingcrew.net", 
+            "ns2.parkingcrew.net"
+        ], 
+        "domain-name": "unikiel.de", 
+        "fuzzer": "omission"
+    }, 
+    {
+        "dns-a": [
+            "185.53.179.8"
+        ], 
+        "dns-mx": [
+            "mail.h-email.net"
+        ], 
+        "dns-ns": [
+            "ns1.parkingcrew.net", 
+            "ns2.parkingcrew.net"
+        ], 
+        "domain-name": "uni-kie.de", 
+        "fuzzer": "omission", 
+        "geoip-country": "Germany", 
+        "mx-spy": true, 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "166.78.121.55", 
+            "91.195.240.39"
+        ], 
+        "dns-ns": [
+            "ns1.dns-routing.com", 
+            "ns2.dns-routing.com"
+        ], 
+        "domain-name": "uni-koel.de", 
+        "fuzzer": "replacement", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "80.92.84.139"
+        ], 
+        "domain-name": "uni-k.iel.de", 
+        "fuzzer": "subdomain", 
+        "geoip-country": "Luxembourg", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "185.53.179.6"
+        ], 
+        "dns-mx": [
+            "mail.h-email.net"
+        ], 
+        "dns-ns": [
+            "ns1.parkingcrew.net", 
+            "ns2.parkingcrew.net"
+        ], 
+        "domain-name": "uni-ki.el.de", 
+        "fuzzer": "subdomain", 
+        "geoip-country": "Germany", 
+        "mx-spy": true, 
+        "ssdeep-score": 0
+    }
+]

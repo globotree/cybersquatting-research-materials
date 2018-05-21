@@ -1,0 +1,147 @@
+[
+    {
+        "dns-a": [
+            "158.109.95.225"
+        ], 
+        "dns-mx": [
+            "uab-cat.mail.protection.outlook.com"
+        ], 
+        "dns-ns": [
+            "dns.uab.es", 
+            "dns1.uab.es", 
+            "ns1.csuc.cat", 
+            "ns2.csuc.cat"
+        ], 
+        "domain-name": "uab.cat", 
+        "fuzzer": "original*", 
+        "geoip-country": "Spain", 
+        "ssdeep-score": 100
+    }, 
+    {
+        "dns-a": [
+            "178.33.163.84"
+        ], 
+        "dns-mx": [
+            "mail.tab.cat"
+        ], 
+        "dns-ns": [
+            "ns1.9kmps.net", 
+            "ns2.9kmps.net"
+        ], 
+        "domain-name": "tab.cat", 
+        "fuzzer": "bitsquatting", 
+        "geoip-country": "Spain", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "130.206.31.20"
+        ], 
+        "dns-mx": [
+            "mx01.puc.rediris.es", 
+            "mx02.puc.rediris.es"
+        ], 
+        "dns-ns": [
+            "ds3100.uib.es"
+        ], 
+        "domain-name": "uib.cat", 
+        "fuzzer": "bitsquatting", 
+        "geoip-country": "Spain", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "185.2.4.107"
+        ], 
+        "dns-mx": [
+            "mail.nominalia.com"
+        ], 
+        "dns-ns": [
+            "dns1.nominalia.com", 
+            "dns2.nominalia.com"
+        ], 
+        "domain-name": "uaf.cat", 
+        "fuzzer": "bitsquatting", 
+        "geoip-country": "Italy", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "217.149.2.224"
+        ], 
+        "dns-mx": [
+            "mx1.filnet.es", 
+            "mx2.filnet.es", 
+            "mx3.filnet.es", 
+            "mx4.filnet.es", 
+            "mx5.filnet.es", 
+            "mx6.filnet.es"
+        ], 
+        "dns-ns": [
+            "ns1.filnet.es", 
+            "ns2.filnet.es"
+        ], 
+        "domain-name": "uar.cat", 
+        "fuzzer": "bitsquatting", 
+        "geoip-country": "Spain", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "161.116.100.2"
+        ], 
+        "dns-ns": [
+            "chico.rediris.es", 
+            "rnpro01.com.ub.edu", 
+            "rnpro04.com.ub.edu", 
+            "rnpro07.com.ub.edu", 
+            "sun.rediris.es"
+        ], 
+        "domain-name": "ub.cat", 
+        "fuzzer": "omission", 
+        "geoip-country": "Spain", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "37.152.88.55"
+        ], 
+        "dns-ns": [
+            "ns1.dondominio.com", 
+            "ns2.dondominio.com"
+        ], 
+        "domain-name": "oab.cat", 
+        "fuzzer": "vowel-swap", 
+        "geoip-country": "Spain"
+    }, 
+    {
+        "dns-a": [
+            "81.88.48.71"
+        ], 
+        "dns-mx": [
+            "mail.nominalia.com"
+        ], 
+        "dns-ns": [
+            "dns1.nominalia.com", 
+            "dns2.nominalia.com"
+        ], 
+        "domain-name": "aab.cat", 
+        "fuzzer": "vowel-swap", 
+        "geoip-country": "Italy"
+    }, 
+    {
+        "dns-a": [
+            "185.2.4.116"
+        ], 
+        "dns-mx": [
+            "mail.nominalia.com"
+        ], 
+        "dns-ns": [
+            "dns1.nominalia.com", 
+            "dns2.nominalia.com"
+        ], 
+        "domain-name": "uob.cat", 
+        "fuzzer": "vowel-swap", 
+        "geoip-country": "Italy"
+    }
+]

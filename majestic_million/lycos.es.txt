@@ -1,0 +1,90 @@
+[
+    {
+        "dns-a": [
+            "209.202.251.1", 
+            "209.202.251.2"
+        ], 
+        "dns-mx": [
+            "mx.lycos.es.cust.b.hostedemail.com"
+        ], 
+        "dns-ns": [
+            "ns1.lycos.com", 
+            "ns3.lycos.com"
+        ], 
+        "domain-name": "lycos.es", 
+        "fuzzer": "original*", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 99
+    }, 
+    {
+        "dns-a": [
+            "72.52.4.122"
+        ], 
+        "dns-mx": [
+            "localhost"
+        ], 
+        "dns-ns": [
+            "ns1.sedoparking.com", 
+            "ns2.sedoparking.com"
+        ], 
+        "domain-name": "licos.es", 
+        "fuzzer": "bitsquatting", 
+        "geoip-country": "United States", 
+        "mx-spy": true, 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "37.152.88.55"
+        ], 
+        "dns-ns": [
+            "ns2.dondominio.com", 
+            "ns7.dondominio.com"
+        ], 
+        "domain-name": "lykos.es", 
+        "fuzzer": "bitsquatting", 
+        "geoip-country": "Spain", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "50.63.202.7"
+        ], 
+        "dns-mx": [
+            "mailstore1.secureserver.net", 
+            "smtp.secureserver.net"
+        ], 
+        "dns-ns": [
+            "ns61.domaincontrol.com", 
+            "ns62.domaincontrol.com"
+        ], 
+        "domain-name": "laycos.es", 
+        "fuzzer": "insertion", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "23.94.85.205"
+        ], 
+        "dns-ns": [
+            "a.ns14.net", 
+            "b.ns14.net", 
+            "c.ns14.net", 
+            "d.ns14.net"
+        ], 
+        "domain-name": "lycoos.es", 
+        "fuzzer": "repetition", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "37.152.88.55"
+        ], 
+        "domain-name": "ly.cos.es", 
+        "fuzzer": "subdomain", 
+        "geoip-country": "Spain", 
+        "ssdeep-score": 0
+    }
+]

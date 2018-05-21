@@ -1,0 +1,337 @@
+[
+    {
+        "dns-a": [
+            "217.110.61.76"
+        ], 
+        "dns-mx": [
+            "mail-in.daimler.com"
+        ], 
+        "dns-ns": [
+            "ns1.corpinter.net", 
+            "ns2.corpinter.de", 
+            "ns3.corpinter.net", 
+            "ns4.corpinter.de"
+        ], 
+        "domain-name": "mercedes-benz.com", 
+        "fuzzer": "original*", 
+        "geoip-country": "Germany", 
+        "ssdeep-score": 100
+    }, 
+    {
+        "dns-a": [
+            "185.53.178.9"
+        ], 
+        "dns-mx": [
+            "mail.h-email.net"
+        ], 
+        "dns-ns": [
+            "ns1.parkingcrew.net", 
+            "ns2.parkingcrew.net"
+        ], 
+        "domain-name": "mercedes-benzs.com", 
+        "fuzzer": "addition", 
+        "geoip-country": "Germany", 
+        "mx-spy": true, 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "103.224.212.222"
+        ], 
+        "dns-mx": [
+            "park-mx.above.com"
+        ], 
+        "dns-ns": [
+            "ns1.above.com", 
+            "ns2.above.com"
+        ], 
+        "domain-name": "marcedes-benz.com", 
+        "fuzzer": "bitsquatting", 
+        "geoip-country": "Australia", 
+        "mx-spy": true, 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "103.224.182.253"
+        ], 
+        "dns-mx": [
+            "park-mx.above.com"
+        ], 
+        "dns-ns": [
+            "ns1.above.com", 
+            "ns2.above.com"
+        ], 
+        "domain-name": "mersedes-benz.com", 
+        "fuzzer": "bitsquatting", 
+        "geoip-country": "Australia", 
+        "mx-spy": true, 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "209.15.13.134"
+        ], 
+        "dns-mx": [
+            "mail.b-io.co"
+        ], 
+        "dns-ns": [
+            "ns1.dnslink.com", 
+            "ns2.dnslink.com"
+        ], 
+        "domain-name": "mercades-benz.com", 
+        "fuzzer": "bitsquatting", 
+        "geoip-country": "United States", 
+        "mx-spy": true, 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "163.172.5.216"
+        ], 
+        "dns-mx": [
+            "mail.neodomaine.com"
+        ], 
+        "dns-ns": [
+            "ns1.neodomaine.com", 
+            "ns2.neodomaine.com"
+        ], 
+        "domain-name": "xn--mercdes-benz-eeb.com", 
+        "fuzzer": "homoglyph", 
+        "geoip-country": "France", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "103.224.212.222"
+        ], 
+        "dns-mx": [
+            "park-mx.above.com"
+        ], 
+        "dns-ns": [
+            "ns1.above.com", 
+            "ns2.above.com"
+        ], 
+        "domain-name": "mercerdes-benz.com", 
+        "fuzzer": "insertion", 
+        "geoip-country": "Australia", 
+        "mx-spy": true, 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "103.224.182.217"
+        ], 
+        "dns-mx": [
+            "park-mx.above.com"
+        ], 
+        "dns-ns": [
+            "ns1.above.com", 
+            "ns2.above.com"
+        ], 
+        "domain-name": "merecedes-benz.com", 
+        "fuzzer": "insertion", 
+        "geoip-country": "Australia", 
+        "mx-spy": true, 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "72.52.179.175"
+        ], 
+        "dns-mx": [
+            "mx156.hostedmxserver.com"
+        ], 
+        "dns-ns": [
+            "ns1.parklogic.com", 
+            "ns2.parklogic.com", 
+            "ns3.parklogic.com", 
+            "ns4.parklogic.com", 
+            "ns5.parklogic.com"
+        ], 
+        "domain-name": "mercesdes-benz.com", 
+        "fuzzer": "insertion", 
+        "geoip-country": "United States", 
+        "mx-spy": true, 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-ns": [
+            "ns1.corpinter.net", 
+            "ns2.corpinter.de", 
+            "ns3.corpinter.net", 
+            "ns4.corpinter.de"
+        ], 
+        "domain-name": "mercdes-benz.com", 
+        "fuzzer": "omission"
+    }, 
+    {
+        "dns-a": [
+            "95.211.117.215"
+        ], 
+        "dns-ns": [
+            "ns1.hastydns.com", 
+            "ns2.hastydns.com"
+        ], 
+        "domain-name": "mercedes-ben.com", 
+        "fuzzer": "omission", 
+        "geoip-country": "Netherlands", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "103.224.212.228"
+        ], 
+        "dns-mx": [
+            "park-mx.above.com"
+        ], 
+        "dns-ns": [
+            "ns3.above.com", 
+            "ns4.above.com"
+        ], 
+        "domain-name": "mercedes-bez.com", 
+        "fuzzer": "omission", 
+        "geoip-country": "Australia", 
+        "mx-spy": true, 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-ns": [
+            "ns1.corpinter.net", 
+            "ns2.corpinter.de", 
+            "ns3.corpinter.net", 
+            "ns4.corpinter.de"
+        ], 
+        "domain-name": "mercedesbenz.com", 
+        "fuzzer": "omission"
+    }, 
+    {
+        "dns-ns": [
+            "ns1.corpinter.net", 
+            "ns2.corpinter.de", 
+            "ns3.corpinter.net", 
+            "ns4.corpinter.de"
+        ], 
+        "domain-name": "mecedes-benz.com", 
+        "fuzzer": "omission"
+    }, 
+    {
+        "dns-a": [
+            "103.224.182.251"
+        ], 
+        "dns-mx": [
+            "park-mx.above.com"
+        ], 
+        "dns-ns": [
+            "ns1.above.com", 
+            "ns2.above.com"
+        ], 
+        "domain-name": "merceds-benz.com", 
+        "fuzzer": "omission", 
+        "geoip-country": "Australia", 
+        "mx-spy": true, 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "185.53.178.9"
+        ], 
+        "dns-ns": [
+            "ns1.parkingcrew.net", 
+            "ns2.parkingcrew.net"
+        ], 
+        "domain-name": "mercede-benz.com", 
+        "fuzzer": "omission", 
+        "geoip-country": "Germany", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "78.41.204.28"
+        ], 
+        "dns-ns": [
+            "ns1.torresdns.com", 
+            "ns2.torresdns.com"
+        ], 
+        "domain-name": "mercedez-benz.com", 
+        "fuzzer": "replacement", 
+        "geoip-country": "Netherlands", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "209.15.13.134"
+        ], 
+        "dns-mx": [
+            "mail.b-io.co"
+        ], 
+        "dns-ns": [
+            "ns1.dnslink.com", 
+            "ns2.dnslink.com"
+        ], 
+        "domain-name": "mercedes-bens.com", 
+        "fuzzer": "replacement", 
+        "geoip-country": "United States", 
+        "mx-spy": true, 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "184.168.221.96"
+        ], 
+        "dns-mx": [
+            "0", 
+            "10"
+        ], 
+        "dns-ns": [
+            "ns01.cashparking.com", 
+            "ns02.cashparking.com"
+        ], 
+        "domain-name": "mercedes-bent.com", 
+        "fuzzer": "replacement", 
+        "geoip-country": "United States", 
+        "mx-spy": true, 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "91.184.0.100"
+        ], 
+        "dns-aaaa": [
+            "2a02:2268:ffff:ffff::4"
+        ], 
+        "dns-ns": [
+            "ns1.hostnet.nl", 
+            "ns2.hostnetbv.com", 
+            "ns3.hostnetbv.nl"
+        ], 
+        "domain-name": "mercedes-venz.com", 
+        "fuzzer": "replacement", 
+        "geoip-country": "Netherlands", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "202.174.115.102"
+        ], 
+        "domain-name": "mercedes-be.nz.com", 
+        "fuzzer": "subdomain", 
+        "geoip-country": "New Zealand"
+    }, 
+    {
+        "dns-a": [
+            "184.168.221.33"
+        ], 
+        "dns-mx": [
+            "mailstore1.secureserver.net", 
+            "smtp.secureserver.net"
+        ], 
+        "dns-ns": [
+            "ns29.domaincontrol.com", 
+            "ns30.domaincontrol.com"
+        ], 
+        "domain-name": "mercedes-bonz.com", 
+        "fuzzer": "vowel-swap", 
+        "geoip-country": "United States"
+    }
+]

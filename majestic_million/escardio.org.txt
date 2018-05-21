@@ -1,0 +1,175 @@
+[
+    {
+        "dns-mx": [
+            "us1.maysoft.com", 
+            "us2.maysoft.com"
+        ], 
+        "dns-ns": [
+            "a.dns.gandi.net", 
+            "b.dns.gandi.net", 
+            "c.dns.gandi.net"
+        ], 
+        "domain-name": "escardio.org", 
+        "fuzzer": "original*"
+    }, 
+    {
+        "dns-a": [
+            "95.129.213.115"
+        ], 
+        "dns-mx": [
+            "mail.gscardio.org"
+        ], 
+        "dns-ns": [
+            "ns1.hk-net.de", 
+            "ns2.hk-net.de"
+        ], 
+        "domain-name": "gscardio.org", 
+        "fuzzer": "bitsquatting", 
+        "geoip-country": "Germany", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "200.8.104.6"
+        ], 
+        "dns-mx": [
+            "mail.ascardio.org"
+        ], 
+        "dns-ns": [
+            "ns1.interlink.net.ve", 
+            "ns2.interlink.net.ve"
+        ], 
+        "domain-name": "ascardio.org", 
+        "fuzzer": "bitsquatting", 
+        "geoip-country": "Venezuela", 
+        "mx-spy": true, 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "174.137.35.14"
+        ], 
+        "dns-mx": [
+            "mail.esvcardio.org"
+        ], 
+        "dns-ns": [
+            "ns1.evetsites.net", 
+            "ns2.evetsites.net"
+        ], 
+        "domain-name": "esvcardio.org", 
+        "fuzzer": "insertion", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "184.95.38.195"
+        ], 
+        "dns-mx": [
+            "alt1.aspmx.l.google.com", 
+            "aspmx.l.google.com", 
+            "aspmx2.googlemail.com", 
+            "aspmx3.googlemail.com", 
+            "aspmx4.googlemail.com", 
+            "aspmx5.googlemail.com"
+        ], 
+        "dns-ns": [
+            "ns1.onlydomains.com", 
+            "ns2.onlydomains.com", 
+            "ns3.onlydomains.com"
+        ], 
+        "domain-name": "escario.org", 
+        "fuzzer": "omission", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "74.117.221.11"
+        ], 
+        "dns-mx": [
+            "web224.dnchosting.com"
+        ], 
+        "dns-ns": [
+            "ns0.directnic.com", 
+            "ns1.directnic.com"
+        ], 
+        "domain-name": "escardo.org", 
+        "fuzzer": "omission", 
+        "geoip-country": "Cayman Islands"
+    }, 
+    {
+        "dns-a": [
+            "208.91.196.152"
+        ], 
+        "dns-ns": [
+            "sk.s7.ans1.ns147.klczy.com", 
+            "sk.s7.ans2.ns147.klczy.com"
+        ], 
+        "domain-name": "esccardio.org", 
+        "fuzzer": "repetition", 
+        "geoip-country": "Virgin Islands", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "208.113.186.70"
+        ], 
+        "dns-mx": [
+            "vade-in1.mail.dreamhost.com", 
+            "vade-in2.mail.dreamhost.com"
+        ], 
+        "dns-ns": [
+            "ns1.dreamhost.com", 
+            "ns2.dreamhost.com", 
+            "ns3.dreamhost.com"
+        ], 
+        "domain-name": "sscardio.org", 
+        "fuzzer": "replacement", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "103.224.182.246"
+        ], 
+        "dns-mx": [
+            "park-mx.above.com"
+        ], 
+        "dns-ns": [
+            "ns1.above.com", 
+            "ns2.above.com"
+        ], 
+        "domain-name": "es.cardio.org", 
+        "fuzzer": "subdomain", 
+        "geoip-country": "Australia", 
+        "mx-spy": true, 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "207.148.248.143"
+        ], 
+        "domain-name": "esca.rdio.org", 
+        "fuzzer": "subdomain", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "50.63.46.1"
+        ], 
+        "dns-ns": [
+            "A.SERVICE.AFILIASDNS.INFO", 
+            "B.SERVICE.AFILIASDNS.org", 
+            "C.SERVICE.AFILIASDNS.NET", 
+            "D.SERVICE.AFILIASDNS.COM", 
+            "E.SERVICE.AFILIASDNS.INFO", 
+            "F.SERVICE.AFILIASDNS.NET"
+        ], 
+        "domain-name": "escardi.o.org", 
+        "fuzzer": "subdomain", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 0
+    }
+]

@@ -1,0 +1,119 @@
+[
+    {
+        "dns-a": [
+            "54.183.130.144", 
+            "54.183.131.91", 
+            "54.183.132.164", 
+            "54.67.120.65", 
+            "54.67.57.56", 
+            "54.67.62.204"
+        ], 
+        "dns-mx": [
+            "alt1.aspmx.l.google.com", 
+            "alt2.aspmx.l.google.com", 
+            "aspmx.l.google.com", 
+            "aspmx2.googlemail.com", 
+            "aspmx3.googlemail.com"
+        ], 
+        "dns-ns": [
+            "ns-133.awsdns-16.com", 
+            "ns-1454.awsdns-53.org", 
+            "ns-1603.awsdns-08.co.uk", 
+            "ns-795.awsdns-35.net"
+        ], 
+        "domain-name": "ow.ly", 
+        "fuzzer": "original*", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 100
+    }, 
+    {
+        "dns-a": [
+            "204.15.172.215", 
+            "204.15.172.228", 
+            "204.15.172.246"
+        ], 
+        "dns-ns": [
+            "ns-118.awsdns-14.com", 
+            "ns-1375.awsdns-43.org", 
+            "ns-1965.awsdns-53.co.uk", 
+            "ns-748.awsdns-29.net"
+        ], 
+        "domain-name": "owl.ly", 
+        "fuzzer": "addition", 
+        "geoip-country": "Canada"
+    }, 
+    {
+        "dns-a": [
+            "50.112.122.158"
+        ], 
+        "dns-mx": [
+            "ALT1.ASPMX.L.GOOGLE.COM", 
+            "ALT2.ASPMX.L.GOOGLE.COM", 
+            "ASPMX.L.GOOGLE.COM", 
+            "ASPMX2.GOOGLEMAIL.COM", 
+            "ASPMX3.GOOGLEMAIL.COM", 
+            "ASPMX4.GOOGLEMAIL.COM", 
+            "ASPMX5.GOOGLEMAIL.COM", 
+            "mail.og.ly"
+        ], 
+        "dns-ns": [
+            "ns1.libyanspider.com", 
+            "ns2.libyanspider.com"
+        ], 
+        "domain-name": "og.ly", 
+        "fuzzer": "bitsquatting", 
+        "geoip-country": "United States"
+    }, 
+    {
+        "dns-a": [
+            "66.96.149.23"
+        ], 
+        "dns-mx": [
+            "mx.w.ly"
+        ], 
+        "dns-ns": [
+            "ns1.mydomain.com", 
+            "ns2.mydomain.com"
+        ], 
+        "domain-name": "w.ly", 
+        "fuzzer": "omission", 
+        "geoip-country": "United States"
+    }, 
+    {
+        "dns-a": [
+            "41.208.71.12"
+        ], 
+        "dns-mx": [
+            "mx1.secure.ly", 
+            "mx2.secure.ly", 
+            "mx3.secure.ly", 
+            "mx4.secure.ly"
+        ], 
+        "dns-ns": [
+            "ng1.libyanspider5.com", 
+            "ng2.libyanspider5.com"
+        ], 
+        "domain-name": "o3.ly", 
+        "fuzzer": "replacement", 
+        "geoip-country": "Libya"
+    }, 
+    {
+        "dns-a": [
+            "41.208.71.72"
+        ], 
+        "dns-mx": [
+            "mx1.secure.ly", 
+            "mx2.secure.ly", 
+            "mx3.secure.ly", 
+            "mx4.secure.ly"
+        ], 
+        "dns-ns": [
+            "ns1.web13.libyanspider.net", 
+            "ns2.web13.libyanspider.net"
+        ], 
+        "domain-name": "o2.ly", 
+        "fuzzer": "replacement", 
+        "geoip-country": "Libya", 
+        "ssdeep-score": 0
+    }
+]

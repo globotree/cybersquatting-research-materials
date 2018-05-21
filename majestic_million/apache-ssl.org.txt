@@ -1,0 +1,44 @@
+[
+    {
+        "dns-ns": [
+            "ns0.thebunker.net", 
+            "ns1.thebunker.net", 
+            "ns2.thebunker.net", 
+            "ns3.thebunker.net"
+        ], 
+        "domain-name": "apache-ssl.org", 
+        "fuzzer": "original*"
+    }, 
+    {
+        "dns-a": [
+            "72.52.4.119"
+        ], 
+        "dns-mx": [
+            "localhost"
+        ], 
+        "dns-ns": [
+            "ns1.sedoparking.com", 
+            "ns2.sedoparking.com"
+        ], 
+        "domain-name": "apache-s.sl.org", 
+        "fuzzer": "subdomain", 
+        "geoip-country": "United States", 
+        "mx-spy": true
+    }, 
+    {
+        "dns-a": [
+            "50.63.46.1"
+        ], 
+        "dns-ns": [
+            "A.SERVICE.AFILIASDNS.INFO", 
+            "B.SERVICE.AFILIASDNS.org", 
+            "C.SERVICE.AFILIASDNS.NET", 
+            "D.SERVICE.AFILIASDNS.COM", 
+            "E.SERVICE.AFILIASDNS.INFO", 
+            "F.SERVICE.AFILIASDNS.NET"
+        ], 
+        "domain-name": "apache-ss.l.org", 
+        "fuzzer": "subdomain", 
+        "geoip-country": "United States"
+    }
+]

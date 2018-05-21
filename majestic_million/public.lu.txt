@@ -1,0 +1,114 @@
+[
+    {
+        "dns-a": [
+            "194.154.200.74"
+        ], 
+        "dns-mx": [
+            "inbound-1.mail.etat.lu", 
+            "inbound-2.mail.etat.lu", 
+            "inbound.mail.etat.lu"
+        ], 
+        "dns-ns": [
+            "akiko.cie.etat.lu", 
+            "ns1.etat.lu", 
+            "ns2.etat.lu", 
+            "shiori.cie.etat.lu"
+        ], 
+        "domain-name": "public.lu", 
+        "fuzzer": "original*", 
+        "geoip-country": "Luxembourg", 
+        "ssdeep-score": 100
+    }, 
+    {
+        "dns-a": [
+            "37.34.50.131"
+        ], 
+        "dns-mx": [
+            "smtp.nameweb.biz"
+        ], 
+        "dns-ns": [
+            "ns.nscluster.ch", 
+            "ns.nscluster.eu", 
+            "ns.nscluster.lv", 
+            "ns.nscluster.uk", 
+            "ns.nscluster.us"
+        ], 
+        "domain-name": "publica.lu", 
+        "fuzzer": "addition", 
+        "geoip-country": "Netherlands"
+    }, 
+    {
+        "dns-a": [
+            "194.154.200.74"
+        ], 
+        "dns-ns": [
+            "akiko.cie.etat.lu", 
+            "ns1.etat.lu", 
+            "ns2.etat.lu", 
+            "shiori.cie.etat.lu"
+        ], 
+        "domain-name": "publics.lu", 
+        "fuzzer": "addition", 
+        "geoip-country": "Luxembourg", 
+        "ssdeep-score": 100
+    }, 
+    {
+        "dns-a": [
+            "194.154.200.74"
+        ], 
+        "dns-ns": [
+            "akiko.cie.etat.lu", 
+            "ns1.etat.lu", 
+            "ns2.etat.lu", 
+            "shiori.cie.etat.lu"
+        ], 
+        "domain-name": "publik.lu", 
+        "fuzzer": "bitsquatting", 
+        "geoip-country": "Luxembourg", 
+        "ssdeep-score": 100
+    }, 
+    {
+        "dns-a": [
+            "198.23.48.86"
+        ], 
+        "dns-mx": [
+            "mx1.supremebox.com", 
+            "mx2.supremebox.com"
+        ], 
+        "dns-ns": [
+            "dns1.supremedns.com", 
+            "dns2.supremedns.com", 
+            "dns3.supremedns.com", 
+            "dns4.supremedns.com"
+        ], 
+        "domain-name": "pubic.lu", 
+        "fuzzer": "omission", 
+        "geoip-country": "United States"
+    }, 
+    {
+        "dns-a": [
+            "185.20.208.91"
+        ], 
+        "dns-mx": [
+            "mail.walkingtoweb.com"
+        ], 
+        "dns-ns": [
+            "ns1.domaindiscount24.net", 
+            "ns2.domaindiscount24.net", 
+            "ns3.domaindiscount24.net"
+        ], 
+        "domain-name": "publi.lu", 
+        "fuzzer": "omission", 
+        "geoip-country": "Switzerland", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "194.154.192.85"
+        ], 
+        "domain-name": "pu.blic.lu", 
+        "fuzzer": "subdomain", 
+        "geoip-country": "Luxembourg", 
+        "ssdeep-score": 0
+    }
+]

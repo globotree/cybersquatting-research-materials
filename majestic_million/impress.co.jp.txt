@@ -1,0 +1,108 @@
+[
+    {
+        "dns-a": [
+            "203.183.234.2"
+        ], 
+        "dns-mx": [
+            "alt1.aspmx.l.google.com", 
+            "alt2.aspmx.l.google.com", 
+            "alt3.aspmx.l.google.com", 
+            "alt4.aspmx.l.google.com", 
+            "aspmx.l.google.com"
+        ], 
+        "dns-ns": [
+            "ns-1109.awsdns-10.org", 
+            "ns-1841.awsdns-38.co.uk", 
+            "ns-468.awsdns-58.com", 
+            "ns-674.awsdns-20.net"
+        ], 
+        "domain-name": "impress.co.jp", 
+        "fuzzer": "original*", 
+        "geoip-country": "Japan", 
+        "ssdeep-score": 100
+    }, 
+    {
+        "dns-a": [
+            "210.153.107.66"
+        ], 
+        "dns-mx": [
+            "ampress.co.jp"
+        ], 
+        "dns-ns": [
+            "ns3.sphere.ad.jp", 
+            "ns4.sphere.ad.jp"
+        ], 
+        "domain-name": "ampress.co.jp", 
+        "fuzzer": "bitsquatting", 
+        "geoip-country": "Japan", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "122.28.54.89"
+        ], 
+        "dns-mx": [
+            "mwbgw1.ocn.ad.jp", 
+            "mwbgw2.ocn.ad.jp"
+        ], 
+        "dns-ns": [
+            "ns-216.dns.jp-e1.cloudn-service.com", 
+            "ns-217.dns.jp-w1.cloudn-service.com", 
+            "ns-218.dns.us-e1.cloudn-service.com"
+        ], 
+        "domain-name": "impres.co.jp", 
+        "fuzzer": "omission", 
+        "geoip-country": "Japan", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-mx": [
+            "mx.nifty.com"
+        ], 
+        "dns-ns": [
+            "ns10.nifty.ad.jp", 
+            "ns11.nifty.ad.jp"
+        ], 
+        "domain-name": "ippress.co.jp", 
+        "fuzzer": "replacement"
+    }, 
+    {
+        "dns-a": [
+            "72.52.4.122"
+        ], 
+        "dns-mx": [
+            "localhost"
+        ], 
+        "dns-ns": [
+            "ns1.sedoparking.com", 
+            "ns2.sedoparking.com"
+        ], 
+        "domain-name": "im.press.co.jp", 
+        "fuzzer": "subdomain"
+    }, 
+    {
+        "dns-a": [
+            "219.94.178.184"
+        ], 
+        "dns-ns": [
+            "purin.net293.com", 
+            "sv1.telink.jp"
+        ], 
+        "domain-name": "empress.co.jp", 
+        "fuzzer": "vowel-swap"
+    }, 
+    {
+        "dns-a": [
+            "202.218.13.148"
+        ], 
+        "dns-ns": [
+            "ns-1330.awsdns-38.org", 
+            "ns-1618.awsdns-10.co.uk", 
+            "ns-244.awsdns-30.com", 
+            "ns-969.awsdns-57.net"
+        ], 
+        "domain-name": "impress.jp", 
+        "fuzzer": "various", 
+        "geoip-country": "Japan"
+    }
+]

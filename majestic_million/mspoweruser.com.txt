@@ -1,0 +1,92 @@
+[
+    {
+        "dns-a": [
+            "104.25.140.7", 
+            "104.25.141.7"
+        ], 
+        "dns-aaaa": [
+            "2400:cb00:2048:1::6819:8c07", 
+            "2400:cb00:2048:1::6819:8d07"
+        ], 
+        "dns-mx": [
+            "mspoweruser-com.mail.protection.outlook.com"
+        ], 
+        "dns-ns": [
+            "alex.ns.cloudflare.com", 
+            "dora.ns.cloudflare.com"
+        ], 
+        "domain-name": "mspoweruser.com", 
+        "fuzzer": "original*", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 100
+    }, 
+    {
+        "dns-a": [
+            "173.239.5.6", 
+            "173.239.8.164", 
+            "213.247.47.190"
+        ], 
+        "dns-mx": [
+            "mx7.mspowerusers.com"
+        ], 
+        "domain-name": "mspowerusers.com", 
+        "fuzzer": "addition", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "173.239.5.6", 
+            "173.239.8.164", 
+            "213.247.47.190"
+        ], 
+        "dns-mx": [
+            "mx7.mpoweruser.com"
+        ], 
+        "dns-ns": [
+            "ns1.expiereddnsmanager.com", 
+            "ns2.expiereddnsmanager.com"
+        ], 
+        "domain-name": "mpoweruser.com", 
+        "fuzzer": "omission", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "50.63.202.55"
+        ], 
+        "dns-ns": [
+            "ns63.domaincontrol.com", 
+            "ns64.domaincontrol.com"
+        ], 
+        "domain-name": "mypoweruser.com", 
+        "fuzzer": "replacement", 
+        "geoip-country": "United States"
+    }, 
+    {
+        "dns-a": [
+            "98.124.199.91"
+        ], 
+        "domain-name": "mspowe.ruser.com", 
+        "fuzzer": "subdomain", 
+        "geoip-country": "United States"
+    }, 
+    {
+        "dns-a": [
+            "69.89.67.69"
+        ], 
+        "domain-name": "mspoweru.ser.com", 
+        "fuzzer": "subdomain", 
+        "geoip-country": "United States"
+    }, 
+    {
+        "dns-a": [
+            "208.73.211.70"
+        ], 
+        "domain-name": "mspowerus.er.com", 
+        "fuzzer": "subdomain", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 0
+    }
+]

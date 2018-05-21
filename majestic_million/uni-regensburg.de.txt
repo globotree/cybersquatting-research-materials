@@ -1,0 +1,142 @@
+[
+    {
+        "dns-mx": [
+            "mail.uni-regensburg.de"
+        ], 
+        "dns-ns": [
+            "dns-3.dfn.de", 
+            "dns1.uni-regensburg.de", 
+            "dns2.uni-regensburg.de"
+        ], 
+        "domain-name": "uni-regensburg.de", 
+        "fuzzer": "original*"
+    }, 
+    {
+        "dns-a": [
+            "94.102.216.127"
+        ], 
+        "dns-mx": [
+            "mail.netbeat.de"
+        ], 
+        "dns-ns": [
+            "ns1.netbeat.de", 
+            "ns2.netbeat.de"
+        ], 
+        "domain-name": "uni-regensburq.de", 
+        "fuzzer": "homoglyph", 
+        "geoip-country": "Germany"
+    }, 
+    {
+        "dns-a": [
+            "69.16.230.42"
+        ], 
+        "dns-mx": [
+            "mx156.hostedmxserver.com"
+        ], 
+        "dns-ns": [
+            "ns1.parklogic.com", 
+            "ns2.parklogic.com", 
+            "ns3.parklogic.com"
+        ], 
+        "domain-name": "uniregensburg.de", 
+        "fuzzer": "omission", 
+        "geoip-country": "United States", 
+        "mx-spy": true
+    }, 
+    {
+        "dns-a": [
+            "185.53.178.9"
+        ], 
+        "dns-mx": [
+            "mail.h-email.net"
+        ], 
+        "dns-ns": [
+            "ns1.parkingcrew.net", 
+            "ns2.parkingcrew.net"
+        ], 
+        "domain-name": "uni-regenburg.de", 
+        "fuzzer": "omission", 
+        "geoip-country": "Germany", 
+        "mx-spy": true
+    }, 
+    {
+        "dns-a": [
+            "185.53.178.6"
+        ], 
+        "dns-mx": [
+            "mail.h-email.net"
+        ], 
+        "dns-ns": [
+            "ns1.parkingcrew.net", 
+            "ns2.parkingcrew.net"
+        ], 
+        "domain-name": "uni-regnsburg.de", 
+        "fuzzer": "omission", 
+        "geoip-country": "Germany", 
+        "mx-spy": true
+    }, 
+    {
+        "dns-a": [
+            "185.53.179.8"
+        ], 
+        "dns-mx": [
+            "mail.h-email.net"
+        ], 
+        "dns-ns": [
+            "ns1.parkingcrew.net", 
+            "ns2.parkingcrew.net"
+        ], 
+        "domain-name": "uni-regensbug.de", 
+        "fuzzer": "omission", 
+        "geoip-country": "Germany", 
+        "mx-spy": true
+    }, 
+    {
+        "dns-a": [
+            "46.30.213.208"
+        ], 
+        "domain-name": "uni-regen.sburg.de", 
+        "fuzzer": "subdomain", 
+        "geoip-country": "Denmark"
+    }, 
+    {
+        "dns-a": [
+            "85.22.48.118"
+        ], 
+        "domain-name": "uni-regens.burg.de", 
+        "fuzzer": "subdomain", 
+        "geoip-country": "Germany"
+    }, 
+    {
+        "dns-a": [
+            "37.17.224.131"
+        ], 
+        "domain-name": "uni-regensb.urg.de", 
+        "fuzzer": "subdomain", 
+        "geoip-country": "Germany"
+    }, 
+    {
+        "dns-a": [
+            "88.99.192.80"
+        ], 
+        "dns-ns": [
+            "ns1.kv.de", 
+            "ns2.kv.de"
+        ], 
+        "domain-name": "uni-regensbur.g.de", 
+        "fuzzer": "subdomain", 
+        "geoip-country": "Germany"
+    }, 
+    {
+        "dns-a": [
+            "185.53.178.6"
+        ], 
+        "dns-ns": [
+            "ns1.parkingcrew.net", 
+            "ns2.parkingcrew.net"
+        ], 
+        "domain-name": "uni-regesnburg.de", 
+        "fuzzer": "transposition", 
+        "geoip-country": "Germany"
+    }
+]

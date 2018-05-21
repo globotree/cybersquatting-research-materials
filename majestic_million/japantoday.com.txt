@@ -1,0 +1,78 @@
+[
+    {
+        "dns-a": [
+            "174.143.186.153"
+        ], 
+        "dns-aaaa": [
+            "2001:4800:7901:0:fa05:ca66:0:1"
+        ], 
+        "dns-mx": [
+            "alt1.aspmx.l.google.com", 
+            "alt2.aspmx.l.google.com", 
+            "aspmx.l.google.com", 
+            "aspmx2.googlemail.com", 
+            "aspmx3.googlemail.com"
+        ], 
+        "dns-ns": [
+            "dns1.stabletransit.com", 
+            "dns2.stabletransit.com"
+        ], 
+        "domain-name": "japantoday.com", 
+        "fuzzer": "original*", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 79
+    }, 
+    {
+        "dns-a": [
+            "195.149.84.109"
+        ], 
+        "dns-aaaa": [
+            "2001:67c:38c::6d"
+        ], 
+        "dns-ns": [
+            "redbusprimarydns.japan-today.com", 
+            "redbussecondarydns.japan-today.com"
+        ], 
+        "domain-name": "japan-today.com", 
+        "fuzzer": "hyphenation", 
+        "geoip-country": "United Kingdom", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "184.168.221.58"
+        ], 
+        "dns-mx": [
+            "mailstore1.secureserver.net", 
+            "smtp.secureserver.net"
+        ], 
+        "dns-ns": [
+            "ns65.domaincontrol.com", 
+            "ns66.domaincontrol.com"
+        ], 
+        "domain-name": "japatoday.com", 
+        "fuzzer": "omission", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "185.53.178.7"
+        ], 
+        "dns-ns": [
+            "ns1.parkingcrew.net", 
+            "ns2.parkingcrew.net"
+        ], 
+        "domain-name": "japa.ntoday.com", 
+        "fuzzer": "subdomain"
+    }, 
+    {
+        "dns-a": [
+            "50.204.7.60"
+        ], 
+        "domain-name": "japan.today.com", 
+        "fuzzer": "subdomain", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 0
+    }
+]

@@ -1,0 +1,75 @@
+[
+    {
+        "dns-a": [
+            "210.128.59.20"
+        ], 
+        "dns-mx": [
+            "mx1.capcom.co.jp", 
+            "mx2.capcom.co.jp", 
+            "mx3.capcom.co.jp", 
+            "mx4.capcom.co.jp"
+        ], 
+        "dns-ns": [
+            "dns-b.iij.ad.jp", 
+            "dns-c.iij.ad.jp"
+        ], 
+        "domain-name": "capcom.co.jp", 
+        "fuzzer": "original*", 
+        "geoip-country": "Japan", 
+        "ssdeep-score": 100
+    }, 
+    {
+        "dns-a": [
+            "150.60.157.155"
+        ], 
+        "dns-mx": [
+            "vlmx20.secure.ne.jp", 
+            "vlmx21.secure.ne.jp", 
+            "vlmx22.secure.ne.jp"
+        ], 
+        "dns-ns": [
+            "ns6.cpi.ad.jp", 
+            "ns7.cpi.ad.jp"
+        ], 
+        "domain-name": "cap-com.co.jp", 
+        "fuzzer": "hyphenation", 
+        "geoip-country": "Japan", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "157.205.31.118"
+        ], 
+        "dns-mx": [
+            "mxi.alpha-prm.jp"
+        ], 
+        "dns-ns": [
+            "fjkdns01.alpha-prm.jp", 
+            "fjkdns02.alpha-prm.jp", 
+            "fjkdns03.alpha-prm.jp"
+        ], 
+        "domain-name": "cacom.co.jp", 
+        "fuzzer": "omission", 
+        "geoip-country": "Japan", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-mx": [
+            "capco-co-jp.mail.protection.outlook.com"
+        ], 
+        "dns-ns": [
+            "dns-b.iij.ad.jp", 
+            "dns-c.iij.ad.jp"
+        ], 
+        "domain-name": "capco.co.jp", 
+        "fuzzer": "omission"
+    }, 
+    {
+        "dns-ns": [
+            "dns-b.iij.ad.jp", 
+            "dns-c.iij.ad.jp"
+        ], 
+        "domain-name": "capcom.jp", 
+        "fuzzer": "various"
+    }
+]

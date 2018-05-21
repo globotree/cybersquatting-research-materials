@@ -1,0 +1,385 @@
+[
+    {
+        "dns-mx": [
+            "smgout.cebbank.com"
+        ], 
+        "dns-ns": [
+            "dns1.cebbank.com", 
+            "dns2.cebbank.com", 
+            "dns3.cebbank.com", 
+            "dns4.cebbank.com", 
+            "dns5.cebbank.com", 
+            "dns6.cebbank.com"
+        ], 
+        "domain-name": "cebbank.com", 
+        "fuzzer": "original*"
+    }, 
+    {
+        "dns-a": [
+            "185.53.178.7"
+        ], 
+        "dns-mx": [
+            "mail.h-email.net"
+        ], 
+        "dns-ns": [
+            "ns1.parkingcrew.net", 
+            "ns2.parkingcrew.net"
+        ], 
+        "domain-name": "cebbanks.com", 
+        "fuzzer": "addition", 
+        "geoip-country": "Germany", 
+        "mx-spy": true
+    }, 
+    {
+        "dns-a": [
+            "173.254.28.55"
+        ], 
+        "dns-mx": [
+            "mail.aebbank.com"
+        ], 
+        "dns-ns": [
+            "ns1.justhost.com", 
+            "ns2.justhost.com"
+        ], 
+        "domain-name": "aebbank.com", 
+        "fuzzer": "bitsquatting", 
+        "geoip-country": "United States"
+    }, 
+    {
+        "dns-a": [
+            "208.91.197.26"
+        ], 
+        "domain-name": "kebbank.com", 
+        "fuzzer": "bitsquatting", 
+        "geoip-country": "Virgin Islands"
+    }, 
+    {
+        "dns-ns": [
+            "ns1.seb.se", 
+            "ns2.sebgroup.com", 
+            "pdns1.cscdns.net", 
+            "pdns2.cscdns.net"
+        ], 
+        "domain-name": "sebbank.com", 
+        "fuzzer": "bitsquatting"
+    }, 
+    {
+        "dns-a": [
+            "47.89.58.32"
+        ], 
+        "dns-ns": [
+            "dns11.hichina.com", 
+            "dns12.hichina.com"
+        ], 
+        "domain-name": "cgbbank.com", 
+        "fuzzer": "bitsquatting", 
+        "geoip-country": "United States"
+    }, 
+    {
+        "dns-a": [
+            "203.78.142.12"
+        ], 
+        "domain-name": "cmbbank.com", 
+        "fuzzer": "bitsquatting", 
+        "geoip-country": "Hong Kong"
+    }, 
+    {
+        "dns-a": [
+            "70.32.82.202"
+        ], 
+        "dns-mx": [
+            "us-smtp-1.mimecast.com", 
+            "us-smtp-2.mimecast.com"
+        ], 
+        "dns-ns": [
+            "ns03.domaincontrol.com", 
+            "ns04.domaincontrol.com"
+        ], 
+        "domain-name": "cubbank.com", 
+        "fuzzer": "bitsquatting", 
+        "geoip-country": "United States"
+    }, 
+    {
+        "dns-a": [
+            "69.172.201.153"
+        ], 
+        "dns-ns": [
+            "ns1.uniregistrymarket.link", 
+            "ns2.uniregistrymarket.link"
+        ], 
+        "domain-name": "cecbank.com", 
+        "fuzzer": "bitsquatting", 
+        "geoip-country": "United States"
+    }, 
+    {
+        "dns-a": [
+            "27.50.50.49"
+        ], 
+        "dns-mx": [
+            "ALT1.ASPMX.L.GOOGLE.com", 
+            "ALT2.ASPMX.L.GOOGLE.com", 
+            "ALT3.ASPMX.L.GOOGLE.com", 
+            "ALT4.ASPMX.L.GOOGLE.com", 
+            "ASPMX.L.GOOGLE.com"
+        ], 
+        "dns-ns": [
+            "dns1.name-services.com", 
+            "dns2.name-services.com", 
+            "dns3.name-services.com", 
+            "dns4.name-services.com", 
+            "dns5.name-services.com"
+        ], 
+        "domain-name": "cebbamk.com", 
+        "fuzzer": "homoglyph", 
+        "geoip-country": "Australia"
+    }, 
+    {
+        "dns-a": [
+            "103.224.182.253"
+        ], 
+        "dns-mx": [
+            "park-mx.above.com"
+        ], 
+        "dns-ns": [
+            "ns3.above.com", 
+            "ns4.above.com"
+        ], 
+        "domain-name": "cenbbank.com", 
+        "fuzzer": "insertion", 
+        "geoip-country": "Australia", 
+        "mx-spy": true
+    }, 
+    {
+        "dns-a": [
+            "69.172.201.153"
+        ], 
+        "dns-ns": [
+            "ns1.uniregistrymarket.link", 
+            "ns2.uniregistrymarket.link"
+        ], 
+        "domain-name": "cebank.com", 
+        "fuzzer": "omission", 
+        "geoip-country": "United States"
+    }, 
+    {
+        "dns-a": [
+            "209.203.97.199"
+        ], 
+        "dns-mx": [
+            "mg1.cbbank.com", 
+            "mg2.cbbank.com"
+        ], 
+        "dns-ns": [
+            "ns-1464.awsdns-55.org", 
+            "ns-166.awsdns-20.com", 
+            "ns-1909.awsdns-46.co.uk", 
+            "ns-582.awsdns-08.net"
+        ], 
+        "domain-name": "cbbank.com", 
+        "fuzzer": "omission", 
+        "geoip-country": "United States", 
+        "mx-spy": true
+    }, 
+    {
+        "dns-a": [
+            "107.165.131.192"
+        ], 
+        "dns-ns": [
+            "juming.dnsdun.com", 
+            "juming.dnsdun.net"
+        ], 
+        "domain-name": "cebbbank.com", 
+        "fuzzer": "repetition", 
+        "geoip-country": "United States"
+    }, 
+    {
+        "dns-a": [
+            "87.229.26.226"
+        ], 
+        "dns-mx": [
+            "mail.cegbank.com"
+        ], 
+        "dns-ns": [
+            "ns.deninet.hu", 
+            "ns.maximax.hu"
+        ], 
+        "domain-name": "cegbank.com", 
+        "fuzzer": "replacement", 
+        "geoip-country": "Hungary"
+    }, 
+    {
+        "dns-a": [
+            "184.168.221.27"
+        ], 
+        "dns-mx": [
+            "cbb-bank.com.inbound10.mxlogic.net", 
+            "cbb-bank.com.inbound10.mxlogicmx.net", 
+            "mxa-00258501.gslb.pphosted.com", 
+            "mxb-00258501.gslb.pphosted.com"
+        ], 
+        "dns-ns": [
+            "ns13.domaincontrol.com", 
+            "ns14.domaincontrol.com"
+        ], 
+        "domain-name": "cwbbank.com", 
+        "fuzzer": "replacement", 
+        "geoip-country": "United States"
+    }, 
+    {
+        "dns-a": [
+            "107.179.115.150"
+        ], 
+        "dns-ns": [
+            "ns1.cloud-dns.net", 
+            "ns2.cloud-dns.net"
+        ], 
+        "domain-name": "cebbznk.com", 
+        "fuzzer": "replacement", 
+        "geoip-country": "United States"
+    }, 
+    {
+        "dns-a": [
+            "205.178.189.131"
+        ], 
+        "dns-mx": [
+            "bsf1.nsoit.com", 
+            "bsf2.nsoit.com", 
+            "d109522a.ess.barracudanetworks.com", 
+            "d109522b.ess.barracudanetworks.com"
+        ], 
+        "dns-ns": [
+            "ns1.worldnic.com", 
+            "ns2.worldnic.com"
+        ], 
+        "domain-name": "csbbank.com", 
+        "fuzzer": "replacement", 
+        "geoip-country": "United States"
+    }, 
+    {
+        "dns-a": [
+            "103.235.101.155"
+        ], 
+        "domain-name": "crbbank.com", 
+        "fuzzer": "replacement", 
+        "geoip-country": "Hong Kong"
+    }, 
+    {
+        "dns-a": [
+            "213.159.6.55"
+        ], 
+        "dns-mx": [
+            "vebbank.com"
+        ], 
+        "dns-ns": [
+            "ns1.vebsis.com", 
+            "ns2.vebsis.com"
+        ], 
+        "domain-name": "vebbank.com", 
+        "fuzzer": "replacement", 
+        "geoip-country": "Netherlands"
+    }, 
+    {
+        "dns-a": [
+            "23.236.62.147"
+        ], 
+        "dns-mx": [
+            "mx1.bwscloudservices.com", 
+            "mx2.bwscloudservices.com", 
+            "mx3.bwscloudservices.com", 
+            "mx4.bwscloudservices.com"
+        ], 
+        "dns-ns": [
+            "ns12.wixdns.net", 
+            "ns13.wixdns.net"
+        ], 
+        "domain-name": "cenbank.com", 
+        "fuzzer": "replacement", 
+        "geoip-country": "United States"
+    }, 
+    {
+        "dns-a": [
+            "50.63.202.55"
+        ], 
+        "dns-mx": [
+            "ALT1.ASPMX.L.GOOGLE.com", 
+            "ALT2.ASPMX.L.GOOGLE.com", 
+            "ASPMX.L.GOOGLE.com", 
+            "ASPMX2.GOOGLEMAIL.com", 
+            "ASPMX3.GOOGLEMAIL.com"
+        ], 
+        "dns-ns": [
+            "ns73.domaincontrol.com", 
+            "ns74.domaincontrol.com"
+        ], 
+        "domain-name": "febbank.com", 
+        "fuzzer": "replacement", 
+        "geoip-country": "United States"
+    }, 
+    {
+        "dns-a": [
+            "184.168.221.58"
+        ], 
+        "dns-ns": [
+            "ns29.domaincontrol.com", 
+            "ns30.domaincontrol.com"
+        ], 
+        "domain-name": "debbank.com", 
+        "fuzzer": "replacement", 
+        "geoip-country": "United States"
+    }, 
+    {
+        "dns-a": [
+            "203.78.142.12"
+        ], 
+        "dns-ns": [
+            "dns10.hichina.com", 
+            "dns9.hichina.com"
+        ], 
+        "domain-name": "czbbank.com", 
+        "fuzzer": "replacement", 
+        "geoip-country": "Hong Kong"
+    }, 
+    {
+        "dns-a": [
+            "184.168.221.96"
+        ], 
+        "dns-mx": [
+            "0", 
+            "10"
+        ], 
+        "dns-ns": [
+            "ns01.cashparking.com", 
+            "ns02.cashparking.com"
+        ], 
+        "domain-name": "ceb.bank.com", 
+        "fuzzer": "subdomain", 
+        "geoip-country": "United States", 
+        "mx-spy": true
+    }, 
+    {
+        "dns-a": [
+            "203.78.142.12"
+        ], 
+        "domain-name": "cbebank.com", 
+        "fuzzer": "transposition", 
+        "geoip-country": "Hong Kong"
+    }, 
+    {
+        "dns-a": [
+            "208.78.174.73"
+        ], 
+        "dns-mx": [
+            "cibbank-com.relay1g.spamh.com", 
+            "cibbank-com.relay1h.spamh.com", 
+            "cibbank-com.relay1i.spamh.com"
+        ], 
+        "dns-ns": [
+            "ns-1330.awsdns-38.org", 
+            "ns-157.awsdns-19.com", 
+            "ns-1581.awsdns-05.co.uk", 
+            "ns-681.awsdns-21.net"
+        ], 
+        "domain-name": "cibbank.com", 
+        "fuzzer": "vowel-swap"
+    }
+]

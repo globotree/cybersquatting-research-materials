@@ -1,0 +1,48 @@
+[
+    {
+        "dns-a": [
+            "104.16.102.155", 
+            "104.16.103.155", 
+            "104.16.104.155", 
+            "104.16.105.155", 
+            "104.16.106.155"
+        ], 
+        "dns-mx": [
+            "gizmodo-com-au.mail.protection.outlook.com"
+        ], 
+        "dns-ns": [
+            "anna.ns.cloudflare.com", 
+            "sam.ns.cloudflare.com"
+        ], 
+        "domain-name": "gizmodo.com.au", 
+        "fuzzer": "original*", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 93
+    }, 
+    {
+        "dns-a": [
+            "118.127.36.227"
+        ], 
+        "dns-mx": [
+            "fast.ddns.com.au", 
+            "mail.gizmoo.com.au"
+        ], 
+        "dns-ns": [
+            "dns1.quick.net.au", 
+            "dns2.quick.net.au", 
+            "dns3.quick.net.au", 
+            "dns4.quick.net.au"
+        ], 
+        "domain-name": "gizmoo.com.au", 
+        "fuzzer": "omission", 
+        "geoip-country": "Australia"
+    }, 
+    {
+        "dns-a": [
+            "13.54.226.148"
+        ], 
+        "domain-name": "gizm.odo.com.au", 
+        "fuzzer": "subdomain", 
+        "geoip-country": "United States"
+    }
+]

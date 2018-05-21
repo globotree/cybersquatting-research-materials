@@ -1,0 +1,94 @@
+[
+    {
+        "dns-a": [
+            "52.222.146.116", 
+            "52.222.146.154", 
+            "52.222.146.158", 
+            "52.222.146.180", 
+            "52.222.146.184", 
+            "52.222.146.206", 
+            "52.222.146.21", 
+            "52.222.146.82"
+        ], 
+        "dns-mx": [
+            "alt1.aspmx.l.google.com", 
+            "alt2.aspmx.l.google.com", 
+            "aspmx.l.google.com", 
+            "aspmx2.googlemail.com", 
+            "aspmx3.googlemail.com"
+        ], 
+        "dns-ns": [
+            "ns-1407.awsdns-47.org", 
+            "ns-1723.awsdns-23.co.uk", 
+            "ns-396.awsdns-49.com", 
+            "ns-609.awsdns-12.net"
+        ], 
+        "domain-name": "thesimpledollar.com", 
+        "fuzzer": "original*", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 100
+    }, 
+    {
+        "dns-a": [
+            "45.79.180.55"
+        ], 
+        "dns-mx": [
+            "mx.zoho.com", 
+            "mx2.zoho.com"
+        ], 
+        "dns-ns": [
+            "ns73.domaincontrol.com", 
+            "ns74.domaincontrol.com"
+        ], 
+        "domain-name": "thesimpledollars.com", 
+        "fuzzer": "addition", 
+        "geoip-country": "United States"
+    }, 
+    {
+        "dns-a": [
+            "103.224.182.239"
+        ], 
+        "dns-mx": [
+            "park-mx.above.com"
+        ], 
+        "dns-ns": [
+            "ns1.above.com", 
+            "ns2.above.com"
+        ], 
+        "domain-name": "thesimpledolar.com", 
+        "fuzzer": "omission", 
+        "geoip-country": "Australia", 
+        "mx-spy": true, 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "158.146.1.238"
+        ], 
+        "domain-name": "thesimple.dollar.com", 
+        "fuzzer": "subdomain", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "72.9.105.30"
+        ], 
+        "domain-name": "thesimpledo.llar.com", 
+        "fuzzer": "subdomain", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "184.168.221.91"
+        ], 
+        "dns-ns": [
+            "ns31.domaincontrol.com", 
+            "ns32.domaincontrol.com"
+        ], 
+        "domain-name": "thesimpledollor.com", 
+        "fuzzer": "vowel-swap", 
+        "geoip-country": "United States"
+    }
+]

@@ -1,0 +1,63 @@
+[
+    {
+        "dns-ns": [
+            "prd1.azuredns-cloud.net", 
+            "prd2.azuredns-cloud.net", 
+            "prd3.azuredns-cloud.net", 
+            "prd4.azuredns-cloud.net"
+        ], 
+        "domain-name": "azureedge.net", 
+        "fuzzer": "original*"
+    }, 
+    {
+        "dns-a": [
+            "141.8.224.93"
+        ], 
+        "dns-ns": [
+            "ns7.rookdns.com", 
+            "ns8.rookdns.com"
+        ], 
+        "domain-name": "azzureedge.net", 
+        "fuzzer": "insertion", 
+        "geoip-country": "Switzerland"
+    }, 
+    {
+        "dns-a": [
+            "67.227.226.240"
+        ], 
+        "dns-ns": [
+            "ns1.parklogic.com", 
+            "ns2.parklogic.com", 
+            "ns3.parklogic.com", 
+            "ns4.parklogic.com", 
+            "ns5.parklogic.com"
+        ], 
+        "domain-name": "azuredge.net", 
+        "fuzzer": "omission", 
+        "geoip-country": "United States"
+    }, 
+    {
+        "dns-a": [
+            "72.52.4.119"
+        ], 
+        "dns-mx": [
+            "localhost"
+        ], 
+        "dns-ns": [
+            "ns1.sedoparking.com", 
+            "ns2.sedoparking.com"
+        ], 
+        "domain-name": "azuree.dge.net", 
+        "fuzzer": "subdomain", 
+        "geoip-country": "United States", 
+        "mx-spy": true
+    }, 
+    {
+        "dns-a": [
+            "195.34.168.99"
+        ], 
+        "domain-name": "azureed.ge.net", 
+        "fuzzer": "subdomain", 
+        "geoip-country": "Germany"
+    }
+]

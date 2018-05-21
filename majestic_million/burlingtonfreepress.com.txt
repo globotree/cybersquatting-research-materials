@@ -1,0 +1,123 @@
+[
+    {
+        "dns-a": [
+            "159.54.242.176", 
+            "209.97.50.225"
+        ], 
+        "dns-mx": [
+            "us-smtp-inbound-1.mimecast.com", 
+            "us-smtp-inbound-2.mimecast.com"
+        ], 
+        "dns-ns": [
+            "dns1.p07.nsone.net", 
+            "dns2.p07.nsone.net", 
+            "dns3.p07.nsone.net", 
+            "dns4.p07.nsone.net", 
+            "ns1.gannett.com", 
+            "ns2.gannett.com", 
+            "ns3.gannett.com", 
+            "ns4.gannett.com"
+        ], 
+        "domain-name": "burlingtonfreepress.com", 
+        "fuzzer": "original*", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 100
+    }, 
+    {
+        "dns-a": [
+            "50.63.202.78"
+        ], 
+        "dns-ns": [
+            "ns43.domaincontrol.com", 
+            "ns44.domaincontrol.com"
+        ], 
+        "domain-name": "burlingtonfreeepress.com", 
+        "fuzzer": "insertion", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "185.53.179.7"
+        ], 
+        "dns-mx": [
+            "exchange.dewile.net", 
+            "mail.h-email.net"
+        ], 
+        "dns-ns": [
+            "ns1.parkingcrew.net", 
+            "ns2.parkingcrew.net"
+        ], 
+        "domain-name": "burlintonfreepress.com", 
+        "fuzzer": "omission", 
+        "geoip-country": "Germany", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "185.53.179.7"
+        ], 
+        "dns-mx": [
+            "mail.h-email.net"
+        ], 
+        "dns-ns": [
+            "ns1.parkingcrew.net", 
+            "ns2.parkingcrew.net"
+        ], 
+        "domain-name": "bulingtonfreepress.com", 
+        "fuzzer": "omission", 
+        "geoip-country": "Germany", 
+        "mx-spy": true, 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "103.224.212.247"
+        ], 
+        "dns-mx": [
+            "park-mx.above.com"
+        ], 
+        "dns-ns": [
+            "ns3.above.com", 
+            "ns4.above.com"
+        ], 
+        "domain-name": "buringtonfreepress.com", 
+        "fuzzer": "omission", 
+        "geoip-country": "Australia", 
+        "mx-spy": true
+    }, 
+    {
+        "dns-a": [
+            "208.73.210.202", 
+            "208.73.210.217", 
+            "208.73.211.165", 
+            "208.73.211.177"
+        ], 
+        "dns-ns": [
+            "ns1.dsredirection.com", 
+            "ns2.dsredirection.com"
+        ], 
+        "domain-name": "burlingtonfree.press.com", 
+        "fuzzer": "subdomain", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "104.238.111.174"
+        ], 
+        "domain-name": "burlingtonfreepr.ess.com", 
+        "fuzzer": "subdomain", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "194.105.56.170"
+        ], 
+        "domain-name": "burlingtonfreepre.ss.com", 
+        "fuzzer": "subdomain", 
+        "geoip-country": "Latvia", 
+        "ssdeep-score": 0
+    }
+]

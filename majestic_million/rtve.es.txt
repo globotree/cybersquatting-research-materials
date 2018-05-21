@@ -1,0 +1,326 @@
+[
+    {
+        "dns-a": [
+            "217.15.42.90"
+        ], 
+        "dns-mx": [
+            "mx01.correolimpio.telefonica.es", 
+            "mx02.correolimpio.telefonica.es", 
+            "mx03.correolimpio.telefonica.es"
+        ], 
+        "dns-ns": [
+            "ns1.idatahouse.com", 
+            "ns2.idatahouse.com"
+        ], 
+        "domain-name": "rtve.es", 
+        "fuzzer": "original*", 
+        "geoip-country": "Spain", 
+        "ssdeep-score": 100
+    }, 
+    {
+        "dns-a": [
+            "103.224.182.253"
+        ], 
+        "dns-mx": [
+            "park-mx.above.com"
+        ], 
+        "dns-ns": [
+            "ns1.above.com", 
+            "ns2.above.com"
+        ], 
+        "domain-name": "rtves.es", 
+        "fuzzer": "addition", 
+        "geoip-country": "Australia", 
+        "mx-spy": true, 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "195.8.66.200"
+        ], 
+        "dns-mx": [
+            "mx10.claranet.es", 
+            "mx20.claranet.es", 
+            "ruve-es.mail.protection.outlook.com"
+        ], 
+        "dns-ns": [
+            "ns0.es.claradns.net", 
+            "ns1.es.claradns.net", 
+            "ns2.es.claradns.net"
+        ], 
+        "domain-name": "ruve.es", 
+        "fuzzer": "bitsquatting", 
+        "geoip-country": "United Kingdom", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-ns": [
+            "ns-1082.awsdns-07.org", 
+            "ns-1664.awsdns-16.co.uk", 
+            "ns-343.awsdns-42.com", 
+            "ns-826.awsdns-39.net"
+        ], 
+        "domain-name": "rtre.es", 
+        "fuzzer": "bitsquatting"
+    }, 
+    {
+        "dns-a": [
+            "217.160.0.101"
+        ], 
+        "dns-mx": [
+            "mx00.1and1.es", 
+            "mx01.1and1.es"
+        ], 
+        "dns-ns": [
+            "ns1109.ui-dns.biz", 
+            "ns1109.ui-dns.com", 
+            "ns1109.ui-dns.de", 
+            "ns1109.ui-dns.org"
+        ], 
+        "domain-name": "rtvd.es", 
+        "fuzzer": "bitsquatting", 
+        "geoip-country": "Germany", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "85.91.64.22"
+        ], 
+        "dns-ns": [
+            "ns1.xunta.es", 
+            "ns2.xunta.es"
+        ], 
+        "domain-name": "rtvg.es", 
+        "fuzzer": "bitsquatting", 
+        "geoip-country": "Spain", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "217.12.24.33"
+        ], 
+        "dns-mx": [
+            "mx.juntadeandalucia.es", 
+            "mx2.juntadeandalucia.es"
+        ], 
+        "dns-ns": [
+            "ns.juntadeandalucia.es", 
+            "ns1.juntadeandalucia.es", 
+            "ns3.juntadeandalucia.es", 
+            "ns4.juntadeandalucia.es"
+        ], 
+        "domain-name": "rtva.es", 
+        "fuzzer": "bitsquatting", 
+        "geoip-country": "Spain", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "37.152.88.55"
+        ], 
+        "dns-ns": [
+            "ns2.dondominio.com", 
+            "ns5.dondominio.com"
+        ], 
+        "domain-name": "rtvm.es", 
+        "fuzzer": "bitsquatting", 
+        "geoip-country": "Spain", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "141.8.224.169"
+        ], 
+        "dns-ns": [
+            "ns27.rookdns.com", 
+            "ns28.rookdns.com"
+        ], 
+        "domain-name": "rtyve.es", 
+        "fuzzer": "insertion", 
+        "geoip-country": "Switzerland", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "82.98.139.144"
+        ], 
+        "dns-mx": [
+            "mx.rtvce.es"
+        ], 
+        "dns-ns": [
+            "ns1.servicios-fusion.es", 
+            "ns2.servicios-fusion.es"
+        ], 
+        "domain-name": "rtvce.es", 
+        "fuzzer": "insertion", 
+        "geoip-country": "Spain", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "217.15.42.90"
+        ], 
+        "dns-ns": [
+            "ns1.idatahouse.com", 
+            "ns2.idatahouse.com"
+        ], 
+        "domain-name": "tve.es", 
+        "fuzzer": "omission", 
+        "geoip-country": "Spain", 
+        "ssdeep-score": 100
+    }, 
+    {
+        "dns-a": [
+            "72.52.4.119"
+        ], 
+        "dns-mx": [
+            "localhost"
+        ], 
+        "dns-ns": [
+            "ns1.sedoparking.com", 
+            "ns2.sedoparking.com"
+        ], 
+        "domain-name": "rte.es", 
+        "fuzzer": "omission", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "103.224.182.248"
+        ], 
+        "dns-mx": [
+            "park-mx.above.com"
+        ], 
+        "dns-ns": [
+            "ns1.above.com", 
+            "ns2.above.com"
+        ], 
+        "domain-name": "rtv.es", 
+        "fuzzer": "omission", 
+        "geoip-country": "Australia", 
+        "mx-spy": true, 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "72.52.4.119"
+        ], 
+        "dns-mx": [
+            "localhost"
+        ], 
+        "dns-ns": [
+            "ns1.sedoparking.com", 
+            "ns2.sedoparking.com"
+        ], 
+        "domain-name": "rve.es", 
+        "fuzzer": "omission", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "103.224.182.211"
+        ], 
+        "dns-mx": [
+            "park-mx.above.com"
+        ], 
+        "dns-ns": [
+            "ns1.above.com", 
+            "ns2.above.com"
+        ], 
+        "domain-name": "rtce.es", 
+        "fuzzer": "replacement", 
+        "geoip-country": "Australia", 
+        "mx-spy": true, 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "185.53.177.29"
+        ], 
+        "domain-name": "rtvr.es", 
+        "fuzzer": "replacement"
+    }, 
+    {
+        "dns-a": [
+            "72.52.4.119"
+        ], 
+        "dns-mx": [
+            "localhost"
+        ], 
+        "dns-ns": [
+            "ns1.sedoparking.com", 
+            "ns2.sedoparking.com"
+        ], 
+        "domain-name": "rtvs.es", 
+        "fuzzer": "replacement", 
+        "geoip-country": "United States", 
+        "mx-spy": true, 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "81.169.145.156"
+        ], 
+        "dns-aaaa": [
+            "2a01:238:20a:202:1156::"
+        ], 
+        "dns-mx": [
+            "rfve-es.mail.protection.outlook.com"
+        ], 
+        "dns-ns": [
+            "docks12.rzone.de", 
+            "shades03.rzone.de"
+        ], 
+        "domain-name": "rfve.es", 
+        "fuzzer": "replacement", 
+        "geoip-country": "Germany", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "72.52.4.119"
+        ], 
+        "dns-mx": [
+            "localhost"
+        ], 
+        "dns-ns": [
+            "ns1.sedoparking.com", 
+            "ns2.sedoparking.com"
+        ], 
+        "domain-name": "trve.es", 
+        "fuzzer": "transposition", 
+        "geoip-country": "United States", 
+        "mx-spy": true, 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "82.194.64.60"
+        ], 
+        "dns-ns": [
+            "dns1.canaldominios.com", 
+            "dns2.canaldominios.com", 
+            "dns3.canaldominios.com", 
+            "dns4.canaldominios.com"
+        ], 
+        "domain-name": "rvte.es", 
+        "fuzzer": "transposition", 
+        "geoip-country": "Spain"
+    }, 
+    {
+        "dns-a": [
+            "50.117.69.113"
+        ], 
+        "dns-ns": [
+            "bots416454.earth.orderbox-dns.com", 
+            "bots416454.mars.orderbox-dns.com", 
+            "bots416454.mercury.orderbox-dns.com", 
+            "bots416454.venus.orderbox-dns.com"
+        ], 
+        "domain-name": "rtvo.es", 
+        "fuzzer": "vowel-swap", 
+        "geoip-country": "United States"
+    }
+]

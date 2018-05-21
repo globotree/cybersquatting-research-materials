@@ -1,0 +1,146 @@
+[
+    {
+        "dns-a": [
+            "54.173.102.171"
+        ], 
+        "dns-mx": [
+            "mxa-00127701.gslb.pphosted.com", 
+            "mxb-00127701.gslb.pphosted.com"
+        ], 
+        "dns-ns": [
+            "a1-7.akam.net", 
+            "a10-66.akam.net", 
+            "a11-67.akam.net", 
+            "a24-64.akam.net", 
+            "a3-65.akam.net", 
+            "a6-66.akam.net"
+        ], 
+        "domain-name": "gia.edu", 
+        "fuzzer": "original*", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 100
+    }, 
+    {
+        "dns-a": [
+            "216.50.37.93"
+        ], 
+        "dns-mx": [
+            "gial-edu.mail.protection.outlook.com"
+        ], 
+        "dns-ns": [
+            "nsc1.wsfo.org", 
+            "nsd1.wsfo.org", 
+            "nsj1.wsfo.org"
+        ], 
+        "domain-name": "gial.edu", 
+        "fuzzer": "addition", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "199.79.51.35"
+        ], 
+        "dns-mx": [
+            "cia-edu.mail.protection.outlook.com"
+        ], 
+        "dns-ns": [
+            "gate.cia.edu", 
+            "gate3.cia.edu", 
+            "ns1.oar.net", 
+            "ns1.onecleveland.org", 
+            "ns2.onecleveland.org", 
+            "ns8.oar.net"
+        ], 
+        "domain-name": "cia.edu", 
+        "fuzzer": "bitsquatting", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "173.254.56.22"
+        ], 
+        "dns-mx": [
+            "gma.edu"
+        ], 
+        "dns-ns": [
+            "ns1.hostwdi.com", 
+            "ns2.hostwdi.com"
+        ], 
+        "domain-name": "gma.edu", 
+        "fuzzer": "bitsquatting", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "77.104.164.154"
+        ], 
+        "dns-mx": [
+            "cloud5.spamtitan.com", 
+            "cloud5.spamtitan.com", 
+            "cloud6.spamtitan.com", 
+            "mail.gic.edu"
+        ], 
+        "dns-ns": [
+            "mns01.domaincontrol.com", 
+            "mns02.domaincontrol.com"
+        ], 
+        "domain-name": "gic.edu", 
+        "fuzzer": "bitsquatting", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "104.28.14.179", 
+            "104.28.15.179"
+        ], 
+        "dns-aaaa": [
+            "2400:cb00:2048:1::681c:eb3", 
+            "2400:cb00:2048:1::681c:fb3"
+        ], 
+        "dns-mx": [
+            "dc-fb27b7935e9c.bia.edu"
+        ], 
+        "dns-ns": [
+            "ingrid.ns.cloudflare.com", 
+            "jerome.ns.cloudflare.com"
+        ], 
+        "domain-name": "bia.edu", 
+        "fuzzer": "replacement"
+    }, 
+    {
+        "dns-a": [
+            "50.116.93.86"
+        ], 
+        "dns-ns": [
+            "cns415.hostgator.com", 
+            "cns416.hostgator.com"
+        ], 
+        "domain-name": "tia.edu", 
+        "fuzzer": "replacement"
+    }, 
+    {
+        "dns-a": [
+            "104.196.199.193"
+        ], 
+        "dns-mx": [
+            "alt1.aspmx.l.google.com", 
+            "alt2.aspmx.l.google.com", 
+            "aspmx.l.google.com", 
+            "aspmx2.googlemail.com", 
+            "aspmx3.googlemail.com"
+        ], 
+        "dns-ns": [
+            "ns-cloud-a1.googledomains.com", 
+            "ns-cloud-a2.googledomains.com", 
+            "ns-cloud-a3.googledomains.com", 
+            "ns-cloud-a4.googledomains.com"
+        ], 
+        "domain-name": "iga.edu", 
+        "fuzzer": "transposition", 
+        "geoip-country": "United States"
+    }
+]

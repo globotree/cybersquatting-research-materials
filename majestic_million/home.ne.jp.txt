@@ -1,0 +1,77 @@
+[
+    {
+        "dns-mx": [
+            "mgw.esk.m4.zaq.ne.jp"
+        ], 
+        "dns-ns": [
+            "dns01.zaq.ne.jp", 
+            "dns02.zaq.ne.jp", 
+            "ns1.home.ne.jp", 
+            "ns2.home.ne.jp"
+        ], 
+        "domain-name": "home.ne.jp", 
+        "fuzzer": "original*"
+    }, 
+    {
+        "dns-a": [
+            "211.13.196.140"
+        ], 
+        "dns-mx": [
+            "mx.homes.ne.jp"
+        ], 
+        "dns-ns": [
+            "ns.namedserver.net", 
+            "ns2.namedserver.net"
+        ], 
+        "domain-name": "homes.ne.jp", 
+        "fuzzer": "addition", 
+        "geoip-country": "Japan"
+    }, 
+    {
+        "dns-a": [
+            "210.143.97.100"
+        ], 
+        "dns-mx": [
+            "mail.homa.ne.jp"
+        ], 
+        "dns-ns": [
+            "dns2.ixent.ne.jp", 
+            "ns.homa.ne.jp"
+        ], 
+        "domain-name": "homa.ne.jp", 
+        "fuzzer": "bitsquatting", 
+        "geoip-country": "Japan", 
+        "mx-spy": true
+    }, 
+    {
+        "dns-a": [
+            "216.230.250.169"
+        ], 
+        "dns-mx": [
+            "ampub01.alpha-mail.net", 
+            "ampub02.alpha-mail.net", 
+            "ampub03.alpha-mail.net"
+        ], 
+        "dns-ns": [
+            "kotetsu.alpha-lt.net", 
+            "tsukuba.aics.ne.jp"
+        ], 
+        "domain-name": "hme.ne.jp", 
+        "fuzzer": "omission", 
+        "geoip-country": "United States"
+    }, 
+    {
+        "dns-mx": [
+            "mx.hime.ne.jp", 
+            "mx2.hime.ne.jp"
+        ], 
+        "dns-ns": [
+            "ns-1139.awsdns-14.org", 
+            "ns-1713.awsdns-22.co.uk", 
+            "ns-313.awsdns-39.com", 
+            "ns-969.awsdns-57.net"
+        ], 
+        "domain-name": "hime.ne.jp", 
+        "fuzzer": "replacement"
+    }
+]

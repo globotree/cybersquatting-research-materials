@@ -1,0 +1,72 @@
+[
+    {
+        "dns-a": [
+            "186.202.53.39"
+        ], 
+        "dns-mx": [
+            "mx.a.locaweb.com.br", 
+            "mx.b.locaweb.com.br", 
+            "mx.core.locaweb.com.br", 
+            "mx.jk.locaweb.com.br"
+        ], 
+        "dns-ns": [
+            "NS1.locaweb.com.br", 
+            "NS2.locaweb.com.br", 
+            "NS3.locaweb.com.br"
+        ], 
+        "domain-name": "italentos.com.br", 
+        "fuzzer": "original*", 
+        "geoip-country": "Brazil", 
+        "ssdeep-score": 100
+    }, 
+    {
+        "dns-a": [
+            "186.202.60.150"
+        ], 
+        "dns-mx": [
+            "200.169.85.21", 
+            "200.169.88.19"
+        ], 
+        "dns-ns": [
+            "ns1.locaweb.com.br", 
+            "ns2.locaweb.com.br", 
+            "ns3.locaweb.com.br"
+        ], 
+        "domain-name": "talentos.com.br", 
+        "fuzzer": "omission", 
+        "geoip-country": "Brazil"
+    }, 
+    {
+        "dns-a": [
+            "50.63.202.63"
+        ], 
+        "dns-mx": [
+            "mailstore1.secureserver.net", 
+            "smtp.secureserver.net"
+        ], 
+        "dns-ns": [
+            "parkct1.secureserver.net", 
+            "parkct2.secureserver.net"
+        ], 
+        "domain-name": "italents.com.br", 
+        "fuzzer": "omission", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "50.116.64.33"
+        ], 
+        "dns-mx": [
+            "mx.zoho.com"
+        ], 
+        "dns-ns": [
+            "ns1.bluehost.com", 
+            "ns2.bluehost.com"
+        ], 
+        "domain-name": "jtalentos.com.br", 
+        "fuzzer": "replacement", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 0
+    }
+]

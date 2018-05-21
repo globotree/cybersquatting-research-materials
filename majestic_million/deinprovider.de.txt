@@ -1,0 +1,55 @@
+[
+    {
+        "dns-a": [
+            "91.109.28.53"
+        ], 
+        "dns-mx": [
+            "mx1.kagerbauer.com", 
+            "mx2.kagerbauer.com"
+        ], 
+        "dns-ns": [
+            "ns5.deinprovider.de", 
+            "ns6.deinprovider.de", 
+            "ns7.deinprovider.de", 
+            "ns8.deinprovider.de"
+        ], 
+        "domain-name": "deinprovider.de", 
+        "fuzzer": "original*", 
+        "geoip-country": "Germany", 
+        "ssdeep-score": 100
+    }, 
+    {
+        "dns-a": [
+            "85.31.185.140"
+        ], 
+        "dns-mx": [
+            "mail.csaar.de", 
+            "mx20.kundencontroller.de"
+        ], 
+        "dns-ns": [
+            "ns1.kundencontroller.de", 
+            "ns2.kundencontroller.de"
+        ], 
+        "domain-name": "dein-provider.de", 
+        "fuzzer": "hyphenation", 
+        "geoip-country": "Germany", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "178.254.50.129"
+        ], 
+        "domain-name": "deinpro.vider.de", 
+        "fuzzer": "subdomain", 
+        "geoip-country": "Germany", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "80.246.60.90"
+        ], 
+        "domain-name": "deinprov.ider.de", 
+        "fuzzer": "subdomain", 
+        "geoip-country": "Germany"
+    }
+]

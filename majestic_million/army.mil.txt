@@ -1,0 +1,20 @@
+[
+    {
+        "dns-ns": [
+            "ns01.army.mil", 
+            "ns02.army.mil", 
+            "ns03.army.mil"
+        ], 
+        "domain-name": "army.mil", 
+        "fuzzer": "original*"
+    }, 
+    {
+        "dns-ns": [
+            "a.dnspod.com", 
+            "b.dnspod.com", 
+            "c.dnspod.com"
+        ], 
+        "domain-name": "army-mil.com", 
+        "fuzzer": "various"
+    }
+]

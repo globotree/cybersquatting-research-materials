@@ -1,0 +1,116 @@
+[
+    {
+        "dns-a": [
+            "54.243.223.181", 
+            "54.243.223.182"
+        ], 
+        "dns-mx": [
+            "alt1.aspmx.l.google.com", 
+            "alt2.aspmx.l.google.com", 
+            "aspmx.l.google.com", 
+            "aspmx2.googlemail.com", 
+            "aspmx3.googlemail.com"
+        ], 
+        "dns-ns": [
+            "ns-1334.awsdns-38.org", 
+            "ns-1596.awsdns-07.co.uk", 
+            "ns-220.awsdns-27.com", 
+            "ns-957.awsdns-55.net"
+        ], 
+        "domain-name": "rebelmouse.com", 
+        "fuzzer": "original*", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 93
+    }, 
+    {
+        "dns-a": [
+            "107.180.46.231"
+        ], 
+        "dns-mx": [
+            "mailstore1.secureserver.net", 
+            "smtp.secureserver.net"
+        ], 
+        "dns-ns": [
+            "ns33.domaincontrol.com", 
+            "ns34.domaincontrol.com"
+        ], 
+        "domain-name": "rebelmuse.com", 
+        "fuzzer": "omission", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "103.224.212.222"
+        ], 
+        "dns-mx": [
+            "park-mx.above.com"
+        ], 
+        "dns-ns": [
+            "ns1.above.com", 
+            "ns2.above.com"
+        ], 
+        "domain-name": "rebelmoouse.com", 
+        "fuzzer": "repetition", 
+        "geoip-country": "Australia", 
+        "mx-spy": true, 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "198.38.82.73"
+        ], 
+        "dns-mx": [
+            "mail.rebelmouze.com"
+        ], 
+        "dns-ns": [
+            "ns3006.mochahost.com", 
+            "ns4006.mochahost.com"
+        ], 
+        "domain-name": "rebelmouze.com", 
+        "fuzzer": "replacement", 
+        "geoip-country": "United States"
+    }, 
+    {
+        "dns-a": [
+            "69.172.201.153"
+        ], 
+        "domain-name": "reb.elmouse.com", 
+        "fuzzer": "subdomain", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "206.188.193.105"
+        ], 
+        "domain-name": "rebelm.ouse.com", 
+        "fuzzer": "subdomain", 
+        "geoip-country": "United States"
+    }, 
+    {
+        "dns-a": [
+            "66.103.130.135"
+        ], 
+        "domain-name": "rebelmo.use.com", 
+        "fuzzer": "subdomain", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "184.168.221.53"
+        ], 
+        "dns-mx": [
+            "mailstore1.secureserver.net", 
+            "smtp.secureserver.net"
+        ], 
+        "dns-ns": [
+            "ns33.domaincontrol.com", 
+            "ns34.domaincontrol.com"
+        ], 
+        "domain-name": "rebelmoose.com", 
+        "fuzzer": "vowel-swap", 
+        "geoip-country": "United States"
+    }
+]

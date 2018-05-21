@@ -1,0 +1,803 @@
+[
+    {
+        "dns-a": [
+            "160.106.123.29", 
+            "167.40.79.24", 
+            "205.193.117.159", 
+            "205.193.215.159"
+        ], 
+        "dns-mx": [
+            "mx1.canada.ca", 
+            "mx2.canada.ca"
+        ], 
+        "dns-ns": [
+            "dns1.nrc.ca", 
+            "dns2.nrc.ca", 
+            "gocns-kedc.gc.ca", 
+            "gocns-pdp.gc.ca", 
+            "ns1.d-zone.ca", 
+            "ns2.d-zone.ca", 
+            "xns-apdc.ssc-spc.gc.ca", 
+            "xns-kedc-1.ssc-spc.gc.ca", 
+            "xns-kedc.ssc-spc.gc.ca"
+        ], 
+        "domain-name": "canada.ca", 
+        "fuzzer": "original*", 
+        "geoip-country": "Canada", 
+        "ssdeep-score": 97
+    }, 
+    {
+        "dns-a": [
+            "69.172.238.30"
+        ], 
+        "dns-mx": [
+            "canadaa.ca"
+        ], 
+        "dns-ns": [
+            "ns1.webserve.com", 
+            "ns2.webserve.com"
+        ], 
+        "domain-name": "canadaa.ca", 
+        "fuzzer": "addition", 
+        "geoip-country": "United States"
+    }, 
+    {
+        "dns-a": [
+            "23.229.235.194"
+        ], 
+        "dns-mx": [
+            "mail.canadab.ca"
+        ], 
+        "dns-ns": [
+            "ns35.domaincontrol.com", 
+            "ns36.domaincontrol.com"
+        ], 
+        "domain-name": "canadab.ca", 
+        "fuzzer": "addition", 
+        "geoip-country": "United States"
+    }, 
+    {
+        "dns-a": [
+            "209.17.116.160"
+        ], 
+        "dns-mx": [
+            "mx1.netsolmail.net"
+        ], 
+        "dns-ns": [
+            "ns15.worldnic.com", 
+            "ns16.worldnic.com"
+        ], 
+        "domain-name": "canadac.ca", 
+        "fuzzer": "addition", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "199.59.242.150"
+        ], 
+        "dns-mx": [
+            "mx76.m2bp.com", 
+            "mx76.mb1p.com"
+        ], 
+        "dns-ns": [
+            "ns1.bodis.com", 
+            "ns2.bodis.com"
+        ], 
+        "domain-name": "canadai.ca", 
+        "fuzzer": "addition", 
+        "geoip-country": "United States", 
+        "mx-spy": true, 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-mx": [
+            "alt1.aspmx.l.google.com", 
+            "alt2.aspmx.l.google.com", 
+            "aspmx.l.google.com"
+        ], 
+        "dns-ns": [
+            "ns1162.dns.dyn.com", 
+            "ns2128.dns.dyn.com", 
+            "ns3170.dns.dyn.com", 
+            "ns4185.dns.dyn.com"
+        ], 
+        "domain-name": "canadan.ca", 
+        "fuzzer": "addition"
+    }, 
+    {
+        "dns-a": [
+            "192.64.119.24"
+        ], 
+        "dns-ns": [
+            "dns1.registrar-servers.com", 
+            "dns2.registrar-servers.com"
+        ], 
+        "domain-name": "canadaq.ca", 
+        "fuzzer": "addition", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "72.52.4.122"
+        ], 
+        "dns-mx": [
+            "localhost"
+        ], 
+        "dns-ns": [
+            "ns1.sedoparking.com", 
+            "ns2.sedoparking.com"
+        ], 
+        "domain-name": "canadas.ca", 
+        "fuzzer": "addition", 
+        "geoip-country": "United States", 
+        "mx-spy": true, 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "69.90.161.10"
+        ], 
+        "dns-mx": [
+            "canadat.ca"
+        ], 
+        "dns-ns": [
+            "ns1.hostpapa.com", 
+            "ns2.hostpapa.com"
+        ], 
+        "domain-name": "canadat.ca", 
+        "fuzzer": "addition", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "107.180.28.116"
+        ], 
+        "dns-mx": [
+            "canadau-ca.mail.protection.outlook.com"
+        ], 
+        "dns-ns": [
+            "ns3.secureserver.net", 
+            "ns4.secureserver.net"
+        ], 
+        "domain-name": "canadau.ca", 
+        "fuzzer": "addition", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "54.236.162.93"
+        ], 
+        "dns-mx": [
+            "loopback.domainsatcost.ca"
+        ], 
+        "dns-ns": [
+            "dns.domainsatcost.ca", 
+            "dns2.domainsatcost.ca"
+        ], 
+        "domain-name": "canaday.ca", 
+        "fuzzer": "addition", 
+        "geoip-country": "United States", 
+        "mx-spy": true
+    }, 
+    {
+        "dns-ns": [
+            "ns1.iwantmyname.net", 
+            "ns2.iwantmyname.net", 
+            "ns3.iwantmyname.net", 
+            "ns4.iwantmyname.net"
+        ], 
+        "domain-name": "banada.ca", 
+        "fuzzer": "bitsquatting"
+    }, 
+    {
+        "dns-a": [
+            "68.233.232.177"
+        ], 
+        "dns-mx": [
+            "ganada.ca"
+        ], 
+        "dns-ns": [
+            "ns1.kukiweb.com", 
+            "ns2.kukiweb.com"
+        ], 
+        "domain-name": "ganada.ca", 
+        "fuzzer": "bitsquatting", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "74.117.114.124"
+        ], 
+        "dns-mx": [
+            "mx174.m1bp.com"
+        ], 
+        "dns-ns": [
+            "ns1.domainapps.com", 
+            "ns2.domainapps.com"
+        ], 
+        "domain-name": "kanada.ca", 
+        "fuzzer": "bitsquatting", 
+        "geoip-country": "Cayman Islands", 
+        "mx-spy": true, 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "192.185.48.138"
+        ], 
+        "dns-mx": [
+            "sanada.ca"
+        ], 
+        "dns-ns": [
+            "ns8247.hostgator.com", 
+            "ns8248.hostgator.com"
+        ], 
+        "domain-name": "sanada.ca", 
+        "fuzzer": "bitsquatting", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-ns": [
+            "hostcentral.wibandhosting.com", 
+            "ns1.wibandhosting.com"
+        ], 
+        "domain-name": "caneda.ca", 
+        "fuzzer": "bitsquatting"
+    }, 
+    {
+        "dns-a": [
+            "103.224.182.239"
+        ], 
+        "dns-mx": [
+            "park-mx.above.com"
+        ], 
+        "dns-ns": [
+            "ns1.above.com", 
+            "ns2.above.com"
+        ], 
+        "domain-name": "canafa.ca", 
+        "fuzzer": "bitsquatting", 
+        "geoip-country": "Australia", 
+        "mx-spy": true, 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "205.189.40.165"
+        ], 
+        "dns-mx": [
+            "canala.ca", 
+            "mail.canala.ca"
+        ], 
+        "dns-ns": [
+            "ns1.hostpapa.com", 
+            "ns2.hostpapa.com"
+        ], 
+        "domain-name": "canala.ca", 
+        "fuzzer": "bitsquatting", 
+        "geoip-country": "Canada"
+    }, 
+    {
+        "dns-a": [
+            "162.216.9.51"
+        ], 
+        "dns-mx": [
+            "smtp1.adsmlb.com"
+        ], 
+        "dns-ns": [
+            "ns1.adsmlb.com", 
+            "ns2.adsmlb.com"
+        ], 
+        "domain-name": "canata.ca", 
+        "fuzzer": "bitsquatting", 
+        "geoip-country": "United States"
+    }, 
+    {
+        "dns-a": [
+            "65.254.227.224"
+        ], 
+        "dns-mx": [
+            "mx.canade.ca"
+        ], 
+        "dns-ns": [
+            "ns1.powweb.com", 
+            "ns2.powweb.com"
+        ], 
+        "domain-name": "canade.ca", 
+        "fuzzer": "bitsquatting", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "50.63.202.50"
+        ], 
+        "dns-mx": [
+            "alt1.aspmx.l.google.com", 
+            "alt2.aspmx.l.google.com", 
+            "aspmx.l.google.com", 
+            "aspmx2.googlemail.com", 
+            "aspmx3.googlemail.com"
+        ], 
+        "dns-ns": [
+            "ns75.domaincontrol.com", 
+            "ns76.domaincontrol.com"
+        ], 
+        "domain-name": "canadi.ca", 
+        "fuzzer": "bitsquatting", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "74.220.199.6"
+        ], 
+        "domain-name": "canaba.ca", 
+        "fuzzer": "homoglyph", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "184.107.178.178"
+        ], 
+        "dns-mx": [
+            "mx1.spamshield.io", 
+            "mx2.spamshield.io", 
+            "mx3.spamshield.io", 
+            "mx4.spamshield.io"
+        ], 
+        "dns-ns": [
+            "ns1.msz.ca", 
+            "ns2.msz.ca"
+        ], 
+        "domain-name": "camada.ca", 
+        "fuzzer": "homoglyph", 
+        "geoip-country": "Canada", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "74.220.219.128"
+        ], 
+        "dns-mx": [
+            "mail.canadia.ca"
+        ], 
+        "dns-ns": [
+            "ns1.bluehost.com", 
+            "ns2.bluehost.com"
+        ], 
+        "domain-name": "canadia.ca", 
+        "fuzzer": "homoglyph", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "205.189.40.165"
+        ], 
+        "dns-mx": [
+            "can-ada.ca"
+        ], 
+        "dns-ns": [
+            "ns1.hostpapa.com", 
+            "ns2.hostpapa.com"
+        ], 
+        "domain-name": "can-ada.ca", 
+        "fuzzer": "hyphenation", 
+        "geoip-country": "Canada"
+    }, 
+    {
+        "dns-a": [
+            "50.63.202.63"
+        ], 
+        "dns-mx": [
+            "mailstore1.secureserver.net", 
+            "smtp.secureserver.net"
+        ], 
+        "dns-ns": [
+            "ns03.domaincontrol.com", 
+            "ns04.domaincontrol.com"
+        ], 
+        "domain-name": "canadea.ca", 
+        "fuzzer": "insertion", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "69.10.139.234"
+        ], 
+        "dns-mx": [
+            "mx2.secure-by-design.com"
+        ], 
+        "dns-ns": [
+            "ns1.secure-by-design.com", 
+            "ns2.secure-by-design.com", 
+            "ns3.secure-by-design.com"
+        ], 
+        "domain-name": "canarda.ca", 
+        "fuzzer": "insertion", 
+        "geoip-country": "Anonymous Proxy", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "184.168.221.57"
+        ], 
+        "dns-mx": [
+            "mailstore1.secureserver.net", 
+            "smtp.secureserver.net"
+        ], 
+        "dns-ns": [
+            "ns01.domaincontrol.com", 
+            "ns02.domaincontrol.com"
+        ], 
+        "domain-name": "anada.ca", 
+        "fuzzer": "omission", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "69.16.230.43"
+        ], 
+        "dns-mx": [
+            "mx156.hostedmxserver.com"
+        ], 
+        "dns-ns": [
+            "ns1.parklogic.com", 
+            "ns2.parklogic.com", 
+            "ns3.parklogic.com", 
+            "ns4.parklogic.com", 
+            "ns5.parklogic.com"
+        ], 
+        "domain-name": "canad.ca", 
+        "fuzzer": "omission", 
+        "geoip-country": "United States", 
+        "mx-spy": true, 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "216.40.47.17"
+        ], 
+        "dns-ns": [
+            "ns1.mdnsservice.com", 
+            "ns2.mdnsservice.com", 
+            "ns3.mdnsservice.com"
+        ], 
+        "domain-name": "caada.ca", 
+        "fuzzer": "omission", 
+        "geoip-country": "Canada", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "216.40.47.17"
+        ], 
+        "dns-ns": [
+            "ns1.mdnsservice.com", 
+            "ns2.mdnsservice.com", 
+            "ns3.mdnsservice.com"
+        ], 
+        "domain-name": "canaa.ca", 
+        "fuzzer": "omission", 
+        "geoip-country": "Canada", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "184.168.221.18"
+        ], 
+        "dns-mx": [
+            "canda-ca.mail.protection.outlook.com"
+        ], 
+        "dns-ns": [
+            "ns19.domaincontrol.com", 
+            "ns20.domaincontrol.com"
+        ], 
+        "domain-name": "canda.ca", 
+        "fuzzer": "omission", 
+        "geoip-country": "United States"
+    }, 
+    {
+        "dns-a": [
+            "216.250.120.23"
+        ], 
+        "dns-aaaa": [
+            "2607:f1c0:1000:7180:6189:7631:6e22:2814"
+        ], 
+        "dns-mx": [
+            "mx00.1and1.com", 
+            "mx01.1and1.com"
+        ], 
+        "dns-ns": [
+            "ns1104.ui-dns.biz", 
+            "ns1104.ui-dns.com", 
+            "ns1104.ui-dns.de", 
+            "ns1104.ui-dns.org"
+        ], 
+        "domain-name": "ccanada.ca", 
+        "fuzzer": "repetition", 
+        "geoip-country": "United States"
+    }, 
+    {
+        "dns-a": [
+            "54.236.162.93"
+        ], 
+        "dns-mx": [
+            "loopback.domainsatcost.ca"
+        ], 
+        "dns-ns": [
+            "dns.domainsatcost.ca", 
+            "dns2.domainsatcost.ca"
+        ], 
+        "domain-name": "cannada.ca", 
+        "fuzzer": "repetition", 
+        "geoip-country": "United States", 
+        "mx-spy": true
+    }, 
+    {
+        "dns-a": [
+            "216.40.47.17"
+        ], 
+        "dns-ns": [
+            "ns1.mdnsservice.com", 
+            "ns2.mdnsservice.com", 
+            "ns3.mdnsservice.com"
+        ], 
+        "domain-name": "caanada.ca", 
+        "fuzzer": "repetition", 
+        "geoip-country": "Canada", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "192.175.119.132"
+        ], 
+        "dns-ns": [
+            "ams-ns1.websitehostserver.net", 
+            "chi-ns1.websitehostserver.net", 
+            "chi-ns2.websitehostserver.net"
+        ], 
+        "domain-name": "canara.ca", 
+        "fuzzer": "replacement", 
+        "geoip-country": "Canada"
+    }, 
+    {
+        "dns-a": [
+            "66.49.254.5"
+        ], 
+        "dns-mx": [
+            "canaca.ca"
+        ], 
+        "dns-ns": [
+            "ns.canaca.net", 
+            "ns2.canaca.net"
+        ], 
+        "domain-name": "canaca.ca", 
+        "fuzzer": "replacement", 
+        "geoip-country": "Canada", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "50.63.202.41"
+        ], 
+        "dns-mx": [
+            "mailstore1.secureserver.net", 
+            "smtp.secureserver.net"
+        ], 
+        "dns-ns": [
+            "ns37.domaincontrol.com", 
+            "ns38.domaincontrol.com"
+        ], 
+        "domain-name": "vanada.ca", 
+        "fuzzer": "replacement", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "158.85.87.76"
+        ], 
+        "dns-mx": [
+            "mail.canads.ca"
+        ], 
+        "dns-ns": [
+            "slns1.namespro.ca", 
+            "slns2.namespro.ca"
+        ], 
+        "domain-name": "canads.ca", 
+        "fuzzer": "replacement", 
+        "geoip-country": "Canada", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "184.168.221.49"
+        ], 
+        "dns-mx": [
+            "canaxa-ca.mail.protection.outlook.com"
+        ], 
+        "dns-ns": [
+            "ns27.domaincontrol.com", 
+            "ns28.domaincontrol.com"
+        ], 
+        "domain-name": "canaxa.ca", 
+        "fuzzer": "replacement", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "208.91.197.91"
+        ], 
+        "domain-name": "canady.ca", 
+        "fuzzer": "replacement", 
+        "geoip-country": "Virgin Islands", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "69.172.201.218"
+        ], 
+        "domain-name": "canadz.ca", 
+        "fuzzer": "replacement", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "66.155.98.182"
+        ], 
+        "dns-mx": [
+            "mail1.canasa.org", 
+            "mail1.canasa.org"
+        ], 
+        "dns-ns": [
+            "ns2.zoneedit.com", 
+            "ns9.zoneedit.com"
+        ], 
+        "domain-name": "canasa.ca", 
+        "fuzzer": "replacement", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "184.168.221.58"
+        ], 
+        "dns-mx": [
+            "mailstore1.secureserver.net", 
+            "smtp.secureserver.net"
+        ], 
+        "dns-ns": [
+            "ns55.domaincontrol.com", 
+            "ns56.domaincontrol.com"
+        ], 
+        "domain-name": "cansda.ca", 
+        "fuzzer": "replacement", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "184.69.98.182"
+        ], 
+        "dns-mx": [
+            "a114001.mx.mailhop.org", 
+            "mx1.danada.ca"
+        ], 
+        "dns-ns": [
+            "ns1.dnspark.com", 
+            "ns2.dnspark.net"
+        ], 
+        "domain-name": "danada.ca", 
+        "fuzzer": "replacement", 
+        "geoip-country": "Canada", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "199.59.242.150"
+        ], 
+        "dns-mx": [
+            "mx76.m2bp.com", 
+            "mx76.mb1p.com"
+        ], 
+        "dns-ns": [
+            "ns1.bodis.com", 
+            "ns2.bodis.com"
+        ], 
+        "domain-name": "cnaada.ca", 
+        "fuzzer": "transposition", 
+        "geoip-country": "United States", 
+        "mx-spy": true, 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "216.40.47.17"
+        ], 
+        "dns-ns": [
+            "ns1.mdnsservice.com", 
+            "ns2.mdnsservice.com", 
+            "ns3.mdnsservice.com"
+        ], 
+        "domain-name": "caanda.ca", 
+        "fuzzer": "transposition", 
+        "geoip-country": "Canada", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "199.59.242.150"
+        ], 
+        "dns-mx": [
+            "mx76.m2bp.com", 
+            "mx76.mb1p.com"
+        ], 
+        "dns-ns": [
+            "ns1.bodis.com", 
+            "ns2.bodis.com"
+        ], 
+        "domain-name": "candaa.ca", 
+        "fuzzer": "transposition"
+    }, 
+    {
+        "dns-a": [
+            "216.40.47.17"
+        ], 
+        "dns-ns": [
+            "ns1.mdnsservice.com", 
+            "ns2.mdnsservice.com", 
+            "ns3.mdnsservice.com"
+        ], 
+        "domain-name": "canaad.ca", 
+        "fuzzer": "transposition", 
+        "geoip-country": "Canada"
+    }, 
+    {
+        "dns-a": [
+            "216.250.120.51"
+        ], 
+        "dns-aaaa": [
+            "2607:f1c0:1000:703b:b79b:59e9:204b:e833"
+        ], 
+        "dns-mx": [
+            "mx00.1and1.com", 
+            "mx01.1and1.com"
+        ], 
+        "dns-ns": [
+            "ns1021.ui-dns.biz", 
+            "ns1021.ui-dns.com", 
+            "ns1021.ui-dns.de", 
+            "ns1021.ui-dns.org"
+        ], 
+        "domain-name": "conada.ca", 
+        "fuzzer": "vowel-swap", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "52.86.22.136", 
+            "54.174.212.152"
+        ], 
+        "dns-ns": [
+            "ns1.namebrightdns.com", 
+            "ns2.namebrightdns.com"
+        ], 
+        "domain-name": "canada-ca.com", 
+        "fuzzer": "various", 
+        "geoip-country": "United States"
+    }
+]

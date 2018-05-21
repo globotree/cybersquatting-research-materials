@@ -1,0 +1,141 @@
+[
+    {
+        "dns-a": [
+            "166.108.32.245"
+        ], 
+        "dns-mx": [
+            "alt1.aspmx.l.google.com", 
+            "alt2.aspmx.l.google.com", 
+            "aspmx.l.google.com", 
+            "aspmx2.googlemail.com", 
+            "aspmx3.googlemail.com"
+        ], 
+        "dns-ns": [
+            "ns1.kr123.com", 
+            "ns2.kr123.com", 
+            "ns3.kr123.com", 
+            "ns4.kr123.com"
+        ], 
+        "domain-name": "centredaily.com", 
+        "fuzzer": "original*", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 100
+    }, 
+    {
+        "dns-a": [
+            "184.168.221.33"
+        ], 
+        "dns-mx": [
+            "mailstore1.secureserver.net", 
+            "smtp.secureserver.net"
+        ], 
+        "dns-ns": [
+            "ns13.domaincontrol.com", 
+            "ns14.domaincontrol.com"
+        ], 
+        "domain-name": "entredaily.com", 
+        "fuzzer": "omission", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "144.168.73.242"
+        ], 
+        "dns-ns": [
+            "ns1.dnsdun.com", 
+            "ns1.dnsdun.net"
+        ], 
+        "domain-name": "centrdaily.com", 
+        "fuzzer": "omission", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "68.178.213.61"
+        ], 
+        "dns-ns": [
+            "ns1.namefind.com", 
+            "ns2.namefind.com"
+        ], 
+        "domain-name": "centredail.com", 
+        "fuzzer": "omission", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "50.63.202.66"
+        ], 
+        "dns-ns": [
+            "ns31.domaincontrol.com", 
+            "ns32.domaincontrol.com"
+        ], 
+        "domain-name": "cebtredaily.com", 
+        "fuzzer": "replacement", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "207.148.248.143"
+        ], 
+        "domain-name": "cent.redaily.com", 
+        "fuzzer": "subdomain", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "66.96.163.161"
+        ], 
+        "domain-name": "centr.edaily.com", 
+        "fuzzer": "subdomain", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "5.22.149.135"
+        ], 
+        "domain-name": "centre.daily.com", 
+        "fuzzer": "subdomain", 
+        "geoip-country": "Germany", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "23.229.158.1"
+        ], 
+        "domain-name": "centreda.ily.com", 
+        "fuzzer": "subdomain", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "72.9.105.30"
+        ], 
+        "domain-name": "centerdaily.com", 
+        "fuzzer": "transposition", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "31.220.104.232"
+        ], 
+        "dns-mx": [
+            "mx1.hostinger.com"
+        ], 
+        "dns-ns": [
+            "ns1.hostinger.com", 
+            "ns2.hostinger.com", 
+            "ns3.hostinger.com", 
+            "ns4.hostinger.com"
+        ], 
+        "domain-name": "centrodaily.com", 
+        "fuzzer": "vowel-swap"
+    }
+]

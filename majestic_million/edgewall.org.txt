@@ -1,0 +1,71 @@
+[
+    {
+        "dns-a": [
+            "94.130.181.243"
+        ], 
+        "dns-mx": [
+            "mx1.borgstrom.se", 
+            "mx2.borgstrom.se"
+        ], 
+        "dns-ns": [
+            "ns1.dollardns.net", 
+            "ns2.dollardns.net", 
+            "ns2.he.net", 
+            "ns3.he.net"
+        ], 
+        "domain-name": "edgewall.org", 
+        "fuzzer": "original*", 
+        "geoip-country": "Ukraine", 
+        "ssdeep-score": 100
+    }, 
+    {
+        "dns-a": [
+            "69.172.207.136"
+        ], 
+        "dns-mx": [
+            "mailstore1.secureserver.net", 
+            "smtp.secureserver.net"
+        ], 
+        "dns-ns": [
+            "ns21.domaincontrol.com", 
+            "ns22.domaincontrol.com"
+        ], 
+        "domain-name": "edgewalk.org", 
+        "fuzzer": "replacement", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "103.224.182.249"
+        ], 
+        "dns-mx": [
+            "park-mx.above.com"
+        ], 
+        "dns-ns": [
+            "ns1.above.com", 
+            "ns2.above.com"
+        ], 
+        "domain-name": "edgewa.ll.org", 
+        "fuzzer": "subdomain", 
+        "geoip-country": "Australia", 
+        "mx-spy": true
+    }, 
+    {
+        "dns-a": [
+            "50.63.46.1"
+        ], 
+        "dns-ns": [
+            "A.SERVICE.AFILIASDNS.INFO", 
+            "B.SERVICE.AFILIASDNS.org", 
+            "C.SERVICE.AFILIASDNS.NET", 
+            "D.SERVICE.AFILIASDNS.COM", 
+            "E.SERVICE.AFILIASDNS.INFO", 
+            "F.SERVICE.AFILIASDNS.NET"
+        ], 
+        "domain-name": "edgewal.l.org", 
+        "fuzzer": "subdomain", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 0
+    }
+]

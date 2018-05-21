@@ -1,0 +1,56 @@
+[
+    {
+        "dns-a": [
+            "51.15.48.120"
+        ], 
+        "dns-mx": [
+            "mx0.sektioneins.de"
+        ], 
+        "dns-ns": [
+            "ns1.first-ns.de", 
+            "robotns2.second-ns.de", 
+            "robotns3.second-ns.com"
+        ], 
+        "domain-name": "suhosin.org", 
+        "fuzzer": "original*", 
+        "geoip-country": "France"
+    }, 
+    {
+        "dns-a": [
+            "192.0.78.24", 
+            "192.0.78.25"
+        ], 
+        "dns-ns": [
+            "ns1.wordpress.com", 
+            "ns2.wordpress.com", 
+            "ns3.wordpress.com"
+        ], 
+        "domain-name": "su.hosin.org", 
+        "fuzzer": "subdomain", 
+        "geoip-country": "United States"
+    }, 
+    {
+        "dns-a": [
+            "192.64.119.254"
+        ], 
+        "domain-name": "suhos.in.org", 
+        "fuzzer": "subdomain", 
+        "geoip-country": "United States"
+    }, 
+    {
+        "dns-a": [
+            "50.63.46.1"
+        ], 
+        "dns-ns": [
+            "A.SERVICE.AFILIASDNS.INFO", 
+            "B.SERVICE.AFILIASDNS.org", 
+            "C.SERVICE.AFILIASDNS.NET", 
+            "D.SERVICE.AFILIASDNS.COM", 
+            "E.SERVICE.AFILIASDNS.INFO", 
+            "F.SERVICE.AFILIASDNS.NET"
+        ], 
+        "domain-name": "suhosi.n.org", 
+        "fuzzer": "subdomain", 
+        "geoip-country": "United States"
+    }
+]

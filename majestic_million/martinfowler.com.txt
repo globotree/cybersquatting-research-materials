@@ -1,0 +1,128 @@
+[
+    {
+        "dns-a": [
+            "198.101.146.21"
+        ], 
+        "dns-mx": [
+            "ALT1.ASPMX.L.GOOGLE.com", 
+            "ALT2.ASPMX.L.GOOGLE.com", 
+            "ASPMX.L.GOOGLE.com", 
+            "ASPMX2.GOOGLEMAIL.com", 
+            "ASPMX3.GOOGLEMAIL.com", 
+            "ASPMX4.GOOGLEMAIL.com", 
+            "ASPMX5.GOOGLEMAIL.com"
+        ], 
+        "dns-ns": [
+            "sdns58.ultradns.biz", 
+            "sdns58.ultradns.com", 
+            "sdns58.ultradns.net", 
+            "sdns58.ultradns.org"
+        ], 
+        "domain-name": "martinfowler.com", 
+        "fuzzer": "original*", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 100
+    }, 
+    {
+        "dns-a": [
+            "50.87.144.41"
+        ], 
+        "domain-name": "marvinfowler.com", 
+        "fuzzer": "bitsquatting", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "94.23.211.70"
+        ], 
+        "dns-mx": [
+            "mail.martynfowler.com"
+        ], 
+        "dns-ns": [
+            "ns1.ezeeinternet.net", 
+            "ns2.ezeeinternet.net"
+        ], 
+        "domain-name": "martynfowler.com", 
+        "fuzzer": "bitsquatting", 
+        "geoip-country": "France"
+    }, 
+    {
+        "dns-ns": [
+            "ns37.domaincontrol.com", 
+            "ns38.domaincontrol.com"
+        ], 
+        "domain-name": "martinbowler.com", 
+        "fuzzer": "bitsquatting"
+    }, 
+    {
+        "dns-a": [
+            "198.185.159.144"
+        ], 
+        "dns-mx": [
+            "mail9.hostica.com"
+        ], 
+        "dns-ns": [
+            "ns1.hostica.com", 
+            "ns2.hostica.com", 
+            "ns3.hostica.com"
+        ], 
+        "domain-name": "martindfowler.com", 
+        "fuzzer": "insertion", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "205.178.189.129"
+        ], 
+        "domain-name": "martin.fowler.com", 
+        "fuzzer": "subdomain", 
+        "geoip-country": "United States"
+    }, 
+    {
+        "dns-a": [
+            "50.18.175.103", 
+            "54.193.18.2"
+        ], 
+        "domain-name": "martinf.owler.com", 
+        "fuzzer": "subdomain", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "199.59.242.150"
+        ], 
+        "domain-name": "martinfo.wler.com", 
+        "fuzzer": "subdomain", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "103.224.182.246"
+        ], 
+        "dns-mx": [
+            "park-mx.above.com"
+        ], 
+        "dns-ns": [
+            "ns1.above.com", 
+            "ns2.above.com"
+        ], 
+        "domain-name": "martinfow.ler.com", 
+        "fuzzer": "subdomain", 
+        "geoip-country": "Australia", 
+        "mx-spy": true, 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "208.73.211.70"
+        ], 
+        "domain-name": "martinfowl.er.com", 
+        "fuzzer": "subdomain", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 0
+    }
+]

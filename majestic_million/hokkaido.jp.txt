@@ -1,0 +1,79 @@
+[
+    {
+        "dns-a": [
+            "202.75.233.200"
+        ], 
+        "dns-mx": [
+            "mail.hokkaidou.jp"
+        ], 
+        "dns-ns": [
+            "ns.hokkaidou.jp"
+        ], 
+        "domain-name": "hokkaidou.jp", 
+        "fuzzer": "addition", 
+        "geoip-country": "Japan"
+    }, 
+    {
+        "dns-a": [
+            "219.94.179.192"
+        ], 
+        "dns-mx": [
+            "mail.hokkai-do.jp"
+        ], 
+        "dns-ns": [
+            "2nd.dnsv.jp", 
+            "dns01.klink.co.jp"
+        ], 
+        "domain-name": "hokkai-do.jp", 
+        "fuzzer": "hyphenation", 
+        "geoip-country": "Japan"
+    }, 
+    {
+        "dns-a": [
+            "157.7.236.66", 
+            "202.181.103.212"
+        ], 
+        "dns-aaaa": [
+            "2001:e42:102:1101:202:181:103:212", 
+            "2400:8500:1301:814:157:7:236:66"
+        ], 
+        "dns-mx": [
+            "mail1.hokkido.jp", 
+            "mail2.hokkido.jp"
+        ], 
+        "dns-ns": [
+            "dns1.hokkido.jp", 
+            "dns2.hokkido.jp"
+        ], 
+        "domain-name": "hokkido.jp", 
+        "fuzzer": "omission", 
+        "geoip-country": "Japan", 
+        "mx-spy": true
+    }, 
+    {
+        "dns-a": [
+            "192.64.147.150"
+        ], 
+        "dns-ns": [
+            "01.dnsv.jp", 
+            "02.dnsv.jp", 
+            "03.dnsv.jp", 
+            "04.dnsv.jp"
+        ], 
+        "domain-name": "hokaido.jp", 
+        "fuzzer": "omission", 
+        "geoip-country": "United States"
+    }, 
+    {
+        "dns-a": [
+            "69.172.201.153"
+        ], 
+        "dns-ns": [
+            "ns1.uniregistrymarket.link", 
+            "ns2.uniregistrymarket.link"
+        ], 
+        "domain-name": "hokkaido-jp.com", 
+        "fuzzer": "various", 
+        "geoip-country": "United States"
+    }
+]

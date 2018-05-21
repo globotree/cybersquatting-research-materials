@@ -1,0 +1,38 @@
+[
+    {
+        "dns-a": [
+            "192.246.229.231"
+        ], 
+        "dns-mx": [
+            "ALT1.ASPMX.L.GOOGLE.COM", 
+            "ALT2.ASPMX.L.GOOGLE.COM", 
+            "ALT3.ASPMX.L.GOOGLE.COM", 
+            "ALT4.ASPMX.L.GOOGLE.COM", 
+            "ASPMX.L.GOOGLE.COM"
+        ], 
+        "dns-ns": [
+            "ns1.bard.edu", 
+            "ns2.bard.edu", 
+            "offsite.bard.edu"
+        ], 
+        "domain-name": "bard.edu", 
+        "fuzzer": "original*", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 100
+    }, 
+    {
+        "dns-a": [
+            "38.80.128.226"
+        ], 
+        "dns-mx": [
+            "mail.bar.edu", 
+            "mail2.bar.edu"
+        ], 
+        "dns-ns": [
+            "ns1.afes.com", 
+            "ns2.afes.com"
+        ], 
+        "domain-name": "bar.edu", 
+        "fuzzer": "omission"
+    }
+]

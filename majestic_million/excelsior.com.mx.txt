@@ -1,0 +1,132 @@
+[
+    {
+        "dns-a": [
+            "201.175.36.245"
+        ], 
+        "dns-mx": [
+            "alt1.aspmx.l.google.com", 
+            "alt2.aspmx.l.google.com", 
+            "aspmx.l.google.com", 
+            "aspmx2.googlemail.com", 
+            "aspmx3.googlemail.com"
+        ], 
+        "dns-ns": [
+            "ns1.kionetworks.net", 
+            "ns2.kionetworks.net", 
+            "ns3.kionetworks.net"
+        ], 
+        "domain-name": "excelsior.com.mx", 
+        "fuzzer": "original*", 
+        "geoip-country": "Mexico", 
+        "ssdeep-score": 100
+    }, 
+    {
+        "dns-a": [
+            "104.197.189.208"
+        ], 
+        "dns-mx": [
+            "mailforward21.cloudns.net", 
+            "mailforward22.cloudns.net"
+        ], 
+        "dns-ns": [
+            "pns21.cloudns.net", 
+            "pns22.cloudns.net", 
+            "pns23.cloudns.net", 
+            "pns24.cloudns.net"
+        ], 
+        "domain-name": "exselsior.com.mx", 
+        "fuzzer": "bitsquatting", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "192.64.147.150"
+        ], 
+        "dns-mx": [
+            "mail.excelcior.com.mx"
+        ], 
+        "dns-ns": [
+            "dns1.hospeda.mx", 
+            "dns2.hospeda.mx"
+        ], 
+        "domain-name": "excelcior.com.mx", 
+        "fuzzer": "bitsquatting", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "192.64.147.150"
+        ], 
+        "dns-mx": [
+            "mail.exelsior.com.mx"
+        ], 
+        "dns-ns": [
+            "dns1.hospeda.mx", 
+            "dns2.hospeda.mx"
+        ], 
+        "domain-name": "exelsior.com.mx", 
+        "fuzzer": "omission", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "50.63.202.37"
+        ], 
+        "dns-ns": [
+            "ns37.domaincontrol.com", 
+            "ns38.domaincontrol.com"
+        ], 
+        "domain-name": "excelsor.com.mx", 
+        "fuzzer": "omission", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "174.138.51.172"
+        ], 
+        "domain-name": "excels.ior.com.mx", 
+        "fuzzer": "subdomain", 
+        "geoip-country": "United States"
+    }, 
+    {
+        "dns-a": [
+            "185.53.178.7"
+        ], 
+        "dns-ns": [
+            "ns1.fastpark.net", 
+            "ns2.fastpark.net"
+        ], 
+        "domain-name": "excelsi.or.com.mx", 
+        "fuzzer": "subdomain", 
+        "geoip-country": "Germany", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "143.95.110.231"
+        ], 
+        "domain-name": "excelsio.r.com.mx", 
+        "fuzzer": "subdomain", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "192.64.147.150"
+        ], 
+        "dns-mx": [
+            "mail.excelsior.mx"
+        ], 
+        "dns-ns": [
+            "dns1.hospeda.mx", 
+            "dns2.hospeda.mx"
+        ], 
+        "domain-name": "excelsior.mx", 
+        "fuzzer": "various", 
+        "geoip-country": "United States"
+    }
+]

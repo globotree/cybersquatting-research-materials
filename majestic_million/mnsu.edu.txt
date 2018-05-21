@@ -1,0 +1,94 @@
+[
+    {
+        "dns-a": [
+            "134.29.1.130"
+        ], 
+        "dns-mx": [
+            "mnsu-edu.mail.protection.outlook.com"
+        ], 
+        "dns-ns": [
+            "NS1.mnsu.edu", 
+            "NS2.mnsu.edu", 
+            "dns.uw-mad.wiscnet.net", 
+            "dns.uw-mil.wiscnet.net"
+        ], 
+        "domain-name": "mnsu.edu", 
+        "fuzzer": "original*", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 99
+    }, 
+    {
+        "dns-a": [
+            "35.9.247.69"
+        ], 
+        "dns-mx": [
+            "mxa-00165801.gslb.pphosted.com", 
+            "mxb-00165801.gslb.pphosted.com"
+        ], 
+        "dns-ns": [
+            "ns-1432.awsdns-51.org", 
+            "ns-1827.awsdns-36.co.uk", 
+            "ns-64.awsdns-08.com", 
+            "ns-665.awsdns-19.net"
+        ], 
+        "domain-name": "msu.edu", 
+        "fuzzer": "omission", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "204.155.176.137"
+        ], 
+        "dns-mx": [
+            "mx01.nsu.edu", 
+            "mx02.nsu.edu", 
+            "snsusmx01.nsu.edu", 
+            "snsusmx02.nsu.edu"
+        ], 
+        "dns-ns": [
+            "ns1.nsu.edu", 
+            "ns2.nsu.edu"
+        ], 
+        "domain-name": "nsu.edu", 
+        "fuzzer": "omission", 
+        "geoip-country": "United States", 
+        "mx-spy": true
+    }, 
+    {
+        "dns-a": [
+            "198.58.127.213"
+        ], 
+        "dns-mx": [
+            "mnu-edu.mail.eo.outlook.com"
+        ], 
+        "dns-ns": [
+            "ns0.dnsmadeeasy.com", 
+            "ns1.dnsmadeeasy.com", 
+            "ns2.dnsmadeeasy.com", 
+            "ns3.dnsmadeeasy.com", 
+            "ns4.dnsmadeeasy.com"
+        ], 
+        "domain-name": "mnu.edu", 
+        "fuzzer": "omission", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "128.123.3.2"
+        ], 
+        "dns-mx": [
+            "mailrelay5.nmsu.edu", 
+            "mailrelay6.nmsu.edu", 
+            "mailrelay8.nmsu.edu"
+        ], 
+        "dns-ns": [
+            "dns1.nmsu.edu", 
+            "dns2.nmsu.edu"
+        ], 
+        "domain-name": "nmsu.edu", 
+        "fuzzer": "transposition", 
+        "geoip-country": "United States"
+    }
+]

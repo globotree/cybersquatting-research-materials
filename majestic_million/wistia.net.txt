@@ -1,0 +1,146 @@
+[
+    {
+        "dns-mx": [
+            "alt1.aspmx.l.google.com", 
+            "alt2.aspmx.l.google.com", 
+            "aspmx.l.google.com"
+        ], 
+        "dns-ns": [
+            "dns1.p06.nsone.net", 
+            "dns2.p06.nsone.net", 
+            "dns3.p06.nsone.net", 
+            "dns4.p06.nsone.net", 
+            "ns-1190.awsdns-20.org", 
+            "ns-1984.awsdns-56.co.uk", 
+            "ns-37.awsdns-04.com", 
+            "ns-834.awsdns-40.net"
+        ], 
+        "domain-name": "wistia.net", 
+        "fuzzer": "original*"
+    }, 
+    {
+        "dns-a": [
+            "184.168.221.1"
+        ], 
+        "dns-ns": [
+            "ns45.domaincontrol.com", 
+            "ns46.domaincontrol.com"
+        ], 
+        "domain-name": "wistiab.net", 
+        "fuzzer": "addition", 
+        "geoip-country": "United States"
+    }, 
+    {
+        "dns-a": [
+            "50.63.202.15"
+        ], 
+        "dns-mx": [
+            "mailstore1.secureserver.net", 
+            "smtp.secureserver.net"
+        ], 
+        "dns-ns": [
+            "ns67.domaincontrol.com", 
+            "ns68.domaincontrol.com"
+        ], 
+        "domain-name": "gistia.net", 
+        "fuzzer": "bitsquatting", 
+        "geoip-country": "United States"
+    }, 
+    {
+        "dns-a": [
+            "50.63.202.1"
+        ], 
+        "dns-ns": [
+            "ns49.domaincontrol.com", 
+            "ns50.domaincontrol.com"
+        ], 
+        "domain-name": "wistla.net", 
+        "fuzzer": "homoglyph", 
+        "geoip-country": "United States"
+    }, 
+    {
+        "dns-a": [
+            "85.13.137.200"
+        ], 
+        "dns-mx": [
+            "w015c4b6.kasserver.com"
+        ], 
+        "dns-ns": [
+            "ns5.kasserver.com", 
+            "ns6.kasserver.com"
+        ], 
+        "domain-name": "istia.net", 
+        "fuzzer": "omission", 
+        "geoip-country": "Germany"
+    }, 
+    {
+        "dns-a": [
+            "119.145.144.166"
+        ], 
+        "dns-ns": [
+            "ns1.dns.com.cn", 
+            "ns2.dns.com.cn"
+        ], 
+        "domain-name": "wstia.net", 
+        "fuzzer": "omission", 
+        "geoip-country": "China"
+    }, 
+    {
+        "dns-a": [
+            "94.247.76.83"
+        ], 
+        "dns-aaaa": [
+            "2a02:ca0:3::1083:0"
+        ], 
+        "dns-mx": [
+            "mx1.infracom.nl", 
+            "mx2.infracom.nl", 
+            "mx3.infracom.nl"
+        ], 
+        "dns-ns": [
+            "ns3.infracom.nl", 
+            "ns5.infracom.nl"
+        ], 
+        "domain-name": "wista.net", 
+        "fuzzer": "omission", 
+        "geoip-country": "Netherlands"
+    }, 
+    {
+        "dns-mx": [
+            "alt1.aspmx.l.google.com", 
+            "alt2.aspmx.l.google.com", 
+            "aspmx.l.google.com", 
+            "aspmx2.googlemail.com", 
+            "aspmx3.googlemail.com", 
+            "aspmx4.googlemail.com", 
+            "aspmx5.googlemail.com"
+        ], 
+        "dns-ns": [
+            "b.ns.buddyns.com", 
+            "c.ns.buddyns.com", 
+            "d.ns.buddyns.com", 
+            "e.ns.buddyns.com", 
+            "ns.wisti.net", 
+            "ns2.wisti.net", 
+            "ns3.wisti.net"
+        ], 
+        "domain-name": "wisti.net", 
+        "fuzzer": "omission"
+    }, 
+    {
+        "dns-a": [
+            "85.13.137.200"
+        ], 
+        "domain-name": "w.istia.net", 
+        "fuzzer": "subdomain", 
+        "geoip-country": "Germany"
+    }, 
+    {
+        "dns-ns": [
+            "ns1.uniregistrymarket.link", 
+            "ns2.uniregistrymarket.link"
+        ], 
+        "domain-name": "wis.tia.net", 
+        "fuzzer": "subdomain"
+    }
+]

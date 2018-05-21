@@ -1,0 +1,282 @@
+[
+    {
+        "dns-a": [
+            "147.8.2.58"
+        ], 
+        "dns-mx": [
+            "hku-nsp1.hku.hk", 
+            "hku-nsp2.hku.hk"
+        ], 
+        "dns-ns": [
+            "ns1.hku.hk", 
+            "ns10.gdnsdef.com", 
+            "ns10.gdnsec.com", 
+            "ns2.cuhk.edu.hk", 
+            "ns2.hku.hk", 
+            "ns3.hku.hk", 
+            "ns4.hku.hk"
+        ], 
+        "domain-name": "hku.hk", 
+        "fuzzer": "original*", 
+        "geoip-country": "Hong Kong", 
+        "ssdeep-score": 100
+    }, 
+    {
+        "dns-a": [
+            "203.169.229.24"
+        ], 
+        "dns-mx": [
+            "hkug.hk"
+        ], 
+        "dns-ns": [
+            "dns1.domain.net.hk", 
+            "dns2.domain.net.hk"
+        ], 
+        "domain-name": "hkug.hk", 
+        "fuzzer": "addition", 
+        "geoip-country": "Hong Kong"
+    }, 
+    {
+        "dns-a": [
+            "107.150.99.20"
+        ], 
+        "dns-ns": [
+            "ns7.01isp.com", 
+            "ns8.01isp.net"
+        ], 
+        "domain-name": "iku.hk", 
+        "fuzzer": "bitsquatting", 
+        "geoip-country": "China"
+    }, 
+    {
+        "dns-a": [
+            "107.148.177.161"
+        ], 
+        "domain-name": "jku.hk", 
+        "fuzzer": "bitsquatting", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "107.148.177.60"
+        ], 
+        "domain-name": "lku.hk", 
+        "fuzzer": "bitsquatting", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "43.252.163.153"
+        ], 
+        "dns-ns": [
+            "ns5.dnsdun.com", 
+            "ns5.dnsdun.net"
+        ], 
+        "domain-name": "xku.hk", 
+        "fuzzer": "bitsquatting", 
+        "geoip-country": "Hong Kong"
+    }, 
+    {
+        "dns-a": [
+            "142.0.128.228"
+        ], 
+        "domain-name": "hiu.hk", 
+        "fuzzer": "bitsquatting", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "184.95.38.194"
+        ], 
+        "dns-mx": [
+            "mail.hkw.hk"
+        ], 
+        "dns-ns": [
+            "ns1.instradns.com", 
+            "ns2.instradns.com", 
+            "ns3.instradns.com"
+        ], 
+        "domain-name": "hkw.hk", 
+        "fuzzer": "bitsquatting", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "23.234.27.209"
+        ], 
+        "domain-name": "hkq.hk", 
+        "fuzzer": "bitsquatting", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-ns": [
+            "pdns106.ultradns.biz", 
+            "pdns106.ultradns.com", 
+            "pdns106.ultradns.net", 
+            "pdns106.ultradns.org"
+        ], 
+        "domain-name": "hke.hk", 
+        "fuzzer": "bitsquatting"
+    }, 
+    {
+        "dns-ns": [
+            "ns1.myhostadmin.net", 
+            "ns2.myhostadmin.net", 
+            "ns3.myhostadmin.net", 
+            "ns4.myhostadmin.net", 
+            "ns5.myhostadmin.net", 
+            "ns6.myhostadmin.net"
+        ], 
+        "domain-name": "hkz.hk", 
+        "fuzzer": "replacement"
+    }, 
+    {
+        "dns-a": [
+            "103.38.161.232"
+        ], 
+        "dns-mx": [
+            "hk8.hk"
+        ], 
+        "dns-ns": [
+            "dns1.domain.net.hk", 
+            "dns2.domain.net.hk", 
+            "dns3.domain.net.hk", 
+            "dns4.domain.net.hk"
+        ], 
+        "domain-name": "hk8.hk", 
+        "fuzzer": "replacement", 
+        "geoip-country": "Hong Kong", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "23.234.27.209"
+        ], 
+        "domain-name": "hky.hk", 
+        "fuzzer": "replacement", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "103.227.128.245"
+        ], 
+        "dns-ns": [
+            "ns1.8hy.cn", 
+            "ns2.8hy.cn", 
+            "ns3.8hy.cn"
+        ], 
+        "domain-name": "hki.hk", 
+        "fuzzer": "replacement", 
+        "geoip-country": "Hong Kong", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "107.148.177.68"
+        ], 
+        "domain-name": "gku.hk", 
+        "fuzzer": "replacement", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "203.119.2.45", 
+            "203.119.87.45"
+        ], 
+        "dns-aaaa": [
+            "2001:dca:1000::cb77:572d", 
+            "2001:dca:3000::cb77:22d"
+        ], 
+        "dns-ns": [
+            "ns5.hkirc.net.hk", 
+            "ns6.hkirc.net.hk"
+        ], 
+        "domain-name": "hk7.hk", 
+        "fuzzer": "replacement", 
+        "geoip-country": "Hong Kong", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "107.148.177.217"
+        ], 
+        "domain-name": "bku.hk", 
+        "fuzzer": "replacement", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "23.234.27.209"
+        ], 
+        "domain-name": "hkh.hk", 
+        "fuzzer": "replacement", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "104.216.166.197"
+        ], 
+        "dns-ns": [
+            "ns5.dnsdun.com", 
+            "ns5.dnsdun.net"
+        ], 
+        "domain-name": "nku.hk", 
+        "fuzzer": "replacement", 
+        "geoip-country": "United States"
+    }, 
+    {
+        "dns-ns": [
+            "ns5.dnsdun.com", 
+            "ns5.dnsdun.net"
+        ], 
+        "domain-name": "yku.hk", 
+        "fuzzer": "replacement"
+    }, 
+    {
+        "dns-a": [
+            "23.234.27.209"
+        ], 
+        "domain-name": "zku.hk", 
+        "fuzzer": "replacement", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "107.148.177.239"
+        ], 
+        "domain-name": "huk.hk", 
+        "fuzzer": "transposition", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "45.199.85.60"
+        ], 
+        "dns-ns": [
+            "ns3.dnsdun.com", 
+            "ns3.dnsdun.net"
+        ], 
+        "domain-name": "hka.hk", 
+        "fuzzer": "vowel-swap", 
+        "geoip-country": "United States"
+    }, 
+    {
+        "dns-ns": [
+            "ns01.scig.gov.hk", 
+            "ns02.scig.gov.hk"
+        ], 
+        "domain-name": "hko.hk", 
+        "fuzzer": "vowel-swap"
+    }
+]

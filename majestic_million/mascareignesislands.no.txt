@@ -1,0 +1,37 @@
+[
+    {
+        "dns-a": [
+            "108.167.137.9"
+        ], 
+        "dns-mx": [
+            "mail.mascareignesislands.no"
+        ], 
+        "dns-ns": [
+            "ns133.ehosts.com", 
+            "ns134.ehosts.com"
+        ], 
+        "domain-name": "mascareignesislands.no", 
+        "fuzzer": "original*", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 100
+    }, 
+    {
+        "dns-a": [
+            "185.53.178.9"
+        ], 
+        "dns-ns": [
+            "ns1.parkingcrew.net", 
+            "ns2.parkingcrew.net"
+        ], 
+        "domain-name": "mascareignes.islands.no", 
+        "fuzzer": "subdomain"
+    }, 
+    {
+        "dns-a": [
+            "46.30.215.54"
+        ], 
+        "domain-name": "mascareignesislan.ds.no", 
+        "fuzzer": "subdomain", 
+        "geoip-country": "Denmark"
+    }
+]

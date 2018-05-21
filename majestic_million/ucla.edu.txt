@@ -1,0 +1,131 @@
+[
+    {
+        "dns-a": [
+            "128.97.27.37"
+        ], 
+        "dns-aaaa": [
+            "2607:f010:3fe:fff1:0:ff:fe00:25"
+        ], 
+        "dns-mx": [
+            "mx-asm2.smtp.ucla.edu", 
+            "mx-csb1.smtp.ucla.edu", 
+            "mx-csb2.smtp.ucla.edu", 
+            "mx-ucb1.smtp.ucla.edu", 
+            "mx-ucb2.smtp.ucla.edu", 
+            "mx.smtp.ucla.edu", 
+            "v4.smtp.ucla.edu"
+        ], 
+        "dns-ns": [
+            "ns1.dns.ucla.edu", 
+            "ns2.dns.ucla.edu", 
+            "ns3.dns.ucla.edu", 
+            "ns4.dns.ucla.edu"
+        ], 
+        "domain-name": "ucla.edu", 
+        "fuzzer": "original*", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 100
+    }, 
+    {
+        "dns-a": [
+            "23.236.62.147"
+        ], 
+        "dns-mx": [
+            "mx1.emailsrvr.com", 
+            "mx2.emailsrvr.com"
+        ], 
+        "dns-ns": [
+            "ns1.wix.com", 
+            "ns2.wix.com"
+        ], 
+        "domain-name": "ucha.edu", 
+        "fuzzer": "bitsquatting", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-ns": [
+            "dns-ns0.ucl.ac.uk", 
+            "dns-ns1.ucl.ac.uk"
+        ], 
+        "domain-name": "ucl.edu", 
+        "fuzzer": "omission"
+    }, 
+    {
+        "dns-mx": [
+            "alt1.aspmx.l.google.com", 
+            "alt2.aspmx.l.google.com", 
+            "alt3.aspmx.l.google.com", 
+            "alt4.aspmx.l.google.com", 
+            "aspmx.l.google.com"
+        ], 
+        "dns-ns": [
+            "ns1.mdnsservice.com", 
+            "ns2.mdnsservice.com", 
+            "ns3.mdnsservice.com"
+        ], 
+        "domain-name": "ula.edu", 
+        "fuzzer": "omission"
+    }, 
+    {
+        "dns-a": [
+            "192.185.39.72"
+        ], 
+        "dns-mx": [
+            "alt1.aspmx.l.google.com", 
+            "alt2.aspmx.l.google.com", 
+            "alt3.aspmx.l.google.com", 
+            "alt4.aspmx.l.google.com", 
+            "aspmx.l.google.com"
+        ], 
+        "dns-ns": [
+            "ns8205.hostgator.com", 
+            "ns8206.hostgator.com"
+        ], 
+        "domain-name": "cla.edu", 
+        "fuzzer": "omission"
+    }, 
+    {
+        "dns-a": [
+            "161.31.3.35"
+        ], 
+        "dns-mx": [
+            "alt1.aspmx.l.google.com", 
+            "alt2.aspmx.l.google.com", 
+            "alt3.aspmx.l.google.com", 
+            "alt4.aspmx.l.google.com", 
+            "aspmx.l.google.com"
+        ], 
+        "dns-ns": [
+            "ns.arknet.edu", 
+            "ns1.uca.edu", 
+            "ns2.uca.edu"
+        ], 
+        "domain-name": "uca.edu", 
+        "fuzzer": "omission", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "107.180.54.253"
+        ], 
+        "dns-mx": [
+            "alt1.aspmx.l.google.com", 
+            "alt2.aspmx.l.google.com", 
+            "alt3.aspmx.l.google.com", 
+            "alt4.aspmx.l.google.com", 
+            "aspmx.l.google.com"
+        ], 
+        "dns-ns": [
+            "ns-1214.awsdns-23.org", 
+            "ns-1815.awsdns-34.co.uk", 
+            "ns-408.awsdns-51.com", 
+            "ns-515.awsdns-00.net"
+        ], 
+        "domain-name": "cula.edu", 
+        "fuzzer": "transposition", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 0
+    }
+]

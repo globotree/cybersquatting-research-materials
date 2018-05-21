@@ -1,0 +1,47 @@
+[
+    {
+        "dns-a": [
+            "109.207.1.20"
+        ], 
+        "dns-ns": [
+            "ns1.gosuslugi.ru", 
+            "ns2.gosuslugi.ru"
+        ], 
+        "domain-name": "torgi.gov.ru", 
+        "fuzzer": "original*", 
+        "geoip-country": "Russian Federation", 
+        "ssdeep-score": 99
+    }, 
+    {
+        "dns-a": [
+            "78.46.42.181"
+        ], 
+        "dns-mx": [
+            "mx.yandex.net"
+        ], 
+        "dns-ns": [
+            "ns1.reg.ru", 
+            "ns2.reg.ru"
+        ], 
+        "domain-name": "torgi.ru", 
+        "fuzzer": "various", 
+        "geoip-country": "Germany"
+    }, 
+    {
+        "dns-a": [
+            "72.52.4.119"
+        ], 
+        "dns-mx": [
+            "localhost"
+        ], 
+        "dns-ns": [
+            "ns1.sedoparking.com", 
+            "ns2.sedoparking.com"
+        ], 
+        "domain-name": "torgigov.ru", 
+        "fuzzer": "various", 
+        "geoip-country": "United States", 
+        "mx-spy": true, 
+        "ssdeep-score": 0
+    }
+]

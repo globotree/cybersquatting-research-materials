@@ -1,0 +1,62 @@
+[
+    {
+        "dns-mx": [
+            ""
+        ], 
+        "dns-ns": [
+            "ns1.yahoo.com", 
+            "ns2.yahoo.com", 
+            "ns3.yahoo.com", 
+            "ns4.yahoo.com", 
+            "ns5.yahoo.com"
+        ], 
+        "domain-name": "staticflickr.com", 
+        "fuzzer": "original*"
+    }, 
+    {
+        "dns-a": [
+            "104.200.22.130", 
+            "104.200.23.95"
+        ], 
+        "dns-mx": [
+            "mail.mxproc.com"
+        ], 
+        "dns-ns": [
+            "ns1.mytrafficmanagement.com", 
+            "ns2.mytrafficmanagement.com"
+        ], 
+        "domain-name": "staticfickr.com", 
+        "fuzzer": "omission", 
+        "geoip-country": "United States", 
+        "mx-spy": true
+    }, 
+    {
+        "dns-mx": [
+            ""
+        ], 
+        "dns-ns": [
+            "ns1.yahoo.com", 
+            "ns2.yahoo.com", 
+            "ns3.yahoo.com", 
+            "ns4.yahoo.com", 
+            "ns5.yahoo.com"
+        ], 
+        "domain-name": "staticflikr.com", 
+        "fuzzer": "omission"
+    }, 
+    {
+        "dns-a": [
+            "217.146.190.232"
+        ], 
+        "domain-name": "static.flickr.com", 
+        "fuzzer": "subdomain", 
+        "geoip-country": "United Kingdom"
+    }, 
+    {
+        "dns-a": [
+            "207.244.67.218"
+        ], 
+        "domain-name": "staticf.lickr.com", 
+        "fuzzer": "subdomain"
+    }
+]

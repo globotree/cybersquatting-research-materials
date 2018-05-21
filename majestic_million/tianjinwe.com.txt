@@ -1,0 +1,37 @@
+[
+    {
+        "dns-ns": [
+            "dns13.hichina.com", 
+            "dns14.hichina.com"
+        ], 
+        "domain-name": "tianjinwe.com", 
+        "fuzzer": "original*"
+    }, 
+    {
+        "dns-a": [
+            "47.254.19.2"
+        ], 
+        "domain-name": "tianjinweb.com", 
+        "fuzzer": "addition", 
+        "geoip-country": "United States"
+    }, 
+    {
+        "dns-a": [
+            "23.234.53.121"
+        ], 
+        "dns-mx": [
+            "mx.mail.ym.163.com"
+        ], 
+        "domain-name": "tianjinw.com", 
+        "fuzzer": "omission", 
+        "geoip-country": "United States"
+    }, 
+    {
+        "dns-a": [
+            "216.70.123.115"
+        ], 
+        "domain-name": "tianji.nwe.com", 
+        "fuzzer": "subdomain", 
+        "geoip-country": "United States"
+    }
+]

@@ -1,0 +1,55 @@
+[
+    {
+        "dns-a": [
+            "134.171.75.33"
+        ], 
+        "dns-mx": [
+            "hqmgw1.hq.eso.org", 
+            "hqmgw2.hq.eso.org"
+        ], 
+        "dns-ns": [
+            "hq-000-ns06.hq.eso.org", 
+            "leguin.sc.eso.org", 
+            "niven.sc.eso.org", 
+            "orwell.hq.eso.org"
+        ], 
+        "domain-name": "spacetelescope.org", 
+        "fuzzer": "original*", 
+        "geoip-country": "Germany", 
+        "ssdeep-score": 100
+    }, 
+    {
+        "dns-a": [
+            "185.53.178.6"
+        ], 
+        "dns-mx": [
+            "mail.h-email.net"
+        ], 
+        "dns-ns": [
+            "ns1.parkingcrew.net", 
+            "ns2.parkingcrew.net"
+        ], 
+        "domain-name": "spacetelesc.ope.org", 
+        "fuzzer": "subdomain", 
+        "geoip-country": "Germany", 
+        "mx-spy": true, 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "69.64.147.34"
+        ], 
+        "domain-name": "spacetelesco.pe.org", 
+        "fuzzer": "subdomain", 
+        "geoip-country": "United States"
+    }, 
+    {
+        "dns-a": [
+            "217.194.213.243"
+        ], 
+        "domain-name": "spacetelescop.e.org", 
+        "fuzzer": "subdomain", 
+        "geoip-country": "United Kingdom", 
+        "ssdeep-score": 0
+    }
+]

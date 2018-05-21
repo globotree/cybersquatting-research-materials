@@ -1,0 +1,95 @@
+[
+    {
+        "dns-a": [
+            "104.24.30.49", 
+            "104.24.31.49"
+        ], 
+        "dns-aaaa": [
+            "2400:cb00:2048:1::6818:1e31", 
+            "2400:cb00:2048:1::6818:1f31"
+        ], 
+        "dns-mx": [
+            "alt1.aspmx.l.google.com", 
+            "alt2.aspmx.l.google.com", 
+            "aspmx.l.google.com", 
+            "aspmx2.googlemail.com", 
+            "aspmx3.googlemail.com", 
+            "mx3.mailhostbox.com"
+        ], 
+        "dns-ns": [
+            "kurt.ns.cloudflare.com", 
+            "maria.ns.cloudflare.com"
+        ], 
+        "domain-name": "thehackernews.com", 
+        "fuzzer": "original*", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 100
+    }, 
+    {
+        "dns-a": [
+            "104.24.98.97", 
+            "104.24.99.97"
+        ], 
+        "dns-aaaa": [
+            "2400:cb00:2048:1::6818:6261", 
+            "2400:cb00:2048:1::6818:6361"
+        ], 
+        "dns-ns": [
+            "mary.ns.cloudflare.com", 
+            "tim.ns.cloudflare.com"
+        ], 
+        "domain-name": "thehackednews.com", 
+        "fuzzer": "replacement", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "185.53.178.6"
+        ], 
+        "dns-ns": [
+            "ns1.parkingcrew.net", 
+            "ns2.parkingcrew.net"
+        ], 
+        "domain-name": "th.ehackernews.com", 
+        "fuzzer": "subdomain", 
+        "geoip-country": "Germany", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "198.54.117.200"
+        ], 
+        "dns-ns": [
+            "dns101.registrar-servers.com", 
+            "dns102.registrar-servers.com"
+        ], 
+        "domain-name": "theh.ackernews.com", 
+        "fuzzer": "subdomain", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "72.52.4.119"
+        ], 
+        "dns-mx": [
+            "localhost"
+        ], 
+        "dns-ns": [
+            "ns1.sedoparking.com", 
+            "ns2.sedoparking.com"
+        ], 
+        "domain-name": "thehack.ernews.com", 
+        "fuzzer": "subdomain"
+    }, 
+    {
+        "dns-a": [
+            "64.30.224.118"
+        ], 
+        "domain-name": "thehacker.news.com", 
+        "fuzzer": "subdomain", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 0
+    }
+]

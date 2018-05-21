@@ -1,0 +1,208 @@
+[
+    {
+        "dns-a": [
+            "132.204.8.144"
+        ], 
+        "dns-mx": [
+            "smtps1.umontreal.ca", 
+            "smtps2.umontreal.ca"
+        ], 
+        "dns-ns": [
+            "dnsp1.dit.umontreal.ca", 
+            "dnsp2.dit.umontreal.ca", 
+            "ns1.risq.qc.ca", 
+            "ns2.risq.qc.ca"
+        ], 
+        "domain-name": "umontreal.ca", 
+        "fuzzer": "original*", 
+        "geoip-country": "Canada", 
+        "ssdeep-score": 100
+    }, 
+    {
+        "dns-a": [
+            "209.15.37.6"
+        ], 
+        "dns-ns": [
+            "ns1.webnames.ca", 
+            "ns2.webnames.ca", 
+            "ns3.webnames.ca"
+        ], 
+        "domain-name": "qmontreal.ca", 
+        "fuzzer": "bitsquatting", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "69.172.201.153"
+        ], 
+        "dns-ns": [
+            "ns1.uniregistrymarket.link", 
+            "ns2.uniregistrymarket.link"
+        ], 
+        "domain-name": "emontreal.ca", 
+        "fuzzer": "bitsquatting", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "72.34.33.171"
+        ], 
+        "dns-mx": [
+            "unmontreal.ca"
+        ], 
+        "dns-ns": [
+            "ns100.eleven2.com", 
+            "ns101.eleven2.com"
+        ], 
+        "domain-name": "unmontreal.ca", 
+        "fuzzer": "insertion", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "72.52.179.174"
+        ], 
+        "dns-mx": [
+            "mx156.hostedmxserver.com"
+        ], 
+        "dns-ns": [
+            "ns1.parklogic.com", 
+            "ns2.parklogic.com", 
+            "ns3.parklogic.com", 
+            "ns4.parklogic.com", 
+            "ns5.parklogic.com"
+        ], 
+        "domain-name": "umonteal.ca", 
+        "fuzzer": "omission", 
+        "geoip-country": "United States", 
+        "mx-spy": true, 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "141.8.224.93"
+        ], 
+        "dns-ns": [
+            "ns7.rookdns.com", 
+            "ns8.rookdns.com"
+        ], 
+        "domain-name": "umontral.ca", 
+        "fuzzer": "omission", 
+        "geoip-country": "Switzerland", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "104.20.12.140", 
+            "104.20.13.140"
+        ], 
+        "dns-aaaa": [
+            "2400:cb00:2048:1::6814:c8c", 
+            "2400:cb00:2048:1::6814:d8c"
+        ], 
+        "dns-ns": [
+            "coby.ns.cloudflare.com", 
+            "tani.ns.cloudflare.com"
+        ], 
+        "domain-name": "montreal.ca", 
+        "fuzzer": "omission", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "184.168.221.47"
+        ], 
+        "dns-mx": [
+            "mailstore1.secureserver.net", 
+            "smtp.secureserver.net"
+        ], 
+        "dns-ns": [
+            "ns55.domaincontrol.com", 
+            "ns56.domaincontrol.com"
+        ], 
+        "domain-name": "jmontreal.ca", 
+        "fuzzer": "replacement", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-mx": [
+            "alt1.gmr-smtp-in.l.google.com", 
+            "alt2.gmr-smtp-in.l.google.com", 
+            "alt3.gmr-smtp-in.l.google.com", 
+            "alt4.gmr-smtp-in.l.google.com", 
+            "gmr-smtp-in.l.google.com"
+        ], 
+        "dns-ns": [
+            "ns-cloud-a1.googledomains.com", 
+            "ns-cloud-a2.googledomains.com", 
+            "ns-cloud-a3.googledomains.com", 
+            "ns-cloud-a4.googledomains.com"
+        ], 
+        "domain-name": "zmontreal.ca", 
+        "fuzzer": "replacement"
+    }, 
+    {
+        "dns-a": [
+            "198.58.118.244"
+        ], 
+        "dns-ns": [
+            "ns1.linode.com", 
+            "ns2.linode.com", 
+            "ns3.linode.com", 
+            "ns4.linode.com", 
+            "ns5.linode.com"
+        ], 
+        "domain-name": "imontreal.ca", 
+        "fuzzer": "replacement", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "69.172.201.153"
+        ], 
+        "dns-ns": [
+            "ns1.uniregistrymarket.link", 
+            "ns2.uniregistrymarket.link"
+        ], 
+        "domain-name": "umontr.eal.ca", 
+        "fuzzer": "subdomain", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "67.225.161.150"
+        ], 
+        "dns-mx": [
+            "amontreal.ca"
+        ], 
+        "dns-ns": [
+            "ns1.linuxbox.info", 
+            "ns2.linuxbox.info"
+        ], 
+        "domain-name": "amontreal.ca", 
+        "fuzzer": "vowel-swap"
+    }, 
+    {
+        "dns-a": [
+            "184.168.221.46"
+        ], 
+        "dns-mx": [
+            "mailstore1.secureserver.net", 
+            "smtp.secureserver.net"
+        ], 
+        "dns-ns": [
+            "ns39.domaincontrol.com", 
+            "ns40.domaincontrol.com"
+        ], 
+        "domain-name": "omontreal.ca", 
+        "fuzzer": "vowel-swap", 
+        "geoip-country": "United States"
+    }
+]

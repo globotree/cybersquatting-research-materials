@@ -1,0 +1,34 @@
+[
+    {
+        "dns-a": [
+            "88.255.55.110"
+        ], 
+        "dns-mx": [
+            "exmail1.mfa.gov.tr", 
+            "exmail2.mfa.gov.tr"
+        ], 
+        "dns-ns": [
+            "10.221.114.13", 
+            "inter-dns.mfa.gov.tr", 
+            "inter2-dns.mfa.gov.tr"
+        ], 
+        "domain-name": "mfa.gov.tr", 
+        "fuzzer": "original*", 
+        "geoip-country": "Turkey", 
+        "ssdeep-score": 100
+    }, 
+    {
+        "dns-a": [
+            "31.145.51.12"
+        ], 
+        "dns-mx": [
+            "mail.mta.gov.tr"
+        ], 
+        "dns-ns": [
+            "ns01.mta.gov.tr"
+        ], 
+        "domain-name": "mta.gov.tr", 
+        "fuzzer": "replacement", 
+        "geoip-country": "Turkey"
+    }
+]

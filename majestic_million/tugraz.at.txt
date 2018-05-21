@@ -1,0 +1,46 @@
+[
+    {
+        "dns-a": [
+            "129.27.2.244"
+        ], 
+        "dns-mx": [
+            "mailgate.tugraz.at", 
+            "mx0.tugraz.at"
+        ], 
+        "dns-ns": [
+            "ns1.tu-graz.ac.at", 
+            "ns10.univie.ac.at", 
+            "ns2.tu-graz.ac.at", 
+            "ns5.univie.ac.at"
+        ], 
+        "domain-name": "tugraz.at", 
+        "fuzzer": "original*", 
+        "geoip-country": "Austria", 
+        "ssdeep-score": 100
+    }, 
+    {
+        "dns-a": [
+            "72.52.4.122"
+        ], 
+        "dns-mx": [
+            "localhost"
+        ], 
+        "dns-ns": [
+            "ns1.sedoparking.com", 
+            "ns2.sedoparking.com"
+        ], 
+        "domain-name": "tugr.az.at", 
+        "fuzzer": "subdomain", 
+        "geoip-country": "United States", 
+        "mx-spy": true, 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "85.158.181.22"
+        ], 
+        "domain-name": "tugra.z.at", 
+        "fuzzer": "subdomain", 
+        "geoip-country": "Austria"
+    }
+]

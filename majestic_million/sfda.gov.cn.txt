@@ -1,0 +1,148 @@
+[
+    {
+        "dns-mx": [
+            "mail.cfda.gov.cn"
+        ], 
+        "dns-ns": [
+            "ns.sfda.gov.cn"
+        ], 
+        "domain-name": "sfda.gov.cn", 
+        "fuzzer": "original*"
+    }, 
+    {
+        "dns-a": [
+            "218.6.161.5"
+        ], 
+        "dns-ns": [
+            "dns21.hichina.com", 
+            "dns22.hichina.com"
+        ], 
+        "domain-name": "sfdaj.gov.cn", 
+        "fuzzer": "addition", 
+        "geoip-country": "China"
+    }, 
+    {
+        "dns-a": [
+            "113.207.122.16"
+        ], 
+        "dns-ns": [
+            "dns13.hichina.com", 
+            "dns14.hichina.com"
+        ], 
+        "domain-name": "wfda.gov.cn", 
+        "fuzzer": "bitsquatting", 
+        "geoip-country": "China"
+    }, 
+    {
+        "dns-mx": [
+            "mail.cfda.gov.cn"
+        ], 
+        "dns-ns": [
+            "ns.cfda.gov.cn"
+        ], 
+        "domain-name": "cfda.gov.cn", 
+        "fuzzer": "bitsquatting"
+    }, 
+    {
+        "dns-a": [
+            "182.140.197.179"
+        ], 
+        "dns-mx": [
+            "mail.scfda.gov.cn"
+        ], 
+        "dns-ns": [
+            "ns11.xincache.com", 
+            "ns12.xincache.com", 
+            "ns13.xincache.com", 
+            "ns14.xincache.com", 
+            "ns17.xincache.com", 
+            "ns18.xincache.com"
+        ], 
+        "domain-name": "scfda.gov.cn", 
+        "fuzzer": "insertion", 
+        "geoip-country": "China"
+    }, 
+    {
+        "dns-a": [
+            "218.65.17.83"
+        ], 
+        "dns-mx": [
+            "mx.srgov.cn"
+        ], 
+        "dns-ns": [
+            "ns5010.01isp.com", 
+            "ns5011.01isp.cn"
+        ], 
+        "domain-name": "srfda.gov.cn", 
+        "fuzzer": "insertion", 
+        "geoip-country": "China"
+    }, 
+    {
+        "dns-ns": [
+            "ns15.xincache.com", 
+            "ns16.xincache.com"
+        ], 
+        "domain-name": "sdfda.gov.cn", 
+        "fuzzer": "insertion"
+    }, 
+    {
+        "dns-ns": [
+            "ns1.myhostadmin.net", 
+            "ns2.myhostadmin.net", 
+            "ns3.myhostadmin.net", 
+            "ns4.myhostadmin.net", 
+            "ns5.myhostadmin.net", 
+            "ns6.myhostadmin.net"
+        ], 
+        "domain-name": "sffda.gov.cn", 
+        "fuzzer": "insertion"
+    }, 
+    {
+        "dns-a": [
+            "116.255.214.147"
+        ], 
+        "dns-ns": [
+            "dns19.hichina.com", 
+            "dns20.hichina.com"
+        ], 
+        "domain-name": "fda.gov.cn", 
+        "fuzzer": "omission", 
+        "geoip-country": "China"
+    }, 
+    {
+        "dns-mx": [
+            "mail.cfda.gov.cn"
+        ], 
+        "dns-ns": [
+            "ns.sda.gov.cn"
+        ], 
+        "domain-name": "sda.gov.cn", 
+        "fuzzer": "omission"
+    }, 
+    {
+        "dns-a": [
+            "218.63.69.50"
+        ], 
+        "dns-mx": [
+            "mail.sfds.gov.cn"
+        ], 
+        "dns-ns": [
+            "dns7.hichina.com", 
+            "dns8.hichina.com"
+        ], 
+        "domain-name": "sfds.gov.cn", 
+        "fuzzer": "replacement", 
+        "geoip-country": "China"
+    }, 
+    {
+        "dns-a": [
+            "23.83.138.145"
+        ], 
+        "dns-ns": [
+            "juming.dnsdun.com", 
+            "juming.dnsdun.net"
+        ], 
+        "domain-name": "sfdagov.cn", 
+        "fuzzer": "various"
+    }
+]

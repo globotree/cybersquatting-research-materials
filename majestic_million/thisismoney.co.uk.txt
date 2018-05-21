@@ -1,0 +1,185 @@
+[
+    {
+        "dns-a": [
+            "77.222.148.72", 
+            "77.222.148.73", 
+            "77.222.148.80", 
+            "77.222.148.88", 
+            "77.222.148.91", 
+            "77.222.148.96", 
+            "77.222.148.97"
+        ], 
+        "dns-mx": [
+            "eu-smtp-inbound-1.mimecast.com", 
+            "eu-smtp-inbound-2.mimecast.com"
+        ], 
+        "dns-ns": [
+            "a1-204.akam.net", 
+            "a16-67.akam.net", 
+            "a24-65.akam.net", 
+            "a4-67.akam.net", 
+            "a6-64.akam.net", 
+            "a7-66.akam.net"
+        ], 
+        "domain-name": "thisismoney.co.uk", 
+        "fuzzer": "original*", 
+        "geoip-country": "Ukraine", 
+        "ssdeep-score": 99
+    }, 
+    {
+        "dns-a": [
+            "94.136.40.82"
+        ], 
+        "dns-mx": [
+            "mx0.123-reg.co.uk", 
+            "mx1.123-reg.co.uk"
+        ], 
+        "dns-ns": [
+            "ns.123-reg.co.uk", 
+            "ns2.123-reg.co.uk"
+        ], 
+        "domain-name": "this-ismoney.co.uk", 
+        "fuzzer": "hyphenation", 
+        "geoip-country": "United Kingdom", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "141.8.224.169"
+        ], 
+        "dns-ns": [
+            "ns27.rookdns.com", 
+            "ns28.rookdns.com"
+        ], 
+        "domain-name": "tyhisismoney.co.uk", 
+        "fuzzer": "insertion", 
+        "geoip-country": "Switzerland", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "185.53.178.8"
+        ], 
+        "dns-ns": [
+            "ns1.parkingcrew.net", 
+            "ns2.parkingcrew.net"
+        ], 
+        "domain-name": "thisismony.co.uk", 
+        "fuzzer": "omission", 
+        "geoip-country": "Germany", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "141.8.224.169"
+        ], 
+        "dns-ns": [
+            "ns27.rookdns.com", 
+            "ns28.rookdns.com"
+        ], 
+        "domain-name": "thisidmoney.co.uk", 
+        "fuzzer": "replacement", 
+        "geoip-country": "Switzerland", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "70.32.1.32"
+        ], 
+        "dns-mx": [
+            "park-mx.above.com"
+        ], 
+        "dns-ns": [
+            "ns1.above.com", 
+            "ns2.above.com"
+        ], 
+        "domain-name": "thisismonet.co.uk", 
+        "fuzzer": "replacement", 
+        "geoip-country": "United States", 
+        "mx-spy": true, 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "184.168.221.7"
+        ], 
+        "dns-ns": [
+            "ns75.domaincontrol.com", 
+            "ns76.domaincontrol.com"
+        ], 
+        "domain-name": "rhisismoney.co.uk", 
+        "fuzzer": "replacement", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "94.136.40.51"
+        ], 
+        "domain-name": "this.ismoney.co.uk", 
+        "fuzzer": "subdomain", 
+        "geoip-country": "United Kingdom", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "184.168.221.8"
+        ], 
+        "dns-ns": [
+            "ns75.domaincontrol.com", 
+            "ns76.domaincontrol.com"
+        ], 
+        "domain-name": "htisismoney.co.uk", 
+        "fuzzer": "transposition", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "50.63.202.27"
+        ], 
+        "dns-ns": [
+            "ns75.domaincontrol.com", 
+            "ns76.domaincontrol.com"
+        ], 
+        "domain-name": "thsiismoney.co.uk", 
+        "fuzzer": "transposition", 
+        "geoip-country": "United States"
+    }, 
+    {
+        "dns-a": [
+            "184.168.221.11"
+        ], 
+        "dns-ns": [
+            "ns75.domaincontrol.com", 
+            "ns76.domaincontrol.com"
+        ], 
+        "domain-name": "thisismnoey.co.uk", 
+        "fuzzer": "transposition", 
+        "geoip-country": "United States"
+    }, 
+    {
+        "dns-ns": [
+            "nsgbr.comlaude.co.uk", 
+            "nssui.comlaude.ch", 
+            "nsusa.comlaude.net"
+        ], 
+        "domain-name": "thisismoney.uk", 
+        "fuzzer": "various"
+    }, 
+    {
+        "dns-a": [
+            "195.234.10.20"
+        ], 
+        "dns-mx": [
+            "mx.daily.co.uk"
+        ], 
+        "dns-ns": [
+            "ns1.daily.co.uk", 
+            "ns2.daily.co.uk"
+        ], 
+        "domain-name": "thisismoneyco.uk", 
+        "fuzzer": "various", 
+        "geoip-country": "United Kingdom"
+    }
+]

@@ -1,0 +1,142 @@
+[
+    {
+        "dns-a": [
+            "78.136.19.125"
+        ], 
+        "dns-mx": [
+            "cochrane-org.mail.protection.outlook.com"
+        ], 
+        "dns-ns": [
+            "pdns98.ultradns.biz", 
+            "pdns98.ultradns.com", 
+            "pdns98.ultradns.net", 
+            "pdns98.ultradns.org"
+        ], 
+        "domain-name": "cochrane.org", 
+        "fuzzer": "original*", 
+        "geoip-country": "United Kingdom", 
+        "ssdeep-score": 100
+    }, 
+    {
+        "dns-a": [
+            "143.95.224.72"
+        ], 
+        "dns-mx": [
+            "mail.cochranes.org"
+        ], 
+        "dns-ns": [
+            "ns1.arvixeshared.com", 
+            "ns2.arvixeshared.com"
+        ], 
+        "domain-name": "cochranes.org", 
+        "fuzzer": "addition", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "64.99.80.121"
+        ], 
+        "dns-mx": [
+            "mx.netidentity.com.cust.hostedemail.com", 
+            "mx.netidentity.com.cust.hostedemail.com"
+        ], 
+        "dns-ns": [
+            "ns1.mailbank.com", 
+            "ns1.mdnsservice.com", 
+            "ns2.mailbank.com", 
+            "ns2.mdnsservice.com", 
+            "ns3.mdnsservice.com"
+        ], 
+        "domain-name": "cochran.org", 
+        "fuzzer": "omission", 
+        "geoip-country": "Canada", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "208.91.196.105"
+        ], 
+        "dns-ns": [
+            "sk.s5.cm.ns1.39.ztomy.com", 
+            "sk.s5.cm.ns2.39.ztomy.com"
+        ], 
+        "domain-name": "cohrane.org", 
+        "fuzzer": "omission", 
+        "geoip-country": "Virgin Islands", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "157.7.107.116"
+        ], 
+        "dns-mx": [
+            "mx01.lolipop.jp"
+        ], 
+        "dns-ns": [
+            "uns01.lolipop.jp", 
+            "uns02.lolipop.jp"
+        ], 
+        "domain-name": "cocrane.org", 
+        "fuzzer": "omission", 
+        "geoip-country": "Japan", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-mx": [
+            "mx1.emailsrvr.com", 
+            "mx2.emailsrvr.com"
+        ], 
+        "dns-ns": [
+            "ns1.hover.com", 
+            "ns2.hover.com"
+        ], 
+        "domain-name": "cochrans.org", 
+        "fuzzer": "replacement"
+    }, 
+    {
+        "dns-a": [
+            "46.30.213.187"
+        ], 
+        "domain-name": "cochr.ane.org", 
+        "fuzzer": "subdomain"
+    }, 
+    {
+        "dns-a": [
+            "72.52.4.122"
+        ], 
+        "dns-mx": [
+            "localhost"
+        ], 
+        "dns-ns": [
+            "ns1.sedoparking.com", 
+            "ns2.sedoparking.com"
+        ], 
+        "domain-name": "cochra.ne.org", 
+        "fuzzer": "subdomain", 
+        "geoip-country": "United States", 
+        "mx-spy": true, 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "217.194.213.243"
+        ], 
+        "domain-name": "cochran.e.org", 
+        "fuzzer": "subdomain", 
+        "geoip-country": "United Kingdom", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "31.31.204.161"
+        ], 
+        "dns-ns": [
+            "ns1.reg.ru", 
+            "ns2.reg.ru"
+        ], 
+        "domain-name": "cachrane.org", 
+        "fuzzer": "vowel-swap", 
+        "geoip-country": "Russian Federation"
+    }
+]

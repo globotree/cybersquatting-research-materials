@@ -1,0 +1,64 @@
+[
+    {
+        "dns-a": [
+            "4.31.198.49"
+        ], 
+        "dns-aaaa": [
+            "2001:1900:3001:11::31"
+        ], 
+        "dns-mx": [
+            "rfc-editor.org"
+        ], 
+        "dns-ns": [
+            "ns0.amsl.com", 
+            "ns1.ams1.afilias-nst.info", 
+            "ns1.hkg1.afilias-nst.info", 
+            "ns1.mia1.afilias-nst.info", 
+            "ns1.sea1.afilias-nst.info", 
+            "ns1.yyz1.afilias-nst.info"
+        ], 
+        "domain-name": "rfc-editor.org", 
+        "fuzzer": "original*", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 100
+    }, 
+    {
+        "dns-a": [
+            "68.178.213.61"
+        ], 
+        "dns-ns": [
+            "ns1.namefind.com", 
+            "ns2.namefind.com"
+        ], 
+        "domain-name": "rfceditor.org", 
+        "fuzzer": "omission", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "68.178.213.61"
+        ], 
+        "domain-name": "rfc-ed.itor.org", 
+        "fuzzer": "subdomain", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "208.91.197.27"
+        ], 
+        "domain-name": "rfc-edi.tor.org", 
+        "fuzzer": "subdomain", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "98.124.199.35"
+        ], 
+        "domain-name": "rfc-edito.r.org", 
+        "fuzzer": "subdomain", 
+        "geoip-country": "United States"
+    }
+]

@@ -1,0 +1,121 @@
+[
+    {
+        "dns-mx": [
+            "data.ebay.com", 
+            "gort.ebay.com", 
+            "lore.ebay.com"
+        ], 
+        "dns-ns": [
+            "a1.verisigndns.com", 
+            "a2.verisigndns.com", 
+            "a3.verisigndns.com", 
+            "ns1.p47.dynect.net", 
+            "ns2.p47.dynect.net", 
+            "ns3.p47.dynect.net", 
+            "ns4.p47.dynect.net"
+        ], 
+        "domain-name": "ebayimg.com", 
+        "fuzzer": "original*"
+    }, 
+    {
+        "dns-a": [
+            "72.52.10.14"
+        ], 
+        "dns-ns": [
+            "ns1.markmonitor.com", 
+            "ns2.markmonitor.com", 
+            "ns3.markmonitor.com", 
+            "ns4.markmonitor.com", 
+            "ns5.markmonitor.com", 
+            "ns6.markmonitor.com", 
+            "ns7.markmonitor.com"
+        ], 
+        "domain-name": "ebaying.com", 
+        "fuzzer": "homoglyph", 
+        "geoip-country": "United States"
+    }, 
+    {
+        "dns-a": [
+            "198.58.104.56"
+        ], 
+        "dns-mx": [
+            "mailstore1.secureserver.net", 
+            "smtp.secureserver.net"
+        ], 
+        "dns-ns": [
+            "ns11.domaincontrol.com", 
+            "ns12.domaincontrol.com"
+        ], 
+        "domain-name": "ebay-img.com", 
+        "fuzzer": "hyphenation", 
+        "geoip-country": "United States"
+    }, 
+    {
+        "dns-a": [
+            "50.63.202.55"
+        ], 
+        "dns-mx": [
+            "mailstore1.secureserver.net", 
+            "smtp.secureserver.net"
+        ], 
+        "dns-ns": [
+            "ns21.domaincontrol.com", 
+            "ns22.domaincontrol.com"
+        ], 
+        "domain-name": "ebayim.com", 
+        "fuzzer": "omission", 
+        "geoip-country": "United States"
+    }, 
+    {
+        "dns-a": [
+            "134.19.187.27"
+        ], 
+        "dns-ns": [
+            "dns15.hichina.com", 
+            "dns16.hichina.com"
+        ], 
+        "domain-name": "ebayig.com", 
+        "fuzzer": "omission", 
+        "geoip-country": "Netherlands"
+    }, 
+    {
+        "dns-a": [
+            "185.109.87.28"
+        ], 
+        "dns-mx": [
+            "mx.tfr.org"
+        ], 
+        "dns-ns": [
+            "ns0.idleworks.org", 
+            "ns1.dcpnetworks.net", 
+            "ns2.tfr.org"
+        ], 
+        "domain-name": "bayimg.com", 
+        "fuzzer": "omission", 
+        "geoip-country": "Sweden"
+    }, 
+    {
+        "dns-mx": [
+            "mailstore1.secureserver.net", 
+            "smtp.secureserver.net"
+        ], 
+        "dns-ns": [
+            "ns55.domaincontrol.com", 
+            "ns56.domaincontrol.com"
+        ], 
+        "domain-name": "eebayimg.com", 
+        "fuzzer": "repetition"
+    }, 
+    {
+        "dns-a": [
+            "184.168.221.40"
+        ], 
+        "dns-ns": [
+            "ns55.domaincontrol.com", 
+            "ns56.domaincontrol.com"
+        ], 
+        "domain-name": "ebayomg.com", 
+        "fuzzer": "replacement", 
+        "geoip-country": "United States"
+    }
+]

@@ -1,0 +1,62 @@
+[
+    {
+        "dns-a": [
+            "216.54.215.142"
+        ], 
+        "dns-mx": [
+            "ALT1.ASPMX.L.GOOGLE.COM", 
+            "ALT2.ASPMX.L.GOOGLE.COM", 
+            "ASPMX.L.GOOGLE.COM", 
+            "ASPMX2.GOOGLEMAIL.COM", 
+            "ASPMX3.GOOGLEMAIL.COM"
+        ], 
+        "dns-ns": [
+            "externaldns0.nmt.edu", 
+            "isd-dns.nmt.edu"
+        ], 
+        "domain-name": "nmt.edu", 
+        "fuzzer": "original*", 
+        "geoip-country": "United States"
+    }, 
+    {
+        "dns-a": [
+            "34.225.55.133", 
+            "52.204.153.136"
+        ], 
+        "dns-ns": [
+            "pdns1.ultradns.net", 
+            "pdns2.ultradns.net", 
+            "pdns3.ultradns.org", 
+            "pdns4.ultradns.org", 
+            "pdns5.ultradns.info", 
+            "pdns6.ultradns.co.uk"
+        ], 
+        "domain-name": "nmti.edu", 
+        "fuzzer": "addition", 
+        "geoip-country": "United States"
+    }, 
+    {
+        "dns-a": [
+            "198.110.200.4"
+        ], 
+        "dns-aaaa": [
+            "2001:48a8:800:3200:198:110:200:4"
+        ], 
+        "dns-mx": [
+            "ALT1.ASPMX.L.GOOGLE.COM", 
+            "ALT2.ASPMX.L.GOOGLE.COM", 
+            "ALT3.ASPMX.L.GOOGLE.COM", 
+            "ALT4.ASPMX.L.GOOGLE.COM", 
+            "ASPMX.L.GOOGLE.COM"
+        ], 
+        "dns-ns": [
+            "bart.nmu.edu", 
+            "candace.nmu.edu", 
+            "lindana.nmu.edu", 
+            "nmudns.nmu.edu"
+        ], 
+        "domain-name": "nmu.edu", 
+        "fuzzer": "bitsquatting", 
+        "geoip-country": "United States"
+    }
+]

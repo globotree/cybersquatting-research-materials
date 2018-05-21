@@ -1,0 +1,82 @@
+[
+    {
+        "dns-a": [
+            "192.0.79.32", 
+            "192.0.79.33"
+        ], 
+        "dns-mx": [
+            "ALT1.ASPMX.L.GOOGLE.com", 
+            "ALT2.ASPMX.L.GOOGLE.com", 
+            "ASPMX.L.GOOGLE.com", 
+            "ASPMX2.GOOGLEMAIL.com", 
+            "ASPMX3.GOOGLEMAIL.com", 
+            "ASPMX4.GOOGLEMAIL.com", 
+            "ASPMX5.GOOGLEMAIL.com"
+        ], 
+        "dns-ns": [
+            "ns1.wordpress.com", 
+            "ns2.wordpress.com", 
+            "ns3.wordpress.com"
+        ], 
+        "domain-name": "9to5google.com", 
+        "fuzzer": "original*", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 99
+    }, 
+    {
+        "dns-a": [
+            "199.191.50.142"
+        ], 
+        "dns-ns": [
+            "ns111442.ztomy.com", 
+            "ns211442.ztomy.com"
+        ], 
+        "domain-name": "9togoogle.com", 
+        "fuzzer": "omission", 
+        "geoip-country": "Virgin Islands", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "74.119.239.234"
+        ], 
+        "domain-name": "9to.5google.com", 
+        "fuzzer": "subdomain", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "204.9.184.9"
+        ], 
+        "domain-name": "9to5g.oogle.com", 
+        "fuzzer": "subdomain", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "69.172.201.153"
+        ], 
+        "dns-ns": [
+            "ns1.uniregistrymarket.link", 
+            "ns2.uniregistrymarket.link"
+        ], 
+        "domain-name": "9to5goo.gle.com", 
+        "fuzzer": "subdomain", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "115.182.94.238"
+        ], 
+        "dns-mx": [
+            "lemail.le.com", 
+            "mail10.le.com", 
+            "mail3.le.com"
+        ], 
+        "domain-name": "9to5goog.le.com", 
+        "fuzzer": "subdomain"
+    }
+]

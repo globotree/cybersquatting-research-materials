@@ -1,0 +1,51 @@
+[
+    {
+        "dns-a": [
+            "200.130.2.135"
+        ], 
+        "dns-mx": [
+            "mx1.mec.gov.br", 
+            "mx2.mec.gov.br", 
+            "mx3.mec.gov.br", 
+            "mx4.mec.gov.br"
+        ], 
+        "dns-ns": [
+            "aus1.akam.net", 
+            "dns1.mec.gov.br", 
+            "dns2.mec.gov.br", 
+            "server1.pop-df.rnp.br", 
+            "usc4.akam.net", 
+            "use2.akam.net"
+        ], 
+        "domain-name": "mec.gov.br", 
+        "fuzzer": "original*", 
+        "geoip-country": "Brazil"
+    }, 
+    {
+        "dns-a": [
+            "200.139.9.23"
+        ], 
+        "dns-mx": [
+            "mail.iec.gov.br"
+        ], 
+        "dns-ns": [
+            "ns.iec.gov.br", 
+            "server1.pop-pa.rnp.br"
+        ], 
+        "domain-name": "iec.gov.br", 
+        "fuzzer": "bitsquatting"
+    }, 
+    {
+        "dns-a": [
+            "186.202.165.155"
+        ], 
+        "dns-ns": [
+            "ns1.locaweb.com.br", 
+            "ns2.locaweb.com.br", 
+            "ns3.locaweb.com.br"
+        ], 
+        "domain-name": "ec.gov.br", 
+        "fuzzer": "omission", 
+        "geoip-country": "Brazil"
+    }
+]

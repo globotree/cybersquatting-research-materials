@@ -1,0 +1,605 @@
+[
+    {
+        "dns-a": [
+            "172.217.22.35"
+        ], 
+        "dns-aaaa": [
+            "2a00:1450:4001:81b::2003"
+        ], 
+        "dns-mx": [
+            "alt1.aspmx.l.google.com", 
+            "alt2.aspmx.l.google.com", 
+            "alt3.aspmx.l.google.com", 
+            "alt4.aspmx.l.google.com", 
+            "aspmx.l.google.com"
+        ], 
+        "dns-ns": [
+            "ns1.google.com", 
+            "ns2.google.com", 
+            "ns3.google.com", 
+            "ns4.google.com"
+        ], 
+        "domain-name": "google.sk", 
+        "fuzzer": "original*", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 85
+    }, 
+    {
+        "dns-a": [
+            "178.79.132.131"
+        ], 
+        "dns-aaaa": [
+            "2a01:7e00::f03c:91ff:fe73:2a37"
+        ], 
+        "dns-ns": [
+            "ns1.linode.com", 
+            "ns2.linode.com", 
+            "ns3.linode.com", 
+            "ns4.linode.com", 
+            "ns5.linode.com"
+        ], 
+        "domain-name": "googlee.sk", 
+        "fuzzer": "addition", 
+        "geoip-country": "United Kingdom", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "85.248.228.21", 
+            "85.248.229.21"
+        ], 
+        "dns-ns": [
+            "ns1.dnparking.sk", 
+            "ns2.dnparking.sk"
+        ], 
+        "domain-name": "googler.sk", 
+        "fuzzer": "addition", 
+        "geoip-country": "Slovakia", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "103.224.182.241"
+        ], 
+        "dns-mx": [
+            "park-mx.above.com"
+        ], 
+        "dns-ns": [
+            "ns1.above.com", 
+            "ns2.above.com"
+        ], 
+        "domain-name": "googles.sk", 
+        "fuzzer": "addition", 
+        "geoip-country": "Australia", 
+        "mx-spy": true, 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "83.167.250.165"
+        ], 
+        "dns-mx": [
+            "mail.buendia.cz"
+        ], 
+        "dns-ns": [
+            "ns.forpsi.cz", 
+            "ns.forpsi.it", 
+            "ns.forpsi.net"
+        ], 
+        "domain-name": "ggogle.sk", 
+        "fuzzer": "bitsquatting", 
+        "geoip-country": "Czech Republic", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "103.224.182.241"
+        ], 
+        "dns-mx": [
+            "park-mx.above.com"
+        ], 
+        "dns-ns": [
+            "ns1.above.com", 
+            "ns2.above.com"
+        ], 
+        "domain-name": "goggle.sk", 
+        "fuzzer": "bitsquatting", 
+        "geoip-country": "Australia", 
+        "mx-spy": true, 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "103.224.182.241"
+        ], 
+        "dns-mx": [
+            "park-mx.above.com"
+        ], 
+        "dns-ns": [
+            "ns1.above.com", 
+            "ns2.above.com"
+        ], 
+        "domain-name": "goofle.sk", 
+        "fuzzer": "bitsquatting", 
+        "geoip-country": "Australia", 
+        "mx-spy": true, 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "103.224.182.241"
+        ], 
+        "dns-mx": [
+            "park-mx.above.com"
+        ], 
+        "dns-ns": [
+            "ns1.above.com", 
+            "ns2.above.com"
+        ], 
+        "domain-name": "googla.sk", 
+        "fuzzer": "bitsquatting", 
+        "geoip-country": "Australia", 
+        "mx-spy": true, 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "37.9.175.13"
+        ], 
+        "dns-mx": [
+            "mailin1.qooqle.sk", 
+            "mailin2.qooqle.sk"
+        ], 
+        "dns-ns": [
+            "ns1.websupport.sk", 
+            "ns2.websupport.sk", 
+            "ns3.websupport.sk"
+        ], 
+        "domain-name": "qooqle.sk", 
+        "fuzzer": "homoglyph", 
+        "geoip-country": "Slovakia", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "103.224.182.241"
+        ], 
+        "dns-mx": [
+            "park-mx.above.com"
+        ], 
+        "dns-ns": [
+            "ns1.above.com", 
+            "ns2.above.com"
+        ], 
+        "domain-name": "googie.sk", 
+        "fuzzer": "homoglyph", 
+        "geoip-country": "Australia", 
+        "mx-spy": true, 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "103.224.182.241"
+        ], 
+        "dns-mx": [
+            "park-mx.above.com"
+        ], 
+        "dns-ns": [
+            "ns1.above.com", 
+            "ns2.above.com"
+        ], 
+        "domain-name": "googloe.sk", 
+        "fuzzer": "insertion", 
+        "geoip-country": "Australia", 
+        "mx-spy": true, 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "103.224.182.241"
+        ], 
+        "dns-mx": [
+            "park-mx.above.com"
+        ], 
+        "dns-ns": [
+            "ns1.above.com", 
+            "ns2.above.com"
+        ], 
+        "domain-name": "googole.sk", 
+        "fuzzer": "insertion", 
+        "geoip-country": "Australia", 
+        "mx-spy": true, 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "185.161.175.126"
+        ], 
+        "dns-ns": [
+            "ns1.odchyt-domen.sk"
+        ], 
+        "domain-name": "googl.sk", 
+        "fuzzer": "omission", 
+        "geoip-country": "Slovakia", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "199.59.242.150"
+        ], 
+        "dns-mx": [
+            "mx76.m2bp.com", 
+            "mx76.mb1p.com"
+        ], 
+        "dns-ns": [
+            "ns1.bodis.com", 
+            "ns2.bodis.com"
+        ], 
+        "domain-name": "goole.sk", 
+        "fuzzer": "omission", 
+        "geoip-country": "United States", 
+        "mx-spy": true, 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "185.53.178.7"
+        ], 
+        "dns-mx": [
+            "mail.h-email.net"
+        ], 
+        "dns-ns": [
+            "ns1.parkingcrew.net", 
+            "ns2.parkingcrew.net"
+        ], 
+        "domain-name": "googe.sk", 
+        "fuzzer": "omission", 
+        "geoip-country": "Germany", 
+        "mx-spy": true, 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "103.224.182.241"
+        ], 
+        "dns-mx": [
+            "park-mx.above.com"
+        ], 
+        "dns-ns": [
+            "ns1.above.com", 
+            "ns2.above.com"
+        ], 
+        "domain-name": "oogle.sk", 
+        "fuzzer": "omission", 
+        "geoip-country": "Australia", 
+        "mx-spy": true, 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "195.168.11.131"
+        ], 
+        "dns-mx": [
+            "mail.gogle.sk"
+        ], 
+        "dns-ns": [
+            "ns.ltc.sk", 
+            "ns1.ltc.sk"
+        ], 
+        "domain-name": "gogle.sk", 
+        "fuzzer": "omission", 
+        "geoip-country": "Slovakia", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "83.167.250.165"
+        ], 
+        "dns-mx": [
+            "mail.buendia.cz"
+        ], 
+        "dns-ns": [
+            "ns.forpsi.cz", 
+            "ns.forpsi.it", 
+            "ns.forpsi.net"
+        ], 
+        "domain-name": "googgle.sk", 
+        "fuzzer": "repetition", 
+        "geoip-country": "Czech Republic", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "103.224.182.241"
+        ], 
+        "dns-mx": [
+            "park-mx.above.com"
+        ], 
+        "dns-ns": [
+            "ns1.above.com", 
+            "ns2.above.com"
+        ], 
+        "domain-name": "ggoogle.sk", 
+        "fuzzer": "repetition", 
+        "geoip-country": "Australia", 
+        "mx-spy": true, 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "103.224.182.241"
+        ], 
+        "dns-mx": [
+            "park-mx.above.com"
+        ], 
+        "dns-ns": [
+            "ns1.above.com", 
+            "ns2.above.com"
+        ], 
+        "domain-name": "googlle.sk", 
+        "fuzzer": "repetition", 
+        "geoip-country": "Australia", 
+        "mx-spy": true, 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "212.237.12.62"
+        ], 
+        "dns-ns": [
+            "ns.exohosting.sk", 
+            "ns1.exohosting.sk", 
+            "ns3.exohosting.sk"
+        ], 
+        "domain-name": "gooogle.sk", 
+        "fuzzer": "repetition", 
+        "geoip-country": "Denmark", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "81.2.194.128"
+        ], 
+        "dns-ns": [
+            "ns.forpsi.cz", 
+            "ns.forpsi.it", 
+            "ns.forpsi.net"
+        ], 
+        "domain-name": "googke.sk", 
+        "fuzzer": "replacement", 
+        "geoip-country": "Czech Republic", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "103.224.182.241"
+        ], 
+        "dns-mx": [
+            "park-mx.above.com"
+        ], 
+        "dns-ns": [
+            "ns1.above.com", 
+            "ns2.above.com"
+        ], 
+        "domain-name": "googlw.sk", 
+        "fuzzer": "replacement", 
+        "geoip-country": "Australia", 
+        "mx-spy": true, 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "103.224.182.241"
+        ], 
+        "dns-mx": [
+            "park-mx.above.com"
+        ], 
+        "dns-ns": [
+            "ns1.above.com", 
+            "ns2.above.com"
+        ], 
+        "domain-name": "googlr.sk", 
+        "fuzzer": "replacement", 
+        "geoip-country": "Australia", 
+        "mx-spy": true, 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "82.119.225.11"
+        ], 
+        "dns-mx": [
+            "mail.hoogle.sk"
+        ], 
+        "dns-ns": [
+            "ns1.501dns.com", 
+            "ns1.501dns.eu", 
+            "ns1.501dns.net", 
+            "ns1.501dns.org"
+        ], 
+        "domain-name": "hoogle.sk", 
+        "fuzzer": "replacement", 
+        "geoip-country": "Slovakia", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "103.224.182.241"
+        ], 
+        "dns-mx": [
+            "park-mx.above.com"
+        ], 
+        "dns-ns": [
+            "ns1.above.com", 
+            "ns2.above.com"
+        ], 
+        "domain-name": "goigle.sk", 
+        "fuzzer": "replacement", 
+        "geoip-country": "Australia", 
+        "mx-spy": true, 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "185.53.178.8"
+        ], 
+        "dns-mx": [
+            "mail.h-email.net"
+        ], 
+        "dns-ns": [
+            "ns1.parkingcrew.net", 
+            "ns2.parkingcrew.net"
+        ], 
+        "domain-name": "googoe.sk", 
+        "fuzzer": "replacement", 
+        "geoip-country": "Germany", 
+        "mx-spy": true, 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "54.72.9.51"
+        ], 
+        "dns-mx": [
+            "mail.h-email.net"
+        ], 
+        "dns-ns": [
+            "ns1.parkingcrew.net", 
+            "ns2.parkingcrew.net"
+        ], 
+        "domain-name": "giogle.sk", 
+        "fuzzer": "replacement", 
+        "geoip-country": "Ireland", 
+        "mx-spy": true, 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "37.9.175.10"
+        ], 
+        "dns-mx": [
+            "mailin1.boogle.sk", 
+            "mailin2.boogle.sk"
+        ], 
+        "dns-ns": [
+            "ns1.websupport.sk", 
+            "ns2.websupport.sk", 
+            "ns3.websupport.sk"
+        ], 
+        "domain-name": "boogle.sk", 
+        "fuzzer": "replacement", 
+        "geoip-country": "Slovakia"
+    }, 
+    {
+        "dns-a": [
+            "103.224.182.241"
+        ], 
+        "dns-mx": [
+            "park-mx.above.com"
+        ], 
+        "dns-ns": [
+            "ns1.above.com", 
+            "ns2.above.com"
+        ], 
+        "domain-name": "g.oogle.sk", 
+        "fuzzer": "subdomain", 
+        "geoip-country": "Australia", 
+        "mx-spy": true, 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "103.224.182.241"
+        ], 
+        "dns-mx": [
+            "park-mx.above.com"
+        ], 
+        "dns-ns": [
+            "ns1.above.com", 
+            "ns2.above.com"
+        ], 
+        "domain-name": "goo.gle.sk", 
+        "fuzzer": "subdomain", 
+        "geoip-country": "Australia", 
+        "mx-spy": true, 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "185.53.178.7"
+        ], 
+        "dns-mx": [
+            "mail.h-email.net"
+        ], 
+        "dns-ns": [
+            "ns1.parkingcrew.net", 
+            "ns2.parkingcrew.net"
+        ], 
+        "domain-name": "goog.le.sk", 
+        "fuzzer": "subdomain", 
+        "geoip-country": "Germany", 
+        "mx-spy": true, 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "199.59.242.150"
+        ], 
+        "dns-mx": [
+            "mx76.m2bp.com", 
+            "mx76.mb1p.com"
+        ], 
+        "dns-ns": [
+            "ns1.bodis.com", 
+            "ns2.bodis.com"
+        ], 
+        "domain-name": "gogole.sk", 
+        "fuzzer": "transposition", 
+        "geoip-country": "United States", 
+        "mx-spy": true, 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "185.53.178.6"
+        ], 
+        "dns-mx": [
+            "mail.h-email.net"
+        ], 
+        "dns-ns": [
+            "ns1.parkingcrew.net", 
+            "ns2.parkingcrew.net"
+        ], 
+        "domain-name": "goolge.sk", 
+        "fuzzer": "transposition", 
+        "geoip-country": "Germany", 
+        "mx-spy": true, 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "103.224.182.241"
+        ], 
+        "dns-mx": [
+            "park-mx.above.com"
+        ], 
+        "dns-ns": [
+            "ns1.above.com", 
+            "ns2.above.com"
+        ], 
+        "domain-name": "googel.sk", 
+        "fuzzer": "transposition", 
+        "geoip-country": "Australia", 
+        "mx-spy": true
+    }, 
+    {
+        "dns-ns": [
+            "ns1.googledomains.com", 
+            "ns2.googledomains.com", 
+            "ns3.googledomains.com", 
+            "ns4.googledomains.com"
+        ], 
+        "domain-name": "google-sk.com", 
+        "fuzzer": "various"
+    }
+]

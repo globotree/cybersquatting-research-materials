@@ -1,0 +1,153 @@
+[
+    {
+        "dns-a": [
+            "212.106.184.5"
+        ], 
+        "dns-ns": [
+            "bilbo.nask.org.pl", 
+            "jupiter.ath.bielsko.pl", 
+            "kirdan.nask.net.pl", 
+            "ns1.easydns.com", 
+            "ns2.easydns.com"
+        ], 
+        "domain-name": "bielsko.pl", 
+        "fuzzer": "original*", 
+        "geoip-country": "Poland"
+    }, 
+    {
+        "dns-a": [
+            "85.128.128.99"
+        ], 
+        "dns-mx": [
+            "ibielsko.pl"
+        ], 
+        "dns-ns": [
+            "ns1.nazwa.pl", 
+            "ns2.nazwa.pl", 
+            "ns3.nazwa.pl"
+        ], 
+        "domain-name": "ibielsko.pl", 
+        "fuzzer": "homoglyph", 
+        "geoip-country": "Poland"
+    }, 
+    {
+        "dns-a": [
+            "79.96.117.188"
+        ], 
+        "dns-mx": [
+            "bielsk.pl"
+        ], 
+        "dns-ns": [
+            "dns.home.pl", 
+            "dns2.home.pl", 
+            "dns3.home.pl"
+        ], 
+        "domain-name": "bielsk.pl", 
+        "fuzzer": "omission", 
+        "geoip-country": "Poland"
+    }, 
+    {
+        "dns-a": [
+            "194.181.20.235"
+        ], 
+        "dns-mx": [
+            "bielko.pl"
+        ], 
+        "dns-ns": [
+            "ns5.webd.pl", 
+            "ns7.webd.pl"
+        ], 
+        "domain-name": "bielko.pl", 
+        "fuzzer": "omission", 
+        "geoip-country": "Poland"
+    }, 
+    {
+        "dns-a": [
+            "185.23.21.187"
+        ], 
+        "dns-mx": [
+            "mx4.zenbox.pl", 
+            "mx5.zenbox.pl"
+        ], 
+        "dns-ns": [
+            "ns1.zenbox.pl", 
+            "ns2.zenbox.pl"
+        ], 
+        "domain-name": "bielski.pl", 
+        "fuzzer": "replacement", 
+        "geoip-country": "Poland"
+    }, 
+    {
+        "dns-a": [
+            "89.161.153.171"
+        ], 
+        "dns-mx": [
+            "elsko.pl"
+        ], 
+        "dns-ns": [
+            "dns.home.pl", 
+            "dns2.home.pl", 
+            "dns3.home.pl"
+        ], 
+        "domain-name": "bi.elsko.pl", 
+        "fuzzer": "subdomain", 
+        "geoip-country": "Poland"
+    }, 
+    {
+        "dns-a": [
+            "79.96.136.49"
+        ], 
+        "dns-mx": [
+            "sko.pl"
+        ], 
+        "dns-ns": [
+            "dns.home.pl", 
+            "dns2.home.pl", 
+            "dns3.home.pl"
+        ], 
+        "domain-name": "biel.sko.pl", 
+        "fuzzer": "subdomain", 
+        "geoip-country": "Poland"
+    }, 
+    {
+        "dns-a": [
+            "194.146.219.1"
+        ], 
+        "domain-name": "biels.ko.pl", 
+        "fuzzer": "subdomain", 
+        "geoip-country": "Poland"
+    }, 
+    {
+        "dns-a": [
+            "144.76.67.111"
+        ], 
+        "dns-mx": [
+            "alt1.aspmx.l.google.com", 
+            "alt2.aspmx.l.google.com", 
+            "aspmx.l.google.com", 
+            "aspmx2.googlemail.com", 
+            "aspmx3.googlemail.com"
+        ], 
+        "dns-ns": [
+            "dns1.o.pl", 
+            "dns2.o.pl"
+        ], 
+        "domain-name": "bielsk.o.pl", 
+        "fuzzer": "subdomain", 
+        "geoip-country": "Germany"
+    }, 
+    {
+        "dns-a": [
+            "195.114.1.201"
+        ], 
+        "dns-mx": [
+            "bielska.pl"
+        ], 
+        "dns-ns": [
+            "ns1.aidahosting.com", 
+            "ns2.aidahosting.com"
+        ], 
+        "domain-name": "bielska.pl", 
+        "fuzzer": "vowel-swap"
+    }
+]

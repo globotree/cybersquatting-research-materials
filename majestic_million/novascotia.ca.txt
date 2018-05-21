@@ -1,0 +1,34 @@
+[
+    {
+        "dns-a": [
+            "64.15.49.92"
+        ], 
+        "dns-mx": [
+            "ni45a1.cio.gov.ns.ca"
+        ], 
+        "dns-ns": [
+            "dns1.gov.ns.ca", 
+            "dns2.gov.ns.ca"
+        ], 
+        "domain-name": "novascotia.ca", 
+        "fuzzer": "original*", 
+        "geoip-country": "Canada", 
+        "ssdeep-score": 94
+    }, 
+    {
+        "dns-a": [
+            "66.96.160.157"
+        ], 
+        "dns-mx": [
+            "mx.novascota.ca"
+        ], 
+        "dns-ns": [
+            "ns1.netfirms.com", 
+            "ns2.netfirms.com"
+        ], 
+        "domain-name": "novascota.ca", 
+        "fuzzer": "omission", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 0
+    }
+]

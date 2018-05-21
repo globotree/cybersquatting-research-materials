@@ -1,0 +1,140 @@
+[
+    {
+        "dns-a": [
+            "54.164.160.104"
+        ], 
+        "dns-mx": [
+            "alt1.aspmx.l.google.com", 
+            "alt2.aspmx.l.google.com", 
+            "aspmx.l.google.com", 
+            "aspmx2.googlemail.com", 
+            "aspmx3.googlemail.com", 
+            "aspmx4.googlemail.com", 
+            "aspmx5.googlemail.com"
+        ], 
+        "dns-ns": [
+            "ns-1199.awsdns-21.org", 
+            "ns-1866.awsdns-41.co.uk", 
+            "ns-401.awsdns-50.com", 
+            "ns-569.awsdns-07.net"
+        ], 
+        "domain-name": "blubrry.com", 
+        "fuzzer": "original*", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 100
+    }, 
+    {
+        "dns-a": [
+            "184.168.221.47"
+        ], 
+        "dns-mx": [
+            "mailstore1.secureserver.net", 
+            "smtp.secureserver.net"
+        ], 
+        "dns-ns": [
+            "ns75.domaincontrol.com", 
+            "ns76.domaincontrol.com"
+        ], 
+        "domain-name": "blurrry.com", 
+        "fuzzer": "bitsquatting", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "78.41.204.26"
+        ], 
+        "dns-ns": [
+            "ns1.torresdns.com", 
+            "ns2.torresdns.com"
+        ], 
+        "domain-name": "bluberry.com", 
+        "fuzzer": "insertion", 
+        "geoip-country": "Netherlands"
+    }, 
+    {
+        "dns-a": [
+            "50.63.202.25"
+        ], 
+        "dns-mx": [
+            "mailstore1.secureserver.net", 
+            "smtp.secureserver.net"
+        ], 
+        "dns-ns": [
+            "ns29.domaincontrol.com", 
+            "ns30.domaincontrol.com"
+        ], 
+        "domain-name": "blubrr.com", 
+        "fuzzer": "omission", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 100
+    }, 
+    {
+        "dns-a": [
+            "52.73.124.185", 
+            "54.164.198.60"
+        ], 
+        "dns-ns": [
+            "ns1.namebrightdns.com", 
+            "ns2.namebrightdns.com"
+        ], 
+        "domain-name": "blubry.com", 
+        "fuzzer": "omission", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "97.74.182.128"
+        ], 
+        "dns-mx": [
+            "mailstore1.secureserver.net", 
+            "smtp.secureserver.net"
+        ], 
+        "dns-ns": [
+            "ns01.domaincontrol.com", 
+            "ns02.domaincontrol.com"
+        ], 
+        "domain-name": "blubery.com", 
+        "fuzzer": "replacement", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "198.185.159.144", 
+            "198.185.159.145", 
+            "198.49.23.144", 
+            "198.49.23.145"
+        ], 
+        "dns-ns": [
+            "dns1.p05.nsone.net", 
+            "dns2.p05.nsone.net", 
+            "dns3.p05.nsone.net", 
+            "dns4.p05.nsone.net"
+        ], 
+        "domain-name": "blubrey.com", 
+        "fuzzer": "replacement", 
+        "geoip-country": "United States"
+    }, 
+    {
+        "dns-a": [
+            "69.46.28.43"
+        ], 
+        "dns-mx": [
+            "mail2a.smtproutes.org", 
+            "mail2b.smtproutes.org"
+        ], 
+        "domain-name": "blu.brry.com", 
+        "fuzzer": "subdomain"
+    }, 
+    {
+        "dns-a": [
+            "208.91.197.27"
+        ], 
+        "domain-name": "blub.rry.com", 
+        "fuzzer": "subdomain", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 0
+    }
+]

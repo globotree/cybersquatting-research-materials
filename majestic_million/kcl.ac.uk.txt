@@ -1,0 +1,56 @@
+[
+    {
+        "dns-a": [
+            "137.73.130.135"
+        ], 
+        "dns-mx": [
+            "kcl-ac-uk.mail.protection.outlook.com"
+        ], 
+        "dns-ns": [
+            "dencnsint.kcl.ac.uk", 
+            "ns3.ja.net", 
+            "strcnsint.kcl.ac.uk", 
+            "strcnsint2.kcl.ac.uk", 
+            "watcnsint.kcl.ac.uk"
+        ], 
+        "domain-name": "kcl.ac.uk", 
+        "fuzzer": "original*", 
+        "geoip-country": "United Kingdom", 
+        "ssdeep-score": 100
+    }, 
+    {
+        "dns-ns": [
+            "ns1.dl.ac.uk", 
+            "ns1.rl.ac.uk", 
+            "ns2.dl.ac.uk", 
+            "ns2.rl.ac.uk"
+        ], 
+        "domain-name": "ccl.ac.uk", 
+        "fuzzer": "bitsquatting"
+    }, 
+    {
+        "dns-ns": [
+            "dencnsint.kcl.ac.uk", 
+            "strcnsint.kcl.ac.uk", 
+            "strcnsint2.kcl.ac.uk", 
+            "watcnsint.kcl.ac.uk"
+        ], 
+        "domain-name": "kl.ac.uk", 
+        "fuzzer": "omission"
+    }, 
+    {
+        "dns-a": [
+            "213.132.197.64"
+        ], 
+        "dns-mx": [
+            "mailfilter.webguru.nl"
+        ], 
+        "dns-ns": [
+            "ns.domeinguru.nl", 
+            "ns1.domeinguru.nl"
+        ], 
+        "domain-name": "kclac.uk", 
+        "fuzzer": "various", 
+        "geoip-country": "Netherlands"
+    }
+]

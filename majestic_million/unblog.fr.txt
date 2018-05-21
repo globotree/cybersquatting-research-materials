@@ -1,0 +1,94 @@
+[
+    {
+        "dns-a": [
+            "87.98.153.48"
+        ], 
+        "dns-ns": [
+            "dns2.sd1.fr", 
+            "ns1.unblog.fr", 
+            "sdns2.ovh.net"
+        ], 
+        "domain-name": "unblog.fr", 
+        "fuzzer": "original*", 
+        "geoip-country": "France", 
+        "ssdeep-score": 99
+    }, 
+    {
+        "dns-a": [
+            "5.196.61.210"
+        ], 
+        "dns-ns": [
+            "ns1.digitalocean.com", 
+            "ns2.digitalocean.com", 
+            "ns3.digitalocean.com"
+        ], 
+        "domain-name": "ulblog.fr", 
+        "fuzzer": "bitsquatting", 
+        "geoip-country": "France"
+    }, 
+    {
+        "dns-a": [
+            "185.87.187.198"
+        ], 
+        "dns-aaaa": [
+            "2a00:f10:305:0:4b5:68ff:fe00:4fe"
+        ], 
+        "dns-ns": [
+            "ina1.registrar.eu", 
+            "ina2.registrar.eu", 
+            "ina3.registrar.eu"
+        ], 
+        "domain-name": "uniblog.fr", 
+        "fuzzer": "homoglyph", 
+        "geoip-country": "Netherlands", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "103.224.182.241"
+        ], 
+        "dns-mx": [
+            "park-mx.above.com"
+        ], 
+        "dns-ns": [
+            "ns1.above.com", 
+            "ns2.above.com"
+        ], 
+        "domain-name": "un-blog.fr", 
+        "fuzzer": "hyphenation", 
+        "geoip-country": "Australia", 
+        "mx-spy": true, 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "213.186.33.5"
+        ], 
+        "dns-mx": [
+            "redirect.ovh.net"
+        ], 
+        "dns-ns": [
+            "dns19.ovh.net", 
+            "ns19.ovh.net"
+        ], 
+        "domain-name": "ubblog.fr", 
+        "fuzzer": "replacement", 
+        "geoip-country": "France", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "213.186.33.17"
+        ], 
+        "dns-mx": [
+            "redirect.ovh.net"
+        ], 
+        "dns-ns": [
+            "dns104.ovh.net", 
+            "ns104.ovh.net"
+        ], 
+        "domain-name": "onblog.fr", 
+        "fuzzer": "vowel-swap", 
+        "geoip-country": "France"
+    }
+]

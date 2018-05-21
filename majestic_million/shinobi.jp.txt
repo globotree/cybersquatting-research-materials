@@ -1,0 +1,112 @@
+[
+    {
+        "dns-a": [
+            "112.140.42.36"
+        ], 
+        "dns-mx": [
+            "mx.shinobi.jp"
+        ], 
+        "dns-ns": [
+            "ns2.gehirndns.com", 
+            "ns2.gehirndns.jp", 
+            "ns2.gehirndns.net", 
+            "ns2.gehirndns.org"
+        ], 
+        "domain-name": "shinobi.jp", 
+        "fuzzer": "original*", 
+        "geoip-country": "Japan", 
+        "ssdeep-score": 100
+    }, 
+    {
+        "dns-a": [
+            "211.13.196.154"
+        ], 
+        "dns-mx": [
+            "mx.shinori.jp"
+        ], 
+        "dns-ns": [
+            "ns1.shsvr.net", 
+            "ns2.shsvr.net"
+        ], 
+        "domain-name": "shinori.jp", 
+        "fuzzer": "bitsquatting", 
+        "geoip-country": "Japan", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "157.7.107.148"
+        ], 
+        "dns-mx": [
+            "mx01.lolipop.jp"
+        ], 
+        "dns-ns": [
+            "dns01.muumuu-domain.com", 
+            "dns02.muumuu-domain.com"
+        ], 
+        "domain-name": "shinoi.jp", 
+        "fuzzer": "omission", 
+        "geoip-country": "Japan"
+    }, 
+    {
+        "dns-a": [
+            "185.53.178.9"
+        ], 
+        "dns-mx": [
+            "mail.h-email.net"
+        ], 
+        "dns-ns": [
+            "ns1.parkingcrew.net", 
+            "ns2.parkingcrew.net"
+        ], 
+        "domain-name": "shinbi.jp", 
+        "fuzzer": "omission", 
+        "geoip-country": "Germany", 
+        "mx-spy": true, 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "54.250.220.172"
+        ], 
+        "dns-ns": [
+            "ns1.value-domain.com", 
+            "ns2.value-domain.com"
+        ], 
+        "domain-name": "sinobi.jp", 
+        "fuzzer": "omission", 
+        "geoip-country": "Japan", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "112.78.117.186"
+        ], 
+        "dns-mx": [
+            "alt1.aspmx.l.google.com", 
+            "alt2.aspmx.l.google.com", 
+            "aspmx.l.google.com", 
+            "aspmx2.googlemail.com", 
+            "aspmx3.googlemail.com", 
+            "aspmx4.googlemail.com", 
+            "aspmx5.googlemail.com"
+        ], 
+        "dns-ns": [
+            "ns1.star-domain.jp", 
+            "ns2.star-domain.jp", 
+            "ns3.star-domain.jp"
+        ], 
+        "domain-name": "shinobu.jp", 
+        "fuzzer": "replacement", 
+        "geoip-country": "Japan", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-ns": [
+            "ns1.value-domain.com", 
+            "ns2.value-domain.com"
+        ], 
+        "domain-name": "shinobe.jp", 
+        "fuzzer": "vowel-swap"
+    }
+]

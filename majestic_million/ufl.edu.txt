@@ -1,0 +1,133 @@
+[
+    {
+        "dns-a": [
+            "128.227.9.98"
+        ], 
+        "dns-mx": [
+            "smtp-prod01.osg.ufl.edu", 
+            "smtp-prod02.osg.ufl.edu", 
+            "smtp-prod03.osg.ufl.edu", 
+            "smtp-prod04.osg.ufl.edu", 
+            "smtp-prod05.osg.ufl.edu", 
+            "smtp-prod06.osg.ufl.edu", 
+            "virtual-smtp-prod01.osg.ufl.edu"
+        ], 
+        "dns-ns": [
+            "ns.name.ufl.edu", 
+            "rns.name.ufl.edu"
+        ], 
+        "domain-name": "ufl.edu", 
+        "fuzzer": "original*", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 100
+    }, 
+    {
+        "dns-a": [
+            "129.93.168.40", 
+            "129.93.168.41", 
+            "129.93.168.42", 
+            "129.93.168.43"
+        ], 
+        "dns-mx": [
+            "mxa-00246401.gslb.pphosted.com", 
+            "mxb-00246401.gslb.pphosted.com"
+        ], 
+        "dns-ns": [
+            "dns1.unl.edu", 
+            "dns2.unl.edu"
+        ], 
+        "domain-name": "unl.edu", 
+        "fuzzer": "bitsquatting", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "34.199.246.52", 
+            "52.206.225.65"
+        ], 
+        "dns-mx": [
+            "alt1.aspmx.l.google.com", 
+            "alt2.aspmx.l.google.com", 
+            "aspmx.l.google.com", 
+            "aspmx2.googlemail.com", 
+            "aspmx3.googlemail.com", 
+            "aspmx4.googlemail.com", 
+            "aspmx5.googlemail.com"
+        ], 
+        "dns-ns": [
+            "ns-1168.awsdns-18.org", 
+            "ns-2042.awsdns-63.co.uk", 
+            "ns-372.awsdns-46.com", 
+            "ns-575.awsdns-07.net"
+        ], 
+        "domain-name": "ufm.edu", 
+        "fuzzer": "bitsquatting", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "64.29.151.221"
+        ], 
+        "dns-mx": [
+            "uftl-edu.mail.protection.outlook.com"
+        ], 
+        "dns-ns": [
+            "ns1.aplus.net", 
+            "ns2.aplus.net", 
+            "ns3.aplus.net"
+        ], 
+        "domain-name": "uftl.edu", 
+        "fuzzer": "insertion", 
+        "geoip-country": "United States"
+    }, 
+    {
+        "dns-a": [
+            "128.227.9.98"
+        ], 
+        "dns-mx": [
+            "virtual-smtp-prod01.osg.ufl.edu"
+        ], 
+        "dns-ns": [
+            "ns.name.ufl.edu", 
+            "rns.name.ufl.edu"
+        ], 
+        "domain-name": "uf.edu", 
+        "fuzzer": "omission", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 100
+    }, 
+    {
+        "dns-ns": [
+            "ns1.tcc.fl.edu", 
+            "ns2.tcc.fl.edu", 
+            "ns3.tcc.fl.edu"
+        ], 
+        "domain-name": "fl.edu", 
+        "fuzzer": "omission"
+    }, 
+    {
+        "dns-a": [
+            "84.88.240.205"
+        ], 
+        "dns-mx": [
+            "url-edu.mail.protection.outlook.com"
+        ], 
+        "dns-ns": [
+            "ns1.url.edu", 
+            "ns2.url.edu"
+        ], 
+        "domain-name": "url.edu", 
+        "fuzzer": "replacement", 
+        "geoip-country": "Spain"
+    }, 
+    {
+        "dns-ns": [
+            "dns-ns0.ucl.ac.uk", 
+            "dns-ns1.ucl.ac.uk"
+        ], 
+        "domain-name": "ucl.edu", 
+        "fuzzer": "replacement"
+    }
+]

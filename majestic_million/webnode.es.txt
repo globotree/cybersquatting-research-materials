@@ -1,0 +1,135 @@
+[
+    {
+        "dns-a": [
+            "178.238.47.127", 
+            "178.238.47.236", 
+            "81.0.226.156", 
+            "82.208.18.59", 
+            "89.187.154.13", 
+            "93.185.99.8"
+        ], 
+        "dns-mx": [
+            "mta-01.webnode.com", 
+            "web-02.webnode.com"
+        ], 
+        "dns-ns": [
+            "dns1.webnode.com", 
+            "dns2.webnode.com", 
+            "dns3.webnode.com", 
+            "ns-01.webnode.com", 
+            "ns-02.webnode.com", 
+            "ns-03.webnode.com", 
+            "ns-04.webnode.com", 
+            "ns-05.webnode.com", 
+            "ns-06.webnode.com", 
+            "ns-07.webnode.com"
+        ], 
+        "domain-name": "webnode.es", 
+        "fuzzer": "original*", 
+        "geoip-country": "Czech Republic", 
+        "ssdeep-score": 99
+    }, 
+    {
+        "dns-a": [
+            "141.8.224.169"
+        ], 
+        "dns-ns": [
+            "ns27.rookdns.com", 
+            "ns28.rookdns.com"
+        ], 
+        "domain-name": "webnodes.es", 
+        "fuzzer": "addition", 
+        "geoip-country": "Switzerland", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "103.224.182.211"
+        ], 
+        "dns-mx": [
+            "park-mx.above.com"
+        ], 
+        "dns-ns": [
+            "ns1.above.com", 
+            "ns2.above.com"
+        ], 
+        "domain-name": "webnote.es", 
+        "fuzzer": "bitsquatting", 
+        "geoip-country": "Australia", 
+        "mx-spy": true, 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "103.224.182.211"
+        ], 
+        "dns-mx": [
+            "park-mx.above.com"
+        ], 
+        "dns-ns": [
+            "ns1.above.com", 
+            "ns2.above.com"
+        ], 
+        "domain-name": "webmode.es", 
+        "fuzzer": "homoglyph", 
+        "geoip-country": "Australia", 
+        "mx-spy": true, 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "103.224.182.250"
+        ], 
+        "dns-mx": [
+            "park-mx.above.com"
+        ], 
+        "dns-ns": [
+            "ns3.above.com", 
+            "ns4.above.com"
+        ], 
+        "domain-name": "webnobe.es", 
+        "fuzzer": "homoglyph", 
+        "geoip-country": "Australia", 
+        "mx-spy": true, 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "103.224.182.211"
+        ], 
+        "dns-mx": [
+            "park-mx.above.com"
+        ], 
+        "dns-ns": [
+            "ns1.above.com", 
+            "ns2.above.com"
+        ], 
+        "domain-name": "wednode.es", 
+        "fuzzer": "homoglyph", 
+        "geoip-country": "Australia", 
+        "mx-spy": true, 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-ns": [
+            "ns1.yoursrs.com", 
+            "ns2.yoursrs.com"
+        ], 
+        "domain-name": "webnod.es", 
+        "fuzzer": "omission"
+    }, 
+    {
+        "dns-a": [
+            "103.224.182.253"
+        ], 
+        "dns-mx": [
+            "park-mx.above.com"
+        ], 
+        "dns-ns": [
+            "ns3.above.com", 
+            "ns4.above.com"
+        ], 
+        "domain-name": "webnade.es", 
+        "fuzzer": "vowel-swap"
+    }
+]

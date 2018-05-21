@@ -1,0 +1,36 @@
+[
+    {
+        "dns-a": [
+            "129.234.248.230"
+        ], 
+        "dns-mx": [
+            "mailrelay1.dur.ac.uk", 
+            "mailrelay2.dur.ac.uk", 
+            "mailrelay4.dur.ac.uk", 
+            "mailrelay5.dur.ac.uk"
+        ], 
+        "dns-ns": [
+            "dns2.itd.umich.edu", 
+            "infoblox1.dur.ac.uk", 
+            "infoblox2.dur.ac.uk", 
+            "ns1.ja.net"
+        ], 
+        "domain-name": "dur.ac.uk", 
+        "fuzzer": "original*", 
+        "geoip-country": "United Kingdom", 
+        "ssdeep-score": 100
+    }, 
+    {
+        "dns-a": [
+            "91.195.240.73"
+        ], 
+        "dns-ns": [
+            "ns1.dynadot.com", 
+            "ns2.dynadot.com"
+        ], 
+        "domain-name": "dur.uk", 
+        "fuzzer": "various", 
+        "geoip-country": "Germany", 
+        "ssdeep-score": 0
+    }
+]

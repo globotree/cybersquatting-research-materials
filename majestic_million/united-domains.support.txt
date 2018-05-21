@@ -1,0 +1,38 @@
+[
+    {
+        "dns-a": [
+            "89.31.143.100"
+        ], 
+        "dns-mx": [
+            "mx00.udag.de", 
+            "mx01.udag.de"
+        ], 
+        "dns-ns": [
+            "ns.udag.de", 
+            "ns.udag.net", 
+            "ns.udag.org"
+        ], 
+        "domain-name": "united-domains.support", 
+        "fuzzer": "original*", 
+        "geoip-country": "Germany", 
+        "ssdeep-score": 94
+    }, 
+    {
+        "dns-a": [
+            "89.31.143.1"
+        ], 
+        "dns-mx": [
+            "mx00.udag.de", 
+            "mx01.udag.de"
+        ], 
+        "dns-ns": [
+            "ns.udag.de", 
+            "ns.udag.net", 
+            "ns.udag.org"
+        ], 
+        "domain-name": "uniteddomains.support", 
+        "fuzzer": "omission", 
+        "geoip-country": "Germany", 
+        "ssdeep-score": 0
+    }
+]

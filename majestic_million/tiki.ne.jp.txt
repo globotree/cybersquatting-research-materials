@@ -1,0 +1,83 @@
+[
+    {
+        "dns-mx": [
+            "mxgw.tiki.ne.jp"
+        ], 
+        "dns-ns": [
+            "ns1.tiki.ad.jp", 
+            "ns2.tiki.ad.jp"
+        ], 
+        "domain-name": "tiki.ne.jp", 
+        "fuzzer": "original*"
+    }, 
+    {
+        "dns-a": [
+            "112.78.112.88"
+        ], 
+        "dns-mx": [
+            "taki.ne.jp"
+        ], 
+        "dns-ns": [
+            "ns1.dns.ne.jp", 
+            "ns2.dns.ne.jp"
+        ], 
+        "domain-name": "taki.ne.jp", 
+        "fuzzer": "bitsquatting", 
+        "geoip-country": "Japan"
+    }, 
+    {
+        "dns-a": [
+            "202.171.155.164"
+        ], 
+        "dns-mx": [
+            "spinel.iki.ne.jp"
+        ], 
+        "dns-ns": [
+            "202.171.155.162"
+        ], 
+        "domain-name": "iki.ne.jp", 
+        "fuzzer": "omission", 
+        "geoip-country": "Japan"
+    }, 
+    {
+        "dns-a": [
+            "203.104.101.180"
+        ], 
+        "dns-mx": [
+            "mail.tki.ne.jp"
+        ], 
+        "dns-ns": [
+            "ns01.atsrv.jp", 
+            "ns02.atsrv.jp"
+        ], 
+        "domain-name": "tki.ne.jp", 
+        "fuzzer": "omission", 
+        "geoip-country": "Japan"
+    }, 
+    {
+        "dns-a": [
+            "157.7.152.194"
+        ], 
+        "dns-ns": [
+            "ns01.21-domain.info", 
+            "ns02.21-domain.info"
+        ], 
+        "domain-name": "riki.ne.jp", 
+        "fuzzer": "replacement", 
+        "geoip-country": "Japan"
+    }, 
+    {
+        "dns-a": [
+            "210.150.59.117"
+        ], 
+        "dns-mx": [
+            "tiki.jp"
+        ], 
+        "dns-ns": [
+            "ns3.sphere.ad.jp", 
+            "ns4.sphere.ad.jp"
+        ], 
+        "domain-name": "tiki.jp", 
+        "fuzzer": "various"
+    }
+]

@@ -1,0 +1,167 @@
+[
+    {
+        "dns-a": [
+            "195.137.240.105", 
+            "195.137.240.85"
+        ], 
+        "dns-mx": [
+            "fiat.1plus1.net", 
+            "mx2.1plus1.net"
+        ], 
+        "dns-ns": [
+            "nsa2.srv53.net", 
+            "nsa3.srv53.org", 
+            "nsa4.srv53.com", 
+            "nsb1.srv53.net", 
+            "nsb2.srv53.com", 
+            "nsb2.srv53.org", 
+            "nsc1.srv53.com", 
+            "nsc2.srv53.org", 
+            "nsc4.srv53.net", 
+            "nsd2.srv53.com", 
+            "nsd2.srv53.org", 
+            "nsd3.srv53.net"
+        ], 
+        "domain-name": "tsn.ua", 
+        "fuzzer": "original*", 
+        "geoip-country": "Ukraine", 
+        "ssdeep-score": 100
+    }, 
+    {
+        "dns-a": [
+            "195.234.215.149"
+        ], 
+        "dns-mx": [
+            "mail.usn.ua"
+        ], 
+        "dns-ns": [
+            "ns.adamant.net", 
+            "ns3.adamant.net", 
+            "ns5.adamant.net"
+        ], 
+        "domain-name": "usn.ua", 
+        "fuzzer": "bitsquatting", 
+        "geoip-country": "Ukraine"
+    }, 
+    {
+        "dns-a": [
+            "89.184.80.172"
+        ], 
+        "dns-mx": [
+            "mail.work.ua"
+        ], 
+        "dns-ns": [
+            "nsa2.srv53.com", 
+            "nsa4.srv53.net", 
+            "nsa4.srv53.org", 
+            "nsb1.srv53.com", 
+            "nsb2.srv53.net", 
+            "nsb3.srv53.org", 
+            "nsc2.srv53.com", 
+            "nsc3.srv53.net", 
+            "nsc3.srv53.org", 
+            "nsd1.srv53.com", 
+            "nsd2.srv53.net", 
+            "nsd3.srv53.org"
+        ], 
+        "domain-name": "trn.ua", 
+        "fuzzer": "bitsquatting", 
+        "geoip-country": "Ukraine", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "194.28.173.2"
+        ], 
+        "dns-mx": [
+            "mail.tso.ua"
+        ], 
+        "dns-ns": [
+            "ns1.bestname.com.ua", 
+            "ns2.bestname.com.ua", 
+            "ns3.bestname.com.ua"
+        ], 
+        "domain-name": "tso.ua", 
+        "fuzzer": "bitsquatting", 
+        "geoip-country": "Ukraine"
+    }, 
+    {
+        "dns-a": [
+            "176.114.4.120"
+        ], 
+        "dns-mx": [
+            "mta.tsm.ua"
+        ], 
+        "dns-ns": [
+            "ns1.ukrnames.com", 
+            "ns2.ukrnames.com", 
+            "ns3.ukrnames.com"
+        ], 
+        "domain-name": "tsm.ua", 
+        "fuzzer": "homoglyph", 
+        "geoip-country": "Ukraine", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "217.73.194.119"
+        ], 
+        "dns-mx": [
+            "mx1.tn.ru", 
+            "mx2.tn.ru"
+        ], 
+        "dns-ns": [
+            "ns-1082.awsdns-07.org", 
+            "ns-111.awsdns-13.com", 
+            "ns-1819.awsdns-35.co.uk", 
+            "ns-703.awsdns-23.net"
+        ], 
+        "domain-name": "tn.ua", 
+        "fuzzer": "omission", 
+        "geoip-country": "Russian Federation"
+    }, 
+    {
+        "dns-a": [
+            "185.112.41.67"
+        ], 
+        "dns-mx": [
+            "mail.ucloud.ua"
+        ], 
+        "dns-ns": [
+            "ns1.fiberax.com", 
+            "ns2.fiberax.com"
+        ], 
+        "domain-name": "ts.ua", 
+        "fuzzer": "omission", 
+        "geoip-country": "Poland"
+    }, 
+    {
+        "dns-a": [
+            "78.46.33.87"
+        ], 
+        "dns-mx": [
+            "mx.yandex.net"
+        ], 
+        "dns-ns": [
+            "dns1.yandex.net", 
+            "dns2.yandex.net"
+        ], 
+        "domain-name": "stn.ua", 
+        "fuzzer": "transposition", 
+        "geoip-country": "Germany", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "46.101.158.196"
+        ], 
+        "dns-ns": [
+            "ns1.reg.ru", 
+            "ns2.reg.ru"
+        ], 
+        "domain-name": "tsn-ua.com", 
+        "fuzzer": "various", 
+        "geoip-country": "Germany", 
+        "ssdeep-score": 0
+    }
+]

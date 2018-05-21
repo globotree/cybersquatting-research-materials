@@ -1,0 +1,99 @@
+[
+    {
+        "dns-a": [
+            "62.80.0.41"
+        ], 
+        "dns-mx": [
+            "mailgateway.leica-camera.com"
+        ], 
+        "dns-ns": [
+            "ns1.netnames.net", 
+            "ns2.netnames.net", 
+            "ns5.netnames.net", 
+            "ns6.netnames.net"
+        ], 
+        "domain-name": "leica-camera.com", 
+        "fuzzer": "original*", 
+        "geoip-country": "Germany", 
+        "ssdeep-score": 96
+    }, 
+    {
+        "dns-ns": [
+            "ns1.afternic.com", 
+            "ns2.afternic.com"
+        ], 
+        "domain-name": "leica-cameras.com", 
+        "fuzzer": "addition"
+    }, 
+    {
+        "dns-a": [
+            "91.195.240.108"
+        ], 
+        "dns-ns": [
+            "dns1.name-services.com", 
+            "dns2.name-services.com", 
+            "dns3.name-services.com", 
+            "dns4.name-services.com", 
+            "dns5.name-services.com"
+        ], 
+        "domain-name": "leica-camara.com", 
+        "fuzzer": "bitsquatting", 
+        "geoip-country": "Germany", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "62.80.0.41"
+        ], 
+        "dns-mx": [
+            "leicacamera.com.s200a1.psmtp.com", 
+            "leicacamera.com.s200a2.psmtp.com", 
+            "leicacamera.com.s200b1.psmtp.com", 
+            "leicacamera.com.s200b2.psmtp.com"
+        ], 
+        "dns-ns": [
+            "ns1.netnames.net", 
+            "ns2.netnames.net", 
+            "ns5.netnames.net", 
+            "ns6.netnames.net"
+        ], 
+        "domain-name": "leicacamera.com", 
+        "fuzzer": "omission", 
+        "geoip-country": "Germany", 
+        "ssdeep-score": 99
+    }, 
+    {
+        "dns-ns": [
+            "ns11.xincache.com", 
+            "ns12.xincache.com"
+        ], 
+        "domain-name": "leica-camear.com", 
+        "fuzzer": "transposition"
+    }, 
+    {
+        "dns-a": [
+            "104.17.197.73", 
+            "104.17.198.73", 
+            "104.17.199.73", 
+            "104.17.200.73", 
+            "104.17.201.73"
+        ], 
+        "dns-aaaa": [
+            "2400:cb00:2048:1::6811:c549", 
+            "2400:cb00:2048:1::6811:c649", 
+            "2400:cb00:2048:1::6811:c749", 
+            "2400:cb00:2048:1::6811:c849", 
+            "2400:cb00:2048:1::6811:c949"
+        ], 
+        "dns-mx": [
+            "mx.leico-camera.com.cust.b.hostedemail.com"
+        ], 
+        "dns-ns": [
+            "logan.ns.cloudflare.com", 
+            "maya.ns.cloudflare.com"
+        ], 
+        "domain-name": "leico-camera.com", 
+        "fuzzer": "vowel-swap", 
+        "geoip-country": "United States"
+    }
+]

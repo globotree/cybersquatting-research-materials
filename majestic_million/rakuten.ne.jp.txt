@@ -1,0 +1,31 @@
+[
+    {
+        "dns-mx": [
+            "mail.global.frontbridge.com", 
+            "rakuten-ne-jp.mail.eo.outlook.com"
+        ], 
+        "dns-ns": [
+            "ns01.rakuten.co.jp", 
+            "ns02.rakuten.co.jp", 
+            "ns03.rakuten.co.jp", 
+            "ns04.rakuten.co.jp"
+        ], 
+        "domain-name": "rakuten.ne.jp", 
+        "fuzzer": "original*"
+    }, 
+    {
+        "dns-a": [
+            "219.117.237.180"
+        ], 
+        "dns-mx": [
+            "mail1.rocket3.net"
+        ], 
+        "dns-ns": [
+            "dns3.cute-cute.net", 
+            "dns4.cute-cute.net"
+        ], 
+        "domain-name": "rakuen.ne.jp", 
+        "fuzzer": "omission", 
+        "geoip-country": "Japan"
+    }
+]

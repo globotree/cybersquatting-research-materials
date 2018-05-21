@@ -1,0 +1,56 @@
+[
+    {
+        "dns-a": [
+            "202.51.186.235"
+        ], 
+        "dns-mx": [
+            "mail.ulukhar.com"
+        ], 
+        "dns-ns": [
+            "ns1.centos-webpanel.com", 
+            "ns2.centos-webpanel.com"
+        ], 
+        "domain-name": "ulukhar.com", 
+        "fuzzer": "original*", 
+        "geoip-country": "Bangladesh", 
+        "ssdeep-score": 100
+    }, 
+    {
+        "dns-a": [
+            "212.154.119.11"
+        ], 
+        "dns-ns": [
+            "server4.globalmedya.com", 
+            "server7.globalmedya.com"
+        ], 
+        "domain-name": "ulukar.com", 
+        "fuzzer": "omission", 
+        "geoip-country": "Turkey", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "209.15.13.134"
+        ], 
+        "dns-mx": [
+            "mail.b-io.co"
+        ], 
+        "dns-ns": [
+            "ns1.dnslink.com", 
+            "ns2.dnslink.com"
+        ], 
+        "domain-name": "ulu.khar.com", 
+        "fuzzer": "subdomain", 
+        "geoip-country": "United States", 
+        "mx-spy": true, 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "52.70.217.118"
+        ], 
+        "domain-name": "uluk.har.com", 
+        "fuzzer": "subdomain", 
+        "geoip-country": "United States"
+    }
+]

@@ -1,0 +1,166 @@
+[
+    {
+        "dns-a": [
+            "90.156.201.123", 
+            "90.156.201.21", 
+            "90.156.201.54", 
+            "90.156.201.64"
+        ], 
+        "dns-aaaa": [
+            "2a00:15f8:a000:5:1:11:5:aea5", 
+            "2a00:15f8:a000:5:1:12:5:aea5", 
+            "2a00:15f8:a000:5:1:13:5:aea5", 
+            "2a00:15f8:a000:5:1:14:5:aea5"
+        ], 
+        "dns-mx": [
+            "mx1.masterhost.ru"
+        ], 
+        "dns-ns": [
+            "ns.masterhost.ru", 
+            "ns1.masterhost.ru", 
+            "ns2.masterhost.ru"
+        ], 
+        "domain-name": "ipicture.ru", 
+        "fuzzer": "original*", 
+        "geoip-country": "Russian Federation", 
+        "ssdeep-score": 100
+    }, 
+    {
+        "dns-a": [
+            "185.189.15.13"
+        ], 
+        "dns-ns": [
+            "ns1.expiring.salenames.ru", 
+            "ns2.expiring.salenames.ru"
+        ], 
+        "domain-name": "ipictures.ru", 
+        "fuzzer": "addition", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "194.58.56.240"
+        ], 
+        "dns-ns": [
+            "ns1.expired.reg.ru", 
+            "ns2.expired.reg.ru"
+        ], 
+        "domain-name": "mpicture.ru", 
+        "fuzzer": "bitsquatting", 
+        "geoip-country": "Russian Federation", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "31.31.205.163"
+        ], 
+        "domain-name": "1picture.ru", 
+        "fuzzer": "homoglyph", 
+        "geoip-country": "Russian Federation", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "199.59.242.150"
+        ], 
+        "dns-mx": [
+            "mx76.m2bp.com", 
+            "mx76.mb1p.com"
+        ], 
+        "dns-ns": [
+            "ns1.bodis.com", 
+            "ns2.bodis.com"
+        ], 
+        "domain-name": "lpicture.ru", 
+        "fuzzer": "homoglyph", 
+        "geoip-country": "United States", 
+        "mx-spy": true, 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "185.26.114.185"
+        ], 
+        "dns-ns": [
+            "ns1.bangalore.ru", 
+            "ns2.bangalore.ru"
+        ], 
+        "domain-name": "i-picture.ru", 
+        "fuzzer": "hyphenation", 
+        "geoip-country": "Russian Federation", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "212.158.163.253"
+        ], 
+        "dns-ns": [
+            "ns1.bride.ru", 
+            "ns2.bride.ru"
+        ], 
+        "domain-name": "picture.ru", 
+        "fuzzer": "omission", 
+        "geoip-country": "Russian Federation"
+    }, 
+    {
+        "dns-aaaa": [
+            "2a03:c980:dead:1a05:91:218:229:131"
+        ], 
+        "dns-mx": [
+            "mail.upicture.ru"
+        ], 
+        "dns-ns": [
+            "ns1.ihc.ru", 
+            "ns2.ihc.ru"
+        ], 
+        "domain-name": "upicture.ru", 
+        "fuzzer": "replacement"
+    }, 
+    {
+        "dns-a": [
+            "138.201.120.118"
+        ], 
+        "dns-mx": [
+            "mx.yandex.net"
+        ], 
+        "dns-ns": [
+            "dns1.yandex.net", 
+            "dns2.yandex.net"
+        ], 
+        "domain-name": "opicture.ru", 
+        "fuzzer": "replacement", 
+        "geoip-country": "Germany", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "78.46.253.253"
+        ], 
+        "domain-name": "ipic.ture.ru", 
+        "fuzzer": "subdomain", 
+        "geoip-country": "Germany", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "185.53.179.29"
+        ], 
+        "domain-name": "ipict.ure.ru", 
+        "fuzzer": "subdomain", 
+        "geoip-country": "Germany", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "185.53.179.40"
+        ], 
+        "dns-ns": [
+            "ns1.snparking.ru", 
+            "ns2.snparking.ru"
+        ], 
+        "domain-name": "epicture.ru", 
+        "fuzzer": "vowel-swap", 
+        "geoip-country": "Germany", 
+        "ssdeep-score": 0
+    }
+]

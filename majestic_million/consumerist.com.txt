@@ -1,0 +1,177 @@
+[
+    {
+        "dns-a": [
+            "192.0.79.32", 
+            "192.0.79.33"
+        ], 
+        "dns-mx": [
+            "ALT1.ASPMX.L.GOOGLE.com", 
+            "ALT2.ASPMX.L.GOOGLE.com", 
+            "ASPMX.L.GOOGLE.com", 
+            "ASPMX2.GOOGLEMAIL.com", 
+            "ASPMX3.GOOGLEMAIL.com"
+        ], 
+        "dns-ns": [
+            "ns1.wordpress.com", 
+            "ns2.wordpress.com", 
+            "ns3.wordpress.com"
+        ], 
+        "domain-name": "consumerist.com", 
+        "fuzzer": "original*", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 99
+    }, 
+    {
+        "dns-a": [
+            "52.86.22.136", 
+            "54.174.212.152"
+        ], 
+        "dns-ns": [
+            "ns1.namebrightdns.com", 
+            "ns2.namebrightdns.com"
+        ], 
+        "domain-name": "consumerista.com", 
+        "fuzzer": "addition", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "69.163.166.245"
+        ], 
+        "dns-ns": [
+            "ns1.dreamhost.com", 
+            "ns2.dreamhost.com", 
+            "ns3.dreamhost.com"
+        ], 
+        "domain-name": "consumerists.com", 
+        "fuzzer": "addition", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "208.91.196.105"
+        ], 
+        "dns-ns": [
+            "sk.s5.cm.ns1.39.ztomy.com", 
+            "sk.s5.cm.ns2.39.ztomy.com"
+        ], 
+        "domain-name": "comsumerist.com", 
+        "fuzzer": "homoglyph", 
+        "geoip-country": "Virgin Islands", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "107.161.23.204", 
+            "192.161.187.200", 
+            "209.141.38.71"
+        ], 
+        "dns-ns": [
+            "ns1.dnsowl.com", 
+            "ns2.dnsowl.com", 
+            "ns3.dnsowl.com"
+        ], 
+        "domain-name": "consumer1st.com", 
+        "fuzzer": "homoglyph", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "184.168.221.50"
+        ], 
+        "dns-ns": [
+            "ns73.domaincontrol.com", 
+            "ns74.domaincontrol.com"
+        ], 
+        "domain-name": "coinsumerist.com", 
+        "fuzzer": "insertion", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "50.63.202.39"
+        ], 
+        "dns-mx": [
+            "mailstore1.secureserver.net", 
+            "smtp.secureserver.net"
+        ], 
+        "dns-ns": [
+            "ns65.domaincontrol.com", 
+            "ns66.domaincontrol.com"
+        ], 
+        "domain-name": "consumerfist.com", 
+        "fuzzer": "insertion", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "185.53.178.9"
+        ], 
+        "dns-mx": [
+            "mail.h-email.net"
+        ], 
+        "dns-ns": [
+            "ns1.parkingcrew.net", 
+            "ns2.parkingcrew.net"
+        ], 
+        "domain-name": "consumerit.com", 
+        "fuzzer": "omission", 
+        "geoip-country": "Germany", 
+        "mx-spy": true, 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "74.208.149.117"
+        ], 
+        "dns-mx": [
+            "smtp18.msoutlookonline.net"
+        ], 
+        "dns-ns": [
+            "ns41.domaincontrol.com", 
+            "ns42.domaincontrol.com"
+        ], 
+        "domain-name": "consumeris.com", 
+        "fuzzer": "omission", 
+        "geoip-country": "United States"
+    }, 
+    {
+        "dns-a": [
+            "64.99.80.121"
+        ], 
+        "domain-name": "consume.rist.com", 
+        "fuzzer": "subdomain", 
+        "geoip-country": "Canada", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "109.235.169.44"
+        ], 
+        "domain-name": "consumer.ist.com", 
+        "fuzzer": "subdomain", 
+        "geoip-country": "Sweden"
+    }, 
+    {
+        "dns-a": [
+            "207.148.248.143"
+        ], 
+        "domain-name": "consumersit.com", 
+        "fuzzer": "transposition", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-ns": [
+            "a.ns36.de", 
+            "b.ns36.de"
+        ], 
+        "domain-name": "consumerest.com", 
+        "fuzzer": "vowel-swap"
+    }
+]

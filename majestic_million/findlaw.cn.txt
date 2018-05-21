@@ -1,0 +1,114 @@
+[
+    {
+        "dns-a": [
+            "180.186.38.95"
+        ], 
+        "dns-mx": [
+            "mxbiz1.qq.com", 
+            "mxbiz2.qq.com"
+        ], 
+        "dns-ns": [
+            "ns1.dnsv2.com", 
+            "ns2.dnsv2.com"
+        ], 
+        "domain-name": "findlaw.cn", 
+        "fuzzer": "original*", 
+        "geoip-country": "China"
+    }, 
+    {
+        "dns-a": [
+            "23.224.132.187"
+        ], 
+        "dns-ns": [
+            "ns1.dnsdun.com", 
+            "ns1.dnsdun.net"
+        ], 
+        "domain-name": "findlaws.cn", 
+        "fuzzer": "addition", 
+        "geoip-country": "United States"
+    }, 
+    {
+        "dns-ns": [
+            "dns7.hichina.com", 
+            "dns8.hichina.com"
+        ], 
+        "domain-name": "finelaw.cn", 
+        "fuzzer": "bitsquatting"
+    }, 
+    {
+        "dns-a": [
+            "50.117.120.251"
+        ], 
+        "dns-mx": [
+            "mail.happyisp.com"
+        ], 
+        "domain-name": "find1aw.cn", 
+        "fuzzer": "homoglyph", 
+        "geoip-country": "United States", 
+        "mx-spy": true
+    }, 
+    {
+        "dns-a": [
+            "50.117.120.251"
+        ], 
+        "dns-mx": [
+            "mail.happyisp.com"
+        ], 
+        "domain-name": "findaw.cn", 
+        "fuzzer": "omission", 
+        "geoip-country": "United States", 
+        "mx-spy": true
+    }, 
+    {
+        "dns-a": [
+            "23.80.236.254"
+        ], 
+        "dns-ns": [
+            "ns5.dnsdun.com", 
+            "ns5.dnsdun.net"
+        ], 
+        "domain-name": "indlaw.cn", 
+        "fuzzer": "omission", 
+        "geoip-country": "United States"
+    }, 
+    {
+        "dns-a": [
+            "50.117.120.251"
+        ], 
+        "dns-mx": [
+            "mail.happyisp.com"
+        ], 
+        "domain-name": "fidlaw.cn", 
+        "fuzzer": "omission", 
+        "geoip-country": "United States", 
+        "mx-spy": true
+    }, 
+    {
+        "dns-a": [
+            "139.129.190.241"
+        ], 
+        "dns-ns": [
+            "dns10.hichina.com", 
+            "dns9.hichina.com"
+        ], 
+        "domain-name": "fundlaw.cn", 
+        "fuzzer": "replacement", 
+        "geoip-country": "China"
+    }, 
+    {
+        "dns-a": [
+            "23.80.236.254"
+        ], 
+        "domain-name": "f.indlaw.cn", 
+        "fuzzer": "subdomain", 
+        "geoip-country": "United States"
+    }, 
+    {
+        "dns-a": [
+            "104.160.171.88"
+        ], 
+        "domain-name": "fi.ndlaw.cn", 
+        "fuzzer": "subdomain", 
+        "geoip-country": "United States"
+    }
+]

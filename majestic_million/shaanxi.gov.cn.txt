@@ -1,0 +1,42 @@
+[
+    {
+        "dns-a": [
+            "218.26.168.124"
+        ], 
+        "dns-mx": [
+            "mx.ym.163.com"
+        ], 
+        "dns-ns": [
+            "ns1.sdc.org.cn", 
+            "ns2.sdc.org.cn", 
+            "ns3.sdc.org.cn"
+        ], 
+        "domain-name": "shanxi.gov.cn", 
+        "fuzzer": "omission", 
+        "geoip-country": "China"
+    }, 
+    {
+        "dns-a": [
+            "101.132.153.29"
+        ], 
+        "domain-name": "shaan.xi.gov.cn", 
+        "fuzzer": "subdomain", 
+        "geoip-country": "China"
+    }, 
+    {
+        "dns-a": [
+            "61.185.238.215"
+        ], 
+        "dns-aaaa": [
+            "2001:da8:4008:61::6215"
+        ], 
+        "dns-mx": [
+            "mail.shaanxi.cn"
+        ], 
+        "dns-ns": [
+            "dns.shaanxi.cn"
+        ], 
+        "domain-name": "shaanxi.cn", 
+        "fuzzer": "various"
+    }
+]

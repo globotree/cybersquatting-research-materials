@@ -1,0 +1,48 @@
+[
+    {
+        "dns-mx": [
+            "mail.mof.gov.cn"
+        ], 
+        "dns-ns": [
+            "ns1.cdns.cn", 
+            "ns2.cdns.cn", 
+            "ns3.cdns.cn"
+        ], 
+        "domain-name": "ccgp.gov.cn", 
+        "fuzzer": "original*"
+    }, 
+    {
+        "dns-a": [
+            "221.8.13.136"
+        ], 
+        "dns-mx": [
+            "122.139.65.132"
+        ], 
+        "dns-ns": [
+            "ns1.sfn.cn", 
+            "ns2.sfn.cn"
+        ], 
+        "domain-name": "ccgt.gov.cn", 
+        "fuzzer": "bitsquatting", 
+        "geoip-country": "China"
+    }, 
+    {
+        "dns-ns": [
+            "cigem-dns"
+        ], 
+        "domain-name": "cgp.gov.cn", 
+        "fuzzer": "omission"
+    }, 
+    {
+        "dns-a": [
+            "139.201.46.7"
+        ], 
+        "dns-ns": [
+            "ns1.8hy.cn", 
+            "ns2.8hy.cn"
+        ], 
+        "domain-name": "ccgl.gov.cn", 
+        "fuzzer": "replacement", 
+        "geoip-country": "China"
+    }
+]

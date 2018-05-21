@@ -1,0 +1,291 @@
+[
+    {
+        "dns-a": [
+            "94.124.134.53"
+        ], 
+        "dns-mx": [
+            "rpi0i001.laposte.fr", 
+            "rpi0i002.laposte.fr", 
+            "rpi0i004.laposte.fr", 
+            "rpi0i005.laposte.fr"
+        ], 
+        "dns-ns": [
+            "ns2.laposte.net", 
+            "ns3.laposte.net", 
+            "ns4.laposte.net", 
+            "ns5.laposte.net"
+        ], 
+        "domain-name": "laposte.fr", 
+        "fuzzer": "original*", 
+        "geoip-country": "France", 
+        "ssdeep-score": 100
+    }, 
+    {
+        "dns-mx": [
+            "mx3.nameshield.com", 
+            "mx4.nameshield.net"
+        ], 
+        "dns-ns": [
+            "ns2.observatoiredesmarques.fr", 
+            "ns3.nameshield.net", 
+            "obs.ns1.fr"
+        ], 
+        "domain-name": "lapostes.fr", 
+        "fuzzer": "addition"
+    }, 
+    {
+        "dns-a": [
+            "54.72.9.51"
+        ], 
+        "dns-mx": [
+            "mail.h-email.net"
+        ], 
+        "dns-ns": [
+            "ns1.parkingcrew.net", 
+            "ns2.parkingcrew.net"
+        ], 
+        "domain-name": "maposte.fr", 
+        "fuzzer": "bitsquatting", 
+        "geoip-country": "Ireland", 
+        "mx-spy": true, 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "91.195.240.92"
+        ], 
+        "dns-mx": [
+            "mx186.m2bp.com", 
+            "mx186.mb1p.com"
+        ], 
+        "dns-ns": [
+            "ns1.sonexo.eu", 
+            "ns2.sonexo.com"
+        ], 
+        "domain-name": "leposte.fr", 
+        "fuzzer": "bitsquatting", 
+        "geoip-country": "Germany", 
+        "mx-spy": true, 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "92.243.16.43"
+        ], 
+        "dns-mx": [
+            "mail.laporte.fr"
+        ], 
+        "dns-ns": [
+            "ns1.monhebergement.net", 
+            "ns2.monhebergement.net"
+        ], 
+        "domain-name": "laporte.fr", 
+        "fuzzer": "bitsquatting", 
+        "geoip-country": "France", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-mx": [
+            "mx3.nameshield.com", 
+            "mx4.nameshield.net"
+        ], 
+        "dns-ns": [
+            "ns2.observatoiredesmarques.fr", 
+            "ns3.nameshield.net", 
+            "obs.ns1.fr"
+        ], 
+        "domain-name": "lap0ste.fr", 
+        "fuzzer": "homoglyph"
+    }, 
+    {
+        "dns-a": [
+            "217.70.184.38"
+        ], 
+        "dns-mx": [
+            "fb.mail.gandi.net", 
+            "spool.mail.gandi.net"
+        ], 
+        "dns-ns": [
+            "a.dns.gandi.net", 
+            "b.dns.gandi.net", 
+            "c.dns.gandi.net"
+        ], 
+        "domain-name": "iaposte.fr", 
+        "fuzzer": "homoglyph", 
+        "geoip-country": "France", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-mx": [
+            "mx3.nameshield.com", 
+            "mx4.nameshield.net"
+        ], 
+        "dns-ns": [
+            "ns2.observatoiredesmarques.fr", 
+            "ns3.nameshield.net", 
+            "obs.ns1.fr"
+        ], 
+        "domain-name": "la-poste.fr", 
+        "fuzzer": "hyphenation"
+    }, 
+    {
+        "dns-a": [
+            "185.53.177.29"
+        ], 
+        "dns-ns": [
+            "ns1.singleplan.com", 
+            "ns2.singleplan.com"
+        ], 
+        "domain-name": "lapote.fr", 
+        "fuzzer": "omission", 
+        "geoip-country": "Germany", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "185.53.177.20"
+        ], 
+        "dns-ns": [
+            "ns1.singleplan.com", 
+            "ns2.singleplan.com"
+        ], 
+        "domain-name": "lapose.fr", 
+        "fuzzer": "omission", 
+        "geoip-country": "Germany"
+    }, 
+    {
+        "dns-a": [
+            "199.59.242.150"
+        ], 
+        "dns-mx": [
+            "mx76.m2bp.com", 
+            "mx76.mb1p.com"
+        ], 
+        "dns-ns": [
+            "ns1.bodis.com", 
+            "ns2.bodis.com"
+        ], 
+        "domain-name": "lapost.fr", 
+        "fuzzer": "omission", 
+        "geoip-country": "United States", 
+        "mx-spy": true, 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "185.53.179.7"
+        ], 
+        "dns-mx": [
+            "mail.h-email.net"
+        ], 
+        "dns-ns": [
+            "ns1.parkingcrew.net", 
+            "ns2.parkingcrew.net"
+        ], 
+        "domain-name": "llaposte.fr", 
+        "fuzzer": "repetition", 
+        "geoip-country": "Germany", 
+        "mx-spy": true, 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "213.186.33.19"
+        ], 
+        "dns-mx": [
+            "mx1.ovh.net", 
+            "mx2.ovh.net"
+        ], 
+        "dns-ns": [
+            "dns.ovh.net", 
+            "ns.ovh.net"
+        ], 
+        "domain-name": "lapiste.fr", 
+        "fuzzer": "replacement", 
+        "geoip-country": "France", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "185.53.177.29"
+        ], 
+        "dns-ns": [
+            "ns1.singleplan.com", 
+            "ns2.singleplan.com"
+        ], 
+        "domain-name": "lappste.fr", 
+        "fuzzer": "replacement", 
+        "geoip-country": "Germany", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "185.53.177.29"
+        ], 
+        "dns-ns": [
+            "ns1.gegidns.com", 
+            "ns2.gegidns.com"
+        ], 
+        "domain-name": "lapostr.fr", 
+        "fuzzer": "replacement", 
+        "geoip-country": "Germany", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "185.53.177.29"
+        ], 
+        "dns-ns": [
+            "ns1.gegidns.com", 
+            "ns2.gegidns.com"
+        ], 
+        "domain-name": "laposre.fr", 
+        "fuzzer": "replacement", 
+        "geoip-country": "Germany", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "149.202.133.35"
+        ], 
+        "domain-name": "la.poste.fr", 
+        "fuzzer": "subdomain", 
+        "geoip-country": "France"
+    }, 
+    {
+        "dns-a": [
+            "92.243.16.43"
+        ], 
+        "domain-name": "lapo.ste.fr", 
+        "fuzzer": "subdomain", 
+        "geoip-country": "France", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "185.53.177.29"
+        ], 
+        "dns-ns": [
+            "ns1.singleplan.com", 
+            "ns2.singleplan.com"
+        ], 
+        "domain-name": "lapsote.fr", 
+        "fuzzer": "transposition", 
+        "geoip-country": "Germany", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "85.236.152.71"
+        ], 
+        "dns-mx": [
+            "lapeste.fr"
+        ], 
+        "dns-ns": [
+            "vps1707-1.fr.ns.planethoster.net", 
+            "vps1707.fr.ns.planethoster.net"
+        ], 
+        "domain-name": "lapeste.fr", 
+        "fuzzer": "vowel-swap"
+    }
+]

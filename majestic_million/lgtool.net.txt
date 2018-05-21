@@ -1,0 +1,235 @@
+[
+    {
+        "dns-a": [
+            "104.24.102.60", 
+            "104.24.103.60"
+        ], 
+        "dns-aaaa": [
+            "2400:cb00:2048:1::6818:663c", 
+            "2400:cb00:2048:1::6818:673c"
+        ], 
+        "dns-mx": [
+            "mx.yandex.ru"
+        ], 
+        "dns-ns": [
+            "april.ns.cloudflare.com", 
+            "henry.ns.cloudflare.com"
+        ], 
+        "domain-name": "lgtool.net", 
+        "fuzzer": "original*", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 100
+    }, 
+    {
+        "dns-ns": [
+            "dns05.regioit-aachen.de", 
+            "dns06.regioit-aachen.de"
+        ], 
+        "domain-name": "lgtools.net", 
+        "fuzzer": "addition"
+    }, 
+    {
+        "dns-a": [
+            "93.62.197.8"
+        ], 
+        "dns-ns": [
+            "a.ns14.net", 
+            "b.ns14.net", 
+            "c.ns14.net", 
+            "d.ns14.net"
+        ], 
+        "domain-name": "mgtool.net", 
+        "fuzzer": "bitsquatting", 
+        "geoip-country": "Italy", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "178.238.37.70"
+        ], 
+        "dns-aaaa": [
+            "2a01:430:c:0:178:238:37:70"
+        ], 
+        "dns-ns": [
+            "alfa.ns.active24.cz", 
+            "beta.ns.active24.cz"
+        ], 
+        "domain-name": "ngtool.net", 
+        "fuzzer": "bitsquatting", 
+        "geoip-country": "Czech Republic", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "50.63.202.37"
+        ], 
+        "dns-mx": [
+            "mailstore1.secureserver.net", 
+            "smtp.secureserver.net"
+        ], 
+        "dns-ns": [
+            "ns43.domaincontrol.com", 
+            "ns44.domaincontrol.com"
+        ], 
+        "domain-name": "dgtool.net", 
+        "fuzzer": "bitsquatting", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "217.160.0.54"
+        ], 
+        "dns-aaaa": [
+            "2001:8d8:100f:f000::23f"
+        ], 
+        "dns-mx": [
+            "mx00.1and1.fr", 
+            "mx01.1and1.fr"
+        ], 
+        "dns-ns": [
+            "ns1050.ui-dns.biz", 
+            "ns1050.ui-dns.com", 
+            "ns1050.ui-dns.de", 
+            "ns1050.ui-dns.org"
+        ], 
+        "domain-name": "lotool.net", 
+        "fuzzer": "bitsquatting", 
+        "geoip-country": "Germany", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "72.52.4.120"
+        ], 
+        "dns-mx": [
+            "localhost"
+        ], 
+        "dns-ns": [
+            "ns1.sedoparking.com", 
+            "ns2.sedoparking.com"
+        ], 
+        "domain-name": "gtool.net", 
+        "fuzzer": "omission", 
+        "geoip-country": "United States", 
+        "mx-spy": true, 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "107.191.58.200"
+        ], 
+        "dns-mx": [
+            "ltool.net"
+        ], 
+        "dns-ns": [
+            "ns1.vultr.com", 
+            "ns2.vultr.com"
+        ], 
+        "domain-name": "ltool.net", 
+        "fuzzer": "omission", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "205.178.189.131"
+        ], 
+        "dns-mx": [
+            "p.webcom.ctmail.com"
+        ], 
+        "dns-ns": [
+            "ns25.worldnic.com", 
+            "ns26.worldnic.com"
+        ], 
+        "domain-name": "pgtool.net", 
+        "fuzzer": "replacement", 
+        "geoip-country": "United States", 
+        "mx-spy": true
+    }, 
+    {
+        "dns-mx": [
+            "kgtool.net.mf.emailfilteringservice.net", 
+            "kgtool.net.mg.emailfilteringservice.net"
+        ], 
+        "dns-ns": [
+            "auth0.ns.charter.net", 
+            "auth1.ns.charter.net"
+        ], 
+        "domain-name": "kgtool.net", 
+        "fuzzer": "replacement"
+    }, 
+    {
+        "dns-ns": [
+            "f1g1ns1.dnspod.net", 
+            "f1g1ns2.dnspod.net"
+        ], 
+        "domain-name": "lvtool.net", 
+        "fuzzer": "replacement"
+    }, 
+    {
+        "dns-a": [
+            "47.89.35.79"
+        ], 
+        "dns-mx": [
+            "mx402.chinaemail.cn", 
+            "mxa402.chinaemail.cn"
+        ], 
+        "dns-ns": [
+            "f1g1ns1.dnspod.net", 
+            "f1g1ns2.dnspod.net"
+        ], 
+        "domain-name": "lytool.net", 
+        "fuzzer": "replacement"
+    }, 
+    {
+        "dns-a": [
+            "72.52.4.120"
+        ], 
+        "dns-mx": [
+            "localhost"
+        ], 
+        "dns-ns": [
+            "ns1.sedoparking.com", 
+            "ns2.sedoparking.com"
+        ], 
+        "domain-name": "l.gtool.net", 
+        "fuzzer": "subdomain", 
+        "geoip-country": "United States", 
+        "mx-spy": true, 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "45.79.195.101"
+        ], 
+        "dns-aaaa": [
+            "2600:3c02::f03c:91ff:fe2c:482e"
+        ], 
+        "domain-name": "lg.tool.net", 
+        "fuzzer": "subdomain", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "167.206.148.154"
+        ], 
+        "domain-name": "lgt.ool.net", 
+        "fuzzer": "subdomain", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "103.27.110.16"
+        ], 
+        "dns-ns": [
+            "dns7.hichina.com", 
+            "dns8.hichina.com"
+        ], 
+        "domain-name": "gltool.net", 
+        "fuzzer": "transposition", 
+        "geoip-country": "Hong Kong"
+    }
+]

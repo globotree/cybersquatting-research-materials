@@ -1,0 +1,95 @@
+[
+    {
+        "dns-a": [
+            "54.235.145.223"
+        ], 
+        "dns-mx": [
+            "nihcesxway.hub.nih.gov", 
+            "nihcesxway2.hub.nih.gov", 
+            "nihcesxway3.hub.nih.gov", 
+            "nihcesxway4.hub.nih.gov", 
+            "nihcesxway5.hub.nih.gov", 
+            "nihcesxway6.hub.nih.gov", 
+            "nihcesxwayb01.hub.nih.gov", 
+            "nihcesxwayb02.hub.nih.gov", 
+            "nihcesxwayb03.hub.nih.gov", 
+            "nihcesxwayb05.hub.nih.gov", 
+            "nihcesxwayst01.hub.nih.gov", 
+            "nihcesxwayst02.hub.nih.gov", 
+            "nihcesxwayst03.hub.nih.gov", 
+            "nihcesxwayst04.hub.nih.gov", 
+            "nihcesxwayst05.hub.nih.gov", 
+            "nihcesxwayst06.hub.nih.gov"
+        ], 
+        "dns-ns": [
+            "ns.nih.gov", 
+            "ns2.nih.gov", 
+            "ns3.nih.gov"
+        ], 
+        "domain-name": "nih.gov", 
+        "fuzzer": "original*", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 100
+    }, 
+    {
+        "dns-a": [
+            "149.101.166.155"
+        ], 
+        "dns-ns": [
+            "ns-jdcw-01.usdoj.gov", 
+            "ns-jdcw-02.usdoj.gov", 
+            "ns2.cjis.gov"
+        ], 
+        "domain-name": "nij.gov", 
+        "fuzzer": "bitsquatting", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "199.192.8.2"
+        ], 
+        "dns-mx": [
+            "mxa-001f7b01.gslb.pphosted.com", 
+            "mxb-001f7b01.gslb.pphosted.com"
+        ], 
+        "dns-ns": [
+            "flume.state.nh.us", 
+            "oldman.state.nh.us", 
+            "whitemtns.state.nh.us"
+        ], 
+        "domain-name": "nh.gov", 
+        "fuzzer": "omission", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "23.21.228.79"
+        ], 
+        "dns-mx": [
+            "neh-gov.mail.protection.outlook.com"
+        ], 
+        "dns-ns": [
+            "cbru.br.ns.els-gms.att.net", 
+            "cmtu.mt.ns.els-gms.att.net"
+        ], 
+        "domain-name": "neh.gov", 
+        "fuzzer": "vowel-swap"
+    }, 
+    {
+        "dns-a": [
+            "192.64.119.172"
+        ], 
+        "dns-mx": [
+            "mx1.privateemail.com", 
+            "mx2.privateemail.com"
+        ], 
+        "dns-ns": [
+            "dns1.registrar-servers.com", 
+            "dns2.registrar-servers.com"
+        ], 
+        "domain-name": "nih-gov.com", 
+        "fuzzer": "various"
+    }
+]

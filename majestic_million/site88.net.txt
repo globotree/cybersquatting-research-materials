@@ -1,0 +1,94 @@
+[
+    {
+        "dns-a": [
+            "107.20.151.23", 
+            "107.21.125.200", 
+            "174.129.208.167", 
+            "23.21.121.222", 
+            "54.197.236.55", 
+            "54.243.202.67", 
+            "54.243.204.100", 
+            "54.243.39.52"
+        ], 
+        "dns-ns": [
+            "dns1.000webhost.com", 
+            "dns2.000webhost.com"
+        ], 
+        "domain-name": "site88.net", 
+        "fuzzer": "original*", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 100
+    }, 
+    {
+        "dns-a": [
+            "198.54.115.31"
+        ], 
+        "dns-mx": [
+            "mail.suite88.net"
+        ], 
+        "dns-ns": [
+            "dns1.namecheaphosting.com", 
+            "dns2.namecheaphosting.com"
+        ], 
+        "domain-name": "suite88.net", 
+        "fuzzer": "insertion", 
+        "geoip-country": "United States"
+    }, 
+    {
+        "dns-a": [
+            "208.66.235.246"
+        ], 
+        "dns-ns": [
+            "pdns135.ultradns.biz", 
+            "pdns135.ultradns.com", 
+            "pdns135.ultradns.net", 
+            "pdns135.ultradns.org"
+        ], 
+        "domain-name": "site988.net", 
+        "fuzzer": "insertion", 
+        "geoip-country": "United States"
+    }, 
+    {
+        "dns-a": [
+            "72.52.4.119"
+        ], 
+        "dns-mx": [
+            "localhost"
+        ], 
+        "dns-ns": [
+            "ns1.sedoparking.com", 
+            "ns2.sedoparking.com"
+        ], 
+        "domain-name": "site8.net", 
+        "fuzzer": "omission", 
+        "geoip-country": "United States", 
+        "mx-spy": true, 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "72.52.4.119"
+        ], 
+        "dns-mx": [
+            "localhost"
+        ], 
+        "dns-ns": [
+            "ns1.sedoparking.com", 
+            "ns2.sedoparking.com"
+        ], 
+        "domain-name": "site78.net", 
+        "fuzzer": "replacement", 
+        "geoip-country": "United States", 
+        "mx-spy": true, 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "121.42.79.21"
+        ], 
+        "domain-name": "si.te88.net", 
+        "fuzzer": "subdomain", 
+        "geoip-country": "China", 
+        "ssdeep-score": 0
+    }
+]

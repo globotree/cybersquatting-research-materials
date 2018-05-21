@@ -1,0 +1,65 @@
+[
+    {
+        "dns-a": [
+            "34.241.103.86"
+        ], 
+        "dns-mx": [
+            "eu-smtp-inbound-1.mimecast.com", 
+            "eu-smtp-inbound-2.mimecast.com"
+        ], 
+        "dns-ns": [
+            "ns10.ja.net", 
+            "ns11.ja.net", 
+            "ns12.ja.net"
+        ], 
+        "domain-name": "jisc.ac.uk", 
+        "fuzzer": "original*", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 100
+    }, 
+    {
+        "dns-mx": [
+            "www.isc.ac.uk"
+        ], 
+        "dns-ns": [
+            "ns1.rl.ac.uk", 
+            "ns2.rl.ac.uk", 
+            "ns3.rl.ac.uk"
+        ], 
+        "domain-name": "isc.ac.uk", 
+        "fuzzer": "omission"
+    }, 
+    {
+        "dns-a": [
+            "149.155.192.92"
+        ], 
+        "dns-mx": [
+            "jic-ac-uk.mail.protection.outlook.com"
+        ], 
+        "dns-ns": [
+            "ns2.ja.net", 
+            "pdns1.nbi.ac.uk", 
+            "pdns2.nbi.ac.uk"
+        ], 
+        "domain-name": "jic.ac.uk", 
+        "fuzzer": "omission", 
+        "geoip-country": "United Kingdom", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "94.136.40.82"
+        ], 
+        "dns-mx": [
+            "mx0.123-reg.co.uk", 
+            "mx1.123-reg.co.uk"
+        ], 
+        "dns-ns": [
+            "ns10.ja.net", 
+            "ns11.ja.net", 
+            "ns12.ja.net"
+        ], 
+        "domain-name": "jisc.uk", 
+        "fuzzer": "various"
+    }
+]

@@ -1,0 +1,266 @@
+[
+    {
+        "dns-a": [
+            "104.168.177.112"
+        ], 
+        "dns-mx": [
+            "xs.to"
+        ], 
+        "dns-ns": [
+            "seans3.hostwindsdns.com", 
+            "seans4.hostwindsdns.com"
+        ], 
+        "domain-name": "xs.to", 
+        "fuzzer": "original*", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 100
+    }, 
+    {
+        "dns-a": [
+            "69.58.188.49"
+        ], 
+        "dns-mx": [
+            "ALT1.ASPMX.L.GOOGLE.COM", 
+            "ALT2.ASPMX.L.GOOGLE.COM", 
+            "ASPMX.L.GOOGLE.COM", 
+            "ASPMX2.GOOGLEMAIL.COM", 
+            "ASPMX3.GOOGLEMAIL.COM"
+        ], 
+        "dns-ns": [
+            "ns1.dzndns.com", 
+            "ns2.dzndns.com", 
+            "ns3.dzndns.com", 
+            "ns4.dzndns.com"
+        ], 
+        "domain-name": "xsf.to", 
+        "fuzzer": "addition", 
+        "geoip-country": "United States"
+    }, 
+    {
+        "dns-ns": [
+            "ns21.cloudns.net", 
+            "ns22.cloudns.net", 
+            "ns23.cloudns.net", 
+            "ns24.cloudns.net"
+        ], 
+        "domain-name": "xss.to", 
+        "fuzzer": "addition"
+    }, 
+    {
+        "dns-a": [
+            "158.85.81.9"
+        ], 
+        "dns-mx": [
+            "xst.to"
+        ], 
+        "dns-ns": [
+            "ns1.register.to", 
+            "ns2.register.to", 
+            "ns3.register.to", 
+            "ns4.register.to"
+        ], 
+        "domain-name": "xst.to", 
+        "fuzzer": "addition", 
+        "geoip-country": "Canada", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-mx": [
+            "mx1.mail.ys.to"
+        ], 
+        "dns-ns": [
+            "ns-1018.awsdns-63.net", 
+            "ns-1112.awsdns-11.org", 
+            "ns-147.awsdns-18.com", 
+            "ns-1887.awsdns-43.co.uk"
+        ], 
+        "domain-name": "ys.to", 
+        "fuzzer": "bitsquatting"
+    }, 
+    {
+        "dns-a": [
+            "85.204.97.94"
+        ], 
+        "dns-ns": [
+            "ns1.variomedia.de", 
+            "ns2.variomedia.de"
+        ], 
+        "domain-name": "ps.to", 
+        "fuzzer": "bitsquatting", 
+        "geoip-country": "Germany", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "31.25.189.168"
+        ], 
+        "dns-mx": [
+            "ALT1.ASPMX.L.GOOGLE.COM", 
+            "ALT2.ASPMX.L.GOOGLE.COM", 
+            "ASPMX.L.GOOGLE.COM", 
+            "ASPMX2.GOOGLEMAIL.COM", 
+            "ASPMX3.GOOGLEMAIL.COM"
+        ], 
+        "dns-ns": [
+            "ns13.zoneedit.com", 
+            "ns2.zoneedit.com"
+        ], 
+        "domain-name": "hs.to", 
+        "fuzzer": "bitsquatting", 
+        "geoip-country": "United Kingdom"
+    }, 
+    {
+        "dns-ns": [
+            "ns10.qw.to", 
+            "ns11.qw.to", 
+            "nsscs.qw.to"
+        ], 
+        "domain-name": "xq.to", 
+        "fuzzer": "bitsquatting"
+    }, 
+    {
+        "dns-a": [
+            "104.28.14.174", 
+            "104.28.15.174"
+        ], 
+        "dns-aaaa": [
+            "2400:cb00:2048:1::681c:eae", 
+            "2400:cb00:2048:1::681c:fae"
+        ], 
+        "dns-ns": [
+            "kate.ns.cloudflare.com", 
+            "merlin.ns.cloudflare.com"
+        ], 
+        "domain-name": "xc.to", 
+        "fuzzer": "bitsquatting", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "184.106.55.15"
+        ], 
+        "dns-mx": [
+            "mx1.emailsrvr.com", 
+            "mx2.emailsrvr.com"
+        ], 
+        "dns-ns": [
+            "dns1.stabletransit.com", 
+            "dns2.stabletransit.com"
+        ], 
+        "domain-name": "x.to", 
+        "fuzzer": "omission", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "186.2.163.237"
+        ], 
+        "dns-ns": [
+            "jack.ns.cloudflare.com", 
+            "megan.ns.cloudflare.com"
+        ], 
+        "domain-name": "s.to", 
+        "fuzzer": "omission", 
+        "geoip-country": "Russian Federation"
+    }, 
+    {
+        "dns-a": [
+            "202.172.25.12"
+        ], 
+        "dns-mx": [
+            "ss.to"
+        ], 
+        "dns-ns": [
+            "ns1.value-domain.com", 
+            "ns2.value-domain.com"
+        ], 
+        "domain-name": "ss.to", 
+        "fuzzer": "replacement"
+    }, 
+    {
+        "dns-a": [
+            "52.216.83.34"
+        ], 
+        "dns-mx": [
+            "alt1.aspmx.l.google.com", 
+            "alt2.aspmx.l.google.com", 
+            "aspmx.l.google.com", 
+            "aspmx2.googlemail.com", 
+            "aspmx3.googlemail.com"
+        ], 
+        "dns-ns": [
+            "ns-1155.awsdns-16.org", 
+            "ns-1945.awsdns-51.co.uk", 
+            "ns-334.awsdns-41.com", 
+            "ns-533.awsdns-02.net"
+        ], 
+        "domain-name": "xa.to", 
+        "fuzzer": "replacement"
+    }, 
+    {
+        "dns-ns": [
+            "kate.ns.cloudflare.com", 
+            "merlin.ns.cloudflare.com"
+        ], 
+        "domain-name": "xd.to", 
+        "fuzzer": "replacement"
+    }, 
+    {
+        "dns-a": [
+            "185.53.178.7"
+        ], 
+        "dns-mx": [
+            "mail.h-email.net"
+        ], 
+        "dns-ns": [
+            "ns1.parkingcrew.net", 
+            "ns2.parkingcrew.net"
+        ], 
+        "domain-name": "xe.to", 
+        "fuzzer": "replacement", 
+        "geoip-country": "Germany", 
+        "mx-spy": true, 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "72.52.4.120"
+        ], 
+        "dns-mx": [
+            "localhost"
+        ], 
+        "dns-ns": [
+            "ns1.sedoparking.com", 
+            "ns2.sedoparking.com"
+        ], 
+        "domain-name": "xx.to", 
+        "fuzzer": "replacement", 
+        "geoip-country": "United States", 
+        "mx-spy": true, 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "176.31.179.191", 
+            "37.187.83.72"
+        ], 
+        "dns-ns": [
+            "dns1.ru-tld.ru", 
+            "dns2.ru-tld.ru"
+        ], 
+        "domain-name": "xy.to", 
+        "fuzzer": "replacement", 
+        "geoip-country": "France", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-ns": [
+            "ns1.eftydns.com", 
+            "ns2.eftydns.com"
+        ], 
+        "domain-name": "cs.to", 
+        "fuzzer": "replacement"
+    }
+]

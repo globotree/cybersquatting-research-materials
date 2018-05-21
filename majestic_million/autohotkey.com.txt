@@ -1,0 +1,76 @@
+[
+    {
+        "dns-a": [
+            "104.25.120.16", 
+            "104.25.121.16"
+        ], 
+        "dns-aaaa": [
+            "2400:cb00:2048:1::6819:7810", 
+            "2400:cb00:2048:1::6819:7910"
+        ], 
+        "dns-mx": [
+            "dc-3ca88eb444b1.autohotkey.com"
+        ], 
+        "dns-ns": [
+            "bruce.ns.cloudflare.com", 
+            "reza.ns.cloudflare.com"
+        ], 
+        "domain-name": "autohotkey.com", 
+        "fuzzer": "original*", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 100
+    }, 
+    {
+        "dns-a": [
+            "69.172.201.153"
+        ], 
+        "dns-ns": [
+            "ns1.uniregistrymarket.link", 
+            "ns2.uniregistrymarket.link"
+        ], 
+        "domain-name": "autohotkeys.com", 
+        "fuzzer": "addition", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "167.114.142.0"
+        ], 
+        "dns-ns": [
+            "ns1.chookdns.com", 
+            "ns2.chookdns.com"
+        ], 
+        "domain-name": "auto-hotkey.com", 
+        "fuzzer": "hyphenation", 
+        "geoip-country": "Canada", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "141.8.224.93"
+        ], 
+        "dns-ns": [
+            "ns7.rookdns.com", 
+            "ns8.rookdns.com"
+        ], 
+        "domain-name": "authotkey.com", 
+        "fuzzer": "omission", 
+        "geoip-country": "Switzerland", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "72.52.4.122"
+        ], 
+        "dns-mx": [
+            "localhost"
+        ], 
+        "dns-ns": [
+            "ns1.sedoparking.com", 
+            "ns2.sedoparking.com"
+        ], 
+        "domain-name": "autoh.otkey.com", 
+        "fuzzer": "subdomain"
+    }
+]

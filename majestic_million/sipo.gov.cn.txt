@@ -1,0 +1,29 @@
+[
+    {
+        "dns-a": [
+            "202.96.46.1"
+        ], 
+        "dns-mx": [
+            "sendmail.sipo.gov.cn"
+        ], 
+        "dns-ns": [
+            "cpon.cpo.cn.net", 
+            "ns1.sipo.gov.cn", 
+            "ns2.sipo.gov.cn"
+        ], 
+        "domain-name": "sipo.gov.cn", 
+        "fuzzer": "original*", 
+        "geoip-country": "China"
+    }, 
+    {
+        "dns-a": [
+            "222.73.189.51"
+        ], 
+        "dns-ns": [
+            "ns1.sfn.cn", 
+            "ns2.sfn.cn"
+        ], 
+        "domain-name": "sipa.gov.cn", 
+        "fuzzer": "vowel-swap"
+    }
+]

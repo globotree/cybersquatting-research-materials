@@ -1,0 +1,101 @@
+[
+    {
+        "dns-a": [
+            "155.72.90.48"
+        ], 
+        "dns-ns": [
+            "pdns156.ultradns.biz", 
+            "pdns156.ultradns.com", 
+            "pdns156.ultradns.net", 
+            "pdns156.ultradns.org"
+        ], 
+        "domain-name": "starwoodmeeting.com", 
+        "fuzzer": "original*", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 99
+    }, 
+    {
+        "dns-a": [
+            "50.57.29.36"
+        ], 
+        "dns-ns": [
+            "pdns156.ultradns.biz", 
+            "pdns156.ultradns.com", 
+            "pdns156.ultradns.net", 
+            "pdns156.ultradns.org"
+        ], 
+        "domain-name": "starwoodmeetings.com", 
+        "fuzzer": "addition", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "167.114.142.3"
+        ], 
+        "dns-ns": [
+            "ns1.chookdns.com", 
+            "ns2.chookdns.com"
+        ], 
+        "domain-name": "startwoodmeeting.com", 
+        "fuzzer": "insertion", 
+        "geoip-country": "Canada", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "141.8.224.169"
+        ], 
+        "dns-ns": [
+            "ns27.rookdns.com", 
+            "ns28.rookdns.com"
+        ], 
+        "domain-name": "stawoodmeeting.com", 
+        "fuzzer": "omission", 
+        "geoip-country": "Switzerland", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "69.172.201.153"
+        ], 
+        "domain-name": "starwoodm.eeting.com", 
+        "fuzzer": "subdomain", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "185.53.178.6"
+        ], 
+        "dns-mx": [
+            "mail.h-email.net"
+        ], 
+        "dns-ns": [
+            "ns1.parkingcrew.net", 
+            "ns2.parkingcrew.net"
+        ], 
+        "domain-name": "starwoodme.eting.com", 
+        "fuzzer": "subdomain", 
+        "geoip-country": "Germany", 
+        "mx-spy": true, 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "64.98.161.223"
+        ], 
+        "domain-name": "starwoodmee.ting.com", 
+        "fuzzer": "subdomain", 
+        "geoip-country": "Canada"
+    }, 
+    {
+        "dns-a": [
+            "75.126.101.241"
+        ], 
+        "domain-name": "starwoodmeeti.ng.com", 
+        "fuzzer": "subdomain", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 0
+    }
+]

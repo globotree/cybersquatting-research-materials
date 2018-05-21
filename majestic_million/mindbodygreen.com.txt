@@ -1,0 +1,187 @@
+[
+    {
+        "dns-a": [
+            "13.32.14.12", 
+            "13.32.14.143", 
+            "13.32.14.156", 
+            "13.32.14.202", 
+            "13.32.14.219", 
+            "13.32.14.41", 
+            "13.32.14.92", 
+            "13.32.14.96"
+        ], 
+        "dns-mx": [
+            "alt1.aspmx.l.google.com", 
+            "alt2.aspmx.l.google.com", 
+            "aspmx.l.google.com", 
+            "aspmx2.googlemail.com", 
+            "aspmx3.googlemail.com"
+        ], 
+        "dns-ns": [
+            "ns-1217.awsdns-24.org", 
+            "ns-1663.awsdns-15.co.uk", 
+            "ns-470.awsdns-58.com", 
+            "ns-881.awsdns-46.net"
+        ], 
+        "domain-name": "mindbodygreen.com", 
+        "fuzzer": "original*", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 100
+    }, 
+    {
+        "dns-a": [
+            "198.54.117.200"
+        ], 
+        "dns-ns": [
+            "dns101.registrar-servers.com", 
+            "dns102.registrar-servers.com"
+        ], 
+        "domain-name": "mindbodygreens.com", 
+        "fuzzer": "addition", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "104.16.88.230"
+        ], 
+        "dns-mx": [
+            "mx.mlndbodygreen.com.cust.b.hostedemail.com"
+        ], 
+        "dns-ns": [
+            "ns2.vpweb.com", 
+            "ns3.vpweb.com", 
+            "ns4.vpweb.com"
+        ], 
+        "domain-name": "mlndbodygreen.com", 
+        "fuzzer": "homoglyph", 
+        "geoip-country": "United States"
+    }, 
+    {
+        "dns-a": [
+            "173.239.5.6", 
+            "173.239.8.164", 
+            "213.247.47.190"
+        ], 
+        "dns-mx": [
+            "mx7.mindbodygree.com"
+        ], 
+        "dns-ns": [
+            "ns1.expiereddnsmanager.com", 
+            "ns2.expiereddnsmanager.com"
+        ], 
+        "domain-name": "mindbodygree.com", 
+        "fuzzer": "omission", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "184.168.221.104"
+        ], 
+        "dns-ns": [
+            "ns1.afternic.com", 
+            "ns2.afternic.com"
+        ], 
+        "domain-name": "midbodygreen.com", 
+        "fuzzer": "omission", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "209.99.40.225"
+        ], 
+        "dns-ns": [
+            "dns15.parkpage.foundationapi.com", 
+            "dns16.parkpage.foundationapi.com"
+        ], 
+        "domain-name": "mindbodygren.com", 
+        "fuzzer": "omission", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "104.28.24.86", 
+            "104.28.25.86"
+        ], 
+        "dns-aaaa": [
+            "2400:cb00:2048:1::681c:1856", 
+            "2400:cb00:2048:1::681c:1956"
+        ], 
+        "dns-mx": [
+            "dc-891f083f527e.minddbodygreen.com"
+        ], 
+        "dns-ns": [
+            "pete.ns.cloudflare.com", 
+            "uma.ns.cloudflare.com"
+        ], 
+        "domain-name": "minddbodygreen.com", 
+        "fuzzer": "repetition", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "173.239.5.6", 
+            "173.239.8.164", 
+            "213.247.47.190"
+        ], 
+        "dns-mx": [
+            "mx7.mindbodygre3n.com"
+        ], 
+        "dns-ns": [
+            "ns1.expiereddnsmanager.com", 
+            "ns2.expiereddnsmanager.com"
+        ], 
+        "domain-name": "mindbodygre3n.com", 
+        "fuzzer": "replacement", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "91.195.240.103"
+        ], 
+        "domain-name": "mind.bodygreen.com", 
+        "fuzzer": "subdomain", 
+        "geoip-country": "Germany", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "211.115.92.160"
+        ], 
+        "domain-name": "mindbo.dygreen.com", 
+        "fuzzer": "subdomain", 
+        "geoip-country": "Korea", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "69.172.201.153"
+        ], 
+        "dns-ns": [
+            "ns1.uniregistrymarket.link", 
+            "ns2.uniregistrymarket.link"
+        ], 
+        "domain-name": "mindbodyg.reen.com", 
+        "fuzzer": "subdomain", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "184.168.221.104"
+        ], 
+        "dns-ns": [
+            "ns1.afternic.com", 
+            "ns2.afternic.com"
+        ], 
+        "domain-name": "mindbodygr.een.com", 
+        "fuzzer": "subdomain", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 0
+    }
+]

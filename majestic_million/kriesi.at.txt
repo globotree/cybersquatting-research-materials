@@ -1,0 +1,126 @@
+[
+    {
+        "dns-a": [
+            "85.13.149.161"
+        ], 
+        "dns-mx": [
+            "v123331.kasserver.com"
+        ], 
+        "dns-ns": [
+            "ns5.kasserver.com", 
+            "ns6.kasserver.com"
+        ], 
+        "domain-name": "kriesi.at", 
+        "fuzzer": "original*", 
+        "geoip-country": "Germany", 
+        "ssdeep-score": 100
+    }, 
+    {
+        "dns-a": [
+            "92.51.164.119"
+        ], 
+        "dns-mx": [
+            "mail.krimsi.at"
+        ], 
+        "dns-ns": [
+            "ns.inwx.de", 
+            "ns2.inwx.de", 
+            "ns3.inwx.eu", 
+            "ns4.inwx.com", 
+            "ns5.inwx.net"
+        ], 
+        "domain-name": "krimsi.at", 
+        "fuzzer": "bitsquatting", 
+        "geoip-country": "Germany"
+    }, 
+    {
+        "dns-a": [
+            "69.162.80.51"
+        ], 
+        "dns-ns": [
+            "ns1.hastydns.com", 
+            "ns2.hastydns.com"
+        ], 
+        "domain-name": "krisi.at", 
+        "fuzzer": "omission", 
+        "geoip-country": "United States"
+    }, 
+    {
+        "dns-a": [
+            "195.206.98.51"
+        ], 
+        "dns-mx": [
+            "mail.riesi.at"
+        ], 
+        "dns-ns": [
+            "motor.riesi.at", 
+            "rotor.riesi.at"
+        ], 
+        "domain-name": "riesi.at", 
+        "fuzzer": "omission"
+    }, 
+    {
+        "dns-a": [
+            "72.52.4.119"
+        ], 
+        "dns-mx": [
+            "localhost"
+        ], 
+        "dns-ns": [
+            "ns1.sedoparking.com", 
+            "ns2.sedoparking.com"
+        ], 
+        "domain-name": "krie.si.at", 
+        "fuzzer": "subdomain", 
+        "geoip-country": "United States", 
+        "mx-spy": true, 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "72.52.4.121"
+        ], 
+        "dns-mx": [
+            "localhost"
+        ], 
+        "dns-ns": [
+            "ns1.sedoparking.com", 
+            "ns2.sedoparking.com"
+        ], 
+        "domain-name": "kries.i.at", 
+        "fuzzer": "subdomain", 
+        "geoip-country": "United States", 
+        "mx-spy": true, 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "185.53.178.29"
+        ], 
+        "dns-ns": [
+            "ns1.domforce.com", 
+            "ns2.domforce.com", 
+            "ns3.domforce.com", 
+            "ns4.domforce.com", 
+            "ns5.domforce.com"
+        ], 
+        "domain-name": "kreisi.at", 
+        "fuzzer": "transposition", 
+        "geoip-country": "Germany", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "176.9.79.2"
+        ], 
+        "dns-mx": [
+            "kriese.at"
+        ], 
+        "dns-ns": [
+            "ns1.bsnsoft.de", 
+            "ns2.bsnsoft.de"
+        ], 
+        "domain-name": "kriese.at", 
+        "fuzzer": "vowel-swap"
+    }
+]

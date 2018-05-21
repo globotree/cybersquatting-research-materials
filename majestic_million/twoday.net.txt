@@ -1,0 +1,123 @@
+[
+    {
+        "dns-a": [
+            "148.251.196.47"
+        ], 
+        "dns-mx": [
+            "mailbackup.inode.at", 
+            "mx.upcbusiness.at"
+        ], 
+        "dns-ns": [
+            "ns1.upc.biz", 
+            "ns2.upc.biz"
+        ], 
+        "domain-name": "twoday.net", 
+        "fuzzer": "original*", 
+        "geoip-country": "Germany", 
+        "ssdeep-score": 99
+    }, 
+    {
+        "dns-a": [
+            "50.63.202.42"
+        ], 
+        "dns-ns": [
+            "ns17.domaincontrol.com", 
+            "ns18.domaincontrol.com"
+        ], 
+        "domain-name": "twodays.net", 
+        "fuzzer": "addition", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "205.178.189.131"
+        ], 
+        "dns-mx": [
+            "p.webcom.ctmail.com"
+        ], 
+        "dns-ns": [
+            "ns85.worldnic.com", 
+            "ns86.worldnic.com"
+        ], 
+        "domain-name": "twobay.net", 
+        "fuzzer": "homoglyph", 
+        "geoip-country": "United States", 
+        "mx-spy": true
+    }, 
+    {
+        "dns-a": [
+            "65.55.251.214", 
+            "65.55.53.233", 
+            "65.55.53.235"
+        ], 
+        "dns-ns": [
+            "ns1.msft.net", 
+            "ns2.msft.net", 
+            "ns3.msft.net", 
+            "ns4.msft.net"
+        ], 
+        "domain-name": "today.net", 
+        "fuzzer": "omission", 
+        "geoip-country": "United States"
+    }, 
+    {
+        "dns-a": [
+            "81.19.145.154"
+        ], 
+        "dns-mx": [
+            "mail.taoday.net"
+        ], 
+        "dns-ns": [
+            "ns1.world4you.at", 
+            "ns2.world4you.at"
+        ], 
+        "domain-name": "taoday.net", 
+        "fuzzer": "replacement", 
+        "geoip-country": "Austria"
+    }, 
+    {
+        "dns-a": [
+            "199.59.242.150"
+        ], 
+        "domain-name": "twod.ay.net", 
+        "fuzzer": "subdomain", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "207.154.194.242"
+        ], 
+        "dns-mx": [
+            "ALT1.ASPMX.L.GOOGLE.COM", 
+            "ALT2.ASPMX.L.GOOGLE.COM", 
+            "ALT3.ASPMX.L.GOOGLE.COM", 
+            "ALT4.ASPMX.L.GOOGLE.COM", 
+            "ASPMX.L.GOOGLE.COM"
+        ], 
+        "dns-ns": [
+            "a.ns.joker.com", 
+            "b.ns.joker.com", 
+            "c.ns.joker.com"
+        ], 
+        "domain-name": "wtoday.net", 
+        "fuzzer": "transposition", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "148.251.196.47"
+        ], 
+        "dns-mx": [
+            "mx.upcbusiness.at"
+        ], 
+        "dns-ns": [
+            "ns1.upc.biz", 
+            "ns2.upc.biz"
+        ], 
+        "domain-name": "towday.net", 
+        "fuzzer": "transposition"
+    }
+]

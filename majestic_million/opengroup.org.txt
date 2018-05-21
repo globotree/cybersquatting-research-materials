@@ -1,0 +1,164 @@
+[
+    {
+        "dns-a": [
+            "64.79.149.147"
+        ], 
+        "dns-mx": [
+            "m1.opengroup.org", 
+            "postman.opengroup.org"
+        ], 
+        "dns-ns": [
+            "ns0.opengroup.org", 
+            "ns1.opengroup.org", 
+            "ns1195.dns.dyn.com", 
+            "ns2.opengroup.org", 
+            "ns2161.dns.dyn.com", 
+            "ns3155.dns.dyn.com", 
+            "ns4196.dns.dyn.com"
+        ], 
+        "domain-name": "opengroup.org", 
+        "fuzzer": "original*", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 100
+    }, 
+    {
+        "dns-a": [
+            "184.168.221.18"
+        ], 
+        "dns-mx": [
+            "mailstore1.secureserver.net", 
+            "smtp.secureserver.net"
+        ], 
+        "dns-ns": [
+            "ns23.domaincontrol.com", 
+            "ns24.domaincontrol.com"
+        ], 
+        "domain-name": "opengroups.org", 
+        "fuzzer": "addition", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "207.210.229.77"
+        ], 
+        "dns-mx": [
+            "opemgroup.org"
+        ], 
+        "dns-ns": [
+            "ns143.neubox.net", 
+            "ns144.neubox.net", 
+            "ns245.neubox.net"
+        ], 
+        "domain-name": "opemgroup.org", 
+        "fuzzer": "homoglyph", 
+        "geoip-country": "United States"
+    }, 
+    {
+        "dns-a": [
+            "207.148.248.143"
+        ], 
+        "domain-name": "open-group.org", 
+        "fuzzer": "hyphenation", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "91.195.240.117"
+        ], 
+        "dns-ns": [
+            "ns1.renewyourname.net", 
+            "ns2.renewyourname.net"
+        ], 
+        "domain-name": "pengroup.org", 
+        "fuzzer": "omission", 
+        "geoip-country": "Germany", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "91.195.240.117"
+        ], 
+        "domain-name": "o.pengroup.org", 
+        "fuzzer": "subdomain", 
+        "geoip-country": "Germany", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "72.52.4.119"
+        ], 
+        "dns-mx": [
+            "localhost"
+        ], 
+        "dns-ns": [
+            "ns1.sedoparking.com", 
+            "ns2.sedoparking.com"
+        ], 
+        "domain-name": "op.engroup.org", 
+        "fuzzer": "subdomain", 
+        "geoip-country": "United States", 
+        "mx-spy": true, 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "96.127.46.139"
+        ], 
+        "domain-name": "opengr.oup.org", 
+        "fuzzer": "subdomain", 
+        "geoip-country": "United States"
+    }, 
+    {
+        "dns-a": [
+            "50.63.46.1"
+        ], 
+        "dns-ns": [
+            "a.service.afiliasdns.info", 
+            "b.service.afiliasdns.org", 
+            "c.service.afiliasdns.net", 
+            "d.service.afiliasdns.com", 
+            "e.service.afiliasdns.info", 
+            "f.service.afiliasdns.net"
+        ], 
+        "domain-name": "opengrou.p.org", 
+        "fuzzer": "subdomain", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "212.183.164.70"
+        ], 
+        "dns-mx": [
+            "mx1.interac.it", 
+            "mx99.interac.it"
+        ], 
+        "dns-ns": [
+            "ns1.qcom.it", 
+            "ns2.qcom.it"
+        ], 
+        "domain-name": "apengroup.org", 
+        "fuzzer": "vowel-swap", 
+        "geoip-country": "Italy", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "159.203.7.36"
+        ], 
+        "dns-mx": [
+            "fb.mail.gandi.net", 
+            "spool.mail.gandi.net"
+        ], 
+        "dns-ns": [
+            "ns-106-b.gandi.net", 
+            "ns-207-a.gandi.net", 
+            "ns-253-c.gandi.net"
+        ], 
+        "domain-name": "opengroop.org", 
+        "fuzzer": "vowel-swap", 
+        "geoip-country": "Canada"
+    }
+]

@@ -1,0 +1,65 @@
+[
+    {
+        "dns-a": [
+            "37.187.73.19"
+        ], 
+        "dns-mx": [
+            "mail.movinglabs.com"
+        ], 
+        "dns-ns": [
+            "elle.ns.cloudflare.com", 
+            "jim.ns.cloudflare.com"
+        ], 
+        "domain-name": "picturepush.com", 
+        "fuzzer": "original*", 
+        "geoip-country": "France", 
+        "mx-spy": true, 
+        "ssdeep-score": 82
+    }, 
+    {
+        "dns-a": [
+            "208.91.197.87"
+        ], 
+        "dns-ns": [
+            "ns1387.ztomy.com", 
+            "ns2387.ztomy.com"
+        ], 
+        "domain-name": "picturerush.com", 
+        "fuzzer": "bitsquatting", 
+        "geoip-country": "Virgin Islands", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "160.153.92.40"
+        ], 
+        "dns-mx": [
+            "mail.picturelush.com"
+        ], 
+        "dns-ns": [
+            "ns13.domaincontrol.com", 
+            "ns14.domaincontrol.com"
+        ], 
+        "domain-name": "picturelush.com", 
+        "fuzzer": "replacement", 
+        "geoip-country": "United States"
+    }, 
+    {
+        "dns-a": [
+            "205.178.189.131"
+        ], 
+        "domain-name": "picture.push.com", 
+        "fuzzer": "subdomain", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "75.126.100.22"
+        ], 
+        "domain-name": "picturep.ush.com", 
+        "fuzzer": "subdomain", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 0
+    }
+]

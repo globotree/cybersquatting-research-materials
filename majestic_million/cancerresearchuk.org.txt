@@ -1,0 +1,170 @@
+[
+    {
+        "dns-a": [
+            "185.26.230.129"
+        ], 
+        "dns-mx": [
+            "relay1.netnames.net", 
+            "relay2.netnames.net"
+        ], 
+        "dns-ns": [
+            "ns1.netnames.net", 
+            "ns2.netnames.net", 
+            "ns3.netnames.net", 
+            "ns4.netnames.net", 
+            "ns5.netnames.net", 
+            "ns6.netnames.net", 
+            "ns7.netnames.net", 
+            "ns8.netnames.net"
+        ], 
+        "domain-name": "cancerresearchuk.org", 
+        "fuzzer": "original*", 
+        "geoip-country": "United Kingdom", 
+        "ssdeep-score": 99
+    }, 
+    {
+        "dns-a": [
+            "185.26.230.129"
+        ], 
+        "dns-mx": [
+            "relay1.netnames.net", 
+            "relay2.netnames.net"
+        ], 
+        "dns-ns": [
+            "ns1.netnames.net", 
+            "ns2.netnames.net", 
+            "ns5.netnames.net", 
+            "ns6.netnames.net"
+        ], 
+        "domain-name": "cancerreasearchuk.org", 
+        "fuzzer": "insertion", 
+        "geoip-country": "United Kingdom", 
+        "ssdeep-score": 99
+    }, 
+    {
+        "dns-a": [
+            "104.219.53.67"
+        ], 
+        "dns-mx": [
+            "mail1.cancerreserchuk.org", 
+            "mail2.cancerreserchuk.org"
+        ], 
+        "dns-ns": [
+            "ns11.cloudns.net", 
+            "ns12.cloudns.net", 
+            "ns13.cloudns.net", 
+            "ns14.cloudns.net", 
+            "pns11.cloudns.net", 
+            "pns12.cloudns.net", 
+            "pns13.cloudns.net", 
+            "pns14.cloudns.net", 
+            "pns20.cloudns.net"
+        ], 
+        "domain-name": "cancerreserchuk.org", 
+        "fuzzer": "omission", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "185.26.230.129"
+        ], 
+        "dns-mx": [
+            "relay1.netnames.net", 
+            "relay2.netnames.net"
+        ], 
+        "dns-ns": [
+            "ns1.netnames.net", 
+            "ns2.netnames.net", 
+            "ns5.netnames.net", 
+            "ns6.netnames.net"
+        ], 
+        "domain-name": "canceresearchuk.org", 
+        "fuzzer": "omission", 
+        "geoip-country": "United Kingdom", 
+        "ssdeep-score": 100
+    }, 
+    {
+        "dns-a": [
+            "185.26.230.129"
+        ], 
+        "dns-mx": [
+            "relay1.netnames.net", 
+            "relay2.netnames.net"
+        ], 
+        "dns-ns": [
+            "ns1.netnames.net", 
+            "ns2.netnames.net", 
+            "ns5.netnames.net", 
+            "ns6.netnames.net"
+        ], 
+        "domain-name": "cancerreseachuk.org", 
+        "fuzzer": "omission", 
+        "geoip-country": "United Kingdom", 
+        "ssdeep-score": 100
+    }, 
+    {
+        "dns-a": [
+            "185.53.178.6"
+        ], 
+        "dns-mx": [
+            "mail.h-email.net"
+        ], 
+        "dns-ns": [
+            "ns1.parkingcrew.net", 
+            "ns2.parkingcrew.net"
+        ], 
+        "domain-name": "canerresearchuk.org", 
+        "fuzzer": "omission", 
+        "geoip-country": "Germany", 
+        "mx-spy": true, 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "141.8.224.93"
+        ], 
+        "dns-ns": [
+            "ns7.rookdns.com", 
+            "ns8.rookdns.com"
+        ], 
+        "domain-name": "cancer.researchuk.org", 
+        "fuzzer": "subdomain", 
+        "geoip-country": "Switzerland", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "207.148.248.143"
+        ], 
+        "domain-name": "cancerresear.chuk.org", 
+        "fuzzer": "subdomain", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "185.26.156.38"
+        ], 
+        "domain-name": "cancerresearc.huk.org", 
+        "fuzzer": "subdomain", 
+        "geoip-country": "Germany"
+    }, 
+    {
+        "dns-a": [
+            "50.63.46.1"
+        ], 
+        "dns-ns": [
+            "A.SERVICE.AFILIASDNS.INFO", 
+            "B.SERVICE.AFILIASDNS.org", 
+            "C.SERVICE.AFILIASDNS.NET", 
+            "D.SERVICE.AFILIASDNS.COM", 
+            "E.SERVICE.AFILIASDNS.INFO", 
+            "F.SERVICE.AFILIASDNS.NET"
+        ], 
+        "domain-name": "cancerresearchu.k.org", 
+        "fuzzer": "subdomain", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 0
+    }
+]

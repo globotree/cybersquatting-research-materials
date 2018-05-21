@@ -1,0 +1,62 @@
+[
+    {
+        "dns-ns": [
+            "ns3.molss.gov.cn", 
+            "ns4.molss.gov.cn", 
+            "ns5.molss.gov.cn"
+        ], 
+        "domain-name": "hrss.gov.cn", 
+        "fuzzer": "original*"
+    }, 
+    {
+        "dns-a": [
+            "220.191.163.125"
+        ], 
+        "domain-name": "hsss.gov.cn", 
+        "fuzzer": "bitsquatting", 
+        "geoip-country": "China"
+    }, 
+    {
+        "dns-ns": [
+            "pdns.cpip.net.cn", 
+            "sdns.cpip.net.cn"
+        ], 
+        "domain-name": "hrrs.gov.cn", 
+        "fuzzer": "bitsquatting"
+    }, 
+    {
+        "dns-a": [
+            "210.209.114.232", 
+            "210.209.114.33"
+        ], 
+        "dns-ns": [
+            "ns13.xincache.com", 
+            "ns14.xincache.com"
+        ], 
+        "domain-name": "lhrss.gov.cn", 
+        "fuzzer": "homoglyph", 
+        "geoip-country": "Hong Kong"
+    }, 
+    {
+        "dns-a": [
+            "218.22.5.102"
+        ], 
+        "dns-mx": [
+            "mail.hfss.gov.cn"
+        ], 
+        "dns-ns": [
+            "dns27.hichina.com", 
+            "dns28.hichina.com"
+        ], 
+        "domain-name": "hfss.gov.cn", 
+        "fuzzer": "replacement", 
+        "geoip-country": "China"
+    }, 
+    {
+        "dns-a": [
+            "50.117.120.251"
+        ], 
+        "domain-name": "hrssgov.cn", 
+        "fuzzer": "various"
+    }
+]

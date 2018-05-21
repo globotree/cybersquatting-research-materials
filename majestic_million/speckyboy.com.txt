@@ -1,0 +1,48 @@
+[
+    {
+        "dns-a": [
+            "104.28.4.3", 
+            "104.28.5.3"
+        ], 
+        "dns-aaaa": [
+            "2400:cb00:2048:1::681c:403", 
+            "2400:cb00:2048:1::681c:503"
+        ], 
+        "dns-mx": [
+            "mail.speckyboy.com"
+        ], 
+        "dns-ns": [
+            "kate.ns.cloudflare.com", 
+            "vin.ns.cloudflare.com"
+        ], 
+        "domain-name": "speckyboy.com", 
+        "fuzzer": "original*", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 100
+    }, 
+    {
+        "dns-a": [
+            "141.8.225.80"
+        ], 
+        "dns-ns": [
+            "ns5.dsredirection.com", 
+            "ns6.dsredirection.com"
+        ], 
+        "domain-name": "speckboy.com", 
+        "fuzzer": "omission", 
+        "geoip-country": "Switzerland", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "195.253.6.126"
+        ], 
+        "dns-mx": [
+            "cmx10af1.knipp.de", 
+            "cmx10bf1.knipp.de", 
+            "cmx10cf1.knipp.de"
+        ], 
+        "domain-name": "speck.yboy.com", 
+        "fuzzer": "subdomain"
+    }
+]

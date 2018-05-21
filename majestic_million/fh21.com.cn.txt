@@ -1,0 +1,99 @@
+[
+    {
+        "dns-a": [
+            "157.185.149.167"
+        ], 
+        "domain-name": "fh21.com.cn", 
+        "fuzzer": "original*", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 100
+    }, 
+    {
+        "dns-a": [
+            "104.233.157.91"
+        ], 
+        "dns-ns": [
+            "f1g1ns1.dnspod.net", 
+            "f1g1ns2.dnspod.net"
+        ], 
+        "domain-name": "dh21.com.cn", 
+        "fuzzer": "bitsquatting", 
+        "geoip-country": "United States"
+    }, 
+    {
+        "dns-a": [
+            "104.160.171.71"
+        ], 
+        "domain-name": "f21.com.cn", 
+        "fuzzer": "omission", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "45.120.153.79"
+        ], 
+        "domain-name": "h21.com.cn", 
+        "fuzzer": "omission", 
+        "geoip-country": "Hong Kong"
+    }, 
+    {
+        "dns-a": [
+            "116.89.250.211"
+        ], 
+        "dns-ns": [
+            "f1g1ns1.dnspod.net", 
+            "f1g1ns2.dnspod.net"
+        ], 
+        "domain-name": "fh2.com.cn", 
+        "fuzzer": "omission"
+    }, 
+    {
+        "dns-a": [
+            "119.10.41.60"
+        ], 
+        "domain-name": "fn21.com.cn", 
+        "fuzzer": "replacement", 
+        "geoip-country": "China", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "45.120.153.79"
+        ], 
+        "domain-name": "f.h21.com.cn", 
+        "fuzzer": "subdomain", 
+        "geoip-country": "Hong Kong", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "47.90.82.159"
+        ], 
+        "domain-name": "fh2.1.com.cn", 
+        "fuzzer": "subdomain"
+    }, 
+    {
+        "dns-a": [
+            "47.90.2.165"
+        ], 
+        "domain-name": "hf21.com.cn", 
+        "fuzzer": "transposition", 
+        "geoip-country": "United States"
+    }, 
+    {
+        "dns-a": [
+            "50.117.120.251"
+        ], 
+        "domain-name": "fh21.cn", 
+        "fuzzer": "various"
+    }, 
+    {
+        "dns-ns": [
+            "ns17.xincache.com", 
+            "ns18.xincache.com"
+        ], 
+        "domain-name": "fh21com.cn", 
+        "fuzzer": "various"
+    }
+]

@@ -1,0 +1,65 @@
+[
+    {
+        "dns-a": [
+            "195.194.146.86"
+        ], 
+        "dns-mx": [
+            "engine01-20334-1.icritical.com", 
+            "engine02-20334-2.icritical.com", 
+            "engine03-20334-3.icritical.com", 
+            "engine04-20334-4.icritical.com"
+        ], 
+        "dns-ns": [
+            "ns01.arts.ac.uk", 
+            "ns02.arts.ac.uk", 
+            "ns3.ja.net"
+        ], 
+        "domain-name": "arts.ac.uk", 
+        "fuzzer": "original*", 
+        "geoip-country": "United Kingdom", 
+        "ssdeep-score": 99
+    }, 
+    {
+        "dns-a": [
+            "137.205.243.51"
+        ], 
+        "dns-mx": [
+            "mail-relay-1.csv.warwick.ac.uk", 
+            "mail-relay-2.csv.warwick.ac.uk", 
+            "mail-relay-3.csv.warwick.ac.uk", 
+            "mail-relay.csv.warwick.ac.uk"
+        ], 
+        "dns-ns": [
+            "extdns1.warwick.ac.uk", 
+            "extdns2.warwick.ac.uk"
+        ], 
+        "domain-name": "apts.ac.uk", 
+        "fuzzer": "bitsquatting", 
+        "geoip-country": "United Kingdom", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "217.160.0.253"
+        ], 
+        "dns-aaaa": [
+            "2001:8d8:100f:f000::220"
+        ], 
+        "dns-mx": [
+            "mx00.1and1.co.uk", 
+            "mx01.1and1.co.uk", 
+            "mxa.mailgun.org", 
+            "mxb.mailgun.org"
+        ], 
+        "dns-ns": [
+            "ns-uk.1and1-dns.biz", 
+            "ns-uk.1and1-dns.co.uk", 
+            "ns-uk.1and1-dns.com", 
+            "ns-uk.1and1-dns.org"
+        ], 
+        "domain-name": "ars.ac.uk", 
+        "fuzzer": "omission", 
+        "geoip-country": "Germany", 
+        "ssdeep-score": 0
+    }
+]

@@ -1,0 +1,61 @@
+[
+    {
+        "dns-a": [
+            "141.218.1.75"
+        ], 
+        "dns-mx": [
+            "wmich-edu.mail.protection.outlook.com"
+        ], 
+        "dns-ns": [
+            "dns.merit.net", 
+            "gumby.cc.wmich.edu", 
+            "gw.wmich.edu", 
+            "ns.wmich.edu"
+        ], 
+        "domain-name": "wmich.edu", 
+        "fuzzer": "original*", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 100
+    }, 
+    {
+        "dns-a": [
+            "141.211.243.251"
+        ], 
+        "dns-mx": [
+            "mx1.a.mail.umich.edu", 
+            "mx3.umich.edu"
+        ], 
+        "dns-ns": [
+            "dns.cs.wisc.edu", 
+            "dns1.itd.umich.edu", 
+            "dns2.itd.umich.edu"
+        ], 
+        "domain-name": "umich.edu", 
+        "fuzzer": "bitsquatting", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "164.76.7.120"
+        ], 
+        "dns-mx": [
+            "alt1.aspmx.l.google.com", 
+            "alt2.aspmx.l.google.com", 
+            "alt3.aspmx.l.google.com", 
+            "alt4.aspmx.l.google.com", 
+            "aspmx.l.google.com"
+        ], 
+        "dns-ns": [
+            "auxdns.emich.edu", 
+            "dns1.merit.net", 
+            "dns2.merit.net", 
+            "dns3.merit.net", 
+            "emudns.emich.edu"
+        ], 
+        "domain-name": "emich.edu", 
+        "fuzzer": "replacement", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 0
+    }
+]

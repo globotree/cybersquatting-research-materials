@@ -1,0 +1,92 @@
+[
+    {
+        "dns-a": [
+            "89.184.82.20"
+        ], 
+        "dns-mx": [
+            "mail.interfax.kiev.ua", 
+            "mx2.interfax.kiev.ua"
+        ], 
+        "dns-ns": [
+            "ns.interfax.kiev.ua", 
+            "ns.secondary.net.ua", 
+            "ns2.interfax.kiev.ua"
+        ], 
+        "domain-name": "interfax.com.ua", 
+        "fuzzer": "original*", 
+        "geoip-country": "Ukraine", 
+        "ssdeep-score": 100
+    }, 
+    {
+        "dns-a": [
+            "185.53.178.6"
+        ], 
+        "dns-mx": [
+            "mail.h-email.net"
+        ], 
+        "dns-ns": [
+            "ns1.parkingcrew.net", 
+            "ns2.parkingcrew.net"
+        ], 
+        "domain-name": "nterfax.com.ua", 
+        "fuzzer": "omission", 
+        "geoip-country": "Germany", 
+        "mx-spy": true, 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "185.53.178.6"
+        ], 
+        "dns-mx": [
+            "mail.h-email.net"
+        ], 
+        "dns-ns": [
+            "ns1.parkingcrew.net", 
+            "ns2.parkingcrew.net"
+        ], 
+        "domain-name": "i.nterfax.com.ua", 
+        "fuzzer": "subdomain", 
+        "geoip-country": "Germany", 
+        "mx-spy": true, 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "91.200.60.37"
+        ], 
+        "domain-name": "inter.fax.com.ua", 
+        "fuzzer": "subdomain", 
+        "geoip-country": "Ukraine"
+    }, 
+    {
+        "dns-a": [
+            "72.52.4.122"
+        ], 
+        "dns-mx": [
+            "localhost"
+        ], 
+        "dns-ns": [
+            "ns1.sedoparking.com", 
+            "ns2.sedoparking.com"
+        ], 
+        "domain-name": "interfa.x.com.ua", 
+        "fuzzer": "subdomain", 
+        "geoip-country": "United States", 
+        "mx-spy": true, 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "82.144.222.56"
+        ], 
+        "dns-ns": [
+            "ns1.domen.ua", 
+            "ns2.domen.ua"
+        ], 
+        "domain-name": "interfax.ua", 
+        "fuzzer": "various", 
+        "geoip-country": "Ukraine", 
+        "ssdeep-score": 100
+    }
+]

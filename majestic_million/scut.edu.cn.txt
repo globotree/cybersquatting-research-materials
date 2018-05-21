@@ -1,0 +1,104 @@
+[
+    {
+        "dns-a": [
+            "202.38.193.69"
+        ], 
+        "dns-mx": [
+            "mx1.scut.edu.cn", 
+            "mx2.scut.edu.cn", 
+            "mx3.scut.edu.cn"
+        ], 
+        "dns-ns": [
+            "orange.gznet.edu.cn", 
+            "pineapple.gznet.edu.cn", 
+            "scutsv33.scut.edu.cn"
+        ], 
+        "domain-name": "scut.edu.cn", 
+        "fuzzer": "original*", 
+        "geoip-country": "China"
+    }, 
+    {
+        "dns-a": [
+            "202.198.176.20"
+        ], 
+        "dns-mx": [
+            "mxbiz1.qq.com", 
+            "mxbiz2.qq.com"
+        ], 
+        "dns-ns": [
+            "ns.ccut.edu.cn"
+        ], 
+        "domain-name": "ccut.edu.cn", 
+        "fuzzer": "bitsquatting", 
+        "geoip-country": "China"
+    }, 
+    {
+        "dns-a": [
+            "125.69.85.18", 
+            "125.69.85.19", 
+            "202.115.32.72"
+        ], 
+        "dns-mx": [
+            "scu.eyou.cn4e.com"
+        ], 
+        "dns-ns": [
+            "dart.scu.edu.cn", 
+            "secdns.scu.edu.cn"
+        ], 
+        "domain-name": "scu.edu.cn", 
+        "fuzzer": "omission", 
+        "geoip-country": "China"
+    }, 
+    {
+        "dns-ns": [
+            "dns.scu6.edu.cn"
+        ], 
+        "domain-name": "scu6.edu.cn", 
+        "fuzzer": "replacement"
+    }, 
+    {
+        "dns-ns": [
+            "dns1.scit.edu.cn", 
+            "dns2.scit.edu.cn"
+        ], 
+        "domain-name": "scit.edu.cn", 
+        "fuzzer": "replacement"
+    }, 
+    {
+        "dns-mx": [
+            "smtp.sdut.edu.cn"
+        ], 
+        "dns-ns": [
+            "ns.sdut.edu.cn", 
+            "ns2.sdut.edu.cn"
+        ], 
+        "domain-name": "sdut.edu.cn", 
+        "fuzzer": "replacement"
+    }, 
+    {
+        "dns-mx": [
+            "mail.ecut.edu.cn"
+        ], 
+        "dns-ns": [
+            "ns1.ecut.edu.cn", 
+            "ns2.ecut.edu.cn"
+        ], 
+        "domain-name": "ecut.edu.cn", 
+        "fuzzer": "replacement"
+    }, 
+    {
+        "dns-ns": [
+            "orange.gznet.edu.cn", 
+            "scutsv33.scut.edu.cn"
+        ], 
+        "domain-name": "scut.cn", 
+        "fuzzer": "various"
+    }, 
+    {
+        "dns-a": [
+            "45.120.153.79"
+        ], 
+        "domain-name": "scutedu.cn", 
+        "fuzzer": "various"
+    }
+]

@@ -1,0 +1,195 @@
+[
+    {
+        "dns-ns": [
+            "dns17.hichina.com", 
+            "dns18.hichina.com"
+        ], 
+        "domain-name": "jinghua.cn", 
+        "fuzzer": "original*"
+    }, 
+    {
+        "dns-ns": [
+            "f1g1ns1.dnspod.net", 
+            "f1g1ns2.dnspod.net"
+        ], 
+        "domain-name": "jinghuae.cn", 
+        "fuzzer": "addition"
+    }, 
+    {
+        "dns-a": [
+            "170.178.178.35"
+        ], 
+        "domain-name": "jinghuai.cn", 
+        "fuzzer": "addition", 
+        "geoip-country": "United States"
+    }, 
+    {
+        "dns-a": [
+            "170.178.178.35"
+        ], 
+        "domain-name": "jinghuan.cn", 
+        "fuzzer": "addition", 
+        "geoip-country": "United States"
+    }, 
+    {
+        "dns-a": [
+            "52.69.166.231"
+        ], 
+        "domain-name": "ninghua.cn", 
+        "fuzzer": "bitsquatting", 
+        "geoip-country": "Japan"
+    }, 
+    {
+        "dns-a": [
+            "170.178.178.49"
+        ], 
+        "domain-name": "binghua.cn", 
+        "fuzzer": "bitsquatting", 
+        "geoip-country": "United States"
+    }, 
+    {
+        "dns-ns": [
+            "f1g1ns1.dnspod.net", 
+            "f1g1ns2.dnspod.net"
+        ], 
+        "domain-name": "jinchua.cn", 
+        "fuzzer": "bitsquatting"
+    }, 
+    {
+        "dns-a": [
+            "107.167.48.167"
+        ], 
+        "dns-ns": [
+            "f1g1ns1.dnspod.net", 
+            "f1g1ns2.dnspod.net"
+        ], 
+        "domain-name": "jinghea.cn", 
+        "fuzzer": "bitsquatting", 
+        "geoip-country": "United States"
+    }, 
+    {
+        "dns-a": [
+            "203.78.142.12"
+        ], 
+        "domain-name": "jinghui.cn", 
+        "fuzzer": "bitsquatting", 
+        "geoip-country": "Hong Kong"
+    }, 
+    {
+        "dns-a": [
+            "123.57.133.175"
+        ], 
+        "dns-ns": [
+            "dns11.hichina.com", 
+            "dns12.hichina.com"
+        ], 
+        "domain-name": "jing-hua.cn", 
+        "fuzzer": "hyphenation", 
+        "geoip-country": "China"
+    }, 
+    {
+        "dns-a": [
+            "203.78.142.12"
+        ], 
+        "domain-name": "jingzhua.cn", 
+        "fuzzer": "insertion", 
+        "geoip-country": "Hong Kong"
+    }, 
+    {
+        "dns-a": [
+            "50.117.120.251"
+        ], 
+        "dns-mx": [
+            "mail.happyisp.com"
+        ], 
+        "domain-name": "jionghua.cn", 
+        "fuzzer": "insertion", 
+        "geoip-country": "United States", 
+        "mx-spy": true
+    }, 
+    {
+        "dns-a": [
+            "170.178.178.35"
+        ], 
+        "domain-name": "jingha.cn", 
+        "fuzzer": "omission", 
+        "geoip-country": "United States"
+    }, 
+    {
+        "dns-a": [
+            "103.232.215.129"
+        ], 
+        "dns-mx": [
+            "mail.skrimple.com"
+        ], 
+        "domain-name": "jingua.cn", 
+        "fuzzer": "omission", 
+        "geoip-country": "China", 
+        "mx-spy": true
+    }, 
+    {
+        "dns-a": [
+            "103.232.215.129"
+        ], 
+        "dns-mx": [
+            "mail.skrimple.com"
+        ], 
+        "domain-name": "jinghu.cn", 
+        "fuzzer": "omission", 
+        "geoip-country": "China", 
+        "mx-spy": true
+    }, 
+    {
+        "dns-a": [
+            "74.207.247.129"
+        ], 
+        "domain-name": "jinzhua.cn", 
+        "fuzzer": "replacement", 
+        "geoip-country": "United States"
+    }, 
+    {
+        "dns-a": [
+            "106.185.26.159"
+        ], 
+        "dns-mx": [
+            "mail.minghua.cn"
+        ], 
+        "dns-ns": [
+            "ns3.ce.net.cn"
+        ], 
+        "domain-name": "minghua.cn", 
+        "fuzzer": "replacement", 
+        "geoip-country": "Japan"
+    }, 
+    {
+        "dns-a": [
+            "50.117.120.251"
+        ], 
+        "dns-mx": [
+            "mail.happyisp.com"
+        ], 
+        "domain-name": "jinggua.cn", 
+        "fuzzer": "replacement", 
+        "geoip-country": "United States", 
+        "mx-spy": true
+    }, 
+    {
+        "dns-a": [
+            "104.160.171.91"
+        ], 
+        "domain-name": "jin.ghua.cn", 
+        "fuzzer": "subdomain", 
+        "geoip-country": "United States"
+    }, 
+    {
+        "dns-a": [
+            "103.20.194.137"
+        ], 
+        "dns-ns": [
+            "ns7.cnmsn.net", 
+            "ns8.cnmsn.net"
+        ], 
+        "domain-name": "jinghaa.cn", 
+        "fuzzer": "vowel-swap"
+    }
+]

@@ -1,0 +1,77 @@
+[
+    {
+        "dns-a": [
+            "104.232.27.118"
+        ], 
+        "dns-ns": [
+            "carl.ns.cloudflare.com", 
+            "yolanda.ns.cloudflare.com"
+        ], 
+        "domain-name": "jneurosci.org", 
+        "fuzzer": "original*", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 100
+    }, 
+    {
+        "dns-a": [
+            "216.104.165.25", 
+            "216.104.165.85"
+        ], 
+        "dns-mx": [
+            "mx1.daemonmail.net", 
+            "mx2.daemonmail.net"
+        ], 
+        "dns-ns": [
+            "ns1.tierra.net", 
+            "ns2.tierra.net"
+        ], 
+        "domain-name": "neurosci.org", 
+        "fuzzer": "omission", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "81.2.194.135"
+        ], 
+        "dns-ns": [
+            "ns.forpsi.cz", 
+            "ns.forpsi.net", 
+            "ns.forpsi.us"
+        ], 
+        "domain-name": "jn.eurosci.org", 
+        "fuzzer": "subdomain", 
+        "geoip-country": "Czech Republic", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "207.148.248.143"
+        ], 
+        "domain-name": "jneur.osci.org", 
+        "fuzzer": "subdomain", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "66.96.146.129"
+        ], 
+        "dns-mx": [
+            "mx.sci.org"
+        ], 
+        "domain-name": "jneuro.sci.org", 
+        "fuzzer": "subdomain"
+    }, 
+    {
+        "dns-a": [
+            "185.60.216.36"
+        ], 
+        "dns-aaaa": [
+            "2a03:2880:f12d:84:face:b00c:0:14c9"
+        ], 
+        "domain-name": "jneurosc.i.org", 
+        "fuzzer": "subdomain", 
+        "geoip-country": "Ireland"
+    }
+]

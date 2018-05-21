@@ -1,0 +1,603 @@
+[
+    {
+        "dns-a": [
+            "195.244.241.14"
+        ], 
+        "dns-mx": [
+            "mx0.asv.de", 
+            "mx1.asv.de", 
+            "mx2.asv.de", 
+            "mx3.asv.de"
+        ], 
+        "dns-ns": [
+            "a1-130.akam.net", 
+            "a11-67.akam.net", 
+            "a14-64.akam.net", 
+            "a16-65.akam.net", 
+            "a6-66.akam.net", 
+            "a7-67.akam.net", 
+            "ns11.netuse.de"
+        ], 
+        "domain-name": "bz-berlin.de", 
+        "fuzzer": "original*", 
+        "geoip-country": "Germany", 
+        "ssdeep-score": 100
+    }, 
+    {
+        "dns-a": [
+            "72.52.4.90"
+        ], 
+        "dns-mx": [
+            "mailgw.ns36.de"
+        ], 
+        "dns-ns": [
+            "a.ns36.de", 
+            "b.ns36.de"
+        ], 
+        "domain-name": "fz-berlin.de", 
+        "fuzzer": "bitsquatting", 
+        "geoip-country": "United States", 
+        "mx-spy": true, 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "91.90.144.5"
+        ], 
+        "dns-mx": [
+            "mail.mivitec.de", 
+            "mivitec.de"
+        ], 
+        "dns-ns": [
+            "dns1.mivitec.net", 
+            "dns2.mivitec.de"
+        ], 
+        "domain-name": "rz-berlin.de", 
+        "fuzzer": "bitsquatting", 
+        "geoip-country": "Germany", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "216.239.32.21", 
+            "216.239.34.21", 
+            "216.239.36.21", 
+            "216.239.38.21"
+        ], 
+        "dns-mx": [
+            "alt1.aspmx.l.google.com", 
+            "alt2.aspmx.l.google.com", 
+            "aspmx.l.google.com", 
+            "aspmx2.googlemail.com", 
+            "aspmx3.googlemail.com"
+        ], 
+        "dns-ns": [
+            "ns1.domaindiscount24.net", 
+            "ns2.domaindiscount24.net", 
+            "ns3.domaindiscount24.net"
+        ], 
+        "domain-name": "br-berlin.de", 
+        "fuzzer": "bitsquatting", 
+        "geoip-country": "United States"
+    }, 
+    {
+        "dns-a": [
+            "81.169.145.149"
+        ], 
+        "dns-mx": [
+            "mx.freenet.de"
+        ], 
+        "dns-ns": [
+            "docks06.rzone.de", 
+            "shades17.rzone.de"
+        ], 
+        "domain-name": "bj-berlin.de", 
+        "fuzzer": "bitsquatting", 
+        "geoip-country": "Germany", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "217.70.134.217"
+        ], 
+        "dns-mx": [
+            "mail.bzmberlin.de", 
+            "mailscanner.bnc.info"
+        ], 
+        "dns-ns": [
+            "ns1.bnc.info", 
+            "ns2.bnc.info", 
+            "ns3.bnc.info"
+        ], 
+        "domain-name": "bzmberlin.de", 
+        "fuzzer": "bitsquatting", 
+        "geoip-country": "Germany", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "217.160.122.29"
+        ], 
+        "dns-mx": [
+            "mx00.kundenserver.de", 
+            "mx01.kundenserver.de"
+        ], 
+        "dns-ns": [
+            "ns65.1und1.de", 
+            "ns66.1und1.de"
+        ], 
+        "domain-name": "dz-berlin.de", 
+        "fuzzer": "homoglyph", 
+        "geoip-country": "Germany", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "80.237.133.219"
+        ], 
+        "dns-aaaa": [
+            "2a01:488:42:1000:50ed:85db:7:8bb7"
+        ], 
+        "dns-mx": [
+            "mx0.ibz-berlin.de", 
+            "mxpool.hostedoffice.ag"
+        ], 
+        "dns-ns": [
+            "ns1.hans.hosteurope.de", 
+            "ns2.hans.hosteurope.de"
+        ], 
+        "domain-name": "ibz-berlin.de", 
+        "fuzzer": "homoglyph", 
+        "geoip-country": "Germany", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "217.160.230.194"
+        ], 
+        "dns-mx": [
+            "mx00.schlund.de", 
+            "mx01.schlund.de"
+        ], 
+        "dns-ns": [
+            "ns19.schlund.de", 
+            "ns20.schlund.de"
+        ], 
+        "domain-name": "bgz-berlin.de", 
+        "fuzzer": "insertion", 
+        "geoip-country": "Germany", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "89.22.106.130"
+        ], 
+        "dns-mx": [
+            "mail.bsz-berlin.de"
+        ], 
+        "dns-ns": [
+            "dns1alvo.dogado.net", 
+            "dns2alvo.dogado.net"
+        ], 
+        "domain-name": "bsz-berlin.de", 
+        "fuzzer": "insertion", 
+        "geoip-country": "Germany", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "72.52.4.90"
+        ], 
+        "dns-mx": [
+            "mailgw.ns36.de"
+        ], 
+        "dns-ns": [
+            "a.ns36.de", 
+            "b.ns36.de"
+        ], 
+        "domain-name": "buz-berlin.de", 
+        "fuzzer": "insertion", 
+        "geoip-country": "United States", 
+        "mx-spy": true, 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "81.169.145.150"
+        ], 
+        "dns-aaaa": [
+            "2a01:238:20a:202:1150::"
+        ], 
+        "dns-mx": [
+            "smtp.rzone.de"
+        ], 
+        "dns-ns": [
+            "docks02.rzone.de", 
+            "shades05.rzone.de"
+        ], 
+        "domain-name": "bhz-berlin.de", 
+        "fuzzer": "insertion", 
+        "geoip-country": "Germany", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "80.237.132.13"
+        ], 
+        "dns-aaaa": [
+            "2a01:488:42:1000:50ed:840d:ff59:6b10"
+        ], 
+        "dns-mx": [
+            "mx0.btz-berlin.de"
+        ], 
+        "dns-ns": [
+            "ns1.hans.hosteurope.de", 
+            "ns2.hans.hosteurope.de"
+        ], 
+        "domain-name": "btz-berlin.de", 
+        "fuzzer": "insertion", 
+        "geoip-country": "Germany", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "212.45.109.137"
+        ], 
+        "dns-mx": [
+            "mail.go-on.de", 
+            "mail.ullstein-online.de", 
+            "secondary.netuse.de", 
+            "secondary.sczn.de"
+        ], 
+        "dns-ns": [
+            "ns1.netuse.de", 
+            "ns2.netuse.de", 
+            "ns4.netuse.de"
+        ], 
+        "domain-name": "bzberlin.de", 
+        "fuzzer": "omission", 
+        "geoip-country": "Germany"
+    }, 
+    {
+        "dns-a": [
+            "185.53.178.7"
+        ], 
+        "dns-mx": [
+            "mail.h-email.net"
+        ], 
+        "dns-ns": [
+            "ns1.parkingcrew.net", 
+            "ns2.parkingcrew.net"
+        ], 
+        "domain-name": "bz-erlin.de", 
+        "fuzzer": "omission", 
+        "geoip-country": "Germany", 
+        "mx-spy": true, 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "81.169.145.92"
+        ], 
+        "dns-aaaa": [
+            "2a01:238:20a:202:1092::"
+        ], 
+        "dns-mx": [
+            "smtpin.rzone.de"
+        ], 
+        "dns-ns": [
+            "docks06.rzone.de", 
+            "shades08.rzone.de"
+        ], 
+        "domain-name": "z-berlin.de", 
+        "fuzzer": "omission", 
+        "geoip-country": "Germany", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "217.160.231.202"
+        ], 
+        "dns-mx": [
+            "mx00.kundenserver.de", 
+            "mx01.kundenserver.de"
+        ], 
+        "dns-ns": [
+            "ns65.1und1.de", 
+            "ns66.1und1.de"
+        ], 
+        "domain-name": "b-berlin.de", 
+        "fuzzer": "omission", 
+        "geoip-country": "Germany", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "185.53.179.7"
+        ], 
+        "dns-mx": [
+            "mail.h-email.net"
+        ], 
+        "dns-ns": [
+            "ns1.parkingcrew.net", 
+            "ns2.parkingcrew.net"
+        ], 
+        "domain-name": "bz-berln.de", 
+        "fuzzer": "omission", 
+        "geoip-country": "Germany", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "185.53.179.7"
+        ], 
+        "dns-mx": [
+            "mail.h-email.net"
+        ], 
+        "dns-ns": [
+            "ns1.parkingcrew.net", 
+            "ns2.parkingcrew.net"
+        ], 
+        "domain-name": "bz-berli.de", 
+        "fuzzer": "omission", 
+        "geoip-country": "Germany", 
+        "mx-spy": true, 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "195.244.248.8"
+        ], 
+        "dns-mx": [
+            "maildo.versatel.de"
+        ], 
+        "dns-ns": [
+            "ns01.versatel.de", 
+            "ns02.versatel.de", 
+            "ns03.versatel.de"
+        ], 
+        "domain-name": "bbz-berlin.de", 
+        "fuzzer": "repetition", 
+        "geoip-country": "Germany", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "81.169.145.65"
+        ], 
+        "dns-aaaa": [
+            "2a01:238:20a:202:1065::"
+        ], 
+        "dns-mx": [
+            "smtp.rzone.de"
+        ], 
+        "dns-ns": [
+            "docks02.rzone.de", 
+            "shades17.rzone.de"
+        ], 
+        "domain-name": "bq-berlin.de", 
+        "fuzzer": "replacement", 
+        "geoip-country": "Germany", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "185.53.179.6"
+        ], 
+        "dns-ns": [
+            "ns1.parkingcrew.net", 
+            "ns2.parkingcrew.net"
+        ], 
+        "domain-name": "bs-berlin.de", 
+        "fuzzer": "replacement", 
+        "geoip-country": "Germany", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "85.13.136.53"
+        ], 
+        "dns-mx": [
+            "w0106392.kasserver.com"
+        ], 
+        "dns-ns": [
+            "ns5.kasserver.com", 
+            "ns6.kasserver.com"
+        ], 
+        "domain-name": "bh-berlin.de", 
+        "fuzzer": "replacement", 
+        "geoip-country": "Germany", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "193.7.184.60"
+        ], 
+        "dns-mx": [
+            "hoster.ateo.de"
+        ], 
+        "dns-ns": [
+            "ns.ateo.de", 
+            "ns2.ateo.de"
+        ], 
+        "domain-name": "ba-berlin.de", 
+        "fuzzer": "replacement", 
+        "geoip-country": "Germany", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "72.52.4.90"
+        ], 
+        "dns-mx": [
+            "mailgw.ns36.de"
+        ], 
+        "dns-ns": [
+            "a.ns36.de", 
+            "b.ns36.de"
+        ], 
+        "domain-name": "bg-berlin.de", 
+        "fuzzer": "replacement", 
+        "geoip-country": "United States", 
+        "mx-spy": true, 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "217.160.233.54"
+        ], 
+        "dns-mx": [
+            "mx00.kundenserver.de", 
+            "mx01.kundenserver.de"
+        ], 
+        "dns-ns": [
+            "ns55.1und1.de", 
+            "ns56.1und1.de"
+        ], 
+        "domain-name": "be-berlin.de", 
+        "fuzzer": "replacement", 
+        "geoip-country": "Germany"
+    }, 
+    {
+        "dns-a": [
+            "185.49.16.187"
+        ], 
+        "dns-mx": [
+            "mx00.kundenserver.de", 
+            "mx01.kundenserver.de"
+        ], 
+        "dns-ns": [
+            "a.ns.joker.com", 
+            "b.ns.joker.com", 
+            "c.ns.joker.com"
+        ], 
+        "domain-name": "vz-berlin.de", 
+        "fuzzer": "replacement", 
+        "geoip-country": "Germany"
+    }, 
+    {
+        "dns-ns": [
+            "dns-3.dfn.de", 
+            "dns-w.helmholtz-berlin.de", 
+            "dns.helmholtz-berlin.de"
+        ], 
+        "domain-name": "hz-berlin.de", 
+        "fuzzer": "replacement"
+    }, 
+    {
+        "dns-a": [
+            "83.169.18.131"
+        ], 
+        "dns-mx": [
+            "www.bassbase.de"
+        ], 
+        "dns-ns": [
+            "ns1.hans.hosteurope.de", 
+            "ns2.hans.hosteurope.de"
+        ], 
+        "domain-name": "b3-berlin.de", 
+        "fuzzer": "replacement", 
+        "geoip-country": "Germany"
+    }, 
+    {
+        "dns-a": [
+            "78.47.57.10"
+        ], 
+        "dns-mx": [
+            "ssl.hothnet.de"
+        ], 
+        "dns-ns": [
+            "nsa5.schlundtech.de", 
+            "nsb5.schlundtech.de", 
+            "nsc5.schlundtech.de", 
+            "nsd5.schlundtech.de"
+        ], 
+        "domain-name": "bu-berlin.de", 
+        "fuzzer": "replacement", 
+        "geoip-country": "Germany", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "81.169.145.163"
+        ], 
+        "dns-aaaa": [
+            "2a01:238:20a:202:1163::"
+        ], 
+        "dns-mx": [
+            "smtp.rzone.de"
+        ], 
+        "dns-ns": [
+            "docks13.rzone.de", 
+            "shades04.rzone.de"
+        ], 
+        "domain-name": "bt-berlin.de", 
+        "fuzzer": "replacement", 
+        "geoip-country": "Germany", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "178.77.110.25"
+        ], 
+        "dns-aaaa": [
+            "2a01:488:42:1000:b24d:6e19:ffcf:84b0"
+        ], 
+        "dns-mx": [
+            "mx0.b2-berlin.de"
+        ], 
+        "dns-ns": [
+            "ns1.hans.hosteurope.de", 
+            "ns2.hans.hosteurope.de"
+        ], 
+        "domain-name": "b2-berlin.de", 
+        "fuzzer": "replacement", 
+        "geoip-country": "Germany"
+    }, 
+    {
+        "dns-a": [
+            "95.211.219.66"
+        ], 
+        "domain-name": "bz-b.erlin.de", 
+        "fuzzer": "subdomain", 
+        "geoip-country": "Netherlands", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "212.53.129.162"
+        ], 
+        "domain-name": "bz-be.rlin.de", 
+        "fuzzer": "subdomain", 
+        "geoip-country": "Germany"
+    }, 
+    {
+        "dns-a": [
+            "88.99.192.80"
+        ], 
+        "dns-ns": [
+            "ns1.kv.de", 
+            "ns2.kv.de"
+        ], 
+        "domain-name": "bz-ber.lin.de", 
+        "fuzzer": "subdomain", 
+        "geoip-country": "Germany", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "85.13.129.147"
+        ], 
+        "dns-mx": [
+            "v086140.kasserver.com"
+        ], 
+        "dns-ns": [
+            "ns3.kasserver.com", 
+            "ns4.kasserver.com"
+        ], 
+        "domain-name": "zb-berlin.de", 
+        "fuzzer": "transposition", 
+        "geoip-country": "Germany", 
+        "ssdeep-score": 0
+    }
+]

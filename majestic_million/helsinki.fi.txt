@@ -1,0 +1,107 @@
+[
+    {
+        "dns-a": [
+            "128.214.222.24"
+        ], 
+        "dns-mx": [
+            "mail.it.helsinki.fi", 
+            "post.it.helsinki.fi", 
+            "send.it.helsinki.fi"
+        ], 
+        "dns-ns": [
+            "hydra.helsinki.fi", 
+            "ns-secondary.funet.fi", 
+            "serifos.helsinki.fi"
+        ], 
+        "domain-name": "helsinki.fi", 
+        "fuzzer": "original*", 
+        "geoip-country": "Finland", 
+        "ssdeep-score": 100
+    }, 
+    {
+        "dns-ns": [
+            "ns-1002.awsdns-61.net", 
+            "ns-1106.awsdns-10.org", 
+            "ns-1718.awsdns-22.co.uk", 
+            "ns-197.awsdns-24.com"
+        ], 
+        "domain-name": "heisinki.fi", 
+        "fuzzer": "homoglyph"
+    }, 
+    {
+        "dns-a": [
+            "84.34.166.69"
+        ], 
+        "dns-mx": [
+            "mx1.zoner.fi", 
+            "mx2.zoner.fi"
+        ], 
+        "dns-ns": [
+            "dns1.zoner.fi", 
+            "dns2.zoner.fi"
+        ], 
+        "domain-name": "helpsinki.fi", 
+        "fuzzer": "insertion", 
+        "geoip-country": "Finland", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "83.145.253.129"
+        ], 
+        "dns-aaaa": [
+            "2001:1bc8:100:20:83:145:253:129"
+        ], 
+        "dns-mx": [
+            "mailserver18.nebula.fi"
+        ], 
+        "dns-ns": [
+            "ns.nebula.fi", 
+            "ns2.nebula.fi"
+        ], 
+        "domain-name": "helsink.fi", 
+        "fuzzer": "omission", 
+        "geoip-country": "Finland", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-mx": [
+            "post.it.hellsinki.fi"
+        ], 
+        "dns-ns": [
+            "ns1.cloudns.net", 
+            "pns1.cloudns.net", 
+            "pns2.cloudns.net", 
+            "pns3.cloudns.net", 
+            "pns4.cloudns.net"
+        ], 
+        "domain-name": "hellsinki.fi", 
+        "fuzzer": "repetition"
+    }, 
+    {
+        "dns-a": [
+            "185.53.178.6"
+        ], 
+        "dns-ns": [
+            "ns1.parkingcrew.net", 
+            "ns2.parkingcrew.net"
+        ], 
+        "domain-name": "helsi.nki.fi", 
+        "fuzzer": "subdomain", 
+        "geoip-country": "Germany", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "185.55.84.252"
+        ], 
+        "dns-ns": [
+            "ns1.domainkauppa.fi", 
+            "ns2.domainkauppa.fi"
+        ], 
+        "domain-name": "helsin.ki.fi", 
+        "fuzzer": "subdomain", 
+        "geoip-country": "Finland", 
+        "ssdeep-score": 0
+    }
+]

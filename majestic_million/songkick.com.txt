@@ -1,0 +1,186 @@
+[
+    {
+        "dns-a": [
+            "94.228.36.46"
+        ], 
+        "dns-mx": [
+            "alt1.aspmx.l.google.com", 
+            "alt2.aspmx.l.google.com", 
+            "aspmx.l.google.com", 
+            "aspmx2.googlemail.com", 
+            "aspmx3.googlemail.com"
+        ], 
+        "dns-ns": [
+            "ns-1460.awsdns-54.org", 
+            "ns-1553.awsdns-02.co.uk", 
+            "ns-248.awsdns-31.com", 
+            "ns-847.awsdns-41.net"
+        ], 
+        "domain-name": "songkick.com", 
+        "fuzzer": "original*", 
+        "geoip-country": "United Kingdom", 
+        "ssdeep-score": 99
+    }, 
+    {
+        "dns-a": [
+            "173.239.22.42"
+        ], 
+        "dns-ns": [
+            "ns1.mnsdnsmart.com", 
+            "ns2.mnsdnsmart.com"
+        ], 
+        "domain-name": "somgkick.com", 
+        "fuzzer": "homoglyph", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "217.26.48.101"
+        ], 
+        "dns-aaaa": [
+            "2a00:d70:0:a::166"
+        ], 
+        "dns-mx": [
+            "mx1.mail.hostpoint.ch", 
+            "mx2.mail.hostpoint.ch"
+        ], 
+        "dns-ns": [
+            "ns.hostpoint.ch", 
+            "ns2.hostpoint.ch", 
+            "ns3.hostpoint.ch"
+        ], 
+        "domain-name": "songklick.com", 
+        "fuzzer": "insertion", 
+        "geoip-country": "Switzerland", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "199.59.242.150"
+        ], 
+        "dns-mx": [
+            "mx76.m2bp.com", 
+            "mx76.mb1p.com"
+        ], 
+        "dns-ns": [
+            "ns1.bodis.com", 
+            "ns2.bodis.com"
+        ], 
+        "domain-name": "songkik.com", 
+        "fuzzer": "omission", 
+        "geoip-country": "United States", 
+        "mx-spy": true, 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "141.8.224.93"
+        ], 
+        "dns-ns": [
+            "ns7.rookdns.com", 
+            "ns8.rookdns.com"
+        ], 
+        "domain-name": "songkic.com", 
+        "fuzzer": "omission", 
+        "geoip-country": "Switzerland", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "54.217.222.113"
+        ], 
+        "dns-mx": [
+            "mail.h-email.net"
+        ], 
+        "dns-ns": [
+            "ns1.parkingcrew.net", 
+            "ns2.parkingcrew.net"
+        ], 
+        "domain-name": "ongkick.com", 
+        "fuzzer": "omission", 
+        "geoip-country": "Ireland", 
+        "mx-spy": true, 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "50.63.202.35"
+        ], 
+        "dns-mx": [
+            "mailstore1.secureserver.net", 
+            "smtp.secureserver.net"
+        ], 
+        "dns-ns": [
+            "ns71.domaincontrol.com", 
+            "ns72.domaincontrol.com"
+        ], 
+        "domain-name": "songlick.com", 
+        "fuzzer": "replacement", 
+        "geoip-country": "United States"
+    }, 
+    {
+        "dns-a": [
+            "173.239.5.6", 
+            "173.239.8.164", 
+            "213.247.47.190"
+        ], 
+        "dns-mx": [
+            "mx7.singkick.com"
+        ], 
+        "dns-ns": [
+            "ns1.expiereddnsmanager.com", 
+            "ns2.expiereddnsmanager.com"
+        ], 
+        "domain-name": "singkick.com", 
+        "fuzzer": "replacement", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "54.217.222.113"
+        ], 
+        "dns-mx": [
+            "mail.h-email.net"
+        ], 
+        "dns-ns": [
+            "ns1.parkingcrew.net", 
+            "ns2.parkingcrew.net"
+        ], 
+        "domain-name": "s.ongkick.com", 
+        "fuzzer": "subdomain", 
+        "geoip-country": "Ireland", 
+        "mx-spy": true, 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "52.73.124.185", 
+            "54.164.198.60"
+        ], 
+        "dns-ns": [
+            "ns1.namebrightdns.com", 
+            "ns2.namebrightdns.com"
+        ], 
+        "domain-name": "son.gkick.com", 
+        "fuzzer": "subdomain", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "184.95.38.196"
+        ], 
+        "dns-mx": [
+            "mail.snogkick.com"
+        ], 
+        "dns-ns": [
+            "ns1.instradns.com", 
+            "ns2.instradns.com", 
+            "ns3.instradns.com"
+        ], 
+        "domain-name": "snogkick.com", 
+        "fuzzer": "transposition"
+    }
+]

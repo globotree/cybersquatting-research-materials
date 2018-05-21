@@ -1,0 +1,93 @@
+[
+    {
+        "dns-ns": [
+            "a-dns.pl", 
+            "b-dns.pl", 
+            "e-dns.pl", 
+            "f-dns.pl", 
+            "i-dns.pl"
+        ], 
+        "domain-name": "olsztyn.pl", 
+        "fuzzer": "original*"
+    }, 
+    {
+        "dns-a": [
+            "213.133.97.199"
+        ], 
+        "dns-mx": [
+            "mail.olsztynn.pl"
+        ], 
+        "dns-ns": [
+            "dns8.linuxpl.com", 
+            "ns8.linuxpl.com"
+        ], 
+        "domain-name": "olsztynn.pl", 
+        "fuzzer": "addition", 
+        "geoip-country": "Germany"
+    }, 
+    {
+        "dns-a": [
+            "85.128.134.227"
+        ], 
+        "dns-mx": [
+            "osztyn.pl"
+        ], 
+        "dns-ns": [
+            "ns1.nazwa.pl", 
+            "ns2.nazwa.pl", 
+            "ns3.nazwa.pl"
+        ], 
+        "domain-name": "osztyn.pl", 
+        "fuzzer": "omission", 
+        "geoip-country": "Poland"
+    }, 
+    {
+        "dns-a": [
+            "199.59.242.150"
+        ], 
+        "dns-mx": [
+            "mx76.m2bp.com", 
+            "mx76.mb1p.com"
+        ], 
+        "dns-ns": [
+            "ns1.bodis.com", 
+            "ns2.bodis.com"
+        ], 
+        "domain-name": "olsztn.pl", 
+        "fuzzer": "omission", 
+        "geoip-country": "United States", 
+        "mx-spy": true
+    }, 
+    {
+        "dns-a": [
+            "185.53.177.20"
+        ], 
+        "domain-name": "olsz.tyn.pl", 
+        "fuzzer": "subdomain", 
+        "geoip-country": "Germany"
+    }, 
+    {
+        "dns-a": [
+            "87.98.234.173"
+        ], 
+        "domain-name": "olszt.yn.pl", 
+        "fuzzer": "subdomain", 
+        "geoip-country": "Poland"
+    }, 
+    {
+        "dns-a": [
+            "85.128.134.227"
+        ], 
+        "dns-mx": [
+            "oslztyn.pl"
+        ], 
+        "dns-ns": [
+            "ns1.nazwa.pl", 
+            "ns2.nazwa.pl", 
+            "ns3.nazwa.pl"
+        ], 
+        "domain-name": "oslztyn.pl", 
+        "fuzzer": "transposition", 
+        "geoip-country": "Poland"
+    }
+]

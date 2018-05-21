@@ -1,0 +1,58 @@
+[
+    {
+        "dns-a": [
+            "171.66.123.161"
+        ], 
+        "dns-mx": [
+            "bison.biologists.com"
+        ], 
+        "dns-ns": [
+            "carl.ns.cloudflare.com", 
+            "yolanda.ns.cloudflare.com"
+        ], 
+        "domain-name": "biologists.org", 
+        "fuzzer": "original*", 
+        "geoip-country": "United States"
+    }, 
+    {
+        "dns-a": [
+            "195.149.84.100", 
+            "195.149.84.101"
+        ], 
+        "dns-aaaa": [
+            "2001:67c:38c::64", 
+            "2001:67c:38c::65"
+        ], 
+        "dns-ns": [
+            "redbusprimarydns.biologiste.org", 
+            "redbussecondarydns.biologiste.org"
+        ], 
+        "domain-name": "biologiste.org", 
+        "fuzzer": "replacement", 
+        "geoip-country": "United Kingdom"
+    }, 
+    {
+        "dns-a": [
+            "67.195.197.75"
+        ], 
+        "domain-name": "biolog.ists.org", 
+        "fuzzer": "subdomain", 
+        "geoip-country": "United States"
+    }, 
+    {
+        "dns-a": [
+            "50.63.46.1"
+        ], 
+        "dns-ns": [
+            "A.SERVICE.AFILIASDNS.INFO", 
+            "B.SERVICE.AFILIASDNS.org", 
+            "C.SERVICE.AFILIASDNS.NET", 
+            "D.SERVICE.AFILIASDNS.COM", 
+            "E.SERVICE.AFILIASDNS.INFO", 
+            "F.SERVICE.AFILIASDNS.NET"
+        ], 
+        "domain-name": "biologist.s.org", 
+        "fuzzer": "subdomain", 
+        "geoip-country": "United States"
+    }
+]

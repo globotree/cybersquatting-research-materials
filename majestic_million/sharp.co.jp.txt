@@ -1,0 +1,62 @@
+[
+    {
+        "dns-mx": [
+            "sharp-co-jp.mail.protection.outlook.com"
+        ], 
+        "dns-ns": [
+            "dns-a.iij.ad.jp", 
+            "ns1.sharp.co.jp", 
+            "tg1.sharp.co.jp"
+        ], 
+        "domain-name": "sharp.co.jp", 
+        "fuzzer": "original*"
+    }, 
+    {
+        "dns-a": [
+            "59.106.33.116"
+        ], 
+        "dns-mx": [
+            "mail.sharpk.co.jp"
+        ], 
+        "dns-ns": [
+            "ns.sharpk.co.jp", 
+            "ns04.xbit.jp"
+        ], 
+        "domain-name": "sharpk.co.jp", 
+        "fuzzer": "addition", 
+        "geoip-country": "Japan"
+    }, 
+    {
+        "dns-a": [
+            "210.229.251.32"
+        ], 
+        "dns-mx": [
+            "harp.co.jp"
+        ], 
+        "dns-ns": [
+            "ns-1036.awsdns-01.org", 
+            "ns-2028.awsdns-61.co.uk", 
+            "ns-457.awsdns-57.com", 
+            "ns-612.awsdns-12.net"
+        ], 
+        "domain-name": "harp.co.jp", 
+        "fuzzer": "omission", 
+        "geoip-country": "Japan"
+    }, 
+    {
+        "dns-a": [
+            "157.7.188.233"
+        ], 
+        "dns-mx": [
+            "mx-proxy501.heteml.jp", 
+            "mx-proxy502.heteml.jp"
+        ], 
+        "dns-ns": [
+            "dns0.heteml.jp", 
+            "dns1.heteml.jp"
+        ], 
+        "domain-name": "sharl.co.jp", 
+        "fuzzer": "replacement", 
+        "geoip-country": "Japan"
+    }
+]

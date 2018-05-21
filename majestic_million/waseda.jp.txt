@@ -1,0 +1,70 @@
+[
+    {
+        "dns-mx": [
+            "waseda-jp.mail.protection.outlook.com"
+        ], 
+        "dns-ns": [
+            "dns-x.sinet.ad.jp", 
+            "ns.cfi.waseda.ac.jp", 
+            "ns2.cfi.waseda.ac.jp"
+        ], 
+        "domain-name": "waseda.jp", 
+        "fuzzer": "original*"
+    }, 
+    {
+        "dns-a": [
+            "112.78.117.173"
+        ], 
+        "dns-mx": [
+            "weseda.jp"
+        ], 
+        "dns-ns": [
+            "ns1.star-domain.jp", 
+            "ns2.star-domain.jp", 
+            "ns3.star-domain.jp"
+        ], 
+        "domain-name": "weseda.jp", 
+        "fuzzer": "bitsquatting", 
+        "geoip-country": "Japan"
+    }, 
+    {
+        "dns-a": [
+            "219.118.71.141"
+        ], 
+        "dns-mx": [
+            "mx.linkclub.jp"
+        ], 
+        "dns-ns": [
+            "usr-ns1.linkclub.jp", 
+            "usr-ns2.linkclub.jp"
+        ], 
+        "domain-name": "wasada.jp", 
+        "fuzzer": "bitsquatting", 
+        "geoip-country": "Japan"
+    }, 
+    {
+        "dns-mx": [
+            "mx.wasede.jp"
+        ], 
+        "dns-ns": [
+            "01.dnsv.jp", 
+            "02.dnsv.jp", 
+            "03.dnsv.jp", 
+            "04.dnsv.jp"
+        ], 
+        "domain-name": "wasede.jp", 
+        "fuzzer": "bitsquatting"
+    }, 
+    {
+        "dns-a": [
+            "150.95.255.38"
+        ], 
+        "dns-ns": [
+            "dns1.onamae.com", 
+            "dns2.onamae.com"
+        ], 
+        "domain-name": "was.eda.jp", 
+        "fuzzer": "subdomain", 
+        "geoip-country": "Japan"
+    }
+]

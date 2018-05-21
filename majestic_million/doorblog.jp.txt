@@ -1,0 +1,30 @@
+[
+    {
+        "dns-ns": [
+            "ns1.naver.jp", 
+            "ns2.naver.jp"
+        ], 
+        "domain-name": "doorblog.jp", 
+        "fuzzer": "original*"
+    }, 
+    {
+        "dns-a": [
+            "125.6.146.14"
+        ], 
+        "domain-name": "door.blog.jp", 
+        "fuzzer": "subdomain", 
+        "geoip-country": "Japan"
+    }, 
+    {
+        "dns-a": [
+            "150.95.255.38"
+        ], 
+        "dns-ns": [
+            "dns1.onamae.com", 
+            "dns2.onamae.com"
+        ], 
+        "domain-name": "doorb.log.jp", 
+        "fuzzer": "subdomain", 
+        "geoip-country": "Japan"
+    }
+]

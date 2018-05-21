@@ -1,0 +1,81 @@
+[
+    {
+        "dns-a": [
+            "5.101.158.143"
+        ], 
+        "dns-ns": [
+            "ns1.beget.com", 
+            "ns1.beget.pro", 
+            "ns2.beget.com", 
+            "ns2.beget.pro"
+        ], 
+        "domain-name": "beget.tech", 
+        "fuzzer": "original*", 
+        "geoip-country": "Russian Federation", 
+        "ssdeep-score": 100
+    }, 
+    {
+        "dns-a": [
+            "5.153.13.195"
+        ], 
+        "dns-mx": [
+            "bget.tech"
+        ], 
+        "dns-ns": [
+            "ns1.speedydns.net", 
+            "ns2.speedydns.net", 
+            "ns3.speedydns.net"
+        ], 
+        "domain-name": "bget.tech", 
+        "fuzzer": "omission", 
+        "geoip-country": "Netherlands", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-ns": [
+            "ns1.myhostadmin.net", 
+            "ns2.myhostadmin.net", 
+            "ns3.myhostadmin.net", 
+            "ns4.myhostadmin.net", 
+            "ns5.myhostadmin.net", 
+            "ns6.myhostadmin.net"
+        ], 
+        "domain-name": "beet.tech", 
+        "fuzzer": "omission"
+    }, 
+    {
+        "dns-a": [
+            "104.31.82.131", 
+            "104.31.83.131"
+        ], 
+        "dns-mx": [
+            "mx.zoho.com", 
+            "mx2.zoho.com", 
+            "mx3.zoho.com"
+        ], 
+        "dns-ns": [
+            "andy.ns.cloudflare.com", 
+            "sharon.ns.cloudflare.com"
+        ], 
+        "domain-name": "eget.tech", 
+        "fuzzer": "omission", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "173.254.239.2"
+        ], 
+        "domain-name": "veget.tech", 
+        "fuzzer": "replacement"
+    }, 
+    {
+        "dns-a": [
+            "138.68.59.99"
+        ], 
+        "domain-name": "be.get.tech", 
+        "fuzzer": "subdomain", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 0
+    }
+]

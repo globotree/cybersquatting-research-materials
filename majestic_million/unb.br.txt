@@ -1,0 +1,79 @@
+[
+    {
+        "dns-a": [
+            "164.41.102.70"
+        ], 
+        "dns-mx": [
+            "mxa.unb.br", 
+            "mxb.unb.br", 
+            "mxc.unb.br"
+        ], 
+        "dns-ns": [
+            "dns1.unb.br", 
+            "dns10.unb.br", 
+            "dns2.unb.br", 
+            "dns3.unb.br"
+        ], 
+        "domain-name": "unb.br", 
+        "fuzzer": "original*", 
+        "geoip-country": "Brazil"
+    }, 
+    {
+        "dns-a": [
+            "200.135.43.1"
+        ], 
+        "dns-ns": [
+            "ns-1289.awsdns-33.org", 
+            "ns-1658.awsdns-15.co.uk", 
+            "ns-50.awsdns-06.com", 
+            "ns-906.awsdns-49.net"
+        ], 
+        "domain-name": "unc.br", 
+        "fuzzer": "bitsquatting", 
+        "geoip-country": "Brazil"
+    }, 
+    {
+        "dns-a": [
+            "184.172.63.51"
+        ], 
+        "dns-mx": [
+            "unib.br"
+        ], 
+        "dns-ns": [
+            "reverso44.hoteldaweb.com.br", 
+            "reverso45.hoteldaweb.com.br"
+        ], 
+        "domain-name": "unib.br", 
+        "fuzzer": "homoglyph", 
+        "geoip-country": "United States"
+    }, 
+    {
+        "dns-a": [
+            "179.185.54.134", 
+            "189.80.207.106"
+        ], 
+        "dns-ns": [
+            "dns1.ung.br", 
+            "dns2.ung.br"
+        ], 
+        "domain-name": "ung.br", 
+        "fuzzer": "replacement"
+    }, 
+    {
+        "dns-a": [
+            "186.202.95.12"
+        ], 
+        "dns-mx": [
+            "mx.a.locaweb.com.br", 
+            "mx.b.locaweb.com.br", 
+            "mx.jk.locaweb.com.br"
+        ], 
+        "dns-ns": [
+            "ns1.locaweb.com.br", 
+            "ns2.locaweb.com.br", 
+            "ns3.locaweb.com.br"
+        ], 
+        "domain-name": "ubb.br", 
+        "fuzzer": "replacement"
+    }
+]

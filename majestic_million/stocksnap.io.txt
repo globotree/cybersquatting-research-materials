@@ -1,0 +1,44 @@
+[
+    {
+        "dns-a": [
+            "104.28.8.17", 
+            "104.28.9.17"
+        ], 
+        "dns-aaaa": [
+            "2400:cb00:2048:1::681c:811", 
+            "2400:cb00:2048:1::681c:911"
+        ], 
+        "dns-mx": [
+            "alt1.aspmx.l.google.com", 
+            "alt2.aspmx.l.google.com", 
+            "alt3.aspmx.l.google.com", 
+            "alt4.aspmx.l.google.com", 
+            "aspmx.l.google.com"
+        ], 
+        "dns-ns": [
+            "jade.ns.cloudflare.com", 
+            "zeus.ns.cloudflare.com"
+        ], 
+        "domain-name": "stocksnap.io", 
+        "fuzzer": "original*", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 93
+    }, 
+    {
+        "dns-a": [
+            "35.162.250.165"
+        ], 
+        "domain-name": "stocks.nap.io", 
+        "fuzzer": "subdomain", 
+        "geoip-country": "United States"
+    }, 
+    {
+        "dns-a": [
+            "193.223.78.230"
+        ], 
+        "domain-name": "stocksna.p.io", 
+        "fuzzer": "subdomain", 
+        "geoip-country": "United Kingdom", 
+        "ssdeep-score": 0
+    }
+]

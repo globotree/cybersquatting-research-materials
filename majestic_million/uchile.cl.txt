@@ -1,0 +1,133 @@
+[
+    {
+        "dns-a": [
+            "200.89.76.16"
+        ], 
+        "dns-mx": [
+            "ALT1.ASPMX.L.GOOGLE.COM", 
+            "ALT2.ASPMX.L.GOOGLE.COM", 
+            "ASPMX.L.GOOGLE.COM", 
+            "ASPMX2.GOOGLEMAIL.COM", 
+            "ASPMX3.GOOGLEMAIL.COM", 
+            "ASPMX4.GOOGLEMAIL.COM", 
+            "ASPMX5.GOOGLEMAIL.COM"
+        ], 
+        "dns-ns": [
+            "ns1.uchile.cl", 
+            "ns2.uchile.cl", 
+            "ns4.uchile.cl"
+        ], 
+        "domain-name": "uchile.cl", 
+        "fuzzer": "original*", 
+        "geoip-country": "Chile", 
+        "ssdeep-score": 97
+    }, 
+    {
+        "dns-a": [
+            "200.6.122.202"
+        ], 
+        "dns-ns": [
+            "ns.tchile.com", 
+            "ns1.tchile.com", 
+            "ns2.tchile.com", 
+            "ns3.tchile.com"
+        ], 
+        "domain-name": "tchile.cl", 
+        "fuzzer": "bitsquatting", 
+        "geoip-country": "Chile"
+    }, 
+    {
+        "dns-a": [
+            "216.70.123.55"
+        ], 
+        "dns-mx": [
+            "mail.uxchile.cl"
+        ], 
+        "dns-ns": [
+            "ns1.mediatemple.net", 
+            "ns2.mediatemple.net"
+        ], 
+        "domain-name": "uxchile.cl", 
+        "fuzzer": "insertion", 
+        "geoip-country": "United States"
+    }, 
+    {
+        "dns-a": [
+            "190.14.48.121"
+        ], 
+        "dns-mx": [
+            "web008.anacondaweb.com"
+        ], 
+        "dns-ns": [
+            "ns.conectu.com"
+        ], 
+        "domain-name": "ufchile.cl", 
+        "fuzzer": "insertion", 
+        "geoip-country": "Chile", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-mx": [
+            "ALT1.ASPMX.L.GOOGLE.COM", 
+            "ALT2.ASPMX.L.GOOGLE.COM", 
+            "ASPMX.L.GOOGLE.COM", 
+            "ASPMX2.GOOGLEMAIL.COM", 
+            "ASPMX3.GOOGLEMAIL.COM", 
+            "ASPMX4.GOOGLEMAIL.COM", 
+            "ASPMX5.GOOGLEMAIL.COM"
+        ], 
+        "dns-ns": [
+            "DNS1.NETGLOBALIS.NET", 
+            "DNS2.NETGLOBALIS.NET"
+        ], 
+        "domain-name": "chile.cl", 
+        "fuzzer": "omission"
+    }, 
+    {
+        "dns-a": [
+            "192.141.168.137"
+        ], 
+        "dns-mx": [
+            "jchile.cl"
+        ], 
+        "dns-ns": [
+            "dns1.chileadmin.com", 
+            "dns2.chileadmin.com"
+        ], 
+        "domain-name": "jchile.cl", 
+        "fuzzer": "replacement", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "50.87.75.88"
+        ], 
+        "dns-mx": [
+            "mail.zchile.cl"
+        ], 
+        "dns-ns": [
+            "ns1.justhost.com", 
+            "ns2.justhost.com"
+        ], 
+        "domain-name": "zchile.cl", 
+        "fuzzer": "replacement", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "190.96.85.16"
+        ], 
+        "dns-mx": [
+            "achile.cl"
+        ], 
+        "dns-ns": [
+            "dns1.hosting.cl", 
+            "dns2.hosting.cl", 
+            "dns3.hosting.cl", 
+            "dns4.hosting.cl"
+        ], 
+        "domain-name": "achile.cl", 
+        "fuzzer": "vowel-swap"
+    }
+]

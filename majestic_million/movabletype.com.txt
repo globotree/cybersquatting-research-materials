@@ -1,0 +1,119 @@
+[
+    {
+        "dns-a": [
+            "54.172.55.195"
+        ], 
+        "dns-mx": [
+            "alt1.aspmx.l.google.com", 
+            "alt2.aspmx.l.google.com", 
+            "aspmx.l.google.com", 
+            "aspmx2.googlemail.com", 
+            "aspmx3.googlemail.com", 
+            "aspmx4.googlemail.com", 
+            "aspmx5.googlemail.com"
+        ], 
+        "dns-ns": [
+            "ns-1142.awsdns-14.org", 
+            "ns-1815.awsdns-34.co.uk", 
+            "ns-409.awsdns-51.com", 
+            "ns-729.awsdns-27.net"
+        ], 
+        "domain-name": "movabletype.com", 
+        "fuzzer": "original*", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 100
+    }, 
+    {
+        "dns-a": [
+            "45.76.102.224"
+        ], 
+        "dns-ns": [
+            "ns1.alidns.com", 
+            "ns2.alidns.com"
+        ], 
+        "domain-name": "movabletyper.com", 
+        "fuzzer": "addition", 
+        "geoip-country": "Japan"
+    }, 
+    {
+        "dns-a": [
+            "184.168.221.51"
+        ], 
+        "dns-mx": [
+            "mailstore1.secureserver.net", 
+            "smtp.secureserver.net"
+        ], 
+        "dns-ns": [
+            "ns47.domaincontrol.com", 
+            "ns48.domaincontrol.com"
+        ], 
+        "domain-name": "movabletypes.com", 
+        "fuzzer": "addition", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "72.52.4.122"
+        ], 
+        "dns-mx": [
+            "localhost"
+        ], 
+        "dns-ns": [
+            "ns1.sedoparking.com", 
+            "ns2.sedoparking.com"
+        ], 
+        "domain-name": "movable-type.com", 
+        "fuzzer": "hyphenation", 
+        "geoip-country": "United States", 
+        "mx-spy": true, 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "103.232.215.130"
+        ], 
+        "dns-mx": [
+            "mail.happyisp.com"
+        ], 
+        "domain-name": "movab.letype.com", 
+        "fuzzer": "subdomain", 
+        "geoip-country": "China", 
+        "mx-spy": true, 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "184.168.221.104"
+        ], 
+        "dns-ns": [
+            "ns1.afternic.com", 
+            "ns2.afternic.com"
+        ], 
+        "domain-name": "movable.type.com", 
+        "fuzzer": "subdomain", 
+        "geoip-country": "United States"
+    }, 
+    {
+        "dns-a": [
+            "212.45.135.23"
+        ], 
+        "domain-name": "movablet.ype.com", 
+        "fuzzer": "subdomain", 
+        "geoip-country": "Italy", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "173.239.23.228"
+        ], 
+        "dns-ns": [
+            "NS1.DOMAIN-IS-4-SALE-AT-DOMAINMARKET.com", 
+            "NS2.DOMAINMARKET.com"
+        ], 
+        "domain-name": "movabletypo.com", 
+        "fuzzer": "vowel-swap", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 0
+    }
+]

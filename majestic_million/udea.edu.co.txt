@@ -1,0 +1,54 @@
+[
+    {
+        "dns-mx": [
+            "ALT1.ASPMX.L.GOOGLE.COM", 
+            "ALT2.ASPMX.L.GOOGLE.COM", 
+            "ALT3.ASPMX.L.GOOGLE.COM", 
+            "ALT4.ASPMX.L.GOOGLE.COM", 
+            "ASPMX.L.GOOGLE.COM"
+        ], 
+        "dns-ns": [
+            "bachue.udea.edu.co"
+        ], 
+        "domain-name": "udea.edu.co", 
+        "fuzzer": "original*"
+    }, 
+    {
+        "dns-a": [
+            "190.217.57.227"
+        ], 
+        "dns-mx": [
+            "tdea-edu-co.mail.protection.outlook.com"
+        ], 
+        "dns-ns": [
+            "birlocha.une.net.co", 
+            "lauta.une.net.co", 
+            "nsbog01.une.net.co"
+        ], 
+        "domain-name": "tdea.edu.co", 
+        "fuzzer": "bitsquatting", 
+        "geoip-country": "Argentina"
+    }, 
+    {
+        "dns-a": [
+            "179.50.16.13"
+        ], 
+        "dns-mx": [
+            "udes-edu-co.mail.protection.outlook.com"
+        ], 
+        "dns-ns": [
+            "delfin.udes.edu.co"
+        ], 
+        "domain-name": "udes.edu.co", 
+        "fuzzer": "replacement", 
+        "geoip-country": "Colombia"
+    }, 
+    {
+        "dns-a": [
+            "190.8.178.42"
+        ], 
+        "domain-name": "idea.edu.co", 
+        "fuzzer": "replacement", 
+        "geoip-country": "Colombia"
+    }
+]

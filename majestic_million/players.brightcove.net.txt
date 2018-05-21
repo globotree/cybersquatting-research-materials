@@ -1,0 +1,58 @@
+[
+    {
+        "dns-a": [
+            "23.64.234.194"
+        ], 
+        "domain-name": "players.brightcove.net", 
+        "fuzzer": "original*", 
+        "geoip-country": "Netherlands"
+    }, 
+    {
+        "dns-a": [
+            "208.91.197.26"
+        ], 
+        "domain-name": "players.bright-cove.net", 
+        "fuzzer": "hyphenation", 
+        "geoip-country": "Virgin Islands"
+    }, 
+    {
+        "dns-a": [
+            "141.8.224.93"
+        ], 
+        "dns-ns": [
+            "ns7.rookdns.com", 
+            "ns8.rookdns.com"
+        ], 
+        "domain-name": "playersbrightcove.net", 
+        "fuzzer": "omission", 
+        "geoip-country": "Switzerland"
+    }, 
+    {
+        "dns-a": [
+            "69.46.28.43"
+        ], 
+        "dns-mx": [
+            "mail2a.smtproutes.org", 
+            "mail2b.smtproutes.org"
+        ], 
+        "domain-name": "players.brightc.ove.net", 
+        "fuzzer": "subdomain", 
+        "geoip-country": "United States"
+    }, 
+    {
+        "dns-a": [
+            "72.52.4.120"
+        ], 
+        "dns-mx": [
+            "localhost"
+        ], 
+        "dns-ns": [
+            "ns1.sedoparking.com", 
+            "ns2.sedoparking.com"
+        ], 
+        "domain-name": "players.brightco.ve.net", 
+        "fuzzer": "subdomain", 
+        "geoip-country": "United States", 
+        "mx-spy": true
+    }
+]

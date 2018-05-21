@@ -1,0 +1,174 @@
+[
+    {
+        "dns-a": [
+            "128.178.222.69"
+        ], 
+        "dns-mx": [
+            "smtp1.epfl.ch", 
+            "smtp2.epfl.ch", 
+            "smtp3.epfl.ch"
+        ], 
+        "dns-ns": [
+            "stisun1.epfl.ch", 
+            "stisun2.epfl.ch"
+        ], 
+        "domain-name": "epfl.ch", 
+        "fuzzer": "original*", 
+        "geoip-country": "Switzerland", 
+        "ssdeep-score": 100
+    }, 
+    {
+        "dns-a": [
+            "217.26.53.30"
+        ], 
+        "dns-mx": [
+            "mx1.mail.hostpoint.ch", 
+            "mx2.mail.hostpoint.ch"
+        ], 
+        "dns-ns": [
+            "ns.hostpoint.ch", 
+            "ns2.hostpoint.ch"
+        ], 
+        "domain-name": "epf.ch", 
+        "fuzzer": "omission", 
+        "geoip-country": "Switzerland"
+    }, 
+    {
+        "dns-a": [
+            "80.74.152.40"
+        ], 
+        "dns-mx": [
+            "mail.epl.ch"
+        ], 
+        "dns-ns": [
+            "ns.ch-meta.net", 
+            "ns2.ch-meta.net", 
+            "ns3.ch-meta.net"
+        ], 
+        "domain-name": "epl.ch", 
+        "fuzzer": "omission", 
+        "geoip-country": "Switzerland", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "178.238.234.100"
+        ], 
+        "dns-mx": [
+            "smtp.mailcleaner.net", 
+            "smtp2.mailcleaner.net"
+        ], 
+        "dns-ns": [
+            "ns1.leanux.ch", 
+            "ns2.leanux.ch"
+        ], 
+        "domain-name": "efl.ch", 
+        "fuzzer": "omission"
+    }, 
+    {
+        "dns-a": [
+            "212.40.14.15"
+        ], 
+        "dns-mx": [
+            "mx2.vtx.ch"
+        ], 
+        "dns-ns": [
+            "ns01.vtx.ch", 
+            "ns02.vtx.ch"
+        ], 
+        "domain-name": "pfl.ch", 
+        "fuzzer": "omission"
+    }, 
+    {
+        "dns-a": [
+            "87.118.70.57"
+        ], 
+        "dns-mx": [
+            "mail.epfk.ch"
+        ], 
+        "dns-ns": [
+            "dns803.best-webhost.de", 
+            "ns803.best-webhost.de"
+        ], 
+        "domain-name": "epfk.ch", 
+        "fuzzer": "replacement", 
+        "geoip-country": "Germany"
+    }, 
+    {
+        "dns-a": [
+            "83.166.138.36"
+        ], 
+        "dns-mx": [
+            "mta-gw.infomaniak.ch"
+        ], 
+        "dns-ns": [
+            "ns5.infomaniak.ch", 
+            "ns6.infomaniak.ch"
+        ], 
+        "domain-name": "epcl.ch", 
+        "fuzzer": "replacement", 
+        "geoip-country": "Switzerland", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "212.40.14.15"
+        ], 
+        "dns-mx": [
+            "mx2.vtx.ch"
+        ], 
+        "dns-ns": [
+            "ns01.vtx.ch", 
+            "ns02.vtx.ch"
+        ], 
+        "domain-name": "e.pfl.ch", 
+        "fuzzer": "subdomain"
+    }, 
+    {
+        "dns-a": [
+            "80.74.128.8"
+        ], 
+        "dns-mx": [
+            "pefl-ch.mail.protection.outlook.com"
+        ], 
+        "dns-ns": [
+            "ns1.com2web.ch", 
+            "ns2.com2web.ch", 
+            "ns3.com2web.ch"
+        ], 
+        "domain-name": "pefl.ch", 
+        "fuzzer": "transposition", 
+        "geoip-country": "Switzerland", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "84.16.73.17"
+        ], 
+        "dns-aaaa": [
+            "2001:1600:4:1::b"
+        ], 
+        "dns-ns": [
+            "ns1.infomaniak.ch", 
+            "ns2.infomaniak.ch"
+        ], 
+        "domain-name": "efpl.ch", 
+        "fuzzer": "transposition", 
+        "geoip-country": "Switzerland"
+    }, 
+    {
+        "dns-a": [
+            "174.136.13.116"
+        ], 
+        "dns-mx": [
+            "eplf.ch"
+        ], 
+        "dns-ns": [
+            "ns1.speedydns.net", 
+            "ns2.speedydns.net", 
+            "ns3.speedydns.net"
+        ], 
+        "domain-name": "eplf.ch", 
+        "fuzzer": "transposition"
+    }
+]

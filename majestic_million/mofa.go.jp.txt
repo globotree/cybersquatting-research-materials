@@ -1,0 +1,27 @@
+[
+    {
+        "dns-mx": [
+            "mail.mofa.go.jp", 
+            "mail2.mofa.go.jp", 
+            "mail3.mofa.go.jp"
+        ], 
+        "dns-ns": [
+            "ns1.mofa.go.jp", 
+            "ns2.mofa.go.jp", 
+            "ns3.mofa.go.jp"
+        ], 
+        "domain-name": "mofa.go.jp", 
+        "fuzzer": "original*"
+    }, 
+    {
+        "dns-mx": [
+            "ns1.mof.go.jp"
+        ], 
+        "dns-ns": [
+            "ns00.vips.ne.jp", 
+            "ns01.vips.ne.jp"
+        ], 
+        "domain-name": "mof.go.jp", 
+        "fuzzer": "omission"
+    }
+]

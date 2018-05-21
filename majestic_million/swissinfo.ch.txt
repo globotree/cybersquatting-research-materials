@@ -1,0 +1,125 @@
+[
+    {
+        "dns-a": [
+            "193.218.103.226", 
+            "193.218.104.141"
+        ], 
+        "dns-mx": [
+            "swissinfo-ch.mail.protection.outlook.com"
+        ], 
+        "dns-ns": [
+            "ns1.srgssr.ch", 
+            "ns2.srgssr.ch"
+        ], 
+        "domain-name": "swissinfo.ch", 
+        "fuzzer": "original*", 
+        "geoip-country": "Switzerland", 
+        "ssdeep-score": 99
+    }, 
+    {
+        "dns-a": [
+            "72.52.4.119"
+        ], 
+        "dns-mx": [
+            "localhost"
+        ], 
+        "dns-ns": [
+            "ns1.sedoparking.com", 
+            "ns2.sedoparking.com"
+        ], 
+        "domain-name": "swissinfos.ch", 
+        "fuzzer": "addition", 
+        "geoip-country": "United States", 
+        "mx-spy": true, 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "217.26.51.247"
+        ], 
+        "dns-aaaa": [
+            "2a00:d70:0:b:2002:0:d91a:33f7"
+        ], 
+        "dns-mx": [
+            "swissinno-ch.mail.protection.outlook.com"
+        ], 
+        "dns-ns": [
+            "ns.hostpoint.ch", 
+            "ns2.hostpoint.ch", 
+            "ns3.hostpoint.ch"
+        ], 
+        "domain-name": "swissinno.ch", 
+        "fuzzer": "bitsquatting", 
+        "geoip-country": "Switzerland", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "80.74.128.17"
+        ], 
+        "dns-mx": [
+            "mail.swiss-info.ch"
+        ], 
+        "dns-ns": [
+            "ns1.yourhostingaccount.com", 
+            "ns2.yourhostingaccount.com"
+        ], 
+        "domain-name": "swiss-info.ch", 
+        "fuzzer": "hyphenation", 
+        "geoip-country": "Switzerland", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "78.46.77.98"
+        ], 
+        "dns-mx": [
+            "mail.swissinf.ch"
+        ], 
+        "dns-ns": [
+            "ns143.hoststar.ch", 
+            "ns144.hoststar.ch"
+        ], 
+        "domain-name": "swissinf.ch", 
+        "fuzzer": "omission", 
+        "geoip-country": "Germany", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "128.65.195.48"
+        ], 
+        "dns-mx": [
+            "mta-gw.infomaniak.ch"
+        ], 
+        "dns-ns": [
+            "ns1.infomaniak.ch", 
+            "ns2.infomaniak.ch"
+        ], 
+        "domain-name": "swissino.ch", 
+        "fuzzer": "omission", 
+        "geoip-country": "Switzerland", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "5.148.183.61"
+        ], 
+        "domain-name": "swiss.info.ch", 
+        "fuzzer": "subdomain", 
+        "geoip-country": "Switzerland", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "217.26.52.20"
+        ], 
+        "dns-mx": [
+            "mx1.mail.hostpoint.ch", 
+            "mx2.mail.hostpoint.ch"
+        ], 
+        "domain-name": "swissi.nfo.ch", 
+        "fuzzer": "subdomain", 
+        "geoip-country": "Switzerland"
+    }
+]

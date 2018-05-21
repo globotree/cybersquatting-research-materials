@@ -1,0 +1,47 @@
+[
+    {
+        "dns-a": [
+            "129.11.90.73"
+        ], 
+        "dns-aaaa": [
+            "2001:630:62:90::88"
+        ], 
+        "dns-mx": [
+            "mhost01h.leeds.ac.uk", 
+            "mhost03c.leeds.ac.uk", 
+            "mhost04c.leeds.ac.uk", 
+            "mhost04h.leeds.ac.uk"
+        ], 
+        "dns-ns": [
+            "dns.leeds.ac.uk", 
+            "dns6.leeds.ac.uk", 
+            "ns12.ja.net", 
+            "ucsdns1.leeds.ac.uk", 
+            "ucsdns2.leeds.ac.uk"
+        ], 
+        "domain-name": "leeds.ac.uk", 
+        "fuzzer": "original*", 
+        "geoip-country": "United Kingdom", 
+        "ssdeep-score": 100
+    }, 
+    {
+        "dns-ns": [
+            "dns.leeds.ac.uk", 
+            "ucsdns1.leeds.ac.uk", 
+            "ucsdns2.leeds.ac.uk"
+        ], 
+        "domain-name": "leedsd.ac.uk", 
+        "fuzzer": "addition"
+    }, 
+    {
+        "dns-a": [
+            "198.24.128.35"
+        ], 
+        "dns-ns": [
+            "ns1.vvmxnet.co.uk", 
+            "ns2.vvmxnet.co.uk"
+        ], 
+        "domain-name": "leeds.uk", 
+        "fuzzer": "various"
+    }
+]

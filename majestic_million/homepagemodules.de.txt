@@ -1,0 +1,84 @@
+[
+    {
+        "dns-a": [
+            "136.243.25.112", 
+            "136.243.25.5", 
+            "138.201.75.112", 
+            "217.13.206.172", 
+            "46.4.4.195", 
+            "78.47.210.59"
+        ], 
+        "dns-mx": [
+            "mail.miranus.com"
+        ], 
+        "dns-ns": [
+            "ns.homepagemodules.de", 
+            "ns2.homepagemodules.de"
+        ], 
+        "domain-name": "homepagemodules.de", 
+        "fuzzer": "original*", 
+        "geoip-country": "Germany", 
+        "mx-spy": true, 
+        "ssdeep-score": 99
+    }, 
+    {
+        "dns-a": [
+            "69.16.230.42"
+        ], 
+        "dns-mx": [
+            "mx156.hostedmxserver.com"
+        ], 
+        "dns-ns": [
+            "ns1.parklogic.com", 
+            "ns2.parklogic.com", 
+            "ns3.parklogic.com"
+        ], 
+        "domain-name": "hompagemodules.de", 
+        "fuzzer": "omission", 
+        "geoip-country": "United States", 
+        "mx-spy": true, 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "80.67.16.8"
+        ], 
+        "dns-aaaa": [
+            "2a00:1158:0:100::14"
+        ], 
+        "dns-mx": [
+            "mxlb.ispgateway.de"
+        ], 
+        "dns-ns": [
+            "ns.namespace4you.de", 
+            "ns2.namespace4you.de"
+        ], 
+        "domain-name": "homepagemodule.de", 
+        "fuzzer": "omission", 
+        "geoip-country": "Germany", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "217.13.206.172"
+        ], 
+        "dns-mx": [
+            "mail.homepagemoduls.de"
+        ], 
+        "dns-ns": [
+            "ns1.s-dns.de", 
+            "ns2.s-dns.de"
+        ], 
+        "domain-name": "homepagemoduls.de", 
+        "fuzzer": "omission", 
+        "geoip-country": "Germany"
+    }, 
+    {
+        "dns-a": [
+            "213.239.215.88"
+        ], 
+        "domain-name": "homepagemodul.es.de", 
+        "fuzzer": "subdomain", 
+        "geoip-country": "Germany"
+    }
+]

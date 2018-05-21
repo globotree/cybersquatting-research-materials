@@ -1,0 +1,23 @@
+[
+    {
+        "dns-mx": [
+            "mailgw.mohrss.gov.cn"
+        ], 
+        "dns-ns": [
+            "ns3.molss.gov.cn", 
+            "ns4.molss.gov.cn", 
+            "ns5.molss.gov.cn"
+        ], 
+        "domain-name": "mohrss.gov.cn", 
+        "fuzzer": "original*", 
+        "mx-spy": true
+    }, 
+    {
+        "dns-ns": [
+            "f1g1ns1.dnspod.net", 
+            "f1g1ns2.dnspod.net"
+        ], 
+        "domain-name": "mohrss.cn", 
+        "fuzzer": "various"
+    }
+]

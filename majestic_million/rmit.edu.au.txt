@@ -1,0 +1,56 @@
+[
+    {
+        "dns-a": [
+            "131.170.0.105"
+        ], 
+        "dns-mx": [
+            "au-smtp-1.mimecast.com", 
+            "au-smtp-2.mimecast.com"
+        ], 
+        "dns-ns": [
+            "ns1-external.rmit.edu.au", 
+            "ns2-external.rmit.edu.au"
+        ], 
+        "domain-name": "rmit.edu.au", 
+        "fuzzer": "original*", 
+        "geoip-country": "Australia", 
+        "ssdeep-score": 100
+    }, 
+    {
+        "dns-a": [
+            "96.45.82.193", 
+            "96.45.82.56", 
+            "96.45.83.149", 
+            "96.45.83.81"
+        ], 
+        "dns-ns": [
+            "ns0.huntertafeapps.edu.au", 
+            "ns1.huntertafeapps.edu.au", 
+            "ns2.huntertafeapps.edu.au", 
+            "ns3.huntertafeapps.edu.au", 
+            "ns4.huntertafeapps.edu.au"
+        ], 
+        "domain-name": "rmi.edu.au", 
+        "fuzzer": "omission", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "203.38.25.2"
+        ], 
+        "dns-mx": [
+            "mx.mit.edu.au", 
+            "mx1.mit.edu.au"
+        ], 
+        "dns-ns": [
+            "dns0.telstra.net", 
+            "ns0.telstra.net", 
+            "ns1.telstra.net"
+        ], 
+        "domain-name": "mit.edu.au", 
+        "fuzzer": "omission", 
+        "geoip-country": "Australia", 
+        "ssdeep-score": 0
+    }
+]

@@ -1,0 +1,168 @@
+[
+    {
+        "dns-mx": [
+            "msgw.bk.mufg.jp"
+        ], 
+        "dns-ns": [
+            "a1-10.akam.net", 
+            "a11-67.akam.net", 
+            "a16-64.akam.net", 
+            "a26-65.akam.net", 
+            "a5-66.akam.net", 
+            "a8-67.akam.net", 
+            "ns1.mss.mind.ne.jp", 
+            "tokio.mind.ad.jp"
+        ], 
+        "domain-name": "mufg.jp", 
+        "fuzzer": "original*", 
+        "mx-spy": true
+    }, 
+    {
+        "dns-mx": [
+            "p.webcom.ctmail.com"
+        ], 
+        "dns-ns": [
+            "ns15.worldnic.com", 
+            "ns16.worldnic.com"
+        ], 
+        "domain-name": "mufgs.jp", 
+        "fuzzer": "addition", 
+        "mx-spy": true
+    }, 
+    {
+        "dns-a": [
+            "150.95.8.190"
+        ], 
+        "dns-mx": [
+            "mung.jp"
+        ], 
+        "dns-ns": [
+            "ns1.value-domain.com", 
+            "ns2.value-domain.com"
+        ], 
+        "domain-name": "mung.jp", 
+        "fuzzer": "bitsquatting", 
+        "geoip-country": "Japan", 
+        "mx-spy": true
+    }, 
+    {
+        "dns-a": [
+            "59.106.19.61"
+        ], 
+        "dns-mx": [
+            "muff.jp"
+        ], 
+        "dns-ns": [
+            "ns1.dns.ne.jp", 
+            "ns2.dns.ne.jp"
+        ], 
+        "domain-name": "muff.jp", 
+        "fuzzer": "bitsquatting", 
+        "geoip-country": "Japan"
+    }, 
+    {
+        "dns-a": [
+            "59.106.19.200"
+        ], 
+        "dns-mx": [
+            "mug.jp"
+        ], 
+        "dns-ns": [
+            "ns1.dns.ne.jp", 
+            "ns2.dns.ne.jp"
+        ], 
+        "domain-name": "mug.jp", 
+        "fuzzer": "omission", 
+        "geoip-country": "Japan"
+    }, 
+    {
+        "dns-a": [
+            "157.205.25.184"
+        ], 
+        "dns-mx": [
+            "mxi.alpha-prm.jp"
+        ], 
+        "dns-ns": [
+            "fjkdns01.alpha-prm.jp", 
+            "fjkdns02.alpha-prm.jp", 
+            "fjkdns03.alpha-prm.jp"
+        ], 
+        "domain-name": "mfg.jp", 
+        "fuzzer": "omission", 
+        "geoip-country": "Japan"
+    }, 
+    {
+        "dns-a": [
+            "218.219.134.18"
+        ], 
+        "dns-mx": [
+            "muf.jp"
+        ], 
+        "dns-ns": [
+            "ns01.f139jp8912.info", 
+            "ns02.f139jp8912.info"
+        ], 
+        "domain-name": "muf.jp", 
+        "fuzzer": "omission"
+    }, 
+    {
+        "dns-a": [
+            "219.99.220.218"
+        ], 
+        "dns-mx": [
+            "smtp.ufg.jp"
+        ], 
+        "dns-ns": [
+            "ns.dlsv.com", 
+            "ns2.dlsv.com", 
+            "ns3.dlsv.com"
+        ], 
+        "domain-name": "ufg.jp", 
+        "fuzzer": "omission", 
+        "geoip-country": "Japan", 
+        "mx-spy": true
+    }, 
+    {
+        "dns-a": [
+            "61.126.45.113"
+        ], 
+        "dns-mx": [
+            "myfg.jp"
+        ], 
+        "dns-ns": [
+            "asns1.customer.ne.jp", 
+            "asns2.customer.ne.jp"
+        ], 
+        "domain-name": "myfg.jp", 
+        "fuzzer": "replacement", 
+        "geoip-country": "Japan"
+    }, 
+    {
+        "dns-a": [
+            "219.94.129.180"
+        ], 
+        "dns-mx": [
+            "mhfg.jp"
+        ], 
+        "dns-ns": [
+            "ns1.dns.ne.jp", 
+            "ns2.dns.ne.jp"
+        ], 
+        "domain-name": "mhfg.jp", 
+        "fuzzer": "replacement"
+    }, 
+    {
+        "dns-a": [
+            "157.7.107.129"
+        ], 
+        "dns-mx": [
+            "mx01.lolipop.jp"
+        ], 
+        "dns-ns": [
+            "uns01.lolipop.jp", 
+            "uns02.lolipop.jp"
+        ], 
+        "domain-name": "mafg.jp", 
+        "fuzzer": "vowel-swap"
+    }
+]

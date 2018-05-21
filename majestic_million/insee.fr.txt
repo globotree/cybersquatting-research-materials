@@ -1,0 +1,270 @@
+[
+    {
+        "dns-a": [
+            "194.254.37.163", 
+            "212.234.174.212"
+        ], 
+        "dns-mx": [
+            "freyja.insee.fr", 
+            "freyja2.insee.fr", 
+            "heimdall.insee.fr", 
+            "heimdall2.insee.fr"
+        ], 
+        "dns-ns": [
+            "hermes2.insee.fr", 
+            "ns1.insee.fr", 
+            "ns2.insee.fr"
+        ], 
+        "domain-name": "insee.fr", 
+        "fuzzer": "original*", 
+        "geoip-country": "France", 
+        "mx-spy": true, 
+        "ssdeep-score": 100
+    }, 
+    {
+        "dns-a": [
+            "185.65.56.149"
+        ], 
+        "dns-ns": [
+            "dns1.namebay.com", 
+            "dns2.namebay.com"
+        ], 
+        "domain-name": "inseec.fr", 
+        "fuzzer": "addition", 
+        "geoip-country": "France", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "184.168.221.1"
+        ], 
+        "dns-ns": [
+            "ns81.domaincontrol.com", 
+            "ns82.domaincontrol.com"
+        ], 
+        "domain-name": "inseed.fr", 
+        "fuzzer": "addition", 
+        "geoip-country": "United States"
+    }, 
+    {
+        "dns-a": [
+            "213.186.33.24"
+        ], 
+        "dns-mx": [
+            "mx1.ovh.net", 
+            "mx2.ovh.net", 
+            "mxb.ovh.net"
+        ], 
+        "dns-ns": [
+            "dns107.ovh.net", 
+            "ns107.ovh.net"
+        ], 
+        "domain-name": "inwee.fr", 
+        "fuzzer": "bitsquatting", 
+        "geoip-country": "France", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "213.186.33.5"
+        ], 
+        "dns-mx": [
+            "redirect.ovh.net"
+        ], 
+        "dns-ns": [
+            "dns11.ovh.net", 
+            "ns11.ovh.net"
+        ], 
+        "domain-name": "incee.fr", 
+        "fuzzer": "bitsquatting", 
+        "geoip-country": "France", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "213.186.33.17"
+        ], 
+        "dns-mx": [
+            "mx1.ovh.net", 
+            "mx2.ovh.net", 
+            "mxb.ovh.net"
+        ], 
+        "dns-ns": [
+            "dns18.ovh.net", 
+            "ns18.ovh.net"
+        ], 
+        "domain-name": "insea.fr", 
+        "fuzzer": "bitsquatting", 
+        "geoip-country": "France"
+    }, 
+    {
+        "dns-a": [
+            "217.70.184.38"
+        ], 
+        "dns-mx": [
+            "fb.mail.gandi.net", 
+            "spool.mail.gandi.net"
+        ], 
+        "dns-ns": [
+            "a.dns.gandi.net", 
+            "b.dns.gandi.net", 
+            "c.dns.gandi.net"
+        ], 
+        "domain-name": "insem.fr", 
+        "fuzzer": "bitsquatting", 
+        "geoip-country": "France", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "185.53.178.6"
+        ], 
+        "dns-mx": [
+            "mail.h-email.net"
+        ], 
+        "dns-ns": [
+            "ns1.parkingcrew.net", 
+            "ns2.parkingcrew.net"
+        ], 
+        "domain-name": "inssee.fr", 
+        "fuzzer": "insertion", 
+        "geoip-country": "Germany", 
+        "mx-spy": true, 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "213.186.33.5"
+        ], 
+        "dns-mx": [
+            "nsee-fr.mail.protection.outlook.com"
+        ], 
+        "dns-ns": [
+            "dns200.anycast.me", 
+            "ns200.anycast.me"
+        ], 
+        "domain-name": "nsee.fr", 
+        "fuzzer": "omission", 
+        "geoip-country": "France", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "213.186.33.4"
+        ], 
+        "dns-mx": [
+            "mail.inse.fr"
+        ], 
+        "dns-ns": [
+            "dns10.ovh.net", 
+            "ns10.ovh.net"
+        ], 
+        "domain-name": "inse.fr", 
+        "fuzzer": "omission", 
+        "geoip-country": "France"
+    }, 
+    {
+        "dns-a": [
+            "213.186.33.5"
+        ], 
+        "dns-mx": [
+            "isee-fr.mail.protection.outlook.com"
+        ], 
+        "dns-ns": [
+            "dns.ovh.net", 
+            "ns.ovh.net"
+        ], 
+        "domain-name": "isee.fr", 
+        "fuzzer": "omission", 
+        "geoip-country": "France", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "213.186.33.5"
+        ], 
+        "dns-mx": [
+            "redirect.ovh.net"
+        ], 
+        "dns-ns": [
+            "dns104.ovh.net", 
+            "ns104.ovh.net"
+        ], 
+        "domain-name": "inzee.fr", 
+        "fuzzer": "replacement", 
+        "geoip-country": "France", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "185.53.177.29"
+        ], 
+        "dns-ns": [
+            "ns1.singleplan.com", 
+            "ns2.singleplan.com"
+        ], 
+        "domain-name": "insse.fr", 
+        "fuzzer": "replacement", 
+        "geoip-country": "Germany", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "46.166.189.98"
+        ], 
+        "dns-ns": [
+            "ns-canada.topdns.com", 
+            "ns-uk.topdns.com", 
+            "ns-usa.topdns.com"
+        ], 
+        "domain-name": "indee.fr", 
+        "fuzzer": "replacement", 
+        "geoip-country": "Netherlands", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-mx": [
+            "mx.easynet.fr", 
+            "mx1.mail.easynet.fr", 
+            "mx2.mail.easynet.fr"
+        ], 
+        "dns-ns": [
+            "ns.easynet.fr", 
+            "ns0.easynet.co.uk", 
+            "ns1.easynet.co.uk"
+        ], 
+        "domain-name": "inser.fr", 
+        "fuzzer": "replacement"
+    }, 
+    {
+        "dns-a": [
+            "213.186.33.2"
+        ], 
+        "dns-mx": [
+            "mx1.ovh.net", 
+            "mx2.ovh.net"
+        ], 
+        "dns-ns": [
+            "dns13.ovh.net", 
+            "ns13.ovh.net"
+        ], 
+        "domain-name": "inese.fr", 
+        "fuzzer": "transposition"
+    }, 
+    {
+        "dns-a": [
+            "91.198.44.10"
+        ], 
+        "dns-mx": [
+            "mx01.mx.devclic.net"
+        ], 
+        "dns-ns": [
+            "ns1.devclic.net", 
+            "ns2.devclic.net", 
+            "ns3.devclic.net", 
+            "ns4.devclic.net"
+        ], 
+        "domain-name": "inseo.fr", 
+        "fuzzer": "vowel-swap"
+    }
+]

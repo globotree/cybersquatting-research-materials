@@ -1,0 +1,112 @@
+[
+    {
+        "dns-mx": [
+            "win-mail10.hostmanagement.net"
+        ], 
+        "dns-ns": [
+            "ns1.hmsns.com", 
+            "ns2.hmsns.com", 
+            "ns3.hmsns.com"
+        ], 
+        "domain-name": "getpaint.net", 
+        "fuzzer": "original*"
+    }, 
+    {
+        "dns-a": [
+            "103.224.212.222"
+        ], 
+        "dns-mx": [
+            "park-mx.above.com"
+        ], 
+        "dns-ns": [
+            "ns1.above.com", 
+            "ns2.above.com"
+        ], 
+        "domain-name": "getpant.net", 
+        "fuzzer": "omission", 
+        "geoip-country": "Australia", 
+        "mx-spy": true
+    }, 
+    {
+        "dns-a": [
+            "85.17.25.215"
+        ], 
+        "dns-ns": [
+            "ns1.smtmdns.com", 
+            "ns2.smtmdns.com"
+        ], 
+        "domain-name": "getpain.net", 
+        "fuzzer": "omission", 
+        "geoip-country": "Netherlands"
+    }, 
+    {
+        "dns-a": [
+            "103.224.212.222"
+        ], 
+        "dns-mx": [
+            "park-mx.above.com"
+        ], 
+        "dns-ns": [
+            "ns1.above.com", 
+            "ns2.above.com"
+        ], 
+        "domain-name": "getpait.net", 
+        "fuzzer": "omission", 
+        "geoip-country": "Australia", 
+        "mx-spy": true
+    }, 
+    {
+        "dns-a": [
+            "178.254.57.60"
+        ], 
+        "domain-name": "ge.tpaint.net", 
+        "fuzzer": "subdomain", 
+        "geoip-country": "Germany"
+    }, 
+    {
+        "dns-a": [
+            "185.53.178.6"
+        ], 
+        "dns-ns": [
+            "ns1.parkingcrew.net", 
+            "ns2.parkingcrew.net"
+        ], 
+        "domain-name": "getp.aint.net", 
+        "fuzzer": "subdomain", 
+        "geoip-country": "Germany"
+    }, 
+    {
+        "dns-a": [
+            "69.46.28.43"
+        ], 
+        "dns-mx": [
+            "mail2a.smtproutes.org", 
+            "mail2b.smtproutes.org"
+        ], 
+        "domain-name": "getpa.int.net", 
+        "fuzzer": "subdomain"
+    }, 
+    {
+        "dns-a": [
+            "69.162.80.53"
+        ], 
+        "dns-ns": [
+            "ns1.hastydns.com", 
+            "ns2.hastydns.com"
+        ], 
+        "domain-name": "getpanit.net", 
+        "fuzzer": "transposition", 
+        "geoip-country": "United States"
+    }, 
+    {
+        "dns-a": [
+            "211.234.63.232"
+        ], 
+        "dns-ns": [
+            "ns1.hosting.co.kr", 
+            "ns2.hosting.co.kr"
+        ], 
+        "domain-name": "getpoint.net", 
+        "fuzzer": "vowel-swap"
+    }
+]

@@ -1,0 +1,64 @@
+[
+    {
+        "dns-ns": [
+            "ns01.yahoo.co.jp", 
+            "ns02.yahoo.co.jp", 
+            "ns11.yahoo.co.jp", 
+            "ns12.yahoo.co.jp"
+        ], 
+        "domain-name": "geocities.jp", 
+        "fuzzer": "original*"
+    }, 
+    {
+        "dns-a": [
+            "210.188.201.143"
+        ], 
+        "dns-mx": [
+            "geosities.jp"
+        ], 
+        "domain-name": "geosities.jp", 
+        "fuzzer": "bitsquatting", 
+        "geoip-country": "Japan"
+    }, 
+    {
+        "dns-ns": [
+            "ns-103.awsdns-12.com", 
+            "ns-1249.awsdns-28.org", 
+            "ns-1845.awsdns-38.co.uk", 
+            "ns-903.awsdns-48.net"
+        ], 
+        "domain-name": "gecities.jp", 
+        "fuzzer": "omission"
+    }, 
+    {
+        "dns-a": [
+            "141.8.224.25"
+        ], 
+        "dns-ns": [
+            "ns1.rookdns.com", 
+            "ns2.rookdns.com"
+        ], 
+        "domain-name": "geocites.jp", 
+        "fuzzer": "omission", 
+        "geoip-country": "Switzerland"
+    }, 
+    {
+        "dns-a": [
+            "202.172.28.4"
+        ], 
+        "dns-mx": [
+            "ALT1.aspmx.l.google.com", 
+            "ALT2.aspmx.l.google.com", 
+            "ASPMX2.GOOGLEMAIL.com", 
+            "ASPMX3.GOOGLEMAIL.com", 
+            "aspmx.l.google.com"
+        ], 
+        "dns-ns": [
+            "ns1.value-domain.com", 
+            "ns2.value-domain.com"
+        ], 
+        "domain-name": "geocitties.jp", 
+        "fuzzer": "repetition", 
+        "geoip-country": "Japan"
+    }
+]

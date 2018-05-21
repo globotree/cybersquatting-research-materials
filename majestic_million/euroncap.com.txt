@@ -1,0 +1,94 @@
+[
+    {
+        "dns-a": [
+            "104.40.129.89"
+        ], 
+        "dns-mx": [
+            "euroncap-com.mail.protection.outlook.com"
+        ], 
+        "dns-ns": [
+            "ns1.namecity.com", 
+            "ns2.namecity.com"
+        ], 
+        "domain-name": "euroncap.com", 
+        "fuzzer": "original*", 
+        "geoip-country": "Netherlands", 
+        "ssdeep-score": 100
+    }, 
+    {
+        "dns-a": [
+            "104.40.129.89"
+        ], 
+        "dns-mx": [
+            "mail.euro-ncap.com"
+        ], 
+        "dns-ns": [
+            "ns1.namecity.com", 
+            "ns2.namecity.com"
+        ], 
+        "domain-name": "euro-ncap.com", 
+        "fuzzer": "hyphenation", 
+        "geoip-country": "Netherlands", 
+        "ssdeep-score": 100
+    }, 
+    {
+        "dns-a": [
+            "68.178.213.61"
+        ], 
+        "dns-ns": [
+            "ns1.namefind.com", 
+            "ns2.namefind.com"
+        ], 
+        "domain-name": "euronap.com", 
+        "fuzzer": "omission", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "69.172.201.153"
+        ], 
+        "dns-ns": [
+            "ns1.uniregistrymarket.link", 
+            "ns2.uniregistrymarket.link"
+        ], 
+        "domain-name": "eurncap.com", 
+        "fuzzer": "omission", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "185.26.230.129"
+        ], 
+        "dns-ns": [
+            "ns1-ix.smk-networks.de", 
+            "ns2-ix.smk-networks.de"
+        ], 
+        "domain-name": "eurocap.com", 
+        "fuzzer": "omission", 
+        "geoip-country": "United Kingdom", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "69.172.201.153"
+        ], 
+        "dns-ns": [
+            "ns1.uniregistrymarket.link", 
+            "ns2.uniregistrymarket.link"
+        ], 
+        "domain-name": "euron.cap.com", 
+        "fuzzer": "subdomain", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "162.144.100.229"
+        ], 
+        "domain-name": "euronc.ap.com", 
+        "fuzzer": "subdomain", 
+        "geoip-country": "United States"
+    }
+]

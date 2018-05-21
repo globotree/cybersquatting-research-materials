@@ -1,0 +1,126 @@
+[
+    {
+        "dns-a": [
+            "13.65.87.66"
+        ], 
+        "dns-mx": [
+            "usmail1.ihsmarkit.com", 
+            "usmail2.ihsmarkit.com"
+        ], 
+        "dns-ns": [
+            "a1-114.akam.net", 
+            "a16-67.akam.net", 
+            "a28-64.akam.net", 
+            "a5-65.akam.net", 
+            "a6-66.akam.net"
+        ], 
+        "domain-name": "ihsmarkit.com", 
+        "fuzzer": "original*", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 100
+    }, 
+    {
+        "dns-ns": [
+            "ns1.systemdns.com", 
+            "ns2.systemdns.com", 
+            "ns3.systemdns.com"
+        ], 
+        "domain-name": "ihsmarkits.com", 
+        "fuzzer": "addition"
+    }, 
+    {
+        "dns-ns": [
+            "1a7ea920.bitcoin-dns.hosting", 
+            "a8332f3a.bitcoin-dns.hosting", 
+            "ad636824.bitcoin-dns.hosting", 
+            "c358ea2d.bitcoin-dns.hosting"
+        ], 
+        "domain-name": "ihsrnarkit.com", 
+        "fuzzer": "homoglyph"
+    }, 
+    {
+        "dns-a": [
+            "72.52.4.90"
+        ], 
+        "dns-mx": [
+            "mailgw.ns36.de"
+        ], 
+        "dns-ns": [
+            "a.ns36.de", 
+            "b.ns36.de"
+        ], 
+        "domain-name": "ihsmarklt.com", 
+        "fuzzer": "homoglyph", 
+        "geoip-country": "United States", 
+        "mx-spy": true, 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-ns": [
+            "ns6.ihs.com", 
+            "ns7.ihs.com"
+        ], 
+        "domain-name": "ihs-markit.com", 
+        "fuzzer": "hyphenation"
+    }, 
+    {
+        "dns-ns": [
+            "ns1.systemdns.com", 
+            "ns2.systemdns.com", 
+            "ns3.systemdns.com"
+        ], 
+        "domain-name": "ihsmarkiit.com", 
+        "fuzzer": "insertion"
+    }, 
+    {
+        "dns-a": [
+            "185.53.178.9"
+        ], 
+        "dns-mx": [
+            "mail.h-email.net"
+        ], 
+        "dns-ns": [
+            "ns1.parkingcrew.net", 
+            "ns2.parkingcrew.net"
+        ], 
+        "domain-name": "ihsm.arkit.com", 
+        "fuzzer": "subdomain", 
+        "geoip-country": "Germany", 
+        "mx-spy": true, 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "81.27.47.116"
+        ], 
+        "domain-name": "ihsma.rkit.com", 
+        "fuzzer": "subdomain", 
+        "geoip-country": "Norway"
+    }, 
+    {
+        "dns-a": [
+            "96.95.25.205"
+        ], 
+        "domain-name": "ihsmark.it.com", 
+        "fuzzer": "subdomain", 
+        "geoip-country": "United States"
+    }, 
+    {
+        "dns-a": [
+            "52.73.124.185", 
+            "54.164.198.60"
+        ], 
+        "dns-mx": [
+            "mx60.m1bp.com", 
+            "mx60.mb5p.com"
+        ], 
+        "dns-ns": [
+            "ns1.namebrightdns.com", 
+            "ns2.namebrightdns.com"
+        ], 
+        "domain-name": "ihsmarket.com", 
+        "fuzzer": "vowel-swap", 
+        "geoip-country": "United States", 
+        "mx-spy": true
+    }
+]

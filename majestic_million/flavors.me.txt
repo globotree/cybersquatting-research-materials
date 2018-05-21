@@ -1,0 +1,86 @@
+[
+    {
+        "dns-a": [
+            "184.73.237.244"
+        ], 
+        "dns-mx": [
+            "mx.moo.com"
+        ], 
+        "dns-ns": [
+            "ns1.p01.dynect.net", 
+            "ns2.p01.dynect.net", 
+            "ns3.p01.dynect.net", 
+            "ns4.p01.dynect.net"
+        ], 
+        "domain-name": "flavors.me", 
+        "fuzzer": "original*", 
+        "geoip-country": "United States", 
+        "mx-spy": true, 
+        "ssdeep-score": 100
+    }, 
+    {
+        "dns-a": [
+            "184.168.221.1"
+        ], 
+        "dns-mx": [
+            "mailstore1.secureserver.net", 
+            "smtp.secureserver.net"
+        ], 
+        "dns-ns": [
+            "ns09.domaincontrol.com", 
+            "ns10.domaincontrol.com"
+        ], 
+        "domain-name": "flavorso.me", 
+        "fuzzer": "addition", 
+        "geoip-country": "United States"
+    }, 
+    {
+        "dns-a": [
+            "72.52.4.119"
+        ], 
+        "dns-mx": [
+            "localhost"
+        ], 
+        "dns-ns": [
+            "ns1.sedoparking.com", 
+            "ns2.sedoparking.com"
+        ], 
+        "domain-name": "favors.me", 
+        "fuzzer": "omission", 
+        "geoip-country": "United States", 
+        "mx-spy": true, 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "216.92.100.154"
+        ], 
+        "dns-ns": [
+            "dns1.name-services.com", 
+            "dns2.name-services.com", 
+            "dns3.name-services.com", 
+            "dns4.name-services.com", 
+            "dns5.name-services.com"
+        ], 
+        "domain-name": "flavor.me", 
+        "fuzzer": "omission", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "103.224.182.243"
+        ], 
+        "dns-mx": [
+            "park-mx.above.com"
+        ], 
+        "dns-ns": [
+            "ns1.above.com", 
+            "ns2.above.com"
+        ], 
+        "domain-name": "flav.ors.me", 
+        "fuzzer": "subdomain", 
+        "geoip-country": "Australia", 
+        "mx-spy": true
+    }
+]

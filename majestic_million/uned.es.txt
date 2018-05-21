@@ -1,0 +1,315 @@
+[
+    {
+        "dns-mx": [
+            "uned-es.mail.protection.outlook.com"
+        ], 
+        "dns-ns": [
+            "chico.rediris.es", 
+            "ns1.uned.es", 
+            "ns2.uned.es", 
+            "nso.nic.es", 
+            "sun.rediris.es"
+        ], 
+        "domain-name": "uned.es", 
+        "fuzzer": "original*"
+    }, 
+    {
+        "dns-a": [
+            "191.96.102.201"
+        ], 
+        "dns-mx": [
+            "uneda.es"
+        ], 
+        "dns-ns": [
+            "ns1.dewlance.com", 
+            "ns2.dewlance.com"
+        ], 
+        "domain-name": "uneda.es", 
+        "fuzzer": "addition", 
+        "geoip-country": "Spain"
+    }, 
+    {
+        "dns-a": [
+            "23.236.62.147"
+        ], 
+        "dns-mx": [
+            "mx00.1and1.es", 
+            "mx01.1and1.es"
+        ], 
+        "dns-ns": [
+            "ns4.wixdns.net", 
+            "ns5.wixdns.net"
+        ], 
+        "domain-name": "unedo.es", 
+        "fuzzer": "addition", 
+        "geoip-country": "United States"
+    }, 
+    {
+        "dns-a": [
+            "217.76.156.252"
+        ], 
+        "dns-mx": [
+            "mx.buzondecorreo.com"
+        ], 
+        "dns-ns": [
+            "ns5.piensasolutions.com", 
+            "ns6.piensasolutions.com"
+        ], 
+        "domain-name": "unedx.es", 
+        "fuzzer": "addition", 
+        "geoip-country": "Portugal"
+    }, 
+    {
+        "dns-a": [
+            "72.52.4.119"
+        ], 
+        "dns-mx": [
+            "localhost"
+        ], 
+        "dns-ns": [
+            "ns1.sedoparking.com", 
+            "ns2.sedoparking.com"
+        ], 
+        "domain-name": "ened.es", 
+        "fuzzer": "bitsquatting", 
+        "geoip-country": "United States", 
+        "mx-spy": true
+    }, 
+    {
+        "dns-a": [
+            "72.52.4.120"
+        ], 
+        "dns-mx": [
+            "localhost"
+        ], 
+        "dns-ns": [
+            "ns1.sedoparking.com", 
+            "ns2.sedoparking.com"
+        ], 
+        "domain-name": "uled.es", 
+        "fuzzer": "bitsquatting", 
+        "geoip-country": "United States", 
+        "mx-spy": true
+    }, 
+    {
+        "dns-a": [
+            "37.59.203.111"
+        ], 
+        "dns-aaaa": [
+            "2001:41d0:301:4::20"
+        ], 
+        "dns-mx": [
+            "correo.unef.es", 
+            "correo.unef.es"
+        ], 
+        "dns-ns": [
+            "ns01.domaincontrol.com", 
+            "ns02.domaincontrol.com"
+        ], 
+        "domain-name": "unef.es", 
+        "fuzzer": "bitsquatting", 
+        "geoip-country": "Spain"
+    }, 
+    {
+        "dns-a": [
+            "217.160.230.154"
+        ], 
+        "dns-mx": [
+            "mx00.1and1.es", 
+            "mx01.1and1.es"
+        ], 
+        "dns-ns": [
+            "ns63.1and1.es", 
+            "ns64.1and1.es"
+        ], 
+        "domain-name": "unet.es", 
+        "fuzzer": "bitsquatting", 
+        "geoip-country": "Germany"
+    }, 
+    {
+        "dns-a": [
+            "72.52.4.120"
+        ], 
+        "dns-mx": [
+            "localhost"
+        ], 
+        "dns-ns": [
+            "ns1.sedoparking.com", 
+            "ns2.sedoparking.com"
+        ], 
+        "domain-name": "umed.es", 
+        "fuzzer": "homoglyph", 
+        "geoip-country": "United States"
+    }, 
+    {
+        "dns-a": [
+            "72.52.4.119"
+        ], 
+        "dns-mx": [
+            "localhost"
+        ], 
+        "dns-ns": [
+            "ns1.sedoparking.com", 
+            "ns2.sedoparking.com"
+        ], 
+        "domain-name": "ued.es", 
+        "fuzzer": "omission", 
+        "geoip-country": "United States"
+    }, 
+    {
+        "dns-a": [
+            "185.53.178.6"
+        ], 
+        "dns-mx": [
+            "mail.h-email.net"
+        ], 
+        "dns-ns": [
+            "ns1.parkingcrew.net", 
+            "ns2.parkingcrew.net"
+        ], 
+        "domain-name": "ned.es", 
+        "fuzzer": "omission", 
+        "geoip-country": "Germany", 
+        "mx-spy": true
+    }, 
+    {
+        "dns-a": [
+            "69.172.201.153"
+        ], 
+        "dns-ns": [
+            "ns1.uniregistrymarket.link", 
+            "ns2.uniregistrymarket.link"
+        ], 
+        "domain-name": "und.es", 
+        "fuzzer": "omission", 
+        "geoip-country": "United States"
+    }, 
+    {
+        "dns-a": [
+            "82.223.247.152"
+        ], 
+        "dns-mx": [
+            "mail.nominalia.com"
+        ], 
+        "dns-ns": [
+            "dns1.nominalia.com", 
+            "dns2.nominalia.com"
+        ], 
+        "domain-name": "une.es", 
+        "fuzzer": "omission", 
+        "geoip-country": "Spain"
+    }, 
+    {
+        "dns-a": [
+            "141.8.224.169"
+        ], 
+        "domain-name": "unrd.es", 
+        "fuzzer": "replacement", 
+        "geoip-country": "Switzerland"
+    }, 
+    {
+        "dns-a": [
+            "91.184.0.100"
+        ], 
+        "dns-aaaa": [
+            "2a02:2268:ffff:ffff::4"
+        ], 
+        "dns-ns": [
+            "ns1.hostnet.nl", 
+            "ns2.hostnetbv.com", 
+            "ns3.hostnetbv.nl"
+        ], 
+        "domain-name": "ubed.es", 
+        "fuzzer": "replacement", 
+        "geoip-country": "Netherlands"
+    }, 
+    {
+        "dns-mx": [
+            "mx01.puc.rediris.es", 
+            "mx02.puc.rediris.es"
+        ], 
+        "dns-ns": [
+            "chico.rediris.es", 
+            "dnsba.unex.es", 
+            "dnscc.unex.es", 
+            "pizarro.unex.es", 
+            "sun.rediris.es"
+        ], 
+        "domain-name": "unex.es", 
+        "fuzzer": "replacement"
+    }, 
+    {
+        "dns-a": [
+            "212.48.80.200"
+        ], 
+        "dns-mx": [
+            "ined.es", 
+            "mx-1.ined.es", 
+            "mx-2.ined.es"
+        ], 
+        "dns-ns": [
+            "ns1.redcoruna.com", 
+            "ns2.redcoruna.com", 
+            "ns3.redcoruna.com"
+        ], 
+        "domain-name": "ined.es", 
+        "fuzzer": "replacement"
+    }, 
+    {
+        "dns-a": [
+            "37.152.88.55"
+        ], 
+        "dns-ns": [
+            "ns2.dondominio.com", 
+            "ns3.dondominio.com"
+        ], 
+        "domain-name": "unes.es", 
+        "fuzzer": "replacement", 
+        "geoip-country": "Spain"
+    }, 
+    {
+        "dns-a": [
+            "185.53.178.6"
+        ], 
+        "dns-mx": [
+            "mail.h-email.net"
+        ], 
+        "dns-ns": [
+            "ns1.parkingcrew.net", 
+            "ns2.parkingcrew.net"
+        ], 
+        "domain-name": "u.ned.es", 
+        "fuzzer": "subdomain", 
+        "geoip-country": "Germany", 
+        "mx-spy": true
+    }, 
+    {
+        "dns-ns": [
+            "ns1.sedoparking.com", 
+            "ns2.sedoparking.com"
+        ], 
+        "domain-name": "uend.es", 
+        "fuzzer": "transposition"
+    }, 
+    {
+        "dns-a": [
+            "217.160.0.37"
+        ], 
+        "dns-aaaa": [
+            "2001:8d8:100f:f000::294"
+        ], 
+        "dns-mx": [
+            "mx00.1and1.es", 
+            "mx01.1and1.es"
+        ], 
+        "dns-ns": [
+            "ns1016.ui-dns.org", 
+            "ns1025.ui-dns.com", 
+            "ns1115.ui-dns.biz", 
+            "ns1123.ui-dns.de"
+        ], 
+        "domain-name": "aned.es", 
+        "fuzzer": "vowel-swap", 
+        "geoip-country": "Germany"
+    }
+]

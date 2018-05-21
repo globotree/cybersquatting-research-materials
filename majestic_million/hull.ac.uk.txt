@@ -1,0 +1,33 @@
+[
+    {
+        "dns-a": [
+            "185.18.139.8"
+        ], 
+        "dns-mx": [
+            "mhubs.hull.ac.uk"
+        ], 
+        "dns-ns": [
+            "ns1.hull.ac.uk", 
+            "ns1.ja.net", 
+            "ns3.hull.ac.uk", 
+            "ns5.hull.ac.uk"
+        ], 
+        "domain-name": "hull.ac.uk", 
+        "fuzzer": "original*", 
+        "geoip-country": "United Kingdom", 
+        "ssdeep-score": 100
+    }, 
+    {
+        "dns-a": [
+            "128.86.132.148"
+        ], 
+        "dns-ns": [
+            "ns0.ulcc.ac.uk", 
+            "ns1.ulcc.ac.uk"
+        ], 
+        "domain-name": "ull.ac.uk", 
+        "fuzzer": "omission", 
+        "geoip-country": "United Kingdom", 
+        "ssdeep-score": 0
+    }
+]

@@ -1,0 +1,68 @@
+[
+    {
+        "dns-a": [
+            "23.21.74.117", 
+            "23.23.136.239", 
+            "23.23.209.130", 
+            "54.225.130.23", 
+            "54.225.152.117", 
+            "54.225.199.17", 
+            "54.243.175.62", 
+            "54.243.32.119"
+        ], 
+        "dns-mx": [
+            "alt1.aspmx.l.google.com", 
+            "alt2.aspmx.l.google.com", 
+            "aspmx.l.google.com", 
+            "aspmx2.googlemail.com", 
+            "aspmx3.googlemail.com"
+        ], 
+        "dns-ns": [
+            "theo.ns.cloudflare.com", 
+            "vita.ns.cloudflare.com"
+        ], 
+        "domain-name": "bagtheweb.com", 
+        "fuzzer": "original*", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 94
+    }, 
+    {
+        "dns-a": [
+            "64.30.228.118"
+        ], 
+        "domain-name": "bag.theweb.com", 
+        "fuzzer": "subdomain", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "72.52.4.120"
+        ], 
+        "dns-mx": [
+            "localhost"
+        ], 
+        "dns-ns": [
+            "ns1.sedoparking.com", 
+            "ns2.sedoparking.com"
+        ], 
+        "domain-name": "bagt.heweb.com", 
+        "fuzzer": "subdomain", 
+        "geoip-country": "United States", 
+        "mx-spy": true, 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "184.168.221.104"
+        ], 
+        "dns-ns": [
+            "ns1.afternic.com", 
+            "ns2.afternic.com"
+        ], 
+        "domain-name": "bagth.eweb.com", 
+        "fuzzer": "subdomain", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 0
+    }
+]

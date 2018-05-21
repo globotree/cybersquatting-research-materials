@@ -1,0 +1,82 @@
+[
+    {
+        "dns-a": [
+            "219.99.168.92"
+        ], 
+        "dns-mx": [
+            "mail.hiro-shima.jp"
+        ], 
+        "dns-ns": [
+            "ns01.asp-frontier.net", 
+            "ns02.asp-frontier.net"
+        ], 
+        "domain-name": "hiro-shima.jp", 
+        "fuzzer": "hyphenation", 
+        "geoip-country": "Japan"
+    }, 
+    {
+        "dns-a": [
+            "124.248.149.119"
+        ], 
+        "dns-ns": [
+            "ns0.kagoya.net", 
+            "ns1.kagoya.net"
+        ], 
+        "domain-name": "hirosima.jp", 
+        "fuzzer": "omission", 
+        "geoip-country": "Japan"
+    }, 
+    {
+        "dns-a": [
+            "211.13.204.90"
+        ], 
+        "dns-mx": [
+            "mx.hiroshika.jp"
+        ], 
+        "dns-ns": [
+            "dns01.f-hs.com", 
+            "dns02.f-hs.com"
+        ], 
+        "domain-name": "hiroshika.jp", 
+        "fuzzer": "replacement", 
+        "geoip-country": "Japan"
+    }, 
+    {
+        "dns-a": [
+            "168.62.224.13"
+        ], 
+        "dns-mx": [
+            "heroshima-jp.mail.eo.outlook.com"
+        ], 
+        "dns-ns": [
+            "ns1.bdm.microsoftonline.com", 
+            "ns2.bdm.microsoftonline.com", 
+            "ns3.bdm.microsoftonline.com", 
+            "ns4.bdm.microsoftonline.com"
+        ], 
+        "domain-name": "heroshima.jp", 
+        "fuzzer": "vowel-swap"
+    }, 
+    {
+        "dns-a": [
+            "150.95.8.130"
+        ], 
+        "dns-ns": [
+            "ns1.value-domain.com", 
+            "ns2.value-domain.com"
+        ], 
+        "domain-name": "hirashima.jp", 
+        "fuzzer": "vowel-swap"
+    }, 
+    {
+        "dns-a": [
+            "112.78.125.26"
+        ], 
+        "dns-ns": [
+            "ns1.dns.ne.jp", 
+            "ns2.dns.ne.jp"
+        ], 
+        "domain-name": "hiroshima-jp.com", 
+        "fuzzer": "various"
+    }
+]

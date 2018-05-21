@@ -1,0 +1,25 @@
+[
+    {
+        "dns-a": [
+            "112.78.117.247"
+        ], 
+        "dns-ns": [
+            "ns1.webcrow.jp", 
+            "ns2.webcrow.jp"
+        ], 
+        "domain-name": "webcrow.jp", 
+        "fuzzer": "original*", 
+        "geoip-country": "Japan", 
+        "ssdeep-score": 100
+    }, 
+    {
+        "dns-ns": [
+            "ns-cloud-e1.googledomains.com", 
+            "ns-cloud-e2.googledomains.com", 
+            "ns-cloud-e3.googledomains.com", 
+            "ns-cloud-e4.googledomains.com"
+        ], 
+        "domain-name": "webcrew.jp", 
+        "fuzzer": "vowel-swap"
+    }
+]

@@ -1,0 +1,62 @@
+[
+    {
+        "dns-mx": [
+            "mail.pbc.gov.cn", 
+            "oldmail.puc.gov.cn"
+        ], 
+        "dns-ns": [
+            "rh.pbc.gov.cn", 
+            "rhh.pbc.gov.cn"
+        ], 
+        "domain-name": "pbc.gov.cn", 
+        "fuzzer": "original*"
+    }, 
+    {
+        "dns-a": [
+            "112.29.172.133"
+        ], 
+        "dns-ns": [
+            "dns29.hichina.com", 
+            "dns30.hichina.com"
+        ], 
+        "domain-name": "pbcx.gov.cn", 
+        "fuzzer": "addition", 
+        "geoip-country": "China"
+    }, 
+    {
+        "dns-a": [
+            "120.55.113.192"
+        ], 
+        "dns-mx": [
+            "mxdomain.qq.com"
+        ], 
+        "dns-ns": [
+            "ns11.xincache.com", 
+            "ns12.xincache.com"
+        ], 
+        "domain-name": "tbc.gov.cn", 
+        "fuzzer": "bitsquatting", 
+        "geoip-country": "China", 
+        "mx-spy": true
+    }, 
+    {
+        "dns-a": [
+            "110.76.42.59"
+        ], 
+        "dns-ns": [
+            "ns13.xincache.com", 
+            "ns14.xincache.com"
+        ], 
+        "domain-name": "pc.gov.cn", 
+        "fuzzer": "omission", 
+        "geoip-country": "China"
+    }, 
+    {
+        "dns-ns": [
+            "dns19.hichina.com", 
+            "dns20.hichina.com"
+        ], 
+        "domain-name": "bc.gov.cn", 
+        "fuzzer": "omission"
+    }
+]

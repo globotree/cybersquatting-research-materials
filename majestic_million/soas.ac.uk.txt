@@ -1,0 +1,46 @@
+[
+    {
+        "dns-a": [
+            "212.219.139.54"
+        ], 
+        "dns-mx": [
+            "listserver.it.soas.ac.uk", 
+            "mr5.it.soas.ac.uk", 
+            "mr6.it.soas.ac.uk"
+        ], 
+        "dns-ns": [
+            "ns1.ja.net", 
+            "ns2.ic.ac.uk"
+        ], 
+        "domain-name": "soas.ac.uk", 
+        "fuzzer": "original*", 
+        "geoip-country": "United Kingdom", 
+        "ssdeep-score": 100
+    }, 
+    {
+        "dns-a": [
+            "128.86.134.100"
+        ], 
+        "dns-mx": [
+            "sas-ac-uk.mail.protection.outlook.com"
+        ], 
+        "dns-ns": [
+            "dns-ns0.ucl.ac.uk", 
+            "dns-ns1.ucl.ac.uk", 
+            "ns0.ulcc.ac.uk", 
+            "ns1.ulcc.ac.uk"
+        ], 
+        "domain-name": "sas.ac.uk", 
+        "fuzzer": "omission", 
+        "geoip-country": "United Kingdom", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-ns": [
+            "acheron.shef.ac.uk", 
+            "hippo.shef.ac.uk"
+        ], 
+        "domain-name": "seas.ac.uk", 
+        "fuzzer": "vowel-swap"
+    }
+]

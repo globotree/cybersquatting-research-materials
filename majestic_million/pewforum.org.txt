@@ -1,0 +1,168 @@
+[
+    {
+        "dns-a": [
+            "52.85.184.150", 
+            "52.85.184.229", 
+            "52.85.184.238", 
+            "52.85.184.24", 
+            "52.85.184.54", 
+            "52.85.184.66", 
+            "52.85.184.81", 
+            "52.85.184.93"
+        ], 
+        "dns-mx": [
+            "pewforum-org.mail.protection.outlook.com"
+        ], 
+        "dns-ns": [
+            "ns-1290.awsdns-33.org", 
+            "ns-1568.awsdns-04.co.uk", 
+            "ns-777.awsdns-33.net", 
+            "ns-88.awsdns-11.com"
+        ], 
+        "domain-name": "pewforum.org", 
+        "fuzzer": "original*", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 100
+    }, 
+    {
+        "dns-a": [
+            "205.139.16.39"
+        ], 
+        "dns-ns": [
+            "ns71.domaincontrol.com", 
+            "ns72.domaincontrol.com"
+        ], 
+        "domain-name": "pewforums.org", 
+        "fuzzer": "addition", 
+        "geoip-country": "United States"
+    }, 
+    {
+        "dns-a": [
+            "52.216.20.42"
+        ], 
+        "dns-ns": [
+            "ns-1088.awsdns-08.org", 
+            "ns-1966.awsdns-53.co.uk", 
+            "ns-408.awsdns-51.com", 
+            "ns-547.awsdns-04.net"
+        ], 
+        "domain-name": "pesforum.org", 
+        "fuzzer": "bitsquatting", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "192.163.244.44"
+        ], 
+        "dns-mx": [
+            "mail.peforum.org"
+        ], 
+        "dns-ns": [
+            "ns1.alqanat.com", 
+            "ns2.alqanat.com"
+        ], 
+        "domain-name": "peforum.org", 
+        "fuzzer": "omission", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "184.168.221.36"
+        ], 
+        "dns-mx": [
+            "mailstore1.secureserver.net", 
+            "smtp.secureserver.net"
+        ], 
+        "dns-ns": [
+            "ns61.domaincontrol.com", 
+            "ns62.domaincontrol.com"
+        ], 
+        "domain-name": "ewforum.org", 
+        "fuzzer": "omission", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "208.91.196.105"
+        ], 
+        "dns-ns": [
+            "sk.s5.cm.ns1.39.ztomy.com", 
+            "sk.s5.cm.ns2.39.ztomy.com"
+        ], 
+        "domain-name": "pewform.org", 
+        "fuzzer": "omission", 
+        "geoip-country": "Virgin Islands", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "192.185.88.212"
+        ], 
+        "dns-mx": [
+            "peaforum.org"
+        ], 
+        "dns-ns": [
+            "ns39.websitewelcome.com", 
+            "ns40.websitewelcome.com"
+        ], 
+        "domain-name": "peaforum.org", 
+        "fuzzer": "replacement", 
+        "geoip-country": "United States"
+    }, 
+    {
+        "dns-a": [
+            "192.99.145.74"
+        ], 
+        "dns-ns": [
+            "dns1.registrar-servers.com", 
+            "dns2.registrar-servers.com"
+        ], 
+        "domain-name": "peeforum.org", 
+        "fuzzer": "replacement", 
+        "geoip-country": "Canada"
+    }, 
+    {
+        "dns-a": [
+            "206.188.192.2"
+        ], 
+        "domain-name": "pe.wforum.org", 
+        "fuzzer": "subdomain", 
+        "geoip-country": "United States"
+    }, 
+    {
+        "dns-a": [
+            "74.220.199.6"
+        ], 
+        "domain-name": "pew.forum.org", 
+        "fuzzer": "subdomain", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "68.178.213.61"
+        ], 
+        "domain-name": "pewforu.m.org", 
+        "fuzzer": "subdomain", 
+        "geoip-country": "United States"
+    }, 
+    {
+        "dns-a": [
+            "98.124.245.24"
+        ], 
+        "dns-mx": [
+            "mail.b-io.co"
+        ], 
+        "dns-ns": [
+            "ns1.fabulous.com", 
+            "ns2.fabulous.com"
+        ], 
+        "domain-name": "powforum.org", 
+        "fuzzer": "vowel-swap", 
+        "geoip-country": "United States", 
+        "mx-spy": true
+    }
+]

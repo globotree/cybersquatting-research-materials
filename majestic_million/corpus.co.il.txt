@@ -1,0 +1,51 @@
+[
+    {
+        "dns-a": [
+            "5.100.249.31"
+        ], 
+        "dns-ns": [
+            "park1.livedns.co.il", 
+            "park2.livedns.co.il"
+        ], 
+        "domain-name": "corpus.co.il", 
+        "fuzzer": "original*", 
+        "geoip-country": "Israel", 
+        "ssdeep-score": 99
+    }, 
+    {
+        "dns-a": [
+            "62.219.78.222"
+        ], 
+        "dns-ns": [
+            "park1.livedns.co.il", 
+            "park2.livedns.co.il"
+        ], 
+        "domain-name": "corus.co.il", 
+        "fuzzer": "omission", 
+        "geoip-country": "Israel", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "199.59.242.150"
+        ], 
+        "domain-name": "corpu.s.co.il", 
+        "fuzzer": "subdomain", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "209.15.13.134"
+        ], 
+        "dns-mx": [
+            "mail.b-io.co"
+        ], 
+        "dns-ns": [
+            "ns1.dnslink.com", 
+            "ns2.dnslink.com"
+        ], 
+        "domain-name": "corpus.co-il.com", 
+        "fuzzer": "various"
+    }
+]

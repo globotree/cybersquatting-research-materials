@@ -1,0 +1,257 @@
+[
+    {
+        "dns-a": [
+            "172.217.22.67"
+        ], 
+        "dns-aaaa": [
+            "2a00:1450:4001:81b::2003"
+        ], 
+        "dns-mx": [
+            "alt1.aspmx.l.google.com", 
+            "alt2.aspmx.l.google.com", 
+            "alt3.aspmx.l.google.com", 
+            "alt4.aspmx.l.google.com", 
+            "aspmx.l.google.com"
+        ], 
+        "dns-ns": [
+            "ns1.google.com", 
+            "ns2.google.com", 
+            "ns3.google.com", 
+            "ns4.google.com"
+        ], 
+        "domain-name": "google.ie", 
+        "fuzzer": "original*", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 83
+    }, 
+    {
+        "dns-a": [
+            "35.204.185.116"
+        ], 
+        "dns-mx": [
+            "googlee.ie"
+        ], 
+        "dns-ns": [
+            "ns10.dnsireland.com", 
+            "ns9.dnsireland.com"
+        ], 
+        "domain-name": "googlee.ie", 
+        "fuzzer": "addition", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "185.125.230.210"
+        ], 
+        "dns-ns": [
+            "ns1.servrr.ru", 
+            "ns2.servrr.ru"
+        ], 
+        "domain-name": "goggle.ie", 
+        "fuzzer": "bitsquatting", 
+        "geoip-country": "Russian Federation", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "185.125.230.210"
+        ], 
+        "dns-ns": [
+            "ns1.servrr.ru", 
+            "ns2.servrr.ru"
+        ], 
+        "domain-name": "goofle.ie", 
+        "fuzzer": "bitsquatting", 
+        "geoip-country": "Russian Federation", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "139.162.245.200"
+        ], 
+        "dns-mx": [
+            "googie.ie"
+        ], 
+        "dns-ns": [
+            "ns1.uk6.fcomet.com", 
+            "ns2.uk6.fcomet.com"
+        ], 
+        "domain-name": "googie.ie", 
+        "fuzzer": "homoglyph", 
+        "geoip-country": "United Kingdom", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-ns": [
+            "ns1.markmonitor.com", 
+            "ns2.markmonitor.com", 
+            "ns3.markmonitor.com", 
+            "ns4.markmonitor.com", 
+            "ns5.markmonitor.com", 
+            "ns6.markmonitor.com", 
+            "ns7.markmonitor.com"
+        ], 
+        "domain-name": "googl.ie", 
+        "fuzzer": "omission"
+    }, 
+    {
+        "dns-a": [
+            "148.251.187.149"
+        ], 
+        "dns-mx": [
+            "mail.goole.ie"
+        ], 
+        "dns-ns": [
+            "ns1.first-ns.de", 
+            "robotns2.second-ns.de", 
+            "robotns3.second-ns.com"
+        ], 
+        "domain-name": "goole.ie", 
+        "fuzzer": "omission", 
+        "geoip-country": "Germany", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "69.174.115.23"
+        ], 
+        "dns-mx": [
+            "googe.ie"
+        ], 
+        "dns-ns": [
+            "ns.inmotionhosting.com", 
+            "ns2.inmotionhosting.com"
+        ], 
+        "domain-name": "googe.ie", 
+        "fuzzer": "omission", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "185.53.177.31"
+        ], 
+        "dns-ns": [
+            "ns1.protectdelegation.eu", 
+            "ns2.protectdelegation.ca", 
+            "ns3.protectdelegation.com"
+        ], 
+        "domain-name": "oogle.ie", 
+        "fuzzer": "omission", 
+        "geoip-country": "Germany", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-ns": [
+            "ns1.markmonitor.com", 
+            "ns2.markmonitor.com", 
+            "ns3.markmonitor.com", 
+            "ns4.markmonitor.com", 
+            "ns5.markmonitor.com", 
+            "ns6.markmonitor.com", 
+            "ns7.markmonitor.com"
+        ], 
+        "domain-name": "gogle.ie", 
+        "fuzzer": "omission"
+    }, 
+    {
+        "dns-a": [
+            "35.204.185.116"
+        ], 
+        "dns-mx": [
+            "ggoogle.ie"
+        ], 
+        "dns-ns": [
+            "ns10.dnsireland.com", 
+            "ns9.dnsireland.com"
+        ], 
+        "domain-name": "ggoogle.ie", 
+        "fuzzer": "repetition", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "185.125.230.210"
+        ], 
+        "dns-ns": [
+            "ns1.servrr.ru", 
+            "ns2.servrr.ru"
+        ], 
+        "domain-name": "gooogle.ie", 
+        "fuzzer": "repetition", 
+        "geoip-country": "Russian Federation", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "185.125.230.210"
+        ], 
+        "domain-name": "googlr.ie", 
+        "fuzzer": "replacement", 
+        "geoip-country": "Russian Federation", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "81.17.241.117"
+        ], 
+        "dns-mx": [
+            "hoogle.ie"
+        ], 
+        "dns-ns": [
+            "ns1.webhostingireland.ie", 
+            "ns2.webhostingireland.ie", 
+            "ns3.webhostingireland.ie"
+        ], 
+        "domain-name": "hoogle.ie", 
+        "fuzzer": "replacement"
+    }, 
+    {
+        "dns-a": [
+            "188.138.124.217"
+        ], 
+        "domain-name": "g.oogle.ie", 
+        "fuzzer": "subdomain", 
+        "geoip-country": "Germany", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "35.204.185.116"
+        ], 
+        "dns-mx": [
+            "goolge.ie"
+        ], 
+        "dns-ns": [
+            "ns10.dnsireland.com", 
+            "ns9.dnsireland.com"
+        ], 
+        "domain-name": "goolge.ie", 
+        "fuzzer": "transposition"
+    }, 
+    {
+        "dns-ns": [
+            "ns1.markmonitor.com", 
+            "ns2.markmonitor.com", 
+            "ns3.markmonitor.com", 
+            "ns4.markmonitor.com", 
+            "ns5.markmonitor.com", 
+            "ns6.markmonitor.com", 
+            "ns7.markmonitor.com"
+        ], 
+        "domain-name": "googel.ie", 
+        "fuzzer": "transposition"
+    }, 
+    {
+        "dns-ns": [
+            "ns1.googledomains.com", 
+            "ns2.googledomains.com", 
+            "ns3.googledomains.com", 
+            "ns4.googledomains.com"
+        ], 
+        "domain-name": "google-ie.com", 
+        "fuzzer": "various"
+    }
+]

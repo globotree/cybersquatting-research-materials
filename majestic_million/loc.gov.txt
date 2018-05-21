@@ -1,0 +1,47 @@
+[
+    {
+        "dns-a": [
+            "104.16.244.35", 
+            "104.16.245.35", 
+            "104.16.246.35", 
+            "104.16.247.35", 
+            "104.16.248.35"
+        ], 
+        "dns-mx": [
+            "pps02a.loc.gov", 
+            "pps02b.loc.gov", 
+            "pps02c.loc.gov"
+        ], 
+        "dns-ns": [
+            "ns21.loc.gov", 
+            "ns23.loc.gov"
+        ], 
+        "domain-name": "loc.gov", 
+        "fuzzer": "original*", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 100
+    }, 
+    {
+        "dns-a": [
+            "170.110.225.184"
+        ], 
+        "dns-aaaa": [
+            "2610:20:0:20:d0c:90c:225:231"
+        ], 
+        "dns-mx": [
+            "doc-gov.mail.protection.outlook.com"
+        ], 
+        "dns-ns": [
+            "dnssec10.datamtn.com", 
+            "dnssec11.datamtn.com", 
+            "dnssec7.datamtn.com", 
+            "dnssec9.datamtn.com", 
+            "gpaens2.doc.gov", 
+            "hchbens1.doc.gov"
+        ], 
+        "domain-name": "doc.gov", 
+        "fuzzer": "bitsquatting", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 0
+    }
+]

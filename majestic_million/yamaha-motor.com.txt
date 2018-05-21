@@ -1,0 +1,107 @@
+[
+    {
+        "dns-a": [
+            "199.83.132.218", 
+            "199.83.134.218"
+        ], 
+        "dns-mx": [
+            "yamahamotor-com01e.mail.protection.outlook.com"
+        ], 
+        "dns-ns": [
+            "a1.verisigndns.com", 
+            "a2.verisigndns.com", 
+            "a3.verisigndns.com"
+        ], 
+        "domain-name": "yamaha-motor.com", 
+        "fuzzer": "original*", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 99
+    }, 
+    {
+        "dns-a": [
+            "103.224.212.222"
+        ], 
+        "dns-mx": [
+            "park-mx.above.com"
+        ], 
+        "dns-ns": [
+            "ns1.above.com", 
+            "ns2.above.com"
+        ], 
+        "domain-name": "yamaha-motors.com", 
+        "fuzzer": "addition", 
+        "geoip-country": "Australia", 
+        "mx-spy": true, 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "185.53.178.7"
+        ], 
+        "dns-mx": [
+            "exchange.dewile.net", 
+            "mail.h-email.net"
+        ], 
+        "dns-ns": [
+            "ns1.parkingcrew.net", 
+            "ns2.parkingcrew.net"
+        ], 
+        "domain-name": "yamaha-motos.com", 
+        "fuzzer": "bitsquatting", 
+        "geoip-country": "Germany", 
+        "mx-spy": true, 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "104.16.89.230"
+        ], 
+        "dns-mx": [
+            "mx.yamaha-rnotor.com.cust.b.hostedemail.com"
+        ], 
+        "dns-ns": [
+            "ns2.vpweb.com", 
+            "ns3.vpweb.com", 
+            "ns4.vpweb.com"
+        ], 
+        "domain-name": "yamaha-rnotor.com", 
+        "fuzzer": "homoglyph", 
+        "geoip-country": "United States"
+    }, 
+    {
+        "dns-a": [
+            "165.160.13.20", 
+            "165.160.15.20"
+        ], 
+        "dns-mx": [
+            "custmx.cscdns.net"
+        ], 
+        "dns-ns": [
+            "dns1.cscdns.net", 
+            "dns2.cscdns.net"
+        ], 
+        "domain-name": "yamahamotor.com", 
+        "fuzzer": "omission", 
+        "geoip-country": "United States", 
+        "mx-spy": true, 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "199.59.242.150"
+        ], 
+        "dns-mx": [
+            "mx76.m2bp.com", 
+            "mx76.mb1p.com"
+        ], 
+        "dns-ns": [
+            "ns1.bodis.com", 
+            "ns2.bodis.com"
+        ], 
+        "domain-name": "yamah-motor.com", 
+        "fuzzer": "omission", 
+        "geoip-country": "United States", 
+        "mx-spy": true, 
+        "ssdeep-score": 0
+    }
+]

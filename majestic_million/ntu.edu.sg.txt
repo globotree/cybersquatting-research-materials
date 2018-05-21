@@ -1,0 +1,53 @@
+[
+    {
+        "dns-a": [
+            "155.69.7.173"
+        ], 
+        "dns-mx": [
+            "smtp.ntu.edu.sg", 
+            "smtp2.ntu.edu.sg"
+        ], 
+        "dns-ns": [
+            "dnstex.ntu.edu.sg", 
+            "dnstex1.ntu.edu.sg"
+        ], 
+        "domain-name": "ntu.edu.sg", 
+        "fuzzer": "original*", 
+        "geoip-country": "Singapore"
+    }, 
+    {
+        "dns-a": [
+            "155.69.7.163"
+        ], 
+        "dns-ns": [
+            "dnstex.ntu.edu.sg", 
+            "dnstex1.ntu.edu.sg"
+        ], 
+        "domain-name": "nu.edu.sg", 
+        "fuzzer": "omission", 
+        "geoip-country": "Singapore"
+    }, 
+    {
+        "dns-a": [
+            "155.69.7.163"
+        ], 
+        "dns-ns": [
+            "dnstex.ntu.edu.sg", 
+            "dnstex1.ntu.edu.sg"
+        ], 
+        "domain-name": "nti.edu.sg", 
+        "fuzzer": "replacement", 
+        "geoip-country": "Singapore"
+    }, 
+    {
+        "dns-a": [
+            "155.69.7.163"
+        ], 
+        "dns-ns": [
+            "dnstex.ntu.edu.sg", 
+            "dnstex1.ntu.edu.sg"
+        ], 
+        "domain-name": "ntu.sg", 
+        "fuzzer": "various"
+    }
+]

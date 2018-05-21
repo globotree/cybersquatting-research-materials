@@ -1,0 +1,142 @@
+[
+    {
+        "dns-a": [
+            "45.60.109.29", 
+            "45.60.73.29"
+        ], 
+        "dns-mx": [
+            "mx1.sfagroup.com", 
+            "mx2.sfagroup.com"
+        ], 
+        "dns-ns": [
+            "dns1.sdv.fr", 
+            "dns2.sdv.fr"
+        ], 
+        "domain-name": "challenges.fr", 
+        "fuzzer": "original*", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 99
+    }, 
+    {
+        "dns-a": [
+            "81.88.57.89"
+        ], 
+        "dns-mx": [
+            "mail-fr.securemail.pro"
+        ], 
+        "dns-ns": [
+            "ns1.amenworld.com", 
+            "ns2.amenworld.com"
+        ], 
+        "domain-name": "challengess.fr", 
+        "fuzzer": "addition", 
+        "geoip-country": "Italy", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-mx": [
+            "av.mgp.neufgp.fr"
+        ], 
+        "dns-ns": [
+            "ns1.9services.com", 
+            "ns2.9services.com"
+        ], 
+        "domain-name": "challenger.fr", 
+        "fuzzer": "bitsquatting"
+    }, 
+    {
+        "dns-a": [
+            "35.205.94.195"
+        ], 
+        "dns-mx": [
+            "redirect.ovh.net"
+        ], 
+        "dns-ns": [
+            "dns200.anycast.me", 
+            "ns200.anycast.me"
+        ], 
+        "domain-name": "challengeds.fr", 
+        "fuzzer": "insertion", 
+        "geoip-country": "United States"
+    }, 
+    {
+        "dns-a": [
+            "72.52.4.122"
+        ], 
+        "dns-mx": [
+            "localhost"
+        ], 
+        "dns-ns": [
+            "ns1.sedoparking.com", 
+            "ns2.sedoparking.com"
+        ], 
+        "domain-name": "challengers.fr", 
+        "fuzzer": "insertion", 
+        "geoip-country": "United States", 
+        "mx-spy": true, 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "37.110.197.226"
+        ], 
+        "dns-mx": [
+            "mail.nouvelobs.com"
+        ], 
+        "dns-ns": [
+            "dns1.sdv.fr", 
+            "dns2.sdv.fr"
+        ], 
+        "domain-name": "challenge.fr", 
+        "fuzzer": "omission", 
+        "geoip-country": "France"
+    }, 
+    {
+        "dns-a": [
+            "185.53.177.29"
+        ], 
+        "dns-ns": [
+            "ns1.gegidns.com", 
+            "ns2.gegidns.com"
+        ], 
+        "domain-name": "chalenges.fr", 
+        "fuzzer": "omission", 
+        "geoip-country": "Germany", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "164.132.235.17"
+        ], 
+        "dns-mx": [
+            "mx1.mail.ovh.net", 
+            "mx2.mail.ovh.net", 
+            "mx3.mail.ovh.net"
+        ], 
+        "dns-ns": [
+            "dns108.ovh.net", 
+            "ns108.ovh.net"
+        ], 
+        "domain-name": "challengea.fr", 
+        "fuzzer": "replacement", 
+        "geoip-country": "France", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "62.210.16.62"
+        ], 
+        "dns-mx": [
+            "mx-cache.online.net", 
+            "mx.online.net"
+        ], 
+        "dns-ns": [
+            "ns0.online.net", 
+            "ns1.online.net"
+        ], 
+        "domain-name": "challengis.fr", 
+        "fuzzer": "vowel-swap", 
+        "geoip-country": "France", 
+        "ssdeep-score": 0
+    }
+]

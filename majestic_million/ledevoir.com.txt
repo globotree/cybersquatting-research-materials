@@ -1,0 +1,101 @@
+[
+    {
+        "dns-a": [
+            "149.56.198.21"
+        ], 
+        "dns-mx": [
+            "filter1679.zerospam.ca", 
+            "filter1680.zerospam.ca", 
+            "filter999.zerospam.ca"
+        ], 
+        "dns-ns": [
+            "pdns07.domaincontrol.com", 
+            "pdns08.domaincontrol.com"
+        ], 
+        "domain-name": "ledevoir.com", 
+        "fuzzer": "original*", 
+        "geoip-country": "Canada", 
+        "ssdeep-score": 99
+    }, 
+    {
+        "dns-a": [
+            "213.186.33.5"
+        ], 
+        "dns-mx": [
+            "redirect.ovh.net"
+        ], 
+        "dns-ns": [
+            "dns13.ovh.net", 
+            "ns13.ovh.net"
+        ], 
+        "domain-name": "le-devoir.com", 
+        "fuzzer": "hyphenation", 
+        "geoip-country": "France", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "95.211.219.65"
+        ], 
+        "dns-ns": [
+            "ns1.hastydns.com", 
+            "ns2.hastydns.com"
+        ], 
+        "domain-name": "ledvoir.com", 
+        "fuzzer": "omission", 
+        "geoip-country": "Netherlands", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "91.121.96.136"
+        ], 
+        "dns-mx": [
+            "edevoir.com", 
+            "mx1.mail.ovh.net", 
+            "mx2.mail.ovh.net", 
+            "mx3.mail.ovh.net"
+        ], 
+        "dns-ns": [
+            "dns200.anycast.me", 
+            "ns200.anycast.me"
+        ], 
+        "domain-name": "edevoir.com", 
+        "fuzzer": "omission", 
+        "geoip-country": "France", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "50.63.202.61"
+        ], 
+        "dns-mx": [
+            "mailstore1.secureserver.net", 
+            "smtp.secureserver.net"
+        ], 
+        "dns-ns": [
+            "ns57.domaincontrol.com", 
+            "ns58.domaincontrol.com"
+        ], 
+        "domain-name": "lerevoir.com", 
+        "fuzzer": "replacement", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "23.23.174.132"
+        ], 
+        "domain-name": "le.devoir.com", 
+        "fuzzer": "subdomain", 
+        "geoip-country": "United States"
+    }, 
+    {
+        "dns-a": [
+            "192.230.78.10"
+        ], 
+        "domain-name": "lede.voir.com", 
+        "fuzzer": "subdomain", 
+        "geoip-country": "United States"
+    }
+]

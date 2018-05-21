@@ -1,0 +1,37 @@
+[
+    {
+        "dns-mx": [
+            "mx13.nmci.navy.mil", 
+            "mx14.nmci.navy.mil", 
+            "mx15.nmci.navy.mil", 
+            "pri-jeemsg.eemsg.mail.mil", 
+            "sec-jeemsg.eemsg.mail.mil"
+        ], 
+        "dns-ns": [
+            "ns.cybercom.mil", 
+            "ns.jtfgno.mil", 
+            "ns1.csd.disa.mil", 
+            "uforiftr01.csd.disa.mil", 
+            "uforiftr02.csd.disa.mil", 
+            "updciftr01.csd.disa.mil", 
+            "updciftr02.csd.disa.mil"
+        ], 
+        "domain-name": "navy.mil", 
+        "fuzzer": "original*"
+    }, 
+    {
+        "dns-a": [
+            "184.168.221.34"
+        ], 
+        "dns-mx": [
+            "d982a4f08bce324eba2d3551f4adc3.pamx1.hotmail.com"
+        ], 
+        "dns-ns": [
+            "ns45.domaincontrol.com", 
+            "ns46.domaincontrol.com"
+        ], 
+        "domain-name": "navy-mil.com", 
+        "fuzzer": "various", 
+        "geoip-country": "United States"
+    }
+]

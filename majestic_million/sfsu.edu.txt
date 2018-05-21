@@ -1,0 +1,165 @@
+[
+    {
+        "dns-a": [
+            "130.212.10.204"
+        ], 
+        "dns-mx": [
+            "sfsu-edu.mail.protection.outlook.com"
+        ], 
+        "dns-ns": [
+            "ns1.sfsu.edu", 
+            "ns2.sfsu.edu", 
+            "ns3.sfsu.edu", 
+            "ns4.cenic.org", 
+            "ns5.cenic.org", 
+            "ns6.cenic.org"
+        ], 
+        "domain-name": "sfsu.edu", 
+        "fuzzer": "original*", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 100
+    }, 
+    {
+        "dns-a": [
+            "130.191.156.24"
+        ], 
+        "dns-mx": [
+            "ALT1.ASPMX.L.GOOGLE.COM", 
+            "ALT2.ASPMX.L.GOOGLE.COM", 
+            "ALT3.ASPMX.L.GOOGLE.COM", 
+            "ALT4.ASPMX.L.GOOGLE.COM", 
+            "ASPMX.L.GOOGLE.COM"
+        ], 
+        "dns-ns": [
+            "dogbert.sdsu.edu", 
+            "munga.sdsu.edu", 
+            "ns1.ucsd.edu", 
+            "ratbert.sdsu.edu"
+        ], 
+        "domain-name": "sdsu.edu", 
+        "fuzzer": "bitsquatting", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "155.138.4.191", 
+            "155.138.4.192"
+        ], 
+        "dns-mx": [
+            "svsu-edu.mail.protection.outlook.com"
+        ], 
+        "dns-ns": [
+            "ns2.svsu.edu", 
+            "ns3.svsu.edu", 
+            "tardis.svsu.edu"
+        ], 
+        "domain-name": "svsu.edu", 
+        "fuzzer": "bitsquatting", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "144.96.128.14"
+        ], 
+        "dns-mx": [
+            "mailchecker3.sfasu.edu", 
+            "mailchecker4.sfasu.edu"
+        ], 
+        "dns-ns": [
+            "ns1.sfasu.edu", 
+            "ns3.sfasu.edu"
+        ], 
+        "domain-name": "sfasu.edu", 
+        "fuzzer": "insertion", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "162.241.188.131"
+        ], 
+        "dns-mx": [
+            "ssu.edu"
+        ], 
+        "dns-ns": [
+            "ns1.ssu.edu", 
+            "ns2.ssu.edu"
+        ], 
+        "domain-name": "ssu.edu", 
+        "fuzzer": "omission", 
+        "geoip-country": "United States"
+    }, 
+    {
+        "dns-a": [
+            "142.58.102.68"
+        ], 
+        "dns-mx": [
+            "pobox.sfu.ca"
+        ], 
+        "dns-ns": [
+            "ns2.sfu.ca", 
+            "ns3.sfu.ca", 
+            "wedge.sfu.ca", 
+            "whistler.sfu.ca"
+        ], 
+        "domain-name": "sfu.edu", 
+        "fuzzer": "omission", 
+        "geoip-country": "Canada"
+    }, 
+    {
+        "dns-a": [
+            "146.201.111.62"
+        ], 
+        "dns-mx": [
+            "mxa-00012503.gslb.pphosted.com", 
+            "mxb-00012503.gslb.pphosted.com"
+        ], 
+        "dns-ns": [
+            "dns1.fsu.edu", 
+            "dns2.fsu.edu", 
+            "dnsa.fsu.edu", 
+            "nsx.lbl.gov", 
+            "trantor.umd.edu"
+        ], 
+        "domain-name": "fsu.edu", 
+        "fuzzer": "omission", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "98.103.188.239"
+        ], 
+        "dns-mx": [
+            "mailgw.sfs.edu"
+        ], 
+        "dns-ns": [
+            "ns1.cloudns.net", 
+            "ns2.cloudns.net", 
+            "ns3.cloudns.net", 
+            "ns4.cloudns.net"
+        ], 
+        "domain-name": "sfs.edu", 
+        "fuzzer": "omission", 
+        "geoip-country": "United States"
+    }, 
+    {
+        "dns-a": [
+            "192.231.63.9"
+        ], 
+        "dns-mx": [
+            "barracuda.scsu.edu", 
+            "scsu-edu.mail.protection.outlook.com"
+        ], 
+        "dns-ns": [
+            "ns1.p04.dynect.net", 
+            "ns2.p04.dynect.net", 
+            "ns3.p04.dynect.net", 
+            "ns4.p04.dynect.net"
+        ], 
+        "domain-name": "scsu.edu", 
+        "fuzzer": "replacement"
+    }
+]

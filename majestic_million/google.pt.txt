@@ -1,0 +1,75 @@
+[
+    {
+        "dns-a": [
+            "172.217.22.35"
+        ], 
+        "dns-aaaa": [
+            "2a00:1450:4001:81b::2003"
+        ], 
+        "dns-mx": [
+            "alt1.aspmx.l.google.com", 
+            "alt2.aspmx.l.google.com", 
+            "alt3.aspmx.l.google.com", 
+            "alt4.aspmx.l.google.com", 
+            "aspmx.l.google.com"
+        ], 
+        "dns-ns": [
+            "ns1.google.com", 
+            "ns2.google.com", 
+            "ns3.google.com", 
+            "ns4.google.com"
+        ], 
+        "domain-name": "google.pt", 
+        "fuzzer": "original*", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 82
+    }, 
+    {
+        "dns-a": [
+            "185.53.178.7"
+        ], 
+        "dns-mx": [
+            "mail.h-email.net"
+        ], 
+        "dns-ns": [
+            "ns1.parkingcrew.net", 
+            "ns2.parkingcrew.net"
+        ], 
+        "domain-name": "goole.pt", 
+        "fuzzer": "omission", 
+        "geoip-country": "Germany", 
+        "mx-spy": true, 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "195.198.203.66"
+        ], 
+        "dns-mx": [
+            "localhost.gooogle.pt"
+        ], 
+        "dns-ns": [
+            "ns1.markguards.com", 
+            "ns2.markguards.com"
+        ], 
+        "domain-name": "gooogle.pt", 
+        "fuzzer": "repetition", 
+        "geoip-country": "Sweden", 
+        "mx-spy": true, 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "185.53.178.9"
+        ], 
+        "dns-mx": [
+            "mail.h-email.net"
+        ], 
+        "dns-ns": [
+            "ns1.parkingcrew.net", 
+            "ns2.parkingcrew.net"
+        ], 
+        "domain-name": "googel.pt", 
+        "fuzzer": "transposition"
+    }
+]

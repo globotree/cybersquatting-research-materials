@@ -1,0 +1,200 @@
+[
+    {
+        "dns-a": [
+            "104.31.88.240", 
+            "104.31.89.240"
+        ], 
+        "dns-aaaa": [
+            "2400:cb00:2048:1::681f:58f0", 
+            "2400:cb00:2048:1::681f:59f0"
+        ], 
+        "dns-mx": [
+            "mx.fakemx.net", 
+            "mx.maxns.net"
+        ], 
+        "dns-ns": [
+            "violet.ns.cloudflare.com", 
+            "walt.ns.cloudflare.com"
+        ], 
+        "domain-name": "sosblogs.com", 
+        "fuzzer": "original*", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 93
+    }, 
+    {
+        "dns-a": [
+            "72.52.4.119"
+        ], 
+        "dns-mx": [
+            "localhost"
+        ], 
+        "dns-ns": [
+            "ns1.sedoparking.com", 
+            "ns2.sedoparking.com"
+        ], 
+        "domain-name": "smsblogs.com", 
+        "fuzzer": "bitsquatting", 
+        "geoip-country": "United States", 
+        "mx-spy": true, 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "104.28.14.87", 
+            "104.28.15.87"
+        ], 
+        "dns-aaaa": [
+            "2400:cb00:2048:1::681c:e57", 
+            "2400:cb00:2048:1::681c:f57"
+        ], 
+        "dns-mx": [
+            "dc-673c48807af3.socblogs.com"
+        ], 
+        "dns-ns": [
+            "lisa.ns.cloudflare.com", 
+            "nash.ns.cloudflare.com"
+        ], 
+        "domain-name": "socblogs.com", 
+        "fuzzer": "bitsquatting", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "192.0.78.24", 
+            "192.0.78.25"
+        ], 
+        "dns-ns": [
+            "ns1.wordpress.com", 
+            "ns2.wordpress.com", 
+            "ns3.wordpress.com"
+        ], 
+        "domain-name": "ssblogs.com", 
+        "fuzzer": "omission", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "43.248.11.173"
+        ], 
+        "dns-ns": [
+            "dns27.hichina.com", 
+            "dns28.hichina.com"
+        ], 
+        "domain-name": "soblogs.com", 
+        "fuzzer": "omission", 
+        "geoip-country": "Hong Kong"
+    }, 
+    {
+        "dns-a": [
+            "104.28.24.3", 
+            "104.28.25.3"
+        ], 
+        "dns-aaaa": [
+            "2400:cb00:2048:1::681c:1803", 
+            "2400:cb00:2048:1::681c:1903"
+        ], 
+        "dns-mx": [
+            "mx.fakemx.net", 
+            "mx.maxns.net"
+        ], 
+        "dns-ns": [
+            "violet.ns.cloudflare.com", 
+            "walt.ns.cloudflare.com"
+        ], 
+        "domain-name": "sosblog.com", 
+        "fuzzer": "omission", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 91
+    }, 
+    {
+        "dns-a": [
+            "139.129.143.81"
+        ], 
+        "dns-ns": [
+            "dns10.hichina.com", 
+            "dns9.hichina.com"
+        ], 
+        "domain-name": "osblogs.com", 
+        "fuzzer": "omission", 
+        "geoip-country": "China", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "108.167.146.64"
+        ], 
+        "dns-mx": [
+            "mail.sosvlogs.com"
+        ], 
+        "dns-ns": [
+            "cns17.hostgator.in", 
+            "cns18.hostgator.in"
+        ], 
+        "domain-name": "sosvlogs.com", 
+        "fuzzer": "replacement", 
+        "geoip-country": "United States"
+    }, 
+    {
+        "dns-a": [
+            "216.239.32.21", 
+            "216.239.34.21", 
+            "216.239.36.21", 
+            "216.239.38.21"
+        ], 
+        "dns-mx": [
+            "mailstore1.secureserver.net", 
+            "smtp.secureserver.net"
+        ], 
+        "dns-ns": [
+            "ns27.domaincontrol.com", 
+            "ns28.domaincontrol.com"
+        ], 
+        "domain-name": "soablogs.com", 
+        "fuzzer": "replacement", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-ns": [
+            "noah.ns.cloudflare.com", 
+            "roxy.ns.cloudflare.com"
+        ], 
+        "domain-name": "sos.blogs.com", 
+        "fuzzer": "subdomain"
+    }, 
+    {
+        "dns-a": [
+            "75.126.101.249"
+        ], 
+        "domain-name": "sosbl.ogs.com", 
+        "fuzzer": "subdomain", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-ns": [
+            "dns29.hichina.com", 
+            "dns30.hichina.com"
+        ], 
+        "domain-name": "ossblogs.com", 
+        "fuzzer": "transposition"
+    }, 
+    {
+        "dns-a": [
+            "184.168.221.41"
+        ], 
+        "dns-mx": [
+            "mailstore1.secureserver.net", 
+            "smtp.secureserver.net"
+        ], 
+        "dns-ns": [
+            "ns65.domaincontrol.com", 
+            "ns66.domaincontrol.com"
+        ], 
+        "domain-name": "susblogs.com", 
+        "fuzzer": "vowel-swap", 
+        "geoip-country": "United States"
+    }
+]

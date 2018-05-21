@@ -1,0 +1,36 @@
+[
+    {
+        "dns-a": [
+            "172.217.22.35"
+        ], 
+        "dns-aaaa": [
+            "2a00:1450:4001:81b::2003"
+        ], 
+        "dns-mx": [
+            "google.com.s9a1.psmtp.com", 
+            "google.com.s9a2.psmtp.com", 
+            "google.com.s9b1.psmtp.com", 
+            "google.com.s9b2.psmtp.com"
+        ], 
+        "dns-ns": [
+            "ns1.google.com", 
+            "ns2.google.com", 
+            "ns3.google.com", 
+            "ns4.google.com"
+        ], 
+        "domain-name": "google.co.th", 
+        "fuzzer": "original*", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 74
+    }, 
+    {
+        "dns-ns": [
+            "ns1.google.com", 
+            "ns2.google.com", 
+            "ns3.google.com", 
+            "ns4.google.com"
+        ], 
+        "domain-name": "google.th", 
+        "fuzzer": "various"
+    }
+]

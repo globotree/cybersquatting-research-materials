@@ -1,0 +1,1056 @@
+[
+    {
+        "dns-mx": [
+            "mxa-0028be01.gslb.pphosted.com", 
+            "mxb-0028be01.gslb.pphosted.com"
+        ], 
+        "dns-ns": [
+            "ns1.scripps.com", 
+            "ns2.scripps.com", 
+            "ns3.scripps.com", 
+            "ns4.scripps.com"
+        ], 
+        "domain-name": "wxyz.com", 
+        "fuzzer": "original*", 
+        "mx-spy": true
+    }, 
+    {
+        "dns-a": [
+            "54.227.255.213"
+        ], 
+        "dns-ns": [
+            "pdns01.domaincontrol.com", 
+            "pdns02.domaincontrol.com"
+        ], 
+        "domain-name": "wxyza.com", 
+        "fuzzer": "addition", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "47.89.58.32"
+        ], 
+        "dns-ns": [
+            "dns25.hichina.com", 
+            "dns26.hichina.com"
+        ], 
+        "domain-name": "wxyzc.com", 
+        "fuzzer": "addition", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "72.52.4.120"
+        ], 
+        "dns-mx": [
+            "localhost"
+        ], 
+        "dns-ns": [
+            "ns1.sedoparking.com", 
+            "ns2.sedoparking.com"
+        ], 
+        "domain-name": "wxyze.com", 
+        "fuzzer": "addition", 
+        "geoip-country": "United States", 
+        "mx-spy": true, 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "116.255.235.23"
+        ], 
+        "dns-ns": [
+            "ns1.myhostadmin.net", 
+            "ns2.myhostadmin.net", 
+            "ns3.myhostadmin.net", 
+            "ns4.myhostadmin.net", 
+            "ns5.myhostadmin.net", 
+            "ns6.myhostadmin.net"
+        ], 
+        "domain-name": "wxyzf.com", 
+        "fuzzer": "addition", 
+        "geoip-country": "China", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-ns": [
+            "f1g1ns1.dnspod.net", 
+            "f1g1ns2.dnspod.net"
+        ], 
+        "domain-name": "wxyzg.com", 
+        "fuzzer": "addition"
+    }, 
+    {
+        "dns-a": [
+            "52.73.124.185", 
+            "54.164.198.60"
+        ], 
+        "dns-ns": [
+            "ns1.namebrightdns.com", 
+            "ns2.namebrightdns.com"
+        ], 
+        "domain-name": "wxyzh.com", 
+        "fuzzer": "addition", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "58.215.75.207"
+        ], 
+        "dns-mx": [
+            "mx.wxyzj.com"
+        ], 
+        "dns-ns": [
+            "ns1.4everdns.com", 
+            "ns2.4everdns.com"
+        ], 
+        "domain-name": "wxyzj.com", 
+        "fuzzer": "addition", 
+        "geoip-country": "China", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-mx": [
+            "mxn.mxhichina.com", 
+            "mxw.mxhichina.com"
+        ], 
+        "dns-ns": [
+            "f1g1ns1.dnspod.net", 
+            "f1g1ns2.dnspod.net"
+        ], 
+        "domain-name": "wxyzn.com", 
+        "fuzzer": "addition"
+    }, 
+    {
+        "dns-a": [
+            "209.99.64.53"
+        ], 
+        "dns-ns": [
+            "ns11053.ztomy.com", 
+            "ns21053.ztomy.com"
+        ], 
+        "domain-name": "wxyzp.com", 
+        "fuzzer": "addition", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "222.188.92.110"
+        ], 
+        "domain-name": "wxyzq.com", 
+        "fuzzer": "addition", 
+        "geoip-country": "China", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "107.165.133.21"
+        ], 
+        "dns-ns": [
+            "juming.dnsdun.com", 
+            "juming.dnsdun.net"
+        ], 
+        "domain-name": "wxyzr.com", 
+        "fuzzer": "addition", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "47.91.169.15"
+        ], 
+        "dns-ns": [
+            "dns27.hichina.com", 
+            "dns28.hichina.com"
+        ], 
+        "domain-name": "wxyzs.com", 
+        "fuzzer": "addition", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "47.91.169.15"
+        ], 
+        "dns-ns": [
+            "dns29.hichina.com", 
+            "dns30.hichina.com"
+        ], 
+        "domain-name": "wxyzt.com", 
+        "fuzzer": "addition", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "103.243.27.184"
+        ], 
+        "dns-ns": [
+            "dns3.hichina.com", 
+            "dns4.hichina.com"
+        ], 
+        "domain-name": "wxyzw.com", 
+        "fuzzer": "addition", 
+        "geoip-country": "Hong Kong", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "45.114.106.163"
+        ], 
+        "domain-name": "wxyzx.com", 
+        "fuzzer": "addition", 
+        "geoip-country": "China", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "47.89.58.32"
+        ], 
+        "dns-ns": [
+            "dns10.hichina.com", 
+            "dns9.hichina.com"
+        ], 
+        "domain-name": "wxyzy.com", 
+        "fuzzer": "addition", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "119.28.88.17"
+        ], 
+        "dns-mx": [
+            "v1.mychinamail.com"
+        ], 
+        "domain-name": "wxyzz.com", 
+        "fuzzer": "addition", 
+        "geoip-country": "China", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "23.236.62.147"
+        ], 
+        "dns-mx": [
+            "uxyz-com.mail.protection.outlook.com"
+        ], 
+        "dns-ns": [
+            "ns6.wixdns.net", 
+            "ns7.wixdns.net"
+        ], 
+        "domain-name": "uxyz.com", 
+        "fuzzer": "bitsquatting", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "59.49.17.52"
+        ], 
+        "dns-mx": [
+            "pop.sxyz.com"
+        ], 
+        "dns-ns": [
+            "dns1.hichina.com", 
+            "dns2.hichina.com"
+        ], 
+        "domain-name": "sxyz.com", 
+        "fuzzer": "bitsquatting", 
+        "geoip-country": "China", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "119.29.43.30"
+        ], 
+        "dns-ns": [
+            "ns.dns.net.cn", 
+            "ns7.dns.net.cn"
+        ], 
+        "domain-name": "gxyz.com", 
+        "fuzzer": "bitsquatting", 
+        "geoip-country": "China", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "192.155.92.228"
+        ], 
+        "dns-mx": [
+            "mail.7xyz.com"
+        ], 
+        "dns-ns": [
+            "ns1.linode.com", 
+            "ns2.linode.com", 
+            "ns3.linode.com", 
+            "ns4.linode.com", 
+            "ns5.linode.com"
+        ], 
+        "domain-name": "7xyz.com", 
+        "fuzzer": "bitsquatting", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "47.90.43.141"
+        ], 
+        "domain-name": "wyyz.com", 
+        "fuzzer": "bitsquatting", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-ns": [
+            "ns1.uniregistrymarket.link", 
+            "ns2.uniregistrymarket.link"
+        ], 
+        "domain-name": "wzyz.com", 
+        "fuzzer": "bitsquatting"
+    }, 
+    {
+        "dns-a": [
+            "47.90.43.141"
+        ], 
+        "domain-name": "wpyz.com", 
+        "fuzzer": "bitsquatting", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "47.90.43.141"
+        ], 
+        "domain-name": "whyz.com", 
+        "fuzzer": "bitsquatting", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "67.210.123.115"
+        ], 
+        "dns-mx": [
+            "w8yz.com"
+        ], 
+        "dns-ns": [
+            "ns1.lunarpages.com", 
+            "ns2.lunarpages.com"
+        ], 
+        "domain-name": "w8yz.com", 
+        "fuzzer": "bitsquatting", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "192.254.235.220"
+        ], 
+        "dns-mx": [
+            "wxxz.com"
+        ], 
+        "dns-ns": [
+            "ns2225.hostgator.com", 
+            "ns2226.hostgator.com"
+        ], 
+        "domain-name": "wxxz.com", 
+        "fuzzer": "bitsquatting", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "47.52.223.95"
+        ], 
+        "domain-name": "wxqz.com", 
+        "fuzzer": "bitsquatting", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "209.17.116.9"
+        ], 
+        "dns-mx": [
+            "p.webcom.ctmail.com"
+        ], 
+        "dns-ns": [
+            "ns35.worldnic.com", 
+            "ns36.worldnic.com"
+        ], 
+        "domain-name": "wxiz.com", 
+        "fuzzer": "bitsquatting", 
+        "geoip-country": "United States", 
+        "mx-spy": true, 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "115.28.39.129"
+        ], 
+        "dns-ns": [
+            "dns10.hichina.com", 
+            "dns9.hichina.com"
+        ], 
+        "domain-name": "wx9z.com", 
+        "fuzzer": "bitsquatting", 
+        "geoip-country": "China"
+    }, 
+    {
+        "dns-a": [
+            "69.172.201.153"
+        ], 
+        "dns-ns": [
+            "ns1.uniregistrymarket.link", 
+            "ns2.uniregistrymarket.link"
+        ], 
+        "domain-name": "wxyx.com", 
+        "fuzzer": "bitsquatting", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "47.90.43.141"
+        ], 
+        "domain-name": "wxyr.com", 
+        "fuzzer": "bitsquatting", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "122.224.214.163"
+        ], 
+        "dns-mx": [
+            "mx1.chinanetsun.com", 
+            "mx1a.chinanetsun.com"
+        ], 
+        "dns-ns": [
+            "ns1.chinanetsun.com", 
+            "ns2.chinanetsun.com"
+        ], 
+        "domain-name": "wxyj.com", 
+        "fuzzer": "bitsquatting", 
+        "geoip-country": "China"
+    }, 
+    {
+        "dns-a": [
+            "120.25.213.85"
+        ], 
+        "dns-ns": [
+            "dns1.hichina.com", 
+            "dns2.hichina.com"
+        ], 
+        "domain-name": "vvxyz.com", 
+        "fuzzer": "homoglyph", 
+        "geoip-country": "China"
+    }, 
+    {
+        "dns-a": [
+            "72.52.4.120"
+        ], 
+        "dns-mx": [
+            "localhost"
+        ], 
+        "dns-ns": [
+            "ns1.sedoparking.com", 
+            "ns2.sedoparking.com"
+        ], 
+        "domain-name": "w-xyz.com", 
+        "fuzzer": "hyphenation", 
+        "geoip-country": "United States", 
+        "mx-spy": true, 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-mx": [
+            "1521548668.pamx1.hotmail.com"
+        ], 
+        "dns-ns": [
+            "ns15.xincache.com", 
+            "ns16.xincache.com"
+        ], 
+        "domain-name": "wx-yz.com", 
+        "fuzzer": "hyphenation"
+    }, 
+    {
+        "dns-a": [
+            "122.114.118.175"
+        ], 
+        "dns-ns": [
+            "dns10.hichina.com", 
+            "dns9.hichina.com"
+        ], 
+        "domain-name": "wxsyz.com", 
+        "fuzzer": "insertion", 
+        "geoip-country": "China", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "45.35.243.18"
+        ], 
+        "dns-ns": [
+            "v1.dns234.net", 
+            "v2.dns234.net"
+        ], 
+        "domain-name": "wxgyz.com", 
+        "fuzzer": "insertion", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "112.213.99.140"
+        ], 
+        "dns-mx": [
+            "mx16.cn4e.com"
+        ], 
+        "domain-name": "wxytz.com", 
+        "fuzzer": "insertion", 
+        "geoip-country": "Hong Kong"
+    }, 
+    {
+        "dns-a": [
+            "47.89.58.141"
+        ], 
+        "dns-ns": [
+            "dns15.hichina.com", 
+            "dns16.hichina.com"
+        ], 
+        "domain-name": "wyxyz.com", 
+        "fuzzer": "insertion", 
+        "geoip-country": "United States"
+    }, 
+    {
+        "dns-a": [
+            "23.104.102.36"
+        ], 
+        "dns-ns": [
+            "ns53.domaincontrol.com", 
+            "ns54.domaincontrol.com"
+        ], 
+        "domain-name": "wxtyz.com", 
+        "fuzzer": "insertion", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "23.104.102.19"
+        ], 
+        "domain-name": "wxyxz.com", 
+        "fuzzer": "insertion", 
+        "geoip-country": "United States"
+    }, 
+    {
+        "dns-a": [
+            "54.210.187.20", 
+            "54.236.156.218"
+        ], 
+        "dns-mx": [
+            "mail1.namebrightmail.com", 
+            "mail2.namebrightmail.com"
+        ], 
+        "dns-ns": [
+            "ns1.namebrightdns.com", 
+            "ns2.namebrightdns.com"
+        ], 
+        "domain-name": "wxzyz.com", 
+        "fuzzer": "insertion", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "23.104.102.44"
+        ], 
+        "dns-ns": [
+            "ns53.domaincontrol.com", 
+            "ns54.domaincontrol.com"
+        ], 
+        "domain-name": "wxyhz.com", 
+        "fuzzer": "insertion", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "23.224.19.169"
+        ], 
+        "dns-ns": [
+            "v1.dns234.net", 
+            "v2.dns234.net"
+        ], 
+        "domain-name": "wxyyz.com", 
+        "fuzzer": "insertion", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "52.73.124.185", 
+            "54.164.198.60"
+        ], 
+        "dns-ns": [
+            "ns1.namebrightdns.com", 
+            "ns2.namebrightdns.com"
+        ], 
+        "domain-name": "wxhyz.com", 
+        "fuzzer": "insertion", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "47.89.58.141"
+        ], 
+        "dns-ns": [
+            "dns15.hichina.com", 
+            "dns16.hichina.com"
+        ], 
+        "domain-name": "wsxyz.com", 
+        "fuzzer": "insertion", 
+        "geoip-country": "United States"
+    }, 
+    {
+        "dns-ns": [
+            "ns1.dreamhost.com", 
+            "ns2.dreamhost.com", 
+            "ns3.dreamhost.com"
+        ], 
+        "domain-name": "wx6yz.com", 
+        "fuzzer": "insertion"
+    }, 
+    {
+        "dns-a": [
+            "52.8.203.224"
+        ], 
+        "dns-mx": [
+            "alt1.aspmx.l.google.com", 
+            "alt2.aspmx.l.google.com", 
+            "aspmx.l.google.com", 
+            "aspmx2.googlemail.com", 
+            "aspmx3.googlemail.com"
+        ], 
+        "dns-ns": [
+            "ns-1418.awsdns-49.org", 
+            "ns-1664.awsdns-16.co.uk", 
+            "ns-32.awsdns-04.com", 
+            "ns-796.awsdns-35.net"
+        ], 
+        "domain-name": "xyz.com", 
+        "fuzzer": "omission", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "74.117.221.21", 
+            "74.117.221.22"
+        ], 
+        "dns-ns": [
+            "ns0.directnic.com", 
+            "ns1.directnic.com"
+        ], 
+        "domain-name": "wxy.com", 
+        "fuzzer": "omission", 
+        "geoip-country": "Cayman Islands", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "192.252.151.30"
+        ], 
+        "dns-mx": [
+            "mail.wwxyz.com"
+        ], 
+        "dns-ns": [
+            "ns1.s408.sureserver.com", 
+            "ns2.s408.sureserver.com"
+        ], 
+        "domain-name": "wwxyz.com", 
+        "fuzzer": "repetition", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "121.14.65.216"
+        ], 
+        "dns-mx": [
+            "mx.zmail.net.cn"
+        ], 
+        "dns-ns": [
+            "ns5.ce.net.cn"
+        ], 
+        "domain-name": "wxhz.com", 
+        "fuzzer": "replacement", 
+        "geoip-country": "China"
+    }, 
+    {
+        "dns-a": [
+            "72.52.4.119"
+        ], 
+        "dns-mx": [
+            "localhost"
+        ], 
+        "dns-ns": [
+            "ns1.sedoparking.com", 
+            "ns2.sedoparking.com"
+        ], 
+        "domain-name": "exyz.com", 
+        "fuzzer": "replacement", 
+        "geoip-country": "United States", 
+        "mx-spy": true, 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "180.86.6.168"
+        ], 
+        "dns-mx": [
+            "mx.wdyz.com"
+        ], 
+        "dns-ns": [
+            "dns1.51.net", 
+            "dns2.51.net"
+        ], 
+        "domain-name": "wdyz.com", 
+        "fuzzer": "replacement", 
+        "geoip-country": "China", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "222.76.212.103"
+        ], 
+        "dns-mx": [
+            "mxbiz1.qq.com", 
+            "mxbiz2.qq.com"
+        ], 
+        "domain-name": "wxsz.com", 
+        "fuzzer": "replacement", 
+        "geoip-country": "China", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "103.224.182.210"
+        ], 
+        "dns-mx": [
+            "park-mx.above.com"
+        ], 
+        "dns-ns": [
+            "ns1.above.com", 
+            "ns2.above.com"
+        ], 
+        "domain-name": "qxyz.com", 
+        "fuzzer": "replacement", 
+        "geoip-country": "Australia", 
+        "mx-spy": true, 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "94.126.40.154"
+        ], 
+        "dns-mx": [
+            "mailforward.lcn.com"
+        ], 
+        "dns-ns": [
+            "ns0.lcn.com", 
+            "ns1.lcn.com", 
+            "ns2.lcn.com"
+        ], 
+        "domain-name": "wxuz.com", 
+        "fuzzer": "replacement", 
+        "geoip-country": "United Kingdom", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-ns": [
+            "ns5.cnmsn.net", 
+            "ns6.cnmsn.net"
+        ], 
+        "domain-name": "2xyz.com", 
+        "fuzzer": "replacement"
+    }, 
+    {
+        "dns-a": [
+            "199.59.242.150"
+        ], 
+        "dns-mx": [
+            "mx76.m2bp.com", 
+            "mx76.mb1p.com"
+        ], 
+        "domain-name": "wxy6.com", 
+        "fuzzer": "replacement", 
+        "geoip-country": "United States", 
+        "mx-spy": true, 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "103.31.15.37"
+        ], 
+        "dns-ns": [
+            "cruz.ns.cloudflare.com", 
+            "norm.ns.cloudflare.com"
+        ], 
+        "domain-name": "wxy7.com", 
+        "fuzzer": "replacement", 
+        "geoip-country": "Japan", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "127.0.0.1"
+        ], 
+        "dns-mx": [
+            "mail.wxy2.com"
+        ], 
+        "dns-ns": [
+            "ns1.xrnet.cn", 
+            "ns2.xrnet.cn"
+        ], 
+        "domain-name": "wxy2.com", 
+        "fuzzer": "replacement"
+    }, 
+    {
+        "dns-mx": [
+            "mxn.mxhichina.com", 
+            "mxw.mxhichina.com"
+        ], 
+        "dns-ns": [
+            "dns27.hichina.com", 
+            "dns28.hichina.com"
+        ], 
+        "domain-name": "wxy3.com", 
+        "fuzzer": "replacement"
+    }, 
+    {
+        "dns-ns": [
+            "ns11.xincache.com", 
+            "ns12.xincache.com"
+        ], 
+        "domain-name": "wcyz.com", 
+        "fuzzer": "replacement"
+    }, 
+    {
+        "dns-a": [
+            "216.220.41.252"
+        ], 
+        "dns-mx": [
+            "backupms1.nas.net", 
+            "ms1.nas.net"
+        ], 
+        "dns-ns": [
+            "ns1.3peaks.com", 
+            "ns2.3peaks.com"
+        ], 
+        "domain-name": "axyz.com", 
+        "fuzzer": "replacement", 
+        "geoip-country": "Canada", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "210.209.87.186"
+        ], 
+        "domain-name": "wsyz.com", 
+        "fuzzer": "replacement", 
+        "geoip-country": "Hong Kong", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "112.124.185.168"
+        ], 
+        "domain-name": "wxtz.com", 
+        "fuzzer": "replacement", 
+        "geoip-country": "China", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-ns": [
+            "a.dnspod.com", 
+            "b.dnspod.com", 
+            "c.dnspod.com"
+        ], 
+        "domain-name": "wxaz.com", 
+        "fuzzer": "replacement"
+    }, 
+    {
+        "dns-a": [
+            "119.23.11.47"
+        ], 
+        "dns-ns": [
+            "dns21.hichina.com", 
+            "dns22.hichina.com"
+        ], 
+        "domain-name": "wx7z.com", 
+        "fuzzer": "replacement", 
+        "geoip-country": "China"
+    }, 
+    {
+        "dns-a": [
+            "192.64.147.176"
+        ], 
+        "dns-ns": [
+            "ns1.voodoo.com", 
+            "ns2.voodoo.com"
+        ], 
+        "domain-name": "xxyz.com", 
+        "fuzzer": "replacement", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "203.78.142.12"
+        ], 
+        "domain-name": "wxye.com", 
+        "fuzzer": "replacement", 
+        "geoip-country": "Hong Kong", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "47.93.40.156"
+        ], 
+        "dns-mx": [
+            "mxbiz1.qq.com", 
+            "mxbiz2.qq.com"
+        ], 
+        "dns-ns": [
+            "f1g1ns1.dnspod.net", 
+            "f1g1ns2.dnspod.net"
+        ], 
+        "domain-name": "wxgz.com", 
+        "fuzzer": "replacement", 
+        "geoip-country": "China", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "184.168.221.104"
+        ], 
+        "dns-ns": [
+            "ns1.afternic.com", 
+            "ns2.afternic.com"
+        ], 
+        "domain-name": "wxya.com", 
+        "fuzzer": "replacement", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-mx": [
+            "mx.3xyz.com.cust.b.hostedemail.com"
+        ], 
+        "dns-ns": [
+            "ns1.shopco.com"
+        ], 
+        "domain-name": "3xyz.com", 
+        "fuzzer": "replacement"
+    }, 
+    {
+        "dns-a": [
+            "216.239.116.98"
+        ], 
+        "dns-ns": [
+            "ns10.cbsig.net", 
+            "ns11.cbsig.net"
+        ], 
+        "domain-name": "wxyt.com", 
+        "fuzzer": "replacement", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-ns": [
+            "ns1.bddns.cn", 
+            "ns2.bddns.cn"
+        ], 
+        "domain-name": "wxyu.com", 
+        "fuzzer": "replacement"
+    }, 
+    {
+        "dns-a": [
+            "203.78.142.12"
+        ], 
+        "domain-name": "wxys.com", 
+        "fuzzer": "replacement", 
+        "geoip-country": "Hong Kong", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "114.118.11.93"
+        ], 
+        "dns-ns": [
+            "ns1.dns.com.cn", 
+            "ns2.dns.com.cn"
+        ], 
+        "domain-name": "wxyq.com", 
+        "fuzzer": "replacement"
+    }, 
+    {
+        "dns-a": [
+            "52.8.203.224"
+        ], 
+        "domain-name": "w.xyz.com", 
+        "fuzzer": "subdomain", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "47.89.58.32"
+        ], 
+        "dns-ns": [
+            "dns19.hichina.com", 
+            "dns20.hichina.com"
+        ], 
+        "domain-name": "xwyz.com", 
+        "fuzzer": "transposition", 
+        "geoip-country": "United States"
+    }, 
+    {
+        "dns-a": [
+            "69.172.201.153"
+        ], 
+        "dns-ns": [
+            "ns1.uniregistrymarket.link", 
+            "ns2.uniregistrymarket.link"
+        ], 
+        "domain-name": "wyxz.com", 
+        "fuzzer": "transposition", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "72.52.4.120"
+        ], 
+        "dns-mx": [
+            "localhost"
+        ], 
+        "dns-ns": [
+            "ns1.sedoparking.com", 
+            "ns2.sedoparking.com"
+        ], 
+        "domain-name": "wxzy.com", 
+        "fuzzer": "transposition", 
+        "geoip-country": "United States", 
+        "mx-spy": true, 
+        "ssdeep-score": 0
+    }
+]

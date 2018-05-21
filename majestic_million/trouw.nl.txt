@@ -1,0 +1,243 @@
+[
+    {
+        "dns-a": [
+            "104.94.100.33", 
+            "104.94.100.67"
+        ], 
+        "dns-aaaa": [
+            "2a02:26f0:9c00:1b7::2fc8", 
+            "2a02:26f0:9c00:1b9::2fc8"
+        ], 
+        "dns-mx": [
+            "alt1.aspmx.l.google.com", 
+            "alt2.aspmx.l.google.com", 
+            "aspmx.l.google.com", 
+            "aspmx2.googlemail.com", 
+            "aspmx3.googlemail.com"
+        ], 
+        "dns-ns": [
+            "eur2.akam.net", 
+            "eur5.akam.net", 
+            "eur6.akam.net", 
+            "ns1-125.akam.net", 
+            "ns1-25.akam.net"
+        ], 
+        "domain-name": "trouw.nl", 
+        "fuzzer": "original*", 
+        "geoip-country": "Netherlands", 
+        "ssdeep-score": 100
+    }, 
+    {
+        "dns-a": [
+            "199.59.242.150"
+        ], 
+        "dns-mx": [
+            "mail.trouwe.nl"
+        ], 
+        "dns-ns": [
+            "ns1.domeinwinkel.nl", 
+            "ns2.domeinwinkel.nl"
+        ], 
+        "domain-name": "trouwe.nl", 
+        "fuzzer": "addition", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "185.53.177.29"
+        ], 
+        "dns-ns": [
+            "ns1.gegidns.com", 
+            "ns2.gegidns.com"
+        ], 
+        "domain-name": "trouws.nl", 
+        "fuzzer": "addition", 
+        "geoip-country": "Germany", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "178.18.138.80"
+        ], 
+        "dns-mx": [
+            "mx.moerstaal.nl"
+        ], 
+        "dns-ns": [
+            "ns1.flaxe-webhosting.be", 
+            "ns2.flaxe-webhosting.be", 
+            "ns3.flaxe-webhosting.be"
+        ], 
+        "domain-name": "trouwt.nl", 
+        "fuzzer": "addition", 
+        "geoip-country": "Netherlands", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "217.196.33.9"
+        ], 
+        "dns-mx": [
+            "vrouw-nl.mail.eo.outlook.com"
+        ], 
+        "dns-ns": [
+            "ns0.telegraaf.net", 
+            "ns1.tmgonlinemedia.eu", 
+            "ns2.tmgonlinemedia.nl"
+        ], 
+        "domain-name": "vrouw.nl", 
+        "fuzzer": "bitsquatting", 
+        "geoip-country": "Netherlands", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "81.26.219.242"
+        ], 
+        "dns-mx": [
+            "mail.prouw.nl"
+        ], 
+        "dns-ns": [
+            "ns1.officepc.nl", 
+            "ns2.officepc.nl"
+        ], 
+        "domain-name": "prouw.nl", 
+        "fuzzer": "bitsquatting", 
+        "geoip-country": "Netherlands", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "83.137.194.29"
+        ], 
+        "dns-mx": [
+            "mail.terouw.nl"
+        ], 
+        "dns-ns": [
+            "ns1.hosting2go.nl", 
+            "ns2.hosting2go.nl"
+        ], 
+        "domain-name": "terouw.nl", 
+        "fuzzer": "insertion", 
+        "geoip-country": "Netherlands", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "146.66.86.225"
+        ], 
+        "dns-mx": [
+            "pop.rouw.nl"
+        ], 
+        "dns-ns": [
+            "ns1.am11.siteground.biz", 
+            "ns1.widexs.nl", 
+            "ns2.widexs.net", 
+            "ns3.widexs.nl"
+        ], 
+        "domain-name": "rouw.nl", 
+        "fuzzer": "omission", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "185.53.177.29"
+        ], 
+        "dns-ns": [
+            "ns1.gegidns.com", 
+            "ns2.gegidns.com"
+        ], 
+        "domain-name": "trow.nl", 
+        "fuzzer": "omission", 
+        "geoip-country": "Germany", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "72.52.4.119"
+        ], 
+        "dns-mx": [
+            "localhost"
+        ], 
+        "dns-ns": [
+            "ns1.sedoparking.com", 
+            "ns2.sedoparking.com"
+        ], 
+        "domain-name": "trou.nl", 
+        "fuzzer": "omission", 
+        "geoip-country": "United States", 
+        "mx-spy": true, 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "185.53.179.8"
+        ], 
+        "dns-ns": [
+            "ns1.parkingcrew.net", 
+            "ns2.parkingcrew.net"
+        ], 
+        "domain-name": "truw.nl", 
+        "fuzzer": "omission", 
+        "geoip-country": "Germany", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-ns": [
+            "ns1.quickhost.nl", 
+            "ns2.quickhost.nl"
+        ], 
+        "domain-name": "touw.nl", 
+        "fuzzer": "omission"
+    }, 
+    {
+        "dns-a": [
+            "213.187.247.79"
+        ], 
+        "dns-mx": [
+            "postduif.natuurpark.nl"
+        ], 
+        "dns-ns": [
+            "blixem.resolver.domains", 
+            "dns.blixem.net", 
+            "dns.blixem.nl"
+        ], 
+        "domain-name": "grouw.nl", 
+        "fuzzer": "replacement", 
+        "geoip-country": "Lebanon"
+    }, 
+    {
+        "dns-a": [
+            "54.72.9.51"
+        ], 
+        "domain-name": "troux.nl", 
+        "fuzzer": "replacement"
+    }, 
+    {
+        "dns-a": [
+            "146.66.86.225"
+        ], 
+        "domain-name": "t.rouw.nl", 
+        "fuzzer": "subdomain", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "91.184.0.100"
+        ], 
+        "dns-aaaa": [
+            "2a02:2268:ffff:ffff::4"
+        ], 
+        "dns-ns": [
+            "ns1.hostnet.nl", 
+            "ns2.hostnetbv.com", 
+            "ns3.hostnetbv.nl"
+        ], 
+        "domain-name": "troow.nl", 
+        "fuzzer": "vowel-swap", 
+        "geoip-country": "Netherlands", 
+        "ssdeep-score": 0
+    }
+]

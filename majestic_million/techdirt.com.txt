@@ -1,0 +1,112 @@
+[
+    {
+        "dns-a": [
+            "104.24.4.18", 
+            "104.24.5.18"
+        ], 
+        "dns-aaaa": [
+            "2400:cb00:2048:1::6818:412", 
+            "2400:cb00:2048:1::6818:512"
+        ], 
+        "dns-mx": [
+            "techdirt-com.p10.spamhero.com", 
+            "techdirt-com.p20.spamhero.net", 
+            "techdirt-com.p30.spamhero.net", 
+            "techdirt-com.p40.spamhero.net"
+        ], 
+        "dns-ns": [
+            "jim.ns.cloudflare.com", 
+            "kate.ns.cloudflare.com"
+        ], 
+        "domain-name": "techdirt.com", 
+        "fuzzer": "original*", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 99
+    }, 
+    {
+        "dns-a": [
+            "104.28.0.232", 
+            "104.28.1.232"
+        ], 
+        "dns-ns": [
+            "aron.ns.cloudflare.com", 
+            "owen.ns.cloudflare.com"
+        ], 
+        "domain-name": "techdirty.com", 
+        "fuzzer": "addition", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "64.90.49.81"
+        ], 
+        "dns-ns": [
+            "ns1.dreamhost.com", 
+            "ns2.dreamhost.com", 
+            "ns3.dreamhost.com"
+        ], 
+        "domain-name": "tachdirt.com", 
+        "fuzzer": "bitsquatting", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "52.86.22.136", 
+            "54.174.212.152"
+        ], 
+        "dns-ns": [
+            "ns1.namebrightdns.com", 
+            "ns2.namebrightdns.com"
+        ], 
+        "domain-name": "techdart.com", 
+        "fuzzer": "bitsquatting", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "52.86.22.136", 
+            "54.174.212.152"
+        ], 
+        "dns-ns": [
+            "ns1.namebrightdns.com", 
+            "ns2.namebrightdns.com"
+        ], 
+        "domain-name": "techdist.com", 
+        "fuzzer": "bitsquatting", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "184.168.221.60"
+        ], 
+        "dns-ns": [
+            "pdns13.domaincontrol.com", 
+            "pdns14.domaincontrol.com"
+        ], 
+        "domain-name": "techdir.com", 
+        "fuzzer": "omission", 
+        "geoip-country": "United States"
+    }, 
+    {
+        "dns-a": [
+            "199.59.242.150"
+        ], 
+        "dns-mx": [
+            "mx76.m2bp.com", 
+            "mx76.mb1p.com"
+        ], 
+        "dns-ns": [
+            "ns1.bodis.com", 
+            "ns2.bodis.com"
+        ], 
+        "domain-name": "techdiet.com", 
+        "fuzzer": "replacement", 
+        "geoip-country": "United States", 
+        "mx-spy": true, 
+        "ssdeep-score": 0
+    }
+]

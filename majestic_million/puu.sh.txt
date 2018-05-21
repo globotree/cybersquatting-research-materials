@@ -1,0 +1,148 @@
+[
+    {
+        "dns-a": [
+            "104.24.28.29", 
+            "104.24.29.29"
+        ], 
+        "dns-aaaa": [
+            "2400:cb00:2048:1::6818:1c1d", 
+            "2400:cb00:2048:1::6818:1d1d"
+        ], 
+        "dns-mx": [
+            "alt1.aspmx.l.google.com", 
+            "alt2.aspmx.l.google.com", 
+            "aspmx.l.google.com", 
+            "aspmx2.googlemail.com", 
+            "aspmx3.googlemail.com"
+        ], 
+        "dns-ns": [
+            "art.ns.cloudflare.com", 
+            "dawn.ns.cloudflare.com"
+        ], 
+        "domain-name": "puu.sh", 
+        "fuzzer": "original*", 
+        "geoip-country": "United States"
+    }, 
+    {
+        "dns-a": [
+            "198.54.115.70"
+        ], 
+        "dns-mx": [
+            "mail.ruu.sh"
+        ], 
+        "domain-name": "ruu.sh", 
+        "fuzzer": "bitsquatting", 
+        "geoip-country": "United States"
+    }, 
+    {
+        "dns-a": [
+            "37.59.60.227"
+        ], 
+        "dns-mx": [
+            "redirect.ovh.net"
+        ], 
+        "dns-ns": [
+            "dns18.ovh.net", 
+            "ns18.ovh.net"
+        ], 
+        "domain-name": "pwu.sh", 
+        "fuzzer": "bitsquatting", 
+        "geoip-country": "France"
+    }, 
+    {
+        "dns-a": [
+            "193.223.78.230"
+        ], 
+        "dns-ns": [
+            "l1.ns.divido.org", 
+            "l2.ns.divido.org"
+        ], 
+        "domain-name": "uu.sh", 
+        "fuzzer": "omission", 
+        "geoip-country": "United Kingdom"
+    }, 
+    {
+        "dns-a": [
+            "198.101.194.10"
+        ], 
+        "dns-mx": [
+            "ALT1.ASPMX.L.GOOGLE.COM", 
+            "ALT2.ASPMX.L.GOOGLE.COM", 
+            "ASPMX.L.GOOGLE.COM", 
+            "ASPMX2.GOOGLEMAIL.COM", 
+            "ASPMX3.GOOGLEMAIL.COM"
+        ], 
+        "dns-ns": [
+            "dns1.stabletransit.com", 
+            "dns2.stabletransit.com", 
+            "dns3.stabletransit.com"
+        ], 
+        "domain-name": "pu.sh", 
+        "fuzzer": "omission", 
+        "geoip-country": "United States"
+    }, 
+    {
+        "dns-a": [
+            "69.58.188.49"
+        ], 
+        "dns-ns": [
+            "ns1mpz.name.com", 
+            "ns2dky.name.com", 
+            "ns3ckl.name.com", 
+            "ns4hny.name.com"
+        ], 
+        "domain-name": "puh.sh", 
+        "fuzzer": "replacement", 
+        "geoip-country": "United States"
+    }, 
+    {
+        "dns-a": [
+            "193.223.78.230"
+        ], 
+        "domain-name": "p.uu.sh", 
+        "fuzzer": "subdomain", 
+        "geoip-country": "United Kingdom"
+    }, 
+    {
+        "dns-a": [
+            "193.223.78.230"
+        ], 
+        "domain-name": "pu.u.sh", 
+        "fuzzer": "subdomain", 
+        "geoip-country": "United Kingdom"
+    }, 
+    {
+        "dns-a": [
+            "176.9.52.74"
+        ], 
+        "dns-mx": [
+            "ALT1.ASPMX.L.GOOGLE.COM", 
+            "ALT2.ASPMX.L.GOOGLE.COM", 
+            "ASPMX.L.GOOGLE.COM", 
+            "ASPMX2.GOOGLEMAIL.COM", 
+            "ASPMX3.GOOGLEMAIL.COM", 
+            "ASPMX4.GOOGLEMAIL.COM", 
+            "ASPMX5.GOOGLEMAIL.COM"
+        ], 
+        "dns-ns": [
+            "ns1.var-dump.it", 
+            "ns2.var-dump.it"
+        ], 
+        "domain-name": "upu.sh", 
+        "fuzzer": "transposition"
+    }, 
+    {
+        "dns-a": [
+            "199.73.55.35", 
+            "45.32.3.76"
+        ], 
+        "dns-ns": [
+            "ns1.101domain.com", 
+            "ns2.101domain.com", 
+            "ns5.101domain.com"
+        ], 
+        "domain-name": "puush.sh", 
+        "fuzzer": "various", 
+        "geoip-country": "United States"
+    }
+]

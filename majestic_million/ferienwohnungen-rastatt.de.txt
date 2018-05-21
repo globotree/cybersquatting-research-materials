@@ -1,0 +1,57 @@
+[
+    {
+        "dns-a": [
+            "188.68.52.181"
+        ], 
+        "dns-mx": [
+            "mail.ferienwohnungen-rastatt.de"
+        ], 
+        "dns-ns": [
+            "root-dns.netcup.net", 
+            "second-dns.netcup.net", 
+            "third-dns.netcup.net"
+        ], 
+        "domain-name": "ferienwohnungen-rastatt.de", 
+        "fuzzer": "original*", 
+        "geoip-country": "Germany", 
+        "ssdeep-score": 94
+    }, 
+    {
+        "dns-a": [
+            "88.198.231.9"
+        ], 
+        "dns-mx": [
+            "mail.b-io.co"
+        ], 
+        "dns-ns": [
+            "ns1.domainprofi.de", 
+            "ns2.domainprofi.de"
+        ], 
+        "domain-name": "ferien.wohnungen-rastatt.de", 
+        "fuzzer": "subdomain", 
+        "geoip-country": "Germany", 
+        "mx-spy": true, 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "85.13.137.115"
+        ], 
+        "domain-name": "ferienwohnungen-ra.statt.de", 
+        "fuzzer": "subdomain", 
+        "geoip-country": "Germany"
+    }, 
+    {
+        "dns-a": [
+            "88.99.192.80"
+        ], 
+        "dns-ns": [
+            "ns1.kv.de", 
+            "ns2.kv.de"
+        ], 
+        "domain-name": "ferienwohnungen-ras.tatt.de", 
+        "fuzzer": "subdomain", 
+        "geoip-country": "Germany", 
+        "ssdeep-score": 0
+    }
+]

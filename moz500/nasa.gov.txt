@@ -1,0 +1,87 @@
+[
+    {
+        "dns-a": [
+            "23.22.39.120", 
+            "52.0.14.116"
+        ], 
+        "dns-aaaa": [
+            "2600:1f18:1f:db00:807b:f1f4:d01b:30b1", 
+            "2600:1f18:1f:db01:11af:58af:ae11:f645"
+        ], 
+        "dns-mx": [
+            "ndjsvnpf101.ndc.nasa.gov", 
+            "ndjsvnpf102.ndc.nasa.gov", 
+            "ndjsvnpf103.ndc.nasa.gov", 
+            "ndjsvnpf104.ndc.nasa.gov", 
+            "ndmsvnpf101.ndc.nasa.gov", 
+            "ndmsvnpf102.ndc.nasa.gov", 
+            "ndmsvnpf103.ndc.nasa.gov", 
+            "ndmsvnpf104.ndc.nasa.gov"
+        ], 
+        "dns-ns": [
+            "ns1.nasa.gov", 
+            "ns2.nasa.gov", 
+            "ns3.nasa.gov"
+        ], 
+        "domain-name": "nasa.gov", 
+        "fuzzer": "original*", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 100
+    }, 
+    {
+        "dns-a": [
+            "207.245.165.24"
+        ], 
+        "dns-aaaa": [
+            "2620:0:2b0:10f1::101"
+        ], 
+        "dns-mx": [
+            "alt1.aspmx.l.google.com", 
+            "alt1.us.email.fireeyecloud.com", 
+            "alt2.aspmx.l.google.com", 
+            "alt2.us.email.fireeyecloud.com", 
+            "alt3.aspmx.l.google.com", 
+            "alt3.us.email.fireeyecloud.com", 
+            "alt4.aspmx.l.google.com", 
+            "aspmx.l.google.com", 
+            "primary.us.email.fireeyecloud.com"
+        ], 
+        "dns-ns": [
+            "sauthns1.qwest.net", 
+            "sauthns2.qwest.net"
+        ], 
+        "domain-name": "nara.gov", 
+        "fuzzer": "bitsquatting", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "104.97.95.197"
+        ], 
+        "dns-mx": [
+            "emsm-gh1-uea10.ncsc.mil", 
+            "emsm-gh1-uea11.ncsc.mil", 
+            "pri-jeemsg.eemsg.mail.mil", 
+            "sec-jeemsg.eemsg.mail.mil"
+        ], 
+        "dns-ns": [
+            "a1-107.akam.net", 
+            "a11-66.akam.net", 
+            "a12-67.akam.net", 
+            "a2-64.akam.net", 
+            "a24-65.akam.net", 
+            "a5-66.akam.net"
+        ], 
+        "domain-name": "nsa.gov", 
+        "fuzzer": "omission", 
+        "geoip-country": "United States"
+    }, 
+    {
+        "dns-a": [
+            "141.8.230.20"
+        ], 
+        "domain-name": "nasa-gov.com", 
+        "fuzzer": "various"
+    }
+]

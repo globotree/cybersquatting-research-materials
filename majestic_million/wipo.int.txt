@@ -1,0 +1,29 @@
+[
+    {
+        "dns-a": [
+            "193.5.93.80"
+        ], 
+        "dns-mx": [
+            "mx.unicc.org", 
+            "mx10.unicc.org", 
+            "mx20.unicc.org"
+        ], 
+        "dns-ns": [
+            "ns-nadc.unicc.org", 
+            "ns.unicc.org", 
+            "ns1.gva.ch.colt.net", 
+            "nse1.wipo.int"
+        ], 
+        "domain-name": "wipo.int", 
+        "fuzzer": "original*", 
+        "geoip-country": "Switzerland"
+    }, 
+    {
+        "dns-ns": [
+            "ns1.hosting.co.kr", 
+            "ns2.hosting.co.kr"
+        ], 
+        "domain-name": "wipo-int.com", 
+        "fuzzer": "various"
+    }
+]

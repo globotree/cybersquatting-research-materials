@@ -1,0 +1,66 @@
+[
+    {
+        "dns-a": [
+            "104.18.54.236", 
+            "104.18.55.236"
+        ], 
+        "dns-aaaa": [
+            "2400:cb00:2048:1::6812:36ec", 
+            "2400:cb00:2048:1::6812:37ec"
+        ], 
+        "dns-mx": [
+            "mail.gledhill.com"
+        ], 
+        "dns-ns": [
+            "ben.ns.cloudflare.com", 
+            "dina.ns.cloudflare.com"
+        ], 
+        "domain-name": "great-quotes.com", 
+        "fuzzer": "original*", 
+        "geoip-country": "United States"
+    }, 
+    {
+        "dns-a": [
+            "50.63.41.1"
+        ], 
+        "dns-mx": [
+            "mailstore1.secureserver.net", 
+            "smtp.secureserver.net"
+        ], 
+        "dns-ns": [
+            "ns73.domaincontrol.com", 
+            "ns74.domaincontrol.com"
+        ], 
+        "domain-name": "greatquotes.com", 
+        "fuzzer": "omission", 
+        "geoip-country": "United States"
+    }, 
+    {
+        "dns-a": [
+            "208.91.197.54"
+        ], 
+        "dns-ns": [
+            "sk.s5.cm.ns1.37.ztomy.com", 
+            "sk.s5.cm.ns2.37.ztomy.com"
+        ], 
+        "domain-name": "great-q.uotes.com", 
+        "fuzzer": "subdomain", 
+        "geoip-country": "Virgin Islands"
+    }, 
+    {
+        "dns-a": [
+            "185.53.178.6"
+        ], 
+        "dns-mx": [
+            "mail.h-email.net"
+        ], 
+        "dns-ns": [
+            "ns1.parkingcrew.net", 
+            "ns2.parkingcrew.net"
+        ], 
+        "domain-name": "great-qoutes.com", 
+        "fuzzer": "transposition", 
+        "geoip-country": "Germany", 
+        "mx-spy": true
+    }
+]

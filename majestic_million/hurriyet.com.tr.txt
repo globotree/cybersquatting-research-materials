@@ -1,0 +1,28 @@
+[
+    {
+        "dns-a": [
+            "83.66.162.50"
+        ], 
+        "dns-mx": [
+            "mx1.hurriyet.com.tr", 
+            "mx2.hurriyet.com.tr"
+        ], 
+        "dns-ns": [
+            "ns1.cdnetdns.net", 
+            "ns2.cdnetdns.net"
+        ], 
+        "domain-name": "hurriyet.com.tr", 
+        "fuzzer": "original*", 
+        "geoip-country": "Turkey", 
+        "ssdeep-score": 100
+    }, 
+    {
+        "dns-a": [
+            "188.138.124.217"
+        ], 
+        "domain-name": "hurriy.et.com.tr", 
+        "fuzzer": "subdomain", 
+        "geoip-country": "Germany", 
+        "ssdeep-score": 0
+    }
+]

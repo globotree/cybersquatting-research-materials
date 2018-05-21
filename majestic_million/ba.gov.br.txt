@@ -1,0 +1,29 @@
+[
+    {
+        "dns-mx": [
+            "ba-gov-br.mail.protection.outlook.com"
+        ], 
+        "dns-ns": [
+            "cpu0020.prodeb.gov.br", 
+            "cpu0034.ba.gov.br", 
+            "ns1.pop-ba.rnp.br", 
+            "ns2.pop-ba.rnp.br"
+        ], 
+        "domain-name": "ba.gov.br", 
+        "fuzzer": "original*"
+    }, 
+    {
+        "dns-a": [
+            "200.218.208.118"
+        ], 
+        "dns-mx": [
+            "mail.bc.gov.br"
+        ], 
+        "dns-ns": [
+            "ns.bcb.gov.br", 
+            "ns2.bcb.gov.br"
+        ], 
+        "domain-name": "bc.gov.br", 
+        "fuzzer": "bitsquatting"
+    }
+]

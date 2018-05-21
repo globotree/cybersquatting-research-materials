@@ -1,0 +1,68 @@
+[
+    {
+        "dns-mx": [
+            "email.hfut.edu.cn", 
+            "imap.hfut.edu.cn", 
+            "mail.hfut.edu.cn", 
+            "smtp.hfut.edu.cn", 
+            "xy.hfut.edu.cn"
+        ], 
+        "dns-ns": [
+            "dns.hfut.edu.cn", 
+            "dns1.hfut.edu.cn"
+        ], 
+        "domain-name": "hfut.edu.cn", 
+        "fuzzer": "original*"
+    }, 
+    {
+        "dns-mx": [
+            "mxbiz1.qq.com", 
+            "mxbiz2.qq.com"
+        ], 
+        "dns-ns": [
+            "dns10.hbut.edu.cn", 
+            "ltdns.hbut.edu.cn"
+        ], 
+        "domain-name": "hbut.edu.cn", 
+        "fuzzer": "bitsquatting"
+    }, 
+    {
+        "dns-ns": [
+            "ibm-mail.hfuu.edu.cn", 
+            "ibm-www.hfuu.edu.cn"
+        ], 
+        "domain-name": "hfuu.edu.cn", 
+        "fuzzer": "bitsquatting"
+    }, 
+    {
+        "dns-mx": [
+            "mxbiz1.qq.com", 
+            "mxbiz2.qq.com"
+        ], 
+        "dns-ns": [
+            "dns.hut.edu.cn", 
+            "dns2.hut.edu.cn"
+        ], 
+        "domain-name": "hut.edu.cn", 
+        "fuzzer": "omission"
+    }, 
+    {
+        "dns-a": [
+            "218.10.86.12"
+        ], 
+        "dns-ns": [
+            "ns1.cernet.com", 
+            "ns2.cernet.com"
+        ], 
+        "domain-name": "hfu.edu.cn", 
+        "fuzzer": "omission", 
+        "geoip-country": "China"
+    }, 
+    {
+        "dns-a": [
+            "50.117.120.251"
+        ], 
+        "domain-name": "hfutedu.cn", 
+        "fuzzer": "various"
+    }
+]

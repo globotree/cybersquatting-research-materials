@@ -1,0 +1,106 @@
+[
+    {
+        "dns-a": [
+            "34.234.22.13", 
+            "54.209.165.131"
+        ], 
+        "dns-mx": [
+            "alt1.aspmx.l.google.com", 
+            "alt2.aspmx.l.google.com", 
+            "aspmx.l.google.com", 
+            "aspmx2.googlemail.com", 
+            "aspmx3.googlemail.com"
+        ], 
+        "dns-ns": [
+            "ns-1305.awsdns-35.org", 
+            "ns-1580.awsdns-05.co.uk", 
+            "ns-396.awsdns-49.com", 
+            "ns-974.awsdns-57.net"
+        ], 
+        "domain-name": "lubbockonline.com", 
+        "fuzzer": "original*", 
+        "geoip-country": "United States"
+    }, 
+    {
+        "dns-a": [
+            "162.255.119.21"
+        ], 
+        "dns-mx": [
+            "mx.yandex.net"
+        ], 
+        "dns-ns": [
+            "dns1.registrar-servers.com", 
+            "dns2.registrar-servers.com"
+        ], 
+        "domain-name": "lubbockonlines.com", 
+        "fuzzer": "addition", 
+        "geoip-country": "United States"
+    }, 
+    {
+        "dns-a": [
+            "172.247.216.118"
+        ], 
+        "dns-ns": [
+            "ns1.dnsdun.com", 
+            "ns1.dnsdun.net"
+        ], 
+        "domain-name": "lubockonline.com", 
+        "fuzzer": "omission", 
+        "geoip-country": "United States"
+    }, 
+    {
+        "dns-a": [
+            "199.191.50.73"
+        ], 
+        "dns-ns": [
+            "ns111373.ztomy.com", 
+            "ns211373.ztomy.com"
+        ], 
+        "domain-name": "lubbbockonline.com", 
+        "fuzzer": "repetition", 
+        "geoip-country": "Virgin Islands"
+    }, 
+    {
+        "dns-a": [
+            "134.119.45.84"
+        ], 
+        "dns-aaaa": [
+            "2a00:1158:1000:300::554"
+        ], 
+        "domain-name": "lub.bockonline.com", 
+        "fuzzer": "subdomain", 
+        "geoip-country": "Germany"
+    }, 
+    {
+        "dns-a": [
+            "207.148.248.143"
+        ], 
+        "domain-name": "lubbo.ckonline.com", 
+        "fuzzer": "subdomain", 
+        "geoip-country": "United States"
+    }, 
+    {
+        "dns-a": [
+            "85.17.25.214"
+        ], 
+        "domain-name": "lubbocko.nline.com", 
+        "fuzzer": "subdomain", 
+        "geoip-country": "Netherlands"
+    }, 
+    {
+        "dns-a": [
+            "40.77.56.174"
+        ], 
+        "dns-mx": [
+            "ncorp-spamfilter.nooter.com", 
+            "ne-spamfilter.ne.com"
+        ], 
+        "dns-ns": [
+            "cbru.br.ns.els-gms.att.net", 
+            "cmtu.mt.ns.els-gms.att.net"
+        ], 
+        "domain-name": "lubbockonli.ne.com", 
+        "fuzzer": "subdomain", 
+        "geoip-country": "United States"
+    }
+]

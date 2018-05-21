@@ -1,0 +1,108 @@
+[
+    {
+        "dns-a": [
+            "23.92.27.230"
+        ], 
+        "dns-aaaa": [
+            "2600:3c01::f03c:91ff:fedb:ad59"
+        ], 
+        "dns-mx": [
+            "mail.openldap.org", 
+            "mx.openldap.org"
+        ], 
+        "dns-ns": [
+            "ns1.he.net", 
+            "ns2.he.net", 
+            "ns3.he.net", 
+            "ns4.he.net", 
+            "ns5.he.net"
+        ], 
+        "domain-name": "openldap.org", 
+        "fuzzer": "original*", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 100
+    }, 
+    {
+        "dns-a": [
+            "104.28.20.108", 
+            "104.28.21.108"
+        ], 
+        "dns-aaaa": [
+            "2400:cb00:2048:1::681c:146c", 
+            "2400:cb00:2048:1::681c:156c"
+        ], 
+        "dns-ns": [
+            "ajay.ns.cloudflare.com", 
+            "amanda.ns.cloudflare.com"
+        ], 
+        "domain-name": "openleap.org", 
+        "fuzzer": "bitsquatting", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "64.98.145.30"
+        ], 
+        "dns-mx": [
+            "mx.hover.com.cust.hostedemail.com"
+        ], 
+        "dns-ns": [
+            "ns1.hover.com", 
+            "ns2.hover.com"
+        ], 
+        "domain-name": "openlap.org", 
+        "fuzzer": "omission", 
+        "geoip-country": "Canada", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "70.32.88.112"
+        ], 
+        "dns-mx": [
+            "ALT1.ASPMX.L.GOOGLE.COM", 
+            "ALT2.ASPMX.L.GOOGLE.COM", 
+            "ASPMX.L.GOOGLE.COM", 
+            "ASPMX2.GOOGLEMAIL.COM", 
+            "ASPMX3.GOOGLEMAIL.COM"
+        ], 
+        "dns-ns": [
+            "dns1.name-services.com", 
+            "dns2.name-services.com", 
+            "dns3.name-services.com", 
+            "dns4.name-services.com", 
+            "dns5.name-services.com"
+        ], 
+        "domain-name": "opendap.org", 
+        "fuzzer": "omission", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "68.178.213.61"
+        ], 
+        "domain-name": "open.ldap.org", 
+        "fuzzer": "subdomain", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "50.63.46.1"
+        ], 
+        "dns-ns": [
+            "A.SERVICE.AFILIASDNS.INFO", 
+            "B.SERVICE.AFILIASDNS.org", 
+            "C.SERVICE.AFILIASDNS.NET", 
+            "D.SERVICE.AFILIASDNS.COM", 
+            "E.SERVICE.AFILIASDNS.INFO", 
+            "F.SERVICE.AFILIASDNS.NET"
+        ], 
+        "domain-name": "openlda.p.org", 
+        "fuzzer": "subdomain", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 0
+    }
+]

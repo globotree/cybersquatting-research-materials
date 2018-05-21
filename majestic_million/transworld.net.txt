@@ -1,0 +1,114 @@
+[
+    {
+        "dns-a": [
+            "104.17.152.72", 
+            "104.17.153.72", 
+            "104.17.154.72", 
+            "104.17.155.72", 
+            "104.17.156.72"
+        ], 
+        "dns-aaaa": [
+            "2400:cb00:2048:1::6811:9848", 
+            "2400:cb00:2048:1::6811:9948", 
+            "2400:cb00:2048:1::6811:9a48", 
+            "2400:cb00:2048:1::6811:9b48", 
+            "2400:cb00:2048:1::6811:9c48"
+        ], 
+        "dns-mx": [
+            "alt1.aspmx.l.google.com", 
+            "alt2.aspmx.l.google.com", 
+            "aspmx.l.google.com", 
+            "aspmx2.googlemail.com", 
+            "aspmx3.googlemail.com"
+        ], 
+        "dns-ns": [
+            "mary.ns.cloudflare.com", 
+            "pete.ns.cloudflare.com"
+        ], 
+        "domain-name": "transworld.net", 
+        "fuzzer": "original*", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 100
+    }, 
+    {
+        "dns-a": [
+            "77.79.239.197"
+        ], 
+        "dns-mx": [
+            "trans-world.net"
+        ], 
+        "dns-ns": [
+            "ns3.anyservers.com", 
+            "ns4.anyservers.com", 
+            "ns40.anyservers.com", 
+            "ns41.anyservers.com"
+        ], 
+        "domain-name": "trans-world.net", 
+        "fuzzer": "hyphenation", 
+        "geoip-country": "Poland", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "64.22.71.69"
+        ], 
+        "dns-mx": [
+            "spruce-email.trnsworld.net"
+        ], 
+        "dns-ns": [
+            "ns0.sensory5.com", 
+            "ns1.sensory5.com", 
+            "ns2.sensory5.com", 
+            "ns3.sensory5.com", 
+            "ns4.sensory5.com"
+        ], 
+        "domain-name": "trnsworld.net", 
+        "fuzzer": "omission", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-mx": [
+            "alt1.aspmx.l.google.com", 
+            "alt2.aspmx.l.google.com", 
+            "aspmx.l.google.com", 
+            "aspmx2.googlemail.com", 
+            "aspmx3.googlemail.com", 
+            "aspmx4.googlemail.com", 
+            "aspmx5.googlemail.com"
+        ], 
+        "dns-ns": [
+            "ns1kwy.name.com", 
+            "ns2clp.name.com", 
+            "ns3jkl.name.com", 
+            "ns4jnz.name.com"
+        ], 
+        "domain-name": "tranworld.net", 
+        "fuzzer": "omission"
+    }, 
+    {
+        "dns-a": [
+            "217.76.130.174"
+        ], 
+        "dns-mx": [
+            "mx.serviciodecorreo.es"
+        ], 
+        "dns-ns": [
+            "dns7.servidoresdns.net", 
+            "dns8.servidoresdns.net"
+        ], 
+        "domain-name": "transword.net", 
+        "fuzzer": "omission", 
+        "geoip-country": "Spain", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "199.59.242.150"
+        ], 
+        "domain-name": "transwo.rld.net", 
+        "fuzzer": "subdomain", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 0
+    }
+]

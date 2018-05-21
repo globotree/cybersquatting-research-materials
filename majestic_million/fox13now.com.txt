@@ -1,0 +1,68 @@
+[
+    {
+        "dns-a": [
+            "192.0.79.32", 
+            "192.0.79.33"
+        ], 
+        "dns-mx": [
+            "tribmedia.mail.protection.outlook.com"
+        ], 
+        "dns-ns": [
+            "ns1.wordpress.com", 
+            "ns2.wordpress.com", 
+            "ns3.wordpress.com"
+        ], 
+        "domain-name": "fox13now.com", 
+        "fuzzer": "original*", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 99
+    }, 
+    {
+        "dns-a": [
+            "216.87.148.114"
+        ], 
+        "domain-name": "fox.13now.com", 
+        "fuzzer": "subdomain", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 41
+    }, 
+    {
+        "dns-a": [
+            "68.178.213.61"
+        ], 
+        "domain-name": "fox1.3now.com", 
+        "fuzzer": "subdomain", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "75.126.102.252"
+        ], 
+        "domain-name": "fox13n.ow.com", 
+        "fuzzer": "subdomain", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-ns": [
+            "a1.verisigndns.com", 
+            "a2.verisigndns.com", 
+            "a3.verisigndns.com"
+        ], 
+        "domain-name": "fox31now.com", 
+        "fuzzer": "transposition"
+    }, 
+    {
+        "dns-a": [
+            "208.91.196.152"
+        ], 
+        "dns-ns": [
+            "sk.s7.ans1.ns147.klczy.com", 
+            "sk.s7.ans2.ns147.klczy.com"
+        ], 
+        "domain-name": "fox13new.com", 
+        "fuzzer": "vowel-swap", 
+        "geoip-country": "Virgin Islands"
+    }
+]

@@ -1,0 +1,111 @@
+[
+    {
+        "dns-a": [
+            "54.37.46.150"
+        ], 
+        "dns-mx": [
+            "ALT1.ASPMX.L.GOOGLE.com", 
+            "ALT2.ASPMX.L.GOOGLE.com", 
+            "ASPMX.L.GOOGLE.com", 
+            "ASPMX2.GOOGLEMAIL.com", 
+            "ASPMX3.GOOGLEMAIL.com"
+        ], 
+        "dns-ns": [
+            "ns001.bhpr.net", 
+            "ns002.bhpr.net"
+        ], 
+        "domain-name": "blogspirit.com", 
+        "fuzzer": "original*", 
+        "geoip-country": "United States"
+    }, 
+    {
+        "dns-a": [
+            "50.63.202.44"
+        ], 
+        "dns-mx": [
+            "mailstore1.secureserver.net", 
+            "smtp.secureserver.net"
+        ], 
+        "dns-ns": [
+            "pdns07.domaincontrol.com", 
+            "pdns08.domaincontrol.com"
+        ], 
+        "domain-name": "blogspirits.com", 
+        "fuzzer": "addition", 
+        "geoip-country": "United States"
+    }, 
+    {
+        "dns-a": [
+            "204.11.56.48"
+        ], 
+        "dns-ns": [
+            "ns1626.ztomy.com", 
+            "ns2626.ztomy.com"
+        ], 
+        "domain-name": "blogsprit.com", 
+        "fuzzer": "omission", 
+        "geoip-country": "Virgin Islands"
+    }, 
+    {
+        "dns-a": [
+            "107.180.40.137"
+        ], 
+        "dns-mx": [
+            "mailstore1.secureserver.net", 
+            "smtp.secureserver.net"
+        ], 
+        "dns-ns": [
+            "ns45.domaincontrol.com", 
+            "ns46.domaincontrol.com"
+        ], 
+        "domain-name": "logspirit.com", 
+        "fuzzer": "omission", 
+        "geoip-country": "United States"
+    }, 
+    {
+        "dns-a": [
+            "52.73.124.185", 
+            "54.164.198.60"
+        ], 
+        "dns-ns": [
+            "ns1.namebrightdns.com", 
+            "ns2.namebrightdns.com"
+        ], 
+        "domain-name": "bl.ogspirit.com", 
+        "fuzzer": "subdomain", 
+        "geoip-country": "United States"
+    }, 
+    {
+        "dns-a": [
+            "66.135.58.20"
+        ], 
+        "domain-name": "blo.gspirit.com", 
+        "fuzzer": "subdomain", 
+        "geoip-country": "United States"
+    }, 
+    {
+        "dns-a": [
+            "96.95.25.205"
+        ], 
+        "domain-name": "blogspir.it.com", 
+        "fuzzer": "subdomain", 
+        "geoip-country": "United States"
+    }, 
+    {
+        "dns-a": [
+            "183.90.250.17"
+        ], 
+        "dns-mx": [
+            "blogpsirit.com"
+        ], 
+        "dns-ns": [
+            "ns1.xserver.jp", 
+            "ns2.xserver.jp", 
+            "ns3.xserver.jp", 
+            "ns4.xserver.jp", 
+            "ns5.xserver.jp"
+        ], 
+        "domain-name": "blogpsirit.com", 
+        "fuzzer": "transposition"
+    }
+]

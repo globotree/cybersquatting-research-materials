@@ -1,0 +1,42 @@
+[
+    {
+        "dns-a": [
+            "143.117.143.15"
+        ], 
+        "dns-mx": [
+            "mx1.qub.ac.uk", 
+            "mx2.qub.ac.uk", 
+            "mx3.qub.ac.uk", 
+            "mx4.qub.ac.uk", 
+            "ralph.qub.ac.uk"
+        ], 
+        "dns-ns": [
+            "juno.qub.ac.uk", 
+            "luna.qub.ac.uk", 
+            "ns4.ja.net"
+        ], 
+        "domain-name": "qub.ac.uk", 
+        "fuzzer": "original*", 
+        "geoip-country": "United Kingdom", 
+        "ssdeep-score": 100
+    }, 
+    {
+        "dns-a": [
+            "52.211.62.201"
+        ], 
+        "dns-mx": [
+            "aub.ac.uk.mail1.emailantidote.com", 
+            "aub.ac.uk.mail2.emailantidote.com"
+        ], 
+        "dns-ns": [
+            "ns11.ja.net", 
+            "ns12.ja.net", 
+            "saturn3.aib.ac.uk", 
+            "saturn4.aib.ac.uk"
+        ], 
+        "domain-name": "aub.ac.uk", 
+        "fuzzer": "bitsquatting", 
+        "geoip-country": "Ireland", 
+        "ssdeep-score": 0
+    }
+]

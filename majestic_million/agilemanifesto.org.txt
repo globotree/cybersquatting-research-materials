@@ -1,0 +1,67 @@
+[
+    {
+        "dns-a": [
+            "192.30.252.153", 
+            "192.30.252.154"
+        ], 
+        "dns-mx": [
+            "junk.spiretech.com"
+        ], 
+        "dns-ns": [
+            "ns1dhq.name.com", 
+            "ns2btz.name.com", 
+            "ns3dgr.name.com", 
+            "ns4dls.name.com"
+        ], 
+        "domain-name": "agilemanifesto.org", 
+        "fuzzer": "original*", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 100
+    }, 
+    {
+        "dns-a": [
+            "198.20.90.34"
+        ], 
+        "dns-mx": [
+            "agilemanifest.org"
+        ], 
+        "dns-ns": [
+            "ns3.ich-20.com", 
+            "ns4.ich-20.com"
+        ], 
+        "domain-name": "agilemanifest.org", 
+        "fuzzer": "omission", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "69.172.201.153"
+        ], 
+        "dns-ns": [
+            "ns1.uniregistrymarket.link", 
+            "ns2.uniregistrymarket.link"
+        ], 
+        "domain-name": "agilemanife.sto.org", 
+        "fuzzer": "subdomain", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "50.63.46.1"
+        ], 
+        "dns-ns": [
+            "A.SERVICE.AFILIASDNS.INFO", 
+            "B.SERVICE.AFILIASDNS.org", 
+            "C.SERVICE.AFILIASDNS.NET", 
+            "D.SERVICE.AFILIASDNS.COM", 
+            "E.SERVICE.AFILIASDNS.INFO", 
+            "F.SERVICE.AFILIASDNS.NET"
+        ], 
+        "domain-name": "agilemanifest.o.org", 
+        "fuzzer": "subdomain", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 0
+    }
+]

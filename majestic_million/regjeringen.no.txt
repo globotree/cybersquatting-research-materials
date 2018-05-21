@@ -1,0 +1,40 @@
+[
+    {
+        "dns-a": [
+            "146.192.201.19"
+        ], 
+        "dns-ns": [
+            "ns1.u.dep.no", 
+            "ns2.u.dep.no", 
+            "ns4.eonisp.net", 
+            "ns5.eonisp.net", 
+            "ns6.eonisp.net"
+        ], 
+        "domain-name": "regjeringen.no", 
+        "fuzzer": "original*", 
+        "geoip-country": "Norway", 
+        "ssdeep-score": 100
+    }, 
+    {
+        "dns-ns": [
+            "ns1.hyp.net", 
+            "ns2.hyp.net", 
+            "ns3.hyp.net"
+        ], 
+        "domain-name": "regeringen.no", 
+        "fuzzer": "omission"
+    }, 
+    {
+        "dns-a": [
+            "185.53.178.7"
+        ], 
+        "dns-ns": [
+            "ns1.parkingcrew.net", 
+            "ns2.parkingcrew.net"
+        ], 
+        "domain-name": "regjerin.gen.no", 
+        "fuzzer": "subdomain", 
+        "geoip-country": "Germany", 
+        "ssdeep-score": 0
+    }
+]

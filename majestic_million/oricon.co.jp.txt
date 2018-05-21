@@ -1,0 +1,109 @@
+[
+    {
+        "dns-a": [
+            "210.129.104.232", 
+            "210.129.104.233", 
+            "210.129.104.235"
+        ], 
+        "dns-ns": [
+            "ns02.idc.jp", 
+            "ns03.idc.jp", 
+            "ns1.oricon.co.jp", 
+            "ns2.oricon.co.jp"
+        ], 
+        "domain-name": "oricon.co.jp", 
+        "fuzzer": "original*", 
+        "geoip-country": "Japan", 
+        "ssdeep-score": 100
+    }, 
+    {
+        "dns-mx": [
+            "blackhole.oricom.co.jp", 
+            "whitehole.oricom.co.jp"
+        ], 
+        "dns-ns": [
+            "dns-b.iij.ad.jp", 
+            "dns-c.iij.ad.jp"
+        ], 
+        "domain-name": "oricom.co.jp", 
+        "fuzzer": "homoglyph", 
+        "mx-spy": true
+    }, 
+    {
+        "dns-a": [
+            "27.34.146.99"
+        ], 
+        "dns-mx": [
+            "orion-co-jp.mail.protection.outlook.com"
+        ], 
+        "dns-ns": [
+            "01.dnsv.jp", 
+            "02.dnsv.jp", 
+            "03.dnsv.jp", 
+            "04.dnsv.jp"
+        ], 
+        "domain-name": "orion.co.jp", 
+        "fuzzer": "omission", 
+        "geoip-country": "Japan", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-mx": [
+            "mx.securemx.jp"
+        ], 
+        "dns-ns": [
+            "dns-b.iij.ad.jp", 
+            "dns-c.iij.ad.jp"
+        ], 
+        "domain-name": "orico.co.jp", 
+        "fuzzer": "omission"
+    }, 
+    {
+        "dns-a": [
+            "27.111.203.213"
+        ], 
+        "dns-mx": [
+            "oticon-co-jp.mail.protection.outlook.com"
+        ], 
+        "dns-ns": [
+            "ns1.demant.com", 
+            "ns2.demant.com"
+        ], 
+        "domain-name": "oticon.co.jp", 
+        "fuzzer": "replacement", 
+        "geoip-country": "Hong Kong", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "150.60.170.166"
+        ], 
+        "dns-mx": [
+            "ALT1.ASPMX.L.GOOGLE.COM", 
+            "ALT2.ASPMX.L.GOOGLE.COM", 
+            "ALT3.ASPMX.L.GOOGLE.COM", 
+            "ALT4.ASPMX.L.GOOGLE.COM", 
+            "ASPMX.L.GOOGLE.COM"
+        ], 
+        "dns-ns": [
+            "dns01.muumuu-domain.com", 
+            "dns02.muumuu-domain.com"
+        ], 
+        "domain-name": "orecon.co.jp", 
+        "fuzzer": "vowel-swap", 
+        "geoip-country": "Japan"
+    }, 
+    {
+        "dns-mx": [
+            "oricon-jp.mail.protection.outlook.com"
+        ], 
+        "dns-ns": [
+            "ns02.idc.jp", 
+            "ns03.idc.jp", 
+            "ns1.oricon.co.jp", 
+            "ns2.oricon.co.jp"
+        ], 
+        "domain-name": "oricon.jp", 
+        "fuzzer": "various"
+    }
+]

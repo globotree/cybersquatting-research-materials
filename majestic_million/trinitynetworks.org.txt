@@ -1,0 +1,59 @@
+[
+    {
+        "dns-a": [
+            "198.50.136.31"
+        ], 
+        "dns-mx": [
+            "442368421.pamx1.hotmail.com"
+        ], 
+        "dns-ns": [
+            "ns1.trinitynetworks.net", 
+            "ns2.trinitynetworks.net"
+        ], 
+        "domain-name": "trinitynetworks.org", 
+        "fuzzer": "original*", 
+        "geoip-country": "Canada", 
+        "ssdeep-score": 93
+    }, 
+    {
+        "dns-a": [
+            "195.8.196.23"
+        ], 
+        "dns-mx": [
+            "trinitynetwork.org"
+        ], 
+        "dns-ns": [
+            "ns1.ukwebsolutionsdirect.com", 
+            "ns2.ukwebsolutionsdirect.com"
+        ], 
+        "domain-name": "trinitynetwork.org", 
+        "fuzzer": "omission", 
+        "geoip-country": "United Kingdom"
+    }, 
+    {
+        "dns-a": [
+            "74.114.88.102"
+        ], 
+        "domain-name": "trinitynetw.orks.org", 
+        "fuzzer": "subdomain", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "50.63.46.1"
+        ], 
+        "dns-ns": [
+            "A.SERVICE.AFILIASDNS.INFO", 
+            "B.SERVICE.AFILIASDNS.org", 
+            "C.SERVICE.AFILIASDNS.NET", 
+            "D.SERVICE.AFILIASDNS.COM", 
+            "E.SERVICE.AFILIASDNS.INFO", 
+            "F.SERVICE.AFILIASDNS.NET"
+        ], 
+        "domain-name": "trinitynetwork.s.org", 
+        "fuzzer": "subdomain", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 0
+    }
+]

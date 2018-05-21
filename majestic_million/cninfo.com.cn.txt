@@ -1,0 +1,257 @@
+[
+    {
+        "dns-mx": [
+            "smtp.cninfo.com.cn"
+        ], 
+        "dns-ns": [
+            "dns-bjcnc.cninfo.com.cn", 
+            "dns-szcnc.cninfo.com.cn", 
+            "dns-szct.cninfo.com.cn"
+        ], 
+        "domain-name": "cninfo.com.cn", 
+        "fuzzer": "original*"
+    }, 
+    {
+        "dns-a": [
+            "142.234.41.183"
+        ], 
+        "dns-ns": [
+            "ns3.dnsdun.com", 
+            "ns3.dnsdun.net"
+        ], 
+        "domain-name": "cninfor.com.cn", 
+        "fuzzer": "addition", 
+        "geoip-country": "United States"
+    }, 
+    {
+        "dns-a": [
+            "119.28.13.140"
+        ], 
+        "domain-name": "cninfov.com.cn", 
+        "fuzzer": "addition", 
+        "geoip-country": "China"
+    }, 
+    {
+        "dns-a": [
+            "74.220.215.86"
+        ], 
+        "dns-mx": [
+            "mail.coinfo.com.cn"
+        ], 
+        "dns-ns": [
+            "dns1.hichina.com", 
+            "dns2.hichina.com"
+        ], 
+        "domain-name": "coinfo.com.cn", 
+        "fuzzer": "bitsquatting", 
+        "geoip-country": "United States"
+    }, 
+    {
+        "dns-mx": [
+            "mxn.mxhichina.com", 
+            "mxw.mxhichina.com"
+        ], 
+        "dns-ns": [
+            "dns31.hichina.com", 
+            "dns32.hichina.com"
+        ], 
+        "domain-name": "clinfo.com.cn", 
+        "fuzzer": "bitsquatting"
+    }, 
+    {
+        "dns-a": [
+            "61.138.98.207"
+        ], 
+        "dns-mx": [
+            "mail.cfinfo.com.cn"
+        ], 
+        "dns-ns": [
+            "dns1.sinonets.cn", 
+            "dns2.sinonets.cn"
+        ], 
+        "domain-name": "cfinfo.com.cn", 
+        "fuzzer": "bitsquatting", 
+        "geoip-country": "China"
+    }, 
+    {
+        "dns-a": [
+            "50.117.120.251"
+        ], 
+        "dns-mx": [
+            "mail.happyisp.com"
+        ], 
+        "domain-name": "cnimfo.com.cn", 
+        "fuzzer": "homoglyph", 
+        "geoip-country": "United States", 
+        "mx-spy": true
+    }, 
+    {
+        "dns-a": [
+            "23.248.240.6"
+        ], 
+        "dns-ns": [
+            "f1g1ns1.dnspod.net", 
+            "f1g1ns2.dnspod.net"
+        ], 
+        "domain-name": "cminfo.com.cn", 
+        "fuzzer": "homoglyph", 
+        "geoip-country": "United States"
+    }, 
+    {
+        "dns-mx": [
+            "mxbiz1.qq.com", 
+            "mxbiz2.qq.com"
+        ], 
+        "dns-ns": [
+            "dns10.hichina.com", 
+            "dns9.hichina.com"
+        ], 
+        "domain-name": "crinfo.com.cn", 
+        "fuzzer": "homoglyph"
+    }, 
+    {
+        "dns-a": [
+            "104.224.212.51"
+        ], 
+        "dns-ns": [
+            "ns1.dnsdun.com", 
+            "ns1.dnsdun.net"
+        ], 
+        "domain-name": "cn-info.com.cn", 
+        "fuzzer": "hyphenation", 
+        "geoip-country": "United States"
+    }, 
+    {
+        "dns-a": [
+            "45.120.153.79"
+        ], 
+        "domain-name": "chninfo.com.cn", 
+        "fuzzer": "insertion", 
+        "geoip-country": "Hong Kong"
+    }, 
+    {
+        "dns-a": [
+            "103.232.215.129"
+        ], 
+        "dns-mx": [
+            "mail.happyisp.com"
+        ], 
+        "domain-name": "cninf.com.cn", 
+        "fuzzer": "omission", 
+        "geoip-country": "China", 
+        "mx-spy": true
+    }, 
+    {
+        "dns-a": [
+            "45.120.153.79"
+        ], 
+        "domain-name": "cinfo.com.cn", 
+        "fuzzer": "omission", 
+        "geoip-country": "Hong Kong"
+    }, 
+    {
+        "dns-a": [
+            "160.124.194.203"
+        ], 
+        "dns-ns": [
+            "ns6.dnsdun.com", 
+            "ns6.dnsdun.net"
+        ], 
+        "domain-name": "ninfo.com.cn", 
+        "fuzzer": "omission", 
+        "geoip-country": "South Africa"
+    }, 
+    {
+        "dns-ns": [
+            "f1g1ns1.dnspod.net", 
+            "f1g1ns2.dnspod.net"
+        ], 
+        "domain-name": "dninfo.com.cn", 
+        "fuzzer": "replacement"
+    }, 
+    {
+        "dns-ns": [
+            "ns1.dns.com.cn", 
+            "ns2.dns.com.cn"
+        ], 
+        "domain-name": "cbinfo.com.cn", 
+        "fuzzer": "replacement"
+    }, 
+    {
+        "dns-a": [
+            "172.107.119.133"
+        ], 
+        "dns-ns": [
+            "f1g1ns1.dnspod.net", 
+            "f1g1ns2.dnspod.net"
+        ], 
+        "domain-name": "chinfo.com.cn", 
+        "fuzzer": "replacement", 
+        "geoip-country": "United States"
+    }, 
+    {
+        "dns-a": [
+            "69.64.147.244"
+        ], 
+        "domain-name": "cni.nfo.com.cn", 
+        "fuzzer": "subdomain", 
+        "geoip-country": "United States"
+    }, 
+    {
+        "dns-a": [
+            "47.89.34.176"
+        ], 
+        "domain-name": "cnin.fo.com.cn", 
+        "fuzzer": "subdomain", 
+        "geoip-country": "United States"
+    }, 
+    {
+        "dns-a": [
+            "50.117.120.251"
+        ], 
+        "dns-mx": [
+            "mail.happyisp.com"
+        ], 
+        "domain-name": "ncinfo.com.cn", 
+        "fuzzer": "transposition"
+    }, 
+    {
+        "dns-a": [
+            "107.179.30.211"
+        ], 
+        "dns-ns": [
+            "f1g1ns1.dnspod.net", 
+            "f1g1ns2.dnspod.net"
+        ], 
+        "domain-name": "cinnfo.com.cn", 
+        "fuzzer": "transposition", 
+        "geoip-country": "United States"
+    }, 
+    {
+        "dns-a": [
+            "157.52.232.131"
+        ], 
+        "dns-ns": [
+            "f1g1ns1.dnspod.net", 
+            "f1g1ns2.dnspod.net"
+        ], 
+        "domain-name": "cninof.com.cn", 
+        "fuzzer": "transposition", 
+        "geoip-country": "United States"
+    }, 
+    {
+        "dns-a": [
+            "172.106.155.23"
+        ], 
+        "dns-ns": [
+            "ns1.myhostadmin.net", 
+            "ns2.myhostadmin.net", 
+            "ns3.myhostadmin.net", 
+            "ns4.myhostadmin.net", 
+            "ns5.myhostadmin.net", 
+            "ns6.myhostadmin.net"
+        ], 
+        "domain-name": "cninfocom.cn", 
+        "fuzzer": "various"
+    }
+]

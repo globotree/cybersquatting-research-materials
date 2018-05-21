@@ -1,0 +1,89 @@
+[
+    {
+        "dns-a": [
+            "192.99.98.95"
+        ], 
+        "dns-mx": [
+            "aus-relay.mxroute.com", 
+            "aus.mxroute.com"
+        ], 
+        "dns-ns": [
+            "ns1.dynadot.com", 
+            "ns2.dynadot.com"
+        ], 
+        "domain-name": "host-sc.com", 
+        "fuzzer": "original*", 
+        "geoip-country": "Canada", 
+        "ssdeep-score": 100
+    }, 
+    {
+        "dns-a": [
+            "198.57.189.39"
+        ], 
+        "dns-mx": [
+            "host-sa.com"
+        ], 
+        "dns-ns": [
+            "ns1.host-sa.com", 
+            "ns2.host-sa.com"
+        ], 
+        "domain-name": "host-sa.com", 
+        "fuzzer": "bitsquatting", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "67.227.199.99"
+        ], 
+        "dns-mx": [
+            "host-sec.com"
+        ], 
+        "dns-ns": [
+            "ns19.namehero.net", 
+            "ns20.namehero.net"
+        ], 
+        "domain-name": "host-sec.com", 
+        "fuzzer": "insertion", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-mx": [
+            "mxbiz1.qq.com", 
+            "mxbiz2.qq.com"
+        ], 
+        "dns-ns": [
+            "f1g1ns1.dnspod.net", 
+            "f1g1ns2.dnspod.net"
+        ], 
+        "domain-name": "hst-sc.com", 
+        "fuzzer": "omission"
+    }, 
+    {
+        "dns-a": [
+            "184.168.221.39"
+        ], 
+        "dns-mx": [
+            "mailstore1.secureserver.net", 
+            "smtp.secureserver.net"
+        ], 
+        "dns-ns": [
+            "ns45.domaincontrol.com", 
+            "ns46.domaincontrol.com"
+        ], 
+        "domain-name": "hostsc.com", 
+        "fuzzer": "omission", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "74.119.239.234"
+        ], 
+        "domain-name": "host-dc.com", 
+        "fuzzer": "replacement", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 0
+    }
+]

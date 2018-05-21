@@ -1,0 +1,72 @@
+[
+    {
+        "dns-a": [
+            "23.185.0.4"
+        ], 
+        "dns-aaaa": [
+            "2620:12a:8000::4", 
+            "2620:12a:8001::4"
+        ], 
+        "dns-mx": [
+            "alt1.aspmx.l.google.com", 
+            "alt2.aspmx.l.google.com", 
+            "aspmx.l.google.com", 
+            "aspmx2.googlemail.com", 
+            "aspmx3.googlemail.com"
+        ], 
+        "dns-ns": [
+            "dns1.easydns.com", 
+            "dns2.easydns.net", 
+            "dns3.easydns.ca"
+        ], 
+        "domain-name": "usenix.org", 
+        "fuzzer": "original*", 
+        "ssdeep-score": 99
+    }, 
+    {
+        "dns-a": [
+            "192.64.119.231"
+        ], 
+        "dns-mx": [
+            "eforward1.registrar-servers.com", 
+            "eforward2.registrar-servers.com", 
+            "eforward3.registrar-servers.com", 
+            "eforward4.registrar-servers.com", 
+            "eforward5.registrar-servers.com"
+        ], 
+        "dns-ns": [
+            "dns1.registrar-servers.com", 
+            "dns2.registrar-servers.com", 
+            "dns3.registrar-servers.com", 
+            "dns4.registrar-servers.com", 
+            "dns5.registrar-servers.com"
+        ], 
+        "domain-name": "useniz.org", 
+        "fuzzer": "bitsquatting", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "185.53.177.31"
+        ], 
+        "dns-ns": [
+            "ns1.protectdelegation.eu", 
+            "ns2.protectdelegation.ca", 
+            "ns3.protectdelegation.com"
+        ], 
+        "domain-name": "senix.org", 
+        "fuzzer": "omission", 
+        "geoip-country": "Germany", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "188.138.124.217"
+        ], 
+        "domain-name": "u.senix.org", 
+        "fuzzer": "subdomain", 
+        "geoip-country": "Germany", 
+        "ssdeep-score": 0
+    }
+]

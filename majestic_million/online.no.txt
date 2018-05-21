@@ -1,0 +1,279 @@
+[
+    {
+        "dns-a": [
+            "153.110.156.147"
+        ], 
+        "dns-aaaa": [
+            "2a02:9c8:0:3001::b"
+        ], 
+        "dns-mx": [
+            "mx.online.no"
+        ], 
+        "dns-ns": [
+            "ns1.nextra.no", 
+            "ns2.nextra.no"
+        ], 
+        "domain-name": "online.no", 
+        "fuzzer": "original*", 
+        "geoip-country": "Norway", 
+        "ssdeep-score": 100
+    }, 
+    {
+        "dns-a": [
+            "194.63.248.98"
+        ], 
+        "dns-aaaa": [
+            "2a01:5b40:0:4a03:0:201b:b247:4563"
+        ], 
+        "dns-mx": [
+            "mx.domeneshop.no"
+        ], 
+        "dns-ns": [
+            "ns1.hyp.net", 
+            "ns2.hyp.net", 
+            "ns3.hyp.net"
+        ], 
+        "domain-name": "onliner.no", 
+        "fuzzer": "addition", 
+        "geoip-country": "Norway"
+    }, 
+    {
+        "dns-a": [
+            "195.138.199.214"
+        ], 
+        "dns-mx": [
+            "keitel.jeje.je"
+        ], 
+        "dns-ns": [
+            "ns1.hyp.net", 
+            "ns2.hyp.net", 
+            "ns3.hyp.net"
+        ], 
+        "domain-name": "on1ine.no", 
+        "fuzzer": "homoglyph", 
+        "geoip-country": "Norway"
+    }, 
+    {
+        "dns-a": [
+            "51.174.171.74"
+        ], 
+        "dns-mx": [
+            "mx.domeneshop.no"
+        ], 
+        "dns-ns": [
+            "ns1.hyp.net", 
+            "ns2.hyp.net", 
+            "ns3.hyp.net"
+        ], 
+        "domain-name": "on-line.no", 
+        "fuzzer": "hyphenation", 
+        "geoip-country": "Norway"
+    }, 
+    {
+        "dns-a": [
+            "195.159.29.23"
+        ], 
+        "dns-mx": [
+            "a.mx.tornado-mail.com", 
+            "b.mx.tornado-mail.com"
+        ], 
+        "dns-ns": [
+            "a.ns.syse.no", 
+            "b.ns.syse.no", 
+            "c.ns.syse.no", 
+            "d.ns.syse.no"
+        ], 
+        "domain-name": "onoline.no", 
+        "fuzzer": "insertion", 
+        "geoip-country": "Norway"
+    }, 
+    {
+        "dns-ns": [
+            "ns1.parkingcrew.net", 
+            "ns2.parkingcrew.net"
+        ], 
+        "domain-name": "onlne.no", 
+        "fuzzer": "omission"
+    }, 
+    {
+        "dns-a": [
+            "185.53.178.7"
+        ], 
+        "dns-ns": [
+            "ns1.parkingcrew.net", 
+            "ns2.parkingcrew.net"
+        ], 
+        "domain-name": "onine.no", 
+        "fuzzer": "omission", 
+        "geoip-country": "Germany", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "194.63.248.70"
+        ], 
+        "dns-aaaa": [
+            "2a01:5b40:0:4070::1"
+        ], 
+        "dns-ns": [
+            "ns1.hyp.net", 
+            "ns2.hyp.net", 
+            "ns3.hyp.net"
+        ], 
+        "domain-name": "oline.no", 
+        "fuzzer": "omission", 
+        "geoip-country": "Norway", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "185.53.178.7"
+        ], 
+        "dns-mx": [
+            "mail.h-email.net"
+        ], 
+        "dns-ns": [
+            "ns1.parkingcrew.net", 
+            "ns2.parkingcrew.net"
+        ], 
+        "domain-name": "onlin.no", 
+        "fuzzer": "omission", 
+        "geoip-country": "Germany", 
+        "mx-spy": true, 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "194.63.248.52"
+        ], 
+        "dns-aaaa": [
+            "2a01:5b40:0:248::52"
+        ], 
+        "dns-ns": [
+            "ns1.hyp.net", 
+            "ns2.hyp.net", 
+            "ns3.hyp.net"
+        ], 
+        "domain-name": "nline.no", 
+        "fuzzer": "omission", 
+        "geoip-country": "Norway", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "185.53.178.6"
+        ], 
+        "dns-mx": [
+            "mail.h-email.net"
+        ], 
+        "dns-ns": [
+            "ns1.parkingcrew.net", 
+            "ns2.parkingcrew.net"
+        ], 
+        "domain-name": "onnline.no", 
+        "fuzzer": "repetition", 
+        "geoip-country": "Germany", 
+        "mx-spy": true, 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "185.53.179.6"
+        ], 
+        "dns-mx": [
+            "mail.h-email.net"
+        ], 
+        "dns-ns": [
+            "ns1.parkingcrew.net", 
+            "ns2.parkingcrew.net"
+        ], 
+        "domain-name": "onlinr.no", 
+        "fuzzer": "replacement", 
+        "geoip-country": "Germany", 
+        "mx-spy": true, 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "185.53.179.7"
+        ], 
+        "dns-mx": [
+            "mail.h-email.net"
+        ], 
+        "dns-ns": [
+            "ns1.parkingcrew.net", 
+            "ns2.parkingcrew.net"
+        ], 
+        "domain-name": "onlune.no", 
+        "fuzzer": "replacement", 
+        "geoip-country": "Germany", 
+        "mx-spy": true, 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "185.53.179.7"
+        ], 
+        "dns-mx": [
+            "mail.h-email.net"
+        ], 
+        "dns-ns": [
+            "ns1.parkingcrew.net", 
+            "ns2.parkingcrew.net"
+        ], 
+        "domain-name": "onlone.no", 
+        "fuzzer": "replacement", 
+        "geoip-country": "Germany", 
+        "mx-spy": true, 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-mx": [
+            "mx.domeneshop.no"
+        ], 
+        "dns-ns": [
+            "ns1.hyp.net", 
+            "ns2.hyp.net", 
+            "ns3.hyp.net"
+        ], 
+        "domain-name": "inline.no", 
+        "fuzzer": "replacement"
+    }, 
+    {
+        "dns-a": [
+            "194.63.248.65"
+        ], 
+        "dns-aaaa": [
+            "2a01:5b40:0:4a07:0:4f06:a549:7747"
+        ], 
+        "dns-mx": [
+            "mx.domeneshop.no"
+        ], 
+        "dns-ns": [
+            "ns1.hyp.net", 
+            "ns2.hyp.net", 
+            "ns3.hyp.net"
+        ], 
+        "domain-name": "noline.no", 
+        "fuzzer": "transposition", 
+        "geoip-country": "Norway", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "185.53.179.6"
+        ], 
+        "dns-mx": [
+            "mail.h-email.net"
+        ], 
+        "dns-ns": [
+            "ns1.fastpark.net", 
+            "ns2.fastpark.net"
+        ], 
+        "domain-name": "onlien.no", 
+        "fuzzer": "transposition", 
+        "geoip-country": "Germany", 
+        "mx-spy": true, 
+        "ssdeep-score": 0
+    }
+]

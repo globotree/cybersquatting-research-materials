@@ -1,0 +1,38 @@
+[
+    {
+        "dns-a": [
+            "185.78.40.147"
+        ], 
+        "dns-aaaa": [
+            "2a03:57e0:d:0:185:78:40:147"
+        ], 
+        "dns-mx": [
+            "mx10.d-z-t.com", 
+            "mx20.d-z-t.com"
+        ], 
+        "dns-ns": [
+            "dns01.d-z-t.com", 
+            "dns02.d-z-t.com", 
+            "ns1.de.colt.net", 
+            "ns8.colt.net"
+        ], 
+        "domain-name": "germany.travel", 
+        "fuzzer": "original*", 
+        "geoip-country": "Germany", 
+        "ssdeep-score": 100
+    }, 
+    {
+        "dns-a": [
+            "72.52.4.90"
+        ], 
+        "dns-mx": [
+            "mailgw.ns36.de"
+        ], 
+        "dns-ns": [
+            "a.ns36.de", 
+            "b.ns36.de"
+        ], 
+        "domain-name": "germany-travel.com", 
+        "fuzzer": "various"
+    }
+]

@@ -1,0 +1,70 @@
+[
+    {
+        "dns-a": [
+            "212.170.237.105"
+        ], 
+        "dns-mx": [
+            "mail2.europapress.es", 
+            "mail5.europapress.es"
+        ], 
+        "dns-ns": [
+            "dns1.p04.nsone.net", 
+            "dns2.p04.nsone.net", 
+            "dns3.p04.nsone.net", 
+            "dns4.p04.nsone.net"
+        ], 
+        "domain-name": "europapress.es", 
+        "fuzzer": "original*", 
+        "geoip-country": "Spain", 
+        "ssdeep-score": 99
+    }, 
+    {
+        "dns-a": [
+            "217.76.156.252"
+        ], 
+        "dns-mx": [
+            "mx.buzondecorreo.com"
+        ], 
+        "dns-ns": [
+            "ns15.piensasolutions.com", 
+            "ns16.piensasolutions.com"
+        ], 
+        "domain-name": "europsapress.es", 
+        "fuzzer": "insertion", 
+        "geoip-country": "Portugal", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "185.53.177.20"
+        ], 
+        "dns-ns": [
+            "a.ns14.net", 
+            "b.ns14.net", 
+            "c.ns14.net", 
+            "d.ns14.net"
+        ], 
+        "domain-name": "europapres.es", 
+        "fuzzer": "omission", 
+        "geoip-country": "Germany", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "37.152.88.55"
+        ], 
+        "domain-name": "europa.press.es", 
+        "fuzzer": "subdomain", 
+        "geoip-country": "Spain", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "188.138.124.217"
+        ], 
+        "domain-name": "europapr.ess.es", 
+        "fuzzer": "subdomain", 
+        "geoip-country": "Germany", 
+        "ssdeep-score": 0
+    }
+]

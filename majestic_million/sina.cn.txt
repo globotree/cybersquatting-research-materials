@@ -1,0 +1,713 @@
+[
+    {
+        "dns-mx": [
+            "freemx1.sinamail.sina.com.cn", 
+            "freemx2.sinamail.sina.com.cn", 
+            "freemx3.sinamail.sina.com.cn"
+        ], 
+        "dns-ns": [
+            "ns1.sina.com.cn", 
+            "ns2.sina.com.cn", 
+            "ns3.sina.com.cn"
+        ], 
+        "domain-name": "sina.cn", 
+        "fuzzer": "original*"
+    }, 
+    {
+        "dns-a": [
+            "103.251.238.63"
+        ], 
+        "dns-mx": [
+            "mail.sinad.cn"
+        ], 
+        "domain-name": "sinad.cn", 
+        "fuzzer": "addition", 
+        "geoip-country": "Hong Kong"
+    }, 
+    {
+        "dns-a": [
+            "65.19.157.204"
+        ], 
+        "dns-ns": [
+            "ns11.xincache.com", 
+            "ns12.xincache.com"
+        ], 
+        "domain-name": "sinae.cn", 
+        "fuzzer": "addition", 
+        "geoip-country": "United States"
+    }, 
+    {
+        "dns-ns": [
+            "dns23.hichina.com", 
+            "dns24.hichina.com"
+        ], 
+        "domain-name": "sinaf.cn", 
+        "fuzzer": "addition"
+    }, 
+    {
+        "dns-ns": [
+            "dns31.hichina.com", 
+            "dns32.hichina.com"
+        ], 
+        "domain-name": "sinaj.cn", 
+        "fuzzer": "addition"
+    }, 
+    {
+        "dns-a": [
+            "103.232.215.129"
+        ], 
+        "dns-mx": [
+            "mail.skrimple.com"
+        ], 
+        "domain-name": "sinal.cn", 
+        "fuzzer": "addition", 
+        "geoip-country": "China", 
+        "mx-spy": true, 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "160.124.13.73"
+        ], 
+        "dns-ns": [
+            "ns1.dnsdun.com", 
+            "ns1.dnsdun.net"
+        ], 
+        "domain-name": "sinam.cn", 
+        "fuzzer": "addition", 
+        "geoip-country": "South Africa"
+    }, 
+    {
+        "dns-a": [
+            "58.64.134.42"
+        ], 
+        "domain-name": "sinao.cn", 
+        "fuzzer": "addition", 
+        "geoip-country": "Hong Kong"
+    }, 
+    {
+        "dns-a": [
+            "118.193.213.100"
+        ], 
+        "dns-ns": [
+            "dns13.hichina.com", 
+            "dns14.hichina.com"
+        ], 
+        "domain-name": "sinap.cn", 
+        "fuzzer": "addition", 
+        "geoip-country": "China", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "115.126.100.164"
+        ], 
+        "dns-ns": [
+            "dns19.hichina.com", 
+            "dns20.hichina.com"
+        ], 
+        "domain-name": "sinas.cn", 
+        "fuzzer": "addition", 
+        "geoip-country": "Hong Kong", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "121.41.14.175"
+        ], 
+        "dns-mx": [
+            "pop.sinau.cn", 
+            "sinau.cn", 
+            "smtp.sinau.cn"
+        ], 
+        "dns-ns": [
+            "ns1.ndns.cn", 
+            "ns2.ndns.cn"
+        ], 
+        "domain-name": "sinau.cn", 
+        "fuzzer": "addition", 
+        "geoip-country": "China", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "45.120.153.82"
+        ], 
+        "domain-name": "sinav.cn", 
+        "fuzzer": "addition", 
+        "geoip-country": "Hong Kong", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "76.164.201.164"
+        ], 
+        "dns-ns": [
+            "v1.dns234.net", 
+            "v2.dns234.net"
+        ], 
+        "domain-name": "sinaw.cn", 
+        "fuzzer": "addition", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "43.247.164.90"
+        ], 
+        "dns-ns": [
+            "f1g1ns1.dnspod.net", 
+            "f1g1ns2.dnspod.net"
+        ], 
+        "domain-name": "sinax.cn", 
+        "fuzzer": "addition", 
+        "geoip-country": "Hong Kong", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "47.74.130.208"
+        ], 
+        "dns-ns": [
+            "dns31.hichina.com", 
+            "dns32.hichina.com"
+        ], 
+        "domain-name": "sinay.cn", 
+        "fuzzer": "addition", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "170.178.178.58"
+        ], 
+        "domain-name": "rina.cn", 
+        "fuzzer": "bitsquatting", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "218.107.216.145"
+        ], 
+        "domain-name": "qina.cn", 
+        "fuzzer": "bitsquatting", 
+        "geoip-country": "China"
+    }, 
+    {
+        "dns-a": [
+            "112.125.18.121", 
+            "123.56.253.53"
+        ], 
+        "dns-ns": [
+            "dns1.hichina.com", 
+            "dns2.hichina.com"
+        ], 
+        "domain-name": "wina.cn", 
+        "fuzzer": "bitsquatting", 
+        "geoip-country": "China"
+    }, 
+    {
+        "dns-a": [
+            "50.117.120.251"
+        ], 
+        "dns-mx": [
+            "mail.happyisp.com"
+        ], 
+        "domain-name": "cina.cn", 
+        "fuzzer": "bitsquatting", 
+        "geoip-country": "United States", 
+        "mx-spy": true, 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "103.235.102.4"
+        ], 
+        "domain-name": "3ina.cn", 
+        "fuzzer": "bitsquatting", 
+        "geoip-country": "Hong Kong", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "170.178.178.38"
+        ], 
+        "domain-name": "skna.cn", 
+        "fuzzer": "bitsquatting", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "60.205.8.93"
+        ], 
+        "dns-ns": [
+            "ns3.yovole.com", 
+            "ns4.yovole.com"
+        ], 
+        "domain-name": "smna.cn", 
+        "fuzzer": "bitsquatting", 
+        "geoip-country": "China", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "114.55.147.98"
+        ], 
+        "dns-ns": [
+            "dns1.hichina.com", 
+            "dns2.hichina.com"
+        ], 
+        "domain-name": "sana.cn", 
+        "fuzzer": "bitsquatting", 
+        "geoip-country": "China", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "45.120.153.79"
+        ], 
+        "domain-name": "syna.cn", 
+        "fuzzer": "bitsquatting", 
+        "geoip-country": "Hong Kong", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "203.78.142.12"
+        ], 
+        "domain-name": "sila.cn", 
+        "fuzzer": "bitsquatting", 
+        "geoip-country": "Hong Kong", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "45.120.153.79"
+        ], 
+        "domain-name": "sija.cn", 
+        "fuzzer": "bitsquatting", 
+        "geoip-country": "Hong Kong", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "47.90.207.0"
+        ], 
+        "domain-name": "sinc.cn", 
+        "fuzzer": "bitsquatting", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "121.14.65.216"
+        ], 
+        "dns-mx": [
+            "mx.zmail300.cn", 
+            "mx1.zmail300.cn"
+        ], 
+        "dns-ns": [
+            "ns3.ce.net.cn"
+        ], 
+        "domain-name": "sine.cn", 
+        "fuzzer": "bitsquatting", 
+        "geoip-country": "China", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "113.106.0.205"
+        ], 
+        "dns-mx": [
+            "mail.sini.cn"
+        ], 
+        "domain-name": "sini.cn", 
+        "fuzzer": "bitsquatting", 
+        "geoip-country": "China", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "50.117.120.251"
+        ], 
+        "dns-mx": [
+            "mail.happyisp.com"
+        ], 
+        "domain-name": "sinq.cn", 
+        "fuzzer": "bitsquatting", 
+        "geoip-country": "United States", 
+        "mx-spy": true, 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "23.27.192.117"
+        ], 
+        "dns-ns": [
+            "dns29.hichina.com", 
+            "dns30.hichina.com"
+        ], 
+        "domain-name": "sira.cn", 
+        "fuzzer": "homoglyph", 
+        "geoip-country": "United States"
+    }, 
+    {
+        "dns-a": [
+            "203.78.142.12"
+        ], 
+        "domain-name": "sima.cn", 
+        "fuzzer": "homoglyph", 
+        "geoip-country": "Hong Kong", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "50.117.120.251"
+        ], 
+        "dns-mx": [
+            "mail.happyisp.com"
+        ], 
+        "domain-name": "slna.cn", 
+        "fuzzer": "homoglyph", 
+        "geoip-country": "United States", 
+        "mx-spy": true, 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "61.139.8.104"
+        ], 
+        "dns-ns": [
+            "dns7.hichina.com", 
+            "dns8.hichina.com"
+        ], 
+        "domain-name": "si-na.cn", 
+        "fuzzer": "hyphenation", 
+        "geoip-country": "China"
+    }, 
+    {
+        "dns-a": [
+            "184.168.142.178"
+        ], 
+        "dns-mx": [
+            "mail.sinma.cn"
+        ], 
+        "domain-name": "sinma.cn", 
+        "fuzzer": "insertion", 
+        "geoip-country": "United States"
+    }, 
+    {
+        "dns-a": [
+            "50.117.120.251"
+        ], 
+        "dns-mx": [
+            "mail.happyisp.com"
+        ], 
+        "domain-name": "soina.cn", 
+        "fuzzer": "insertion", 
+        "geoip-country": "United States", 
+        "mx-spy": true, 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "103.232.215.129"
+        ], 
+        "dns-mx": [
+            "mail.skrimple.com"
+        ], 
+        "domain-name": "skina.cn", 
+        "fuzzer": "insertion", 
+        "geoip-country": "China", 
+        "mx-spy": true, 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-ns": [
+            "ns17.xincache.com", 
+            "ns18.xincache.com"
+        ], 
+        "domain-name": "sinha.cn", 
+        "fuzzer": "insertion"
+    }, 
+    {
+        "dns-a": [
+            "103.232.215.129"
+        ], 
+        "dns-mx": [
+            "mail.skrimple.com"
+        ], 
+        "domain-name": "suina.cn", 
+        "fuzzer": "insertion", 
+        "geoip-country": "China", 
+        "mx-spy": true, 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "47.88.29.253"
+        ], 
+        "domain-name": "sin.cn", 
+        "fuzzer": "omission", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "210.72.131.131"
+        ], 
+        "dns-mx": [
+            "mx.cstnet.cn"
+        ], 
+        "dns-ns": [
+            "es.sia.ac.cn"
+        ], 
+        "domain-name": "sia.cn", 
+        "fuzzer": "omission", 
+        "geoip-country": "China"
+    }, 
+    {
+        "dns-a": [
+            "203.78.142.12"
+        ], 
+        "domain-name": "ina.cn", 
+        "fuzzer": "omission", 
+        "geoip-country": "Hong Kong"
+    }, 
+    {
+        "dns-a": [
+            "218.247.81.118"
+        ], 
+        "domain-name": "sinna.cn", 
+        "fuzzer": "repetition", 
+        "geoip-country": "China", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "172.106.109.119"
+        ], 
+        "dns-ns": [
+            "juming.dnsdun.com", 
+            "juming.dnsdun.net"
+        ], 
+        "domain-name": "siina.cn", 
+        "fuzzer": "repetition", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "47.89.58.32"
+        ], 
+        "dns-ns": [
+            "dns15.hichina.com", 
+            "dns16.hichina.com"
+        ], 
+        "domain-name": "ssina.cn", 
+        "fuzzer": "repetition", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-mx": [
+            "mxbiz1.qq.com", 
+            "mxbiz2.qq.com"
+        ], 
+        "dns-ns": [
+            "dns10.hichina.com", 
+            "dns9.hichina.com"
+        ], 
+        "domain-name": "sin2.cn", 
+        "fuzzer": "replacement"
+    }, 
+    {
+        "dns-a": [
+            "221.194.109.239"
+        ], 
+        "dns-mx": [
+            "1615795665.pamx1.hotmail.com"
+        ], 
+        "domain-name": "eina.cn", 
+        "fuzzer": "replacement", 
+        "geoip-country": "China"
+    }, 
+    {
+        "dns-a": [
+            "104.160.171.84"
+        ], 
+        "domain-name": "zina.cn", 
+        "fuzzer": "replacement", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "45.120.153.79"
+        ], 
+        "domain-name": "suna.cn", 
+        "fuzzer": "replacement", 
+        "geoip-country": "Hong Kong", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "116.255.170.221"
+        ], 
+        "dns-ns": [
+            "ns1.01isp.com", 
+            "ns2.01isp.net"
+        ], 
+        "domain-name": "yina.cn", 
+        "fuzzer": "replacement", 
+        "geoip-country": "China", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "45.120.153.79"
+        ], 
+        "domain-name": "xina.cn", 
+        "fuzzer": "replacement", 
+        "geoip-country": "Hong Kong", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "203.78.142.12"
+        ], 
+        "domain-name": "aina.cn", 
+        "fuzzer": "replacement", 
+        "geoip-country": "Hong Kong", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "170.178.178.38"
+        ], 
+        "domain-name": "sjna.cn", 
+        "fuzzer": "replacement", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "103.243.183.107"
+        ], 
+        "domain-name": "sinz.cn", 
+        "fuzzer": "replacement", 
+        "geoip-country": "Hong Kong", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "58.53.128.228"
+        ], 
+        "domain-name": "siny.cn", 
+        "fuzzer": "replacement", 
+        "geoip-country": "China"
+    }, 
+    {
+        "dns-a": [
+            "203.78.142.12"
+        ], 
+        "domain-name": "sinw.cn", 
+        "fuzzer": "replacement", 
+        "geoip-country": "Hong Kong", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-ns": [
+            "ns15.xincache.com", 
+            "ns16.xincache.com"
+        ], 
+        "domain-name": "sins.cn", 
+        "fuzzer": "replacement"
+    }, 
+    {
+        "dns-a": [
+            "47.90.43.141"
+        ], 
+        "domain-name": "siha.cn", 
+        "fuzzer": "replacement", 
+        "geoip-country": "United States"
+    }, 
+    {
+        "dns-ns": [
+            "dns10.hichina.com", 
+            "dns9.hichina.com"
+        ], 
+        "domain-name": "siba.cn", 
+        "fuzzer": "replacement"
+    }, 
+    {
+        "dns-a": [
+            "104.160.171.94"
+        ], 
+        "domain-name": "si.na.cn", 
+        "fuzzer": "subdomain", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "162.221.6.13"
+        ], 
+        "dns-ns": [
+            "ns1.01isp.com", 
+            "ns2.01isp.net"
+        ], 
+        "domain-name": "isna.cn", 
+        "fuzzer": "transposition", 
+        "geoip-country": "United States"
+    }, 
+    {
+        "dns-a": [
+            "103.232.215.129"
+        ], 
+        "dns-mx": [
+            "mail.skrimple.com"
+        ], 
+        "domain-name": "sian.cn", 
+        "fuzzer": "transposition"
+    }, 
+    {
+        "dns-a": [
+            "203.78.142.12"
+        ], 
+        "domain-name": "sena.cn", 
+        "fuzzer": "vowel-swap", 
+        "geoip-country": "Hong Kong", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "222.76.216.141"
+        ], 
+        "dns-mx": [
+            "mail.sino.cn"
+        ], 
+        "domain-name": "sino.cn", 
+        "fuzzer": "vowel-swap"
+    }, 
+    {
+        "dns-a": [
+            "47.91.205.84"
+        ], 
+        "domain-name": "sinu.cn", 
+        "fuzzer": "vowel-swap"
+    }, 
+    {
+        "dns-a": [
+            "115.126.100.164"
+        ], 
+        "dns-ns": [
+            "dns17.hichina.com", 
+            "dns18.hichina.com"
+        ], 
+        "domain-name": "sinacn.cn", 
+        "fuzzer": "various"
+    }
+]

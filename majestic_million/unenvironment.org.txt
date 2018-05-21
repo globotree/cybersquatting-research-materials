@@ -1,0 +1,75 @@
+[
+    {
+        "dns-a": [
+            "89.31.103.91"
+        ], 
+        "dns-mx": [
+            "mailexch-af0.unon.org", 
+            "mailexch-af1.unon.org", 
+            "unasav5.un.org", 
+            "unasav6.un.org", 
+            "unasav7.un.org", 
+            "unasav8.un.org"
+        ], 
+        "dns-ns": [
+            "nick.ns.cloudflare.com", 
+            "venus.ns.cloudflare.com"
+        ], 
+        "domain-name": "unenvironment.org", 
+        "fuzzer": "original*", 
+        "geoip-country": "Netherlands", 
+        "ssdeep-score": 100
+    }, 
+    {
+        "dns-a": [
+            "184.168.221.4"
+        ], 
+        "dns-mx": [
+            "mailstore1.secureserver.net", 
+            "smtp.secureserver.net"
+        ], 
+        "dns-ns": [
+            "ns17.domaincontrol.com", 
+            "ns18.domaincontrol.com"
+        ], 
+        "domain-name": "tnenvironment.org", 
+        "fuzzer": "bitsquatting", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "96.45.82.239", 
+            "96.45.82.60", 
+            "96.45.83.11", 
+            "96.45.83.134"
+        ], 
+        "domain-name": "unenvironm.ent.org", 
+        "fuzzer": "subdomain", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "72.52.4.122"
+        ], 
+        "dns-mx": [
+            "localhost"
+        ], 
+        "dns-ns": [
+            "ns1.sedoparking.com", 
+            "ns2.sedoparking.com"
+        ], 
+        "domain-name": "unenvironme.nt.org", 
+        "fuzzer": "subdomain"
+    }, 
+    {
+        "dns-a": [
+            "98.124.199.67"
+        ], 
+        "domain-name": "unenvironmen.t.org", 
+        "fuzzer": "subdomain", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 0
+    }
+]

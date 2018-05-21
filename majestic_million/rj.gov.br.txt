@@ -1,0 +1,55 @@
+[
+    {
+        "dns-a": [
+            "200.222.27.107"
+        ], 
+        "dns-mx": [
+            "mx.rj.gov.br"
+        ], 
+        "dns-ns": [
+            "uipia.proderj.rj.gov.br", 
+            "xexeu.proderj.rj.gov.br"
+        ], 
+        "domain-name": "rj.gov.br", 
+        "fuzzer": "original*", 
+        "geoip-country": "Brazil"
+    }, 
+    {
+        "dns-a": [
+            "177.87.96.2"
+        ], 
+        "dns-mx": [
+            "pratico.rn.gov.br"
+        ], 
+        "dns-ns": [
+            "ns1.rn.gov.br", 
+            "ns2.rn.gov.br", 
+            "ns3.rn.gov.br"
+        ], 
+        "domain-name": "rn.gov.br", 
+        "fuzzer": "bitsquatting", 
+        "geoip-country": "Brazil"
+    }, 
+    {
+        "dns-a": [
+            "187.0.209.83"
+        ], 
+        "dns-mx": [
+            "smtp-in-ahe.mail.alog.com.br"
+        ], 
+        "dns-ns": [
+            "nsauto01.alog.com.br", 
+            "nsauto02.alog.com.br"
+        ], 
+        "domain-name": "rb.gov.br", 
+        "fuzzer": "bitsquatting"
+    }, 
+    {
+        "dns-ns": [
+            "dns1.dj.gov.br", 
+            "dns2.dj.gov.br"
+        ], 
+        "domain-name": "dj.gov.br", 
+        "fuzzer": "replacement"
+    }
+]

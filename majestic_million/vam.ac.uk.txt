@@ -1,0 +1,81 @@
+[
+    {
+        "dns-a": [
+            "52.50.131.88"
+        ], 
+        "dns-mx": [
+            "eu-smtp-inbound-1.mimecast.com", 
+            "eu-smtp-inbound-2.mimecast.com"
+        ], 
+        "dns-ns": [
+            "ns0.ukfast.net", 
+            "ns1.ukfast.net"
+        ], 
+        "domain-name": "vam.ac.uk", 
+        "fuzzer": "original*", 
+        "geoip-country": "Ireland", 
+        "ssdeep-score": 99
+    }, 
+    {
+        "dns-a": [
+            "178.79.170.250"
+        ], 
+        "dns-mx": [
+            "ram-ac-uk.mail.protection.outlook.com"
+        ], 
+        "dns-ns": [
+            "ns10.ja.net", 
+            "ns11.ja.net", 
+            "ns12.ja.net"
+        ], 
+        "domain-name": "ram.ac.uk", 
+        "fuzzer": "bitsquatting", 
+        "geoip-country": "United Kingdom", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "131.111.150.25"
+        ], 
+        "dns-mx": [
+            "mx.cam.ac.uk"
+        ], 
+        "dns-ns": [
+            "authdns0.csx.cam.ac.uk", 
+            "dns0.cl.cam.ac.uk", 
+            "dns0.eng.cam.ac.uk", 
+            "ns2.ic.ac.uk", 
+            "sns-pb.isc.org"
+        ], 
+        "domain-name": "cam.ac.uk", 
+        "fuzzer": "replacement"
+    }, 
+    {
+        "dns-a": [
+            "213.138.111.209"
+        ], 
+        "dns-mx": [
+            "bam-ac-uk.mail.protection.outlook.com"
+        ], 
+        "dns-ns": [
+            "ns1.purplematrix.co.uk", 
+            "ns2.purplematrix.co.uk"
+        ], 
+        "domain-name": "bam.ac.uk", 
+        "fuzzer": "replacement", 
+        "geoip-country": "United Kingdom", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "62.233.121.5"
+        ], 
+        "dns-ns": [
+            "ns1.namecity.com", 
+            "ns2.namecity.com"
+        ], 
+        "domain-name": "vamac.uk", 
+        "fuzzer": "various", 
+        "geoip-country": "United Kingdom"
+    }
+]

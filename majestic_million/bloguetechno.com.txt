@@ -1,0 +1,56 @@
+[
+    {
+        "dns-a": [
+            "170.130.139.28"
+        ], 
+        "dns-mx": [
+            "eforward1.registrar-servers.com", 
+            "eforward2.registrar-servers.com", 
+            "eforward3.registrar-servers.com", 
+            "eforward4.registrar-servers.com", 
+            "eforward5.registrar-servers.com"
+        ], 
+        "dns-ns": [
+            "dns1.registrar-servers.com", 
+            "dns2.registrar-servers.com"
+        ], 
+        "domain-name": "bloguetechno.com", 
+        "fuzzer": "original*", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 100
+    }, 
+    {
+        "dns-a": [
+            "69.172.201.153"
+        ], 
+        "dns-ns": [
+            "ns1.uniregistrymarket.link", 
+            "ns2.uniregistrymarket.link"
+        ], 
+        "domain-name": "blogu.etechno.com", 
+        "fuzzer": "subdomain", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "69.172.201.153"
+        ], 
+        "dns-ns": [
+            "ns1.uniregistrymarket.link", 
+            "ns2.uniregistrymarket.link"
+        ], 
+        "domain-name": "blogue.techno.com", 
+        "fuzzer": "subdomain", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "94.23.156.94"
+        ], 
+        "domain-name": "bloguete.chno.com", 
+        "fuzzer": "subdomain", 
+        "geoip-country": "United Kingdom"
+    }
+]

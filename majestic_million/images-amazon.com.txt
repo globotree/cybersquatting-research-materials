@@ -1,0 +1,107 @@
+[
+    {
+        "dns-ns": [
+            "ns1.p31.dynect.net", 
+            "ns2.p31.dynect.net", 
+            "ns3.p31.dynect.net", 
+            "ns4.p31.dynect.net", 
+            "pdns1.ultradns.net", 
+            "pdns6.ultradns.co.uk"
+        ], 
+        "domain-name": "images-amazon.com", 
+        "fuzzer": "original*"
+    }, 
+    {
+        "dns-ns": [
+            "ns1.markmonitor.com", 
+            "ns2.markmonitor.com", 
+            "ns3.markmonitor.com", 
+            "ns4.markmonitor.com", 
+            "ns5.markmonitor.com", 
+            "ns6.markmonitor.com", 
+            "ns7.markmonitor.com"
+        ], 
+        "domain-name": "lmages-amazon.com", 
+        "fuzzer": "homoglyph"
+    }, 
+    {
+        "dns-ns": [
+            "ns1.markmonitor.com", 
+            "ns2.markmonitor.com", 
+            "ns3.markmonitor.com", 
+            "ns4.markmonitor.com", 
+            "ns5.markmonitor.com", 
+            "ns6.markmonitor.com", 
+            "ns7.markmonitor.com"
+        ], 
+        "domain-name": "imagess-amazon.com", 
+        "fuzzer": "insertion"
+    }, 
+    {
+        "dns-ns": [
+            "ns1.markmonitor.com", 
+            "ns2.markmonitor.com", 
+            "ns3.markmonitor.com", 
+            "ns4.markmonitor.com", 
+            "ns5.markmonitor.com", 
+            "ns6.markmonitor.com", 
+            "ns7.markmonitor.com"
+        ], 
+        "domain-name": "imagesamazon.com", 
+        "fuzzer": "omission"
+    }, 
+    {
+        "dns-a": [
+            "87.98.157.250"
+        ], 
+        "dns-ns": [
+            "ns-canada.topdns.com", 
+            "ns-uk.topdns.com", 
+            "ns-usa.topdns.com"
+        ], 
+        "domain-name": "images-mazon.com", 
+        "fuzzer": "omission", 
+        "geoip-country": "France"
+    }, 
+    {
+        "dns-ns": [
+            "ns1.markmonitor.com", 
+            "ns2.markmonitor.com", 
+            "ns3.markmonitor.com", 
+            "ns4.markmonitor.com", 
+            "ns5.markmonitor.com", 
+            "ns6.markmonitor.com", 
+            "ns7.markmonitor.com"
+        ], 
+        "domain-name": "image-amazon.com", 
+        "fuzzer": "omission"
+    }, 
+    {
+        "dns-a": [
+            "50.28.55.213"
+        ], 
+        "domain-name": "images-am.azon.com", 
+        "fuzzer": "subdomain", 
+        "geoip-country": "United States"
+    }, 
+    {
+        "dns-a": [
+            "184.168.221.104"
+        ], 
+        "dns-ns": [
+            "ns1.afternic.com", 
+            "ns2.afternic.com"
+        ], 
+        "domain-name": "images-ama.zon.com", 
+        "fuzzer": "subdomain", 
+        "geoip-country": "United States"
+    }, 
+    {
+        "dns-a": [
+            "208.78.94.160"
+        ], 
+        "domain-name": "images-amaz.on.com", 
+        "fuzzer": "subdomain", 
+        "geoip-country": "United States"
+    }
+]

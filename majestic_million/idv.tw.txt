@@ -1,0 +1,138 @@
+[
+    {
+        "dns-ns": [
+            "a.twnic.net.tw", 
+            "anytld.apnic.net", 
+            "b.twnic.net.tw", 
+            "c.twnic.net.tw", 
+            "d.twnic.net.tw", 
+            "e.twnic.net.tw", 
+            "f.twnic.net.tw", 
+            "g.twnic.net.tw", 
+            "h.dns.tw", 
+            "h.twnic.net.tw", 
+            "i.dns.tw"
+        ], 
+        "domain-name": "idv.tw", 
+        "fuzzer": "original*"
+    }, 
+    {
+        "dns-a": [
+            "60.199.201.84"
+        ], 
+        "dns-mx": [
+            "idvs.tw", 
+            "www.idvs.tw"
+        ], 
+        "dns-ns": [
+            "dns1.f1.com.tw", 
+            "dns2.f1.com.tw"
+        ], 
+        "domain-name": "idvs.tw", 
+        "fuzzer": "addition", 
+        "geoip-country": "Taiwan"
+    }, 
+    {
+        "dns-a": [
+            "210.61.79.115"
+        ], 
+        "dns-mx": [
+            "cpanel.hdv.tw"
+        ], 
+        "dns-ns": [
+            "dns.machinesources.com", 
+            "dns.video-pro.com.tw"
+        ], 
+        "domain-name": "hdv.tw", 
+        "fuzzer": "bitsquatting", 
+        "geoip-country": "Taiwan"
+    }, 
+    {
+        "dns-a": [
+            "203.74.127.19"
+        ], 
+        "dns-ns": [
+            "rsdn1.octor.com", 
+            "rsdn2.octor.com"
+        ], 
+        "domain-name": "adv.tw", 
+        "fuzzer": "bitsquatting", 
+        "geoip-country": "Taiwan"
+    }, 
+    {
+        "dns-a": [
+            "123.51.218.180"
+        ], 
+        "dns-mx": [
+            "mail.ilv.tw"
+        ], 
+        "dns-ns": [
+            "ns1.ilv.tw", 
+            "ns2.ilv.tw"
+        ], 
+        "domain-name": "ilv.tw", 
+        "fuzzer": "bitsquatting", 
+        "geoip-country": "Taiwan"
+    }, 
+    {
+        "dns-a": [
+            "104.18.40.218", 
+            "104.18.41.218"
+        ], 
+        "dns-aaaa": [
+            "2400:cb00:2048:1::6812:28da", 
+            "2400:cb00:2048:1::6812:29da"
+        ], 
+        "dns-ns": [
+            "chan.ns.cloudflare.com", 
+            "miles.ns.cloudflare.com"
+        ], 
+        "domain-name": "itv.tw", 
+        "fuzzer": "bitsquatting", 
+        "geoip-country": "United States"
+    }, 
+    {
+        "dns-a": [
+            "59.120.94.106"
+        ], 
+        "dns-mx": [
+            "ALT1.ASPMX.L.GOOGLE.com", 
+            "ALT2.ASPMX.L.GOOGLE.com", 
+            "ASPMX.L.GOOGLE.com", 
+            "mai11.example.com", 
+            "mai12.example.com"
+        ], 
+        "dns-ns": [
+            "dns.idf.tw"
+        ], 
+        "domain-name": "idf.tw", 
+        "fuzzer": "bitsquatting", 
+        "geoip-country": "Taiwan"
+    }, 
+    {
+        "dns-a": [
+            "220.135.28.7"
+        ], 
+        "dns-mx": [
+            "idev.tw"
+        ], 
+        "dns-ns": [
+            "ns.idev.tw"
+        ], 
+        "domain-name": "idev.tw", 
+        "fuzzer": "insertion", 
+        "geoip-country": "Taiwan"
+    }, 
+    {
+        "dns-a": [
+            "104.199.155.252"
+        ], 
+        "dns-ns": [
+            "admns1.hinet.net", 
+            "admns2.hinet.net"
+        ], 
+        "domain-name": "idb.tw", 
+        "fuzzer": "replacement", 
+        "geoip-country": "United States"
+    }
+]

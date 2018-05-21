@@ -1,0 +1,168 @@
+[
+    {
+        "dns-mx": [
+            "club.rayli.com.cn", 
+            "groupmail.rayli.com.cn", 
+            "mail.rayli.com.cn"
+        ], 
+        "dns-ns": [
+            "dns11.hichina.com", 
+            "dns12.hichina.com"
+        ], 
+        "domain-name": "rayli.com.cn", 
+        "fuzzer": "original*"
+    }, 
+    {
+        "dns-a": [
+            "104.31.74.19", 
+            "104.31.75.19"
+        ], 
+        "dns-aaaa": [
+            "2400:cb00:2048:1::681f:4a13", 
+            "2400:cb00:2048:1::681f:4b13"
+        ], 
+        "dns-ns": [
+            "alan.ns.cloudflare.com", 
+            "donna.ns.cloudflare.com"
+        ], 
+        "domain-name": "raylie.com.cn", 
+        "fuzzer": "addition", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "23.224.132.102"
+        ], 
+        "dns-ns": [
+            "ns1.dnsdun.com", 
+            "ns1.dnsdun.net"
+        ], 
+        "domain-name": "raylij.com.cn", 
+        "fuzzer": "addition", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "221.231.138.66"
+        ], 
+        "dns-mx": [
+            "mx2.4cun.com"
+        ], 
+        "dns-ns": [
+            "dns7.hichina.com", 
+            "dns8.hichina.com"
+        ], 
+        "domain-name": "raylin.com.cn", 
+        "fuzzer": "addition", 
+        "geoip-country": "China", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "50.117.120.251"
+        ], 
+        "dns-mx": [
+            "mail.happyisp.com"
+        ], 
+        "domain-name": "reyli.com.cn", 
+        "fuzzer": "bitsquatting", 
+        "geoip-country": "United States", 
+        "mx-spy": true, 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "23.224.124.243"
+        ], 
+        "dns-ns": [
+            "ns1.dnsdun.com", 
+            "ns1.dnsdun.net"
+        ], 
+        "domain-name": "raili.com.cn", 
+        "fuzzer": "bitsquatting", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "50.117.120.251"
+        ], 
+        "dns-mx": [
+            "mail.happyisp.com"
+        ], 
+        "domain-name": "rayll.com.cn", 
+        "fuzzer": "homoglyph", 
+        "geoip-country": "United States", 
+        "mx-spy": true, 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-ns": [
+            "dns7.hichina.com", 
+            "dns8.hichina.com"
+        ], 
+        "domain-name": "rayi.com.cn", 
+        "fuzzer": "omission"
+    }, 
+    {
+        "dns-a": [
+            "116.255.200.142"
+        ], 
+        "domain-name": "ayli.com.cn", 
+        "fuzzer": "omission", 
+        "geoip-country": "China"
+    }, 
+    {
+        "dns-a": [
+            "124.172.146.137"
+        ], 
+        "dns-ns": [
+            "f1g1ns1.dnspod.net", 
+            "f1g1ns2.dnspod.net"
+        ], 
+        "domain-name": "rayl.com.cn", 
+        "fuzzer": "omission", 
+        "geoip-country": "China", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "47.89.58.32"
+        ], 
+        "dns-ns": [
+            "dns31.hichina.com", 
+            "dns32.hichina.com"
+        ], 
+        "domain-name": "dayli.com.cn", 
+        "fuzzer": "replacement", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "221.224.120.155"
+        ], 
+        "dns-mx": [
+            "221.224.120.155"
+        ], 
+        "dns-ns": [
+            "ns11.xincache.com", 
+            "ns12.xincache.com"
+        ], 
+        "domain-name": "royli.com.cn", 
+        "fuzzer": "vowel-swap"
+    }, 
+    {
+        "dns-a": [
+            "172.106.57.46"
+        ], 
+        "dns-ns": [
+            "f1g1ns1.dnspod.net", 
+            "f1g1ns2.dnspod.net"
+        ], 
+        "domain-name": "raylicom.cn", 
+        "fuzzer": "various"
+    }
+]

@@ -1,0 +1,117 @@
+[
+    {
+        "dns-a": [
+            "132.210.7.145"
+        ], 
+        "dns-mx": [
+            "usherbrooke-ca.mail.protection.outlook.com"
+        ], 
+        "dns-ns": [
+            "DNSe1.usherbrooke.ca", 
+            "DNSe2.usherbrooke.ca", 
+            "DNSe3.usherbrooke.ca"
+        ], 
+        "domain-name": "usherbrooke.ca", 
+        "fuzzer": "original*", 
+        "geoip-country": "Canada", 
+        "ssdeep-score": 99
+    }, 
+    {
+        "dns-a": [
+            "141.8.224.93"
+        ], 
+        "dns-ns": [
+            "ns7.rookdns.com", 
+            "ns8.rookdns.com"
+        ], 
+        "domain-name": "usherbrook.ca", 
+        "fuzzer": "omission", 
+        "geoip-country": "Switzerland", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "52.229.120.253"
+        ], 
+        "dns-ns": [
+            "DNSe1.USherbrooke.ca", 
+            "DNSe2.USherbrooke.ca", 
+            "DNSe3.USherbrooke.ca"
+        ], 
+        "domain-name": "usherbroke.ca", 
+        "fuzzer": "omission", 
+        "geoip-country": "Canada", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "199.21.219.251"
+        ], 
+        "dns-mx": [
+            "alt1.aspmx.l.google.com", 
+            "alt2.aspmx.l.google.com", 
+            "aspmx.l.google.com", 
+            "aspmx2.googlemail.com", 
+            "aspmx3.googlemail.com"
+        ], 
+        "dns-ns": [
+            "dns1.ville.sherbrooke.qc.ca", 
+            "dns2.ville.sherbrooke.qc.ca", 
+            "dns3.ville.sherbrooke.qc.ca", 
+            "dns4.ville.sherbrooke.qc.ca"
+        ], 
+        "domain-name": "sherbrooke.ca", 
+        "fuzzer": "omission", 
+        "geoip-country": "Canada", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "67.231.21.20"
+        ], 
+        "dns-mx": [
+            "isherbrooke.ca"
+        ], 
+        "dns-ns": [
+            "ns318.canadianwebhosting.com", 
+            "ns319.canadianwebhosting.com"
+        ], 
+        "domain-name": "isherbrooke.ca", 
+        "fuzzer": "replacement", 
+        "geoip-country": "Canada", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "199.59.242.150"
+        ], 
+        "domain-name": "usher.brooke.ca", 
+        "fuzzer": "subdomain", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "216.194.64.193"
+        ], 
+        "domain-name": "usherbr.ooke.ca", 
+        "fuzzer": "subdomain", 
+        "geoip-country": "Canada", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "50.63.202.92"
+        ], 
+        "dns-mx": [
+            "mailstore1.secureserver.net", 
+            "smtp.secureserver.net"
+        ], 
+        "dns-ns": [
+            "ns53.domaincontrol.com", 
+            "ns54.domaincontrol.com"
+        ], 
+        "domain-name": "asherbrooke.ca", 
+        "fuzzer": "vowel-swap"
+    }
+]

@@ -1,0 +1,50 @@
+[
+    {
+        "dns-mx": [
+            "pro.spec.org"
+        ], 
+        "dns-ns": [
+            "pro.spec.org", 
+            "spec.cs.miami.edu", 
+            "zoro.headgear.org"
+        ], 
+        "domain-name": "specbench.org", 
+        "fuzzer": "original*"
+    }, 
+    {
+        "dns-a": [
+            "66.35.250.210"
+        ], 
+        "domain-name": "spe.cbench.org", 
+        "fuzzer": "subdomain", 
+        "geoip-country": "United States"
+    }, 
+    {
+        "dns-a": [
+            "69.172.201.153"
+        ], 
+        "dns-ns": [
+            "ns1.uniregistrymarket.link", 
+            "ns2.uniregistrymarket.link"
+        ], 
+        "domain-name": "spec.bench.org", 
+        "fuzzer": "subdomain", 
+        "geoip-country": "United States"
+    }, 
+    {
+        "dns-a": [
+            "50.63.46.1"
+        ], 
+        "dns-ns": [
+            "A.SERVICE.AFILIASDNS.INFO", 
+            "B.SERVICE.AFILIASDNS.org", 
+            "C.SERVICE.AFILIASDNS.NET", 
+            "D.SERVICE.AFILIASDNS.COM", 
+            "E.SERVICE.AFILIASDNS.INFO", 
+            "F.SERVICE.AFILIASDNS.NET"
+        ], 
+        "domain-name": "specbenc.h.org", 
+        "fuzzer": "subdomain", 
+        "geoip-country": "United States"
+    }
+]

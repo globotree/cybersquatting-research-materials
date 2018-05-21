@@ -1,0 +1,76 @@
+[
+    {
+        "dns-a": [
+            "131.113.131.113"
+        ], 
+        "dns-aaaa": [
+            "2001:df0:eb:e0f:131:113:131:113"
+        ], 
+        "dns-mx": [
+            "vmx2.m0.keio.ac.jp"
+        ], 
+        "dns-ns": [
+            "a1-123.akam.net", 
+            "a14-66.akam.net", 
+            "a26-67.akam.net", 
+            "a3-64.akam.net", 
+            "a4-65.akam.net", 
+            "a5-66.akam.net"
+        ], 
+        "domain-name": "keio.ac.jp", 
+        "fuzzer": "original*", 
+        "geoip-country": "Japan", 
+        "ssdeep-score": 100
+    }, 
+    {
+        "dns-a": [
+            "203.140.72.20"
+        ], 
+        "dns-mx": [
+            "kio-ac-jp.mail.protection.outlook.com"
+        ], 
+        "dns-ns": [
+            "ddns.kio.ac.jp", 
+            "nscache1.eonet.ne.jp", 
+            "nscache3.eonet.ne.jp"
+        ], 
+        "domain-name": "kio.ac.jp", 
+        "fuzzer": "omission", 
+        "geoip-country": "Japan"
+    }, 
+    {
+        "dns-a": [
+            "131.113.134.133"
+        ], 
+        "dns-aaaa": [
+            "2001:df0:eb:e08::133"
+        ], 
+        "dns-mx": [
+            "mailgate2-1.keio.jp", 
+            "mailgate2-2.keio.jp"
+        ], 
+        "dns-ns": [
+            "a1-123.akam.net", 
+            "a14-66.akam.net", 
+            "a26-67.akam.net", 
+            "a3-64.akam.net", 
+            "a4-65.akam.net", 
+            "a5-66.akam.net"
+        ], 
+        "domain-name": "keio.jp", 
+        "fuzzer": "various"
+    }, 
+    {
+        "dns-a": [
+            "49.212.185.240"
+        ], 
+        "dns-ns": [
+            "01.dnsv.jp", 
+            "02.dnsv.jp", 
+            "03.dnsv.jp", 
+            "04.dnsv.jp"
+        ], 
+        "domain-name": "keioac.jp", 
+        "fuzzer": "various"
+    }
+]

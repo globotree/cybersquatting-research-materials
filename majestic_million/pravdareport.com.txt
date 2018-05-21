@@ -1,0 +1,63 @@
+[
+    {
+        "dns-a": [
+            "185.201.54.49"
+        ], 
+        "dns-ns": [
+            "ns1.pravdareport.com", 
+            "ns2.pravdareport.com"
+        ], 
+        "domain-name": "pravdareport.com", 
+        "fuzzer": "original*", 
+        "ssdeep-score": 100
+    }, 
+    {
+        "dns-a": [
+            "62.210.206.47"
+        ], 
+        "dns-ns": [
+            "a.dns.gandi.net", 
+            "b.dns.gandi.net", 
+            "c.dns.gandi.net"
+        ], 
+        "domain-name": "pravd.areport.com", 
+        "fuzzer": "subdomain", 
+        "geoip-country": "France"
+    }, 
+    {
+        "dns-a": [
+            "23.23.86.44"
+        ], 
+        "dns-mx": [
+            "0.0.0.0"
+        ], 
+        "domain-name": "pravda.report.com", 
+        "fuzzer": "subdomain", 
+        "geoip-country": "United States", 
+        "mx-spy": true, 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "54.210.187.20", 
+            "54.236.156.218"
+        ], 
+        "dns-ns": [
+            "ns1.namebrightdns.com", 
+            "ns2.namebrightdns.com"
+        ], 
+        "domain-name": "pravdar.eport.com", 
+        "fuzzer": "subdomain", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "64.99.80.121"
+        ], 
+        "domain-name": "pravdarep.ort.com", 
+        "fuzzer": "subdomain", 
+        "geoip-country": "Canada", 
+        "ssdeep-score": 0
+    }
+]

@@ -1,0 +1,360 @@
+[
+    {
+        "dns-a": [
+            "172.217.22.99"
+        ], 
+        "dns-aaaa": [
+            "2a00:1450:4001:81d::2003"
+        ], 
+        "dns-mx": [
+            "alt1.aspmx.l.google.com", 
+            "alt2.aspmx.l.google.com", 
+            "alt3.aspmx.l.google.com", 
+            "alt4.aspmx.l.google.com", 
+            "aspmx.l.google.com"
+        ], 
+        "dns-ns": [
+            "ns1.google.com", 
+            "ns2.google.com", 
+            "ns3.google.com", 
+            "ns4.google.com"
+        ], 
+        "domain-name": "google.co.nz", 
+        "fuzzer": "original*", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 75
+    }, 
+    {
+        "dns-a": [
+            "119.47.114.165"
+        ], 
+        "dns-mx": [
+            "mx1.webhost.co.nz", 
+            "mx2.webhost.co.nz", 
+            "mx3.webhost.co.nz", 
+            "mx4.webhost.co.nz"
+        ], 
+        "dns-ns": [
+            "ns1.nameserver.net.nz", 
+            "ns2.nameserver.net.nz", 
+            "ns3.nameserver.net.nz"
+        ], 
+        "domain-name": "googled.co.nz", 
+        "fuzzer": "addition", 
+        "geoip-country": "New Zealand"
+    }, 
+    {
+        "dns-a": [
+            "43.245.52.70"
+        ], 
+        "dns-ns": [
+            "ns.freeparking.co.nz", 
+            "ns2.freeparking.co.nz"
+        ], 
+        "domain-name": "googler.co.nz", 
+        "fuzzer": "addition", 
+        "geoip-country": "New Zealand", 
+        "ssdeep-score": 79
+    }, 
+    {
+        "dns-a": [
+            "119.47.114.165"
+        ], 
+        "dns-mx": [
+            "mx1.webhost.co.nz", 
+            "mx2.webhost.co.nz", 
+            "mx3.webhost.co.nz", 
+            "mx4.webhost.co.nz"
+        ], 
+        "dns-ns": [
+            "ns1.nameserver.net.nz", 
+            "ns2.nameserver.net.nz", 
+            "ns3.nameserver.net.nz"
+        ], 
+        "domain-name": "googles.co.nz", 
+        "fuzzer": "addition", 
+        "geoip-country": "New Zealand", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "210.55.105.82"
+        ], 
+        "dns-ns": [
+            "ns1.nameserverz.com", 
+            "ns2.nameserverz.com"
+        ], 
+        "domain-name": "woogle.co.nz", 
+        "fuzzer": "bitsquatting", 
+        "geoip-country": "New Zealand", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "192.169.182.55"
+        ], 
+        "dns-mx": [
+            "ggogle.co.nz"
+        ], 
+        "dns-ns": [
+            "ns1.bns.co", 
+            "ns2.bns.co", 
+            "ns3.bns.co", 
+            "ns4.bns.co"
+        ], 
+        "domain-name": "ggogle.co.nz", 
+        "fuzzer": "bitsquatting", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "119.47.114.163"
+        ], 
+        "dns-mx": [
+            "mx1.webhost.co.nz", 
+            "mx2.webhost.co.nz", 
+            "mx3.webhost.co.nz", 
+            "mx4.webhost.co.nz"
+        ], 
+        "dns-ns": [
+            "ns1.nameserver.net.nz", 
+            "ns2.nameserver.net.nz", 
+            "ns3.nameserver.net.nz"
+        ], 
+        "domain-name": "goggle.co.nz", 
+        "fuzzer": "bitsquatting", 
+        "geoip-country": "New Zealand", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "202.174.115.181"
+        ], 
+        "dns-mx": [
+            "mx1.securemx.biz", 
+            "mx2.securemx.biz"
+        ], 
+        "dns-ns": [
+            "ns1.digiweb.co.nz", 
+            "ns2.digiweb.co.nz", 
+            "ns3.digiweb.co.nz"
+        ], 
+        "domain-name": "g00gle.co.nz", 
+        "fuzzer": "homoglyph", 
+        "geoip-country": "New Zealand", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-ns": [
+            "ns1-08.azure-dns.com", 
+            "ns2-08.azure-dns.net", 
+            "ns3-08.azure-dns.org", 
+            "ns4-08.azure-dns.info"
+        ], 
+        "domain-name": "googie.co.nz", 
+        "fuzzer": "homoglyph"
+    }, 
+    {
+        "dns-a": [
+            "185.53.178.9"
+        ], 
+        "dns-ns": [
+            "ns1.parkingcrew.net", 
+            "ns2.parkingcrew.net"
+        ], 
+        "domain-name": "googole.co.nz", 
+        "fuzzer": "insertion", 
+        "geoip-country": "Germany", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-mx": [
+            "mx76.m2bp.com", 
+            "mx76.mb1p.com"
+        ], 
+        "dns-ns": [
+            "ns1.bodis.com", 
+            "ns2.bodis.com"
+        ], 
+        "domain-name": "googl.co.nz", 
+        "fuzzer": "omission", 
+        "mx-spy": true
+    }, 
+    {
+        "dns-a": [
+            "85.236.47.218"
+        ], 
+        "dns-ns": [
+            "ns1.day.biz", 
+            "ns2.day.biz"
+        ], 
+        "domain-name": "goole.co.nz", 
+        "fuzzer": "omission", 
+        "geoip-country": "Germany", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-ns": [
+            "ns1.googledomains.com", 
+            "ns2.googledomains.com", 
+            "ns3.googledomains.com", 
+            "ns4.googledomains.com"
+        ], 
+        "domain-name": "googe.co.nz", 
+        "fuzzer": "omission"
+    }, 
+    {
+        "dns-a": [
+            "103.6.213.112"
+        ], 
+        "dns-mx": [
+            "mail.gogle.co.nz"
+        ], 
+        "dns-ns": [
+            "ns1.createhosting.net.nz", 
+            "ns2.createhosting.net.nz", 
+            "ns3.createhosting.net.nz", 
+            "ns4.createhosting.net.nz"
+        ], 
+        "domain-name": "gogle.co.nz", 
+        "fuzzer": "omission", 
+        "geoip-country": "New Zealand", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "185.53.178.24"
+        ], 
+        "dns-ns": [
+            "ns1.parkingcrew.net", 
+            "ns2.parkingcrew.net"
+        ], 
+        "domain-name": "googgle.co.nz", 
+        "fuzzer": "repetition", 
+        "geoip-country": "Germany", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "72.52.4.122"
+        ], 
+        "dns-mx": [
+            "localhost"
+        ], 
+        "dns-ns": [
+            "ns1.sedoparking.com", 
+            "ns2.sedoparking.com"
+        ], 
+        "domain-name": "gooogle.co.nz", 
+        "fuzzer": "repetition", 
+        "geoip-country": "United States", 
+        "mx-spy": true, 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "185.53.178.7"
+        ], 
+        "dns-mx": [
+            "mail.h-email.net"
+        ], 
+        "dns-ns": [
+            "ns1.parkingcrew.net", 
+            "ns2.parkingcrew.net"
+        ], 
+        "domain-name": "googlw.co.nz", 
+        "fuzzer": "replacement", 
+        "geoip-country": "Germany", 
+        "mx-spy": true, 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "199.59.242.150"
+        ], 
+        "dns-mx": [
+            "mx76.m2bp.com", 
+            "mx76.mb1p.com"
+        ], 
+        "dns-ns": [
+            "ns1.bodis.com", 
+            "ns2.bodis.com"
+        ], 
+        "domain-name": "googlr.co.nz", 
+        "fuzzer": "replacement", 
+        "geoip-country": "United States", 
+        "mx-spy": true, 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "119.47.114.165"
+        ], 
+        "domain-name": "goog.le.co.nz", 
+        "fuzzer": "subdomain"
+    }, 
+    {
+        "dns-a": [
+            "199.59.242.150"
+        ], 
+        "dns-mx": [
+            "mx76.m2bp.com", 
+            "mx76.mb1p.com"
+        ], 
+        "dns-ns": [
+            "ns1.bodis.com", 
+            "ns2.bodis.com"
+        ], 
+        "domain-name": "gogole.co.nz", 
+        "fuzzer": "transposition", 
+        "geoip-country": "United States", 
+        "mx-spy": true, 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "37.48.65.136"
+        ], 
+        "dns-ns": [
+            "ns1.koaladns.com", 
+            "ns2.koaladns.com"
+        ], 
+        "domain-name": "goolge.co.nz", 
+        "fuzzer": "transposition", 
+        "geoip-country": "Netherlands", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "185.53.178.7"
+        ], 
+        "dns-mx": [
+            "mail.h-email.net"
+        ], 
+        "dns-ns": [
+            "ns1.parkingcrew.net", 
+            "ns2.parkingcrew.net"
+        ], 
+        "domain-name": "googel.co.nz", 
+        "fuzzer": "transposition", 
+        "geoip-country": "Germany", 
+        "mx-spy": true, 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "199.59.242.150"
+        ], 
+        "dns-mx": [
+            "mx76.m2bp.com", 
+            "mx76.mb1p.com"
+        ], 
+        "dns-ns": [
+            "ns1.bodis.com", 
+            "ns2.bodis.com"
+        ], 
+        "domain-name": "googleco.nz", 
+        "fuzzer": "various"
+    }
+]

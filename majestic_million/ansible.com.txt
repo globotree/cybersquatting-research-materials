@@ -1,0 +1,319 @@
+[
+    {
+        "dns-a": [
+            "104.24.16.59", 
+            "104.24.17.59"
+        ], 
+        "dns-aaaa": [
+            "2400:cb00:2048:1::6818:103b", 
+            "2400:cb00:2048:1::6818:113b"
+        ], 
+        "dns-mx": [
+            "mx1.redhat.com", 
+            "mx2.redhat.com"
+        ], 
+        "dns-ns": [
+            "andy.ns.cloudflare.com", 
+            "ruth.ns.cloudflare.com"
+        ], 
+        "domain-name": "ansible.com", 
+        "fuzzer": "original*", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 100
+    }, 
+    {
+        "dns-a": [
+            "104.18.32.156", 
+            "104.18.33.156"
+        ], 
+        "dns-aaaa": [
+            "2400:cb00:2048:1::6812:209c", 
+            "2400:cb00:2048:1::6812:219c"
+        ], 
+        "dns-ns": [
+            "ian.ns.cloudflare.com", 
+            "lola.ns.cloudflare.com"
+        ], 
+        "domain-name": "ansibled.com", 
+        "fuzzer": "addition", 
+        "geoip-country": "United States"
+    }, 
+    {
+        "dns-a": [
+            "52.86.22.136", 
+            "54.174.212.152"
+        ], 
+        "dns-ns": [
+            "ns1.namebrightdns.com", 
+            "ns2.namebrightdns.com"
+        ], 
+        "domain-name": "ansibles.com", 
+        "fuzzer": "addition", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "69.163.217.151"
+        ], 
+        "dns-mx": [
+            "aspmx.l.google.com"
+        ], 
+        "dns-ns": [
+            "ns1.dreamhost.com", 
+            "ns2.dreamhost.com", 
+            "ns3.dreamhost.com"
+        ], 
+        "domain-name": "ensible.com", 
+        "fuzzer": "bitsquatting", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "27.121.64.95"
+        ], 
+        "domain-name": "ancible.com", 
+        "fuzzer": "bitsquatting", 
+        "geoip-country": "Australia", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "122.155.167.45"
+        ], 
+        "dns-ns": [
+            "ns1.lnwshop.com", 
+            "ns2.lnwshop.com"
+        ], 
+        "domain-name": "ansable.com", 
+        "fuzzer": "bitsquatting", 
+        "geoip-country": "Thailand", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "64.98.145.30"
+        ], 
+        "dns-mx": [
+            "mx.hover.com.cust.hostedemail.com"
+        ], 
+        "dns-ns": [
+            "ns1.hover.com", 
+            "ns2.hover.com"
+        ], 
+        "domain-name": "ansyble.com", 
+        "fuzzer": "bitsquatting", 
+        "geoip-country": "Canada", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "195.20.15.160"
+        ], 
+        "dns-mx": [
+            "mx1.premium.jfg-networks.net", 
+            "mx2.premium.jfg-networks.net"
+        ], 
+        "dns-ns": [
+            "ns0.jfg-networks.net", 
+            "ns1.proceau.net"
+        ], 
+        "domain-name": "an-sible.com", 
+        "fuzzer": "hyphenation", 
+        "geoip-country": "France", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "23.21.74.117", 
+            "23.23.136.239", 
+            "23.23.209.130", 
+            "23.23.241.244", 
+            "54.225.152.117", 
+            "54.225.199.17", 
+            "54.243.175.62", 
+            "54.243.32.119"
+        ], 
+        "dns-mx": [
+            "alt1.aspmx.l.google.com", 
+            "alt2.aspmx.l.google.com", 
+            "aspmx.l.google.com", 
+            "aspmx2.googlemail.com", 
+            "aspmx3.googlemail.com"
+        ], 
+        "dns-ns": [
+            "dora.ns.cloudflare.com", 
+            "tim.ns.cloudflare.com"
+        ], 
+        "domain-name": "ansble.com", 
+        "fuzzer": "omission", 
+        "geoip-country": "United States"
+    }, 
+    {
+        "dns-a": [
+            "194.181.20.135"
+        ], 
+        "dns-mx": [
+            "ansibl.com"
+        ], 
+        "dns-ns": [
+            "ns5.webd.pl", 
+            "ns7.webd.pl"
+        ], 
+        "domain-name": "ansibl.com", 
+        "fuzzer": "omission", 
+        "geoip-country": "Poland", 
+        "mx-spy": true, 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "222.236.44.54"
+        ], 
+        "dns-ns": [
+            "ns.gabia.co.kr", 
+            "ns.gabia.net", 
+            "ns1.gabia.co.kr"
+        ], 
+        "domain-name": "anible.com", 
+        "fuzzer": "omission", 
+        "geoip-country": "Korea", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "35.225.172.248"
+        ], 
+        "dns-ns": [
+            "pdns11.domaincontrol.com", 
+            "pdns12.domaincontrol.com"
+        ], 
+        "domain-name": "anssible.com", 
+        "fuzzer": "repetition", 
+        "geoip-country": "United States"
+    }, 
+    {
+        "dns-a": [
+            "81.88.57.68"
+        ], 
+        "dns-mx": [
+            "mail-fr.securemail.pro"
+        ], 
+        "dns-ns": [
+            "ns1.amenworld.com", 
+            "ns2.amenworld.com"
+        ], 
+        "domain-name": "anzible.com", 
+        "fuzzer": "replacement", 
+        "geoip-country": "Italy", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-mx": [
+            "mx.yandex.net"
+        ], 
+        "dns-ns": [
+            "ns1.digitalocean.com", 
+            "ns2.digitalocean.com", 
+            "ns3.digitalocean.com"
+        ], 
+        "domain-name": "absible.com", 
+        "fuzzer": "replacement"
+    }, 
+    {
+        "dns-a": [
+            "207.244.67.214"
+        ], 
+        "dns-ns": [
+            "ns1.chookdns.com", 
+            "ns2.chookdns.com"
+        ], 
+        "domain-name": "andible.com", 
+        "fuzzer": "replacement", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "69.172.201.153"
+        ], 
+        "dns-ns": [
+            "ns1.uniregistrymarket.link", 
+            "ns2.uniregistrymarket.link"
+        ], 
+        "domain-name": "ansi.ble.com", 
+        "fuzzer": "subdomain", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "115.182.94.238"
+        ], 
+        "dns-mx": [
+            "lemail.le.com", 
+            "mail10.le.com", 
+            "mail3.le.com"
+        ], 
+        "domain-name": "ansib.le.com", 
+        "fuzzer": "subdomain"
+    }, 
+    {
+        "dns-a": [
+            "162.144.12.142"
+        ], 
+        "dns-mx": [
+            "mail.nasible.com"
+        ], 
+        "dns-ns": [
+            "ns6571.hostgator.com", 
+            "ns6572.hostgator.com"
+        ], 
+        "domain-name": "nasible.com", 
+        "fuzzer": "transposition"
+    }, 
+    {
+        "dns-ns": [
+            "ns-cloud-d1.googledomains.com", 
+            "ns-cloud-d2.googledomains.com", 
+            "ns-cloud-d3.googledomains.com", 
+            "ns-cloud-d4.googledomains.com"
+        ], 
+        "domain-name": "ansibel.com", 
+        "fuzzer": "transposition"
+    }, 
+    {
+        "dns-a": [
+            "45.79.217.66"
+        ], 
+        "dns-aaaa": [
+            "2600:3c02::f03c:91ff:fe55:7ce9"
+        ], 
+        "dns-mx": [
+            "mail.unsible.com"
+        ], 
+        "dns-ns": [
+            "ns1.stackframe.com", 
+            "ns2.stackframe.com"
+        ], 
+        "domain-name": "unsible.com", 
+        "fuzzer": "vowel-swap", 
+        "geoip-country": "United States"
+    }, 
+    {
+        "dns-a": [
+            "107.180.27.226"
+        ], 
+        "dns-mx": [
+            "onsible-com.mail.protection.outlook.com"
+        ], 
+        "dns-ns": [
+            "ns45.domaincontrol.com", 
+            "ns46.domaincontrol.com"
+        ], 
+        "domain-name": "onsible.com", 
+        "fuzzer": "vowel-swap", 
+        "geoip-country": "United States"
+    }
+]

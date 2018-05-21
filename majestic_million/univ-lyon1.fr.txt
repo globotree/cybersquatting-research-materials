@@ -1,0 +1,109 @@
+[
+    {
+        "dns-mx": [
+            "mxa.relay.renater.fr", 
+            "mxb.relay.renater.fr", 
+            "mxc.relay.renater.fr", 
+            "mxd.relay.renater.fr"
+        ], 
+        "dns-ns": [
+            "ccpntc3.in2p3.fr", 
+            "ccpnvx.in2p3.fr", 
+            "dns.univ-lyon1.fr", 
+            "dns2.univ-lyon1.fr"
+        ], 
+        "domain-name": "univ-lyon1.fr", 
+        "fuzzer": "original*"
+    }, 
+    {
+        "dns-mx": [
+            "mxa.relay.renater.fr", 
+            "mxb.relay.renater.fr", 
+            "mxc.relay.renater.fr", 
+            "mxd.relay.renater.fr"
+        ], 
+        "dns-ns": [
+            "antares.univ-lyon3.fr", 
+            "arcturus.univ-lyon3.fr", 
+            "diogene.univ-lyon2.fr"
+        ], 
+        "domain-name": "univ-lyon3.fr", 
+        "fuzzer": "bitsquatting"
+    }, 
+    {
+        "dns-a": [
+            "104.197.189.208"
+        ], 
+        "dns-mx": [
+            "inbound-smtp.us-west-2.amazonaws.com"
+        ], 
+        "dns-ns": [
+            "pns21.cloudns.net", 
+            "pns22.cloudns.net", 
+            "pns23.cloudns.net", 
+            "pns24.cloudns.net"
+        ], 
+        "domain-name": "univ-lyonq.fr", 
+        "fuzzer": "bitsquatting", 
+        "geoip-country": "United States"
+    }, 
+    {
+        "dns-a": [
+            "104.197.189.208"
+        ], 
+        "dns-mx": [
+            "inbound-smtp.us-west-2.amazonaws.com"
+        ], 
+        "dns-ns": [
+            "pns21.cloudns.net", 
+            "pns22.cloudns.net", 
+            "pns23.cloudns.net", 
+            "pns24.cloudns.net"
+        ], 
+        "domain-name": "umiv-lyon1.fr", 
+        "fuzzer": "homoglyph", 
+        "geoip-country": "United States"
+    }, 
+    {
+        "dns-a": [
+            "5.133.205.141"
+        ], 
+        "dns-mx": [
+            "mail.univlyon1.fr"
+        ], 
+        "dns-ns": [
+            "ns1.lws-hosting.biz", 
+            "ns2.lws-hosting.biz"
+        ], 
+        "domain-name": "univlyon1.fr", 
+        "fuzzer": "omission", 
+        "geoip-country": "Sweden"
+    }, 
+    {
+        "dns-a": [
+            "134.214.94.32"
+        ], 
+        "dns-mx": [
+            "univlyon-fr01b.mail.protection.outlook.com"
+        ], 
+        "dns-ns": [
+            "ns1.universite-lyon.fr", 
+            "ns2.universite-lyon.fr"
+        ], 
+        "domain-name": "univ-lyon.fr", 
+        "fuzzer": "omission", 
+        "geoip-country": "France"
+    }, 
+    {
+        "dns-mx": [
+            "mx.univ-lyon2.fr"
+        ], 
+        "dns-ns": [
+            "diogene.univ-lyon2.fr", 
+            "dns.univ-lyon1.fr", 
+            "laurel.univ-lyon2.fr"
+        ], 
+        "domain-name": "univ-lyon2.fr", 
+        "fuzzer": "replacement"
+    }
+]

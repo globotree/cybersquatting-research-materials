@@ -1,0 +1,141 @@
+[
+    {
+        "dns-a": [
+            "216.27.93.64"
+        ], 
+        "dns-ns": [
+            "ns1.bos.hostedsolutions.com", 
+            "ns1.clt.hostedsolutions.com", 
+            "ns1.ral.hostedsolutions.com"
+        ], 
+        "domain-name": "icptrack.com", 
+        "fuzzer": "original*", 
+        "geoip-country": "United States"
+    }, 
+    {
+        "dns-ns": [
+            "ns13.xincache.com", 
+            "ns14.xincache.com"
+        ], 
+        "domain-name": "isptrack.com", 
+        "fuzzer": "bitsquatting"
+    }, 
+    {
+        "dns-a": [
+            "107.161.23.204", 
+            "192.161.187.200", 
+            "209.141.38.71"
+        ], 
+        "dns-ns": [
+            "ns1.dnsowl.com", 
+            "ns2.dnsowl.com", 
+            "ns3.dnsowl.com"
+        ], 
+        "domain-name": "ictrack.com", 
+        "fuzzer": "omission", 
+        "geoip-country": "United States"
+    }, 
+    {
+        "dns-a": [
+            "50.63.202.29"
+        ], 
+        "dns-mx": [
+            "mailstore1.secureserver.net", 
+            "smtp.secureserver.net"
+        ], 
+        "dns-ns": [
+            "ns57.domaincontrol.com", 
+            "ns58.domaincontrol.com"
+        ], 
+        "domain-name": "cptrack.com", 
+        "fuzzer": "omission", 
+        "geoip-country": "United States"
+    }, 
+    {
+        "dns-a": [
+            "5.22.149.135"
+        ], 
+        "dns-ns": [
+            "ns1.monikerdns.net", 
+            "ns2.monikerdns.net", 
+            "ns3.monikerdns.net", 
+            "ns4.monikerdns.net"
+        ], 
+        "domain-name": "iptrack.com", 
+        "fuzzer": "omission", 
+        "geoip-country": "Germany"
+    }, 
+    {
+        "dns-a": [
+            "54.221.207.100"
+        ], 
+        "dns-ns": [
+            "ns3.domainmanager.com", 
+            "ns4.domainmanager.com"
+        ], 
+        "domain-name": "icotrack.com", 
+        "fuzzer": "replacement"
+    }, 
+    {
+        "dns-a": [
+            "85.13.214.242"
+        ], 
+        "dns-mx": [
+            "ALT1.ASPMX.L.GOOGLE.com", 
+            "ALT2.ASPMX.L.GOOGLE.com", 
+            "ALT3.ASPMX.L.GOOGLE.com", 
+            "ASPMX.L.GOOGLE.com"
+        ], 
+        "dns-ns": [
+            "ns0.phase8.net", 
+            "ns1.phase8.net", 
+            "ns2.phase8.net"
+        ], 
+        "domain-name": "idptrack.com", 
+        "fuzzer": "replacement", 
+        "geoip-country": "United Kingdom"
+    }, 
+    {
+        "dns-a": [
+            "185.53.179.6"
+        ], 
+        "dns-mx": [
+            "mail.h-email.net"
+        ], 
+        "dns-ns": [
+            "ns1.parkingcrew.net", 
+            "ns2.parkingcrew.net"
+        ], 
+        "domain-name": "ic.ptrack.com", 
+        "fuzzer": "subdomain", 
+        "geoip-country": "Germany", 
+        "mx-spy": true
+    }, 
+    {
+        "dns-a": [
+            "69.172.201.153"
+        ], 
+        "dns-ns": [
+            "ns1.uniregistrymarket.link", 
+            "ns2.uniregistrymarket.link"
+        ], 
+        "domain-name": "icpt.rack.com", 
+        "fuzzer": "subdomain", 
+        "geoip-country": "United States"
+    }, 
+    {
+        "dns-a": [
+            "65.175.101.170"
+        ], 
+        "dns-mx": [
+            "mail8.hostek.com"
+        ], 
+        "dns-ns": [
+            "ns5.hostek.com", 
+            "ns6.hostek.com"
+        ], 
+        "domain-name": "ciptrack.com", 
+        "fuzzer": "transposition", 
+        "geoip-country": "United States"
+    }
+]

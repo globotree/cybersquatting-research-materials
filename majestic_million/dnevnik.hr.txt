@@ -1,0 +1,35 @@
+[
+    {
+        "dns-a": [
+            "104.20.51.207", 
+            "104.20.52.207"
+        ], 
+        "dns-mx": [
+            "mxpool.de2.hostedoffice.ag"
+        ], 
+        "dns-ns": [
+            "carl.ns.cloudflare.com", 
+            "kate.ns.cloudflare.com"
+        ], 
+        "domain-name": "dnevnik.hr", 
+        "fuzzer": "original*", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 100
+    }, 
+    {
+        "dns-a": [
+            "185.62.75.249"
+        ], 
+        "dns-mx": [
+            "dnevni.hr"
+        ], 
+        "dns-ns": [
+            "ns1.mydataknox.com", 
+            "ns2.mydataknox.com"
+        ], 
+        "domain-name": "dnevni.hr", 
+        "fuzzer": "omission", 
+        "geoip-country": "Croatia", 
+        "ssdeep-score": 0
+    }
+]

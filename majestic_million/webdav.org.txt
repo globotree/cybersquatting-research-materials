@@ -1,0 +1,58 @@
+[
+    {
+        "dns-a": [
+            "140.211.166.111"
+        ], 
+        "dns-ns": [
+            "dns1.registrar-servers.com", 
+            "dns2.registrar-servers.com"
+        ], 
+        "domain-name": "webdav.org", 
+        "fuzzer": "original*", 
+        "geoip-country": "United States"
+    }, 
+    {
+        "dns-a": [
+            "50.63.202.30"
+        ], 
+        "dns-mx": [
+            "mailstore1.secureserver.net", 
+            "smtp.secureserver.net"
+        ], 
+        "dns-ns": [
+            "ns15.domaincontrol.com", 
+            "ns16.domaincontrol.com"
+        ], 
+        "domain-name": "webbav.org", 
+        "fuzzer": "homoglyph", 
+        "geoip-country": "United States"
+    }, 
+    {
+        "dns-a": [
+            "150.95.255.38"
+        ], 
+        "dns-ns": [
+            "dns1.onamae.com", 
+            "dns2.onamae.com"
+        ], 
+        "domain-name": "webda.org", 
+        "fuzzer": "omission", 
+        "geoip-country": "Japan"
+    }, 
+    {
+        "dns-a": [
+            "85.94.214.154"
+        ], 
+        "dns-mx": [
+            "mail-av.webadv.org", 
+            "smtp-avas.seeweb.it"
+        ], 
+        "dns-ns": [
+            "dns109.ovh.net", 
+            "ns109.ovh.net"
+        ], 
+        "domain-name": "webadv.org", 
+        "fuzzer": "transposition", 
+        "geoip-country": "Italy"
+    }
+]

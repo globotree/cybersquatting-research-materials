@@ -1,0 +1,246 @@
+[
+    {
+        "dns-mx": [
+            "mx03.rrz.uni-hamburg.de", 
+            "mx04.rrz.uni-hamburg.de", 
+            "mx05.rrz.uni-hamburg.de"
+        ], 
+        "dns-ns": [
+            "dns-3.dfn.de", 
+            "dns1.rrz.uni-hamburg.de", 
+            "dns2.rrz.uni-hamburg.de", 
+            "ns.rrz.uni-hamburg.de", 
+            "rzdspc1.informatik.uni-hamburg.de"
+        ], 
+        "domain-name": "uni-hamburg.de", 
+        "fuzzer": "original*"
+    }, 
+    {
+        "dns-a": [
+            "82.165.51.205"
+        ], 
+        "dns-mx": [
+            "dhmx01.web.de", 
+            "dhmx02.web.de"
+        ], 
+        "dns-ns": [
+            "ns53.web.de", 
+            "ns54.web.de"
+        ], 
+        "domain-name": "uli-hamburg.de", 
+        "fuzzer": "bitsquatting", 
+        "geoip-country": "Germany"
+    }, 
+    {
+        "dns-a": [
+            "80.237.132.106"
+        ], 
+        "dns-aaaa": [
+            "2a01:488:42:1000:50ed:846a:19:d2e6"
+        ], 
+        "dns-mx": [
+            "mx0.un-hamburg.de"
+        ], 
+        "dns-ns": [
+            "c1.wpns.hosteurope.de", 
+            "c1.wsns.hosteurope.de"
+        ], 
+        "domain-name": "un-hamburg.de", 
+        "fuzzer": "omission", 
+        "geoip-country": "Germany"
+    }, 
+    {
+        "dns-a": [
+            "185.53.178.6"
+        ], 
+        "dns-mx": [
+            "mail.h-email.net"
+        ], 
+        "dns-ns": [
+            "ns1.parkingcrew.net", 
+            "ns2.parkingcrew.net"
+        ], 
+        "domain-name": "uni-hamurg.de", 
+        "fuzzer": "omission", 
+        "geoip-country": "Germany", 
+        "mx-spy": true
+    }, 
+    {
+        "dns-a": [
+            "217.160.231.99"
+        ], 
+        "dns-mx": [
+            "mx00.schlund.de", 
+            "mx01.schlund.de"
+        ], 
+        "dns-ns": [
+            "ns5.schlund.de", 
+            "ns6.schlund.de"
+        ], 
+        "domain-name": "unihamburg.de", 
+        "fuzzer": "omission", 
+        "geoip-country": "Germany"
+    }, 
+    {
+        "dns-a": [
+            "54.72.9.51"
+        ], 
+        "dns-mx": [
+            "mail.h-email.net"
+        ], 
+        "dns-ns": [
+            "ns1.parkingcrew.net", 
+            "ns2.parkingcrew.net"
+        ], 
+        "domain-name": "uni-hmburg.de", 
+        "fuzzer": "omission", 
+        "geoip-country": "Ireland", 
+        "mx-spy": true
+    }, 
+    {
+        "dns-a": [
+            "185.53.179.7"
+        ], 
+        "dns-mx": [
+            "mail.h-email.net"
+        ], 
+        "dns-ns": [
+            "ns1.parkingcrew.net", 
+            "ns2.parkingcrew.net"
+        ], 
+        "domain-name": "uni-hambug.de", 
+        "fuzzer": "omission", 
+        "geoip-country": "Germany", 
+        "mx-spy": true
+    }, 
+    {
+        "dns-a": [
+            "185.53.178.8"
+        ], 
+        "dns-mx": [
+            "mail.h-email.net"
+        ], 
+        "dns-ns": [
+            "ns1.parkingcrew.net", 
+            "ns2.parkingcrew.net"
+        ], 
+        "domain-name": "uni-hambrg.de", 
+        "fuzzer": "omission", 
+        "geoip-country": "Germany", 
+        "mx-spy": true
+    }, 
+    {
+        "dns-mx": [
+            "norbertgresch-de.mail.eo.outlook.com"
+        ], 
+        "dns-ns": [
+            "ns1.hans.hosteurope.de", 
+            "ns2.hans.hosteurope.de"
+        ], 
+        "domain-name": "uno-hamburg.de", 
+        "fuzzer": "replacement"
+    }, 
+    {
+        "dns-ns": [
+            "dns-1.dfn.de", 
+            "dns-2.dfn.de", 
+            "dns-3.dfn.de"
+        ], 
+        "domain-name": "uni-hambirg.de", 
+        "fuzzer": "replacement"
+    }, 
+    {
+        "dns-a": [
+            "46.4.98.121"
+        ], 
+        "dns-mx": [
+            "mail.hosting.exoneon.de"
+        ], 
+        "dns-ns": [
+            "nsa0.schlundtech.de", 
+            "nsb0.schlundtech.de", 
+            "nsc0.schlundtech.de", 
+            "nsd0.schlundtech.de"
+        ], 
+        "domain-name": "uni-bamburg.de", 
+        "fuzzer": "replacement"
+    }, 
+    {
+        "dns-ns": [
+            "dns-1.dfn.de", 
+            "dns-2.dfn.de", 
+            "dns-3.dfn.de"
+        ], 
+        "domain-name": "unu-hamburg.de", 
+        "fuzzer": "replacement"
+    }, 
+    {
+        "dns-a": [
+            "72.52.4.90"
+        ], 
+        "dns-mx": [
+            "mailgw.ns36.de"
+        ], 
+        "dns-ns": [
+            "a.ns36.de", 
+            "b.ns36.de"
+        ], 
+        "domain-name": "uni-ha.mburg.de", 
+        "fuzzer": "subdomain", 
+        "geoip-country": "United States", 
+        "mx-spy": true
+    }, 
+    {
+        "dns-a": [
+            "85.22.48.118"
+        ], 
+        "domain-name": "uni-ham.burg.de", 
+        "fuzzer": "subdomain", 
+        "geoip-country": "Germany"
+    }, 
+    {
+        "dns-a": [
+            "37.17.224.131"
+        ], 
+        "domain-name": "uni-hamb.urg.de", 
+        "fuzzer": "subdomain", 
+        "geoip-country": "Germany"
+    }, 
+    {
+        "dns-a": [
+            "88.99.192.80"
+        ], 
+        "dns-ns": [
+            "ns1.kv.de", 
+            "ns2.kv.de"
+        ], 
+        "domain-name": "uni-hambur.g.de", 
+        "fuzzer": "subdomain", 
+        "geoip-country": "Germany"
+    }, 
+    {
+        "dns-ns": [
+            "dns-1.dfn.de", 
+            "dns-2.dfn.de", 
+            "dns-3.dfn.de"
+        ], 
+        "domain-name": "uni-humburg.de", 
+        "fuzzer": "vowel-swap"
+    }, 
+    {
+        "dns-a": [
+            "185.53.179.6"
+        ], 
+        "dns-mx": [
+            "mail.h-email.net"
+        ], 
+        "dns-ns": [
+            "ns1.parkingcrew.net", 
+            "ns2.parkingcrew.net"
+        ], 
+        "domain-name": "uni-homburg.de", 
+        "fuzzer": "vowel-swap", 
+        "geoip-country": "Germany", 
+        "mx-spy": true
+    }
+]

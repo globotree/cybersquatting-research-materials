@@ -1,0 +1,62 @@
+[
+    {
+        "dns-mx": [
+            "mail1.ec-lyon.fr", 
+            "mail2.ec-lyon.fr", 
+            "mail3.ec-lyon.fr"
+        ], 
+        "dns-ns": [
+            "cri03.cri.ec-lyon.fr", 
+            "ecl05.servers.ec-lyon.fr", 
+            "ns1.cnrs.fr"
+        ], 
+        "domain-name": "ec-lyon.fr", 
+        "fuzzer": "original*"
+    }, 
+    {
+        "dns-a": [
+            "185.75.143.25"
+        ], 
+        "dns-mx": [
+            "mxin1.ac-lyon.fr", 
+            "mxin2.ac-lyon.fr"
+        ], 
+        "dns-ns": [
+            "cianame.ac-clermont.fr", 
+            "xns.ac-lyon.fr"
+        ], 
+        "domain-name": "ac-lyon.fr", 
+        "fuzzer": "bitsquatting", 
+        "geoip-country": "France"
+    }, 
+    {
+        "dns-a": [
+            "159.100.131.27"
+        ], 
+        "dns-mx": [
+            "mail.mc-lyon.fr"
+        ], 
+        "dns-ns": [
+            "dns2.french-connexion.com", 
+            "dns50.domaine.fr"
+        ], 
+        "domain-name": "mc-lyon.fr", 
+        "fuzzer": "bitsquatting", 
+        "geoip-country": "United Kingdom"
+    }, 
+    {
+        "dns-a": [
+            "213.186.33.5"
+        ], 
+        "dns-mx": [
+            "eclyon-fr.mail.protection.outlook.com"
+        ], 
+        "dns-ns": [
+            "dns105.ovh.net", 
+            "ns105.ovh.net"
+        ], 
+        "domain-name": "eclyon.fr", 
+        "fuzzer": "omission", 
+        "geoip-country": "France"
+    }
+]

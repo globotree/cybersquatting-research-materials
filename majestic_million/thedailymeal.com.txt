@@ -1,0 +1,154 @@
+[
+    {
+        "dns-a": [
+            "23.185.0.2"
+        ], 
+        "dns-aaaa": [
+            "2620:12a:8000::2"
+        ], 
+        "dns-mx": [
+            "thedailymeal-com.mail.protection.outlook.com"
+        ], 
+        "dns-ns": [
+            "ns10.dnsmadeeasy.com", 
+            "ns11.dnsmadeeasy.com", 
+            "ns12.dnsmadeeasy.com", 
+            "ns13.dnsmadeeasy.com", 
+            "ns14.dnsmadeeasy.com", 
+            "ns15.dnsmadeeasy.com"
+        ], 
+        "domain-name": "thedailymeal.com", 
+        "fuzzer": "original*", 
+        "ssdeep-score": 100
+    }, 
+    {
+        "dns-a": [
+            "198.105.244.111", 
+            "198.105.254.111"
+        ], 
+        "dns-aaaa": [
+            "2620:118:7002::1111", 
+            "2620:118:7008::1111"
+        ], 
+        "dns-ns": [
+            "a1-144.akam.net", 
+            "a10-65.akam.net", 
+            "a13-66.akam.net", 
+            "a22-67.akam.net", 
+            "a6-64.akam.net", 
+            "a9-65.akam.net"
+        ], 
+        "domain-name": "thedailymeals.com", 
+        "fuzzer": "addition", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "165.227.71.160"
+        ], 
+        "dns-ns": [
+            "ns1fkl.name.com", 
+            "ns2dky.name.com", 
+            "ns3fgh.name.com", 
+            "ns4cfn.name.com"
+        ], 
+        "domain-name": "thedailymealz.com", 
+        "fuzzer": "addition", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 49
+    }, 
+    {
+        "dns-a": [
+            "216.40.47.17"
+        ], 
+        "dns-mx": [
+            "mx.thedailymean.com"
+        ], 
+        "dns-ns": [
+            "ns1.mdnsservice.com", 
+            "ns2.mdnsservice.com", 
+            "ns3.mdnsservice.com"
+        ], 
+        "domain-name": "thedailymean.com", 
+        "fuzzer": "bitsquatting", 
+        "geoip-country": "Canada", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "192.0.78.24", 
+            "192.0.78.25"
+        ], 
+        "dns-ns": [
+            "ns1.wordpress.com", 
+            "ns2.wordpress.com", 
+            "ns3.wordpress.com"
+        ], 
+        "domain-name": "thedaily-meal.com", 
+        "fuzzer": "hyphenation", 
+        "geoip-country": "United States"
+    }, 
+    {
+        "dns-a": [
+            "23.229.189.36"
+        ], 
+        "dns-mx": [
+            "mailstore1.secureserver.net", 
+            "smtp.secureserver.net"
+        ], 
+        "dns-ns": [
+            "ns11.domaincontrol.com", 
+            "ns12.domaincontrol.com"
+        ], 
+        "domain-name": "thedailymel.com", 
+        "fuzzer": "omission", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "104.200.22.130", 
+            "104.200.23.95"
+        ], 
+        "dns-mx": [
+            "mail.mxproc.com"
+        ], 
+        "dns-ns": [
+            "ns1.mytrafficmanagement.com", 
+            "ns2.mytrafficmanagement.com"
+        ], 
+        "domain-name": "thedailymmeal.com", 
+        "fuzzer": "repetition", 
+        "geoip-country": "United States", 
+        "mx-spy": true, 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "69.172.201.153"
+        ], 
+        "domain-name": "the.dailymeal.com", 
+        "fuzzer": "subdomain", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "192.64.147.213"
+        ], 
+        "domain-name": "thedaily.meal.com", 
+        "fuzzer": "subdomain", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "75.126.100.24"
+        ], 
+        "domain-name": "thedailym.eal.com", 
+        "fuzzer": "subdomain", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 0
+    }
+]

@@ -1,0 +1,182 @@
+[
+    {
+        "dns-a": [
+            "158.108.216.5"
+        ], 
+        "dns-aaaa": [
+            "2406:3100:1010:100::5"
+        ], 
+        "dns-mx": [
+            "antispam2.ku.ac.th", 
+            "mailgw.ku.ac.th"
+        ], 
+        "dns-ns": [
+            "ns.ku.ac.th", 
+            "ns2.ku.ac.th"
+        ], 
+        "domain-name": "ku.ac.th", 
+        "fuzzer": "original*", 
+        "geoip-country": "Thailand", 
+        "mx-spy": true, 
+        "ssdeep-score": 100
+    }, 
+    {
+        "dns-mx": [
+            "alt1.aspmx.l.google.com", 
+            "alt2.aspmx.l.google.com", 
+            "alt3.aspmx.l.google.com", 
+            "alt4.aspmx.l.google.com", 
+            "aspmx.l.google.com"
+        ], 
+        "dns-ns": [
+            "ns1.netdesignhost.com", 
+            "ns2.netdesignhost.com"
+        ], 
+        "domain-name": "kus.ac.th", 
+        "fuzzer": "addition"
+    }, 
+    {
+        "dns-a": [
+            "202.29.213.229"
+        ], 
+        "dns-mx": [
+            "mail.kut.ac.th"
+        ], 
+        "dns-ns": [
+            "ns1.kut.ac.th"
+        ], 
+        "domain-name": "kut.ac.th", 
+        "fuzzer": "addition"
+    }, 
+    {
+        "dns-a": [
+            "27.254.144.221"
+        ], 
+        "dns-mx": [
+            "mail.kt.ac.th"
+        ], 
+        "dns-ns": [
+            "ns1.thaischool.in.th", 
+            "ns2.thaischool.in.th"
+        ], 
+        "domain-name": "kt.ac.th", 
+        "fuzzer": "bitsquatting"
+    }, 
+    {
+        "dns-a": [
+            "110.164.70.66"
+        ], 
+        "dns-mx": [
+            "ALT1.ASPMX.L.GOOGLE.COM", 
+            "ALT2.ASPMX.L.GOOGLE.COM", 
+            "ALT3.ASPMX.L.GOOGLE.COM", 
+            "ALT4.ASPMX.L.GOOGLE.COM", 
+            "ASPMX.L.GOOGLE.COM"
+        ], 
+        "dns-ns": [
+            "ns1.dotarai.com", 
+            "ns2.dotarai.com"
+        ], 
+        "domain-name": "kw.ac.th", 
+        "fuzzer": "bitsquatting", 
+        "geoip-country": "Thailand", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "202.12.97.4"
+        ], 
+        "domain-name": "kku.ac.th", 
+        "fuzzer": "repetition"
+    }, 
+    {
+        "dns-a": [
+            "119.46.246.102"
+        ], 
+        "dns-mx": [
+            "ALT1.ASPMX.L.GOOGLE.COM", 
+            "ALT2.ASPMX.L.GOOGLE.COM", 
+            "ASPMX.L.GOOGLE.COM", 
+            "ASPMX2.GOOGLEMAIL.COM", 
+            "ASPMX3.GOOGLEMAIL.COM", 
+            "ASPMX4.GOOGLEMAIL.COM", 
+            "ASPMX5.GOOGLEMAIL.COM"
+        ], 
+        "dns-ns": [
+            "ns1.krirk.ac.th"
+        ], 
+        "domain-name": "ki.ac.th", 
+        "fuzzer": "replacement", 
+        "geoip-country": "Thailand", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "203.151.21.125"
+        ], 
+        "dns-mx": [
+            "alt1.aspmx.l.google.com", 
+            "alt2.aspmx.l.google.com", 
+            "aspmx.l.google.com", 
+            "aspmx2.googlemail.com", 
+            "aspmx3.googlemail.com", 
+            "aspmx4.googlemail.com", 
+            "aspmx5.googlemail.com"
+        ], 
+        "dns-ns": [
+            "ns.porar.com", 
+            "ns2.porar.com"
+        ], 
+        "domain-name": "mu.ac.th", 
+        "fuzzer": "replacement", 
+        "geoip-country": "Thailand"
+    }, 
+    {
+        "dns-a": [
+            "27.254.62.212"
+        ], 
+        "dns-mx": [
+            "ALT1.ASPMX.L.GOOGLE.COM", 
+            "ALT2.ASPMX.L.GOOGLE.COM", 
+            "ALT3.ASPMX.L.GOOGLE.COM", 
+            "ALT4.ASPMX.L.GOOGLE.COM", 
+            "ASPMX.L.GOOGLE.COM"
+        ], 
+        "dns-ns": [
+            "cs24.hostingberry.com", 
+            "cs24.hostneverdie.com"
+        ], 
+        "domain-name": "lu.ac.th", 
+        "fuzzer": "replacement", 
+        "geoip-country": "Thailand"
+    }, 
+    {
+        "dns-a": [
+            "27.254.144.251"
+        ], 
+        "dns-mx": [
+            "ALT1.ASPMX.L.GOOGLE.COM", 
+            "ALT2.ASPMX.L.GOOGLE.COM", 
+            "ALT3.ASPMX.L.GOOGLE.COM", 
+            "ALT4.ASPMX.L.GOOGLE.COM", 
+            "ASPMX.L.GOOGLE.COM"
+        ], 
+        "dns-ns": [
+            "ns1.thaischool1.in.th", 
+            "ns2.thaischool1.in.th"
+        ], 
+        "domain-name": "ky.ac.th", 
+        "fuzzer": "replacement"
+    }, 
+    {
+        "dns-a": [
+            "158.108.216.5"
+        ], 
+        "dns-ns": [
+            "ns.ku.ac.th", 
+            "ns2.ku.ac.th"
+        ], 
+        "domain-name": "ku.th", 
+        "fuzzer": "various"
+    }
+]

@@ -1,0 +1,107 @@
+[
+    {
+        "dns-mx": [
+            "btr0x4.rz.uni-bayreuth.de", 
+            "btr0x5.rz.uni-bayreuth.de"
+        ], 
+        "dns-ns": [
+            "btr0x4.rz.uni-bayreuth.de", 
+            "btr0x5.rz.uni-bayreuth.de", 
+            "deneb.dfn.de", 
+            "dns-3.dfn.de"
+        ], 
+        "domain-name": "uni-bayreuth.de", 
+        "fuzzer": "original*"
+    }, 
+    {
+        "dns-a": [
+            "185.53.178.7"
+        ], 
+        "dns-mx": [
+            "mail.h-email.net"
+        ], 
+        "dns-ns": [
+            "ns1.parkingcrew.net", 
+            "ns2.parkingcrew.net"
+        ], 
+        "domain-name": "uni-beyreuth.de", 
+        "fuzzer": "bitsquatting", 
+        "geoip-country": "Germany", 
+        "mx-spy": true
+    }, 
+    {
+        "dns-a": [
+            "185.53.178.8"
+        ], 
+        "dns-mx": [
+            "mail.h-email.net"
+        ], 
+        "dns-ns": [
+            "ns1.parkingcrew.net", 
+            "ns2.parkingcrew.net"
+        ], 
+        "domain-name": "uni-bayreut.de", 
+        "fuzzer": "omission", 
+        "geoip-country": "Germany"
+    }, 
+    {
+        "dns-a": [
+            "185.53.179.6"
+        ], 
+        "dns-mx": [
+            "mail.h-email.net"
+        ], 
+        "dns-ns": [
+            "ns1.parkingcrew.net", 
+            "ns2.parkingcrew.net"
+        ], 
+        "domain-name": "uni-bayeuth.de", 
+        "fuzzer": "omission", 
+        "geoip-country": "Germany"
+    }, 
+    {
+        "dns-a": [
+            "185.53.178.7"
+        ], 
+        "dns-mx": [
+            "mail.h-email.net"
+        ], 
+        "dns-ns": [
+            "ns1.parkingcrew.net", 
+            "ns2.parkingcrew.net"
+        ], 
+        "domain-name": "uni-bayreth.de", 
+        "fuzzer": "omission", 
+        "geoip-country": "Germany", 
+        "mx-spy": true
+    }, 
+    {
+        "dns-a": [
+            "51.254.41.57"
+        ], 
+        "dns-ns": [
+            "ns1.domaindiscount24.net", 
+            "ns2.domaindiscount24.net", 
+            "ns3.domaindiscount24.net"
+        ], 
+        "domain-name": "unibayreuth.de", 
+        "fuzzer": "omission", 
+        "geoip-country": "France"
+    }, 
+    {
+        "dns-a": [
+            "62.26.112.82"
+        ], 
+        "domain-name": "uni-bayr.euth.de", 
+        "fuzzer": "subdomain", 
+        "geoip-country": "Germany"
+    }, 
+    {
+        "dns-a": [
+            "95.130.17.36"
+        ], 
+        "domain-name": "uni-bayreu.th.de", 
+        "fuzzer": "subdomain", 
+        "geoip-country": "Germany"
+    }
+]

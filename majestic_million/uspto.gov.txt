@@ -1,0 +1,37 @@
+[
+    {
+        "dns-a": [
+            "151.207.128.53", 
+            "151.207.240.133"
+        ], 
+        "dns-aaaa": [
+            "2610:20:5004:1604::133", 
+            "2610:20:500a:1604::31"
+        ], 
+        "dns-mx": [
+            "uspto-gov.mail.protection.outlook.com"
+        ], 
+        "dns-ns": [
+            "lbboy-dns1.uspto.gov", 
+            "lbprod-dns1.uspto.gov"
+        ], 
+        "domain-name": "uspto.gov", 
+        "fuzzer": "original*", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 100
+    }, 
+    {
+        "dns-a": [
+            "103.224.212.222"
+        ], 
+        "dns-mx": [
+            "park-mx.above.com"
+        ], 
+        "dns-ns": [
+            "ns1.above.com", 
+            "ns2.above.com"
+        ], 
+        "domain-name": "uspto-gov.com", 
+        "fuzzer": "various"
+    }
+]

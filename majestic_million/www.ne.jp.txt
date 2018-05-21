@@ -1,0 +1,63 @@
+[
+    {
+        "dns-a": [
+            "202.224.39.35"
+        ], 
+        "dns-mx": [
+            "vdmx1.asahi-net.or.jp", 
+            "vdmx2.asahi-net.or.jp"
+        ], 
+        "dns-ns": [
+            "skyhawk.asahi-net.or.jp", 
+            "tomcat.asahi-net.or.jp"
+        ], 
+        "domain-name": "www.ne.jp", 
+        "fuzzer": "original*", 
+        "geoip-country": "Japan", 
+        "ssdeep-score": 100
+    }, 
+    {
+        "dns-a": [
+            "219.94.163.23"
+        ], 
+        "dns-mx": [
+            "wws.ne.jp"
+        ], 
+        "dns-ns": [
+            "ns1.dns.ne.jp", 
+            "ns2.dns.ne.jp"
+        ], 
+        "domain-name": "wws.ne.jp", 
+        "fuzzer": "bitsquatting", 
+        "geoip-country": "Japan"
+    }, 
+    {
+        "dns-a": [
+            "180.235.239.125"
+        ], 
+        "dns-mx": [
+            "vlmx20.secure.ne.jp", 
+            "vlmx21.secure.ne.jp", 
+            "vlmx22.secure.ne.jp"
+        ], 
+        "dns-ns": [
+            "ns4.cpi.ad.jp", 
+            "ns5.cpi.ad.jp"
+        ], 
+        "domain-name": "ww2.ne.jp", 
+        "fuzzer": "replacement", 
+        "geoip-country": "Japan"
+    }, 
+    {
+        "dns-a": [
+            "150.95.255.38"
+        ], 
+        "dns-ns": [
+            "dns1.onamae.com", 
+            "dns2.onamae.com"
+        ], 
+        "domain-name": "www.jp", 
+        "fuzzer": "various", 
+        "geoip-country": "Japan"
+    }
+]

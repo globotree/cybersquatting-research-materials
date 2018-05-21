@@ -1,0 +1,23 @@
+[
+    {
+        "dns-ns": [
+            "ns1.sina.com.cn", 
+            "ns2.sina.com.cn", 
+            "ns3.sina.com.cn"
+        ], 
+        "domain-name": "sinaimg.cn", 
+        "fuzzer": "original*"
+    }, 
+    {
+        "dns-a": [
+            "103.232.215.129"
+        ], 
+        "dns-mx": [
+            "mail.skrimple.com"
+        ], 
+        "domain-name": "sinaing.cn", 
+        "fuzzer": "homoglyph", 
+        "geoip-country": "China", 
+        "mx-spy": true
+    }
+]

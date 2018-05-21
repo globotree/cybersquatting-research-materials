@@ -1,0 +1,119 @@
+[
+    {
+        "dns-ns": [
+            "a-dns.pl", 
+            "b-dns.pl", 
+            "e-dns.pl", 
+            "f-dns.pl", 
+            "i-dns.pl"
+        ], 
+        "domain-name": "jgora.pl", 
+        "fuzzer": "original*"
+    }, 
+    {
+        "dns-a": [
+            "79.96.51.4"
+        ], 
+        "dns-mx": [
+            "ALT1.ASPMX.L.GOOGLE.COM", 
+            "ALT2.ASPMX.L.GOOGLE.COM", 
+            "ASPMX.L.GOOGLE.COM", 
+            "ASPMX2.GOOGLEMAIL.COM"
+        ], 
+        "dns-ns": [
+            "dns.home.pl", 
+            "dns2.home.pl", 
+            "dns3.home.pl"
+        ], 
+        "domain-name": "kgora.pl", 
+        "fuzzer": "bitsquatting", 
+        "geoip-country": "Poland"
+    }, 
+    {
+        "dns-ns": [
+            "a-dns.pl", 
+            "b-dns.pl", 
+            "e-dns.pl", 
+            "f-dns.pl", 
+            "h-dns.pl"
+        ], 
+        "domain-name": "zgora.pl", 
+        "fuzzer": "bitsquatting"
+    }, 
+    {
+        "dns-a": [
+            "212.91.7.33"
+        ], 
+        "dns-ns": [
+            "ns1.aftermarket.pl", 
+            "ns2.aftermarket.pl"
+        ], 
+        "domain-name": "xn--jgra-rqa.pl", 
+        "fuzzer": "homoglyph", 
+        "geoip-country": "Poland"
+    }, 
+    {
+        "dns-a": [
+            "94.23.50.6"
+        ], 
+        "dns-mx": [
+            "poczta.dip.pl"
+        ], 
+        "dns-ns": [
+            "dns110.ovh.net", 
+            "ns110.ovh.net"
+        ], 
+        "domain-name": "gora.pl", 
+        "fuzzer": "omission", 
+        "geoip-country": "France"
+    }, 
+    {
+        "dns-a": [
+            "199.59.242.150"
+        ], 
+        "dns-mx": [
+            "mx76.m2bp.com", 
+            "mx76.mb1p.com"
+        ], 
+        "dns-ns": [
+            "ns1.bodis.com", 
+            "ns2.bodis.com"
+        ], 
+        "domain-name": "jgra.pl", 
+        "fuzzer": "omission", 
+        "geoip-country": "United States", 
+        "mx-spy": true
+    }, 
+    {
+        "dns-a": [
+            "85.128.128.99"
+        ], 
+        "dns-mx": [
+            "jora.pl"
+        ], 
+        "dns-ns": [
+            "ns1.nazwa.pl", 
+            "ns2.nazwa.pl", 
+            "ns3.nazwa.pl"
+        ], 
+        "domain-name": "jora.pl", 
+        "fuzzer": "omission", 
+        "geoip-country": "Poland"
+    }, 
+    {
+        "dns-a": [
+            "85.128.135.57"
+        ], 
+        "dns-mx": [
+            "igora.pl"
+        ], 
+        "dns-ns": [
+            "ns1.nazwa.pl", 
+            "ns2.nazwa.pl", 
+            "ns3.nazwa.pl"
+        ], 
+        "domain-name": "igora.pl", 
+        "fuzzer": "replacement", 
+        "geoip-country": "Poland"
+    }
+]

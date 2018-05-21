@@ -1,0 +1,188 @@
+[
+    {
+        "dns-a": [
+            "52.84.163.104", 
+            "52.84.163.128", 
+            "52.84.163.13", 
+            "52.84.163.155", 
+            "52.84.163.198", 
+            "52.84.163.35", 
+            "52.84.163.52", 
+            "52.84.163.73"
+        ], 
+        "dns-ns": [
+            "ns-1518.awsdns-61.org", 
+            "ns-2023.awsdns-60.co.uk", 
+            "ns-277.awsdns-34.com", 
+            "ns-813.awsdns-37.net"
+        ], 
+        "domain-name": "seesaa.net", 
+        "fuzzer": "original*", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 100
+    }, 
+    {
+        "dns-a": [
+            "98.124.245.24"
+        ], 
+        "dns-mx": [
+            "mail.fabulous.com"
+        ], 
+        "dns-ns": [
+            "ns1.fabulous.com", 
+            "ns2.fabulous.com"
+        ], 
+        "domain-name": "seasaa.net", 
+        "fuzzer": "bitsquatting", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-ns": [
+            "ns2.hexun.com", 
+            "ns3.hexun.com"
+        ], 
+        "domain-name": "seecaa.net", 
+        "fuzzer": "bitsquatting"
+    }, 
+    {
+        "dns-a": [
+            "184.168.221.104"
+        ], 
+        "dns-ns": [
+            "ns1.afternic.com", 
+            "ns2.afternic.com"
+        ], 
+        "domain-name": "seesea.net", 
+        "fuzzer": "bitsquatting", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-ns": [
+            "ns1.dnsdun.com", 
+            "ns1.dnsdun.net"
+        ], 
+        "domain-name": "seesaq.net", 
+        "fuzzer": "bitsquatting"
+    }, 
+    {
+        "dns-a": [
+            "199.59.242.150"
+        ], 
+        "dns-mx": [
+            "mx76.m2bp.com", 
+            "mx76.mb1p.com"
+        ], 
+        "dns-ns": [
+            "ns1.bodis.com", 
+            "ns2.bodis.com"
+        ], 
+        "domain-name": "seeesaa.net", 
+        "fuzzer": "insertion", 
+        "geoip-country": "United States", 
+        "mx-spy": true, 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-mx": [
+            "inbound-smtp.sesa.net", 
+            "mailgate1.europe.sesa.de", 
+            "mx.colt.net"
+        ], 
+        "dns-ns": [
+            "ns0.de.colt.net", 
+            "ns8.colt.net"
+        ], 
+        "domain-name": "sesa.net", 
+        "fuzzer": "omission"
+    }, 
+    {
+        "dns-a": [
+            "192.64.147.196"
+        ], 
+        "dns-ns": [
+            "ns1.voodoo.com", 
+            "ns2.voodoo.com"
+        ], 
+        "domain-name": "seesa.net", 
+        "fuzzer": "omission", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "74.208.236.86"
+        ], 
+        "dns-mx": [
+            "mx00.1and1.com", 
+            "mx01.1and1.com"
+        ], 
+        "dns-ns": [
+            "ns1081.ui-dns.biz", 
+            "ns1081.ui-dns.com", 
+            "ns1081.ui-dns.de", 
+            "ns1081.ui-dns.org"
+        ], 
+        "domain-name": "eesaa.net", 
+        "fuzzer": "omission", 
+        "geoip-country": "United States"
+    }, 
+    {
+        "dns-a": [
+            "222.231.2.28"
+        ], 
+        "dns-mx": [
+            "mail.nskorea.com"
+        ], 
+        "dns-ns": [
+            "ns.nskorea.com", 
+            "ns2.nskorea.com", 
+            "ns3.nskorea.com"
+        ], 
+        "domain-name": "seesay.net", 
+        "fuzzer": "replacement", 
+        "geoip-country": "Korea"
+    }, 
+    {
+        "dns-a": [
+            "213.133.106.186"
+        ], 
+        "dns-mx": [
+            "mail.seeyaa.net"
+        ], 
+        "dns-ns": [
+            "ns1.first-ns.de", 
+            "robotns2.second-ns.de", 
+            "robotns3.second-ns.com"
+        ], 
+        "domain-name": "seeyaa.net", 
+        "fuzzer": "replacement"
+    }, 
+    {
+        "dns-a": [
+            "170.178.178.38"
+        ], 
+        "domain-name": "seesaw.net", 
+        "fuzzer": "replacement", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "72.52.4.122"
+        ], 
+        "dns-mx": [
+            "localhost"
+        ], 
+        "dns-ns": [
+            "ns1.sedoparking.com", 
+            "ns2.sedoparking.com"
+        ], 
+        "domain-name": "sees.aa.net", 
+        "fuzzer": "subdomain", 
+        "geoip-country": "United States", 
+        "mx-spy": true, 
+        "ssdeep-score": 0
+    }
+]

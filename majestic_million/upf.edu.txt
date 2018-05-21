@@ -1,0 +1,112 @@
+[
+    {
+        "dns-a": [
+            "84.89.128.15"
+        ], 
+        "dns-mx": [
+            "ALT1.ASPMX.L.GOOGLE.COM", 
+            "ALT2.ASPMX.L.GOOGLE.COM", 
+            "ASPMX.L.GOOGLE.COM", 
+            "ASPMX2.GOOGLEMAIL.COM", 
+            "ASPMX3.GOOGLEMAIL.COM"
+        ], 
+        "dns-ns": [
+            "ns1.upf.edu", 
+            "ns2.upf.edu"
+        ], 
+        "domain-name": "upf.edu", 
+        "fuzzer": "original*", 
+        "geoip-country": "Spain", 
+        "ssdeep-score": 83
+    }, 
+    {
+        "dns-a": [
+            "190.104.24.102"
+        ], 
+        "dns-mx": [
+            "alt1.aspmx.l.google.com", 
+            "alt2.aspmx.l.google.com", 
+            "alt3.aspmx.l.google.com", 
+            "alt4.aspmx.l.google.com", 
+            "aspmx.l.google.com"
+        ], 
+        "dns-ns": [
+            "ns.upb.edu", 
+            "ns2.upb.edu"
+        ], 
+        "domain-name": "upb.edu", 
+        "fuzzer": "bitsquatting", 
+        "geoip-country": "Bolivia", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "128.227.9.98"
+        ], 
+        "dns-mx": [
+            "virtual-smtp-prod01.osg.ufl.edu"
+        ], 
+        "dns-ns": [
+            "ns.name.ufl.edu", 
+            "rns.name.ufl.edu"
+        ], 
+        "domain-name": "uf.edu", 
+        "fuzzer": "omission", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "64.251.254.18"
+        ], 
+        "dns-mx": [
+            "mx1.up.iphmx.com", 
+            "mx2.up.iphmx.com"
+        ], 
+        "dns-ns": [
+            "kate.ns.cloudflare.com", 
+            "lee.ns.cloudflare.com"
+        ], 
+        "domain-name": "up.edu", 
+        "fuzzer": "omission", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-mx": [
+            "ALT1.ASPMX.L.GOOGLE.COM", 
+            "ALT2.ASPMX.L.GOOGLE.COM", 
+            "ASPMX.L.GOOGLE.COM", 
+            "ASPMX2.GOOGLEMAIL.COM", 
+            "ASPMX3.GOOGLEMAIL.COM", 
+            "ASPMX4.GOOGLEMAIL.COM", 
+            "ASPMX5.GOOGLEMAIL.COM"
+        ], 
+        "dns-ns": [
+            "ns2.upr.edu", 
+            "ns3.upr.edu", 
+            "upr1.upr.edu"
+        ], 
+        "domain-name": "upr.edu", 
+        "fuzzer": "replacement"
+    }, 
+    {
+        "dns-a": [
+            "147.83.2.135"
+        ], 
+        "dns-mx": [
+            "mx1.upc.es", 
+            "mx2.upc.es"
+        ], 
+        "dns-ns": [
+            "backus.upc.es", 
+            "euler.upc.es", 
+            "ns1.cesca.cat", 
+            "ns2.cesca.cat"
+        ], 
+        "domain-name": "upc.edu", 
+        "fuzzer": "replacement", 
+        "geoip-country": "Spain", 
+        "ssdeep-score": 0
+    }
+]

@@ -1,0 +1,73 @@
+[
+    {
+        "dns-a": [
+            "194.232.110.31", 
+            "194.232.110.32", 
+            "194.232.110.33", 
+            "194.232.110.34"
+        ], 
+        "dns-mx": [
+            "mx01.styria.com", 
+            "mx02.styria.com"
+        ], 
+        "dns-ns": [
+            "srvkkl-dns01.styria.com", 
+            "srvsgr-dns02.styria.com", 
+            "srvvie-dns03.styria.com"
+        ], 
+        "domain-name": "kleinezeitung.at", 
+        "fuzzer": "original*", 
+        "geoip-country": "Austria", 
+        "ssdeep-score": 93
+    }, 
+    {
+        "dns-a": [
+            "194.232.106.11", 
+            "194.232.106.12", 
+            "194.232.106.13", 
+            "194.232.106.14", 
+            "194.232.106.31", 
+            "194.232.106.32"
+        ], 
+        "dns-mx": [
+            "carinthia.netway.at"
+        ], 
+        "dns-ns": [
+            "srvkkl-dns01.styria.com", 
+            "srvsgr-dns02.styria.com", 
+            "srvvie-dns03.styria.com"
+        ], 
+        "domain-name": "kleine-zeitung.at", 
+        "fuzzer": "hyphenation", 
+        "geoip-country": "Austria"
+    }, 
+    {
+        "dns-a": [
+            "103.224.212.250"
+        ], 
+        "dns-mx": [
+            "park-mx.above.com"
+        ], 
+        "dns-ns": [
+            "ns3.above.com", 
+            "ns4.above.com"
+        ], 
+        "domain-name": "kleinzeitung.at", 
+        "fuzzer": "omission", 
+        "geoip-country": "Australia", 
+        "mx-spy": true, 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "95.211.219.66"
+        ], 
+        "dns-ns": [
+            "ns1.hastydns.com", 
+            "ns2.hastydns.com"
+        ], 
+        "domain-name": "kleinezeizung.at", 
+        "fuzzer": "replacement", 
+        "geoip-country": "Netherlands"
+    }
+]

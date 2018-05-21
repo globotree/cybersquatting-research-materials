@@ -1,0 +1,46 @@
+[
+    {
+        "dns-aaaa": [
+            "2002:89c3:8004::89c3:8004", 
+            "2002:89c3:8009::89c3:8009", 
+            "2002:89c3:9666::89c3:9666", 
+            "2002:89c3:9757::89c3:9757", 
+            "2002:89c3:ab12::89c3:ab12", 
+            "2002:89c3:ab28::89c3:ab28", 
+            "2002:89c3:f86c::89c3:f86c"
+        ], 
+        "dns-mx": [
+            "hw-ac-uk.mail.protection.outlook.com"
+        ], 
+        "dns-ns": [
+            "nameserve.hw.ac.uk", 
+            "nemesis1.hw.ac.uk", 
+            "ns01-my.hw.ac.uk"
+        ], 
+        "domain-name": "hw.ac.uk", 
+        "fuzzer": "original*"
+    }, 
+    {
+        "dns-a": [
+            "94.136.40.82"
+        ], 
+        "dns-ns": [
+            "ns.123-reg.co.uk", 
+            "ns2.123-reg.co.uk"
+        ], 
+        "domain-name": "hw.uk", 
+        "fuzzer": "various", 
+        "geoip-country": "United Kingdom"
+    }, 
+    {
+        "dns-a": [
+            "66.210.182.95"
+        ], 
+        "dns-ns": [
+            "ns1.hwac.uk", 
+            "ns2.hwac.uk"
+        ], 
+        "domain-name": "hwac.uk", 
+        "fuzzer": "various"
+    }
+]

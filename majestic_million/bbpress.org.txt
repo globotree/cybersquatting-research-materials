@@ -1,0 +1,136 @@
+[
+    {
+        "dns-a": [
+            "198.143.164.252"
+        ], 
+        "dns-mx": [
+            "mail.wordpress.org"
+        ], 
+        "dns-ns": [
+            "ns1.wordpress.org", 
+            "ns2.wordpress.org", 
+            "ns3.wordpress.org", 
+            "ns4.wordpress.org"
+        ], 
+        "domain-name": "bbpress.org", 
+        "fuzzer": "original*", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 100
+    }, 
+    {
+        "dns-a": [
+            "46.252.18.40"
+        ], 
+        "dns-aaaa": [
+            "2a00:1158:1000:300::128"
+        ], 
+        "dns-mx": [
+            "mxlb.ispgateway.de"
+        ], 
+        "dns-ns": [
+            "ns.namespace4you.de", 
+            "ns2.namespace4you.de"
+        ], 
+        "domain-name": "dbpress.org", 
+        "fuzzer": "homoglyph", 
+        "geoip-country": "Germany"
+    }, 
+    {
+        "dns-a": [
+            "121.199.250.180"
+        ], 
+        "dns-ns": [
+            "dns11.hichina.com", 
+            "dns12.hichina.com"
+        ], 
+        "domain-name": "ibbpress.org", 
+        "fuzzer": "homoglyph", 
+        "geoip-country": "China", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "45.40.182.129"
+        ], 
+        "dns-mx": [
+            "mailstore1.europe.secureserver.net", 
+            "smtp.europe.secureserver.net"
+        ], 
+        "dns-ns": [
+            "ns15.domaincontrol.com", 
+            "ns16.domaincontrol.com"
+        ], 
+        "domain-name": "bbbpress.org", 
+        "fuzzer": "repetition", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "164.109.22.140"
+        ], 
+        "dns-ns": [
+            "ae-prod-ns01.hbsp.harvard.edu", 
+            "ae-prod-ns02.hbsp.harvard.edu", 
+            "ae-qa-ns01.hbsp.harvard.edu", 
+            "ae-qa-ns02.hbsp.harvard.edu", 
+            "ns1.hbsp.harvard.edu", 
+            "ns2.hbsp.harvard.edu"
+        ], 
+        "domain-name": "hbpress.org", 
+        "fuzzer": "replacement", 
+        "geoip-country": "United States"
+    }, 
+    {
+        "dns-a": [
+            "89.40.172.87"
+        ], 
+        "dns-mx": [
+            "gbpress.org"
+        ], 
+        "dns-ns": [
+            "ns1.netsons.net", 
+            "ns2.netsons.net", 
+            "ns3.netsons.net", 
+            "ns4.netsons.net"
+        ], 
+        "domain-name": "gbpress.org", 
+        "fuzzer": "replacement", 
+        "geoip-country": "Italy", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "72.52.4.119"
+        ], 
+        "dns-mx": [
+            "localhost"
+        ], 
+        "dns-ns": [
+            "ns1.sedoparking.com", 
+            "ns2.sedoparking.com"
+        ], 
+        "domain-name": "bbp.ress.org", 
+        "fuzzer": "subdomain", 
+        "geoip-country": "United States", 
+        "mx-spy": true, 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "50.63.46.1"
+        ], 
+        "dns-ns": [
+            "a.service.afiliasdns.info", 
+            "b.service.afiliasdns.org", 
+            "c.service.afiliasdns.net", 
+            "d.service.afiliasdns.com", 
+            "e.service.afiliasdns.info", 
+            "f.service.afiliasdns.net"
+        ], 
+        "domain-name": "bbpres.s.org", 
+        "fuzzer": "subdomain", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 0
+    }
+]

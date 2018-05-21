@@ -1,0 +1,151 @@
+[
+    {
+        "dns-a": [
+            "98.129.134.228"
+        ], 
+        "dns-mx": [
+            "mail1.sidhost.net"
+        ], 
+        "domain-name": "pymnts.com", 
+        "fuzzer": "original*", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 93
+    }, 
+    {
+        "dns-a": [
+            "138.197.70.99"
+        ], 
+        "dns-ns": [
+            "ns1fkl.name.com", 
+            "ns2dky.name.com", 
+            "ns3fgh.name.com", 
+            "ns4cfn.name.com"
+        ], 
+        "domain-name": "pymntss.com", 
+        "fuzzer": "addition", 
+        "geoip-country": "United States"
+    }, 
+    {
+        "dns-mx": [
+            "mxa.mailgun.org", 
+            "mxb.mailgun.org"
+        ], 
+        "dns-ns": [
+            "dns1.idp365.net", 
+            "dns2.idp365.net", 
+            "dns3.idp365.net"
+        ], 
+        "domain-name": "pmnts.com", 
+        "fuzzer": "omission"
+    }, 
+    {
+        "dns-a": [
+            "23.236.62.147"
+        ], 
+        "dns-ns": [
+            "ns4.wixdns.net", 
+            "ns5.wixdns.net"
+        ], 
+        "domain-name": "pymns.com", 
+        "fuzzer": "omission", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "72.52.4.119"
+        ], 
+        "dns-mx": [
+            "localhost"
+        ], 
+        "dns-ns": [
+            "ns1.sedoparking.com", 
+            "ns2.sedoparking.com"
+        ], 
+        "domain-name": "pymts.com", 
+        "fuzzer": "omission", 
+        "geoip-country": "United States", 
+        "mx-spy": true, 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "205.178.189.131"
+        ], 
+        "dns-mx": [
+            "p.webcom.ctmail.com"
+        ], 
+        "dns-ns": [
+            "ns31.worldnic.com", 
+            "ns32.worldnic.com"
+        ], 
+        "domain-name": "pymnt.com", 
+        "fuzzer": "omission", 
+        "geoip-country": "United States", 
+        "mx-spy": true, 
+        "ssdeep-score": 93
+    }, 
+    {
+        "dns-a": [
+            "37.97.254.27"
+        ], 
+        "dns-aaaa": [
+            "2a01:7c8:3:1337::27"
+        ], 
+        "dns-mx": [
+            "pynts.com"
+        ], 
+        "dns-ns": [
+            "ns0.transip.nl", 
+            "ns1.transip.net", 
+            "ns2.transip.eu"
+        ], 
+        "domain-name": "pynts.com", 
+        "fuzzer": "omission", 
+        "geoip-country": "Netherlands", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "184.168.221.77"
+        ], 
+        "dns-ns": [
+            "ns47.domaincontrol.com", 
+            "ns48.domaincontrol.com"
+        ], 
+        "domain-name": "mymnts.com", 
+        "fuzzer": "replacement", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "104.196.161.98"
+        ], 
+        "dns-mx": [
+            "filter1.supranet.net", 
+            "filter2.supranet.net", 
+            "filter3.supranet.net"
+        ], 
+        "dns-ns": [
+            "dns1.supranet.net", 
+            "dns2.supranet.net", 
+            "dns3.supranet.net", 
+            "dns4.supranet.net", 
+            "dns5.supranet.net"
+        ], 
+        "domain-name": "pymntz.com", 
+        "fuzzer": "replacement", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "84.40.30.233"
+        ], 
+        "domain-name": "pym.nts.com", 
+        "fuzzer": "subdomain", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 0
+    }
+]

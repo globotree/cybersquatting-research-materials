@@ -1,0 +1,158 @@
+[
+    {
+        "dns-a": [
+            "217.196.149.50"
+        ], 
+        "dns-aaaa": [
+            "2a02:16a8:dc51::50"
+        ], 
+        "dns-mx": [
+            "magus.postgresql.org", 
+            "makus.postgresql.org"
+        ], 
+        "dns-ns": [
+            "ns1.postgresql.org", 
+            "ns2.postgresql.org", 
+            "ns3.postgresql.org", 
+            "ns4.postgresql.org"
+        ], 
+        "domain-name": "postgresql.org", 
+        "fuzzer": "original*", 
+        "geoip-country": "Austria", 
+        "ssdeep-score": 100
+    }, 
+    {
+        "dns-a": [
+            "184.168.221.43"
+        ], 
+        "dns-mx": [
+            "mailstore1.secureserver.net", 
+            "smtp.secureserver.net"
+        ], 
+        "dns-ns": [
+            "ns53.domaincontrol.com", 
+            "ns54.domaincontrol.com"
+        ], 
+        "domain-name": "postgresqlg.org", 
+        "fuzzer": "addition", 
+        "geoip-country": "United States"
+    }, 
+    {
+        "dns-a": [
+            "13.59.27.85"
+        ], 
+        "dns-mx": [
+            "mailstore1.secureserver.net", 
+            "smtp.secureserver.net"
+        ], 
+        "dns-ns": [
+            "ns57.domaincontrol.com", 
+            "ns58.domaincontrol.com"
+        ], 
+        "domain-name": "postgre-sql.org", 
+        "fuzzer": "hyphenation", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "68.178.213.61"
+        ], 
+        "dns-ns": [
+            "ns1.namefind.com", 
+            "ns2.namefind.com"
+        ], 
+        "domain-name": "postgressql.org", 
+        "fuzzer": "insertion", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "208.91.196.152"
+        ], 
+        "dns-ns": [
+            "sk.s7.ans1.ns147.klczy.com", 
+            "sk.s7.ans2.ns147.klczy.com"
+        ], 
+        "domain-name": "postgresl.org", 
+        "fuzzer": "omission", 
+        "geoip-country": "Virgin Islands", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "54.72.9.51"
+        ], 
+        "dns-ns": [
+            "ns1.parkingcrew.net", 
+            "ns2.parkingcrew.net"
+        ], 
+        "domain-name": "postgreql.org", 
+        "fuzzer": "omission", 
+        "geoip-country": "Ireland", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "208.91.196.105"
+        ], 
+        "dns-ns": [
+            "sk.s5.cm.ns1.39.ztomy.com", 
+            "sk.s5.cm.ns2.39.ztomy.com"
+        ], 
+        "domain-name": "postresql.org", 
+        "fuzzer": "omission", 
+        "geoip-country": "Virgin Islands", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "72.52.4.119"
+        ], 
+        "dns-ns": [
+            "ns1.sedoparking.com", 
+            "ns2.sedoparking.com"
+        ], 
+        "domain-name": "postgr.esql.org", 
+        "fuzzer": "subdomain"
+    }, 
+    {
+        "dns-a": [
+            "74.114.89.183"
+        ], 
+        "domain-name": "postgres.ql.org", 
+        "fuzzer": "subdomain", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "50.63.46.1"
+        ], 
+        "dns-ns": [
+            "A.SERVICE.AFILIASDNS.INFO", 
+            "B.SERVICE.AFILIASDNS.org", 
+            "C.SERVICE.AFILIASDNS.NET", 
+            "D.SERVICE.AFILIASDNS.COM", 
+            "E.SERVICE.AFILIASDNS.INFO", 
+            "F.SERVICE.AFILIASDNS.NET"
+        ], 
+        "domain-name": "postgresq.l.org", 
+        "fuzzer": "subdomain", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "209.99.40.220"
+        ], 
+        "dns-ns": [
+            "dns5.parkpage.foundationapi.com", 
+            "dns6.parkpage.foundationapi.com"
+        ], 
+        "domain-name": "postgreslq.org", 
+        "fuzzer": "transposition", 
+        "geoip-country": "United States"
+    }
+]

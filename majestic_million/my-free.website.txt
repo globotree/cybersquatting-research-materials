@@ -1,0 +1,64 @@
+[
+    {
+        "dns-a": [
+            "23.236.50.90"
+        ], 
+        "dns-ns": [
+            "ns-1440.awsdns-52.org", 
+            "ns-1779.awsdns-30.co.uk", 
+            "ns-27.awsdns-03.com", 
+            "ns-894.awsdns-47.net"
+        ], 
+        "domain-name": "my-free.website", 
+        "fuzzer": "original*", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 99
+    }, 
+    {
+        "dns-a": [
+            "184.168.221.56"
+        ], 
+        "dns-mx": [
+            "mailstore1.secureserver.net", 
+            "smtp.secureserver.net"
+        ], 
+        "dns-ns": [
+            "pdns05.domaincontrol.com", 
+            "pdns06.domaincontrol.com"
+        ], 
+        "domain-name": "myfree.website", 
+        "fuzzer": "omission", 
+        "geoip-country": "United States"
+    }, 
+    {
+        "dns-a": [
+            "72.52.4.119"
+        ], 
+        "dns-mx": [
+            "localhost"
+        ], 
+        "dns-ns": [
+            "ns1.sedoparking.com", 
+            "ns2.sedoparking.com"
+        ], 
+        "domain-name": "my-f.ree.website", 
+        "fuzzer": "subdomain", 
+        "geoip-country": "United States", 
+        "mx-spy": true, 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "205.178.189.131"
+        ], 
+        "dns-mx": [
+            "p.webcom.ctmail.com"
+        ], 
+        "dns-ns": [
+            "ns5.worldnic.com", 
+            "ns6.worldnic.com"
+        ], 
+        "domain-name": "my-free-website.com", 
+        "fuzzer": "various"
+    }
+]

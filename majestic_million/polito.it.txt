@@ -1,0 +1,275 @@
+[
+    {
+        "dns-mx": [
+            "mx-f1.polito.it", 
+            "mx-f2.polito.it", 
+            "mx.polito.it"
+        ], 
+        "dns-ns": [
+            "giove.polito.it", 
+            "leonardo.polito.it", 
+            "ns1.garr.net", 
+            "ns3.polito.it"
+        ], 
+        "domain-name": "polito.it", 
+        "fuzzer": "original*"
+    }, 
+    {
+        "dns-mx": [
+            "mail.register.it"
+        ], 
+        "dns-ns": [
+            "ns1.register.it", 
+            "ns2.register.it"
+        ], 
+        "domain-name": "politop.it", 
+        "fuzzer": "addition"
+    }, 
+    {
+        "dns-mx": [
+            "mago.agonet.it"
+        ], 
+        "dns-ns": [
+            "dns.agonet.it", 
+            "ns1.agonet.it", 
+            "ns3.agonet.it", 
+            "ns4.agonet.it"
+        ], 
+        "domain-name": "pomito.it", 
+        "fuzzer": "bitsquatting"
+    }, 
+    {
+        "dns-a": [
+            "51.255.224.245"
+        ], 
+        "dns-mx": [
+            "mail.polato.it"
+        ], 
+        "dns-ns": [
+            "dns.cineca.com", 
+            "dns.cineca.it"
+        ], 
+        "domain-name": "polato.it", 
+        "fuzzer": "bitsquatting", 
+        "geoip-country": "France"
+    }, 
+    {
+        "dns-a": [
+            "46.37.14.18", 
+            "46.37.14.27", 
+            "46.37.14.7"
+        ], 
+        "dns-ns": [
+            "ns1.publinord.it", 
+            "ns2.publinord.it"
+        ], 
+        "domain-name": "polipo.it", 
+        "fuzzer": "bitsquatting", 
+        "geoip-country": "Italy"
+    }, 
+    {
+        "dns-a": [
+            "119.28.76.113"
+        ], 
+        "dns-ns": [
+            "ns81.domaincontrol.com", 
+            "ns82.domaincontrol.com"
+        ], 
+        "domain-name": "pollito.it", 
+        "fuzzer": "insertion", 
+        "geoip-country": "China"
+    }, 
+    {
+        "dns-a": [
+            "31.11.33.60"
+        ], 
+        "dns-mx": [
+            "mx.polpito.it"
+        ], 
+        "dns-ns": [
+            "dns.technorail.com", 
+            "dns2.technorail.com", 
+            "dns3.arubadns.net", 
+            "dns4.arubadns.cz"
+        ], 
+        "domain-name": "polpito.it", 
+        "fuzzer": "insertion", 
+        "geoip-country": "Italy"
+    }, 
+    {
+        "dns-a": [
+            "72.52.4.119"
+        ], 
+        "dns-mx": [
+            "localhost"
+        ], 
+        "dns-ns": [
+            "ns1.sedoparking.com", 
+            "ns2.sedoparking.com"
+        ], 
+        "domain-name": "plito.it", 
+        "fuzzer": "omission", 
+        "geoip-country": "United States", 
+        "mx-spy": true
+    }, 
+    {
+        "dns-a": [
+            "5.9.152.28"
+        ], 
+        "dns-mx": [
+            "nomail.muo.it"
+        ], 
+        "dns-ns": [
+            "dns2.assotld.it", 
+            "sam.userspace.it"
+        ], 
+        "domain-name": "polio.it", 
+        "fuzzer": "omission", 
+        "geoip-country": "Germany"
+    }, 
+    {
+        "dns-a": [
+            "198.252.108.77"
+        ], 
+        "dns-mx": [
+            "mx.zoho.com", 
+            "mx2.zoho.com", 
+            "mx3.zoho.com"
+        ], 
+        "dns-ns": [
+            "ns81.domaincontrol.com", 
+            "ns82.domaincontrol.com"
+        ], 
+        "domain-name": "polto.it", 
+        "fuzzer": "omission", 
+        "geoip-country": "Canada"
+    }, 
+    {
+        "dns-a": [
+            "185.53.179.6"
+        ], 
+        "dns-mx": [
+            "mail.h-email.net"
+        ], 
+        "dns-ns": [
+            "ns1.parkingcrew.net", 
+            "ns2.parkingcrew.net"
+        ], 
+        "domain-name": "polit.it", 
+        "fuzzer": "omission", 
+        "geoip-country": "Germany", 
+        "mx-spy": true
+    }, 
+    {
+        "dns-a": [
+            "185.53.179.14"
+        ], 
+        "dns-mx": [
+            "mail.h-email.net"
+        ], 
+        "dns-ns": [
+            "ns1.parkingcrew.net", 
+            "ns2.parkingcrew.net"
+        ], 
+        "domain-name": "lolito.it", 
+        "fuzzer": "replacement", 
+        "geoip-country": "Germany", 
+        "mx-spy": true
+    }, 
+    {
+        "dns-a": [
+            "216.119.129.194"
+        ], 
+        "dns-mx": [
+            "pokito.it"
+        ], 
+        "dns-ns": [
+            "a2s52.a2hosting.com", 
+            "ns3.a2hosting.com", 
+            "ns4.a2hosting.com"
+        ], 
+        "domain-name": "pokito.it", 
+        "fuzzer": "replacement"
+    }, 
+    {
+        "dns-a": [
+            "185.53.179.8"
+        ], 
+        "dns-ns": [
+            "ns1.parkingcrew.net", 
+            "ns2.parkingcrew.net"
+        ], 
+        "domain-name": "politi.it", 
+        "fuzzer": "replacement", 
+        "geoip-country": "Germany"
+    }, 
+    {
+        "dns-a": [
+            "185.53.178.7"
+        ], 
+        "dns-mx": [
+            "mail.h-email.net"
+        ], 
+        "dns-ns": [
+            "ns1.parkingcrew.net", 
+            "ns2.parkingcrew.net"
+        ], 
+        "domain-name": "po.lito.it", 
+        "fuzzer": "subdomain", 
+        "geoip-country": "Germany", 
+        "mx-spy": true
+    }, 
+    {
+        "dns-a": [
+            "94.141.22.82"
+        ], 
+        "domain-name": "pol.ito.it", 
+        "fuzzer": "subdomain", 
+        "geoip-country": "Italy"
+    }, 
+    {
+        "dns-a": [
+            "209.15.13.134"
+        ], 
+        "dns-mx": [
+            "mail.b-io.co"
+        ], 
+        "dns-ns": [
+            "ns1.dnslink.com", 
+            "ns2.dnslink.com"
+        ], 
+        "domain-name": "polite.it", 
+        "fuzzer": "vowel-swap", 
+        "geoip-country": "United States", 
+        "mx-spy": true
+    }, 
+    {
+        "dns-a": [
+            "151.1.210.41"
+        ], 
+        "dns-mx": [
+            "smtp1.stop-spam.it"
+        ], 
+        "dns-ns": [
+            "ns10.weblink.it", 
+            "ns2.weblink.it"
+        ], 
+        "domain-name": "polita.it", 
+        "fuzzer": "vowel-swap", 
+        "geoip-country": "Italy"
+    }, 
+    {
+        "dns-a": [
+            "46.37.14.18", 
+            "46.37.14.27", 
+            "46.37.14.7"
+        ], 
+        "dns-ns": [
+            "ns1.publinord.it", 
+            "ns2.publinord.it"
+        ], 
+        "domain-name": "pulito.it", 
+        "fuzzer": "vowel-swap", 
+        "geoip-country": "Italy"
+    }
+]

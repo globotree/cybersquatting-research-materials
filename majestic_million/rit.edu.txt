@@ -1,0 +1,164 @@
+[
+    {
+        "dns-a": [
+            "129.21.1.40"
+        ], 
+        "dns-aaaa": [
+            "2620:8d:8000:0:aba:ca:daba:217"
+        ], 
+        "dns-mx": [
+            "mx03a-in01r.rit.edu", 
+            "mx03b-in01r.rit.edu", 
+            "mx03c-in01r.rit.edu", 
+            "mx03d-in01r.rit.edu"
+        ], 
+        "dns-ns": [
+            "accuvax.northwestern.edu", 
+            "ns1a.rit.edu", 
+            "ns2a.rit.edu"
+        ], 
+        "domain-name": "rit.edu", 
+        "fuzzer": "original*", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 99
+    }, 
+    {
+        "dns-mx": [
+            "mail.ritz.edu"
+        ], 
+        "dns-ns": [
+            "ns01.shms.com", 
+            "ns02.shms.com"
+        ], 
+        "domain-name": "ritz.edu", 
+        "fuzzer": "addition"
+    }, 
+    {
+        "dns-a": [
+            "64.222.80.125"
+        ], 
+        "dns-mx": [
+            "sit-edu.mail.protection.outlook.com"
+        ], 
+        "dns-ns": [
+            "udns1.ultradns.net", 
+            "udns2.ultradns.net"
+        ], 
+        "domain-name": "sit.edu", 
+        "fuzzer": "bitsquatting", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "66.251.14.106"
+        ], 
+        "dns-mx": [
+            "barracuda.pit.edu"
+        ], 
+        "dns-ns": [
+            "ns1.paetec.net", 
+            "ns2.paetec.net", 
+            "ns3.paetec.net"
+        ], 
+        "domain-name": "pit.edu", 
+        "fuzzer": "bitsquatting", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "202.38.172.240"
+        ], 
+        "dns-mx": [
+            "ALT1.ASPMX.L.GOOGLE.COM", 
+            "ALT2.ASPMX.L.GOOGLE.COM", 
+            "ASPMX.L.GOOGLE.COM", 
+            "ASPMX2.GOOGLEMAIL.COM", 
+            "ASPMX3.GOOGLEMAIL.COM", 
+            "ASPMX4.GOOGLEMAIL.COM", 
+            "ASPMX5.GOOGLEMAIL.COM"
+        ], 
+        "dns-ns": [
+            "ns2.fastdcservers.net", 
+            "ns3.fastdcservers.net", 
+            "ns5.fastdcservers.net", 
+            "ns6.fastdcservers.net"
+        ], 
+        "domain-name": "vit.edu", 
+        "fuzzer": "bitsquatting", 
+        "geoip-country": "India", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "50.63.40.1"
+        ], 
+        "dns-mx": [
+            "mailstore1.secureserver.net", 
+            "smtp.secureserver.net"
+        ], 
+        "dns-ns": [
+            "ns13.domaincontrol.com", 
+            "ns14.domaincontrol.com"
+        ], 
+        "domain-name": "bit.edu", 
+        "fuzzer": "bitsquatting", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "130.226.142.6"
+        ], 
+        "dns-mx": [
+            "itu-dk.mail.eo.outlook.com"
+        ], 
+        "dns-ns": [
+            "ns.itu.dk", 
+            "ns1.gratisdns.dk", 
+            "ns2.gratisdns.dk", 
+            "ns2.itu.dk", 
+            "ns3.gratisdns.dk", 
+            "ns4.gratisdns.dk", 
+            "ns5.gratisdns.dk"
+        ], 
+        "domain-name": "it.edu", 
+        "fuzzer": "omission", 
+        "geoip-country": "Denmark", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "163.118.171.29"
+        ], 
+        "dns-mx": [
+            "smtphost-atl.fit.edu", 
+            "smtphost-vip.fit.edu"
+        ], 
+        "dns-ns": [
+            "NS2.fit.edu", 
+            "NS4.fit.edu", 
+            "ns1.fit.edu"
+        ], 
+        "domain-name": "fit.edu", 
+        "fuzzer": "replacement", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "195.37.242.211"
+        ], 
+        "dns-mx": [
+            "smtp.th-deg.de"
+        ], 
+        "dns-ns": [
+            "dns-1.dfn.de", 
+            "dns-3.dfn.de", 
+            "ns1.fh-deggendorf.de"
+        ], 
+        "domain-name": "dit.edu", 
+        "fuzzer": "replacement"
+    }
+]

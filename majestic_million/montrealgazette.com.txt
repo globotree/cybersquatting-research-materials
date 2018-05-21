@@ -1,0 +1,129 @@
+[
+    {
+        "dns-a": [
+            "192.33.31.56"
+        ], 
+        "dns-mx": [
+            "smtp.postmedia.com"
+        ], 
+        "dns-ns": [
+            "ns1.postmediadns.com", 
+            "ns2.postmediadns.com"
+        ], 
+        "domain-name": "montrealgazette.com", 
+        "fuzzer": "original*", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 99
+    }, 
+    {
+        "dns-a": [
+            "165.227.45.142"
+        ], 
+        "dns-ns": [
+            "ns1fkl.name.com", 
+            "ns2dky.name.com", 
+            "ns3fgh.name.com", 
+            "ns4cfn.name.com"
+        ], 
+        "domain-name": "montrealgazettes.com", 
+        "fuzzer": "addition", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 33
+    }, 
+    {
+        "dns-a": [
+            "184.168.221.51"
+        ], 
+        "dns-mx": [
+            "mailstore1.secureserver.net", 
+            "smtp.secureserver.net"
+        ], 
+        "dns-ns": [
+            "ns69.domaincontrol.com", 
+            "ns70.domaincontrol.com"
+        ], 
+        "domain-name": "xn--montrealazette-25f.com", 
+        "fuzzer": "homoglyph", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "69.172.201.153"
+        ], 
+        "dns-ns": [
+            "ns1.uniregistrymarket.link", 
+            "ns2.uniregistrymarket.link"
+        ], 
+        "domain-name": "montrealgazzette.com", 
+        "fuzzer": "insertion", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "195.149.84.100", 
+            "195.149.84.101"
+        ], 
+        "dns-aaaa": [
+            "2001:67c:38c::64", 
+            "2001:67c:38c::65"
+        ], 
+        "dns-ns": [
+            "redbusprimarydns.montrealgaztte.com", 
+            "redbussecondarydns.montrealgaztte.com"
+        ], 
+        "domain-name": "montrealgaztte.com", 
+        "fuzzer": "omission", 
+        "geoip-country": "United Kingdom"
+    }, 
+    {
+        "dns-a": [
+            "208.91.196.152"
+        ], 
+        "dns-ns": [
+            "sk.s7.ans1.ns147.klczy.com", 
+            "sk.s7.ans2.ns147.klczy.com"
+        ], 
+        "domain-name": "montreagazette.com", 
+        "fuzzer": "omission", 
+        "geoip-country": "Virgin Islands", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "185.53.179.29"
+        ], 
+        "domain-name": "montralgazette.com", 
+        "fuzzer": "omission", 
+        "geoip-country": "Germany", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "52.86.22.136", 
+            "54.174.212.152"
+        ], 
+        "dns-ns": [
+            "ns1.namebrightdns.com", 
+            "ns2.namebrightdns.com"
+        ], 
+        "domain-name": "montrealg.azette.com", 
+        "fuzzer": "subdomain", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "69.172.201.153"
+        ], 
+        "dns-ns": [
+            "ns1.uniregistrymarket.link", 
+            "ns2.uniregistrymarket.link"
+        ], 
+        "domain-name": "montrealga.zette.com", 
+        "fuzzer": "subdomain", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 0
+    }
+]

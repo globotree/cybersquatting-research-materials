@@ -1,0 +1,54 @@
+[
+    {
+        "dns-a": [
+            "204.225.248.99", 
+            "74.117.140.226"
+        ], 
+        "dns-mx": [
+            "inmail01.bankofcanada.ca", 
+            "inmail02.bankofcanada.ca"
+        ], 
+        "dns-ns": [
+            "ns1.d-zone.ca", 
+            "ns2.d-zone.ca", 
+            "secondary-ns1.allstream.com", 
+            "secondary-ns2.allstream.com"
+        ], 
+        "domain-name": "bankofcanada.ca", 
+        "fuzzer": "original*", 
+        "geoip-country": "Canada", 
+        "ssdeep-score": 100
+    }, 
+    {
+        "dns-a": [
+            "23.235.196.114"
+        ], 
+        "dns-mx": [
+            "dankofcanada.ca"
+        ], 
+        "dns-ns": [
+            "ns1.inmotionhosting.com", 
+            "ns2.inmotionhosting.com"
+        ], 
+        "domain-name": "dankofcanada.ca", 
+        "fuzzer": "homoglyph", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-ns": [
+            "pdns05.domaincontrol.com", 
+            "pdns06.domaincontrol.com"
+        ], 
+        "domain-name": "bank0fcanada.ca", 
+        "fuzzer": "homoglyph"
+    }, 
+    {
+        "dns-ns": [
+            "pdns05.domaincontrol.com", 
+            "pdns06.domaincontrol.com"
+        ], 
+        "domain-name": "bankafcanada.ca", 
+        "fuzzer": "vowel-swap"
+    }
+]

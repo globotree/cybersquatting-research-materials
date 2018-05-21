@@ -1,0 +1,221 @@
+[
+    {
+        "dns-a": [
+            "104.25.190.16", 
+            "104.25.191.16"
+        ], 
+        "dns-aaaa": [
+            "2400:cb00:2048:1::6819:be10", 
+            "2400:cb00:2048:1::6819:bf10"
+        ], 
+        "dns-mx": [
+            "alt1.aspmx.l.google.com", 
+            "alt2.aspmx.l.google.com", 
+            "aspmx.l.google.com", 
+            "aspmx2.googlemail.com", 
+            "aspmx3.googlemail.com"
+        ], 
+        "dns-ns": [
+            "alex.ns.cloudflare.com", 
+            "cloe.ns.cloudflare.com"
+        ], 
+        "domain-name": "good.is", 
+        "fuzzer": "original*", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 97
+    }, 
+    {
+        "dns-a": [
+            "69.197.18.174"
+        ], 
+        "dns-mx": [
+            "mail.food.is"
+        ], 
+        "dns-ns": [
+            "ns1.afraid.org", 
+            "ns2.afraid.org", 
+            "ns3.afraid.org", 
+            "ns4.afraid.org"
+        ], 
+        "domain-name": "food.is", 
+        "fuzzer": "bitsquatting", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "208.94.116.181", 
+            "208.94.116.47", 
+            "208.94.116.99"
+        ], 
+        "dns-mx": [
+            "in1.smtp.messagingengine.com", 
+            "in2.smtp.messagingengine.com"
+        ], 
+        "dns-ns": [
+            "ns-1247.awsdns-27.org", 
+            "ns-1819.awsdns-35.co.uk", 
+            "ns-440.awsdns-55.com", 
+            "ns-593.awsdns-10.net"
+        ], 
+        "domain-name": "wood.is", 
+        "fuzzer": "bitsquatting", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-mx": [
+            "mail.abotinn.is"
+        ], 
+        "dns-ns": [
+            "ns1.prestur.is", 
+            "ns2.prestur.is"
+        ], 
+        "domain-name": "god.is", 
+        "fuzzer": "omission"
+    }, 
+    {
+        "dns-a": [
+            "104.237.134.170"
+        ], 
+        "dns-aaaa": [
+            "2600:3c00::f03c:91ff:fea8:c395"
+        ], 
+        "dns-mx": [
+            "mail.gold.is"
+        ], 
+        "dns-ns": [
+            "ns1.linode.com", 
+            "ns2.linode.com", 
+            "ns3.linode.com", 
+            "ns4.linode.com", 
+            "ns5.linode.com"
+        ], 
+        "domain-name": "gold.is", 
+        "fuzzer": "replacement", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "194.105.250.5"
+        ], 
+        "dns-mx": [
+            "mx-biz-01.simnet.is", 
+            "mx-biz-02.simnet.is", 
+            "mx-biz.simnet.is"
+        ], 
+        "dns-ns": [
+            "ns1.simnet.is", 
+            "ns2.simnet.is"
+        ], 
+        "domain-name": "glod.is", 
+        "fuzzer": "replacement", 
+        "geoip-country": "Iceland"
+    }, 
+    {
+        "dns-a": [
+            "217.19.237.54"
+        ], 
+        "dns-mx": [
+            "mx.backup.mailprotect.be", 
+            "mx.mailprotect.be"
+        ], 
+        "dns-ns": [
+            "ns1.register.be", 
+            "ns2.register.be", 
+            "ns3.register.be"
+        ], 
+        "domain-name": "goor.is", 
+        "fuzzer": "replacement", 
+        "geoip-country": "Belgium"
+    }, 
+    {
+        "dns-a": [
+            "66.111.4.53", 
+            "66.111.4.54"
+        ], 
+        "dns-mx": [
+            "in1-smtp.messagingengine.com", 
+            "in2-smtp.messagingengine.com"
+        ], 
+        "domain-name": "go.od.is", 
+        "fuzzer": "subdomain"
+    }, 
+    {
+        "dns-a": [
+            "34.250.152.58", 
+            "34.251.26.19", 
+            "52.18.146.28", 
+            "52.213.69.108"
+        ], 
+        "dns-mx": [
+            "alt1.aspmx.l.google.com", 
+            "alt2.aspmx.l.google.com", 
+            "alt3.aspmx.l.google.com", 
+            "alt4.aspmx.l.google.com", 
+            "aspmx.l.google.com"
+        ], 
+        "dns-ns": [
+            "ns-1371.awsdns-43.org", 
+            "ns-1600.awsdns-08.co.uk", 
+            "ns-502.awsdns-62.com", 
+            "ns-736.awsdns-28.net"
+        ], 
+        "domain-name": "godo.is", 
+        "fuzzer": "transposition", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "195.190.28.232"
+        ], 
+        "dns-mx": [
+            "mx1.greenhost.nl", 
+            "mx2.greenhost.nl"
+        ], 
+        "dns-ns": [
+            "ns1.greenhost.nl", 
+            "ns2.greenhost.net", 
+            "ns3.greenhost.nl"
+        ], 
+        "domain-name": "goed.is", 
+        "fuzzer": "vowel-swap", 
+        "geoip-country": "Netherlands"
+    }, 
+    {
+        "dns-a": [
+            "195.81.239.12"
+        ], 
+        "dns-mx": [
+            "mail.geod.is"
+        ], 
+        "dns-ns": [
+            "a.ns.mailclub.fr", 
+            "b.ns.mailclub.eu"
+        ], 
+        "domain-name": "geod.is", 
+        "fuzzer": "vowel-swap"
+    }, 
+    {
+        "dns-a": [
+            "37.97.254.27"
+        ], 
+        "dns-aaaa": [
+            "2a01:7c8:3:1337::27"
+        ], 
+        "dns-mx": [
+            "good-is.com"
+        ], 
+        "dns-ns": [
+            "ns0.transip.nl", 
+            "ns1.transip.net", 
+            "ns2.transip.eu"
+        ], 
+        "domain-name": "good-is.com", 
+        "fuzzer": "various", 
+        "geoip-country": "Netherlands", 
+        "ssdeep-score": 0
+    }
+]

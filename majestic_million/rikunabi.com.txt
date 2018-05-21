@@ -1,0 +1,80 @@
+[
+    {
+        "dns-ns": [
+            "dns-a.iij.ad.jp", 
+            "ns1.x.recruit.co.jp", 
+            "ns2.x.recruit.co.jp", 
+            "ns3.x.recruit.co.jp"
+        ], 
+        "domain-name": "rikunabi.com", 
+        "fuzzer": "original*"
+    }, 
+    {
+        "dns-a": [
+            "34.198.105.35"
+        ], 
+        "dns-mx": [
+            "mail2.plainhost.com"
+        ], 
+        "dns-ns": [
+            "ns1.hostica.com", 
+            "ns2.hostica.com", 
+            "ns3.hostica.com"
+        ], 
+        "domain-name": "ikunabi.com", 
+        "fuzzer": "omission", 
+        "geoip-country": "United States"
+    }, 
+    {
+        "dns-a": [
+            "45.119.97.180"
+        ], 
+        "domain-name": "rikunab.com", 
+        "fuzzer": "omission", 
+        "geoip-country": "Hong Kong"
+    }, 
+    {
+        "dns-a": [
+            "202.214.215.2"
+        ], 
+        "dns-mx": [
+            "riknabi.com"
+        ], 
+        "dns-ns": [
+            "ns01.f020jp2369.info", 
+            "ns02.f020jp2369.info"
+        ], 
+        "domain-name": "riknabi.com", 
+        "fuzzer": "omission", 
+        "geoip-country": "Japan"
+    }, 
+    {
+        "dns-a": [
+            "52.73.124.185", 
+            "54.164.198.60"
+        ], 
+        "dns-ns": [
+            "ns1.namebrightdns.com", 
+            "ns2.namebrightdns.com"
+        ], 
+        "domain-name": "rikunavi.com", 
+        "fuzzer": "replacement", 
+        "geoip-country": "United States"
+    }, 
+    {
+        "dns-a": [
+            "34.198.105.35"
+        ], 
+        "domain-name": "r.ikunabi.com", 
+        "fuzzer": "subdomain", 
+        "geoip-country": "United States"
+    }, 
+    {
+        "dns-a": [
+            "173.239.23.228"
+        ], 
+        "domain-name": "ri.kunabi.com", 
+        "fuzzer": "subdomain", 
+        "geoip-country": "United States"
+    }
+]

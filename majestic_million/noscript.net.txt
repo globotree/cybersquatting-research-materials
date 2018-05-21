@@ -1,0 +1,146 @@
+[
+    {
+        "dns-a": [
+            "82.103.134.102"
+        ], 
+        "dns-mx": [
+            "mail.informaction.com", 
+            "mail.noscript.net"
+        ], 
+        "dns-ns": [
+            "dns.technorail.com", 
+            "dns2.technorail.com", 
+            "dns3.arubadns.net", 
+            "dns4.arubadns.cz"
+        ], 
+        "domain-name": "noscript.net", 
+        "fuzzer": "original*", 
+        "geoip-country": "Denmark", 
+        "ssdeep-score": 94
+    }, 
+    {
+        "dns-a": [
+            "213.157.175.242"
+        ], 
+        "dns-mx": [
+            "mailstore1.secureserver.net", 
+            "smtp.secureserver.net"
+        ], 
+        "dns-ns": [
+            "ns1.noscripts.net", 
+            "ns2.noscripts.net"
+        ], 
+        "domain-name": "noscripts.net", 
+        "fuzzer": "addition", 
+        "geoip-country": "Romania", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "69.73.180.9"
+        ], 
+        "dns-mx": [
+            "no-script.net"
+        ], 
+        "domain-name": "no-script.net", 
+        "fuzzer": "hyphenation", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "13.228.124.201"
+        ], 
+        "dns-mx": [
+            "c67ff0826da2a94b9442501793af90.msv1.invalid", 
+            "c67ff0826da2a94b9442501793af90.pamx1.hotmail.com"
+        ], 
+        "dns-ns": [
+            "big-server.earth.orderbox-dns.com", 
+            "big-server.mars.orderbox-dns.com", 
+            "big-server.mercury.orderbox-dns.com", 
+            "big-server.venus.orderbox-dns.com"
+        ], 
+        "domain-name": "nscript.net", 
+        "fuzzer": "omission", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "141.8.224.93"
+        ], 
+        "dns-ns": [
+            "ns7.rookdns.com", 
+            "ns8.rookdns.com"
+        ], 
+        "domain-name": "noscipt.net", 
+        "fuzzer": "omission", 
+        "geoip-country": "Switzerland", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "120.136.10.56"
+        ], 
+        "dns-mx": [
+            "npscript.net"
+        ], 
+        "dns-ns": [
+            "ns1.xserver.jp", 
+            "ns2.xserver.jp", 
+            "ns3.xserver.jp", 
+            "ns4.xserver.jp", 
+            "ns5.xserver.jp"
+        ], 
+        "domain-name": "npscript.net", 
+        "fuzzer": "replacement", 
+        "geoip-country": "Japan"
+    }, 
+    {
+        "dns-a": [
+            "208.73.210.202", 
+            "208.73.210.217", 
+            "208.73.211.165", 
+            "208.73.211.177"
+        ], 
+        "dns-ns": [
+            "ns1.dsredirection.com", 
+            "ns2.dsredirection.com"
+        ], 
+        "domain-name": "no.script.net", 
+        "fuzzer": "subdomain", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "72.52.4.122"
+        ], 
+        "dns-mx": [
+            "localhost"
+        ], 
+        "dns-ns": [
+            "ns1.sedoparking.com", 
+            "ns2.sedoparking.com"
+        ], 
+        "domain-name": "nos.cript.net", 
+        "fuzzer": "subdomain", 
+        "geoip-country": "United States", 
+        "mx-spy": true
+    }, 
+    {
+        "dns-ns": [
+            "ns1.clt.peak-10.com", 
+            "ns1.jax.peak-10.com", 
+            "ns1.peak10.com", 
+            "ns2.peak10.com", 
+            "ns3.peak10.com", 
+            "ns4.peak10.com", 
+            "ns5.peak10.com", 
+            "ns6.peak10.com"
+        ], 
+        "domain-name": "nuscript.net", 
+        "fuzzer": "vowel-swap"
+    }
+]

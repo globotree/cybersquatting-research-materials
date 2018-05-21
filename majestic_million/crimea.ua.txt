@@ -1,0 +1,38 @@
+[
+    {
+        "dns-a": [
+            "212.110.147.13"
+        ], 
+        "dns-mx": [
+            "relay0.crimea.ua"
+        ], 
+        "dns-ns": [
+            "ba1.ns.ua", 
+            "ho1.ns.crimea.ua", 
+            "nix.ns.ua", 
+            "ns.crimea.ua"
+        ], 
+        "domain-name": "crimea.ua", 
+        "fuzzer": "original*", 
+        "geoip-country": "Ukraine"
+    }, 
+    {
+        "dns-a": [
+            "91.195.52.10"
+        ], 
+        "domain-name": "crime.a.ua", 
+        "fuzzer": "subdomain", 
+        "geoip-country": "Ukraine"
+    }, 
+    {
+        "dns-mx": [
+            "mx.strace.net"
+        ], 
+        "dns-ns": [
+            "ns.strace.net", 
+            "ns2.strace.net"
+        ], 
+        "domain-name": "crimea-ua.com", 
+        "fuzzer": "various"
+    }
+]

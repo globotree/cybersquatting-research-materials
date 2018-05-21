@@ -1,0 +1,102 @@
+[
+    {
+        "dns-a": [
+            "95.131.142.225"
+        ], 
+        "dns-mx": [
+            "mxa-0024c501.gslb.pphosted.com", 
+            "mxb-0024c501.gslb.pphosted.com"
+        ], 
+        "dns-ns": [
+            "ns2.observatoiredesmarques.fr", 
+            "ns3.nameshield.net", 
+            "obs.ns1.fr"
+        ], 
+        "domain-name": "leparisien.fr", 
+        "fuzzer": "original*", 
+        "geoip-country": "France", 
+        "ssdeep-score": 100
+    }, 
+    {
+        "dns-a": [
+            "185.53.177.29"
+        ], 
+        "dns-ns": [
+            "ns1.gegidns.com", 
+            "ns2.gegidns.com"
+        ], 
+        "domain-name": "laparisien.fr", 
+        "fuzzer": "bitsquatting", 
+        "geoip-country": "Germany", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "213.186.33.16"
+        ], 
+        "dns-mx": [
+            "redirect.ovh.net"
+        ], 
+        "domain-name": "ieparisien.fr", 
+        "fuzzer": "homoglyph", 
+        "geoip-country": "France"
+    }, 
+    {
+        "dns-a": [
+            "81.92.80.55", 
+            "81.92.80.56"
+        ], 
+        "dns-mx": [
+            "mx3.nameshield.com", 
+            "mx4.nameshield.net"
+        ], 
+        "dns-ns": [
+            "ns2.observatoiredesmarques.fr", 
+            "ns3.nameshield.net", 
+            "obs.ns1.fr"
+        ], 
+        "domain-name": "le-parisien.fr", 
+        "fuzzer": "hyphenation", 
+        "geoip-country": "France", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "107.175.239.148"
+        ], 
+        "dns-ns": [
+            "a.ns14.net", 
+            "b.ns14.net", 
+            "c.ns14.net", 
+            "d.ns14.net"
+        ], 
+        "domain-name": "leparisie.fr", 
+        "fuzzer": "omission", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "194.206.126.204"
+        ], 
+        "domain-name": "lepari.sien.fr", 
+        "fuzzer": "subdomain", 
+        "geoip-country": "France", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "77.244.243.49"
+        ], 
+        "dns-mx": [
+            "mx01.easyname.eu", 
+            "mx02.easyname.eu"
+        ], 
+        "dns-ns": [
+            "ns1.easyname.eu", 
+            "ns2.easyname.eu"
+        ], 
+        "domain-name": "leparisein.fr", 
+        "fuzzer": "transposition"
+    }
+]

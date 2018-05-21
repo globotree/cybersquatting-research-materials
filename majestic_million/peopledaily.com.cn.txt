@@ -1,0 +1,88 @@
+[
+    {
+        "dns-a": [
+            "43.250.236.4"
+        ], 
+        "dns-mx": [
+            "hzmx01.mxmail.netease.com"
+        ], 
+        "dns-ns": [
+            "ns1.people.cn", 
+            "ns2.people.cn", 
+            "ns3.people.cn"
+        ], 
+        "domain-name": "peopledaily.com.cn", 
+        "fuzzer": "original*", 
+        "geoip-country": "China", 
+        "ssdeep-score": 100
+    }, 
+    {
+        "dns-a": [
+            "50.117.120.251"
+        ], 
+        "dns-mx": [
+            "mail.happyisp.com"
+        ], 
+        "domain-name": "eopledaily.com.cn", 
+        "fuzzer": "omission", 
+        "geoip-country": "United States", 
+        "mx-spy": true, 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "23.80.236.229"
+        ], 
+        "dns-ns": [
+            "ns5.dnsdun.com", 
+            "ns5.dnsdun.net"
+        ], 
+        "domain-name": "peopledily.com.cn", 
+        "fuzzer": "omission", 
+        "geoip-country": "United States"
+    }, 
+    {
+        "dns-a": [
+            "50.117.120.251"
+        ], 
+        "dns-mx": [
+            "mail.happyisp.com"
+        ], 
+        "domain-name": "p.eopledaily.com.cn", 
+        "fuzzer": "subdomain", 
+        "geoip-country": "United States", 
+        "mx-spy": true, 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "47.90.207.0"
+        ], 
+        "domain-name": "peopl.edaily.com.cn", 
+        "fuzzer": "subdomain", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "107.160.213.2"
+        ], 
+        "dns-ns": [
+            "ns2.dnsdun.com", 
+            "ns2.dnsdun.net"
+        ], 
+        "domain-name": "pepoledaily.com.cn", 
+        "fuzzer": "transposition", 
+        "geoip-country": "United States"
+    }, 
+    {
+        "dns-ns": [
+            "dns1.peopledaily.cn", 
+            "ns1.people.cn", 
+            "ns2.people.cn", 
+            "ns3.people.cn"
+        ], 
+        "domain-name": "peopledaily.cn", 
+        "fuzzer": "various"
+    }
+]

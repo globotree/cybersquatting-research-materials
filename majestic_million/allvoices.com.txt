@@ -1,0 +1,125 @@
+[
+    {
+        "dns-a": [
+            "151.101.0.166", 
+            "151.101.128.166", 
+            "151.101.192.166", 
+            "151.101.64.166"
+        ], 
+        "dns-ns": [
+            "dns1.p05.nsone.net", 
+            "dns2.p05.nsone.net", 
+            "dns3.p05.nsone.net", 
+            "dns4.p05.nsone.net", 
+            "ns01.ppointdns.com", 
+            "ns02.ppointdns.com", 
+            "ns03.ppointdns.com", 
+            "ns04.ppointdns.com"
+        ], 
+        "domain-name": "allvoices.com", 
+        "fuzzer": "original*", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 100
+    }, 
+    {
+        "dns-a": [
+            "81.88.48.71"
+        ], 
+        "dns-mx": [
+            "mail.nominalia.com"
+        ], 
+        "dns-ns": [
+            "dns1.nominalia.com", 
+            "dns2.nominalia.com"
+        ], 
+        "domain-name": "all-voices.com", 
+        "fuzzer": "hyphenation", 
+        "geoip-country": "Italy", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "50.63.202.46"
+        ], 
+        "dns-mx": [
+            "mailstore1.secureserver.net", 
+            "smtp.secureserver.net"
+        ], 
+        "dns-ns": [
+            "ns03.domaincontrol.com", 
+            "ns04.domaincontrol.com"
+        ], 
+        "domain-name": "allvices.com", 
+        "fuzzer": "omission", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "69.172.201.153"
+        ], 
+        "dns-ns": [
+            "ns1.uniregistrymarket.link", 
+            "ns2.uniregistrymarket.link"
+        ], 
+        "domain-name": "allvoice.com", 
+        "fuzzer": "omission", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "149.174.107.98", 
+            "149.174.110.103", 
+            "195.93.85.39", 
+            "207.200.74.30", 
+            "64.12.79.10", 
+            "64.12.89.152"
+        ], 
+        "dns-ns": [
+            "dns-01.ns.aol.com", 
+            "dns-02.ns.aol.com", 
+            "dns-06.ns.aol.com", 
+            "dns-07.ns.aol.com"
+        ], 
+        "domain-name": "aolvoices.com", 
+        "fuzzer": "replacement", 
+        "geoip-country": "United States"
+    }, 
+    {
+        "dns-a": [
+            "72.32.88.230"
+        ], 
+        "domain-name": "all.voices.com", 
+        "fuzzer": "subdomain"
+    }, 
+    {
+        "dns-a": [
+            "204.11.56.48"
+        ], 
+        "dns-ns": [
+            "ns1626.ztomy.com", 
+            "ns2626.ztomy.com"
+        ], 
+        "domain-name": "allv.oices.com", 
+        "fuzzer": "subdomain", 
+        "geoip-country": "Virgin Islands", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "208.73.210.202", 
+            "208.73.210.217", 
+            "208.73.211.165", 
+            "208.73.211.177"
+        ], 
+        "dns-ns": [
+            "ns1.dsredirection.com", 
+            "ns2.dsredirection.com"
+        ], 
+        "domain-name": "allvo.ices.com", 
+        "fuzzer": "subdomain", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 0
+    }
+]

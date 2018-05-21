@@ -1,0 +1,115 @@
+[
+    {
+        "dns-a": [
+            "104.81.242.60"
+        ], 
+        "dns-aaaa": [
+            "2a02:26f0:9c00:193::1770", 
+            "2a02:26f0:9c00:19a::1770"
+        ], 
+        "dns-mx": [
+            "mail-mx03.fcb.de", 
+            "mail-mx04.fcb.de"
+        ], 
+        "dns-ns": [
+            "a1-254.akam.net", 
+            "a10-67.akam.net", 
+            "a4-64.akam.net", 
+            "a5-65.akam.net", 
+            "a6-66.akam.net", 
+            "a9-67.akam.net"
+        ], 
+        "domain-name": "fcbayern.com", 
+        "fuzzer": "original*", 
+        "geoip-country": "Netherlands", 
+        "ssdeep-score": 100
+    }, 
+    {
+        "dns-a": [
+            "87.238.137.71"
+        ], 
+        "dns-ns": [
+            "a.ns14.net", 
+            "b.ns14.net", 
+            "c.ns14.net", 
+            "d.ns14.net"
+        ], 
+        "domain-name": "fcbayerns.com", 
+        "fuzzer": "addition", 
+        "geoip-country": "Germany"
+    }, 
+    {
+        "dns-a": [
+            "87.238.137.71"
+        ], 
+        "dns-ns": [
+            "a.ns14.net", 
+            "b.ns14.net", 
+            "c.ns14.net", 
+            "d.ns14.net"
+        ], 
+        "domain-name": "fc-bayern.com", 
+        "fuzzer": "hyphenation", 
+        "geoip-country": "Germany"
+    }, 
+    {
+        "dns-ns": [
+            "a.ns14.net", 
+            "b.ns14.net", 
+            "c.ns14.net", 
+            "d.ns14.net"
+        ], 
+        "domain-name": "fcbayer.com", 
+        "fuzzer": "omission"
+    }, 
+    {
+        "dns-a": [
+            "217.74.178.23"
+        ], 
+        "domain-name": "fc.bayern.com", 
+        "fuzzer": "subdomain", 
+        "geoip-country": "Germany", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "69.172.201.153"
+        ], 
+        "dns-ns": [
+            "ns1.uniregistrymarket.link", 
+            "ns2.uniregistrymarket.link"
+        ], 
+        "domain-name": "fcba.yern.com", 
+        "fuzzer": "subdomain", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "69.172.201.153"
+        ], 
+        "dns-ns": [
+            "ns1.uniregistrymarket.link", 
+            "ns2.uniregistrymarket.link"
+        ], 
+        "domain-name": "fcbay.ern.com", 
+        "fuzzer": "subdomain", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "85.13.132.88"
+        ], 
+        "dns-mx": [
+            "w013a994.kasserver.com"
+        ], 
+        "dns-ns": [
+            "ns5.kasserver.com", 
+            "ns6.kasserver.com"
+        ], 
+        "domain-name": "cfbayern.com", 
+        "fuzzer": "transposition", 
+        "geoip-country": "Germany"
+    }
+]

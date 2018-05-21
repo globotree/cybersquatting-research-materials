@@ -1,0 +1,97 @@
+[
+    {
+        "dns-a": [
+            "172.217.22.35"
+        ], 
+        "dns-aaaa": [
+            "2a00:1450:4001:81b::2003"
+        ], 
+        "dns-mx": [
+            "alt1.aspmx.l.google.com", 
+            "alt2.aspmx.l.google.com", 
+            "alt3.aspmx.l.google.com", 
+            "alt4.aspmx.l.google.com", 
+            "aspmx.l.google.com"
+        ], 
+        "dns-ns": [
+            "ns1.google.com", 
+            "ns2.google.com", 
+            "ns3.google.com", 
+            "ns4.google.com"
+        ], 
+        "domain-name": "google.com.pe", 
+        "fuzzer": "original*", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 72
+    }, 
+    {
+        "dns-a": [
+            "54.221.207.100"
+        ], 
+        "dns-mx": [
+            "mx94.mb1p.com"
+        ], 
+        "domain-name": "goggle.com.pe", 
+        "fuzzer": "bitsquatting", 
+        "geoip-country": "United States", 
+        "mx-spy": true, 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "192.169.182.55"
+        ], 
+        "dns-mx": [
+            "goole.com.pe"
+        ], 
+        "dns-ns": [
+            "ns1.bns.co", 
+            "ns2.bns.co", 
+            "ns3.bns.co", 
+            "ns4.bns.co"
+        ], 
+        "domain-name": "goole.com.pe", 
+        "fuzzer": "omission", 
+        "geoip-country": "United States"
+    }, 
+    {
+        "dns-a": [
+            "54.221.207.100"
+        ], 
+        "dns-mx": [
+            "mx94.mb1p.com"
+        ], 
+        "dns-ns": [
+            "ns3.domainmanager.com", 
+            "ns4.domainmanager.com"
+        ], 
+        "domain-name": "gogle.com.pe", 
+        "fuzzer": "omission", 
+        "geoip-country": "United States", 
+        "mx-spy": true, 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-ns": [
+            "ns1.google.com", 
+            "ns2.google.com", 
+            "ns3.google.com", 
+            "ns4.google.com"
+        ], 
+        "domain-name": "google.pe", 
+        "fuzzer": "various"
+    }, 
+    {
+        "dns-a": [
+            "185.125.230.210"
+        ], 
+        "dns-ns": [
+            "ns1.servrr.ru", 
+            "ns2.servrr.ru"
+        ], 
+        "domain-name": "googlecom.pe", 
+        "fuzzer": "various", 
+        "geoip-country": "Russian Federation", 
+        "ssdeep-score": 0
+    }
+]

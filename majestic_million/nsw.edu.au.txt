@@ -1,0 +1,34 @@
+[
+    {
+        "dns-ns": [
+            "w.au", 
+            "x.au", 
+            "y.au", 
+            "z.au"
+        ], 
+        "domain-name": "nsw.edu.au", 
+        "fuzzer": "original*"
+    }, 
+    {
+        "dns-a": [
+            "223.27.10.212"
+        ], 
+        "dns-ns": [
+            "ns1.netregistry.net", 
+            "ns2.netregistry.net", 
+            "ns3.netregistry.net"
+        ], 
+        "domain-name": "nws.edu.au", 
+        "fuzzer": "transposition"
+    }, 
+    {
+        "dns-ns": [
+            "w.au", 
+            "x.au", 
+            "y.au", 
+            "z.au"
+        ], 
+        "domain-name": "nsw.au", 
+        "fuzzer": "various"
+    }
+]

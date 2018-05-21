@@ -1,0 +1,106 @@
+[
+    {
+        "dns-a": [
+            "45.60.32.21", 
+            "45.60.34.21"
+        ], 
+        "dns-aaaa": [
+            "2a02:e980:d1::15", 
+            "2a02:e980:d3::15"
+        ], 
+        "dns-mx": [
+            "momail1.mo.gov", 
+            "momail1dr.mo.gov", 
+            "momail2.mo.gov", 
+            "momail2dr.mo.gov", 
+            "momail3.mo.gov", 
+            "momail3dr.mo.gov", 
+            "momail4.mo.gov", 
+            "momail5.mo.gov"
+        ], 
+        "dns-ns": [
+            "a1.verisigndns.com", 
+            "a2.verisigndns.com", 
+            "a3.verisigndns.com"
+        ], 
+        "domain-name": "mo.gov", 
+        "fuzzer": "original*", 
+        "geoip-country": "United States", 
+        "mx-spy": true
+    }, 
+    {
+        "dns-a": [
+            "151.111.166.96"
+        ], 
+        "dns-mx": [
+            "mn365.mail.protection.outlook.com"
+        ], 
+        "dns-ns": [
+            "ns1.state.mn.us", 
+            "ns2.state.mn.us", 
+            "ns3.state.mn.us"
+        ], 
+        "domain-name": "mn.gov", 
+        "fuzzer": "bitsquatting", 
+        "geoip-country": "United States"
+    }, 
+    {
+        "dns-a": [
+            "23.59.124.45"
+        ], 
+        "dns-mx": [
+            "smtp-av1.state.mi.us", 
+            "smtp-av2.state.mi.us", 
+            "smtp-av3.state.mi.us"
+        ], 
+        "dns-ns": [
+            "a1-35.akam.net", 
+            "a11-66.akam.net", 
+            "a12-67.akam.net", 
+            "a18-64.akam.net", 
+            "a24-65.akam.net", 
+            "a5-66.akam.net"
+        ], 
+        "domain-name": "mi.gov", 
+        "fuzzer": "replacement", 
+        "geoip-country": "Netherlands"
+    }, 
+    {
+        "dns-ns": [
+            "dns.state.me.us", 
+            "dns4.maine.gov"
+        ], 
+        "domain-name": "me.gov", 
+        "fuzzer": "vowel-swap"
+    }, 
+    {
+        "dns-a": [
+            "146.243.121.22", 
+            "170.63.206.57"
+        ], 
+        "dns-ns": [
+            "internet-dns1.state.ma.us", 
+            "internet-dns2.state.ma.us", 
+            "internet-dns3.state.ma.us"
+        ], 
+        "domain-name": "ma.gov", 
+        "fuzzer": "vowel-swap", 
+        "geoip-country": "United States"
+    }, 
+    {
+        "dns-a": [
+            "159.89.150.65"
+        ], 
+        "dns-mx": [
+            "mail.mo-gov.com"
+        ], 
+        "dns-ns": [
+            "ns1.digitalocean.com", 
+            "ns2.digitalocean.com", 
+            "ns3.digitalocean.com"
+        ], 
+        "domain-name": "mo-gov.com", 
+        "fuzzer": "various", 
+        "geoip-country": "Canada"
+    }
+]

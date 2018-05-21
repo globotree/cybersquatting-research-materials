@@ -1,0 +1,169 @@
+[
+    {
+        "dns-ns": [
+            "dns1.p05.nsone.net", 
+            "dns2.p05.nsone.net", 
+            "dns3.p05.nsone.net", 
+            "dns4.p05.nsone.net", 
+            "ns01.imgns.net", 
+            "ns02.imgns.net", 
+            "ns03.imgns.net", 
+            "ns04.imgns.net"
+        ], 
+        "domain-name": "imgix.net", 
+        "fuzzer": "original*"
+    }, 
+    {
+        "dns-ns": [
+            "ns11.xincache.com", 
+            "ns12.xincache.com"
+        ], 
+        "domain-name": "imgi.net", 
+        "fuzzer": "omission"
+    }, 
+    {
+        "dns-a": [
+            "208.91.196.95"
+        ], 
+        "dns-ns": [
+            "ns1.bidoparking.com", 
+            "ns2.bidoparking.com"
+        ], 
+        "domain-name": "igix.net", 
+        "fuzzer": "omission", 
+        "geoip-country": "Virgin Islands"
+    }, 
+    {
+        "dns-a": [
+            "199.59.242.150"
+        ], 
+        "domain-name": "imix.net", 
+        "fuzzer": "omission", 
+        "geoip-country": "United States"
+    }, 
+    {
+        "dns-a": [
+            "162.210.199.87"
+        ], 
+        "dns-ns": [
+            "ns1.wombatdns.com", 
+            "ns2.wombatdns.com"
+        ], 
+        "domain-name": "imgx.net", 
+        "fuzzer": "omission", 
+        "geoip-country": "United States"
+    }, 
+    {
+        "dns-a": [
+            "103.27.126.58"
+        ], 
+        "dns-ns": [
+            "f1g1ns1.dnspod.net", 
+            "f1g1ns2.dnspod.net"
+        ], 
+        "domain-name": "mgix.net", 
+        "fuzzer": "omission", 
+        "geoip-country": "Hong Kong"
+    }, 
+    {
+        "dns-a": [
+            "62.75.209.113"
+        ], 
+        "dns-mx": [
+            "mail.imgis.net"
+        ], 
+        "dns-ns": [
+            "ns.mainnameserver.com", 
+            "ns2.mainnameserver.com"
+        ], 
+        "domain-name": "imgis.net", 
+        "fuzzer": "replacement", 
+        "geoip-country": "France"
+    }, 
+    {
+        "dns-a": [
+            "119.81.49.2"
+        ], 
+        "dns-mx": [
+            "eforward1.registrar-servers.com", 
+            "eforward2.registrar-servers.com", 
+            "eforward3.registrar-servers.com", 
+            "eforward4.registrar-servers.com", 
+            "eforward5.registrar-servers.com"
+        ], 
+        "dns-ns": [
+            "dns1.registrar-servers.com", 
+            "dns2.registrar-servers.com", 
+            "dns3.registrar-servers.com", 
+            "dns4.registrar-servers.com", 
+            "dns5.registrar-servers.com"
+        ], 
+        "domain-name": "imgid.net", 
+        "fuzzer": "replacement"
+    }, 
+    {
+        "dns-a": [
+            "104.28.20.199", 
+            "104.28.21.199"
+        ], 
+        "dns-aaaa": [
+            "2400:cb00:2048:1::681c:14c7", 
+            "2400:cb00:2048:1::681c:15c7"
+        ], 
+        "dns-ns": [
+            "alina.ns.cloudflare.com", 
+            "bob.ns.cloudflare.com"
+        ], 
+        "domain-name": "migix.net", 
+        "fuzzer": "transposition"
+    }, 
+    {
+        "dns-a": [
+            "217.70.184.38"
+        ], 
+        "dns-mx": [
+            "fb.mail.gandi.net", 
+            "spool.mail.gandi.net"
+        ], 
+        "dns-ns": [
+            "a.dns.gandi.net", 
+            "b.dns.gandi.net", 
+            "c.dns.gandi.net"
+        ], 
+        "domain-name": "igmix.net", 
+        "fuzzer": "transposition", 
+        "geoip-country": "France"
+    }, 
+    {
+        "dns-a": [
+            "217.70.184.38"
+        ], 
+        "dns-mx": [
+            "fb.mail.gandi.net", 
+            "spool.mail.gandi.net"
+        ], 
+        "dns-ns": [
+            "a.dns.gandi.net", 
+            "b.dns.gandi.net", 
+            "c.dns.gandi.net"
+        ], 
+        "domain-name": "imigx.net", 
+        "fuzzer": "transposition", 
+        "geoip-country": "France"
+    }, 
+    {
+        "dns-a": [
+            "31.3.240.123"
+        ], 
+        "dns-mx": [
+            "mail.imgex.net"
+        ], 
+        "dns-ns": [
+            "ns1.imgex.net", 
+            "ns2.imgex.net"
+        ], 
+        "domain-name": "imgex.net", 
+        "fuzzer": "vowel-swap", 
+        "geoip-country": "United Kingdom"
+    }
+]

@@ -1,0 +1,84 @@
+[
+    {
+        "dns-a": [
+            "85.116.38.31"
+        ], 
+        "dns-mx": [
+            "mx2.lagardere-active.com", 
+            "mx3.lagardere-active.com"
+        ], 
+        "dns-ns": [
+            "ns01.ladtech.fr", 
+            "ns02.ladtech.fr"
+        ], 
+        "domain-name": "europe1.fr", 
+        "fuzzer": "original*", 
+        "geoip-country": "France", 
+        "ssdeep-score": 100
+    }, 
+    {
+        "dns-a": [
+            "217.70.184.38"
+        ], 
+        "dns-mx": [
+            "fb.mail.gandi.net", 
+            "spool.mail.gandi.net"
+        ], 
+        "dns-ns": [
+            "a.dns.gandi.net", 
+            "b.dns.gandi.net", 
+            "c.dns.gandi.net"
+        ], 
+        "domain-name": "europe.fr", 
+        "fuzzer": "omission", 
+        "geoip-country": "France", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "192.64.147.232"
+        ], 
+        "dns-ns": [
+            "ns1.voodoo.com", 
+            "ns2.voodoo.com"
+        ], 
+        "domain-name": "europ1.fr", 
+        "fuzzer": "omission", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "87.98.134.65"
+        ], 
+        "dns-mx": [
+            "3miweb.net"
+        ], 
+        "dns-ns": [
+            "dns11.ovh.net", 
+            "ns11.ovh.net"
+        ], 
+        "domain-name": "europea.fr", 
+        "fuzzer": "replacement", 
+        "geoip-country": "France", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "217.70.184.38"
+        ], 
+        "dns-mx": [
+            "fb.mail.gandi.net", 
+            "spool.mail.gandi.net"
+        ], 
+        "dns-ns": [
+            "a.dns.gandi.net", 
+            "b.dns.gandi.net", 
+            "c.dns.gandi.net"
+        ], 
+        "domain-name": "europe2.fr", 
+        "fuzzer": "replacement", 
+        "geoip-country": "France", 
+        "ssdeep-score": 0
+    }
+]

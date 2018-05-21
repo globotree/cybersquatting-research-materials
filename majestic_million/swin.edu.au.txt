@@ -1,0 +1,38 @@
+[
+    {
+        "dns-a": [
+            "136.186.1.10"
+        ], 
+        "dns-mx": [
+            "au-smtp-inbound-1.mimecast.com", 
+            "au-smtp-inbound-2.mimecast.com"
+        ], 
+        "dns-ns": [
+            "neddy.newcastle.edu.au", 
+            "ns1.swin.edu.au", 
+            "ns2.swin.edu.au", 
+            "ns3.swin.edu.au"
+        ], 
+        "domain-name": "swin.edu.au", 
+        "fuzzer": "original*", 
+        "geoip-country": "Australia", 
+        "ssdeep-score": 99
+    }, 
+    {
+        "dns-a": [
+            "45.56.216.25"
+        ], 
+        "dns-mx": [
+            "mail.win.edu.au"
+        ], 
+        "dns-ns": [
+            "ns1.wined280.hostpapavps.net", 
+            "ns2.wined280.hostpapavps.net"
+        ], 
+        "domain-name": "win.edu.au", 
+        "fuzzer": "omission", 
+        "geoip-country": "Canada", 
+        "mx-spy": true, 
+        "ssdeep-score": 0
+    }
+]

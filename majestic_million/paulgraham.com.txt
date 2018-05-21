@@ -1,0 +1,117 @@
+[
+    {
+        "dns-a": [
+            "66.218.72.112", 
+            "98.136.241.156"
+        ], 
+        "dns-mx": [
+            "milter1.store.yahoo.com", 
+            "milter2.store.yahoo.com"
+        ], 
+        "dns-ns": [
+            "yns1.yahoo.com", 
+            "yns2.yahoo.com"
+        ], 
+        "domain-name": "paulgraham.com", 
+        "fuzzer": "original*", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 100
+    }, 
+    {
+        "dns-a": [
+            "216.157.85.201"
+        ], 
+        "dns-mx": [
+            "paul-graham.com"
+        ], 
+        "dns-ns": [
+            "ns1.rightstuffhosting.com", 
+            "ns2.rightstuffhosting.com"
+        ], 
+        "domain-name": "paul-graham.com", 
+        "fuzzer": "hyphenation", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "54.205.103.64"
+        ], 
+        "dns-mx": [
+            "mx.hover.com.cust.hostedemail.com"
+        ], 
+        "dns-ns": [
+            "ns1.hover.com", 
+            "ns2.hover.com"
+        ], 
+        "domain-name": "paulgra-ham.com", 
+        "fuzzer": "hyphenation", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "69.175.103.121"
+        ], 
+        "dns-mx": [
+            "mail.paullgraham.com"
+        ], 
+        "dns-ns": [
+            "ns1.phpwebhosting.com", 
+            "ns2.phpwebhosting.com"
+        ], 
+        "domain-name": "paullgraham.com", 
+        "fuzzer": "repetition", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "52.50.114.51"
+        ], 
+        "dns-mx": [
+            "alt1.aspmx.l.google.com", 
+            "alt2.aspmx.l.google.com", 
+            "aspmx.l.google.com", 
+            "aspmx2.googlemail.com", 
+            "aspmx3.googlemail.com"
+        ], 
+        "dns-ns": [
+            "ns-1078.awsdns-06.org", 
+            "ns-14.awsdns-01.com", 
+            "ns-1576.awsdns-05.co.uk", 
+            "ns-563.awsdns-06.net"
+        ], 
+        "domain-name": "paulbraham.com", 
+        "fuzzer": "replacement", 
+        "geoip-country": "Ireland", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "72.52.4.119"
+        ], 
+        "dns-mx": [
+            "localhost"
+        ], 
+        "dns-ns": [
+            "ns1.sedoparking.com", 
+            "ns2.sedoparking.com"
+        ], 
+        "domain-name": "paulg.raham.com", 
+        "fuzzer": "subdomain", 
+        "geoip-country": "United States", 
+        "mx-spy": true, 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-mx": [
+            "barracuda.am.com"
+        ], 
+        "dns-ns": [
+            "nsw1.am.com"
+        ], 
+        "domain-name": "paulgrah.am.com", 
+        "fuzzer": "subdomain"
+    }
+]

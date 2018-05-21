@@ -1,0 +1,74 @@
+[
+    {
+        "dns-a": [
+            "103.23.108.138"
+        ], 
+        "dns-mx": [
+            "ALT1.ASPMX.L.GOOGLE.COM", 
+            "ALT2.ASPMX.L.GOOGLE.COM", 
+            "ASPMX.L.GOOGLE.COM", 
+            "ASPMX2.GOOGLEMAIL.COM", 
+            "ASPMX3.GOOGLEMAIL.COM", 
+            "ASPMX4.GOOGLEMAIL.COM", 
+            "ASPMX5.GOOGLEMAIL.COM"
+        ], 
+        "dns-ns": [
+            "ns1.pixdns.tw", 
+            "ns2.pixdns.tw", 
+            "ns3.pixdns.tw"
+        ], 
+        "domain-name": "0rz.tw", 
+        "fuzzer": "original*", 
+        "geoip-country": "Taiwan", 
+        "ssdeep-score": 97
+    }, 
+    {
+        "dns-a": [
+            "61.67.242.8"
+        ], 
+        "dns-mx": [
+            "ALT1.ASPMX.L.GOOGLE.COM", 
+            "ALT2.ASPMX.L.GOOGLE.COM", 
+            "ASPMX.L.GOOGLE.COM", 
+            "ASPMX2.GOOGLEMAIL.COM", 
+            "ASPMX3.GOOGLEMAIL.COM"
+        ], 
+        "dns-ns": [
+            "admns1.hinet.net", 
+            "admns2.hinet.net"
+        ], 
+        "domain-name": "0r2.tw", 
+        "fuzzer": "replacement"
+    }, 
+    {
+        "dns-ns": [
+            "mns01.domaincontrol.com", 
+            "mns02.domaincontrol.com"
+        ], 
+        "domain-name": "0rg.tw", 
+        "fuzzer": "replacement"
+    }, 
+    {
+        "dns-a": [
+            "216.239.32.21", 
+            "216.239.34.21", 
+            "216.239.36.21", 
+            "216.239.38.21"
+        ], 
+        "dns-mx": [
+            "ALT1.ASPMX.L.GOOGLE.COM", 
+            "ALT2.ASPMX.L.GOOGLE.COM", 
+            "ASPMX.L.GOOGLE.COM", 
+            "ASPMX2.GOOGLEMAIL.COM", 
+            "ASPMX3.GOOGLEMAIL.COM"
+        ], 
+        "dns-ns": [
+            "admns1.hinet.net", 
+            "admns2.hinet.net"
+        ], 
+        "domain-name": "orz.tw", 
+        "fuzzer": "replacement", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 0
+    }
+]

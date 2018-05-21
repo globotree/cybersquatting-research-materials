@@ -1,0 +1,161 @@
+[
+    {
+        "dns-mx": [
+            "mail.hit.edu.cn"
+        ], 
+        "dns-ns": [
+            "hit01.hit.edu.cn", 
+            "hit03.hit.edu.cn"
+        ], 
+        "domain-name": "hit.edu.cn", 
+        "fuzzer": "original*"
+    }, 
+    {
+        "dns-mx": [
+            "mx.jit.edu.cn"
+        ], 
+        "dns-ns": [
+            "dns1.jit.edu.cn"
+        ], 
+        "domain-name": "jit.edu.cn", 
+        "fuzzer": "bitsquatting"
+    }, 
+    {
+        "dns-mx": [
+            "mail.lit.edu.cn"
+        ], 
+        "dns-ns": [
+            "dns.lit.edu.cn"
+        ], 
+        "domain-name": "lit.edu.cn", 
+        "fuzzer": "bitsquatting"
+    }, 
+    {
+        "dns-mx": [
+            "mail.xit.edu.cn"
+        ], 
+        "dns-ns": [
+            "dns.xit.edu.cn", 
+            "dns1.xit.edu.cn"
+        ], 
+        "domain-name": "xit.edu.cn", 
+        "fuzzer": "bitsquatting"
+    }, 
+    {
+        "dns-mx": [
+            "mxbiz1.qq.com", 
+            "mxbiz2.qq.com"
+        ], 
+        "dns-ns": [
+            "ns1.cernet.com", 
+            "ns1.hosting.edu.cn", 
+            "ns2.cernet.com", 
+            "ns2.hosting.edu.cn"
+        ], 
+        "domain-name": "hiu.edu.cn", 
+        "fuzzer": "bitsquatting"
+    }, 
+    {
+        "dns-mx": [
+            "mxbiz1.qq.com", 
+            "mxbiz2.qq.com"
+        ], 
+        "dns-ns": [
+            "dns2.hosting.edu.cn", 
+            "ns1.cernet.com", 
+            "ns2.cernet.com"
+        ], 
+        "domain-name": "hip.edu.cn", 
+        "fuzzer": "bitsquatting"
+    }, 
+    {
+        "dns-mx": [
+            "smtp.hhit.edu.cn"
+        ], 
+        "dns-ns": [
+            "hh1.hhit.edu.cn"
+        ], 
+        "domain-name": "hhit.edu.cn", 
+        "fuzzer": "repetition"
+    }, 
+    {
+        "dns-ns": [
+            "dns.zit.edu.cn"
+        ], 
+        "domain-name": "zit.edu.cn", 
+        "fuzzer": "replacement"
+    }, 
+    {
+        "dns-a": [
+            "58.16.50.140"
+        ], 
+        "dns-mx": [
+            "mail.git.edu.cn"
+        ], 
+        "dns-ns": [
+            "dns.git.edu.cn", 
+            "dns1.git.edu.cn"
+        ], 
+        "domain-name": "git.edu.cn", 
+        "fuzzer": "replacement", 
+        "geoip-country": "China"
+    }, 
+    {
+        "dns-mx": [
+            "mxbiz1.qq.com", 
+            "mxbiz2.qq.com"
+        ], 
+        "dns-ns": [
+            "dns.hut.edu.cn", 
+            "dns2.hut.edu.cn"
+        ], 
+        "domain-name": "hut.edu.cn", 
+        "fuzzer": "replacement"
+    }, 
+    {
+        "dns-a": [
+            "60.10.194.194"
+        ], 
+        "dns-mx": [
+            "hzmx01.mxmail.netease.com", 
+            "hzmx02.mxmail.netease.com"
+        ], 
+        "dns-ns": [
+            "ns.yit.edu.cn"
+        ], 
+        "domain-name": "yit.edu.cn", 
+        "fuzzer": "replacement", 
+        "geoip-country": "China"
+    }, 
+    {
+        "dns-a": [
+            "202.204.80.7"
+        ], 
+        "dns-mx": [
+            "mailgw.bit.edu.cn", 
+            "mh.bit.edu.cn"
+        ], 
+        "dns-ns": [
+            "dns.bit.edu.cn", 
+            "dns2.bit.edu.cn"
+        ], 
+        "domain-name": "bit.edu.cn", 
+        "fuzzer": "replacement", 
+        "geoip-country": "China"
+    }, 
+    {
+        "dns-a": [
+            "218.87.41.3", 
+            "218.87.41.5"
+        ], 
+        "dns-mx": [
+            "mail.nit.edu.cn"
+        ], 
+        "dns-ns": [
+            "dns1.nit.edu.cn", 
+            "dns2.nit.edu.cn"
+        ], 
+        "domain-name": "nit.edu.cn", 
+        "fuzzer": "replacement"
+    }
+]

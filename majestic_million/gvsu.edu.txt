@@ -1,0 +1,94 @@
+[
+    {
+        "dns-a": [
+            "148.61.6.9"
+        ], 
+        "dns-mx": [
+            "gvsu-edu.mail.protection.outlook.com"
+        ], 
+        "dns-ns": [
+            "DNS-PUBLIC-AL.gvsu.edu", 
+            "DNS-PUBLIC-GR.gvsu.edu"
+        ], 
+        "domain-name": "gvsu.edu", 
+        "fuzzer": "original*", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 100
+    }, 
+    {
+        "dns-mx": [
+            "fvsuexch0.fv.fvsu.edu", 
+            "fvsuexch3.fv.fvsu.edu", 
+            "mail.fvsu.edu", 
+            "xeams.fvsu.edu"
+        ], 
+        "dns-ns": [
+            "fvsns.fvsu.edu", 
+            "ns1.usg.edu", 
+            "ns2.usg.edu", 
+            "ns3.usg.edu", 
+            "ns4.usg.edu"
+        ], 
+        "domain-name": "fvsu.edu", 
+        "fuzzer": "bitsquatting", 
+        "mx-spy": true
+    }, 
+    {
+        "dns-a": [
+            "104.130.251.77"
+        ], 
+        "dns-mx": [
+            "gsu-edu.mail.eo.outlook.com", 
+            "gsu-edu.mail.protection.outlook.com"
+        ], 
+        "dns-ns": [
+            "dns-ext1.gsu.edu", 
+            "dns-ext2.gsu.edu", 
+            "ns1.usg.edu", 
+            "ns2.usg.edu", 
+            "ns3.usg.edu", 
+            "ns4.usg.edu"
+        ], 
+        "domain-name": "gsu.edu", 
+        "fuzzer": "omission", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "150.174.33.15"
+        ], 
+        "dns-mx": [
+            "mxa-0019bc01.gslb.pphosted.com", 
+            "mxb-0019bc01.gslb.pphosted.com"
+        ], 
+        "dns-ns": [
+            "external3.vsu.edu", 
+            "external4.vsu.edu"
+        ], 
+        "domain-name": "vsu.edu", 
+        "fuzzer": "omission", 
+        "geoip-country": "United States", 
+        "mx-spy": true, 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "168.16.211.23"
+        ], 
+        "dns-mx": [
+            "1431340112.mail.outlook.com", 
+            "mail.gcsu.edu"
+        ], 
+        "dns-ns": [
+            "ns1.usg.edu", 
+            "ns2.usg.edu", 
+            "ns3.usg.edu", 
+            "ns4.usg.edu"
+        ], 
+        "domain-name": "gcsu.edu", 
+        "fuzzer": "replacement", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 0
+    }
+]

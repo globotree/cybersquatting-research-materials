@@ -1,0 +1,199 @@
+[
+    {
+        "dns-mx": [
+            "mxcom.263xmail.com", 
+            "mxwcom.263xmail.com"
+        ], 
+        "dns-ns": [
+            "ns3.molss.gov.cn", 
+            "ns4.molss.gov.cn", 
+            "ns5.molss.gov.cn"
+        ], 
+        "domain-name": "scs.gov.cn", 
+        "fuzzer": "original*"
+    }, 
+    {
+        "dns-a": [
+            "58.61.218.52"
+        ], 
+        "dns-mx": [
+            "mx01.263xmail.com"
+        ], 
+        "dns-ns": [
+            "ns1.8hy.cn", 
+            "ns2.8hy.cn"
+        ], 
+        "domain-name": "scsb.gov.cn", 
+        "fuzzer": "addition", 
+        "geoip-country": "China"
+    }, 
+    {
+        "dns-a": [
+            "114.112.101.89"
+        ], 
+        "dns-mx": [
+            "scsc.gov.cn"
+        ], 
+        "dns-ns": [
+            "dns25.hichina.com", 
+            "dns26.hichina.com"
+        ], 
+        "domain-name": "scsc.gov.cn", 
+        "fuzzer": "addition", 
+        "geoip-country": "China"
+    }, 
+    {
+        "dns-ns": [
+            "ns19.xincache.com", 
+            "ns20.xincache.com"
+        ], 
+        "domain-name": "scsf.gov.cn", 
+        "fuzzer": "addition"
+    }, 
+    {
+        "dns-a": [
+            "125.64.38.144"
+        ], 
+        "dns-mx": [
+            "125.64.14.162.scsi.gov.cn"
+        ], 
+        "domain-name": "scsi.gov.cn", 
+        "fuzzer": "addition", 
+        "geoip-country": "China"
+    }, 
+    {
+        "dns-a": [
+            "211.149.206.223"
+        ], 
+        "domain-name": "scsn.gov.cn", 
+        "fuzzer": "addition", 
+        "geoip-country": "China"
+    }, 
+    {
+        "dns-mx": [
+            "mail.scst.gov.cn"
+        ], 
+        "dns-ns": [
+            "ns.istisc.cn", 
+            "ns.scst.gov.cn", 
+            "ns.scstl.org"
+        ], 
+        "domain-name": "scst.gov.cn", 
+        "fuzzer": "addition"
+    }, 
+    {
+        "dns-a": [
+            "115.239.172.30"
+        ], 
+        "dns-ns": [
+            "dns19.hichina.com", 
+            "dns20.hichina.com"
+        ], 
+        "domain-name": "scsx.gov.cn", 
+        "fuzzer": "addition", 
+        "geoip-country": "China"
+    }, 
+    {
+        "dns-mx": [
+            "mail.sgs.gov.cn"
+        ], 
+        "dns-ns": [
+            "ns1.sfn.cn", 
+            "ns2.sfn.cn"
+        ], 
+        "domain-name": "sgs.gov.cn", 
+        "fuzzer": "bitsquatting"
+    }, 
+    {
+        "dns-ns": [
+            "dns19.hichina.com", 
+            "dns20.hichina.com"
+        ], 
+        "domain-name": "sxcs.gov.cn", 
+        "fuzzer": "insertion"
+    }, 
+    {
+        "dns-a": [
+            "221.224.122.164"
+        ], 
+        "domain-name": "cs.gov.cn", 
+        "fuzzer": "omission", 
+        "geoip-country": "China"
+    }, 
+    {
+        "dns-a": [
+            "61.145.75.135"
+        ], 
+        "dns-mx": [
+            "mail.ss.gov.cn"
+        ], 
+        "dns-ns": [
+            "ns.ss.gov.cn"
+        ], 
+        "domain-name": "ss.gov.cn", 
+        "fuzzer": "omission", 
+        "geoip-country": "China"
+    }, 
+    {
+        "dns-mx": [
+            "mail0.sc.gov.cn"
+        ], 
+        "dns-ns": [
+            "dns21.hichina.com", 
+            "dns22.hichina.com"
+        ], 
+        "domain-name": "sc.gov.cn", 
+        "fuzzer": "omission"
+    }, 
+    {
+        "dns-ns": [
+            "ns1.8hy.cn", 
+            "ns2.8hy.cn"
+        ], 
+        "domain-name": "ycs.gov.cn", 
+        "fuzzer": "replacement"
+    }, 
+    {
+        "dns-a": [
+            "119.254.233.149"
+        ], 
+        "dns-mx": [
+            "mail.sca.gov.cn"
+        ], 
+        "domain-name": "sca.gov.cn", 
+        "fuzzer": "replacement"
+    }, 
+    {
+        "dns-mx": [
+            "mxn.mxhichina.com", 
+            "mxw.mxhichina.com"
+        ], 
+        "dns-ns": [
+            "dns21.hichina.com", 
+            "dns22.hichina.com"
+        ], 
+        "domain-name": "svs.gov.cn", 
+        "fuzzer": "replacement"
+    }, 
+    {
+        "dns-a": [
+            "81.28.232.67"
+        ], 
+        "dns-mx": [
+            "mail.variomedia.de"
+        ], 
+        "dns-ns": [
+            "ns1.variomedia.de", 
+            "ns2.variomedia.de"
+        ], 
+        "domain-name": "scs.cn", 
+        "fuzzer": "various"
+    }, 
+    {
+        "dns-a": [
+            "103.232.215.129"
+        ], 
+        "domain-name": "scsgov.cn", 
+        "fuzzer": "various"
+    }
+]

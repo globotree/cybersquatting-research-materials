@@ -1,0 +1,57 @@
+[
+    {
+        "dns-mx": [
+            "mail.travelnstay.in"
+        ], 
+        "dns-ns": [
+            "ns.ibntech.com", 
+            "ns2.ibnhost.net"
+        ], 
+        "domain-name": "travelnstay.in", 
+        "fuzzer": "original*"
+    }, 
+    {
+        "dns-a": [
+            "94.136.40.51"
+        ], 
+        "dns-ns": [
+            "ns.123-reg.co.uk", 
+            "ns2.123-reg.co.uk"
+        ], 
+        "domain-name": "travelstay.in", 
+        "fuzzer": "omission", 
+        "geoip-country": "United Kingdom"
+    }, 
+    {
+        "dns-a": [
+            "50.63.202.40"
+        ], 
+        "dns-mx": [
+            "mailstore1.secureserver.net", 
+            "smtp.secureserver.net"
+        ], 
+        "dns-ns": [
+            "ns55.domaincontrol.com", 
+            "ns56.domaincontrol.com"
+        ], 
+        "domain-name": "travenstay.in", 
+        "fuzzer": "omission", 
+        "geoip-country": "United States"
+    }, 
+    {
+        "dns-a": [
+            "185.53.178.9"
+        ], 
+        "dns-mx": [
+            "mail.h-email.net"
+        ], 
+        "dns-ns": [
+            "ns1.parkingcrew.net", 
+            "ns2.parkingcrew.net"
+        ], 
+        "domain-name": "travelns.tay.in", 
+        "fuzzer": "subdomain", 
+        "geoip-country": "Germany", 
+        "mx-spy": true
+    }
+]

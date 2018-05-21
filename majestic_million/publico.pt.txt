@@ -1,0 +1,90 @@
+[
+    {
+        "dns-a": [
+            "195.23.42.21"
+        ], 
+        "dns-mx": [
+            "smtpssi.ssi.pt"
+        ], 
+        "dns-ns": [
+            "dns.publico.pt", 
+            "ns1.novis.pt", 
+            "ns2.novis.pt"
+        ], 
+        "domain-name": "publico.pt", 
+        "fuzzer": "original*", 
+        "geoip-country": "Portugal", 
+        "ssdeep-score": 100
+    }, 
+    {
+        "dns-a": [
+            "188.93.227.146"
+        ], 
+        "dns-mx": [
+            "mail.publicor.pt"
+        ], 
+        "dns-ns": [
+            "dns1.ibername.com", 
+            "dns2.ibername.com", 
+            "dns3.ibername.net", 
+            "dns4.ibername.net"
+        ], 
+        "domain-name": "publicor.pt", 
+        "fuzzer": "addition", 
+        "geoip-country": "Portugal", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "185.20.49.8"
+        ], 
+        "dns-mx": [
+            "mx7.webfaction.com", 
+            "mx8.webfaction.com", 
+            "mx9.webfaction.com"
+        ], 
+        "dns-ns": [
+            "dns1.host-redirect.com", 
+            "dns2.host-redirect.com"
+        ], 
+        "domain-name": "publicos.pt", 
+        "fuzzer": "addition", 
+        "geoip-country": "United Kingdom"
+    }, 
+    {
+        "dns-a": [
+            "192.64.147.209"
+        ], 
+        "dns-ns": [
+            "ns1.voodoo.com", 
+            "ns2.voodoo.com"
+        ], 
+        "domain-name": "public.pt", 
+        "fuzzer": "omission", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "194.107.127.52"
+        ], 
+        "domain-name": "publi.co.pt", 
+        "fuzzer": "subdomain", 
+        "geoip-country": "Portugal", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "176.61.147.220"
+        ], 
+        "dns-mx": [
+            "mail.publica.pt"
+        ], 
+        "dns-ns": [
+            "dns1.improxy.com", 
+            "dns2.improxy.com"
+        ], 
+        "domain-name": "publica.pt", 
+        "fuzzer": "vowel-swap"
+    }
+]

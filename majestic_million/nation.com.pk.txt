@@ -1,0 +1,40 @@
+[
+    {
+        "dns-a": [
+            "94.130.90.114"
+        ], 
+        "dns-mx": [
+            "alt1.aspmx.l.google.com", 
+            "alt2.aspmx.l.google.com", 
+            "aspmx.l.google.com", 
+            "aspmx2.googlemail.com", 
+            "aspmx3.googlemail.com"
+        ], 
+        "dns-ns": [
+            "ns-1381.awsdns-44.org", 
+            "ns-2030.awsdns-61.co.uk", 
+            "ns-217.awsdns-27.com", 
+            "ns-573.awsdns-07.net"
+        ], 
+        "domain-name": "nation.com.pk", 
+        "fuzzer": "original*", 
+        "geoip-country": "Ukraine", 
+        "ssdeep-score": 100
+    }, 
+    {
+        "dns-a": [
+            "72.52.4.122"
+        ], 
+        "dns-mx": [
+            "localhost"
+        ], 
+        "dns-ns": [
+            "ns1.sedoparking.com", 
+            "ns2.sedoparking.com"
+        ], 
+        "domain-name": "nation.pk", 
+        "fuzzer": "various", 
+        "geoip-country": "United States", 
+        "mx-spy": true
+    }
+]

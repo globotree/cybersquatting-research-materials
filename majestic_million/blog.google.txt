@@ -1,0 +1,43 @@
+[
+    {
+        "dns-a": [
+            "216.239.32.21", 
+            "216.239.34.21", 
+            "216.239.36.21", 
+            "216.239.38.21"
+        ], 
+        "dns-aaaa": [
+            "2001:4860:4802:32::15", 
+            "2001:4860:4802:34::15", 
+            "2001:4860:4802:36::15", 
+            "2001:4860:4802:38::15"
+        ], 
+        "dns-mx": [
+            "alt1.aspmx.l.google.com", 
+            "alt2.aspmx.l.google.com", 
+            "alt3.aspmx.l.google.com", 
+            "alt4.aspmx.l.google.com", 
+            "aspmx.l.google.com"
+        ], 
+        "dns-ns": [
+            "ns1.zdns.google", 
+            "ns2.zdns.google", 
+            "ns3.zdns.google", 
+            "ns4.zdns.google"
+        ], 
+        "domain-name": "blog.google", 
+        "fuzzer": "original*", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 100
+    }, 
+    {
+        "dns-ns": [
+            "ns1.googledomains.com", 
+            "ns2.googledomains.com", 
+            "ns3.googledomains.com", 
+            "ns4.googledomains.com"
+        ], 
+        "domain-name": "blog-google.com", 
+        "fuzzer": "various"
+    }
+]

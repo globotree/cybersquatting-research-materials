@@ -1,0 +1,138 @@
+[
+    {
+        "dns-a": [
+            "217.75.232.70"
+        ], 
+        "dns-mx": [
+            "silos.csa.es", 
+            "vela1.cervantes.es", 
+            "vela2.cervantes.es"
+        ], 
+        "dns-ns": [
+            "dns.cervantes.es", 
+            "machuca.cervantes.es"
+        ], 
+        "domain-name": "cervantes.es", 
+        "fuzzer": "original*", 
+        "geoip-country": "Spain", 
+        "ssdeep-score": 99
+    }, 
+    {
+        "dns-a": [
+            "185.53.177.29"
+        ], 
+        "dns-ns": [
+            "ns1.gegidns.com", 
+            "ns2.gegidns.com"
+        ], 
+        "domain-name": "servantes.es", 
+        "fuzzer": "bitsquatting", 
+        "geoip-country": "Germany", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "72.52.4.122"
+        ], 
+        "dns-mx": [
+            "localhost"
+        ], 
+        "dns-ns": [
+            "ns1.sedoparking.com", 
+            "ns2.sedoparking.com"
+        ], 
+        "domain-name": "cerventes.es", 
+        "fuzzer": "bitsquatting", 
+        "geoip-country": "United States", 
+        "mx-spy": true, 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "87.98.231.5"
+        ], 
+        "dns-mx": [
+            "redirect.ovh.net"
+        ], 
+        "dns-ns": [
+            "dns14.ovh.net", 
+            "ns14.ovh.net"
+        ], 
+        "domain-name": "cervantec.es", 
+        "fuzzer": "bitsquatting", 
+        "geoip-country": "Spain", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "72.52.4.122"
+        ], 
+        "dns-mx": [
+            "localhost"
+        ], 
+        "dns-ns": [
+            "ns1.sedoparking.com", 
+            "ns2.sedoparking.com"
+        ], 
+        "domain-name": "cervante.es", 
+        "fuzzer": "omission", 
+        "geoip-country": "United States", 
+        "mx-spy": true, 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "72.52.4.122"
+        ], 
+        "dns-mx": [
+            "localhost"
+        ], 
+        "dns-ns": [
+            "ns1.sedoparking.com", 
+            "ns2.sedoparking.com"
+        ], 
+        "domain-name": "cevantes.es", 
+        "fuzzer": "omission", 
+        "geoip-country": "United States", 
+        "mx-spy": true, 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "141.8.224.169"
+        ], 
+        "dns-ns": [
+            "ns27.rookdns.com", 
+            "ns28.rookdns.com"
+        ], 
+        "domain-name": "cervates.es", 
+        "fuzzer": "omission", 
+        "geoip-country": "Switzerland", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "138.100.66.1"
+        ], 
+        "dns-mx": [
+            "mail.nominalia.com"
+        ], 
+        "dns-ns": [
+            "dns1.nominalia.com", 
+            "dns2.nominalia.com"
+        ], 
+        "domain-name": "cervantex.es", 
+        "fuzzer": "replacement", 
+        "geoip-country": "Spain", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "54.72.9.115"
+        ], 
+        "domain-name": "cerv.antes.es", 
+        "fuzzer": "subdomain", 
+        "geoip-country": "Ireland", 
+        "ssdeep-score": 0
+    }
+]

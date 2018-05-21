@@ -1,0 +1,108 @@
+[
+    {
+        "dns-a": [
+            "174.76.30.151"
+        ], 
+        "dns-mx": [
+            "d18527a.ess.barracudanetworks.com", 
+            "d18527b.ess.barracudanetworks.com"
+        ], 
+        "dns-ns": [
+            "ns-1457.awsdns-54.org", 
+            "ns-1711.awsdns-21.co.uk", 
+            "ns-278.awsdns-34.com", 
+            "ns-577.awsdns-08.net"
+        ], 
+        "domain-name": "beliefnet.com", 
+        "fuzzer": "original*", 
+        "geoip-country": "United States"
+    }, 
+    {
+        "dns-a": [
+            "184.168.221.7"
+        ], 
+        "dns-mx": [
+            "mailstore1.secureserver.net", 
+            "smtp.secureserver.net"
+        ], 
+        "dns-ns": [
+            "ns69.domaincontrol.com", 
+            "ns70.domaincontrol.com"
+        ], 
+        "domain-name": "beliefnets.com", 
+        "fuzzer": "addition", 
+        "geoip-country": "United States"
+    }, 
+    {
+        "dns-a": [
+            "74.50.0.45"
+        ], 
+        "dns-mx": [
+            "reliefnet.com"
+        ], 
+        "dns-ns": [
+            "ns1.lunarservers.com", 
+            "ns2.lunarservers.com"
+        ], 
+        "domain-name": "reliefnet.com", 
+        "fuzzer": "bitsquatting", 
+        "geoip-country": "United States"
+    }, 
+    {
+        "dns-a": [
+            "141.8.224.169"
+        ], 
+        "dns-ns": [
+            "ns27.rookdns.com", 
+            "ns28.rookdns.com"
+        ], 
+        "domain-name": "belifnet.com", 
+        "fuzzer": "omission", 
+        "geoip-country": "Switzerland"
+    }, 
+    {
+        "dns-a": [
+            "52.86.22.136", 
+            "54.174.212.152"
+        ], 
+        "dns-ns": [
+            "ns1.namebrightdns.com", 
+            "ns2.namebrightdns.com"
+        ], 
+        "domain-name": "beliefne.com", 
+        "fuzzer": "omission", 
+        "geoip-country": "United States"
+    }, 
+    {
+        "dns-a": [
+            "199.59.242.150"
+        ], 
+        "domain-name": "belief.net.com", 
+        "fuzzer": "subdomain", 
+        "geoip-country": "United States"
+    }, 
+    {
+        "dns-a": [
+            "69.172.201.153"
+        ], 
+        "dns-ns": [
+            "ns1.uniregistrymarket.link", 
+            "ns2.uniregistrymarket.link"
+        ], 
+        "domain-name": "beliefn.et.com", 
+        "fuzzer": "subdomain", 
+        "geoip-country": "United States"
+    }, 
+    {
+        "dns-a": [
+            "141.8.224.93"
+        ], 
+        "dns-ns": [
+            "ns7.rookdns.com", 
+            "ns8.rookdns.com"
+        ], 
+        "domain-name": "beleifnet.com", 
+        "fuzzer": "transposition", 
+        "geoip-country": "Switzerland"
+    }
+]

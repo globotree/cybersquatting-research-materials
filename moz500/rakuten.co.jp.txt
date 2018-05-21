@@ -1,0 +1,144 @@
+[
+    {
+        "dns-a": [
+            "133.237.61.176"
+        ], 
+        "dns-mx": [
+            "mail.global.frontbridge.com", 
+            "rakuten-co-jp.mail.eo.outlook.com"
+        ], 
+        "dns-ns": [
+            "ns01.rakuten.co.jp", 
+            "ns02.rakuten.co.jp", 
+            "ns03.rakuten.co.jp", 
+            "ns04.rakuten.co.jp"
+        ], 
+        "domain-name": "rakuten.co.jp", 
+        "fuzzer": "original*", 
+        "geoip-country": "Japan", 
+        "ssdeep-score": 99
+    }, 
+    {
+        "dns-a": [
+            "49.212.207.17"
+        ], 
+        "dns-mx": [
+            "rakuden.co.jp"
+        ], 
+        "dns-ns": [
+            "ns1.dns.ne.jp", 
+            "ns2.dns.ne.jp"
+        ], 
+        "domain-name": "rakuden.co.jp", 
+        "fuzzer": "bitsquatting", 
+        "geoip-country": "Japan", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-mx": [
+            "e09e458be99e6442bb70382ed5ed30.pamx1.hotmail.com"
+        ], 
+        "dns-ns": [
+            "dns01.muumuu-domain.com", 
+            "dns02.muumuu-domain.com"
+        ], 
+        "domain-name": "rakuen.co.jp", 
+        "fuzzer": "omission"
+    }, 
+    {
+        "dns-a": [
+            "163.44.191.38"
+        ], 
+        "dns-mx": [
+            "mail10.shop-pro.jp", 
+            "mx01.muumuu-mail.com"
+        ], 
+        "dns-ns": [
+            "dns01.muumuu-domain.com", 
+            "dns02.muumuu-domain.com"
+        ], 
+        "domain-name": "rakute.co.jp", 
+        "fuzzer": "omission", 
+        "geoip-country": "Japan", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "219.94.139.123"
+        ], 
+        "dns-mx": [
+            "pop.rakuren.co.jp"
+        ], 
+        "dns-ns": [
+            "01.dnsv.jp", 
+            "02.dnsv.jp"
+        ], 
+        "domain-name": "rakuren.co.jp", 
+        "fuzzer": "replacement", 
+        "geoip-country": "Japan", 
+        "mx-spy": true, 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "210.226.36.25"
+        ], 
+        "dns-mx": [
+            "mx-0.aams6.jp", 
+            "mx-1.aams6.jp", 
+            "mx.aams6.jp"
+        ], 
+        "dns-ns": [
+            "name.technowave.ad.jp", 
+            "ns.technowave.ne.jp"
+        ], 
+        "domain-name": "rakuzen.co.jp", 
+        "fuzzer": "replacement", 
+        "geoip-country": "Japan"
+    }, 
+    {
+        "dns-a": [
+            "153.153.1.206"
+        ], 
+        "dns-mx": [
+            "mx-0.aams6.jp", 
+            "mx-1.aams6.jp", 
+            "mx.aams6.jp"
+        ], 
+        "dns-ns": [
+            "name.technowave.ad.jp", 
+            "ns.technowave.ne.jp"
+        ], 
+        "domain-name": "rakuton.co.jp", 
+        "fuzzer": "vowel-swap"
+    }, 
+    {
+        "dns-a": [
+            "133.237.48.124"
+        ], 
+        "dns-mx": [
+            "mx.mail.gol.com", 
+            "mx2.mail.gol.com"
+        ], 
+        "dns-ns": [
+            "ns01.rakuten.co.jp", 
+            "ns02.rakuten.co.jp", 
+            "ns03.rakuten.co.jp", 
+            "ns04.rakuten.co.jp"
+        ], 
+        "domain-name": "rakuten.jp", 
+        "fuzzer": "various"
+    }, 
+    {
+        "dns-a": [
+            "203.141.129.122"
+        ], 
+        "dns-ns": [
+            "ns2.rakutenco.jp", 
+            "ns4.rakutenco.jp", 
+            "ns5.rakutenco.jp"
+        ], 
+        "domain-name": "rakutenco.jp", 
+        "fuzzer": "various"
+    }
+]

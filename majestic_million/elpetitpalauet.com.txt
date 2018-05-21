@@ -1,0 +1,51 @@
+[
+    {
+        "dns-a": [
+            "104.27.136.131", 
+            "104.27.137.131"
+        ], 
+        "dns-aaaa": [
+            "2400:cb00:2048:1::681b:8883", 
+            "2400:cb00:2048:1::681b:8983"
+        ], 
+        "dns-mx": [
+            "mx10.mailspamprotection.com", 
+            "mx20.mailspamprotection.com", 
+            "mx30.mailspamprotection.com"
+        ], 
+        "dns-ns": [
+            "josh.ns.cloudflare.com", 
+            "sharon.ns.cloudflare.com"
+        ], 
+        "domain-name": "elpetitpalauet.com", 
+        "fuzzer": "original*", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 80
+    }, 
+    {
+        "dns-a": [
+            "69.172.201.153"
+        ], 
+        "dns-ns": [
+            "ns1.uniregistrymarket.link", 
+            "ns2.uniregistrymarket.link"
+        ], 
+        "domain-name": "elpetitpal.auet.com", 
+        "fuzzer": "subdomain", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "69.172.201.153"
+        ], 
+        "dns-ns": [
+            "ns1.uniregistrymarket.link", 
+            "ns2.uniregistrymarket.link"
+        ], 
+        "domain-name": "elpetitpalau.et.com", 
+        "fuzzer": "subdomain", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 0
+    }
+]

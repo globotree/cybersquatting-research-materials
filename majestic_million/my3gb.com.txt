@@ -1,0 +1,148 @@
+[
+    {
+        "dns-a": [
+            "66.45.238.251"
+        ], 
+        "dns-mx": [
+            "mx.my3gb.com"
+        ], 
+        "dns-ns": [
+            "ns1.my3gb.com", 
+            "ns2.my3gb.com"
+        ], 
+        "domain-name": "my3gb.com", 
+        "fuzzer": "original*", 
+        "geoip-country": "United States", 
+        "mx-spy": true
+    }, 
+    {
+        "dns-ns": [
+            "dns1.registrar-servers.com", 
+            "dns2.registrar-servers.com", 
+            "dns3.registrar-servers.com", 
+            "dns4.registrar-servers.com", 
+            "dns5.registrar-servers.com"
+        ], 
+        "domain-name": "my2gb.com", 
+        "fuzzer": "bitsquatting"
+    }, 
+    {
+        "dns-a": [
+            "185.165.184.246"
+        ], 
+        "dns-mx": [
+            "my1gb.com"
+        ], 
+        "dns-ns": [
+            "ns1.pentruromania.com", 
+            "ns2.pentruromania.com"
+        ], 
+        "domain-name": "my1gb.com", 
+        "fuzzer": "bitsquatting", 
+        "geoip-country": "Romania"
+    }, 
+    {
+        "dns-a": [
+            "47.91.169.15"
+        ], 
+        "dns-ns": [
+            "dns21.hichina.com", 
+            "dns22.hichina.com"
+        ], 
+        "domain-name": "mysgb.com", 
+        "fuzzer": "bitsquatting", 
+        "geoip-country": "United States"
+    }, 
+    {
+        "dns-a": [
+            "208.91.196.40"
+        ], 
+        "dns-ns": [
+            "sk.s5.ans1.ns116.ztomy.com", 
+            "sk.s5.ans2.ns116.ztomy.com"
+        ], 
+        "domain-name": "my3g.com", 
+        "fuzzer": "omission", 
+        "geoip-country": "Virgin Islands"
+    }, 
+    {
+        "dns-a": [
+            "72.52.4.122"
+        ], 
+        "dns-mx": [
+            "localhost"
+        ], 
+        "dns-ns": [
+            "ns1.sedoparking.com", 
+            "ns2.sedoparking.com"
+        ], 
+        "domain-name": "mygb.com", 
+        "fuzzer": "omission", 
+        "geoip-country": "United States", 
+        "mx-spy": true
+    }, 
+    {
+        "dns-a": [
+            "52.86.22.136", 
+            "54.174.212.152"
+        ], 
+        "dns-ns": [
+            "ns1.namebrightdns.com", 
+            "ns2.namebrightdns.com"
+        ], 
+        "domain-name": "my3b.com", 
+        "fuzzer": "omission", 
+        "geoip-country": "United States"
+    }, 
+    {
+        "dns-a": [
+            "91.195.240.108"
+        ], 
+        "dns-ns": [
+            "dns1.name-services.com", 
+            "dns2.name-services.com", 
+            "dns3.name-services.com", 
+            "dns4.name-services.com", 
+            "dns5.name-services.com"
+        ], 
+        "domain-name": "m3gb.com", 
+        "fuzzer": "omission", 
+        "geoip-country": "Germany"
+    }, 
+    {
+        "dns-a": [
+            "199.191.50.73"
+        ], 
+        "dns-ns": [
+            "ns111373.ztomy.com", 
+            "ns211373.ztomy.com"
+        ], 
+        "domain-name": "myegb.com", 
+        "fuzzer": "replacement", 
+        "geoip-country": "Virgin Islands"
+    }, 
+    {
+        "dns-a": [
+            "104.202.202.147"
+        ], 
+        "dns-ns": [
+            "v1.dns234.net", 
+            "v2.dns234.net"
+        ], 
+        "domain-name": "mywgb.com", 
+        "fuzzer": "replacement", 
+        "geoip-country": "United States"
+    }, 
+    {
+        "dns-a": [
+            "141.8.224.169"
+        ], 
+        "dns-ns": [
+            "ns27.rookdns.com", 
+            "ns28.rookdns.com"
+        ], 
+        "domain-name": "my3bg.com", 
+        "fuzzer": "transposition", 
+        "geoip-country": "Switzerland"
+    }
+]

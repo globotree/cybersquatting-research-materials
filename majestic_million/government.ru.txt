@@ -1,0 +1,145 @@
+[
+    {
+        "dns-a": [
+            "95.173.136.162", 
+            "95.173.136.163", 
+            "95.173.136.168"
+        ], 
+        "dns-mx": [
+            "mx4.gov.ru"
+        ], 
+        "dns-ns": [
+            "acl.dns.ripn.net", 
+            "bcl.dns.ripn.net", 
+            "ccl.dns.ripn.net", 
+            "ns.gov.ru", 
+            "ns2.gov.ru"
+        ], 
+        "domain-name": "government.ru", 
+        "fuzzer": "original*", 
+        "geoip-country": "Russian Federation", 
+        "mx-spy": true, 
+        "ssdeep-score": 94
+    }, 
+    {
+        "dns-a": [
+            "176.9.151.142"
+        ], 
+        "dns-mx": [
+            "mail.governmenty.ru"
+        ], 
+        "dns-ns": [
+            "dns.fastdns24.com", 
+            "dns2.fastdns24.org", 
+            "dns3.fastdns24.eu", 
+            "dns4.fastdns24.link"
+        ], 
+        "domain-name": "governmenty.ru", 
+        "fuzzer": "addition", 
+        "geoip-country": "Germany", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "72.52.4.120", 
+            "91.195.240.135"
+        ], 
+        "dns-ns": [
+            "ns1.snparking.ru", 
+            "ns2.snparking.ru"
+        ], 
+        "domain-name": "qovernment.ru", 
+        "fuzzer": "homoglyph", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-mx": [
+            "nomail.nic.ru"
+        ], 
+        "dns-ns": [
+            "ns1.expired.r01.ru", 
+            "ns2.expired.r01.ru"
+        ], 
+        "domain-name": "govern-ment.ru", 
+        "fuzzer": "hyphenation", 
+        "mx-spy": true
+    }, 
+    {
+        "dns-a": [
+            "72.52.4.120"
+        ], 
+        "dns-ns": [
+            "ns1.poishi.com", 
+            "ns2.poishi.com"
+        ], 
+        "domain-name": "govenment.ru", 
+        "fuzzer": "omission", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "109.206.181.75"
+        ], 
+        "dns-ns": [
+            "ns1.snparking.ru", 
+            "ns2.snparking.ru"
+        ], 
+        "domain-name": "goverment.ru", 
+        "fuzzer": "omission", 
+        "geoip-country": "Netherlands", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "72.52.4.119"
+        ], 
+        "domain-name": "governm.ent.ru", 
+        "fuzzer": "subdomain", 
+        "geoip-country": "United States"
+    }, 
+    {
+        "dns-a": [
+            "91.195.240.93"
+        ], 
+        "dns-ns": [
+            "parking3.nic.ru", 
+            "parking4.nic.ru"
+        ], 
+        "domain-name": "governme.nt.ru", 
+        "fuzzer": "subdomain", 
+        "geoip-country": "Germany", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "185.84.110.50", 
+            "185.84.110.51"
+        ], 
+        "dns-ns": [
+            "ns1.nethouse.ru", 
+            "ns2.nethouse.ru"
+        ], 
+        "domain-name": "govrenment.ru", 
+        "fuzzer": "transposition", 
+        "geoip-country": "Russian Federation", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "127.0.0.99"
+        ], 
+        "dns-mx": [
+            "localhost"
+        ], 
+        "dns-ns": [
+            "ns1.poishi.com", 
+            "ns2.poishi.com"
+        ], 
+        "domain-name": "gavernment.ru", 
+        "fuzzer": "vowel-swap", 
+        "mx-spy": true, 
+        "ssdeep-score": 0
+    }
+]

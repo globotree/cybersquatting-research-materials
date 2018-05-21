@@ -1,0 +1,261 @@
+[
+    {
+        "dns-a": [
+            "129.107.58.60"
+        ], 
+        "dns-mx": [
+            "smtp.uta.edu"
+        ], 
+        "dns-ns": [
+            "maggie.telcom.arizona.edu", 
+            "ns-remote.arizona.edu", 
+            "ns1.uta.edu", 
+            "ns2.ots.utsystem.edu", 
+            "ns2.uta.edu"
+        ], 
+        "domain-name": "uta.edu", 
+        "fuzzer": "original*", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 99
+    }, 
+    {
+        "dns-a": [
+            "155.97.137.55"
+        ], 
+        "dns-mx": [
+            "ipo.cc.utah.edu"
+        ], 
+        "dns-ns": [
+            "fiber.utah.edu", 
+            "fiber1.utah.edu", 
+            "ns.utah.edu", 
+            "ns1.utah.edu"
+        ], 
+        "domain-name": "utah.edu", 
+        "fuzzer": "addition", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-mx": [
+            "ALT1.ASPMX.L.GOOGLE.COM", 
+            "ALT2.ASPMX.L.GOOGLE.COM", 
+            "ALT3.ASPMX.L.GOOGLE.COM", 
+            "ALT4.ASPMX.L.GOOGLE.COM", 
+            "ASPMX.L.GOOGLE.COM"
+        ], 
+        "dns-ns": [
+            "ns29.domaincontrol.com", 
+            "ns30.domaincontrol.com"
+        ], 
+        "domain-name": "utam.edu", 
+        "fuzzer": "addition"
+    }, 
+    {
+        "dns-ns": [
+            "ib03-vlc-vip.net.virginia.edu", 
+            "ib04-cdc-udc-vip.net.virginia.edu"
+        ], 
+        "domain-name": "uva.edu", 
+        "fuzzer": "bitsquatting"
+    }, 
+    {
+        "dns-a": [
+            "52.170.90.255"
+        ], 
+        "dns-mx": [
+            "utc-edu.mail.protection.outlook.com"
+        ], 
+        "dns-ns": [
+            "ens1.utc.edu", 
+            "ens2.utc.edu"
+        ], 
+        "domain-name": "utc.edu", 
+        "fuzzer": "bitsquatting", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "104.40.53.219"
+        ], 
+        "dns-mx": [
+            "ironport1.uti.edu", 
+            "ironport2.uti.edu"
+        ], 
+        "dns-ns": [
+            "pdns01.domaincontrol.com", 
+            "pdns02.domaincontrol.com"
+        ], 
+        "domain-name": "uti.edu", 
+        "fuzzer": "bitsquatting", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "208.75.222.101"
+        ], 
+        "dns-mx": [
+            "mxa-001b8f01.gslb.pphosted.com", 
+            "mxb-001b8f01.gslb.pphosted.com"
+        ], 
+        "dns-ns": [
+            "ns19.customer.level3.net", 
+            "ns24.customer.level3.net", 
+            "ns9.customer.level3.net"
+        ], 
+        "domain-name": "ut.edu", 
+        "fuzzer": "omission", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "130.160.0.20", 
+            "130.160.2.20"
+        ], 
+        "dns-mx": [
+            "mx1.ua.edu", 
+            "mx2.ua.edu"
+        ], 
+        "dns-ns": [
+            "ext-dns1.ua.edu", 
+            "ext-dns2.ua.edu", 
+            "ext-dns3.ua.edu"
+        ], 
+        "domain-name": "ua.edu", 
+        "fuzzer": "omission", 
+        "geoip-country": "United States"
+    }, 
+    {
+        "dns-a": [
+            "23.236.62.147"
+        ], 
+        "dns-mx": [
+            "alt1.aspmx.l.google.com", 
+            "alt2.aspmx.l.google.com", 
+            "aspmx.l.google.com", 
+            "aspmx2.googlemail.com", 
+            "aspmx3.googlemail.com", 
+            "aspmx4.googlemail.com", 
+            "aspmx5.googlemail.com"
+        ], 
+        "dns-ns": [
+            "ns14.wixdns.net", 
+            "ns15.wixdns.net"
+        ], 
+        "domain-name": "ta.edu", 
+        "fuzzer": "omission", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "66.45.244.26"
+        ], 
+        "dns-mx": [
+            "alt1.aspmx.l.google.com", 
+            "alt2.aspmx.l.google.com", 
+            "aspmx.l.google.com", 
+            "aspmx2.googlemail.com", 
+            "aspmx3.googlemail.com"
+        ], 
+        "dns-ns": [
+            "ns1.uts.edu", 
+            "ns2.uts.edu"
+        ], 
+        "domain-name": "uts.edu", 
+        "fuzzer": "replacement", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "128.192.225.20"
+        ], 
+        "dns-mx": [
+            "uga-edu.mail.protection.outlook.com"
+        ], 
+        "dns-ns": [
+            "dns2.uga.edu", 
+            "dns3.uga.edu", 
+            "dns4.uga.edu"
+        ], 
+        "domain-name": "uga.edu", 
+        "fuzzer": "replacement", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-ns": [
+            "ns-1225.awsdns-25.org", 
+            "ns-1778.awsdns-30.co.uk", 
+            "ns-361.awsdns-45.com", 
+            "ns-779.awsdns-33.net"
+        ], 
+        "domain-name": "ita.edu", 
+        "fuzzer": "replacement"
+    }, 
+    {
+        "dns-a": [
+            "104.196.248.208"
+        ], 
+        "dns-mx": [
+            "uat-edu.mail.protection.outlook.com"
+        ], 
+        "dns-ns": [
+            "ns-cloud-d1.googledomains.com", 
+            "ns-cloud-d2.googledomains.com", 
+            "ns-cloud-d3.googledomains.com", 
+            "ns-cloud-d4.googledomains.com"
+        ], 
+        "domain-name": "uat.edu", 
+        "fuzzer": "transposition"
+    }, 
+    {
+        "dns-a": [
+            "54.187.100.152"
+        ], 
+        "dns-mx": [
+            "mx1.ata.edu", 
+            "mx2.ata.edu"
+        ], 
+        "dns-ns": [
+            "ns-1042.awsdns-02.org", 
+            "ns-1751.awsdns-26.co.uk", 
+            "ns-397.awsdns-49.com", 
+            "ns-832.awsdns-40.net"
+        ], 
+        "domain-name": "ata.edu", 
+        "fuzzer": "vowel-swap"
+    }, 
+    {
+        "dns-ns": [
+            "dns1.tibus.net", 
+            "dns2.tibus.net"
+        ], 
+        "domain-name": "utu.edu", 
+        "fuzzer": "vowel-swap"
+    }, 
+    {
+        "dns-a": [
+            "185.68.16.97"
+        ], 
+        "dns-aaaa": [
+            "2a00:7a60:0:1061::1"
+        ], 
+        "dns-mx": [
+            "mx15.ukraine.com.ua", 
+            "mx20.ukraine.com.ua"
+        ], 
+        "dns-ns": [
+            "ns112.inhostedns.com", 
+            "ns212.inhostedns.net", 
+            "ns312.inhostedns.org"
+        ], 
+        "domain-name": "uta-edu.com", 
+        "fuzzer": "various", 
+        "geoip-country": "Ukraine"
+    }
+]

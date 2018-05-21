@@ -1,0 +1,53 @@
+[
+    {
+        "dns-a": [
+            "104.16.176.41", 
+            "104.16.177.41", 
+            "104.16.178.41", 
+            "104.16.179.41", 
+            "104.16.180.41"
+        ], 
+        "dns-mx": [
+            "av.tribune.com.pk", 
+            "av2.tribune.com.pk"
+        ], 
+        "dns-ns": [
+            "greg.ns.cloudflare.com", 
+            "jill.ns.cloudflare.com"
+        ], 
+        "domain-name": "tribune.com.pk", 
+        "fuzzer": "original*", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 96
+    }, 
+    {
+        "dns-a": [
+            "64.131.65.181"
+        ], 
+        "dns-mx": [
+            "triune.com.pk"
+        ], 
+        "dns-ns": [
+            "ns1.zeetech.net", 
+            "ns2.zeetech.net"
+        ], 
+        "domain-name": "triune.com.pk", 
+        "fuzzer": "omission", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "72.52.4.119"
+        ], 
+        "dns-mx": [
+            "localhost"
+        ], 
+        "dns-ns": [
+            "ns1.sedoparking.com", 
+            "ns2.sedoparking.com"
+        ], 
+        "domain-name": "tribune.pk", 
+        "fuzzer": "various"
+    }
+]

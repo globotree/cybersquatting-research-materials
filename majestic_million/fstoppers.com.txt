@@ -1,0 +1,130 @@
+[
+    {
+        "dns-a": [
+            "34.199.123.20", 
+            "34.230.110.162"
+        ], 
+        "dns-mx": [
+            "alt1.aspmx.l.google.com", 
+            "alt2.aspmx.l.google.com", 
+            "aspmx.l.google.com", 
+            "aspmx2.googlemail.com", 
+            "aspmx3.googlemail.com"
+        ], 
+        "dns-ns": [
+            "ns-1318.awsdns-36.org", 
+            "ns-1732.awsdns-24.co.uk", 
+            "ns-463.awsdns-57.com", 
+            "ns-576.awsdns-08.net"
+        ], 
+        "domain-name": "fstoppers.com", 
+        "fuzzer": "original*", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 100
+    }, 
+    {
+        "dns-a": [
+            "217.198.149.105"
+        ], 
+        "dns-mx": [
+            "ALT1.ASPMX.L.GOOGLE.com", 
+            "ALT2.ASPMX.L.GOOGLE.com", 
+            "ASPMX.L.GOOGLE.com", 
+            "ASPMX2.GOOGLEMAIL.com", 
+            "ASPMX3.GOOGLEMAIL.com"
+        ], 
+        "dns-ns": [
+            "ns1.loopia.se", 
+            "ns2.loopia.se"
+        ], 
+        "domain-name": "f-stoppers.com", 
+        "fuzzer": "hyphenation", 
+        "geoip-country": "Sweden"
+    }, 
+    {
+        "dns-a": [
+            "185.53.179.7"
+        ], 
+        "dns-mx": [
+            "mail.h-email.net"
+        ], 
+        "dns-ns": [
+            "ns1.parkingcrew.net", 
+            "ns2.parkingcrew.net"
+        ], 
+        "domain-name": "fstopers.com", 
+        "fuzzer": "omission", 
+        "geoip-country": "Germany", 
+        "mx-spy": true, 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "54.186.208.79", 
+            "54.186.68.90"
+        ], 
+        "dns-aaaa": [
+            "2600:1f14:478:b60a:c2c6:7f4e:5273:27e0", 
+            "2600:1f14:478:b60b:24e7:4661:311:56ab"
+        ], 
+        "dns-mx": [
+            ""
+        ], 
+        "dns-ns": [
+            "ns1.venture.com", 
+            "ns2.venture.com"
+        ], 
+        "domain-name": "stoppers.com", 
+        "fuzzer": "omission", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "184.168.221.18"
+        ], 
+        "dns-mx": [
+            "mailstore1.secureserver.net", 
+            "smtp.secureserver.net"
+        ], 
+        "dns-ns": [
+            "pdns11.domaincontrol.com", 
+            "pdns12.domaincontrol.com"
+        ], 
+        "domain-name": "fatoppers.com", 
+        "fuzzer": "replacement"
+    }, 
+    {
+        "dns-a": [
+            "54.186.208.79", 
+            "54.186.68.90"
+        ], 
+        "dns-aaaa": [
+            "2600:1f14:478:b60a:c2c6:7f4e:5273:27e0", 
+            "2600:1f14:478:b60b:24e7:4661:311:56ab"
+        ], 
+        "dns-mx": [
+            ""
+        ], 
+        "domain-name": "f.stoppers.com", 
+        "fuzzer": "subdomain", 
+        "geoip-country": "United States"
+    }, 
+    {
+        "dns-a": [
+            "162.209.41.161"
+        ], 
+        "domain-name": "fs.toppers.com", 
+        "fuzzer": "subdomain", 
+        "geoip-country": "United States"
+    }, 
+    {
+        "dns-a": [
+            "87.250.129.151"
+        ], 
+        "domain-name": "fst.oppers.com", 
+        "fuzzer": "subdomain", 
+        "geoip-country": "Netherlands", 
+        "ssdeep-score": 0
+    }
+]

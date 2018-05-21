@@ -1,0 +1,40 @@
+[
+    {
+        "dns-a": [
+            "104.16.43.54", 
+            "104.16.44.54"
+        ], 
+        "dns-mx": [
+            "mx1.hc50-71.r1.ces.cisco.com", 
+            "mx2.hc50-71.r1.ces.cisco.com"
+        ], 
+        "dns-ns": [
+            "ibext3.utdallas.edu", 
+            "ibext4.utdallas.edu", 
+            "ns2.ots.utsystem.edu"
+        ], 
+        "domain-name": "utdallas.edu", 
+        "fuzzer": "original*", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 100
+    }, 
+    {
+        "dns-a": [
+            "104.130.124.11"
+        ], 
+        "dns-mx": [
+            "alt1.aspmx.l.google.com", 
+            "alt2.aspmx.l.google.com", 
+            "aspmx.l.google.com", 
+            "aspmx2.googlemail.com"
+        ], 
+        "dns-ns": [
+            "dns1.udallas.edu", 
+            "dns2.udallas.edu"
+        ], 
+        "domain-name": "udallas.edu", 
+        "fuzzer": "omission", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 0
+    }
+]

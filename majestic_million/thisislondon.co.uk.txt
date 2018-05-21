@@ -1,0 +1,95 @@
+[
+    {
+        "dns-a": [
+            "52.48.9.82"
+        ], 
+        "dns-mx": [
+            "eu-smtp-inbound-1.mimecast.com", 
+            "eu-smtp-inbound-2.mimecast.com"
+        ], 
+        "dns-ns": [
+            "ns5.anlremote.com", 
+            "ns6.associated.co.uk"
+        ], 
+        "domain-name": "thisislondon.co.uk", 
+        "fuzzer": "original*", 
+        "geoip-country": "Ireland", 
+        "ssdeep-score": 100
+    }, 
+    {
+        "dns-a": [
+            "52.48.9.82"
+        ], 
+        "dns-ns": [
+            "ns5.anlremote.com", 
+            "ns6.associated.co.uk"
+        ], 
+        "domain-name": "thisislondons.co.uk", 
+        "fuzzer": "addition", 
+        "geoip-country": "Ireland", 
+        "ssdeep-score": 100
+    }, 
+    {
+        "dns-a": [
+            "62.233.121.61"
+        ], 
+        "domain-name": "thi.sislondon.co.uk", 
+        "fuzzer": "subdomain", 
+        "geoip-country": "United Kingdom", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "52.58.78.16"
+        ], 
+        "dns-mx": [
+            "mx.this.islondon.co.uk"
+        ], 
+        "dns-ns": [
+            "ns1.undeveloped.com", 
+            "ns2.undeveloped.com"
+        ], 
+        "domain-name": "this.islondon.co.uk", 
+        "fuzzer": "subdomain", 
+        "geoip-country": "Germany"
+    }, 
+    {
+        "dns-a": [
+            "72.52.4.122"
+        ], 
+        "dns-mx": [
+            "localhost"
+        ], 
+        "dns-ns": [
+            "ns1.sedoparking.com", 
+            "ns2.sedoparking.com"
+        ], 
+        "domain-name": "thisislo.ndon.co.uk", 
+        "fuzzer": "subdomain", 
+        "geoip-country": "United States", 
+        "mx-spy": true, 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "52.58.78.16"
+        ], 
+        "dns-mx": [
+            "mx.thisislond.on.co.uk"
+        ], 
+        "dns-ns": [
+            "ns1.undeveloped.com", 
+            "ns2.undeveloped.com"
+        ], 
+        "domain-name": "thisislond.on.co.uk", 
+        "fuzzer": "subdomain"
+    }, 
+    {
+        "dns-a": [
+            "66.6.44.4"
+        ], 
+        "domain-name": "thisislondo.n.co.uk", 
+        "fuzzer": "subdomain", 
+        "geoip-country": "United States"
+    }
+]

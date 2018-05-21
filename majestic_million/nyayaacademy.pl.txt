@@ -1,0 +1,37 @@
+[
+    {
+        "dns-a": [
+            "208.113.217.195"
+        ], 
+        "dns-mx": [
+            "mx1.balanced.homie.mail.dreamhost.com", 
+            "mx2.balanced.homie.mail.dreamhost.com"
+        ], 
+        "dns-ns": [
+            "ns1.dreamhost.com", 
+            "ns2.dreamhost.com", 
+            "ns3.dreamhost.com"
+        ], 
+        "domain-name": "nyayaacademy.pl", 
+        "fuzzer": "original*", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 97
+    }, 
+    {
+        "dns-a": [
+            "188.128.255.251"
+        ], 
+        "domain-name": "nyayaacade.my.pl", 
+        "fuzzer": "subdomain", 
+        "geoip-country": "Poland", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "78.46.206.240"
+        ], 
+        "domain-name": "nyayaacadem.y.pl", 
+        "fuzzer": "subdomain", 
+        "geoip-country": "Germany"
+    }
+]

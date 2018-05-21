@@ -1,0 +1,56 @@
+[
+    {
+        "dns-a": [
+            "143.95.252.23"
+        ], 
+        "dns-mx": [
+            "mail.rockndata.net", 
+            "mail2.rockndata.net"
+        ], 
+        "dns-ns": [
+            "ns1.STRAWBERRY.arvixe.com", 
+            "ns2.STRAWBERRY.arvixe.com"
+        ], 
+        "domain-name": "rockndata.net", 
+        "fuzzer": "original*", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 85
+    }, 
+    {
+        "dns-ns": [
+            "dns13.hichina.com", 
+            "dns14.hichina.com"
+        ], 
+        "domain-name": "rockdata.net", 
+        "fuzzer": "omission"
+    }, 
+    {
+        "dns-a": [
+            "72.52.4.122"
+        ], 
+        "dns-mx": [
+            "localhost"
+        ], 
+        "dns-ns": [
+            "ns1.sedoparking.com", 
+            "ns2.sedoparking.com"
+        ], 
+        "domain-name": "rock.ndata.net", 
+        "fuzzer": "subdomain", 
+        "geoip-country": "United States", 
+        "mx-spy": true, 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "184.168.221.104"
+        ], 
+        "dns-ns": [
+            "ns1.afternic.com", 
+            "ns2.afternic.com"
+        ], 
+        "domain-name": "rocknda.ta.net", 
+        "fuzzer": "subdomain", 
+        "geoip-country": "United States"
+    }
+]

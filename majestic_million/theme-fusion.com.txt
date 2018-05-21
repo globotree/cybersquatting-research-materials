@@ -1,0 +1,91 @@
+[
+    {
+        "dns-a": [
+            "104.20.54.138", 
+            "104.20.55.138"
+        ], 
+        "dns-aaaa": [
+            "2400:cb00:2048:1::6814:368a", 
+            "2400:cb00:2048:1::6814:378a"
+        ], 
+        "dns-mx": [
+            "alt1.aspmx.l.google.com", 
+            "alt2.aspmx.l.google.com", 
+            "aspmx.l.google.com", 
+            "aspmx2.googlemail.com", 
+            "aspmx3.googlemail.com"
+        ], 
+        "dns-ns": [
+            "olga.ns.cloudflare.com", 
+            "ray.ns.cloudflare.com"
+        ], 
+        "domain-name": "theme-fusion.com", 
+        "fuzzer": "original*", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 100
+    }, 
+    {
+        "dns-a": [
+            "74.220.207.190"
+        ], 
+        "dns-mx": [
+            "fallbackmx.spamexperts.eu", 
+            "lastmx.spamexperts.net", 
+            "mx.spamexperts.com"
+        ], 
+        "dns-ns": [
+            "ns1.hostmonster.com", 
+            "ns2.hostmonster.com"
+        ], 
+        "domain-name": "themefusion.com", 
+        "fuzzer": "omission", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "208.73.210.202", 
+            "208.73.210.217", 
+            "208.73.211.165", 
+            "208.73.211.177"
+        ], 
+        "dns-ns": [
+            "ns1.dsredirection.com", 
+            "ns2.dsredirection.com"
+        ], 
+        "domain-name": "them.e-fusion.com", 
+        "fuzzer": "subdomain", 
+        "geoip-country": "United States"
+    }, 
+    {
+        "dns-a": [
+            "69.172.201.153"
+        ], 
+        "dns-mx": [
+            "mail.b-io.co"
+        ], 
+        "domain-name": "theme-f.usion.com", 
+        "fuzzer": "subdomain", 
+        "geoip-country": "United States", 
+        "mx-spy": true, 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "64.41.186.27"
+        ], 
+        "domain-name": "theme-fus.ion.com", 
+        "fuzzer": "subdomain", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "208.78.94.160"
+        ], 
+        "domain-name": "theme-fusi.on.com", 
+        "fuzzer": "subdomain", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 0
+    }
+]

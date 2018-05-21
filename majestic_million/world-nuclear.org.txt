@@ -1,0 +1,66 @@
+[
+    {
+        "dns-a": [
+            "89.151.116.67"
+        ], 
+        "dns-mx": [
+            "cust14928-1.in.mailcontrol.com", 
+            "cust14928-2.in.mailcontrol.com"
+        ], 
+        "dns-ns": [
+            "helios.knowall.net", 
+            "heracles.knowall.net", 
+            "hydra.knowall.net"
+        ], 
+        "domain-name": "world-nuclear.org", 
+        "fuzzer": "original*", 
+        "geoip-country": "United Kingdom", 
+        "ssdeep-score": 99
+    }, 
+    {
+        "dns-mx": [
+            "mail.worldnuclear.org"
+        ], 
+        "dns-ns": [
+            "ns1.zenis.ch", 
+            "ns2.zenis.ch"
+        ], 
+        "domain-name": "worldnuclear.org", 
+        "fuzzer": "omission"
+    }, 
+    {
+        "dns-a": [
+            "91.195.240.82"
+        ], 
+        "domain-name": "world-nu.clear.org", 
+        "fuzzer": "subdomain", 
+        "geoip-country": "Germany", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "72.52.4.122"
+        ], 
+        "dns-mx": [
+            "localhost"
+        ], 
+        "dns-ns": [
+            "ns1.sedoparking.com", 
+            "ns2.sedoparking.com"
+        ], 
+        "domain-name": "world-nuc.lear.org", 
+        "fuzzer": "subdomain", 
+        "geoip-country": "United States", 
+        "mx-spy": true, 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "98.124.199.35"
+        ], 
+        "domain-name": "world-nuclea.r.org", 
+        "fuzzer": "subdomain", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 0
+    }
+]

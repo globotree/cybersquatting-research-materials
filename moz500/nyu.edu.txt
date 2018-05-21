@@ -1,0 +1,184 @@
+[
+    {
+        "dns-a": [
+            "216.165.47.10"
+        ], 
+        "dns-mx": [
+            "mxa-00256a01.gslb.pphosted.com", 
+            "mxb-00256a01.gslb.pphosted.com"
+        ], 
+        "dns-ns": [
+            "NS1.nyu.edu", 
+            "NS2.nyu.edu", 
+            "NS3.nyu.edu"
+        ], 
+        "domain-name": "nyu.edu", 
+        "fuzzer": "original*", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 99
+    }, 
+    {
+        "dns-a": [
+            "131.156.69.43"
+        ], 
+        "dns-mx": [
+            "niu-edu.mail.protection.outlook.com"
+        ], 
+        "dns-ns": [
+            "dns1.illinois.edu", 
+            "dns2.illinois.edu", 
+            "ns1.its.niu.edu", 
+            "ns2.its.niu.edu"
+        ], 
+        "domain-name": "niu.edu", 
+        "fuzzer": "bitsquatting", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "128.228.38.47"
+        ], 
+        "domain-name": "ny.edu", 
+        "fuzzer": "omission", 
+        "geoip-country": "United States"
+    }, 
+    {
+        "dns-a": [
+            "23.185.0.2"
+        ], 
+        "dns-aaaa": [
+            "2620:12a:8000::2"
+        ], 
+        "dns-mx": [
+            "yu-edu.mail.protection.outlook.com"
+        ], 
+        "dns-ns": [
+            "dns03.nysernet.org", 
+            "ns1.yu.edu", 
+            "ns2.yu.edu"
+        ], 
+        "domain-name": "yu.edu", 
+        "fuzzer": "omission", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "198.17.145.124"
+        ], 
+        "dns-mx": [
+            "mxa-002b4301.gslb.pphosted.com", 
+            "mxb-002b4301.gslb.pphosted.com"
+        ], 
+        "dns-ns": [
+            "ns1-05.azure-dns.com", 
+            "ns2-05.azure-dns.net", 
+            "ns3-05.azure-dns.org", 
+            "ns4-05.azure-dns.info"
+        ], 
+        "domain-name": "nu.edu", 
+        "fuzzer": "omission", 
+        "geoip-country": "United States", 
+        "mx-spy": true, 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "128.187.16.100", 
+            "128.187.16.101", 
+            "128.187.16.98", 
+            "128.187.16.99"
+        ], 
+        "dns-mx": [
+            "byu.mail.protection.outlook.com", 
+            "gw10.byu.edu", 
+            "gw11.byu.edu", 
+            "gw12.byu.edu", 
+            "gw13.byu.edu", 
+            "gw9.byu.edu", 
+            "gw99.byu.edu"
+        ], 
+        "dns-ns": [
+            "DNS2.byu.edu", 
+            "EDNS2.byu.edu", 
+            "EDNS3.byu.edu", 
+            "dns1.byu.edu", 
+            "dns3.byu.edu", 
+            "dns4.byu.edu", 
+            "dns5.byu.edu", 
+            "dns6.byu.edu", 
+            "edns1.byu.edu"
+        ], 
+        "domain-name": "byu.edu", 
+        "fuzzer": "replacement", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "74.116.156.98"
+        ], 
+        "dns-mx": [
+            "nhu-edu.mail.protection.outlook.com"
+        ], 
+        "dns-ns": [
+            "ns1.laureate.net", 
+            "ns2.laureate.net", 
+            "ns3.laureate.net"
+        ], 
+        "domain-name": "nhu.edu", 
+        "fuzzer": "replacement"
+    }, 
+    {
+        "dns-a": [
+            "174.143.29.28"
+        ], 
+        "dns-mx": [
+            "d74363a.ess.barracudanetworks.com", 
+            "d74363b.ess.barracudanetwork.com", 
+            "efilter.encoretg.net", 
+            "ngu-edu.mail.protection.outlook.com"
+        ], 
+        "dns-ns": [
+            "nsmaster.clemson.edu", 
+            "pdns03.domaincontrol.com", 
+            "pdns04.domaincontrol.com"
+        ], 
+        "domain-name": "ngu.edu", 
+        "fuzzer": "replacement", 
+        "geoip-country": "United States"
+    }, 
+    {
+        "dns-a": [
+            "198.90.22.157"
+        ], 
+        "dns-mx": [
+            "nau-edu.mail.protection.outlook.com"
+        ], 
+        "dns-ns": [
+            "ns5.dnsmadeeasy.com", 
+            "ns6.dnsmadeeasy.com", 
+            "ns7.dnsmadeeasy.com"
+        ], 
+        "domain-name": "nau.edu", 
+        "fuzzer": "replacement", 
+        "geoip-country": "United States"
+    }, 
+    {
+        "dns-a": [
+            "204.155.176.137"
+        ], 
+        "dns-mx": [
+            "mx01.nsu.edu", 
+            "mx02.nsu.edu", 
+            "snsusmx01.nsu.edu", 
+            "snsusmx02.nsu.edu"
+        ], 
+        "dns-ns": [
+            "ns1.nsu.edu", 
+            "ns2.nsu.edu"
+        ], 
+        "domain-name": "nsu.edu", 
+        "fuzzer": "replacement"
+    }
+]

@@ -1,0 +1,33 @@
+[
+    {
+        "dns-a": [
+            "187.84.230.68"
+        ], 
+        "dns-ns": [
+            "ns1.redehost.com.br", 
+            "ns2.redehost.com.br"
+        ], 
+        "domain-name": "gestoflores.com", 
+        "fuzzer": "original*", 
+        "geoip-country": "Brazil", 
+        "ssdeep-score": 100
+    }, 
+    {
+        "dns-ns": [
+            "ns1.namebrightdns.com", 
+            "ns2.namebrightdns.com"
+        ], 
+        "domain-name": "gest.oflores.com", 
+        "fuzzer": "subdomain"
+    }, 
+    {
+        "dns-a": [
+            "165.160.13.20", 
+            "165.160.15.20"
+        ], 
+        "domain-name": "gesto.flores.com", 
+        "fuzzer": "subdomain", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 0
+    }
+]

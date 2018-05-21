@@ -1,0 +1,42 @@
+[
+    {
+        "dns-mx": [
+            "rtittwmx.realtek.com.tw"
+        ], 
+        "dns-ns": [
+            "ns1.realtek.com.tw", 
+            "ns2.realtek.com.tw"
+        ], 
+        "domain-name": "realtek.com.tw", 
+        "fuzzer": "original*"
+    }, 
+    {
+        "dns-a": [
+            "61.219.119.61"
+        ], 
+        "dns-mx": [
+            "mx1.zealtek.com.tw"
+        ], 
+        "dns-ns": [
+            "ns1.zealtek.com.tw", 
+            "ns2.zealtek.com.tw"
+        ], 
+        "domain-name": "zealtek.com.tw", 
+        "fuzzer": "bitsquatting", 
+        "geoip-country": "Taiwan"
+    }, 
+    {
+        "dns-a": [
+            "103.224.182.249"
+        ], 
+        "dns-mx": [
+            "park-mx.above.com"
+        ], 
+        "dns-ns": [
+            "ns1.above.com", 
+            "ns2.above.com"
+        ], 
+        "domain-name": "realtek.tw", 
+        "fuzzer": "various"
+    }
+]

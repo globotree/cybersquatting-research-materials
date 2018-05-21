@@ -1,0 +1,55 @@
+[
+    {
+        "dns-a": [
+            "151.101.1.69", 
+            "151.101.129.69", 
+            "151.101.193.69", 
+            "151.101.65.69"
+        ], 
+        "dns-ns": [
+            "ns-1376.awsdns-44.org", 
+            "ns-1643.awsdns-13.co.uk", 
+            "ns-cloud-e1.googledomains.com", 
+            "ns-cloud-e2.googledomains.com"
+        ], 
+        "domain-name": "askubuntu.com", 
+        "fuzzer": "original*", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 91
+    }, 
+    {
+        "dns-a": [
+            "91.189.94.38"
+        ], 
+        "dns-ns": [
+            "ns1.canonical.com", 
+            "ns2.canonical.com", 
+            "ns3.canonical.com"
+        ], 
+        "domain-name": "skubuntu.com", 
+        "fuzzer": "omission", 
+        "geoip-country": "United Kingdom", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "91.189.89.122", 
+            "91.189.90.19"
+        ], 
+        "domain-name": "ask.ubuntu.com", 
+        "fuzzer": "subdomain", 
+        "geoip-country": "United Kingdom", 
+        "ssdeep-score": 80
+    }, 
+    {
+        "dns-a": [
+            "69.172.201.153"
+        ], 
+        "dns-ns": [
+            "ns1.uniregistrymarket.link", 
+            "ns2.uniregistrymarket.link"
+        ], 
+        "domain-name": "askubu.ntu.com", 
+        "fuzzer": "subdomain"
+    }
+]

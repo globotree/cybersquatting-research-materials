@@ -1,0 +1,119 @@
+[
+    {
+        "dns-a": [
+            "72.52.77.8"
+        ], 
+        "dns-mx": [
+            "mail-archive-com.p10.spamhero.com", 
+            "mail-archive-com.p20.spamhero.net", 
+            "mail-archive-com.p30.spamhero.net", 
+            "mail-archive-com.p40.spamhero.net"
+        ], 
+        "dns-ns": [
+            "ns-1104.awsdns-10.org", 
+            "ns-1714.awsdns-22.co.uk", 
+            "ns-398.awsdns-49.com", 
+            "ns-852.awsdns-42.net"
+        ], 
+        "domain-name": "mail-archive.com", 
+        "fuzzer": "original*", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 93
+    }, 
+    {
+        "dns-a": [
+            "109.71.26.62"
+        ], 
+        "dns-ns": [
+            "nsa4.schlundtech.de", 
+            "nsb4.schlundtech.de", 
+            "nsc4.schlundtech.de", 
+            "nsd4.schlundtech.de"
+        ], 
+        "domain-name": "mail-archiver.com", 
+        "fuzzer": "addition", 
+        "geoip-country": "Germany"
+    }, 
+    {
+        "dns-a": [
+            "217.160.223.115"
+        ], 
+        "dns-mx": [
+            "mx00.kundenserver.de", 
+            "mx01.kundenserver.de"
+        ], 
+        "dns-ns": [
+            "ns1031.ui-dns.biz", 
+            "ns1031.ui-dns.com", 
+            "ns1031.ui-dns.de", 
+            "ns1031.ui-dns.org"
+        ], 
+        "domain-name": "mail-archiv.com", 
+        "fuzzer": "omission", 
+        "geoip-country": "Germany", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "72.52.4.122"
+        ], 
+        "dns-mx": [
+            "localhost"
+        ], 
+        "dns-ns": [
+            "ns1.sedoparking.com", 
+            "ns2.sedoparking.com"
+        ], 
+        "domain-name": "mailarchive.com", 
+        "fuzzer": "omission", 
+        "geoip-country": "United States", 
+        "mx-spy": true, 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "149.174.107.98", 
+            "149.174.110.103", 
+            "195.93.85.39", 
+            "207.200.74.30", 
+            "64.12.79.10", 
+            "64.12.89.152"
+        ], 
+        "dns-ns": [
+            "dns-01.ns.aol.com", 
+            "dns-02.ns.aol.com", 
+            "dns-06.ns.aol.com", 
+            "dns-07.ns.aol.com"
+        ], 
+        "domain-name": "maol-archive.com", 
+        "fuzzer": "replacement", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "69.172.201.153"
+        ], 
+        "dns-ns": [
+            "ns1.uniregistrymarket.link", 
+            "ns2.uniregistrymarket.link"
+        ], 
+        "domain-name": "mail-a.rchive.com", 
+        "fuzzer": "subdomain", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "69.172.201.153"
+        ], 
+        "dns-ns": [
+            "ns1.uniregistrymarket.link", 
+            "ns2.uniregistrymarket.link"
+        ], 
+        "domain-name": "mail-arch.ive.com", 
+        "fuzzer": "subdomain", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 0
+    }
+]

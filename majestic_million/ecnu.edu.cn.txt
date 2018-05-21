@@ -1,0 +1,57 @@
+[
+    {
+        "dns-mx": [
+            "mailscan.ecnu.edu.cn", 
+            "webmail.ecnu.edu.cn"
+        ], 
+        "dns-ns": [
+            "liwa.ecnu.edu.cn", 
+            "sun.ecnu.edu.cn", 
+            "xiayu.ecnu.edu.cn", 
+            "yingtao.ecnu.edu.cn"
+        ], 
+        "domain-name": "ecnu.edu.cn", 
+        "fuzzer": "original*"
+    }, 
+    {
+        "dns-a": [
+            "202.204.221.10"
+        ], 
+        "dns-mx": [
+            "mxbiz1.qq.com", 
+            "mxbiz2.qq.com"
+        ], 
+        "dns-ns": [
+            "dns.cnu.edu.cn", 
+            "dns2.cnu.edu.cn"
+        ], 
+        "domain-name": "cnu.edu.cn", 
+        "fuzzer": "omission", 
+        "geoip-country": "China", 
+        "mx-spy": true
+    }, 
+    {
+        "dns-a": [
+            "121.8.171.26"
+        ], 
+        "dns-mx": [
+            "mx1.scnu.edu.cn", 
+            "mx2.scnu.edu.cn"
+        ], 
+        "dns-ns": [
+            "hsnc.scnu.edu.cn", 
+            "hsut.scnu.edu.cn"
+        ], 
+        "domain-name": "scnu.edu.cn", 
+        "fuzzer": "replacement", 
+        "geoip-country": "China"
+    }, 
+    {
+        "dns-ns": [
+            "liwa.ecnu.edu.cn", 
+            "xiayu.ecnu.edu.cn"
+        ], 
+        "domain-name": "ecnu.cn", 
+        "fuzzer": "various"
+    }
+]

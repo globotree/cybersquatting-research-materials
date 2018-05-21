@@ -1,0 +1,184 @@
+[
+    {
+        "dns-a": [
+            "54.230.14.104", 
+            "54.230.14.105", 
+            "54.230.14.128", 
+            "54.230.14.145", 
+            "54.230.14.234", 
+            "54.230.14.64", 
+            "54.230.14.70", 
+            "54.230.14.99"
+        ], 
+        "dns-aaaa": [
+            "2600:9000:2001:2c00:b:297f:a400:93a1", 
+            "2600:9000:2001:5000:b:297f:a400:93a1", 
+            "2600:9000:2001:8800:b:297f:a400:93a1", 
+            "2600:9000:2001:c600:b:297f:a400:93a1", 
+            "2600:9000:2001:d800:b:297f:a400:93a1", 
+            "2600:9000:2001:dc00:b:297f:a400:93a1", 
+            "2600:9000:2001:ea00:b:297f:a400:93a1", 
+            "2600:9000:2001:f400:b:297f:a400:93a1"
+        ], 
+        "dns-mx": [
+            "mxa-0022d901.gslb.pphosted.com", 
+            "mxb-0022d901.gslb.pphosted.com"
+        ], 
+        "dns-ns": [
+            "ns-1230.awsdns-25.org", 
+            "ns-1898.awsdns-45.co.uk", 
+            "ns-470.awsdns-58.com", 
+            "ns-596.awsdns-10.net"
+        ], 
+        "domain-name": "brisbanetimes.com.au", 
+        "fuzzer": "original*", 
+        "geoip-country": "United States", 
+        "mx-spy": true, 
+        "ssdeep-score": 99
+    }, 
+    {
+        "dns-a": [
+            "202.124.241.178"
+        ], 
+        "dns-ns": [
+            "ns1.netregistry.net", 
+            "ns2.netregistry.net", 
+            "ns3.netregistry.net"
+        ], 
+        "domain-name": "brisbanetiles.com.au", 
+        "fuzzer": "bitsquatting", 
+        "geoip-country": "Australia", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "54.206.120.149", 
+            "54.66.237.163"
+        ], 
+        "dns-ns": [
+            "ns-1015.awsdns-62.net", 
+            "ns-1351.awsdns-40.org", 
+            "ns-1593.awsdns-07.co.uk", 
+            "ns-196.awsdns-24.com"
+        ], 
+        "domain-name": "brisbantimes.com.au", 
+        "fuzzer": "omission", 
+        "geoip-country": "Australia", 
+        "ssdeep-score": 68
+    }, 
+    {
+        "dns-a": [
+            "103.224.182.251"
+        ], 
+        "dns-mx": [
+            "park-mx.above.com"
+        ], 
+        "dns-ns": [
+            "ns1.above.com", 
+            "ns2.above.com"
+        ], 
+        "domain-name": "brisbanetime.com.au", 
+        "fuzzer": "omission", 
+        "geoip-country": "Australia", 
+        "mx-spy": true, 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "103.224.212.247"
+        ], 
+        "dns-mx": [
+            "park-mx.above.com"
+        ], 
+        "dns-ns": [
+            "ns3.above.com", 
+            "ns4.above.com"
+        ], 
+        "domain-name": "brisbane.times.com.au", 
+        "fuzzer": "subdomain", 
+        "geoip-country": "Australia", 
+        "mx-spy": true, 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "98.124.245.24"
+        ], 
+        "dns-mx": [
+            "mail.b-io.co"
+        ], 
+        "dns-ns": [
+            "ns1.fabulous.com", 
+            "ns2.fabulous.com"
+        ], 
+        "domain-name": "brisbanetim.es.com.au", 
+        "fuzzer": "subdomain", 
+        "geoip-country": "United States", 
+        "mx-spy": true, 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "54.206.120.149", 
+            "54.66.237.163"
+        ], 
+        "dns-ns": [
+            "ns-1511.awsdns-60.org", 
+            "ns-1760.awsdns-28.co.uk", 
+            "ns-348.awsdns-43.com", 
+            "ns-591.awsdns-09.net"
+        ], 
+        "domain-name": "brisbnaetimes.com.au", 
+        "fuzzer": "transposition", 
+        "geoip-country": "Australia", 
+        "ssdeep-score": 68
+    }, 
+    {
+        "dns-a": [
+            "54.206.120.149", 
+            "54.66.237.163"
+        ], 
+        "dns-ns": [
+            "ns-1288.awsdns-33.org", 
+            "ns-154.awsdns-19.com", 
+            "ns-1928.awsdns-49.co.uk", 
+            "ns-615.awsdns-12.net"
+        ], 
+        "domain-name": "brisbaentimes.com.au", 
+        "fuzzer": "transposition", 
+        "geoip-country": "Australia", 
+        "ssdeep-score": 68
+    }, 
+    {
+        "dns-a": [
+            "54.206.120.149", 
+            "54.66.237.163"
+        ], 
+        "dns-ns": [
+            "ns-1222.awsdns-24.org", 
+            "ns-1544.awsdns-01.co.uk", 
+            "ns-273.awsdns-34.com", 
+            "ns-897.awsdns-48.net"
+        ], 
+        "domain-name": "brisbaneitmes.com.au", 
+        "fuzzer": "transposition", 
+        "geoip-country": "Australia", 
+        "ssdeep-score": 68
+    }, 
+    {
+        "dns-a": [
+            "54.206.120.149", 
+            "54.66.237.163"
+        ], 
+        "dns-ns": [
+            "ns-1335.awsdns-38.org", 
+            "ns-1704.awsdns-21.co.uk", 
+            "ns-2.awsdns-00.com", 
+            "ns-938.awsdns-53.net"
+        ], 
+        "domain-name": "brisbanetiems.com.au", 
+        "fuzzer": "transposition", 
+        "geoip-country": "Australia", 
+        "ssdeep-score": 68
+    }
+]

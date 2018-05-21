@@ -1,0 +1,87 @@
+[
+    {
+        "dns-a": [
+            "104.16.172.9", 
+            "104.16.173.9", 
+            "104.16.174.9", 
+            "104.16.175.9", 
+            "104.16.176.9"
+        ], 
+        "dns-aaaa": [
+            "2400:cb00:2048:1::6810:ac09", 
+            "2400:cb00:2048:1::6810:ad09", 
+            "2400:cb00:2048:1::6810:ae09", 
+            "2400:cb00:2048:1::6810:af09", 
+            "2400:cb00:2048:1::6810:b009"
+        ], 
+        "dns-mx": [
+            "alt1.aspmx.l.google.com", 
+            "alt2.aspmx.l.google.com", 
+            "aspmx.l.google.com", 
+            "aspmx2.googlemail.com", 
+            "aspmx3.googlemail.com", 
+            "thefrisky-com.mail.protection.outlook.com"
+        ], 
+        "dns-ns": [
+            "ingrid.ns.cloudflare.com", 
+            "seth.ns.cloudflare.com"
+        ], 
+        "domain-name": "thefrisky.com", 
+        "fuzzer": "original*", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 100
+    }, 
+    {
+        "dns-a": [
+            "52.86.22.136", 
+            "54.174.212.152"
+        ], 
+        "dns-ns": [
+            "ns1.namebrightdns.com", 
+            "ns2.namebrightdns.com"
+        ], 
+        "domain-name": "therisky.com", 
+        "fuzzer": "omission", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "98.129.229.55"
+        ], 
+        "dns-mx": [
+            "mx1.emailsrvr.com", 
+            "mx2.emailsrvr.com"
+        ], 
+        "dns-ns": [
+            "dns1.stabletransit.com", 
+            "dns2.stabletransit.com"
+        ], 
+        "domain-name": "thefrisk.com", 
+        "fuzzer": "omission", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "213.208.151.31"
+        ], 
+        "domain-name": "the.frisky.com", 
+        "fuzzer": "subdomain", 
+        "geoip-country": "Austria", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "184.168.221.104"
+        ], 
+        "dns-ns": [
+            "ns1.afternic.com", 
+            "ns2.afternic.com"
+        ], 
+        "domain-name": "thef.risky.com", 
+        "fuzzer": "subdomain", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 0
+    }
+]

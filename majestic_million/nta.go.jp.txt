@@ -1,0 +1,29 @@
+[
+    {
+        "dns-mx": [
+            "cz01m330.nta.go.jp"
+        ], 
+        "dns-ns": [
+            "cz01d302.nta.go.jp", 
+            "ns00.vips.ne.jp", 
+            "ns01.vips.ne.jp"
+        ], 
+        "domain-name": "nta.go.jp", 
+        "fuzzer": "original*", 
+        "mx-spy": true
+    }, 
+    {
+        "dns-mx": [
+            "ins.npa.go.jp", 
+            "ins2.npa.go.jp"
+        ], 
+        "dns-ns": [
+            "dns102.dion.ne.jp", 
+            "ins.npa.go.jp", 
+            "ins2.npa.go.jp"
+        ], 
+        "domain-name": "npa.go.jp", 
+        "fuzzer": "bitsquatting", 
+        "mx-spy": true
+    }
+]

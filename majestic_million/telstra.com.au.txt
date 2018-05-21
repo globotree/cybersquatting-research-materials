@@ -1,0 +1,88 @@
+[
+    {
+        "dns-a": [
+            "203.36.148.11", 
+            "203.36.148.7", 
+            "203.36.190.11", 
+            "203.36.190.7"
+        ], 
+        "dns-aaaa": [
+            "2001:8006:102:7::11", 
+            "2001:8006:102:7::7", 
+            "2001:8006:103:7::11", 
+            "2001:8006:103:7::7"
+        ], 
+        "dns-mx": [
+            "ipano.tcif.telstra.com.au", 
+            "ipavo.tcif.telstra.com.au", 
+            "ipbno.tcif.telstra.com.au", 
+            "ipbvo.tcif.telstra.com.au", 
+            "ipcno.tcif.telstra.com.au", 
+            "ipcvo.tcif.telstra.com.au"
+        ], 
+        "dns-ns": [
+            "adns01.bigpond.com", 
+            "adns02.bigpond.com", 
+            "adns03.bigpond.com", 
+            "adns04.bigpond.com"
+        ], 
+        "domain-name": "telstra.com.au", 
+        "fuzzer": "original*", 
+        "geoip-country": "Australia", 
+        "ssdeep-score": 100
+    }, 
+    {
+        "dns-a": [
+            "202.124.241.178"
+        ], 
+        "dns-ns": [
+            "adns01.bigpond.com", 
+            "adns02.bigpond.com", 
+            "adns03.bigpond.com", 
+            "adns04.bigpond.com"
+        ], 
+        "domain-name": "telstr.com.au", 
+        "fuzzer": "omission", 
+        "geoip-country": "Australia", 
+        "ssdeep-score": 100
+    }, 
+    {
+        "dns-a": [
+            "203.170.80.250"
+        ], 
+        "dns-ns": [
+            "ns1.crazydomains.com", 
+            "ns2.crazydomains.com"
+        ], 
+        "domain-name": "testra.com.au", 
+        "fuzzer": "omission", 
+        "geoip-country": "Australia", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "98.124.245.24"
+        ], 
+        "dns-ns": [
+            "ns1.fabulous.com", 
+            "ns2.fabulous.com"
+        ], 
+        "domain-name": "telst.ra.com.au", 
+        "fuzzer": "subdomain", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "203.170.81.129"
+        ], 
+        "dns-aaaa": [
+            "2404:8280:a222:bbbb:bba1:25:ffff:ffff"
+        ], 
+        "dns-mx": [
+            "telstar.com.au"
+        ], 
+        "domain-name": "telstar.com.au", 
+        "fuzzer": "transposition"
+    }
+]

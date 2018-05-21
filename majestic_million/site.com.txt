@@ -1,0 +1,1519 @@
+[
+    {
+        "dns-a": [
+            "204.74.99.100"
+        ], 
+        "dns-mx": [
+            "crsmail.ultradns.net"
+        ], 
+        "dns-ns": [
+            "dns01.salesforce.com", 
+            "dns02.salesforce.com", 
+            "dns03.salesforce.com", 
+            "dns04.salesforce.com", 
+            "dns05.salesforce.com", 
+            "dns06.salesforce.com", 
+            "ns1.salesforce.com", 
+            "ns2.salesforce.com", 
+            "ns3.salesforce.com", 
+            "ns4.salesforce.com"
+        ], 
+        "domain-name": "site.com", 
+        "fuzzer": "original*", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 99
+    }, 
+    {
+        "dns-mx": [
+            "sitea-com.mail.protection.outlook.com"
+        ], 
+        "dns-ns": [
+            "ns5.altamiraweb.com", 
+            "ns6.altamiraweb.com"
+        ], 
+        "domain-name": "sitea.com", 
+        "fuzzer": "addition"
+    }, 
+    {
+        "dns-a": [
+            "192.99.245.53"
+        ], 
+        "dns-mx": [
+            "siteb.com"
+        ], 
+        "dns-ns": [
+            "sdns1.ovh.ca", 
+            "vps33856.vps.ovh.ca"
+        ], 
+        "domain-name": "siteb.com", 
+        "fuzzer": "addition", 
+        "geoip-country": "Canada", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "83.64.189.131"
+        ], 
+        "dns-mx": [
+            "mail.sitec.at", 
+            "mx.upcbusiness.at"
+        ], 
+        "dns-ns": [
+            "ns1.upc.biz", 
+            "ns2.upc.biz"
+        ], 
+        "domain-name": "sitec.com", 
+        "fuzzer": "addition", 
+        "geoip-country": "Austria", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-mx": [
+            "mail2a.smtproutes.org", 
+            "mail2b.smtproutes.org"
+        ], 
+        "dns-ns": [
+            "dx0.qtk.com", 
+            "dx1.qtk.com"
+        ], 
+        "domain-name": "sited.com", 
+        "fuzzer": "addition"
+    }, 
+    {
+        "dns-a": [
+            "95.211.219.66"
+        ], 
+        "dns-ns": [
+            "ns1.hastydns.com", 
+            "ns2.hastydns.com"
+        ], 
+        "domain-name": "sitee.com", 
+        "fuzzer": "addition", 
+        "geoip-country": "Netherlands"
+    }, 
+    {
+        "dns-mx": [
+            "mail.h-email.net"
+        ], 
+        "dns-ns": [
+            "ns1.parkingcrew.net", 
+            "ns2.parkingcrew.net"
+        ], 
+        "domain-name": "sitef.com", 
+        "fuzzer": "addition", 
+        "mx-spy": true
+    }, 
+    {
+        "dns-a": [
+            "89.108.157.228"
+        ], 
+        "dns-mx": [
+            "mx1.netsolmail.net"
+        ], 
+        "dns-ns": [
+            "ns95.worldnic.com", 
+            "ns96.worldnic.com"
+        ], 
+        "domain-name": "siteg.com", 
+        "fuzzer": "addition", 
+        "geoip-country": "Lebanon"
+    }, 
+    {
+        "dns-a": [
+            "72.52.4.119"
+        ], 
+        "dns-mx": [
+            "localhost"
+        ], 
+        "dns-ns": [
+            "ns1.sedoparking.com", 
+            "ns2.sedoparking.com"
+        ], 
+        "domain-name": "siteh.com", 
+        "fuzzer": "addition", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-ns": [
+            "ns1.afternic.com", 
+            "ns2.afternic.com"
+        ], 
+        "domain-name": "sitei.com", 
+        "fuzzer": "addition"
+    }, 
+    {
+        "dns-a": [
+            "54.210.187.20", 
+            "54.236.156.218"
+        ], 
+        "dns-mx": [
+            "mail1.namebrightmail.com", 
+            "mail2.namebrightmail.com"
+        ], 
+        "dns-ns": [
+            "ns1.namebrightdns.com", 
+            "ns2.namebrightdns.com"
+        ], 
+        "domain-name": "sitej.com", 
+        "fuzzer": "addition", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "97.74.24.22"
+        ], 
+        "dns-mx": [
+            "sitek-com.relay1a.spamh.com", 
+            "sitek-com.relay1b.spamh.com", 
+            "sitek-com.relay1c.spamh.com"
+        ], 
+        "domain-name": "sitek.com", 
+        "fuzzer": "addition", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "72.52.184.188"
+        ], 
+        "dns-mx": [
+            "mx1.sitel.iphmx.com", 
+            "mx2.sitel.iphmx.com"
+        ], 
+        "dns-ns": [
+            "ns1.sitel-gtm.com", 
+            "ns2.sitel-gtm.com"
+        ], 
+        "domain-name": "sitel.com", 
+        "fuzzer": "addition", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "103.224.182.210"
+        ], 
+        "dns-mx": [
+            "park-mx.above.com"
+        ], 
+        "dns-ns": [
+            "ns1.above.com", 
+            "ns2.above.com"
+        ], 
+        "domain-name": "sitem.com", 
+        "fuzzer": "addition", 
+        "geoip-country": "Australia", 
+        "mx-spy": true, 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "104.156.231.152"
+        ], 
+        "dns-ns": [
+            "myns1.fabulous.com", 
+            "myns2.fabulous.com"
+        ], 
+        "domain-name": "siten.com", 
+        "fuzzer": "addition", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "145.239.12.163"
+        ], 
+        "dns-mx": [
+            "alt1.aspmx.l.google.com", 
+            "alt2.aspmx.l.google.com", 
+            "aspmx.l.google.com", 
+            "aspmx2.googlemail.com", 
+            "aspmx3.googlemail.com", 
+            "aspmx4.googlemail.com", 
+            "aspmx5.googlemail.com"
+        ], 
+        "dns-ns": [
+            "ns-1101.awsdns-09.org", 
+            "ns-1911.awsdns-46.co.uk", 
+            "ns-481.awsdns-60.com", 
+            "ns-683.awsdns-21.net"
+        ], 
+        "domain-name": "siteo.com", 
+        "fuzzer": "addition", 
+        "geoip-country": "United Kingdom", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "217.76.142.93"
+        ], 
+        "dns-mx": [
+            "mx.serviciodecorreo.es", 
+            "sitep-com.mail.protection.outlook.com"
+        ], 
+        "dns-ns": [
+            "dns1.servidoresdns.net", 
+            "dns2.servidoresdns.net"
+        ], 
+        "domain-name": "sitep.com", 
+        "fuzzer": "addition", 
+        "geoip-country": "Spain", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "121.254.178.233"
+        ], 
+        "dns-ns": [
+            "ns.domainca.com", 
+            "ns2.domainca.com"
+        ], 
+        "domain-name": "siteq.com", 
+        "fuzzer": "addition", 
+        "geoip-country": "Korea", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-mx": [
+            "ALT1.ASPMX.L.GOOGLE.com", 
+            "ALT2.ASPMX.L.GOOGLE.com", 
+            "ALT3.ASPMX.L.GOOGLE.com", 
+            "ALT4.ASPMX.L.GOOGLE.com", 
+            "ASPMX.L.GOOGLE.com"
+        ], 
+        "dns-ns": [
+            "ns1.dominios.uol.com.br", 
+            "ns2.dominios.uol.com.br", 
+            "ns3.dominios.uol.com.br"
+        ], 
+        "domain-name": "siter.com", 
+        "fuzzer": "addition"
+    }, 
+    {
+        "dns-a": [
+            "104.215.95.187", 
+            "52.164.206.56"
+        ], 
+        "dns-ns": [
+            "ns1.msft.net", 
+            "ns2.msft.net", 
+            "ns3.msft.net", 
+            "ns4.msft.net"
+        ], 
+        "domain-name": "sites.com", 
+        "fuzzer": "addition", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "37.35.106.100"
+        ], 
+        "dns-mx": [
+            "alt1.aspmx.l.google.com", 
+            "alt2.aspmx.l.google.com", 
+            "aspmx.l.google.com", 
+            "aspmx2.googlemail.com", 
+            "aspmx3.googlemail.com"
+        ], 
+        "dns-ns": [
+            "ns1.expansione.it", 
+            "ns2.expansione.it"
+        ], 
+        "domain-name": "sitet.com", 
+        "fuzzer": "addition", 
+        "geoip-country": "Switzerland", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "192.64.147.189"
+        ], 
+        "dns-ns": [
+            "ns1.voodoo.com", 
+            "ns2.voodoo.com"
+        ], 
+        "domain-name": "siteu.com", 
+        "fuzzer": "addition", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "50.63.202.3"
+        ], 
+        "dns-mx": [
+            "mailstore1.secureserver.net", 
+            "smtp.secureserver.net"
+        ], 
+        "dns-ns": [
+            "ns11.domaincontrol.com", 
+            "ns12.domaincontrol.com"
+        ], 
+        "domain-name": "sitev.com", 
+        "fuzzer": "addition", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "87.98.141.83"
+        ], 
+        "dns-mx": [
+            "ALT1.ASPMX.L.GOOGLE.com", 
+            "ALT2.ASPMX.L.GOOGLE.com", 
+            "ASPMX.L.GOOGLE.com", 
+            "ASPMX2.GOOGLEMAIL.com", 
+            "ASPMX3.GOOGLEMAIL.com", 
+            "ASPMX4.GOOGLEMAIL.com", 
+            "ASPMX5.GOOGLEMAIL.com"
+        ], 
+        "dns-ns": [
+            "nsa.bookmyname.com", 
+            "nsb.bookmyname.com", 
+            "nsc.bookmyname.com"
+        ], 
+        "domain-name": "sitew.com", 
+        "fuzzer": "addition", 
+        "geoip-country": "France", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "209.194.0.142"
+        ], 
+        "dns-mx": [
+            "mail.sitex.com"
+        ], 
+        "dns-ns": [
+            "ns1.companyns.net", 
+            "ns2.companyns.net", 
+            "ns6.companyns.net"
+        ], 
+        "domain-name": "sitex.com", 
+        "fuzzer": "addition", 
+        "geoip-country": "United States"
+    }, 
+    {
+        "dns-a": [
+            "107.178.213.154"
+        ], 
+        "dns-mx": [
+            "mail.fortifi.zone"
+        ], 
+        "dns-ns": [
+            "ns-1262.awsdns-29.org", 
+            "ns-1824.awsdns-36.co.uk", 
+            "ns-463.awsdns-57.com", 
+            "ns-606.awsdns-11.net"
+        ], 
+        "domain-name": "sitey.com", 
+        "fuzzer": "addition", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "184.168.221.96"
+        ], 
+        "dns-mx": [
+            "0", 
+            "10"
+        ], 
+        "dns-ns": [
+            "ns01.cashparking.com", 
+            "ns02.cashparking.com"
+        ], 
+        "domain-name": "sitez.com", 
+        "fuzzer": "addition", 
+        "geoip-country": "United States", 
+        "mx-spy": true, 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "41.222.168.18"
+        ], 
+        "dns-mx": [
+            "cg.mist.com.eg", 
+            "emfa.mist.com.eg"
+        ], 
+        "dns-ns": [
+            "dns1.mist-net.com", 
+            "dns2-local.mist-net.com", 
+            "dns2.mist-net.com", 
+            "dnscache1.mist-net.com", 
+            "dnscache2.mist-net.com", 
+            "ns1.mist-net.com", 
+            "ns2.mist-net.com"
+        ], 
+        "domain-name": "rite.com", 
+        "fuzzer": "bitsquatting", 
+        "geoip-country": "Egypt", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "52.65.79.3"
+        ], 
+        "dns-mx": [
+            "qite-com.mail.protection.outlook.com"
+        ], 
+        "dns-ns": [
+            "dns1.rgtech.net.au", 
+            "dns2.rgtech.net.au"
+        ], 
+        "domain-name": "qite.com", 
+        "fuzzer": "bitsquatting", 
+        "geoip-country": "Australia", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "35.167.29.59"
+        ], 
+        "dns-ns": [
+            "ns41.domaincontrol.com", 
+            "ns42.domaincontrol.com"
+        ], 
+        "domain-name": "wite.com", 
+        "fuzzer": "bitsquatting", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "52.222.146.100", 
+            "52.222.146.109", 
+            "52.222.146.158", 
+            "52.222.146.184", 
+            "52.222.146.186", 
+            "52.222.146.232", 
+            "52.222.146.249", 
+            "52.222.146.60"
+        ], 
+        "dns-mx": [
+            "inbound-smtp.us-east-1.amazonaws.com"
+        ], 
+        "dns-ns": [
+            "ns-1209.awsdns-23.org", 
+            "ns-1648.awsdns-14.co.uk", 
+            "ns-404.awsdns-50.com", 
+            "ns-622.awsdns-13.net"
+        ], 
+        "domain-name": "cite.com", 
+        "fuzzer": "bitsquatting", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "60.205.17.161"
+        ], 
+        "dns-ns": [
+            "dns31.hichina.com", 
+            "dns32.hichina.com"
+        ], 
+        "domain-name": "3ite.com", 
+        "fuzzer": "bitsquatting", 
+        "geoip-country": "China", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "72.9.105.30"
+        ], 
+        "domain-name": "shte.com", 
+        "fuzzer": "bitsquatting", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "69.172.201.153"
+        ], 
+        "dns-ns": [
+            "ns1.uniregistrymarket.link", 
+            "ns2.uniregistrymarket.link"
+        ], 
+        "domain-name": "skte.com", 
+        "fuzzer": "bitsquatting", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "194.236.32.162"
+        ], 
+        "dns-mx": [
+            "smte-com.mail.protection.outlook.com"
+        ], 
+        "dns-ns": [
+            "ns3.space2u.com", 
+            "ns4.space2u.com"
+        ], 
+        "domain-name": "smte.com", 
+        "fuzzer": "bitsquatting", 
+        "geoip-country": "Sweden", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "199.59.242.150"
+        ], 
+        "dns-mx": [
+            "mx76.m2bp.com", 
+            "mx76.mb1p.com"
+        ], 
+        "dns-ns": [
+            "ns1.bodis.com", 
+            "ns2.bodis.com"
+        ], 
+        "domain-name": "sate.com", 
+        "fuzzer": "bitsquatting", 
+        "geoip-country": "United States", 
+        "mx-spy": true, 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "216.239.32.21", 
+            "216.239.34.21", 
+            "216.239.36.21", 
+            "216.239.38.21"
+        ], 
+        "dns-ns": [
+            "ns1.domaindiscover.com", 
+            "ns2.domaindiscover.com"
+        ], 
+        "domain-name": "syte.com", 
+        "fuzzer": "bitsquatting", 
+        "geoip-country": "United States"
+    }, 
+    {
+        "dns-a": [
+            "108.161.137.210"
+        ], 
+        "dns-mx": [
+            "siue.com"
+        ], 
+        "dns-ns": [
+            "ns1.beezlebox.com", 
+            "ns2.beezlebox.com"
+        ], 
+        "domain-name": "siue.com", 
+        "fuzzer": "bitsquatting", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "208.73.211.70"
+        ], 
+        "dns-ns": [
+            "ns41.domaincontrol.com", 
+            "ns42.domaincontrol.com"
+        ], 
+        "domain-name": "sive.com", 
+        "fuzzer": "bitsquatting", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "69.172.201.153"
+        ], 
+        "dns-ns": [
+            "ns1.uniregistrymarket.link", 
+            "ns2.uniregistrymarket.link"
+        ], 
+        "domain-name": "sipe.com", 
+        "fuzzer": "bitsquatting", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "37.1.96.14"
+        ], 
+        "dns-mx": [
+            "cluster3.eu.messagelabs.com", 
+            "cluster3a.eu.messagelabs.com"
+        ], 
+        "dns-ns": [
+            "ns1.meganameservers.eu", 
+            "ns2.meganameservers.eu", 
+            "ns3.meganameservers.eu"
+        ], 
+        "domain-name": "side.com", 
+        "fuzzer": "bitsquatting", 
+        "geoip-country": "United Kingdom", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "69.172.201.153"
+        ], 
+        "dns-ns": [
+            "ns1.uniregistrymarket.link", 
+            "ns2.uniregistrymarket.link"
+        ], 
+        "domain-name": "sitd.com", 
+        "fuzzer": "bitsquatting", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "88.86.109.120"
+        ], 
+        "dns-mx": [
+            "dpdns.sita.int"
+        ], 
+        "dns-ns": [
+            "dns1.equant.net", 
+            "dns2.equant.net", 
+            "dns3.equant.net"
+        ], 
+        "domain-name": "sita.com", 
+        "fuzzer": "bitsquatting", 
+        "geoip-country": "Czech Republic"
+    }, 
+    {
+        "dns-a": [
+            "98.124.199.77"
+        ], 
+        "dns-ns": [
+            "dns1.name-services.com", 
+            "dns2.name-services.com", 
+            "dns3.name-services.com", 
+            "dns4.name-services.com", 
+            "dns5.name-services.com"
+        ], 
+        "domain-name": "sitm.com", 
+        "fuzzer": "bitsquatting", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "104.230.147.151"
+        ], 
+        "dns-mx": [
+            "www.situ.com"
+        ], 
+        "dns-ns": [
+            "mordred.membrane.com", 
+            "munin.membrane.com", 
+            "parsifal.membrane.com"
+        ], 
+        "domain-name": "situ.com", 
+        "fuzzer": "bitsquatting", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "162.144.12.244"
+        ], 
+        "dns-mx": [
+            "mail.s1te.com"
+        ], 
+        "dns-ns": [
+            "ns6585.hostgator.com", 
+            "ns6586.hostgator.com"
+        ], 
+        "domain-name": "s1te.com", 
+        "fuzzer": "homoglyph", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "209.61.212.154"
+        ], 
+        "dns-mx": [
+            "smtp.getontheweb.com"
+        ], 
+        "dns-ns": [
+            "ns1.dnsnameservice.com", 
+            "ns2.dnsnameservice.com"
+        ], 
+        "domain-name": "slte.com", 
+        "fuzzer": "homoglyph", 
+        "geoip-country": "United States", 
+        "mx-spy": true, 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "185.53.178.6"
+        ], 
+        "dns-mx": [
+            "mail.h-email.net"
+        ], 
+        "dns-ns": [
+            "ns1.parkingcrew.net", 
+            "ns2.parkingcrew.net"
+        ], 
+        "domain-name": "si-te.com", 
+        "fuzzer": "hyphenation", 
+        "geoip-country": "Germany", 
+        "mx-spy": true, 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "216.239.32.21", 
+            "216.239.34.21", 
+            "216.239.36.21", 
+            "216.239.38.21", 
+            "50.63.202.35"
+        ], 
+        "dns-mx": [
+            "mailstore1.secureserver.net", 
+            "smtp.secureserver.net"
+        ], 
+        "dns-ns": [
+            "ns33.domaincontrol.com", 
+            "ns34.domaincontrol.com"
+        ], 
+        "domain-name": "sit-e.com", 
+        "fuzzer": "hyphenation", 
+        "geoip-country": "United States"
+    }, 
+    {
+        "dns-a": [
+            "217.160.231.204"
+        ], 
+        "dns-mx": [
+            "mx00.1and1.fr", 
+            "mx01.1and1.fr"
+        ], 
+        "dns-ns": [
+            "ns1040.ui-dns.biz", 
+            "ns1040.ui-dns.com", 
+            "ns1040.ui-dns.de", 
+            "ns1040.ui-dns.org"
+        ], 
+        "domain-name": "sitge.com", 
+        "fuzzer": "insertion", 
+        "geoip-country": "Germany", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "69.172.201.153"
+        ], 
+        "dns-ns": [
+            "ns1.uniregistrymarket.link", 
+            "ns2.uniregistrymarket.link"
+        ], 
+        "domain-name": "sigte.com", 
+        "fuzzer": "insertion", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "52.86.22.136", 
+            "54.174.212.152"
+        ], 
+        "dns-ns": [
+            "ns1.namebrightdns.com", 
+            "ns2.namebrightdns.com"
+        ], 
+        "domain-name": "sitye.com", 
+        "fuzzer": "insertion", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "37.202.4.23"
+        ], 
+        "dns-mx": [
+            "mx1.agenturserver.de", 
+            "mx2.agenturserver.de", 
+            "mx3.agenturserver.de", 
+            "mx4.agenturserver.de"
+        ], 
+        "domain-name": "sitze.com", 
+        "fuzzer": "insertion", 
+        "geoip-country": "Germany", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "52.86.22.136", 
+            "54.174.212.152"
+        ], 
+        "dns-ns": [
+            "ns1.namebrightdns.com", 
+            "ns2.namebrightdns.com"
+        ], 
+        "domain-name": "sikte.com", 
+        "fuzzer": "insertion", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "69.172.201.153"
+        ], 
+        "dns-ns": [
+            "ns1.uniregistrymarket.link", 
+            "ns2.uniregistrymarket.link"
+        ], 
+        "domain-name": "siute.com", 
+        "fuzzer": "insertion", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "184.168.221.104"
+        ], 
+        "dns-ns": [
+            "ns1.afternic.com", 
+            "ns2.afternic.com"
+        ], 
+        "domain-name": "suite.com", 
+        "fuzzer": "insertion", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "185.53.178.7"
+        ], 
+        "dns-mx": [
+            "mail.h-email.net"
+        ], 
+        "dns-ns": [
+            "ns1.parkingcrew.net", 
+            "ns2.parkingcrew.net"
+        ], 
+        "domain-name": "sitre.com", 
+        "fuzzer": "insertion", 
+        "geoip-country": "Germany", 
+        "mx-spy": true, 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "52.86.22.136", 
+            "54.174.212.152"
+        ], 
+        "dns-ns": [
+            "ns1.namebrightdns.com", 
+            "ns2.namebrightdns.com"
+        ], 
+        "domain-name": "siote.com", 
+        "fuzzer": "insertion", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "108.186.204.1"
+        ], 
+        "dns-ns": [
+            "f1g1ns1.dnspod.net", 
+            "f1g1ns2.dnspod.net"
+        ], 
+        "domain-name": "siyte.com", 
+        "fuzzer": "insertion", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-mx": [
+            "mx.sirte.es", 
+            "mx1.sirte.es", 
+            "mx2.sirte.es"
+        ], 
+        "dns-ns": [
+            "dns1.sirte.com", 
+            "dns1.sirte.es", 
+            "dns1.sirte.net", 
+            "dns2.sirte.com"
+        ], 
+        "domain-name": "sirte.com", 
+        "fuzzer": "insertion"
+    }, 
+    {
+        "dns-a": [
+            "54.183.99.63"
+        ], 
+        "domain-name": "sifte.com", 
+        "fuzzer": "insertion", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "69.172.201.153"
+        ], 
+        "dns-ns": [
+            "ns1.uniregistrymarket.link", 
+            "ns2.uniregistrymarket.link"
+        ], 
+        "domain-name": "soite.com", 
+        "fuzzer": "insertion", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "143.95.252.46"
+        ], 
+        "dns-ns": [
+            "ns1.pine.arvixe.com", 
+            "ns2.pine.arvixe.com"
+        ], 
+        "domain-name": "sitfe.com", 
+        "fuzzer": "insertion", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "63.251.38.174"
+        ], 
+        "dns-mx": [
+            "mail.ste.com"
+        ], 
+        "dns-ns": [
+            "ns1.r9.net", 
+            "ns2.r9.net"
+        ], 
+        "domain-name": "ste.com", 
+        "fuzzer": "omission", 
+        "geoip-country": "United States", 
+        "mx-spy": true, 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "209.212.242.210"
+        ], 
+        "dns-mx": [
+            "ite-com.mail.protection.outlook.com"
+        ], 
+        "dns-ns": [
+            "ns3.level3.net", 
+            "ns4.level3.net"
+        ], 
+        "domain-name": "ite.com", 
+        "fuzzer": "omission", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "203.216.142.175"
+        ], 
+        "dns-ns": [
+            "a1-22.akam.net", 
+            "a12-65.akam.net", 
+            "a13-66.akam.net", 
+            "a2-67.akam.net", 
+            "a24-64.akam.net", 
+            "a3-65.akam.net", 
+            "ns1.p64.sonynei.net", 
+            "ns1.sonynei.net", 
+            "ns2.p64.sonynei.net", 
+            "ns2.sonynei.com", 
+            "ns3.p64.sonynei.net", 
+            "ns3.sonynei.net", 
+            "ns4.p64.sonynei.net", 
+            "ns4.sonynei.com"
+        ], 
+        "domain-name": "sie.com", 
+        "fuzzer": "omission", 
+        "geoip-country": "Japan", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "192.185.21.193"
+        ], 
+        "dns-mx": [
+            "sit.com"
+        ], 
+        "dns-ns": [
+            "ns1273.hostgator.com", 
+            "ns1274.hostgator.com"
+        ], 
+        "domain-name": "sit.com", 
+        "fuzzer": "omission", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "94.136.166.19"
+        ], 
+        "dns-mx": [
+            "nwxrelay.clusters.de"
+        ], 
+        "dns-ns": [
+            "ns1.rz-leipzig.com", 
+            "ns2.rz-leipzig.de", 
+            "ns3.rz-leipzig.net"
+        ], 
+        "domain-name": "sitte.com", 
+        "fuzzer": "repetition", 
+        "geoip-country": "Germany", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "72.52.4.119"
+        ], 
+        "dns-mx": [
+            "localhost"
+        ], 
+        "dns-ns": [
+            "ns1.sedoparking.com", 
+            "ns2.sedoparking.com"
+        ], 
+        "domain-name": "ssite.com", 
+        "fuzzer": "repetition", 
+        "geoip-country": "United States", 
+        "mx-spy": true, 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "64.13.232.149"
+        ], 
+        "dns-mx": [
+            "ALT1.ASPMX.L.GOOGLE.com", 
+            "ALT2.ASPMX.L.GOOGLE.com", 
+            "ALT3.ASPMX.L.GOOGLE.com", 
+            "ALT4.ASPMX.L.GOOGLE.com", 
+            "ASPMX.L.GOOGLE.com"
+        ], 
+        "dns-ns": [
+            "ns39.domaincontrol.com", 
+            "ns40.domaincontrol.com"
+        ], 
+        "domain-name": "siite.com", 
+        "fuzzer": "repetition", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "35.187.49.32"
+        ], 
+        "dns-mx": [
+            "alt1.aspmx.l.google.com", 
+            "alt2.aspmx.l.google.com", 
+            "aspmx.l.google.com", 
+            "aspmx2.googlemail.com", 
+            "aspmx3.googlemail.com", 
+            "aspmx4.googlemail.com", 
+            "aspmx5.googlemail.com"
+        ], 
+        "dns-ns": [
+            "ns1.linqhost.nl", 
+            "ns2.linqhost.eu", 
+            "ns3.linqhost.net"
+        ], 
+        "domain-name": "xite.com", 
+        "fuzzer": "replacement", 
+        "geoip-country": "United States"
+    }, 
+    {
+        "dns-a": [
+            "72.0.157.4"
+        ], 
+        "dns-mx": [
+            "sire.com"
+        ], 
+        "dns-ns": [
+            "auth-ns1.tvc-ip.com", 
+            "auth-ns2.tvc-ip.com"
+        ], 
+        "domain-name": "sire.com", 
+        "fuzzer": "replacement", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "50.63.223.1"
+        ], 
+        "dns-mx": [
+            "mailstore1.secureserver.net", 
+            "smtp.secureserver.net"
+        ], 
+        "dns-ns": [
+            "ns09.domaincontrol.com", 
+            "ns10.domaincontrol.com"
+        ], 
+        "domain-name": "sitz.com", 
+        "fuzzer": "replacement", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "54.183.233.96"
+        ], 
+        "dns-ns": [
+            "ns-east.cerf.net", 
+            "ns-west.cerf.net"
+        ], 
+        "domain-name": "sige.com", 
+        "fuzzer": "replacement", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "62.138.4.89"
+        ], 
+        "dns-mx": [
+            "sitr-com.mail.protection.outlook.com"
+        ], 
+        "dns-ns": [
+            "ns.hosteurope.com", 
+            "ns2.hosteurope.com"
+        ], 
+        "domain-name": "sitr.com", 
+        "fuzzer": "replacement", 
+        "geoip-country": "Germany"
+    }, 
+    {
+        "dns-a": [
+            "91.121.61.239"
+        ], 
+        "dns-mx": [
+            "mailhost.axime.com"
+        ], 
+        "dns-ns": [
+            "a4.nstld.com", 
+            "f4.nstld.com", 
+            "g4.nstld.com", 
+            "l4.nstld.com"
+        ], 
+        "domain-name": "sits.com", 
+        "fuzzer": "replacement", 
+        "geoip-country": "France", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "219.94.163.77"
+        ], 
+        "dns-mx": [
+            "size.com"
+        ], 
+        "dns-ns": [
+            "ns1.dns.ne.jp", 
+            "ns2.dns.ne.jp"
+        ], 
+        "domain-name": "size.com", 
+        "fuzzer": "replacement", 
+        "geoip-country": "Japan"
+    }, 
+    {
+        "dns-a": [
+            "69.172.201.153"
+        ], 
+        "dns-ns": [
+            "ns1.uniregistrymarket.link", 
+            "ns2.uniregistrymarket.link"
+        ], 
+        "domain-name": "sote.com", 
+        "fuzzer": "replacement", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "205.178.189.129"
+        ], 
+        "dns-mx": [
+            "p.webcom.ctmail.com"
+        ], 
+        "dns-ns": [
+            "ns83.worldnic.com", 
+            "ns84.worldnic.com"
+        ], 
+        "domain-name": "s8te.com", 
+        "fuzzer": "replacement", 
+        "geoip-country": "United States", 
+        "mx-spy": true
+    }, 
+    {
+        "dns-mx": [
+            "mailstore1.secureserver.net", 
+            "smtp.secureserver.net"
+        ], 
+        "dns-ns": [
+            "ns63.domaincontrol.com", 
+            "ns64.domaincontrol.com"
+        ], 
+        "domain-name": "sitw.com", 
+        "fuzzer": "replacement"
+    }, 
+    {
+        "dns-mx": [
+            "mx1.emailsrvr.com", 
+            "mx2.emailsrvr.com"
+        ], 
+        "dns-ns": [
+            "ns-1093.awsdns-08.org", 
+            "ns-1769.awsdns-29.co.uk", 
+            "ns-353.awsdns-44.com", 
+            "ns-927.awsdns-51.net"
+        ], 
+        "domain-name": "zite.com", 
+        "fuzzer": "replacement"
+    }, 
+    {
+        "dns-a": [
+            "141.8.225.31"
+        ], 
+        "domain-name": "sife.com", 
+        "fuzzer": "replacement", 
+        "geoip-country": "Switzerland", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "208.73.211.70"
+        ], 
+        "dns-ns": [
+            "ns1.namefind.com", 
+            "ns2.namefind.com"
+        ], 
+        "domain-name": "dite.com", 
+        "fuzzer": "replacement", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "68.178.213.61"
+        ], 
+        "dns-ns": [
+            "ns1.namefind.com", 
+            "ns2.namefind.com"
+        ], 
+        "domain-name": "eite.com", 
+        "fuzzer": "replacement", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "31.22.106.63"
+        ], 
+        "domain-name": "siye.com", 
+        "fuzzer": "replacement", 
+        "geoip-country": "United Kingdom", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "173.236.171.110"
+        ], 
+        "dns-mx": [
+            "mx1.sub5.homie.mail.dreamhost.com", 
+            "mx2.sub5.homie.mail.dreamhost.com"
+        ], 
+        "dns-ns": [
+            "ns1.dreamhost.com", 
+            "ns2.dreamhost.com", 
+            "ns3.dreamhost.com"
+        ], 
+        "domain-name": "sit3.com", 
+        "fuzzer": "replacement", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-ns": [
+            "f1g1ns1.dnspod.net", 
+            "f1g1ns2.dnspod.net"
+        ], 
+        "domain-name": "sit4.com", 
+        "fuzzer": "replacement"
+    }, 
+    {
+        "dns-a": [
+            "103.232.215.131"
+        ], 
+        "dns-mx": [
+            "mail.happyisp.com"
+        ], 
+        "domain-name": "aite.com", 
+        "fuzzer": "replacement", 
+        "geoip-country": "China", 
+        "mx-spy": true, 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "72.9.105.30"
+        ], 
+        "domain-name": "sjte.com", 
+        "fuzzer": "replacement", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "68.178.213.61"
+        ], 
+        "dns-ns": [
+            "ns1.namefind.com", 
+            "ns2.namefind.com"
+        ], 
+        "domain-name": "sute.com", 
+        "fuzzer": "replacement", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "115.238.232.131"
+        ], 
+        "dns-mx": [
+            "ALT1.ASPMX.L.GOOGLE.com", 
+            "ALT2.ASPMX.L.GOOGLE.com", 
+            "ASPMX.L.GOOGLE.com", 
+            "ASPMX2.GOOGLEMAIL.com", 
+            "ASPMX3.GOOGLEMAIL.com"
+        ], 
+        "dns-ns": [
+            "f1g1ns1.dnspod.net", 
+            "f1g1ns2.dnspod.net"
+        ], 
+        "domain-name": "yite.com", 
+        "fuzzer": "replacement", 
+        "geoip-country": "China", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "209.15.13.134"
+        ], 
+        "dns-mx": [
+            "mail.b-io.co"
+        ], 
+        "dns-ns": [
+            "ns1.dnslink.com", 
+            "ns2.dnslink.com"
+        ], 
+        "domain-name": "iste.com", 
+        "fuzzer": "transposition", 
+        "geoip-country": "United States", 
+        "mx-spy": true
+    }, 
+    {
+        "dns-a": [
+            "52.58.78.16"
+        ], 
+        "dns-mx": [
+            "mx.stie.com"
+        ], 
+        "dns-ns": [
+            "ns1.undeveloped.com", 
+            "ns2.undeveloped.com"
+        ], 
+        "domain-name": "stie.com", 
+        "fuzzer": "transposition"
+    }, 
+    {
+        "dns-a": [
+            "50.63.202.25"
+        ], 
+        "dns-ns": [
+            "ns31.domaincontrol.com", 
+            "ns32.domaincontrol.com"
+        ], 
+        "domain-name": "siet.com", 
+        "fuzzer": "transposition", 
+        "geoip-country": "United States"
+    }, 
+    {
+        "dns-a": [
+            "69.172.201.153"
+        ], 
+        "dns-ns": [
+            "ns1.uniregistrymarket.link", 
+            "ns2.uniregistrymarket.link"
+        ], 
+        "domain-name": "sete.com", 
+        "fuzzer": "vowel-swap", 
+        "geoip-country": "United States"
+    }, 
+    {
+        "dns-a": [
+            "34.195.191.116"
+        ], 
+        "dns-mx": [
+            "alt1.aspmx.l.google.com", 
+            "alt2.aspmx.l.google.com", 
+            "aspmx.l.google.com", 
+            "aspmx2.googlemail.com", 
+            "aspmx3.googlemail.com"
+        ], 
+        "dns-ns": [
+            "dns1.spiritdomains.com", 
+            "dns2.spiritdomains.com", 
+            "dns3.spiritdomains.com", 
+            "dns4.spiritdomains.com"
+        ], 
+        "domain-name": "siti.com", 
+        "fuzzer": "vowel-swap", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "67.225.137.24"
+        ], 
+        "dns-mx": [
+            "alt1.aspmx.l.google.com", 
+            "alt2.aspmx.l.google.com", 
+            "aspmx.l.google.com", 
+            "aspmx2.googlemail.com", 
+            "aspmx3.googlemail.com", 
+            "aspmx4.googlemail.com", 
+            "aspmx5.googlemail.com"
+        ], 
+        "dns-ns": [
+            "ns1.worldwidemart.com", 
+            "ns2.worldwidemart.com"
+        ], 
+        "domain-name": "sito.com", 
+        "fuzzer": "vowel-swap", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "185.78.96.83"
+        ], 
+        "dns-mx": [
+            "etrn.is.nl", 
+            "mail.sitecom.com"
+        ], 
+        "dns-ns": [
+            "ns01.is.nl", 
+            "ns02.is.nl"
+        ], 
+        "domain-name": "sitecom.com", 
+        "fuzzer": "various"
+    }
+]

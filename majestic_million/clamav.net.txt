@@ -1,0 +1,71 @@
+[
+    {
+        "dns-a": [
+            "198.148.79.54"
+        ], 
+        "dns-aaaa": [
+            "2620:28:c000:0:aba:ca:daba:54"
+        ], 
+        "dns-mx": [
+            "tad.clamav.net"
+        ], 
+        "dns-ns": [
+            "ns1a.clamav.net", 
+            "ns1e.clamav.net", 
+            "ns2e.clamav.net", 
+            "ns3.clamav.net", 
+            "ns3e.clamav.net", 
+            "ns4.clamav.net", 
+            "ns4a.clamav.net"
+        ], 
+        "domain-name": "clamav.net", 
+        "fuzzer": "original*", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 97
+    }, 
+    {
+        "dns-a": [
+            "104.236.251.163"
+        ], 
+        "dns-ns": [
+            "ns1.digitalocean.com", 
+            "ns2.digitalocean.com", 
+            "ns3.digitalocean.com"
+        ], 
+        "domain-name": "clamavx.net", 
+        "fuzzer": "addition", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "62.149.142.105"
+        ], 
+        "dns-mx": [
+            "mx.clamar.net"
+        ], 
+        "dns-ns": [
+            "dns.technorail.com", 
+            "dns2.technorail.com", 
+            "dns3.arubadns.net", 
+            "dns4.arubadns.cz"
+        ], 
+        "domain-name": "clamar.net", 
+        "fuzzer": "bitsquatting", 
+        "geoip-country": "Italy", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "202.172.26.13"
+        ], 
+        "dns-ns": [
+            "ns1.value-domain.com", 
+            "ns2.value-domain.com"
+        ], 
+        "domain-name": "clamag.net", 
+        "fuzzer": "replacement", 
+        "geoip-country": "Japan", 
+        "ssdeep-score": 0
+    }
+]

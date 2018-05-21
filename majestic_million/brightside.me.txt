@@ -1,0 +1,126 @@
+[
+    {
+        "dns-a": [
+            "144.76.47.202", 
+            "144.76.47.213"
+        ], 
+        "dns-mx": [
+            "alt1.aspmx.l.google.com", 
+            "alt2.aspmx.l.google.com", 
+            "alt3.aspmx.l.google.com", 
+            "alt4.aspmx.l.google.com", 
+            "aspmx.l.google.com"
+        ], 
+        "dns-ns": [
+            "ns-1377.awsdns-44.org", 
+            "ns-173.awsdns-21.com", 
+            "ns-1983.awsdns-55.co.uk", 
+            "ns-515.awsdns-00.net"
+        ], 
+        "domain-name": "brightside.me", 
+        "fuzzer": "original*", 
+        "geoip-country": "Germany", 
+        "ssdeep-score": 96
+    }, 
+    {
+        "dns-a": [
+            "198.71.232.3"
+        ], 
+        "dns-ns": [
+            "ns31.domaincontrol.com", 
+            "ns32.domaincontrol.com"
+        ], 
+        "domain-name": "brightsider.me", 
+        "fuzzer": "addition", 
+        "geoip-country": "United States"
+    }, 
+    {
+        "dns-a": [
+            "68.65.122.87"
+        ], 
+        "dns-mx": [
+            "smx1.web-hosting.com", 
+            "smx2.web-hosting.com", 
+            "smx3.web-hosting.com"
+        ], 
+        "dns-ns": [
+            "dns1.namecheaphosting.com", 
+            "dns2.namecheaphosting.com"
+        ], 
+        "domain-name": "brightsite.me", 
+        "fuzzer": "bitsquatting", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-ns": [
+            "ns.masterhost.ru", 
+            "ns1.masterhost.ru", 
+            "ns2.masterhost.ru"
+        ], 
+        "domain-name": "bright-side.me", 
+        "fuzzer": "hyphenation"
+    }, 
+    {
+        "dns-a": [
+            "54.72.9.51"
+        ], 
+        "dns-mx": [
+            "mail.h-email.net"
+        ], 
+        "dns-ns": [
+            "ns1.parkingcrew.net", 
+            "ns2.parkingcrew.net"
+        ], 
+        "domain-name": "rightside.me", 
+        "fuzzer": "omission", 
+        "geoip-country": "Ireland", 
+        "mx-spy": true, 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "185.53.178.8"
+        ], 
+        "dns-mx": [
+            "mail.h-email.net"
+        ], 
+        "dns-ns": [
+            "ns1.parkingcrew.net", 
+            "ns2.parkingcrew.net"
+        ], 
+        "domain-name": "b.rightside.me", 
+        "fuzzer": "subdomain", 
+        "geoip-country": "Germany", 
+        "mx-spy": true
+    }, 
+    {
+        "dns-a": [
+            "173.0.140.210"
+        ], 
+        "dns-aaaa": [
+            "::173.0.140.210"
+        ], 
+        "dns-mx": [
+            "mail.paparigos.com"
+        ], 
+        "domain-name": "brights.ide.me", 
+        "fuzzer": "subdomain", 
+        "geoip-country": "United States", 
+        "mx-spy": true
+    }, 
+    {
+        "dns-a": [
+            "198.54.114.191"
+        ], 
+        "dns-mx": [
+            "mail.brightsideme.me"
+        ], 
+        "dns-ns": [
+            "dns1.namecheaphosting.com", 
+            "dns2.namecheaphosting.com"
+        ], 
+        "domain-name": "brightsideme.me", 
+        "fuzzer": "various"
+    }
+]

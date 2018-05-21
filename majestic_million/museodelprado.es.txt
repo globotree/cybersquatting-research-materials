@@ -1,0 +1,35 @@
+[
+    {
+        "dns-a": [
+            "82.223.10.146"
+        ], 
+        "dns-mx": [
+            "smtp-01.museodelprado.es"
+        ], 
+        "dns-ns": [
+            "artemis.ttd.net", 
+            "minerva.ttd.net"
+        ], 
+        "domain-name": "museodelprado.es", 
+        "fuzzer": "original*", 
+        "geoip-country": "Spain", 
+        "ssdeep-score": 96
+    }, 
+    {
+        "dns-a": [
+            "72.52.4.119"
+        ], 
+        "dns-mx": [
+            "localhost"
+        ], 
+        "dns-ns": [
+            "ns1.sedoparking.com", 
+            "ns2.sedoparking.com"
+        ], 
+        "domain-name": "museo.delprado.es", 
+        "fuzzer": "subdomain", 
+        "geoip-country": "United States", 
+        "mx-spy": true, 
+        "ssdeep-score": 0
+    }
+]

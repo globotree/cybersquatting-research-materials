@@ -1,0 +1,136 @@
+[
+    {
+        "dns-a": [
+            "132.205.244.34"
+        ], 
+        "dns-mx": [
+            "ums-loy-gw1.concordia.ca", 
+            "ums-sgw-gw1.concordia.ca"
+        ], 
+        "dns-ns": [
+            "ddi-ns1.cc.umanitoba.ca", 
+            "ddi-ns2.cc.umanitoba.ca", 
+            "ns-a.concordia.ca", 
+            "ns-b.concordia.ca", 
+            "ns1.zonerisq.ca", 
+            "ns2.zonerisq.ca"
+        ], 
+        "domain-name": "concordia.ca", 
+        "fuzzer": "original*", 
+        "geoip-country": "Canada", 
+        "ssdeep-score": 100
+    }, 
+    {
+        "dns-a": [
+            "149.56.23.49"
+        ], 
+        "dns-mx": [
+            "mail.norstarcan.com"
+        ], 
+        "dns-ns": [
+            "dedi109-2.canspace.ca", 
+            "dedi109.canspace.ca"
+        ], 
+        "domain-name": "concordian.ca", 
+        "fuzzer": "addition", 
+        "geoip-country": "Canada", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "103.224.182.239"
+        ], 
+        "dns-mx": [
+            "park-mx.above.com"
+        ], 
+        "dns-ns": [
+            "ns1.above.com", 
+            "ns2.above.com"
+        ], 
+        "domain-name": "concordiau.ca", 
+        "fuzzer": "addition", 
+        "geoip-country": "Australia", 
+        "mx-spy": true, 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "192.0.78.24", 
+            "192.0.78.25"
+        ], 
+        "dns-ns": [
+            "ns1.wordpress.com", 
+            "ns2.wordpress.com", 
+            "ns3.wordpress.com"
+        ], 
+        "domain-name": "concordiax.ca", 
+        "fuzzer": "addition", 
+        "geoip-country": "United States"
+    }, 
+    {
+        "dns-a": [
+            "50.63.202.54"
+        ], 
+        "dns-mx": [
+            "mailstore1.secureserver.net", 
+            "smtp.secureserver.net"
+        ], 
+        "dns-ns": [
+            "ns71.domaincontrol.com", 
+            "ns72.domaincontrol.com"
+        ], 
+        "domain-name": "consordia.ca", 
+        "fuzzer": "bitsquatting", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "158.85.87.76"
+        ], 
+        "dns-mx": [
+            "mail.concodia.ca"
+        ], 
+        "dns-ns": [
+            "slns1.namespro.ca", 
+            "slns2.namespro.ca"
+        ], 
+        "domain-name": "concodia.ca", 
+        "fuzzer": "omission", 
+        "geoip-country": "Canada", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "184.168.221.33"
+        ], 
+        "dns-mx": [
+            "mailstore1.secureserver.net", 
+            "smtp.secureserver.net"
+        ], 
+        "dns-ns": [
+            "ns21.domaincontrol.com", 
+            "ns22.domaincontrol.com"
+        ], 
+        "domain-name": "concordis.ca", 
+        "fuzzer": "replacement", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "158.85.87.76"
+        ], 
+        "dns-mx": [
+            "mail.concorida.ca"
+        ], 
+        "dns-ns": [
+            "slns1.namespro.ca", 
+            "slns2.namespro.ca"
+        ], 
+        "domain-name": "concorida.ca", 
+        "fuzzer": "transposition", 
+        "geoip-country": "Canada", 
+        "ssdeep-score": 0
+    }
+]

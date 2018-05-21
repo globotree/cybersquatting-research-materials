@@ -1,0 +1,78 @@
+[
+    {
+        "dns-a": [
+            "104.27.132.238", 
+            "104.27.133.238"
+        ], 
+        "dns-aaaa": [
+            "2400:cb00:2048:1::681b:84ee", 
+            "2400:cb00:2048:1::681b:85ee"
+        ], 
+        "dns-mx": [
+            "alt1.aspmx.l.google.com", 
+            "alt2.aspmx.l.google.com", 
+            "aspmx.l.google.com", 
+            "aspmx2.googlemail.com", 
+            "aspmx3.googlemail.com"
+        ], 
+        "dns-ns": [
+            "roxy.ns.cloudflare.com", 
+            "woz.ns.cloudflare.com"
+        ], 
+        "domain-name": "mydigitallife.info", 
+        "fuzzer": "original*", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 100
+    }, 
+    {
+        "dns-a": [
+            "104.27.166.35", 
+            "104.27.167.35"
+        ], 
+        "dns-aaaa": [
+            "2400:cb00:2048:1::681b:a623", 
+            "2400:cb00:2048:1::681b:a723"
+        ], 
+        "dns-ns": [
+            "brit.ns.cloudflare.com", 
+            "major.ns.cloudflare.com"
+        ], 
+        "domain-name": "mydigitallifes.info", 
+        "fuzzer": "addition", 
+        "geoip-country": "United States"
+    }, 
+    {
+        "dns-a": [
+            "68.178.213.61"
+        ], 
+        "dns-ns": [
+            "ns1.namefind.com", 
+            "ns2.namefind.com"
+        ], 
+        "domain-name": "mydigitalife.info", 
+        "fuzzer": "omission", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "72.52.10.14"
+        ], 
+        "domain-name": "mydigital.life.info", 
+        "fuzzer": "subdomain", 
+        "geoip-country": "United States"
+    }, 
+    {
+        "dns-a": [
+            "69.172.201.153"
+        ], 
+        "dns-ns": [
+            "ns1.uniregistrymarket.link", 
+            "ns2.uniregistrymarket.link"
+        ], 
+        "domain-name": "mydigitall.ife.info", 
+        "fuzzer": "subdomain", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 0
+    }
+]

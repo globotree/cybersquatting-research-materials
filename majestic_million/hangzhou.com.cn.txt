@@ -1,0 +1,193 @@
+[
+    {
+        "dns-mx": [
+            "mx1.icoremail.net"
+        ], 
+        "dns-ns": [
+            "vip1.alidns.com", 
+            "vip2.alidns.com"
+        ], 
+        "domain-name": "hangzhou.com.cn", 
+        "fuzzer": "original*"
+    }, 
+    {
+        "dns-a": [
+            "103.255.178.44"
+        ], 
+        "dns-ns": [
+            "dns25.hichina.com", 
+            "dns26.hichina.com"
+        ], 
+        "domain-name": "hangzhouf.com.cn", 
+        "fuzzer": "addition", 
+        "geoip-country": "Hong Kong", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "23.224.132.105"
+        ], 
+        "dns-ns": [
+            "ns1.dnsdun.com", 
+            "ns1.dnsdun.net"
+        ], 
+        "domain-name": "hangzhouu.com.cn", 
+        "fuzzer": "addition", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-ns": [
+            "ns1.myhostadmin.net", 
+            "ns2.myhostadmin.net", 
+            "ns3.myhostadmin.net", 
+            "ns4.myhostadmin.net", 
+            "ns5.myhostadmin.net", 
+            "ns6.myhostadmin.net"
+        ], 
+        "domain-name": "hangzh0u.com.cn", 
+        "fuzzer": "homoglyph"
+    }, 
+    {
+        "dns-a": [
+            "50.117.120.251"
+        ], 
+        "dns-mx": [
+            "mail.happyisp.com"
+        ], 
+        "domain-name": "hamgzhou.com.cn", 
+        "fuzzer": "homoglyph", 
+        "geoip-country": "United States", 
+        "mx-spy": true, 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "121.201.42.40"
+        ], 
+        "dns-mx": [
+            "121.201.42.40.hang-zhou.com.cn"
+        ], 
+        "dns-ns": [
+            "ns10.ns365.net", 
+            "ns11.ns365.net", 
+            "ns12.ns365.net", 
+            "ns9.ns365.net"
+        ], 
+        "domain-name": "hang-zhou.com.cn", 
+        "fuzzer": "hyphenation", 
+        "geoip-country": "China", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "23.80.235.231"
+        ], 
+        "dns-ns": [
+            "ns5.dnsdun.com", 
+            "ns5.dnsdun.net"
+        ], 
+        "domain-name": "angzhou.com.cn", 
+        "fuzzer": "omission", 
+        "geoip-country": "United States"
+    }, 
+    {
+        "dns-a": [
+            "123.1.151.109"
+        ], 
+        "dns-ns": [
+            "dns10.hichina.com", 
+            "dns9.hichina.com"
+        ], 
+        "domain-name": "hanzhou.com.cn", 
+        "fuzzer": "omission", 
+        "geoip-country": "Hong Kong", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "103.232.215.129"
+        ], 
+        "dns-mx": [
+            "mail.skrimple.com"
+        ], 
+        "domain-name": "hanghou.com.cn", 
+        "fuzzer": "omission", 
+        "geoip-country": "China", 
+        "mx-spy": true, 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "170.178.178.54"
+        ], 
+        "domain-name": "hangshou.com.cn", 
+        "fuzzer": "replacement", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "203.78.142.12"
+        ], 
+        "domain-name": "bangzhou.com.cn", 
+        "fuzzer": "replacement", 
+        "geoip-country": "Hong Kong"
+    }, 
+    {
+        "dns-a": [
+            "23.80.235.231"
+        ], 
+        "domain-name": "h.angzhou.com.cn", 
+        "fuzzer": "subdomain", 
+        "geoip-country": "United States"
+    }, 
+    {
+        "dns-a": [
+            "120.24.54.223"
+        ], 
+        "domain-name": "han.gzhou.com.cn", 
+        "fuzzer": "subdomain", 
+        "geoip-country": "China", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "50.117.120.251"
+        ], 
+        "dns-mx": [
+            "mail.happyisp.com"
+        ], 
+        "domain-name": "hanghzou.com.cn", 
+        "fuzzer": "transposition", 
+        "geoip-country": "United States", 
+        "mx-spy": true, 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "203.78.142.12"
+        ], 
+        "domain-name": "hangzhuo.com.cn", 
+        "fuzzer": "transposition", 
+        "geoip-country": "Hong Kong", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "170.178.178.54"
+        ], 
+        "domain-name": "hongzhou.com.cn", 
+        "fuzzer": "vowel-swap", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-ns": [
+            "dns10.hichina.com", 
+            "dns9.hichina.com"
+        ], 
+        "domain-name": "hangzhoucom.cn", 
+        "fuzzer": "various"
+    }
+]

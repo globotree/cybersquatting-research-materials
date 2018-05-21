@@ -1,0 +1,45 @@
+[
+    {
+        "dns-mx": [
+            "mail.moe.edu.cn", 
+            "smtp.moe.edu.cn"
+        ], 
+        "dns-ns": [
+            "dnsprim.moe.edu.cn", 
+            "dnssec.moe.edu.cn"
+        ], 
+        "domain-name": "moe.edu.cn", 
+        "fuzzer": "original*"
+    }, 
+    {
+        "dns-a": [
+            "101.200.35.178"
+        ], 
+        "dns-ns": [
+            "dns1.resource.edu.cn", 
+            "dns2.resource.edu.cn"
+        ], 
+        "domain-name": "mie.edu.cn", 
+        "fuzzer": "replacement", 
+        "geoip-country": "China"
+    }, 
+    {
+        "dns-ns": [
+            "ns.cau.edu.cn", 
+            "ns1.cau.edu.cn", 
+            "ns2.cau.edu.cn", 
+            "ns3.cau.edu.cn", 
+            "ns4.cau.edu.cn", 
+            "nsb.cau.edu.cn"
+        ], 
+        "domain-name": "mae.edu.cn", 
+        "fuzzer": "vowel-swap"
+    }, 
+    {
+        "dns-a": [
+            "115.28.5.166"
+        ], 
+        "domain-name": "moeedu.cn", 
+        "fuzzer": "various"
+    }
+]

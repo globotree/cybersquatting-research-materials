@@ -1,0 +1,45 @@
+[
+    {
+        "dns-a": [
+            "202.238.142.229"
+        ], 
+        "dns-mx": [
+            "nikkeibp-co-jp.mail.eo.outlook.com"
+        ], 
+        "dns-ns": [
+            "ns-1484.awsdns-57.org", 
+            "ns-1673.awsdns-17.co.uk", 
+            "ns-47.awsdns-05.com", 
+            "ns-729.awsdns-27.net"
+        ], 
+        "domain-name": "nikkeibp.co.jp", 
+        "fuzzer": "original*", 
+        "geoip-country": "Japan", 
+        "ssdeep-score": 99
+    }, 
+    {
+        "dns-ns": [
+            "ayw001.cm.ndmc.ne.jp", 
+            "cyw001.ndmc.ne.jp"
+        ], 
+        "domain-name": "nikkeibpm.co.jp", 
+        "fuzzer": "addition"
+    }, 
+    {
+        "dns-a": [
+            "202.238.142.229"
+        ], 
+        "dns-mx": [
+            "nscom.nikkeibp.co.jp"
+        ], 
+        "dns-ns": [
+            "ns-1336.awsdns-39.org", 
+            "ns-1681.awsdns-18.co.uk", 
+            "ns-482.awsdns-60.com", 
+            "ns-958.awsdns-55.net"
+        ], 
+        "domain-name": "nikkeibp.jp", 
+        "fuzzer": "various", 
+        "geoip-country": "Japan"
+    }
+]

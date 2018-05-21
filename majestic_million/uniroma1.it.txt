@@ -1,0 +1,171 @@
+[
+    {
+        "dns-a": [
+            "151.100.101.140"
+        ], 
+        "dns-mx": [
+            "ALT1.ASPMX.L.GOOGLE.COM", 
+            "ALT2.ASPMX.L.GOOGLE.COM", 
+            "ASPMX.L.GOOGLE.COM", 
+            "ASPMX2.GOOGLEMAIL.COM", 
+            "ASPMX3.GOOGLEMAIL.COM"
+        ], 
+        "dns-ns": [
+            "desiree.cics.uniroma1.it", 
+            "ns1.garr.net", 
+            "risc-ns.cics.uniroma1.it"
+        ], 
+        "domain-name": "uniroma1.it", 
+        "fuzzer": "original*", 
+        "geoip-country": "Italy", 
+        "ssdeep-score": 100
+    }, 
+    {
+        "dns-a": [
+            "104.18.40.8", 
+            "104.18.41.8"
+        ], 
+        "dns-aaaa": [
+            "2400:cb00:2048:1::6812:2808", 
+            "2400:cb00:2048:1::6812:2908"
+        ], 
+        "dns-ns": [
+            "elliot.ns.cloudflare.com", 
+            "maria.ns.cloudflare.com"
+        ], 
+        "domain-name": "unirome1.it", 
+        "fuzzer": "bitsquatting", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "193.205.139.223"
+        ], 
+        "dns-mx": [
+            "uniroma3-it.mail.protection.outlook.com"
+        ], 
+        "dns-ns": [
+            "dns.uniroma3.it", 
+            "dns2.uniroma3.it", 
+            "ns.uniroma3.it", 
+            "ns1.garr.net"
+        ], 
+        "domain-name": "uniroma3.it", 
+        "fuzzer": "bitsquatting", 
+        "geoip-country": "Italy", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "62.149.128.151", 
+            "62.149.128.154", 
+            "62.149.128.157", 
+            "62.149.128.160", 
+            "62.149.128.163", 
+            "62.149.128.166"
+        ], 
+        "dns-mx": [
+            "mx.uniroma5.it"
+        ], 
+        "dns-ns": [
+            "dns.technorail.com", 
+            "dns2.technorail.com", 
+            "dns3.arubadns.net", 
+            "dns4.arubadns.cz"
+        ], 
+        "domain-name": "uniroma5.it", 
+        "fuzzer": "bitsquatting", 
+        "geoip-country": "Italy", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "72.52.4.120"
+        ], 
+        "dns-mx": [
+            "localhost"
+        ], 
+        "dns-ns": [
+            "ns1.sedoparking.com", 
+            "ns2.sedoparking.com"
+        ], 
+        "domain-name": "uniroma.it", 
+        "fuzzer": "omission", 
+        "geoip-country": "United States", 
+        "mx-spy": true, 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "185.53.178.6"
+        ], 
+        "dns-ns": [
+            "ns1.parkingcrew.net", 
+            "ns2.parkingcrew.net"
+        ], 
+        "domain-name": "unroma1.it", 
+        "fuzzer": "omission", 
+        "geoip-country": "Germany", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-mx": [
+            "uniiroma1.it"
+        ], 
+        "dns-ns": [
+            "ns1.netsons.net", 
+            "ns2.netsons.net", 
+            "ns3.netsons.net", 
+            "ns4.netsons.net"
+        ], 
+        "domain-name": "uniiroma1.it", 
+        "fuzzer": "repetition"
+    }, 
+    {
+        "dns-mx": [
+            "mx-01.uniroma2.it", 
+            "mx-02.uniroma2.it", 
+            "mx-03.uniroma2.it", 
+            "mx-04.uniroma2.it", 
+            "mx-05.uniroma2.it"
+        ], 
+        "dns-ns": [
+            "dns.uniroma2.it", 
+            "dns1.uniroma2.it", 
+            "ns1.garr.net"
+        ], 
+        "domain-name": "uniroma2.it", 
+        "fuzzer": "replacement"
+    }, 
+    {
+        "dns-a": [
+            "185.53.178.8"
+        ], 
+        "dns-mx": [
+            "mail.h-email.net"
+        ], 
+        "dns-ns": [
+            "ns1.parkingcrew.net", 
+            "ns2.parkingcrew.net"
+        ], 
+        "domain-name": "uni.roma1.it", 
+        "fuzzer": "subdomain", 
+        "geoip-country": "Germany", 
+        "mx-spy": true, 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "185.53.178.9"
+        ], 
+        "dns-ns": [
+            "ns1.parkingcrew.net", 
+            "ns2.parkingcrew.net"
+        ], 
+        "domain-name": "uniorma1.it", 
+        "fuzzer": "transposition", 
+        "geoip-country": "Germany", 
+        "ssdeep-score": 0
+    }
+]

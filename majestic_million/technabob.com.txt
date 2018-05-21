@@ -1,0 +1,74 @@
+[
+    {
+        "dns-a": [
+            "104.25.128.21", 
+            "104.25.129.21"
+        ], 
+        "dns-aaaa": [
+            "2400:cb00:2048:1::6819:8015", 
+            "2400:cb00:2048:1::6819:8115"
+        ], 
+        "dns-mx": [
+            "mail.technabob.com"
+        ], 
+        "dns-ns": [
+            "emma.ns.cloudflare.com", 
+            "greg.ns.cloudflare.com"
+        ], 
+        "domain-name": "technabob.com", 
+        "fuzzer": "original*", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 100
+    }, 
+    {
+        "dns-a": [
+            "162.255.119.250"
+        ], 
+        "dns-mx": [
+            "eforward1.registrar-servers.com", 
+            "eforward2.registrar-servers.com", 
+            "eforward3.registrar-servers.com", 
+            "eforward4.registrar-servers.com", 
+            "eforward5.registrar-servers.com"
+        ], 
+        "dns-ns": [
+            "dns1.registrar-servers.com", 
+            "dns2.registrar-servers.com"
+        ], 
+        "domain-name": "technabb.com", 
+        "fuzzer": "omission", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "98.124.251.69"
+        ], 
+        "domain-name": "techna.bob.com", 
+        "fuzzer": "subdomain", 
+        "geoip-country": "United States"
+    }, 
+    {
+        "dns-a": [
+            "75.126.100.29"
+        ], 
+        "domain-name": "technab.ob.com", 
+        "fuzzer": "subdomain", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "50.63.202.34"
+        ], 
+        "dns-mx": [
+            "technobob-com.mail.protection.outlook.com"
+        ], 
+        "dns-ns": [
+            "ns65.domaincontrol.com", 
+            "ns66.domaincontrol.com"
+        ], 
+        "domain-name": "technobob.com", 
+        "fuzzer": "vowel-swap"
+    }
+]

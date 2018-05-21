@@ -1,0 +1,152 @@
+[
+    {
+        "dns-a": [
+            "54.85.132.205"
+        ], 
+        "dns-ns": [
+            "dns.gsa.gov", 
+            "dns2.gsa.gov", 
+            "dns3.gsa.gov", 
+            "dns4.gsa.gov", 
+            "dns5.gsa.gov"
+        ], 
+        "domain-name": "usa.gov", 
+        "fuzzer": "original*", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 100
+    }, 
+    {
+        "dns-a": [
+            "157.132.252.36"
+        ], 
+        "dns-aaaa": [
+            "2620:11d:3001:1104::230"
+        ], 
+        "dns-mx": [
+            "mx1.usap.gov", 
+            "mx2.usap.gov"
+        ], 
+        "dns-ns": [
+            "ns1.usap.gov", 
+            "ns2.usap.gov"
+        ], 
+        "domain-name": "usap.gov", 
+        "fuzzer": "addition", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "173.252.133.166"
+        ], 
+        "dns-ns": [
+            "asia2.akam.net", 
+            "asia3.akam.net", 
+            "eur2.akam.net", 
+            "usc2.akam.net", 
+            "use1.akam.net", 
+            "use3.akam.net", 
+            "usw3.akam.net", 
+            "usw4.akam.net"
+        ], 
+        "domain-name": "tsa.gov", 
+        "fuzzer": "bitsquatting", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "192.149.12.39"
+        ], 
+        "dns-aaaa": [
+            "2610:20:3006:1::15"
+        ], 
+        "dns-mx": [
+            "smtpedge1.uspto.gov", 
+            "smtpedge2.uspto.gov"
+        ], 
+        "dns-ns": [
+            "dnssec10.datamtn.com", 
+            "dnssec11.datamtn.com", 
+            "dnssec7.datamtn.com", 
+            "dnssec9.datamtn.com", 
+            "gpaens2.doc.gov", 
+            "hchbens1.doc.gov"
+        ], 
+        "domain-name": "esa.gov", 
+        "fuzzer": "bitsquatting", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-ns": [
+            "a1-221.akam.net", 
+            "a11-64.akam.net", 
+            "a16-65.akam.net", 
+            "a2-66.akam.net", 
+            "a24-67.akam.net", 
+            "a7-64.akam.net"
+        ], 
+        "domain-name": "usc.gov", 
+        "fuzzer": "bitsquatting"
+    }, 
+    {
+        "dns-a": [
+            "199.134.75.104"
+        ], 
+        "dns-mx": [
+            "usda-gov.mail.protection.outlook.com"
+        ], 
+        "dns-ns": [
+            "ns1.usda.gov", 
+            "ns2.usda.gov"
+        ], 
+        "domain-name": "usda.gov", 
+        "fuzzer": "insertion", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "54.85.132.205"
+        ], 
+        "dns-ns": [
+            "dns.gsa.gov", 
+            "dns2.gsa.gov", 
+            "dns3.gsa.gov", 
+            "dns4.gsa.gov", 
+            "dns5.gsa.gov"
+        ], 
+        "domain-name": "us.gov", 
+        "fuzzer": "omission", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 100
+    }, 
+    {
+        "dns-a": [
+            "54.85.132.205"
+        ], 
+        "dns-ns": [
+            "dns.gsa.gov", 
+            "dns2.gsa.gov", 
+            "dns3.gsa.gov", 
+            "dns4.gsa.gov", 
+            "dns5.gsa.gov"
+        ], 
+        "domain-name": "usagov.gov", 
+        "fuzzer": "various"
+    }, 
+    {
+        "dns-a": [
+            "69.172.201.153"
+        ], 
+        "dns-ns": [
+            "ns1.uniregistrymarket.link", 
+            "ns2.uniregistrymarket.link"
+        ], 
+        "domain-name": "usa-gov.com", 
+        "fuzzer": "various", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 0
+    }
+]

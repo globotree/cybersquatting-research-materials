@@ -1,0 +1,32 @@
+[
+    {
+        "dns-a": [
+            "23.59.98.91"
+        ], 
+        "domain-name": "www.nhs.uk", 
+        "fuzzer": "original*", 
+        "geoip-country": "Netherlands", 
+        "ssdeep-score": 100
+    }, 
+    {
+        "dns-a": [
+            "94.126.106.32"
+        ], 
+        "domain-name": "ww2.nhs.uk", 
+        "fuzzer": "replacement", 
+        "geoip-country": "United Kingdom"
+    }, 
+    {
+        "dns-a": [
+            "185.53.178.7"
+        ], 
+        "dns-ns": [
+            "ns1.parkingcrew.net", 
+            "ns2.parkingcrew.net"
+        ], 
+        "domain-name": "wwwnhs.uk", 
+        "fuzzer": "various", 
+        "geoip-country": "Germany", 
+        "ssdeep-score": 0
+    }
+]

@@ -1,0 +1,164 @@
+[
+    {
+        "dns-a": [
+            "152.15.47.208"
+        ], 
+        "dns-mx": [
+            "alt1.aspmx.l.google.com", 
+            "alt2.aspmx.l.google.com", 
+            "alt3.aspmx.l.google.com", 
+            "alt4.aspmx.l.google.com", 
+            "aspmx.l.google.com", 
+            "est-mta.b2b-mail.net"
+        ], 
+        "dns-ns": [
+            "ns1.uncc.edu", 
+            "ns2.uncc.edu", 
+            "ns3.uncc.edu"
+        ], 
+        "domain-name": "uncc.edu", 
+        "fuzzer": "original*", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 100
+    }, 
+    {
+        "dns-a": [
+            "164.106.201.105"
+        ], 
+        "dns-mx": [
+            "TNCC-EDU.mail.protection.outlook.com", 
+            "d39811a.ess.barracudanetworks.com", 
+            "d39811b.ess.barracudanetworks.com"
+        ], 
+        "dns-ns": [
+            "ns1.vccs.edu", 
+            "ns2.vccs.edu"
+        ], 
+        "domain-name": "tncc.edu", 
+        "fuzzer": "bitsquatting", 
+        "geoip-country": "United States"
+    }, 
+    {
+        "dns-a": [
+            "216.70.110.59"
+        ], 
+        "dns-mx": [
+            "wncc-edu.mail.protection.outlook.com"
+        ], 
+        "dns-ns": [
+            "ns0.wncc.edu", 
+            "ns1.wncc.edu", 
+            "ns2.wncc.edu", 
+            "ns3.wncc.edu", 
+            "ns4.wncc.edu"
+        ], 
+        "domain-name": "wncc.edu", 
+        "fuzzer": "bitsquatting", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "152.18.68.26"
+        ], 
+        "dns-mx": [
+            "alt1.aspmx.l.google.com", 
+            "alt2.aspmx.l.google.com", 
+            "alt3.aspmx.l.google.com", 
+            "alt4.aspmx.l.google.com", 
+            "aspmx.l.google.com"
+        ], 
+        "dns-ns": [
+            "balsam.unca.edu", 
+            "craggy.unca.edu", 
+            "ncnoc.ncren.net"
+        ], 
+        "domain-name": "unca.edu", 
+        "fuzzer": "bitsquatting", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "152.13.17.98"
+        ], 
+        "dns-mx": [
+            "alt1.aspmx.l.google.com", 
+            "alt2.aspmx.l.google.com", 
+            "alt3.aspmx.l.google.com", 
+            "alt4.aspmx.l.google.com", 
+            "aspmx.l.google.com"
+        ], 
+        "dns-ns": [
+            "ncnoc.ncren.net", 
+            "ns1.uncg.edu", 
+            "ns2.uncg.edu"
+        ], 
+        "domain-name": "uncg.edu", 
+        "fuzzer": "bitsquatting", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "198.38.8.31"
+        ], 
+        "dns-mx": [
+            "ncc-edu.mail.protection.outlook.com"
+        ], 
+        "dns-ns": [
+            "ns.suny.edu", 
+            "ns1.ncc.edu", 
+            "ns2.suny.edu", 
+            "ns3.ncc.edu"
+        ], 
+        "domain-name": "ncc.edu", 
+        "fuzzer": "omission", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-mx": [
+            "ucc-edu.mail.protection.outlook.com"
+        ], 
+        "dns-ns": [
+            "auth1.dns.cogentco.com", 
+            "auth2.dns.cogentco.com", 
+            "auth4.dns.cogentco.com", 
+            "auth5.dns.cogentco.com"
+        ], 
+        "domain-name": "ucc.edu", 
+        "fuzzer": "omission"
+    }, 
+    {
+        "dns-a": [
+            "152.2.64.93"
+        ], 
+        "dns-mx": [
+            "unc-edu.mail.protection.outlook.com"
+        ], 
+        "dns-ns": [
+            "ncnoc.ncren.net", 
+            "ns.unc.edu", 
+            "ns2.unc.edu"
+        ], 
+        "domain-name": "unc.edu", 
+        "fuzzer": "omission", 
+        "geoip-country": "United States"
+    }, 
+    {
+        "dns-a": [
+            "173.201.145.88"
+        ], 
+        "dns-mx": [
+            "mailstore1.secureserver.net", 
+            "smtp.secureserver.net"
+        ], 
+        "dns-ns": [
+            "ns45.domaincontrol.com", 
+            "ns46.domaincontrol.com"
+        ], 
+        "domain-name": "uhcc.edu", 
+        "fuzzer": "replacement"
+    }
+]

@@ -1,0 +1,65 @@
+[
+    {
+        "dns-a": [
+            "200.144.248.41"
+        ], 
+        "dns-aaaa": [
+            "2001:12d0:c000:91::41"
+        ], 
+        "dns-mx": [
+            "ALT1.ASPMX.L.GOOGLE.COM", 
+            "ALT2.ASPMX.L.GOOGLE.COM", 
+            "ALT3.ASPMX.L.GOOGLE.COM", 
+            "ALT4.ASPMX.L.GOOGLE.COM", 
+            "ASPMX.L.GOOGLE.COM"
+        ], 
+        "dns-ns": [
+            "bee.uspnet.usp.br", 
+            "bee08.uspnet.usp.br", 
+            "ns1.ansp.br", 
+            "reno.uspnet.usp.br", 
+            "reno08.uspnet.usp.br"
+        ], 
+        "domain-name": "usp.br", 
+        "fuzzer": "original*", 
+        "geoip-country": "Brazil", 
+        "ssdeep-score": 100
+    }, 
+    {
+        "dns-ns": [
+            "a.dns.br", 
+            "b.dns.br", 
+            "c.dns.br", 
+            "d.dns.br", 
+            "e.dns.br", 
+            "f.dns.br"
+        ], 
+        "domain-name": "esp.br", 
+        "fuzzer": "bitsquatting"
+    }, 
+    {
+        "dns-a": [
+            "200.156.15.82"
+        ], 
+        "dns-mx": [
+            "ALT1.ASPMX.L.GOOGLE.COM", 
+            "ALT2.ASPMX.L.GOOGLE.COM", 
+            "ASPMX.L.GOOGLE.COM", 
+            "ASPMX2.GOOGLEMAIL.COM", 
+            "ASPMX3.GOOGLEMAIL.COM", 
+            "ASPMX4.GOOGLEMAIL.COM", 
+            "ASPMX5.GOOGLEMAIL.COM"
+        ], 
+        "dns-ns": [
+            "b.ns.buddyns.com", 
+            "dns-b.ucp.br", 
+            "ns2.afraid.org", 
+            "puck.nether.net", 
+            "risc.ucp.br"
+        ], 
+        "domain-name": "ucp.br", 
+        "fuzzer": "bitsquatting", 
+        "geoip-country": "Brazil", 
+        "ssdeep-score": 0
+    }
+]

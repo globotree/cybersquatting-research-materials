@@ -1,0 +1,118 @@
+[
+    {
+        "dns-a": [
+            "130.166.238.195"
+        ], 
+        "dns-mx": [
+            "mxa-00186201.gslb.pphosted.com", 
+            "mxb-00186201.gslb.pphosted.com"
+        ], 
+        "dns-ns": [
+            "ns1.cenic.org", 
+            "ns2.cenic.org", 
+            "ns3.cenic.org", 
+            "ns4.cenic.org", 
+            "ns5.cenic.org", 
+            "ns6.cenic.org", 
+            "sapsucker.csun.edu", 
+            "skimmer.csun.edu"
+        ], 
+        "domain-name": "csun.edu", 
+        "fuzzer": "original*", 
+        "geoip-country": "United States", 
+        "mx-spy": true, 
+        "ssdeep-score": 100
+    }, 
+    {
+        "dns-a": [
+            "160.153.74.134"
+        ], 
+        "dns-mx": [
+            "asun-edu.mail.protection.outlook.com"
+        ], 
+        "dns-ns": [
+            "ns1.astate.edu", 
+            "quapaw.astate.edu"
+        ], 
+        "domain-name": "asun.edu", 
+        "fuzzer": "bitsquatting", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "54.67.96.104"
+        ], 
+        "dns-mx": [
+            "csum-edu.mail.protection.outlook.com", 
+            "csum.edu.mx1.cma.rcimx.net", 
+            "csum.edu.mx2.cma.rcimx.net", 
+            "csum.edu.mx3.cma.rcimx.net", 
+            "csum.edu.mx4.cma.rcimx.net"
+        ], 
+        "dns-ns": [
+            "cdc-infoblox02.csum.edu", 
+            "cdc-infoblox03.csum.edu", 
+            "cdc-infoblox04.csum.edu"
+        ], 
+        "domain-name": "csum.edu", 
+        "fuzzer": "homoglyph", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "209.175.73.2"
+        ], 
+        "dns-mx": [
+            "academic8.csu.edu", 
+            "barracuda.csu.edu", 
+            "barracuda2.csu.edu"
+        ], 
+        "dns-ns": [
+            "cougar1.csu.edu", 
+            "cougar2.csu.edu", 
+            "ns1.illinois.net", 
+            "ns2.illinois.net"
+        ], 
+        "domain-name": "csu.edu", 
+        "fuzzer": "omission", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "54.245.106.105"
+        ], 
+        "dns-mx": [
+            "csn-edu.mail.protection.outlook.com"
+        ], 
+        "dns-ns": [
+            "ns1.csn.edu", 
+            "ns2.csn.edu"
+        ], 
+        "domain-name": "csn.edu", 
+        "fuzzer": "omission", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "136.168.25.70"
+        ], 
+        "dns-mx": [
+            "mxa-0000a801.gslb.pphosted.com", 
+            "mxb-0000a801.gslb.pphosted.com"
+        ], 
+        "dns-ns": [
+            "ns0.csub.edu", 
+            "ns1.csub.edu", 
+            "ns2.csub.edu"
+        ], 
+        "domain-name": "csub.edu", 
+        "fuzzer": "replacement", 
+        "geoip-country": "United States", 
+        "mx-spy": true, 
+        "ssdeep-score": 0
+    }
+]

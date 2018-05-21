@@ -1,0 +1,110 @@
+[
+    {
+        "dns-a": [
+            "60.199.193.184"
+        ], 
+        "dns-mx": [
+            "gain.tw", 
+            "www.gain.tw"
+        ], 
+        "dns-ns": [
+            "dns1.f1.com.tw", 
+            "dns2.f1.com.tw"
+        ], 
+        "domain-name": "gain.tw", 
+        "fuzzer": "original*", 
+        "geoip-country": "Taiwan", 
+        "ssdeep-score": 100
+    }, 
+    {
+        "dns-mx": [
+            "alt1.aspmx.l.google.com", 
+            "alt2.aspmx.l.google.com", 
+            "aspmx.l.google.com", 
+            "aspmx2.googlemail.com", 
+            "aspmx3.googlemail.com"
+        ], 
+        "dns-ns": [
+            "pdns1.pchome.com.tw", 
+            "pdns2.pchome.com.tw"
+        ], 
+        "domain-name": "fain.tw", 
+        "fuzzer": "bitsquatting"
+    }, 
+    {
+        "dns-a": [
+            "124.9.9.28"
+        ], 
+        "dns-mx": [
+            "ms.mailcloud.com.tw"
+        ], 
+        "dns-ns": [
+            "ns51.twnic.net.tw", 
+            "ns52.twnic.net.tw"
+        ], 
+        "domain-name": "giin.tw", 
+        "fuzzer": "bitsquatting", 
+        "geoip-country": "Taiwan", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "202.133.242.244"
+        ], 
+        "dns-ns": [
+            "cns1.net-chinese.com.tw", 
+            "cns2.net-chinese.com.tw"
+        ], 
+        "domain-name": "ain.tw", 
+        "fuzzer": "omission", 
+        "geoip-country": "Taiwan", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "114.35.247.214"
+        ], 
+        "dns-ns": [
+            "ns1.he.net", 
+            "ns2.he.net", 
+            "ns3.he.net", 
+            "ns4.he.net", 
+            "ns5.he.net"
+        ], 
+        "domain-name": "gan.tw", 
+        "fuzzer": "omission", 
+        "geoip-country": "Taiwan", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "205.137.127.30"
+        ], 
+        "dns-mx": [
+            "custmx.cscdns.net"
+        ], 
+        "dns-ns": [
+            "dns1.cscdns.net", 
+            "dns2.cscdns.net"
+        ], 
+        "domain-name": "bain.tw", 
+        "fuzzer": "replacement", 
+        "geoip-country": "United States", 
+        "mx-spy": true
+    }, 
+    {
+        "dns-a": [
+            "64.90.48.99"
+        ], 
+        "dns-mx": [
+            "aspmx.l.google.com"
+        ], 
+        "dns-ns": [
+            "ns1.dreamhost.com", 
+            "ns2.dreamhost.com", 
+            "ns3.dreamhost.com"
+        ], 
+        "domain-name": "goin.tw", 
+        "fuzzer": "vowel-swap"
+    }
+]

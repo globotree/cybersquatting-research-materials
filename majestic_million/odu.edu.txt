@@ -1,0 +1,203 @@
+[
+    {
+        "dns-a": [
+            "128.82.112.29"
+        ], 
+        "dns-mx": [
+            "odu-edu.mail.protection.outlook.com"
+        ], 
+        "dns-ns": [
+            "ns1.odu.edu", 
+            "ns2.odu.edu"
+        ], 
+        "domain-name": "odu.edu", 
+        "fuzzer": "original*", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 100
+    }, 
+    {
+        "dns-mx": [
+            "ndugway01.ndu.edu", 
+            "ndugway02.ndu.edu", 
+            "ndugway03.ndu.edu"
+        ], 
+        "dns-ns": [
+            "dnsauth1.sys.gtei.net", 
+            "dnsauth2.sys.gtei.net", 
+            "dnsauth3.sys.gtei.net", 
+            "ndudns01.ndu.edu", 
+            "ndudns02.ndu.edu"
+        ], 
+        "domain-name": "ndu.edu", 
+        "fuzzer": "bitsquatting"
+    }, 
+    {
+        "dns-a": [
+            "130.211.154.245"
+        ], 
+        "dns-mx": [
+            "alex.obu.edu"
+        ], 
+        "dns-ns": [
+            "ns1.p28.dynect.net", 
+            "ns2.p28.dynect.net", 
+            "ns3.p28.dynect.net", 
+            "ns4.p28.dynect.net"
+        ], 
+        "domain-name": "obu.edu", 
+        "fuzzer": "homoglyph", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "156.110.247.18"
+        ], 
+        "dns-mx": [
+            "mxa-00272701.gslb.pphosted.com", 
+            "mxb-00272701.gslb.pphosted.com"
+        ], 
+        "dns-ns": [
+            "mc1.backbone.ou.edu", 
+            "nc1.backbone.ou.edu", 
+            "rc1.backbone.ou.edu", 
+            "rc2.backbone.ou.edu", 
+            "sc1.backbone.ou.edu", 
+            "sc2.backbone.ou.edu"
+        ], 
+        "domain-name": "ou.edu", 
+        "fuzzer": "omission", 
+        "geoip-country": "United States", 
+        "mx-spy": true, 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "130.253.2.250"
+        ], 
+        "dns-mx": [
+            "mxtls.expurgate.net"
+        ], 
+        "dns-ns": [
+            "cpnr-authdns-dhcp-phys-1.du.edu", 
+            "cpnr-authdns-dhcp-vm-1.du.edu", 
+            "ns1.p24.dynect.net", 
+            "ns2.p24.dynect.net", 
+            "ns3.p24.dynect.net", 
+            "ns4.p24.dynect.net"
+        ], 
+        "domain-name": "du.edu", 
+        "fuzzer": "omission", 
+        "geoip-country": "United States"
+    }, 
+    {
+        "dns-a": [
+            "205.143.139.55"
+        ], 
+        "dns-mx": [
+            "D6042a.ess.barracudanetworks.com", 
+            "D6042b.ess.barracudanetworks.com", 
+            "lxsrv22.oru.edu", 
+            "lxsrv23.oru.edu"
+        ], 
+        "dns-ns": [
+            "dns.oru.edu", 
+            "stu.oru.edu"
+        ], 
+        "domain-name": "oru.edu", 
+        "fuzzer": "replacement", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "140.254.112.130"
+        ], 
+        "dns-aaaa": [
+            "2620:0:1a10:80ea::130"
+        ], 
+        "dns-mx": [
+            "osu-edu.mail.protection.outlook.com"
+        ], 
+        "dns-ns": [
+            "ns4.net.ohio-state.edu", 
+            "ns4.oar.net", 
+            "ns5.net.ohio-state.edu", 
+            "ns5.oar.net", 
+            "ns6.oar.net", 
+            "ns7.oar.net"
+        ], 
+        "domain-name": "osu.edu", 
+        "fuzzer": "replacement", 
+        "geoip-country": "United States"
+    }, 
+    {
+        "dns-a": [
+            "67.195.61.46"
+        ], 
+        "dns-mx": [
+            "mx-biz.mail.am0.yahoodns.net"
+        ], 
+        "dns-ns": [
+            "yns1.yahoo.com", 
+            "yns2.yahoo.com"
+        ], 
+        "domain-name": "ocu.edu", 
+        "fuzzer": "replacement"
+    }, 
+    {
+        "dns-a": [
+            "23.185.0.4"
+        ], 
+        "dns-aaaa": [
+            "2620:12a:8000::4", 
+            "2620:12a:8001::4"
+        ], 
+        "dns-mx": [
+            "mx1.ahss.iphmx.com", 
+            "mx2.ahss.iphmx.com"
+        ], 
+        "dns-ns": [
+            "fhdns.flhosp.org", 
+            "fhdns2.flhosp.org"
+        ], 
+        "domain-name": "adu.edu", 
+        "fuzzer": "vowel-swap"
+    }, 
+    {
+        "dns-a": [
+            "204.13.82.92"
+        ], 
+        "dns-mx": [
+            "mx203.inbound-mx.net", 
+            "mx203.inbound-mx.org"
+        ], 
+        "dns-ns": [
+            "ns-1467.awsdns-55.org", 
+            "ns-1539.awsdns-00.co.uk", 
+            "ns-296.awsdns-37.com", 
+            "ns-710.awsdns-24.net"
+        ], 
+        "domain-name": "edu.edu", 
+        "fuzzer": "vowel-swap", 
+        "geoip-country": "United States", 
+        "mx-spy": true, 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "184.106.184.142"
+        ], 
+        "dns-mx": [
+            "mail.oda.edu"
+        ], 
+        "dns-ns": [
+            "ns1.verizon.net", 
+            "ns2.verizon.net", 
+            "ns3.verizon.net", 
+            "ns4.verizon.net"
+        ], 
+        "domain-name": "oda.edu", 
+        "fuzzer": "vowel-swap"
+    }
+]

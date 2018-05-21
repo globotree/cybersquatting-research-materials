@@ -1,0 +1,106 @@
+[
+    {
+        "dns-ns": [
+            "ns1.uzh.ch", 
+            "ns2.uzh.ch"
+        ], 
+        "domain-name": "unizh.ch", 
+        "fuzzer": "original*"
+    }, 
+    {
+        "dns-a": [
+            "62.146.152.3"
+        ], 
+        "dns-mx": [
+            "mail.uni-zh.ch"
+        ], 
+        "dns-ns": [
+            "dns11.firestorm.ch", 
+            "dns12.firestorm-isp.com", 
+            "dns13.firestorm-isp.com", 
+            "dns14.firestorm.ch"
+        ], 
+        "domain-name": "uni-zh.ch", 
+        "fuzzer": "hyphenation", 
+        "geoip-country": "Switzerland"
+    }, 
+    {
+        "dns-a": [
+            "72.52.4.120"
+        ], 
+        "dns-mx": [
+            "localhost"
+        ], 
+        "dns-ns": [
+            "ns1.sedoparking.com", 
+            "ns2.sedoparking.com"
+        ], 
+        "domain-name": "uniz.ch", 
+        "fuzzer": "omission", 
+        "geoip-country": "United States", 
+        "mx-spy": true
+    }, 
+    {
+        "dns-a": [
+            "46.30.240.217"
+        ], 
+        "dns-mx": [
+            "mailstore1.secureserver.net", 
+            "smtp.secureserver.net"
+        ], 
+        "dns-ns": [
+            "ns15.domaincontrol.com", 
+            "ns16.domaincontrol.com"
+        ], 
+        "domain-name": "unith.ch", 
+        "fuzzer": "replacement", 
+        "geoip-country": "Italy"
+    }, 
+    {
+        "dns-a": [
+            "185.101.158.103"
+        ], 
+        "dns-mx": [
+            "mail.unizg.ch"
+        ], 
+        "dns-ns": [
+            "ns1.hosttech.ch", 
+            "ns2.hosttech.ch", 
+            "ns3.hosttech.ch"
+        ], 
+        "domain-name": "unizg.ch", 
+        "fuzzer": "replacement", 
+        "geoip-country": "Switzerland"
+    }, 
+    {
+        "dns-a": [
+            "77.244.243.53"
+        ], 
+        "dns-mx": [
+            "mx01.easyname.eu", 
+            "mx02.easyname.eu"
+        ], 
+        "dns-ns": [
+            "ns1.easyname.eu", 
+            "ns2.easyname.eu"
+        ], 
+        "domain-name": "unizu.ch", 
+        "fuzzer": "replacement"
+    }, 
+    {
+        "dns-a": [
+            "72.52.4.121"
+        ], 
+        "dns-mx": [
+            "localhost"
+        ], 
+        "dns-ns": [
+            "ns1.sedoparking.com", 
+            "ns2.sedoparking.com"
+        ], 
+        "domain-name": "un.izh.ch", 
+        "fuzzer": "subdomain", 
+        "geoip-country": "United States", 
+        "mx-spy": true
+    }
+]

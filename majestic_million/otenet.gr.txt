@@ -1,0 +1,139 @@
+[
+    {
+        "dns-a": [
+            "212.205.154.74"
+        ], 
+        "dns-mx": [
+            "mx.otenet.gr", 
+            "mx2.otenet.gr", 
+            "mx3.otenet.gr", 
+            "mx4.otenet.gr"
+        ], 
+        "dns-ns": [
+            "ns1.otenet.gr", 
+            "ns2.otenet.gr"
+        ], 
+        "domain-name": "otenet.gr", 
+        "fuzzer": "original*", 
+        "geoip-country": "Greece"
+    }, 
+    {
+        "dns-a": [
+            "5.9.142.13"
+        ], 
+        "dns-mx": [
+            "mail.openet.gr"
+        ], 
+        "dns-ns": [
+            "ns1.hostwerk.gr", 
+            "ns2.hostwerk.gr"
+        ], 
+        "domain-name": "openet.gr", 
+        "fuzzer": "bitsquatting", 
+        "geoip-country": "Germany"
+    }, 
+    {
+        "dns-a": [
+            "185.53.179.7"
+        ], 
+        "dns-mx": [
+            "mail.h-email.net"
+        ], 
+        "dns-ns": [
+            "ns1.parkingcrew.net", 
+            "ns2.parkingcrew.net"
+        ], 
+        "domain-name": "otanet.gr", 
+        "fuzzer": "bitsquatting", 
+        "geoip-country": "Germany", 
+        "mx-spy": true
+    }, 
+    {
+        "dns-a": [
+            "93.174.126.44"
+        ], 
+        "dns-mx": [
+            "mail.oenet.gr"
+        ], 
+        "dns-ns": [
+            "ns1.oenet.gr", 
+            "ns2.oenet.gr"
+        ], 
+        "domain-name": "oenet.gr", 
+        "fuzzer": "omission", 
+        "geoip-country": "Greece"
+    }, 
+    {
+        "dns-a": [
+            "46.4.70.84"
+        ], 
+        "dns-mx": [
+            "mail.tenet.gr"
+        ], 
+        "dns-ns": [
+            "ns1.vistoweb.net", 
+            "ns2.vistoweb.net", 
+            "ns3.vistoweb.net", 
+            "ns4.vistoweb.net"
+        ], 
+        "domain-name": "tenet.gr", 
+        "fuzzer": "omission", 
+        "geoip-country": "Germany"
+    }, 
+    {
+        "dns-a": [
+            "78.108.34.5"
+        ], 
+        "domain-name": "ot.enet.gr", 
+        "fuzzer": "subdomain", 
+        "geoip-country": "Greece"
+    }, 
+    {
+        "dns-a": [
+            "185.226.65.124"
+        ], 
+        "dns-mx": [
+            "ote.net.gr"
+        ], 
+        "dns-ns": [
+            "ns1.ote.net.gr", 
+            "ns2.ote.net.gr"
+        ], 
+        "domain-name": "ote.net.gr", 
+        "fuzzer": "subdomain"
+    }, 
+    {
+        "dns-a": [
+            "138.201.33.47"
+        ], 
+        "dns-mx": [
+            "mail.otonet.gr"
+        ], 
+        "dns-ns": [
+            "ns1.banet.net.gr", 
+            "ns2.banet.net.gr"
+        ], 
+        "domain-name": "otonet.gr", 
+        "fuzzer": "vowel-swap", 
+        "geoip-country": "Germany"
+    }, 
+    {
+        "dns-a": [
+            "185.4.133.181"
+        ], 
+        "dns-mx": [
+            "alt1.aspmx.l.google.com", 
+            "alt2.aspmx.l.google.com", 
+            "aspmx.l.google.com", 
+            "aspmx2.googlemail.com", 
+            "aspmx3.googlemail.com"
+        ], 
+        "dns-ns": [
+            "dns1.papaki.gr", 
+            "dns2.papaki.gr"
+        ], 
+        "domain-name": "atenet.gr", 
+        "fuzzer": "vowel-swap", 
+        "geoip-country": "Greece"
+    }
+]

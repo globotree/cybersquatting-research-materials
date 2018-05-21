@@ -1,0 +1,96 @@
+[
+    {
+        "dns-a": [
+            "104.20.15.241", 
+            "104.20.16.241"
+        ], 
+        "dns-aaaa": [
+            "2400:cb00:2048:1::6814:10f1", 
+            "2400:cb00:2048:1::6814:ff1"
+        ], 
+        "dns-mx": [
+            "alt1.aspmx.l.google.com", 
+            "alt2.aspmx.l.google.com", 
+            "aspmx.l.google.com", 
+            "aspmx2.googlemail.com", 
+            "aspmx3.googlemail.com"
+        ], 
+        "dns-ns": [
+            "ned.ns.cloudflare.com", 
+            "pola.ns.cloudflare.com"
+        ], 
+        "domain-name": "batchgeo.com", 
+        "fuzzer": "original*", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 100
+    }, 
+    {
+        "dns-a": [
+            "103.224.182.236"
+        ], 
+        "dns-mx": [
+            "park-mx.above.com"
+        ], 
+        "dns-ns": [
+            "ns1.above.com", 
+            "ns2.above.com"
+        ], 
+        "domain-name": "bathgeo.com", 
+        "fuzzer": "omission", 
+        "geoip-country": "Australia", 
+        "mx-spy": true, 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "54.72.9.51"
+        ], 
+        "dns-mx": [
+            "mail.h-email.net"
+        ], 
+        "dns-ns": [
+            "ns1.parkingcrew.net", 
+            "ns2.parkingcrew.net"
+        ], 
+        "domain-name": "batchgo.com", 
+        "fuzzer": "omission", 
+        "geoip-country": "Ireland", 
+        "mx-spy": true, 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "183.111.141.51"
+        ], 
+        "dns-mx": [
+            "ws64-020.cafe24.com"
+        ], 
+        "dns-ns": [
+            "ns.cafe24.com", 
+            "ns2.cafe24.com"
+        ], 
+        "domain-name": "bat.chgeo.com", 
+        "fuzzer": "subdomain", 
+        "geoip-country": "Korea"
+    }, 
+    {
+        "dns-a": [
+            "87.76.31.29"
+        ], 
+        "domain-name": "batc.hgeo.com", 
+        "fuzzer": "subdomain"
+    }, 
+    {
+        "dns-a": [
+            "69.172.201.153"
+        ], 
+        "dns-ns": [
+            "ns1.uniregistrymarket.link", 
+            "ns2.uniregistrymarket.link"
+        ], 
+        "domain-name": "batchg.eo.com", 
+        "fuzzer": "subdomain", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 0
+    }
+]

@@ -1,0 +1,169 @@
+[
+    {
+        "dns-a": [
+            "23.185.0.2"
+        ], 
+        "dns-aaaa": [
+            "2620:12a:8001::2"
+        ], 
+        "dns-ns": [
+            "ns-cloud-b1.googledomains.com", 
+            "ns-cloud-b2.googledomains.com", 
+            "ns-cloud-b3.googledomains.com", 
+            "ns-cloud-b4.googledomains.com"
+        ], 
+        "domain-name": "unfpa.org", 
+        "fuzzer": "original*", 
+        "ssdeep-score": 100
+    }, 
+    {
+        "dns-a": [
+            "50.63.202.62"
+        ], 
+        "dns-ns": [
+            "ns33.domaincontrol.com", 
+            "ns34.domaincontrol.com"
+        ], 
+        "domain-name": "tnfpa.org", 
+        "fuzzer": "bitsquatting", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "128.121.3.2"
+        ], 
+        "dns-mx": [
+            "in.hes.trendmicro.com"
+        ], 
+        "dns-ns": [
+            "ns1.p04.dynect.net", 
+            "ns2.p04.dynect.net", 
+            "ns3.p04.dynect.net", 
+            "ns4.p04.dynect.net"
+        ], 
+        "domain-name": "nfpa.org", 
+        "fuzzer": "omission", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "72.52.4.120"
+        ], 
+        "dns-mx": [
+            "localhost"
+        ], 
+        "dns-ns": [
+            "ns1.sedoparking.com", 
+            "ns2.sedoparking.com"
+        ], 
+        "domain-name": "unfa.org", 
+        "fuzzer": "omission", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "91.194.60.66"
+        ], 
+        "dns-mx": [
+            "unfp.octopuce.fr"
+        ], 
+        "dns-ns": [
+            "primary.heberge.info", 
+            "secondary.heberge.info"
+        ], 
+        "domain-name": "unfp.org", 
+        "fuzzer": "omission", 
+        "geoip-country": "France", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "207.148.248.143"
+        ], 
+        "domain-name": "ufpa.org", 
+        "fuzzer": "omission", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "72.52.4.120"
+        ], 
+        "dns-mx": [
+            "localhost"
+        ], 
+        "dns-ns": [
+            "ns1.sedoparking.com", 
+            "ns2.sedoparking.com"
+        ], 
+        "domain-name": "unpa.org", 
+        "fuzzer": "omission", 
+        "geoip-country": "United States", 
+        "mx-spy": true, 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "220.165.9.32"
+        ], 
+        "dns-mx": [
+            "220.165.9.32"
+        ], 
+        "domain-name": "ynfpa.org", 
+        "fuzzer": "replacement", 
+        "geoip-country": "China"
+    }, 
+    {
+        "dns-a": [
+            "151.236.46.147"
+        ], 
+        "dns-mx": [
+            "www.unrpa.org"
+        ], 
+        "dns-ns": [
+            "ns1.amenworld.com", 
+            "ns2.amenworld.com"
+        ], 
+        "domain-name": "unrpa.org", 
+        "fuzzer": "replacement", 
+        "geoip-country": "United Kingdom", 
+        "mx-spy": true, 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "174.129.25.170"
+        ], 
+        "dns-mx": [
+            "mx.zoho.com", 
+            "mx2.zoho.com"
+        ], 
+        "dns-ns": [
+            "ns41.domaincontrol.com", 
+            "ns42.domaincontrol.com"
+        ], 
+        "domain-name": "infpa.org", 
+        "fuzzer": "replacement", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "69.49.115.40"
+        ], 
+        "dns-mx": [
+            "maila.exchangeadministrado.com", 
+            "mailb.exchangeadministrado.com"
+        ], 
+        "dns-ns": [
+            "dns1.triara.com", 
+            "dns2.triara.com", 
+            "dns3.triara.com"
+        ], 
+        "domain-name": "anfpa.org", 
+        "fuzzer": "vowel-swap"
+    }
+]

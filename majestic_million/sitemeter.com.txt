@@ -1,0 +1,201 @@
+[
+    {
+        "dns-a": [
+            "63.135.90.236"
+        ], 
+        "dns-mx": [
+            "mail.sitemeter.com", 
+            "mail2.sitemeter.com"
+        ], 
+        "dns-ns": [
+            "ns1.p13.dynect.net", 
+            "ns2.p13.dynect.net", 
+            "ns3.p13.dynect.net", 
+            "ns4.p13.dynect.net"
+        ], 
+        "domain-name": "sitemeter.com", 
+        "fuzzer": "original*", 
+        "geoip-country": "United States"
+    }, 
+    {
+        "dns-a": [
+            "69.172.201.153"
+        ], 
+        "dns-ns": [
+            "ns1.uniregistrymarket.link", 
+            "ns2.uniregistrymarket.link"
+        ], 
+        "domain-name": "sitemeters.com", 
+        "fuzzer": "addition", 
+        "geoip-country": "United States"
+    }, 
+    {
+        "dns-a": [
+            "72.52.4.122"
+        ], 
+        "dns-mx": [
+            "localhost"
+        ], 
+        "dns-ns": [
+            "ns1.sedoparking.com", 
+            "ns2.sedoparking.com"
+        ], 
+        "domain-name": "citemeter.com", 
+        "fuzzer": "bitsquatting", 
+        "geoip-country": "United States", 
+        "mx-spy": true
+    }, 
+    {
+        "dns-a": [
+            "72.52.4.119"
+        ], 
+        "dns-mx": [
+            "localhost"
+        ], 
+        "dns-ns": [
+            "ns1.sedoparking.com", 
+            "ns2.sedoparking.com"
+        ], 
+        "domain-name": "sitemater.com", 
+        "fuzzer": "bitsquatting", 
+        "geoip-country": "United States"
+    }, 
+    {
+        "dns-a": [
+            "208.113.153.12"
+        ], 
+        "dns-mx": [
+            "aspmx.l.google.com"
+        ], 
+        "dns-ns": [
+            "ns1.dreamhost.com", 
+            "ns2.dreamhost.com", 
+            "ns3.dreamhost.com"
+        ], 
+        "domain-name": "sitemetar.com", 
+        "fuzzer": "bitsquatting", 
+        "geoip-country": "United States"
+    }, 
+    {
+        "dns-a": [
+            "192.195.77.211"
+        ], 
+        "dns-aaaa": [
+            "2607:f1c0:1000:2059:9e6f:a68:bd69:1e"
+        ], 
+        "dns-mx": [
+            "mx00.1and1.com", 
+            "mx01.1and1.com"
+        ], 
+        "dns-ns": [
+            "ns1063.ui-dns.biz", 
+            "ns1063.ui-dns.com", 
+            "ns1063.ui-dns.de", 
+            "ns1063.ui-dns.org"
+        ], 
+        "domain-name": "sitesmeter.com", 
+        "fuzzer": "insertion", 
+        "geoip-country": "United States"
+    }, 
+    {
+        "dns-a": [
+            "104.18.40.51", 
+            "104.18.41.51"
+        ], 
+        "dns-mx": [
+            "mx1.emailowl.com", 
+            "mx2.emailowl.com", 
+            "mx3.emailowl.com"
+        ], 
+        "dns-ns": [
+            "norman.ns.cloudflare.com", 
+            "sue.ns.cloudflare.com"
+        ], 
+        "domain-name": "sitemeer.com", 
+        "fuzzer": "omission", 
+        "geoip-country": "United States"
+    }, 
+    {
+        "dns-a": [
+            "68.178.213.61"
+        ], 
+        "dns-ns": [
+            "ns1.namefind.com", 
+            "ns2.namefind.com"
+        ], 
+        "domain-name": "sitemete.com", 
+        "fuzzer": "omission", 
+        "geoip-country": "United States"
+    }, 
+    {
+        "dns-a": [
+            "45.114.108.58"
+        ], 
+        "domain-name": "sitemter.com", 
+        "fuzzer": "omission"
+    }, 
+    {
+        "dns-a": [
+            "68.178.213.61"
+        ], 
+        "dns-ns": [
+            "ns1.namefind.com", 
+            "ns2.namefind.com"
+        ], 
+        "domain-name": "sitemetr.com", 
+        "fuzzer": "omission", 
+        "geoip-country": "United States"
+    }, 
+    {
+        "dns-a": [
+            "184.168.221.39"
+        ], 
+        "dns-mx": [
+            "mailstore1.secureserver.net", 
+            "smtp.secureserver.net"
+        ], 
+        "dns-ns": [
+            "ns39.domaincontrol.com", 
+            "ns40.domaincontrol.com"
+        ], 
+        "domain-name": "sizemeter.com", 
+        "fuzzer": "replacement", 
+        "geoip-country": "United States"
+    }, 
+    {
+        "dns-a": [
+            "208.73.211.70"
+        ], 
+        "domain-name": "sitemet.er.com", 
+        "fuzzer": "subdomain", 
+        "geoip-country": "United States"
+    }, 
+    {
+        "dns-a": [
+            "77.75.39.124"
+        ], 
+        "dns-mx": [
+            "mail.sitemetre.com"
+        ], 
+        "dns-ns": [
+            "ns1.pixel.net.tr", 
+            "ns2.pixel.net.tr"
+        ], 
+        "domain-name": "sitemetre.com", 
+        "fuzzer": "transposition", 
+        "geoip-country": "Turkey"
+    }, 
+    {
+        "dns-a": [
+            "52.73.124.185", 
+            "54.164.198.60"
+        ], 
+        "dns-ns": [
+            "ns1.namebrightdns.com", 
+            "ns2.namebrightdns.com"
+        ], 
+        "domain-name": "sitometer.com", 
+        "fuzzer": "vowel-swap", 
+        "geoip-country": "United States"
+    }
+]

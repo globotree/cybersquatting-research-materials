@@ -1,0 +1,65 @@
+[
+    {
+        "dns-a": [
+            "104.20.0.9", 
+            "104.20.1.9"
+        ], 
+        "dns-mx": [
+            "mx1.mailhostingservice.com"
+        ], 
+        "dns-ns": [
+            "kanye.ns.cloudflare.com", 
+            "lorna.ns.cloudflare.com"
+        ], 
+        "domain-name": "news-medical.net", 
+        "fuzzer": "original*", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 99
+    }, 
+    {
+        "dns-a": [
+            "209.126.123.13"
+        ], 
+        "dns-ns": [
+            "ns1.torresdns.com", 
+            "ns2.torresdns.com"
+        ], 
+        "domain-name": "newsmedical.net", 
+        "fuzzer": "omission", 
+        "geoip-country": "United States"
+    }, 
+    {
+        "dns-a": [
+            "157.7.107.93"
+        ], 
+        "dns-mx": [
+            "mx01.lolipop.jp"
+        ], 
+        "dns-ns": [
+            "uns01.lolipop.jp", 
+            "uns02.lolipop.jp"
+        ], 
+        "domain-name": "new-medical.net", 
+        "fuzzer": "omission", 
+        "geoip-country": "Japan", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "150.95.9.100"
+        ], 
+        "domain-name": "new.s-medical.net", 
+        "fuzzer": "subdomain", 
+        "geoip-country": "Japan", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "68.178.213.61"
+        ], 
+        "domain-name": "news-med.ical.net", 
+        "fuzzer": "subdomain", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 0
+    }
+]

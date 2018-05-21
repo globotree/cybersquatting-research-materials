@@ -1,0 +1,61 @@
+[
+    {
+        "dns-a": [
+            "62.149.128.151", 
+            "62.149.128.154", 
+            "62.149.128.157", 
+            "62.149.128.160", 
+            "62.149.128.163", 
+            "62.149.128.166", 
+            "62.149.128.72", 
+            "62.149.128.74"
+        ], 
+        "dns-mx": [
+            "mx.bibliotecapleyades.net"
+        ], 
+        "dns-ns": [
+            "dns.technorail.com", 
+            "dns2.technorail.com", 
+            "dns3.arubadns.net", 
+            "dns4.arubadns.cz"
+        ], 
+        "domain-name": "bibliotecapleyades.net", 
+        "fuzzer": "original*", 
+        "geoip-country": "Italy", 
+        "ssdeep-score": 100
+    }, 
+    {
+        "dns-a": [
+            "43.255.154.107"
+        ], 
+        "dns-mx": [
+            "mail.bibliotecapleyade.net"
+        ], 
+        "dns-ns": [
+            "ns39.domaincontrol.com", 
+            "ns40.domaincontrol.com"
+        ], 
+        "domain-name": "bibliotecapleyade.net", 
+        "fuzzer": "omission", 
+        "geoip-country": "Singapore", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "207.148.248.143"
+        ], 
+        "domain-name": "bibliotecapley.ades.net", 
+        "fuzzer": "subdomain", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "64.99.80.121"
+        ], 
+        "domain-name": "bibliotecapleya.des.net", 
+        "fuzzer": "subdomain", 
+        "geoip-country": "Canada", 
+        "ssdeep-score": 0
+    }
+]

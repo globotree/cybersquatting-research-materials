@@ -1,0 +1,185 @@
+[
+    {
+        "dns-a": [
+            "52.14.144.171"
+        ], 
+        "dns-mx": [
+            "ns1.ko.com"
+        ], 
+        "dns-ns": [
+            "ns2.ko.com", 
+            "ns3.ko.com", 
+            "ns4.ko.com"
+        ], 
+        "domain-name": "coca-colacompany.com", 
+        "fuzzer": "original*", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 100
+    }, 
+    {
+        "dns-a": [
+            "104.16.90.230"
+        ], 
+        "dns-mx": [
+            "mx.coca-colacornpany.com.cust.b.hostedemail.com"
+        ], 
+        "dns-ns": [
+            "ns2.vpweb.com", 
+            "ns3.vpweb.com", 
+            "ns4.vpweb.com"
+        ], 
+        "domain-name": "coca-colacornpany.com", 
+        "fuzzer": "homoglyph", 
+        "geoip-country": "United States"
+    }, 
+    {
+        "dns-a": [
+            "216.64.210.6"
+        ], 
+        "dns-mx": [
+            "ns3-old.ko.com"
+        ], 
+        "dns-ns": [
+            "ns2.ko.com", 
+            "ns3.ko.com", 
+            "ns4.ko.com"
+        ], 
+        "domain-name": "coca-cola-company.com", 
+        "fuzzer": "hyphenation", 
+        "geoip-country": "United States"
+    }, 
+    {
+        "dns-a": [
+            "52.14.144.171"
+        ], 
+        "dns-mx": [
+            "ns3-old.ko.com"
+        ], 
+        "dns-ns": [
+            "ns2.ko.com", 
+            "ns3.ko.com", 
+            "ns4.ko.com"
+        ], 
+        "domain-name": "cocacolacompany.com", 
+        "fuzzer": "omission", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 100
+    }, 
+    {
+        "dns-a": [
+            "52.86.22.136", 
+            "54.174.212.152"
+        ], 
+        "dns-ns": [
+            "ns1.namebrightdns.com", 
+            "ns2.namebrightdns.com"
+        ], 
+        "domain-name": "coca-c.olacompany.com", 
+        "fuzzer": "subdomain", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "69.172.201.153"
+        ], 
+        "dns-ns": [
+            "ns1.uniregistrymarket.link", 
+            "ns2.uniregistrymarket.link"
+        ], 
+        "domain-name": "coca-col.acompany.com", 
+        "fuzzer": "subdomain", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "74.122.238.10"
+        ], 
+        "dns-mx": [
+            "office.company.com"
+        ], 
+        "domain-name": "coca-cola.company.com", 
+        "fuzzer": "subdomain", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "69.172.201.153"
+        ], 
+        "domain-name": "coca-colac.ompany.com", 
+        "fuzzer": "subdomain", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "52.86.22.136", 
+            "54.174.212.152"
+        ], 
+        "dns-ns": [
+            "ns1.namebrightdns.com", 
+            "ns2.namebrightdns.com"
+        ], 
+        "domain-name": "coca-colaco.mpany.com", 
+        "fuzzer": "subdomain", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "96.45.82.181", 
+            "96.45.82.59", 
+            "96.45.83.170", 
+            "96.45.83.5"
+        ], 
+        "domain-name": "coca-colacomp.any.com", 
+        "fuzzer": "subdomain", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "52.202.73.194"
+        ], 
+        "domain-name": "coca-colacompa.ny.com", 
+        "fuzzer": "subdomain", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "27.54.88.34"
+        ], 
+        "dns-aaaa": [
+            "2404:8280:a222:bbbb:bba1:48:ffff:ffff"
+        ], 
+        "dns-mx": [
+            "mail.coco-colacompany.com"
+        ], 
+        "dns-ns": [
+            "ns1.syrahost.com", 
+            "ns2.syrahost.com"
+        ], 
+        "domain-name": "coco-colacompany.com", 
+        "fuzzer": "vowel-swap"
+    }, 
+    {
+        "dns-a": [
+            "184.168.221.96"
+        ], 
+        "dns-mx": [
+            "0", 
+            "10"
+        ], 
+        "dns-ns": [
+            "ns01.cashparking.com", 
+            "ns02.cashparking.com"
+        ], 
+        "domain-name": "caca-colacompany.com", 
+        "fuzzer": "vowel-swap", 
+        "geoip-country": "United States", 
+        "mx-spy": true
+    }
+]

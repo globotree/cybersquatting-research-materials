@@ -1,0 +1,129 @@
+[
+    {
+        "dns-a": [
+            "131.104.93.93"
+        ], 
+        "dns-mx": [
+            "mx1.mail.uoguelph.ca", 
+            "mx2.mail.uoguelph.ca"
+        ], 
+        "dns-ns": [
+            "asterix.net.uoguelph.ca", 
+            "bay.cs.utoronto.ca", 
+            "obelix.net.uoguelph.ca", 
+            "willow.net.uoguelph.ca"
+        ], 
+        "domain-name": "uoguelph.ca", 
+        "fuzzer": "original*", 
+        "geoip-country": "Canada", 
+        "ssdeep-score": 100
+    }, 
+    {
+        "dns-a": [
+            "131.104.95.201"
+        ], 
+        "dns-ns": [
+            "asterix.net.uoguelph.ca", 
+            "obelix.net.uoguelph.ca", 
+            "willow.net.uoguelph.ca"
+        ], 
+        "domain-name": "uogue1ph.ca", 
+        "fuzzer": "homoglyph", 
+        "geoip-country": "Canada"
+    }, 
+    {
+        "dns-a": [
+            "207.254.41.132"
+        ], 
+        "dns-mx": [
+            "alt1.aspmx.l.google.com", 
+            "alt2.aspmx.l.google.com", 
+            "aspmx.l.google.com", 
+            "aspmx2.googlemail.com", 
+            "aspmx3.googlemail.com", 
+            "aspmx4.googlemail.com", 
+            "aspmx5.googlemail.com"
+        ], 
+        "dns-ns": [
+            "ns1.mdnsservice.com", 
+            "ns2.mdnsservice.com", 
+            "ns3.mdnsservice.com"
+        ], 
+        "domain-name": "uofguelph.ca", 
+        "fuzzer": "insertion", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "141.8.224.93"
+        ], 
+        "dns-ns": [
+            "ns7.rookdns.com", 
+            "ns8.rookdns.com"
+        ], 
+        "domain-name": "uoguelp.ca", 
+        "fuzzer": "omission", 
+        "geoip-country": "Switzerland", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "103.224.182.253"
+        ], 
+        "dns-mx": [
+            "park-mx.above.com"
+        ], 
+        "dns-ns": [
+            "ns1.above.com", 
+            "ns2.above.com"
+        ], 
+        "domain-name": "uogelph.ca", 
+        "fuzzer": "omission", 
+        "geoip-country": "Australia", 
+        "mx-spy": true, 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "54.221.207.100"
+        ], 
+        "dns-mx": [
+            "nullmx.domainmanager.com"
+        ], 
+        "dns-ns": [
+            "ns3.domainmanager.com", 
+            "ns4.domainmanager.com"
+        ], 
+        "domain-name": "uguelph.ca", 
+        "fuzzer": "omission", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "66.187.113.43"
+        ], 
+        "dns-mx": [
+            "webserver.ph.ca"
+        ], 
+        "domain-name": "uoguel.ph.ca", 
+        "fuzzer": "subdomain"
+    }, 
+    {
+        "dns-a": [
+            "103.224.182.253"
+        ], 
+        "dns-mx": [
+            "park-mx.above.com"
+        ], 
+        "dns-ns": [
+            "ns3.above.com", 
+            "ns4.above.com"
+        ], 
+        "domain-name": "uoguleph.ca", 
+        "fuzzer": "transposition", 
+        "geoip-country": "Australia", 
+        "mx-spy": true
+    }
+]

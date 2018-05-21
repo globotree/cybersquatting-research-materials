@@ -1,0 +1,22 @@
+[
+    {
+        "dns-mx": [
+            "bsf.stats.gov.cn"
+        ], 
+        "dns-ns": [
+            "ns.stats.gov.cn", 
+            "sns.stats.gov.cn"
+        ], 
+        "domain-name": "stats.gov.cn", 
+        "fuzzer": "original*", 
+        "mx-spy": true
+    }, 
+    {
+        "dns-ns": [
+            "ns.stats.cn", 
+            "sns.stats.cn"
+        ], 
+        "domain-name": "stats.cn", 
+        "fuzzer": "various"
+    }
+]

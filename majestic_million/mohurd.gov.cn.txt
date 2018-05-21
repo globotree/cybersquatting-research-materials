@@ -1,0 +1,40 @@
+[
+    {
+        "dns-a": [
+            "219.142.101.45"
+        ], 
+        "dns-mx": [
+            "mail.mohurd.gov.cn"
+        ], 
+        "dns-ns": [
+            "dns1-jsb.mohurd.gov.cn"
+        ], 
+        "domain-name": "mohurd.gov.cn", 
+        "fuzzer": "original*", 
+        "geoip-country": "China", 
+        "mx-spy": true, 
+        "ssdeep-score": 100
+    }, 
+    {
+        "dns-a": [
+            "103.224.250.90"
+        ], 
+        "dns-ns": [
+            "f1g1ns1.dnspod.net", 
+            "f1g1ns2.dnspod.net"
+        ], 
+        "domain-name": "mohurd.cn", 
+        "fuzzer": "various"
+    }, 
+    {
+        "dns-a": [
+            "103.37.41.81"
+        ], 
+        "dns-ns": [
+            "ns6.dnsdun.com", 
+            "ns6.dnsdun.net"
+        ], 
+        "domain-name": "mohurdgov.cn", 
+        "fuzzer": "various"
+    }
+]

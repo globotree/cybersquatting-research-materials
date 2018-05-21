@@ -1,0 +1,253 @@
+[
+    {
+        "dns-ns": [
+            "ns.95599.cn", 
+            "ns2.95599.cn", 
+            "ns3.95599.cn", 
+            "ns4.95599.cn"
+        ], 
+        "domain-name": "95599.cn", 
+        "fuzzer": "original*"
+    }, 
+    {
+        "dns-a": [
+            "103.204.149.235"
+        ], 
+        "dns-ns": [
+            "ns07.domaincontrol.com", 
+            "ns08.domaincontrol.com"
+        ], 
+        "domain-name": "95599t.cn", 
+        "fuzzer": "addition", 
+        "geoip-country": "China"
+    }, 
+    {
+        "dns-a": [
+            "103.224.250.21"
+        ], 
+        "dns-ns": [
+            "ns61.domaincontrol.com", 
+            "ns62.domaincontrol.com"
+        ], 
+        "domain-name": "95599x.cn", 
+        "fuzzer": "addition", 
+        "geoip-country": "Hong Kong"
+    }, 
+    {
+        "dns-ns": [
+            "ns1.dns.com.cn", 
+            "ns2.dns.com.cn"
+        ], 
+        "domain-name": "85599.cn", 
+        "fuzzer": "bitsquatting"
+    }, 
+    {
+        "dns-a": [
+            "203.78.142.12"
+        ], 
+        "domain-name": "15599.cn", 
+        "fuzzer": "bitsquatting", 
+        "geoip-country": "Hong Kong"
+    }, 
+    {
+        "dns-a": [
+            "97.74.22.46"
+        ], 
+        "domain-name": "94599.cn", 
+        "fuzzer": "bitsquatting", 
+        "geoip-country": "United States"
+    }, 
+    {
+        "dns-a": [
+            "203.78.142.12"
+        ], 
+        "domain-name": "97599.cn", 
+        "fuzzer": "bitsquatting", 
+        "geoip-country": "Hong Kong"
+    }, 
+    {
+        "dns-a": [
+            "162.255.119.253"
+        ], 
+        "dns-mx": [
+            "eforward1.registrar-servers.com", 
+            "eforward2.registrar-servers.com", 
+            "eforward3.registrar-servers.com", 
+            "eforward4.registrar-servers.com", 
+            "eforward5.registrar-servers.com"
+        ], 
+        "dns-ns": [
+            "freedns1.registrar-servers.com", 
+            "freedns2.registrar-servers.com", 
+            "freedns3.registrar-servers.com", 
+            "freedns4.registrar-servers.com", 
+            "freedns5.registrar-servers.com"
+        ], 
+        "domain-name": "91599.cn", 
+        "fuzzer": "bitsquatting", 
+        "geoip-country": "United States"
+    }, 
+    {
+        "dns-a": [
+            "72.52.4.90"
+        ], 
+        "dns-mx": [
+            "localhost"
+        ], 
+        "dns-ns": [
+            "ns1.sedoparking.com", 
+            "ns2.sedoparking.com"
+        ], 
+        "domain-name": "95589.cn", 
+        "fuzzer": "bitsquatting", 
+        "geoip-country": "United States", 
+        "mx-spy": true
+    }, 
+    {
+        "dns-mx": [
+            "mail.95598.cn"
+        ], 
+        "dns-ns": [
+            "dl-dns.sp.com.cn", 
+            "dl-dns2.sp.com.cn"
+        ], 
+        "domain-name": "95598.cn", 
+        "fuzzer": "bitsquatting"
+    }, 
+    {
+        "dns-a": [
+            "103.41.118.105"
+        ], 
+        "dns-ns": [
+            "dns10.hichina.com", 
+            "dns9.hichina.com"
+        ], 
+        "domain-name": "95591.cn", 
+        "fuzzer": "bitsquatting", 
+        "geoip-country": "Hong Kong"
+    }, 
+    {
+        "dns-a": [
+            "203.78.142.12"
+        ], 
+        "domain-name": "955699.cn", 
+        "fuzzer": "insertion", 
+        "geoip-country": "Hong Kong"
+    }, 
+    {
+        "dns-a": [
+            "170.178.178.61"
+        ], 
+        "domain-name": "965599.cn", 
+        "fuzzer": "insertion", 
+        "geoip-country": "United States"
+    }, 
+    {
+        "dns-a": [
+            "103.47.250.10"
+        ], 
+        "domain-name": "9559.cn", 
+        "fuzzer": "omission", 
+        "geoip-country": "China"
+    }, 
+    {
+        "dns-a": [
+            "211.147.6.246"
+        ], 
+        "dns-mx": [
+            "mxbiz1.qq.com", 
+            "mxbiz2.qq.com"
+        ], 
+        "dns-ns": [
+            "dns1.52dns.com"
+        ], 
+        "domain-name": "959.cn", 
+        "fuzzer": "omission", 
+        "geoip-country": "China"
+    }, 
+    {
+        "dns-a": [
+            "211.149.200.39"
+        ], 
+        "dns-mx": [
+            "mxbiz1.qq.com", 
+            "mxbiz2.qq.com"
+        ], 
+        "domain-name": "9599.cn", 
+        "fuzzer": "omission", 
+        "geoip-country": "China"
+    }, 
+    {
+        "dns-a": [
+            "116.52.250.243"
+        ], 
+        "dns-mx": [
+            "mail.96599.cn"
+        ], 
+        "dns-ns": [
+            "ns3.dnsv3.com", 
+            "ns4.dnsv3.com"
+        ], 
+        "domain-name": "96599.cn", 
+        "fuzzer": "replacement", 
+        "geoip-country": "China"
+    }, 
+    {
+        "dns-a": [
+            "114.141.182.11", 
+            "211.144.217.231"
+        ], 
+        "dns-mx": [
+            "smtp.95590.cn"
+        ], 
+        "dns-ns": [
+            "dns2.ccic-net.com.cn"
+        ], 
+        "domain-name": "95590.cn", 
+        "fuzzer": "replacement"
+    }, 
+    {
+        "dns-a": [
+            "203.78.142.12"
+        ], 
+        "domain-name": "05599.cn", 
+        "fuzzer": "replacement", 
+        "geoip-country": "Hong Kong"
+    }, 
+    {
+        "dns-a": [
+            "120.52.19.93"
+        ], 
+        "domain-name": "955.99.cn", 
+        "fuzzer": "subdomain", 
+        "geoip-country": "China"
+    }, 
+    {
+        "dns-ns": [
+            "dns10.hichina.com", 
+            "dns9.hichina.com"
+        ], 
+        "domain-name": "59599.cn", 
+        "fuzzer": "transposition"
+    }, 
+    {
+        "dns-a": [
+            "141.8.225.31"
+        ], 
+        "domain-name": "95959.cn", 
+        "fuzzer": "transposition", 
+        "geoip-country": "Switzerland"
+    }, 
+    {
+        "dns-a": [
+            "118.193.132.221"
+        ], 
+        "dns-ns": [
+            "ns01.domaincontrol.com", 
+            "ns02.domaincontrol.com"
+        ], 
+        "domain-name": "95599-cn.com", 
+        "fuzzer": "various", 
+        "geoip-country": "China"
+    }
+]

@@ -1,0 +1,128 @@
+[
+    {
+        "dns-a": [
+            "202.38.64.246"
+        ], 
+        "dns-mx": [
+            "smtp.ustc.edu.cn", 
+            "smtp1.ustc.edu.cn", 
+            "smtp2.ustc.edu.cn"
+        ], 
+        "dns-ns": [
+            "mx.ustc.edu.cn", 
+            "ns.ustc.edu.cn"
+        ], 
+        "domain-name": "ustc.edu.cn", 
+        "fuzzer": "original*", 
+        "geoip-country": "China", 
+        "ssdeep-score": 100
+    }, 
+    {
+        "dns-mx": [
+            "mail.tstc.edu.cn"
+        ], 
+        "dns-ns": [
+            "dns1.tstc.edu.cn", 
+            "dns2.tstc.edu.cn", 
+            "dns3.tstc.edu.cn"
+        ], 
+        "domain-name": "tstc.edu.cn", 
+        "fuzzer": "bitsquatting", 
+        "mx-spy": true
+    }, 
+    {
+        "dns-mx": [
+            "smtp.ustb.edu.cn"
+        ], 
+        "dns-ns": [
+            "dns.ustb.edu.cn", 
+            "dns2.ustb.edu.cn", 
+            "dns4.ustb.edu.cn"
+        ], 
+        "domain-name": "ustb.edu.cn", 
+        "fuzzer": "bitsquatting"
+    }, 
+    {
+        "dns-ns": [
+            "dns1.usta.edu.cn", 
+            "dns2.usta.edu.cn"
+        ], 
+        "domain-name": "usta.edu.cn", 
+        "fuzzer": "bitsquatting"
+    }, 
+    {
+        "dns-mx": [
+            "hzmx01.mxmail.netease.com", 
+            "hzmx02.mxmail.netease.com", 
+            "mxhm.qiye.163.com"
+        ], 
+        "dns-ns": [
+            "dns1.usts.edu.cn"
+        ], 
+        "domain-name": "usts.edu.cn", 
+        "fuzzer": "bitsquatting"
+    }, 
+    {
+        "dns-a": [
+            "202.112.14.178"
+        ], 
+        "dns-mx": [
+            "uestc.eyou.cn4e.com"
+        ], 
+        "dns-ns": [
+            "cdnet52.uestc.edu.cn", 
+            "dns.uestc.edu.cn"
+        ], 
+        "domain-name": "uestc.edu.cn", 
+        "fuzzer": "insertion", 
+        "geoip-country": "China", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-mx": [
+            "gw.usc.edu.cn"
+        ], 
+        "dns-ns": [
+            "DNS.usc.edu.cn"
+        ], 
+        "domain-name": "usc.edu.cn", 
+        "fuzzer": "omission"
+    }, 
+    {
+        "dns-mx": [
+            "hzmx01.mxmail.netease.com", 
+            "hzmx02.mxmail.netease.com"
+        ], 
+        "dns-ns": [
+            "dns.hstc.edu.cn", 
+            "dns2.hstc.edu.cn"
+        ], 
+        "domain-name": "hstc.edu.cn", 
+        "fuzzer": "replacement"
+    }, 
+    {
+        "dns-a": [
+            "221.229.123.147"
+        ], 
+        "domain-name": "jstc.edu.cn", 
+        "fuzzer": "replacement"
+    }, 
+    {
+        "dns-a": [
+            "210.40.112.200"
+        ], 
+        "dns-ns": [
+            "dns.online.edu.cn", 
+            "dns2.online.edu.cn"
+        ], 
+        "domain-name": "astc.edu.cn", 
+        "fuzzer": "vowel-swap"
+    }, 
+    {
+        "dns-a": [
+            "50.117.120.251"
+        ], 
+        "domain-name": "ustcedu.cn", 
+        "fuzzer": "various"
+    }
+]

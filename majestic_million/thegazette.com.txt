@@ -1,0 +1,177 @@
+[
+    {
+        "dns-a": [
+            "50.63.202.2"
+        ], 
+        "dns-mx": [
+            "thegazette-com.mail.protection.outlook.com"
+        ], 
+        "dns-ns": [
+            "pdns03.domaincontrol.com", 
+            "pdns04.domaincontrol.com"
+        ], 
+        "domain-name": "thegazette.com", 
+        "fuzzer": "original*", 
+        "geoip-country": "United States"
+    }, 
+    {
+        "dns-a": [
+            "212.18.225.227"
+        ], 
+        "dns-mx": [
+            "thegazetter.com"
+        ], 
+        "dns-ns": [
+            "ns1.thewebhostserver.com", 
+            "ns2.thewebhostserver.com", 
+            "ns3.thewebhostserver.com", 
+            "ns4.thewebhostserver.com"
+        ], 
+        "domain-name": "thegazetter.com", 
+        "fuzzer": "addition", 
+        "geoip-country": "United Kingdom"
+    }, 
+    {
+        "dns-a": [
+            "69.172.201.153"
+        ], 
+        "dns-ns": [
+            "ns1.uniregistrymarket.link", 
+            "ns2.uniregistrymarket.link"
+        ], 
+        "domain-name": "thegazettes.com", 
+        "fuzzer": "addition", 
+        "geoip-country": "United States"
+    }, 
+    {
+        "dns-a": [
+            "122.216.206.226"
+        ], 
+        "dns-mx": [
+            "mail.the-gazette.com"
+        ], 
+        "dns-ns": [
+            "ns1.value-domain.com", 
+            "ns2.value-domain.com"
+        ], 
+        "domain-name": "the-gazette.com", 
+        "fuzzer": "hyphenation", 
+        "geoip-country": "Japan"
+    }, 
+    {
+        "dns-a": [
+            "173.208.245.210"
+        ], 
+        "dns-mx": [
+            "thetgazette.com"
+        ], 
+        "dns-ns": [
+            "houston1.viewen.com", 
+            "houston2.viewen.com"
+        ], 
+        "domain-name": "thetgazette.com", 
+        "fuzzer": "insertion", 
+        "geoip-country": "United States"
+    }, 
+    {
+        "dns-a": [
+            "95.211.219.65"
+        ], 
+        "dns-ns": [
+            "ns1.hastydns.com", 
+            "ns2.hastydns.com"
+        ], 
+        "domain-name": "thegazzette.com", 
+        "fuzzer": "insertion", 
+        "geoip-country": "Netherlands"
+    }, 
+    {
+        "dns-a": [
+            "209.99.64.18"
+        ], 
+        "dns-ns": [
+            "ns11018.ztomy.com", 
+            "ns21018.ztomy.com"
+        ], 
+        "domain-name": "thegazete.com", 
+        "fuzzer": "omission", 
+        "geoip-country": "United States"
+    }, 
+    {
+        "dns-a": [
+            "104.16.87.230", 
+            "104.16.88.230", 
+            "104.16.89.230", 
+            "104.16.90.230", 
+            "104.16.91.230"
+        ], 
+        "dns-ns": [
+            "ns2.vpweb.com", 
+            "ns3.vpweb.com", 
+            "ns4.vpweb.com"
+        ], 
+        "domain-name": "thegazettte.com", 
+        "fuzzer": "repetition", 
+        "geoip-country": "United States"
+    }, 
+    {
+        "dns-a": [
+            "104.27.178.191", 
+            "104.27.179.191"
+        ], 
+        "dns-aaaa": [
+            "2400:cb00:2048:1::681b:b2bf", 
+            "2400:cb00:2048:1::681b:b3bf"
+        ], 
+        "dns-mx": [
+            "dc-c6634e3194b4.thsgazette.com"
+        ], 
+        "dns-ns": [
+            "owen.ns.cloudflare.com", 
+            "sima.ns.cloudflare.com"
+        ], 
+        "domain-name": "thsgazette.com", 
+        "fuzzer": "replacement", 
+        "geoip-country": "United States"
+    }, 
+    {
+        "dns-a": [
+            "52.73.124.185", 
+            "54.164.198.60"
+        ], 
+        "dns-ns": [
+            "ns1.namebrightdns.com", 
+            "ns2.namebrightdns.com"
+        ], 
+        "domain-name": "theg.azette.com", 
+        "fuzzer": "subdomain", 
+        "geoip-country": "United States"
+    }, 
+    {
+        "dns-a": [
+            "69.172.201.153"
+        ], 
+        "dns-ns": [
+            "ns1.uniregistrymarket.link", 
+            "ns2.uniregistrymarket.link"
+        ], 
+        "domain-name": "thega.zette.com", 
+        "fuzzer": "subdomain", 
+        "geoip-country": "United States"
+    }, 
+    {
+        "dns-a": [
+            "174.129.212.2", 
+            "75.101.145.87", 
+            "75.101.163.44"
+        ], 
+        "dns-ns": [
+            "ns1.dreamhost.com", 
+            "ns2.dreamhost.com", 
+            "ns3.dreamhost.com"
+        ], 
+        "domain-name": "thegozette.com", 
+        "fuzzer": "vowel-swap", 
+        "geoip-country": "United States"
+    }
+]

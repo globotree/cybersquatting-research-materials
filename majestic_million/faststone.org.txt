@@ -1,0 +1,88 @@
+[
+    {
+        "dns-a": [
+            "64.29.151.221"
+        ], 
+        "dns-mx": [
+            "mx1c40.carrierzone.com", 
+            "mx2c40.carrierzone.com", 
+            "mx3c40.carrierzone.com"
+        ], 
+        "dns-ns": [
+            "ns1.aplus.net", 
+            "ns2.aplus.net"
+        ], 
+        "domain-name": "faststone.org", 
+        "fuzzer": "original*", 
+        "geoip-country": "United States"
+    }, 
+    {
+        "dns-a": [
+            "104.28.26.26", 
+            "104.28.27.26"
+        ], 
+        "dns-mx": [
+            "mx1.privateemail.com", 
+            "mx2.privateemail.com"
+        ], 
+        "dns-ns": [
+            "abby.ns.cloudflare.com", 
+            "will.ns.cloudflare.com"
+        ], 
+        "domain-name": "faststore.org", 
+        "fuzzer": "homoglyph", 
+        "geoip-country": "United States"
+    }, 
+    {
+        "dns-a": [
+            "107.154.155.85", 
+            "107.154.162.85"
+        ], 
+        "dns-mx": [
+            "mx1.netsolmail.net"
+        ], 
+        "dns-ns": [
+            "ns1.dnsbycomodo.net", 
+            "ns2.dnsbycomodo.net"
+        ], 
+        "domain-name": "caststone.org", 
+        "fuzzer": "replacement", 
+        "geoip-country": "United States"
+    }, 
+    {
+        "dns-a": [
+            "64.99.80.121"
+        ], 
+        "domain-name": "fast.stone.org", 
+        "fuzzer": "subdomain", 
+        "geoip-country": "Canada"
+    }, 
+    {
+        "dns-a": [
+            "69.172.201.153"
+        ], 
+        "dns-ns": [
+            "ns1.uniregistrymarket.link", 
+            "ns2.uniregistrymarket.link"
+        ], 
+        "domain-name": "fasts.tone.org", 
+        "fuzzer": "subdomain", 
+        "geoip-country": "United States"
+    }, 
+    {
+        "dns-a": [
+            "72.52.4.122"
+        ], 
+        "dns-mx": [
+            "localhost"
+        ], 
+        "dns-ns": [
+            "ns1.sedoparking.com", 
+            "ns2.sedoparking.com"
+        ], 
+        "domain-name": "faststo.ne.org", 
+        "fuzzer": "subdomain", 
+        "geoip-country": "United States", 
+        "mx-spy": true
+    }
+]

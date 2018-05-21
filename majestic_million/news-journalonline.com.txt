@@ -1,0 +1,119 @@
+[
+    {
+        "dns-a": [
+            "34.234.22.13", 
+            "54.209.165.131"
+        ], 
+        "dns-ns": [
+            "ns-1043.awsdns-02.org", 
+            "ns-1695.awsdns-19.co.uk", 
+            "ns-187.awsdns-23.com", 
+            "ns-544.awsdns-04.net"
+        ], 
+        "domain-name": "news-journalonline.com", 
+        "fuzzer": "original*", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 100
+    }, 
+    {
+        "dns-a": [
+            "103.224.212.222"
+        ], 
+        "dns-mx": [
+            "park-mx.above.com"
+        ], 
+        "dns-ns": [
+            "ns1.above.com", 
+            "ns2.above.com"
+        ], 
+        "domain-name": "news-journal-online.com", 
+        "fuzzer": "hyphenation", 
+        "geoip-country": "Australia", 
+        "mx-spy": true, 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "96.45.82.190", 
+            "96.45.82.71", 
+            "96.45.83.113", 
+            "96.45.83.163"
+        ], 
+        "dns-ns": [
+            "ns1.news-jrnl.com", 
+            "ns2.news-jrnl.com", 
+            "ns3.news-jrnl.com", 
+            "ns4.news-jrnl.com", 
+            "ns5.news-jrnl.com"
+        ], 
+        "domain-name": "newsjournalonline.com", 
+        "fuzzer": "omission", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 100
+    }, 
+    {
+        "dns-a": [
+            "185.53.179.6"
+        ], 
+        "dns-mx": [
+            "mail.h-email.net"
+        ], 
+        "dns-ns": [
+            "ns1.parkingcrew.net", 
+            "ns2.parkingcrew.net"
+        ], 
+        "domain-name": "news-jornalonline.com", 
+        "fuzzer": "omission", 
+        "geoip-country": "Germany", 
+        "mx-spy": true, 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "103.224.182.253"
+        ], 
+        "dns-mx": [
+            "park-mx.above.com"
+        ], 
+        "dns-ns": [
+            "ns3.above.com", 
+            "ns4.above.com"
+        ], 
+        "domain-name": "new-journalonline.com", 
+        "fuzzer": "omission", 
+        "geoip-country": "Australia", 
+        "mx-spy": true, 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "68.178.213.61"
+        ], 
+        "domain-name": "news-journ.alonline.com", 
+        "fuzzer": "subdomain"
+    }, 
+    {
+        "dns-a": [
+            "85.17.25.214"
+        ], 
+        "domain-name": "news-journalo.nline.com", 
+        "fuzzer": "subdomain", 
+        "geoip-country": "Netherlands"
+    }, 
+    {
+        "dns-a": [
+            "40.77.56.174"
+        ], 
+        "dns-mx": [
+            "ncorp-spamfilter.nooter.com", 
+            "ne-spamfilter.ne.com"
+        ], 
+        "dns-ns": [
+            "cbru.br.ns.els-gms.att.net", 
+            "cmtu.mt.ns.els-gms.att.net"
+        ], 
+        "domain-name": "news-journalonli.ne.com", 
+        "fuzzer": "subdomain", 
+        "geoip-country": "United States"
+    }
+]

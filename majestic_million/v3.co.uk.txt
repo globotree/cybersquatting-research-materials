@@ -1,0 +1,450 @@
+[
+    {
+        "dns-a": [
+            "104.16.227.209", 
+            "104.16.228.209", 
+            "104.16.229.209", 
+            "104.16.230.209", 
+            "104.16.231.209"
+        ], 
+        "dns-aaaa": [
+            "2400:cb00:2048:1::6810:e3d1", 
+            "2400:cb00:2048:1::6810:e4d1", 
+            "2400:cb00:2048:1::6810:e5d1", 
+            "2400:cb00:2048:1::6810:e6d1", 
+            "2400:cb00:2048:1::6810:e7d1"
+        ], 
+        "dns-mx": [
+            "v3-co-uk.mail.protection.outlook.com"
+        ], 
+        "dns-ns": [
+            "meg.ns.cloudflare.com", 
+            "phil.ns.cloudflare.com"
+        ], 
+        "domain-name": "v3.co.uk", 
+        "fuzzer": "original*", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 100
+    }, 
+    {
+        "dns-mx": [
+            "mx0.123-reg.co.uk", 
+            "mx1.123-reg.co.uk"
+        ], 
+        "dns-ns": [
+            "ns.hosteurope.com", 
+            "ns2.hosteurope.com"
+        ], 
+        "domain-name": "v3e.co.uk", 
+        "fuzzer": "addition"
+    }, 
+    {
+        "dns-a": [
+            "94.136.40.82"
+        ], 
+        "dns-ns": [
+            "ns.123-reg.co.uk", 
+            "ns2.123-reg.co.uk"
+        ], 
+        "domain-name": "v3f.co.uk", 
+        "fuzzer": "addition", 
+        "geoip-country": "United Kingdom", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "184.168.221.49"
+        ], 
+        "dns-ns": [
+            "ns51.domaincontrol.com", 
+            "ns52.domaincontrol.com"
+        ], 
+        "domain-name": "v3g.co.uk", 
+        "fuzzer": "addition", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "213.171.218.93"
+        ], 
+        "dns-mx": [
+            "mailserver.v3k.co.uk"
+        ], 
+        "dns-ns": [
+            "ns1.livedns.co.uk", 
+            "ns2.livedns.co.uk", 
+            "ns3.livedns.co.uk"
+        ], 
+        "domain-name": "v3k.co.uk", 
+        "fuzzer": "addition", 
+        "geoip-country": "United Kingdom"
+    }, 
+    {
+        "dns-a": [
+            "94.136.40.51"
+        ], 
+        "dns-mx": [
+            "mx0.123-reg.co.uk", 
+            "mx1.123-reg.co.uk"
+        ], 
+        "dns-ns": [
+            "ns.123-reg.co.uk", 
+            "ns2.123-reg.co.uk"
+        ], 
+        "domain-name": "v3m.co.uk", 
+        "fuzzer": "addition", 
+        "geoip-country": "United Kingdom", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "50.63.202.39"
+        ], 
+        "dns-mx": [
+            "mailstore1.secureserver.net", 
+            "smtp.secureserver.net"
+        ], 
+        "dns-ns": [
+            "ns19.domaincontrol.com", 
+            "ns20.domaincontrol.com"
+        ], 
+        "domain-name": "v3p.co.uk", 
+        "fuzzer": "addition", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "94.136.40.82"
+        ], 
+        "dns-mx": [
+            "mx0.123-reg.co.uk", 
+            "mx1.123-reg.co.uk"
+        ], 
+        "domain-name": "v3t.co.uk", 
+        "fuzzer": "addition", 
+        "geoip-country": "United Kingdom"
+    }, 
+    {
+        "dns-a": [
+            "79.170.44.105"
+        ], 
+        "dns-mx": [
+            "mail.v3v.co.uk"
+        ], 
+        "dns-ns": [
+            "ns.mainnameserver.com", 
+            "ns2.mainnameserver.com"
+        ], 
+        "domain-name": "v3v.co.uk", 
+        "fuzzer": "addition", 
+        "geoip-country": "United Kingdom", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "46.51.204.184"
+        ], 
+        "dns-mx": [
+            "athena.hosts.co.uk", 
+            "hermes.hosts.co.uk"
+        ], 
+        "dns-ns": [
+            "ns0.phase8.net", 
+            "ns1.phase8.net", 
+            "ns2.phase8.net"
+        ], 
+        "domain-name": "v3x.co.uk", 
+        "fuzzer": "addition", 
+        "geoip-country": "Ireland", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "72.52.4.120"
+        ], 
+        "dns-mx": [
+            "localhost"
+        ], 
+        "dns-ns": [
+            "ns1.sedoparking.com", 
+            "ns2.sedoparking.com"
+        ], 
+        "domain-name": "w3.co.uk", 
+        "fuzzer": "bitsquatting", 
+        "geoip-country": "United States", 
+        "mx-spy": true, 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "185.113.25.34"
+        ], 
+        "dns-ns": [
+            "ns01.future.net.uk", 
+            "ns02.future.net.uk"
+        ], 
+        "domain-name": "t3.co.uk", 
+        "fuzzer": "bitsquatting", 
+        "geoip-country": "United Kingdom", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "87.106.142.81"
+        ], 
+        "dns-ns": [
+            "a.giraffe.co.uk", 
+            "b.giraffe.co.uk"
+        ], 
+        "domain-name": "r3.co.uk", 
+        "fuzzer": "bitsquatting", 
+        "geoip-country": "Germany", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "94.136.40.85"
+        ], 
+        "dns-mx": [
+            "mx0.123-reg.co.uk", 
+            "mx1.123-reg.co.uk"
+        ], 
+        "dns-ns": [
+            "ns.123-reg.co.uk", 
+            "ns2.123-reg.co.uk"
+        ], 
+        "domain-name": "f3.co.uk", 
+        "fuzzer": "bitsquatting", 
+        "geoip-country": "United Kingdom"
+    }, 
+    {
+        "dns-a": [
+            "87.106.142.81"
+        ], 
+        "dns-ns": [
+            "a.giraffe.co.uk", 
+            "b.giraffe.co.uk"
+        ], 
+        "domain-name": "63.co.uk", 
+        "fuzzer": "bitsquatting", 
+        "geoip-country": "Germany", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "77.68.43.120"
+        ], 
+        "dns-ns": [
+            "hws.thecyber.net", 
+            "joe.thecyber.net"
+        ], 
+        "domain-name": "v2.co.uk", 
+        "fuzzer": "bitsquatting", 
+        "geoip-country": "United Kingdom", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "88.208.252.9"
+        ], 
+        "dns-mx": [
+            "v1-co-uk.mail.protection.outlook.com"
+        ], 
+        "dns-ns": [
+            "ns1.livedns.co.uk", 
+            "ns2.livedns.co.uk", 
+            "ns3.livedns.co.uk"
+        ], 
+        "domain-name": "v1.co.uk", 
+        "fuzzer": "bitsquatting", 
+        "geoip-country": "United Kingdom", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "87.106.142.81"
+        ], 
+        "domain-name": "v7.co.uk", 
+        "fuzzer": "bitsquatting", 
+        "geoip-country": "Germany"
+    }, 
+    {
+        "dns-a": [
+            "69.172.201.153"
+        ], 
+        "dns-ns": [
+            "ns1.uniregistrymarket.link", 
+            "ns2.uniregistrymarket.link"
+        ], 
+        "domain-name": "vs.co.uk", 
+        "fuzzer": "bitsquatting", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "54.247.120.7"
+        ], 
+        "dns-ns": [
+            "a4.nstld.com", 
+            "f4.nstld.com", 
+            "g4.nstld.com", 
+            "h4.nstld.com", 
+            "j4.nstld.com", 
+            "k4.nstld.com", 
+            "l4.nstld.com"
+        ], 
+        "domain-name": "v.co.uk", 
+        "fuzzer": "omission", 
+        "geoip-country": "Ireland"
+    }, 
+    {
+        "dns-a": [
+            "217.160.0.34"
+        ], 
+        "dns-aaaa": [
+            "2001:8d8:100f:f000::26f"
+        ], 
+        "dns-mx": [
+            "mail.g3.uk", 
+            "smtp.g3.co.uk", 
+            "smtp.g3.uk", 
+            "virgin.g3.co.uk"
+        ], 
+        "dns-ns": [
+            "ns-uk.1and1-dns.biz", 
+            "ns-uk.1and1-dns.co.uk", 
+            "ns-uk.1and1-dns.com", 
+            "ns-uk.1and1-dns.org"
+        ], 
+        "domain-name": "g3.co.uk", 
+        "fuzzer": "replacement", 
+        "geoip-country": "Germany", 
+        "mx-spy": true, 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "109.239.101.62"
+        ], 
+        "dns-mx": [
+            "mail.any-mail.com", 
+            "mail.any-mail.com"
+        ], 
+        "dns-ns": [
+            "ns01.any-dns.co.uk", 
+            "ns02.any-dns.co.uk"
+        ], 
+        "domain-name": "ve.co.uk", 
+        "fuzzer": "replacement", 
+        "geoip-country": "United Kingdom", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "83.138.138.248"
+        ], 
+        "dns-mx": [
+            "mail.vwg.co.uk", 
+            "relay1.mail.uk.psi.net", 
+            "relay2.mail.uk.psi.net", 
+            "relay3.mail.uk.psi.net", 
+            "relay4.mail.uk.psi.net"
+        ], 
+        "dns-ns": [
+            "ns1.markmonitor.com", 
+            "ns2.markmonitor.com", 
+            "ns3.markmonitor.com", 
+            "ns4.markmonitor.com", 
+            "ns5.markmonitor.com", 
+            "ns6.markmonitor.com", 
+            "ns7.markmonitor.com"
+        ], 
+        "domain-name": "vw.co.uk", 
+        "fuzzer": "replacement", 
+        "geoip-country": "United Kingdom"
+    }, 
+    {
+        "dns-a": [
+            "184.168.221.57"
+        ], 
+        "dns-mx": [
+            "mailstore1.secureserver.net", 
+            "smtp.secureserver.net"
+        ], 
+        "dns-ns": [
+            "ns67.domaincontrol.com", 
+            "ns68.domaincontrol.com"
+        ], 
+        "domain-name": "v4.co.uk", 
+        "fuzzer": "replacement", 
+        "geoip-country": "United States"
+    }, 
+    {
+        "dns-a": [
+            "109.73.233.125"
+        ], 
+        "dns-mx": [
+            "mail.darntonb3.com"
+        ], 
+        "dns-ns": [
+            "ns61.domaincontrol.com", 
+            "ns62.domaincontrol.com"
+        ], 
+        "domain-name": "b3.co.uk", 
+        "fuzzer": "replacement"
+    }, 
+    {
+        "dns-a": [
+            "192.124.249.4"
+        ], 
+        "dns-mx": [
+            "engine01-20008-1.icritical.com", 
+            "engine02-20008-2.icritical.com"
+        ], 
+        "dns-ns": [
+            "ns.123-reg.co.uk", 
+            "ns2.123-reg.co.uk"
+        ], 
+        "domain-name": "c3.co.uk", 
+        "fuzzer": "replacement"
+    }, 
+    {
+        "dns-a": [
+            "109.239.101.62"
+        ], 
+        "dns-mx": [
+            "mail.any-mail.com", 
+            "mail.any-mail.com"
+        ], 
+        "dns-ns": [
+            "ns01.any-dns.co.uk", 
+            "ns02.any-dns.co.uk"
+        ], 
+        "domain-name": "vz.co.uk", 
+        "fuzzer": "replacement", 
+        "geoip-country": "United Kingdom", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "185.26.230.129"
+        ], 
+        "dns-mx": [
+            "relay1.netnames.net", 
+            "relay2.netnames.net"
+        ], 
+        "dns-ns": [
+            "ns1.netnames.net", 
+            "ns2.netnames.net", 
+            "ns5.netnames.net", 
+            "ns6.netnames.net"
+        ], 
+        "domain-name": "v3.uk", 
+        "fuzzer": "various", 
+        "geoip-country": "United Kingdom", 
+        "ssdeep-score": 0
+    }
+]

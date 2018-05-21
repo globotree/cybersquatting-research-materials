@@ -1,0 +1,546 @@
+[
+    {
+        "dns-mx": [
+            "fe-pa.mail.saunalahti.fi", 
+            "fe-stp.mail.saunalahti.fi", 
+            "mq01.mail.saunalahti.fi"
+        ], 
+        "dns-ns": [
+            "ns3.sci.fi", 
+            "ns5.sci.fi", 
+            "ns6.sci.fi"
+        ], 
+        "domain-name": "sci.fi", 
+        "fuzzer": "original*"
+    }, 
+    {
+        "dns-a": [
+            "80.69.161.36"
+        ], 
+        "dns-aaaa": [
+            "2a01:51c0:1000:21:80:69:161:36"
+        ], 
+        "dns-mx": [
+            "mail1.sigmatic.fi"
+        ], 
+        "dns-ns": [
+            "ns1.sigmatic.fi", 
+            "ns2.sigmatic.fi"
+        ], 
+        "domain-name": "scih.fi", 
+        "fuzzer": "addition", 
+        "geoip-country": "Finland"
+    }, 
+    {
+        "dns-a": [
+            "85.131.63.33"
+        ], 
+        "dns-mx": [
+            "mx-2.wmhost.com"
+        ], 
+        "dns-ns": [
+            "ns1.wmhost.org", 
+            "ns2.wmhost.org", 
+            "ns3.wmhost.org"
+        ], 
+        "domain-name": "scio.fi", 
+        "fuzzer": "addition", 
+        "geoip-country": "Finland"
+    }, 
+    {
+        "dns-a": [
+            "5.226.171.142"
+        ], 
+        "dns-mx": [
+            "scis-fi.mail.protection.outlook.com"
+        ], 
+        "dns-ns": [
+            "ns1-fin.global.sonera.fi", 
+            "ns1-swe.global.sonera.se", 
+            "ns2-fin.global.sonera.fi", 
+            "ns2-usa.global.sonera.net"
+        ], 
+        "domain-name": "scis.fi", 
+        "fuzzer": "addition", 
+        "geoip-country": "Germany"
+    }, 
+    {
+        "dns-a": [
+            "167.182.244.12"
+        ], 
+        "dns-ns": [
+            "dbru.br.ns.els-gms.att.net", 
+            "dmtu.mt.ns.els-gms.att.net", 
+            "ns19.customer.level3.net", 
+            "ns24.customer.level3.net", 
+            "ns9.customer.level3.net"
+        ], 
+        "domain-name": "rci.fi", 
+        "fuzzer": "bitsquatting", 
+        "geoip-country": "United States"
+    }, 
+    {
+        "dns-a": [
+            "46.137.188.135"
+        ], 
+        "dns-mx": [
+            "wci-fi.mail.protection.outlook.com"
+        ], 
+        "dns-ns": [
+            "ns1.nimipalvelu.mobi", 
+            "ns2.nimipalvelu.mobi"
+        ], 
+        "domain-name": "wci.fi", 
+        "fuzzer": "bitsquatting", 
+        "geoip-country": "Ireland"
+    }, 
+    {
+        "dns-a": [
+            "80.83.0.18"
+        ], 
+        "dns-mx": [
+            "mailscan.mmd.net"
+        ], 
+        "dns-ns": [
+            "ns.mmd.net", 
+            "ns2.mmd.net", 
+            "ns3.mmd.net"
+        ], 
+        "domain-name": "cci.fi", 
+        "fuzzer": "bitsquatting", 
+        "geoip-country": "Finland"
+    }, 
+    {
+        "dns-a": [
+            "72.52.4.119"
+        ], 
+        "dns-mx": [
+            "localhost"
+        ], 
+        "dns-ns": [
+            "ns1.sedoparking.com", 
+            "ns2.sedoparking.com"
+        ], 
+        "domain-name": "sbi.fi", 
+        "fuzzer": "bitsquatting", 
+        "geoip-country": "United States", 
+        "mx-spy": true
+    }, 
+    {
+        "dns-a": [
+            "212.47.208.168"
+        ], 
+        "dns-mx": [
+            "mail.sai.fi"
+        ], 
+        "dns-ns": [
+            "ns0.radicenter.eu", 
+            "ns2.radicenter.eu"
+        ], 
+        "domain-name": "sai.fi", 
+        "fuzzer": "bitsquatting", 
+        "geoip-country": "Estonia"
+    }, 
+    {
+        "dns-a": [
+            "5.196.244.109"
+        ], 
+        "dns-mx": [
+            "sgi.fi"
+        ], 
+        "dns-ns": [
+            "ns105-1.netfinn.net", 
+            "ns105-2.netfinn.net"
+        ], 
+        "domain-name": "sgi.fi", 
+        "fuzzer": "bitsquatting", 
+        "geoip-country": "France"
+    }, 
+    {
+        "dns-a": [
+            "54.230.14.145", 
+            "54.230.14.153", 
+            "54.230.14.223", 
+            "54.230.14.227", 
+            "54.230.14.250", 
+            "54.230.14.33", 
+            "54.230.14.49", 
+            "54.230.14.56"
+        ], 
+        "dns-aaaa": [
+            "2600:9000:2001:2600:8:8ded:6880:93a1", 
+            "2600:9000:2001:600:8:8ded:6880:93a1", 
+            "2600:9000:2001:6400:8:8ded:6880:93a1", 
+            "2600:9000:2001:6600:8:8ded:6880:93a1", 
+            "2600:9000:2001:7200:8:8ded:6880:93a1", 
+            "2600:9000:2001:a400:8:8ded:6880:93a1", 
+            "2600:9000:2001:b400:8:8ded:6880:93a1", 
+            "2600:9000:2001:f400:8:8ded:6880:93a1"
+        ], 
+        "dns-mx": [
+            "ski-fi.mail.protection.outlook.com"
+        ], 
+        "dns-ns": [
+            "ns1.dnsimple.com", 
+            "ns2.dnsimple.com", 
+            "ns3.dnsimple.com", 
+            "ns4.dnsimple.com"
+        ], 
+        "domain-name": "ski.fi", 
+        "fuzzer": "bitsquatting", 
+        "geoip-country": "United States"
+    }, 
+    {
+        "dns-mx": [
+            "guard0.jmjping.fi", 
+            "guard1.jmjping.fi"
+        ], 
+        "dns-ns": [
+            "ns.jmjping.fi", 
+            "ns2.jmjping.fi"
+        ], 
+        "domain-name": "ssi.fi", 
+        "fuzzer": "bitsquatting", 
+        "mx-spy": true
+    }, 
+    {
+        "dns-a": [
+            "192.130.183.162"
+        ], 
+        "dns-mx": [
+            "sch-fi.mail.protection.outlook.com"
+        ], 
+        "dns-ns": [
+            "ns.datatower.fi", 
+            "ns.kpk.fi"
+        ], 
+        "domain-name": "sch.fi", 
+        "fuzzer": "bitsquatting", 
+        "geoip-country": "Finland"
+    }, 
+    {
+        "dns-a": [
+            "54.76.107.51"
+        ], 
+        "dns-mx": [
+            "mail.scm.fi"
+        ], 
+        "dns-ns": [
+            "prodns.kotisivut.com", 
+            "prodns2.kotisivut.com", 
+            "prodns3.kotisivut.com", 
+            "prodns4.kotisivut.com"
+        ], 
+        "domain-name": "scm.fi", 
+        "fuzzer": "bitsquatting", 
+        "geoip-country": "Ireland"
+    }, 
+    {
+        "dns-mx": [
+            "mail-switch.got.sgn.sca.se", 
+            "mail-switch.muc.sgn.sca.se"
+        ], 
+        "dns-ns": [
+            "ns1.sca.com", 
+            "ns2.sca.com"
+        ], 
+        "domain-name": "sca.fi", 
+        "fuzzer": "bitsquatting"
+    }, 
+    {
+        "dns-a": [
+            "188.117.16.107"
+        ], 
+        "dns-mx": [
+            "mail.viidakko.fi"
+        ], 
+        "dns-ns": [
+            "ns1.viidakko.fi", 
+            "ns2.viidakko.fi", 
+            "ns3.viidakko.net", 
+            "ns4.viidakko.net"
+        ], 
+        "domain-name": "scy.fi", 
+        "fuzzer": "bitsquatting", 
+        "geoip-country": "Finland"
+    }, 
+    {
+        "dns-a": [
+            "212.86.29.158"
+        ], 
+        "dns-mx": [
+            "scl-fi.mail.protection.outlook.com"
+        ], 
+        "dns-ns": [
+            "ns.nebula.fi", 
+            "ns2.nebula.fi"
+        ], 
+        "domain-name": "scl.fi", 
+        "fuzzer": "homoglyph", 
+        "geoip-country": "Finland"
+    }, 
+    {
+        "dns-a": [
+            "217.119.36.73"
+        ], 
+        "dns-mx": [
+            "mail.suomicom.fi"
+        ], 
+        "dns-ns": [
+            "ns1.suomicom.fi", 
+            "ns2.suomicom.fi", 
+            "ns3.suomicom.com"
+        ], 
+        "domain-name": "sc.fi", 
+        "fuzzer": "omission", 
+        "geoip-country": "Finland"
+    }, 
+    {
+        "dns-a": [
+            "185.55.84.252"
+        ], 
+        "dns-ns": [
+            "ns1.domainkauppa.fi", 
+            "ns2.domainkauppa.fi"
+        ], 
+        "domain-name": "ci.fi", 
+        "fuzzer": "omission", 
+        "geoip-country": "Finland"
+    }, 
+    {
+        "dns-a": [
+            "72.52.4.119"
+        ], 
+        "dns-mx": [
+            "localhost"
+        ], 
+        "dns-ns": [
+            "ns1.sedoparking.com", 
+            "ns2.sedoparking.com"
+        ], 
+        "domain-name": "si.fi", 
+        "fuzzer": "omission", 
+        "geoip-country": "United States", 
+        "mx-spy": true
+    }, 
+    {
+        "dns-ns": [
+            "ns1.papula-nevinpat.fi", 
+            "ns2.papula-nevinpat.net", 
+            "ns3.papula-nevinpat.net"
+        ], 
+        "domain-name": "ssci.fi", 
+        "fuzzer": "repetition"
+    }, 
+    {
+        "dns-a": [
+            "217.64.47.200"
+        ], 
+        "dns-mx": [
+            "svi-fi.mail.protection.outlook.com"
+        ], 
+        "dns-ns": [
+            "ns1-fin.global.sonera.fi", 
+            "ns1-swe.global.sonera.se", 
+            "ns2-fin.global.sonera.fi", 
+            "ns2-usa.global.sonera.net"
+        ], 
+        "domain-name": "svi.fi", 
+        "fuzzer": "replacement", 
+        "geoip-country": "Finland"
+    }, 
+    {
+        "dns-a": [
+            "164.215.37.12"
+        ], 
+        "dns-mx": [
+            "mail.woima.fi", 
+            "mx2.woima.fi", 
+            "mx3.woima.fi"
+        ], 
+        "dns-ns": [
+            "ns1.woima.fi", 
+            "ns2.woima.fi", 
+            "ns3.woima.fi"
+        ], 
+        "domain-name": "sco.fi", 
+        "fuzzer": "replacement", 
+        "geoip-country": "Finland"
+    }, 
+    {
+        "dns-a": [
+            "213.157.79.1"
+        ], 
+        "dns-mx": [
+            "dci-fi.mail.eo.outlook.com"
+        ], 
+        "dns-ns": [
+            "ns-fi.elisa.net", 
+            "ns-se.elisa.net"
+        ], 
+        "domain-name": "dci.fi", 
+        "fuzzer": "replacement", 
+        "geoip-country": "Finland"
+    }, 
+    {
+        "dns-a": [
+            "164.215.39.201"
+        ], 
+        "dns-aaaa": [
+            "2a03:e581:4::11"
+        ], 
+        "dns-mx": [
+            "mail1.shellit.org", 
+            "mail2.shellit.org"
+        ], 
+        "dns-ns": [
+            "ns1.shellit.org", 
+            "ns2.shellit.org", 
+            "ns3.shellit.org"
+        ], 
+        "domain-name": "aci.fi", 
+        "fuzzer": "replacement", 
+        "geoip-country": "Finland"
+    }, 
+    {
+        "dns-ns": [
+            "ns1.euronic.fi", 
+            "ns2.euronic.fi", 
+            "ns3.euronic.fi"
+        ], 
+        "domain-name": "eci.fi", 
+        "fuzzer": "replacement"
+    }, 
+    {
+        "dns-a": [
+            "83.143.218.162"
+        ], 
+        "dns-mx": [
+            "mx1.capnova.com", 
+            "mx2.capnova.com"
+        ], 
+        "dns-ns": [
+            "ns1.capnova.com", 
+            "ns2.capnova.com"
+        ], 
+        "domain-name": "scj.fi", 
+        "fuzzer": "replacement", 
+        "geoip-country": "Finland"
+    }, 
+    {
+        "dns-ns": [
+            "ns-fi.elisa.net", 
+            "ns-se.elisa.net"
+        ], 
+        "domain-name": "sfi.fi", 
+        "fuzzer": "replacement"
+    }, 
+    {
+        "dns-a": [
+            "185.47.77.15"
+        ], 
+        "dns-aaaa": [
+            "2a04:ad40:0:1::1:104"
+        ], 
+        "dns-mx": [
+            "sdimail2.sdi.fi"
+        ], 
+        "dns-ns": [
+            "ns1.sdi.fi", 
+            "ns2.sdi.fi", 
+            "ns3.sdi.fi"
+        ], 
+        "domain-name": "sdi.fi", 
+        "fuzzer": "replacement"
+    }, 
+    {
+        "dns-a": [
+            "185.55.84.252"
+        ], 
+        "dns-ns": [
+            "ns1.domainkauppa.fi", 
+            "ns2.domainkauppa.fi"
+        ], 
+        "domain-name": "s.ci.fi", 
+        "fuzzer": "subdomain", 
+        "geoip-country": "Finland"
+    }, 
+    {
+        "dns-a": [
+            "91.121.151.204"
+        ], 
+        "dns-mx": [
+            "mail.csi.fi"
+        ], 
+        "dns-ns": [
+            "ns1.hostaamo.fi", 
+            "ns2.afraid.org"
+        ], 
+        "domain-name": "csi.fi", 
+        "fuzzer": "transposition", 
+        "geoip-country": "France"
+    }, 
+    {
+        "dns-a": [
+            "146.0.247.82"
+        ], 
+        "dns-mx": [
+            "mail.saitti.net"
+        ], 
+        "dns-ns": [
+            "ns.iqs.fi", 
+            "ns2.iqs.fi"
+        ], 
+        "domain-name": "sic.fi", 
+        "fuzzer": "transposition"
+    }, 
+    {
+        "dns-mx": [
+            "mx1.planeetta.net", 
+            "mx2.planeetta.net", 
+            "mx3.planeetta.net"
+        ], 
+        "dns-ns": [
+            "ns1.planeetta.net", 
+            "ns2.planeetta.net", 
+            "ns3.planeetta.org"
+        ], 
+        "domain-name": "sce.fi", 
+        "fuzzer": "vowel-swap"
+    }, 
+    {
+        "dns-a": [
+            "178.217.129.234"
+        ], 
+        "dns-mx": [
+            "minimal-mx.hard.ware.fi", 
+            "mx.eivoittoa.fi"
+        ], 
+        "dns-ns": [
+            "a.ns-sec.com", 
+            "b.ns-sec.net", 
+            "c.ns-sec.fi", 
+            "d.ns-sec.org"
+        ], 
+        "domain-name": "scifi.fi", 
+        "fuzzer": "various", 
+        "geoip-country": "Finland"
+    }, 
+    {
+        "dns-a": [
+            "198.185.159.144", 
+            "198.185.159.145", 
+            "198.49.23.144", 
+            "198.49.23.145"
+        ], 
+        "dns-ns": [
+            "ns1.uniregistry-dns.com", 
+            "ns1.uniregistry-dns.net", 
+            "ns2.uniregistry-dns.com", 
+            "ns2.uniregistry-dns.net"
+        ], 
+        "domain-name": "sci-fi.com", 
+        "fuzzer": "various", 
+        "geoip-country": "United States"
+    }
+]

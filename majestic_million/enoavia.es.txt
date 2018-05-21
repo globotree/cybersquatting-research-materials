@@ -1,0 +1,33 @@
+[
+    {
+        "dns-a": [
+            "217.160.0.194"
+        ], 
+        "dns-aaaa": [
+            "2001:8d8:100f:f000::2b1"
+        ], 
+        "dns-ns": [
+            "ns1053.ui-dns.biz", 
+            "ns1053.ui-dns.com", 
+            "ns1053.ui-dns.de", 
+            "ns1053.ui-dns.org"
+        ], 
+        "domain-name": "enoavia.es", 
+        "fuzzer": "original*", 
+        "geoip-country": "Germany", 
+        "ssdeep-score": 94
+    }, 
+    {
+        "dns-a": [
+            "217.76.156.252"
+        ], 
+        "dns-ns": [
+            "ns10.piensasolutions.com", 
+            "ns9.piensasolutions.com"
+        ], 
+        "domain-name": "enovia.es", 
+        "fuzzer": "omission", 
+        "geoip-country": "Portugal", 
+        "ssdeep-score": 0
+    }
+]

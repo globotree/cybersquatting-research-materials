@@ -1,0 +1,281 @@
+[
+    {
+        "dns-a": [
+            "34.250.140.242"
+        ], 
+        "dns-mx": [
+            "tf1-fr.mail.protection.outlook.com"
+        ], 
+        "dns-ns": [
+            "ns1.coltfrance.com", 
+            "ns1.nan2.fr.uu.net"
+        ], 
+        "domain-name": "tf1.fr", 
+        "fuzzer": "original*", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 100
+    }, 
+    {
+        "dns-a": [
+            "185.26.230.129"
+        ], 
+        "dns-ns": [
+            "ns1.netnames.net", 
+            "ns2.netnames.net", 
+            "ns5.netnames.net", 
+            "ns6.netnames.net"
+        ], 
+        "domain-name": "tf1x.fr", 
+        "fuzzer": "addition", 
+        "geoip-country": "United Kingdom", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "91.136.7.245"
+        ], 
+        "dns-mx": [
+            "mx3.adista.fr"
+        ], 
+        "dns-ns": [
+            "ns1.cornut.fr", 
+            "ns2.cornut.fr", 
+            "ns3.cornut.fr"
+        ], 
+        "domain-name": "uf1.fr", 
+        "fuzzer": "bitsquatting", 
+        "geoip-country": "United Kingdom", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "81.88.57.68"
+        ], 
+        "dns-mx": [
+            "mail-fr.securemail.pro"
+        ], 
+        "dns-ns": [
+            "ns1.amenworld.com", 
+            "ns2.amenworld.com"
+        ], 
+        "domain-name": "pf1.fr", 
+        "fuzzer": "bitsquatting", 
+        "geoip-country": "Italy", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "213.186.33.19"
+        ], 
+        "dns-mx": [
+            "mx1.ovh.net", 
+            "mx2.ovh.net", 
+            "mxb.ovh.net"
+        ], 
+        "dns-ns": [
+            "dns.ovh.net", 
+            "ns.ovh.net"
+        ], 
+        "domain-name": "tg1.fr", 
+        "fuzzer": "bitsquatting", 
+        "geoip-country": "France", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "185.53.177.20"
+        ], 
+        "dns-mx": [
+            "mail.tf3.fr"
+        ], 
+        "dns-ns": [
+            "ns1.eurodns.com", 
+            "ns2.eurodns.com"
+        ], 
+        "domain-name": "tf3.fr", 
+        "fuzzer": "bitsquatting", 
+        "geoip-country": "Germany", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "37.59.60.20"
+        ], 
+        "dns-mx": [
+            "garance.me"
+        ], 
+        "dns-ns": [
+            "dns101.ovh.net", 
+            "ns101.ovh.net"
+        ], 
+        "domain-name": "tfq.fr", 
+        "fuzzer": "bitsquatting", 
+        "geoip-country": "France", 
+        "mx-spy": true, 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "194.150.236.25"
+        ], 
+        "dns-mx": [
+            "mx.hiwit.net"
+        ], 
+        "dns-ns": [
+            "dns1.hiwit.net", 
+            "dns2.hiwit.net"
+        ], 
+        "domain-name": "f1.fr", 
+        "fuzzer": "omission", 
+        "geoip-country": "France", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "217.160.223.229"
+        ], 
+        "dns-aaaa": [
+            "2001:8d8:1000:70d5:7775:ac7b:5b55:b01b"
+        ], 
+        "dns-mx": [
+            "mx00.1and1.fr", 
+            "mx01.1and1.fr"
+        ], 
+        "dns-ns": [
+            "ns-fr.1and1-dns.biz", 
+            "ns-fr.1and1-dns.com", 
+            "ns-fr.1and1-dns.fr", 
+            "ns-fr.1and1-dns.org"
+        ], 
+        "domain-name": "t1.fr", 
+        "fuzzer": "omission", 
+        "geoip-country": "Germany", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "199.59.242.150"
+        ], 
+        "dns-mx": [
+            "mx76.m2bp.com", 
+            "mx76.mb1p.com"
+        ], 
+        "dns-ns": [
+            "ns1.bodis.com", 
+            "ns2.bodis.com"
+        ], 
+        "domain-name": "tfa.fr", 
+        "fuzzer": "replacement", 
+        "geoip-country": "United States", 
+        "mx-spy": true, 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "217.160.0.244"
+        ], 
+        "dns-aaaa": [
+            "2001:8d8:100f:f000::27d"
+        ], 
+        "dns-mx": [
+            "mx00.1and1.fr", 
+            "mx01.1and1.fr"
+        ], 
+        "dns-ns": [
+            "ns1084.ui-dns.biz", 
+            "ns1084.ui-dns.com", 
+            "ns1084.ui-dns.de", 
+            "ns1084.ui-dns.org"
+        ], 
+        "domain-name": "gf1.fr", 
+        "fuzzer": "replacement", 
+        "geoip-country": "Germany", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "81.93.252.116"
+        ], 
+        "dns-ns": [
+            "a.dns.gandi.net", 
+            "b.dns.gandi.net", 
+            "c.dns.gandi.net"
+        ], 
+        "domain-name": "tc1.fr", 
+        "fuzzer": "replacement", 
+        "geoip-country": "France"
+    }, 
+    {
+        "dns-a": [
+            "185.53.179.6"
+        ], 
+        "dns-mx": [
+            "mail.h-email.net"
+        ], 
+        "dns-ns": [
+            "ns1.parkingcrew.net", 
+            "ns2.parkingcrew.net"
+        ], 
+        "domain-name": "tr1.fr", 
+        "fuzzer": "replacement"
+    }, 
+    {
+        "dns-a": [
+            "62.210.147.3"
+        ], 
+        "dns-ns": [
+            "olive.b3x.fr", 
+            "tom.b3x.fr"
+        ], 
+        "domain-name": "5f1.fr", 
+        "fuzzer": "replacement"
+    }, 
+    {
+        "dns-a": [
+            "213.186.41.151"
+        ], 
+        "dns-ns": [
+            "ns.ovh.net", 
+            "ns2245.ovh.net"
+        ], 
+        "domain-name": "tf2.fr", 
+        "fuzzer": "replacement", 
+        "geoip-country": "France", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "194.150.236.25"
+        ], 
+        "domain-name": "t.f1.fr", 
+        "fuzzer": "subdomain", 
+        "geoip-country": "France", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "185.53.177.29"
+        ], 
+        "dns-ns": [
+            "ns1.gegidns.com", 
+            "ns2.gegidns.com"
+        ], 
+        "domain-name": "ft1.fr", 
+        "fuzzer": "transposition", 
+        "geoip-country": "Germany", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "217.160.0.208"
+        ], 
+        "dns-ns": [
+            "ns1023.ui-dns.biz", 
+            "ns1023.ui-dns.com", 
+            "ns1023.ui-dns.de", 
+            "ns1023.ui-dns.org"
+        ], 
+        "domain-name": "tf1fr.fr", 
+        "fuzzer": "various"
+    }
+]

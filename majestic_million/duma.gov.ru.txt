@@ -1,0 +1,37 @@
+[
+    {
+        "dns-a": [
+            "95.173.130.2"
+        ], 
+        "dns-mx": [
+            "mx0.gov.ru", 
+            "mxs.duma.gov.ru", 
+            "mxt.duma.gov.ru"
+        ], 
+        "dns-ns": [
+            "mxs.duma.gov.ru", 
+            "mxv.duma.gov.ru", 
+            "ns.gov.ru"
+        ], 
+        "domain-name": "duma.gov.ru", 
+        "fuzzer": "original*", 
+        "geoip-country": "Russian Federation", 
+        "ssdeep-score": 97
+    }, 
+    {
+        "dns-a": [
+            "212.11.128.31"
+        ], 
+        "dns-mx": [
+            "relay1.mos.ru"
+        ], 
+        "dns-ns": [
+            "ns.mos.ru", 
+            "ns2.dataforce.net", 
+            "ns2.mos.ru"
+        ], 
+        "domain-name": "duma.ru", 
+        "fuzzer": "various", 
+        "geoip-country": "Russian Federation"
+    }
+]

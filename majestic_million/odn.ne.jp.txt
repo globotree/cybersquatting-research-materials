@@ -1,0 +1,112 @@
+[
+    {
+        "dns-a": [
+            "143.90.129.12"
+        ], 
+        "dns-mx": [
+            "cluster1.us.messagelabs.com", 
+            "cluster1a.us.messagelabs.com"
+        ], 
+        "dns-ns": [
+            "ns2.odn.ne.jp", 
+            "ns4.odn.ne.jp"
+        ], 
+        "domain-name": "odn.ne.jp", 
+        "fuzzer": "original*", 
+        "geoip-country": "Japan"
+    }, 
+    {
+        "dns-mx": [
+            "ns.mdn.ne.jp"
+        ], 
+        "dns-ns": [
+            "ns-tk022.ocn.ad.jp", 
+            "ns.mdn.ne.jp"
+        ], 
+        "domain-name": "mdn.ne.jp", 
+        "fuzzer": "bitsquatting"
+    }, 
+    {
+        "dns-a": [
+            "61.115.230.69"
+        ], 
+        "dns-mx": [
+            "sv.kdn.ne.jp"
+        ], 
+        "dns-ns": [
+            "sv.kdn.ne.jp"
+        ], 
+        "domain-name": "kdn.ne.jp", 
+        "fuzzer": "bitsquatting", 
+        "geoip-country": "Japan"
+    }, 
+    {
+        "dns-a": [
+            "210.230.214.2"
+        ], 
+        "dns-ns": [
+            "dns12.dion.ne.jp", 
+            "ns.odin.ne.jp"
+        ], 
+        "domain-name": "odin.ne.jp", 
+        "fuzzer": "homoglyph", 
+        "geoip-country": "Japan"
+    }, 
+    {
+        "dns-mx": [
+            "dmail.kagoya.net"
+        ], 
+        "dns-ns": [
+            "ns0.kagoya.net", 
+            "ns1.kagoya.net"
+        ], 
+        "domain-name": "obn.ne.jp", 
+        "fuzzer": "homoglyph"
+    }, 
+    {
+        "dns-a": [
+            "220.151.20.220"
+        ], 
+        "dns-mx": [
+            "mail.oden.ne.jp"
+        ], 
+        "dns-ns": [
+            "naka0.midland.co.jp", 
+            "naka1.midland.co.jp"
+        ], 
+        "domain-name": "oden.ne.jp", 
+        "fuzzer": "insertion", 
+        "geoip-country": "Japan"
+    }, 
+    {
+        "dns-mx": [
+            "gateway3.ocn.ad.jp", 
+            "gateway4.ocn.ad.jp"
+        ], 
+        "dns-ns": [
+            "ns1.ocn.ad.jp", 
+            "ns2.ocn.ad.jp"
+        ], 
+        "domain-name": "ocn.ne.jp", 
+        "fuzzer": "replacement"
+    }, 
+    {
+        "dns-mx": [
+            "mail2.bitecglobal.com"
+        ], 
+        "dns-ns": [
+            "ns.lunacraft.co.jp", 
+            "ns2.lunacraft.co.jp"
+        ], 
+        "domain-name": "don.ne.jp", 
+        "fuzzer": "transposition"
+    }, 
+    {
+        "dns-ns": [
+            "dns0.calm.co.jp", 
+            "ns6-tk02.ocn.ad.jp"
+        ], 
+        "domain-name": "udn.ne.jp", 
+        "fuzzer": "vowel-swap"
+    }
+]

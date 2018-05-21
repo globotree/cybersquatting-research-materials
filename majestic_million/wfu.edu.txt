@@ -1,0 +1,171 @@
+[
+    {
+        "dns-a": [
+            "152.17.48.164"
+        ], 
+        "dns-mx": [
+            "mx1.wfu.edu", 
+            "mx2.wfu.edu", 
+            "mx3.wfu.edu", 
+            "mx4.wfu.edu"
+        ], 
+        "dns-ns": [
+            "ncnoc.ncren.net", 
+            "ns1.wfu.edu", 
+            "ns2.wfu.edu", 
+            "ns3.wfu.edu", 
+            "ns4.wfu.edu", 
+            "reggae.ncren.net"
+        ], 
+        "domain-name": "wfu.edu", 
+        "fuzzer": "original*", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 100
+    }, 
+    {
+        "dns-a": [
+            "142.58.102.68"
+        ], 
+        "dns-mx": [
+            "pobox.sfu.ca"
+        ], 
+        "dns-ns": [
+            "ns2.sfu.ca", 
+            "ns3.sfu.ca", 
+            "wedge.sfu.ca", 
+            "whistler.sfu.ca"
+        ], 
+        "domain-name": "sfu.edu", 
+        "fuzzer": "bitsquatting", 
+        "geoip-country": "Canada", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "72.44.232.22"
+        ], 
+        "dns-mx": [
+            "ALT1.ASPMX.L.GOOGLE.COM", 
+            "ALT2.ASPMX.L.GOOGLE.COM", 
+            "ASPMX.L.GOOGLE.COM", 
+            "ASPMX2.GOOGLEMAIL.COM", 
+            "ASPMX3.GOOGLEMAIL.COM", 
+            "ASPMX4.GOOGLEMAIL.COM", 
+            "ASPMX5.GOOGLEMAIL.COM", 
+            "us-smtp-inbound-1.mimecast.COM", 
+            "us-smtp-inbound-2.mimecast.COM"
+        ], 
+        "dns-ns": [
+            "pdns1.ultradns.net", 
+            "pdns2.ultradns.net", 
+            "pdns3.ultradns.org", 
+            "pdns4.ultradns.org", 
+            "pdns5.ultradns.info", 
+            "pdns6.ultradns.co.uk"
+        ], 
+        "domain-name": "wgu.edu", 
+        "fuzzer": "bitsquatting", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "65.182.93.120"
+        ], 
+        "dns-mx": [
+            "cust63462-1.in.mailcontrol.com", 
+            "cust63462-2.in.mailcontrol.com"
+        ], 
+        "dns-ns": [
+            "dns1.nts-online.net", 
+            "dns2.nts-online.net", 
+            "dnscache01.xfoneusa.net", 
+            "dnscache02.xfoneusa.net", 
+            "ns1.xfoneusa.net", 
+            "ns2.xfoneusa.net"
+        ], 
+        "domain-name": "wbu.edu", 
+        "fuzzer": "bitsquatting", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "52.55.205.121"
+        ], 
+        "dns-mx": [
+            "wvu-edu.mail.protection.outlook.com"
+        ], 
+        "dns-ns": [
+            "names.wvu.edu", 
+            "ns2.wvu.edu"
+        ], 
+        "domain-name": "wvu.edu", 
+        "fuzzer": "bitsquatting", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-mx": [
+            "mx1.wu.ac.at", 
+            "mx2.wu.ac.at"
+        ], 
+        "dns-ns": [
+            "ns1.wu-wien.ac.at", 
+            "ns2.wu-wien.ac.at"
+        ], 
+        "domain-name": "wu.edu", 
+        "fuzzer": "omission"
+    }, 
+    {
+        "dns-a": [
+            "67.227.152.17"
+        ], 
+        "dns-mx": [
+            "ALT1.ASPMX.L.GOOGLE.COM", 
+            "ALT2.ASPMX.L.GOOGLE.COM", 
+            "ASPMX.L.GOOGLE.COM", 
+            "ASPMX2.GOOGLEMAIL.COM", 
+            "ASPMX3.GOOGLEMAIL.COM"
+        ], 
+        "dns-ns": [
+            "dns1.remc1.net", 
+            "dns2.remc1.net", 
+            "dns3.remc1.net", 
+            "dns4.remc1.net"
+        ], 
+        "domain-name": "fu.edu", 
+        "fuzzer": "omission", 
+        "geoip-country": "United States"
+    }, 
+    {
+        "dns-a": [
+            "152.30.23.83"
+        ], 
+        "dns-mx": [
+            "wcu-edu.mail.protection.outlook.com"
+        ], 
+        "dns-ns": [
+            "cowee1.wcu.edu", 
+            "cowee2.wcu.edu", 
+            "ncnoc.ncren.net", 
+            "ns.ga.unc.edu"
+        ], 
+        "domain-name": "wcu.edu", 
+        "fuzzer": "replacement", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-mx": [
+            "mail.wfi.edu", 
+            "smtp.customerlockin.com"
+        ], 
+        "dns-ns": [
+            "auth04.ns.de.uu.net", 
+            "auth54.ns.de.uu.net"
+        ], 
+        "domain-name": "wfi.edu", 
+        "fuzzer": "replacement"
+    }
+]

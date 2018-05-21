@@ -1,0 +1,37 @@
+[
+    {
+        "dns-a": [
+            "183.177.40.130"
+        ], 
+        "dns-mx": [
+            "alt1.aspmx.l.google.com", 
+            "alt2.aspmx.l.google.com", 
+            "aspmx.l.google.com", 
+            "aspmx2.googlemail.com", 
+            "aspmx3.googlemail.com"
+        ], 
+        "dns-ns": [
+            "ns01.dns.kadokawa.jp", 
+            "ns02.dns.kadokawa.jp"
+        ], 
+        "domain-name": "kadokawa.co.jp", 
+        "fuzzer": "original*", 
+        "geoip-country": "Japan", 
+        "ssdeep-score": 100
+    }, 
+    {
+        "dns-mx": [
+            "alt1.aspmx.l.google.com", 
+            "alt2.aspmx.l.google.com", 
+            "aspmx.l.google.com", 
+            "aspmx2.googlemail.com", 
+            "aspmx3.googlemail.com"
+        ], 
+        "dns-ns": [
+            "dns-b.iij.ad.jp", 
+            "dns-c.iij.ad.jp"
+        ], 
+        "domain-name": "kadokawa.jp", 
+        "fuzzer": "various"
+    }
+]

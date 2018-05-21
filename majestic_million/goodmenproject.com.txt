@@ -1,0 +1,91 @@
+[
+    {
+        "dns-a": [
+            "104.25.199.115", 
+            "104.25.200.115"
+        ], 
+        "dns-aaaa": [
+            "2400:cb00:2048:1::6819:c773", 
+            "2400:cb00:2048:1::6819:c873"
+        ], 
+        "dns-mx": [
+            "alt1.aspmx.l.google.com", 
+            "alt2.aspmx.l.google.com", 
+            "alt3.aspmx.l.google.com", 
+            "alt4.aspmx.l.google.com", 
+            "aspmx.l.google.com"
+        ], 
+        "dns-ns": [
+            "fay.ns.cloudflare.com", 
+            "todd.ns.cloudflare.com"
+        ], 
+        "domain-name": "goodmenproject.com", 
+        "fuzzer": "original*", 
+        "geoip-country": "United States"
+    }, 
+    {
+        "dns-a": [
+            "198.54.117.200"
+        ], 
+        "dns-ns": [
+            "dns101.registrar-servers.com", 
+            "dns102.registrar-servers.com"
+        ], 
+        "domain-name": "goodmenprojects.com", 
+        "fuzzer": "addition", 
+        "geoip-country": "United States"
+    }, 
+    {
+        "dns-a": [
+            "46.166.189.98"
+        ], 
+        "dns-ns": [
+            "ns-canada.topdns.com", 
+            "ns-uk.topdns.com", 
+            "ns-usa.topdns.com"
+        ], 
+        "domain-name": "goodmanproject.com", 
+        "fuzzer": "bitsquatting", 
+        "geoip-country": "Netherlands"
+    }, 
+    {
+        "dns-a": [
+            "184.168.221.104"
+        ], 
+        "dns-ns": [
+            "ns1.afternic.com", 
+            "ns2.afternic.com"
+        ], 
+        "domain-name": "goodmenp.roject.com", 
+        "fuzzer": "subdomain", 
+        "geoip-country": "United States"
+    }, 
+    {
+        "dns-a": [
+            "184.168.221.104"
+        ], 
+        "dns-ns": [
+            "ns1.afternic.com", 
+            "ns2.afternic.com"
+        ], 
+        "domain-name": "goodmenpr.oject.com", 
+        "fuzzer": "subdomain", 
+        "geoip-country": "United States"
+    }, 
+    {
+        "dns-a": [
+            "75.126.101.246"
+        ], 
+        "domain-name": "goodmenproj.ect.com", 
+        "fuzzer": "subdomain", 
+        "geoip-country": "United States"
+    }, 
+    {
+        "dns-a": [
+            "216.87.148.114"
+        ], 
+        "domain-name": "goodmenproje.ct.com", 
+        "fuzzer": "subdomain", 
+        "geoip-country": "United States"
+    }
+]

@@ -1,0 +1,48 @@
+[
+    {
+        "dns-a": [
+            "52.85.245.10", 
+            "52.85.245.149", 
+            "52.85.245.196", 
+            "52.85.245.237", 
+            "52.85.245.29", 
+            "52.85.245.50", 
+            "52.85.245.59", 
+            "52.85.245.66"
+        ], 
+        "dns-mx": [
+            "au-smtp-inbound-1.mimecast.com", 
+            "au-smtp-inbound-2.mimecast.com"
+        ], 
+        "dns-ns": [
+            "ns-1058.awsdns-04.org", 
+            "ns-1819.awsdns-35.co.uk", 
+            "ns-478.awsdns-59.com", 
+            "ns-655.awsdns-17.net"
+        ], 
+        "domain-name": "newshub.co.nz", 
+        "fuzzer": "original*", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 100
+    }, 
+    {
+        "dns-a": [
+            "50.63.202.49"
+        ], 
+        "dns-ns": [
+            "ns31.domaincontrol.com", 
+            "ns32.domaincontrol.com"
+        ], 
+        "domain-name": "newshubs.co.nz", 
+        "fuzzer": "addition", 
+        "geoip-country": "United States"
+    }, 
+    {
+        "dns-a": [
+            "192.252.149.33"
+        ], 
+        "domain-name": "news.hub.co.nz", 
+        "fuzzer": "subdomain", 
+        "geoip-country": "United States"
+    }
+]

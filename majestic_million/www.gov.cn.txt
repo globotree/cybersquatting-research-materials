@@ -1,0 +1,87 @@
+[
+    {
+        "dns-a": [
+            "65.153.196.134", 
+            "65.153.196.138", 
+            "65.153.196.139", 
+            "65.153.196.140", 
+            "65.153.196.195", 
+            "65.153.196.196", 
+            "65.153.196.197", 
+            "65.153.196.201", 
+            "65.153.196.202", 
+            "65.153.196.203"
+        ], 
+        "domain-name": "www.gov.cn", 
+        "fuzzer": "original*", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 100
+    }, 
+    {
+        "dns-a": [
+            "61.191.139.26"
+        ], 
+        "domain-name": "ww.gov.cn", 
+        "fuzzer": "omission", 
+        "geoip-country": "China", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "50.117.120.251"
+        ], 
+        "dns-mx": [
+            "mail.happyisp.com"
+        ], 
+        "domain-name": "w.gov.cn", 
+        "fuzzer": "omission", 
+        "geoip-country": "United States", 
+        "mx-spy": true, 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "218.201.147.84"
+        ], 
+        "dns-mx": [
+            "mail.gaovi.com"
+        ], 
+        "dns-ns": [
+            "ns.cnkuai.cn"
+        ], 
+        "domain-name": "xww.gov.cn", 
+        "fuzzer": "replacement", 
+        "geoip-country": "China", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "61.176.195.214"
+        ], 
+        "dns-ns": [
+            "ns19.xincache.com", 
+            "ns20.xincache.com"
+        ], 
+        "domain-name": "wqw.gov.cn", 
+        "fuzzer": "replacement", 
+        "geoip-country": "China"
+    }, 
+    {
+        "dns-a": [
+            "50.117.120.251"
+        ], 
+        "domain-name": "ww.w.gov.cn", 
+        "fuzzer": "subdomain"
+    }, 
+    {
+        "dns-a": [
+            "47.90.37.28"
+        ], 
+        "dns-ns": [
+            "dns1.hichina.com", 
+            "dns2.hichina.com"
+        ], 
+        "domain-name": "wwwgov.cn", 
+        "fuzzer": "various"
+    }
+]

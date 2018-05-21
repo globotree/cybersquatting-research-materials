@@ -1,0 +1,303 @@
+[
+    {
+        "dns-a": [
+            "172.217.22.35"
+        ], 
+        "dns-aaaa": [
+            "2a00:1450:4001:81b::2003"
+        ], 
+        "dns-mx": [
+            "google.com.s9a1.psmtp.com", 
+            "google.com.s9a2.psmtp.com", 
+            "google.com.s9b1.psmtp.com", 
+            "google.com.s9b2.psmtp.com"
+        ], 
+        "dns-ns": [
+            "ns1.google.com", 
+            "ns2.google.com", 
+            "ns3.google.com", 
+            "ns4.google.com"
+        ], 
+        "domain-name": "google.com.co", 
+        "fuzzer": "original*", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 77
+    }, 
+    {
+        "dns-a": [
+            "85.25.199.30"
+        ], 
+        "dns-mx": [
+            "mx1.emailparking.com"
+        ], 
+        "dns-ns": [
+            "ns1.dnspanel.com", 
+            "ns2.dnspanel.com"
+        ], 
+        "domain-name": "goggle.com.co", 
+        "fuzzer": "bitsquatting", 
+        "geoip-country": "Germany", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "35.153.23.210", 
+            "52.54.12.82", 
+            "54.172.134.14"
+        ], 
+        "domain-name": "goofle.com.co", 
+        "fuzzer": "bitsquatting", 
+        "geoip-country": "United States"
+    }, 
+    {
+        "dns-a": [
+            "192.185.90.213"
+        ], 
+        "dns-mx": [
+            "mail.g00gle.com.co"
+        ], 
+        "dns-ns": [
+            "ns217.websitewelcome.com", 
+            "ns218.websitewelcome.com"
+        ], 
+        "domain-name": "g00gle.com.co", 
+        "fuzzer": "homoglyph", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "85.25.199.30"
+        ], 
+        "dns-mx": [
+            "mx1.emailparking.com"
+        ], 
+        "dns-ns": [
+            "ns1.dnspanel.com", 
+            "ns2.dnspanel.com"
+        ], 
+        "domain-name": "googl.com.co", 
+        "fuzzer": "omission", 
+        "geoip-country": "Germany", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "85.25.199.30"
+        ], 
+        "dns-mx": [
+            "mx1.emailparking.com"
+        ], 
+        "dns-ns": [
+            "ns1.dnspanel.com", 
+            "ns2.dnspanel.com"
+        ], 
+        "domain-name": "goole.com.co", 
+        "fuzzer": "omission", 
+        "geoip-country": "Germany", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "85.25.199.30"
+        ], 
+        "dns-mx": [
+            "mx1.emailparking.com"
+        ], 
+        "dns-ns": [
+            "ns1.dnspanel.com", 
+            "ns2.dnspanel.com"
+        ], 
+        "domain-name": "googe.com.co", 
+        "fuzzer": "omission", 
+        "geoip-country": "Germany", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "85.25.199.30"
+        ], 
+        "dns-mx": [
+            "mx1.emailparking.com"
+        ], 
+        "dns-ns": [
+            "ns1.dnspanel.com", 
+            "ns2.dnspanel.com"
+        ], 
+        "domain-name": "oogle.com.co", 
+        "fuzzer": "omission", 
+        "geoip-country": "Germany", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "184.168.221.14"
+        ], 
+        "dns-mx": [
+            "mailstore1.secureserver.net", 
+            "smtp.secureserver.net"
+        ], 
+        "dns-ns": [
+            "ns27.domaincontrol.com", 
+            "ns28.domaincontrol.com"
+        ], 
+        "domain-name": "ggoogle.com.co", 
+        "fuzzer": "repetition", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "185.53.178.7"
+        ], 
+        "dns-mx": [
+            "mail.h-email.net"
+        ], 
+        "dns-ns": [
+            "ns1.parkingcrew.net", 
+            "ns2.parkingcrew.net"
+        ], 
+        "domain-name": "gooogle.com.co", 
+        "fuzzer": "repetition", 
+        "geoip-country": "Germany", 
+        "mx-spy": true, 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "185.53.178.7"
+        ], 
+        "dns-mx": [
+            "mail.h-email.net"
+        ], 
+        "dns-ns": [
+            "ns1.parkingcrew.net", 
+            "ns2.parkingcrew.net"
+        ], 
+        "domain-name": "googlr.com.co", 
+        "fuzzer": "replacement", 
+        "geoip-country": "Germany", 
+        "mx-spy": true, 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "85.25.199.30"
+        ], 
+        "domain-name": "g.oogle.com.co", 
+        "fuzzer": "subdomain", 
+        "geoip-country": "Germany", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "75.119.202.186"
+        ], 
+        "domain-name": "goog.le.com.co", 
+        "fuzzer": "subdomain", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "75.119.202.186"
+        ], 
+        "domain-name": "googl.e.com.co", 
+        "fuzzer": "subdomain", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "209.159.144.226"
+        ], 
+        "dns-mx": [
+            "gogole.com.co"
+        ], 
+        "dns-ns": [
+            "dns.trouble-free.net", 
+            "dns2.trouble-free.net"
+        ], 
+        "domain-name": "gogole.com.co", 
+        "fuzzer": "transposition"
+    }, 
+    {
+        "dns-a": [
+            "85.25.199.30"
+        ], 
+        "dns-mx": [
+            "mx1.emailparking.com"
+        ], 
+        "dns-ns": [
+            "ns1.dnspanel.com", 
+            "ns2.dnspanel.com"
+        ], 
+        "domain-name": "goolge.com.co", 
+        "fuzzer": "transposition", 
+        "geoip-country": "Germany", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "54.72.9.51"
+        ], 
+        "dns-mx": [
+            "mail.h-email.net"
+        ], 
+        "dns-ns": [
+            "ns1.parkingcrew.net", 
+            "ns2.parkingcrew.net"
+        ], 
+        "domain-name": "googel.com.co", 
+        "fuzzer": "transposition", 
+        "geoip-country": "Ireland", 
+        "mx-spy": true, 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "52.0.217.44"
+        ], 
+        "dns-ns": [
+            "ns1.dynadot.com", 
+            "ns2.dynadot.com"
+        ], 
+        "domain-name": "googlo.com.co", 
+        "fuzzer": "vowel-swap", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "172.217.22.46"
+        ], 
+        "dns-aaaa": [
+            "2a00:1450:4001:81b::200e"
+        ], 
+        "dns-ns": [
+            "ns1.google.com", 
+            "ns2.google.com", 
+            "ns3.google.com", 
+            "ns4.google.com"
+        ], 
+        "domain-name": "google.co", 
+        "fuzzer": "various", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 69
+    }, 
+    {
+        "dns-a": [
+            "199.59.242.150"
+        ], 
+        "dns-mx": [
+            "mx76.m2bp.com", 
+            "mx76.mb1p.com"
+        ], 
+        "dns-ns": [
+            "ns1.bodis.com", 
+            "ns2.bodis.com"
+        ], 
+        "domain-name": "googlecom.co", 
+        "fuzzer": "various"
+    }
+]

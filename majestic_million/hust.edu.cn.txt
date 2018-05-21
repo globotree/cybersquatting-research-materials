@@ -1,0 +1,110 @@
+[
+    {
+        "dns-a": [
+            "202.114.0.245"
+        ], 
+        "dns-mx": [
+            "mail.hust.edu.cn"
+        ], 
+        "dns-ns": [
+            "dns1.hust.edu.cn", 
+            "dns2.hust.edu.cn"
+        ], 
+        "domain-name": "hust.edu.cn", 
+        "fuzzer": "original*", 
+        "geoip-country": "China", 
+        "ssdeep-score": 100
+    }, 
+    {
+        "dns-a": [
+            "202.195.192.10"
+        ], 
+        "dns-mx": [
+            "mxbiz1.qq.com", 
+            "mxbiz2.qq.com"
+        ], 
+        "dns-ns": [
+            "dns.just.edu.cn"
+        ], 
+        "domain-name": "just.edu.cn", 
+        "fuzzer": "bitsquatting", 
+        "geoip-country": "China"
+    }, 
+    {
+        "dns-ns": [
+            "ns1.xust.edu.cn", 
+            "ns3.xust.edu.cn"
+        ], 
+        "domain-name": "xust.edu.cn", 
+        "fuzzer": "bitsquatting"
+    }, 
+    {
+        "dns-ns": [
+            "dns.hn.edu.cn", 
+            "dns1.hn.edu.cn"
+        ], 
+        "domain-name": "huhst.edu.cn", 
+        "fuzzer": "insertion"
+    }, 
+    {
+        "dns-mx": [
+            "mxbiz1.qq.com", 
+            "mxbiz2.qq.com"
+        ], 
+        "dns-ns": [
+            "dns.hut.edu.cn", 
+            "dns2.hut.edu.cn"
+        ], 
+        "domain-name": "hut.edu.cn", 
+        "fuzzer": "omission"
+    }, 
+    {
+        "dns-mx": [
+            "mxhm.qiye.163.com"
+        ], 
+        "dns-ns": [
+            "dns.huat.edu.cn", 
+            "dns2.huat.edu.cn"
+        ], 
+        "domain-name": "huat.edu.cn", 
+        "fuzzer": "replacement"
+    }, 
+    {
+        "dns-mx": [
+            "mxbiz1.qq.com", 
+            "mxbiz2.qq.com"
+        ], 
+        "dns-ns": [
+            "dns.hist.edu.cn"
+        ], 
+        "domain-name": "hist.edu.cn", 
+        "fuzzer": "replacement"
+    }, 
+    {
+        "dns-a": [
+            "122.224.161.150"
+        ], 
+        "dns-aaaa": [
+            "2001:250:6406:9::15", 
+            "2001:250:6406:9::16"
+        ], 
+        "dns-mx": [
+            "mx01.zust.edu.cn", 
+            "mx02.zust.edu.cn", 
+            "mx03.zust.edu.cn"
+        ], 
+        "dns-ns": [
+            "ns1.zust.edu.cn", 
+            "ns2.zust.edu.cn"
+        ], 
+        "domain-name": "zust.edu.cn", 
+        "fuzzer": "replacement"
+    }, 
+    {
+        "dns-a": [
+            "50.117.120.251"
+        ], 
+        "domain-name": "hustedu.cn", 
+        "fuzzer": "various"
+    }
+]

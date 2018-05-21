@@ -1,0 +1,57 @@
+[
+    {
+        "dns-a": [
+            "65.201.175.169"
+        ], 
+        "dns-aaaa": [
+            "2600:803:c20::3:15", 
+            "2600:803:c20::3:16"
+        ], 
+        "dns-mx": [
+            "mail1.ic3.gov", 
+            "mail2.ic3.gov"
+        ], 
+        "dns-ns": [
+            "ns1.ic3.gov", 
+            "ns2.ic3.gov"
+        ], 
+        "domain-name": "ic3.gov", 
+        "fuzzer": "original*", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 100
+    }, 
+    {
+        "dns-mx": [
+            "smtp01.ic.gov"
+        ], 
+        "dns-ns": [
+            "a1-22.akam.net", 
+            "a12-65.akam.net", 
+            "a13-65.akam.net", 
+            "a16-67.akam.net", 
+            "a22-66.akam.net", 
+            "a3-64.akam.net"
+        ], 
+        "domain-name": "ic.gov", 
+        "fuzzer": "omission"
+    }, 
+    {
+        "dns-a": [
+            "173.252.133.166"
+        ], 
+        "dns-ns": [
+            "asia2.akam.net", 
+            "asia3.akam.net", 
+            "eur2.akam.net", 
+            "usc2.akam.net", 
+            "use1.akam.net", 
+            "use3.akam.net", 
+            "usw3.akam.net", 
+            "usw4.akam.net"
+        ], 
+        "domain-name": "ice.gov", 
+        "fuzzer": "replacement", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 0
+    }
+]

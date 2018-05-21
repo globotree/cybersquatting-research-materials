@@ -1,0 +1,30 @@
+[
+    {
+        "dns-ns": [
+            "dns.mwr.gov.cn", 
+            "dnsb.mwr.gov.cn"
+        ], 
+        "domain-name": "mwr.gov.cn", 
+        "fuzzer": "original*"
+    }, 
+    {
+        "dns-ns": [
+            "dns1.mwr.cn", 
+            "dns2.mwr.cn", 
+            "dns3.mwr.cn"
+        ], 
+        "domain-name": "mwr.cn", 
+        "fuzzer": "various"
+    }, 
+    {
+        "dns-a": [
+            "23.224.215.28"
+        ], 
+        "dns-ns": [
+            "ns3.dnsdun.com", 
+            "ns3.dnsdun.net"
+        ], 
+        "domain-name": "mwrgov.cn", 
+        "fuzzer": "various"
+    }
+]

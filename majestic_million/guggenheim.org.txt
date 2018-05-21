@@ -1,0 +1,111 @@
+[
+    {
+        "dns-a": [
+            "23.185.0.2"
+        ], 
+        "dns-aaaa": [
+            "2620:12a:8000::2", 
+            "2620:12a:8001::2"
+        ], 
+        "dns-mx": [
+            "guggenheim.bak-mx.smtproutes.com", 
+            "guggenheim.pri-mx.smtproutes.com"
+        ], 
+        "dns-ns": [
+            "ns-1422.awsdns-49.org", 
+            "ns-1675.awsdns-17.co.uk", 
+            "ns-265.awsdns-33.com", 
+            "ns-633.awsdns-15.net"
+        ], 
+        "domain-name": "guggenheim.org", 
+        "fuzzer": "original*", 
+        "ssdeep-score": 100
+    }, 
+    {
+        "dns-a": [
+            "50.63.202.34"
+        ], 
+        "dns-mx": [
+            "mailstore1.secureserver.net", 
+            "smtp.secureserver.net"
+        ], 
+        "dns-ns": [
+            "ns-cloud-c1.googledomains.com", 
+            "ns-cloud-c2.googledomains.com", 
+            "ns-cloud-c3.googledomains.com", 
+            "ns-cloud-c4.googledomains.com"
+        ], 
+        "domain-name": "guggenheims.org", 
+        "fuzzer": "addition", 
+        "geoip-country": "United States"
+    }, 
+    {
+        "dns-a": [
+            "208.91.196.152"
+        ], 
+        "dns-ns": [
+            "sk.s7.ans1.ns147.klczy.com", 
+            "sk.s7.ans2.ns147.klczy.com"
+        ], 
+        "domain-name": "guggenhein.org", 
+        "fuzzer": "homoglyph", 
+        "geoip-country": "Virgin Islands", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "199.59.242.150"
+        ], 
+        "dns-mx": [
+            "mx76.m2bp.com", 
+            "mx76.mb1p.com"
+        ], 
+        "dns-ns": [
+            "ns1.bodis.com", 
+            "ns2.bodis.com"
+        ], 
+        "domain-name": "gugenheim.org", 
+        "fuzzer": "omission", 
+        "geoip-country": "United States", 
+        "mx-spy": true, 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "64.99.80.121"
+        ], 
+        "domain-name": "guggen.heim.org", 
+        "fuzzer": "subdomain", 
+        "geoip-country": "Canada", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "162.221.172.6"
+        ], 
+        "domain-name": "guggenhe.im.org", 
+        "fuzzer": "subdomain", 
+        "geoip-country": "United States"
+    }, 
+    {
+        "dns-a": [
+            "68.178.213.61"
+        ], 
+        "domain-name": "guggenhei.m.org", 
+        "fuzzer": "subdomain", 
+        "geoip-country": "United States"
+    }, 
+    {
+        "dns-a": [
+            "208.91.196.152"
+        ], 
+        "dns-ns": [
+            "sk.s7.ans1.ns147.klczy.com", 
+            "sk.s7.ans2.ns147.klczy.com"
+        ], 
+        "domain-name": "guggenhiem.org", 
+        "fuzzer": "transposition", 
+        "geoip-country": "Virgin Islands", 
+        "ssdeep-score": 0
+    }
+]

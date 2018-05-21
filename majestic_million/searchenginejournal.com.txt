@@ -1,0 +1,109 @@
+[
+    {
+        "dns-a": [
+            "78.46.98.130"
+        ], 
+        "dns-mx": [
+            "alt1.aspmx.l.google.com", 
+            "alt2.aspmx.l.google.com", 
+            "aspmx.l.google.com", 
+            "aspmx2.googlemail.com", 
+            "aspmx3.googlemail.com", 
+            "aspmx4.googlemail.com", 
+            "aspmx5.googlemail.com"
+        ], 
+        "dns-ns": [
+            "ns-101.awsdns-12.com", 
+            "ns-1379.awsdns-44.org", 
+            "ns-1762.awsdns-28.co.uk", 
+            "ns-991.awsdns-59.net"
+        ], 
+        "domain-name": "searchenginejournal.com", 
+        "fuzzer": "original*", 
+        "geoip-country": "Germany", 
+        "ssdeep-score": 100
+    }, 
+    {
+        "dns-a": [
+            "45.113.122.70"
+        ], 
+        "dns-mx": [
+            "searchenginejournals.com"
+        ], 
+        "dns-ns": [
+            "ns1.bh-in-28.webhostbox.net", 
+            "ns2.bh-in-28.webhostbox.net"
+        ], 
+        "domain-name": "searchenginejournals.com", 
+        "fuzzer": "addition", 
+        "geoip-country": "India", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "207.244.97.174"
+        ], 
+        "dns-mx": [
+            "mail2.searchenginesjournal.com"
+        ], 
+        "dns-ns": [
+            "ns1-02.azure-dns.com", 
+            "ns2-02.azure-dns.net", 
+            "ns3-02.azure-dns.org", 
+            "ns4-02.azure-dns.info"
+        ], 
+        "domain-name": "searchenginesjournal.com", 
+        "fuzzer": "insertion", 
+        "geoip-country": "United States"
+    }, 
+    {
+        "dns-a": [
+            "72.52.4.122"
+        ], 
+        "dns-mx": [
+            "localhost"
+        ], 
+        "dns-ns": [
+            "ns1.sedoparking.com", 
+            "ns2.sedoparking.com"
+        ], 
+        "domain-name": "searchengi.nejournal.com", 
+        "fuzzer": "subdomain"
+    }, 
+    {
+        "dns-a": [
+            "4.15.120.103"
+        ], 
+        "domain-name": "searchengin.ejournal.com", 
+        "fuzzer": "subdomain", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "207.148.248.143"
+        ], 
+        "domain-name": "searchenginej.ournal.com", 
+        "fuzzer": "subdomain", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "68.178.213.61"
+        ], 
+        "domain-name": "searchenginejo.urnal.com", 
+        "fuzzer": "subdomain", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "72.9.105.30"
+        ], 
+        "domain-name": "searchenginejou.rnal.com", 
+        "fuzzer": "subdomain", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 0
+    }
+]

@@ -1,0 +1,57 @@
+[
+    {
+        "dns-a": [
+            "168.176.236.5"
+        ], 
+        "dns-mx": [
+            "alt1.aspmx.l.google.com", 
+            "alt2.aspmx.l.google.com", 
+            "aspmx.l.google.com", 
+            "aspmx2.googlemail.com", 
+            "aspmx3.googlemail.com", 
+            "aspmx4.googlemail.com", 
+            "aspmx5.googlemail.com", 
+            "filtromx15.unal.edu.co", 
+            "filtromx175.unal.edu.co", 
+            "filtromx61.unal.edu.co", 
+            "filtromx70.unal.edu.co"
+        ], 
+        "dns-ns": [
+            "ns-1441.awsdns-52.org", 
+            "ns-2027.awsdns-61.co.uk", 
+            "ns-271.awsdns-33.com", 
+            "ns-900.awsdns-48.net"
+        ], 
+        "domain-name": "unal.edu.co", 
+        "fuzzer": "original*", 
+        "geoip-country": "Colombia", 
+        "ssdeep-score": 100
+    }, 
+    {
+        "dns-mx": [
+            "alt1.aspmx.l.google.com", 
+            "alt2.aspmx.l.google.com", 
+            "alt3.aspmx.l.google.com", 
+            "alt4.aspmx.l.google.com", 
+            "aspmx.l.google.com"
+        ], 
+        "dns-ns": [
+            "dns.telecom.com.co", 
+            "dns1.telecom.com.co"
+        ], 
+        "domain-name": "unad.edu.co", 
+        "fuzzer": "bitsquatting"
+    }, 
+    {
+        "dns-a": [
+            "208.91.196.105"
+        ], 
+        "dns-ns": [
+            "sk.s5.cm.ns1.39.ztomy.com", 
+            "sk.s5.cm.ns2.39.ztomy.com"
+        ], 
+        "domain-name": "unal.co", 
+        "fuzzer": "various", 
+        "geoip-country": "Virgin Islands"
+    }
+]

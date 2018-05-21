@@ -1,0 +1,125 @@
+[
+    {
+        "dns-a": [
+            "52.84.150.12", 
+            "52.84.150.14", 
+            "52.84.150.16", 
+            "52.84.150.21", 
+            "52.84.150.25", 
+            "52.84.150.30", 
+            "52.84.150.32", 
+            "52.84.150.7"
+        ], 
+        "dns-aaaa": [
+            "2600:9000:2077:3200:9:dfa0:31c0:93a1", 
+            "2600:9000:2077:4600:9:dfa0:31c0:93a1", 
+            "2600:9000:2077:6200:9:dfa0:31c0:93a1", 
+            "2600:9000:2077:7200:9:dfa0:31c0:93a1", 
+            "2600:9000:2077:8200:9:dfa0:31c0:93a1", 
+            "2600:9000:2077:9200:9:dfa0:31c0:93a1", 
+            "2600:9000:2077:b400:9:dfa0:31c0:93a1", 
+            "2600:9000:2077:b600:9:dfa0:31c0:93a1"
+        ], 
+        "dns-mx": [
+            "va-mail01.dreamwidth.org"
+        ], 
+        "dns-ns": [
+            "carl.ns.cloudflare.com", 
+            "meera.ns.cloudflare.com"
+        ], 
+        "domain-name": "dreamwidth.org", 
+        "fuzzer": "original*", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 80
+    }, 
+    {
+        "dns-a": [
+            "103.224.212.222"
+        ], 
+        "dns-mx": [
+            "park-mx.above.com"
+        ], 
+        "dns-ns": [
+            "ns1.above.com", 
+            "ns2.above.com"
+        ], 
+        "domain-name": "deamwidth.org", 
+        "fuzzer": "omission", 
+        "geoip-country": "Australia", 
+        "mx-spy": true, 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "141.8.224.93"
+        ], 
+        "dns-ns": [
+            "ns7.rookdns.com", 
+            "ns8.rookdns.com"
+        ], 
+        "domain-name": "dremwidth.org", 
+        "fuzzer": "omission", 
+        "geoip-country": "Switzerland", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "69.172.201.153"
+        ], 
+        "dns-ns": [
+            "ns1.uniregistrymarket.link", 
+            "ns2.uniregistrymarket.link"
+        ], 
+        "domain-name": "dream.width.org", 
+        "fuzzer": "subdomain", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "50.63.46.1"
+        ], 
+        "dns-ns": [
+            "A.SERVICE.AFILIASDNS.INFO", 
+            "B.SERVICE.AFILIASDNS.org", 
+            "C.SERVICE.AFILIASDNS.NET", 
+            "D.SERVICE.AFILIASDNS.COM", 
+            "E.SERVICE.AFILIASDNS.INFO", 
+            "F.SERVICE.AFILIASDNS.NET"
+        ], 
+        "domain-name": "dreamwidt.h.org", 
+        "fuzzer": "subdomain", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "103.224.182.241"
+        ], 
+        "dns-mx": [
+            "park-mx.above.com"
+        ], 
+        "dns-ns": [
+            "ns1.above.com", 
+            "ns2.above.com"
+        ], 
+        "domain-name": "dreamwdith.org", 
+        "fuzzer": "transposition", 
+        "geoip-country": "Australia", 
+        "mx-spy": true
+    }, 
+    {
+        "dns-a": [
+            "103.224.212.222"
+        ], 
+        "dns-mx": [
+            "park-mx.above.com"
+        ], 
+        "dns-ns": [
+            "ns1.above.com", 
+            "ns2.above.com"
+        ], 
+        "domain-name": "dreamwidht.org", 
+        "fuzzer": "transposition"
+    }
+]

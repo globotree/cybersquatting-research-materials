@@ -1,0 +1,96 @@
+[
+    {
+        "dns-a": [
+            "104.31.6.181", 
+            "104.31.7.181"
+        ], 
+        "dns-aaaa": [
+            "2400:cb00:2048:1::681f:6b5", 
+            "2400:cb00:2048:1::681f:7b5"
+        ], 
+        "dns-mx": [
+            "dc-310786ab8b3f.all4webs.com"
+        ], 
+        "dns-ns": [
+            "mark.ns.cloudflare.com", 
+            "pat.ns.cloudflare.com"
+        ], 
+        "domain-name": "all4webs.com", 
+        "fuzzer": "original*", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 100
+    }, 
+    {
+        "dns-a": [
+            "72.52.4.122"
+        ], 
+        "dns-mx": [
+            "localhost"
+        ], 
+        "dns-ns": [
+            "ns1.sedoparking.com", 
+            "ns2.sedoparking.com"
+        ], 
+        "domain-name": "allwebs.com", 
+        "fuzzer": "omission", 
+        "geoip-country": "United States", 
+        "mx-spy": true, 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "80.74.158.140"
+        ], 
+        "dns-mx": [
+            "alt1.aspmx.l.google.com", 
+            "alt2.aspmx.l.google.com", 
+            "aspmx.l.google.com", 
+            "aspmx2.googlemail.com", 
+            "aspmx3.googlemail.com", 
+            "aspmx4.googlemail.com", 
+            "aspmx5.googlemail.com"
+        ], 
+        "dns-ns": [
+            "ns1.trendpoint.ch", 
+            "ns2.trendpoint.ch"
+        ], 
+        "domain-name": "all4web.com", 
+        "fuzzer": "omission", 
+        "geoip-country": "Switzerland", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "208.67.23.81"
+        ], 
+        "dns-mx": [
+            "asp-4.reflexion.net"
+        ], 
+        "dns-ns": [
+            "ns.plesklogin.net", 
+            "ns2.plesklogin.net"
+        ], 
+        "domain-name": "all4webbs.com", 
+        "fuzzer": "repetition", 
+        "geoip-country": "United States"
+    }, 
+    {
+        "dns-a": [
+            "104.16.87.120", 
+            "104.16.88.120", 
+            "104.16.89.120", 
+            "104.16.90.120", 
+            "104.16.91.120"
+        ], 
+        "dns-aaaa": [
+            "2400:cb00:2048:1::6810:5778", 
+            "2400:cb00:2048:1::6810:5878", 
+            "2400:cb00:2048:1::6810:5978", 
+            "2400:cb00:2048:1::6810:5a78", 
+            "2400:cb00:2048:1::6810:5b78"
+        ], 
+        "domain-name": "all4.webs.com", 
+        "fuzzer": "subdomain", 
+        "geoip-country": "United States"
+    }
+]

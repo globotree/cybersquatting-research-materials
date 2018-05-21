@@ -1,0 +1,149 @@
+[
+    {
+        "dns-a": [
+            "132.252.185.170", 
+            "134.91.9.50"
+        ], 
+        "dns-mx": [
+            "mx-serv3.uni-due.de", 
+            "mx-serv4.uni-due.de", 
+            "mx-serv5.uni-due.de"
+        ], 
+        "dns-ns": [
+            "ns1.uni-duisburg-essen.de", 
+            "ns1.uni-essen.de", 
+            "ns2.uni-duisburg-essen.de", 
+            "ns2.uni-essen.de", 
+            "ws-lei1.win-ip.dfn.de", 
+            "ws-nue1.win-ip.dfn.de"
+        ], 
+        "domain-name": "uni-due.de", 
+        "fuzzer": "original*", 
+        "geoip-country": "Germany", 
+        "ssdeep-score": 100
+    }, 
+    {
+        "dns-a": [
+            "132.252.181.87"
+        ], 
+        "dns-ns": [
+            "ns1.netz.uni-duisburg-essen.de", 
+            "ns2.netz.uni-duisburg-essen.de", 
+            "ws-nue1.win-ip.dfn.de"
+        ], 
+        "domain-name": "unidue.de", 
+        "fuzzer": "omission", 
+        "geoip-country": "Germany", 
+        "ssdeep-score": 100
+    }, 
+    {
+        "dns-a": [
+            "132.252.181.87"
+        ], 
+        "dns-mx": [
+            "mx-serv3.uni-due.de", 
+            "mx-serv4.uni-due.de", 
+            "mx-serv5.uni-due.de"
+        ], 
+        "dns-ns": [
+            "ns1.netz.uni-duisburg-essen.de", 
+            "ns2.netz.uni-duisburg-essen.de", 
+            "ws-nue1.win-ip.dfn.de"
+        ], 
+        "domain-name": "uni-de.de", 
+        "fuzzer": "omission", 
+        "geoip-country": "Germany", 
+        "ssdeep-score": 100
+    }, 
+    {
+        "dns-mx": [
+            "mx2.uni-du.de", 
+            "mx3.uni-du.de"
+        ], 
+        "dns-ns": [
+            "ns.uni-du.de", 
+            "ns2.uni-du.de", 
+            "ns3.uni-du.de"
+        ], 
+        "domain-name": "uni-du.de", 
+        "fuzzer": "omission"
+    }, 
+    {
+        "dns-a": [
+            "80.67.16.8"
+        ], 
+        "dns-aaaa": [
+            "2a00:1158:0:100::14"
+        ], 
+        "dns-mx": [
+            "mxlb.ispgateway.de"
+        ], 
+        "dns-ns": [
+            "ns.namespace4you.de", 
+            "ns2.namespace4you.de"
+        ], 
+        "domain-name": "uno-due.de", 
+        "fuzzer": "replacement", 
+        "geoip-country": "Germany"
+    }, 
+    {
+        "dns-a": [
+            "88.99.192.80"
+        ], 
+        "dns-ns": [
+            "ns1.kv.de", 
+            "ns2.kv.de"
+        ], 
+        "domain-name": "uni-d.ue.de", 
+        "fuzzer": "subdomain", 
+        "geoip-country": "Germany", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "217.160.223.156"
+        ], 
+        "dns-mx": [
+            "mx00.kundenserver.de", 
+            "mx01.kundenserver.de"
+        ], 
+        "dns-ns": [
+            "ns43.1und1.de", 
+            "ns44.1und1.de"
+        ], 
+        "domain-name": "uni-ude.de", 
+        "fuzzer": "transposition", 
+        "geoip-country": "Germany", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "185.53.179.6"
+        ], 
+        "dns-mx": [
+            "mail.h-email.net"
+        ], 
+        "dns-ns": [
+            "ns1.parkingcrew.net", 
+            "ns2.parkingcrew.net"
+        ], 
+        "domain-name": "uni-deu.de", 
+        "fuzzer": "transposition"
+    }, 
+    {
+        "dns-a": [
+            "185.53.178.7"
+        ], 
+        "dns-mx": [
+            "mail.h-email.net"
+        ], 
+        "dns-ns": [
+            "ns1.parkingcrew.net", 
+            "ns2.parkingcrew.net"
+        ], 
+        "domain-name": "uni-dui.de", 
+        "fuzzer": "vowel-swap", 
+        "geoip-country": "Germany", 
+        "mx-spy": true
+    }
+]

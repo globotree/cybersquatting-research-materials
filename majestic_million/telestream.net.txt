@@ -1,0 +1,91 @@
+[
+    {
+        "dns-a": [
+            "54.208.18.154"
+        ], 
+        "dns-mx": [
+            "us-smtp-inbound-1.mimecast.com", 
+            "us-smtp-inbound-2.mimecast.com"
+        ], 
+        "dns-ns": [
+            "ns-1324.awsdns-37.org", 
+            "ns-1544.awsdns-01.co.uk", 
+            "ns-174.awsdns-21.com", 
+            "ns-971.awsdns-57.net"
+        ], 
+        "domain-name": "telestream.net", 
+        "fuzzer": "original*", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 100
+    }, 
+    {
+        "dns-a": [
+            "50.63.202.35"
+        ], 
+        "dns-mx": [
+            "mailstore1.secureserver.net", 
+            "smtp.secureserver.net"
+        ], 
+        "dns-ns": [
+            "ns61.domaincontrol.com", 
+            "ns62.domaincontrol.com"
+        ], 
+        "domain-name": "telesteam.net", 
+        "fuzzer": "omission", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "41.76.208.90"
+        ], 
+        "dns-mx": [
+            "mail.telstream.net"
+        ], 
+        "dns-ns": [
+            "ns.dns1.co.za", 
+            "ns.dns2.co.za", 
+            "ns.otherdns.com", 
+            "ns.otherdns.net"
+        ], 
+        "domain-name": "telstream.net", 
+        "fuzzer": "omission", 
+        "geoip-country": "South Africa", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "103.224.182.207"
+        ], 
+        "dns-mx": [
+            "park-mx.above.com"
+        ], 
+        "dns-ns": [
+            "ns1.above.com", 
+            "ns2.above.com"
+        ], 
+        "domain-name": "teles.tream.net", 
+        "fuzzer": "subdomain", 
+        "geoip-country": "Australia", 
+        "mx-spy": true, 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "67.220.194.133"
+        ], 
+        "domain-name": "telest.ream.net", 
+        "fuzzer": "subdomain", 
+        "geoip-country": "United States"
+    }, 
+    {
+        "dns-ns": [
+            "ns-1119.awsdns-11.org", 
+            "ns-1823.awsdns-35.co.uk", 
+            "ns-417.awsdns-52.com", 
+            "ns-734.awsdns-27.net"
+        ], 
+        "domain-name": "tilestream.net", 
+        "fuzzer": "vowel-swap"
+    }
+]

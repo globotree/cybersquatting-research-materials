@@ -1,0 +1,114 @@
+[
+    {
+        "dns-a": [
+            "54.172.165.25", 
+            "54.173.39.38", 
+            "54.86.19.37"
+        ], 
+        "dns-mx": [
+            "alt1.aspmx.l.google.com", 
+            "alt2.aspmx.l.google.com", 
+            "alt3.aspmx.l.google.com", 
+            "alt4.aspmx.l.google.com", 
+            "aspmx.l.google.com"
+        ], 
+        "dns-ns": [
+            "ns-1312.awsdns-36.org", 
+            "ns-1610.awsdns-09.co.uk", 
+            "ns-180.awsdns-22.com", 
+            "ns-917.awsdns-50.net"
+        ], 
+        "domain-name": "neowin.net", 
+        "fuzzer": "original*", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 99
+    }, 
+    {
+        "dns-a": [
+            "219.94.162.11"
+        ], 
+        "dns-mx": [
+            "neowind.net"
+        ], 
+        "dns-ns": [
+            "ns1.dns.ne.jp", 
+            "ns2.dns.ne.jp"
+        ], 
+        "domain-name": "neowind.net", 
+        "fuzzer": "addition", 
+        "geoip-country": "Japan"
+    }, 
+    {
+        "dns-a": [
+            "194.177.35.51"
+        ], 
+        "dns-mx": [
+            "filterb.waycom.net"
+        ], 
+        "dns-ns": [
+            "ns1.waycom.net", 
+            "ns2.waycom.net"
+        ], 
+        "domain-name": "neowan.net", 
+        "fuzzer": "bitsquatting", 
+        "geoip-country": "France", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "121.254.178.250"
+        ], 
+        "dns-ns": [
+            "ns.gabia.co.kr", 
+            "ns.gabia.net", 
+            "ns1.gabia.co.kr"
+        ], 
+        "domain-name": "neoin.net", 
+        "fuzzer": "omission", 
+        "geoip-country": "Korea", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "208.73.210.202", 
+            "208.73.210.217", 
+            "208.73.211.165", 
+            "208.73.211.177"
+        ], 
+        "dns-ns": [
+            "ns1.dsredirection.com", 
+            "ns2.dsredirection.com"
+        ], 
+        "domain-name": "nowin.net", 
+        "fuzzer": "omission", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-mx": [
+            "mfw.mx.skynet.be", 
+            "relay.mx.skynet.be"
+        ], 
+        "dns-ns": [
+            "ns1.skynet.be", 
+            "ns2.skynet.be", 
+            "ns3.skynet.be", 
+            "ns4.skynet.be"
+        ], 
+        "domain-name": "eowin.net", 
+        "fuzzer": "omission"
+    }, 
+    {
+        "dns-a": [
+            "69.172.201.153"
+        ], 
+        "dns-ns": [
+            "ns1.uniregistrymarket.link", 
+            "ns2.uniregistrymarket.link"
+        ], 
+        "domain-name": "ne.owin.net", 
+        "fuzzer": "subdomain", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 0
+    }
+]

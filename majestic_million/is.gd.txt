@@ -1,0 +1,138 @@
+[
+    {
+        "dns-a": [
+            "104.31.14.172", 
+            "104.31.15.172"
+        ], 
+        "dns-aaaa": [
+            "2400:cb00:2048:1::681f:eac", 
+            "2400:cb00:2048:1::681f:fac"
+        ], 
+        "dns-ns": [
+            "andy.ns.cloudflare.com", 
+            "coco.ns.cloudflare.com"
+        ], 
+        "domain-name": "is.gd", 
+        "fuzzer": "original*", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 99
+    }, 
+    {
+        "dns-a": [
+            "52.37.5.157"
+        ], 
+        "dns-ns": [
+            "ns-1317.awsdns-36.org", 
+            "ns-1982.awsdns-55.co.uk", 
+            "ns-39.awsdns-04.com", 
+            "ns-676.awsdns-20.net"
+        ], 
+        "domain-name": "isn.gd", 
+        "fuzzer": "addition", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "112.121.185.142"
+        ], 
+        "dns-mx": [
+            "mx50.dns.com.cn"
+        ], 
+        "domain-name": "iso.gd", 
+        "fuzzer": "addition", 
+        "geoip-country": "Hong Kong"
+    }, 
+    {
+        "dns-a": [
+            "83.223.125.192"
+        ], 
+        "dns-mx": [
+            "mx1.spamfiltering.com", 
+            "mx2.spamfiltering.com"
+        ], 
+        "dns-ns": [
+            "ns1.xssl.net", 
+            "ns2.xssl.net"
+        ], 
+        "domain-name": "iss.gd", 
+        "fuzzer": "addition", 
+        "geoip-country": "United Kingdom", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "69.163.195.75"
+        ], 
+        "dns-mx": [
+            "mx1.sub3.homie.mail.dreamhost.com", 
+            "mx2.sub3.homie.mail.dreamhost.com"
+        ], 
+        "dns-ns": [
+            "ns1.dreamhost.com", 
+            "ns2.dreamhost.com", 
+            "ns3.dreamhost.com"
+        ], 
+        "domain-name": "ls.gd", 
+        "fuzzer": "homoglyph", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "199.59.242.150"
+        ], 
+        "dns-mx": [
+            "mx76.m2bp.com", 
+            "mx76.mb1p.com"
+        ], 
+        "dns-ns": [
+            "ns1.bodis.com", 
+            "ns2.bodis.com"
+        ], 
+        "domain-name": "us.gd", 
+        "fuzzer": "replacement", 
+        "geoip-country": "United States", 
+        "mx-spy": true, 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-ns": [
+            "ns1.dreamhost.com", 
+            "ns2.dreamhost.com", 
+            "ns3.dreamhost.com"
+        ], 
+        "domain-name": "js.gd", 
+        "fuzzer": "replacement"
+    }, 
+    {
+        "dns-a": [
+            "18.220.112.14", 
+            "52.226.35.76"
+        ], 
+        "dns-mx": [
+            "authdns07.meshvault.com", 
+            "smtpin01.safily.com"
+        ], 
+        "dns-ns": [
+            "authdns05.meshvault.com", 
+            "ns1.safily.com"
+        ], 
+        "domain-name": "id.gd", 
+        "fuzzer": "replacement"
+    }, 
+    {
+        "dns-a": [
+            "185.37.228.178"
+        ], 
+        "dns-mx": [
+            "es.gd"
+        ], 
+        "dns-ns": [
+            "dans1.sered.net", 
+            "dans2.sered.net"
+        ], 
+        "domain-name": "es.gd", 
+        "fuzzer": "vowel-swap"
+    }
+]

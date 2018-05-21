@@ -1,0 +1,75 @@
+[
+    {
+        "dns-mx": [
+            "mx.263.net", 
+            "mxw.263.net"
+        ], 
+        "dns-ns": [
+            "ns.csc.edu.cn"
+        ], 
+        "domain-name": "csc.edu.cn", 
+        "fuzzer": "original*"
+    }, 
+    {
+        "dns-a": [
+            "222.56.127.138"
+        ], 
+        "dns-mx": [
+            "mx.ym.163.com"
+        ], 
+        "domain-name": "bsc.edu.cn", 
+        "fuzzer": "bitsquatting", 
+        "geoip-country": "China"
+    }, 
+    {
+        "dns-ns": [
+            "dns.online.edu.cn", 
+            "dns2.online.edu.cn"
+        ], 
+        "domain-name": "ccc.edu.cn", 
+        "fuzzer": "bitsquatting"
+    }, 
+    {
+        "dns-ns": [
+            "dns.sc.edu.cn", 
+            "dns1.sc.edu.cn", 
+            "dns2.sc.edu.cn"
+        ], 
+        "domain-name": "sc.edu.cn", 
+        "fuzzer": "omission"
+    }, 
+    {
+        "dns-ns": [
+            "dns1.cyu.edu.cn"
+        ], 
+        "domain-name": "cyc.edu.cn", 
+        "fuzzer": "replacement"
+    }, 
+    {
+        "dns-ns": [
+            "ns1.cernet.com", 
+            "ns2.cernet.com"
+        ], 
+        "domain-name": "csv.edu.cn", 
+        "fuzzer": "replacement"
+    }, 
+    {
+        "dns-ns": [
+            "dns1.scc.edu.cn", 
+            "dns2.scc.edu.cn"
+        ], 
+        "domain-name": "scc.edu.cn", 
+        "fuzzer": "transposition"
+    }, 
+    {
+        "dns-a": [
+            "61.129.102.96"
+        ], 
+        "dns-ns": [
+            "ns7.cnmsn.net", 
+            "ns8.cnmsn.net"
+        ], 
+        "domain-name": "csc.cn", 
+        "fuzzer": "various"
+    }
+]

@@ -1,0 +1,33 @@
+[
+    {
+        "dns-a": [
+            "118.151.160.49", 
+            "210.149.144.73"
+        ], 
+        "dns-mx": [
+            "mail.yomiuri.co.jp"
+        ], 
+        "dns-ns": [
+            "dns-b.iij.ad.jp", 
+            "dns-c.iij.ad.jp"
+        ], 
+        "domain-name": "yomiuri.co.jp", 
+        "fuzzer": "original*", 
+        "geoip-country": "Japan", 
+        "ssdeep-score": 99
+    }, 
+    {
+        "dns-a": [
+            "202.172.28.180"
+        ], 
+        "dns-mx": [
+            "mail.yomiori.co.jp"
+        ], 
+        "dns-ns": [
+            "ns1.value-domain.com", 
+            "ns2.value-domain.com"
+        ], 
+        "domain-name": "yomiori.co.jp", 
+        "fuzzer": "vowel-swap"
+    }
+]

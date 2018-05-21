@@ -1,0 +1,46 @@
+[
+    {
+        "dns-a": [
+            "161.23.36.18", 
+            "161.23.84.18"
+        ], 
+        "dns-mx": [
+            "mail1.qmul.ac.uk", 
+            "mail2.qmul.ac.uk"
+        ], 
+        "dns-ns": [
+            "a.ns.qmw.ac.uk", 
+            "b.ns.qmw.ac.uk", 
+            "c.ns.qmw.ac.uk", 
+            "d.ns.qmw.ac.uk"
+        ], 
+        "domain-name": "qmul.ac.uk", 
+        "fuzzer": "original*", 
+        "geoip-country": "United Kingdom", 
+        "ssdeep-score": 100
+    }, 
+    {
+        "dns-a": [
+            "193.62.47.60"
+        ], 
+        "dns-mx": [
+            "qmu.ac.uk.mx4.fusemail.net", 
+            "qmu.ac.uk.mx5.fusemail.net", 
+            "qmu.ac.uk.mx6.fusemail.net"
+        ], 
+        "dns-ns": [
+            "psyche.qmu.ac.uk", 
+            "soma.qmu.ac.uk"
+        ], 
+        "domain-name": "qmu.ac.uk", 
+        "fuzzer": "omission"
+    }, 
+    {
+        "dns-ns": [
+            "a.ns.qmw.ac.uk", 
+            "c.ns.qmw.ac.uk"
+        ], 
+        "domain-name": "qml.ac.uk", 
+        "fuzzer": "omission"
+    }
+]

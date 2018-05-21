@@ -1,0 +1,39 @@
+[
+    {
+        "dns-a": [
+            "23.23.139.148", 
+            "50.17.238.28", 
+            "54.163.241.212"
+        ], 
+        "dns-mx": [
+            "alt1.aspmx.l.google.com", 
+            "alt2.aspmx.l.google.com", 
+            "aspmx.l.google.com", 
+            "aspmx2.googlemail.com", 
+            "aspmx3.googlemail.com"
+        ], 
+        "dns-ns": [
+            "ns1.dnsimple.com", 
+            "ns2.dnsimple.com", 
+            "ns3.dnsimple.com", 
+            "ns4.dnsimple.com"
+        ], 
+        "domain-name": "thunderclap.it", 
+        "fuzzer": "original*", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 99
+    }, 
+    {
+        "dns-a": [
+            "141.8.224.169"
+        ], 
+        "dns-ns": [
+            "ns27.rookdns.com", 
+            "ns28.rookdns.com"
+        ], 
+        "domain-name": "th.underclap.it", 
+        "fuzzer": "subdomain", 
+        "geoip-country": "Switzerland", 
+        "ssdeep-score": 0
+    }
+]

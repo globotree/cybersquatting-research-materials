@@ -1,0 +1,141 @@
+[
+    {
+        "dns-a": [
+            "34.227.175.69"
+        ], 
+        "dns-ns": [
+            "CSCDNSCDC002D.csc.com", 
+            "CSCDNSCPH002D.csc.com", 
+            "CSCDNSHYD002D.csc.com", 
+            "CSCDNSKLM002D.csc.com", 
+            "CSCDNSMDS002D.csc.com", 
+            "CSCDNSMEL002D.csc.com", 
+            "CSCDNSNDC002D.csc.com", 
+            "CSCDNSNOI002D.csc.com", 
+            "CSCDNSSNG002D.csc.com", 
+            "CSCDNSSYD002D.csc.com"
+        ], 
+        "domain-name": "dxc.technology", 
+        "fuzzer": "original*", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 100
+    }, 
+    {
+        "dns-mx": [
+            "alt1.aspmx.l.google.com", 
+            "alt2.aspmx.l.google.com", 
+            "aspmx.l.google.com", 
+            "aspmx2.googlemail.com", 
+            "aspmx3.googlemail.com"
+        ], 
+        "dns-ns": [
+            "ns-1013.awsdns-62.net", 
+            "ns-1125.awsdns-12.org", 
+            "ns-2025.awsdns-61.co.uk", 
+            "ns-472.awsdns-59.com"
+        ], 
+        "domain-name": "dxcp.technology", 
+        "fuzzer": "addition"
+    }, 
+    {
+        "dns-mx": [
+            "park-mx.above.com"
+        ], 
+        "dns-ns": [
+            "ns1.above.com", 
+            "ns2.above.com"
+        ], 
+        "domain-name": "exc.technology", 
+        "fuzzer": "bitsquatting", 
+        "mx-spy": true
+    }, 
+    {
+        "dns-a": [
+            "184.168.221.37"
+        ], 
+        "dns-ns": [
+            "ns37.domaincontrol.com", 
+            "ns38.domaincontrol.com"
+        ], 
+        "domain-name": "dxb.technology", 
+        "fuzzer": "bitsquatting", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "50.63.202.47"
+        ], 
+        "dns-mx": [
+            "mailstore1.secureserver.net", 
+            "smtp.secureserver.net"
+        ], 
+        "dns-ns": [
+            "ns21.domaincontrol.com", 
+            "ns22.domaincontrol.com"
+        ], 
+        "domain-name": "dxx.technology", 
+        "fuzzer": "replacement", 
+        "geoip-country": "United States"
+    }, 
+    {
+        "dns-a": [
+            "107.180.4.91"
+        ], 
+        "dns-mx": [
+            "alt1.aspmx.l.google.com", 
+            "alt2.aspmx.l.google.com", 
+            "aspmx.l.google.com", 
+            "aspmx2.googlemail.com", 
+            "aspmx3.googlemail.com"
+        ], 
+        "dns-ns": [
+            "ns71.domaincontrol.com", 
+            "ns72.domaincontrol.com"
+        ], 
+        "domain-name": "dcc.technology", 
+        "fuzzer": "replacement", 
+        "geoip-country": "United States"
+    }, 
+    {
+        "dns-a": [
+            "50.63.202.57"
+        ], 
+        "dns-ns": [
+            "ns29.domaincontrol.com", 
+            "ns30.domaincontrol.com"
+        ], 
+        "domain-name": "dxf.technology", 
+        "fuzzer": "replacement", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "13.92.128.189"
+        ], 
+        "dns-ns": [
+            "ns35.domaincontrol.com", 
+            "ns36.domaincontrol.com"
+        ], 
+        "domain-name": "dcx.technology", 
+        "fuzzer": "transposition", 
+        "geoip-country": "United States"
+    }, 
+    {
+        "dns-a": [
+            "81.19.145.69"
+        ], 
+        "dns-mx": [
+            "mail.dxc-technology.com"
+        ], 
+        "dns-ns": [
+            "ns1.world4you.at", 
+            "ns2.world4you.at"
+        ], 
+        "domain-name": "dxc-technology.com", 
+        "fuzzer": "various", 
+        "geoip-country": "Austria", 
+        "ssdeep-score": 0
+    }
+]

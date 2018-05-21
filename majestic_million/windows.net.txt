@@ -1,0 +1,431 @@
+[
+    {
+        "dns-a": [
+            "104.215.95.187", 
+            "52.164.206.56"
+        ], 
+        "dns-ns": [
+            "ns1.msft.net", 
+            "ns2.msft.net", 
+            "ns3.msft.net", 
+            "ns4.msft.net"
+        ], 
+        "domain-name": "windows.net", 
+        "fuzzer": "original*", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 100
+    }, 
+    {
+        "dns-a": [
+            "72.52.179.175"
+        ], 
+        "dns-ns": [
+            "ns1.parklogic.com", 
+            "ns2.parklogic.com", 
+            "ns3.parklogic.com", 
+            "ns4.parklogic.com", 
+            "ns5.parklogic.com"
+        ], 
+        "domain-name": "windowsa.net", 
+        "fuzzer": "addition", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "192.64.119.202"
+        ], 
+        "dns-mx": [
+            "eforward1.registrar-servers.com", 
+            "eforward2.registrar-servers.com", 
+            "eforward3.registrar-servers.com", 
+            "eforward4.registrar-servers.com", 
+            "eforward5.registrar-servers.com"
+        ], 
+        "dns-ns": [
+            "dns1.registrar-servers.com", 
+            "dns2.registrar-servers.com"
+        ], 
+        "domain-name": "windowsc.net", 
+        "fuzzer": "addition", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "123.60.102.214"
+        ], 
+        "domain-name": "windowse.net", 
+        "fuzzer": "addition", 
+        "geoip-country": "Hong Kong", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-mx": [
+            "custmx.register.com"
+        ], 
+        "dns-ns": [
+            "dns1.cscdns.net", 
+            "dns2.cscdns.net"
+        ], 
+        "domain-name": "windowsg.net", 
+        "fuzzer": "addition"
+    }, 
+    {
+        "dns-a": [
+            "216.239.32.21", 
+            "216.239.34.21", 
+            "216.239.36.21", 
+            "216.239.38.21"
+        ], 
+        "dns-aaaa": [
+            "2001:4860:4802:32::15", 
+            "2001:4860:4802:34::15", 
+            "2001:4860:4802:36::15", 
+            "2001:4860:4802:38::15"
+        ], 
+        "dns-mx": [
+            "alt1.gmr-smtp-in.l.google.com", 
+            "alt2.gmr-smtp-in.l.google.com", 
+            "alt3.gmr-smtp-in.l.google.com", 
+            "alt4.gmr-smtp-in.l.google.com", 
+            "gmr-smtp-in.l.google.com"
+        ], 
+        "dns-ns": [
+            "ns-cloud-d1.googledomains.com", 
+            "ns-cloud-d2.googledomains.com", 
+            "ns-cloud-d3.googledomains.com", 
+            "ns-cloud-d4.googledomains.com"
+        ], 
+        "domain-name": "windowss.net", 
+        "fuzzer": "addition", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "217.160.0.44"
+        ], 
+        "dns-aaaa": [
+            "2001:8d8:100f:f000::2e1"
+        ], 
+        "dns-mx": [
+            "mx00.1and1.fr", 
+            "mx01.1and1.fr"
+        ], 
+        "dns-ns": [
+            "ns-fr.1and1-dns.biz", 
+            "ns-fr.1and1-dns.com", 
+            "ns-fr.1and1-dns.fr", 
+            "ns-fr.1and1-dns.org"
+        ], 
+        "domain-name": "windowsx.net", 
+        "fuzzer": "addition", 
+        "geoip-country": "Germany"
+    }, 
+    {
+        "dns-a": [
+            "104.24.126.212", 
+            "104.24.127.212"
+        ], 
+        "dns-aaaa": [
+            "2400:cb00:2048:1::6818:7ed4", 
+            "2400:cb00:2048:1::6818:7fd4"
+        ], 
+        "dns-mx": [
+            "mailstore1.secureserver.net", 
+            "smtp.secureserver.net"
+        ], 
+        "dns-ns": [
+            "emma.ns.cloudflare.com", 
+            "terry.ns.cloudflare.com"
+        ], 
+        "domain-name": "windowsy.net", 
+        "fuzzer": "addition", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "5.39.99.50"
+        ], 
+        "dns-ns": [
+            "ns1.dnsnuts.com", 
+            "ns2.dnsnuts.com"
+        ], 
+        "domain-name": "windowsz.net", 
+        "fuzzer": "addition", 
+        "geoip-country": "France", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-ns": [
+            "ns13.xincache.com", 
+            "ns14.xincache.com"
+        ], 
+        "domain-name": "vindows.net", 
+        "fuzzer": "bitsquatting"
+    }, 
+    {
+        "dns-a": [
+            "185.53.177.31"
+        ], 
+        "dns-ns": [
+            "ns1.protectdelegation.ca", 
+            "ns2.protectdelegation.com", 
+            "ns3.protectdelegation.eu"
+        ], 
+        "domain-name": "wandows.net", 
+        "fuzzer": "bitsquatting", 
+        "geoip-country": "Germany", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "185.53.177.31"
+        ], 
+        "dns-ns": [
+            "ns1.protectdelegation.ca", 
+            "ns2.protectdelegation.com", 
+            "ns3.protectdelegation.eu"
+        ], 
+        "domain-name": "wintows.net", 
+        "fuzzer": "bitsquatting", 
+        "geoip-country": "Germany", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "69.197.59.139"
+        ], 
+        "dns-ns": [
+            "box.ispeeds.net"
+        ], 
+        "domain-name": "wind0ws.net", 
+        "fuzzer": "homoglyph", 
+        "geoip-country": "United States"
+    }, 
+    {
+        "dns-a": [
+            "219.94.162.217"
+        ], 
+        "dns-mx": [
+            "winbows.net"
+        ], 
+        "dns-ns": [
+            "ns1.dns.ne.jp", 
+            "ns2.dns.ne.jp"
+        ], 
+        "domain-name": "winbows.net", 
+        "fuzzer": "homoglyph", 
+        "geoip-country": "Japan", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "80.229.6.120"
+        ], 
+        "dns-mx": [
+            "mail.wimdows.net"
+        ], 
+        "dns-ns": [
+            "ns09.domaincontrol.com", 
+            "ns10.domaincontrol.com"
+        ], 
+        "domain-name": "wimdows.net", 
+        "fuzzer": "homoglyph", 
+        "geoip-country": "United Kingdom"
+    }, 
+    {
+        "dns-a": [
+            "97.74.233.231"
+        ], 
+        "dns-mx": [
+            "win-dows.net"
+        ], 
+        "dns-ns": [
+            "ns1.secureserver.net", 
+            "ns2.secureserver.net"
+        ], 
+        "domain-name": "win-dows.net", 
+        "fuzzer": "hyphenation", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "69.172.201.153"
+        ], 
+        "dns-ns": [
+            "ns1.uniregistrymarket.link", 
+            "ns2.uniregistrymarket.link"
+        ], 
+        "domain-name": "window.net", 
+        "fuzzer": "omission", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "217.160.0.123"
+        ], 
+        "dns-aaaa": [
+            "2001:8d8:100f:f000::20c"
+        ], 
+        "dns-mx": [
+            "mx00.1and1.es", 
+            "mx01.1and1.es"
+        ], 
+        "dns-ns": [
+            "ns1024.ui-dns.biz", 
+            "ns1034.ui-dns.de", 
+            "ns1038.ui-dns.com", 
+            "ns1077.ui-dns.org"
+        ], 
+        "domain-name": "windos.net", 
+        "fuzzer": "omission", 
+        "geoip-country": "Germany", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "69.172.201.153"
+        ], 
+        "dns-ns": [
+            "ns1.uniregistrymarket.link", 
+            "ns2.uniregistrymarket.link"
+        ], 
+        "domain-name": "widows.net", 
+        "fuzzer": "omission", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "139.162.124.25"
+        ], 
+        "dns-mx": [
+            "mxin.mxes.net"
+        ], 
+        "dns-ns": [
+            "ns1.linode.com", 
+            "ns2.linode.com", 
+            "ns3.linode.com", 
+            "ns4.linode.com", 
+            "ns5.linode.com"
+        ], 
+        "domain-name": "windoows.net", 
+        "fuzzer": "repetition", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "74.112.73.56"
+        ], 
+        "dns-mx": [
+            "mx1.onlinespamsolutions.com", 
+            "mx2.onlinespamsolutions.com", 
+            "mx3.onlinespamsolutions.com", 
+            "mx4.onlinespamsolutions.com"
+        ], 
+        "dns-ns": [
+            "dns1.onlinespamsolutions.com", 
+            "dns2.onlinespamsolutions.com", 
+            "dns3.onlinespamsolutions.com", 
+            "dns4.onlinespamsolutions.com", 
+            "onyx.onlinespamsolutions.com"
+        ], 
+        "domain-name": "wwindows.net", 
+        "fuzzer": "repetition", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "66.198.240.26"
+        ], 
+        "dns-mx": [
+            "winrows.net"
+        ], 
+        "dns-ns": [
+            "ns1.a2hosting.com", 
+            "ns2.a2hosting.com", 
+            "ns3.a2hosting.com", 
+            "ns4.a2hosting.com"
+        ], 
+        "domain-name": "winrows.net", 
+        "fuzzer": "replacement"
+    }, 
+    {
+        "dns-a": [
+            "127.0.0.1"
+        ], 
+        "dns-ns": [
+            "ns1.sedoparking.com", 
+            "ns2.sedoparking.com"
+        ], 
+        "domain-name": "windowz.net", 
+        "fuzzer": "replacement"
+    }, 
+    {
+        "dns-a": [
+            "185.53.179.8"
+        ], 
+        "dns-mx": [
+            "mail.h-email.net"
+        ], 
+        "dns-ns": [
+            "ns1.parkingcrew.net", 
+            "ns2.parkingcrew.net"
+        ], 
+        "domain-name": "windo.ws.net", 
+        "fuzzer": "subdomain", 
+        "geoip-country": "Germany", 
+        "mx-spy": true, 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "157.7.107.153"
+        ], 
+        "dns-mx": [
+            "mx01.lolipop.jp"
+        ], 
+        "dns-ns": [
+            "dns01.muumuu-domain.com", 
+            "dns02.muumuu-domain.com"
+        ], 
+        "domain-name": "wendows.net", 
+        "fuzzer": "vowel-swap"
+    }, 
+    {
+        "dns-a": [
+            "188.194.35.13"
+        ], 
+        "dns-mx": [
+            "smtp.rzone.de"
+        ], 
+        "dns-ns": [
+            "docks11.rzone.de", 
+            "shades02.rzone.de"
+        ], 
+        "domain-name": "windowsnet.net", 
+        "fuzzer": "various", 
+        "geoip-country": "Germany"
+    }, 
+    {
+        "dns-a": [
+            "198.24.149.109"
+        ], 
+        "dns-mx": [
+            "mail.windows-net.com"
+        ], 
+        "dns-ns": [
+            "ns1.windows-net.com", 
+            "ns2.windows-net.com"
+        ], 
+        "domain-name": "windows-net.com", 
+        "fuzzer": "various"
+    }
+]

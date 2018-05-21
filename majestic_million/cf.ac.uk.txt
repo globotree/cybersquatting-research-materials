@@ -1,0 +1,48 @@
+[
+    {
+        "dns-a": [
+            "131.251.250.88"
+        ], 
+        "dns-mx": [
+            "cf-ac-uk.mail.protection.outlook.com"
+        ], 
+        "dns-ns": [
+            "ns0.cf.ac.uk", 
+            "ns1.cf.ac.uk", 
+            "ns3.ja.net"
+        ], 
+        "domain-name": "cf.ac.uk", 
+        "fuzzer": "original*", 
+        "geoip-country": "United Kingdom", 
+        "ssdeep-score": 97
+    }, 
+    {
+        "dns-mx": [
+            "extmail1.mcc.ac.uk", 
+            "extmail2.mcc.ac.uk"
+        ], 
+        "dns-ns": [
+            "curlew.cs.man.ac.uk", 
+            "utserv.mcc.ac.uk"
+        ], 
+        "domain-name": "cfs.ac.uk", 
+        "fuzzer": "addition"
+    }, 
+    {
+        "dns-a": [
+            "109.239.101.62"
+        ], 
+        "dns-mx": [
+            "mail.any-mail.com", 
+            "mail.any-mail.com"
+        ], 
+        "dns-ns": [
+            "ns01.any-dns.co.uk", 
+            "ns02.any-dns.co.uk"
+        ], 
+        "domain-name": "cf.uk", 
+        "fuzzer": "various", 
+        "geoip-country": "United Kingdom", 
+        "ssdeep-score": 0
+    }
+]

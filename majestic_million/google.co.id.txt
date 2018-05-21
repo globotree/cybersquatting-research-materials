@@ -1,0 +1,84 @@
+[
+    {
+        "dns-a": [
+            "172.217.22.35"
+        ], 
+        "dns-aaaa": [
+            "2a00:1450:4001:81b::2003"
+        ], 
+        "dns-mx": [
+            "google.com.s9a1.psmtp.com", 
+            "google.com.s9a2.psmtp.com", 
+            "google.com.s9b1.psmtp.com", 
+            "google.com.s9b2.psmtp.com"
+        ], 
+        "dns-ns": [
+            "ns1.google.com", 
+            "ns2.google.com", 
+            "ns3.google.com", 
+            "ns4.google.com"
+        ], 
+        "domain-name": "google.co.id", 
+        "fuzzer": "original*", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 80
+    }, 
+    {
+        "dns-a": [
+            "107.178.97.35"
+        ], 
+        "dns-mx": [
+            "goggle.co.id"
+        ], 
+        "dns-ns": [
+            "ns1.dracoola.net", 
+            "ns2.dracoola.net"
+        ], 
+        "domain-name": "goggle.co.id", 
+        "fuzzer": "bitsquatting", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "192.169.182.55"
+        ], 
+        "dns-mx": [
+            "goole.co.id"
+        ], 
+        "dns-ns": [
+            "ns1.bns.co", 
+            "ns2.bns.co", 
+            "ns3.bns.co", 
+            "ns4.bns.co"
+        ], 
+        "domain-name": "goole.co.id", 
+        "fuzzer": "omission", 
+        "geoip-country": "United States"
+    }, 
+    {
+        "dns-ns": [
+            "ns1.google.com", 
+            "ns2.google.com", 
+            "ns3.google.com", 
+            "ns4.google.com"
+        ], 
+        "domain-name": "google.id", 
+        "fuzzer": "various"
+    }, 
+    {
+        "dns-a": [
+            "199.59.242.150"
+        ], 
+        "dns-mx": [
+            "mx76.m2bp.com", 
+            "mx76.mb1p.com"
+        ], 
+        "dns-ns": [
+            "ns1.bodis.com", 
+            "ns2.bodis.com"
+        ], 
+        "domain-name": "googleco.id", 
+        "fuzzer": "various"
+    }
+]

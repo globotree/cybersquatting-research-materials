@@ -1,0 +1,93 @@
+[
+    {
+        "dns-a": [
+            "64.98.145.30"
+        ], 
+        "dns-mx": [
+            "mx.hover.com.cust.hostedemail.com"
+        ], 
+        "domain-name": "gogglelabs.com", 
+        "fuzzer": "bitsquatting", 
+        "geoip-country": "Canada"
+    }, 
+    {
+        "dns-ns": [
+            "ns1.googledomains.com", 
+            "ns2.googledomains.com", 
+            "ns3.googledomains.com", 
+            "ns4.googledomains.com"
+        ], 
+        "domain-name": "google-labs.com", 
+        "fuzzer": "hyphenation"
+    }, 
+    {
+        "dns-ns": [
+            "ns1.googledomains.com", 
+            "ns2.googledomains.com", 
+            "ns3.googledomains.com", 
+            "ns4.googledomains.com"
+        ], 
+        "domain-name": "googlemlabs.com", 
+        "fuzzer": "insertion"
+    }, 
+    {
+        "dns-a": [
+            "91.195.240.82"
+        ], 
+        "dns-ns": [
+            "ns1kwy.name.com", 
+            "ns2dhj.name.com", 
+            "ns3qty.name.com", 
+            "ns4lny.name.com"
+        ], 
+        "domain-name": "googleabs.com", 
+        "fuzzer": "omission", 
+        "geoip-country": "Germany"
+    }, 
+    {
+        "dns-ns": [
+            "ns1.googledomains.com", 
+            "ns2.googledomains.com", 
+            "ns3.googledomains.com", 
+            "ns4.googledomains.com"
+        ], 
+        "domain-name": "googlelab.com", 
+        "fuzzer": "omission"
+    }, 
+    {
+        "dns-a": [
+            "170.178.178.36"
+        ], 
+        "domain-name": "googlelbs.com", 
+        "fuzzer": "omission", 
+        "geoip-country": "United States"
+    }, 
+    {
+        "dns-mx": [
+            "alt1.aspmx.l.google.com", 
+            "alt2.aspmx.l.google.com", 
+            "aspmx.l.google.com", 
+            "aspmx2.googlemail.com", 
+            "aspmx3.googlemail.com"
+        ], 
+        "dns-ns": [
+            "dns1.sitezoogle.com", 
+            "dns2.sitezoogle.com"
+        ], 
+        "domain-name": "zooglelabs.com", 
+        "fuzzer": "replacement"
+    }, 
+    {
+        "dns-a": [
+            "52.73.124.185", 
+            "54.164.198.60"
+        ], 
+        "dns-ns": [
+            "ns1.namebrightdns.com", 
+            "ns2.namebrightdns.com"
+        ], 
+        "domain-name": "goog.lelabs.com", 
+        "fuzzer": "subdomain", 
+        "geoip-country": "United States"
+    }
+]

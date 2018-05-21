@@ -1,0 +1,28 @@
+[
+    {
+        "dns-a": [
+            "172.217.22.105"
+        ], 
+        "dns-aaaa": [
+            "2a00:1450:4001:81d::2009"
+        ], 
+        "dns-ns": [
+            "ns1.google.com", 
+            "ns2.google.com", 
+            "ns3.google.com", 
+            "ns4.google.com"
+        ], 
+        "domain-name": "blogspot.sg", 
+        "fuzzer": "original*", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 77
+    }, 
+    {
+        "dns-a": [
+            "35.165.255.15"
+        ], 
+        "domain-name": "blogspo.t.sg", 
+        "fuzzer": "subdomain", 
+        "geoip-country": "United States"
+    }
+]

@@ -1,0 +1,114 @@
+[
+    {
+        "dns-mx": [
+            "mailvc.vector.co.jp"
+        ], 
+        "dns-ns": [
+            "ns01.vector.co.jp", 
+            "ns02.vector.co.jp", 
+            "ns03.vector.co.jp", 
+            "ns04.vector.co.jp"
+        ], 
+        "domain-name": "vector.co.jp", 
+        "fuzzer": "original*"
+    }, 
+    {
+        "dns-mx": [
+            "mail.vectorh.co.jp"
+        ], 
+        "dns-ns": [
+            "ns0.kagoya.net", 
+            "ns1.kagoya.net"
+        ], 
+        "domain-name": "vectorh.co.jp", 
+        "fuzzer": "addition"
+    }, 
+    {
+        "dns-a": [
+            "211.13.196.142"
+        ], 
+        "dns-mx": [
+            "mx.vectork.co.jp"
+        ], 
+        "dns-ns": [
+            "ns3.rental-sv2.jp", 
+            "ns4.rental-sv2.jp"
+        ], 
+        "domain-name": "vectork.co.jp", 
+        "fuzzer": "addition", 
+        "geoip-country": "Japan"
+    }, 
+    {
+        "dns-a": [
+            "13.112.38.220"
+        ], 
+        "dns-mx": [
+            "alt1.aspmx.l.google.com", 
+            "alt2.aspmx.l.google.com", 
+            "alt3.aspmx.l.google.com", 
+            "alt4.aspmx.l.google.com", 
+            "aspmx.l.google.com"
+        ], 
+        "dns-ns": [
+            "nile.ns.cloudflare.com", 
+            "pam.ns.cloudflare.com"
+        ], 
+        "domain-name": "rector.co.jp", 
+        "fuzzer": "bitsquatting", 
+        "geoip-country": "United States"
+    }, 
+    {
+        "dns-a": [
+            "216.230.250.156"
+        ], 
+        "dns-mx": [
+            "ampub01.alpha-mail.net", 
+            "ampub02.alpha-mail.net", 
+            "ampub03.alpha-mail.net"
+        ], 
+        "dns-ns": [
+            "kotetsu.alpha-lt.net", 
+            "tsukuba.aics.ne.jp"
+        ], 
+        "domain-name": "vektor.co.jp", 
+        "fuzzer": "bitsquatting", 
+        "geoip-country": "United States"
+    }, 
+    {
+        "dns-a": [
+            "180.147.250.28"
+        ], 
+        "dns-mx": [
+            "mail.ector.co.jp", 
+            "sb03h.hmng.net", 
+            "sb04h.hmng.net"
+        ], 
+        "dns-ns": [
+            "ns5.sendmail.ne.jp", 
+            "ns6.sendmail.ne.jp"
+        ], 
+        "domain-name": "ector.co.jp", 
+        "fuzzer": "omission", 
+        "geoip-country": "Japan"
+    }, 
+    {
+        "dns-ns": [
+            "dns3.odn.ne.jp", 
+            "hdmtar01.victor.co.jp", 
+            "ygw04.victor.co.jp", 
+            "ygw05.victor.co.jp"
+        ], 
+        "domain-name": "victor.co.jp", 
+        "fuzzer": "vowel-swap"
+    }, 
+    {
+        "dns-ns": [
+            "ns01.vector.co.jp", 
+            "ns02.vector.co.jp", 
+            "ns03.vector.co.jp", 
+            "ns04.vector.co.jp"
+        ], 
+        "domain-name": "vector.jp", 
+        "fuzzer": "various"
+    }
+]

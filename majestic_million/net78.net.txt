@@ -1,0 +1,180 @@
+[
+    {
+        "dns-a": [
+            "184.73.237.121", 
+            "184.73.246.205", 
+            "204.236.217.9", 
+            "23.21.118.28", 
+            "23.21.145.150", 
+            "23.21.155.56", 
+            "23.21.181.176", 
+            "23.21.183.239"
+        ], 
+        "dns-ns": [
+            "dns1.000webhost.com", 
+            "dns2.000webhost.com"
+        ], 
+        "domain-name": "net78.net", 
+        "fuzzer": "original*", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 100
+    }, 
+    {
+        "dns-a": [
+            "47.89.58.32"
+        ], 
+        "dns-ns": [
+            "dns1.hichina.com", 
+            "dns2.hichina.com"
+        ], 
+        "domain-name": "net68.net", 
+        "fuzzer": "bitsquatting", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "43.241.73.189"
+        ], 
+        "dns-mx": [
+            "mail.net38.net"
+        ], 
+        "dns-ns": [
+            "ns69.pointdnshere.com", 
+            "ns70.pointdnshere.com"
+        ], 
+        "domain-name": "net38.net", 
+        "fuzzer": "bitsquatting", 
+        "geoip-country": "Hong Kong", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "64.37.52.42"
+        ], 
+        "dns-mx": [
+            "net70.net"
+        ], 
+        "domain-name": "net70.net", 
+        "fuzzer": "bitsquatting", 
+        "geoip-country": "United States"
+    }, 
+    {
+        "dns-ns": [
+            "dns1.registrar-servers.com", 
+            "dns2.registrar-servers.com", 
+            "dns3.registrar-servers.com", 
+            "dns4.registrar-servers.com", 
+            "dns5.registrar-servers.com"
+        ], 
+        "domain-name": "net7x.net", 
+        "fuzzer": "bitsquatting"
+    }, 
+    {
+        "dns-a": [
+            "23.225.143.74"
+        ], 
+        "dns-ns": [
+            "ns1.dnsdun.com", 
+            "ns1.dnsdun.net"
+        ], 
+        "domain-name": "net678.net", 
+        "fuzzer": "insertion", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-mx": [
+            "ALT1.ASPMX.L.GOOGLE.com", 
+            "ALT2.ASPMX.L.GOOGLE.com", 
+            "ASPMX.L.GOOGLE.com", 
+            "ASPMX2.GOOGLEMAIL.com", 
+            "ASPMX3.GOOGLEMAIL.com", 
+            "ASPMX4.GOOGLEMAIL.com", 
+            "ASPMX5.GOOGLEMAIL.com"
+        ], 
+        "dns-ns": [
+            "ns1cnb.name.com", 
+            "ns2cqs.name.com", 
+            "ns3cna.name.com", 
+            "ns4lqx.name.com"
+        ], 
+        "domain-name": "net7.net", 
+        "fuzzer": "omission"
+    }, 
+    {
+        "dns-a": [
+            "116.204.0.7"
+        ], 
+        "dns-mx": [
+            "mxbiz1.qq.com", 
+            "mxbiz2.qq.com"
+        ], 
+        "dns-ns": [
+            "dns.bizcn.com", 
+            "dns.cnmsn.net", 
+            "ns5.cnmsn.net", 
+            "ns6.cnmsn.net"
+        ], 
+        "domain-name": "net8.net", 
+        "fuzzer": "omission", 
+        "geoip-country": "China"
+    }, 
+    {
+        "dns-a": [
+            "141.8.224.93"
+        ], 
+        "dns-ns": [
+            "ns7.rookdns.com", 
+            "ns8.rookdns.com"
+        ], 
+        "domain-name": "net88.net", 
+        "fuzzer": "replacement", 
+        "geoip-country": "Switzerland", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "88.99.244.49"
+        ], 
+        "dns-mx": [
+            "zonko.netz8.net"
+        ], 
+        "dns-ns": [
+            "ns1.first-ns.de", 
+            "robotns2.second-ns.de", 
+            "robotns3.second-ns.com"
+        ], 
+        "domain-name": "netz8.net", 
+        "fuzzer": "replacement", 
+        "geoip-country": "Germany", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "210.249.74.117"
+        ], 
+        "dns-mx": [
+            "ms4.funcy.com", 
+            "ws4.funcy.com"
+        ], 
+        "dns-ns": [
+            "ns1.funcy.com", 
+            "ns3.funcy.com", 
+            "ns5.funcy.com"
+        ], 
+        "domain-name": "net77.net", 
+        "fuzzer": "replacement"
+    }, 
+    {
+        "dns-a": [
+            "47.89.58.32"
+        ], 
+        "dns-ns": [
+            "dns3.hichina.com", 
+            "dns4.hichina.com"
+        ], 
+        "domain-name": "net87.net", 
+        "fuzzer": "transposition"
+    }
+]

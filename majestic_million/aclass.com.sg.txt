@@ -1,0 +1,36 @@
+[
+    {
+        "dns-a": [
+            "113.11.254.214"
+        ], 
+        "dns-mx": [
+            "aclass.com.sg"
+        ], 
+        "dns-ns": [
+            "ns05.usonyx.net", 
+            "ns06.usonyx.net", 
+            "ns09.usonyx.net", 
+            "ns10.usonyx.net"
+        ], 
+        "domain-name": "aclass.com.sg", 
+        "fuzzer": "original*", 
+        "geoip-country": "Singapore"
+    }, 
+    {
+        "dns-a": [
+            "199.193.113.35"
+        ], 
+        "dns-mx": [
+            "class.com.sg"
+        ], 
+        "dns-ns": [
+            "ns1.w3hub.biz", 
+            "ns2.w3hub.biz", 
+            "ns3.w3hub.biz", 
+            "ns4.w3hub.biz"
+        ], 
+        "domain-name": "class.com.sg", 
+        "fuzzer": "omission", 
+        "geoip-country": "United States"
+    }
+]

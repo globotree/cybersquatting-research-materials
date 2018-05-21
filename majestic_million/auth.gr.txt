@@ -1,0 +1,87 @@
+[
+    {
+        "dns-a": [
+            "155.207.1.12"
+        ], 
+        "dns-mx": [
+            "mailsrv1.ccf.auth.gr", 
+            "mailsrv2.ccf.auth.gr"
+        ], 
+        "dns-ns": [
+            "evia.ccf.auth.gr", 
+            "philippos.ccf.auth.gr", 
+            "sns0.grnet.gr", 
+            "sns1.grnet.gr", 
+            "thalia.ccf.auth.gr"
+        ], 
+        "domain-name": "auth.gr", 
+        "fuzzer": "original*", 
+        "geoip-country": "Greece", 
+        "ssdeep-score": 100
+    }, 
+    {
+        "dns-a": [
+            "95.154.242.80"
+        ], 
+        "dns-mx": [
+            "auti.gr"
+        ], 
+        "dns-ns": [
+            "ns1.epiplopoios.gr", 
+            "ns2.epiplopoios.gr"
+        ], 
+        "domain-name": "auti.gr", 
+        "fuzzer": "bitsquatting", 
+        "geoip-country": "United Kingdom", 
+        "mx-spy": true, 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "194.177.200.10"
+        ], 
+        "dns-mx": [
+            "mx1.uth.gr", 
+            "mx2.uth.gr"
+        ], 
+        "dns-ns": [
+            "ns1.uth.gr", 
+            "ns2.uth.gr", 
+            "sns0.grnet.gr", 
+            "sns1.grnet.gr"
+        ], 
+        "domain-name": "uth.gr", 
+        "fuzzer": "omission", 
+        "geoip-country": "Greece", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "46.103.112.23"
+        ], 
+        "dns-mx": [
+            "cisco.defender.gr"
+        ], 
+        "dns-ns": [
+            "pdns03.domaincontrol.com", 
+            "pdns04.domaincontrol.com"
+        ], 
+        "domain-name": "ath.gr", 
+        "fuzzer": "omission", 
+        "geoip-country": "Greece"
+    }, 
+    {
+        "dns-a": [
+            "144.76.220.143"
+        ], 
+        "dns-mx": [
+            "mail.aoth.gr"
+        ], 
+        "dns-ns": [
+            "ns1.isopensource.net", 
+            "ns2.isopensource.net"
+        ], 
+        "domain-name": "aoth.gr", 
+        "fuzzer": "vowel-swap"
+    }
+]

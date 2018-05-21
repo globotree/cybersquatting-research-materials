@@ -1,0 +1,52 @@
+[
+    {
+        "dns-a": [
+            "131.217.10.176"
+        ], 
+        "dns-mx": [
+            "au-smtp-inbound-1.mimecast.com", 
+            "au-smtp-inbound-2.mimecast.com"
+        ], 
+        "dns-ns": [
+            "ns1.aarnet.net.au", 
+            "ns1.dmz.utas.edu.au", 
+            "ns1.utas.edu.au", 
+            "ns2.aarnet.net.au", 
+            "ns2.dmz.utas.edu.au", 
+            "ns2.utas.edu.au", 
+            "ns3.aarnet.net.au"
+        ], 
+        "domain-name": "utas.edu.au", 
+        "fuzzer": "original*", 
+        "geoip-country": "Australia", 
+        "ssdeep-score": 100
+    }, 
+    {
+        "dns-a": [
+            "54.79.20.73"
+        ], 
+        "dns-mx": [
+            "utsmeg1.uts.edu.au"
+        ], 
+        "dns-ns": [
+            "ns.uts.edu.au", 
+            "ns2.uts.edu.au", 
+            "ns3.uts.edu.au", 
+            "ns4.uts.edu.au", 
+            "ns5.uts.edu.au"
+        ], 
+        "domain-name": "uts.edu.au", 
+        "fuzzer": "omission", 
+        "geoip-country": "Australia"
+    }, 
+    {
+        "dns-ns": [
+            "w.au", 
+            "x.au", 
+            "y.au", 
+            "z.au"
+        ], 
+        "domain-name": "tas.edu.au", 
+        "fuzzer": "omission"
+    }
+]

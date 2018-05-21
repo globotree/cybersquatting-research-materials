@@ -1,0 +1,341 @@
+[
+    {
+        "dns-ns": [
+            "dns1.dns.cpt", 
+            "dns2.dns.cpt"
+        ], 
+        "domain-name": "dcs.vn", 
+        "fuzzer": "original*"
+    }, 
+    {
+        "dns-mx": [
+            "a6vt2ybknzv5uzrg3weavelp3iotrzggpjunnhkc4tl6y2cg3glq.mx-verification.google.com", 
+            "alt1.aspmx.l.google.com", 
+            "alt2.aspmx.l.google.com", 
+            "alt3.aspmx.l.google.com", 
+            "alt4.aspmx.l.google.com", 
+            "aspmx.l.google.com"
+        ], 
+        "dns-ns": [
+            "dns23.fpt.vn", 
+            "dns24.fpt.vn"
+        ], 
+        "domain-name": "dcsg.vn", 
+        "fuzzer": "addition"
+    }, 
+    {
+        "dns-a": [
+            "203.162.127.210"
+        ], 
+        "dns-mx": [
+            "mail.ecs.vn"
+        ], 
+        "dns-ns": [
+            "mark.ns.cloudflare.com", 
+            "sara.ns.cloudflare.com"
+        ], 
+        "domain-name": "ecs.vn", 
+        "fuzzer": "bitsquatting", 
+        "geoip-country": "Vietnam"
+    }, 
+    {
+        "dns-a": [
+            "103.9.0.73"
+        ], 
+        "dns-ns": [
+            "dns21.fpt.vn", 
+            "dns22.fpt.vn"
+        ], 
+        "domain-name": "fcs.vn", 
+        "fuzzer": "bitsquatting", 
+        "geoip-country": "Vietnam"
+    }, 
+    {
+        "dns-a": [
+            "113.61.110.250"
+        ], 
+        "dns-mx": [
+            "imap.lcs.vn"
+        ], 
+        "domain-name": "lcs.vn", 
+        "fuzzer": "bitsquatting", 
+        "geoip-country": "Vietnam"
+    }, 
+    {
+        "dns-a": [
+            "75.98.175.98"
+        ], 
+        "dns-mx": [
+            "75.98.175.98", 
+            "alt1.aspmx.l.google.com", 
+            "alt2.aspmx.l.google.com", 
+            "aspmx.l.google.com", 
+            "aspmx2.googlemail.com", 
+            "aspmx3.googlemail.com", 
+            "aspmx4.googlemail.com", 
+            "aspmx5.googlemail.com", 
+            "mail.tcs.vn"
+        ], 
+        "dns-ns": [
+            "ns1.vdconline.vn", 
+            "ns2.vdconline.vn"
+        ], 
+        "domain-name": "tcs.vn", 
+        "fuzzer": "bitsquatting", 
+        "geoip-country": "United States"
+    }, 
+    {
+        "dns-a": [
+            "222.255.250.239"
+        ], 
+        "dns-mx": [
+            "webmail.dbs.vn"
+        ], 
+        "dns-ns": [
+            "ns1.vdconline.vn", 
+            "ns2.vdconline.vn"
+        ], 
+        "domain-name": "dbs.vn", 
+        "fuzzer": "bitsquatting", 
+        "geoip-country": "Vietnam"
+    }, 
+    {
+        "dns-a": [
+            "203.171.31.115"
+        ], 
+        "dns-mx": [
+            "Mail.das.vn"
+        ], 
+        "dns-ns": [
+            "ns2vdc2.vnn.vn", 
+            "nsvdc2.vnn.vn"
+        ], 
+        "domain-name": "das.vn", 
+        "fuzzer": "bitsquatting", 
+        "geoip-country": "Vietnam"
+    }, 
+    {
+        "dns-a": [
+            "112.213.89.38"
+        ], 
+        "dns-mx": [
+            "mr.pavietnam.vn"
+        ], 
+        "dns-ns": [
+            "", 
+            "ns1.dotvndns.vn", 
+            "ns2.dotvndns.vn"
+        ], 
+        "domain-name": "dgs.vn", 
+        "fuzzer": "bitsquatting", 
+        "geoip-country": "Vietnam"
+    }, 
+    {
+        "dns-a": [
+            "216.239.32.21", 
+            "216.239.34.21", 
+            "216.239.36.21", 
+            "216.239.38.21"
+        ], 
+        "dns-mx": [
+            "alt1.aspmx.l.google.com", 
+            "alt2.aspmx.l.google.com", 
+            "aspmx.l.google.com", 
+            "aspmx2.googlemail.com", 
+            "aspmx3.googlemail.com"
+        ], 
+        "dns-ns": [
+            "dns19.fpt.vn", 
+            "dns20.fpt.vn"
+        ], 
+        "domain-name": "dks.vn", 
+        "fuzzer": "bitsquatting", 
+        "geoip-country": "United States"
+    }, 
+    {
+        "dns-a": [
+            "123.16.189.124"
+        ], 
+        "dns-ns": [
+            "dns21.fpt.vn", 
+            "dns22.fpt.vn"
+        ], 
+        "domain-name": "dss.vn", 
+        "fuzzer": "bitsquatting", 
+        "geoip-country": "Vietnam"
+    }, 
+    {
+        "dns-a": [
+            "203.119.8.107"
+        ], 
+        "domain-name": "dcr.vn", 
+        "fuzzer": "bitsquatting", 
+        "geoip-country": "Vietnam"
+    }, 
+    {
+        "dns-a": [
+            "123.26.251.160"
+        ], 
+        "dns-mx": [
+            "mail244181.maychuemail.com", 
+            "mx92181.maychuemail.net"
+        ], 
+        "dns-ns": [
+            "ns1.pavietnam.vn", 
+            "ns2.pavietnam.vn", 
+            "nsbak.pavietnam.net"
+        ], 
+        "domain-name": "dcc.vn", 
+        "fuzzer": "bitsquatting", 
+        "geoip-country": "Vietnam"
+    }, 
+    {
+        "dns-a": [
+            "104.27.146.166", 
+            "104.27.147.166"
+        ], 
+        "dns-aaaa": [
+            "2400:cb00:2048:1::681b:92a6", 
+            "2400:cb00:2048:1::681b:93a6"
+        ], 
+        "dns-ns": [
+            "dion.ns.cloudflare.com", 
+            "nelly.ns.cloudflare.com"
+        ], 
+        "domain-name": "bcs.vn", 
+        "fuzzer": "homoglyph", 
+        "geoip-country": "United States"
+    }, 
+    {
+        "dns-a": [
+            "112.213.89.90"
+        ], 
+        "dns-mx": [
+            "mail.dfcs.vn"
+        ], 
+        "dns-ns": [
+            "ns1.pavietnam.vn", 
+            "ns2.pavietnam.vn", 
+            "nsbak.pavietnam.net"
+        ], 
+        "domain-name": "dfcs.vn", 
+        "fuzzer": "insertion", 
+        "geoip-country": "Vietnam"
+    }, 
+    {
+        "dns-a": [
+            "104.27.146.35", 
+            "104.27.147.35"
+        ], 
+        "dns-aaaa": [
+            "2400:cb00:2048:1::681b:9223", 
+            "2400:cb00:2048:1::681b:9323"
+        ], 
+        "dns-ns": [
+            "chad.ns.cloudflare.com", 
+            "olga.ns.cloudflare.com"
+        ], 
+        "domain-name": "dvs.vn", 
+        "fuzzer": "replacement", 
+        "geoip-country": "United States"
+    }, 
+    {
+        "dns-a": [
+            "123.30.182.15"
+        ], 
+        "dns-mx": [
+            "ALT1.ASPMX.L.GOOGLE.COM", 
+            "ALT2.ASPMX.L.GOOGLE.COM", 
+            "ALT3.ASPMX.L.GOOGLE.COM", 
+            "ALT4.ASPMX.L.GOOGLE.COM", 
+            "ASPMX.L.GOOGLE.COM"
+        ], 
+        "dns-ns": [
+            "ns1.dichvu-tenmien.com.vn", 
+            "ns2.dichvu-tenmien.com.vn", 
+            "ns3.dichvu-tenmien.com.vn"
+        ], 
+        "domain-name": "ccs.vn", 
+        "fuzzer": "replacement", 
+        "geoip-country": "Vietnam"
+    }, 
+    {
+        "dns-ns": [
+            "dns21.fpt.vn", 
+            "dns22.fpt.vn"
+        ], 
+        "domain-name": "rcs.vn", 
+        "fuzzer": "replacement"
+    }, 
+    {
+        "dns-a": [
+            "203.119.8.107"
+        ], 
+        "domain-name": "dfs.vn", 
+        "fuzzer": "replacement", 
+        "geoip-country": "Vietnam"
+    }, 
+    {
+        "dns-a": [
+            "103.1.208.211"
+        ], 
+        "dns-ns": [
+            "dns21.fpt.vn", 
+            "dns22.fpt.vn"
+        ], 
+        "domain-name": "dca.vn", 
+        "fuzzer": "replacement", 
+        "geoip-country": "Vietnam"
+    }, 
+    {
+        "dns-a": [
+            "210.245.90.239"
+        ], 
+        "dns-mx": [
+            "alt1.aspmx.l.google.com", 
+            "aspmx.l.google.com", 
+            "mail.scs.vn"
+        ], 
+        "dns-ns": [
+            "hcm-server1.vnn.vn", 
+            "vdc-hn01.vnn.vn"
+        ], 
+        "domain-name": "scs.vn", 
+        "fuzzer": "replacement", 
+        "geoip-country": "Vietnam"
+    }, 
+    {
+        "dns-a": [
+            "123.30.108.78"
+        ], 
+        "dns-mx": [
+            "mail.cds.vn"
+        ], 
+        "dns-ns": [
+            "ns1.dns.net.vn", 
+            "ns2.dns.net.vn"
+        ], 
+        "domain-name": "cds.vn", 
+        "fuzzer": "transposition"
+    }, 
+    {
+        "dns-a": [
+            "103.24.246.25"
+        ], 
+        "dns-mx": [
+            "alt1.aspmx.l.google.com", 
+            "alt2.aspmx.l.google.com", 
+            "alt3.aspmx.l.google.com", 
+            "alt4.aspmx.l.google.com", 
+            "aspmx.l.google.com"
+        ], 
+        "dns-ns": [
+            "ns1.dotvndns.vn", 
+            "ns2.dotvndns.vn", 
+            "nsbak.dotvndns.com"
+        ], 
+        "domain-name": "dsc.vn", 
+        "fuzzer": "transposition", 
+        "geoip-country": "Vietnam"
+    }
+]

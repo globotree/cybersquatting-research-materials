@@ -1,0 +1,64 @@
+[
+    {
+        "dns-a": [
+            "23.229.239.198"
+        ], 
+        "dns-mx": [
+            "mail.orosolido.com.mx"
+        ], 
+        "dns-ns": [
+            "ns65.domaincontrol.com", 
+            "ns66.domaincontrol.com"
+        ], 
+        "domain-name": "orosolido.com.mx", 
+        "fuzzer": "original*", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 99
+    }, 
+    {
+        "dns-a": [
+            "192.64.147.150"
+        ], 
+        "dns-mx": [
+            "mail.do.com.mx"
+        ], 
+        "dns-ns": [
+            "dns1.hospeda.mx", 
+            "dns2.hospeda.mx"
+        ], 
+        "domain-name": "orosoli.do.com.mx", 
+        "fuzzer": "subdomain", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "72.52.4.122"
+        ], 
+        "dns-mx": [
+            "localhost"
+        ], 
+        "dns-ns": [
+            "ns1.sedoparking.com", 
+            "ns2.sedoparking.com"
+        ], 
+        "domain-name": "orosolid.o.com.mx", 
+        "fuzzer": "subdomain", 
+        "geoip-country": "United States", 
+        "mx-spy": true
+    }, 
+    {
+        "dns-a": [
+            "23.229.239.198"
+        ], 
+        "dns-mx": [
+            "mail.orosolido.mx"
+        ], 
+        "dns-ns": [
+            "ns15.domaincontrol.com", 
+            "ns16.domaincontrol.com"
+        ], 
+        "domain-name": "orosolido.mx", 
+        "fuzzer": "various"
+    }
+]

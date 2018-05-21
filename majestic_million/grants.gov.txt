@@ -1,0 +1,31 @@
+[
+    {
+        "dns-a": [
+            "104.37.105.80"
+        ], 
+        "dns-mx": [
+            "inbound-smtp.us-east-1.amazonaws.com"
+        ], 
+        "dns-ns": [
+            "rh120ns1.368.dhhs.gov", 
+            "rh120ns2.368.dhhs.gov", 
+            "rh202ns1.355.dhhs.gov", 
+            "rh202ns2.355.dhhs.gov"
+        ], 
+        "domain-name": "grants.gov", 
+        "fuzzer": "original*", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 99
+    }, 
+    {
+        "dns-a": [
+            "72.52.170.161"
+        ], 
+        "dns-ns": [
+            "ns1.topgrants.org", 
+            "ns2.topgrants.org"
+        ], 
+        "domain-name": "grants-gov.com", 
+        "fuzzer": "various"
+    }
+]

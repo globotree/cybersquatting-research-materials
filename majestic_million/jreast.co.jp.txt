@@ -1,0 +1,43 @@
+[
+    {
+        "dns-mx": [
+            "mgsxxxkafmtv01s.jregroup.ne.jp"
+        ], 
+        "dns-ns": [
+            "dns11.jregroup.ne.jp", 
+            "dns12.jregroup.ne.jp", 
+            "dns4.dion.ne.jp"
+        ], 
+        "domain-name": "jreast.co.jp", 
+        "fuzzer": "original*"
+    }, 
+    {
+        "dns-a": [
+            "210.248.135.16"
+        ], 
+        "dns-mx": [
+            "mx.breast.co.jp"
+        ], 
+        "dns-ns": [
+            "ns81.estore.co.jp", 
+            "ns82.estore.co.jp", 
+            "ns83.estore.co.jp", 
+            "ns84.estore.co.jp"
+        ], 
+        "domain-name": "breast.co.jp", 
+        "fuzzer": "bitsquatting", 
+        "geoip-country": "Japan"
+    }, 
+    {
+        "dns-a": [
+            "157.71.22.13"
+        ], 
+        "dns-ns": [
+            "dns11.jregroup.ne.jp", 
+            "dns12.jregroup.ne.jp", 
+            "dns4.dion.ne.jp"
+        ], 
+        "domain-name": "jreast.jp", 
+        "fuzzer": "various"
+    }
+]

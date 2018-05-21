@@ -1,0 +1,166 @@
+[
+    {
+        "dns-a": [
+            "193.191.245.244"
+        ], 
+        "dns-aaaa": [
+            "2a01:690:35:100::f5:f4"
+        ], 
+        "dns-mx": [
+            "relay-shs.fed.be", 
+            "relay2-shs.fed.be"
+        ], 
+        "dns-ns": [
+            "dns1w.fgov.be", 
+            "dns2s.belgium.be"
+        ], 
+        "domain-name": "belgium.be", 
+        "fuzzer": "original*", 
+        "geoip-country": "Belgium", 
+        "ssdeep-score": 93
+    }, 
+    {
+        "dns-a": [
+            "178.249.155.167"
+        ], 
+        "dns-mx": [
+            "mail.ibelgium.be", 
+            "mail2.ibelgium.be"
+        ], 
+        "dns-ns": [
+            "ns1.mijnhostingpartner.nl", 
+            "ns2.mijnhostingpartner.nl", 
+            "ns3.mijnhostingpartner.nl"
+        ], 
+        "domain-name": "ibelgium.be", 
+        "fuzzer": "homoglyph", 
+        "geoip-country": "Netherlands", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "193.191.245.4"
+        ], 
+        "dns-ns": [
+            "dns1w.fgov.be", 
+            "dns2s.belgium.be"
+        ], 
+        "domain-name": "beigium.be", 
+        "fuzzer": "homoglyph", 
+        "geoip-country": "Belgium"
+    }, 
+    {
+        "dns-a": [
+            "72.52.4.122"
+        ], 
+        "dns-mx": [
+            "localhost"
+        ], 
+        "dns-ns": [
+            "ns1.sedoparking.com", 
+            "ns2.sedoparking.com"
+        ], 
+        "domain-name": "belgim.be", 
+        "fuzzer": "omission", 
+        "geoip-country": "United States", 
+        "mx-spy": true, 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "185.53.178.7"
+        ], 
+        "dns-ns": [
+            "ns1.parkingcrew.net", 
+            "ns2.parkingcrew.net"
+        ], 
+        "domain-name": "begium.be", 
+        "fuzzer": "omission", 
+        "geoip-country": "Germany", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "52.58.78.16"
+        ], 
+        "dns-ns": [
+            "ns1.undeveloped.com", 
+            "ns2.undeveloped.com"
+        ], 
+        "domain-name": "belg.ium.be", 
+        "fuzzer": "subdomain"
+    }, 
+    {
+        "dns-a": [
+            "193.191.245.4"
+        ], 
+        "dns-ns": [
+            "dns1w.fgov.be", 
+            "dns2s.belgium.be"
+        ], 
+        "domain-name": "blegium.be", 
+        "fuzzer": "transposition", 
+        "geoip-country": "Belgium"
+    }, 
+    {
+        "dns-a": [
+            "94.76.192.2"
+        ], 
+        "dns-mx": [
+            "mail.dcube-resource.be", 
+            "mail2.dcube-resource.be"
+        ], 
+        "dns-ns": [
+            "ns1.dcube-resource.be", 
+            "ns2.dcube-resource.be", 
+            "ns4.dcube-resource.be"
+        ], 
+        "domain-name": "beglium.be", 
+        "fuzzer": "transposition", 
+        "geoip-country": "United Kingdom"
+    }, 
+    {
+        "dns-a": [
+            "91.205.33.139"
+        ], 
+        "dns-ns": [
+            "ns1.dootall.com", 
+            "ns2.dootall.com", 
+            "ns3.dootall.com", 
+            "ns4.dootall.com"
+        ], 
+        "domain-name": "beligum.be", 
+        "fuzzer": "transposition"
+    }, 
+    {
+        "dns-a": [
+            "185.53.178.9"
+        ], 
+        "dns-ns": [
+            "ns1.parkingcrew.net", 
+            "ns2.parkingcrew.net"
+        ], 
+        "domain-name": "belguim.be", 
+        "fuzzer": "transposition", 
+        "geoip-country": "Germany", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "217.21.190.146"
+        ], 
+        "dns-mx": [
+            "mx.backup.mailprotect.be", 
+            "mx.mailprotect.be"
+        ], 
+        "dns-ns": [
+            "ns1.register.be", 
+            "ns2.register.be", 
+            "ns3.register.be"
+        ], 
+        "domain-name": "belgiumbe.be", 
+        "fuzzer": "various", 
+        "geoip-country": "Belgium", 
+        "ssdeep-score": 0
+    }
+]

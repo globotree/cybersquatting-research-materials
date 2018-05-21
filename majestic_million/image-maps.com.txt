@@ -1,0 +1,95 @@
+[
+    {
+        "dns-a": [
+            "209.222.5.149"
+        ], 
+        "dns-mx": [
+            "mail.image-maps.com"
+        ], 
+        "dns-ns": [
+            "ns1.choopadns.com", 
+            "ns2.choopadns.com"
+        ], 
+        "domain-name": "image-maps.com", 
+        "fuzzer": "original*", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 100
+    }, 
+    {
+        "dns-a": [
+            "212.140.167.69"
+        ], 
+        "dns-mx": [
+            "mx.image-mats.com"
+        ], 
+        "dns-ns": [
+            "ns1.yourhostingaccount.com", 
+            "ns2.yourhostingaccount.com"
+        ], 
+        "domain-name": "image-mats.com", 
+        "fuzzer": "bitsquatting", 
+        "geoip-country": "United Kingdom"
+    }, 
+    {
+        "dns-a": [
+            "103.224.212.222"
+        ], 
+        "dns-mx": [
+            "park-mx.above.com"
+        ], 
+        "dns-ns": [
+            "ns1.above.com", 
+            "ns2.above.com"
+        ], 
+        "domain-name": "images-maps.com", 
+        "fuzzer": "insertion", 
+        "geoip-country": "Australia", 
+        "mx-spy": true, 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "98.124.245.24"
+        ], 
+        "dns-mx": [
+            "mail.b-io.co"
+        ], 
+        "dns-ns": [
+            "ns1.fabulous.com", 
+            "ns2.fabulous.com"
+        ], 
+        "domain-name": "image-map.com", 
+        "fuzzer": "omission", 
+        "geoip-country": "United States", 
+        "mx-spy": true, 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "118.201.71.114"
+        ], 
+        "dns-mx": [
+            "imagemaps.com"
+        ], 
+        "dns-ns": [
+            "dns1.name-services.com", 
+            "dns2.name-services.com", 
+            "dns3.name-services.com", 
+            "dns4.name-services.com", 
+            "dns5.name-services.com"
+        ], 
+        "domain-name": "imagemaps.com", 
+        "fuzzer": "omission", 
+        "geoip-country": "Singapore", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "98.124.199.108"
+        ], 
+        "domain-name": "imag.e-maps.com", 
+        "fuzzer": "subdomain", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 0
+    }
+]

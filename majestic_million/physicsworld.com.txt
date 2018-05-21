@@ -1,0 +1,74 @@
+[
+    {
+        "dns-a": [
+            "35.189.112.23"
+        ], 
+        "dns-mx": [
+            "eu-smtp-inbound-1.mimecast.com", 
+            "eu-smtp-inbound-2.mimecast.com"
+        ], 
+        "dns-ns": [
+            "ns-1062.awsdns-04.org", 
+            "ns-1680.awsdns-18.co.uk", 
+            "ns-440.awsdns-55.com", 
+            "ns-790.awsdns-34.net"
+        ], 
+        "domain-name": "physicsworld.com", 
+        "fuzzer": "original*", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 100
+    }, 
+    {
+        "dns-a": [
+            "107.180.51.20"
+        ], 
+        "dns-mx": [
+            "mail.physics-world.com"
+        ], 
+        "dns-ns": [
+            "ns63.domaincontrol.com", 
+            "ns64.domaincontrol.com"
+        ], 
+        "domain-name": "physics-world.com", 
+        "fuzzer": "hyphenation", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "37.48.65.143"
+        ], 
+        "dns-ns": [
+            "ns1.koaladns.com", 
+            "ns2.koaladns.com"
+        ], 
+        "domain-name": "physicworld.com", 
+        "fuzzer": "omission", 
+        "geoip-country": "Netherlands"
+    }, 
+    {
+        "dns-a": [
+            "208.91.197.27"
+        ], 
+        "domain-name": "physi.csworld.com", 
+        "fuzzer": "subdomain", 
+        "geoip-country": "United States"
+    }, 
+    {
+        "dns-a": [
+            "50.31.210.85"
+        ], 
+        "domain-name": "physics.world.com", 
+        "fuzzer": "subdomain", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "206.188.193.2"
+        ], 
+        "domain-name": "physicswo.rld.com", 
+        "fuzzer": "subdomain", 
+        "geoip-country": "United States"
+    }
+]

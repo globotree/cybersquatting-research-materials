@@ -1,0 +1,77 @@
+[
+    {
+        "dns-a": [
+            "209.46.25.134"
+        ], 
+        "dns-mx": [
+            "mail.winehq.org"
+        ], 
+        "dns-ns": [
+            "wine.codeweavers.com", 
+            "www1.codeweavers.com"
+        ], 
+        "domain-name": "winehq.org", 
+        "fuzzer": "original*", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 100
+    }, 
+    {
+        "dns-a": [
+            "162.241.216.119"
+        ], 
+        "dns-mx": [
+            "mail.wineiq.org"
+        ], 
+        "dns-ns": [
+            "ns1.bluehost.com", 
+            "ns2.bluehost.com"
+        ], 
+        "domain-name": "wineiq.org", 
+        "fuzzer": "bitsquatting", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "103.224.212.246"
+        ], 
+        "dns-mx": [
+            "park-mx.above.com"
+        ], 
+        "dns-ns": [
+            "ns3.above.com", 
+            "ns4.above.com"
+        ], 
+        "domain-name": "winehg.org", 
+        "fuzzer": "homoglyph", 
+        "geoip-country": "Australia", 
+        "mx-spy": true, 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "78.47.36.245"
+        ], 
+        "dns-mx": [
+            "vx11.netsector.biz"
+        ], 
+        "dns-ns": [
+            "ns1.netsector.biz", 
+            "ns2.netsector.biz", 
+            "ns3.netsector.biz"
+        ], 
+        "domain-name": "wineq.org", 
+        "fuzzer": "omission", 
+        "geoip-country": "Germany", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "72.44.90.85"
+        ], 
+        "domain-name": "wine.hq.org", 
+        "fuzzer": "subdomain", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 0
+    }
+]

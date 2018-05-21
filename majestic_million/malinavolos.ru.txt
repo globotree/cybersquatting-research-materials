@@ -1,0 +1,32 @@
+[
+    {
+        "dns-a": [
+            "185.53.179.40"
+        ], 
+        "dns-ns": [
+            "ns1.snparking.ru", 
+            "ns2.snparking.ru"
+        ], 
+        "domain-name": "malinavolos.ru", 
+        "fuzzer": "original*", 
+        "geoip-country": "Germany", 
+        "ssdeep-score": 80
+    }, 
+    {
+        "dns-a": [
+            "72.52.4.90"
+        ], 
+        "domain-name": "malina.volos.ru", 
+        "fuzzer": "subdomain", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "93.95.102.225"
+        ], 
+        "domain-name": "malinavo.los.ru", 
+        "fuzzer": "subdomain", 
+        "geoip-country": "Russian Federation"
+    }
+]

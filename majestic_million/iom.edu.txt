@@ -1,0 +1,49 @@
+[
+    {
+        "dns-a": [
+            "198.185.159.144"
+        ], 
+        "dns-mx": [
+            "alt1.aspmx.l.google.com", 
+            "alt2.aspmx.l.google.com", 
+            "alt3.aspmx.l.google.com", 
+            "alt4.aspmx.l.google.com", 
+            "aspmx.l.google.com"
+        ], 
+        "dns-ns": [
+            "ns1.hostmonster.com", 
+            "ns2.hostmonster.com"
+        ], 
+        "domain-name": "imm.edu", 
+        "fuzzer": "bitsquatting", 
+        "geoip-country": "United States"
+    }, 
+    {
+        "dns-a": [
+            "162.251.85.8"
+        ], 
+        "dns-mx": [
+            "ipm.edu"
+        ], 
+        "dns-ns": [
+            "ns1.cp-35.bigrockservers.com", 
+            "ns2.cp-35.bigrockservers.com"
+        ], 
+        "domain-name": "ipm.edu", 
+        "fuzzer": "replacement"
+    }, 
+    {
+        "dns-a": [
+            "87.120.40.131"
+        ], 
+        "dns-mx": [
+            "mail.host.bg"
+        ], 
+        "dns-ns": [
+            "ns15.bgdns.net", 
+            "ns16.bgdns.net"
+        ], 
+        "domain-name": "iom-edu.com", 
+        "fuzzer": "various"
+    }
+]

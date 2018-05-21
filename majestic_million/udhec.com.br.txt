@@ -1,0 +1,49 @@
+[
+    {
+        "dns-a": [
+            "191.252.51.24"
+        ], 
+        "dns-mx": [
+            "mx.a.locaweb.com.br", 
+            "mx.b.locaweb.com.br", 
+            "mx.jk.locaweb.com.br"
+        ], 
+        "dns-ns": [
+            "ns1.locaweb.com.br", 
+            "ns2.locaweb.com.br", 
+            "ns3.locaweb.com.br"
+        ], 
+        "domain-name": "udhec.com.br", 
+        "fuzzer": "original*", 
+        "geoip-country": "Brazil", 
+        "ssdeep-score": 100
+    }, 
+    {
+        "dns-a": [
+            "54.232.92.235"
+        ], 
+        "domain-name": "udec.com.br", 
+        "fuzzer": "omission", 
+        "geoip-country": "Brazil"
+    }, 
+    {
+        "dns-a": [
+            "187.45.193.207"
+        ], 
+        "dns-mx": [
+            "alt1.aspmx.l.google.com", 
+            "alt2.aspmx.l.google.com", 
+            "aspmx.l.google.com", 
+            "aspmx2.googlemail.com", 
+            "aspmx3.googlemail.com"
+        ], 
+        "dns-ns": [
+            "ns1.locaweb.com.br", 
+            "ns2.locaweb.com.br", 
+            "ns3.locaweb.com.br"
+        ], 
+        "domain-name": "idhec.com.br", 
+        "fuzzer": "replacement", 
+        "geoip-country": "Brazil"
+    }
+]

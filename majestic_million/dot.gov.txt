@@ -1,0 +1,67 @@
+[
+    {
+        "dns-a": [
+            "204.68.196.12"
+        ], 
+        "dns-mx": [
+            "smtp09.dot.gov", 
+            "smtp10.dot.gov"
+        ], 
+        "dns-ns": [
+            "edns1.dot.gov", 
+            "edns2.dot.gov", 
+            "edns3.dot.gov"
+        ], 
+        "domain-name": "dot.gov", 
+        "fuzzer": "original*", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 100
+    }, 
+    {
+        "dns-ns": [
+            "beast.dma.mil", 
+            "beauty.dma.mil", 
+            "kaucher.dma.mil", 
+            "russell.dma.mil"
+        ], 
+        "domain-name": "dod.gov", 
+        "fuzzer": "bitsquatting"
+    }, 
+    {
+        "dns-a": [
+            "69.58.186.123"
+        ], 
+        "dns-aaaa": [
+            "2620:74:14:2c00::7b"
+        ], 
+        "dns-mx": [
+            "mail1.verisign.com", 
+            "mail2.verisign.com", 
+            "mail3.verisign.com", 
+            "mail4.verisign.com", 
+            "mail5.verisign.com", 
+            "mail6.verisign.com"
+        ], 
+        "dns-ns": [
+            "a.gov-servers.net", 
+            "b.gov-servers.net", 
+            "c.gov-servers.net", 
+            "d.gov-servers.net"
+        ], 
+        "domain-name": "dotgov.gov", 
+        "fuzzer": "various", 
+        "geoip-country": "United States"
+    }, 
+    {
+        "dns-a": [
+            "50.63.202.84"
+        ], 
+        "dns-ns": [
+            "ns03.domaincontrol.com", 
+            "ns04.domaincontrol.com"
+        ], 
+        "domain-name": "dot-gov.com", 
+        "fuzzer": "various", 
+        "geoip-country": "United States"
+    }
+]

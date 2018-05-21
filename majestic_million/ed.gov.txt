@@ -1,0 +1,89 @@
+[
+    {
+        "dns-a": [
+            "165.224.212.35"
+        ], 
+        "dns-aaaa": [
+            "2610:e8:9080:1ff:ec0a:e86:790d:cee5"
+        ], 
+        "dns-mx": [
+            "ed-gov.mail.protection.outlook.com"
+        ], 
+        "dns-ns": [
+            "eduftcdnsp01.ed.gov", 
+            "eduftcdnsp02.ed.gov", 
+            "eduptcdnsp01.ed.gov", 
+            "eduptcdnsp02.ed.gov"
+        ], 
+        "domain-name": "ed.gov", 
+        "fuzzer": "original*", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 100
+    }, 
+    {
+        "dns-a": [
+            "170.110.225.33"
+        ], 
+        "dns-mx": [
+            "eda-gov.mail.protection.outlook.com"
+        ], 
+        "dns-ns": [
+            "dnssec10.datamtn.com", 
+            "dnssec11.datamtn.com", 
+            "dnssec7.datamtn.com", 
+            "dnssec9.datamtn.com", 
+            "gpaens2.doc.gov", 
+            "hchbens1.doc.gov"
+        ], 
+        "domain-name": "eda.gov", 
+        "fuzzer": "addition", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "164.154.226.126"
+        ], 
+        "dns-mx": [
+            "smtp.sd.gov", 
+            "smtp.sd.gov"
+        ], 
+        "dns-ns": [
+            "ns1.k12.sd.us", 
+            "ns1.sd.gov", 
+            "ns2.sd.gov"
+        ], 
+        "domain-name": "sd.gov", 
+        "fuzzer": "replacement"
+    }, 
+    {
+        "dns-a": [
+            "167.21.84.203"
+        ], 
+        "dns-mx": [
+            "mail.state.de.us"
+        ], 
+        "dns-ns": [
+            "ns01.delaware.gov", 
+            "ns02.delaware.gov"
+        ], 
+        "domain-name": "de.gov", 
+        "fuzzer": "transposition"
+    }, 
+    {
+        "dns-a": [
+            "164.165.67.10"
+        ], 
+        "dns-mx": [
+            "inbound.idaho.gov"
+        ], 
+        "dns-ns": [
+            "adm-dns2.idaho.gov", 
+            "admdns.idaho.gov", 
+            "soa1.idaho.gov", 
+            "soa2.idaho.gov"
+        ], 
+        "domain-name": "id.gov", 
+        "fuzzer": "vowel-swap"
+    }
+]

@@ -1,0 +1,72 @@
+[
+    {
+        "dns-a": [
+            "119.146.223.143"
+        ], 
+        "dns-mx": [
+            "mxbiz1.qq.com", 
+            "mxbiz2.qq.com"
+        ], 
+        "dns-ns": [
+            "f1g1ns1.dnspod.net", 
+            "f1g1ns2.dnspod.net"
+        ], 
+        "domain-name": "wdlinux.cn", 
+        "fuzzer": "original*", 
+        "geoip-country": "China", 
+        "ssdeep-score": 100
+    }, 
+    {
+        "dns-ns": [
+            "f1g1ns1.dnspod.net", 
+            "f1g1ns2.dnspod.net"
+        ], 
+        "domain-name": "welinux.cn", 
+        "fuzzer": "bitsquatting"
+    }, 
+    {
+        "dns-a": [
+            "47.88.65.179"
+        ], 
+        "dns-ns": [
+            "vip1.alidns.com", 
+            "vip2.alidns.com"
+        ], 
+        "domain-name": "dlinux.cn", 
+        "fuzzer": "omission", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-ns": [
+            "f1g1ns1.dnspod.net", 
+            "f1g1ns2.dnspod.net"
+        ], 
+        "domain-name": "wxlinux.cn", 
+        "fuzzer": "replacement"
+    }, 
+    {
+        "dns-ns": [
+            "f1g1ns1.dnspod.net", 
+            "f1g1ns2.dnspod.net"
+        ], 
+        "domain-name": "adlinux.cn", 
+        "fuzzer": "replacement"
+    }, 
+    {
+        "dns-a": [
+            "218.25.198.74"
+        ], 
+        "domain-name": "wdl.inux.cn", 
+        "fuzzer": "subdomain"
+    }, 
+    {
+        "dns-a": [
+            "182.61.97.11"
+        ], 
+        "domain-name": "wdlin.ux.cn", 
+        "fuzzer": "subdomain", 
+        "geoip-country": "China", 
+        "ssdeep-score": 0
+    }
+]

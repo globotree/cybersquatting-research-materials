@@ -1,0 +1,272 @@
+[
+    {
+        "dns-ns": [
+            "dns2.cn.net", 
+            "ns.bta.net.cn", 
+            "ns1.cn.net"
+        ], 
+        "domain-name": "cninfo.net", 
+        "fuzzer": "original*"
+    }, 
+    {
+        "dns-a": [
+            "50.63.202.34"
+        ], 
+        "dns-mx": [
+            "mailstore1.secureserver.net", 
+            "smtp.secureserver.net"
+        ], 
+        "dns-ns": [
+            "ns07.domaincontrol.com", 
+            "ns08.domaincontrol.com"
+        ], 
+        "domain-name": "kninfo.net", 
+        "fuzzer": "bitsquatting", 
+        "geoip-country": "United States"
+    }, 
+    {
+        "dns-a": [
+            "50.63.202.35"
+        ], 
+        "dns-mx": [
+            "mailstore1.secureserver.net", 
+            "smtp.secureserver.net"
+        ], 
+        "dns-ns": [
+            "ns67.domaincontrol.com", 
+            "ns68.domaincontrol.com"
+        ], 
+        "domain-name": "sninfo.net", 
+        "fuzzer": "bitsquatting", 
+        "geoip-country": "United States"
+    }, 
+    {
+        "dns-a": [
+            "193.109.36.90"
+        ], 
+        "dns-mx": [
+            "coinfo-net.mail.protection.outlook.com"
+        ], 
+        "dns-ns": [
+            "ns01.unonet.it", 
+            "ns02.unonet.it", 
+            "ns03.unonet.it"
+        ], 
+        "domain-name": "coinfo.net", 
+        "fuzzer": "bitsquatting", 
+        "geoip-country": "Italy"
+    }, 
+    {
+        "dns-a": [
+            "94.130.88.157"
+        ], 
+        "dns-mx": [
+            "clinfo.net"
+        ], 
+        "dns-ns": [
+            "ns1.dhrubohost.com", 
+            "ns2.dhrubohost.com"
+        ], 
+        "domain-name": "clinfo.net", 
+        "fuzzer": "bitsquatting", 
+        "geoip-country": "Ukraine"
+    }, 
+    {
+        "dns-ns": [
+            "f1g1ns1.dnspod.net", 
+            "f1g1ns2.dnspod.net"
+        ], 
+        "domain-name": "cfinfo.net", 
+        "fuzzer": "bitsquatting"
+    }, 
+    {
+        "dns-a": [
+            "24.120.201.243"
+        ], 
+        "dns-mx": [
+            "crphpmail.secureserver.net"
+        ], 
+        "dns-ns": [
+            "ns27.domaincontrol.com", 
+            "ns28.domaincontrol.com"
+        ], 
+        "domain-name": "crinfo.net", 
+        "fuzzer": "homoglyph", 
+        "geoip-country": "United States"
+    }, 
+    {
+        "dns-a": [
+            "185.53.179.7"
+        ], 
+        "dns-mx": [
+            "mail.h-email.net"
+        ], 
+        "dns-ns": [
+            "ns1.parkingcrew.net", 
+            "ns2.parkingcrew.net"
+        ], 
+        "domain-name": "cnlnfo.net", 
+        "fuzzer": "homoglyph", 
+        "geoip-country": "Germany", 
+        "mx-spy": true
+    }, 
+    {
+        "dns-a": [
+            "69.163.179.145"
+        ], 
+        "dns-mx": [
+            "mx1.sub3.homie.mail.dreamhost.com", 
+            "mx2.sub3.homie.mail.dreamhost.com"
+        ], 
+        "dns-ns": [
+            "ns1.dreamhost.com", 
+            "ns2.dreamhost.com", 
+            "ns3.dreamhost.com"
+        ], 
+        "domain-name": "cn-info.net", 
+        "fuzzer": "hyphenation", 
+        "geoip-country": "United States"
+    }, 
+    {
+        "dns-a": [
+            "47.89.58.32"
+        ], 
+        "dns-ns": [
+            "dns31.hichina.com", 
+            "dns32.hichina.com"
+        ], 
+        "domain-name": "chninfo.net", 
+        "fuzzer": "insertion", 
+        "geoip-country": "United States"
+    }, 
+    {
+        "dns-a": [
+            "121.12.118.11"
+        ], 
+        "dns-mx": [
+            "mail.cninf.net"
+        ], 
+        "dns-ns": [
+            "ns1.esindns.cn", 
+            "ns2.esindns.cn", 
+            "ns3.esindns.cn"
+        ], 
+        "domain-name": "cninf.net", 
+        "fuzzer": "omission", 
+        "geoip-country": "China"
+    }, 
+    {
+        "dns-a": [
+            "72.52.4.122"
+        ], 
+        "dns-mx": [
+            "localhost"
+        ], 
+        "dns-ns": [
+            "ns1.sedoparking.com", 
+            "ns2.sedoparking.com"
+        ], 
+        "domain-name": "cinfo.net", 
+        "fuzzer": "omission", 
+        "geoip-country": "United States", 
+        "mx-spy": true
+    }, 
+    {
+        "dns-a": [
+            "72.52.4.122"
+        ], 
+        "dns-mx": [
+            "localhost"
+        ], 
+        "dns-ns": [
+            "ns1.sedoparking.com", 
+            "ns2.sedoparking.com"
+        ], 
+        "domain-name": "ninfo.net", 
+        "fuzzer": "omission", 
+        "geoip-country": "United States", 
+        "mx-spy": true
+    }, 
+    {
+        "dns-a": [
+            "146.71.52.152"
+        ], 
+        "dns-ns": [
+            "f1g1ns1.dnspod.net", 
+            "f1g1ns2.dnspod.net"
+        ], 
+        "domain-name": "cnifo.net", 
+        "fuzzer": "omission", 
+        "geoip-country": "United States"
+    }, 
+    {
+        "dns-a": [
+            "103.240.159.170"
+        ], 
+        "domain-name": "xninfo.net", 
+        "fuzzer": "replacement", 
+        "geoip-country": "China"
+    }, 
+    {
+        "dns-mx": [
+            "alt1.aspmx.l.google.com", 
+            "alt2.aspmx.l.google.com", 
+            "aspmx.l.google.com", 
+            "aspmx2.googlemail.com", 
+            "aspmx3.googlemail.com", 
+            "aspmx4.googlemail.com", 
+            "aspmx5.googlemail.com"
+        ], 
+        "dns-ns": [
+            "mdns1.nhanhoa.com", 
+            "mdns2.nhanhoa.com", 
+            "mdns3.nhanhoa.com", 
+            "mdns4.nhanhoa.com"
+        ], 
+        "domain-name": "vninfo.net", 
+        "fuzzer": "replacement"
+    }, 
+    {
+        "dns-mx": [
+            "mail-g3.xinnetdns.com"
+        ], 
+        "dns-ns": [
+            "ns19.xincache.com", 
+            "ns20.xincache.com"
+        ], 
+        "domain-name": "chinfo.net", 
+        "fuzzer": "replacement"
+    }, 
+    {
+        "dns-ns": [
+            "ns1.sedoparking.com", 
+            "ns2.sedoparking.com"
+        ], 
+        "domain-name": "c.ninfo.net", 
+        "fuzzer": "subdomain"
+    }, 
+    {
+        "dns-a": [
+            "72.52.4.122"
+        ], 
+        "dns-mx": [
+            "localhost"
+        ], 
+        "dns-ns": [
+            "ns1.sedoparking.com", 
+            "ns2.sedoparking.com"
+        ], 
+        "domain-name": "cni.nfo.net", 
+        "fuzzer": "subdomain", 
+        "geoip-country": "United States", 
+        "mx-spy": true
+    }, 
+    {
+        "dns-a": [
+            "75.126.102.245"
+        ], 
+        "domain-name": "cnin.fo.net", 
+        "fuzzer": "subdomain", 
+        "geoip-country": "United States"
+    }
+]

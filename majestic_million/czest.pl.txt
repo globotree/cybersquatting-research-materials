@@ -1,0 +1,170 @@
+[
+    {
+        "dns-ns": [
+            "a-dns.pl", 
+            "b-dns.pl", 
+            "e-dns.pl", 
+            "f-dns.pl", 
+            "i-dns.pl"
+        ], 
+        "domain-name": "czest.pl", 
+        "fuzzer": "original*"
+    }, 
+    {
+        "dns-a": [
+            "212.91.7.33"
+        ], 
+        "dns-ns": [
+            "ns1.aftermarket.pl", 
+            "ns2.aftermarket.pl"
+        ], 
+        "domain-name": "czesto.pl", 
+        "fuzzer": "addition", 
+        "geoip-country": "Poland"
+    }, 
+    {
+        "dns-a": [
+            "212.91.7.33"
+        ], 
+        "dns-mx": [
+            "mail.mxhoppr.com"
+        ], 
+        "dns-ns": [
+            "ns1.aftermarket.pl", 
+            "ns2.aftermarket.pl"
+        ], 
+        "domain-name": "crest.pl", 
+        "fuzzer": "bitsquatting", 
+        "geoip-country": "Poland", 
+        "mx-spy": true
+    }, 
+    {
+        "dns-a": [
+            "85.128.197.215"
+        ], 
+        "dns-ns": [
+            "dns1.domeny.tv", 
+            "dns2.domeny.tv"
+        ], 
+        "domain-name": "czst.pl", 
+        "fuzzer": "omission", 
+        "geoip-country": "Poland"
+    }, 
+    {
+        "dns-a": [
+            "85.128.222.6"
+        ], 
+        "dns-mx": [
+            "czes.pl"
+        ], 
+        "dns-ns": [
+            "ns1.nazwa.pl", 
+            "ns2.nazwa.pl", 
+            "ns3.nazwa.pl"
+        ], 
+        "domain-name": "czes.pl", 
+        "fuzzer": "omission", 
+        "geoip-country": "Poland"
+    }, 
+    {
+        "dns-a": [
+            "46.29.18.93"
+        ], 
+        "dns-mx": [
+            "mail.cest.pl"
+        ], 
+        "dns-ns": [
+            "ns1.hostinghouse.pl", 
+            "ns2.hostinghouse.pl"
+        ], 
+        "domain-name": "cest.pl", 
+        "fuzzer": "omission", 
+        "geoip-country": "Poland"
+    }, 
+    {
+        "dns-a": [
+            "62.129.230.130"
+        ], 
+        "dns-mx": [
+            "zest.pl"
+        ], 
+        "dns-ns": [
+            "dns.home.pl", 
+            "dns2.home.pl", 
+            "dns3.home.pl"
+        ], 
+        "domain-name": "zest.pl", 
+        "fuzzer": "omission", 
+        "geoip-country": "Poland"
+    }, 
+    {
+        "dns-a": [
+            "81.28.232.80"
+        ], 
+        "dns-mx": [
+            "mail.variomedia.de"
+        ], 
+        "dns-ns": [
+            "ns1.variomedia.de", 
+            "ns2.variomedia.de"
+        ], 
+        "domain-name": "chest.pl", 
+        "fuzzer": "replacement"
+    }, 
+    {
+        "dns-a": [
+            "46.242.145.90"
+        ], 
+        "dns-mx": [
+            "46.242.145.90"
+        ], 
+        "dns-ns": [
+            "ns10.az.pl", 
+            "ns11.az.pl", 
+            "ns12.az.pl"
+        ], 
+        "domain-name": "ctest.pl", 
+        "fuzzer": "replacement", 
+        "geoip-country": "Poland"
+    }, 
+    {
+        "dns-a": [
+            "62.129.230.130"
+        ], 
+        "dns-mx": [
+            "zest.pl"
+        ], 
+        "dns-ns": [
+            "dns.home.pl", 
+            "dns2.home.pl", 
+            "dns3.home.pl"
+        ], 
+        "domain-name": "c.zest.pl", 
+        "fuzzer": "subdomain", 
+        "geoip-country": "Poland"
+    }, 
+    {
+        "dns-a": [
+            "185.53.178.8"
+        ], 
+        "dns-mx": [
+            "mail.h-email.net"
+        ], 
+        "dns-ns": [
+            "ns1.parkingcrew.net", 
+            "ns2.parkingcrew.net"
+        ], 
+        "domain-name": "cz.est.pl", 
+        "fuzzer": "subdomain", 
+        "geoip-country": "Germany", 
+        "mx-spy": true
+    }, 
+    {
+        "dns-a": [
+            "85.128.165.104"
+        ], 
+        "domain-name": "cze.st.pl", 
+        "fuzzer": "subdomain", 
+        "geoip-country": "Poland"
+    }
+]

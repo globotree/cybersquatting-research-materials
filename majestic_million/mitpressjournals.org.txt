@@ -1,0 +1,47 @@
+[
+    {
+        "dns-a": [
+            "65.156.1.53"
+        ], 
+        "dns-mx": [
+            "mail01.mitpressjournals.org"
+        ], 
+        "dns-ns": [
+            "ns101.literatumonline.com", 
+            "ns102.literatumonline.com", 
+            "nsa.literatumonline.com", 
+            "nsb.literatumonline.com"
+        ], 
+        "domain-name": "mitpressjournals.org", 
+        "fuzzer": "original*", 
+        "geoip-country": "United States", 
+        "mx-spy": true, 
+        "ssdeep-score": 99
+    }, 
+    {
+        "dns-a": [
+            "217.70.184.50"
+        ], 
+        "domain-name": "mitpress.journals.org", 
+        "fuzzer": "subdomain", 
+        "geoip-country": "France", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "50.63.46.1"
+        ], 
+        "dns-ns": [
+            "a.service.afiliasdns.info", 
+            "b.service.afiliasdns.org", 
+            "c.service.afiliasdns.net", 
+            "d.service.afiliasdns.com", 
+            "e.service.afiliasdns.info", 
+            "f.service.afiliasdns.net"
+        ], 
+        "domain-name": "mitpressjournal.s.org", 
+        "fuzzer": "subdomain", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 0
+    }
+]

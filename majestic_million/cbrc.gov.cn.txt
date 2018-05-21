@@ -1,0 +1,63 @@
+[
+    {
+        "dns-mx": [
+            "mail.cbrc.gov.cn", 
+            "mail.cbrc.gov.cn", 
+            "mail.cbrc.gov.cn", 
+            "mail.cbrc.gov.cn"
+        ], 
+        "dns-ns": [
+            "cnc.cbrc.gov.cn", 
+            "ct.cbrc.gov.cn"
+        ], 
+        "domain-name": "cbrc.gov.cn", 
+        "fuzzer": "original*"
+    }, 
+    {
+        "dns-a": [
+            "58.18.133.101"
+        ], 
+        "domain-name": "cfrc.gov.cn", 
+        "fuzzer": "bitsquatting", 
+        "geoip-country": "China"
+    }, 
+    {
+        "dns-a": [
+            "202.98.11.210"
+        ], 
+        "dns-ns": [
+            "dns21.hichina.com", 
+            "dns22.hichina.com"
+        ], 
+        "domain-name": "cbrs.gov.cn", 
+        "fuzzer": "bitsquatting", 
+        "geoip-country": "China"
+    }, 
+    {
+        "dns-a": [
+            "61.187.190.68"
+        ], 
+        "domain-name": "cb.rc.gov.cn", 
+        "fuzzer": "subdomain"
+    }, 
+    {
+        "dns-ns": [
+            "ns1.sfn.cn", 
+            "ns2.sfn.cn"
+        ], 
+        "domain-name": "bcrc.gov.cn", 
+        "fuzzer": "transposition"
+    }, 
+    {
+        "dns-ns": [
+            "ns1.myhostadmin.net", 
+            "ns2.myhostadmin.net", 
+            "ns3.myhostadmin.net", 
+            "ns4.myhostadmin.net", 
+            "ns5.myhostadmin.net", 
+            "ns6.myhostadmin.net"
+        ], 
+        "domain-name": "cbrcgov.cn", 
+        "fuzzer": "various"
+    }
+]

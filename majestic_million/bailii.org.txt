@@ -1,0 +1,143 @@
+[
+    {
+        "dns-mx": [
+            "mx0.bailii.org", 
+            "mx0.firedrake.org"
+        ], 
+        "dns-ns": [
+            "ns0.bailii.org", 
+            "ns0.firedrake.org", 
+            "ns1.firedrake.org"
+        ], 
+        "domain-name": "bailii.org", 
+        "fuzzer": "original*"
+    }, 
+    {
+        "dns-ns": [
+            "ns-cloud-e1.googledomains.com", 
+            "ns-cloud-e2.googledomains.com", 
+            "ns-cloud-e3.googledomains.com", 
+            "ns-cloud-e4.googledomains.com"
+        ], 
+        "domain-name": "beilii.org", 
+        "fuzzer": "bitsquatting"
+    }, 
+    {
+        "dns-a": [
+            "147.255.41.46"
+        ], 
+        "dns-ns": [
+            "ns5.dnsdun.com", 
+            "ns5.dnsdun.net"
+        ], 
+        "domain-name": "bailil.org", 
+        "fuzzer": "homoglyph", 
+        "geoip-country": "United States"
+    }, 
+    {
+        "dns-a": [
+            "95.211.219.65"
+        ], 
+        "dns-ns": [
+            "ns1.hastydns.com", 
+            "ns2.hastydns.com"
+        ], 
+        "domain-name": "bailli.org", 
+        "fuzzer": "homoglyph", 
+        "geoip-country": "Netherlands"
+    }, 
+    {
+        "dns-a": [
+            "192.195.77.212"
+        ], 
+        "dns-aaaa": [
+            "2607:f1c0:1000:2045:ff9c:3ee:db1e:8041"
+        ], 
+        "dns-mx": [
+            "mx00.1and1.com", 
+            "mx01.1and1.com"
+        ], 
+        "dns-ns": [
+            "ns1038.ui-dns.biz", 
+            "ns1038.ui-dns.com", 
+            "ns1038.ui-dns.de", 
+            "ns1038.ui-dns.org"
+        ], 
+        "domain-name": "baiii.org", 
+        "fuzzer": "omission", 
+        "geoip-country": "United States"
+    }, 
+    {
+        "dns-a": [
+            "178.175.135.126"
+        ], 
+        "dns-ns": [
+            "ns1.myhostadmin.net", 
+            "ns2.myhostadmin.net", 
+            "ns3.myhostadmin.net", 
+            "ns4.myhostadmin.net", 
+            "ns5.myhostadmin.net", 
+            "ns6.myhostadmin.net"
+        ], 
+        "domain-name": "balii.org", 
+        "fuzzer": "omission", 
+        "geoip-country": "Moldova"
+    }, 
+    {
+        "dns-a": [
+            "103.224.212.222"
+        ], 
+        "dns-mx": [
+            "park-mx.above.com"
+        ], 
+        "dns-ns": [
+            "ns1.above.com", 
+            "ns2.above.com"
+        ], 
+        "domain-name": "baillii.org", 
+        "fuzzer": "repetition", 
+        "geoip-country": "Australia", 
+        "mx-spy": true
+    }, 
+    {
+        "dns-a": [
+            "103.224.212.222"
+        ], 
+        "dns-mx": [
+            "park-mx.above.com"
+        ], 
+        "dns-ns": [
+            "ns1.above.com", 
+            "ns2.above.com"
+        ], 
+        "domain-name": "baiili.org", 
+        "fuzzer": "transposition", 
+        "geoip-country": "Australia", 
+        "mx-spy": true
+    }, 
+    {
+        "dns-a": [
+            "74.220.207.90"
+        ], 
+        "dns-mx": [
+            "bailie.org"
+        ], 
+        "dns-ns": [
+            "ns1.hostmonster.com", 
+            "ns2.hostmonster.com"
+        ], 
+        "domain-name": "bailie.org", 
+        "fuzzer": "vowel-swap"
+    }, 
+    {
+        "dns-mx": [
+            "mxdomain.qq.com"
+        ], 
+        "dns-ns": [
+            "ns15.xincache.com", 
+            "ns16.xincache.com"
+        ], 
+        "domain-name": "bailei.org", 
+        "fuzzer": "vowel-swap"
+    }
+]

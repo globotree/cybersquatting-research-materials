@@ -1,0 +1,112 @@
+[
+    {
+        "dns-a": [
+            "45.118.180.89"
+        ], 
+        "dns-mx": [
+            "mail.newindianexpress.com"
+        ], 
+        "dns-ns": [
+            "ns1.net4india.com", 
+            "ns2.net4india.com"
+        ], 
+        "domain-name": "newindianexpress.com", 
+        "fuzzer": "original*", 
+        "geoip-country": "Singapore", 
+        "ssdeep-score": 100
+    }, 
+    {
+        "dns-a": [
+            "104.24.100.128", 
+            "104.24.101.128"
+        ], 
+        "dns-aaaa": [
+            "2400:cb00:2048:1::6818:6480", 
+            "2400:cb00:2048:1::6818:6580"
+        ], 
+        "dns-ns": [
+            "noah.ns.cloudflare.com", 
+            "rita.ns.cloudflare.com"
+        ], 
+        "domain-name": "newsindianexpress.com", 
+        "fuzzer": "insertion", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "204.11.56.40"
+        ], 
+        "dns-ns": [
+            "ns1640.ztomy.com", 
+            "ns2640.ztomy.com"
+        ], 
+        "domain-name": "newindiaexpress.com", 
+        "fuzzer": "omission", 
+        "geoip-country": "Virgin Islands", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "103.224.212.222"
+        ], 
+        "dns-mx": [
+            "park-mx.above.com"
+        ], 
+        "dns-ns": [
+            "ns1.above.com", 
+            "ns2.above.com"
+        ], 
+        "domain-name": "newi.ndianexpress.com", 
+        "fuzzer": "subdomain", 
+        "geoip-country": "Australia", 
+        "mx-spy": true, 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "208.73.210.202", 
+            "208.73.210.217", 
+            "208.73.211.165", 
+            "208.73.211.177"
+        ], 
+        "dns-ns": [
+            "ns1.dsredirection.com", 
+            "ns2.dsredirection.com"
+        ], 
+        "domain-name": "newindianex.press.com", 
+        "fuzzer": "subdomain", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "104.238.111.174"
+        ], 
+        "domain-name": "newindianexpr.ess.com", 
+        "fuzzer": "subdomain", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "194.105.56.170"
+        ], 
+        "domain-name": "newindianexpre.ss.com", 
+        "fuzzer": "subdomain", 
+        "geoip-country": "Latvia", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "104.200.22.130", 
+            "104.200.23.95"
+        ], 
+        "dns-ns": [
+            "ns1.mytrafficmanagement.com", 
+            "ns2.mytrafficmanagement.com"
+        ], 
+        "domain-name": "newindinaexpress.com", 
+        "fuzzer": "transposition"
+    }
+]

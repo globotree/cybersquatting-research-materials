@@ -1,0 +1,49 @@
+[
+    {
+        "dns-a": [
+            "66.37.25.130"
+        ], 
+        "dns-mx": [
+            "mail.blueporns.com"
+        ], 
+        "dns-ns": [
+            "ns1.guardedhost.com", 
+            "ns2.guardeddns.net"
+        ], 
+        "domain-name": "blueporns.com", 
+        "fuzzer": "original*", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 99
+    }, 
+    {
+        "dns-a": [
+            "184.168.221.104"
+        ], 
+        "dns-ns": [
+            "ns1.afternic.com", 
+            "ns2.afternic.com"
+        ], 
+        "domain-name": "blueporn.com", 
+        "fuzzer": "omission", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "91.195.240.103"
+        ], 
+        "domain-name": "blu.eporns.com", 
+        "fuzzer": "subdomain", 
+        "geoip-country": "Germany", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "75.126.100.21"
+        ], 
+        "domain-name": "bluepor.ns.com", 
+        "fuzzer": "subdomain", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 0
+    }
+]

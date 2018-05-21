@@ -1,0 +1,128 @@
+[
+    {
+        "dns-a": [
+            "147.32.3.202"
+        ], 
+        "dns-mx": [
+            "mailgw10.cvut.cz", 
+            "mailgw20.cvut.cz"
+        ], 
+        "dns-ns": [
+            "ns.cvut.cz", 
+            "nss.cvut.cz"
+        ], 
+        "domain-name": "cvut.cz", 
+        "fuzzer": "original*", 
+        "geoip-country": "Czech Republic", 
+        "ssdeep-score": 93
+    }, 
+    {
+        "dns-a": [
+            "217.198.116.188"
+        ], 
+        "dns-mx": [
+            "posta.lif.cz"
+        ], 
+        "dns-ns": [
+            "ns1.regzone.cz", 
+            "ns1.regzone.de", 
+            "ns1.regzone.info"
+        ], 
+        "domain-name": "svut.cz", 
+        "fuzzer": "bitsquatting", 
+        "geoip-country": "Czech Republic", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "147.229.2.90"
+        ], 
+        "dns-mx": [
+            "mx.vutbr.cz"
+        ], 
+        "dns-ns": [
+            "pipit.cis.vutbr.cz", 
+            "rhino.cis.vutbr.cz"
+        ], 
+        "domain-name": "vut.cz", 
+        "fuzzer": "omission", 
+        "geoip-country": "Czech Republic", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "192.185.48.214"
+        ], 
+        "dns-mx": [
+            "mail.cut.cz"
+        ], 
+        "dns-ns": [
+            "ns8263.hostgator.com", 
+            "ns8264.hostgator.com"
+        ], 
+        "domain-name": "cut.cz", 
+        "fuzzer": "omission"
+    }, 
+    {
+        "dns-a": [
+            "81.2.194.176"
+        ], 
+        "dns-mx": [
+            "mxavas.forpsi.com"
+        ], 
+        "dns-ns": [
+            "ns.forpsi.cz", 
+            "ns.forpsi.it", 
+            "ns.forpsi.net"
+        ], 
+        "domain-name": "cvt.cz", 
+        "fuzzer": "omission", 
+        "geoip-country": "Czech Republic", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "178.238.37.163"
+        ], 
+        "dns-aaaa": [
+            "2a01:430:13::163"
+        ], 
+        "dns-mx": [
+            "mx8.onebit.cz", 
+            "mx8.onebit.eu", 
+            "mx8.onebit.org"
+        ], 
+        "dns-ns": [
+            "ns.onebit.cz", 
+            "ns.onebit.eu", 
+            "ns.onebit.org"
+        ], 
+        "domain-name": "cvu.cz", 
+        "fuzzer": "omission"
+    }, 
+    {
+        "dns-a": [
+            "88.86.120.44"
+        ], 
+        "domain-name": "cv.ut.cz", 
+        "fuzzer": "subdomain", 
+        "geoip-country": "Czech Republic"
+    }, 
+    {
+        "dns-a": [
+            "80.79.25.16"
+        ], 
+        "dns-mx": [
+            "mx-1.cvtu.cz", 
+            "relay.cvtu.cz"
+        ], 
+        "dns-ns": [
+            "ns.axfone.cz", 
+            "ns.axfone.eu", 
+            "ns.axfone.sk"
+        ], 
+        "domain-name": "cvtu.cz", 
+        "fuzzer": "transposition", 
+        "geoip-country": "Czech Republic"
+    }
+]

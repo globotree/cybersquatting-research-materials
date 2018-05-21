@@ -1,0 +1,47 @@
+[
+    {
+        "dns-a": [
+            "193.62.193.83"
+        ], 
+        "dns-mx": [
+            "mailstore1.secureserver.net", 
+            "smtp.secureserver.net"
+        ], 
+        "dns-ns": [
+            "ns-1133.awsdns-13.org", 
+            "ns-1707.awsdns-21.co.uk", 
+            "ns-348.awsdns-43.com", 
+            "ns-813.awsdns-37.net"
+        ], 
+        "domain-name": "europepmc.org", 
+        "fuzzer": "original*", 
+        "geoip-country": "United Kingdom", 
+        "ssdeep-score": 88
+    }, 
+    {
+        "dns-a": [
+            "72.52.4.122"
+        ], 
+        "dns-mx": [
+            "localhost"
+        ], 
+        "dns-ns": [
+            "ns1.sedoparking.com", 
+            "ns2.sedoparking.com"
+        ], 
+        "domain-name": "europep.mc.org", 
+        "fuzzer": "subdomain", 
+        "geoip-country": "United States", 
+        "mx-spy": true
+    }, 
+    {
+        "dns-a": [
+            "34.216.49.207", 
+            "52.43.35.212", 
+            "54.186.0.231"
+        ], 
+        "domain-name": "europepm.c.org", 
+        "fuzzer": "subdomain", 
+        "geoip-country": "United States"
+    }
+]

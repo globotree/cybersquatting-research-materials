@@ -1,0 +1,43 @@
+[
+    {
+        "dns-a": [
+            "147.237.76.106"
+        ], 
+        "dns-mx": [
+            "mail.mfa.gov.il"
+        ], 
+        "dns-ns": [
+            "asia3.akam.net", 
+            "asia4.akam.net", 
+            "dns.gov.il", 
+            "dns3.gov.il", 
+            "eur2.akam.net", 
+            "eur6.akam.net", 
+            "ns1-11.akam.net", 
+            "ns1-69.akam.net", 
+            "use4.akam.net", 
+            "usw2.akam.net"
+        ], 
+        "domain-name": "mfa.gov.il", 
+        "fuzzer": "original*", 
+        "geoip-country": "Israel", 
+        "ssdeep-score": 99
+    }, 
+    {
+        "dns-a": [
+            "147.237.1.63"
+        ], 
+        "domain-name": "mda.gov.il", 
+        "fuzzer": "bitsquatting", 
+        "geoip-country": "Israel", 
+        "ssdeep-score": 99
+    }, 
+    {
+        "dns-a": [
+            "147.237.0.22"
+        ], 
+        "domain-name": "mra.gov.il", 
+        "fuzzer": "replacement", 
+        "geoip-country": "Israel"
+    }
+]

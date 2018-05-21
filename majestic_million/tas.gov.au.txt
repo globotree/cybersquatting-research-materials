@@ -1,0 +1,49 @@
+[
+    {
+        "dns-a": [
+            "147.109.249.169"
+        ], 
+        "dns-mx": [
+            "mx001.mgs.nettas.com"
+        ], 
+        "dns-ns": [
+            "ns1.tas.gov.au", 
+            "ns1.telstra.net", 
+            "ns2.on.net", 
+            "ns2.tas.gov.au", 
+            "ns3.tas.gov.au"
+        ], 
+        "domain-name": "tas.gov.au", 
+        "fuzzer": "original*", 
+        "geoip-country": "Australia", 
+        "ssdeep-score": 100
+    }, 
+    {
+        "dns-a": [
+            "202.129.142.177"
+        ], 
+        "dns-mx": [
+            "mx.netregistry.net", 
+            "mx4.netregistry.net"
+        ], 
+        "dns-ns": [
+            "ns0.tss.gov.au", 
+            "ns1.tss.gov.au", 
+            "ns2.tss.gov.au", 
+            "ns3.tss.gov.au"
+        ], 
+        "domain-name": "tss.gov.au", 
+        "fuzzer": "replacement", 
+        "geoip-country": "Australia"
+    }, 
+    {
+        "dns-ns": [
+            "w.au", 
+            "x.au", 
+            "y.au", 
+            "z.au"
+        ], 
+        "domain-name": "tas.au", 
+        "fuzzer": "various"
+    }
+]

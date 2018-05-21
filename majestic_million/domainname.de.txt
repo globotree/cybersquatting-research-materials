@@ -1,0 +1,215 @@
+[
+    {
+        "dns-a": [
+            "176.9.128.19"
+        ], 
+        "dns-mx": [
+            "mail.domainname.de"
+        ], 
+        "dns-ns": [
+            "dns1.domainname.de", 
+            "dns2.domainname.de"
+        ], 
+        "domain-name": "domainname.de", 
+        "fuzzer": "original*", 
+        "geoip-country": "Germany", 
+        "ssdeep-score": 99
+    }, 
+    {
+        "dns-a": [
+            "95.130.17.36"
+        ], 
+        "dns-mx": [
+            "mail.domainnamen.de"
+        ], 
+        "dns-ns": [
+            "dns.dns1.de", 
+            "dns.dns2.de", 
+            "dns.dns3.de"
+        ], 
+        "domain-name": "domainnamen.de", 
+        "fuzzer": "addition", 
+        "geoip-country": "Germany", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "185.53.178.6"
+        ], 
+        "dns-mx": [
+            "mail.h-email.net"
+        ], 
+        "dns-ns": [
+            "ns1.parkingcrew.net", 
+            "ns2.parkingcrew.net"
+        ], 
+        "domain-name": "domainnames.de", 
+        "fuzzer": "addition", 
+        "geoip-country": "Germany", 
+        "mx-spy": true, 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "212.162.56.253"
+        ], 
+        "dns-mx": [
+            "domeinname.de"
+        ], 
+        "dns-ns": [
+            "ns1.kcs-netz.de", 
+            "ns2.kcs-netz.de"
+        ], 
+        "domain-name": "domeinname.de", 
+        "fuzzer": "bitsquatting", 
+        "geoip-country": "Germany", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "213.27.147.166"
+        ], 
+        "domain-name": "domain-name.de", 
+        "fuzzer": "hyphenation", 
+        "geoip-country": "Spain", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "176.9.131.126"
+        ], 
+        "dns-ns": [
+            "ns1.redirectdom.com", 
+            "ns2.redirectdom.com"
+        ], 
+        "domain-name": "domainnam.de", 
+        "fuzzer": "omission", 
+        "geoip-country": "Germany", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "212.162.56.253"
+        ], 
+        "dns-mx": [
+            "domainnme.de"
+        ], 
+        "dns-ns": [
+            "ns1.kcs-netz.de", 
+            "ns2.kcs-netz.de"
+        ], 
+        "domain-name": "domainnme.de", 
+        "fuzzer": "omission", 
+        "geoip-country": "Germany", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "78.47.59.169"
+        ], 
+        "dns-aaaa": [
+            "2a01:4f8:190:62f4::13"
+        ], 
+        "dns-mx": [
+            "mx.redirect.domainoffensive.de", 
+            "mxfallback.redirect.domainoffensive.de"
+        ], 
+        "dns-ns": [
+            "ns1.domainoffensive.de", 
+            "ns2.domainoffensive.de", 
+            "ns3.domainoffensive.de"
+        ], 
+        "domain-name": "domainame.de", 
+        "fuzzer": "omission", 
+        "geoip-country": "Germany", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "212.162.56.253"
+        ], 
+        "dns-mx": [
+            "doainname.de"
+        ], 
+        "dns-ns": [
+            "ns1.kcs-netz.de", 
+            "ns2.kcs-netz.de"
+        ], 
+        "domain-name": "doainname.de", 
+        "fuzzer": "omission", 
+        "geoip-country": "Germany", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "212.162.56.253"
+        ], 
+        "dns-mx": [
+            "omainname.de"
+        ], 
+        "dns-ns": [
+            "ns1.kcs-netz.de", 
+            "ns2.kcs-netz.de"
+        ], 
+        "domain-name": "omainname.de", 
+        "fuzzer": "omission", 
+        "geoip-country": "Germany", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "212.162.56.253"
+        ], 
+        "dns-mx": [
+            "domainnae.de"
+        ], 
+        "domain-name": "domainnae.de", 
+        "fuzzer": "omission", 
+        "geoip-country": "Germany", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "176.9.131.126"
+        ], 
+        "dns-ns": [
+            "ns1.redirectdom.com", 
+            "ns2.redirectdom.com"
+        ], 
+        "domain-name": "domainnname.de", 
+        "fuzzer": "repetition", 
+        "geoip-country": "Germany", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "212.162.56.253"
+        ], 
+        "domain-name": "d.omainname.de", 
+        "fuzzer": "subdomain", 
+        "geoip-country": "Germany", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "212.162.15.211"
+        ], 
+        "domain-name": "doma.inname.de", 
+        "fuzzer": "subdomain", 
+        "geoip-country": "Germany", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "176.9.131.126"
+        ], 
+        "dns-ns": [
+            "ns1.redirectdom.com", 
+            "ns2.redirectdom.com"
+        ], 
+        "domain-name": "doaminname.de", 
+        "fuzzer": "transposition", 
+        "geoip-country": "Germany", 
+        "ssdeep-score": 0
+    }
+]

@@ -1,0 +1,146 @@
+[
+    {
+        "dns-a": [
+            "216.213.99.150"
+        ], 
+        "dns-mx": [
+            "mail.chelsea.net"
+        ], 
+        "dns-ns": [
+            "ns1.hover.com", 
+            "ns2.hover.com"
+        ], 
+        "domain-name": "fastcgi.com", 
+        "fuzzer": "original*", 
+        "geoip-country": "United States"
+    }, 
+    {
+        "dns-a": [
+            "104.31.74.91", 
+            "104.31.75.91"
+        ], 
+        "dns-aaaa": [
+            "2400:cb00:2048:1::681f:4a5b", 
+            "2400:cb00:2048:1::681f:4b5b"
+        ], 
+        "dns-ns": [
+            "aiden.ns.cloudflare.com", 
+            "mia.ns.cloudflare.com"
+        ], 
+        "domain-name": "fastcgip.com", 
+        "fuzzer": "addition", 
+        "geoip-country": "United States"
+    }, 
+    {
+        "dns-a": [
+            "50.63.202.38"
+        ], 
+        "dns-mx": [
+            "mailstore1.secureserver.net", 
+            "smtp.secureserver.net"
+        ], 
+        "dns-ns": [
+            "ns73.domaincontrol.com", 
+            "ns74.domaincontrol.com"
+        ], 
+        "domain-name": "fastcfi.com", 
+        "fuzzer": "bitsquatting", 
+        "geoip-country": "United States"
+    }, 
+    {
+        "dns-a": [
+            "43.241.73.166"
+        ], 
+        "dns-mx": [
+            "mail.fastgi.com"
+        ], 
+        "dns-ns": [
+            "ns171.pointdnshere.com", 
+            "ns172.pointdnshere.com"
+        ], 
+        "domain-name": "fastgi.com", 
+        "fuzzer": "omission", 
+        "geoip-country": "Hong Kong"
+    }, 
+    {
+        "dns-a": [
+            "184.168.221.96"
+        ], 
+        "dns-mx": [
+            "0", 
+            "10"
+        ], 
+        "dns-ns": [
+            "ns01.cashparking.com", 
+            "ns02.cashparking.com"
+        ], 
+        "domain-name": "astcgi.com", 
+        "fuzzer": "omission", 
+        "geoip-country": "United States", 
+        "mx-spy": true
+    }, 
+    {
+        "dns-a": [
+            "60.205.34.138"
+        ], 
+        "dns-mx": [
+            "mxdomain.qq.com"
+        ], 
+        "dns-ns": [
+            "ns1.alidns.com", 
+            "ns2.alidns.com"
+        ], 
+        "domain-name": "fastcg.com", 
+        "fuzzer": "omission", 
+        "geoip-country": "China"
+    }, 
+    {
+        "dns-a": [
+            "209.99.64.25"
+        ], 
+        "dns-ns": [
+            "ns11025.ztomy.com", 
+            "ns21025.ztomy.com"
+        ], 
+        "domain-name": "fastci.com", 
+        "fuzzer": "omission", 
+        "geoip-country": "United States"
+    }, 
+    {
+        "dns-a": [
+            "203.81.30.219"
+        ], 
+        "dns-ns": [
+            "dns27.hichina.com", 
+            "dns28.hichina.com"
+        ], 
+        "domain-name": "fastcti.com", 
+        "fuzzer": "replacement", 
+        "geoip-country": "China"
+    }, 
+    {
+        "dns-a": [
+            "184.168.221.96"
+        ], 
+        "dns-mx": [
+            "0", 
+            "10"
+        ], 
+        "dns-ns": [
+            "ns01.cashparking.com", 
+            "ns02.cashparking.com"
+        ], 
+        "domain-name": "f.astcgi.com", 
+        "fuzzer": "subdomain", 
+        "geoip-country": "United States", 
+        "mx-spy": true
+    }, 
+    {
+        "dns-a": [
+            "208.91.197.91"
+        ], 
+        "domain-name": "fa.stcgi.com", 
+        "fuzzer": "subdomain", 
+        "geoip-country": "Virgin Islands"
+    }
+]

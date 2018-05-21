@@ -1,0 +1,75 @@
+[
+    {
+        "dns-mx": [
+            "mx1.icoremail.net"
+        ], 
+        "dns-ns": [
+            "cns1.zdnscloud.net", 
+            "dns1.zdnscloud.info", 
+            "ins1.zdnscloud.com", 
+            "vns1.zdnscloud.biz"
+        ], 
+        "domain-name": "chinacourt.org", 
+        "fuzzer": "original*"
+    }, 
+    {
+        "dns-a": [
+            "172.255.216.147"
+        ], 
+        "dns-ns": [
+            "ns5.dnsdun.com", 
+            "ns5.dnsdun.net"
+        ], 
+        "domain-name": "chinacourts.org", 
+        "fuzzer": "addition", 
+        "geoip-country": "United States"
+    }, 
+    {
+        "dns-a": [
+            "141.8.224.169"
+        ], 
+        "dns-ns": [
+            "ns27.rookdns.com", 
+            "ns28.rookdns.com"
+        ], 
+        "domain-name": "china.court.org", 
+        "fuzzer": "subdomain", 
+        "geoip-country": "Switzerland"
+    }, 
+    {
+        "dns-a": [
+            "141.8.224.93"
+        ], 
+        "dns-ns": [
+            "ns7.rookdns.com", 
+            "ns8.rookdns.com"
+        ], 
+        "domain-name": "chinac.ourt.org", 
+        "fuzzer": "subdomain", 
+        "geoip-country": "Switzerland"
+    }, 
+    {
+        "dns-a": [
+            "72.52.4.120"
+        ], 
+        "dns-mx": [
+            "localhost"
+        ], 
+        "dns-ns": [
+            "ns1.sedoparking.com", 
+            "ns2.sedoparking.com"
+        ], 
+        "domain-name": "chinaco.urt.org", 
+        "fuzzer": "subdomain", 
+        "geoip-country": "United States", 
+        "mx-spy": true
+    }, 
+    {
+        "dns-a": [
+            "98.124.199.67"
+        ], 
+        "domain-name": "chinacour.t.org", 
+        "fuzzer": "subdomain", 
+        "geoip-country": "United States"
+    }
+]

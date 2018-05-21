@@ -1,0 +1,36 @@
+[
+    {
+        "dns-ns": [
+            "ns-1373.awsdns-43.org", 
+            "ns-1757.awsdns-27.co.uk", 
+            "ns-322.awsdns-40.com", 
+            "ns-649.awsdns-17.net"
+        ], 
+        "domain-name": "els-cdn.com", 
+        "fuzzer": "original*"
+    }, 
+    {
+        "dns-a": [
+            "72.52.4.119"
+        ], 
+        "dns-mx": [
+            "localhost"
+        ], 
+        "dns-ns": [
+            "ns1.sedoparking.com", 
+            "ns2.sedoparking.com"
+        ], 
+        "domain-name": "elscdn.com", 
+        "fuzzer": "omission", 
+        "geoip-country": "United States", 
+        "mx-spy": true
+    }, 
+    {
+        "dns-ns": [
+            "dns10.hichina.com", 
+            "dns9.hichina.com"
+        ], 
+        "domain-name": "es-cdn.com", 
+        "fuzzer": "omission"
+    }
+]

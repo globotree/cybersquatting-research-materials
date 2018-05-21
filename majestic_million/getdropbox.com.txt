@@ -1,0 +1,47 @@
+[
+    {
+        "dns-a": [
+            "162.125.248.2"
+        ], 
+        "dns-mx": [
+            "alt1.aspmx.l.google.com", 
+            "alt2.aspmx.l.google.com", 
+            "aspmx.l.google.com"
+        ], 
+        "dns-ns": [
+            "ns-1100.awsdns-09.org", 
+            "ns-154.awsdns-19.com", 
+            "ns-1846.awsdns-38.co.uk", 
+            "ns-930.awsdns-52.net"
+        ], 
+        "domain-name": "getdropbox.com", 
+        "fuzzer": "original*", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 74
+    }, 
+    {
+        "dns-a": [
+            "95.211.219.65"
+        ], 
+        "domain-name": "ge.tdropbox.com", 
+        "fuzzer": "subdomain", 
+        "geoip-country": "Netherlands"
+    }, 
+    {
+        "dns-a": [
+            "184.154.126.180"
+        ], 
+        "domain-name": "getd.ropbox.com", 
+        "fuzzer": "subdomain", 
+        "geoip-country": "United States"
+    }, 
+    {
+        "dns-a": [
+            "107.152.26.197", 
+            "107.152.27.197"
+        ], 
+        "domain-name": "getdrop.box.com", 
+        "fuzzer": "subdomain", 
+        "geoip-country": "United States"
+    }
+]

@@ -1,0 +1,38 @@
+[
+    {
+        "dns-a": [
+            "152.152.31.120"
+        ], 
+        "dns-mx": [
+            "sm01be.nc3a.nato.int", 
+            "sm01nl.nc3a.nato.int"
+        ], 
+        "dns-ns": [
+            "ns.saclantc.nato.int", 
+            "ns1.cs.ucl.ac.uk", 
+            "ns1.drenet.dnd.ca", 
+            "ns1.nra.nato.int", 
+            "ns2.nra.nato.int"
+        ], 
+        "domain-name": "nato.int", 
+        "fuzzer": "original*", 
+        "geoip-country": "Belgium", 
+        "ssdeep-score": 100
+    }, 
+    {
+        "dns-a": [
+            "142.176.62.124"
+        ], 
+        "dns-mx": [
+            "nafo-int.mail.protection.outlook.com"
+        ], 
+        "dns-ns": [
+            "dns-nb00.aliant.net", 
+            "dns-nb01.aliant.net", 
+            "dns-ns00.aliant.net"
+        ], 
+        "domain-name": "nafo.int", 
+        "fuzzer": "replacement", 
+        "geoip-country": "Canada"
+    }
+]

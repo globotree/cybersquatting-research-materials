@@ -1,0 +1,733 @@
+[
+    {
+        "dns-a": [
+            "195.88.54.16", 
+            "195.88.55.16"
+        ], 
+        "dns-aaaa": [
+            "2001:67c:21e0::16"
+        ], 
+        "dns-mx": [
+            "ALT1.ASPMX.L.GOOGLE.COM", 
+            "ALT2.ASPMX.L.GOOGLE.COM", 
+            "ALT3.ASPMX.L.GOOGLE.COM", 
+            "ALT4.ASPMX.L.GOOGLE.COM", 
+            "ASPMX.L.GOOGLE.COM"
+        ], 
+        "dns-ns": [
+            "ns-bar.linpro.net", 
+            "ns-foo.linpro.net", 
+            "ns-zoo.linpro.net"
+        ], 
+        "domain-name": "vg.no", 
+        "fuzzer": "original*", 
+        "geoip-country": "Norway", 
+        "ssdeep-score": 100
+    }, 
+    {
+        "dns-mx": [
+            "mx.webhuset.no"
+        ], 
+        "dns-ns": [
+            "ns.datacenter.no", 
+            "ns2.datacenter.no"
+        ], 
+        "domain-name": "vga.no", 
+        "fuzzer": "addition"
+    }, 
+    {
+        "dns-a": [
+            "195.88.54.30"
+        ], 
+        "dns-mx": [
+            "mail.vgnett.no"
+        ], 
+        "dns-ns": [
+            "ns1.hyp.net", 
+            "ns2.hyp.net", 
+            "ns3.hyp.net"
+        ], 
+        "domain-name": "vgb.no", 
+        "fuzzer": "addition", 
+        "geoip-country": "Norway", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "195.88.54.95", 
+            "195.88.55.95"
+        ], 
+        "dns-aaaa": [
+            "2001:67c:21e0::c"
+        ], 
+        "dns-ns": [
+            "ns-bar.linpro.net", 
+            "ns-foo.linpro.net", 
+            "ns-zoo.linpro.net"
+        ], 
+        "domain-name": "vgc.no", 
+        "fuzzer": "addition", 
+        "geoip-country": "Norway", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "195.88.55.59"
+        ], 
+        "dns-aaaa": [
+            "2001:67c:21e0::59"
+        ], 
+        "dns-ns": [
+            "ns-bar.linpro.net", 
+            "ns-foo.linpro.net", 
+            "ns-zoo.linpro.net"
+        ], 
+        "domain-name": "vgd.no", 
+        "fuzzer": "addition", 
+        "geoip-country": "Norway", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "104.27.164.127", 
+            "104.27.165.127"
+        ], 
+        "dns-aaaa": [
+            "2400:cb00:2048:1::681b:a47f", 
+            "2400:cb00:2048:1::681b:a57f"
+        ], 
+        "dns-ns": [
+            "fay.ns.cloudflare.com", 
+            "ivan.ns.cloudflare.com"
+        ], 
+        "domain-name": "vge.no", 
+        "fuzzer": "addition", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "89.221.243.251"
+        ], 
+        "dns-mx": [
+            "vgf.no"
+        ], 
+        "domain-name": "vgf.no", 
+        "fuzzer": "addition", 
+        "geoip-country": "Norway", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "87.118.13.230"
+        ], 
+        "dns-mx": [
+            "mx0.dataguard.no", 
+            "mx1.dataguard.no"
+        ], 
+        "dns-ns": [
+            "eject.dataguard.no", 
+            "josva.dataguard.no", 
+            "lin.dataguard.no"
+        ], 
+        "domain-name": "vgg.no", 
+        "fuzzer": "addition", 
+        "geoip-country": "Norway", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "194.63.248.47"
+        ], 
+        "dns-mx": [
+            "mx.domeneshop.no"
+        ], 
+        "dns-ns": [
+            "ns1.hyp.net", 
+            "ns2.hyp.net", 
+            "ns3.hyp.net"
+        ], 
+        "domain-name": "vgh.no", 
+        "fuzzer": "addition", 
+        "geoip-country": "Norway", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "194.63.248.52"
+        ], 
+        "dns-aaaa": [
+            "2a01:5b40:0:248::52"
+        ], 
+        "dns-mx": [
+            "vgi-no.mail.protection.outlook.com"
+        ], 
+        "dns-ns": [
+            "ns1.hyp.net", 
+            "ns2.hyp.net", 
+            "ns3.hyp.net"
+        ], 
+        "domain-name": "vgi.no", 
+        "fuzzer": "addition", 
+        "geoip-country": "Norway", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "37.60.241.86"
+        ], 
+        "dns-mx": [
+            "filter.mittkontor.no", 
+            "filter3.mittkontor.no"
+        ], 
+        "domain-name": "vgk.no", 
+        "fuzzer": "addition", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "217.170.192.97"
+        ], 
+        "dns-mx": [
+            "mail.vgl.no"
+        ], 
+        "dns-ns": [
+            "ns1.neoname.net", 
+            "ns2.neoname.net"
+        ], 
+        "domain-name": "vgl.no", 
+        "fuzzer": "addition", 
+        "geoip-country": "Norway", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-mx": [
+            "mx1.pub.mailpod6-cph3.one.com", 
+            "mx2.pub.mailpod6-cph3.one.com", 
+            "mx3.pub.mailpod6-cph3.one.com"
+        ], 
+        "dns-ns": [
+            "ns01.one.com", 
+            "ns02.one.com"
+        ], 
+        "domain-name": "vgm.no", 
+        "fuzzer": "addition"
+    }, 
+    {
+        "dns-a": [
+            "185.53.178.8"
+        ], 
+        "dns-ns": [
+            "ns1.parkingcrew.net", 
+            "ns2.parkingcrew.net"
+        ], 
+        "domain-name": "vgn.no", 
+        "fuzzer": "addition", 
+        "geoip-country": "Germany", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "217.170.192.97"
+        ], 
+        "dns-mx": [
+            "mail.vgo.no"
+        ], 
+        "dns-ns": [
+            "ns1.neoname.net", 
+            "ns2.neoname.net"
+        ], 
+        "domain-name": "vgo.no", 
+        "fuzzer": "addition", 
+        "geoip-country": "Norway", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "185.53.178.6"
+        ], 
+        "dns-ns": [
+            "ns1.parkingcrew.net", 
+            "ns2.parkingcrew.net"
+        ], 
+        "domain-name": "vgp.no", 
+        "fuzzer": "addition", 
+        "geoip-country": "Germany", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "91.207.158.229"
+        ], 
+        "dns-mx": [
+            "vgr-no.mail.protection.outlook.com"
+        ], 
+        "dns-ns": [
+            "ns.fastname.no", 
+            "ns2.fastname.no"
+        ], 
+        "domain-name": "vgr.no", 
+        "fuzzer": "addition", 
+        "geoip-country": "Norway", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-ns": [
+            "x.nic.no", 
+            "y.nic.no", 
+            "z.nic.no"
+        ], 
+        "domain-name": "vgs.no", 
+        "fuzzer": "addition"
+    }, 
+    {
+        "dns-a": [
+            "185.53.178.8"
+        ], 
+        "dns-ns": [
+            "ns1.parkingcrew.net", 
+            "ns2.parkingcrew.net"
+        ], 
+        "domain-name": "vgt.no", 
+        "fuzzer": "addition", 
+        "geoip-country": "Germany", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "194.63.248.47"
+        ], 
+        "dns-ns": [
+            "ns1.hyp.net", 
+            "ns2.hyp.net", 
+            "ns3.hyp.net"
+        ], 
+        "domain-name": "vgu.no", 
+        "fuzzer": "addition", 
+        "geoip-country": "Norway", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-ns": [
+            "ns1.hyp.net", 
+            "ns2.hyp.net", 
+            "ns3.hyp.net"
+        ], 
+        "domain-name": "vgv.no", 
+        "fuzzer": "addition"
+    }, 
+    {
+        "dns-a": [
+            "5.249.226.75"
+        ], 
+        "dns-ns": [
+            "ns1.uniweb.no", 
+            "ns3.uniweb.no"
+        ], 
+        "domain-name": "vgw.no", 
+        "fuzzer": "addition", 
+        "geoip-country": "Norway", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "185.53.178.6"
+        ], 
+        "dns-ns": [
+            "ns1.parkingcrew.net", 
+            "ns2.parkingcrew.net"
+        ], 
+        "domain-name": "vgx.no", 
+        "fuzzer": "addition", 
+        "geoip-country": "Germany", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "185.53.178.8"
+        ], 
+        "dns-ns": [
+            "ns1.parkingcrew.net", 
+            "ns2.parkingcrew.net"
+        ], 
+        "domain-name": "vgy.no", 
+        "fuzzer": "addition", 
+        "geoip-country": "Germany", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "194.63.248.52"
+        ], 
+        "dns-aaaa": [
+            "2a01:5b40:0:248::52"
+        ], 
+        "dns-mx": [
+            "in.hes.trendmicro.eu"
+        ], 
+        "dns-ns": [
+            "ns1.hyp.net", 
+            "ns2.hyp.net", 
+            "ns3.hyp.net"
+        ], 
+        "domain-name": "wg.no", 
+        "fuzzer": "bitsquatting", 
+        "geoip-country": "Norway", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "78.47.142.179"
+        ], 
+        "dns-ns": [
+            "ns1.hyp.net", 
+            "ns2.hyp.net", 
+            "ns3.hyp.net"
+        ], 
+        "domain-name": "tg.no", 
+        "fuzzer": "bitsquatting", 
+        "geoip-country": "Germany", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "35.197.193.177"
+        ], 
+        "dns-mx": [
+            "rg-no.mail.eo.outlook.com"
+        ], 
+        "dns-ns": [
+            "a.ns.syse.no", 
+            "b.ns.syse.no", 
+            "c.ns.syse.no", 
+            "d.ns.syse.no"
+        ], 
+        "domain-name": "rg.no", 
+        "fuzzer": "bitsquatting", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "194.9.95.197"
+        ], 
+        "dns-mx": [
+            "fg-no.mail.protection.outlook.com"
+        ], 
+        "dns-ns": [
+            "ns1.loopia.se", 
+            "ns2.loopia.se"
+        ], 
+        "domain-name": "fg.no", 
+        "fuzzer": "bitsquatting", 
+        "geoip-country": "Sweden", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "185.53.179.7"
+        ], 
+        "dns-ns": [
+            "ns1.parkingcrew.net", 
+            "ns2.parkingcrew.net"
+        ], 
+        "domain-name": "6g.no", 
+        "fuzzer": "bitsquatting", 
+        "geoip-country": "Germany", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-ns": [
+            "x.nic.no", 
+            "y.nic.no", 
+            "z.nic.no"
+        ], 
+        "domain-name": "vf.no", 
+        "fuzzer": "bitsquatting"
+    }, 
+    {
+        "dns-a": [
+            "217.170.198.100"
+        ], 
+        "dns-mx": [
+            "mx1.stwcp.net"
+        ], 
+        "dns-ns": [
+            "ns1.stwcp.net", 
+            "ns2.stwcp.net", 
+            "ns3.stwcp.net"
+        ], 
+        "domain-name": "ve.no", 
+        "fuzzer": "bitsquatting", 
+        "geoip-country": "Norway", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "72.52.4.120"
+        ], 
+        "dns-mx": [
+            "localhost"
+        ], 
+        "dns-ns": [
+            "ns1.sedoparking.com", 
+            "ns2.sedoparking.com"
+        ], 
+        "domain-name": "vc.no", 
+        "fuzzer": "bitsquatting", 
+        "geoip-country": "United States", 
+        "mx-spy": true, 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "217.116.85.101"
+        ], 
+        "dns-mx": [
+            "forward1.registrar.no", 
+            "forward2.registrar.no"
+        ], 
+        "dns-ns": [
+            "ns1.registrar.no", 
+            "ns2.registrar.no", 
+            "ns3.registrar.no"
+        ], 
+        "domain-name": "vo.no", 
+        "fuzzer": "bitsquatting", 
+        "geoip-country": "Norway"
+    }, 
+    {
+        "dns-a": [
+            "194.63.248.52"
+        ], 
+        "dns-aaaa": [
+            "2a01:5b40:0:248::52"
+        ], 
+        "dns-mx": [
+            "fw.moller.no", 
+            "viruswall.moller.no"
+        ], 
+        "dns-ns": [
+            "ns1.hyp.net", 
+            "ns2.hyp.net", 
+            "ns3.hyp.net"
+        ], 
+        "domain-name": "vw.no", 
+        "fuzzer": "bitsquatting", 
+        "geoip-country": "Norway", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "212.125.204.196"
+        ], 
+        "dns-ns": [
+            "ns5.agdernett.no", 
+            "ns7.agdernett.no"
+        ], 
+        "domain-name": "vq.no", 
+        "fuzzer": "homoglyph", 
+        "geoip-country": "Norway", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "185.53.178.7"
+        ], 
+        "dns-ns": [
+            "ns1.parkingcrew.net", 
+            "ns2.parkingcrew.net"
+        ], 
+        "domain-name": "v-g.no", 
+        "fuzzer": "hyphenation", 
+        "geoip-country": "Germany", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "92.220.111.197"
+        ], 
+        "dns-mx": [
+            "vvg-no.mail.protection.outlook.com"
+        ], 
+        "dns-ns": [
+            "ns1.itl.no", 
+            "ns2.itl.no"
+        ], 
+        "domain-name": "vvg.no", 
+        "fuzzer": "repetition", 
+        "geoip-country": "Norway", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "81.175.18.72"
+        ], 
+        "dns-mx": [
+            "vb-no.mail.protection.outlook.com"
+        ], 
+        "dns-ns": [
+            "ns1.omnicom.no", 
+            "ns3.omnicom.no", 
+            "ns4.omnicom.no"
+        ], 
+        "domain-name": "vb.no", 
+        "fuzzer": "replacement", 
+        "geoip-country": "Norway", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "79.161.108.4"
+        ], 
+        "dns-mx": [
+            "mailfilter01.hatteland.com", 
+            "mailfilter02.hatteland.com", 
+            "mailfilter03.hatteland.com"
+        ], 
+        "domain-name": "bg.no", 
+        "fuzzer": "replacement"
+    }, 
+    {
+        "dns-a": [
+            "89.221.243.251"
+        ], 
+        "dns-mx": [
+            "vh.no"
+        ], 
+        "dns-ns": [
+            "ns1.unifish.net", 
+            "ns2.unifish.net"
+        ], 
+        "domain-name": "vh.no", 
+        "fuzzer": "replacement"
+    }, 
+    {
+        "dns-a": [
+            "109.247.192.143"
+        ], 
+        "dns-mx": [
+            "mx1-eu1.ppe-hosted.com"
+        ], 
+        "dns-ns": [
+            "ns1.hyp.net", 
+            "ns2.hyp.net", 
+            "ns3.hyp.net"
+        ], 
+        "domain-name": "cg.no", 
+        "fuzzer": "replacement"
+    }, 
+    {
+        "dns-a": [
+            "217.116.85.100"
+        ], 
+        "dns-mx": [
+            "forward1.registrar.no", 
+            "forward2.registrar.no"
+        ], 
+        "dns-ns": [
+            "ns1.registrar.no", 
+            "ns2.registrar.no", 
+            "ns3.registrar.no"
+        ], 
+        "domain-name": "gg.no", 
+        "fuzzer": "replacement", 
+        "geoip-country": "Norway"
+    }, 
+    {
+        "dns-a": [
+            "198.185.159.144", 
+            "198.185.159.145", 
+            "198.49.23.144", 
+            "198.49.23.145"
+        ], 
+        "dns-mx": [
+            "vt-no.mail.protection.outlook.com"
+        ], 
+        "dns-ns": [
+            "ns.fastname.no", 
+            "ns2.fastname.no"
+        ], 
+        "domain-name": "vt.no", 
+        "fuzzer": "replacement", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-mx": [
+            "mx.domeneshop.no"
+        ], 
+        "dns-ns": [
+            "ns1.hyp.net", 
+            "ns2.hyp.net", 
+            "ns3.hyp.net"
+        ], 
+        "domain-name": "vv.no", 
+        "fuzzer": "replacement"
+    }, 
+    {
+        "dns-a": [
+            "87.118.13.218"
+        ], 
+        "dns-mx": [
+            "mx0.dataguard.no", 
+            "mx1.dataguard.no"
+        ], 
+        "dns-ns": [
+            "eject.dataguard.no", 
+            "josva.dataguard.no", 
+            "lin.dataguard.no"
+        ], 
+        "domain-name": "vy.no", 
+        "fuzzer": "replacement"
+    }, 
+    {
+        "dns-a": [
+            "194.63.248.70"
+        ], 
+        "dns-aaaa": [
+            "2a01:5b40:0:4070::1"
+        ], 
+        "dns-mx": [
+            "vz-no.mail.protection.outlook.com"
+        ], 
+        "dns-ns": [
+            "ns1.hyp.net", 
+            "ns2.hyp.net", 
+            "ns3.hyp.net"
+        ], 
+        "domain-name": "vz.no", 
+        "fuzzer": "replacement", 
+        "geoip-country": "Norway", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "31.24.132.7"
+        ], 
+        "dns-mx": [
+            "mail.gv.no"
+        ], 
+        "dns-ns": [
+            "ns.ktv.no", 
+            "ns3.vktv.no"
+        ], 
+        "domain-name": "gv.no", 
+        "fuzzer": "transposition", 
+        "geoip-country": "Norway"
+    }, 
+    {
+        "dns-a": [
+            "185.53.179.6"
+        ], 
+        "dns-ns": [
+            "ns1.parkingcrew.net", 
+            "ns2.parkingcrew.net"
+        ], 
+        "domain-name": "vgno.no", 
+        "fuzzer": "various", 
+        "geoip-country": "Germany", 
+        "ssdeep-score": 0
+    }
+]

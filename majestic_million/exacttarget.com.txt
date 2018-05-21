@@ -1,0 +1,139 @@
+[
+    {
+        "dns-a": [
+            "68.232.203.119"
+        ], 
+        "dns-mx": [
+            "ALT1.ASPMX.L.GOOGLE.com", 
+            "ALT2.ASPMX.L.GOOGLE.com", 
+            "ALT3.ASPMX.L.GOOGLE.com", 
+            "ALT4.ASPMX.L.GOOGLE.com", 
+            "ASPMX.L.GOOGLE.com"
+        ], 
+        "dns-ns": [
+            "ns1.exacttarget.com", 
+            "ns2.exacttarget.com", 
+            "ns3.exacttarget.com", 
+            "ns4.exacttarget.com"
+        ], 
+        "domain-name": "exacttarget.com", 
+        "fuzzer": "original*", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 100
+    }, 
+    {
+        "dns-a": [
+            "34.196.13.28"
+        ], 
+        "dns-mx": [
+            "mail.happyisp.com"
+        ], 
+        "dns-ns": [
+            "ns1.pql.net", 
+            "ns2.pql.net", 
+            "ns3.tppns.com", 
+            "ns4.tppns.com"
+        ], 
+        "domain-name": "exacttargets.com", 
+        "fuzzer": "addition", 
+        "geoip-country": "United States", 
+        "mx-spy": true, 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "66.231.91.111"
+        ], 
+        "dns-mx": [
+            "localhost.exact-target.com"
+        ], 
+        "dns-ns": [
+            "ns1.exacttarget.com", 
+            "ns2.exacttarget.com"
+        ], 
+        "domain-name": "exact-target.com", 
+        "fuzzer": "hyphenation", 
+        "geoip-country": "United States", 
+        "mx-spy": true
+    }, 
+    {
+        "dns-a": [
+            "199.59.242.150"
+        ], 
+        "dns-mx": [
+            "mx76.m2bp.com", 
+            "mx76.mb1p.com"
+        ], 
+        "dns-ns": [
+            "ns1.bodis.com", 
+            "ns2.bodis.com"
+        ], 
+        "domain-name": "exattarget.com", 
+        "fuzzer": "omission", 
+        "geoip-country": "United States", 
+        "mx-spy": true, 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "78.41.204.26"
+        ], 
+        "dns-ns": [
+            "ns1.torresdns.com", 
+            "ns2.torresdns.com"
+        ], 
+        "domain-name": "xacttarget.com", 
+        "fuzzer": "omission", 
+        "geoip-country": "Netherlands", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "66.231.91.111"
+        ], 
+        "dns-mx": [
+            "localhost.exactarget.com"
+        ], 
+        "dns-ns": [
+            "ns1.exacttarget.com", 
+            "ns2.exacttarget.com"
+        ], 
+        "domain-name": "exactarget.com", 
+        "fuzzer": "omission", 
+        "geoip-country": "United States", 
+        "mx-spy": true, 
+        "ssdeep-score": 100
+    }, 
+    {
+        "dns-a": [
+            "78.41.204.26"
+        ], 
+        "domain-name": "e.xacttarget.com", 
+        "fuzzer": "subdomain", 
+        "geoip-country": "Netherlands", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "165.160.13.20", 
+            "165.160.15.20"
+        ], 
+        "domain-name": "exactt.arget.com", 
+        "fuzzer": "subdomain", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "69.172.201.153"
+        ], 
+        "dns-ns": [
+            "ns1.uniregistrymarket.link", 
+            "ns2.uniregistrymarket.link"
+        ], 
+        "domain-name": "exacttarg.et.com", 
+        "fuzzer": "subdomain", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 0
+    }
+]

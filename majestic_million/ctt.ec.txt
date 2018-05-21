@@ -1,0 +1,40 @@
+[
+    {
+        "dns-a": [
+            "45.55.102.36"
+        ], 
+        "dns-ns": [
+            "ns1.digitalocean.com", 
+            "ns2.digitalocean.com", 
+            "ns3.digitalocean.com"
+        ], 
+        "domain-name": "ctt.ec", 
+        "fuzzer": "original*", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 100
+    }, 
+    {
+        "dns-ns": [
+            "ns10a.attdns.net", 
+            "ns10b.attdns.net"
+        ], 
+        "domain-name": "att.ec", 
+        "fuzzer": "bitsquatting"
+    }, 
+    {
+        "dns-a": [
+            "184.95.43.162"
+        ], 
+        "dns-mx": [
+            "gtt.ec"
+        ], 
+        "dns-ns": [
+            "ns1.gtt.ec", 
+            "ns2.gtt.ec"
+        ], 
+        "domain-name": "gtt.ec", 
+        "fuzzer": "bitsquatting", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 0
+    }
+]

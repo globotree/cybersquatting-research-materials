@@ -1,0 +1,33 @@
+[
+    {
+        "dns-a": [
+            "133.3.250.46"
+        ], 
+        "dns-mx": [
+            "mx1.kyoto-u.ac.jp", 
+            "mx2.kyoto-u.ac.jp", 
+            "mx3.kyoto-u.ac.jp", 
+            "mx4.kyoto-u.ac.jp"
+        ], 
+        "dns-ns": [
+            "ns1.kuins.kyoto-u.ac.jp", 
+            "ns2.kuins.kyoto-u.ac.jp", 
+            "ns3.kuins.kyoto-u.ac.jp", 
+            "ns4.kuins.kyoto-u.ac.jp"
+        ], 
+        "domain-name": "kyoto-u.ac.jp", 
+        "fuzzer": "original*", 
+        "geoip-country": "Japan", 
+        "ssdeep-score": 100
+    }, 
+    {
+        "dns-ns": [
+            "ns1.kuins.kyoto-u.ac.jp", 
+            "ns2.kuins.kyoto-u.ac.jp", 
+            "ns3.kuins.kyoto-u.ac.jp", 
+            "ns4.kuins.kyoto-u.ac.jp"
+        ], 
+        "domain-name": "kyoto-u.jp", 
+        "fuzzer": "various"
+    }
+]

@@ -1,0 +1,41 @@
+[
+    {
+        "dns-a": [
+            "158.132.82.94"
+        ], 
+        "dns-mx": [
+            "esa1.polyu.c3s2.iphmx.com", 
+            "esa2.polyu.c3s2.iphmx.com", 
+            "esa3.polyu.c3s2.iphmx.com", 
+            "esa4.polyu.c3s2.iphmx.com"
+        ], 
+        "dns-ns": [
+            "ns1.gdnsdef.com", 
+            "ns3.polyu.edu.hk", 
+            "ns4.gdnsec.com", 
+            "ns7.gdnsec.com", 
+            "ns9.gdnsdef.com"
+        ], 
+        "domain-name": "polyu.edu.hk", 
+        "fuzzer": "original*", 
+        "geoip-country": "Hong Kong"
+    }, 
+    {
+        "dns-a": [
+            "158.132.14.108"
+        ], 
+        "dns-mx": [
+            "gwg1.polyu.edu.hk", 
+            "gwg2.polyu.edu.hk"
+        ], 
+        "dns-ns": [
+            "ns10.gdnsec.com", 
+            "ns11.gdnsec.com", 
+            "ns3.polyu.edu.hk", 
+            "ns6.gdnsdef.com", 
+            "ns8.gdnsdef.com"
+        ], 
+        "domain-name": "polyu.hk", 
+        "fuzzer": "various"
+    }
+]

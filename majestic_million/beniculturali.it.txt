@@ -1,0 +1,105 @@
+[
+    {
+        "dns-mx": [
+            "mx.beniculturali.it"
+        ], 
+        "dns-ns": [
+            "dns.it.net", 
+            "dns2.it.net"
+        ], 
+        "domain-name": "beniculturali.it", 
+        "fuzzer": "original*"
+    }, 
+    {
+        "dns-a": [
+            "62.149.128.151", 
+            "62.149.128.154", 
+            "62.149.128.157", 
+            "62.149.128.160", 
+            "62.149.128.163", 
+            "62.149.128.166", 
+            "62.149.128.72", 
+            "62.149.128.74"
+        ], 
+        "dns-mx": [
+            "mx.ibeniculturali.it"
+        ], 
+        "dns-ns": [
+            "dns.technorail.com", 
+            "dns2.technorail.com", 
+            "dns3.arubadns.net", 
+            "dns4.arubadns.cz"
+        ], 
+        "domain-name": "ibeniculturali.it", 
+        "fuzzer": "homoglyph", 
+        "geoip-country": "Italy"
+    }, 
+    {
+        "dns-a": [
+            "88.36.200.82"
+        ], 
+        "dns-mx": [
+            "posta.provinciave.it", 
+            "posta2.provinciave.it"
+        ], 
+        "dns-ns": [
+            "ns1.provinciave.it", 
+            "nssec.provinciave.it"
+        ], 
+        "domain-name": "beni-culturali.it", 
+        "fuzzer": "hyphenation", 
+        "geoip-country": "Italy"
+    }, 
+    {
+        "dns-a": [
+            "141.8.224.169"
+        ], 
+        "dns-ns": [
+            "ns27.rookdns.com", 
+            "ns28.rookdns.com"
+        ], 
+        "domain-name": "beiculturali.it", 
+        "fuzzer": "omission", 
+        "geoip-country": "Switzerland"
+    }, 
+    {
+        "dns-a": [
+            "141.8.224.169"
+        ], 
+        "dns-ns": [
+            "ns27.rookdns.com", 
+            "ns28.rookdns.com"
+        ], 
+        "domain-name": "benicultuurali.it", 
+        "fuzzer": "repetition", 
+        "geoip-country": "Switzerland"
+    }, 
+    {
+        "dns-a": [
+            "185.53.178.8"
+        ], 
+        "dns-mx": [
+            "mail.h-email.net"
+        ], 
+        "dns-ns": [
+            "ns1.parkingcrew.net", 
+            "ns2.parkingcrew.net"
+        ], 
+        "domain-name": "benicultur.ali.it", 
+        "fuzzer": "subdomain", 
+        "geoip-country": "Germany", 
+        "mx-spy": true
+    }, 
+    {
+        "dns-a": [
+            "141.8.224.169"
+        ], 
+        "dns-ns": [
+            "ns27.rookdns.com", 
+            "ns28.rookdns.com"
+        ], 
+        "domain-name": "beneculturali.it", 
+        "fuzzer": "vowel-swap", 
+        "geoip-country": "Switzerland"
+    }
+]

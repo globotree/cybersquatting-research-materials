@@ -1,0 +1,131 @@
+[
+    {
+        "dns-a": [
+            "54.246.91.171"
+        ], 
+        "dns-aaaa": [
+            "2a01:578:3::36f6:5bab"
+        ], 
+        "dns-mx": [
+            "alt1.aspmx.l.google.com", 
+            "alt2.aspmx.l.google.com", 
+            "aspmx.l.google.com", 
+            "aspmx2.googlemail.com", 
+            "aspmx3.googlemail.com"
+        ], 
+        "dns-ns": [
+            "ns-1116.awsdns-11.org", 
+            "ns-172.awsdns-21.com", 
+            "ns-1982.awsdns-55.co.uk", 
+            "ns-799.awsdns-35.net"
+        ], 
+        "domain-name": "meneame.net", 
+        "fuzzer": "original*", 
+        "geoip-country": "Ireland", 
+        "ssdeep-score": 80
+    }, 
+    {
+        "dns-a": [
+            "37.48.65.151"
+        ], 
+        "dns-ns": [
+            "ns1.dnsnuts.com", 
+            "ns2.dnsnuts.com"
+        ], 
+        "domain-name": "meneamen.net", 
+        "fuzzer": "addition", 
+        "geoip-country": "Netherlands", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-ns": [
+            "ns-cloud-e1.googledomains.com", 
+            "ns-cloud-e2.googledomains.com", 
+            "ns-cloud-e3.googledomains.com", 
+            "ns-cloud-e4.googledomains.com"
+        ], 
+        "domain-name": "memeame.net", 
+        "fuzzer": "homoglyph"
+    }, 
+    {
+        "dns-a": [
+            "185.53.178.8"
+        ], 
+        "dns-mx": [
+            "mail.h-email.net"
+        ], 
+        "dns-ns": [
+            "ns1.parkingcrew.net", 
+            "ns2.parkingcrew.net"
+        ], 
+        "domain-name": "xn--mename-dva.net", 
+        "fuzzer": "homoglyph", 
+        "geoip-country": "Germany", 
+        "mx-spy": true, 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "54.72.11.253"
+        ], 
+        "dns-ns": [
+            "ns1.parkingcrew.net", 
+            "ns2.parkingcrew.net"
+        ], 
+        "domain-name": "mename.net", 
+        "fuzzer": "omission", 
+        "geoip-country": "Ireland", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "74.117.221.144"
+        ], 
+        "dns-aaaa": [
+            "::ffff:74.117.221.144"
+        ], 
+        "domain-name": "me.neame.net", 
+        "fuzzer": "subdomain", 
+        "geoip-country": "Cayman Islands", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "62.210.16.61"
+        ], 
+        "domain-name": "men.eame.net", 
+        "fuzzer": "subdomain", 
+        "geoip-country": "France"
+    }, 
+    {
+        "dns-a": [
+            "127.0.0.1"
+        ], 
+        "dns-ns": [
+            "ns1.sedoparking.com", 
+            "ns2.sedoparking.com"
+        ], 
+        "domain-name": "mene.ame.net", 
+        "fuzzer": "subdomain"
+    }, 
+    {
+        "dns-a": [
+            "208.73.211.70"
+        ], 
+        "domain-name": "menea.me.net", 
+        "fuzzer": "subdomain", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-mx": [
+            "front-delivery-1116256473.eu-west-1.elb.amazonaws.com"
+        ], 
+        "dns-ns": [
+            "dns111.ovh.net", 
+            "ns111.ovh.net"
+        ], 
+        "domain-name": "meniame.net", 
+        "fuzzer": "vowel-swap"
+    }
+]

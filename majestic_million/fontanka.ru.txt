@@ -1,0 +1,219 @@
+[
+    {
+        "dns-a": [
+            "185.167.121.9"
+        ], 
+        "dns-mx": [
+            "mx1.fontanka.ru", 
+            "mx2.fontanka.ru"
+        ], 
+        "dns-ns": [
+            "ns1.ajur.info", 
+            "ns2.ajur.info"
+        ], 
+        "domain-name": "fontanka.ru", 
+        "fuzzer": "original*", 
+        "ssdeep-score": 100
+    }, 
+    {
+        "dns-a": [
+            "127.0.0.99"
+        ], 
+        "dns-ns": [
+            "ns1.poishi.com", 
+            "ns2.poishi.com"
+        ], 
+        "domain-name": "fontankal.ru", 
+        "fuzzer": "addition"
+    }, 
+    {
+        "dns-a": [
+            "185.53.179.40"
+        ], 
+        "dns-ns": [
+            "ns1.snparking.ru", 
+            "ns2.snparking.ru"
+        ], 
+        "domain-name": "fontania.ru", 
+        "fuzzer": "bitsquatting", 
+        "geoip-country": "Germany", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "72.52.4.120"
+        ], 
+        "dns-ns": [
+            "ns1.sedoparking.com", 
+            "ns2.sedoparking.com"
+        ], 
+        "domain-name": "fontanca.ru", 
+        "fuzzer": "bitsquatting", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "185.53.179.40"
+        ], 
+        "dns-ns": [
+            "ns1.snparking.ru", 
+            "ns2.snparking.ru"
+        ], 
+        "domain-name": "fontanki.ru", 
+        "fuzzer": "bitsquatting", 
+        "geoip-country": "Germany", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "80.93.62.71"
+        ], 
+        "dns-mx": [
+            "mx2.z8.ru", 
+            "mx3.z8.ru", 
+            "mx4.z8.ru"
+        ], 
+        "dns-ns": [
+            "ns1.z8.ru", 
+            "ns2.z8.ru"
+        ], 
+        "domain-name": "fortanka.ru", 
+        "fuzzer": "homoglyph", 
+        "geoip-country": "Russian Federation", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "92.53.118.53"
+        ], 
+        "dns-mx": [
+            "mx1.timeweb.ru", 
+            "mx2.timeweb.ru"
+        ], 
+        "dns-ns": [
+            "ns1.timeweb.ru", 
+            "ns2.timeweb.ru", 
+            "ns3.timeweb.org", 
+            "ns4.timeweb.org"
+        ], 
+        "domain-name": "fontana.ru", 
+        "fuzzer": "omission", 
+        "geoip-country": "Russian Federation", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "72.52.4.120"
+        ], 
+        "dns-mx": [
+            "localhost"
+        ], 
+        "dns-ns": [
+            "ns1.poishi.com", 
+            "ns2.poishi.com"
+        ], 
+        "domain-name": "fontnka.ru", 
+        "fuzzer": "omission", 
+        "geoip-country": "United States", 
+        "mx-spy": true, 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "72.52.4.120"
+        ], 
+        "dns-ns": [
+            "ns1.sedoparking.com", 
+            "ns2.sedoparking.com"
+        ], 
+        "domain-name": "fonanka.ru", 
+        "fuzzer": "omission", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "127.0.0.99"
+        ], 
+        "dns-ns": [
+            "ns1.poishi.com", 
+            "ns2.poishi.com"
+        ], 
+        "domain-name": "fontaka.ru", 
+        "fuzzer": "omission"
+    }, 
+    {
+        "dns-a": [
+            "127.0.0.99"
+        ], 
+        "domain-name": "fotanka.ru", 
+        "fuzzer": "omission"
+    }, 
+    {
+        "dns-a": [
+            "127.0.0.99"
+        ], 
+        "dns-ns": [
+            "ns1.poishi.com", 
+            "ns2.poishi.com"
+        ], 
+        "domain-name": "fonyanka.ru", 
+        "fuzzer": "replacement"
+    }, 
+    {
+        "dns-a": [
+            "193.26.18.8"
+        ], 
+        "domain-name": "fon.tanka.ru", 
+        "fuzzer": "subdomain", 
+        "geoip-country": "Belarus"
+    }, 
+    {
+        "dns-a": [
+            "72.52.4.119"
+        ], 
+        "dns-mx": [
+            "localhost"
+        ], 
+        "dns-ns": [
+            "ns1.sedoparking.com", 
+            "ns2.sedoparking.com"
+        ], 
+        "domain-name": "fantanka.ru", 
+        "fuzzer": "vowel-swap"
+    }, 
+    {
+        "dns-a": [
+            "104.28.24.35", 
+            "104.28.25.35"
+        ], 
+        "dns-aaaa": [
+            "2400:cb00:2048:1::681c:1823", 
+            "2400:cb00:2048:1::681c:1923"
+        ], 
+        "dns-ns": [
+            "june.ns.cloudflare.com", 
+            "wesley.ns.cloudflare.com"
+        ], 
+        "domain-name": "fontanko.ru", 
+        "fuzzer": "vowel-swap", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "185.42.12.2"
+        ], 
+        "dns-mx": [
+            "fontankaru.ru"
+        ], 
+        "dns-ns": [
+            "ns1.multihost.ru", 
+            "ns2.multihost.ru"
+        ], 
+        "domain-name": "fontankaru.ru", 
+        "fuzzer": "various", 
+        "geoip-country": "Russian Federation"
+    }
+]

@@ -1,0 +1,86 @@
+[
+    {
+        "dns-a": [
+            "208.76.51.88"
+        ], 
+        "dns-mx": [
+            "alt1.aspmx.l.google.com", 
+            "alt2.aspmx.l.google.com", 
+            "alt3.aspmx.l.google.com", 
+            "alt4.aspmx.l.google.com", 
+            "aspmx.l.google.com"
+        ], 
+        "dns-ns": [
+            "ns-1070.awsdns-05.org", 
+            "ns-1611.awsdns-09.co.uk", 
+            "ns-469.awsdns-58.com", 
+            "ns-659.awsdns-18.net"
+        ], 
+        "domain-name": "clustrmaps.com", 
+        "fuzzer": "original*", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 99
+    }, 
+    {
+        "dns-a": [
+            "208.76.50.51"
+        ], 
+        "dns-mx": [
+            "aspmx.l.google.com"
+        ], 
+        "domain-name": "clustermaps.com", 
+        "fuzzer": "insertion", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 100
+    }, 
+    {
+        "dns-a": [
+            "208.76.50.51"
+        ], 
+        "dns-mx": [
+            "aspmx.l.google.com"
+        ], 
+        "dns-ns": [
+            "ns-1061.awsdns-04.org", 
+            "ns-1800.awsdns-33.co.uk", 
+            "ns-730.awsdns-27.net", 
+            "ns-86.awsdns-10.com"
+        ], 
+        "domain-name": "clustrmap.com", 
+        "fuzzer": "omission", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 99
+    }, 
+    {
+        "dns-a": [
+            "49.212.180.12"
+        ], 
+        "dns-mx": [
+            "clustmaps.com"
+        ], 
+        "dns-ns": [
+            "ns1.dns.ne.jp", 
+            "ns2.dns.ne.jp"
+        ], 
+        "domain-name": "clustmaps.com", 
+        "fuzzer": "omission", 
+        "geoip-country": "Japan"
+    }, 
+    {
+        "dns-a": [
+            "141.8.225.31"
+        ], 
+        "domain-name": "clus.trmaps.com", 
+        "fuzzer": "subdomain", 
+        "geoip-country": "Switzerland", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "209.15.32.140"
+        ], 
+        "domain-name": "clustr.maps.com", 
+        "fuzzer": "subdomain", 
+        "geoip-country": "United States"
+    }
+]

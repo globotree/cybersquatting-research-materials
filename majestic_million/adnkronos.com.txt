@@ -1,0 +1,49 @@
+[
+    {
+        "dns-a": [
+            "213.92.11.90"
+        ], 
+        "dns-mx": [
+            "adnkronos-com.mail.protection.outlook.com", 
+            "gw.idc.btitalia.it"
+        ], 
+        "dns-ns": [
+            "ns2.inet.it", 
+            "venere.inet.it"
+        ], 
+        "domain-name": "adnkronos.com", 
+        "fuzzer": "original*", 
+        "geoip-country": "Italy", 
+        "ssdeep-score": 96
+    }, 
+    {
+        "dns-a": [
+            "62.149.128.151", 
+            "62.149.128.154", 
+            "62.149.128.157", 
+            "62.149.128.160", 
+            "62.149.128.163", 
+            "62.149.128.166"
+        ], 
+        "dns-ns": [
+            "dns.technorail.com", 
+            "dns2.technorail.com", 
+            "dns3.arubadns.net", 
+            "dns4.arubadns.cz"
+        ], 
+        "domain-name": "adkronos.com", 
+        "fuzzer": "omission", 
+        "geoip-country": "Italy"
+    }, 
+    {
+        "dns-a": [
+            "216.241.51.118", 
+            "66.81.135.43"
+        ], 
+        "dns-mx": [
+            "exch.ted.co"
+        ], 
+        "domain-name": "adnk.ronos.com", 
+        "fuzzer": "subdomain"
+    }
+]

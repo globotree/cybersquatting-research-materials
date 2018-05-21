@@ -1,0 +1,148 @@
+[
+    {
+        "dns-mx": [
+            "spmw.din.or.jp"
+        ], 
+        "dns-ns": [
+            "ns1.din.or.jp", 
+            "ns2.din.or.jp", 
+            "s-ns1.din.or.jp"
+        ], 
+        "domain-name": "din.or.jp", 
+        "fuzzer": "original*"
+    }, 
+    {
+        "dns-a": [
+            "219.118.209.212"
+        ], 
+        "dns-mx": [
+            "zmx03.admiral.ne.jp"
+        ], 
+        "dns-ns": [
+            "ns.admiral.ne.jp", 
+            "ns2.admiral.ne.jp"
+        ], 
+        "domain-name": "dino.or.jp", 
+        "fuzzer": "addition", 
+        "geoip-country": "Japan"
+    }, 
+    {
+        "dns-a": [
+            "59.106.13.89"
+        ], 
+        "dns-aaaa": [
+            "2001:e42:101:4:59:106:13:89"
+        ], 
+        "dns-mx": [
+            "ein.or.jp"
+        ], 
+        "dns-ns": [
+            "ns1.dns.ne.jp", 
+            "ns2.dns.ne.jp"
+        ], 
+        "domain-name": "ein.or.jp", 
+        "fuzzer": "bitsquatting", 
+        "geoip-country": "Japan"
+    }, 
+    {
+        "dns-mx": [
+            "mail.tin.or.jp"
+        ], 
+        "dns-ns": [
+            "ns1.tin.or.jp", 
+            "ns2.tin.or.jp"
+        ], 
+        "domain-name": "tin.or.jp", 
+        "fuzzer": "bitsquatting"
+    }, 
+    {
+        "dns-a": [
+            "27.96.44.146"
+        ], 
+        "dns-mx": [
+            "mail.dan.or.jp"
+        ], 
+        "dns-ns": [
+            "ns.dan.or.jp"
+        ], 
+        "domain-name": "dan.or.jp", 
+        "fuzzer": "bitsquatting", 
+        "geoip-country": "Japan"
+    }, 
+    {
+        "dns-a": [
+            "59.106.19.22"
+        ], 
+        "dns-mx": [
+            "clin.or.jp"
+        ], 
+        "dns-ns": [
+            "ns1.dns.ne.jp", 
+            "ns2.dns.ne.jp"
+        ], 
+        "domain-name": "clin.or.jp", 
+        "fuzzer": "homoglyph", 
+        "geoip-country": "Japan"
+    }, 
+    {
+        "dns-a": [
+            "112.78.125.121"
+        ], 
+        "dns-mx": [
+            "alt1.aspmx.l.google.com", 
+            "alt2.aspmx.l.google.com", 
+            "aspmx.l.google.com", 
+            "aspmx2.googlemail.com", 
+            "aspmx3.googlemail.com"
+        ], 
+        "dns-ns": [
+            "01.dnsv.jp", 
+            "02.dnsv.jp", 
+            "03.dnsv.jp", 
+            "04.dnsv.jp"
+        ], 
+        "domain-name": "don.or.jp", 
+        "fuzzer": "replacement", 
+        "geoip-country": "Japan"
+    }, 
+    {
+        "dns-mx": [
+            "mx.cin.or.jp"
+        ], 
+        "dns-ns": [
+            "dns3.odn.ne.jp", 
+            "ns.jcci.or.jp"
+        ], 
+        "domain-name": "cin.or.jp", 
+        "fuzzer": "replacement"
+    }, 
+    {
+        "dns-a": [
+            "150.60.171.158"
+        ], 
+        "dns-mx": [
+            "rin-or-jp.mail.protection.outlook.com"
+        ], 
+        "dns-ns": [
+            "dns-b.iij.ad.jp", 
+            "dns-c.iij.ad.jp"
+        ], 
+        "domain-name": "rin.or.jp", 
+        "fuzzer": "replacement", 
+        "geoip-country": "Japan"
+    }, 
+    {
+        "dns-a": [
+            "210.135.89.100"
+        ], 
+        "dns-mx": [
+            "spmw.din.or.jp"
+        ], 
+        "dns-ns": [
+            "ns11.din.or.jp", 
+            "ns12.din.or.jp"
+        ], 
+        "domain-name": "din.jp", 
+        "fuzzer": "various"
+    }
+]

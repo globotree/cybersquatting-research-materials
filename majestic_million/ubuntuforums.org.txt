@@ -1,0 +1,77 @@
+[
+    {
+        "dns-a": [
+            "91.189.94.12"
+        ], 
+        "dns-ns": [
+            "ns1.canonical.com", 
+            "ns2.canonical.com", 
+            "ns3.canonical.com"
+        ], 
+        "domain-name": "ubuntuforums.org", 
+        "fuzzer": "original*", 
+        "geoip-country": "United Kingdom", 
+        "ssdeep-score": 100
+    }, 
+    {
+        "dns-a": [
+            "91.189.94.12", 
+            "91.189.94.16"
+        ], 
+        "domain-name": "ubuntu-forums.org", 
+        "fuzzer": "hyphenation", 
+        "geoip-country": "United Kingdom", 
+        "ssdeep-score": 96
+    }, 
+    {
+        "dns-a": [
+            "91.189.94.12", 
+            "91.189.94.16"
+        ], 
+        "dns-ns": [
+            "ns1.canonical.com", 
+            "ns2.canonical.com", 
+            "ns3.canonical.com"
+        ], 
+        "domain-name": "ubuntuforum.org", 
+        "fuzzer": "omission", 
+        "geoip-country": "United Kingdom", 
+        "ssdeep-score": 96
+    }, 
+    {
+        "dns-a": [
+            "54.83.60.158"
+        ], 
+        "domain-name": "ubuntu.forums.org", 
+        "fuzzer": "subdomain", 
+        "geoip-country": "United States"
+    }, 
+    {
+        "dns-a": [
+            "69.172.201.153"
+        ], 
+        "dns-ns": [
+            "ns1.uniregistrymarket.link", 
+            "ns2.uniregistrymarket.link"
+        ], 
+        "domain-name": "ubuntufo.rums.org", 
+        "fuzzer": "subdomain", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "50.63.46.1"
+        ], 
+        "dns-ns": [
+            "A.SERVICE.AFILIASDNS.INFO", 
+            "B.SERVICE.AFILIASDNS.org", 
+            "C.SERVICE.AFILIASDNS.NET", 
+            "D.SERVICE.AFILIASDNS.COM", 
+            "E.SERVICE.AFILIASDNS.INFO", 
+            "F.SERVICE.AFILIASDNS.NET"
+        ], 
+        "domain-name": "ubuntuforum.s.org", 
+        "fuzzer": "subdomain"
+    }
+]

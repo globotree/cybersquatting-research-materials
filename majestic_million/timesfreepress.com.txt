@@ -1,0 +1,84 @@
+[
+    {
+        "dns-a": [
+            "54.84.94.184"
+        ], 
+        "dns-mx": [
+            "alt1.aspmx.l.google.com", 
+            "alt2.aspmx.l.google.com", 
+            "aspmx.l.google.com", 
+            "aspmx2.googlemail.com", 
+            "aspmx3.googlemail.com", 
+            "mail.timesfreepress.com"
+        ], 
+        "dns-ns": [
+            "dns1.easydns.com", 
+            "dns2.easydns.net", 
+            "dns3.easydns.org", 
+            "dns4.easydns.info"
+        ], 
+        "domain-name": "timesfreepress.com", 
+        "fuzzer": "original*", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 99
+    }, 
+    {
+        "dns-a": [
+            "81.171.22.7"
+        ], 
+        "dns-ns": [
+            "ns1.koaladns.com", 
+            "ns2.koaladns.com"
+        ], 
+        "domain-name": "timefreepress.com", 
+        "fuzzer": "omission", 
+        "geoip-country": "Netherlands", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "95.211.219.65"
+        ], 
+        "dns-ns": [
+            "ns1.hastydns.com", 
+            "ns2.hastydns.com"
+        ], 
+        "domain-name": "timesfreepres.com", 
+        "fuzzer": "omission", 
+        "geoip-country": "Netherlands"
+    }, 
+    {
+        "dns-a": [
+            "208.73.210.202", 
+            "208.73.210.217", 
+            "208.73.211.165", 
+            "208.73.211.177"
+        ], 
+        "dns-ns": [
+            "ns1.dsredirection.com", 
+            "ns2.dsredirection.com"
+        ], 
+        "domain-name": "timesfree.press.com", 
+        "fuzzer": "subdomain", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "104.238.111.174"
+        ], 
+        "domain-name": "timesfreepr.ess.com", 
+        "fuzzer": "subdomain", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "194.105.56.170"
+        ], 
+        "domain-name": "timesfreepre.ss.com", 
+        "fuzzer": "subdomain", 
+        "geoip-country": "Latvia", 
+        "ssdeep-score": 0
+    }
+]

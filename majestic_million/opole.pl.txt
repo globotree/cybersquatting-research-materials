@@ -1,0 +1,283 @@
+[
+    {
+        "dns-ns": [
+            "a-dns.pl", 
+            "b-dns.pl", 
+            "e-dns.pl", 
+            "f-dns.pl", 
+            "i-dns.pl"
+        ], 
+        "domain-name": "opole.pl", 
+        "fuzzer": "original*"
+    }, 
+    {
+        "dns-a": [
+            "213.133.97.199"
+        ], 
+        "dns-mx": [
+            "mail.opolee.pl"
+        ], 
+        "dns-ns": [
+            "dns8.linuxpl.com", 
+            "ns8.linuxpl.com"
+        ], 
+        "domain-name": "opolee.pl", 
+        "fuzzer": "addition", 
+        "geoip-country": "Germany"
+    }, 
+    {
+        "dns-a": [
+            "103.224.212.240"
+        ], 
+        "dns-mx": [
+            "park-mx.above.com"
+        ], 
+        "dns-ns": [
+            "ns1.above.com", 
+            "ns2.above.com"
+        ], 
+        "domain-name": "opolen.pl", 
+        "fuzzer": "addition", 
+        "geoip-country": "Australia", 
+        "mx-spy": true
+    }, 
+    {
+        "dns-a": [
+            "77.55.58.69"
+        ], 
+        "dns-mx": [
+            "opoler.pl"
+        ], 
+        "dns-ns": [
+            "ns1.nazwa.pl", 
+            "ns2.nazwa.pl", 
+            "ns3.nazwa.pl"
+        ], 
+        "domain-name": "opoler.pl", 
+        "fuzzer": "addition", 
+        "geoip-country": "Poland"
+    }, 
+    {
+        "dns-a": [
+            "193.107.88.208"
+        ], 
+        "dns-mx": [
+            "opolex.pl"
+        ], 
+        "dns-ns": [
+            "ns1.kylos.pl", 
+            "ns2.kylos.pl"
+        ], 
+        "domain-name": "opolex.pl", 
+        "fuzzer": "addition", 
+        "geoip-country": "Poland"
+    }, 
+    {
+        "dns-a": [
+            "85.128.128.99"
+        ], 
+        "dns-mx": [
+            "mpole.pl"
+        ], 
+        "dns-ns": [
+            "ns1.nazwa.pl", 
+            "ns2.nazwa.pl", 
+            "ns3.nazwa.pl"
+        ], 
+        "domain-name": "mpole.pl", 
+        "fuzzer": "bitsquatting", 
+        "geoip-country": "Poland"
+    }, 
+    {
+        "dns-a": [
+            "212.91.7.33"
+        ], 
+        "dns-ns": [
+            "ns1.aftermarket.pl", 
+            "ns2.aftermarket.pl"
+        ], 
+        "domain-name": "opone.pl", 
+        "fuzzer": "bitsquatting", 
+        "geoip-country": "Poland"
+    }, 
+    {
+        "dns-a": [
+            "91.189.36.112"
+        ], 
+        "dns-mx": [
+            "mail.opola.pl"
+        ], 
+        "dns-ns": [
+            "ns5.biznes-host.pl", 
+            "ns6.biznes-host.pl"
+        ], 
+        "domain-name": "opola.pl", 
+        "fuzzer": "bitsquatting", 
+        "geoip-country": "Poland"
+    }, 
+    {
+        "dns-a": [
+            "188.128.255.251"
+        ], 
+        "dns-ns": [
+            "ns1.premium.pl", 
+            "ns2.premium.pl"
+        ], 
+        "domain-name": "ople.pl", 
+        "fuzzer": "omission", 
+        "geoip-country": "Poland"
+    }, 
+    {
+        "dns-a": [
+            "195.114.1.201"
+        ], 
+        "dns-mx": [
+            "opol.pl"
+        ], 
+        "dns-ns": [
+            "ns1.aidahosting.com", 
+            "ns2.aidahosting.com"
+        ], 
+        "domain-name": "opol.pl", 
+        "fuzzer": "omission", 
+        "geoip-country": "Poland"
+    }, 
+    {
+        "dns-a": [
+            "194.181.6.37"
+        ], 
+        "dns-mx": [
+            "serwer1.ntln.pl"
+        ], 
+        "dns-ns": [
+            "ns1.net-line.com.pl", 
+            "ns2.net-line.com.pl", 
+            "ns3.net-line.com.pl"
+        ], 
+        "domain-name": "oole.pl", 
+        "fuzzer": "omission", 
+        "geoip-country": "Poland"
+    }, 
+    {
+        "dns-a": [
+            "89.161.226.154"
+        ], 
+        "dns-mx": [
+            "ipole.pl"
+        ], 
+        "dns-ns": [
+            "dns.home.pl", 
+            "dns2.home.pl", 
+            "dns3.home.pl"
+        ], 
+        "domain-name": "ipole.pl", 
+        "fuzzer": "replacement", 
+        "geoip-country": "Poland"
+    }, 
+    {
+        "dns-a": [
+            "85.128.134.224"
+        ], 
+        "dns-mx": [
+            "olole.pl"
+        ], 
+        "dns-ns": [
+            "ns1.nazwa.pl", 
+            "ns2.nazwa.pl", 
+            "ns3.nazwa.pl"
+        ], 
+        "domain-name": "olole.pl", 
+        "fuzzer": "replacement", 
+        "geoip-country": "Poland"
+    }, 
+    {
+        "dns-a": [
+            "5.135.176.129"
+        ], 
+        "dns-mx": [
+            "opple.pl"
+        ], 
+        "dns-ns": [
+            "dns1.opple.pl"
+        ], 
+        "domain-name": "opple.pl", 
+        "fuzzer": "replacement", 
+        "geoip-country": "France"
+    }, 
+    {
+        "dns-a": [
+            "212.91.7.33"
+        ], 
+        "domain-name": "opo.le.pl", 
+        "fuzzer": "subdomain", 
+        "geoip-country": "Poland"
+    }, 
+    {
+        "dns-a": [
+            "195.46.43.240"
+        ], 
+        "domain-name": "opol.e.pl", 
+        "fuzzer": "subdomain", 
+        "geoip-country": "Poland"
+    }, 
+    {
+        "dns-a": [
+            "104.24.100.151", 
+            "104.24.101.151"
+        ], 
+        "dns-aaaa": [
+            "2400:cb00:2048:1::6818:6497", 
+            "2400:cb00:2048:1::6818:6597"
+        ], 
+        "dns-ns": [
+            "carol.ns.cloudflare.com", 
+            "guy.ns.cloudflare.com"
+        ], 
+        "domain-name": "poole.pl", 
+        "fuzzer": "transposition", 
+        "geoip-country": "United States"
+    }, 
+    {
+        "dns-a": [
+            "88.198.200.126"
+        ], 
+        "dns-ns": [
+            "ns1.reg.ru", 
+            "ns2.reg.ru"
+        ], 
+        "domain-name": "opolo.pl", 
+        "fuzzer": "vowel-swap", 
+        "geoip-country": "Germany"
+    }, 
+    {
+        "dns-a": [
+            "89.161.255.26"
+        ], 
+        "dns-mx": [
+            "epole.pl"
+        ], 
+        "dns-ns": [
+            "dns.home.pl", 
+            "dns2.home.pl", 
+            "dns3.home.pl"
+        ], 
+        "domain-name": "epole.pl", 
+        "fuzzer": "vowel-swap", 
+        "geoip-country": "Poland"
+    }, 
+    {
+        "dns-a": [
+            "94.152.161.66"
+        ], 
+        "dns-mx": [
+            "opale.pl"
+        ], 
+        "dns-ns": [
+            "ns1.stabilny.net", 
+            "ns2.stabilny.net"
+        ], 
+        "domain-name": "opale.pl", 
+        "fuzzer": "vowel-swap", 
+        "geoip-country": "Poland"
+    }
+]

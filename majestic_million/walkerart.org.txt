@@ -1,0 +1,70 @@
+[
+    {
+        "dns-a": [
+            "107.23.23.67", 
+            "52.72.171.197"
+        ], 
+        "dns-mx": [
+            "walkerart-org.mail.protection.outlook.com"
+        ], 
+        "dns-ns": [
+            "elliot.ns.cloudflare.com", 
+            "mary.ns.cloudflare.com"
+        ], 
+        "domain-name": "walkerart.org", 
+        "fuzzer": "original*", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 85
+    }, 
+    {
+        "dns-ns": [
+            "nick.ns.cloudflare.com", 
+            "rose.ns.cloudflare.com"
+        ], 
+        "domain-name": "walkerarts.org", 
+        "fuzzer": "addition"
+    }, 
+    {
+        "dns-mx": [
+            "alt1.aspmx.l.google.com", 
+            "alt2.aspmx.l.google.com", 
+            "alt3.aspmx.l.google.com", 
+            "alt4.aspmx.l.google.com", 
+            "aspmx.l.google.com"
+        ], 
+        "dns-ns": [
+            "ns-cloud-c1.googledomains.com", 
+            "ns-cloud-c2.googledomains.com", 
+            "ns-cloud-c3.googledomains.com", 
+            "ns-cloud-c4.googledomains.com"
+        ], 
+        "domain-name": "waikerart.org", 
+        "fuzzer": "homoglyph"
+    }, 
+    {
+        "dns-a": [
+            "207.148.248.143"
+        ], 
+        "domain-name": "walke.rart.org", 
+        "fuzzer": "subdomain", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "206.188.193.109"
+        ], 
+        "domain-name": "walker.art.org", 
+        "fuzzer": "subdomain", 
+        "geoip-country": "United States"
+    }, 
+    {
+        "dns-a": [
+            "98.124.199.67"
+        ], 
+        "domain-name": "walkerar.t.org", 
+        "fuzzer": "subdomain", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 0
+    }
+]

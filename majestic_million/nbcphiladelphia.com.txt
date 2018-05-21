@@ -1,0 +1,87 @@
+[
+    {
+        "dns-a": [
+            "23.59.108.194"
+        ], 
+        "dns-mx": [
+            "mx0a-00176a04.pphosted.com", 
+            "mx0b-00176a04.pphosted.com", 
+            "mxa-00176a04.gslb.pphosted.com", 
+            "mxb-00176a04.gslb.pphosted.com"
+        ], 
+        "dns-ns": [
+            "asia2.akam.net", 
+            "asia3.akam.net", 
+            "aus1.akam.net", 
+            "eur3.akam.net", 
+            "eur4.akam.net", 
+            "ns1-102.akam.net", 
+            "ns1-161.akam.net", 
+            "use3.akam.net", 
+            "usw1.akam.net"
+        ], 
+        "domain-name": "nbcphiladelphia.com", 
+        "fuzzer": "original*", 
+        "geoip-country": "Netherlands", 
+        "ssdeep-score": 97
+    }, 
+    {
+        "dns-a": [
+            "184.168.221.14"
+        ], 
+        "dns-mx": [
+            "lbcphiladelphia-com.mail.protection.outlook.com"
+        ], 
+        "dns-ns": [
+            "ns23.domaincontrol.com", 
+            "ns24.domaincontrol.com"
+        ], 
+        "domain-name": "lbcphiladelphia.com", 
+        "fuzzer": "bitsquatting", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "103.224.212.222"
+        ], 
+        "dns-mx": [
+            "park-mx.above.com"
+        ], 
+        "dns-ns": [
+            "ns1.above.com", 
+            "ns2.above.com"
+        ], 
+        "domain-name": "nbc-philadelphia.com", 
+        "fuzzer": "hyphenation", 
+        "geoip-country": "Australia", 
+        "mx-spy": true, 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "70.32.1.32"
+        ], 
+        "dns-mx": [
+            "park-mx.above.com"
+        ], 
+        "dns-ns": [
+            "ns1.above.com", 
+            "ns2.above.com"
+        ], 
+        "domain-name": "nbcphiladelpia.com", 
+        "fuzzer": "omission", 
+        "geoip-country": "United States", 
+        "mx-spy": true, 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "216.120.237.246"
+        ], 
+        "domain-name": "nbcphiladelp.hia.com", 
+        "fuzzer": "subdomain", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 0
+    }
+]

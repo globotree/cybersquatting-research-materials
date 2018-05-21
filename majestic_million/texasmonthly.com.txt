@@ -1,0 +1,98 @@
+[
+    {
+        "dns-a": [
+            "104.24.28.92", 
+            "104.24.29.92"
+        ], 
+        "dns-aaaa": [
+            "2400:cb00:2048:1::6818:1c5c", 
+            "2400:cb00:2048:1::6818:1d5c"
+        ], 
+        "dns-mx": [
+            "texasmonthly-com.mail.protection.outlook.com"
+        ], 
+        "dns-ns": [
+            "jamie.ns.cloudflare.com", 
+            "kip.ns.cloudflare.com"
+        ], 
+        "domain-name": "texasmonthly.com", 
+        "fuzzer": "original*", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 96
+    }, 
+    {
+        "dns-a": [
+            "162.243.46.13"
+        ], 
+        "dns-ns": [
+            "ns1fkl.name.com", 
+            "ns2dky.name.com", 
+            "ns3fgh.name.com", 
+            "ns4cfn.name.com"
+        ], 
+        "domain-name": "texasmonthlys.com", 
+        "fuzzer": "addition", 
+        "geoip-country": "United States"
+    }, 
+    {
+        "dns-a": [
+            "141.8.224.93"
+        ], 
+        "dns-ns": [
+            "ns7.rookdns.com", 
+            "ns8.rookdns.com"
+        ], 
+        "domain-name": "texas-monthly.com", 
+        "fuzzer": "hyphenation", 
+        "geoip-country": "Switzerland", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "85.159.233.63"
+        ], 
+        "dns-ns": [
+            "ns1.domainmx.com", 
+            "ns2.domainmx.com"
+        ], 
+        "domain-name": "texasmonthy.com", 
+        "fuzzer": "omission", 
+        "geoip-country": "Netherlands", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "185.53.178.8"
+        ], 
+        "dns-mx": [
+            "mail.h-email.net"
+        ], 
+        "dns-ns": [
+            "ns1.parkingcrew.net", 
+            "ns2.parkingcrew.net"
+        ], 
+        "domain-name": "texasmontly.com", 
+        "fuzzer": "omission", 
+        "geoip-country": "Germany", 
+        "mx-spy": true, 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "69.172.201.153"
+        ], 
+        "domain-name": "texasmon.thly.com", 
+        "fuzzer": "subdomain", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "119.28.48.239", 
+            "49.51.8.209"
+        ], 
+        "domain-name": "texasmont.hly.com", 
+        "fuzzer": "subdomain", 
+        "geoip-country": "China"
+    }
+]

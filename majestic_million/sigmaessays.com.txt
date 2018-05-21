@@ -1,0 +1,42 @@
+[
+    {
+        "dns-a": [
+            "104.200.128.225"
+        ], 
+        "dns-mx": [
+            "mx.zoho.eu", 
+            "mx2.zoho.eu", 
+            "mx3.zoho.eu"
+        ], 
+        "dns-ns": [
+            "janet.ns.cloudflare.com", 
+            "terry.ns.cloudflare.com"
+        ], 
+        "domain-name": "sigmaessays.com", 
+        "fuzzer": "original*", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 100
+    }, 
+    {
+        "dns-a": [
+            "69.172.201.153"
+        ], 
+        "dns-ns": [
+            "ns1.uniregistrymarket.link", 
+            "ns2.uniregistrymarket.link"
+        ], 
+        "domain-name": "sigma.essays.com", 
+        "fuzzer": "subdomain", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "13.228.41.199", 
+            "54.169.21.58"
+        ], 
+        "domain-name": "sigmaes.says.com", 
+        "fuzzer": "subdomain", 
+        "geoip-country": "United States"
+    }
+]

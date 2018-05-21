@@ -1,0 +1,46 @@
+[
+    {
+        "dns-a": [
+            "115.28.224.15"
+        ], 
+        "dns-ns": [
+            "dns10.hichina.com", 
+            "dns9.hichina.com"
+        ], 
+        "domain-name": "ruhujituan.com", 
+        "fuzzer": "original*", 
+        "geoip-country": "China"
+    }, 
+    {
+        "dns-a": [
+            "47.91.206.190"
+        ], 
+        "domain-name": "ru.hujituan.com", 
+        "fuzzer": "subdomain", 
+        "geoip-country": "United States"
+    }, 
+    {
+        "dns-a": [
+            "103.224.182.212"
+        ], 
+        "dns-mx": [
+            "park-mx.above.com"
+        ], 
+        "dns-ns": [
+            "ns1.above.com", 
+            "ns2.above.com"
+        ], 
+        "domain-name": "ruhujit.uan.com", 
+        "fuzzer": "subdomain", 
+        "geoip-country": "Australia", 
+        "mx-spy": true
+    }, 
+    {
+        "dns-a": [
+            "75.126.101.249"
+        ], 
+        "domain-name": "ruhujitu.an.com", 
+        "fuzzer": "subdomain", 
+        "geoip-country": "United States"
+    }
+]

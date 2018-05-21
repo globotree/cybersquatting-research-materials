@@ -1,0 +1,128 @@
+[
+    {
+        "dns-a": [
+            "137.166.4.30"
+        ], 
+        "dns-mx": [
+            "seaprod01.csu.edu.au", 
+            "seaprod02.csu.edu.au"
+        ], 
+        "dns-ns": [
+            "cloudflare-ns1.csu.edu.au", 
+            "cloudflare-ns2.csu.edu.au"
+        ], 
+        "domain-name": "csu.edu.au", 
+        "fuzzer": "original*", 
+        "geoip-country": "Australia", 
+        "ssdeep-score": 100
+    }, 
+    {
+        "dns-a": [
+            "43.245.43.7"
+        ], 
+        "dns-mx": [
+            "au-smtp-inbound-1.mimecast.com", 
+            "au-smtp-inbound-2.mimecast.com"
+        ], 
+        "dns-ns": [
+            "ns1.cqu.edu.au", 
+            "ns1.uq.edu.au", 
+            "ns2.cqu.edu.au", 
+            "ns2.uq.edu.au"
+        ], 
+        "domain-name": "cqu.edu.au", 
+        "fuzzer": "bitsquatting", 
+        "geoip-country": "Australia", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "192.252.158.119"
+        ], 
+        "dns-mx": [
+            "mail.cse.edu.au"
+        ], 
+        "dns-ns": [
+            "ns1.s1038.sureserver.com", 
+            "ns2.s1038.sureserver.com"
+        ], 
+        "domain-name": "cse.edu.au", 
+        "fuzzer": "bitsquatting", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "138.80.10.69"
+        ], 
+        "dns-mx": [
+            "cdu-edu-au.mail.protection.outlook.com"
+        ], 
+        "dns-ns": [
+            "ns1.aarnet.net.au", 
+            "ns1.cdu.edu.au", 
+            "ns2.aarnet.net.au", 
+            "ns2.cdu.edu.au", 
+            "ns3.aarnet.net.au"
+        ], 
+        "domain-name": "cdu.edu.au", 
+        "fuzzer": "replacement", 
+        "geoip-country": "Australia", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "54.79.34.107"
+        ], 
+        "dns-mx": [
+            "ALT1.ASPMX.L.GOOGLE.COM", 
+            "ALT2.ASPMX.L.GOOGLE.COM", 
+            "ALT3.ASPMX.L.GOOGLE.COM", 
+            "ALT4.ASPMX.L.GOOGLE.COM", 
+            "ASPMX.L.GOOGLE.COM"
+        ], 
+        "dns-ns": [
+            "ns1.netregistry.net", 
+            "ns2.netregistry.net", 
+            "ns3.netregistry.net"
+        ], 
+        "domain-name": "csi.edu.au", 
+        "fuzzer": "replacement", 
+        "geoip-country": "Australia", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "203.2.60.163"
+        ], 
+        "dns-mx": [
+            "scu-edu-au.mail.protection.outlook.com"
+        ], 
+        "dns-ns": [
+            "dns1.scu.edu.au", 
+            "dns2.scu.edu.au", 
+            "lvs-dns.scu.edu.au", 
+            "ns1.aarnet.net.au", 
+            "ns2.aarnet.net.au", 
+            "ns3.aarnet.net.au"
+        ], 
+        "domain-name": "scu.edu.au", 
+        "fuzzer": "transposition"
+    }, 
+    {
+        "dns-a": [
+            "108.61.169.120"
+        ], 
+        "dns-mx": [
+            "csa-edu-au.mail.protection.outlook.com"
+        ], 
+        "dns-ns": [
+            "ns1-07.azure-dns.com", 
+            "ns2-07.azure-dns.net", 
+            "ns3-07.azure-dns.org", 
+            "ns4-07.azure-dns.info"
+        ], 
+        "domain-name": "csa.edu.au", 
+        "fuzzer": "vowel-swap"
+    }
+]

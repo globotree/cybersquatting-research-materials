@@ -1,0 +1,91 @@
+[
+    {
+        "dns-a": [
+            "133.221.26.1"
+        ], 
+        "dns-ns": [
+            "mx1.konami.co.jp", 
+            "mx2.konami.co.jp", 
+            "mx3.konami.co.jp", 
+            "mx4.konami.co.jp", 
+            "mx5.konami.co.jp"
+        ], 
+        "domain-name": "konami.jp", 
+        "fuzzer": "original*", 
+        "geoip-country": "Japan"
+    }, 
+    {
+        "dns-a": [
+            "35.161.157.90"
+        ], 
+        "dns-mx": [
+            "mail.konamix.jp"
+        ], 
+        "dns-ns": [
+            "ns-1517.awsdns-61.org", 
+            "ns-1626.awsdns-11.co.uk", 
+            "ns-191.awsdns-23.com", 
+            "ns-809.awsdns-37.net"
+        ], 
+        "domain-name": "konamix.jp", 
+        "fuzzer": "addition", 
+        "geoip-country": "United States"
+    }, 
+    {
+        "dns-a": [
+            "211.125.95.220"
+        ], 
+        "dns-mx": [
+            "smtp.oonami.jp"
+        ], 
+        "dns-ns": [
+            "ns.namedserver.net", 
+            "ns2.namedserver.net"
+        ], 
+        "domain-name": "oonami.jp", 
+        "fuzzer": "bitsquatting", 
+        "geoip-country": "Japan"
+    }, 
+    {
+        "dns-a": [
+            "52.211.143.189"
+        ], 
+        "dns-ns": [
+            "ns1.jimdo.com", 
+            "ns2.jimdo.com"
+        ], 
+        "domain-name": "kinami.jp", 
+        "fuzzer": "replacement", 
+        "geoip-country": "Ireland"
+    }, 
+    {
+        "dns-a": [
+            "202.172.28.200"
+        ], 
+        "dns-mx": [
+            "monami.jp"
+        ], 
+        "dns-ns": [
+            "ns1.value-domain.com", 
+            "ns2.value-domain.com"
+        ], 
+        "domain-name": "monami.jp", 
+        "fuzzer": "replacement", 
+        "geoip-country": "Japan", 
+        "mx-spy": true
+    }, 
+    {
+        "dns-a": [
+            "157.7.107.133"
+        ], 
+        "dns-mx": [
+            "mx01.lolipop.jp"
+        ], 
+        "dns-ns": [
+            "dns01.muumuu-domain.com", 
+            "dns02.muumuu-domain.com"
+        ], 
+        "domain-name": "kanami.jp", 
+        "fuzzer": "vowel-swap"
+    }
+]

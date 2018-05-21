@@ -1,0 +1,93 @@
+[
+    {
+        "dns-mx": [
+            "mx2.lagardere-active.com", 
+            "mx3.lagardere-active.com"
+        ], 
+        "dns-ns": [
+            "ns01.ladtech.fr", 
+            "ns02.ladtech.fr"
+        ], 
+        "domain-name": "lejdd.fr", 
+        "fuzzer": "original*"
+    }, 
+    {
+        "dns-a": [
+            "37.187.150.46"
+        ], 
+        "dns-mx": [
+            "mail.lejld.fr"
+        ], 
+        "dns-ns": [
+            "ns.resto.be", 
+            "ns2.resto.be"
+        ], 
+        "domain-name": "lejld.fr", 
+        "fuzzer": "bitsquatting", 
+        "geoip-country": "France"
+    }, 
+    {
+        "dns-a": [
+            "62.210.204.211"
+        ], 
+        "dns-mx": [
+            "linoa.lejdf.fr"
+        ], 
+        "dns-ns": [
+            "ns.journaldufreenaute.fr", 
+            "ns6.gandi.net"
+        ], 
+        "domain-name": "lejdf.fr", 
+        "fuzzer": "bitsquatting", 
+        "geoip-country": "France", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "92.222.87.205"
+        ], 
+        "dns-mx": [
+            "mx0.mail.ovh.net"
+        ], 
+        "dns-ns": [
+            "dns104.ovh.net", 
+            "ns104.ovh.net"
+        ], 
+        "domain-name": "ljdd.fr", 
+        "fuzzer": "omission", 
+        "geoip-country": "France", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "109.234.161.177"
+        ], 
+        "dns-mx": [
+            "ledd.fr"
+        ], 
+        "dns-ns": [
+            "ns1.o2switch.net", 
+            "ns2.o2switch.net"
+        ], 
+        "domain-name": "ledd.fr", 
+        "fuzzer": "omission", 
+        "geoip-country": "France", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-ns": [
+            "dns1.sdv.fr", 
+            "dns2.sdv.fr"
+        ], 
+        "domain-name": "lejdc.fr", 
+        "fuzzer": "replacement"
+    }, 
+    {
+        "dns-a": [
+            "216.45.48.189"
+        ], 
+        "domain-name": "lejd.d.fr", 
+        "fuzzer": "subdomain", 
+        "geoip-country": "United States"
+    }
+]

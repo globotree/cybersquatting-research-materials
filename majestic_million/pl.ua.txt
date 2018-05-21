@@ -1,0 +1,280 @@
+[
+    {
+        "dns-ns": [
+            "ba1.ns.ua", 
+            "ho1.ns.pl.ua", 
+            "nix.ns.ua"
+        ], 
+        "domain-name": "pl.ua", 
+        "fuzzer": "original*"
+    }, 
+    {
+        "dns-a": [
+            "91.206.200.104"
+        ], 
+        "dns-mx": [
+            "mx.rl.ua"
+        ], 
+        "dns-ns": [
+            "ns1.ukraine.com.ua", 
+            "ns2.ukraine.com.ua"
+        ], 
+        "domain-name": "rl.ua", 
+        "fuzzer": "bitsquatting", 
+        "geoip-country": "Ukraine"
+    }, 
+    {
+        "dns-a": [
+            "89.184.93.7"
+        ], 
+        "dns-mx": [
+            "kostyan.org.ua"
+        ], 
+        "dns-ns": [
+            "nsa1.srv53.net", 
+            "nsa2.srv53.org", 
+            "nsa3.srv53.com", 
+            "nsb2.srv53.com", 
+            "nsb2.srv53.org", 
+            "nsb4.srv53.net", 
+            "nsc3.srv53.org", 
+            "nsc4.srv53.com", 
+            "nsc4.srv53.net", 
+            "nsd1.srv53.com", 
+            "nsd1.srv53.net", 
+            "nsd3.srv53.org"
+        ], 
+        "domain-name": "tl.ua", 
+        "fuzzer": "bitsquatting", 
+        "geoip-country": "Ukraine"
+    }, 
+    {
+        "dns-a": [
+            "185.68.16.180"
+        ], 
+        "dns-aaaa": [
+            "2a00:7a60:0:10b4::1"
+        ], 
+        "dns-mx": [
+            "mx15.ukraine.com.ua", 
+            "mx20.ukraine.com.ua"
+        ], 
+        "dns-ns": [
+            "ns119.inhostedns.com", 
+            "ns219.inhostedns.net", 
+            "ns319.inhostedns.org"
+        ], 
+        "domain-name": "xl.ua", 
+        "fuzzer": "bitsquatting", 
+        "geoip-country": "Ukraine"
+    }, 
+    {
+        "dns-a": [
+            "91.205.16.134"
+        ], 
+        "dns-mx": [
+            "mx.da5.dcadamant.net"
+        ], 
+        "dns-ns": [
+            "ns6.dcadamant.net", 
+            "nsda5.dcadamant.net"
+        ], 
+        "domain-name": "pm.ua", 
+        "fuzzer": "bitsquatting", 
+        "geoip-country": "Ukraine"
+    }, 
+    {
+        "dns-a": [
+            "77.120.122.70"
+        ], 
+        "domain-name": "pn.ua", 
+        "fuzzer": "bitsquatting", 
+        "geoip-country": "Ukraine"
+    }, 
+    {
+        "dns-a": [
+            "194.0.200.201"
+        ], 
+        "dns-mx": [
+            "ALT1.ASPMX.L.GOOGLE.COM", 
+            "ALT2.ASPMX.L.GOOGLE.COM", 
+            "ASPMX.L.GOOGLE.COM", 
+            "ASPMX2.GOOGLEMAIL.COM", 
+            "ASPMX3.GOOGLEMAIL.COM"
+        ], 
+        "dns-ns": [
+            "alpha.freehost.com.ua", 
+            "beta.freehost.com.ua", 
+            "gamma.freehost.com.ua"
+        ], 
+        "domain-name": "pd.ua", 
+        "fuzzer": "bitsquatting", 
+        "geoip-country": "Ukraine"
+    }, 
+    {
+        "dns-a": [
+            "104.20.60.239", 
+            "104.20.61.239"
+        ], 
+        "dns-aaaa": [
+            "2400:cb00:2048:1::6814:3cef", 
+            "2400:cb00:2048:1::6814:3def"
+        ], 
+        "dns-mx": [
+            "mail.wwm.com.ua"
+        ], 
+        "dns-ns": [
+            "henry.ns.cloudflare.com", 
+            "kiki.ns.cloudflare.com"
+        ], 
+        "domain-name": "p.ua", 
+        "fuzzer": "omission", 
+        "geoip-country": "United States"
+    }, 
+    {
+        "dns-a": [
+            "195.248.234.27"
+        ], 
+        "dns-mx": [
+            "mail.l.ua"
+        ], 
+        "dns-ns": [
+            "ns1.s27.org.ua", 
+            "ns2.s27.org.ua"
+        ], 
+        "domain-name": "l.ua", 
+        "fuzzer": "omission", 
+        "geoip-country": "Ukraine"
+    }, 
+    {
+        "dns-a": [
+            "188.166.20.114"
+        ], 
+        "dns-mx": [
+            "mx1.pp.ua.uadns.com", 
+            "mx2.pp.ua.uadns.com", 
+            "mx3.pp.ua.uadns.com"
+        ], 
+        "dns-ns": [
+            "ns1.uadns.com", 
+            "ns2.uadns.com", 
+            "ns3.uadns.com", 
+            "ns4.uadns.com", 
+            "ns5.uadns.com"
+        ], 
+        "domain-name": "pp.ua", 
+        "fuzzer": "replacement"
+    }, 
+    {
+        "dns-a": [
+            "77.120.117.215"
+        ], 
+        "dns-mx": [
+            "ALT2.ASPMX.L.GOOGLE.COM", 
+            "ASPMX.L.GOOGLE.COM", 
+            "ASPMX2.GOOGLEMAIL.COM", 
+            "ASPMX3.GOOGLEMAIL.COM", 
+            "ASPMX4.GOOGLEMAIL.COM", 
+            "ASPMX5.GOOGLEMAIL.COM"
+        ], 
+        "dns-ns": [
+            "ns1.ol.ua", 
+            "ns2.ol.ua"
+        ], 
+        "domain-name": "ol.ua", 
+        "fuzzer": "replacement", 
+        "geoip-country": "Ukraine"
+    }, 
+    {
+        "dns-a": [
+            "185.68.16.190"
+        ], 
+        "dns-mx": [
+            "ALT1.ASPMX.L.GOOGLE.COM", 
+            "ALT2.ASPMX.L.GOOGLE.COM", 
+            "ASPMX.L.GOOGLE.COM", 
+            "ASPMX2.GOOGLEMAIL.COM", 
+            "ASPMX3.GOOGLEMAIL.COM"
+        ], 
+        "dns-ns": [
+            "nsa2.srv53.org", 
+            "nsa3.srv53.com", 
+            "nsa4.srv53.net", 
+            "nsb1.srv53.com", 
+            "nsb2.srv53.org", 
+            "nsb3.srv53.net", 
+            "nsc1.srv53.org", 
+            "nsc2.srv53.com", 
+            "nsc4.srv53.net", 
+            "nsd1.srv53.net", 
+            "nsd2.srv53.org", 
+            "nsd3.srv53.com"
+        ], 
+        "domain-name": "ml.ua", 
+        "fuzzer": "replacement", 
+        "geoip-country": "Ukraine"
+    }, 
+    {
+        "dns-ns": [
+            "ns0.prostir.net", 
+            "ns1.prostir.net", 
+            "ns2.prostir.net", 
+            "ns3.prostir.net", 
+            "ns4.prostir.net"
+        ], 
+        "domain-name": "pk.ua", 
+        "fuzzer": "replacement"
+    }, 
+    {
+        "dns-a": [
+            "148.251.252.85"
+        ], 
+        "dns-mx": [
+            "po.ua"
+        ], 
+        "dns-ns": [
+            "ns1.zonesp.com", 
+            "ns2.zonesp.com"
+        ], 
+        "domain-name": "po.ua", 
+        "fuzzer": "replacement"
+    }, 
+    {
+        "dns-a": [
+            "193.151.90.204"
+        ], 
+        "dns-mx": [
+            "mail.lp.ua", 
+            "mail2.lp.ua", 
+            "relay2.uplink.net.ua"
+        ], 
+        "dns-ns": [
+            "ns1.ths3.tucha.ua", 
+            "ns3.tuchahosting.tucha13.net"
+        ], 
+        "domain-name": "lp.ua", 
+        "fuzzer": "transposition", 
+        "geoip-country": "Ukraine"
+    }, 
+    {
+        "dns-a": [
+            "217.160.122.174"
+        ], 
+        "dns-aaaa": [
+            "2001:8d8:1001:1054:819e:a1d9:b5d5:f022"
+        ], 
+        "dns-mx": [
+            "mx00.kundenserver.de", 
+            "mx01.kundenserver.de"
+        ], 
+        "dns-ns": [
+            "ns1061.ui-dns.biz", 
+            "ns1061.ui-dns.com", 
+            "ns1061.ui-dns.de", 
+            "ns1061.ui-dns.org"
+        ], 
+        "domain-name": "pl-ua.com", 
+        "fuzzer": "various", 
+        "geoip-country": "Germany"
+    }
+]

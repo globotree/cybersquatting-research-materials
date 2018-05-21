@@ -1,0 +1,79 @@
+[
+    {
+        "dns-mx": [
+            "bosmail.tfn.com", 
+            "bosmaila.tfn.com", 
+            "bosmailb.tfn.com", 
+            "lonmail.tfn.com"
+        ], 
+        "dns-ns": [
+            "a1.verisigndns.com", 
+            "a2.verisigndns.com", 
+            "a3.verisigndns.com"
+        ], 
+        "domain-name": "corporate-ir.net", 
+        "fuzzer": "original*"
+    }, 
+    {
+        "dns-a": [
+            "103.20.215.135"
+        ], 
+        "dns-mx": [
+            "corporate-hr.net"
+        ], 
+        "dns-ns": [
+            "nsca1.znetlive.com", 
+            "nsca2.znetlive.com", 
+            "nsedu1.znetindia.com", 
+            "nsedu2.znetindia.com"
+        ], 
+        "domain-name": "corporate-hr.net", 
+        "fuzzer": "bitsquatting", 
+        "geoip-country": "India"
+    }, 
+    {
+        "dns-a": [
+            "68.178.213.61"
+        ], 
+        "dns-ns": [
+            "ns1.namefind.com", 
+            "ns2.namefind.com"
+        ], 
+        "domain-name": "corporateir.net", 
+        "fuzzer": "omission", 
+        "geoip-country": "United States"
+    }, 
+    {
+        "dns-a": [
+            "85.13.157.204"
+        ], 
+        "dns-mx": [
+            "w016f55f.kasserver.com"
+        ], 
+        "dns-ns": [
+            "ns5.kasserver.com", 
+            "ns6.kasserver.com"
+        ], 
+        "domain-name": "corporate-id.net", 
+        "fuzzer": "replacement", 
+        "geoip-country": "Germany"
+    }, 
+    {
+        "dns-a": [
+            "92.61.148.24"
+        ], 
+        "dns-mx": [
+            "mx1.servage.net", 
+            "mx2.servage.net"
+        ], 
+        "dns-ns": [
+            "ns1.servage.net", 
+            "ns2.servage.net", 
+            "ns3.servage.net", 
+            "ns4.servage.net"
+        ], 
+        "domain-name": "corporate-it.net", 
+        "fuzzer": "replacement", 
+        "geoip-country": "Europe"
+    }
+]

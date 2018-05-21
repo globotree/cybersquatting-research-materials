@@ -1,0 +1,566 @@
+[
+    {
+        "dns-a": [
+            "104.215.95.187", 
+            "52.164.206.56"
+        ], 
+        "dns-ns": [
+            "ns1.msft.net", 
+            "ns2.msft.net", 
+            "ns3.msft.net", 
+            "ns4.msft.net"
+        ], 
+        "domain-name": "windowsazure.com", 
+        "fuzzer": "original*", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 99
+    }, 
+    {
+        "dns-a": [
+            "104.215.95.187", 
+            "52.164.206.56"
+        ], 
+        "dns-ns": [
+            "ns1.msft.net", 
+            "ns2.msft.net", 
+            "ns3.msft.net", 
+            "ns4.msft.net"
+        ], 
+        "domain-name": "windowsazuree.com", 
+        "fuzzer": "addition", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 97
+    }, 
+    {
+        "dns-a": [
+            "104.215.95.187", 
+            "52.164.206.56"
+        ], 
+        "dns-ns": [
+            "ns1.msft.net", 
+            "ns2.msft.net", 
+            "ns3.msft.net", 
+            "ns4.msft.net"
+        ], 
+        "domain-name": "windowsazures.com", 
+        "fuzzer": "addition", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 97
+    }, 
+    {
+        "dns-a": [
+            "141.8.224.183"
+        ], 
+        "dns-ns": [
+            "ns1.protectdelegation.ca", 
+            "ns2.protectdelegation.com", 
+            "ns3.protectdelegation.eu"
+        ], 
+        "domain-name": "windowsazura.com", 
+        "fuzzer": "bitsquatting", 
+        "geoip-country": "Switzerland", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "104.215.95.187", 
+            "52.164.206.56"
+        ], 
+        "dns-ns": [
+            "ns1.msft.net", 
+            "ns2.msft.net", 
+            "ns3.msft.net", 
+            "ns4.msft.net"
+        ], 
+        "domain-name": "windiowsazure.com", 
+        "fuzzer": "homoglyph", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 97
+    }, 
+    {
+        "dns-a": [
+            "185.53.178.6"
+        ], 
+        "dns-mx": [
+            "mail.h-email.net"
+        ], 
+        "dns-ns": [
+            "ns1.parkingcrew.net", 
+            "ns2.parkingcrew.net"
+        ], 
+        "domain-name": "windows-azure.com", 
+        "fuzzer": "hyphenation", 
+        "geoip-country": "Germany", 
+        "mx-spy": true, 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "104.215.95.187", 
+            "52.164.206.56"
+        ], 
+        "dns-ns": [
+            "ns1.msft.net", 
+            "ns2.msft.net", 
+            "ns3.msft.net", 
+            "ns4.msft.net"
+        ], 
+        "domain-name": "windowswazure.com", 
+        "fuzzer": "insertion", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 97
+    }, 
+    {
+        "dns-a": [
+            "104.215.95.187", 
+            "52.164.206.56"
+        ], 
+        "dns-ns": [
+            "ns1.msft.net", 
+            "ns2.msft.net", 
+            "ns3.msft.net", 
+            "ns4.msft.net"
+        ], 
+        "domain-name": "windowsazhure.com", 
+        "fuzzer": "insertion", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 97
+    }, 
+    {
+        "dns-a": [
+            "104.215.95.187", 
+            "52.164.206.56"
+        ], 
+        "dns-ns": [
+            "ns1.msft.net", 
+            "ns2.msft.net", 
+            "ns3.msft.net", 
+            "ns4.msft.net"
+        ], 
+        "domain-name": "windowasazure.com", 
+        "fuzzer": "insertion", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 97
+    }, 
+    {
+        "dns-a": [
+            "104.215.95.187", 
+            "52.164.206.56"
+        ], 
+        "dns-ns": [
+            "ns1.msft.net", 
+            "ns2.msft.net", 
+            "ns3.msft.net", 
+            "ns4.msft.net"
+        ], 
+        "domain-name": "windowssazure.com", 
+        "fuzzer": "insertion", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 97
+    }, 
+    {
+        "dns-a": [
+            "104.215.95.187", 
+            "52.164.206.56"
+        ], 
+        "dns-ns": [
+            "ns1.msft.net", 
+            "ns2.msft.net", 
+            "ns3.msft.net", 
+            "ns4.msft.net"
+        ], 
+        "domain-name": "windowesazure.com", 
+        "fuzzer": "insertion", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 97
+    }, 
+    {
+        "dns-a": [
+            "104.215.95.187", 
+            "52.164.206.56"
+        ], 
+        "dns-ns": [
+            "ns1.msft.net", 
+            "ns2.msft.net", 
+            "ns3.msft.net", 
+            "ns4.msft.net"
+        ], 
+        "domain-name": "windowwsazure.com", 
+        "fuzzer": "insertion", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 97
+    }, 
+    {
+        "dns-a": [
+            "104.215.95.187", 
+            "52.164.206.56"
+        ], 
+        "dns-ns": [
+            "ns1.msft.net", 
+            "ns2.msft.net", 
+            "ns3.msft.net", 
+            "ns4.msft.net"
+        ], 
+        "domain-name": "windowsxazure.com", 
+        "fuzzer": "insertion", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 97
+    }, 
+    {
+        "dns-a": [
+            "104.215.95.187", 
+            "52.164.206.56"
+        ], 
+        "dns-ns": [
+            "ns1.msft.net", 
+            "ns2.msft.net", 
+            "ns3.msft.net", 
+            "ns4.msft.net"
+        ], 
+        "domain-name": "windowsazzure.com", 
+        "fuzzer": "insertion", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 97
+    }, 
+    {
+        "dns-a": [
+            "104.215.95.187", 
+            "52.164.206.56"
+        ], 
+        "dns-ns": [
+            "ns1.msft.net", 
+            "ns2.msft.net", 
+            "ns3.msft.net", 
+            "ns4.msft.net"
+        ], 
+        "domain-name": "windowsazufre.com", 
+        "fuzzer": "insertion", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 97
+    }, 
+    {
+        "dns-a": [
+            "104.215.95.187", 
+            "52.164.206.56"
+        ], 
+        "dns-ns": [
+            "ns1.msft.net", 
+            "ns2.msft.net", 
+            "ns3.msft.net", 
+            "ns4.msft.net"
+        ], 
+        "domain-name": "windoswsazure.com", 
+        "fuzzer": "insertion", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 97
+    }, 
+    {
+        "dns-a": [
+            "104.215.95.187", 
+            "52.164.206.56"
+        ], 
+        "dns-ns": [
+            "ns1.msft.net", 
+            "ns2.msft.net", 
+            "ns3.msft.net", 
+            "ns4.msft.net"
+        ], 
+        "domain-name": "windoiwsazure.com", 
+        "fuzzer": "insertion", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 97
+    }, 
+    {
+        "dns-a": [
+            "104.215.95.187", 
+            "52.164.206.56"
+        ], 
+        "dns-ns": [
+            "ns1.msft.net", 
+            "ns2.msft.net", 
+            "ns3.msft.net", 
+            "ns4.msft.net"
+        ], 
+        "domain-name": "windrowsazure.com", 
+        "fuzzer": "insertion", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 97
+    }, 
+    {
+        "dns-a": [
+            "104.215.95.187", 
+            "52.164.206.56"
+        ], 
+        "dns-ns": [
+            "ns1.msft.net", 
+            "ns2.msft.net", 
+            "ns3.msft.net", 
+            "ns4.msft.net"
+        ], 
+        "domain-name": "windowsaazure.com", 
+        "fuzzer": "insertion", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 97
+    }, 
+    {
+        "dns-a": [
+            "185.53.178.7"
+        ], 
+        "dns-ns": [
+            "ns1.parkingcrew.net", 
+            "ns2.parkingcrew.net"
+        ], 
+        "domain-name": "widowsazure.com", 
+        "fuzzer": "omission", 
+        "geoip-country": "Germany", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "74.117.221.144"
+        ], 
+        "dns-aaaa": [
+            "2620:107:7000::1c0f:2001"
+        ], 
+        "dns-mx": [
+            "exmx1.directnic.com", 
+            "exmx2.directnic.com"
+        ], 
+        "dns-ns": [
+            "expired-domain-ns50.directnic.com"
+        ], 
+        "domain-name": "winowsazure.com", 
+        "fuzzer": "omission", 
+        "geoip-country": "Cayman Islands", 
+        "mx-spy": true, 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "104.215.95.187", 
+            "52.164.206.56"
+        ], 
+        "dns-ns": [
+            "ns1.msft.net", 
+            "ns2.msft.net", 
+            "ns3.msft.net", 
+            "ns4.msft.net"
+        ], 
+        "domain-name": "windowszure.com", 
+        "fuzzer": "omission", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 99
+    }, 
+    {
+        "dns-a": [
+            "104.215.95.187", 
+            "52.164.206.56"
+        ], 
+        "dns-ns": [
+            "ns1.msft.net", 
+            "ns2.msft.net", 
+            "ns3.msft.net", 
+            "ns4.msft.net"
+        ], 
+        "domain-name": "windowsaure.com", 
+        "fuzzer": "omission", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 99
+    }, 
+    {
+        "dns-a": [
+            "104.215.95.187", 
+            "52.164.206.56"
+        ], 
+        "dns-ns": [
+            "ns1.msft.net", 
+            "ns2.msft.net", 
+            "ns3.msft.net", 
+            "ns4.msft.net"
+        ], 
+        "domain-name": "windowsazue.com", 
+        "fuzzer": "omission", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 97
+    }, 
+    {
+        "dns-a": [
+            "104.215.95.187", 
+            "52.164.206.56"
+        ], 
+        "dns-ns": [
+            "ns1.msft.net", 
+            "ns2.msft.net", 
+            "ns3.msft.net", 
+            "ns4.msft.net"
+        ], 
+        "domain-name": "windowsazur.com", 
+        "fuzzer": "omission", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 99
+    }, 
+    {
+        "dns-a": [
+            "104.215.95.187", 
+            "52.164.206.56"
+        ], 
+        "dns-ns": [
+            "ns1.msft.net", 
+            "ns2.msft.net", 
+            "ns3.msft.net", 
+            "ns4.msft.net"
+        ], 
+        "domain-name": "windowsazre.com", 
+        "fuzzer": "omission", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 97
+    }, 
+    {
+        "dns-a": [
+            "103.224.182.241"
+        ], 
+        "dns-mx": [
+            "park-mx.above.com"
+        ], 
+        "dns-ns": [
+            "ns1.above.com", 
+            "ns2.above.com"
+        ], 
+        "domain-name": "windwsazure.com", 
+        "fuzzer": "omission", 
+        "geoip-country": "Australia", 
+        "mx-spy": true, 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "74.119.239.234"
+        ], 
+        "domain-name": "wiindowsazure.com", 
+        "fuzzer": "repetition", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "104.215.95.187", 
+            "52.164.206.56"
+        ], 
+        "dns-ns": [
+            "ns1.msft.net", 
+            "ns2.msft.net", 
+            "ns3.msft.net", 
+            "ns4.msft.net"
+        ], 
+        "domain-name": "windowsazurs.com", 
+        "fuzzer": "replacement", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 97
+    }, 
+    {
+        "dns-a": [
+            "104.215.95.187", 
+            "52.164.206.56"
+        ], 
+        "dns-ns": [
+            "ns1.msft.net", 
+            "ns2.msft.net", 
+            "ns3.msft.net", 
+            "ns4.msft.net"
+        ], 
+        "domain-name": "windowsasure.com", 
+        "fuzzer": "replacement", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 99
+    }, 
+    {
+        "dns-a": [
+            "141.8.224.93"
+        ], 
+        "dns-ns": [
+            "ns7.rookdns.com", 
+            "ns8.rookdns.com"
+        ], 
+        "domain-name": "windiwsazure.com", 
+        "fuzzer": "replacement", 
+        "geoip-country": "Switzerland", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "173.239.5.6", 
+            "173.239.8.164", 
+            "213.247.47.190"
+        ], 
+        "dns-mx": [
+            "mx7.windoesazure.com"
+        ], 
+        "dns-ns": [
+            "ns1.expiereddnsmanager.com", 
+            "ns2.expiereddnsmanager.com"
+        ], 
+        "domain-name": "windoesazure.com", 
+        "fuzzer": "replacement", 
+        "geoip-country": "United States"
+    }, 
+    {
+        "dns-a": [
+            "104.215.95.187", 
+            "52.164.206.56"
+        ], 
+        "dns-ns": [
+            "ns1.msft.net", 
+            "ns2.msft.net", 
+            "ns3.msft.net", 
+            "ns4.msft.net"
+        ], 
+        "domain-name": "windowsazur3.com", 
+        "fuzzer": "replacement", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 97
+    }, 
+    {
+        "dns-a": [
+            "188.138.125.235"
+        ], 
+        "domain-name": "win.dowsazure.com", 
+        "fuzzer": "subdomain", 
+        "geoip-country": "Germany", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "70.37.72.39"
+        ], 
+        "domain-name": "windows.azure.com", 
+        "fuzzer": "subdomain", 
+        "geoip-country": "United States"
+    }, 
+    {
+        "dns-a": [
+            "69.172.201.153"
+        ], 
+        "domain-name": "windowsa.zure.com", 
+        "fuzzer": "subdomain", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "199.59.242.150"
+        ], 
+        "dns-mx": [
+            "mx76.m2bp.com", 
+            "mx76.mb1p.com"
+        ], 
+        "dns-ns": [
+            "ns1.bodis.com", 
+            "ns2.bodis.com"
+        ], 
+        "domain-name": "windwosazure.com", 
+        "fuzzer": "transposition", 
+        "geoip-country": "United States", 
+        "mx-spy": true, 
+        "ssdeep-score": 0
+    }
+]

@@ -1,0 +1,77 @@
+[
+    {
+        "dns-a": [
+            "162.248.180.54"
+        ], 
+        "dns-mx": [
+            "cluster1.us.messagelabs.com", 
+            "cluster1a.us.messagelabs.com"
+        ], 
+        "dns-ns": [
+            "ns1.p21.dynect.net", 
+            "ns2.p21.dynect.net", 
+            "ns3.p21.dynect.net", 
+            "ns4.p21.dynect.net"
+        ], 
+        "domain-name": "radio-canada.ca", 
+        "fuzzer": "original*", 
+        "geoip-country": "Canada", 
+        "ssdeep-score": 99
+    }, 
+    {
+        "dns-a": [
+            "72.52.179.174"
+        ], 
+        "dns-mx": [
+            "mx156.hostedmxserver.com"
+        ], 
+        "dns-ns": [
+            "ns1.parklogic.com", 
+            "ns2.parklogic.com", 
+            "ns3.parklogic.com", 
+            "ns4.parklogic.com", 
+            "ns5.parklogic.com"
+        ], 
+        "domain-name": "radio-canda.ca", 
+        "fuzzer": "omission", 
+        "geoip-country": "United States", 
+        "mx-spy": true, 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "162.248.180.54"
+        ], 
+        "dns-mx": [
+            "cluster1.us.messagelabs.com", 
+            "cluster1a.us.messagelabs.com"
+        ], 
+        "dns-ns": [
+            "ns1.p21.dynect.net", 
+            "ns2.p21.dynect.net", 
+            "ns3.p21.dynect.net", 
+            "ns4.p21.dynect.net"
+        ], 
+        "domain-name": "radiocanada.ca", 
+        "fuzzer": "omission", 
+        "geoip-country": "Canada", 
+        "ssdeep-score": 99
+    }, 
+    {
+        "dns-a": [
+            "185.53.178.6"
+        ], 
+        "dns-mx": [
+            "mail.h-email.net"
+        ], 
+        "dns-ns": [
+            "ns1.parkingcrew.net", 
+            "ns2.parkingcrew.net"
+        ], 
+        "domain-name": "radi.o-canada.ca", 
+        "fuzzer": "subdomain", 
+        "geoip-country": "Germany", 
+        "mx-spy": true, 
+        "ssdeep-score": 0
+    }
+]

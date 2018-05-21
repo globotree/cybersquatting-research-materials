@@ -1,0 +1,219 @@
+[
+    {
+        "dns-ns": [
+            "ns1.p132.dynect.net", 
+            "ns2.p132.dynect.net", 
+            "ns3.p132.dynect.net", 
+            "ns4.p132.dynect.net", 
+            "pdns120.ultradns.biz", 
+            "pdns120.ultradns.com", 
+            "pdns120.ultradns.net", 
+            "pdns120.ultradns.org"
+        ], 
+        "domain-name": "aolcdn.com", 
+        "fuzzer": "original*"
+    }, 
+    {
+        "dns-ns": [
+            "kara.ns.cloudflare.com", 
+            "mark.ns.cloudflare.com"
+        ], 
+        "domain-name": "colcdn.com", 
+        "fuzzer": "bitsquatting"
+    }, 
+    {
+        "dns-a": [
+            "109.232.194.246", 
+            "109.232.194.247", 
+            "109.232.194.248", 
+            "109.232.194.249", 
+            "109.232.194.251", 
+            "109.232.194.252", 
+            "109.232.194.253", 
+            "109.232.194.254"
+        ], 
+        "dns-mx": [
+            "mx0.eulerian.net", 
+            "mx1.eulerian.net"
+        ], 
+        "dns-ns": [
+            "ns01.eulerian.net", 
+            "ns02.eulerian.net", 
+            "ns03.eulerian.net", 
+            "ns04.eulerian.net"
+        ], 
+        "domain-name": "eolcdn.com", 
+        "fuzzer": "bitsquatting", 
+        "geoip-country": "France"
+    }, 
+    {
+        "dns-ns": [
+            "ns1.oray.net", 
+            "ns2.oray.net"
+        ], 
+        "domain-name": "iolcdn.com", 
+        "fuzzer": "bitsquatting"
+    }, 
+    {
+        "dns-a": [
+            "184.168.221.38"
+        ], 
+        "dns-mx": [
+            "mailstore1.secureserver.net", 
+            "smtp.secureserver.net"
+        ], 
+        "dns-ns": [
+            "ns01.domaincontrol.com", 
+            "ns02.domaincontrol.com"
+        ], 
+        "domain-name": "aol-cdn.com", 
+        "fuzzer": "hyphenation", 
+        "geoip-country": "United States"
+    }, 
+    {
+        "dns-a": [
+            "216.146.46.10", 
+            "216.146.46.11"
+        ], 
+        "dns-mx": [
+            "mx00.1and1.com", 
+            "mx01.1and1.com"
+        ], 
+        "dns-ns": [
+            "ns1.p27.dynect.net", 
+            "ns2.p27.dynect.net", 
+            "ns3.p27.dynect.net", 
+            "ns4.p27.dynect.net"
+        ], 
+        "domain-name": "alcdn.com", 
+        "fuzzer": "omission", 
+        "geoip-country": "United States"
+    }, 
+    {
+        "dns-a": [
+            "222.180.162.237"
+        ], 
+        "domain-name": "olcdn.com", 
+        "fuzzer": "omission", 
+        "geoip-country": "China"
+    }, 
+    {
+        "dns-a": [
+            "149.174.107.98", 
+            "149.174.110.103", 
+            "195.93.85.39", 
+            "207.200.74.30", 
+            "64.12.79.10", 
+            "64.12.89.152"
+        ], 
+        "dns-ns": [
+            "dns-01.ns.aol.com", 
+            "dns-02.ns.aol.com", 
+            "dns-06.ns.aol.com", 
+            "dns-07.ns.aol.com"
+        ], 
+        "domain-name": "aolcd.com", 
+        "fuzzer": "omission", 
+        "geoip-country": "United States"
+    }, 
+    {
+        "dns-ns": [
+            "lv3ns1.ffdns.net", 
+            "lv3ns2.ffdns.net", 
+            "lv3ns3.ffdns.net", 
+            "lv3ns4.ffdns.net"
+        ], 
+        "domain-name": "aocdn.com", 
+        "fuzzer": "omission"
+    }, 
+    {
+        "dns-a": [
+            "37.58.107.93"
+        ], 
+        "dns-mx": [
+            "mail.efty.com"
+        ], 
+        "dns-ns": [
+            "ns1.eftydns.com", 
+            "ns2.eftydns.com"
+        ], 
+        "domain-name": "aolcn.com", 
+        "fuzzer": "omission", 
+        "geoip-country": "Netherlands"
+    }, 
+    {
+        "dns-a": [
+            "165.160.13.20", 
+            "165.160.15.20"
+        ], 
+        "dns-ns": [
+            "a4.nstld.com", 
+            "f4.nstld.com", 
+            "g4.nstld.com", 
+            "l4.nstld.com"
+        ], 
+        "domain-name": "aoldn.com", 
+        "fuzzer": "omission", 
+        "geoip-country": "United States"
+    }, 
+    {
+        "dns-ns": [
+            "dns19.hichina.com", 
+            "dns20.hichina.com"
+        ], 
+        "domain-name": "ailcdn.com", 
+        "fuzzer": "replacement"
+    }, 
+    {
+        "dns-a": [
+            "104.17.94.8", 
+            "104.17.95.8"
+        ], 
+        "dns-aaaa": [
+            "2400:cb00:2048:1::6811:5e08", 
+            "2400:cb00:2048:1::6811:5f08"
+        ], 
+        "dns-ns": [
+            "ian.ns.cloudflare.com", 
+            "marjory.ns.cloudflare.com"
+        ], 
+        "domain-name": "aopcdn.com", 
+        "fuzzer": "replacement", 
+        "geoip-country": "United States"
+    }, 
+    {
+        "dns-mx": [
+            "mailstore1.secureserver.net", 
+            "smtp.secureserver.net"
+        ], 
+        "dns-ns": [
+            "ns53.domaincontrol.com", 
+            "ns54.domaincontrol.com"
+        ], 
+        "domain-name": "solcdn.com", 
+        "fuzzer": "replacement"
+    }, 
+    {
+        "dns-a": [
+            "216.194.64.193"
+        ], 
+        "domain-name": "allcdn.com", 
+        "fuzzer": "replacement", 
+        "geoip-country": "Canada"
+    }, 
+    {
+        "dns-a": [
+            "34.213.211.107", 
+            "54.191.175.112", 
+            "54.71.185.232"
+        ], 
+        "dns-ns": [
+            "ns-1013.awsdns-62.net", 
+            "ns-1200.awsdns-22.org", 
+            "ns-1839.awsdns-37.co.uk", 
+            "ns-92.awsdns-11.com"
+        ], 
+        "domain-name": "alocdn.com", 
+        "fuzzer": "transposition"
+    }
+]

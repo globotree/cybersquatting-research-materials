@@ -1,0 +1,77 @@
+[
+    {
+        "dns-a": [
+            "200.17.209.2"
+        ], 
+        "dns-aaaa": [
+            "2801:82:8020:0:8377:0:101:12"
+        ], 
+        "dns-mx": [
+            "araucaria.ufpr.br"
+        ], 
+        "dns-ns": [
+            "ns.ufpr.br", 
+            "ns2.ufpr.br"
+        ], 
+        "domain-name": "ufpr.br", 
+        "fuzzer": "original*", 
+        "geoip-country": "Brazil"
+    }, 
+    {
+        "dns-a": [
+            "138.122.95.20", 
+            "200.129.159.13"
+        ], 
+        "dns-aaaa": [
+            "2001:12f0:e41:1000::7"
+        ], 
+        "dns-mx": [
+            "amajari.ufrr.br", 
+            "mta1.ufrr.br", 
+            "mta2.ufrr.br", 
+            "mta3.ufrr.br", 
+            "mta4.ufrr.br"
+        ], 
+        "dns-ns": [
+            "macunaima.ufrr.br", 
+            "ns1.ufrr.br", 
+            "ns2.ufrr.br", 
+            "ns3.ufrr.br"
+        ], 
+        "domain-name": "ufrr.br", 
+        "fuzzer": "bitsquatting", 
+        "geoip-country": "Brazil"
+    }, 
+    {
+        "dns-a": [
+            "150.165.254.52"
+        ], 
+        "dns-mx": [
+            "email.ufpb.br", 
+            "mx1.ufpb.br", 
+            "mx2.ufpb.br"
+        ], 
+        "dns-ns": [
+            "dns1.ufpb.br", 
+            "dns2.ufpb.br", 
+            "server1.pop-pb.rnp.br"
+        ], 
+        "domain-name": "ufpb.br", 
+        "fuzzer": "bitsquatting", 
+        "geoip-country": "Brazil"
+    }, 
+    {
+        "dns-mx": [
+            "canit.ufpe.br"
+        ], 
+        "dns-ns": [
+            "dns1.cin.ufpe.br", 
+            "dns2.cin.ufpe.br", 
+            "dns3.cin.ufpe.br", 
+            "frevo.ufpe.br", 
+            "maracatu.ufpe.br"
+        ], 
+        "domain-name": "ufpe.br", 
+        "fuzzer": "replacement"
+    }
+]

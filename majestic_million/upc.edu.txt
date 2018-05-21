@@ -1,0 +1,227 @@
+[
+    {
+        "dns-a": [
+            "147.83.2.135"
+        ], 
+        "dns-mx": [
+            "mx1.upc.es", 
+            "mx2.upc.es"
+        ], 
+        "dns-ns": [
+            "backus.upc.es", 
+            "euler.upc.es", 
+            "ns1.cesca.cat", 
+            "ns2.cesca.cat"
+        ], 
+        "domain-name": "upc.edu", 
+        "fuzzer": "original*", 
+        "geoip-country": "Spain", 
+        "ssdeep-score": 100
+    }, 
+    {
+        "dns-a": [
+            "147.124.1.42"
+        ], 
+        "dns-mx": [
+            "us-smtp-inbound-1.mimecast.com", 
+            "us-smtp-inbound-2.mimecast.com"
+        ], 
+        "dns-ns": [
+            "dns1.albion.edu", 
+            "dns1.merit.net", 
+            "dns2.albion.edu", 
+            "dns2.merit.net", 
+            "dns3.merit.net"
+        ], 
+        "domain-name": "tpc.edu", 
+        "fuzzer": "bitsquatting", 
+        "geoip-country": "United States"
+    }, 
+    {
+        "dns-a": [
+            "52.170.90.255"
+        ], 
+        "dns-mx": [
+            "utc-edu.mail.protection.outlook.com"
+        ], 
+        "dns-ns": [
+            "ens1.utc.edu", 
+            "ens2.utc.edu"
+        ], 
+        "domain-name": "utc.edu", 
+        "fuzzer": "bitsquatting", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "190.104.24.102"
+        ], 
+        "dns-mx": [
+            "alt1.aspmx.l.google.com", 
+            "alt2.aspmx.l.google.com", 
+            "alt3.aspmx.l.google.com", 
+            "alt4.aspmx.l.google.com", 
+            "aspmx.l.google.com"
+        ], 
+        "dns-ns": [
+            "ns.upb.edu", 
+            "ns2.upb.edu"
+        ], 
+        "domain-name": "upb.edu", 
+        "fuzzer": "bitsquatting", 
+        "geoip-country": "Bolivia", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "207.207.127.174"
+        ], 
+        "dns-mx": [
+            "ups-edu.mail.protection.outlook.com"
+        ], 
+        "dns-ns": [
+            "dns1.pugetsound.edu", 
+            "dns2.pugetsound.edu", 
+            "dns3.pugetsound.edu"
+        ], 
+        "domain-name": "ups.edu", 
+        "fuzzer": "bitsquatting", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-mx": [
+            "upmc-edu.mail.protection.outlook.com"
+        ], 
+        "dns-ns": [
+            "ns3.upmc.com", 
+            "ns4.upmc.com", 
+            "ns5.upmc.com", 
+            "ns6.upmc.com"
+        ], 
+        "domain-name": "upmc.edu", 
+        "fuzzer": "insertion"
+    }, 
+    {
+        "dns-a": [
+            "209.166.164.72"
+        ], 
+        "dns-mx": [
+            "barracuda.pc.edu", 
+            "barracuda2.pc.edu", 
+            "pc-edu.mail.protection.outlook.com"
+        ], 
+        "dns-ns": [
+            "ns1.pc.edu", 
+            "ns2.pc.edu", 
+            "ns3.pc.edu", 
+            "ns4.pc.edu"
+        ], 
+        "domain-name": "pc.edu", 
+        "fuzzer": "omission"
+    }, 
+    {
+        "dns-a": [
+            "64.251.254.18"
+        ], 
+        "dns-ns": [
+            "kate.ns.cloudflare.com", 
+            "lee.ns.cloudflare.com"
+        ], 
+        "domain-name": "up.edu", 
+        "fuzzer": "omission", 
+        "geoip-country": "United States"
+    }, 
+    {
+        "dns-a": [
+            "129.137.4.225"
+        ], 
+        "dns-mx": [
+            "ucmailmx3.uc.edu", 
+            "ucmailmx4.uc.edu"
+        ], 
+        "dns-ns": [
+            "ucdnsa.uc.edu", 
+            "ucdnsb.uc.edu"
+        ], 
+        "domain-name": "uc.edu", 
+        "fuzzer": "omission", 
+        "geoip-country": "United States"
+    }, 
+    {
+        "dns-a": [
+            "84.89.128.15"
+        ], 
+        "dns-mx": [
+            "ALT1.ASPMX.L.GOOGLE.COM", 
+            "ALT2.ASPMX.L.GOOGLE.COM", 
+            "ASPMX.L.GOOGLE.COM", 
+            "ASPMX2.GOOGLEMAIL.COM", 
+            "ASPMX3.GOOGLEMAIL.COM"
+        ], 
+        "dns-ns": [
+            "ns1.upf.edu", 
+            "ns2.upf.edu"
+        ], 
+        "domain-name": "upf.edu", 
+        "fuzzer": "replacement", 
+        "geoip-country": "Spain", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "213.73.40.242"
+        ], 
+        "dns-mx": [
+            "smtp.uoc.edu"
+        ], 
+        "dns-ns": [
+            "nepal.uoc.es", 
+            "tibet.uoc.es"
+        ], 
+        "domain-name": "uoc.edu", 
+        "fuzzer": "replacement", 
+        "geoip-country": "Spain", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "192.231.68.40"
+        ], 
+        "dns-mx": [
+            "mxa-00141b01.gslb.pphosted.com", 
+            "mxb-00141b01.gslb.pphosted.com"
+        ], 
+        "dns-ns": [
+            "ibdmzns1vip.umc.edu", 
+            "ibdmzns2vip.umc.edu"
+        ], 
+        "domain-name": "umc.edu", 
+        "fuzzer": "replacement", 
+        "geoip-country": "United States"
+    }, 
+    {
+        "dns-a": [
+            "138.91.148.108"
+        ], 
+        "dns-ns": [
+            "ns1.puc.edu", 
+            "ns2.puc.edu", 
+            "ns3.puc.edu"
+        ], 
+        "domain-name": "puc.edu", 
+        "fuzzer": "transposition"
+    }, 
+    {
+        "dns-a": [
+            "123.56.28.62"
+        ], 
+        "dns-ns": [
+            "vip1.alidns.com", 
+            "vip2.alidns.com"
+        ], 
+        "domain-name": "upc-edu.com", 
+        "fuzzer": "various"
+    }
+]

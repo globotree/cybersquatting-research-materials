@@ -1,0 +1,51 @@
+[
+    {
+        "dns-a": [
+            "172.217.23.169"
+        ], 
+        "dns-aaaa": [
+            "2a00:1450:4001:81f::2009"
+        ], 
+        "dns-ns": [
+            "ns1.google.com", 
+            "ns2.google.com", 
+            "ns3.google.com", 
+            "ns4.google.com"
+        ], 
+        "domain-name": "blogspot.ca", 
+        "fuzzer": "original*", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 77
+    }, 
+    {
+        "dns-a": [
+            "174.129.203.75"
+        ], 
+        "dns-mx": [
+            "mail.blog-spot.ca"
+        ], 
+        "dns-ns": [
+            "ns1.mywahosting.com", 
+            "ns2.mywahosting.com", 
+            "ns3.mywahosting.com", 
+            "ns4.mywahosting.com"
+        ], 
+        "domain-name": "blog-spot.ca", 
+        "fuzzer": "hyphenation", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "69.172.201.153"
+        ], 
+        "dns-ns": [
+            "ns1.uniregistrymarket.link", 
+            "ns2.uniregistrymarket.link"
+        ], 
+        "domain-name": "blo.gspot.ca", 
+        "fuzzer": "subdomain", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 0
+    }
+]

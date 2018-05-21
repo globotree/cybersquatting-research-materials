@@ -1,0 +1,36 @@
+[
+    {
+        "dns-a": [
+            "205.254.135.7"
+        ], 
+        "dns-aaaa": [
+            "2607:f368:1000:1001::1007"
+        ], 
+        "dns-mx": [
+            "mxrelay.doe.gov"
+        ], 
+        "dns-ns": [
+            "phantom.eia.gov", 
+            "redball.eia.gov"
+        ], 
+        "domain-name": "eia.gov", 
+        "fuzzer": "original*", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 100
+    }, 
+    {
+        "dns-a": [
+            "165.206.254.134"
+        ], 
+        "dns-ns": [
+            "dns.iowaccess.org", 
+            "ns1.iowa.gov", 
+            "ns2.iowa.gov", 
+            "ns3.iowa.gov"
+        ], 
+        "domain-name": "ia.gov", 
+        "fuzzer": "omission", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 0
+    }
+]

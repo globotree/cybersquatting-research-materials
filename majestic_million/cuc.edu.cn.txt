@@ -1,0 +1,129 @@
+[
+    {
+        "dns-a": [
+            "60.247.40.1"
+        ], 
+        "dns-mx": [
+            "hzmx01.mxmail.netease.com", 
+            "hzmx02.mxmail.netease.com"
+        ], 
+        "dns-ns": [
+            "BDNS.cuc.edu.cn", 
+            "BDNS2.cuc.edu.cn", 
+            "PDNS.cuc.edu.cn"
+        ], 
+        "domain-name": "cuc.edu.cn", 
+        "fuzzer": "original*", 
+        "geoip-country": "China"
+    }, 
+    {
+        "dns-mx": [
+            "mail.cucn.edu.cn", 
+            "mx-cucn-edu-cn.icoremail.net"
+        ], 
+        "dns-ns": [
+            "dns1.cucn.edu.cn"
+        ], 
+        "domain-name": "cucn.edu.cn", 
+        "fuzzer": "addition"
+    }, 
+    {
+        "dns-mx": [
+            "hzmx01.mxmail.netease.com", 
+            "mxhm.qiye.163.com"
+        ], 
+        "dns-ns": [
+            "dns.cug.edu.cn", 
+            "fossil.cug.edu.cn"
+        ], 
+        "domain-name": "cug.edu.cn", 
+        "fuzzer": "bitsquatting"
+    }, 
+    {
+        "dns-mx": [
+            "211.151.89.6"
+        ], 
+        "dns-ns": [
+            "dns.online.edu.cn", 
+            "dns2.online.edu.cn"
+        ], 
+        "domain-name": "ciuc.edu.cn", 
+        "fuzzer": "insertion"
+    }, 
+    {
+        "dns-mx": [
+            "mail.chu.edu.cn"
+        ], 
+        "dns-ns": [
+            "dns1.chu.edu.cn", 
+            "dns2.chu.edu.cn"
+        ], 
+        "domain-name": "chc.edu.cn", 
+        "fuzzer": "replacement"
+    }, 
+    {
+        "dns-a": [
+            "210.34.0.2", 
+            "210.34.0.4", 
+            "219.247.64.101"
+        ], 
+        "dns-aaaa": [
+            "2002:dbf7:4065::dbf7:4065"
+        ], 
+        "dns-mx": [
+            "mail.cjc.edu.cn", 
+            "mail1.cjc.edu.cn", 
+            "mail2.cjc.edu.cn"
+        ], 
+        "dns-ns": [
+            "dns-cjc.cjc.edu.cn", 
+            "ns1.cjc.edu.cn", 
+            "ns2.cjc.edu.cn"
+        ], 
+        "domain-name": "cjc.edu.cn", 
+        "fuzzer": "replacement"
+    }, 
+    {
+        "dns-ns": [
+            "dns1.cyu.edu.cn"
+        ], 
+        "domain-name": "cyc.edu.cn", 
+        "fuzzer": "replacement"
+    }, 
+    {
+        "dns-ns": [
+            "ns1.service.edu.cn", 
+            "ns2.service.edu.cn"
+        ], 
+        "domain-name": "czc.edu.cn", 
+        "fuzzer": "replacement"
+    }, 
+    {
+        "dns-a": [
+            "59.72.224.68"
+        ], 
+        "dns-aaaa": [
+            "2002:3b48:e044::3b48:e044"
+        ], 
+        "dns-mx": [
+            "mxbiz1.qq.com", 
+            "mxbiz2.qq.com"
+        ], 
+        "dns-ns": [
+            "dns1.ccu.edu.cn"
+        ], 
+        "domain-name": "ccu.edu.cn", 
+        "fuzzer": "transposition"
+    }, 
+    {
+        "dns-a": [
+            "118.178.215.100"
+        ], 
+        "dns-ns": [
+            "f1g1ns1.dnspod.net", 
+            "f1g1ns2.dnspod.net"
+        ], 
+        "domain-name": "cucedu.cn", 
+        "fuzzer": "various"
+    }
+]

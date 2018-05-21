@@ -1,0 +1,50 @@
+[
+    {
+        "dns-a": [
+            "184.73.204.162"
+        ], 
+        "dns-mx": [
+            "aspmx.l.google.com"
+        ], 
+        "dns-ns": [
+            "ns1.mediatemple.net", 
+            "ns2.mediatemple.net"
+        ], 
+        "domain-name": "olioboard.com", 
+        "fuzzer": "original*", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 93
+    }, 
+    {
+        "dns-a": [
+            "216.239.32.21", 
+            "216.239.34.21", 
+            "216.239.36.21", 
+            "216.239.38.21"
+        ], 
+        "dns-ns": [
+            "ns69.domaincontrol.com", 
+            "ns70.domaincontrol.com"
+        ], 
+        "domain-name": "oliboard.com", 
+        "fuzzer": "omission", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "95.211.219.67"
+        ], 
+        "domain-name": "oliob.oard.com", 
+        "fuzzer": "subdomain", 
+        "geoip-country": "Netherlands"
+    }, 
+    {
+        "dns-a": [
+            "205.178.189.129"
+        ], 
+        "domain-name": "oliobo.ard.com", 
+        "fuzzer": "subdomain", 
+        "geoip-country": "United States"
+    }
+]

@@ -1,0 +1,103 @@
+[
+    {
+        "dns-mx": [
+            "mail.ytu.edu.cn"
+        ], 
+        "dns-ns": [
+            "dns.ytu.edu.cn"
+        ], 
+        "domain-name": "ytu.edu.cn", 
+        "fuzzer": "original*"
+    }, 
+    {
+        "dns-mx": [
+            "mxbiz2.qq.com"
+        ], 
+        "dns-ns": [
+            "dns.hn.edu.cn", 
+            "pdns.xtu.edu.cn"
+        ], 
+        "domain-name": "xtu.edu.cn", 
+        "fuzzer": "bitsquatting"
+    }, 
+    {
+        "dns-a": [
+            "42.247.25.1"
+        ], 
+        "dns-ns": [
+            "ns1.service.edu.cn", 
+            "ns2.service.edu.cn"
+        ], 
+        "domain-name": "ygu.edu.cn", 
+        "fuzzer": "replacement", 
+        "geoip-country": "China"
+    }, 
+    {
+        "dns-mx": [
+            "mxbiz1.qq.com", 
+            "mxbiz2.qq.com"
+        ], 
+        "dns-ns": [
+            "cims1.yzu.edu.cn"
+        ], 
+        "domain-name": "yzu.edu.cn", 
+        "fuzzer": "replacement", 
+        "mx-spy": true
+    }, 
+    {
+        "dns-a": [
+            "210.42.241.6"
+        ], 
+        "dns-mx": [
+            "mxbiz1.qq.com", 
+            "mxbiz2.qq.com"
+        ], 
+        "dns-ns": [
+            "dns.htu.edu.cn", 
+            "dns2.htu.edu.cn"
+        ], 
+        "domain-name": "htu.edu.cn", 
+        "fuzzer": "replacement", 
+        "geoip-country": "China"
+    }, 
+    {
+        "dns-a": [
+            "192.168.49.199"
+        ], 
+        "dns-mx": [
+            "stu-edu-cn.mail.protection.partner.outlook.cn"
+        ], 
+        "dns-ns": [
+            "dns1.stu.edu.cn", 
+            "dns2.stu.edu.cn", 
+            "dns3.stu.edu.cn"
+        ], 
+        "domain-name": "stu.edu.cn", 
+        "fuzzer": "replacement"
+    }, 
+    {
+        "dns-a": [
+            "211.82.0.10"
+        ], 
+        "dns-mx": [
+            "mxbiz1.qq.com", 
+            "mxbiz2.qq.com"
+        ], 
+        "dns-ns": [
+            "esxi02-dns"
+        ], 
+        "domain-name": "tyu.edu.cn", 
+        "fuzzer": "transposition"
+    }, 
+    {
+        "dns-a": [
+            "192.161.61.251"
+        ], 
+        "dns-ns": [
+            "ns6.dnsdun.com", 
+            "ns6.dnsdun.net"
+        ], 
+        "domain-name": "ytuedu.cn", 
+        "fuzzer": "various"
+    }
+]

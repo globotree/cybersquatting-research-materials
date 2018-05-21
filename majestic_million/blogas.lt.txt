@@ -1,0 +1,143 @@
+[
+    {
+        "dns-a": [
+            "104.27.144.103", 
+            "104.27.145.103"
+        ], 
+        "dns-aaaa": [
+            "2400:cb00:2048:1::681b:9067", 
+            "2400:cb00:2048:1::681b:9167"
+        ], 
+        "dns-mx": [
+            "mx1.interdata.lt", 
+            "mx2.interdata.lt"
+        ], 
+        "dns-ns": [
+            "emma.ns.cloudflare.com", 
+            "greg.ns.cloudflare.com"
+        ], 
+        "domain-name": "blogas.lt", 
+        "fuzzer": "original*", 
+        "geoip-country": "United States"
+    }, 
+    {
+        "dns-a": [
+            "79.98.25.1"
+        ], 
+        "dns-mx": [
+            "blogis.lt", 
+            "mx-backup.serveriai.lt"
+        ], 
+        "dns-ns": [
+            "ns1.serveriai.lt", 
+            "ns2.serveriai.lt", 
+            "ns3.serveriai.lt", 
+            "ns4.serveriai.lt"
+        ], 
+        "domain-name": "blogis.lt", 
+        "fuzzer": "bitsquatting", 
+        "geoip-country": "Lithuania"
+    }, 
+    {
+        "dns-a": [
+            "141.136.37.10"
+        ], 
+        "dns-mx": [
+            "mail.vardas.lt"
+        ], 
+        "dns-ns": [
+            "ns.vardas.lt", 
+            "ns2.vardas.lt", 
+            "ns3.vardas.lt"
+        ], 
+        "domain-name": "biogas.lt", 
+        "fuzzer": "homoglyph", 
+        "geoip-country": "Lithuania"
+    }, 
+    {
+        "dns-a": [
+            "141.136.37.203"
+        ], 
+        "dns-mx": [
+            "mail.vardas.lt", 
+            "mail2.vardas.lt"
+        ], 
+        "dns-ns": [
+            "ns.vardas.lt", 
+            "ns2.vardas.lt"
+        ], 
+        "domain-name": "blogs.lt", 
+        "fuzzer": "omission", 
+        "geoip-country": "Lithuania"
+    }, 
+    {
+        "dns-a": [
+            "79.98.25.1"
+        ], 
+        "dns-mx": [
+            "logas.lt", 
+            "mx-backup.serveriai.lt"
+        ], 
+        "dns-ns": [
+            "ns1.serveriai.lt", 
+            "ns2.serveriai.lt", 
+            "ns3.serveriai.lt", 
+            "ns4.serveriai.lt"
+        ], 
+        "domain-name": "logas.lt", 
+        "fuzzer": "omission", 
+        "geoip-country": "Lithuania"
+    }, 
+    {
+        "dns-a": [
+            "104.27.152.10", 
+            "104.27.153.10"
+        ], 
+        "dns-aaaa": [
+            "2400:cb00:2048:1::681b:980a", 
+            "2400:cb00:2048:1::681b:990a"
+        ], 
+        "dns-mx": [
+            "dc-900d0f2b44af.vlogas.lt"
+        ], 
+        "dns-ns": [
+            "amy.ns.cloudflare.com", 
+            "jonah.ns.cloudflare.com"
+        ], 
+        "domain-name": "vlogas.lt", 
+        "fuzzer": "replacement", 
+        "geoip-country": "United States"
+    }, 
+    {
+        "dns-a": [
+            "93.115.31.110"
+        ], 
+        "dns-mx": [
+            "mail.blobas.lt"
+        ], 
+        "dns-ns": [
+            "ns1.domenai.lt", 
+            "ns2.domenai.lt", 
+            "ns3.domenai.lt"
+        ], 
+        "domain-name": "blobas.lt", 
+        "fuzzer": "replacement", 
+        "geoip-country": "Lithuania"
+    }, 
+    {
+        "dns-a": [
+            "79.98.25.1"
+        ], 
+        "domain-name": "b.logas.lt", 
+        "fuzzer": "subdomain", 
+        "geoip-country": "Lithuania"
+    }, 
+    {
+        "dns-a": [
+            "193.46.84.19"
+        ], 
+        "domain-name": "blo.gas.lt", 
+        "fuzzer": "subdomain", 
+        "geoip-country": "Lithuania"
+    }
+]

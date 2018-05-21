@@ -1,0 +1,20 @@
+[
+    {
+        "dns-ns": [
+            "ns1.uba.ar", 
+            "ns2.uba.ar"
+        ], 
+        "domain-name": "uba.ar", 
+        "fuzzer": "original*"
+    }, 
+    {
+        "dns-ns": [
+            "ns1.rdns.ar", 
+            "ns2.rdns.ar", 
+            "ns5.rdns.ar", 
+            "ns6.rdns.ar"
+        ], 
+        "domain-name": "ba.ar", 
+        "fuzzer": "omission"
+    }
+]

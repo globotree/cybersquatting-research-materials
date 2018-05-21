@@ -1,0 +1,42 @@
+[
+    {
+        "dns-a": [
+            "161.7.35.25"
+        ], 
+        "dns-mx": [
+            "mt-gov.mail.protection.outlook.com"
+        ], 
+        "dns-ns": [
+            "mtdnspri.mt.gov", 
+            "mtdnssec.mt.gov", 
+            "mtdnstri.mt.gov"
+        ], 
+        "domain-name": "mt.gov", 
+        "fuzzer": "original*", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 100
+    }, 
+    {
+        "dns-mx": [
+            "mtcmail.mtc.gov"
+        ], 
+        "dns-ns": [
+            "auth1.dns.cogentco.com", 
+            "auth2.dns.cogentco.com", 
+            "auth4.dns.cogentco.com", 
+            "auth5.dns.cogentco.com"
+        ], 
+        "domain-name": "mtc.gov", 
+        "fuzzer": "addition"
+    }, 
+    {
+        "dns-ns": [
+            "nsA.mdarchives.state.md.us", 
+            "nsB.mdarchives.state.md.us", 
+            "nsC.mdsa.net", 
+            "nsD.mdsa.net"
+        ], 
+        "domain-name": "md.gov", 
+        "fuzzer": "bitsquatting"
+    }
+]

@@ -1,0 +1,69 @@
+[
+    {
+        "dns-a": [
+            "168.63.100.163"
+        ], 
+        "dns-mx": [
+            "mail.vangoghmuseum.nl", 
+            "mx1.cyso.net", 
+            "mx2.cyso.net"
+        ], 
+        "dns-ns": [
+            "ns1.cyso.nl", 
+            "ns2.cyso.eu", 
+            "ns3.cyso.net"
+        ], 
+        "domain-name": "vangoghmuseum.nl", 
+        "fuzzer": "original*", 
+        "geoip-country": "Netherlands", 
+        "ssdeep-score": 94
+    }, 
+    {
+        "dns-a": [
+            "103.224.182.241"
+        ], 
+        "dns-mx": [
+            "park-mx.above.com"
+        ], 
+        "dns-ns": [
+            "ns1.above.com", 
+            "ns2.above.com"
+        ], 
+        "domain-name": "vangohmuseum.nl", 
+        "fuzzer": "omission", 
+        "geoip-country": "Australia", 
+        "mx-spy": true, 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "88.159.38.3"
+        ], 
+        "dns-mx": [
+            "vangohgmuseum.nl"
+        ], 
+        "dns-ns": [
+            "ns0.transip.nl", 
+            "ns1.transip.net", 
+            "ns2.transip.eu"
+        ], 
+        "domain-name": "vangohgmuseum.nl", 
+        "fuzzer": "transposition", 
+        "geoip-country": "Netherlands"
+    }, 
+    {
+        "dns-mx": [
+            "us2.mx1.mailhostbox.com", 
+            "us2.mx2.mailhostbox.com", 
+            "us2.mx3.mailhostbox.com"
+        ], 
+        "dns-ns": [
+            "dns1.netybox.com", 
+            "dns2.netybox.com", 
+            "dns3.netybox.com", 
+            "dns4.netybox.com"
+        ], 
+        "domain-name": "vangoghmusuem.nl", 
+        "fuzzer": "transposition"
+    }
+]

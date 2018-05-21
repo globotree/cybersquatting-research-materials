@@ -1,0 +1,64 @@
+[
+    {
+        "dns-a": [
+            "141.8.224.25"
+        ], 
+        "dns-ns": [
+            "ns1.rookdns.com", 
+            "ns2.rookdns.com"
+        ], 
+        "domain-name": "bestfwdservice.com", 
+        "fuzzer": "original*", 
+        "geoip-country": "Switzerland", 
+        "ssdeep-score": 66
+    }, 
+    {
+        "dns-a": [
+            "141.8.224.25"
+        ], 
+        "dns-ns": [
+            "ns1.rookdns.com", 
+            "ns2.rookdns.com"
+        ], 
+        "domain-name": "best.fwdservice.com", 
+        "fuzzer": "subdomain", 
+        "geoip-country": "Switzerland", 
+        "ssdeep-score": 61
+    }, 
+    {
+        "dns-a": [
+            "69.172.201.153"
+        ], 
+        "dns-ns": [
+            "ns1.uniregistrymarket.link", 
+            "ns2.uniregistrymarket.link"
+        ], 
+        "domain-name": "bestfwds.ervice.com", 
+        "fuzzer": "subdomain"
+    }, 
+    {
+        "dns-a": [
+            "68.178.213.61"
+        ], 
+        "domain-name": "bestfwdse.rvice.com", 
+        "fuzzer": "subdomain", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "185.53.178.7"
+        ], 
+        "dns-mx": [
+            "mail.h-email.net"
+        ], 
+        "dns-ns": [
+            "ns1.parkingcrew.net", 
+            "ns2.parkingcrew.net"
+        ], 
+        "domain-name": "bestfwdservi.ce.com", 
+        "fuzzer": "subdomain", 
+        "geoip-country": "Germany", 
+        "mx-spy": true
+    }
+]

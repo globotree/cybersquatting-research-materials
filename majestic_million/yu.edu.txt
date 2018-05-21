@@ -1,0 +1,173 @@
+[
+    {
+        "dns-a": [
+            "23.185.0.2"
+        ], 
+        "dns-aaaa": [
+            "2620:12a:8000::2"
+        ], 
+        "dns-mx": [
+            "yu-edu.mail.protection.outlook.com"
+        ], 
+        "dns-ns": [
+            "dns03.nysernet.org", 
+            "ns1.yu.edu", 
+            "ns2.yu.edu"
+        ], 
+        "domain-name": "yu.edu", 
+        "fuzzer": "original*", 
+        "ssdeep-score": 100
+    }, 
+    {
+        "dns-a": [
+            "198.30.166.26"
+        ], 
+        "dns-mx": [
+            "xsmtp1.xu.edu", 
+            "xsmtp2.xu.edu", 
+            "xu-edu.mail.protection.outlook.com"
+        ], 
+        "dns-ns": [
+            "ns4.oar.net", 
+            "ns5.oar.net", 
+            "ns6.oar.net", 
+            "ns7.oar.net", 
+            "xvdns1.xavier.local", 
+            "xvdns2.xavier.local"
+        ], 
+        "domain-name": "xu.edu", 
+        "fuzzer": "bitsquatting", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "192.152.243.60", 
+            "64.251.63.197"
+        ], 
+        "dns-mx": [
+            "qu-edu.mail.protection.outlook.com"
+        ], 
+        "dns-ns": [
+            "dns-qu01.qu.edu", 
+            "dns-qu01.quinnipiac.edu", 
+            "dns-qu02.qu.edu", 
+            "dns-qu03.qu.edu", 
+            "dns-qu11.quinnipiac.edu"
+        ], 
+        "domain-name": "qu.edu", 
+        "fuzzer": "bitsquatting", 
+        "geoip-country": "United States"
+    }, 
+    {
+        "dns-a": [
+            "129.79.78.188", 
+            "129.79.78.189"
+        ], 
+        "dns-mx": [
+            "external-relay.indiana.edu"
+        ], 
+        "dns-ns": [
+            "dns1.illinois.edu", 
+            "dns1.iu.edu", 
+            "dns2.iu.edu"
+        ], 
+        "domain-name": "iu.edu", 
+        "fuzzer": "bitsquatting", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "23.23.92.211"
+        ], 
+        "dns-ns": [
+            "ns1.gu.edu", 
+            "ns2.gu.edu", 
+            "ns3.gu.edu"
+        ], 
+        "domain-name": "gu.edu", 
+        "fuzzer": "replacement", 
+        "geoip-country": "United States"
+    }, 
+    {
+        "dns-a": [
+            "69.167.204.55"
+        ], 
+        "dns-mx": [
+            "uu-edu.mail.protection.outlook.com"
+        ], 
+        "dns-ns": [
+            "dns1.stabletransit.com", 
+            "dns2.stabletransit.com"
+        ], 
+        "domain-name": "uu.edu", 
+        "fuzzer": "replacement", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "173.83.250.101"
+        ], 
+        "dns-mx": [
+            "mail.tu.edu"
+        ], 
+        "dns-ns": [
+            "ns17.ixwebhosting.com", 
+            "ns18.ixwebhosting.com"
+        ], 
+        "domain-name": "tu.edu", 
+        "fuzzer": "replacement", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "104.196.180.211"
+        ], 
+        "dns-mx": [
+            "alt1.aspmx.l.google.com", 
+            "alt2.aspmx.l.google.com", 
+            "aspmx.l.google.com", 
+            "aspmx2.googlemail.com", 
+            "aspmx3.googlemail.com", 
+            "aspmx4.googlemail.com", 
+            "aspmx5.googlemail.com"
+        ], 
+        "dns-ns": [
+            "dina.ns.cloudflare.com", 
+            "tim.ns.cloudflare.com"
+        ], 
+        "domain-name": "su.edu", 
+        "fuzzer": "replacement", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-ns": [
+            "pathfinder"
+        ], 
+        "domain-name": "hu.edu", 
+        "fuzzer": "replacement"
+    }, 
+    {
+        "dns-a": [
+            "168.120.16.231"
+        ], 
+        "dns-mx": [
+            "ALT1.ASPMX.L.GOOGLE.COM", 
+            "ALT2.ASPMX.L.GOOGLE.COM", 
+            "ASPMX.L.GOOGLE.COM", 
+            "ASPMX2.GOOGLEMAIL.COM", 
+            "ASPMX3.GOOGLEMAIL.COM"
+        ], 
+        "dns-ns": [
+            "abac.au.ac.th", 
+            "ksc.au.ac.th"
+        ], 
+        "domain-name": "au.edu", 
+        "fuzzer": "replacement", 
+        "geoip-country": "Thailand"
+    }
+]

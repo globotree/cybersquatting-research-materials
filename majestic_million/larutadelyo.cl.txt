@@ -1,0 +1,49 @@
+[
+    {
+        "dns-a": [
+            "72.29.73.35"
+        ], 
+        "dns-mx": [
+            "larutadelyo.cl"
+        ], 
+        "dns-ns": [
+            "ns1.servidor-principal.com", 
+            "ns2.servidor-principal.com"
+        ], 
+        "domain-name": "larutadelyo.cl", 
+        "fuzzer": "original*", 
+        "geoip-country": "United States"
+    }, 
+    {
+        "dns-a": [
+            "72.52.4.120"
+        ], 
+        "dns-mx": [
+            "localhost"
+        ], 
+        "dns-ns": [
+            "ns1.sedoparking.com", 
+            "ns2.sedoparking.com"
+        ], 
+        "domain-name": "larutadel.yo.cl", 
+        "fuzzer": "subdomain", 
+        "geoip-country": "United States", 
+        "mx-spy": true
+    }, 
+    {
+        "dns-a": [
+            "185.53.179.6"
+        ], 
+        "dns-mx": [
+            "mail.h-email.net"
+        ], 
+        "dns-ns": [
+            "ns1.fastpark.net", 
+            "ns2.fastpark.net"
+        ], 
+        "domain-name": "larutadely.o.cl", 
+        "fuzzer": "subdomain", 
+        "geoip-country": "Germany", 
+        "mx-spy": true
+    }
+]

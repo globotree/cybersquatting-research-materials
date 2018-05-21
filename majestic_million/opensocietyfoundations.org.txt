@@ -1,0 +1,97 @@
+[
+    {
+        "dns-a": [
+            "52.84.150.10", 
+            "52.84.150.11", 
+            "52.84.150.12", 
+            "52.84.150.14", 
+            "52.84.150.24", 
+            "52.84.150.26", 
+            "52.84.150.31", 
+            "52.84.150.32"
+        ], 
+        "dns-mx": [
+            "cust28106-1.in.mailcontrol.com", 
+            "cust28106-2.in.mailcontrol.com"
+        ], 
+        "dns-ns": [
+            "ns-1052.awsdns-03.org", 
+            "ns-1948.awsdns-51.co.uk", 
+            "ns-265.awsdns-33.com", 
+            "ns-748.awsdns-29.net"
+        ], 
+        "domain-name": "opensocietyfoundations.org", 
+        "fuzzer": "original*", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 100
+    }, 
+    {
+        "dns-a": [
+            "198.54.117.200"
+        ], 
+        "dns-ns": [
+            "dns101.registrar-servers.com", 
+            "dns102.registrar-servers.com"
+        ], 
+        "domain-name": "opensocietyfoundatiions.org", 
+        "fuzzer": "insertion", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "198.61.139.24"
+        ], 
+        "dns-ns": [
+            "ns1.markmonitor.com", 
+            "ns2.markmonitor.com", 
+            "ns3.markmonitor.com", 
+            "ns4.markmonitor.com", 
+            "ns5.markmonitor.com", 
+            "ns6.markmonitor.com", 
+            "ns7.markmonitor.com"
+        ], 
+        "domain-name": "opensocietyfoundation.org", 
+        "fuzzer": "omission", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 94
+    }, 
+    {
+        "dns-a": [
+            "206.188.192.246"
+        ], 
+        "domain-name": "opensociety.foundations.org", 
+        "fuzzer": "subdomain", 
+        "geoip-country": "United States"
+    }, 
+    {
+        "dns-a": [
+            "50.63.46.1"
+        ], 
+        "dns-ns": [
+            "a.service.afiliasdns.info", 
+            "b.service.afiliasdns.org", 
+            "c.service.afiliasdns.net", 
+            "d.service.afiliasdns.com", 
+            "e.service.afiliasdns.info", 
+            "f.service.afiliasdns.net"
+        ], 
+        "domain-name": "opensocietyfoundation.s.org", 
+        "fuzzer": "subdomain", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "50.63.202.56"
+        ], 
+        "dns-ns": [
+            "ns41.domaincontrol.com", 
+            "ns42.domaincontrol.com"
+        ], 
+        "domain-name": "opensocieytfoundations.org", 
+        "fuzzer": "transposition", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 0
+    }
+]

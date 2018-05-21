@@ -1,0 +1,54 @@
+[
+    {
+        "dns-a": [
+            "192.102.239.32"
+        ], 
+        "dns-ns": [
+            "drsmtpgate.nla.gov.au", 
+            "ns1.nla.gov.au", 
+            "ns1.on.net.au", 
+            "ns2.on.net", 
+            "ns3.internode.net.au", 
+            "ns4.on.net", 
+            "smtpgate.nla.gov.au"
+        ], 
+        "domain-name": "nla.gov.au", 
+        "fuzzer": "original*", 
+        "geoip-country": "Australia", 
+        "ssdeep-score": 93
+    }, 
+    {
+        "dns-a": [
+            "203.5.125.21"
+        ], 
+        "dns-mx": [
+            "cluster9.us.messagelabs.com", 
+            "cluster9a.us.messagelabs.com"
+        ], 
+        "dns-ns": [
+            "ns1.aarnet.net.au", 
+            "ns2.aarnet.net.au", 
+            "ns3.aarnet.net.au"
+        ], 
+        "domain-name": "nma.gov.au", 
+        "fuzzer": "bitsquatting", 
+        "geoip-country": "Australia", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "203.6.244.72"
+        ], 
+        "dns-mx": [
+            "cluster1.us.messagelabs.com", 
+            "cluster1a.us.messagelabs.com"
+        ], 
+        "dns-ns": [
+            "ns0.telstra.net", 
+            "ns1.telstra.net"
+        ], 
+        "domain-name": "nal.gov.au", 
+        "fuzzer": "transposition", 
+        "geoip-country": "Australia"
+    }
+]

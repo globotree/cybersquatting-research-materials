@@ -1,0 +1,36 @@
+[
+    {
+        "dns-mx": [
+            "alt1.aspmx.l.google.com", 
+            "alt2.aspmx.l.google.com", 
+            "alt3.aspmx.l.google.com", 
+            "alt4.aspmx.l.google.com", 
+            "aspmx.l.google.com"
+        ], 
+        "dns-ns": [
+            "asia1.akam.net", 
+            "dns0.news.com.au", 
+            "dns1.news.com.au", 
+            "ns1-50.akam.net", 
+            "usc1.akam.net", 
+            "usc4.akam.net", 
+            "usw1.akam.net", 
+            "usw4.akam.net"
+        ], 
+        "domain-name": "dailytelegraph.com.au", 
+        "fuzzer": "original*"
+    }, 
+    {
+        "dns-a": [
+            "203.170.80.250"
+        ], 
+        "dns-ns": [
+            "ns1.crazydomains.com", 
+            "ns2.crazydomains.com"
+        ], 
+        "domain-name": "dialytelegraph.com.au", 
+        "fuzzer": "transposition", 
+        "geoip-country": "Australia", 
+        "ssdeep-score": 0
+    }
+]

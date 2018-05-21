@@ -1,0 +1,219 @@
+[
+    {
+        "dns-ns": [
+            "prd1.azuredns-cloud.net", 
+            "prd2.azuredns-cloud.net", 
+            "prd3.azuredns-cloud.net", 
+            "prd4.azuredns-cloud.net"
+        ], 
+        "domain-name": "cloudapp.net", 
+        "fuzzer": "original*"
+    }, 
+    {
+        "dns-a": [
+            "34.248.172.53"
+        ], 
+        "dns-mx": [
+            "alt1.aspmx.l.google.com", 
+            "alt2.aspmx.l.google.com", 
+            "alt3.aspmx.l.google.com", 
+            "aspmx.l.google.com"
+        ], 
+        "dns-ns": [
+            "ns1122.ui-dns.biz", 
+            "ns1122.ui-dns.com", 
+            "ns1122.ui-dns.de", 
+            "ns1122.ui-dns.org"
+        ], 
+        "domain-name": "cloudappi.net", 
+        "fuzzer": "addition", 
+        "geoip-country": "United States"
+    }, 
+    {
+        "dns-a": [
+            "185.53.178.6"
+        ], 
+        "dns-mx": [
+            "mail.h-email.net"
+        ], 
+        "dns-ns": [
+            "ns1.parkingcrew.net", 
+            "ns2.parkingcrew.net"
+        ], 
+        "domain-name": "cloudappp.net", 
+        "fuzzer": "addition", 
+        "geoip-country": "Germany", 
+        "mx-spy": true
+    }, 
+    {
+        "dns-a": [
+            "72.52.4.122"
+        ], 
+        "dns-ns": [
+            "ns1.sedoparking.com", 
+            "ns2.sedoparking.com"
+        ], 
+        "domain-name": "cloudapps.net", 
+        "fuzzer": "addition", 
+        "geoip-country": "United States"
+    }, 
+    {
+        "dns-a": [
+            "107.162.141.174"
+        ], 
+        "dns-ns": [
+            "ns-cloud-d1.googledomains.com", 
+            "ns-cloud-d2.googledomains.com", 
+            "ns-cloud-d3.googledomains.com", 
+            "ns-cloud-d4.googledomains.com"
+        ], 
+        "domain-name": "cloud-app.net", 
+        "fuzzer": "hyphenation", 
+        "geoip-country": "United States"
+    }, 
+    {
+        "dns-a": [
+            "112.140.180.152"
+        ], 
+        "dns-ns": [
+            "ns1.nameserver.net.au", 
+            "ns2.nameserver.net.au", 
+            "ns3.nameserver.net.au"
+        ], 
+        "domain-name": "cloudyapp.net", 
+        "fuzzer": "insertion", 
+        "geoip-country": "Australia"
+    }, 
+    {
+        "dns-a": [
+            "5.79.68.108"
+        ], 
+        "dns-ns": [
+            "ns1.wombatdns.com", 
+            "ns2.wombatdns.com"
+        ], 
+        "domain-name": "coudapp.net", 
+        "fuzzer": "omission", 
+        "geoip-country": "Netherlands"
+    }, 
+    {
+        "dns-a": [
+            "192.185.146.184"
+        ], 
+        "dns-mx": [
+            "cloudap.net"
+        ], 
+        "dns-ns": [
+            "ns1.bonzahosting.com", 
+            "ns2.bonzahosting.com"
+        ], 
+        "domain-name": "cloudap.net", 
+        "fuzzer": "omission", 
+        "geoip-country": "United States"
+    }, 
+    {
+        "dns-a": [
+            "78.41.204.27"
+        ], 
+        "dns-ns": [
+            "ns1.torresdns.com", 
+            "ns2.torresdns.com"
+        ], 
+        "domain-name": "clouapp.net", 
+        "fuzzer": "omission", 
+        "geoip-country": "Netherlands"
+    }, 
+    {
+        "dns-a": [
+            "103.224.212.253"
+        ], 
+        "dns-mx": [
+            "park-mx.above.com"
+        ], 
+        "dns-ns": [
+            "ns3.above.com", 
+            "ns4.above.com"
+        ], 
+        "domain-name": "cludapp.net", 
+        "fuzzer": "omission", 
+        "geoip-country": "Australia", 
+        "mx-spy": true
+    }, 
+    {
+        "dns-a": [
+            "141.8.224.169"
+        ], 
+        "dns-ns": [
+            "ns27.rookdns.com", 
+            "ns28.rookdns.com"
+        ], 
+        "domain-name": "clodapp.net", 
+        "fuzzer": "omission", 
+        "geoip-country": "Switzerland"
+    }, 
+    {
+        "dns-ns": [
+            "ns0-vh.tagadab.com", 
+            "ns1-vh.tagadab.com", 
+            "ns2-vh.tagadab.com"
+        ], 
+        "domain-name": "cloudpp.net", 
+        "fuzzer": "omission"
+    }, 
+    {
+        "dns-a": [
+            "98.124.199.101"
+        ], 
+        "dns-ns": [
+            "dns1.name-services.com", 
+            "dns2.name-services.com", 
+            "dns3.name-services.com", 
+            "dns4.name-services.com", 
+            "dns5.name-services.com"
+        ], 
+        "domain-name": "cloudamp.net", 
+        "fuzzer": "replacement", 
+        "geoip-country": "United States"
+    }, 
+    {
+        "dns-a": [
+            "141.8.224.93"
+        ], 
+        "dns-ns": [
+            "ns7.rookdns.com", 
+            "ns8.rookdns.com"
+        ], 
+        "domain-name": "cloudspp.net", 
+        "fuzzer": "replacement", 
+        "geoip-country": "Switzerland"
+    }, 
+    {
+        "dns-a": [
+            "67.227.226.240"
+        ], 
+        "dns-mx": [
+            "mx156.hostedmxserver.com"
+        ], 
+        "dns-ns": [
+            "ns1.parklogic.com", 
+            "ns2.parklogic.com", 
+            "ns3.parklogic.com", 
+            "ns4.parklogic.com", 
+            "ns5.parklogic.com"
+        ], 
+        "domain-name": "claudapp.net", 
+        "fuzzer": "vowel-swap"
+    }, 
+    {
+        "dns-a": [
+            "46.166.182.53"
+        ], 
+        "dns-ns": [
+            "ns1.commonmx.com", 
+            "ns2.commonmx.com"
+        ], 
+        "domain-name": "cloadapp.net", 
+        "fuzzer": "vowel-swap", 
+        "geoip-country": "Netherlands"
+    }
+]

@@ -1,0 +1,139 @@
+[
+    {
+        "dns-a": [
+            "163.172.114.208"
+        ], 
+        "dns-mx": [
+            "smtp.enlightenment.org"
+        ], 
+        "dns-ns": [
+            "dns1.easydns.com", 
+            "dns2.easydns.net", 
+            "dns3.easydns.org"
+        ], 
+        "domain-name": "enlightenment.org", 
+        "fuzzer": "original*", 
+        "geoip-country": "France", 
+        "ssdeep-score": 97
+    }, 
+    {
+        "dns-a": [
+            "66.96.149.29"
+        ], 
+        "dns-mx": [
+            "mx.enlightenments.org"
+        ], 
+        "dns-ns": [
+            "ns1.ipage.com", 
+            "ns2.ipage.com"
+        ], 
+        "domain-name": "enlightenments.org", 
+        "fuzzer": "addition", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "65.254.248.133"
+        ], 
+        "dns-mx": [
+            "mx.enlightenmen.org"
+        ], 
+        "dns-ns": [
+            "ns1.fatcow.com", 
+            "ns2.fatcow.com"
+        ], 
+        "domain-name": "enlightenmen.org", 
+        "fuzzer": "omission", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "96.45.82.239", 
+            "96.45.82.60", 
+            "96.45.83.11", 
+            "96.45.83.134"
+        ], 
+        "domain-name": "enlightenm.ent.org", 
+        "fuzzer": "subdomain", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "72.52.4.122"
+        ], 
+        "dns-mx": [
+            "localhost"
+        ], 
+        "dns-ns": [
+            "ns1.sedoparking.com", 
+            "ns2.sedoparking.com"
+        ], 
+        "domain-name": "enlightenme.nt.org", 
+        "fuzzer": "subdomain", 
+        "geoip-country": "United States", 
+        "mx-spy": true, 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "98.124.199.67"
+        ], 
+        "domain-name": "enlightenmen.t.org", 
+        "fuzzer": "subdomain", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "50.63.202.25"
+        ], 
+        "dns-mx": [
+            "mailstore1.secureserver.net", 
+            "smtp.secureserver.net"
+        ], 
+        "dns-ns": [
+            "ns11.domaincontrol.com", 
+            "ns12.domaincontrol.com"
+        ], 
+        "domain-name": "onlightenment.org", 
+        "fuzzer": "vowel-swap", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "208.109.181.220"
+        ], 
+        "dns-mx": [
+            "mailstore1.secureserver.net", 
+            "smtp.secureserver.net"
+        ], 
+        "dns-ns": [
+            "ns57.domaincontrol.com", 
+            "ns58.domaincontrol.com"
+        ], 
+        "domain-name": "inlightenment.org", 
+        "fuzzer": "vowel-swap", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "98.124.199.86"
+        ], 
+        "dns-ns": [
+            "dns1.name-services.com", 
+            "dns2.name-services.com", 
+            "dns3.name-services.com", 
+            "dns4.name-services.com", 
+            "dns5.name-services.com"
+        ], 
+        "domain-name": "enlightenmint.org", 
+        "fuzzer": "vowel-swap", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 0
+    }
+]

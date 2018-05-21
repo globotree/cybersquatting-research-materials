@@ -1,0 +1,38 @@
+[
+    {
+        "dns-a": [
+            "79.98.24.240"
+        ], 
+        "dns-mx": [
+            "mx-backup.serveriai.lt", 
+            "mx.serveriai.lt"
+        ], 
+        "dns-ns": [
+            "ns1.serveriai.lt", 
+            "ns2.serveriai.lt", 
+            "ns3.serveriai.lt", 
+            "ns4.serveriai.lt"
+        ], 
+        "domain-name": "serveriai.lt", 
+        "fuzzer": "original*", 
+        "geoip-country": "Lithuania", 
+        "ssdeep-score": 100
+    }, 
+    {
+        "dns-a": [
+            "72.52.4.122"
+        ], 
+        "dns-mx": [
+            "localhost"
+        ], 
+        "dns-ns": [
+            "ns1.sedoparking.com", 
+            "ns2.sedoparking.com"
+        ], 
+        "domain-name": "serveri.ai.lt", 
+        "fuzzer": "subdomain", 
+        "geoip-country": "United States", 
+        "mx-spy": true, 
+        "ssdeep-score": 0
+    }
+]

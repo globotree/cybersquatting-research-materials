@@ -1,0 +1,55 @@
+[
+    {
+        "dns-ns": [
+            "dns-b.iij.ad.jp", 
+            "dns-c.iij.ad.jp"
+        ], 
+        "domain-name": "kool.ne.jp", 
+        "fuzzer": "bitsquatting"
+    }, 
+    {
+        "dns-mx": [
+            "mx.securemx.jp"
+        ], 
+        "dns-ns": [
+            "dns21.tayoreru.com", 
+            "dns41.tayoreru.com", 
+            "dns61.tayoreru.com"
+        ], 
+        "domain-name": "coo.ne.jp", 
+        "fuzzer": "omission"
+    }, 
+    {
+        "dns-a": [
+            "219.94.236.68"
+        ], 
+        "dns-mx": [
+            "alt1.aspmx.l.google.com", 
+            "alt2.aspmx.l.google.com", 
+            "alt3.aspmx.l.google.com", 
+            "alt4.aspmx.l.google.com", 
+            "aspmx.l.google.com"
+        ], 
+        "dns-ns": [
+            "ns1.dns.ne.jp", 
+            "ns2.dns.ne.jp"
+        ], 
+        "domain-name": "coop.ne.jp", 
+        "fuzzer": "replacement", 
+        "geoip-country": "Japan"
+    }, 
+    {
+        "dns-a": [
+            "219.94.129.96"
+        ], 
+        "dns-mx": [
+            "cool.jp"
+        ], 
+        "dns-ns": [
+            "ns1.dns.ne.jp", 
+            "ns2.dns.ne.jp"
+        ], 
+        "domain-name": "cool.jp", 
+        "fuzzer": "various"
+    }
+]

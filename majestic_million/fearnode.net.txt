@@ -1,0 +1,31 @@
+[
+    {
+        "dns-a": [
+            "51.15.130.230"
+        ], 
+        "dns-mx": [
+            "mail.eth1.es"
+        ], 
+        "dns-ns": [
+            "ns1.he.net", 
+            "ns2.he.net", 
+            "ns3.he.net", 
+            "ns4.he.net", 
+            "ns5.he.net"
+        ], 
+        "domain-name": "fearnode.net", 
+        "fuzzer": "original*", 
+        "geoip-country": "France", 
+        "mx-spy": true, 
+        "ssdeep-score": 100
+    }, 
+    {
+        "dns-a": [
+            "199.59.242.150"
+        ], 
+        "domain-name": "fearn.ode.net", 
+        "fuzzer": "subdomain", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 0
+    }
+]

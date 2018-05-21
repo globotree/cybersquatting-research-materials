@@ -1,0 +1,26 @@
+[
+    {
+        "dns-ns": [
+            "ns.fzw.cn", 
+            "ns.legaldaily.cn"
+        ], 
+        "domain-name": "legalinfo.gov.cn", 
+        "fuzzer": "original*"
+    }, 
+    {
+        "dns-a": [
+            "115.28.142.42"
+        ], 
+        "domain-name": "legal.info.gov.cn", 
+        "fuzzer": "subdomain", 
+        "geoip-country": "China"
+    }, 
+    {
+        "dns-ns": [
+            "ns.fzw.cn", 
+            "ns.legaldaily.cn"
+        ], 
+        "domain-name": "legalinfo.cn", 
+        "fuzzer": "various"
+    }
+]

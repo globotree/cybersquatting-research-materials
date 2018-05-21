@@ -1,0 +1,203 @@
+[
+    {
+        "dns-a": [
+            "213.73.40.242"
+        ], 
+        "dns-mx": [
+            "smtp.uoc.edu"
+        ], 
+        "dns-ns": [
+            "nepal.uoc.es", 
+            "tibet.uoc.es"
+        ], 
+        "domain-name": "uoc.edu", 
+        "fuzzer": "original*", 
+        "geoip-country": "Spain", 
+        "ssdeep-score": 100
+    }, 
+    {
+        "dns-a": [
+            "152.2.64.93"
+        ], 
+        "dns-mx": [
+            "unc-edu.mail.protection.outlook.com"
+        ], 
+        "dns-ns": [
+            "ncnoc.ncren.net", 
+            "ns.unc.edu", 
+            "ns2.unc.edu"
+        ], 
+        "domain-name": "unc.edu", 
+        "fuzzer": "bitsquatting", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "192.231.68.40"
+        ], 
+        "dns-mx": [
+            "mxa-00141b01.gslb.pphosted.com", 
+            "mxb-00141b01.gslb.pphosted.com"
+        ], 
+        "dns-ns": [
+            "ibdmzns1vip.umc.edu", 
+            "ibdmzns2vip.umc.edu"
+        ], 
+        "domain-name": "umc.edu", 
+        "fuzzer": "bitsquatting", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-mx": [
+            "mxmas.kent.ac.uk"
+        ], 
+        "dns-ns": [
+            "dns0.ukc.ac.uk", 
+            "dns1.ukc.ac.uk"
+        ], 
+        "domain-name": "ukc.edu", 
+        "fuzzer": "bitsquatting"
+    }, 
+    {
+        "dns-a": [
+            "168.123.129.19"
+        ], 
+        "dns-mx": [
+            "uog-edu.mail.protection.outlook.com"
+        ], 
+        "dns-ns": [
+            "gold.uog.edu", 
+            "green.uog.edu", 
+            "phloem.uoregon.edu"
+        ], 
+        "domain-name": "uog.edu", 
+        "fuzzer": "bitsquatting", 
+        "geoip-country": "Guam"
+    }, 
+    {
+        "dns-a": [
+            "205.143.216.205"
+        ], 
+        "dns-mx": [
+            "alt1.aspmx.l.google.com", 
+            "alt2.aspmx.l.google.com", 
+            "aspmx.l.google.com", 
+            "aspmx2.googlemail.com", 
+            "aspmx3.googlemail.com"
+        ], 
+        "dns-ns": [
+            "ns-1465.awsdns-55.org", 
+            "ns-1852.awsdns-39.co.uk", 
+            "ns-235.awsdns-29.com", 
+            "ns-562.awsdns-06.net"
+        ], 
+        "domain-name": "oc.edu", 
+        "fuzzer": "omission", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "129.137.4.225"
+        ], 
+        "dns-mx": [
+            "ucmailmx3.uc.edu", 
+            "ucmailmx4.uc.edu"
+        ], 
+        "dns-ns": [
+            "ucdnsa.uc.edu", 
+            "ucdnsb.uc.edu"
+        ], 
+        "domain-name": "uc.edu", 
+        "fuzzer": "omission", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "128.248.155.15"
+        ], 
+        "dns-mx": [
+            "mxeast1.uic.edu", 
+            "mxeast2.uic.edu", 
+            "mxwest1.uic.edu", 
+            "mxwest2.uic.edu"
+        ], 
+        "dns-ns": [
+            "icestation.uic-accc.uiuc.edu", 
+            "uic-dns1.uic.edu", 
+            "uic-dns2.uic.edu", 
+            "uic-dns3.uic.edu"
+        ], 
+        "domain-name": "uic.edu", 
+        "fuzzer": "replacement", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "147.83.2.135"
+        ], 
+        "dns-mx": [
+            "mx1.upc.es", 
+            "mx2.upc.es"
+        ], 
+        "dns-ns": [
+            "backus.upc.es", 
+            "euler.upc.es", 
+            "ns1.cesca.cat", 
+            "ns2.cesca.cat"
+        ], 
+        "domain-name": "upc.edu", 
+        "fuzzer": "replacement", 
+        "geoip-country": "Spain", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "192.206.65.23"
+        ], 
+        "dns-mx": [
+            "uco-edu.mail.protection.outlook.com"
+        ], 
+        "dns-ns": [
+            "ns1.uco.edu", 
+            "ns2.uco.edu", 
+            "ns3.uco.edu"
+        ], 
+        "domain-name": "uco.edu", 
+        "fuzzer": "transposition"
+    }, 
+    {
+        "dns-a": [
+            "190.144.180.141"
+        ], 
+        "dns-mx": [
+            "uac-edu.mail.protection.outlook.com"
+        ], 
+        "dns-ns": [
+            "ns-1180.awsdns-19.org", 
+            "ns-18.awsdns-02.com", 
+            "ns-1833.awsdns-37.co.uk", 
+            "ns-902.awsdns-48.net"
+        ], 
+        "domain-name": "uac.edu", 
+        "fuzzer": "vowel-swap"
+    }, 
+    {
+        "dns-a": [
+            "162.144.84.173"
+        ], 
+        "dns-mx": [
+            "uuc.edu"
+        ], 
+        "dns-ns": [
+            "ns1.bluehost.com", 
+            "ns2.bluehost.com"
+        ], 
+        "domain-name": "uuc.edu", 
+        "fuzzer": "vowel-swap"
+    }
+]

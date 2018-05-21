@@ -1,0 +1,121 @@
+[
+    {
+        "dns-a": [
+            "193.146.32.208"
+        ], 
+        "dns-mx": [
+            "mx01.puc.rediris.es", 
+            "mx02.puc.rediris.es"
+        ], 
+        "dns-ns": [
+            "chico.rediris.es", 
+            "dns.uvigo.es", 
+            "dns2.uvigo.es", 
+            "dns3.uvigo.es", 
+            "sun.rediris.es"
+        ], 
+        "domain-name": "uvigo.es", 
+        "fuzzer": "original*", 
+        "geoip-country": "Spain", 
+        "ssdeep-score": 100
+    }, 
+    {
+        "dns-a": [
+            "212.48.92.209"
+        ], 
+        "dns-mx": [
+            "evigo.es", 
+            "mx-1.evigo.es", 
+            "mx-2.evigo.es"
+        ], 
+        "dns-ns": [
+            "ns1.hosteurope.es", 
+            "ns2.hosteurope.es", 
+            "ns3.hosteurope.es", 
+            "ns4.hosteurope.es"
+        ], 
+        "domain-name": "evigo.es", 
+        "fuzzer": "bitsquatting", 
+        "geoip-country": "United Kingdom"
+    }, 
+    {
+        "dns-ns": [
+            "a.ns14.net", 
+            "b.ns14.net", 
+            "c.ns14.net", 
+            "d.ns14.net"
+        ], 
+        "domain-name": "utigo.es", 
+        "fuzzer": "bitsquatting"
+    }, 
+    {
+        "dns-a": [
+            "50.63.202.27"
+        ], 
+        "dns-mx": [
+            "mailstore1.secureserver.net", 
+            "smtp.secureserver.net"
+        ], 
+        "dns-ns": [
+            "ns57.domaincontrol.com", 
+            "ns58.domaincontrol.com"
+        ], 
+        "domain-name": "uvioo.es", 
+        "fuzzer": "bitsquatting", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "213.60.252.30"
+        ], 
+        "dns-mx": [
+            "fallbackmx.spamexperts.eu", 
+            "lastmx.spamexperts.net", 
+            "mx.spamexperts.com"
+        ], 
+        "dns-ns": [
+            "ns-cor.net.mundo-r.com", 
+            "ns.mundo-r.com"
+        ], 
+        "domain-name": "vigo.es", 
+        "fuzzer": "omission", 
+        "geoip-country": "Spain", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "72.52.4.121"
+        ], 
+        "dns-mx": [
+            "localhost"
+        ], 
+        "dns-ns": [
+            "ns1.sedoparking.com", 
+            "ns2.sedoparking.com"
+        ], 
+        "domain-name": "uv.igo.es", 
+        "fuzzer": "subdomain", 
+        "geoip-country": "United States", 
+        "mx-spy": true, 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "185.53.177.20"
+        ], 
+        "dns-mx": [
+            "mail.avigo.es"
+        ], 
+        "dns-ns": [
+            "ns1.eurodns.com", 
+            "ns2.eurodns.com", 
+            "ns3.eurodns.com", 
+            "ns4.eurodns.com"
+        ], 
+        "domain-name": "avigo.es", 
+        "fuzzer": "vowel-swap", 
+        "geoip-country": "Germany", 
+        "ssdeep-score": 0
+    }
+]

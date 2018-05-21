@@ -1,0 +1,144 @@
+[
+    {
+        "dns-a": [
+            "202.112.26.54"
+        ], 
+        "dns-mx": [
+            "mx.sjtu.edu.cn"
+        ], 
+        "dns-ns": [
+            "apple.sjtu.edu.cn", 
+            "dns.sjtu.edu.cn"
+        ], 
+        "domain-name": "sjtu.edu.cn", 
+        "fuzzer": "original*", 
+        "geoip-country": "China"
+    }, 
+    {
+        "dns-ns": [
+            "dns.shtu.edu.cn", 
+            "net.shtu.edu.cn"
+        ], 
+        "domain-name": "shtu.edu.cn", 
+        "fuzzer": "bitsquatting"
+    }, 
+    {
+        "dns-mx": [
+            "mail.sztu.edu.cn"
+        ], 
+        "dns-ns": [
+            "moonlight.sz.edu.cn", 
+            "sunshine.sz.edu.cn"
+        ], 
+        "domain-name": "sztu.edu.cn", 
+        "fuzzer": "bitsquatting"
+    }, 
+    {
+        "dns-a": [
+            "192.168.49.199"
+        ], 
+        "dns-mx": [
+            "stu-edu-cn.mail.protection.partner.outlook.cn"
+        ], 
+        "dns-ns": [
+            "dns1.stu.edu.cn", 
+            "dns2.stu.edu.cn", 
+            "dns3.stu.edu.cn"
+        ], 
+        "domain-name": "stu.edu.cn", 
+        "fuzzer": "omission"
+    }, 
+    {
+        "dns-mx": [
+            "mail.sju.edu.cn"
+        ], 
+        "dns-ns": [
+            "edu-dns"
+        ], 
+        "domain-name": "sju.edu.cn", 
+        "fuzzer": "omission", 
+        "mx-spy": true
+    }, 
+    {
+        "dns-mx": [
+            "oar.djtu.edu.cn"
+        ], 
+        "dns-ns": [
+            "dns.djtu.edu.cn", 
+            "oar.djtu.edu.cn"
+        ], 
+        "domain-name": "djtu.edu.cn", 
+        "fuzzer": "replacement"
+    }, 
+    {
+        "dns-mx": [
+            "hzmx01.mxmail.netease.com", 
+            "hzmx02.mxmail.netease.com"
+        ], 
+        "dns-ns": [
+            "as.sjzu.edu.cn"
+        ], 
+        "domain-name": "sjzu.edu.cn", 
+        "fuzzer": "replacement"
+    }, 
+    {
+        "dns-a": [
+            "61.163.28.158"
+        ], 
+        "dns-mx": [
+            "mxbiz1.qq.com", 
+            "mxbiz2.qq.com"
+        ], 
+        "dns-ns": [
+            "dns.zjtu.edu.cn"
+        ], 
+        "domain-name": "zjtu.edu.cn", 
+        "fuzzer": "replacement", 
+        "geoip-country": "China"
+    }, 
+    {
+        "dns-mx": [
+            "mxbiz1.qq.com", 
+            "mxbiz2.qq.com"
+        ], 
+        "dns-ns": [
+            "ns1.service.edu.cn", 
+            "ns2.service.edu.cn"
+        ], 
+        "domain-name": "situ.edu.cn", 
+        "fuzzer": "replacement"
+    }, 
+    {
+        "dns-mx": [
+            "mail.xjtu.edu.cn"
+        ], 
+        "dns-ns": [
+            "dec3000.xjtu.edu.cn", 
+            "ns2.xjtu.edu.cn"
+        ], 
+        "domain-name": "xjtu.edu.cn", 
+        "fuzzer": "replacement"
+    }, 
+    {
+        "dns-mx": [
+            "mxbiz1.qq.com", 
+            "mxbiz2.qq.com"
+        ], 
+        "dns-ns": [
+            "dns1.jstu.cn", 
+            "dns1.jstu.edu.cn", 
+            "dns2.jstu.cn", 
+            "dns2.jstu.edu.cn"
+        ], 
+        "domain-name": "jstu.edu.cn", 
+        "fuzzer": "transposition"
+    }, 
+    {
+        "dns-ns": [
+            "dns.sjtu.cn", 
+            "sdns.sjtu.cn"
+        ], 
+        "domain-name": "sjtu.cn", 
+        "fuzzer": "various"
+    }
+]

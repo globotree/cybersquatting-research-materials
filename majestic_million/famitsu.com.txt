@@ -1,0 +1,166 @@
+[
+    {
+        "dns-a": [
+            "202.90.182.200"
+        ], 
+        "dns-mx": [
+            "smtp.famitsu.com"
+        ], 
+        "dns-ns": [
+            "ns01.pod.tv", 
+            "ns02.pod2.jp"
+        ], 
+        "domain-name": "famitsu.com", 
+        "fuzzer": "original*", 
+        "geoip-country": "Japan", 
+        "ssdeep-score": 100
+    }, 
+    {
+        "dns-a": [
+            "104.27.172.236", 
+            "104.27.173.236"
+        ], 
+        "dns-aaaa": [
+            "2400:cb00:2048:1::681b:acec", 
+            "2400:cb00:2048:1::681b:adec"
+        ], 
+        "dns-ns": [
+            "carl.ns.cloudflare.com", 
+            "iris.ns.cloudflare.com"
+        ], 
+        "domain-name": "gamitsu.com", 
+        "fuzzer": "bitsquatting", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "52.73.124.185", 
+            "54.164.198.60"
+        ], 
+        "dns-ns": [
+            "ns1.namebrightdns.com", 
+            "ns2.namebrightdns.com"
+        ], 
+        "domain-name": "namitsu.com", 
+        "fuzzer": "bitsquatting", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "64.70.56.99"
+        ], 
+        "dns-ns": [
+            "udns1.ultradns.net", 
+            "udns2.ultradns.net"
+        ], 
+        "domain-name": "fcmitsu.com", 
+        "fuzzer": "bitsquatting", 
+        "geoip-country": "United States"
+    }, 
+    {
+        "dns-a": [
+            "107.187.202.81"
+        ], 
+        "dns-ns": [
+            "f1g1ns2.dnspod.net"
+        ], 
+        "domain-name": "fanitsu.com", 
+        "fuzzer": "homoglyph", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "69.172.201.153"
+        ], 
+        "dns-ns": [
+            "ns1.uniregistrymarket.link", 
+            "ns2.uniregistrymarket.link"
+        ], 
+        "domain-name": "famitu.com", 
+        "fuzzer": "omission", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "103.18.6.109"
+        ], 
+        "dns-ns": [
+            "NS1.TENTEN.VN", 
+            "NS2.TENTEN.VN", 
+            "NS3.TENTEN.VN"
+        ], 
+        "domain-name": "famisu.com", 
+        "fuzzer": "omission", 
+        "geoip-country": "Vietnam", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "67.195.197.75"
+        ], 
+        "dns-mx": [
+            "mx-biz.mail.am0.yahoodns.net"
+        ], 
+        "dns-ns": [
+            "yns1.yahoo.com", 
+            "yns2.yahoo.com"
+        ], 
+        "domain-name": "amitsu.com", 
+        "fuzzer": "omission", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "210.172.183.56"
+        ], 
+        "dns-mx": [
+            "mx3.gmoserver.jp"
+        ], 
+        "dns-ns": [
+            "dns01.gmoserver.jp", 
+            "dns02.gmoserver.jp"
+        ], 
+        "domain-name": "tamitsu.com", 
+        "fuzzer": "replacement", 
+        "geoip-country": "Japan"
+    }, 
+    {
+        "dns-a": [
+            "67.195.197.75"
+        ], 
+        "domain-name": "f.amitsu.com", 
+        "fuzzer": "subdomain", 
+        "geoip-country": "United States"
+    }, 
+    {
+        "dns-a": [
+            "69.172.201.153"
+        ], 
+        "dns-ns": [
+            "ns1.uniregistrymarket.link", 
+            "ns2.uniregistrymarket.link"
+        ], 
+        "domain-name": "fami.tsu.com", 
+        "fuzzer": "subdomain", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "91.195.240.117"
+        ], 
+        "dns-ns": [
+            "ns1.renewyourname.net", 
+            "ns2.renewyourname.net"
+        ], 
+        "domain-name": "famistu.com", 
+        "fuzzer": "transposition", 
+        "geoip-country": "Germany", 
+        "ssdeep-score": 0
+    }
+]

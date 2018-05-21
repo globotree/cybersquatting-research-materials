@@ -1,0 +1,53 @@
+[
+    {
+        "dns-a": [
+            "104.20.82.117", 
+            "104.20.83.117"
+        ], 
+        "dns-mx": [
+            "alt1.aspmx.l.google.com", 
+            "alt2.aspmx.l.google.com", 
+            "aspmx.l.google.com", 
+            "aspmx2.googlemail.com", 
+            "aspmx3.googlemail.com"
+        ], 
+        "dns-ns": [
+            "lady.ns.cloudflare.com", 
+            "woz.ns.cloudflare.com"
+        ], 
+        "domain-name": "androidheadlines.com", 
+        "fuzzer": "original*", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 96
+    }, 
+    {
+        "dns-a": [
+            "54.221.207.100"
+        ], 
+        "dns-ns": [
+            "ns3.domainmanager.com", 
+            "ns4.domainmanager.com"
+        ], 
+        "domain-name": "androidheadline.com", 
+        "fuzzer": "omission", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "72.52.4.119"
+        ], 
+        "dns-mx": [
+            "localhost"
+        ], 
+        "dns-ns": [
+            "ns1.sedoparking.com", 
+            "ns2.sedoparking.com"
+        ], 
+        "domain-name": "androidhea.dlines.com", 
+        "fuzzer": "subdomain", 
+        "geoip-country": "United States", 
+        "mx-spy": true, 
+        "ssdeep-score": 0
+    }
+]

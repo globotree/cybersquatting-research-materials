@@ -1,0 +1,165 @@
+[
+    {
+        "dns-a": [
+            "104.81.99.153"
+        ], 
+        "dns-mx": [
+            "mail.ameblo.jp"
+        ], 
+        "dns-ns": [
+            "a1-5.akam.net", 
+            "a11-66.akam.net", 
+            "a20-67.akam.net", 
+            "a4-64.akam.net", 
+            "a6-65.akam.net", 
+            "a7-66.akam.net"
+        ], 
+        "domain-name": "ameblo.jp", 
+        "fuzzer": "original*", 
+        "geoip-country": "Netherlands", 
+        "mx-spy": true, 
+        "ssdeep-score": 85
+    }, 
+    {
+        "dns-a": [
+            "64.151.118.144"
+        ], 
+        "dns-mx": [
+            "mail.ameblog.jp"
+        ], 
+        "dns-ns": [
+            "ns.ameblog.jp"
+        ], 
+        "domain-name": "ameblog.jp", 
+        "fuzzer": "addition", 
+        "geoip-country": "United States"
+    }, 
+    {
+        "dns-a": [
+            "203.104.214.116"
+        ], 
+        "dns-ns": [
+            "ns1.toolbox-hs.net", 
+            "ns2.toolbox-hs.net", 
+            "ns3.toolbox-hs.net"
+        ], 
+        "domain-name": "amablo.jp", 
+        "fuzzer": "bitsquatting", 
+        "geoip-country": "Japan", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "72.52.4.122"
+        ], 
+        "dns-mx": [
+            "localhost"
+        ], 
+        "dns-ns": [
+            "ns1.sedoparking.com", 
+            "ns2.sedoparking.com"
+        ], 
+        "domain-name": "amebio.jp", 
+        "fuzzer": "homoglyph", 
+        "geoip-country": "United States", 
+        "mx-spy": true, 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "192.64.147.150"
+        ], 
+        "dns-ns": [
+            "01.dnsv.jp", 
+            "02.dnsv.jp", 
+            "03.dnsv.jp", 
+            "04.dnsv.jp"
+        ], 
+        "domain-name": "aneblo.jp", 
+        "fuzzer": "homoglyph", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "173.45.105.226"
+        ], 
+        "dns-mx": [
+            "amebl.jp"
+        ], 
+        "dns-ns": [
+            "ns1.jetboy.jp", 
+            "ns2.jetboy.jp"
+        ], 
+        "domain-name": "amebl.jp", 
+        "fuzzer": "omission", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "210.128.60.66"
+        ], 
+        "dns-ns": [
+            "ns01.f014jp6263.info", 
+            "ns02.f014jp6263.info"
+        ], 
+        "domain-name": "amebo.jp", 
+        "fuzzer": "omission", 
+        "geoip-country": "Japan"
+    }, 
+    {
+        "dns-a": [
+            "129.121.107.164"
+        ], 
+        "dns-ns": [
+            "ns1.quedomain.com", 
+            "ns2.quedomain.com", 
+            "ns3.quedomain.com"
+        ], 
+        "domain-name": "meblo.jp", 
+        "fuzzer": "omission", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "185.53.179.7"
+        ], 
+        "dns-mx": [
+            "mail.h-email.net"
+        ], 
+        "dns-ns": [
+            "ns1.parkingcrew.net", 
+            "ns2.parkingcrew.net"
+        ], 
+        "domain-name": "amblo.jp", 
+        "fuzzer": "omission", 
+        "geoip-country": "Germany", 
+        "mx-spy": true, 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "129.121.107.164"
+        ], 
+        "domain-name": "a.meblo.jp", 
+        "fuzzer": "subdomain", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "157.7.107.168"
+        ], 
+        "dns-mx": [
+            "mx01.lolipop.jp"
+        ], 
+        "dns-ns": [
+            "uns01.lolipop.jp", 
+            "uns02.lolipop.jp"
+        ], 
+        "domain-name": "ameblo-jp.com", 
+        "fuzzer": "various"
+    }
+]

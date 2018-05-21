@@ -1,0 +1,72 @@
+[
+    {
+        "dns-a": [
+            "81.7.16.109"
+        ], 
+        "dns-aaaa": [
+            "2a02:180:6:1::112"
+        ], 
+        "dns-mx": [
+            "alt1.aspmx.l.google.com", 
+            "alt2.aspmx.l.google.com", 
+            "aspmx2.googlemail.com", 
+            "aspmx3.googlemail.com"
+        ], 
+        "dns-ns": [
+            "anna.archive.is", 
+            "ben.archive.is"
+        ], 
+        "domain-name": "archive.is", 
+        "fuzzer": "original*", 
+        "geoip-country": "Germany", 
+        "ssdeep-score": 100
+    }, 
+    {
+        "dns-a": [
+            "212.30.229.77"
+        ], 
+        "dns-mx": [
+            "mx00.hysing.is", 
+            "mx01.hysing.is", 
+            "mx02.hysing.is"
+        ], 
+        "dns-ns": [
+            "a.hysing.is", 
+            "b.hysing.is", 
+            "c.hysing.is"
+        ], 
+        "domain-name": "archives.is", 
+        "fuzzer": "addition", 
+        "geoip-country": "Iceland"
+    }, 
+    {
+        "dns-a": [
+            "185.53.178.8"
+        ], 
+        "dns-mx": [
+            "mail.h-email.net"
+        ], 
+        "dns-ns": [
+            "ns1.parkingcrew.net", 
+            "ns2.parkingcrew.net"
+        ], 
+        "domain-name": "achive.is", 
+        "fuzzer": "omission", 
+        "geoip-country": "Germany", 
+        "mx-spy": true, 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "54.72.9.51"
+        ], 
+        "dns-ns": [
+            "ns1.parkingcrew.net", 
+            "ns2.parkingcrew.net"
+        ], 
+        "domain-name": "archiv.is", 
+        "fuzzer": "omission", 
+        "geoip-country": "Ireland", 
+        "ssdeep-score": 0
+    }
+]

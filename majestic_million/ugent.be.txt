@@ -1,0 +1,149 @@
+[
+    {
+        "dns-a": [
+            "157.193.43.50"
+        ], 
+        "dns-mx": [
+            "cedar.ugent.be", 
+            "cypress.ugent.be"
+        ], 
+        "dns-ns": [
+            "ns.belnet.be", 
+            "ugdns1.ugent.be", 
+            "ugdns2.ugent.be", 
+            "ugdns3.ugent.be"
+        ], 
+        "domain-name": "ugent.be", 
+        "fuzzer": "original*", 
+        "geoip-country": "Belgium", 
+        "ssdeep-score": 100
+    }, 
+    {
+        "dns-a": [
+            "213.186.33.5"
+        ], 
+        "dns-mx": [
+            "redirect.ovh.net"
+        ], 
+        "dns-ns": [
+            "dns200.anycast.me", 
+            "ns200.anycast.me"
+        ], 
+        "domain-name": "ugeot.be", 
+        "fuzzer": "bitsquatting", 
+        "geoip-country": "France"
+    }, 
+    {
+        "dns-a": [
+            "193.191.170.151"
+        ], 
+        "dns-mx": [
+            "mail3.uzgent.be", 
+            "mail4.uzgent.be"
+        ], 
+        "dns-ns": [
+            "ns1.belnet.be", 
+            "ns1.twisted4life.com", 
+            "ns2.belnet.be", 
+            "ns3.belnet.be", 
+            "uzg11.uzgent.be", 
+            "uzg22.uzgent.be"
+        ], 
+        "domain-name": "uzgent.be", 
+        "fuzzer": "insertion", 
+        "geoip-country": "Belgium", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "212.123.24.4"
+        ], 
+        "dns-aaaa": [
+            "2001:67c:1902:1305::138"
+        ], 
+        "dns-mx": [
+            "mail.gent.be", 
+            "mail2.gent.be"
+        ], 
+        "dns-ns": [
+            "ns3.combell.net", 
+            "ns4.combell.net"
+        ], 
+        "domain-name": "gent.be", 
+        "fuzzer": "omission", 
+        "geoip-country": "Belgium", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "213.186.33.17"
+        ], 
+        "dns-mx": [
+            "mx1.ovh.net", 
+            "mx2.ovh.net", 
+            "mxb.ovh.net"
+        ], 
+        "dns-ns": [
+            "dns18.ovh.net", 
+            "ns18.ovh.net"
+        ], 
+        "domain-name": "ugen.be", 
+        "fuzzer": "omission", 
+        "geoip-country": "France", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "103.224.182.211"
+        ], 
+        "dns-mx": [
+            "park-mx.above.com"
+        ], 
+        "dns-ns": [
+            "ns1.above.com", 
+            "ns2.above.com"
+        ], 
+        "domain-name": "uget.be", 
+        "fuzzer": "omission", 
+        "geoip-country": "Australia", 
+        "mx-spy": true, 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "188.93.155.165"
+        ], 
+        "dns-mx": [
+            "mail.uugent.be"
+        ], 
+        "dns-ns": [
+            "ns1.bit-service.be", 
+            "ns2.bit-service.be"
+        ], 
+        "domain-name": "uugent.be", 
+        "fuzzer": "repetition", 
+        "geoip-country": "Belgium", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "185.27.134.179"
+        ], 
+        "domain-name": "igent.be", 
+        "fuzzer": "replacement"
+    }, 
+    {
+        "dns-a": [
+            "52.58.78.16"
+        ], 
+        "dns-ns": [
+            "hrh1.royalqueendomains.co.uk", 
+            "hrh2.royalqueendomains.co.uk", 
+            "hrh3.royalqueendomains.co.uk"
+        ], 
+        "domain-name": "ug.ent.be", 
+        "fuzzer": "subdomain", 
+        "geoip-country": "Germany", 
+        "ssdeep-score": 0
+    }
+]

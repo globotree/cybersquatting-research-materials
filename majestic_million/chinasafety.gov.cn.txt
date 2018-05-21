@@ -1,0 +1,28 @@
+[
+    {
+        "dns-mx": [
+            "59.252.192.6"
+        ], 
+        "dns-ns": [
+            "sf2"
+        ], 
+        "domain-name": "chinasafety.gov.cn", 
+        "fuzzer": "original*"
+    }, 
+    {
+        "dns-a": [
+            "23.234.27.100"
+        ], 
+        "domain-name": "chinasafe.ty.gov.cn", 
+        "fuzzer": "subdomain", 
+        "geoip-country": "United States"
+    }, 
+    {
+        "dns-ns": [
+            "dns10.hichina.com", 
+            "dns9.hichina.com"
+        ], 
+        "domain-name": "chinasafetygov.cn", 
+        "fuzzer": "various"
+    }
+]

@@ -1,0 +1,275 @@
+[
+    {
+        "dns-ns": [
+            "ns1.msft.net", 
+            "ns2.msft.net", 
+            "ns3.msft.net", 
+            "ns4.msft.net"
+        ], 
+        "domain-name": "windowsupdate.com", 
+        "fuzzer": "original*"
+    }, 
+    {
+        "dns-a": [
+            "207.148.248.145"
+        ], 
+        "domain-name": "windowsupdated.com", 
+        "fuzzer": "addition", 
+        "geoip-country": "United States"
+    }, 
+    {
+        "dns-a": [
+            "185.53.178.7"
+        ], 
+        "dns-mx": [
+            "mail.h-email.net"
+        ], 
+        "dns-ns": [
+            "ns1.parkingcrew.net", 
+            "ns2.parkingcrew.net"
+        ], 
+        "domain-name": "windowsupdater.com", 
+        "fuzzer": "addition", 
+        "geoip-country": "Germany", 
+        "mx-spy": true
+    }, 
+    {
+        "dns-a": [
+            "81.19.151.128"
+        ], 
+        "dns-ns": [
+            "ns1.world4you.at", 
+            "ns2.world4you.at"
+        ], 
+        "domain-name": "window3update.com", 
+        "fuzzer": "bitsquatting", 
+        "geoip-country": "Austria"
+    }, 
+    {
+        "dns-a": [
+            "184.168.221.32"
+        ], 
+        "dns-mx": [
+            "mailstore1.secureserver.net", 
+            "smtp.secureserver.net"
+        ], 
+        "dns-ns": [
+            "ns33.domaincontrol.com", 
+            "ns34.domaincontrol.com"
+        ], 
+        "domain-name": "windowsupdata.com", 
+        "fuzzer": "bitsquatting", 
+        "geoip-country": "United States"
+    }, 
+    {
+        "dns-a": [
+            "198.54.114.249"
+        ], 
+        "dns-mx": [
+            "mail.windovvsupdate.com"
+        ], 
+        "dns-ns": [
+            "dns1.namecheaphosting.com", 
+            "dns2.namecheaphosting.com"
+        ], 
+        "domain-name": "windovvsupdate.com", 
+        "fuzzer": "homoglyph", 
+        "geoip-country": "United States"
+    }, 
+    {
+        "dns-a": [
+            "217.146.27.53"
+        ], 
+        "dns-ns": [
+            "ns01.bpncloud.com", 
+            "ns02.bpn-cloud.com"
+        ], 
+        "domain-name": "wlndowsupdate.com", 
+        "fuzzer": "homoglyph", 
+        "geoip-country": "Austria"
+    }, 
+    {
+        "dns-a": [
+            "185.53.179.8"
+        ], 
+        "dns-ns": [
+            "ns1.parkingcrew.net", 
+            "ns2.parkingcrew.net"
+        ], 
+        "domain-name": "windows-update.com", 
+        "fuzzer": "hyphenation", 
+        "geoip-country": "Germany"
+    }, 
+    {
+        "dns-a": [
+            "185.53.179.7"
+        ], 
+        "dns-ns": [
+            "ns1.parkingcrew.net", 
+            "ns2.parkingcrew.net"
+        ], 
+        "domain-name": "windows7update.com", 
+        "fuzzer": "insertion", 
+        "geoip-country": "Germany"
+    }, 
+    {
+        "dns-a": [
+            "40.112.210.240"
+        ], 
+        "dns-mx": [
+            "40.112.210.240"
+        ], 
+        "dns-ns": [
+            "ns149.microsoftinternetsafety.net", 
+            "ns150.microsoftinternetsafety.net"
+        ], 
+        "domain-name": "windowsxupdate.com", 
+        "fuzzer": "insertion", 
+        "geoip-country": "United States"
+    }, 
+    {
+        "dns-a": [
+            "162.255.119.249"
+        ], 
+        "dns-mx": [
+            "eforward1.registrar-servers.com", 
+            "eforward2.registrar-servers.com", 
+            "eforward3.registrar-servers.com", 
+            "eforward4.registrar-servers.com", 
+            "eforward5.registrar-servers.com"
+        ], 
+        "dns-ns": [
+            "dns1.registrar-servers.com", 
+            "dns2.registrar-servers.com"
+        ], 
+        "domain-name": "windowssupdate.com", 
+        "fuzzer": "insertion", 
+        "geoip-country": "United States"
+    }, 
+    {
+        "dns-a": [
+            "103.224.182.207"
+        ], 
+        "dns-mx": [
+            "park-mx.above.com"
+        ], 
+        "dns-ns": [
+            "ns1.above.com", 
+            "ns2.above.com"
+        ], 
+        "domain-name": "windows8update.com", 
+        "fuzzer": "insertion", 
+        "geoip-country": "Australia", 
+        "mx-spy": true
+    }, 
+    {
+        "dns-a": [
+            "103.224.182.242"
+        ], 
+        "dns-mx": [
+            "park-mx.above.com"
+        ], 
+        "dns-ns": [
+            "ns1.above.com", 
+            "ns2.above.com"
+        ], 
+        "domain-name": "windowupdate.com", 
+        "fuzzer": "omission", 
+        "geoip-country": "Australia", 
+        "mx-spy": true
+    }, 
+    {
+        "dns-ns": [
+            "ns1ntw.name.com", 
+            "ns2gtx.name.com", 
+            "ns3nrz.name.com", 
+            "ns4fpy.name.com"
+        ], 
+        "domain-name": "wndowsupdate.com", 
+        "fuzzer": "omission"
+    }, 
+    {
+        "dns-a": [
+            "199.59.242.150"
+        ], 
+        "dns-mx": [
+            "mx76.m2bp.com", 
+            "mx76.mb1p.com"
+        ], 
+        "dns-ns": [
+            "ns1.bodis.com", 
+            "ns2.bodis.com"
+        ], 
+        "domain-name": "widowsupdate.com", 
+        "fuzzer": "omission", 
+        "geoip-country": "United States", 
+        "mx-spy": true
+    }, 
+    {
+        "dns-a": [
+            "192.168.77.217"
+        ], 
+        "dns-mx": [
+            "mailstore1.secureserver.net", 
+            "smtp.secureserver.net"
+        ], 
+        "dns-ns": [
+            "ns-cloud-e1.googledomains.com", 
+            "ns-cloud-e2.googledomains.com", 
+            "ns-cloud-e3.googledomains.com", 
+            "ns-cloud-e4.googledomains.com"
+        ], 
+        "domain-name": "windowsupdte.com", 
+        "fuzzer": "omission"
+    }, 
+    {
+        "dns-a": [
+            "185.53.178.6"
+        ], 
+        "dns-mx": [
+            "exchange.dewile.net"
+        ], 
+        "dns-ns": [
+            "ns1.parkingcrew.net", 
+            "ns2.parkingcrew.net"
+        ], 
+        "domain-name": "windowsupate.com", 
+        "fuzzer": "omission", 
+        "geoip-country": "Germany", 
+        "mx-spy": true
+    }, 
+    {
+        "dns-a": [
+            "216.58.214.83"
+        ], 
+        "dns-aaaa": [
+            "2a00:1450:4001:811::2013"
+        ], 
+        "domain-name": "windowsup.date.com", 
+        "fuzzer": "subdomain", 
+        "geoip-country": "United States"
+    }, 
+    {
+        "dns-a": [
+            "184.168.221.104"
+        ], 
+        "dns-ns": [
+            "ns1.afternic.com", 
+            "ns2.afternic.com"
+        ], 
+        "domain-name": "windowsupd.ate.com", 
+        "fuzzer": "subdomain", 
+        "geoip-country": "United States"
+    }, 
+    {
+        "dns-mx": [
+            "mx1.windowsudpate.com"
+        ], 
+        "dns-ns": [
+            "ns1.vultr.com", 
+            "ns2.vultr.com"
+        ], 
+        "domain-name": "windowsudpate.com", 
+        "fuzzer": "transposition"
+    }
+]

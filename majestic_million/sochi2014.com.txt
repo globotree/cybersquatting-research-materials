@@ -1,0 +1,74 @@
+[
+    {
+        "dns-a": [
+            "193.178.247.174"
+        ], 
+        "dns-mx": [
+            "mail.sochi2014.com"
+        ], 
+        "dns-ns": [
+            "dns1.olympic.org", 
+            "dns2.olympic.org", 
+            "dnsioc6"
+        ], 
+        "domain-name": "sochi2014.com", 
+        "fuzzer": "original*", 
+        "geoip-country": "Italy", 
+        "ssdeep-score": 100
+    }, 
+    {
+        "dns-a": [
+            "77.232.66.201"
+        ], 
+        "dns-mx": [
+            "fmx-high.servage.net", 
+            "fmx-low.servage.net", 
+            "mx1.servage.net", 
+            "mx2.servage.net"
+        ], 
+        "dns-ns": [
+            "ns1.servage.net", 
+            "ns2.servage.net", 
+            "ns3.servage.net", 
+            "ns4.servage.net"
+        ], 
+        "domain-name": "sochi-2014.com", 
+        "fuzzer": "hyphenation", 
+        "geoip-country": "Europe"
+    }, 
+    {
+        "dns-a": [
+            "50.63.202.57"
+        ], 
+        "dns-mx": [
+            "mailstore1.secureserver.net", 
+            "smtp.secureserver.net"
+        ], 
+        "dns-ns": [
+            "ns61.domaincontrol.com", 
+            "ns62.domaincontrol.com"
+        ], 
+        "domain-name": "soxhi2014.com", 
+        "fuzzer": "replacement", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "199.59.242.150"
+        ], 
+        "domain-name": "sochi2.014.com", 
+        "fuzzer": "subdomain", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "199.59.242.150"
+        ], 
+        "domain-name": "sochi20.14.com", 
+        "fuzzer": "subdomain", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 0
+    }
+]

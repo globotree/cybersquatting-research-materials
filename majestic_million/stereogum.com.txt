@@ -1,0 +1,180 @@
+[
+    {
+        "dns-a": [
+            "104.16.152.254", 
+            "104.16.153.254", 
+            "104.16.154.254", 
+            "104.16.155.254", 
+            "104.16.156.254"
+        ], 
+        "dns-aaaa": [
+            "2400:cb00:2048:1::6810:98fe", 
+            "2400:cb00:2048:1::6810:99fe", 
+            "2400:cb00:2048:1::6810:9afe", 
+            "2400:cb00:2048:1::6810:9bfe", 
+            "2400:cb00:2048:1::6810:9cfe"
+        ], 
+        "dns-mx": [
+            "alt1.aspmx.l.google.com", 
+            "alt2.aspmx.l.google.com", 
+            "aspmx.l.google.com", 
+            "aspmx2.googlemail.com", 
+            "aspmx3.googlemail.com", 
+            "aspmx4.googlemail.com", 
+            "aspmx5.googlemail.com"
+        ], 
+        "dns-ns": [
+            "elma.ns.cloudflare.com", 
+            "rajeev.ns.cloudflare.com"
+        ], 
+        "domain-name": "stereogum.com", 
+        "fuzzer": "original*", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 99
+    }, 
+    {
+        "dns-a": [
+            "188.93.227.195"
+        ], 
+        "dns-mx": [
+            "stereogun.com"
+        ], 
+        "dns-ns": [
+            "dns1.ibername.com", 
+            "dns2.ibername.com"
+        ], 
+        "domain-name": "stereogun.com", 
+        "fuzzer": "homoglyph", 
+        "geoip-country": "Portugal"
+    }, 
+    {
+        "dns-a": [
+            "199.191.50.73"
+        ], 
+        "dns-ns": [
+            "ns111373.ztomy.com", 
+            "ns211373.ztomy.com"
+        ], 
+        "domain-name": "sterogum.com", 
+        "fuzzer": "omission", 
+        "geoip-country": "Virgin Islands", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "104.16.130.138", 
+            "104.16.131.138", 
+            "104.16.132.138", 
+            "104.16.133.138", 
+            "104.16.134.138"
+        ], 
+        "dns-aaaa": [
+            "2400:cb00:2048:1::6810:828a", 
+            "2400:cb00:2048:1::6810:838a", 
+            "2400:cb00:2048:1::6810:848a", 
+            "2400:cb00:2048:1::6810:858a", 
+            "2400:cb00:2048:1::6810:868a"
+        ], 
+        "dns-ns": [
+            "ns1.globaldomainserver.net", 
+            "ns2.globaldomainserver.net", 
+            "ns3.globaldomainserver.net", 
+            "ns4.globaldomainserver.net"
+        ], 
+        "domain-name": "stereoyum.com", 
+        "fuzzer": "replacement", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "184.168.221.55"
+        ], 
+        "dns-mx": [
+            "mailstore1.secureserver.net", 
+            "smtp.secureserver.net"
+        ], 
+        "dns-ns": [
+            "ns41.domaincontrol.com", 
+            "ns42.domaincontrol.com"
+        ], 
+        "domain-name": "stereohum.com", 
+        "fuzzer": "replacement", 
+        "geoip-country": "United States"
+    }, 
+    {
+        "dns-a": [
+            "104.200.22.130", 
+            "104.200.23.95"
+        ], 
+        "dns-mx": [
+            "mail.mxproc.com"
+        ], 
+        "dns-ns": [
+            "ns1.mytrafficmanagement.com", 
+            "ns2.mytrafficmanagement.com"
+        ], 
+        "domain-name": "steteogum.com", 
+        "fuzzer": "replacement", 
+        "geoip-country": "United States", 
+        "mx-spy": true, 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "162.243.10.151"
+        ], 
+        "dns-ns": [
+            "ns1.yourdoor.com", 
+            "ns2.yourdoor.com"
+        ], 
+        "domain-name": "stere.ogum.com", 
+        "fuzzer": "subdomain", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "208.73.210.202", 
+            "208.73.210.217", 
+            "208.73.211.165", 
+            "208.73.211.177"
+        ], 
+        "dns-ns": [
+            "ns1.dsredirection.com", 
+            "ns2.dsredirection.com"
+        ], 
+        "domain-name": "stereog.um.com", 
+        "fuzzer": "subdomain", 
+        "geoip-country": "United States"
+    }, 
+    {
+        "dns-a": [
+            "184.168.221.19"
+        ], 
+        "dns-ns": [
+            "pdns13.domaincontrol.com", 
+            "pdns14.domaincontrol.com"
+        ], 
+        "domain-name": "stereougm.com", 
+        "fuzzer": "transposition", 
+        "geoip-country": "United States"
+    }, 
+    {
+        "dns-a": [
+            "185.53.178.9"
+        ], 
+        "dns-mx": [
+            "mail.h-email.net"
+        ], 
+        "dns-ns": [
+            "ns1.parkingcrew.net", 
+            "ns2.parkingcrew.net"
+        ], 
+        "domain-name": "steriogum.com", 
+        "fuzzer": "vowel-swap", 
+        "geoip-country": "Germany", 
+        "mx-spy": true, 
+        "ssdeep-score": 0
+    }
+]

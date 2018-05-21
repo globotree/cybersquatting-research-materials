@@ -1,0 +1,41 @@
+[
+    {
+        "dns-a": [
+            "134.225.0.151"
+        ], 
+        "dns-aaaa": [
+            "2001:630:53:101::97"
+        ], 
+        "dns-mx": [
+            "mx1.rdg.ac.uk", 
+            "mx2.rdg.ac.uk"
+        ], 
+        "dns-ns": [
+            "ns1.rdg.ac.uk", 
+            "ns1.reading.edu.my", 
+            "ns2.rdg.ac.uk", 
+            "ns2.reading.edu.my", 
+            "ns3.rdg.ac.uk", 
+            "ns4.rdg.ac.uk"
+        ], 
+        "domain-name": "reading.ac.uk", 
+        "fuzzer": "original*", 
+        "geoip-country": "United Kingdom", 
+        "ssdeep-score": 100
+    }, 
+    {
+        "dns-a": [
+            "62.233.83.208"
+        ], 
+        "dns-mx": [
+            "www.reading.uk"
+        ], 
+        "dns-ns": [
+            "ns1.namecity.com", 
+            "ns2.namecity.com"
+        ], 
+        "domain-name": "reading.uk", 
+        "fuzzer": "various", 
+        "geoip-country": "United Kingdom"
+    }
+]

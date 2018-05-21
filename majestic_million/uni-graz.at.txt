@@ -1,0 +1,65 @@
+[
+    {
+        "dns-a": [
+            "143.50.174.42"
+        ], 
+        "dns-mx": [
+            "mbug18.uni-graz.at", 
+            "mbug19.uni-graz.at", 
+            "mbug28.uni-graz.at", 
+            "mbug29.uni-graz.at"
+        ], 
+        "dns-ns": [
+            "nskfug.kfunigraz.ac.at", 
+            "nsresowi.kfunigraz.ac.at"
+        ], 
+        "domain-name": "uni-graz.at", 
+        "fuzzer": "original*", 
+        "geoip-country": "Austria", 
+        "ssdeep-score": 100
+    }, 
+    {
+        "dns-a": [
+            "91.227.204.35"
+        ], 
+        "dns-mx": [
+            "mail.unigraz.at"
+        ], 
+        "dns-ns": [
+            "ns1.edis.at", 
+            "ns2.edis.at", 
+            "ns5.edis.at", 
+            "ns6.edis.at"
+        ], 
+        "domain-name": "unigraz.at", 
+        "fuzzer": "omission", 
+        "geoip-country": "Austria", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "72.52.4.122"
+        ], 
+        "dns-mx": [
+            "localhost"
+        ], 
+        "dns-ns": [
+            "ns1.sedoparking.com", 
+            "ns2.sedoparking.com"
+        ], 
+        "domain-name": "uni-gr.az.at", 
+        "fuzzer": "subdomain", 
+        "geoip-country": "United States", 
+        "mx-spy": true, 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "85.158.181.22"
+        ], 
+        "domain-name": "uni-gra.z.at", 
+        "fuzzer": "subdomain", 
+        "geoip-country": "Austria", 
+        "ssdeep-score": 0
+    }
+]

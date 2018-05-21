@@ -1,0 +1,75 @@
+[
+    {
+        "dns-a": [
+            "213.186.33.104"
+        ], 
+        "dns-mx": [
+            "mx1.ovh.net", 
+            "mx2.ovh.net", 
+            "mxb.ovh.net"
+        ], 
+        "dns-ns": [
+            "dns200.anycast.me", 
+            "ns200.anycast.me"
+        ], 
+        "domain-name": "toursdeguadeloupe.com", 
+        "fuzzer": "original*", 
+        "geoip-country": "France", 
+        "ssdeep-score": 99
+    }, 
+    {
+        "dns-a": [
+            "195.154.36.238"
+        ], 
+        "dns-ns": [
+            "ns1.bdmi.net", 
+            "ns2.bdmi.net"
+        ], 
+        "domain-name": "tourdeguadeloupe.com", 
+        "fuzzer": "omission", 
+        "geoip-country": "France", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "72.52.4.120"
+        ], 
+        "dns-mx": [
+            "localhost"
+        ], 
+        "dns-ns": [
+            "ns1.sedoparking.com", 
+            "ns2.sedoparking.com"
+        ], 
+        "domain-name": "toursde.guadeloupe.com", 
+        "fuzzer": "subdomain", 
+        "geoip-country": "United States", 
+        "mx-spy": true, 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "185.53.178.6"
+        ], 
+        "dns-mx": [
+            "mail.h-email.net"
+        ], 
+        "dns-ns": [
+            "ns1.parkingcrew.net", 
+            "ns2.parkingcrew.net"
+        ], 
+        "domain-name": "toursdeguad.eloupe.com", 
+        "fuzzer": "subdomain", 
+        "geoip-country": "Germany", 
+        "mx-spy": true, 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "216.21.224.199"
+        ], 
+        "domain-name": "toursdeguade.loupe.com", 
+        "fuzzer": "subdomain", 
+        "geoip-country": "United States"
+    }
+]

@@ -1,0 +1,74 @@
+[
+    {
+        "dns-a": [
+            "166.104.177.108"
+        ], 
+        "dns-mx": [
+            "antispam.hanyang.ac.kr", 
+            "antispam1.hanyang.ac.kr", 
+            "antispam2.hanyang.ac.kr"
+        ], 
+        "dns-ns": [
+            "ansan-d.hanyang.ac.kr", 
+            "hynetm.hanyang.ac.kr"
+        ], 
+        "domain-name": "hanyang.ac.kr", 
+        "fuzzer": "original*", 
+        "geoip-country": "Korea", 
+        "ssdeep-score": 100
+    }, 
+    {
+        "dns-a": [
+            "203.230.208.15"
+        ], 
+        "dns-mx": [
+            "aytc.ianyang.ac.kr", 
+            "spammail.ianyang.ac.kr"
+        ], 
+        "dns-ns": [
+            "dns.yeonsung.ac.kr"
+        ], 
+        "domain-name": "ianyang.ac.kr", 
+        "fuzzer": "bitsquatting", 
+        "geoip-country": "Korea", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "166.104.177.108"
+        ], 
+        "dns-mx": [
+            "antispam.hanyang.ac.kr"
+        ], 
+        "dns-ns": [
+            "ansan-d.hanyang.ac.kr", 
+            "hynetm.hanyang.ac.kr"
+        ], 
+        "domain-name": "ihanyang.ac.kr", 
+        "fuzzer": "homoglyph", 
+        "geoip-country": "Korea", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-mx": [
+            "wblock.anyang.ac.kr"
+        ], 
+        "dns-ns": [
+            "aycc.anyang.ac.kr"
+        ], 
+        "domain-name": "anyang.ac.kr", 
+        "fuzzer": "omission", 
+        "mx-spy": true
+    }, 
+    {
+        "dns-a": [
+            "166.104.177.108"
+        ], 
+        "dns-ns": [
+            "ansan-d.hanyang.ac.kr", 
+            "hynetm.hanyang.ac.kr"
+        ], 
+        "domain-name": "hanyang.kr", 
+        "fuzzer": "various"
+    }
+]

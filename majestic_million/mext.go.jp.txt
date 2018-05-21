@@ -1,0 +1,27 @@
+[
+    {
+        "dns-mx": [
+            "mg1.mext.go.jp", 
+            "mg1b.mext.go.jp", 
+            "mg2.mext.go.jp", 
+            "mg2b.mext.go.jp"
+        ], 
+        "dns-ns": [
+            "dns-x.sinet.ad.jp", 
+            "dns.mext.go.jp", 
+            "dnsb.mext.go.jp", 
+            "hstafw.mext.go.jp", 
+            "hstafwb.mext.go.jp"
+        ], 
+        "domain-name": "mext.go.jp", 
+        "fuzzer": "original*"
+    }, 
+    {
+        "dns-ns": [
+            "pdns1.nifty.ad.jp", 
+            "pdns2.nifty.ad.jp"
+        ], 
+        "domain-name": "mext.jp", 
+        "fuzzer": "various"
+    }
+]

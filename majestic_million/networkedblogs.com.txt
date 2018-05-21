@@ -1,0 +1,119 @@
+[
+    {
+        "dns-a": [
+            "216.239.32.21", 
+            "216.239.34.21", 
+            "216.239.36.21", 
+            "216.239.38.21"
+        ], 
+        "dns-aaaa": [
+            "2001:4860:4802:32::15", 
+            "2001:4860:4802:34::15", 
+            "2001:4860:4802:36::15", 
+            "2001:4860:4802:38::15"
+        ], 
+        "dns-mx": [
+            "ALT1.ASPMX.L.GOOGLE.com", 
+            "ALT2.ASPMX.L.GOOGLE.com", 
+            "ASPMX.L.GOOGLE.com", 
+            "ASPMX2.GOOGLEMAIL.com", 
+            "ASPMX3.GOOGLEMAIL.com"
+        ], 
+        "dns-ns": [
+            "ns49.domaincontrol.com", 
+            "ns50.domaincontrol.com"
+        ], 
+        "domain-name": "networkedblogs.com", 
+        "fuzzer": "original*", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 99
+    }, 
+    {
+        "dns-a": [
+            "204.11.56.37"
+        ], 
+        "dns-ns": [
+            "ns1637.ztomy.com", 
+            "ns2637.ztomy.com"
+        ], 
+        "domain-name": "networked-blogs.com", 
+        "fuzzer": "hyphenation", 
+        "geoip-country": "Virgin Islands", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "208.73.210.202", 
+            "208.73.210.217", 
+            "208.73.211.165", 
+            "208.73.211.177"
+        ], 
+        "dns-ns": [
+            "ns1.dsredirection.com", 
+            "ns2.dsredirection.com"
+        ], 
+        "domain-name": "networkedblog.com", 
+        "fuzzer": "omission", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "52.73.124.185", 
+            "54.164.198.60"
+        ], 
+        "dns-ns": [
+            "ns1.namebrightdns.com", 
+            "ns2.namebrightdns.com"
+        ], 
+        "domain-name": "network.edblogs.com", 
+        "fuzzer": "subdomain", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "72.52.4.119"
+        ], 
+        "dns-mx": [
+            "localhost"
+        ], 
+        "dns-ns": [
+            "ns1.sedoparking.com", 
+            "ns2.sedoparking.com"
+        ], 
+        "domain-name": "networke.dblogs.com", 
+        "fuzzer": "subdomain", 
+        "geoip-country": "United States", 
+        "mx-spy": true, 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "104.16.104.123", 
+            "104.16.105.123", 
+            "104.16.106.123", 
+            "104.16.107.123", 
+            "104.16.108.123"
+        ], 
+        "dns-mx": [
+            "mail.typepad.com"
+        ], 
+        "dns-ns": [
+            "noah.ns.cloudflare.com", 
+            "roxy.ns.cloudflare.com"
+        ], 
+        "domain-name": "networked.blogs.com", 
+        "fuzzer": "subdomain", 
+        "geoip-country": "United States"
+    }, 
+    {
+        "dns-a": [
+            "75.126.101.249"
+        ], 
+        "domain-name": "networkedbl.ogs.com", 
+        "fuzzer": "subdomain", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 0
+    }
+]

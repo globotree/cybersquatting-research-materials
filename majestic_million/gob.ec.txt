@@ -1,0 +1,69 @@
+[
+    {
+        "dns-ns": [
+            "a.lactld.org", 
+            "n2.nic.ec", 
+            "n3.dns.ec", 
+            "sns-pb.isc.org"
+        ], 
+        "domain-name": "gob.ec", 
+        "fuzzer": "original*"
+    }, 
+    {
+        "dns-a": [
+            "103.224.182.252"
+        ], 
+        "dns-mx": [
+            "park-mx.above.com"
+        ], 
+        "dns-ns": [
+            "ns1.above.com", 
+            "ns2.above.com"
+        ], 
+        "domain-name": "god.ec", 
+        "fuzzer": "homoglyph", 
+        "geoip-country": "Australia", 
+        "mx-spy": true
+    }, 
+    {
+        "dns-a": [
+            "37.205.11.195"
+        ], 
+        "dns-ns": [
+            "ns.gransy.com", 
+            "ns2.gransy.com", 
+            "ns3.gransy.com", 
+            "ns4.gransy.com", 
+            "ns5.gransy.com"
+        ], 
+        "domain-name": "zob.ec", 
+        "fuzzer": "replacement", 
+        "geoip-country": "Czech Republic"
+    }, 
+    {
+        "dns-ns": [
+            "a.lactld.org", 
+            "n2.nic.ec", 
+            "n3.dns.ec", 
+            "sns-pb.isc.org"
+        ], 
+        "domain-name": "gov.ec", 
+        "fuzzer": "replacement"
+    }, 
+    {
+        "dns-a": [
+            "72.52.4.120"
+        ], 
+        "dns-mx": [
+            "localhost"
+        ], 
+        "dns-ns": [
+            "ns1.sedoparking.com", 
+            "ns2.sedoparking.com"
+        ], 
+        "domain-name": "gog.ec", 
+        "fuzzer": "replacement", 
+        "geoip-country": "United States", 
+        "mx-spy": true
+    }
+]

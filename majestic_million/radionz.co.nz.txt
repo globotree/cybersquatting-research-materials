@@ -1,0 +1,47 @@
+[
+    {
+        "dns-a": [
+            "103.14.3.1"
+        ], 
+        "dns-mx": [
+            "ak1-rnz.dmzglobal.net", 
+            "wn1-rnz.dmzglobal.net"
+        ], 
+        "dns-ns": [
+            "ns1.metaname.net", 
+            "ns2.metaname.net", 
+            "ns3.metaname.net"
+        ], 
+        "domain-name": "radionz.co.nz", 
+        "fuzzer": "original*", 
+        "geoip-country": "New Zealand", 
+        "ssdeep-score": 100
+    }, 
+    {
+        "dns-a": [
+            "165.160.13.20", 
+            "165.160.15.20"
+        ], 
+        "dns-mx": [
+            "custmx.cscdns.net"
+        ], 
+        "dns-ns": [
+            "dns1.cscdns.net", 
+            "dns2.cscdns.net"
+        ], 
+        "domain-name": "radianz.co.nz", 
+        "fuzzer": "vowel-swap"
+    }, 
+    {
+        "dns-a": [
+            "49.50.242.204"
+        ], 
+        "dns-ns": [
+            "ns1.metaname.net", 
+            "ns2.metaname.net", 
+            "ns3.metaname.net"
+        ], 
+        "domain-name": "radionz.nz", 
+        "fuzzer": "various"
+    }
+]

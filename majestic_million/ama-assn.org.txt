@@ -1,0 +1,190 @@
+[
+    {
+        "dns-a": [
+            "54.243.187.225"
+        ], 
+        "dns-mx": [
+            "mxa-00164a01.gslb.pphosted.com", 
+            "mxb-00164a01.gslb.pphosted.com"
+        ], 
+        "dns-ns": [
+            "adnsdtcext01.ama-assn.org", 
+            "adnsdtcext02.ama-assn.org", 
+            "adnsdtctnext02.ama-assn.org"
+        ], 
+        "domain-name": "ama-assn.org", 
+        "fuzzer": "original*", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 100
+    }, 
+    {
+        "dns-a": [
+            "183.90.250.19"
+        ], 
+        "dns-mx": [
+            "aea-assn.org"
+        ], 
+        "dns-ns": [
+            "ns1.xserver.jp", 
+            "ns2.xserver.jp", 
+            "ns3.xserver.jp", 
+            "ns4.xserver.jp", 
+            "ns5.xserver.jp"
+        ], 
+        "domain-name": "aea-assn.org", 
+        "fuzzer": "bitsquatting", 
+        "geoip-country": "Japan", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "208.91.196.152"
+        ], 
+        "dns-ns": [
+            "sk.s7.ans1.ns147.klczy.com", 
+            "sk.s7.ans2.ns147.klczy.com"
+        ], 
+        "domain-name": "ana-assn.org", 
+        "fuzzer": "homoglyph", 
+        "geoip-country": "Virgin Islands", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "184.168.221.29"
+        ], 
+        "dns-mx": [
+            "mx.zoho.com", 
+            "mx2.zoho.com"
+        ], 
+        "dns-ns": [
+            "ns37.domaincontrol.com", 
+            "ns38.domaincontrol.com"
+        ], 
+        "domain-name": "ama-asssn.org", 
+        "fuzzer": "insertion", 
+        "geoip-country": "United States"
+    }, 
+    {
+        "dns-a": [
+            "199.191.50.73"
+        ], 
+        "dns-ns": [
+            "ns111373.ztomy.com", 
+            "ns211373.ztomy.com"
+        ], 
+        "domain-name": "ama-ass.org", 
+        "fuzzer": "omission", 
+        "geoip-country": "Virgin Islands", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "107.180.12.32"
+        ], 
+        "dns-mx": [
+            "mail.am-assn.org"
+        ], 
+        "dns-ns": [
+            "ns75.domaincontrol.com", 
+            "ns76.domaincontrol.com"
+        ], 
+        "domain-name": "am-assn.org", 
+        "fuzzer": "omission", 
+        "geoip-country": "United States"
+    }, 
+    {
+        "dns-a": [
+            "199.191.50.151"
+        ], 
+        "dns-ns": [
+            "ns111451.ztomy.com", 
+            "ns211451.ztomy.com"
+        ], 
+        "domain-name": "amaassn.org", 
+        "fuzzer": "omission", 
+        "geoip-country": "Virgin Islands", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "138.128.182.226"
+        ], 
+        "dns-mx": [
+            "ama-asn.org"
+        ], 
+        "dns-ns": [
+            "ns39.manufrog.com", 
+            "ns40.manufrog.com", 
+            "ns63.manufrog.com", 
+            "ns64.manufrog.com"
+        ], 
+        "domain-name": "ama-asn.org", 
+        "fuzzer": "omission", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "199.191.50.73"
+        ], 
+        "dns-ns": [
+            "ns111373.ztomy.com", 
+            "ns211373.ztomy.com"
+        ], 
+        "domain-name": "ama-aasn.org", 
+        "fuzzer": "replacement", 
+        "geoip-country": "Virgin Islands", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "72.52.4.119"
+        ], 
+        "dns-mx": [
+            "localhost"
+        ], 
+        "dns-ns": [
+            "ns1.sedoparking.com", 
+            "ns2.sedoparking.com"
+        ], 
+        "domain-name": "ama-as.sn.org", 
+        "fuzzer": "subdomain", 
+        "geoip-country": "United States", 
+        "mx-spy": true, 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "50.63.46.1"
+        ], 
+        "dns-ns": [
+            "A.SERVICE.AFILIASDNS.INFO", 
+            "B.SERVICE.AFILIASDNS.org", 
+            "C.SERVICE.AFILIASDNS.NET", 
+            "D.SERVICE.AFILIASDNS.COM", 
+            "E.SERVICE.AFILIASDNS.INFO", 
+            "F.SERVICE.AFILIASDNS.NET"
+        ], 
+        "domain-name": "ama-ass.n.org", 
+        "fuzzer": "subdomain", 
+        "geoip-country": "United States"
+    }, 
+    {
+        "dns-a": [
+            "24.73.102.173"
+        ], 
+        "dns-mx": [
+            "maaassn-org0i.mail.protection.outlook.com"
+        ], 
+        "dns-ns": [
+            "ns1.ymaws.com", 
+            "ns2.ymaws.com", 
+            "ns3.ymaws.com", 
+            "ns4.ymaws.com"
+        ], 
+        "domain-name": "maa-assn.org", 
+        "fuzzer": "transposition", 
+        "geoip-country": "United States"
+    }
+]

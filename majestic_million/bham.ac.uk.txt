@@ -1,0 +1,58 @@
+[
+    {
+        "dns-a": [
+            "147.188.128.127"
+        ], 
+        "dns-mx": [
+            "bham-mx1.bham.ac.uk", 
+            "bham-mx2.bham.ac.uk", 
+            "bham-mx3.bham.ac.uk", 
+            "bham-mx4.bham.ac.uk", 
+            "bham-mx5.bham.ac.uk", 
+            "bham-mx6.bham.ac.uk"
+        ], 
+        "dns-ns": [
+            "dns0.bham.ac.uk", 
+            "dns1.bham.ac.uk"
+        ], 
+        "domain-name": "bham.ac.uk", 
+        "fuzzer": "original*", 
+        "geoip-country": "United Kingdom"
+    }, 
+    {
+        "dns-a": [
+            "213.138.111.209"
+        ], 
+        "dns-mx": [
+            "bam-ac-uk.mail.protection.outlook.com"
+        ], 
+        "dns-ns": [
+            "ns1.purplematrix.co.uk", 
+            "ns2.purplematrix.co.uk"
+        ], 
+        "domain-name": "bam.ac.uk", 
+        "fuzzer": "omission", 
+        "geoip-country": "United Kingdom"
+    }, 
+    {
+        "dns-a": [
+            "212.227.247.51"
+        ], 
+        "dns-aaaa": [
+            "2001:8d8:1001:60e5:78be:afc3:6188:4800"
+        ], 
+        "dns-mx": [
+            "mx00.1and1.co.uk", 
+            "mx01.1and1.co.uk"
+        ], 
+        "dns-ns": [
+            "ns1055.ui-dns.com", 
+            "ns1083.ui-dns.biz", 
+            "ns1083.ui-dns.org", 
+            "ns1093.ui-dns.de"
+        ], 
+        "domain-name": "bhamac.uk", 
+        "fuzzer": "various", 
+        "geoip-country": "Germany"
+    }
+]

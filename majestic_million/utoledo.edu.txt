@@ -1,0 +1,29 @@
+[
+    {
+        "dns-a": [
+            "131.183.52.119", 
+            "136.247.52.119"
+        ], 
+        "dns-mx": [
+            "mxa-00292601.gslb.pphosted.com", 
+            "mxb-00292601.gslb.pphosted.com"
+        ], 
+        "dns-ns": [
+            "hscdow01-dns-01.utoledo.edu", 
+            "mcuc11-dns-01.utoledo.edu"
+        ], 
+        "domain-name": "utoledo.edu", 
+        "fuzzer": "original*", 
+        "geoip-country": "United States", 
+        "mx-spy": true, 
+        "ssdeep-score": 100
+    }, 
+    {
+        "dns-ns": [
+            "hscdow01-dns-01.utoledo.edu", 
+            "mcuc11-dns-01.utoledo.edu"
+        ], 
+        "domain-name": "toledo.edu", 
+        "fuzzer": "omission"
+    }
+]

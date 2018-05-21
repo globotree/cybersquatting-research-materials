@@ -1,0 +1,121 @@
+[
+    {
+        "dns-mx": [
+            "mx.dti.ad.jp"
+        ], 
+        "dns-ns": [
+            "ns.dti.ad.jp", 
+            "ns2.dti.ad.jp"
+        ], 
+        "domain-name": "dti.ne.jp", 
+        "fuzzer": "original*"
+    }, 
+    {
+        "dns-a": [
+            "154.34.51.135"
+        ], 
+        "dns-mx": [
+            "mail.fti.ne.jp"
+        ], 
+        "dns-ns": [
+            "ns-1199.awsdns-21.org", 
+            "ns-1751.awsdns-26.co.uk", 
+            "ns-390.awsdns-48.com", 
+            "ns-749.awsdns-29.net"
+        ], 
+        "domain-name": "fti.ne.jp", 
+        "fuzzer": "bitsquatting", 
+        "geoip-country": "Japan"
+    }, 
+    {
+        "dns-a": [
+            "61.200.32.17"
+        ], 
+        "dns-mx": [
+            "mx1.svr.ne.jp", 
+            "mx2.svr.ne.jp"
+        ], 
+        "dns-ns": [
+            "dns3.odn.ne.jp", 
+            "ns4.odn.ne.jp", 
+            "ns5.svr.ne.jp"
+        ], 
+        "domain-name": "dpi.ne.jp", 
+        "fuzzer": "bitsquatting", 
+        "geoip-country": "Japan", 
+        "mx-spy": true
+    }, 
+    {
+        "dns-a": [
+            "59.106.27.169"
+        ], 
+        "dns-ns": [
+            "ns1.dns.ne.jp", 
+            "ns2.dns.ne.jp"
+        ], 
+        "domain-name": "bti.ne.jp", 
+        "fuzzer": "homoglyph", 
+        "geoip-country": "Japan"
+    }, 
+    {
+        "dns-a": [
+            "27.0.39.180"
+        ], 
+        "dns-mx": [
+            "mxi.alpha-prm.jp"
+        ], 
+        "dns-ns": [
+            "fjkdns01.alpha-prm.jp", 
+            "fjkdns02.alpha-prm.jp", 
+            "fjkdns03.alpha-prm.jp"
+        ], 
+        "domain-name": "sti.ne.jp", 
+        "fuzzer": "replacement", 
+        "geoip-country": "Japan"
+    }, 
+    {
+        "dns-mx": [
+            "drimailgl.dri.ne.jp"
+        ], 
+        "dns-ns": [
+            "ipms.ivp.ne.jp", 
+            "ipms2.ivp.ne.jp", 
+            "ipms5.ivp.ne.jp"
+        ], 
+        "domain-name": "dri.ne.jp", 
+        "fuzzer": "replacement"
+    }, 
+    {
+        "dns-mx": [
+            "ISVRL003.cti.ne.jp"
+        ], 
+        "dns-ns": [
+            "ns1.hs.ctc.jp", 
+            "ns2.dc.ctc.ad.jp"
+        ], 
+        "domain-name": "cti.ne.jp", 
+        "fuzzer": "replacement"
+    }, 
+    {
+        "dns-a": [
+            "153.122.124.117"
+        ], 
+        "dns-mx": [
+            "dit.ne.jp"
+        ], 
+        "dns-ns": [
+            "ns1.rsjpserver.net", 
+            "ns2.rsjpserver.net"
+        ], 
+        "domain-name": "dit.ne.jp", 
+        "fuzzer": "transposition"
+    }, 
+    {
+        "dns-ns": [
+            "ns.dti.ad.jp", 
+            "ns2.dti.ad.jp"
+        ], 
+        "domain-name": "dti.jp", 
+        "fuzzer": "various"
+    }
+]

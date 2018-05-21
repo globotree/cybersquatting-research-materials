@@ -1,0 +1,86 @@
+[
+    {
+        "dns-a": [
+            "91.198.174.192"
+        ], 
+        "dns-aaaa": [
+            "2620:0:862:ed1a::1"
+        ], 
+        "dns-mx": [
+            "mx1001.wikimedia.org", 
+            "mx2001.wikimedia.org"
+        ], 
+        "dns-ns": [
+            "ns0.wikimedia.org", 
+            "ns1.wikimedia.org", 
+            "ns2.wikimedia.org"
+        ], 
+        "domain-name": "mediawiki.org", 
+        "fuzzer": "original*", 
+        "geoip-country": "Netherlands", 
+        "ssdeep-score": 100
+    }, 
+    {
+        "dns-a": [
+            "50.63.202.33"
+        ], 
+        "dns-mx": [
+            "mailstore1.secureserver.net", 
+            "smtp.secureserver.net"
+        ], 
+        "dns-ns": [
+            "ns49.domaincontrol.com", 
+            "ns50.domaincontrol.com"
+        ], 
+        "domain-name": "mediawikis.org", 
+        "fuzzer": "addition", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "212.69.172.17"
+        ], 
+        "dns-ns": [
+            "ns1.domainname.at", 
+            "ns2.domainname.at"
+        ], 
+        "domain-name": "mediwiki.org", 
+        "fuzzer": "omission", 
+        "geoip-country": "Austria", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "192.64.119.176"
+        ], 
+        "dns-mx": [
+            "eforward1.registrar-servers.com", 
+            "eforward2.registrar-servers.com", 
+            "eforward3.registrar-servers.com", 
+            "eforward4.registrar-servers.com", 
+            "eforward5.registrar-servers.com"
+        ], 
+        "dns-ns": [
+            "dns1.registrar-servers.com", 
+            "dns2.registrar-servers.com", 
+            "dns3.registrar-servers.com", 
+            "dns4.registrar-servers.com", 
+            "dns5.registrar-servers.com"
+        ], 
+        "domain-name": "pediawiki.org", 
+        "fuzzer": "replacement", 
+        "geoip-country": "United States"
+    }, 
+    {
+        "dns-a": [
+            "185.60.216.36"
+        ], 
+        "dns-aaaa": [
+            "2a03:2880:f12d:84:face:b00c:0:14c9"
+        ], 
+        "domain-name": "mediawik.i.org", 
+        "fuzzer": "subdomain", 
+        "geoip-country": "Ireland"
+    }
+]

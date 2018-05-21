@@ -1,0 +1,35 @@
+[
+    {
+        "dns-a": [
+            "162.140.254.69"
+        ], 
+        "dns-ns": [
+            "ns1.gpo.gov", 
+            "ns2.gpo.gov"
+        ], 
+        "domain-name": "ecfr.gov", 
+        "fuzzer": "original*", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 100
+    }, 
+    {
+        "dns-a": [
+            "209.150.88.75"
+        ], 
+        "dns-mx": [
+            "ecr-gov.mail.protection.outlook.com", 
+            "mail.messaging.microsoft.com"
+        ], 
+        "dns-ns": [
+            "ns10.dnsmadeeasy.com", 
+            "ns11.dnsmadeeasy.com", 
+            "ns12.dnsmadeeasy.com", 
+            "ns13.dnsmadeeasy.com", 
+            "ns14.dnsmadeeasy.com", 
+            "ns15.dnsmadeeasy.com"
+        ], 
+        "domain-name": "ecr.gov", 
+        "fuzzer": "omission", 
+        "geoip-country": "United States"
+    }
+]

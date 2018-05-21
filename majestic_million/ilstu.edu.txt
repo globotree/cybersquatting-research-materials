@@ -1,0 +1,42 @@
+[
+    {
+        "dns-a": [
+            "138.87.50.5"
+        ], 
+        "dns-mx": [
+            "ilstu-edu.mail.protection.outlook.com"
+        ], 
+        "dns-ns": [
+            "ens1.ilstu.edu", 
+            "ens2.ilstu.edu"
+        ], 
+        "domain-name": "ilstu.edu", 
+        "fuzzer": "original*", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 100
+    }, 
+    {
+        "dns-a": [
+            "84.237.19.2"
+        ], 
+        "dns-mx": [
+            "mail.istu.edu", 
+            "relay.istu.edu"
+        ], 
+        "dns-ns": [
+            "ns.icc.ru", 
+            "ns.istu.irk.ru"
+        ], 
+        "domain-name": "istu.edu", 
+        "fuzzer": "omission"
+    }, 
+    {
+        "dns-a": [
+            "173.83.250.101"
+        ], 
+        "domain-name": "ils.tu.edu", 
+        "fuzzer": "subdomain", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 0
+    }
+]

@@ -1,0 +1,88 @@
+[
+    {
+        "dns-a": [
+            "52.216.0.66"
+        ], 
+        "dns-mx": [
+            "mr3.mbhllc.com", 
+            "mr4.mbhllc.com"
+        ], 
+        "dns-ns": [
+            "ns-1230.awsdns-25.org", 
+            "ns-1727.awsdns-23.co.uk", 
+            "ns-175.awsdns-21.com", 
+            "ns-909.awsdns-49.net"
+        ], 
+        "domain-name": "allfacebook.com", 
+        "fuzzer": "original*", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 100
+    }, 
+    {
+        "dns-a": [
+            "52.8.251.124"
+        ], 
+        "dns-mx": [
+            "qiye163mx01.mxmail.netease.com", 
+            "qiye163mx02.mxmail.netease.com"
+        ], 
+        "dns-ns": [
+            "dns10.hichina.com", 
+            "dns9.hichina.com"
+        ], 
+        "domain-name": "alifacebook.com", 
+        "fuzzer": "homoglyph", 
+        "geoip-country": "United States"
+    }, 
+    {
+        "dns-a": [
+            "209.99.64.25"
+        ], 
+        "dns-ns": [
+            "ns11025.ztomy.com", 
+            "ns21025.ztomy.com"
+        ], 
+        "domain-name": "alfacebook.com", 
+        "fuzzer": "omission", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-ns": [
+            "ns41.domaincontrol.com", 
+            "ns42.domaincontrol.com"
+        ], 
+        "domain-name": "llfacebook.com", 
+        "fuzzer": "omission"
+    }, 
+    {
+        "dns-a": [
+            "87.236.194.98"
+        ], 
+        "domain-name": "a.llfacebook.com", 
+        "fuzzer": "subdomain", 
+        "geoip-country": "Czech Republic", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "68.123.197.241"
+        ], 
+        "domain-name": "allfa.cebook.com", 
+        "fuzzer": "subdomain", 
+        "geoip-country": "United States"
+    }, 
+    {
+        "dns-a": [
+            "23.23.86.44"
+        ], 
+        "dns-mx": [
+            "0.0.0.0"
+        ], 
+        "domain-name": "allfaceb.ook.com", 
+        "fuzzer": "subdomain", 
+        "geoip-country": "United States", 
+        "mx-spy": true, 
+        "ssdeep-score": 0
+    }
+]

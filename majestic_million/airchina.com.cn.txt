@@ -1,0 +1,203 @@
+[
+    {
+        "dns-mx": [
+            "mailx.airchina.com.cn"
+        ], 
+        "dns-ns": [
+            "cns1.zdnscloud.net", 
+            "dns1.zdnscloud.info", 
+            "ins1.zdnscloud.com", 
+            "vns1.zdnscloud.biz"
+        ], 
+        "domain-name": "airchina.com.cn", 
+        "fuzzer": "original*"
+    }, 
+    {
+        "dns-a": [
+            "23.224.132.156"
+        ], 
+        "dns-ns": [
+            "ns1.dnsdun.com", 
+            "ns1.dnsdun.net"
+        ], 
+        "domain-name": "airchinag.com.cn", 
+        "fuzzer": "addition", 
+        "geoip-country": "United States"
+    }, 
+    {
+        "dns-a": [
+            "23.224.132.203"
+        ], 
+        "dns-ns": [
+            "ns1.dnsdun.com", 
+            "ns1.dnsdun.net"
+        ], 
+        "domain-name": "airchinan.com.cn", 
+        "fuzzer": "addition", 
+        "geoip-country": "United States"
+    }, 
+    {
+        "dns-a": [
+            "112.124.11.203"
+        ], 
+        "dns-ns": [
+            "dns10.hichina.com", 
+            "dns9.hichina.com"
+        ], 
+        "domain-name": "amrchina.com.cn", 
+        "fuzzer": "bitsquatting", 
+        "geoip-country": "China"
+    }, 
+    {
+        "dns-a": [
+            "42.156.141.13"
+        ], 
+        "dns-ns": [
+            "dns10.hichina.com", 
+            "dns9.hichina.com"
+        ], 
+        "domain-name": "airxchina.com.cn", 
+        "fuzzer": "insertion", 
+        "geoip-country": "China"
+    }, 
+    {
+        "dns-a": [
+            "210.209.118.231"
+        ], 
+        "dns-ns": [
+            "ns1.ezdnscenter.com", 
+            "ns2.ezdnscenter.com", 
+            "ns3.ezdnscenter.com", 
+            "ns4.ezdnscenter.com", 
+            "ns5.ezdnscenter.com", 
+            "ns6.ezdnscenter.com"
+        ], 
+        "domain-name": "archina.com.cn", 
+        "fuzzer": "omission", 
+        "geoip-country": "Hong Kong"
+    }, 
+    {
+        "dns-a": [
+            "45.113.70.122"
+        ], 
+        "dns-ns": [
+            "f1g1ns1.dnspod.net", 
+            "f1g1ns2.dnspod.net"
+        ], 
+        "domain-name": "aircina.com.cn", 
+        "fuzzer": "omission", 
+        "geoip-country": "Hong Kong"
+    }, 
+    {
+        "dns-a": [
+            "45.113.70.122"
+        ], 
+        "dns-ns": [
+            "f1g1ns1.dnspod.net", 
+            "f1g1ns2.dnspod.net"
+        ], 
+        "domain-name": "airchna.com.cn", 
+        "fuzzer": "omission", 
+        "geoip-country": "Hong Kong"
+    }, 
+    {
+        "dns-a": [
+            "47.89.58.32"
+        ], 
+        "dns-ns": [
+            "dns15.hichina.com", 
+            "dns16.hichina.com"
+        ], 
+        "domain-name": "aichina.com.cn", 
+        "fuzzer": "omission", 
+        "geoip-country": "United States"
+    }, 
+    {
+        "dns-a": [
+            "45.113.70.122"
+        ], 
+        "dns-ns": [
+            "f1g1ns1.dnspod.net", 
+            "f1g1ns2.dnspod.net"
+        ], 
+        "domain-name": "airchin.com.cn", 
+        "fuzzer": "omission", 
+        "geoip-country": "Hong Kong"
+    }, 
+    {
+        "dns-a": [
+            "45.113.70.122"
+        ], 
+        "dns-ns": [
+            "f1g1ns1.dnspod.net", 
+            "f1g1ns2.dnspod.net"
+        ], 
+        "domain-name": "airchia.com.cn", 
+        "fuzzer": "omission", 
+        "geoip-country": "Hong Kong"
+    }, 
+    {
+        "dns-a": [
+            "45.113.70.122"
+        ], 
+        "dns-ns": [
+            "f1g1ns1.dnspod.net", 
+            "f1g1ns2.dnspod.net"
+        ], 
+        "domain-name": "airhina.com.cn", 
+        "fuzzer": "omission", 
+        "geoip-country": "Hong Kong"
+    }, 
+    {
+        "dns-ns": [
+            "ns1.sfn.cn", 
+            "ns2.sfn.cn"
+        ], 
+        "domain-name": "aidchina.com.cn", 
+        "fuzzer": "replacement"
+    }, 
+    {
+        "dns-a": [
+            "52.69.166.231"
+        ], 
+        "domain-name": "ai.rchina.com.cn", 
+        "fuzzer": "subdomain", 
+        "geoip-country": "Japan"
+    }, 
+    {
+        "dns-a": [
+            "45.113.70.122"
+        ], 
+        "dns-ns": [
+            "f1g1ns1.dnspod.net", 
+            "f1g1ns2.dnspod.net"
+        ], 
+        "domain-name": "arichina.com.cn", 
+        "fuzzer": "transposition", 
+        "geoip-country": "Hong Kong"
+    }, 
+    {
+        "dns-ns": [
+            "f1g1ns1.dnspod.net", 
+            "f1g1ns2.dnspod.net"
+        ], 
+        "domain-name": "airchian.com.cn", 
+        "fuzzer": "transposition"
+    }, 
+    {
+        "dns-ns": [
+            "dns1.hichina.com", 
+            "dns2.hichina.com"
+        ], 
+        "domain-name": "airchina.cn", 
+        "fuzzer": "various"
+    }, 
+    {
+        "dns-a": [
+            "184.154.126.180"
+        ], 
+        "domain-name": "airchinacom.cn", 
+        "fuzzer": "various", 
+        "geoip-country": "United States"
+    }
+]

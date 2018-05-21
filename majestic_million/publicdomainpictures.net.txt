@@ -1,0 +1,82 @@
+[
+    {
+        "dns-a": [
+            "104.20.44.162", 
+            "104.20.45.162"
+        ], 
+        "dns-aaaa": [
+            "2400:cb00:2048:1::6814:2ca2", 
+            "2400:cb00:2048:1::6814:2da2"
+        ], 
+        "dns-mx": [
+            "mail.publicdomainpictures.net"
+        ], 
+        "dns-ns": [
+            "maya.ns.cloudflare.com", 
+            "noel.ns.cloudflare.com"
+        ], 
+        "domain-name": "publicdomainpictures.net", 
+        "fuzzer": "original*", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 47
+    }, 
+    {
+        "dns-a": [
+            "72.52.179.175"
+        ], 
+        "dns-mx": [
+            "mx156.hostedmxserver.com"
+        ], 
+        "dns-ns": [
+            "ns1.parklogic.com", 
+            "ns2.parklogic.com", 
+            "ns3.parklogic.com", 
+            "ns4.parklogic.com", 
+            "ns5.parklogic.com"
+        ], 
+        "domain-name": "publicdomainpicture.net", 
+        "fuzzer": "omission", 
+        "geoip-country": "United States", 
+        "mx-spy": true, 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "207.148.248.143"
+        ], 
+        "domain-name": "publicdoma.inpictures.net", 
+        "fuzzer": "subdomain", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "69.172.201.153"
+        ], 
+        "dns-ns": [
+            "ns1.uniregistrymarket.link", 
+            "ns2.uniregistrymarket.link"
+        ], 
+        "domain-name": "publicdomain.pictures.net", 
+        "fuzzer": "subdomain", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "207.148.248.143"
+        ], 
+        "domain-name": "publicdomainpict.ures.net", 
+        "fuzzer": "subdomain", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "173.227.18.70"
+        ], 
+        "domain-name": "publicdomainpictu.res.net", 
+        "fuzzer": "subdomain", 
+        "geoip-country": "United States"
+    }
+]

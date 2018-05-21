@@ -1,0 +1,100 @@
+[
+    {
+        "dns-mx": [
+            "amcrelay1.faa.gov", 
+            "amcrelay2.faa.gov", 
+            "amcrelay3.faa.gov", 
+            "relay1.faa.gov", 
+            "relay2.faa.gov", 
+            "relay3.faa.gov"
+        ], 
+        "dns-ns": [
+            "avatar.esc.gov", 
+            "emns1.faa.gov", 
+            "emns2.faa.gov"
+        ], 
+        "domain-name": "faa.gov", 
+        "fuzzer": "original*"
+    }, 
+    {
+        "dns-a": [
+            "152.180.6.131"
+        ], 
+        "dns-mx": [
+            "mail.fca.gov", 
+            "mail2.fca.gov"
+        ], 
+        "dns-ns": [
+            "dnssec10.datamtn.com", 
+            "dnssec11.datamtn.com", 
+            "dnssec12.datamtn.com", 
+            "dnssec14.datamtn.com", 
+            "dnssec7.datamtn.com", 
+            "dnssec9.datamtn.com"
+        ], 
+        "domain-name": "fca.gov", 
+        "fuzzer": "bitsquatting", 
+        "geoip-country": "United States"
+    }, 
+    {
+        "dns-a": [
+            "209.193.7.22"
+        ], 
+        "dns-ns": [
+            "ns1.acsalaska.net", 
+            "ns2.acsalaska.net", 
+            "ns3.acsalaska.net", 
+            "ns4.acsalaska.net"
+        ], 
+        "domain-name": "fea.gov", 
+        "fuzzer": "bitsquatting", 
+        "geoip-country": "United States"
+    }, 
+    {
+        "dns-a": [
+            "162.79.29.170"
+        ], 
+        "dns-mx": [
+            "alt1.aspmx.l.google.com", 
+            "alt2.aspmx.l.google.com", 
+            "alt3.aspmx.l.google.com", 
+            "alt4.aspmx.l.google.com", 
+            "aspmx.l.google.com"
+        ], 
+        "dns-ns": [
+            "dns.gsa.gov", 
+            "dns2.gsa.gov", 
+            "dns3.gsa.gov", 
+            "dns4.gsa.gov", 
+            "dns5.gsa.gov"
+        ], 
+        "domain-name": "fai.gov", 
+        "fuzzer": "bitsquatting", 
+        "geoip-country": "United States"
+    }, 
+    {
+        "dns-a": [
+            "54.85.132.205"
+        ], 
+        "dns-ns": [
+            "dns.gsa.gov", 
+            "dns2.gsa.gov", 
+            "dns3.gsa.gov", 
+            "dns4.gsa.gov", 
+            "dns5.gsa.gov"
+        ], 
+        "domain-name": "faq.gov", 
+        "fuzzer": "bitsquatting", 
+        "geoip-country": "United States"
+    }, 
+    {
+        "dns-ns": [
+            "ns1.bdm.microsoftonline.com", 
+            "ns2.bdm.microsoftonline.com", 
+            "ns3.bdm.microsoftonline.com", 
+            "ns4.bdm.microsoftonline.com"
+        ], 
+        "domain-name": "faa-gov.com", 
+        "fuzzer": "various"
+    }
+]

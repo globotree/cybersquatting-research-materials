@@ -1,0 +1,95 @@
+[
+    {
+        "dns-a": [
+            "58.68.149.95"
+        ], 
+        "dns-mx": [
+            "mxcom.263xmail.com", 
+            "mxwcom.263xmail.com"
+        ], 
+        "dns-ns": [
+            "dns1.qtlglb.info", 
+            "dns2.qtlglb.info", 
+            "dns3.qtlglb.info", 
+            "dns4.qtlglb.info", 
+            "dns5.qtlglb.info"
+        ], 
+        "domain-name": "chinanews.com.cn", 
+        "fuzzer": "original*", 
+        "geoip-country": "China", 
+        "ssdeep-score": 100
+    }, 
+    {
+        "dns-ns": [
+            "ns3.gzidc.com", 
+            "ns3.ns365.net", 
+            "ns4.gzidc.com", 
+            "ns4.ns365.net"
+        ], 
+        "domain-name": "chinanaws.com.cn", 
+        "fuzzer": "bitsquatting"
+    }, 
+    {
+        "dns-a": [
+            "210.14.69.21"
+        ], 
+        "dns-ns": [
+            "dns11.hichina.com", 
+            "dns12.hichina.com"
+        ], 
+        "domain-name": "chinanew.com.cn", 
+        "fuzzer": "omission", 
+        "geoip-country": "China", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "184.154.126.180"
+        ], 
+        "domain-name": "chianews.com.cn", 
+        "fuzzer": "omission", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-ns": [
+            "ns1.myhostadmin.net", 
+            "ns2.myhostadmin.net", 
+            "ns3.myhostadmin.net", 
+            "ns4.myhostadmin.net", 
+            "ns5.myhostadmin.net", 
+            "ns6.myhostadmin.net"
+        ], 
+        "domain-name": "chinannews.com.cn", 
+        "fuzzer": "repetition"
+    }, 
+    {
+        "dns-a": [
+            "1.1.1.1"
+        ], 
+        "domain-name": "chin.anews.com.cn", 
+        "fuzzer": "subdomain", 
+        "geoip-country": "Australia"
+    }, 
+    {
+        "dns-a": [
+            "34.201.177.101", 
+            "52.66.29.148"
+        ], 
+        "domain-name": "china.news.com.cn", 
+        "fuzzer": "subdomain", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "58.68.149.52"
+        ], 
+        "dns-ns": [
+            "ns1.cns.com.cn", 
+            "ns5.cns.com.cn"
+        ], 
+        "domain-name": "chinanews.cn", 
+        "fuzzer": "various"
+    }
+]

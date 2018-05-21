@@ -1,0 +1,101 @@
+[
+    {
+        "dns-a": [
+            "67.199.248.12", 
+            "67.199.248.13"
+        ], 
+        "dns-mx": [
+            "maila.microsoft.com", 
+            "mailb.microsoft.com", 
+            "mailc.microsoft.com"
+        ], 
+        "dns-ns": [
+            "ns1.msft.net", 
+            "ns2.msft.net", 
+            "ns3.msft.net", 
+            "ns4.msft.net"
+        ], 
+        "domain-name": "binged.it", 
+        "fuzzer": "original*", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 86
+    }, 
+    {
+        "dns-a": [
+            "209.15.13.134"
+        ], 
+        "dns-mx": [
+            "mail.b-io.co"
+        ], 
+        "dns-ns": [
+            "ns1.dnslink.com", 
+            "ns2.dnslink.com"
+        ], 
+        "domain-name": "banged.it", 
+        "fuzzer": "bitsquatting", 
+        "geoip-country": "United States", 
+        "mx-spy": true, 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "83.169.18.201"
+        ], 
+        "dns-mx": [
+            "alt1.aspmx.l.google.com", 
+            "alt2.aspmx.l.google.com", 
+            "aspmx.l.google.com", 
+            "aspmx2.googlemail.com", 
+            "aspmx3.googlemail.com"
+        ], 
+        "dns-ns": [
+            "ns1.hans.hosteurope.de", 
+            "ns2.hans.hosteurope.de"
+        ], 
+        "domain-name": "bingel.it", 
+        "fuzzer": "bitsquatting", 
+        "geoip-country": "Germany", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "62.149.128.151", 
+            "62.149.128.154", 
+            "62.149.128.157", 
+            "62.149.128.160", 
+            "62.149.128.163", 
+            "62.149.128.166", 
+            "62.149.128.72", 
+            "62.149.128.74"
+        ], 
+        "dns-mx": [
+            "mx.binge.it"
+        ], 
+        "dns-ns": [
+            "dns.technorail.com", 
+            "dns2.technorail.com", 
+            "dns3.arubadns.net", 
+            "dns4.arubadns.cz"
+        ], 
+        "domain-name": "binge.it", 
+        "fuzzer": "omission", 
+        "geoip-country": "Italy", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "89.31.143.1"
+        ], 
+        "dns-mx": [
+            "mx00.udag.de", 
+            "mx01.udag.de"
+        ], 
+        "dns-ns": [
+            "ns.udag.de", 
+            "ns.udag.net", 
+            "ns.udag.org"
+        ], 
+        "domain-name": "binger.it", 
+        "fuzzer": "replacement"
+    }
+]

@@ -1,0 +1,47 @@
+[
+    {
+        "dns-a": [
+            "200.198.128.227"
+        ], 
+        "dns-mx": [
+            "mx.via-rs.com.br", 
+            "mxbkp.via-rs.com.br"
+        ], 
+        "dns-ns": [
+            "dns1.procergs.com.br", 
+            "dns2.procergs.com.br", 
+            "dns3.procergs.com.br", 
+            "dns31.procergs.com.br", 
+            "dns4.procergs.com.br", 
+            "dns41.procergs.com.br"
+        ], 
+        "domain-name": "rs.gov.br", 
+        "fuzzer": "original*", 
+        "geoip-country": "Brazil"
+    }, 
+    {
+        "dns-mx": [
+            "mail.rr.gov.br"
+        ], 
+        "dns-ns": [
+            "ns.oi.com.br", 
+            "rorainopolis.cti.rr.gov.br"
+        ], 
+        "domain-name": "rr.gov.br", 
+        "fuzzer": "bitsquatting"
+    }, 
+    {
+        "dns-a": [
+            "201.62.46.96"
+        ], 
+        "dns-mx": [
+            "ironport.mail.es.gov.br"
+        ], 
+        "dns-ns": [
+            "ns1.es.gov.br", 
+            "ns2.es.gov.br"
+        ], 
+        "domain-name": "es.gov.br", 
+        "fuzzer": "replacement"
+    }
+]

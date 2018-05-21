@@ -1,0 +1,85 @@
+[
+    {
+        "dns-a": [
+            "148.251.86.207"
+        ], 
+        "dns-aaaa": [
+            "2a01:4f8:202:61ce::2"
+        ], 
+        "dns-mx": [
+            "mail.marxists.org"
+        ], 
+        "dns-ns": [
+            "dns1.webarchitects.co.uk", 
+            "ns1.catbull.com", 
+            "ns1.marxists.org"
+        ], 
+        "domain-name": "marxists.org", 
+        "fuzzer": "original*", 
+        "geoip-country": "Germany", 
+        "ssdeep-score": 100
+    }, 
+    {
+        "dns-ns": [
+            "ns1.uniregistrymarket.link", 
+            "ns2.uniregistrymarket.link"
+        ], 
+        "domain-name": "marxist.org", 
+        "fuzzer": "omission"
+    }, 
+    {
+        "dns-a": [
+            "185.53.178.8"
+        ], 
+        "dns-mx": [
+            "mail.h-email.net"
+        ], 
+        "dns-ns": [
+            "ns1.parkingcrew.net", 
+            "ns2.parkingcrew.net"
+        ], 
+        "domain-name": "marists.org", 
+        "fuzzer": "omission", 
+        "geoip-country": "Germany", 
+        "mx-spy": true, 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "208.79.239.190"
+        ], 
+        "dns-ns": [
+            "ns1.gofardesign.uk", 
+            "ns2.gofardesign.uk"
+        ], 
+        "domain-name": "marxiste.org", 
+        "fuzzer": "replacement", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "67.195.197.75"
+        ], 
+        "domain-name": "marx.ists.org", 
+        "fuzzer": "subdomain", 
+        "geoip-country": "United States"
+    }, 
+    {
+        "dns-a": [
+            "50.63.46.1"
+        ], 
+        "dns-ns": [
+            "a.service.afiliasdns.info", 
+            "b.service.afiliasdns.org", 
+            "c.service.afiliasdns.net", 
+            "d.service.afiliasdns.com", 
+            "e.service.afiliasdns.info", 
+            "f.service.afiliasdns.net"
+        ], 
+        "domain-name": "marxist.s.org", 
+        "fuzzer": "subdomain", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 0
+    }
+]

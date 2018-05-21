@@ -1,0 +1,81 @@
+[
+    {
+        "dns-a": [
+            "34.195.234.106", 
+            "34.199.203.144"
+        ], 
+        "dns-mx": [
+            "alt1.aspmx.l.google.com", 
+            "alt2.aspmx.l.google.com", 
+            "aspmx.l.google.com", 
+            "aspmx2.googlemail.com", 
+            "aspmx3.googlemail.com", 
+            "aspmx4.googlemail.com", 
+            "aspmx5.googlemail.com"
+        ], 
+        "dns-ns": [
+            "ns-1338.awsdns-39.org", 
+            "ns-1723.awsdns-23.co.uk", 
+            "ns-389.awsdns-48.com", 
+            "ns-604.awsdns-11.net"
+        ], 
+        "domain-name": "movabletype.org", 
+        "fuzzer": "original*", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 100
+    }, 
+    {
+        "dns-mx": [
+            "mail.movable-type.org"
+        ], 
+        "dns-ns": [
+            "dns1.name-services.com", 
+            "dns2.name-services.com", 
+            "dns3.name-services.com", 
+            "dns4.name-services.com", 
+            "dns5.name-services.com"
+        ], 
+        "domain-name": "movable-type.org", 
+        "fuzzer": "hyphenation", 
+        "mx-spy": true
+    }, 
+    {
+        "dns-a": [
+            "158.69.145.55"
+        ], 
+        "dns-ns": [
+            "ns1.quokkadns.com", 
+            "ns2.quokkadns.com"
+        ], 
+        "domain-name": "movavletype.org", 
+        "fuzzer": "replacement", 
+        "geoip-country": "Canada", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "207.148.248.143"
+        ], 
+        "domain-name": "movabl.etype.org", 
+        "fuzzer": "subdomain", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "69.64.147.34"
+        ], 
+        "domain-name": "movablety.pe.org", 
+        "fuzzer": "subdomain", 
+        "geoip-country": "United States"
+    }, 
+    {
+        "dns-a": [
+            "217.194.213.243"
+        ], 
+        "domain-name": "movabletyp.e.org", 
+        "fuzzer": "subdomain", 
+        "geoip-country": "United Kingdom", 
+        "ssdeep-score": 0
+    }
+]

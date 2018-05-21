@@ -1,0 +1,32 @@
+[
+    {
+        "dns-a": [
+            "211.29.132.105"
+        ], 
+        "dns-mx": [
+            "extmail.optusnet.com.au"
+        ], 
+        "dns-ns": [
+            "ns1.optusnet.com.au", 
+            "ns2.optusnet.com.au"
+        ], 
+        "domain-name": "optusnet.com.au", 
+        "fuzzer": "original*", 
+        "geoip-country": "Australia", 
+        "ssdeep-score": 100
+    }, 
+    {
+        "dns-a": [
+            "207.148.82.250"
+        ], 
+        "dns-ns": [
+            "ns1.digitalocean.com", 
+            "ns2.digitalocean.com", 
+            "ns3.digitalocean.com"
+        ], 
+        "domain-name": "optu.snet.com.au", 
+        "fuzzer": "subdomain", 
+        "geoip-country": "Canada", 
+        "ssdeep-score": 0
+    }
+]

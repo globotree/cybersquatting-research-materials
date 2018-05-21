@@ -1,0 +1,129 @@
+[
+    {
+        "dns-a": [
+            "192.230.67.1", 
+            "199.83.131.1"
+        ], 
+        "dns-mx": [
+            "us-smtp-inbound-1.mimecast.com", 
+            "us-smtp-inbound-2.mimecast.com"
+        ], 
+        "dns-ns": [
+            "ns-1323.awsdns-37.org", 
+            "ns-1938.awsdns-50.co.uk", 
+            "ns-254.awsdns-31.com", 
+            "ns-533.awsdns-02.net"
+        ], 
+        "domain-name": "foreignaffairs.com", 
+        "fuzzer": "original*", 
+        "geoip-country": "United States"
+    }, 
+    {
+        "dns-a": [
+            "207.148.248.143"
+        ], 
+        "domain-name": "foreign-affairs.com", 
+        "fuzzer": "hyphenation", 
+        "geoip-country": "United States"
+    }, 
+    {
+        "dns-a": [
+            "62.244.52.221"
+        ], 
+        "dns-mx": [
+            "mail.forreignaffairs.com"
+        ], 
+        "dns-ns": [
+            "ada.ns.cloudflare.com", 
+            "brett.ns.cloudflare.com"
+        ], 
+        "domain-name": "forreignaffairs.com", 
+        "fuzzer": "insertion", 
+        "geoip-country": "Ukraine"
+    }, 
+    {
+        "dns-a": [
+            "185.53.179.8"
+        ], 
+        "dns-mx": [
+            "mail.h-email.net"
+        ], 
+        "dns-ns": [
+            "ns1.parkingcrew.net", 
+            "ns2.parkingcrew.net"
+        ], 
+        "domain-name": "foreignaffaires.com", 
+        "fuzzer": "insertion", 
+        "geoip-country": "Germany", 
+        "mx-spy": true
+    }, 
+    {
+        "dns-a": [
+            "74.86.125.69"
+        ], 
+        "dns-mx": [
+            "mx.wwdl.net"
+        ], 
+        "dns-ns": [
+            "ns4.wwdl.net", 
+            "ns5.wwdl.net"
+        ], 
+        "domain-name": "foreignaffair.com", 
+        "fuzzer": "omission", 
+        "geoip-country": "United States"
+    }, 
+    {
+        "dns-a": [
+            "52.86.22.136", 
+            "54.174.212.152"
+        ], 
+        "domain-name": "foreigna.ffairs.com", 
+        "fuzzer": "subdomain", 
+        "geoip-country": "United States"
+    }, 
+    {
+        "dns-a": [
+            "69.172.201.153"
+        ], 
+        "dns-ns": [
+            "ns1.uniregistrymarket.link", 
+            "ns2.uniregistrymarket.link"
+        ], 
+        "domain-name": "foreignaf.fairs.com", 
+        "fuzzer": "subdomain", 
+        "geoip-country": "United States"
+    }, 
+    {
+        "dns-a": [
+            "209.99.64.43"
+        ], 
+        "domain-name": "foriegnaffairs.com", 
+        "fuzzer": "transposition", 
+        "geoip-country": "United States"
+    }, 
+    {
+        "dns-ns": [
+            "ns7.rookdns.com", 
+            "ns8.rookdns.com"
+        ], 
+        "domain-name": "foreingaffairs.com", 
+        "fuzzer": "transposition"
+    }, 
+    {
+        "dns-a": [
+            "173.239.5.6", 
+            "173.239.8.164", 
+            "213.247.47.190"
+        ], 
+        "dns-mx": [
+            "mx7.foreignaffaris.com"
+        ], 
+        "dns-ns": [
+            "ns1.expiereddnsmanager.com", 
+            "ns2.expiereddnsmanager.com"
+        ], 
+        "domain-name": "foreignaffaris.com", 
+        "fuzzer": "transposition", 
+        "geoip-country": "United States"
+    }
+]

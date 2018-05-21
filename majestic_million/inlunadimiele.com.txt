@@ -1,0 +1,44 @@
+[
+    {
+        "dns-a": [
+            "104.28.16.90", 
+            "104.28.17.90"
+        ], 
+        "dns-aaaa": [
+            "2400:cb00:2048:1::681c:105a", 
+            "2400:cb00:2048:1::681c:115a"
+        ], 
+        "dns-mx": [
+            "redirect.ovh.net"
+        ], 
+        "dns-ns": [
+            "dora.ns.cloudflare.com", 
+            "pete.ns.cloudflare.com"
+        ], 
+        "domain-name": "inlunadimiele.com", 
+        "fuzzer": "original*", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 93
+    }, 
+    {
+        "dns-a": [
+            "208.91.197.27"
+        ], 
+        "domain-name": "inluna.dimiele.com", 
+        "fuzzer": "subdomain", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "115.182.94.238"
+        ], 
+        "dns-mx": [
+            "lemail.le.com", 
+            "mail10.le.com", 
+            "mail3.le.com"
+        ], 
+        "domain-name": "inlunadimie.le.com", 
+        "fuzzer": "subdomain"
+    }
+]

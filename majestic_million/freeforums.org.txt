@@ -1,0 +1,176 @@
+[
+    {
+        "dns-a": [
+            "104.17.247.123", 
+            "104.17.248.123", 
+            "104.17.249.123", 
+            "104.17.250.123", 
+            "104.17.251.123"
+        ], 
+        "dns-aaaa": [
+            "2400:cb00:2048:1::6811:f77b", 
+            "2400:cb00:2048:1::6811:f87b", 
+            "2400:cb00:2048:1::6811:f97b", 
+            "2400:cb00:2048:1::6811:fa7b", 
+            "2400:cb00:2048:1::6811:fb7b"
+        ], 
+        "dns-mx": [
+            "alt1.aspmx.l.google.com", 
+            "alt2.aspmx.l.google.com", 
+            "alt3.aspmx.l.google.com", 
+            "alt4.aspmx.l.google.com", 
+            "aspmx.l.google.com"
+        ], 
+        "dns-ns": [
+            "cory.ns.cloudflare.com", 
+            "mira.ns.cloudflare.com"
+        ], 
+        "domain-name": "freeforums.org", 
+        "fuzzer": "original*", 
+        "geoip-country": "United States"
+    }, 
+    {
+        "dns-a": [
+            "199.191.50.73"
+        ], 
+        "dns-ns": [
+            "ns111373.ztomy.com", 
+            "ns211373.ztomy.com"
+        ], 
+        "domain-name": "freeforumss.org", 
+        "fuzzer": "addition", 
+        "geoip-country": "Virgin Islands"
+    }, 
+    {
+        "dns-a": [
+            "199.83.214.4"
+        ], 
+        "dns-ns": [
+            "ns75.domaincontrol.com", 
+            "ns76.domaincontrol.com"
+        ], 
+        "domain-name": "free-forums.org", 
+        "fuzzer": "hyphenation", 
+        "geoip-country": "United States"
+    }, 
+    {
+        "dns-a": [
+            "174.122.238.250"
+        ], 
+        "dns-mx": [
+            "mail.freeforum.org"
+        ], 
+        "dns-ns": [
+            "ns3.proboards.com", 
+            "ns4.proboards.com"
+        ], 
+        "domain-name": "freeforum.org", 
+        "fuzzer": "omission", 
+        "geoip-country": "United States"
+    }, 
+    {
+        "dns-a": [
+            "199.191.50.73"
+        ], 
+        "dns-ns": [
+            "ns111373.ztomy.com", 
+            "ns211373.ztomy.com"
+        ], 
+        "domain-name": "freforums.org", 
+        "fuzzer": "omission", 
+        "geoip-country": "Virgin Islands"
+    }, 
+    {
+        "dns-a": [
+            "46.166.184.98"
+        ], 
+        "domain-name": "freeforms.org", 
+        "fuzzer": "omission", 
+        "geoip-country": "Netherlands"
+    }, 
+    {
+        "dns-a": [
+            "199.191.50.73"
+        ], 
+        "dns-ns": [
+            "ns111373.ztomy.com", 
+            "ns211373.ztomy.com"
+        ], 
+        "domain-name": "freefoums.org", 
+        "fuzzer": "omission", 
+        "geoip-country": "Virgin Islands"
+    }, 
+    {
+        "dns-a": [
+            "54.83.60.158"
+        ], 
+        "domain-name": "free.forums.org", 
+        "fuzzer": "subdomain", 
+        "geoip-country": "United States"
+    }, 
+    {
+        "dns-a": [
+            "69.172.201.153"
+        ], 
+        "dns-ns": [
+            "ns1.uniregistrymarket.link", 
+            "ns2.uniregistrymarket.link"
+        ], 
+        "domain-name": "freefo.rums.org", 
+        "fuzzer": "subdomain", 
+        "geoip-country": "United States"
+    }, 
+    {
+        "dns-a": [
+            "50.63.46.1"
+        ], 
+        "dns-ns": [
+            "A.SERVICE.AFILIASDNS.INFO", 
+            "B.SERVICE.AFILIASDNS.org", 
+            "C.SERVICE.AFILIASDNS.NET", 
+            "D.SERVICE.AFILIASDNS.COM", 
+            "E.SERVICE.AFILIASDNS.INFO", 
+            "F.SERVICE.AFILIASDNS.NET"
+        ], 
+        "domain-name": "freeforum.s.org", 
+        "fuzzer": "subdomain"
+    }, 
+    {
+        "dns-a": [
+            "103.224.212.251"
+        ], 
+        "dns-mx": [
+            "park-mx.above.com"
+        ], 
+        "dns-ns": [
+            "ns3.above.com", 
+            "ns4.above.com"
+        ], 
+        "domain-name": "freefroums.org", 
+        "fuzzer": "transposition"
+    }, 
+    {
+        "dns-a": [
+            "199.191.50.73"
+        ], 
+        "dns-ns": [
+            "ns111373.ztomy.com", 
+            "ns211373.ztomy.com"
+        ], 
+        "domain-name": "freefourms.org", 
+        "fuzzer": "transposition", 
+        "geoip-country": "Virgin Islands"
+    }, 
+    {
+        "dns-a": [
+            "199.191.50.73"
+        ], 
+        "dns-ns": [
+            "ns111373.ztomy.com", 
+            "ns211373.ztomy.com"
+        ], 
+        "domain-name": "freeformus.org", 
+        "fuzzer": "transposition", 
+        "geoip-country": "Virgin Islands"
+    }
+]

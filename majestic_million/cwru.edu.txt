@@ -1,0 +1,42 @@
+[
+    {
+        "dns-a": [
+            "129.22.108.21", 
+            "129.22.12.21"
+        ], 
+        "dns-mx": [
+            "smtp.lb.cwru.edu"
+        ], 
+        "dns-ns": [
+            "galvatron.cns.cwru.edu", 
+            "ns.cwru.edu", 
+            "ns2.cwru.edu", 
+            "ns3a.tis.cwru.edu", 
+            "ns4.oar.net", 
+            "ns5.oar.net", 
+            "ns6.oar.net", 
+            "ns7.oar.net"
+        ], 
+        "domain-name": "cwru.edu", 
+        "fuzzer": "original*", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 100
+    }, 
+    {
+        "dns-a": [
+            "72.233.192.40"
+        ], 
+        "dns-mx": [
+            "cwu-edu.mail.protection.outlook.com"
+        ], 
+        "dns-ns": [
+            "apple.wa-k20.net", 
+            "ns0.cwu.edu", 
+            "ruler.wa-k20.net"
+        ], 
+        "domain-name": "cwu.edu", 
+        "fuzzer": "omission", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 0
+    }
+]

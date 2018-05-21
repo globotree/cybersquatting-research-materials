@@ -1,0 +1,138 @@
+[
+    {
+        "dns-mx": [
+            "mx.securemx.jp"
+        ], 
+        "dns-ns": [
+            "ns.nhk.or.jp", 
+            "ns10.nhk.or.jp"
+        ], 
+        "domain-name": "nhk.or.jp", 
+        "fuzzer": "original*"
+    }, 
+    {
+        "dns-mx": [
+            "sfmx.valley.ne.jp"
+        ], 
+        "dns-ns": [
+            "river.valley.ne.jp", 
+            "spa.infovalley.ad.jp"
+        ], 
+        "domain-name": "jhk.or.jp", 
+        "fuzzer": "bitsquatting"
+    }, 
+    {
+        "dns-a": [
+            "27.0.40.53"
+        ], 
+        "dns-mx": [
+            "mxi.alpha-prm.jp"
+        ], 
+        "dns-ns": [
+            "fjkdns01.alpha-prm.jp", 
+            "fjkdns02.alpha-prm.jp", 
+            "fjkdns03.alpha-prm.jp"
+        ], 
+        "domain-name": "fhk.or.jp", 
+        "fuzzer": "bitsquatting", 
+        "geoip-country": "Japan"
+    }, 
+    {
+        "dns-a": [
+            "150.95.9.177"
+        ], 
+        "dns-mx": [
+            "nik.or.jp"
+        ], 
+        "dns-ns": [
+            "ns1.value-domain.com", 
+            "ns2.value-domain.com"
+        ], 
+        "domain-name": "nik.or.jp", 
+        "fuzzer": "bitsquatting", 
+        "geoip-country": "Japan", 
+        "mx-spy": true
+    }, 
+    {
+        "dns-mx": [
+            "vdmx1.asahi-net.or.jp", 
+            "vdmx2.asahi-net.or.jp"
+        ], 
+        "dns-ns": [
+            "skyhawk.asahi-net.or.jp", 
+            "tomcat.asahi-net.or.jp"
+        ], 
+        "domain-name": "njk.or.jp", 
+        "fuzzer": "bitsquatting"
+    }, 
+    {
+        "dns-a": [
+            "210.188.245.195"
+        ], 
+        "dns-mx": [
+            "fs01.futurismworks.jp", 
+            "fs02.futurismworks.jp"
+        ], 
+        "dns-ns": [
+            "ns1.futurismworks.jp", 
+            "ns2.futurismworks.jp"
+        ], 
+        "domain-name": "mhk.or.jp", 
+        "fuzzer": "homoglyph", 
+        "geoip-country": "Japan"
+    }, 
+    {
+        "dns-mx": [
+            "take.rhk.jp"
+        ], 
+        "dns-ns": [
+            "ns.rhk.jp"
+        ], 
+        "domain-name": "rhk.or.jp", 
+        "fuzzer": "homoglyph", 
+        "mx-spy": true
+    }, 
+    {
+        "dns-a": [
+            "157.7.107.43"
+        ], 
+        "dns-mx": [
+            "mx01.lolipop.jp"
+        ], 
+        "dns-ns": [
+            "uns01.lolipop.jp", 
+            "uns02.lolipop.jp"
+        ], 
+        "domain-name": "nhm.or.jp", 
+        "fuzzer": "replacement", 
+        "geoip-country": "Japan"
+    }, 
+    {
+        "dns-a": [
+            "202.214.202.110"
+        ], 
+        "dns-mx": [
+            "mx.po.2iij.net"
+        ], 
+        "dns-ns": [
+            "dns-b.iij.ad.jp", 
+            "dns-c.iij.ad.jp"
+        ], 
+        "domain-name": "nhk.jp", 
+        "fuzzer": "various"
+    }, 
+    {
+        "dns-mx": [
+            "mxa.mailgun.org", 
+            "mxb.mailgun.org"
+        ], 
+        "dns-ns": [
+            "ns1.dorachan.com", 
+            "ns2.dorachan.com", 
+            "ns3.dorachan.com", 
+            "ns4.dorachan.com"
+        ], 
+        "domain-name": "nhkor.jp", 
+        "fuzzer": "various"
+    }
+]

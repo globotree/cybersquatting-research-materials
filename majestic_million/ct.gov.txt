@@ -1,0 +1,50 @@
+[
+    {
+        "dns-a": [
+            "159.247.0.240"
+        ], 
+        "dns-mx": [
+            "list.ct.gov", 
+            "po.ct.gov"
+        ], 
+        "dns-ns": [
+            "auth02.ns.uu.net", 
+            "info.das.state.ct.us", 
+            "ns1.fibertechdns.com", 
+            "ns2.fibertechdns.com"
+        ], 
+        "domain-name": "ct.gov", 
+        "fuzzer": "original*", 
+        "geoip-country": "United States"
+    }, 
+    {
+        "dns-a": [
+            "206.16.212.90"
+        ], 
+        "dns-mx": [
+            "vermont-gov.mail.protection.outlook.com"
+        ], 
+        "dns-ns": [
+            "ns1.state.vt.us", 
+            "ns2.state.vt.us"
+        ], 
+        "domain-name": "vt.gov", 
+        "fuzzer": "replacement", 
+        "geoip-country": "United States"
+    }, 
+    {
+        "dns-a": [
+            "184.168.221.57"
+        ], 
+        "dns-mx": [
+            "mailstore1.secureserver.net", 
+            "smtp.secureserver.net"
+        ], 
+        "dns-ns": [
+            "ns27.domaincontrol.com", 
+            "ns28.domaincontrol.com"
+        ], 
+        "domain-name": "ct-gov.com", 
+        "fuzzer": "various"
+    }
+]

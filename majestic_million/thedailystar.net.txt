@@ -1,0 +1,78 @@
+[
+    {
+        "dns-a": [
+            "107.154.80.121", 
+            "107.154.81.121"
+        ], 
+        "dns-aaaa": [
+            "2a02:e980:5a::79", 
+            "2a02:e980:5c::79"
+        ], 
+        "dns-mx": [
+            "ds.thedailystar.net"
+        ], 
+        "dns-ns": [
+            "dns1.bdcom.com", 
+            "dns2.bdcom.com"
+        ], 
+        "domain-name": "thedailystar.net", 
+        "fuzzer": "original*", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 85
+    }, 
+    {
+        "dns-a": [
+            "184.168.221.13"
+        ], 
+        "dns-mx": [
+            "mailstore1.secureserver.net", 
+            "smtp.secureserver.net"
+        ], 
+        "dns-ns": [
+            "ns41.domaincontrol.com", 
+            "ns42.domaincontrol.com"
+        ], 
+        "domain-name": "thedailystir.net", 
+        "fuzzer": "bitsquatting", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "72.52.179.175"
+        ], 
+        "dns-mx": [
+            "mx156.hostedmxserver.com"
+        ], 
+        "dns-ns": [
+            "ns1.parklogic.com", 
+            "ns2.parklogic.com", 
+            "ns3.parklogic.com", 
+            "ns4.parklogic.com", 
+            "ns5.parklogic.com"
+        ], 
+        "domain-name": "the.dailystar.net", 
+        "fuzzer": "subdomain", 
+        "geoip-country": "United States", 
+        "mx-spy": true
+    }, 
+    {
+        "dns-a": [
+            "122.10.98.4"
+        ], 
+        "dns-mx": [
+            "mail.happyisp.com"
+        ], 
+        "domain-name": "thedail.ystar.net", 
+        "fuzzer": "subdomain"
+    }, 
+    {
+        "dns-a": [
+            "94.130.249.128"
+        ], 
+        "domain-name": "thedailyst.ar.net", 
+        "fuzzer": "subdomain", 
+        "geoip-country": "Ukraine", 
+        "ssdeep-score": 0
+    }
+]

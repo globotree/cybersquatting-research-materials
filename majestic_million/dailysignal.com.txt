@@ -1,0 +1,73 @@
+[
+    {
+        "dns-a": [
+            "72.21.81.133"
+        ], 
+        "dns-mx": [
+            "us-smtp-inbound-1.mimecast.com", 
+            "us-smtp-inbound-2.mimecast.com"
+        ], 
+        "dns-ns": [
+            "marek.ns.cloudflare.com", 
+            "vera.ns.cloudflare.com"
+        ], 
+        "domain-name": "dailysignal.com", 
+        "fuzzer": "original*", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 100
+    }, 
+    {
+        "dns-a": [
+            "50.63.202.70"
+        ], 
+        "dns-mx": [
+            "mailstore1.secureserver.net", 
+            "smtp.secureserver.net"
+        ], 
+        "dns-ns": [
+            "ns35.domaincontrol.com", 
+            "ns36.domaincontrol.com"
+        ], 
+        "domain-name": "dailysignals.com", 
+        "fuzzer": "addition", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "104.24.96.19", 
+            "104.24.97.19"
+        ], 
+        "dns-aaaa": [
+            "2400:cb00:2048:1::6818:6013", 
+            "2400:cb00:2048:1::6818:6113"
+        ], 
+        "dns-ns": [
+            "jean.ns.cloudflare.com", 
+            "josh.ns.cloudflare.com"
+        ], 
+        "domain-name": "dailysignalz.com", 
+        "fuzzer": "addition", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "54.183.99.63"
+        ], 
+        "domain-name": "dail.ysignal.com", 
+        "fuzzer": "subdomain", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "23.23.86.44"
+        ], 
+        "dns-mx": [
+            "0.0.0.0"
+        ], 
+        "domain-name": "daily.signal.com", 
+        "fuzzer": "subdomain"
+    }
+]

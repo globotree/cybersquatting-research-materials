@@ -1,0 +1,152 @@
+[
+    {
+        "dns-mx": [
+            "mx2.tepco.co.jp", 
+            "mx4.tepco.co.jp"
+        ], 
+        "dns-ns": [
+            "tdns2.tepco.co.jp", 
+            "tdns3.tepco.co.jp", 
+            "tdns4.tepco.co.jp", 
+            "tepcogw.tepco.co.jp"
+        ], 
+        "domain-name": "tepco.co.jp", 
+        "fuzzer": "original*"
+    }, 
+    {
+        "dns-a": [
+            "157.7.107.87"
+        ], 
+        "dns-mx": [
+            "mx01.lolipop.jp"
+        ], 
+        "dns-ns": [
+            "uns01.lolipop.jp", 
+            "uns02.lolipop.jp"
+        ], 
+        "domain-name": "t-epco.co.jp", 
+        "fuzzer": "hyphenation", 
+        "geoip-country": "Japan"
+    }, 
+    {
+        "dns-a": [
+            "1.33.172.160"
+        ], 
+        "dns-mx": [
+            "epco.co.jp"
+        ], 
+        "dns-ns": [
+            "ns3.sphere.ad.jp", 
+            "ns4.sphere.ad.jp"
+        ], 
+        "domain-name": "epco.co.jp", 
+        "fuzzer": "omission", 
+        "geoip-country": "Japan"
+    }, 
+    {
+        "dns-a": [
+            "154.34.14.9"
+        ], 
+        "dns-mx": [
+            "mail.teco.co.jp"
+        ], 
+        "dns-ns": [
+            "ns-1139.awsdns-14.org", 
+            "ns-144.awsdns-18.com", 
+            "ns-2022.awsdns-60.co.uk", 
+            "ns-816.awsdns-38.net"
+        ], 
+        "domain-name": "teco.co.jp", 
+        "fuzzer": "omission", 
+        "geoip-country": "Japan"
+    }, 
+    {
+        "dns-a": [
+            "133.242.79.150"
+        ], 
+        "dns-mx": [
+            "a10.globalgate.ne.jp"
+        ], 
+        "dns-ns": [
+            "ns1.globalgate.ne.jp", 
+            "ns2.globalgate.ne.jp"
+        ], 
+        "domain-name": "telco.co.jp", 
+        "fuzzer": "replacement", 
+        "geoip-country": "Japan"
+    }, 
+    {
+        "dns-a": [
+            "23.236.62.147"
+        ], 
+        "dns-ns": [
+            "ns4.wixdns.net", 
+            "ns5.wixdns.net"
+        ], 
+        "domain-name": "fepco.co.jp", 
+        "fuzzer": "replacement", 
+        "geoip-country": "United States"
+    }, 
+    {
+        "dns-a": [
+            "163.44.78.96"
+        ], 
+        "dns-mx": [
+            "mx.newsv.jp"
+        ], 
+        "dns-ns": [
+            "dns01.newsv.jp", 
+            "dns02.newsv.jp"
+        ], 
+        "domain-name": "repco.co.jp", 
+        "fuzzer": "replacement", 
+        "geoip-country": "Japan"
+    }, 
+    {
+        "dns-a": [
+            "122.1.218.219"
+        ], 
+        "dns-mx": [
+            "mwbgw1.ocn.ad.jp", 
+            "mwbgw2.ocn.ad.jp"
+        ], 
+        "dns-ns": [
+            "ns-210.dns.jp-e1.cloudn-service.com", 
+            "ns-211.dns.jp-w1.cloudn-service.com", 
+            "ns-212.dns.us-e1.cloudn-service.com"
+        ], 
+        "domain-name": "temco.co.jp", 
+        "fuzzer": "replacement", 
+        "geoip-country": "Japan"
+    }, 
+    {
+        "dns-a": [
+            "210.172.183.49"
+        ], 
+        "dns-mx": [
+            "mx2.gmoserver.jp"
+        ], 
+        "dns-ns": [
+            "dns01.gmoserver.jp", 
+            "dns02.gmoserver.jp"
+        ], 
+        "domain-name": "tipco.co.jp", 
+        "fuzzer": "vowel-swap"
+    }, 
+    {
+        "dns-a": [
+            "216.230.250.172"
+        ], 
+        "dns-mx": [
+            "ampub01.alpha-mail.net", 
+            "ampub02.alpha-mail.net", 
+            "ampub03.alpha-mail.net"
+        ], 
+        "dns-ns": [
+            "kotetsu.alpha-lt.net", 
+            "tsukuba.aics.ne.jp"
+        ], 
+        "domain-name": "topco.co.jp", 
+        "fuzzer": "vowel-swap"
+    }
+]

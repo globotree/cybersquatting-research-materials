@@ -1,0 +1,217 @@
+[
+    {
+        "dns-a": [
+            "178.248.237.68"
+        ], 
+        "dns-mx": [
+            "mxs.habramail.net"
+        ], 
+        "dns-ns": [
+            "ns1.habradns.net", 
+            "ns2.habradns.net", 
+            "ns3.habradns.net"
+        ], 
+        "domain-name": "habrahabr.ru", 
+        "fuzzer": "original*", 
+        "geoip-country": "Russian Federation", 
+        "ssdeep-score": 99
+    }, 
+    {
+        "dns-a": [
+            "72.52.4.120"
+        ], 
+        "dns-mx": [
+            "localhost"
+        ], 
+        "dns-ns": [
+            "ns1.poishi.com", 
+            "ns2.poishi.com"
+        ], 
+        "domain-name": "habrahabra.ru", 
+        "fuzzer": "addition", 
+        "geoip-country": "United States", 
+        "mx-spy": true
+    }, 
+    {
+        "dns-a": [
+            "109.70.26.37", 
+            "194.85.61.76"
+        ], 
+        "dns-mx": [
+            "nomail.nic.ru"
+        ], 
+        "dns-ns": [
+            "ns1.expired.r01.ru", 
+            "ns2.expired.r01.ru"
+        ], 
+        "domain-name": "habrahabrs.ru", 
+        "fuzzer": "addition", 
+        "geoip-country": "Russian Federation", 
+        "mx-spy": true, 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "149.56.126.237", 
+            "46.166.184.102"
+        ], 
+        "dns-aaaa": [
+            "2a00:1768:2001:63::46:102"
+        ], 
+        "dns-ns": [
+            "pns2.arimsoft.ru", 
+            "pns5.arimsoft.ru"
+        ], 
+        "domain-name": "habra-habr.ru", 
+        "fuzzer": "hyphenation", 
+        "geoip-country": "Canada", 
+        "ssdeep-score": 99
+    }, 
+    {
+        "dns-a": [
+            "81.177.6.7"
+        ], 
+        "dns-mx": [
+            "mail.abrahabr.ru"
+        ], 
+        "dns-ns": [
+            "ns1.jino.ru", 
+            "ns2.jino.ru", 
+            "ns3.jino.ru", 
+            "ns4.jino.ru"
+        ], 
+        "domain-name": "abrahabr.ru", 
+        "fuzzer": "omission", 
+        "geoip-country": "Russian Federation", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "31.31.205.163"
+        ], 
+        "domain-name": "habrahbr.ru", 
+        "fuzzer": "omission", 
+        "geoip-country": "Russian Federation", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "213.141.153.214"
+        ], 
+        "dns-mx": [
+            "mx.habrahab.ru"
+        ], 
+        "dns-ns": [
+            "b.ns.buddyns.com", 
+            "ns.habrahab.ru"
+        ], 
+        "domain-name": "habrahab.ru", 
+        "fuzzer": "omission", 
+        "geoip-country": "Russian Federation"
+    }, 
+    {
+        "dns-a": [
+            "91.218.228.13"
+        ], 
+        "dns-aaaa": [
+            "2a03:c980:dead:1004:91:218:228:13"
+        ], 
+        "dns-mx": [
+            "mail.habragabr.ru"
+        ], 
+        "dns-ns": [
+            "ns1.ihc.ru", 
+            "ns2.ihc.ru"
+        ], 
+        "domain-name": "habragabr.ru", 
+        "fuzzer": "replacement", 
+        "geoip-country": "Russian Federation", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "81.177.6.7"
+        ], 
+        "domain-name": "h.abrahabr.ru", 
+        "fuzzer": "subdomain", 
+        "geoip-country": "Russian Federation"
+    }, 
+    {
+        "dns-a": [
+            "89.108.116.191"
+        ], 
+        "domain-name": "habr.ahabr.ru", 
+        "fuzzer": "subdomain", 
+        "geoip-country": "Russian Federation", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "95.213.152.171"
+        ], 
+        "dns-ns": [
+            "ns1.habradns.net", 
+            "ns2.habradns.net", 
+            "ns3.habradns.net"
+        ], 
+        "domain-name": "habra.habr.ru", 
+        "fuzzer": "subdomain", 
+        "geoip-country": "Russian Federation", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "91.230.208.73"
+        ], 
+        "domain-name": "habraha.br.ru", 
+        "fuzzer": "subdomain", 
+        "geoip-country": "Russian Federation", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "31.31.205.163"
+        ], 
+        "domain-name": "harbahabr.ru", 
+        "fuzzer": "transposition", 
+        "geoip-country": "Russian Federation", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "31.31.205.163"
+        ], 
+        "dns-mx": [
+            "mail.habraharb.ru"
+        ], 
+        "dns-ns": [
+            "ns1.ru.eserver.net", 
+            "ns2.ru.eserver.net", 
+            "ns3.ru.eserver.net", 
+            "ns4.ru.eserver.net"
+        ], 
+        "domain-name": "habraharb.ru", 
+        "fuzzer": "transposition"
+    }, 
+    {
+        "dns-mx": [
+            "mx.yandex.net", 
+            "mx.yandex.ru"
+        ], 
+        "dns-ns": [
+            "dns1.yandex.ru", 
+            "dns2.yandex.ru"
+        ], 
+        "domain-name": "hubrahabr.ru", 
+        "fuzzer": "vowel-swap"
+    }, 
+    {
+        "dns-a": [
+            "31.31.205.163"
+        ], 
+        "domain-name": "habrohabr.ru", 
+        "fuzzer": "vowel-swap", 
+        "geoip-country": "Russian Federation", 
+        "ssdeep-score": 0
+    }
+]

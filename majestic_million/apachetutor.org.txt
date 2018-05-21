@@ -1,0 +1,48 @@
+[
+    {
+        "dns-ns": [
+            "freedns1.registrar-servers.com", 
+            "freedns2.registrar-servers.com", 
+            "freedns3.registrar-servers.com", 
+            "freedns4.registrar-servers.com", 
+            "freedns5.registrar-servers.com"
+        ], 
+        "domain-name": "apachetutor.org", 
+        "fuzzer": "original*"
+    }, 
+    {
+        "dns-a": [
+            "69.172.201.153"
+        ], 
+        "dns-ns": [
+            "ns1.uniregistrymarket.link", 
+            "ns2.uniregistrymarket.link"
+        ], 
+        "domain-name": "apache.tutor.org", 
+        "fuzzer": "subdomain", 
+        "geoip-country": "United States"
+    }, 
+    {
+        "dns-a": [
+            "85.13.140.190"
+        ], 
+        "domain-name": "apachet.utor.org", 
+        "fuzzer": "subdomain"
+    }, 
+    {
+        "dns-a": [
+            "208.91.197.27"
+        ], 
+        "domain-name": "apachetu.tor.org", 
+        "fuzzer": "subdomain", 
+        "geoip-country": "United States"
+    }, 
+    {
+        "dns-a": [
+            "98.124.199.35"
+        ], 
+        "domain-name": "apachetuto.r.org", 
+        "fuzzer": "subdomain", 
+        "geoip-country": "United States"
+    }
+]

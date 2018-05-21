@@ -1,0 +1,261 @@
+[
+    {
+        "dns-a": [
+            "104.18.52.191", 
+            "104.18.53.191"
+        ], 
+        "dns-aaaa": [
+            "2400:cb00:2048:1::6812:34bf", 
+            "2400:cb00:2048:1::6812:35bf"
+        ], 
+        "dns-mx": [
+            "mail.host.sk"
+        ], 
+        "dns-ns": [
+            "amit.ns.cloudflare.com", 
+            "beth.ns.cloudflare.com"
+        ], 
+        "domain-name": "host.sk", 
+        "fuzzer": "original*", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 100
+    }, 
+    {
+        "dns-a": [
+            "37.9.175.16"
+        ], 
+        "dns-mx": [
+            "mailin1.hosta.sk", 
+            "mailin2.hosta.sk"
+        ], 
+        "dns-ns": [
+            "ns1.websupport.sk", 
+            "ns2.websupport.sk", 
+            "ns3.websupport.sk"
+        ], 
+        "domain-name": "hosta.sk", 
+        "fuzzer": "addition", 
+        "geoip-country": "Slovakia", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-mx": [
+            "mailin.mx-hub.cz", 
+            "mailin.mx-hub.eu", 
+            "mailin.mx-hub.net", 
+            "mailin.mx-hub.sk"
+        ], 
+        "dns-ns": [
+            "ns1.dnsbackup.net", 
+            "ns1.nameserver.sk", 
+            "ns2.dnsbackup.net", 
+            "ns2.nameserver.sk"
+        ], 
+        "domain-name": "jost.sk", 
+        "fuzzer": "bitsquatting"
+    }, 
+    {
+        "dns-a": [
+            "193.105.142.15"
+        ], 
+        "dns-mx": [
+            "mailin.mx-hub.cz", 
+            "mailin.mx-hub.eu", 
+            "mailin.mx-hub.net", 
+            "mailin.mx-hub.sk"
+        ], 
+        "dns-ns": [
+            "ns1.nic.sk", 
+            "ns2.nic.sk", 
+            "ns3.nic.sk", 
+            "ns4.nic.sk"
+        ], 
+        "domain-name": "hort.sk", 
+        "fuzzer": "bitsquatting", 
+        "geoip-country": "Slovakia"
+    }, 
+    {
+        "dns-a": [
+            "37.9.175.3"
+        ], 
+        "dns-mx": [
+            "mailin1.hosu.sk", 
+            "mailin2.hosu.sk"
+        ], 
+        "dns-ns": [
+            "ns1.websupport.sk", 
+            "ns2.websupport.sk", 
+            "ns3.websupport.sk"
+        ], 
+        "domain-name": "hosu.sk", 
+        "fuzzer": "bitsquatting", 
+        "geoip-country": "Slovakia", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "92.240.253.31"
+        ], 
+        "dns-mx": [
+            "relay.exohosting.sk", 
+            "relay1.exohosting.sk", 
+            "relay3.dnsserver.eu"
+        ], 
+        "dns-ns": [
+            "ns.exohosting.sk", 
+            "ns1.exohosting.sk", 
+            "ns3.exohosting.sk"
+        ], 
+        "domain-name": "ihost.sk", 
+        "fuzzer": "homoglyph", 
+        "geoip-country": "Slovakia", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-mx": [
+            "park-mx.above.com"
+        ], 
+        "dns-ns": [
+            "ns1.above.com", 
+            "ns2.above.com"
+        ], 
+        "domain-name": "hot.sk", 
+        "fuzzer": "omission"
+    }, 
+    {
+        "dns-a": [
+            "78.24.8.135"
+        ], 
+        "dns-mx": [
+            "mail.ost.sk"
+        ], 
+        "dns-ns": [
+            "ns.ost.sk", 
+            "ns2.vshosting.cz"
+        ], 
+        "domain-name": "ost.sk", 
+        "fuzzer": "omission", 
+        "geoip-country": "Czech Republic", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "81.2.194.128"
+        ], 
+        "dns-mx": [
+            "78-141-127-220.static.orange.sk", 
+            "mail.hst.sk"
+        ], 
+        "dns-ns": [
+            "ns.forpsi.cz", 
+            "ns.forpsi.it", 
+            "ns.forpsi.net", 
+            "ns.forpsi.us"
+        ], 
+        "domain-name": "hst.sk", 
+        "fuzzer": "omission", 
+        "geoip-country": "Czech Republic", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "185.161.175.128"
+        ], 
+        "dns-mx": [
+            "hos.sk"
+        ], 
+        "dns-ns": [
+            "ns1.kudo.sk", 
+            "ns2.kudo.sk"
+        ], 
+        "domain-name": "hos.sk", 
+        "fuzzer": "omission", 
+        "geoip-country": "Slovakia", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "217.198.114.120"
+        ], 
+        "dns-aaaa": [
+            "2a00:19a0:3:72:0:d9c6:7278:1"
+        ], 
+        "dns-mx": [
+            "10mx.zoner.com", 
+            "15mx.zoner.com", 
+            "relay.zoner.com"
+        ], 
+        "dns-ns": [
+            "ns1.regzone.cz", 
+            "ns1.regzone.de", 
+            "ns1.regzone.info"
+        ], 
+        "domain-name": "gost.sk", 
+        "fuzzer": "replacement", 
+        "geoip-country": "Czech Republic", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "81.95.96.29"
+        ], 
+        "dns-ns": [
+            "alfa.ns.active24.cz", 
+            "beta.ns.active24.cz", 
+            "gama.ns.active24.sk"
+        ], 
+        "domain-name": "hoyt.sk", 
+        "fuzzer": "replacement", 
+        "geoip-country": "Czech Republic", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "37.9.175.22"
+        ], 
+        "dns-mx": [
+            "mail.bost.sk"
+        ], 
+        "dns-ns": [
+            "ns1.websupport.sk", 
+            "ns2.websupport.sk", 
+            "ns3.websupport.sk"
+        ], 
+        "domain-name": "bost.sk", 
+        "fuzzer": "replacement"
+    }, 
+    {
+        "dns-a": [
+            "31.31.78.55"
+        ], 
+        "dns-mx": [
+            "mail1.run.sk"
+        ], 
+        "dns-ns": [
+            "ns.webglobe.sk", 
+            "ns2.webglobe.sk", 
+            "ns3.webglobe.sk"
+        ], 
+        "domain-name": "hast.sk", 
+        "fuzzer": "vowel-swap", 
+        "geoip-country": "Czech Republic", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "46.229.230.35"
+        ], 
+        "dns-mx": [
+            "backupmx.hostmaster.sk", 
+            "mail4.hostmaster.sk", 
+            "mx3.hostmaster.sk"
+        ], 
+        "dns-ns": [
+            "ns1.webhouse.sk", 
+            "ns2.webhouse.sk"
+        ], 
+        "domain-name": "hest.sk", 
+        "fuzzer": "vowel-swap", 
+        "geoip-country": "Slovakia"
+    }
+]

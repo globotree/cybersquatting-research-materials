@@ -1,0 +1,181 @@
+[
+    {
+        "dns-a": [
+            "52.17.74.106"
+        ], 
+        "dns-mx": [
+            "tradedoubler-com.mail.protection.outlook.com"
+        ], 
+        "dns-ns": [
+            "ns-1359.awsdns-41.org", 
+            "ns-159.awsdns-19.com", 
+            "ns-2038.awsdns-62.co.uk", 
+            "ns-582.awsdns-08.net"
+        ], 
+        "domain-name": "tradedoubler.com", 
+        "fuzzer": "original*", 
+        "geoip-country": "Ireland", 
+        "ssdeep-score": 100
+    }, 
+    {
+        "dns-ns": [
+            "ns-1350.awsdns-40.org", 
+            "ns-1707.awsdns-21.co.uk", 
+            "ns-440.awsdns-55.com", 
+            "ns-534.awsdns-02.net"
+        ], 
+        "domain-name": "tradedoublers.com", 
+        "fuzzer": "addition"
+    }, 
+    {
+        "dns-ns": [
+            "ns-1388.awsdns-45.org", 
+            "ns-1966.awsdns-53.co.uk", 
+            "ns-715.awsdns-25.net", 
+            "ns-95.awsdns-11.com"
+        ], 
+        "domain-name": "trade-doubler.com", 
+        "fuzzer": "hyphenation"
+    }, 
+    {
+        "dns-a": [
+            "217.212.240.170"
+        ], 
+        "dns-ns": [
+            "a.ns14.net", 
+            "b.ns14.net", 
+            "c.ns14.net", 
+            "d.ns14.net"
+        ], 
+        "domain-name": "tradesdoubler.com", 
+        "fuzzer": "insertion", 
+        "geoip-country": "Sweden"
+    }, 
+    {
+        "dns-a": [
+            "52.73.124.185", 
+            "54.164.198.60"
+        ], 
+        "dns-ns": [
+            "ns1.namebrightdns.com", 
+            "ns2.namebrightdns.com"
+        ], 
+        "domain-name": "traderdoubler.com", 
+        "fuzzer": "insertion", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "184.168.221.15"
+        ], 
+        "dns-mx": [
+            "mailstore1.secureserver.net", 
+            "smtp.secureserver.net"
+        ], 
+        "dns-ns": [
+            "ns71.domaincontrol.com", 
+            "ns72.domaincontrol.com"
+        ], 
+        "domain-name": "tradedobler.com", 
+        "fuzzer": "omission", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "103.224.212.222"
+        ], 
+        "dns-mx": [
+            "park-mx.above.com"
+        ], 
+        "dns-ns": [
+            "ns1.above.com", 
+            "ns2.above.com"
+        ], 
+        "domain-name": "tradeoubler.com", 
+        "fuzzer": "omission", 
+        "geoip-country": "Australia", 
+        "mx-spy": true, 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "93.159.16.154"
+        ], 
+        "dns-ns": [
+            "dns1.domeny.tv", 
+            "dns2.domeny.tv"
+        ], 
+        "domain-name": "tradedubler.com", 
+        "fuzzer": "omission", 
+        "geoip-country": "Poland", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-ns": [
+            "ns-1482.awsdns-57.org", 
+            "ns-1856.awsdns-40.co.uk", 
+            "ns-35.awsdns-04.com", 
+            "ns-663.awsdns-18.net"
+        ], 
+        "domain-name": "tradedoubbler.com", 
+        "fuzzer": "repetition"
+    }, 
+    {
+        "dns-a": [
+            "198.54.117.200"
+        ], 
+        "dns-ns": [
+            "dns101.registrar-servers.com", 
+            "dns102.registrar-servers.com"
+        ], 
+        "domain-name": "tra.dedoubler.com", 
+        "fuzzer": "subdomain", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "72.52.4.119"
+        ], 
+        "dns-mx": [
+            "localhost"
+        ], 
+        "dns-ns": [
+            "ns1.sedoparking.com", 
+            "ns2.sedoparking.com"
+        ], 
+        "domain-name": "tradedo.ubler.com", 
+        "fuzzer": "subdomain", 
+        "geoip-country": "United States", 
+        "mx-spy": true, 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "103.224.182.246"
+        ], 
+        "dns-mx": [
+            "park-mx.above.com"
+        ], 
+        "dns-ns": [
+            "ns1.above.com", 
+            "ns2.above.com"
+        ], 
+        "domain-name": "tradedoub.ler.com", 
+        "fuzzer": "subdomain", 
+        "geoip-country": "Australia", 
+        "mx-spy": true, 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "208.73.211.70"
+        ], 
+        "domain-name": "tradedoubl.er.com", 
+        "fuzzer": "subdomain", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 0
+    }
+]

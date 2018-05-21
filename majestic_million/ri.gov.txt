@@ -1,0 +1,35 @@
+[
+    {
+        "dns-a": [
+            "206.16.212.198"
+        ], 
+        "dns-mx": [
+            "mx0a-00137801.pphosted.com", 
+            "mx0b-00137801.pphosted.com", 
+            "mxa-00137801.gslb.pphosted.com", 
+            "mxb-00137801.gslb.pphosted.com"
+        ], 
+        "dns-ns": [
+            "ns1.ri.gov", 
+            "ns2.ri.gov"
+        ], 
+        "domain-name": "ri.gov", 
+        "fuzzer": "original*", 
+        "geoip-country": "United States", 
+        "mx-spy": true, 
+        "ssdeep-score": 100
+    }, 
+    {
+        "dns-mx": [
+            "vi-gov.mail.protection.outlook.com"
+        ], 
+        "dns-ns": [
+            "ns21.cloudns.net", 
+            "ns22.cloudns.net", 
+            "ns23.cloudns.net", 
+            "ns24.cloudns.net"
+        ], 
+        "domain-name": "vi.gov", 
+        "fuzzer": "bitsquatting"
+    }
+]

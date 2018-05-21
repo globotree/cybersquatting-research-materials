@@ -1,0 +1,66 @@
+[
+    {
+        "dns-a": [
+            "151.101.1.54", 
+            "151.101.129.54", 
+            "151.101.193.54", 
+            "151.101.65.54"
+        ], 
+        "dns-mx": [
+            "alt1.aspmx.l.google.com", 
+            "alt2.aspmx.l.google.com", 
+            "aspmx.l.google.com", 
+            "aspmx2.googlemail.com", 
+            "aspmx3.googlemail.com"
+        ], 
+        "dns-ns": [
+            "ns-1223.awsdns-24.org", 
+            "ns-1795.awsdns-32.co.uk", 
+            "ns-429.awsdns-53.com", 
+            "ns-575.awsdns-07.net"
+        ], 
+        "domain-name": "fastcodesign.com", 
+        "fuzzer": "original*", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 100
+    }, 
+    {
+        "dns-a": [
+            "208.91.197.27"
+        ], 
+        "domain-name": "fast.codesign.com", 
+        "fuzzer": "subdomain", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "141.8.224.183"
+        ], 
+        "dns-ns": [
+            "ns41.rookdns.com", 
+            "ns42.rookdns.com"
+        ], 
+        "domain-name": "fastco.design.com", 
+        "fuzzer": "subdomain", 
+        "geoip-country": "Switzerland", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "72.52.4.119"
+        ], 
+        "dns-mx": [
+            "localhost"
+        ], 
+        "dns-ns": [
+            "ns1.sedoparking.com", 
+            "ns2.sedoparking.com"
+        ], 
+        "domain-name": "fastcod.esign.com", 
+        "fuzzer": "subdomain", 
+        "geoip-country": "United States", 
+        "mx-spy": true, 
+        "ssdeep-score": 0
+    }
+]

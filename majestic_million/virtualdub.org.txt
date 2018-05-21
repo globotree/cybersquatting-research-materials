@@ -1,0 +1,61 @@
+[
+    {
+        "dns-a": [
+            "216.92.223.251"
+        ], 
+        "dns-mx": [
+            "mailwash46.pair.com"
+        ], 
+        "dns-ns": [
+            "ns000.ns0.com", 
+            "ns528.pair.com"
+        ], 
+        "domain-name": "virtualdub.org", 
+        "fuzzer": "original*", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 100
+    }, 
+    {
+        "dns-ns": [
+            "ns1.systemdns.com", 
+            "ns2.systemdns.com", 
+            "ns3.systemdns.com"
+        ], 
+        "domain-name": "virtualdb.org", 
+        "fuzzer": "omission"
+    }, 
+    {
+        "dns-a": [
+            "66.96.149.1"
+        ], 
+        "dns-mx": [
+            "mx.virtualsub.org"
+        ], 
+        "dns-ns": [
+            "ns1.yourhostingaccount.com", 
+            "ns2.yourhostingaccount.com"
+        ], 
+        "domain-name": "virtualsub.org", 
+        "fuzzer": "replacement", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "69.16.232.146"
+        ], 
+        "domain-name": "virtuald.ub.org", 
+        "fuzzer": "subdomain", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "98.124.199.32"
+        ], 
+        "domain-name": "virtualdu.b.org", 
+        "fuzzer": "subdomain", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 0
+    }
+]

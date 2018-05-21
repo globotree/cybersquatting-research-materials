@@ -1,0 +1,140 @@
+[
+    {
+        "dns-a": [
+            "80.70.128.51"
+        ], 
+        "dns-mx": [
+            "sk.globes.co.il", 
+            "sk2.globes.co.il"
+        ], 
+        "dns-ns": [
+            "dns.globes.co.il", 
+            "dns2.globes.co.il", 
+            "dns3.globes.co.il"
+        ], 
+        "domain-name": "globes.co.il", 
+        "fuzzer": "original*", 
+        "geoip-country": "Israel", 
+        "ssdeep-score": 100
+    }, 
+    {
+        "dns-a": [
+            "213.8.45.84"
+        ], 
+        "dns-mx": [
+            "etrn.inter.net.il", 
+            "mail.globus.co.il"
+        ], 
+        "dns-ns": [
+            "pdns.goldenlines.co.il", 
+            "relay.globus.co.il", 
+            "sdns.goldenlines.co.il"
+        ], 
+        "domain-name": "globus.co.il", 
+        "fuzzer": "bitsquatting", 
+        "geoip-country": "Israel"
+    }, 
+    {
+        "dns-a": [
+            "66.96.149.30"
+        ], 
+        "dns-mx": [
+            "ALT1.ASPMX.L.GOOGLE.COM", 
+            "ALT2.ASPMX.L.GOOGLE.COM", 
+            "ALT3.ASPMX.L.GOOGLE.COM", 
+            "ALT4.ASPMX.L.GOOGLE.COM", 
+            "ASPMX.L.GOOGLE.COM"
+        ], 
+        "dns-ns": [
+            "ns1.ipage.com", 
+            "ns2.ipage.com"
+        ], 
+        "domain-name": "glober.co.il", 
+        "fuzzer": "bitsquatting", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-mx": [
+            "sk.globs.co.il", 
+            "sk2.globs.co.il"
+        ], 
+        "dns-ns": [
+            "dns.globes.co.il", 
+            "dns2.globes.co.il", 
+            "dns3.globes.co.il"
+        ], 
+        "domain-name": "globs.co.il", 
+        "fuzzer": "omission"
+    }, 
+    {
+        "dns-a": [
+            "212.29.215.69"
+        ], 
+        "dns-mx": [
+            "globe-co-il.mail.protection.outlook.com"
+        ], 
+        "dns-ns": [
+            "ns1.layerltd.com", 
+            "ns2.layerltd.com"
+        ], 
+        "domain-name": "globe.co.il", 
+        "fuzzer": "omission", 
+        "geoip-country": "Israel", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "212.143.212.40"
+        ], 
+        "dns-mx": [
+            "globex.co.il"
+        ], 
+        "dns-ns": [
+            "ns1.box-dns.com", 
+            "ns2.box-dns.com"
+        ], 
+        "domain-name": "globex.co.il", 
+        "fuzzer": "replacement", 
+        "geoip-country": "Israel"
+    }, 
+    {
+        "dns-a": [
+            "199.59.242.150"
+        ], 
+        "domain-name": "globe.s.co.il", 
+        "fuzzer": "subdomain", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "185.38.45.224"
+        ], 
+        "dns-mx": [
+            "mailmx.bezeqint.net"
+        ], 
+        "dns-ns": [
+            "ns1.bezeqint.net", 
+            "ns2.bezeqint.net", 
+            "ns3.bezeqint.net"
+        ], 
+        "domain-name": "globos.co.il", 
+        "fuzzer": "vowel-swap", 
+        "geoip-country": "United Kingdom"
+    }, 
+    {
+        "dns-a": [
+            "209.15.13.134"
+        ], 
+        "dns-mx": [
+            "mail.b-io.co"
+        ], 
+        "dns-ns": [
+            "ns1.dnslink.com", 
+            "ns2.dnslink.com"
+        ], 
+        "domain-name": "globes.co-il.com", 
+        "fuzzer": "various"
+    }
+]

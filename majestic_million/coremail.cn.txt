@@ -1,0 +1,53 @@
+[
+    {
+        "dns-a": [
+            "223.252.214.44"
+        ], 
+        "dns-mx": [
+            "mx1.icoremail.net", 
+            "mx2.icoremail.net"
+        ], 
+        "dns-ns": [
+            "ns1.bee-net.com", 
+            "ns1.corpease.net"
+        ], 
+        "domain-name": "coremail.cn", 
+        "fuzzer": "original*", 
+        "geoip-country": "China"
+    }, 
+    {
+        "dns-a": [
+            "45.78.12.236"
+        ], 
+        "domain-name": "coremall.cn", 
+        "fuzzer": "homoglyph", 
+        "geoip-country": "United States"
+    }, 
+    {
+        "dns-mx": [
+            "mx.ym.163.com"
+        ], 
+        "dns-ns": [
+            "dns27.hichina.com", 
+            "dns28.hichina.com"
+        ], 
+        "domain-name": "coemail.cn", 
+        "fuzzer": "omission"
+    }, 
+    {
+        "dns-a": [
+            "170.178.178.41"
+        ], 
+        "domain-name": "corem.ail.cn", 
+        "fuzzer": "subdomain", 
+        "geoip-country": "United States"
+    }, 
+    {
+        "dns-ns": [
+            "ns17.xincache.com", 
+            "ns18.xincache.com"
+        ], 
+        "domain-name": "caremail.cn", 
+        "fuzzer": "vowel-swap"
+    }
+]

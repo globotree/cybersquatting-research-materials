@@ -1,0 +1,161 @@
+[
+    {
+        "dns-a": [
+            "131.152.228.33"
+        ], 
+        "dns-mx": [
+            "smtp1-pub.unibas.ch", 
+            "smtp2-pub.unibas.ch"
+        ], 
+        "dns-ns": [
+            "ns1-ext.unibas.ch", 
+            "ns2-ext.unibas.ch", 
+            "scsnms.switch.ch"
+        ], 
+        "domain-name": "unibas.ch", 
+        "fuzzer": "original*", 
+        "geoip-country": "Switzerland", 
+        "ssdeep-score": 100
+    }, 
+    {
+        "dns-a": [
+            "149.126.4.37"
+        ], 
+        "dns-mx": [
+            "unibass.ch"
+        ], 
+        "dns-ns": [
+            "ns1.cyon.ch", 
+            "ns2.cyon.ch"
+        ], 
+        "domain-name": "unibass.ch", 
+        "fuzzer": "addition", 
+        "geoip-country": "Switzerland", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "131.152.215.16"
+        ], 
+        "dns-ns": [
+            "ns1-ext.unibas.ch", 
+            "ns2-ext.unibas.ch"
+        ], 
+        "domain-name": "uni-bas.ch", 
+        "fuzzer": "hyphenation", 
+        "geoip-country": "Switzerland", 
+        "ssdeep-score": 97
+    }, 
+    {
+        "dns-a": [
+            "131.152.215.16"
+        ], 
+        "dns-ns": [
+            "ns1-ext.unibas.ch", 
+            "ns2-ext.unibas.ch"
+        ], 
+        "domain-name": "unbas.ch", 
+        "fuzzer": "omission", 
+        "geoip-country": "Switzerland", 
+        "ssdeep-score": 97
+    }, 
+    {
+        "dns-a": [
+            "185.133.192.32", 
+            "78.129.180.203"
+        ], 
+        "dns-mx": [
+            "no.mx.example.org"
+        ], 
+        "dns-ns": [
+            "atlas.dns.domaintraffic.ch", 
+            "capella.dns.domaintraffic.ch"
+        ], 
+        "domain-name": "uniba.ch", 
+        "fuzzer": "omission", 
+        "geoip-country": "United Kingdom", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "131.152.215.16"
+        ], 
+        "dns-ns": [
+            "ns1-ext.unibas.ch", 
+            "ns2-ext.unibas.ch"
+        ], 
+        "domain-name": "unibs.ch", 
+        "fuzzer": "omission", 
+        "geoip-country": "Switzerland", 
+        "ssdeep-score": 97
+    }, 
+    {
+        "dns-ns": [
+            "ns1.swisscenter.com", 
+            "ns2.swisscenter.com", 
+            "ns3.swisscenter.com", 
+            "ns4.swisscenter.com"
+        ], 
+        "domain-name": "unigas.ch", 
+        "fuzzer": "replacement"
+    }, 
+    {
+        "dns-a": [
+            "139.59.152.91"
+        ], 
+        "dns-ns": [
+            "ns1.digitalocean.com", 
+            "ns2.digitalocean.com", 
+            "ns3.digitalocean.com"
+        ], 
+        "domain-name": "unibay.ch", 
+        "fuzzer": "replacement", 
+        "geoip-country": "Germany", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "185.53.178.7"
+        ], 
+        "dns-mx": [
+            "mail.h-email.net"
+        ], 
+        "dns-ns": [
+            "ns1.parkingcrew.net", 
+            "ns2.parkingcrew.net"
+        ], 
+        "domain-name": "un.ibas.ch", 
+        "fuzzer": "subdomain", 
+        "geoip-country": "Germany", 
+        "mx-spy": true, 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "185.17.68.228"
+        ], 
+        "dns-aaaa": [
+            "2a04:503:0:1003::228"
+        ], 
+        "domain-name": "uni.bas.ch", 
+        "fuzzer": "subdomain", 
+        "geoip-country": "Switzerland", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "80.74.159.100"
+        ], 
+        "dns-mx": [
+            "mail.anibas.ch"
+        ], 
+        "dns-ns": [
+            "ns.ch-meta.net", 
+            "ns2.ch-meta.net", 
+            "ns3.ch-meta.net"
+        ], 
+        "domain-name": "anibas.ch", 
+        "fuzzer": "vowel-swap", 
+        "geoip-country": "Switzerland"
+    }
+]

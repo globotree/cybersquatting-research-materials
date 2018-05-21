@@ -1,0 +1,249 @@
+[
+    {
+        "dns-a": [
+            "202.197.61.57"
+        ], 
+        "dns-mx": [
+            "pop3.csu.edu.cn", 
+            "smtp.csu.edu.cn"
+        ], 
+        "dns-ns": [
+            "csu-6.csu.edu.cn", 
+            "csu-7.csu.edu.cn", 
+            "csu-8.csu.edu.cn", 
+            "ns.csu.edu.cn"
+        ], 
+        "domain-name": "csu.edu.cn", 
+        "fuzzer": "original*", 
+        "geoip-country": "China", 
+        "ssdeep-score": 100
+    }, 
+    {
+        "dns-mx": [
+            "mxbiz1.qq.com", 
+            "mxbiz2.qq.com"
+        ], 
+        "dns-ns": [
+            "dns.csun.edu.cn", 
+            "dns2.csun.edu.cn"
+        ], 
+        "domain-name": "csun.edu.cn", 
+        "fuzzer": "addition"
+    }, 
+    {
+        "dns-a": [
+            "218.107.131.253"
+        ], 
+        "dns-mx": [
+            "mxbiz1.qq.com", 
+            "mxbiz2.qq.com"
+        ], 
+        "dns-ns": [
+            "dns.bsu.edu.cn"
+        ], 
+        "domain-name": "bsu.edu.cn", 
+        "fuzzer": "bitsquatting", 
+        "geoip-country": "China"
+    }, 
+    {
+        "dns-mx": [
+            "mail.asu.edu.cn"
+        ], 
+        "dns-ns": [
+            "dns1"
+        ], 
+        "domain-name": "asu.edu.cn", 
+        "fuzzer": "bitsquatting"
+    }, 
+    {
+        "dns-a": [
+            "218.195.192.76"
+        ], 
+        "dns-mx": [
+            "mail.ksu.edu.cn"
+        ], 
+        "dns-ns": [
+            "dns.ksu.edu.cn"
+        ], 
+        "domain-name": "ksu.edu.cn", 
+        "fuzzer": "bitsquatting", 
+        "geoip-country": "China", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "202.202.1.3"
+        ], 
+        "dns-mx": [
+            "mail.cqu.edu.cn"
+        ], 
+        "domain-name": "cqu.edu.cn", 
+        "fuzzer": "bitsquatting", 
+        "geoip-country": "China", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "219.242.28.136"
+        ], 
+        "dns-mx": [
+            "mxbiz1.qq.com", 
+            "mxbiz2.qq.com"
+        ], 
+        "dns-ns": [
+            "dns.cwu.edu.cn", 
+            "dns1.cwu.edu.cn"
+        ], 
+        "domain-name": "cwu.edu.cn", 
+        "fuzzer": "bitsquatting", 
+        "geoip-country": "China"
+    }, 
+    {
+        "dns-a": [
+            "59.72.224.68"
+        ], 
+        "dns-aaaa": [
+            "2002:3b48:e044::3b48:e044"
+        ], 
+        "dns-mx": [
+            "mxbiz1.qq.com", 
+            "mxbiz2.qq.com"
+        ], 
+        "dns-ns": [
+            "dns1.ccu.edu.cn"
+        ], 
+        "domain-name": "ccu.edu.cn", 
+        "fuzzer": "bitsquatting", 
+        "geoip-country": "China"
+    }, 
+    {
+        "dns-mx": [
+            "mxbiz1.qq.com", 
+            "mxbiz2.qq.com"
+        ], 
+        "dns-ns": [
+            "dns1.cse.edu.cn", 
+            "dns2.cse.edu.cn"
+        ], 
+        "domain-name": "cse.edu.cn", 
+        "fuzzer": "bitsquatting"
+    }, 
+    {
+        "dns-mx": [
+            "mail.cdsu.edu.cn"
+        ], 
+        "dns-ns": [
+            "dns.cdsu.edu.cn"
+        ], 
+        "domain-name": "cdsu.edu.cn", 
+        "fuzzer": "insertion"
+    }, 
+    {
+        "dns-mx": [
+            "mxbiz1.qq.com", 
+            "mxbiz2.qq.com"
+        ], 
+        "dns-ns": [
+            "dns.ccsu.edu.cn", 
+            "dns2.ccsu.edu.cn"
+        ], 
+        "domain-name": "ccsu.edu.cn", 
+        "fuzzer": "repetition"
+    }, 
+    {
+        "dns-a": [
+            "123.124.183.194"
+        ], 
+        "dns-mx": [
+            "mxbiz1.qq.com", 
+            "mxbiz2.qq.com"
+        ], 
+        "dns-ns": [
+            "dns.cyu.edu.cn", 
+            "dns1.cyu.edu.cn"
+        ], 
+        "domain-name": "cyu.edu.cn", 
+        "fuzzer": "replacement", 
+        "geoip-country": "China", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-ns": [
+            "dns1.csh.edu.cn", 
+            "dns2.csh.edu.cn"
+        ], 
+        "domain-name": "csh.edu.cn", 
+        "fuzzer": "replacement"
+    }, 
+    {
+        "dns-a": [
+            "1.202.188.179"
+        ], 
+        "dns-mx": [
+            "cmail3.cau.edu.cn", 
+            "kvgw.cau.edu.cn", 
+            "mx-cau-edu-cn.icoremail.net"
+        ], 
+        "dns-ns": [
+            "ns.cau.edu.cn", 
+            "ns3.cau.edu.cn", 
+            "ns4.cau.edu.cn", 
+            "nsb.cau.edu.cn"
+        ], 
+        "domain-name": "cau.edu.cn", 
+        "fuzzer": "replacement", 
+        "geoip-country": "China", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-ns": [
+            "dns1.czu.edu.cn", 
+            "dns2.czu.edu.cn"
+        ], 
+        "domain-name": "czu.edu.cn", 
+        "fuzzer": "replacement"
+    }, 
+    {
+        "dns-mx": [
+            "mxbiz1.qq.com", 
+            "mxbiz2.qq.com"
+        ], 
+        "dns-ns": [
+            "ns1.cdu.edu.cn", 
+            "ns2.cdu.edu.cn"
+        ], 
+        "domain-name": "cdu.edu.cn", 
+        "fuzzer": "replacement"
+    }, 
+    {
+        "dns-a": [
+            "125.69.85.18", 
+            "125.69.85.19", 
+            "202.115.32.72"
+        ], 
+        "dns-mx": [
+            "scu.eyou.cn4e.com"
+        ], 
+        "dns-ns": [
+            "dart.scu.edu.cn", 
+            "secdns.scu.edu.cn"
+        ], 
+        "domain-name": "scu.edu.cn", 
+        "fuzzer": "transposition"
+    }, 
+    {
+        "dns-a": [
+            "211.149.166.229"
+        ], 
+        "dns-ns": [
+            "ns1.myhostadmin.net", 
+            "ns2.myhostadmin.net", 
+            "ns3.myhostadmin.net", 
+            "ns4.myhostadmin.net", 
+            "ns5.myhostadmin.net", 
+            "ns6.myhostadmin.net"
+        ], 
+        "domain-name": "csuedu.cn", 
+        "fuzzer": "various"
+    }
+]

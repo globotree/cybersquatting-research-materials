@@ -1,0 +1,55 @@
+[
+    {
+        "dns-a": [
+            "212.100.5.10"
+        ], 
+        "dns-mx": [
+            "mailedge1.ipo.gov.uk", 
+            "mailedge2.ipo.gov.uk", 
+            "me2.ipo.gov.uk"
+        ], 
+        "dns-ns": [
+            "ns1.ipo.gov.uk", 
+            "ns2.ipo.gov.uk", 
+            "ns3.ipo.gov.uk"
+        ], 
+        "domain-name": "ipo.gov.uk", 
+        "fuzzer": "original*", 
+        "geoip-country": "United Kingdom", 
+        "ssdeep-score": 100
+    }, 
+    {
+        "dns-a": [
+            "165.160.13.20", 
+            "165.160.15.20"
+        ], 
+        "dns-mx": [
+            "alt1.aspmx.l.google.com", 
+            "alt2.aspmx.l.google.com", 
+            "aspmx.l.google.com", 
+            "aspmx2.googlemail.com", 
+            "aspmx3.googlemail.com"
+        ], 
+        "dns-ns": [
+            "dns1.cscdns.net", 
+            "dns2.cscdns.net"
+        ], 
+        "domain-name": "ipa.gov.uk", 
+        "fuzzer": "vowel-swap", 
+        "geoip-country": "United States"
+    }, 
+    {
+        "dns-a": [
+            "185.53.178.9"
+        ], 
+        "dns-mx": [
+            "mail.h-email.net"
+        ], 
+        "dns-ns": [
+            "ns1.parkingcrew.net", 
+            "ns2.parkingcrew.net"
+        ], 
+        "domain-name": "ipo.uk", 
+        "fuzzer": "various"
+    }
+]

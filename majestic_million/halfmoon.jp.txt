@@ -1,0 +1,41 @@
+[
+    {
+        "dns-ns": [
+            "ns1.dns.ne.jp", 
+            "ns2.dns.ne.jp"
+        ], 
+        "domain-name": "halfmoon.jp", 
+        "fuzzer": "original*"
+    }, 
+    {
+        "dns-a": [
+            "115.146.57.123"
+        ], 
+        "dns-mx": [
+            "vlmx20.secure.ne.jp", 
+            "vlmx21.secure.ne.jp", 
+            "vlmx22.secure.ne.jp"
+        ], 
+        "dns-ns": [
+            "ns4.cpi.ad.jp", 
+            "ns5.cpi.ad.jp"
+        ], 
+        "domain-name": "half-moon.jp", 
+        "fuzzer": "hyphenation", 
+        "geoip-country": "Japan"
+    }, 
+    {
+        "dns-a": [
+            "210.224.185.164"
+        ], 
+        "dns-mx": [
+            "halfmoon-jp.com"
+        ], 
+        "dns-ns": [
+            "ns1.dns.ne.jp", 
+            "ns2.dns.ne.jp"
+        ], 
+        "domain-name": "halfmoon-jp.com", 
+        "fuzzer": "various"
+    }
+]

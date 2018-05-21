@@ -1,0 +1,24 @@
+[
+    {
+        "dns-mx": [
+            "mail.nhfpc.gov.cn", 
+            "nhfpc.gov.abroad.eyou.net", 
+            "smg.nhfpc.gov.cn"
+        ], 
+        "dns-ns": [
+            "ns1.cdns.cn", 
+            "ns2.cdns.cn", 
+            "ns3.cdns.cn"
+        ], 
+        "domain-name": "nhfpc.gov.cn", 
+        "fuzzer": "original*"
+    }, 
+    {
+        "dns-ns": [
+            "dns13.hichina.com", 
+            "dns14.hichina.com"
+        ], 
+        "domain-name": "nhfpc.cn", 
+        "fuzzer": "various"
+    }
+]

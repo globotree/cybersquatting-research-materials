@@ -1,0 +1,53 @@
+[
+    {
+        "dns-a": [
+            "128.210.7.200"
+        ], 
+        "dns-mx": [
+            "xppmailspam01.itap.purdue.edu", 
+            "xppmailspam02.itap.purdue.edu", 
+            "xppmailspam03.itap.purdue.edu", 
+            "xppmailspam04.itap.purdue.edu", 
+            "xppmailspam05.itap.purdue.edu", 
+            "xppmailspam06.itap.purdue.edu", 
+            "xppmailspam08.itap.purdue.edu", 
+            "xppmailspam09.itap.purdue.edu", 
+            "xppmailspam10.itap.purdue.edu", 
+            "xppmailspam11.itap.purdue.edu", 
+            "xppmailspam12.itap.purdue.edu", 
+            "xppmailspam13.itap.purdue.edu"
+        ], 
+        "dns-ns": [
+            "harbor.ecn.purdue.edu", 
+            "ns1.rice.edu", 
+            "ns2.rice.edu", 
+            "ns3.purdue.edu", 
+            "ns4.purdue.edu", 
+            "pendragon.cs.purdue.edu"
+        ], 
+        "domain-name": "purdue.edu", 
+        "fuzzer": "original*", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 100
+    }, 
+    {
+        "dns-a": [
+            "87.106.52.243"
+        ], 
+        "domain-name": "purd.ue.edu", 
+        "fuzzer": "subdomain"
+    }, 
+    {
+        "dns-a": [
+            "204.11.56.37"
+        ], 
+        "dns-ns": [
+            "ns1637.ztomy.com", 
+            "ns2637.ztomy.com"
+        ], 
+        "domain-name": "purdue-edu.com", 
+        "fuzzer": "various", 
+        "geoip-country": "Virgin Islands", 
+        "ssdeep-score": 0
+    }
+]

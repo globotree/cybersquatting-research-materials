@@ -1,0 +1,165 @@
+[
+    {
+        "dns-a": [
+            "131.128.1.132", 
+            "131.128.1.133"
+        ], 
+        "dns-mx": [
+            "ALT1.ASPMX.L.GOOGLE.COM", 
+            "ALT2.ASPMX.L.GOOGLE.COM", 
+            "ASPMX.L.GOOGLE.COM", 
+            "ASPMX2.GOOGLEMAIL.COM", 
+            "ASPMX3.GOOGLEMAIL.COM"
+        ], 
+        "dns-ns": [
+            "bigbluebug.uri.edu", 
+            "netops.uri.edu", 
+            "phloem.uoregon.edu"
+        ], 
+        "domain-name": "uri.edu", 
+        "fuzzer": "original*", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 100
+    }, 
+    {
+        "dns-a": [
+            "192.206.10.36"
+        ], 
+        "dns-mx": [
+            "usi-edu.mail.protection.outlook.com"
+        ], 
+        "dns-ns": [
+            "ns1.usi.edu", 
+            "ns2.usi.edu", 
+            "ns3.usi.edu"
+        ], 
+        "domain-name": "usi.edu", 
+        "fuzzer": "bitsquatting", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "103.23.244.5"
+        ], 
+        "dns-mx": [
+            "ALT1.ASPMX.L.GOOGLE.COM", 
+            "ALT2.ASPMX.L.GOOGLE.COM", 
+            "ASPMX.L.GOOGLE.COM", 
+            "ASPMX2.GOOGLEMAIL.COM", 
+            "ASPMX3.GOOGLEMAIL.COM", 
+            "MX-3.upi.edu"
+        ], 
+        "dns-ns": [
+            "NS1.upi.edu", 
+            "NS3.upi.edu"
+        ], 
+        "domain-name": "upi.edu", 
+        "fuzzer": "bitsquatting", 
+        "geoip-country": "Indonesia", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "216.54.215.223"
+        ], 
+        "dns-mx": [
+            "b1f4d890c8ce3f4ea882cabd3b3c81.mail.outlook.com", 
+            "uvi-edu.mail.protection.outlook.com"
+        ], 
+        "dns-ns": [
+            "dns1.easydns.com", 
+            "dns2.easydns.net", 
+            "mola.uvi.edu", 
+            "stxdns01.uvi.edu"
+        ], 
+        "domain-name": "uvi.edu", 
+        "fuzzer": "bitsquatting", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "178.208.52.110"
+        ], 
+        "dns-mx": [
+            "in-mx.online.be"
+        ], 
+        "dns-ns": [
+            "ns1.ionip.as6696.net", 
+            "ns2.ionip.as6696.net"
+        ], 
+        "domain-name": "ubi.edu", 
+        "fuzzer": "bitsquatting", 
+        "geoip-country": "Belgium", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "84.88.240.205"
+        ], 
+        "dns-mx": [
+            "url-edu.mail.protection.outlook.com"
+        ], 
+        "dns-ns": [
+            "ns1.url.edu", 
+            "ns2.url.edu"
+        ], 
+        "domain-name": "url.edu", 
+        "fuzzer": "homoglyph", 
+        "geoip-country": "Spain"
+    }, 
+    {
+        "dns-ns": [
+            "ns1.itb.ac.id", 
+            "ranggalawe.ui.ac.id", 
+            "uicsgtw.cs.ui.ac.id"
+        ], 
+        "domain-name": "ui.edu", 
+        "fuzzer": "omission"
+    }, 
+    {
+        "dns-mx": [
+            "polyester.richmond.edu", 
+            "rayon.richmond.edu"
+        ], 
+        "dns-ns": [
+            "cookie.richmond.edu", 
+            "cracker.richmond.edu", 
+            "uvaarpa.virginia.edu"
+        ], 
+        "domain-name": "ur.edu", 
+        "fuzzer": "omission"
+    }, 
+    {
+        "dns-a": [
+            "162.209.23.107"
+        ], 
+        "dns-mx": [
+            "uei-edu.mail.protection.outlook.com"
+        ], 
+        "dns-ns": [
+            "ns.rackspace.com", 
+            "ns2.rackspace.com"
+        ], 
+        "domain-name": "uei.edu", 
+        "fuzzer": "replacement", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "104.40.53.219"
+        ], 
+        "dns-mx": [
+            "ironport1.uti.edu", 
+            "ironport2.uti.edu"
+        ], 
+        "dns-ns": [
+            "pdns01.domaincontrol.com", 
+            "pdns02.domaincontrol.com"
+        ], 
+        "domain-name": "uti.edu", 
+        "fuzzer": "replacement"
+    }
+]

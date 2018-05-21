@@ -1,0 +1,140 @@
+[
+    {
+        "dns-a": [
+            "104.81.216.94"
+        ], 
+        "dns-aaaa": [
+            "2a02:26f0:9c00:186::1c8", 
+            "2a02:26f0:9c00:1bc::1c8"
+        ], 
+        "dns-mx": [
+            "bimssp03.rossel.be", 
+            "bimssp04.rossel.be"
+        ], 
+        "dns-ns": [
+            "a1-63.akam.net", 
+            "a11-66.akam.net", 
+            "a4-67.akam.net", 
+            "a6-64.akam.net", 
+            "a7-65.akam.net", 
+            "a8-66.akam.net"
+        ], 
+        "domain-name": "lesoir.be", 
+        "fuzzer": "original*", 
+        "geoip-country": "Netherlands", 
+        "ssdeep-score": 100
+    }, 
+    {
+        "dns-a": [
+            "72.52.4.122"
+        ], 
+        "dns-mx": [
+            "localhost"
+        ], 
+        "domain-name": "lesoire.be", 
+        "fuzzer": "addition", 
+        "geoip-country": "United States", 
+        "mx-spy": true, 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "103.224.182.211"
+        ], 
+        "dns-mx": [
+            "park-mx.above.com"
+        ], 
+        "dns-ns": [
+            "ns1.above.com", 
+            "ns2.above.com"
+        ], 
+        "domain-name": "lesouir.be", 
+        "fuzzer": "insertion", 
+        "geoip-country": "Australia", 
+        "mx-spy": true, 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "103.224.182.211"
+        ], 
+        "dns-mx": [
+            "park-mx.above.com"
+        ], 
+        "dns-ns": [
+            "ns1.above.com", 
+            "ns2.above.com"
+        ], 
+        "domain-name": "lesoiur.be", 
+        "fuzzer": "insertion", 
+        "geoip-country": "Australia", 
+        "mx-spy": true, 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "185.53.178.7"
+        ], 
+        "domain-name": "lesor.be", 
+        "fuzzer": "omission", 
+        "geoip-country": "Germany", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "185.53.178.9"
+        ], 
+        "dns-mx": [
+            "mail.h-email.net"
+        ], 
+        "dns-ns": [
+            "ns1.fastpark.net", 
+            "ns2.fastpark.net"
+        ], 
+        "domain-name": "lesoi.be", 
+        "fuzzer": "omission", 
+        "geoip-country": "Germany", 
+        "mx-spy": true, 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "185.53.179.8"
+        ], 
+        "dns-ns": [
+            "ns1.parkingcrew.net", 
+            "ns2.parkingcrew.net"
+        ], 
+        "domain-name": "lsoir.be", 
+        "fuzzer": "omission", 
+        "geoip-country": "Germany", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "72.52.4.90"
+        ], 
+        "dns-ns": [
+            "a.ns36.de", 
+            "b.ns36.de"
+        ], 
+        "domain-name": "les.oir.be", 
+        "fuzzer": "subdomain"
+    }, 
+    {
+        "dns-a": [
+            "213.186.33.87"
+        ], 
+        "dns-mx": [
+            "mx3.ovh.net", 
+            "mx4.ovh.net", 
+            "mxb.ovh.net"
+        ], 
+        "dns-ns": [
+            "dns12.ovh.net", 
+            "ns12.ovh.net"
+        ], 
+        "domain-name": "lisoir.be", 
+        "fuzzer": "vowel-swap"
+    }
+]

@@ -1,0 +1,75 @@
+[
+    {
+        "dns-a": [
+            "184.168.221.2"
+        ], 
+        "dns-ns": [
+            "ns07.domaincontrol.com", 
+            "ns08.domaincontrol.com"
+        ], 
+        "domain-name": "communitywalk.com", 
+        "fuzzer": "original*", 
+        "geoip-country": "United States"
+    }, 
+    {
+        "dns-a": [
+            "52.73.124.185", 
+            "54.164.198.60"
+        ], 
+        "dns-ns": [
+            "ns1.namebrightdns.com", 
+            "ns2.namebrightdns.com"
+        ], 
+        "domain-name": "communitywalks.com", 
+        "fuzzer": "addition", 
+        "geoip-country": "United States"
+    }, 
+    {
+        "dns-a": [
+            "69.172.201.153"
+        ], 
+        "dns-ns": [
+            "ns1.uniregistrymarket.link", 
+            "ns2.uniregistrymarket.link"
+        ], 
+        "domain-name": "communitywall.com", 
+        "fuzzer": "replacement", 
+        "geoip-country": "United States"
+    }, 
+    {
+        "dns-a": [
+            "64.34.111.86"
+        ], 
+        "domain-name": "comm.unitywalk.com", 
+        "fuzzer": "subdomain", 
+        "geoip-country": "United States"
+    }, 
+    {
+        "dns-a": [
+            "54.72.9.51"
+        ], 
+        "dns-mx": [
+            "mail.h-email.net"
+        ], 
+        "dns-ns": [
+            "ns1.parkingcrew.net", 
+            "ns2.parkingcrew.net"
+        ], 
+        "domain-name": "communit.ywalk.com", 
+        "fuzzer": "subdomain", 
+        "geoip-country": "Ireland", 
+        "mx-spy": true
+    }, 
+    {
+        "dns-a": [
+            "66.111.4.53", 
+            "66.111.4.54"
+        ], 
+        "dns-mx": [
+            "in1-smtp.messagingengine.com", 
+            "in2-smtp.messagingengine.com"
+        ], 
+        "domain-name": "community.walk.com", 
+        "fuzzer": "subdomain"
+    }
+]

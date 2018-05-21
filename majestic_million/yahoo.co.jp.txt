@@ -1,0 +1,127 @@
+[
+    {
+        "dns-a": [
+            "182.22.59.229", 
+            "183.79.135.206"
+        ], 
+        "dns-mx": [
+            "mx1.mail.yahoo.co.jp", 
+            "mx2.mail.yahoo.co.jp", 
+            "mx3.mail.yahoo.co.jp", 
+            "mx5.mail.yahoo.co.jp"
+        ], 
+        "dns-ns": [
+            "ns01.yahoo.co.jp", 
+            "ns02.yahoo.co.jp", 
+            "ns11.yahoo.co.jp", 
+            "ns12.yahoo.co.jp"
+        ], 
+        "domain-name": "yahoo.co.jp", 
+        "fuzzer": "original*", 
+        "geoip-country": "Japan", 
+        "ssdeep-score": 82
+    }, 
+    {
+        "dns-a": [
+            "202.152.216.11"
+        ], 
+        "dns-mx": [
+            "mg.drive.ne.jp"
+        ], 
+        "dns-ns": [
+            "ns00.drive.ne.jp", 
+            "ns01.drive.ne.jp"
+        ], 
+        "domain-name": "yahooo.co.jp", 
+        "fuzzer": "addition", 
+        "geoip-country": "Japan", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "113.212.156.120", 
+            "153.121.101.120"
+        ], 
+        "dns-ns": [
+            "ns.skyhi.mobi", 
+            "ns2.skyhi.mobi"
+        ], 
+        "domain-name": "ahoo.co.jp", 
+        "fuzzer": "omission", 
+        "geoip-country": "Japan", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "157.7.107.144"
+        ], 
+        "dns-mx": [
+            "mx01.lolipop.jp"
+        ], 
+        "dns-ns": [
+            "uns01.lolipop.jp", 
+            "uns02.lolipop.jp"
+        ], 
+        "domain-name": "gahoo.co.jp", 
+        "fuzzer": "replacement", 
+        "geoip-country": "Japan", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "210.129.90.47"
+        ], 
+        "dns-mx": [
+            "srv3mx.jnetstation.com"
+        ], 
+        "dns-ns": [
+            "dns.jnetstation.com", 
+            "ns.inetd.co.jp", 
+            "ns.jnetstation.com", 
+            "ns1.jnetstation.com"
+        ], 
+        "domain-name": "yaboo.co.jp", 
+        "fuzzer": "replacement", 
+        "geoip-country": "Japan", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "113.212.156.120", 
+            "153.121.101.120"
+        ], 
+        "dns-ns": [
+            "ns.skyhi.mobi", 
+            "ns2.skyhi.mobi"
+        ], 
+        "domain-name": "y.ahoo.co.jp", 
+        "fuzzer": "subdomain", 
+        "geoip-country": "Japan", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "150.95.255.38"
+        ], 
+        "dns-ns": [
+            "dns1.onamae.com", 
+            "dns2.onamae.com"
+        ], 
+        "domain-name": "ya.hoo.co.jp", 
+        "fuzzer": "subdomain", 
+        "geoip-country": "Japan", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "150.95.255.38"
+        ], 
+        "dns-ns": [
+            "dns1.onamae.com", 
+            "dns2.onamae.com"
+        ], 
+        "domain-name": "yahooco.jp", 
+        "fuzzer": "various", 
+        "geoip-country": "Japan"
+    }
+]

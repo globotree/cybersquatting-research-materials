@@ -1,0 +1,355 @@
+[
+    {
+        "dns-a": [
+            "159.149.53.216"
+        ], 
+        "dns-mx": [
+            "unimix1.unimi.it", 
+            "unimix2.unimi.it"
+        ], 
+        "dns-ns": [
+            "dns.cineca.it", 
+            "ns.unimi.it", 
+            "ns1.garr.net"
+        ], 
+        "domain-name": "unimi.it", 
+        "fuzzer": "original*", 
+        "geoip-country": "Italy", 
+        "ssdeep-score": 100
+    }, 
+    {
+        "dns-a": [
+            "103.224.182.250"
+        ], 
+        "dns-mx": [
+            "park-mx.above.com"
+        ], 
+        "dns-ns": [
+            "ns1.above.com", 
+            "ns2.above.com"
+        ], 
+        "domain-name": "unimia.it", 
+        "fuzzer": "addition", 
+        "geoip-country": "Australia", 
+        "mx-spy": true, 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-mx": [
+            "ALT1.ASPMX.L.GOOGLE.COM", 
+            "ALT2.ASPMX.L.GOOGLE.COM", 
+            "ASPMX.L.GOOGLE.COM", 
+            "ASPMX2.GOOGLEMAIL.COM", 
+            "ASPMX3.GOOGLEMAIL.COM"
+        ], 
+        "dns-ns": [
+            "alpha.si.unimib.it", 
+            "caronte.si.unimib.it", 
+            "ns1.garr.net"
+        ], 
+        "domain-name": "unimib.it", 
+        "fuzzer": "addition"
+    }, 
+    {
+        "dns-a": [
+            "31.11.34.150"
+        ], 
+        "dns-mx": [
+            "mx.unimil.it"
+        ], 
+        "dns-ns": [
+            "dns.technorail.com", 
+            "dns2.technorail.com", 
+            "dns3.arubadns.net", 
+            "dns4.arubadns.cz"
+        ], 
+        "domain-name": "unimil.it", 
+        "fuzzer": "addition", 
+        "geoip-country": "Italy", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "195.110.124.188"
+        ], 
+        "dns-mx": [
+            "mail.register.it"
+        ], 
+        "dns-ns": [
+            "ns1.register.it", 
+            "ns2.register.it"
+        ], 
+        "domain-name": "unimin.it", 
+        "fuzzer": "addition", 
+        "geoip-country": "Italy", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "72.52.4.120"
+        ], 
+        "dns-mx": [
+            "localhost"
+        ], 
+        "dns-ns": [
+            "ns1.sedoparking.com", 
+            "ns2.sedoparking.com"
+        ], 
+        "domain-name": "unimit.it", 
+        "fuzzer": "addition", 
+        "geoip-country": "United States", 
+        "mx-spy": true, 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "46.254.37.216"
+        ], 
+        "dns-mx": [
+            "mail.unimix.it"
+        ], 
+        "dns-ns": [
+            "ns.unimix.it"
+        ], 
+        "domain-name": "unimix.it", 
+        "fuzzer": "addition", 
+        "geoip-country": "Italy", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "104.31.74.89", 
+            "104.31.75.89"
+        ], 
+        "dns-aaaa": [
+            "2400:cb00:2048:1::681f:4a59", 
+            "2400:cb00:2048:1::681f:4b59"
+        ], 
+        "dns-mx": [
+            "alt1.aspmx.l.google.com", 
+            "alt2.aspmx.l.google.com", 
+            "aspmx.l.google.com", 
+            "aspmx2.googlemail.com", 
+            "aspmx3.googlemail.com"
+        ], 
+        "dns-ns": [
+            "anna.ns.cloudflare.com", 
+            "matt.ns.cloudflare.com"
+        ], 
+        "domain-name": "unili.it", 
+        "fuzzer": "bitsquatting", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "84.33.2.47"
+        ], 
+        "dns-mx": [
+            "mx1.sub4.homie.mail.dreamhost.com", 
+            "mx2.sub4.homie.mail.dreamhost.com"
+        ], 
+        "dns-ns": [
+            "ns1.server24.eu", 
+            "ns2.server24.eu"
+        ], 
+        "domain-name": "unima.it", 
+        "fuzzer": "bitsquatting", 
+        "geoip-country": "Italy", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "54.154.145.244"
+        ], 
+        "dns-mx": [
+            "alt1.aspmx.l.google.com.unipmi.it", 
+            "aspmx.l.google.com.unipmi.it"
+        ], 
+        "dns-ns": [
+            "ns1.match.it", 
+            "ns2.match.it"
+        ], 
+        "domain-name": "unipmi.it", 
+        "fuzzer": "insertion", 
+        "geoip-country": "Ireland", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "188.213.172.156"
+        ], 
+        "dns-mx": [
+            "mail.ipfrom.it"
+        ], 
+        "dns-ns": [
+            "ns1.domaindirect.it", 
+            "ns2.domaindirect.it"
+        ], 
+        "domain-name": "uimi.it", 
+        "fuzzer": "omission", 
+        "geoip-country": "Italy", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "185.53.179.7"
+        ], 
+        "dns-mx": [
+            "mail.h-email.net"
+        ], 
+        "dns-ns": [
+            "ns1.parkingcrew.net", 
+            "ns2.parkingcrew.net"
+        ], 
+        "domain-name": "nimi.it", 
+        "fuzzer": "omission", 
+        "geoip-country": "Germany", 
+        "mx-spy": true, 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "69.172.201.153"
+        ], 
+        "dns-ns": [
+            "ns1.uniregistrymarket.link", 
+            "ns2.uniregistrymarket.link"
+        ], 
+        "domain-name": "unii.it", 
+        "fuzzer": "omission", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "185.53.178.7"
+        ], 
+        "dns-mx": [
+            "mail.h-email.net"
+        ], 
+        "dns-ns": [
+            "ns1.parkingcrew.net", 
+            "ns2.parkingcrew.net"
+        ], 
+        "domain-name": "unim.it", 
+        "fuzzer": "omission", 
+        "geoip-country": "Germany", 
+        "mx-spy": true, 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "72.52.4.120"
+        ], 
+        "dns-mx": [
+            "localhost"
+        ], 
+        "dns-ns": [
+            "ns1.sedoparking.com", 
+            "ns2.sedoparking.com"
+        ], 
+        "domain-name": "unmi.it", 
+        "fuzzer": "omission", 
+        "geoip-country": "United States", 
+        "mx-spy": true, 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "103.224.182.250"
+        ], 
+        "dns-mx": [
+            "park-mx.above.com"
+        ], 
+        "dns-ns": [
+            "ns1.above.com", 
+            "ns2.above.com"
+        ], 
+        "domain-name": "inimi.it", 
+        "fuzzer": "replacement", 
+        "geoip-country": "Australia", 
+        "mx-spy": true, 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-mx": [
+            "mx1.unipi.it", 
+            "mx2.unipi.it", 
+            "mx3.unipi.it", 
+            "mx4.unipi.it"
+        ], 
+        "dns-ns": [
+            "ns1.garr.net", 
+            "ns1.unipi.it", 
+            "ns2.unipi.it"
+        ], 
+        "domain-name": "unipi.it", 
+        "fuzzer": "replacement"
+    }, 
+    {
+        "dns-mx": [
+            "ALT1.ASPMX.L.GOOGLE.COM", 
+            "ALT2.ASPMX.L.GOOGLE.COM", 
+            "ALT3.ASPMX.L.GOOGLE.COM", 
+            "ALT4.ASPMX.L.GOOGLE.COM", 
+            "ASPMX.L.GOOGLE.COM"
+        ], 
+        "dns-ns": [
+            "ns1.garr.net", 
+            "ns1.unimo.it", 
+            "ns2.unimo.it"
+        ], 
+        "domain-name": "unimo.it", 
+        "fuzzer": "replacement"
+    }, 
+    {
+        "dns-a": [
+            "185.53.179.7"
+        ], 
+        "dns-mx": [
+            "mail.h-email.net"
+        ], 
+        "dns-ns": [
+            "ns1.parkingcrew.net", 
+            "ns2.parkingcrew.net"
+        ], 
+        "domain-name": "u.nimi.it", 
+        "fuzzer": "subdomain", 
+        "geoip-country": "Germany", 
+        "mx-spy": true, 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "192.167.101.160"
+        ], 
+        "dns-mx": [
+            "smtp-wm.unime.it", 
+            "smtp.unime.it"
+        ], 
+        "dns-ns": [
+            "ns1.garr.net", 
+            "polifemo.unime.it", 
+            "scirocco.unime.it"
+        ], 
+        "domain-name": "unime.it", 
+        "fuzzer": "vowel-swap"
+    }, 
+    {
+        "dns-a": [
+            "81.88.48.78"
+        ], 
+        "dns-mx": [
+            "mail.register.it"
+        ], 
+        "dns-ns": [
+            "ns1.register.it", 
+            "ns2.register.it"
+        ], 
+        "domain-name": "animi.it", 
+        "fuzzer": "vowel-swap", 
+        "geoip-country": "Italy", 
+        "ssdeep-score": 0
+    }
+]

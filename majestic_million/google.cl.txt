@@ -1,0 +1,499 @@
+[
+    {
+        "dns-a": [
+            "172.217.22.35"
+        ], 
+        "dns-aaaa": [
+            "2a00:1450:4001:81b::2003"
+        ], 
+        "dns-mx": [
+            "google.com.s9a1.psmtp.com", 
+            "google.com.s9a2.psmtp.com", 
+            "google.com.s9b1.psmtp.com", 
+            "google.com.s9b2.psmtp.com"
+        ], 
+        "dns-ns": [
+            "ns1.google.com", 
+            "ns2.google.com", 
+            "ns3.google.com", 
+            "ns4.google.com"
+        ], 
+        "domain-name": "google.cl", 
+        "fuzzer": "original*", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 74
+    }, 
+    {
+        "dns-ns": [
+            "ns1.google.com", 
+            "ns2.google.com", 
+            "ns3.google.com", 
+            "ns4.google.com"
+        ], 
+        "domain-name": "googlea.cl", 
+        "fuzzer": "addition"
+    }, 
+    {
+        "dns-a": [
+            "93.191.168.52"
+        ], 
+        "dns-ns": [
+            "ns1.markmonitor.com", 
+            "ns3.markmonitor.com"
+        ], 
+        "domain-name": "googled.cl", 
+        "fuzzer": "addition", 
+        "geoip-country": "Europe", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-ns": [
+            "ns1.markmonitor.com", 
+            "ns3.markmonitor.com"
+        ], 
+        "domain-name": "googleo.cl", 
+        "fuzzer": "addition"
+    }, 
+    {
+        "dns-a": [
+            "93.191.168.52"
+        ], 
+        "dns-ns": [
+            "ns1.markmonitor.com", 
+            "ns3.markmonitor.com"
+        ], 
+        "domain-name": "googles.cl", 
+        "fuzzer": "addition", 
+        "geoip-country": "Europe", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "93.191.168.52"
+        ], 
+        "dns-ns": [
+            "ns1.markmonitor.com", 
+            "ns3.markmonitor.com"
+        ], 
+        "domain-name": "googlew.cl", 
+        "fuzzer": "addition", 
+        "geoip-country": "Europe", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "208.113.222.149"
+        ], 
+        "dns-ns": [
+            "ns1.dreamhost.com", 
+            "ns2.dreamhost.com", 
+            "ns3.dreamhost.com"
+        ], 
+        "domain-name": "foogle.cl", 
+        "fuzzer": "bitsquatting", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "192.169.182.55"
+        ], 
+        "dns-mx": [
+            "ggogle.cl"
+        ], 
+        "dns-ns": [
+            "ns1.bns.co", 
+            "ns2.bns.co", 
+            "ns3.bns.co", 
+            "ns4.bns.co"
+        ], 
+        "domain-name": "ggogle.cl", 
+        "fuzzer": "bitsquatting", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-ns": [
+            "ns1.google.com", 
+            "ns2.google.com", 
+            "ns3.google.com", 
+            "ns4.google.com"
+        ], 
+        "domain-name": "goggle.cl", 
+        "fuzzer": "bitsquatting"
+    }, 
+    {
+        "dns-a": [
+            "103.224.182.250"
+        ], 
+        "dns-mx": [
+            "park-mx.above.com"
+        ], 
+        "dns-ns": [
+            "ns3.above.com", 
+            "ns4.above.com"
+        ], 
+        "domain-name": "goocle.cl", 
+        "fuzzer": "bitsquatting", 
+        "geoip-country": "Australia", 
+        "mx-spy": true, 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "93.191.168.52"
+        ], 
+        "dns-ns": [
+            "ns1.markmonitor.com", 
+            "ns3.markmonitor.com"
+        ], 
+        "domain-name": "googld.cl", 
+        "fuzzer": "bitsquatting", 
+        "geoip-country": "Europe", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "93.191.168.52"
+        ], 
+        "dns-ns": [
+            "ns1.markmonitor.com", 
+            "ns3.markmonitor.com"
+        ], 
+        "domain-name": "googla.cl", 
+        "fuzzer": "bitsquatting", 
+        "geoip-country": "Europe", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "93.191.168.52"
+        ], 
+        "dns-ns": [
+            "ns1.markmonitor.com", 
+            "ns3.markmonitor.com"
+        ], 
+        "domain-name": "gloogle.cl", 
+        "fuzzer": "insertion", 
+        "geoip-country": "Europe", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "93.191.168.52"
+        ], 
+        "dns-ns": [
+            "ns1.markmonitor.com", 
+            "ns3.markmonitor.com"
+        ], 
+        "domain-name": "goolgle.cl", 
+        "fuzzer": "insertion", 
+        "geoip-country": "Europe", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "149.56.126.237"
+        ], 
+        "dns-aaaa": [
+            "2a00:1768:2001:63::46:102"
+        ], 
+        "dns-ns": [
+            "ns1.cloudns.net", 
+            "ns2.cloudns.net"
+        ], 
+        "domain-name": "goole.cl", 
+        "fuzzer": "omission", 
+        "geoip-country": "Canada", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "201.217.243.160"
+        ], 
+        "dns-mx": [
+            "googe.cl"
+        ], 
+        "dns-ns": [
+            "dns1.carryon.cl", 
+            "dns2.carryon.cl"
+        ], 
+        "domain-name": "googe.cl", 
+        "fuzzer": "omission", 
+        "geoip-country": "Chile"
+    }, 
+    {
+        "dns-a": [
+            "208.113.222.149"
+        ], 
+        "dns-ns": [
+            "ns1.dreamhost.com", 
+            "ns2.dreamhost.com", 
+            "ns3.dreamhost.com"
+        ], 
+        "domain-name": "oogle.cl", 
+        "fuzzer": "omission", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "172.217.22.35"
+        ], 
+        "dns-aaaa": [
+            "2a00:1450:4001:81b::2003"
+        ], 
+        "dns-mx": [
+            "google.com.s9a1.psmtp.com", 
+            "google.com.s9a2.psmtp.com", 
+            "google.com.s9b1.psmtp.com", 
+            "google.com.s9b2.psmtp.com"
+        ], 
+        "dns-ns": [
+            "ns1.google.com", 
+            "ns2.google.com", 
+            "ns3.google.com", 
+            "ns4.google.com"
+        ], 
+        "domain-name": "gogle.cl", 
+        "fuzzer": "omission", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 66
+    }, 
+    {
+        "dns-ns": [
+            "ns1.google.com", 
+            "ns2.google.com", 
+            "ns3.google.com", 
+            "ns4.google.com"
+        ], 
+        "domain-name": "ggoogle.cl", 
+        "fuzzer": "repetition"
+    }, 
+    {
+        "dns-a": [
+            "138.128.182.50"
+        ], 
+        "dns-mx": [
+            "gooogle.cl"
+        ], 
+        "dns-ns": [
+            "ns1.ehostingchile.com", 
+            "ns2.ehostingchile.com"
+        ], 
+        "domain-name": "gooogle.cl", 
+        "fuzzer": "repetition", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "186.64.113.30"
+        ], 
+        "dns-mx": [
+            "googke.cl"
+        ], 
+        "dns-ns": [
+            "ns1.sitiodns.net", 
+            "ns2.sitiodns.net", 
+            "ns3.sitiodns.net"
+        ], 
+        "domain-name": "googke.cl", 
+        "fuzzer": "replacement", 
+        "geoip-country": "Chile", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "200.6.103.47"
+        ], 
+        "dns-ns": [
+            "ns1.redweb.cl", 
+            "ns2.redweb.cl"
+        ], 
+        "domain-name": "toogle.cl", 
+        "fuzzer": "replacement", 
+        "geoip-country": "Chile"
+    }, 
+    {
+        "dns-a": [
+            "69.162.126.2"
+        ], 
+        "dns-mx": [
+            "mail.googlw.cl"
+        ], 
+        "domain-name": "googlw.cl", 
+        "fuzzer": "replacement", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-ns": [
+            "ns1.markmonitor.com", 
+            "ns3.markmonitor.com"
+        ], 
+        "domain-name": "googlr.cl", 
+        "fuzzer": "replacement"
+    }, 
+    {
+        "dns-a": [
+            "93.191.168.52"
+        ], 
+        "dns-ns": [
+            "ns1.markmonitor.com", 
+            "ns3.markmonitor.com"
+        ], 
+        "domain-name": "hoogle.cl", 
+        "fuzzer": "replacement", 
+        "geoip-country": "Europe", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "93.191.168.52"
+        ], 
+        "dns-ns": [
+            "ns1.markmonitor.com", 
+            "ns3.markmonitor.com"
+        ], 
+        "domain-name": "goohle.cl", 
+        "fuzzer": "replacement", 
+        "geoip-country": "Europe", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "201.148.107.174"
+        ], 
+        "dns-mx": [
+            "zoogle.cl"
+        ], 
+        "dns-ns": [
+            "dns1.hosting.cl", 
+            "dns2.hosting.cl", 
+            "dns3.hosting.cl", 
+            "dns4.hosting.cl"
+        ], 
+        "domain-name": "zoogle.cl", 
+        "fuzzer": "replacement", 
+        "geoip-country": "Chile", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "186.64.113.30"
+        ], 
+        "dns-mx": [
+            "mail.goigle.cl"
+        ], 
+        "dns-ns": [
+            "ns1.sitiodns.net", 
+            "ns2.sitiodns.net", 
+            "ns3.sitiodns.net"
+        ], 
+        "domain-name": "goigle.cl", 
+        "fuzzer": "replacement", 
+        "geoip-country": "Chile", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "104.18.32.95", 
+            "104.18.33.95"
+        ], 
+        "dns-aaaa": [
+            "2400:cb00:2048:1::6812:205f", 
+            "2400:cb00:2048:1::6812:215f"
+        ], 
+        "dns-ns": [
+            "joan.ns.cloudflare.com", 
+            "josh.ns.cloudflare.com"
+        ], 
+        "domain-name": "giogle.cl", 
+        "fuzzer": "replacement", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "208.113.222.149"
+        ], 
+        "dns-ns": [
+            "ns1.dreamhost.com", 
+            "ns2.dreamhost.com", 
+            "ns3.dreamhost.com"
+        ], 
+        "domain-name": "boogle.cl", 
+        "fuzzer": "replacement", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "72.52.4.120"
+        ], 
+        "dns-mx": [
+            "localhost"
+        ], 
+        "dns-ns": [
+            "ns1.sedoparking.com", 
+            "ns2.sedoparking.com"
+        ], 
+        "domain-name": "goo.gle.cl", 
+        "fuzzer": "subdomain"
+    }, 
+    {
+        "dns-a": [
+            "162.144.58.202"
+        ], 
+        "dns-mx": [
+            "gogole.cl"
+        ], 
+        "dns-ns": [
+            "ns1.bluehost.com", 
+            "ns2.bluehost.com"
+        ], 
+        "domain-name": "gogole.cl", 
+        "fuzzer": "transposition"
+    }, 
+    {
+        "dns-a": [
+            "23.236.62.147"
+        ], 
+        "dns-ns": [
+            "ns10.wixdns.net", 
+            "ns11.wixdns.net"
+        ], 
+        "domain-name": "goolge.cl", 
+        "fuzzer": "transposition", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "103.224.182.252"
+        ], 
+        "dns-mx": [
+            "park-mx.above.com"
+        ], 
+        "dns-ns": [
+            "ns1.above.com", 
+            "ns2.above.com"
+        ], 
+        "domain-name": "googlo.cl", 
+        "fuzzer": "vowel-swap", 
+        "geoip-country": "Australia", 
+        "mx-spy": true
+    }, 
+    {
+        "dns-a": [
+            "158.69.225.39"
+        ], 
+        "dns-ns": [
+            "ns1.kirklanddc.com", 
+            "ns2.kirklanddc.com"
+        ], 
+        "domain-name": "google-cl.com", 
+        "fuzzer": "various"
+    }
+]

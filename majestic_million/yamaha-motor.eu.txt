@@ -1,0 +1,59 @@
+[
+    {
+        "dns-a": [
+            "81.20.70.144"
+        ], 
+        "dns-mx": [
+            "yamahamotor-eu01e.mail.protection.outlook.com"
+        ], 
+        "dns-ns": [
+            "ns1.yamnet.com", 
+            "ns2.yamnet.com", 
+            "ns3.yamnet.com"
+        ], 
+        "domain-name": "yamaha-motor.eu", 
+        "fuzzer": "original*", 
+        "geoip-country": "Netherlands", 
+        "ssdeep-score": 100
+    }, 
+    {
+        "dns-a": [
+            "213.186.33.87"
+        ], 
+        "dns-aaaa": [
+            "2001:41d0:1:1b00:87:98:237:152"
+        ], 
+        "dns-mx": [
+            "redirect.ovh.net"
+        ], 
+        "dns-ns": [
+            "dns104.ovh.net", 
+            "ns104.ovh.net"
+        ], 
+        "domain-name": "yamaha-motors.eu", 
+        "fuzzer": "addition", 
+        "geoip-country": "France", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "81.20.70.213"
+        ], 
+        "dns-ns": [
+            "ns1.yamnet.com", 
+            "ns2.yamnet.com", 
+            "ns3.yamnet.com"
+        ], 
+        "domain-name": "yamahamotor.eu", 
+        "fuzzer": "omission", 
+        "geoip-country": "Netherlands", 
+        "ssdeep-score": 90
+    }, 
+    {
+        "dns-a": [
+            "213.160.71.62"
+        ], 
+        "domain-name": "yamaha-mo.tor.eu", 
+        "fuzzer": "subdomain"
+    }
+]

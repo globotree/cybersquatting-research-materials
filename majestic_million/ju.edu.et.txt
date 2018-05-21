@@ -1,0 +1,60 @@
+[
+    {
+        "dns-mx": [
+            "mail.ju.edu.et"
+        ], 
+        "dns-ns": [
+            "jns1.ju.edu.et", 
+            "jns2.ju.edu.et"
+        ], 
+        "domain-name": "ju.edu.et", 
+        "fuzzer": "original*"
+    }, 
+    {
+        "dns-a": [
+            "184.171.245.82"
+        ], 
+        "dns-mx": [
+            "jju.edu.et"
+        ], 
+        "dns-ns": [
+            "ns1.technobros.net.au", 
+            "ns2.technobros.net.au"
+        ], 
+        "domain-name": "jju.edu.et", 
+        "fuzzer": "repetition", 
+        "geoip-country": "United States"
+    }, 
+    {
+        "dns-a": [
+            "192.195.77.30"
+        ], 
+        "dns-aaaa": [
+            "2607:f1c0:1000:90ef:bdb0:f17c:b0da:b82b"
+        ], 
+        "dns-mx": [
+            "mx00.1and1.com", 
+            "mx01.1and1.com"
+        ], 
+        "dns-ns": [
+            "ns-us.1and1-dns.com", 
+            "ns-us.1and1-dns.us"
+        ], 
+        "domain-name": "uu.edu.et", 
+        "fuzzer": "replacement", 
+        "geoip-country": "United States"
+    }, 
+    {
+        "dns-mx": [
+            "ALT1.ASPMX.L.GOOGLE.com", 
+            "ASPMX.L.GOOGLE.com", 
+            "ASPMX2.GOOGLEMAIL.com"
+        ], 
+        "dns-ns": [
+            "ns1.telecom.net.et", 
+            "ns2.telecom.net.et"
+        ], 
+        "domain-name": "mu.edu.et", 
+        "fuzzer": "replacement"
+    }
+]

@@ -1,0 +1,132 @@
+[
+    {
+        "dns-mx": [
+            "alt1.aspmx.l.google.com", 
+            "alt2.aspmx.l.google.com", 
+            "aspmx.l.google.com", 
+            "aspmx2.googlemail.com", 
+            "aspmx3.googlemail.com"
+        ], 
+        "dns-ns": [
+            "ns-1307.awsdns-35.org", 
+            "ns-1662.awsdns-15.co.uk", 
+            "ns-235.awsdns-29.com", 
+            "ns-707.awsdns-24.net"
+        ], 
+        "domain-name": "onlineathens.com", 
+        "fuzzer": "original*"
+    }, 
+    {
+        "dns-a": [
+            "98.124.245.24"
+        ], 
+        "dns-mx": [
+            "mail.b-io.co"
+        ], 
+        "dns-ns": [
+            "ns1.fabulous.com", 
+            "ns2.fabulous.com"
+        ], 
+        "domain-name": "online-athens.com", 
+        "fuzzer": "hyphenation", 
+        "geoip-country": "United States", 
+        "mx-spy": true
+    }, 
+    {
+        "dns-a": [
+            "199.191.50.73"
+        ], 
+        "dns-ns": [
+            "ns111373.ztomy.com", 
+            "ns211373.ztomy.com"
+        ], 
+        "domain-name": "onlinathens.com", 
+        "fuzzer": "omission", 
+        "geoip-country": "Virgin Islands"
+    }, 
+    {
+        "dns-a": [
+            "98.124.245.24"
+        ], 
+        "dns-mx": [
+            "mail.b-io.co"
+        ], 
+        "dns-ns": [
+            "ns1.fabulous.com", 
+            "ns2.fabulous.com"
+        ], 
+        "domain-name": "onlineathen.com", 
+        "fuzzer": "omission", 
+        "geoip-country": "United States", 
+        "mx-spy": true
+    }, 
+    {
+        "dns-a": [
+            "198.105.244.111", 
+            "198.105.254.111"
+        ], 
+        "dns-aaaa": [
+            "2620:118:7002::1111", 
+            "2620:118:7008::1111"
+        ], 
+        "dns-ns": [
+            "a1-144.akam.net", 
+            "a10-65.akam.net", 
+            "a13-66.akam.net", 
+            "a22-67.akam.net", 
+            "a6-64.akam.net", 
+            "a9-65.akam.net"
+        ], 
+        "domain-name": "onlineathes.com", 
+        "fuzzer": "omission", 
+        "geoip-country": "United States"
+    }, 
+    {
+        "dns-a": [
+            "72.52.4.119"
+        ], 
+        "dns-mx": [
+            "localhost"
+        ], 
+        "dns-ns": [
+            "ns1.sedoparking.com", 
+            "ns2.sedoparking.com"
+        ], 
+        "domain-name": "onlin.eathens.com", 
+        "fuzzer": "subdomain", 
+        "geoip-country": "United States", 
+        "mx-spy": true
+    }, 
+    {
+        "dns-a": [
+            "205.178.189.131"
+        ], 
+        "domain-name": "online.athens.com", 
+        "fuzzer": "subdomain", 
+        "geoip-country": "United States"
+    }, 
+    {
+        "dns-a": [
+            "141.8.230.20"
+        ], 
+        "domain-name": "onlinea.thens.com", 
+        "fuzzer": "subdomain", 
+        "geoip-country": "Switzerland"
+    }, 
+    {
+        "dns-a": [
+            "75.126.100.21"
+        ], 
+        "domain-name": "onlineathe.ns.com", 
+        "fuzzer": "subdomain", 
+        "geoip-country": "United States"
+    }, 
+    {
+        "dns-ns": [
+            "v1.dns234.net", 
+            "v2.dns234.net"
+        ], 
+        "domain-name": "onlineathnes.com", 
+        "fuzzer": "transposition"
+    }
+]

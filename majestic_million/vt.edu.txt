@@ -1,0 +1,139 @@
+[
+    {
+        "dns-a": [
+            "198.82.215.14"
+        ], 
+        "dns-aaaa": [
+            "2607:b400:92:26:0:97:1e7:3947"
+        ], 
+        "dns-mx": [
+            "inbound.smtp.vt.edu"
+        ], 
+        "dns-ns": [
+            "auth1.dns.cogentco.com", 
+            "auth2.dns.cogentco.com", 
+            "clature.cns.vt.edu", 
+            "nomen.cns.vt.edu"
+        ], 
+        "domain-name": "vt.edu", 
+        "fuzzer": "original*", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 100
+    }, 
+    {
+        "dns-a": [
+            "162.249.106.220"
+        ], 
+        "dns-mx": [
+            "defendermx01.vsc.edu", 
+            "defendermx02.vsc.edu"
+        ], 
+        "dns-ns": [
+            "vtcdns.vtc.edu"
+        ], 
+        "domain-name": "vtc.edu", 
+        "fuzzer": "addition", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "50.56.149.111"
+        ], 
+        "dns-mx": [
+            "vti-edu.p10.spamhero.com", 
+            "vti-edu.p20.spamhero.com", 
+            "vti-edu.p30.spamhero.com", 
+            "vti-edu.p40.spamhero.com"
+        ], 
+        "dns-ns": [
+            "pdns1.registrar-servers.com", 
+            "pdns2.registrar-servers.com"
+        ], 
+        "domain-name": "vti.edu", 
+        "fuzzer": "addition"
+    }, 
+    {
+        "dns-a": [
+            "54.209.77.18"
+        ], 
+        "dns-mx": [
+            "smtp1-mke.securence.com", 
+            "smtp1-msp.securence.com"
+        ], 
+        "dns-ns": [
+            "ns1.focusdatasolutions.com", 
+            "ns2.focusdatasolutions.com"
+        ], 
+        "domain-name": "vts.edu", 
+        "fuzzer": "addition", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "216.250.121.40"
+        ], 
+        "dns-mx": [
+            "mx00.1and1.com", 
+            "mx01.1and1.com"
+        ], 
+        "dns-ns": [
+            "ns29.1and1.com", 
+            "ns30.1and1.com"
+        ], 
+        "domain-name": "vtu.edu", 
+        "fuzzer": "addition", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "34.195.5.116"
+        ], 
+        "dns-ns": [
+            "ns1.vanderbilt.edu", 
+            "ns2.vanderbilt.edu"
+        ], 
+        "domain-name": "vu.edu", 
+        "fuzzer": "bitsquatting", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "98.142.221.58"
+        ], 
+        "dns-mx": [
+            "ALT1.ASPMX.L.GOOGLE.COM", 
+            "ALT2.ASPMX.L.GOOGLE.COM", 
+            "ASPMX.L.GOOGLE.COM", 
+            "ASPMX2.GOOGLEMAIL.COM", 
+            "ASPMX3.GOOGLEMAIL.COM"
+        ], 
+        "dns-ns": [
+            "ns1.unlimihost.net", 
+            "ns2.unlimihost.net"
+        ], 
+        "domain-name": "gt.edu", 
+        "fuzzer": "replacement", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "216.243.167.186"
+        ], 
+        "dns-mx": [
+            "ct-edu.mail.protection.outlook.com"
+        ], 
+        "dns-ns": [
+            "sons1.ct.edu", 
+            "sons2.ct.edu", 
+            "sons3.ct.edu"
+        ], 
+        "domain-name": "ct.edu", 
+        "fuzzer": "replacement", 
+        "geoip-country": "United States"
+    }
+]

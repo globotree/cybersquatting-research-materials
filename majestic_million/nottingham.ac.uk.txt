@@ -1,0 +1,48 @@
+[
+    {
+        "dns-a": [
+            "185.18.139.133"
+        ], 
+        "dns-mx": [
+            "uidappmx01.nottingham.ac.uk", 
+            "uidappmx02.nottingham.ac.uk", 
+            "uidappmx03.nottingham.ac.uk", 
+            "uidappmx04.nottingham.ac.uk", 
+            "uidappmx05.nottingham.ac.uk", 
+            "uidappmx06.nottingham.ac.uk", 
+            "uidappmx07.nottingham.ac.uk"
+        ], 
+        "dns-ns": [
+            "dns1.nottingham.ac.uk", 
+            "dns2.nottingham.ac.uk", 
+            "extdns1.warwick.ac.uk", 
+            "extdns2.warwick.ac.uk"
+        ], 
+        "domain-name": "nottingham.ac.uk", 
+        "fuzzer": "original*", 
+        "geoip-country": "United Kingdom", 
+        "ssdeep-score": 100
+    }, 
+    {
+        "dns-a": [
+            "94.136.40.82"
+        ], 
+        "dns-ns": [
+            "ns.123-reg.co.uk", 
+            "ns2.123-reg.co.uk"
+        ], 
+        "domain-name": "nottingham.uk", 
+        "fuzzer": "various", 
+        "geoip-country": "United Kingdom"
+    }, 
+    {
+        "dns-ns": [
+            "ns1.iwantmyname.net", 
+            "ns2.iwantmyname.net", 
+            "ns3.iwantmyname.net", 
+            "ns4.iwantmyname.net"
+        ], 
+        "domain-name": "nottinghamac.uk", 
+        "fuzzer": "various"
+    }
+]

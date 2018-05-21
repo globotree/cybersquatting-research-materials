@@ -1,0 +1,119 @@
+[
+    {
+        "dns-a": [
+            "104.24.104.236", 
+            "104.24.105.236"
+        ], 
+        "dns-aaaa": [
+            "2400:cb00:2048:1::6818:68ec", 
+            "2400:cb00:2048:1::6818:69ec"
+        ], 
+        "dns-mx": [
+            "foodsafetynews-com.mail.protection.outlook.com", 
+            "mail.foodsafetynews.com"
+        ], 
+        "dns-ns": [
+            "betty.ns.cloudflare.com", 
+            "drew.ns.cloudflare.com"
+        ], 
+        "domain-name": "foodsafetynews.com", 
+        "fuzzer": "original*", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 97
+    }, 
+    {
+        "dns-a": [
+            "104.200.22.130"
+        ], 
+        "dns-mx": [
+            "mail.mxproc.com"
+        ], 
+        "dns-ns": [
+            "ns1.mytrafficmanagement.com", 
+            "ns2.mytrafficmanagement.com"
+        ], 
+        "domain-name": "foodsafeynews.com", 
+        "fuzzer": "omission", 
+        "geoip-country": "United States", 
+        "mx-spy": true, 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "67.55.121.97"
+        ], 
+        "dns-ns": [
+            "ns1.foodsafetynew.com", 
+            "ns2.foodsafetynew.com"
+        ], 
+        "domain-name": "foodsafetynew.com", 
+        "fuzzer": "omission", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "54.72.11.253"
+        ], 
+        "dns-mx": [
+            "mail.h-email.net"
+        ], 
+        "dns-ns": [
+            "ns1.parkingcrew.net", 
+            "ns2.parkingcrew.net"
+        ], 
+        "domain-name": "foodsaftynews.com", 
+        "fuzzer": "omission", 
+        "geoip-country": "Ireland", 
+        "mx-spy": true, 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "69.172.201.153"
+        ], 
+        "dns-ns": [
+            "ns1.uniregistrymarket.link", 
+            "ns2.uniregistrymarket.link"
+        ], 
+        "domain-name": "food.safetynews.com", 
+        "fuzzer": "subdomain", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "104.156.231.152"
+        ], 
+        "domain-name": "foodsafe.tynews.com", 
+        "fuzzer": "subdomain", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "64.30.224.118"
+        ], 
+        "domain-name": "foodsafety.news.com", 
+        "fuzzer": "subdomain", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "185.53.179.8"
+        ], 
+        "dns-mx": [
+            "mail.h-email.net"
+        ], 
+        "dns-ns": [
+            "ns1.parkingcrew.net", 
+            "ns2.parkingcrew.net"
+        ], 
+        "domain-name": "foodsafteynews.com", 
+        "fuzzer": "transposition", 
+        "geoip-country": "Germany", 
+        "mx-spy": true, 
+        "ssdeep-score": 0
+    }
+]

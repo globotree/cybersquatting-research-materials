@@ -1,0 +1,38 @@
+[
+    {
+        "dns-a": [
+            "216.58.210.9"
+        ], 
+        "dns-aaaa": [
+            "2a00:1450:4001:816::2009"
+        ], 
+        "dns-ns": [
+            "ns1.google.com", 
+            "ns2.google.com", 
+            "ns3.google.com", 
+            "ns4.google.com"
+        ], 
+        "domain-name": "blogspot.ch", 
+        "fuzzer": "original*", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 79
+    }, 
+    {
+        "dns-a": [
+            "81.169.145.90"
+        ], 
+        "dns-aaaa": [
+            "2a01:238:20a:202:1090::"
+        ], 
+        "dns-mx": [
+            "smtpin.rzone.de"
+        ], 
+        "dns-ns": [
+            "docks20.rzone.de", 
+            "shades16.rzone.de"
+        ], 
+        "domain-name": "vlogspot.ch", 
+        "fuzzer": "replacement", 
+        "geoip-country": "Germany"
+    }
+]

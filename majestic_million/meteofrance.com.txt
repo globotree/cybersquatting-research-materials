@@ -1,0 +1,179 @@
+[
+    {
+        "dns-a": [
+            "160.92.178.69", 
+            "160.92.178.70"
+        ], 
+        "dns-ns": [
+            "cadillac.meteo.fr", 
+            "ns3.atos.net", 
+            "vivaldi.meteo.fr"
+        ], 
+        "domain-name": "meteofrance.com", 
+        "fuzzer": "original*", 
+        "geoip-country": "France", 
+        "ssdeep-score": 93
+    }, 
+    {
+        "dns-a": [
+            "160.92.178.69", 
+            "160.92.178.70"
+        ], 
+        "dns-ns": [
+            "cadillac.meteo.fr", 
+            "ns3.atos.net", 
+            "vivaldi.meteo.fr"
+        ], 
+        "domain-name": "meteo-france.com", 
+        "fuzzer": "hyphenation", 
+        "geoip-country": "France", 
+        "ssdeep-score": 94
+    }, 
+    {
+        "dns-a": [
+            "69.172.201.153"
+        ], 
+        "dns-ns": [
+            "ns1.uniregistrymarket.link", 
+            "ns2.uniregistrymarket.link"
+        ], 
+        "domain-name": "metefrance.com", 
+        "fuzzer": "omission", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "52.73.124.185", 
+            "54.164.198.60"
+        ], 
+        "dns-ns": [
+            "ns1.namebrightdns.com", 
+            "ns2.namebrightdns.com"
+        ], 
+        "domain-name": "metofrance.com", 
+        "fuzzer": "omission", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "67.225.218.50"
+        ], 
+        "dns-ns": [
+            "ns1.parklogic.com", 
+            "ns2.parklogic.com", 
+            "ns3.parklogic.com", 
+            "ns4.parklogic.com", 
+            "ns5.parklogic.com"
+        ], 
+        "domain-name": "meteofranc.com", 
+        "fuzzer": "omission", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "185.26.230.129"
+        ], 
+        "dns-mx": [
+            "in.metro.st", 
+            "in2.metro.lu"
+        ], 
+        "dns-ns": [
+            "ns1.coltfrance.com", 
+            "ns1.nan2.fr.uu.net"
+        ], 
+        "domain-name": "metrofrance.com", 
+        "fuzzer": "replacement", 
+        "geoip-country": "United Kingdom", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "81.88.57.68"
+        ], 
+        "dns-mx": [
+            "mail-fr.securemail.pro"
+        ], 
+        "dns-ns": [
+            "ns1.amenworld.com", 
+            "ns2.amenworld.com"
+        ], 
+        "domain-name": "metsofrance.com", 
+        "fuzzer": "replacement", 
+        "geoip-country": "Italy", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "185.53.177.20"
+        ], 
+        "dns-ns": [
+            "ns1.eurodns.com", 
+            "ns2.eurodns.com", 
+            "ns3.eurodns.com", 
+            "ns4.eurodns.com"
+        ], 
+        "domain-name": "meteofrancs.com", 
+        "fuzzer": "replacement", 
+        "geoip-country": "Germany", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "69.64.147.38", 
+            "98.124.199.86"
+        ], 
+        "domain-name": "mete.ofrance.com", 
+        "fuzzer": "subdomain", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "66.111.4.53", 
+            "66.111.4.54"
+        ], 
+        "dns-mx": [
+            "in1-smtp.messagingengine.com", 
+            "in2-smtp.messagingengine.com"
+        ], 
+        "domain-name": "meteo.france.com", 
+        "fuzzer": "subdomain"
+    }, 
+    {
+        "dns-a": [
+            "185.53.178.7"
+        ], 
+        "dns-mx": [
+            "mail.h-email.net"
+        ], 
+        "dns-ns": [
+            "ns1.parkingcrew.net", 
+            "ns2.parkingcrew.net"
+        ], 
+        "domain-name": "meteofran.ce.com", 
+        "fuzzer": "subdomain", 
+        "geoip-country": "Germany", 
+        "mx-spy": true, 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "185.53.179.8"
+        ], 
+        "dns-mx": [
+            "mail.h-email.net"
+        ], 
+        "dns-ns": [
+            "ns1.parkingcrew.net", 
+            "ns2.parkingcrew.net"
+        ], 
+        "domain-name": "metoefrance.com", 
+        "fuzzer": "transposition", 
+        "geoip-country": "Germany", 
+        "mx-spy": true, 
+        "ssdeep-score": 0
+    }
+]

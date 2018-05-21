@@ -1,0 +1,59 @@
+[
+    {
+        "dns-a": [
+            "150.164.30.19"
+        ], 
+        "dns-mx": [
+            "mail1.ufmg.br", 
+            "mail2.ufmg.br", 
+            "mail3.ufmg.br", 
+            "mail4.ufmg.br", 
+            "mail5.ufmg.br", 
+            "mail6.ufmg.br"
+        ], 
+        "dns-ns": [
+            "bee.uspnet.usp.br", 
+            "felix.lcc.ufmg.br", 
+            "gerencia.rede.ufmg.br", 
+            "hydra.lcc.ufmg.br", 
+            "ns.pop-mg.rnp.br"
+        ], 
+        "domain-name": "ufmg.br", 
+        "fuzzer": "original*", 
+        "geoip-country": "Brazil", 
+        "ssdeep-score": 100
+    }, 
+    {
+        "dns-a": [
+            "200.137.192.17"
+        ], 
+        "dns-aaaa": [
+            "2001:12f0:c0b::17"
+        ], 
+        "dns-mx": [
+            "mx0.ufg.br", 
+            "mx1.ufg.br"
+        ], 
+        "dns-ns": [
+            "ns.ufg.br", 
+            "ns2.ufg.br"
+        ], 
+        "domain-name": "ufg.br", 
+        "fuzzer": "omission", 
+        "geoip-country": "Brazil"
+    }, 
+    {
+        "dns-a": [
+            "200.17.60.3"
+        ], 
+        "dns-mx": [
+            "bororo.cpd.ufmt.br"
+        ], 
+        "dns-ns": [
+            "bororo.cpd.ufmt.br", 
+            "rondon.pop-mt.rnp.br"
+        ], 
+        "domain-name": "ufmt.br", 
+        "fuzzer": "replacement"
+    }
+]

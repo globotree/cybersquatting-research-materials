@@ -1,0 +1,106 @@
+[
+    {
+        "dns-ns": [
+            "a-dns.pl", 
+            "b-dns.pl", 
+            "e-dns.pl", 
+            "f-dns.pl", 
+            "i-dns.pl"
+        ], 
+        "domain-name": "bydgoszcz.pl", 
+        "fuzzer": "original*"
+    }, 
+    {
+        "dns-a": [
+            "213.133.97.199"
+        ], 
+        "dns-mx": [
+            "mail.bydgoszczz.pl"
+        ], 
+        "dns-ns": [
+            "dns8.linuxpl.com", 
+            "ns8.linuxpl.com"
+        ], 
+        "domain-name": "bydgoszczz.pl", 
+        "fuzzer": "addition", 
+        "geoip-country": "Germany"
+    }, 
+    {
+        "dns-a": [
+            "194.181.15.25"
+        ], 
+        "dns-mx": [
+            "ibydgoszcz.pl"
+        ], 
+        "dns-ns": [
+            "ns5.webd.pl", 
+            "ns7.webd.pl"
+        ], 
+        "domain-name": "ibydgoszcz.pl", 
+        "fuzzer": "homoglyph", 
+        "geoip-country": "Poland"
+    }, 
+    {
+        "dns-ns": [
+            "ns1.blocked.nazwa.pl", 
+            "ns2.blocked.nazwa.pl"
+        ], 
+        "domain-name": "bydgozcz.pl", 
+        "fuzzer": "omission"
+    }, 
+    {
+        "dns-ns": [
+            "ns1.blocked.nazwa.pl", 
+            "ns2.blocked.nazwa.pl"
+        ], 
+        "domain-name": "bygoszcz.pl", 
+        "fuzzer": "omission"
+    }, 
+    {
+        "dns-a": [
+            "212.85.122.56"
+        ], 
+        "dns-mx": [
+            "szcz.pl"
+        ], 
+        "dns-ns": [
+            "dns.home.pl", 
+            "dns2.home.pl", 
+            "dns3.home.pl"
+        ], 
+        "domain-name": "bydgo.szcz.pl", 
+        "fuzzer": "subdomain", 
+        "geoip-country": "Poland"
+    }, 
+    {
+        "dns-a": [
+            "185.53.178.7"
+        ], 
+        "dns-ns": [
+            "ns1.parkingcrew.net", 
+            "ns2.parkingcrew.net"
+        ], 
+        "domain-name": "bydgos.zcz.pl", 
+        "fuzzer": "subdomain", 
+        "geoip-country": "Germany"
+    }, 
+    {
+        "dns-a": [
+            "94.152.38.35"
+        ], 
+        "dns-mx": [
+            "mail.cz.pl"
+        ], 
+        "domain-name": "bydgosz.cz.pl", 
+        "fuzzer": "subdomain", 
+        "geoip-country": "Poland"
+    }, 
+    {
+        "dns-a": [
+            "81.219.55.202"
+        ], 
+        "domain-name": "bydgoszc.z.pl", 
+        "fuzzer": "subdomain", 
+        "geoip-country": "Poland"
+    }
+]

@@ -1,0 +1,62 @@
+[
+    {
+        "dns-a": [
+            "112.175.184.100"
+        ], 
+        "dns-mx": [
+            "aspmx1.naver.com", 
+            "aspmx2.naver.com"
+        ], 
+        "dns-ns": [
+            "ns1.dothome.co.kr", 
+            "ns2.dothome.co.kr", 
+            "ns3.dothome.co.kr"
+        ], 
+        "domain-name": "dothome.co.kr", 
+        "fuzzer": "original*", 
+        "geoip-country": "Korea", 
+        "ssdeep-score": 99
+    }, 
+    {
+        "dns-a": [
+            "183.111.100.228"
+        ], 
+        "dns-mx": [
+            "rmw-002.fmcity.com"
+        ], 
+        "dns-ns": [
+            "ns.doghome.co.kr", 
+            "ns1.doghome.co.kr", 
+            "ns2.doghome.co.kr", 
+            "ns3.doghome.co.kr"
+        ], 
+        "domain-name": "doghome.co.kr", 
+        "fuzzer": "replacement", 
+        "geoip-country": "Korea", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "222.122.213.222"
+        ], 
+        "dns-mx": [
+            "home.co.kr"
+        ], 
+        "dns-ns": [
+            "ns.cafe24.com", 
+            "ns0.cafe24.com", 
+            "ns1.cafe24.com", 
+            "ns2.cafe24.com"
+        ], 
+        "domain-name": "dot.home.co.kr", 
+        "fuzzer": "subdomain", 
+        "geoip-country": "Korea"
+    }, 
+    {
+        "dns-a": [
+            "127.0.0.1"
+        ], 
+        "domain-name": "dothom.e.co.kr", 
+        "fuzzer": "subdomain"
+    }
+]

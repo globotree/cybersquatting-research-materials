@@ -1,0 +1,50 @@
+[
+    {
+        "dns-a": [
+            "149.101.146.37"
+        ], 
+        "dns-aaaa": [
+            "2607:f330:8400:2010:8020::40"
+        ], 
+        "dns-mx": [
+            "mx-jdcw.usdoj.gov"
+        ], 
+        "dns-ns": [
+            "ns-jdcw-01.usdoj.gov", 
+            "ns-jdcw-02.usdoj.gov", 
+            "ns2.cjis.gov"
+        ], 
+        "domain-name": "atf.gov", 
+        "fuzzer": "original*", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 100
+    }, 
+    {
+        "dns-a": [
+            "198.185.159.144", 
+            "198.185.159.145", 
+            "198.49.23.144", 
+            "198.49.23.145"
+        ], 
+        "dns-mx": [
+            "adf-gov.mail.protection.outlook.com"
+        ], 
+        "dns-ns": [
+            "auth111.ns.uu.net", 
+            "auth120.ns.uu.net"
+        ], 
+        "domain-name": "adf.gov", 
+        "fuzzer": "bitsquatting", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-ns": [
+            "fsdns1.fs.fed.us", 
+            "fsdns3.fs.fed.us", 
+            "fsdns4.fs.fed.us"
+        ], 
+        "domain-name": "aff.gov", 
+        "fuzzer": "replacement"
+    }
+]

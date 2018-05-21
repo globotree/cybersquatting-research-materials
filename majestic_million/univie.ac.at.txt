@@ -1,0 +1,52 @@
+[
+    {
+        "dns-a": [
+            "131.130.70.17"
+        ], 
+        "dns-mx": [
+            "zidmx1.univie.ac.at", 
+            "zidmx2.univie.ac.at", 
+            "zidmx3.univie.ac.at", 
+            "zidmx4.univie.ac.at"
+        ], 
+        "dns-ns": [
+            "ns10.univie.ac.at", 
+            "ns3.univie.ac.at", 
+            "ns4.univie.ac.at", 
+            "ns5.univie.ac.at", 
+            "ns7.univie.ac.at", 
+            "ns8.univie.ac.at"
+        ], 
+        "domain-name": "univie.ac.at", 
+        "fuzzer": "original*", 
+        "geoip-country": "Austria", 
+        "ssdeep-score": 100
+    }, 
+    {
+        "dns-a": [
+            "37.252.250.25"
+        ], 
+        "dns-mx": [
+            "mail.univie.at"
+        ], 
+        "dns-ns": [
+            "ns3.drweb.at", 
+            "ns4.drweb.at"
+        ], 
+        "domain-name": "univie.at", 
+        "fuzzer": "various"
+    }, 
+    {
+        "dns-mx": [
+            "zidmx1.univie.ac.at", 
+            "zidmx2.univie.ac.at", 
+            "zidmx3.univie.ac.at"
+        ], 
+        "dns-ns": [
+            "ns3ext.univie.ac.at", 
+            "ns4ext.univie.ac.at"
+        ], 
+        "domain-name": "univieac.at", 
+        "fuzzer": "various"
+    }
+]

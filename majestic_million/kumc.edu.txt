@@ -1,0 +1,54 @@
+[
+    {
+        "dns-a": [
+            "169.147.4.30"
+        ], 
+        "dns-mx": [
+            "d72881a.ess.barracudanetworks.com", 
+            "d72881b.ess.barracudanetworks.com"
+        ], 
+        "dns-ns": [
+            "dmzdns.kumcdmzdns.edu", 
+            "dmzdns2.kumcdmzdns.edu", 
+            "ns3.kumc.edu", 
+            "ns4.kumc.edu"
+        ], 
+        "domain-name": "kumc.edu", 
+        "fuzzer": "original*", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 100
+    }, 
+    {
+        "dns-a": [
+            "192.231.68.40"
+        ], 
+        "dns-mx": [
+            "mxa-00141b01.gslb.pphosted.com", 
+            "mxb-00141b01.gslb.pphosted.com"
+        ], 
+        "dns-ns": [
+            "ibdmzns1vip.umc.edu", 
+            "ibdmzns2vip.umc.edu"
+        ], 
+        "domain-name": "umc.edu", 
+        "fuzzer": "omission", 
+        "geoip-country": "United States"
+    }, 
+    {
+        "dns-mx": [
+            "nodcmslipe1.trinity-health.org", 
+            "nodcmslipe2.trinity-health.org", 
+            "nodcmslipe3.trinity-health.org", 
+            "vfdcmslipe4.che.org", 
+            "vfdcmslipe5.che.org", 
+            "vfdcmslipe6.che.org"
+        ], 
+        "dns-ns": [
+            "luhsdns0.luhs.org", 
+            "luhsdns1.luhs.org", 
+            "luhsdns2.luhs.org"
+        ], 
+        "domain-name": "lumc.edu", 
+        "fuzzer": "replacement"
+    }
+]

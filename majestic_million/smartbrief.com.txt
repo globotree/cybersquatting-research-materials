@@ -1,0 +1,73 @@
+[
+    {
+        "dns-a": [
+            "72.32.59.21"
+        ], 
+        "dns-mx": [
+            "mail.smartbrief.com"
+        ], 
+        "dns-ns": [
+            "ns.rackspace.com", 
+            "ns2.rackspace.com"
+        ], 
+        "domain-name": "smartbrief.com", 
+        "fuzzer": "original*", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 72
+    }, 
+    {
+        "dns-a": [
+            "184.168.221.7"
+        ], 
+        "dns-mx": [
+            "mail.smartbrief.com"
+        ], 
+        "dns-ns": [
+            "pdns03.domaincontrol.com", 
+            "pdns04.domaincontrol.com"
+        ], 
+        "domain-name": "smartbriefs.com", 
+        "fuzzer": "addition", 
+        "geoip-country": "United States"
+    }, 
+    {
+        "dns-a": [
+            "104.16.88.230"
+        ], 
+        "dns-mx": [
+            "mx.srnartbrief.com.cust.b.hostedemail.com"
+        ], 
+        "dns-ns": [
+            "ns2.vpweb.com", 
+            "ns3.vpweb.com", 
+            "ns4.vpweb.com"
+        ], 
+        "domain-name": "srnartbrief.com", 
+        "fuzzer": "homoglyph", 
+        "geoip-country": "United States"
+    }, 
+    {
+        "dns-ns": [
+            "ns.deutschepost.de", 
+            "ns1.deutschepost.de", 
+            "ns2.deutschepost.de", 
+            "ns3.deutschepost.de", 
+            "ppd00021.deutschepost.de"
+        ], 
+        "domain-name": "smart-brief.com", 
+        "fuzzer": "hyphenation"
+    }, 
+    {
+        "dns-a": [
+            "208.91.196.105"
+        ], 
+        "dns-ns": [
+            "sk.s5.cm.ns1.39.ztomy.com", 
+            "sk.s5.cm.ns2.39.ztomy.com"
+        ], 
+        "domain-name": "smartbreif.com", 
+        "fuzzer": "transposition", 
+        "geoip-country": "Virgin Islands", 
+        "ssdeep-score": 0
+    }
+]

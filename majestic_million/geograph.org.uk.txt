@@ -1,0 +1,44 @@
+[
+    {
+        "dns-a": [
+            "87.124.24.40"
+        ], 
+        "dns-mx": [
+            "mail.geograph.org.uk"
+        ], 
+        "dns-ns": [
+            "dns1.easydns.com", 
+            "dns2.easydns.net", 
+            "ns1.geograph.org.uk"
+        ], 
+        "domain-name": "geograph.org.uk", 
+        "fuzzer": "original*", 
+        "geoip-country": "United Kingdom", 
+        "ssdeep-score": 72
+    }, 
+    {
+        "dns-a": [
+            "193.33.254.164"
+        ], 
+        "dns-mx": [
+            "geography-org-uk.mail.protection.outlook.com"
+        ], 
+        "domain-name": "geography.org.uk", 
+        "fuzzer": "addition", 
+        "geoip-country": "United Kingdom", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "87.124.24.40"
+        ], 
+        "dns-ns": [
+            "ns.123-reg.co.uk", 
+            "ns2.123-reg.co.uk"
+        ], 
+        "domain-name": "geograph.uk", 
+        "fuzzer": "various", 
+        "geoip-country": "United Kingdom", 
+        "ssdeep-score": 77
+    }
+]

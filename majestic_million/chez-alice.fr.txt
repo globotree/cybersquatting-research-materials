@@ -1,0 +1,48 @@
+[
+    {
+        "dns-a": [
+            "212.27.63.127"
+        ], 
+        "dns-ns": [
+            "freens1-g20.free.fr", 
+            "freens2-g20.free.fr"
+        ], 
+        "domain-name": "chez-alice.fr", 
+        "fuzzer": "original*", 
+        "geoip-country": "France", 
+        "ssdeep-score": 100
+    }, 
+    {
+        "dns-a": [
+            "72.52.4.122"
+        ], 
+        "dns-mx": [
+            "localhost"
+        ], 
+        "dns-ns": [
+            "ns1.sedoparking.com", 
+            "ns2.sedoparking.com"
+        ], 
+        "domain-name": "chez-a.lice.fr", 
+        "fuzzer": "subdomain", 
+        "geoip-country": "United States", 
+        "mx-spy": true, 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "213.132.197.99"
+        ], 
+        "domain-name": "chez-al.ice.fr", 
+        "fuzzer": "subdomain", 
+        "geoip-country": "Netherlands", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "127.0.0.1"
+        ], 
+        "domain-name": "chez-ali.ce.fr", 
+        "fuzzer": "subdomain"
+    }
+]

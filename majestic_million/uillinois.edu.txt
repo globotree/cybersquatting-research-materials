@@ -1,0 +1,37 @@
+[
+    {
+        "dns-a": [
+            "64.22.183.125"
+        ], 
+        "dns-mx": [
+            "incoming-relays.illinois.edu"
+        ], 
+        "dns-ns": [
+            "dns1.illinois.edu", 
+            "dns2.illinois.edu", 
+            "dns3.illinois.edu"
+        ], 
+        "domain-name": "uillinois.edu", 
+        "fuzzer": "original*", 
+        "geoip-country": "United States", 
+        "mx-spy": true, 
+        "ssdeep-score": 94
+    }, 
+    {
+        "dns-a": [
+            "192.17.13.36"
+        ], 
+        "dns-mx": [
+            "incoming-relays.illinois.edu"
+        ], 
+        "dns-ns": [
+            "dns1.illinois.edu", 
+            "dns2.illinois.edu", 
+            "dns3.illinois.edu"
+        ], 
+        "domain-name": "illinois.edu", 
+        "fuzzer": "omission", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 0
+    }
+]

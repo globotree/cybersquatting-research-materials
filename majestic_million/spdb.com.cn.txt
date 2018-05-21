@@ -1,0 +1,420 @@
+[
+    {
+        "dns-mx": [
+            "mail.spdb.com.cn", 
+            "mail3300.spdb.com.cn"
+        ], 
+        "dns-ns": [
+            "H01.WYGTM.1600.01.spdb.com.cn", 
+            "dns3.spdb.com.cn", 
+            "dns4.spdb.com.cn", 
+            "dns5.spdb.com.cn", 
+            "dns6.spdb.com.cn"
+        ], 
+        "domain-name": "spdb.com.cn", 
+        "fuzzer": "original*"
+    }, 
+    {
+        "dns-a": [
+            "47.254.52.93", 
+            "47.254.52.95"
+        ], 
+        "domain-name": "spdbc.com.cn", 
+        "fuzzer": "addition", 
+        "geoip-country": "United States"
+    }, 
+    {
+        "dns-a": [
+            "103.11.102.7"
+        ], 
+        "dns-mx": [
+            "mail.spdbi.com.cn"
+        ], 
+        "dns-ns": [
+            "ns83.pointdnshere.net", 
+            "ns84.pointdnshere.net"
+        ], 
+        "domain-name": "spdbi.com.cn", 
+        "fuzzer": "addition", 
+        "geoip-country": "Hong Kong"
+    }, 
+    {
+        "dns-a": [
+            "104.217.179.143"
+        ], 
+        "dns-ns": [
+            "ns5.dnsdun.net", 
+            "ns6.dnsdun.com"
+        ], 
+        "domain-name": "spdbj.com.cn", 
+        "fuzzer": "addition", 
+        "geoip-country": "United States"
+    }, 
+    {
+        "dns-a": [
+            "67.229.173.84"
+        ], 
+        "domain-name": "rpdb.com.cn", 
+        "fuzzer": "bitsquatting", 
+        "geoip-country": "United States"
+    }, 
+    {
+        "dns-a": [
+            "45.120.153.79"
+        ], 
+        "domain-name": "wpdb.com.cn", 
+        "fuzzer": "bitsquatting", 
+        "geoip-country": "Hong Kong"
+    }, 
+    {
+        "dns-a": [
+            "45.120.153.79"
+        ], 
+        "domain-name": "cpdb.com.cn", 
+        "fuzzer": "bitsquatting", 
+        "geoip-country": "Hong Kong"
+    }, 
+    {
+        "dns-a": [
+            "50.117.120.251"
+        ], 
+        "dns-mx": [
+            "mail.happyisp.com"
+        ], 
+        "domain-name": "sqdb.com.cn", 
+        "fuzzer": "bitsquatting", 
+        "geoip-country": "United States", 
+        "mx-spy": true
+    }, 
+    {
+        "dns-a": [
+            "67.229.173.85"
+        ], 
+        "domain-name": "srdb.com.cn", 
+        "fuzzer": "bitsquatting", 
+        "geoip-country": "United States"
+    }, 
+    {
+        "dns-a": [
+            "59.188.9.44"
+        ], 
+        "domain-name": "stdb.com.cn", 
+        "fuzzer": "bitsquatting", 
+        "geoip-country": "Hong Kong"
+    }, 
+    {
+        "dns-a": [
+            "103.232.215.159"
+        ], 
+        "domain-name": "speb.com.cn", 
+        "fuzzer": "bitsquatting", 
+        "geoip-country": "China"
+    }, 
+    {
+        "dns-a": [
+            "203.78.142.12"
+        ], 
+        "domain-name": "spfb.com.cn", 
+        "fuzzer": "bitsquatting", 
+        "geoip-country": "Hong Kong"
+    }, 
+    {
+        "dns-a": [
+            "67.229.173.83"
+        ], 
+        "domain-name": "splb.com.cn", 
+        "fuzzer": "bitsquatting", 
+        "geoip-country": "United States"
+    }, 
+    {
+        "dns-a": [
+            "203.78.142.12"
+        ], 
+        "domain-name": "sptb.com.cn", 
+        "fuzzer": "bitsquatting", 
+        "geoip-country": "Hong Kong"
+    }, 
+    {
+        "dns-a": [
+            "61.139.126.67"
+        ], 
+        "dns-mx": [
+            "mail4.myhostadmin.net"
+        ], 
+        "dns-ns": [
+            "ns1.alidns.com", 
+            "ns2.alidns.com"
+        ], 
+        "domain-name": "spdc.com.cn", 
+        "fuzzer": "bitsquatting", 
+        "geoip-country": "China"
+    }, 
+    {
+        "dns-a": [
+            "203.78.142.12"
+        ], 
+        "domain-name": "spdj.com.cn", 
+        "fuzzer": "bitsquatting", 
+        "geoip-country": "Hong Kong"
+    }, 
+    {
+        "dns-a": [
+            "103.71.236.125"
+        ], 
+        "dns-ns": [
+            "ns3.dnsdun.com", 
+            "ns3.dnsdun.net"
+        ], 
+        "domain-name": "spbb.com.cn", 
+        "fuzzer": "homoglyph", 
+        "geoip-country": "Hong Kong"
+    }, 
+    {
+        "dns-a": [
+            "127.0.0.1"
+        ], 
+        "dns-mx": [
+            "mx.c1.icoremail.net"
+        ], 
+        "dns-ns": [
+            "ns13.xincache.com", 
+            "ns14.xincache.com"
+        ], 
+        "domain-name": "spb.com.cn", 
+        "fuzzer": "omission", 
+        "mx-spy": true
+    }, 
+    {
+        "dns-a": [
+            "121.14.65.214"
+        ], 
+        "dns-mx": [
+            "mxbiz1.qq.com", 
+            "mxbiz2.qq.com"
+        ], 
+        "domain-name": "spd.com.cn", 
+        "fuzzer": "omission", 
+        "geoip-country": "China"
+    }, 
+    {
+        "dns-a": [
+            "50.117.120.251"
+        ], 
+        "dns-mx": [
+            "mail.happyisp.com"
+        ], 
+        "domain-name": "pdb.com.cn", 
+        "fuzzer": "omission", 
+        "geoip-country": "United States", 
+        "mx-spy": true
+    }, 
+    {
+        "dns-ns": [
+            "sdbdns.sdb.com.cn", 
+            "sdbdnsb.sdb.com.cn", 
+            "sdbdnsc.sdb.com.cn"
+        ], 
+        "domain-name": "sdb.com.cn", 
+        "fuzzer": "omission"
+    }, 
+    {
+        "dns-a": [
+            "103.230.108.28"
+        ], 
+        "dns-ns": [
+            "v1.dns234.net", 
+            "v2.dns234.net"
+        ], 
+        "domain-name": "spddb.com.cn", 
+        "fuzzer": "repetition", 
+        "geoip-country": "Hong Kong"
+    }, 
+    {
+        "dns-a": [
+            "184.154.126.180"
+        ], 
+        "domain-name": "apdb.com.cn", 
+        "fuzzer": "replacement", 
+        "geoip-country": "United States"
+    }, 
+    {
+        "dns-a": [
+            "45.120.153.79"
+        ], 
+        "domain-name": "spcb.com.cn", 
+        "fuzzer": "replacement", 
+        "geoip-country": "Hong Kong"
+    }, 
+    {
+        "dns-a": [
+            "203.78.142.12"
+        ], 
+        "domain-name": "spxb.com.cn", 
+        "fuzzer": "replacement", 
+        "geoip-country": "Hong Kong"
+    }, 
+    {
+        "dns-a": [
+            "67.229.173.83"
+        ], 
+        "domain-name": "dpdb.com.cn", 
+        "fuzzer": "replacement", 
+        "geoip-country": "United States"
+    }, 
+    {
+        "dns-a": [
+            "67.229.173.156"
+        ], 
+        "domain-name": "ypdb.com.cn", 
+        "fuzzer": "replacement", 
+        "geoip-country": "United States"
+    }, 
+    {
+        "dns-a": [
+            "67.229.173.85"
+        ], 
+        "domain-name": "sprb.com.cn", 
+        "fuzzer": "replacement", 
+        "geoip-country": "United States"
+    }, 
+    {
+        "dns-a": [
+            "45.120.153.79"
+        ], 
+        "domain-name": "smdb.com.cn", 
+        "fuzzer": "replacement", 
+        "geoip-country": "Hong Kong"
+    }, 
+    {
+        "dns-a": [
+            "67.229.173.154"
+        ], 
+        "domain-name": "sldb.com.cn", 
+        "fuzzer": "replacement", 
+        "geoip-country": "United States"
+    }, 
+    {
+        "dns-a": [
+            "67.229.173.84"
+        ], 
+        "domain-name": "zpdb.com.cn", 
+        "fuzzer": "replacement", 
+        "geoip-country": "United States"
+    }, 
+    {
+        "dns-a": [
+            "116.89.250.211"
+        ], 
+        "domain-name": "xpdb.com.cn", 
+        "fuzzer": "replacement"
+    }, 
+    {
+        "dns-a": [
+            "47.89.58.141"
+        ], 
+        "dns-ns": [
+            "dns15.hichina.com", 
+            "dns16.hichina.com"
+        ], 
+        "domain-name": "spdv.com.cn", 
+        "fuzzer": "replacement", 
+        "geoip-country": "United States"
+    }, 
+    {
+        "dns-a": [
+            "203.78.142.12"
+        ], 
+        "domain-name": "spdh.com.cn", 
+        "fuzzer": "replacement", 
+        "geoip-country": "Hong Kong"
+    }, 
+    {
+        "dns-a": [
+            "118.190.146.154"
+        ], 
+        "dns-ns": [
+            "f1g1ns1.dnspod.net", 
+            "f1g1ns2.dnspod.net"
+        ], 
+        "domain-name": "sodb.com.cn", 
+        "fuzzer": "replacement", 
+        "geoip-country": "China"
+    }, 
+    {
+        "dns-a": [
+            "203.78.142.12"
+        ], 
+        "domain-name": "spsb.com.cn", 
+        "fuzzer": "replacement", 
+        "geoip-country": "Hong Kong"
+    }, 
+    {
+        "dns-a": [
+            "50.117.120.251"
+        ], 
+        "dns-mx": [
+            "mail.happyisp.com"
+        ], 
+        "domain-name": "spdn.com.cn", 
+        "fuzzer": "replacement"
+    }, 
+    {
+        "dns-mx": [
+            "mail.spdg.com.cn"
+        ], 
+        "dns-ns": [
+            "f1g1ns1.dnspod.net", 
+            "f1g1ns2.dnspod.net"
+        ], 
+        "domain-name": "spdg.com.cn", 
+        "fuzzer": "replacement"
+    }, 
+    {
+        "dns-a": [
+            "50.117.120.251"
+        ], 
+        "dns-mx": [
+            "mail.happyisp.com"
+        ], 
+        "domain-name": "s.pdb.com.cn", 
+        "fuzzer": "subdomain", 
+        "geoip-country": "United States", 
+        "mx-spy": true
+    }, 
+    {
+        "dns-a": [
+            "47.90.82.159"
+        ], 
+        "domain-name": "spd.b.com.cn", 
+        "fuzzer": "subdomain"
+    }, 
+    {
+        "dns-a": [
+            "67.229.173.85"
+        ], 
+        "domain-name": "psdb.com.cn", 
+        "fuzzer": "transposition"
+    }, 
+    {
+        "dns-a": [
+            "106.75.166.167"
+        ], 
+        "domain-name": "sdpb.com.cn", 
+        "fuzzer": "transposition"
+    }, 
+    {
+        "dns-a": [
+            "50.117.120.251"
+        ], 
+        "domain-name": "spbd.com.cn", 
+        "fuzzer": "transposition", 
+        "geoip-country": "United States"
+    }, 
+    {
+        "dns-a": [
+            "50.117.120.251"
+        ], 
+        "domain-name": "spdbcom.cn", 
+        "fuzzer": "various"
+    }
+]

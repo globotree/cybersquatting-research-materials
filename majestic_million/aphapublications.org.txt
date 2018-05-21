@@ -1,0 +1,52 @@
+[
+    {
+        "dns-a": [
+            "65.156.1.85"
+        ], 
+        "dns-mx": [
+            "mail01.aphapublications.org"
+        ], 
+        "dns-ns": [
+            "ns101.literatumonline.com", 
+            "ns102.literatumonline.com", 
+            "nsa.literatumonline.com", 
+            "nsb.literatumonline.com"
+        ], 
+        "domain-name": "aphapublications.org", 
+        "fuzzer": "original*", 
+        "geoip-country": "United States", 
+        "mx-spy": true, 
+        "ssdeep-score": 100
+    }, 
+    {
+        "dns-a": [
+            "46.51.183.139"
+        ], 
+        "dns-ns": [
+            "a.ns.ns247.net", 
+            "b.ns.ns247.net", 
+            "c.ns.ns247.net", 
+            "d.ns.ns247.net"
+        ], 
+        "domain-name": "alphapublications.org", 
+        "fuzzer": "insertion", 
+        "geoip-country": "Ireland"
+    }, 
+    {
+        "dns-a": [
+            "50.63.46.1"
+        ], 
+        "dns-ns": [
+            "A.SERVICE.AFILIASDNS.INFO", 
+            "B.SERVICE.AFILIASDNS.org", 
+            "C.SERVICE.AFILIASDNS.NET", 
+            "D.SERVICE.AFILIASDNS.COM", 
+            "E.SERVICE.AFILIASDNS.INFO", 
+            "F.SERVICE.AFILIASDNS.NET"
+        ], 
+        "domain-name": "aphapublication.s.org", 
+        "fuzzer": "subdomain", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 0
+    }
+]

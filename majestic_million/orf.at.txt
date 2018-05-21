@@ -1,0 +1,752 @@
+[
+    {
+        "dns-a": [
+            "194.232.104.139", 
+            "194.232.104.140", 
+            "194.232.104.141", 
+            "194.232.104.142", 
+            "194.232.104.149", 
+            "194.232.104.150", 
+            "194.232.104.3", 
+            "194.232.104.4"
+        ], 
+        "dns-aaaa": [
+            "2a01:468:1000:9::149", 
+            "2a01:468:1000:9::150", 
+            "2a01:468:1000:9::3", 
+            "2a01:468:1000:9::4"
+        ], 
+        "dns-mx": [
+            "mx1.orf.at", 
+            "mx2.orf.at"
+        ], 
+        "dns-ns": [
+            "ns1.apa.at", 
+            "ns2.apa.at"
+        ], 
+        "domain-name": "orf.at", 
+        "fuzzer": "original*", 
+        "geoip-country": "Austria", 
+        "ssdeep-score": 100
+    }, 
+    {
+        "dns-a": [
+            "62.116.130.8"
+        ], 
+        "dns-ns": [
+            "ns1.internex.at", 
+            "ns2.internex.at", 
+            "ns3.internex.at", 
+            "ns4.internex.at"
+        ], 
+        "domain-name": "orff.at", 
+        "fuzzer": "addition", 
+        "geoip-country": "Germany", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "103.224.182.253"
+        ], 
+        "dns-mx": [
+            "park-mx.above.com"
+        ], 
+        "dns-ns": [
+            "ns1.above.com", 
+            "ns2.above.com"
+        ], 
+        "domain-name": "orfr.at", 
+        "fuzzer": "addition", 
+        "geoip-country": "Australia", 
+        "mx-spy": true, 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "72.52.179.175"
+        ], 
+        "dns-mx": [
+            "mx156.hostedmxserver.com"
+        ], 
+        "dns-ns": [
+            "ns1.parklogic.com", 
+            "ns2.parklogic.com", 
+            "ns3.parklogic.com", 
+            "ns4.parklogic.com", 
+            "ns5.parklogic.com"
+        ], 
+        "domain-name": "orft.at", 
+        "fuzzer": "addition", 
+        "geoip-country": "United States", 
+        "mx-spy": true, 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "37.59.157.8"
+        ], 
+        "dns-mx": [
+            "mail.orfv.at"
+        ], 
+        "dns-ns": [
+            "dns1.domaisy.de", 
+            "dns2.domaisy.de", 
+            "dns3.domaisy.de"
+        ], 
+        "domain-name": "orfv.at", 
+        "fuzzer": "addition", 
+        "geoip-country": "France", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "176.126.245.146", 
+            "78.47.93.107"
+        ], 
+        "dns-mx": [
+            "no.mx.example.org"
+        ], 
+        "dns-ns": [
+            "atlas.dns.domaintraffic.ch", 
+            "capella.dns.domaintraffic.ch"
+        ], 
+        "domain-name": "nrf.at", 
+        "fuzzer": "bitsquatting", 
+        "geoip-country": "United Kingdom", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-mx": [
+            "localhost"
+        ], 
+        "dns-ns": [
+            "ns1.sedoparking.com", 
+            "ns2.sedoparking.com"
+        ], 
+        "domain-name": "mrf.at", 
+        "fuzzer": "bitsquatting"
+    }, 
+    {
+        "dns-a": [
+            "81.19.145.41"
+        ], 
+        "dns-mx": [
+            "mail.krf.at"
+        ], 
+        "dns-ns": [
+            "ns1.world4you.at", 
+            "ns2.world4you.at"
+        ], 
+        "domain-name": "krf.at", 
+        "fuzzer": "bitsquatting", 
+        "geoip-country": "Austria"
+    }, 
+    {
+        "dns-a": [
+            "72.52.4.120"
+        ], 
+        "dns-mx": [
+            "localhost"
+        ], 
+        "dns-ns": [
+            "ns1.sedoparking.com", 
+            "ns2.sedoparking.com"
+        ], 
+        "domain-name": "grf.at", 
+        "fuzzer": "bitsquatting", 
+        "geoip-country": "United States", 
+        "mx-spy": true, 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "213.229.60.9"
+        ], 
+        "dns-mx": [
+            "mx.upcbusiness.at"
+        ], 
+        "dns-ns": [
+            "ns1.upc.biz", 
+            "ns2.upc.biz"
+        ], 
+        "domain-name": "osf.at", 
+        "fuzzer": "bitsquatting", 
+        "geoip-country": "Austria", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "213.132.197.18"
+        ], 
+        "dns-mx": [
+            "mailfilter.webguru.nl"
+        ], 
+        "dns-ns": [
+            "ns.domeinguru.nl", 
+            "ns1.domeinguru.nl"
+        ], 
+        "domain-name": "opf.at", 
+        "fuzzer": "bitsquatting", 
+        "geoip-country": "Netherlands", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "62.141.48.89"
+        ], 
+        "dns-mx": [
+            "mail.ovf.at"
+        ], 
+        "dns-ns": [
+            "ns.at-svr.com", 
+            "ns2.at-svr.com"
+        ], 
+        "domain-name": "ovf.at", 
+        "fuzzer": "bitsquatting", 
+        "geoip-country": "Germany", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "84.116.32.65"
+        ], 
+        "dns-mx": [
+            "mx.upcbusiness.at"
+        ], 
+        "dns-ns": [
+            "ns1.upc.biz", 
+            "ns2.upc.biz"
+        ], 
+        "domain-name": "obf.at", 
+        "fuzzer": "bitsquatting", 
+        "geoip-country": "Europe", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "86.59.23.150"
+        ], 
+        "dns-ns": [
+            "ns3ext.univie.ac.at", 
+            "ns4ext.univie.ac.at"
+        ], 
+        "domain-name": "org.at", 
+        "fuzzer": "bitsquatting", 
+        "geoip-country": "Austria", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "72.52.4.122"
+        ], 
+        "dns-mx": [
+            "localhost"
+        ], 
+        "dns-ns": [
+            "ns1.sedoparking.com", 
+            "ns2.sedoparking.com"
+        ], 
+        "domain-name": "ord.at", 
+        "fuzzer": "bitsquatting", 
+        "geoip-country": "United States", 
+        "mx-spy": true, 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "80.108.52.234"
+        ], 
+        "dns-mx": [
+            "mx01.easyname.eu", 
+            "mx02.easyname.eu"
+        ], 
+        "dns-ns": [
+            "ns1.easyname.eu", 
+            "ns2.easyname.eu"
+        ], 
+        "domain-name": "orb.at", 
+        "fuzzer": "bitsquatting", 
+        "geoip-country": "Austria", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "88.198.231.1"
+        ], 
+        "dns-mx": [
+            "mail.b-io.co"
+        ], 
+        "domain-name": "orn.at", 
+        "fuzzer": "bitsquatting", 
+        "geoip-country": "Germany", 
+        "mx-spy": true, 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "94.247.150.111"
+        ], 
+        "dns-aaaa": [
+            "2a02:fc8:1:1::1:c11"
+        ], 
+        "dns-mx": [
+            "mail.orv.at"
+        ], 
+        "dns-ns": [
+            "ns1.aboliton.at", 
+            "ns2.aboliton.at", 
+            "ns5.aboliton.at"
+        ], 
+        "domain-name": "orv.at", 
+        "fuzzer": "bitsquatting", 
+        "geoip-country": "Austria", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "46.4.33.74"
+        ], 
+        "dns-ns": [
+            "ns.second-ns.com", 
+            "ns1.your-server.de", 
+            "ns3.second-ns.de"
+        ], 
+        "domain-name": "0rf.at", 
+        "fuzzer": "homoglyph", 
+        "geoip-country": "Germany", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "178.63.65.60"
+        ], 
+        "dns-mx": [
+            "mail.xn--rf-eka.at"
+        ], 
+        "dns-ns": [
+            "ns1.first-ns.de", 
+            "robotns2.second-ns.de", 
+            "robotns3.second-ns.com"
+        ], 
+        "domain-name": "xn--rf-eka.at", 
+        "fuzzer": "homoglyph", 
+        "geoip-country": "Germany", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "103.224.182.250"
+        ], 
+        "dns-mx": [
+            "park-mx.above.com"
+        ], 
+        "dns-ns": [
+            "ns3.above.com", 
+            "ns4.above.com"
+        ], 
+        "domain-name": "ordf.at", 
+        "fuzzer": "insertion", 
+        "geoip-country": "Australia", 
+        "mx-spy": true, 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "72.52.179.174"
+        ], 
+        "dns-mx": [
+            "mx156.hostedmxserver.com"
+        ], 
+        "dns-ns": [
+            "ns1.parklogic.com", 
+            "ns2.parklogic.com", 
+            "ns3.parklogic.com", 
+            "ns4.parklogic.com", 
+            "ns5.parklogic.com"
+        ], 
+        "domain-name": "oref.at", 
+        "fuzzer": "insertion", 
+        "geoip-country": "United States", 
+        "mx-spy": true, 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "103.224.182.253"
+        ], 
+        "dns-mx": [
+            "park-mx.above.com"
+        ], 
+        "dns-ns": [
+            "ns1.above.com", 
+            "ns2.above.com"
+        ], 
+        "domain-name": "oerf.at", 
+        "fuzzer": "insertion", 
+        "geoip-country": "Australia", 
+        "mx-spy": true, 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "72.52.4.122"
+        ], 
+        "dns-mx": [
+            "localhost"
+        ], 
+        "dns-ns": [
+            "ns1.sedoparking.com", 
+            "ns2.sedoparking.com"
+        ], 
+        "domain-name": "of.at", 
+        "fuzzer": "omission", 
+        "geoip-country": "United States", 
+        "mx-spy": true, 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "72.52.4.119"
+        ], 
+        "dns-mx": [
+            "localhost"
+        ], 
+        "dns-ns": [
+            "ns1.sedoparking.com", 
+            "ns2.sedoparking.com"
+        ], 
+        "domain-name": "rf.at", 
+        "fuzzer": "omission", 
+        "geoip-country": "United States", 
+        "mx-spy": true, 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "62.116.130.8"
+        ], 
+        "dns-ns": [
+            "ns1.internex.at", 
+            "ns2.internex.at", 
+            "ns3.internex.at", 
+            "ns4.internex.at"
+        ], 
+        "domain-name": "oorf.at", 
+        "fuzzer": "repetition", 
+        "geoip-country": "Germany", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "185.53.177.20"
+        ], 
+        "dns-mx": [
+            "mail.orrf.at"
+        ], 
+        "dns-ns": [
+            "dns1.realtime.at", 
+            "dns2.realtime.at"
+        ], 
+        "domain-name": "orrf.at", 
+        "fuzzer": "repetition", 
+        "geoip-country": "Germany", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "5.9.40.102"
+        ], 
+        "dns-mx": [
+            "mail.off.at"
+        ], 
+        "dns-ns": [
+            "a.domain-servers.de", 
+            "b.domain-servers.de", 
+            "c.domain-servers.de", 
+            "d.domain-servers.de"
+        ], 
+        "domain-name": "off.at", 
+        "fuzzer": "replacement", 
+        "geoip-country": "Germany", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "72.52.4.122"
+        ], 
+        "dns-mx": [
+            "localhost"
+        ], 
+        "dns-ns": [
+            "ns1.sedoparking.com", 
+            "ns2.sedoparking.com"
+        ], 
+        "domain-name": "lrf.at", 
+        "fuzzer": "replacement", 
+        "geoip-country": "United States", 
+        "mx-spy": true, 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "91.195.240.54"
+        ], 
+        "dns-ns": [
+            "ns1.domain.at", 
+            "ns2.domain.at"
+        ], 
+        "domain-name": "ort.at", 
+        "fuzzer": "replacement", 
+        "geoip-country": "Germany", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "5.254.184.149"
+        ], 
+        "dns-mx": [
+            "mail.huemer-it.com", 
+            "zarafa.hdc.pw"
+        ], 
+        "dns-ns": [
+            "firefly.zos.at", 
+            "ns1.huemer-dc.com", 
+            "ns2.huemer-dc.com"
+        ], 
+        "domain-name": "o4f.at", 
+        "fuzzer": "replacement"
+    }, 
+    {
+        "dns-a": [
+            "185.53.179.8"
+        ], 
+        "dns-ns": [
+            "ns1.parkingcrew.net", 
+            "ns2.parkingcrew.net"
+        ], 
+        "domain-name": "orr.at", 
+        "fuzzer": "replacement", 
+        "geoip-country": "Germany", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "5.254.184.149"
+        ], 
+        "dns-mx": [
+            "mail.huemer-it.com", 
+            "zarafa.hdc.pw"
+        ], 
+        "dns-ns": [
+            "firefly.zos.at", 
+            "ns1.huemer-dc.com", 
+            "ns2.huemer-dc.com"
+        ], 
+        "domain-name": "o5f.at", 
+        "fuzzer": "replacement"
+    }, 
+    {
+        "dns-a": [
+            "72.52.4.122"
+        ], 
+        "dns-mx": [
+            "localhost"
+        ], 
+        "dns-ns": [
+            "ns1.sedoparking.com", 
+            "ns2.sedoparking.com"
+        ], 
+        "domain-name": "orc.at", 
+        "fuzzer": "replacement", 
+        "geoip-country": "United States", 
+        "mx-spy": true, 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "185.53.179.7"
+        ], 
+        "dns-mx": [
+            "mail.h-email.net"
+        ], 
+        "dns-ns": [
+            "ns1.parkingcrew.net", 
+            "ns2.parkingcrew.net"
+        ], 
+        "domain-name": "prf.at", 
+        "fuzzer": "replacement", 
+        "geoip-country": "Germany", 
+        "mx-spy": true, 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "72.52.4.122"
+        ], 
+        "dns-mx": [
+            "localhost"
+        ], 
+        "dns-ns": [
+            "ns1.sedoparking.com", 
+            "ns2.sedoparking.com"
+        ], 
+        "domain-name": "otf.at", 
+        "fuzzer": "replacement", 
+        "geoip-country": "United States", 
+        "mx-spy": true, 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "185.93.212.4"
+        ], 
+        "dns-mx": [
+            "mail.odf.at"
+        ], 
+        "dns-ns": [
+            "ns7.cso.net", 
+            "ns8.cso.net"
+        ], 
+        "domain-name": "odf.at", 
+        "fuzzer": "replacement", 
+        "geoip-country": "Austria"
+    }, 
+    {
+        "dns-a": [
+            "185.53.179.6"
+        ], 
+        "dns-mx": [
+            "mail.h-email.net"
+        ], 
+        "dns-ns": [
+            "ns1.parkingcrew.net", 
+            "ns2.parkingcrew.net"
+        ], 
+        "domain-name": "oef.at", 
+        "fuzzer": "replacement", 
+        "geoip-country": "Germany", 
+        "mx-spy": true, 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "72.52.4.121"
+        ], 
+        "dns-mx": [
+            "localhost"
+        ], 
+        "dns-ns": [
+            "ns1.sedoparking.com", 
+            "ns2.sedoparking.com"
+        ], 
+        "domain-name": "irf.at", 
+        "fuzzer": "replacement", 
+        "geoip-country": "United States", 
+        "mx-spy": true, 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "72.52.4.119"
+        ], 
+        "dns-mx": [
+            "localhost"
+        ], 
+        "dns-ns": [
+            "ns1.sedoparking.com", 
+            "ns2.sedoparking.com"
+        ], 
+        "domain-name": "o.rf.at", 
+        "fuzzer": "subdomain", 
+        "geoip-country": "United States", 
+        "mx-spy": true, 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "91.227.205.10"
+        ], 
+        "dns-mx": [
+            "mail.rof.at"
+        ], 
+        "dns-ns": [
+            "ns1.edis.at", 
+            "ns2.edis.at", 
+            "ns5.edis.at", 
+            "ns6.edis.at"
+        ], 
+        "domain-name": "rof.at", 
+        "fuzzer": "transposition", 
+        "geoip-country": "Austria", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "62.113.230.106"
+        ], 
+        "dns-aaaa": [
+            "2a00:f48:1008::230:106:10"
+        ], 
+        "dns-mx": [
+            "mail-de.maxcluster.net"
+        ], 
+        "dns-ns": [
+            "nameserver-1-de.maxcluster.net", 
+            "nameserver-2-de.maxcluster.net"
+        ], 
+        "domain-name": "ofr.at", 
+        "fuzzer": "transposition", 
+        "geoip-country": "Germany", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "176.9.50.137"
+        ], 
+        "dns-mx": [
+            "mail.urf.at"
+        ], 
+        "dns-ns": [
+            "ns1.first-ns.de", 
+            "robotns2.second-ns.de", 
+            "robotns3.second-ns.com"
+        ], 
+        "domain-name": "urf.at", 
+        "fuzzer": "vowel-swap", 
+        "geoip-country": "Germany", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "46.252.18.132"
+        ], 
+        "dns-mx": [
+            "ALT1.ASPMX.L.GOOGLE.COM", 
+            "ALT2.ASPMX.L.GOOGLE.COM", 
+            "ASPMX.L.GOOGLE.COM", 
+            "ASPMX2.GOOGLEMAIL.COM", 
+            "ASPMX3.GOOGLEMAIL.COM"
+        ], 
+        "dns-ns": [
+            "ns1.easyname.eu", 
+            "ns2.easyname.eu"
+        ], 
+        "domain-name": "erf.at", 
+        "fuzzer": "vowel-swap", 
+        "geoip-country": "Germany"
+    }, 
+    {
+        "dns-a": [
+            "195.206.98.63"
+        ], 
+        "dns-mx": [
+            "mail.arf.at"
+        ], 
+        "dns-ns": [
+            "ns1.easyserver.at", 
+            "ns2.easyserver.at"
+        ], 
+        "domain-name": "arf.at", 
+        "fuzzer": "vowel-swap"
+    }
+]

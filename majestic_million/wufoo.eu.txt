@@ -1,0 +1,63 @@
+[
+    {
+        "dns-a": [
+            "75.98.93.79"
+        ], 
+        "dns-ns": [
+            "ns1.p22.dynect.net", 
+            "ns2.p22.dynect.net", 
+            "ns3.p22.dynect.net", 
+            "ns4.p22.dynect.net"
+        ], 
+        "domain-name": "wufoo.eu", 
+        "fuzzer": "original*", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 97
+    }, 
+    {
+        "dns-mx": [
+            "mailext.1office.it"
+        ], 
+        "dns-ns": [
+            "dns.technorail.com", 
+            "dns2.technorail.com", 
+            "dns3.arubadns.net", 
+            "dns4.arubadns.cz"
+        ], 
+        "domain-name": "wyfoo.eu", 
+        "fuzzer": "replacement"
+    }, 
+    {
+        "dns-a": [
+            "52.59.167.84"
+        ], 
+        "dns-ns": [
+            "ns1-eu.123ns.eu", 
+            "ns2-eu.123ns.de", 
+            "ns3-eu.123ns.eu", 
+            "ns4-eu.123ns.de"
+        ], 
+        "domain-name": "wifoo.eu", 
+        "fuzzer": "replacement", 
+        "geoip-country": "Germany", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "199.59.242.150"
+        ], 
+        "domain-name": "wuf.oo.eu", 
+        "fuzzer": "subdomain", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-ns": [
+            "ns1.odiso.net", 
+            "ns2.odiso.net", 
+            "ns3.odiso.net"
+        ], 
+        "domain-name": "wofoo.eu", 
+        "fuzzer": "vowel-swap"
+    }
+]

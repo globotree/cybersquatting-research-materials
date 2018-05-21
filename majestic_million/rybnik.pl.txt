@@ -1,0 +1,38 @@
+[
+    {
+        "dns-ns": [
+            "a-dns.pl", 
+            "b-dns.pl", 
+            "e-dns.pl", 
+            "f-dns.pl", 
+            "i-dns.pl"
+        ], 
+        "domain-name": "rybnik.pl", 
+        "fuzzer": "original*"
+    }, 
+    {
+        "dns-a": [
+            "188.165.136.242"
+        ], 
+        "dns-mx": [
+            "rybnika.pl"
+        ], 
+        "dns-ns": [
+            "ns1.of.pl", 
+            "ns2.of.pl", 
+            "ns3.of.pl", 
+            "ns4.of.pl"
+        ], 
+        "domain-name": "rybnika.pl", 
+        "fuzzer": "addition", 
+        "geoip-country": "Finland"
+    }, 
+    {
+        "dns-a": [
+            "137.74.225.194"
+        ], 
+        "domain-name": "rybn.ik.pl", 
+        "fuzzer": "subdomain", 
+        "geoip-country": "France"
+    }
+]

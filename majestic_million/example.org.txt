@@ -1,0 +1,230 @@
+[
+    {
+        "dns-a": [
+            "93.184.216.34"
+        ], 
+        "dns-aaaa": [
+            "2606:2800:220:1:248:1893:25c8:1946"
+        ], 
+        "dns-ns": [
+            "a.iana-servers.net", 
+            "b.iana-servers.net"
+        ], 
+        "domain-name": "example.org", 
+        "fuzzer": "original*", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 100
+    }, 
+    {
+        "dns-a": [
+            "122.128.105.100"
+        ], 
+        "dns-ns": [
+            "dns1.name-services.com", 
+            "dns2.name-services.com", 
+            "dns3.name-services.com", 
+            "dns4.name-services.com", 
+            "dns5.name-services.com"
+        ], 
+        "domain-name": "examplet.org", 
+        "fuzzer": "addition", 
+        "geoip-country": "Hong Kong", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "72.52.4.119"
+        ], 
+        "dns-mx": [
+            "localhost"
+        ], 
+        "dns-ns": [
+            "ns1.sedoparking.com", 
+            "ns2.sedoparking.com"
+        ], 
+        "domain-name": "exemple.org", 
+        "fuzzer": "bitsquatting", 
+        "geoip-country": "United States", 
+        "mx-spy": true, 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "107.164.153.181"
+        ], 
+        "dns-ns": [
+            "v1s1.xundns.com", 
+            "v1s2.xundns.com"
+        ], 
+        "domain-name": "eximple.org", 
+        "fuzzer": "bitsquatting", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "212.227.20.93"
+        ], 
+        "dns-mx": [
+            "mx.torpig-sinkhole.org", 
+            "mx1.torpig-sinkhole.org", 
+            "mx2.torpig-sinkhole.org"
+        ], 
+        "dns-ns": [
+            "ns1.torpig-sinkhole.org", 
+            "ns2.torpig-sinkhole.org"
+        ], 
+        "domain-name": "exanple.org", 
+        "fuzzer": "homoglyph", 
+        "geoip-country": "Germany", 
+        "mx-spy": true
+    }, 
+    {
+        "dns-a": [
+            "45.79.105.33"
+        ], 
+        "dns-aaaa": [
+            "2600:3c01::f03c:91ff:fe37:1c9f"
+        ], 
+        "dns-ns": [
+            "q.secondary2.com", 
+            "r.secondary2.com"
+        ], 
+        "domain-name": "xn--xample-9ua.org", 
+        "fuzzer": "homoglyph", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "47.52.7.223"
+        ], 
+        "dns-ns": [
+            "ns-cloud-c1.googledomains.com", 
+            "ns-cloud-c2.googledomains.com", 
+            "ns-cloud-c3.googledomains.com", 
+            "ns-cloud-c4.googledomains.com"
+        ], 
+        "domain-name": "examp1e.org", 
+        "fuzzer": "homoglyph", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "80.67.28.197"
+        ], 
+        "dns-aaaa": [
+            "2a00:1158:1000:300::3c5"
+        ], 
+        "dns-mx": [
+            "mxlb.ispgateway.de"
+        ], 
+        "dns-ns": [
+            "ns.namespace4you.de", 
+            "ns2.namespace4you.de"
+        ], 
+        "domain-name": "exsample.org", 
+        "fuzzer": "insertion", 
+        "geoip-country": "Germany", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-ns": [
+            "ns.inwx.de", 
+            "ns2.inwx.de", 
+            "ns3.inwx.eu", 
+            "ns4.inwx.com", 
+            "ns5.inwx.net"
+        ], 
+        "domain-name": "exaple.org", 
+        "fuzzer": "omission"
+    }, 
+    {
+        "dns-a": [
+            "69.172.201.153"
+        ], 
+        "dns-ns": [
+            "ns1.uniregistrymarket.link", 
+            "ns2.uniregistrymarket.link"
+        ], 
+        "domain-name": "xample.org", 
+        "fuzzer": "omission", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "69.172.201.153"
+        ], 
+        "dns-ns": [
+            "ns1.uniregistrymarket.link", 
+            "ns2.uniregistrymarket.link"
+        ], 
+        "domain-name": "e.xample.org", 
+        "fuzzer": "subdomain", 
+        "geoip-country": "United States"
+    }, 
+    {
+        "dns-a": [
+            "69.172.201.153"
+        ], 
+        "dns-ns": [
+            "ns1.uniregistrymarket.link", 
+            "ns2.uniregistrymarket.link"
+        ], 
+        "domain-name": "ex.ample.org", 
+        "fuzzer": "subdomain", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "72.52.4.122"
+        ], 
+        "dns-mx": [
+            "localhost"
+        ], 
+        "dns-ns": [
+            "ns1.sedoparking.com", 
+            "ns2.sedoparking.com"
+        ], 
+        "domain-name": "exa.mple.org", 
+        "fuzzer": "subdomain", 
+        "geoip-country": "United States", 
+        "mx-spy": true, 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "52.70.116.201"
+        ], 
+        "domain-name": "examp.le.org", 
+        "fuzzer": "subdomain", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "217.194.213.243"
+        ], 
+        "domain-name": "exampl.e.org", 
+        "fuzzer": "subdomain", 
+        "geoip-country": "United Kingdom", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "202.214.156.2"
+        ], 
+        "dns-mx": [
+            "exmaple.org"
+        ], 
+        "dns-ns": [
+            "ns01.f005jp3264.info", 
+            "ns02.f005jp3264.info"
+        ], 
+        "domain-name": "exmaple.org", 
+        "fuzzer": "transposition"
+    }
+]

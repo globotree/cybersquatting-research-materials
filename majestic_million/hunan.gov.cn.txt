@@ -1,0 +1,63 @@
+[
+    {
+        "dns-ns": [
+            "dns1.hunan.gov.cn"
+        ], 
+        "domain-name": "hunan.gov.cn", 
+        "fuzzer": "original*"
+    }, 
+    {
+        "dns-a": [
+            "112.233.243.251"
+        ], 
+        "dns-ns": [
+            "dns1.hichina.com", 
+            "dns2.hichina.com"
+        ], 
+        "domain-name": "junan.gov.cn", 
+        "fuzzer": "bitsquatting", 
+        "geoip-country": "China"
+    }, 
+    {
+        "dns-a": [
+            "125.46.11.2"
+        ], 
+        "dns-ns": [
+            "ns.halyptt.net.cn", 
+            "ns.hazzptt.net.cn"
+        ], 
+        "domain-name": "henan.gov.cn", 
+        "fuzzer": "bitsquatting", 
+        "geoip-country": "China"
+    }, 
+    {
+        "dns-a": [
+            "61.158.45.162"
+        ], 
+        "dns-mx": [
+            "61.158.45.162"
+        ], 
+        "dns-ns": [
+            "ns1.sfn.cn", 
+            "ns2.sfn.cn"
+        ], 
+        "domain-name": "hulan.gov.cn", 
+        "fuzzer": "bitsquatting", 
+        "geoip-country": "China"
+    }, 
+    {
+        "dns-ns": [
+            "ns11.xincache.com", 
+            "ns12.xincache.com"
+        ], 
+        "domain-name": "hunnan.gov.cn", 
+        "fuzzer": "repetition"
+    }, 
+    {
+        "dns-ns": [
+            "dns-a411dc84927"
+        ], 
+        "domain-name": "yunan.gov.cn", 
+        "fuzzer": "replacement"
+    }
+]

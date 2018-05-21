@@ -1,0 +1,23 @@
+[
+    {
+        "dns-a": [
+            "132.234.243.22"
+        ], 
+        "dns-mx": [
+            "au-smtp-inbound-1.mimecast.com", 
+            "au-smtp-inbound-2.mimecast.com"
+        ], 
+        "dns-ns": [
+            "dns-pri.griffith.edu.au", 
+            "dns-sec.griffith.edu.au", 
+            "dns1.griffith.edu.au", 
+            "dns3.griffith.edu.au", 
+            "po-dns.griffith.edu.au"
+        ], 
+        "domain-name": "griffith.edu.au", 
+        "fuzzer": "original*", 
+        "geoip-country": "Australia", 
+        "mx-spy": true, 
+        "ssdeep-score": 100
+    }
+]

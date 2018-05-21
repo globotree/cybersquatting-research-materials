@@ -1,0 +1,50 @@
+[
+    {
+        "dns-a": [
+            "188.165.33.10"
+        ], 
+        "dns-mx": [
+            "gwsmtp1.cnac-gp.fr", 
+            "gwsmtp2.cnac-gp.fr"
+        ], 
+        "dns-ns": [
+            "maelzel.ircam.fr", 
+            "nadia.ircam.fr", 
+            "piston.ecp.fr"
+        ], 
+        "domain-name": "centrepompidou.fr", 
+        "fuzzer": "original*", 
+        "geoip-country": "France", 
+        "ssdeep-score": 100
+    }, 
+    {
+        "dns-mx": [
+            "mx3.nameshield.com", 
+            "mx4.nameshield.net"
+        ], 
+        "dns-ns": [
+            "ns2.observatoiredesmarques.fr", 
+            "ns3.nameshield.net", 
+            "obs.ns1.fr"
+        ], 
+        "domain-name": "centre-pompidou.fr", 
+        "fuzzer": "hyphenation"
+    }, 
+    {
+        "dns-a": [
+            "72.52.4.119"
+        ], 
+        "dns-mx": [
+            "localhost"
+        ], 
+        "dns-ns": [
+            "ns1.sedoparking.com", 
+            "ns2.sedoparking.com"
+        ], 
+        "domain-name": "centrepompi.dou.fr", 
+        "fuzzer": "subdomain", 
+        "geoip-country": "United States", 
+        "mx-spy": true, 
+        "ssdeep-score": 0
+    }
+]

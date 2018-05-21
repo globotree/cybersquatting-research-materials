@@ -1,0 +1,39 @@
+[
+    {
+        "dns-a": [
+            "195.88.84.72"
+        ], 
+        "dns-mx": [
+            "mx-pri.toile-libre.org", 
+            "mx-sec.toile-libre.org"
+        ], 
+        "dns-ns": [
+            "noc.toile-libre.net", 
+            "ns.gitoyen.net", 
+            "wallis.cursys.net"
+        ], 
+        "domain-name": "toile-libre.org", 
+        "fuzzer": "original*", 
+        "geoip-country": "France"
+    }, 
+    {
+        "dns-a": [
+            "69.172.201.153"
+        ], 
+        "dns-ns": [
+            "ns1.uniregistrymarket.link", 
+            "ns2.uniregistrymarket.link"
+        ], 
+        "domain-name": "toile-li.bre.org", 
+        "fuzzer": "subdomain", 
+        "geoip-country": "United States"
+    }, 
+    {
+        "dns-a": [
+            "217.194.213.243"
+        ], 
+        "domain-name": "toile-libr.e.org", 
+        "fuzzer": "subdomain", 
+        "geoip-country": "United Kingdom"
+    }
+]

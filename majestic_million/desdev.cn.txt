@@ -1,0 +1,66 @@
+[
+    {
+        "dns-a": [
+            "118.126.10.60"
+        ], 
+        "dns-mx": [
+            "mxbiz1.qq.com", 
+            "mxbiz2.qq.com"
+        ], 
+        "domain-name": "desdev.cn", 
+        "fuzzer": "original*", 
+        "geoip-country": "China"
+    }, 
+    {
+        "dns-a": [
+            "50.117.120.251"
+        ], 
+        "dns-mx": [
+            "mail.happyisp.com"
+        ], 
+        "domain-name": "desdet.cn", 
+        "fuzzer": "bitsquatting", 
+        "geoip-country": "United States", 
+        "mx-spy": true
+    }, 
+    {
+        "dns-a": [
+            "45.42.86.227"
+        ], 
+        "dns-ns": [
+            "ns2.dnsdun.com", 
+            "ns2.dnsdun.net"
+        ], 
+        "domain-name": "desde.cn", 
+        "fuzzer": "omission", 
+        "geoip-country": "United States"
+    }, 
+    {
+        "dns-ns": [
+            "ns1.myhostadmin.net", 
+            "ns2.myhostadmin.net", 
+            "ns3.myhostadmin.net", 
+            "ns4.myhostadmin.net", 
+            "ns5.myhostadmin.net", 
+            "ns6.myhostadmin.net"
+        ], 
+        "domain-name": "dedev.cn", 
+        "fuzzer": "omission"
+    }, 
+    {
+        "dns-a": [
+            "47.89.58.32"
+        ], 
+        "domain-name": "de.sdev.cn", 
+        "fuzzer": "subdomain", 
+        "geoip-country": "United States"
+    }, 
+    {
+        "dns-a": [
+            "182.50.147.155"
+        ], 
+        "domain-name": "desd.ev.cn", 
+        "fuzzer": "subdomain", 
+        "geoip-country": "Singapore"
+    }
+]

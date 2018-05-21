@@ -1,0 +1,50 @@
+[
+    {
+        "dns-a": [
+            "104.20.116.21", 
+            "104.20.117.21"
+        ], 
+        "dns-mx": [
+            "post.chathamhouse.org"
+        ], 
+        "dns-ns": [
+            "apollo.ns.cloudflare.com", 
+            "lady.ns.cloudflare.com"
+        ], 
+        "domain-name": "chathamhouse.org", 
+        "fuzzer": "original*", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 99
+    }, 
+    {
+        "dns-a": [
+            "193.227.245.72"
+        ], 
+        "dns-ns": [
+            "ns1.systemdns.com", 
+            "ns2.systemdns.com", 
+            "ns3.systemdns.com"
+        ], 
+        "domain-name": "chatham-house.org", 
+        "fuzzer": "hyphenation", 
+        "geoip-country": "United Kingdom"
+    }, 
+    {
+        "dns-a": [
+            "207.148.248.143"
+        ], 
+        "domain-name": "chathamh.ouse.org", 
+        "fuzzer": "subdomain", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "217.194.213.243"
+        ], 
+        "domain-name": "chathamhous.e.org", 
+        "fuzzer": "subdomain", 
+        "geoip-country": "United Kingdom", 
+        "ssdeep-score": 0
+    }
+]

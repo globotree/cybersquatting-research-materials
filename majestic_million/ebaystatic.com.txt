@@ -1,0 +1,66 @@
+[
+    {
+        "dns-mx": [
+            "data.ebay.com", 
+            "gort.ebay.com", 
+            "lore.ebay.com"
+        ], 
+        "dns-ns": [
+            "a1.verisigndns.com", 
+            "a2.verisigndns.com", 
+            "a3.verisigndns.com", 
+            "ns1.p47.dynect.net", 
+            "ns2.p47.dynect.net", 
+            "ns3.p47.dynect.net", 
+            "ns4.p47.dynect.net"
+        ], 
+        "domain-name": "ebaystatic.com", 
+        "fuzzer": "original*"
+    }, 
+    {
+        "dns-a": [
+            "185.53.177.31"
+        ], 
+        "dns-ns": [
+            "ns1.protectdelegation.ca", 
+            "ns2.protectdelegation.com", 
+            "ns3.protectdelegation.eu"
+        ], 
+        "domain-name": "mbaystatic.com", 
+        "fuzzer": "bitsquatting", 
+        "geoip-country": "Germany"
+    }, 
+    {
+        "dns-a": [
+            "52.86.22.136", 
+            "54.174.212.152"
+        ], 
+        "dns-ns": [
+            "ns1.namebrightdns.com", 
+            "ns2.namebrightdns.com"
+        ], 
+        "domain-name": "eba.ystatic.com", 
+        "fuzzer": "subdomain", 
+        "geoip-country": "United States"
+    }, 
+    {
+        "dns-a": [
+            "69.172.201.153"
+        ], 
+        "dns-mx": [
+            "mail.b-io.co"
+        ], 
+        "domain-name": "ebays.tatic.com", 
+        "fuzzer": "subdomain", 
+        "geoip-country": "United States", 
+        "mx-spy": true
+    }, 
+    {
+        "dns-a": [
+            "75.126.101.240"
+        ], 
+        "domain-name": "ebaystat.ic.com", 
+        "fuzzer": "subdomain", 
+        "geoip-country": "United States"
+    }
+]

@@ -1,0 +1,75 @@
+[
+    {
+        "dns-a": [
+            "185.177.44.53"
+        ], 
+        "dns-mx": [
+            "mail.deltaenergies.com"
+        ], 
+        "dns-ns": [
+            "DNS2.HAISOFT.NET", 
+            "DS246.HAISOFT.NET"
+        ], 
+        "domain-name": "deltaenergies.com", 
+        "fuzzer": "original*", 
+        "ssdeep-score": 99
+    }, 
+    {
+        "dns-a": [
+            "37.59.194.198"
+        ], 
+        "dns-ns": [
+            "ns-canada.topdns.com", 
+            "ns-uk.topdns.com", 
+            "ns-usa.topdns.com"
+        ], 
+        "domain-name": "delta-energies.com", 
+        "fuzzer": "hyphenation", 
+        "geoip-country": "France", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-mx": [
+            "mail.zeelandnet.nl", 
+            "mailbackup.zeelandnet.nl"
+        ], 
+        "dns-ns": [
+            "ns.zeelandnet.nl", 
+            "ns2.zeelandnet.nl"
+        ], 
+        "domain-name": "deltaenergie.com", 
+        "fuzzer": "omission"
+    }, 
+    {
+        "dns-a": [
+            "91.195.240.135"
+        ], 
+        "domain-name": "delta.energies.com", 
+        "fuzzer": "subdomain", 
+        "geoip-country": "Germany", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "144.76.0.242", 
+            "144.76.1.130"
+        ], 
+        "domain-name": "deltae.nergies.com", 
+        "fuzzer": "subdomain", 
+        "geoip-country": "Germany", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "69.172.201.153"
+        ], 
+        "dns-ns": [
+            "ns1.uniregistrymarket.link", 
+            "ns2.uniregistrymarket.link"
+        ], 
+        "domain-name": "deltaene.rgies.com", 
+        "fuzzer": "subdomain", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 0
+    }
+]

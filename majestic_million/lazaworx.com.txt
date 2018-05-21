@@ -1,0 +1,60 @@
+[
+    {
+        "dns-a": [
+            "74.50.21.249"
+        ], 
+        "dns-mx": [
+            "lazaworx.com"
+        ], 
+        "dns-ns": [
+            "ns1.lunarservers.com", 
+            "ns2.lunarservers.com"
+        ], 
+        "domain-name": "lazaworx.com", 
+        "fuzzer": "original*", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 100
+    }, 
+    {
+        "dns-a": [
+            "212.11.196.191"
+        ], 
+        "dns-mx": [
+            "mail.lazaword.com"
+        ], 
+        "dns-ns": [
+            "ns11.inet.sy", 
+            "ns12.inet.sy"
+        ], 
+        "domain-name": "lazaword.com", 
+        "fuzzer": "replacement", 
+        "geoip-country": "Syrian Arab Republic", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-ns": [
+            "ns-cloud-b1.googledomains.com", 
+            "ns-cloud-b2.googledomains.com", 
+            "ns-cloud-b3.googledomains.com", 
+            "ns-cloud-b4.googledomains.com"
+        ], 
+        "domain-name": "lazyworx.com", 
+        "fuzzer": "replacement"
+    }, 
+    {
+        "dns-a": [
+            "204.246.35.169"
+        ], 
+        "domain-name": "laz.aworx.com", 
+        "fuzzer": "subdomain", 
+        "geoip-country": "United States"
+    }, 
+    {
+        "dns-a": [
+            "72.149.253.120"
+        ], 
+        "domain-name": "lazaw.orx.com", 
+        "fuzzer": "subdomain", 
+        "geoip-country": "United States"
+    }
+]

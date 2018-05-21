@@ -1,0 +1,158 @@
+[
+    {
+        "dns-a": [
+            "217.160.6.36"
+        ], 
+        "dns-mx": [
+            "mx00.1and1.fr", 
+            "mx01.1and1.fr"
+        ], 
+        "dns-ns": [
+            "ns1093.ui-dns.biz", 
+            "ns1093.ui-dns.com", 
+            "ns1093.ui-dns.de", 
+            "ns1093.ui-dns.org"
+        ], 
+        "domain-name": "lesrosiers.com", 
+        "fuzzer": "original*", 
+        "geoip-country": "Germany"
+    }, 
+    {
+        "dns-a": [
+            "213.186.33.5"
+        ], 
+        "dns-mx": [
+            "redirect.ovh.net"
+        ], 
+        "dns-ns": [
+            "dns101.ovh.net", 
+            "ns101.ovh.net"
+        ], 
+        "domain-name": "mesrosiers.com", 
+        "fuzzer": "bitsquatting", 
+        "geoip-country": "France"
+    }, 
+    {
+        "dns-a": [
+            "64.99.80.121"
+        ], 
+        "dns-mx": [
+            "mx.netidentity.com.cust.hostedemail.com", 
+            "mx.netidentity.com.cust.hostedemail.com"
+        ], 
+        "dns-ns": [
+            "ns1.mailbank.com", 
+            "ns1.mdnsservice.com", 
+            "ns2.mailbank.com", 
+            "ns2.mdnsservice.com", 
+            "ns3.mdnsservice.com"
+        ], 
+        "domain-name": "desrosiers.com", 
+        "fuzzer": "bitsquatting", 
+        "geoip-country": "Canada"
+    }, 
+    {
+        "dns-a": [
+            "94.126.40.48"
+        ], 
+        "dns-mx": [
+            "mx0.lcn.com", 
+            "mx1.lcn.com"
+        ], 
+        "dns-ns": [
+            "ns0.lcn.com", 
+            "ns1.lcn.com"
+        ], 
+        "domain-name": "les-rosiers.com", 
+        "fuzzer": "hyphenation", 
+        "geoip-country": "United Kingdom"
+    }, 
+    {
+        "dns-a": [
+            "198.49.23.145"
+        ], 
+        "dns-mx": [
+            "alt1.aspmx.l.google.com", 
+            "alt2.aspmx.l.google.com", 
+            "aspmx.l.google.com", 
+            "aspmx2.googlemail.com", 
+            "aspmx3.googlemail.com"
+        ], 
+        "dns-ns": [
+            "dns1.p01.nsone.net", 
+            "dns2.p01.nsone.net", 
+            "dns3.p01.nsone.net", 
+            "dns4.p01.nsone.net"
+        ], 
+        "domain-name": "ldesrosiers.com", 
+        "fuzzer": "insertion", 
+        "geoip-country": "United States"
+    }, 
+    {
+        "dns-a": [
+            "88.208.252.150"
+        ], 
+        "dns-mx": [
+            "mailserver.lesrosieres.com"
+        ], 
+        "dns-ns": [
+            "ns1.livedns.co.uk", 
+            "ns2.livedns.co.uk", 
+            "ns3.livedns.co.uk"
+        ], 
+        "domain-name": "lesrosieres.com", 
+        "fuzzer": "insertion", 
+        "geoip-country": "United Kingdom"
+    }, 
+    {
+        "dns-mx": [
+            "smtpmx.myorangeoffice.com"
+        ], 
+        "dns-ns": [
+            "nsmpro1.nordnet.com", 
+            "nsmpro2.nordnet.com"
+        ], 
+        "domain-name": "lesroziers.com", 
+        "fuzzer": "replacement"
+    }, 
+    {
+        "dns-a": [
+            "52.73.124.185", 
+            "54.164.198.60"
+        ], 
+        "dns-ns": [
+            "ns1.namebrightdns.com", 
+            "ns2.namebrightdns.com"
+        ], 
+        "domain-name": "lesrosiere.com", 
+        "fuzzer": "replacement", 
+        "geoip-country": "United States"
+    }, 
+    {
+        "dns-mx": [
+            "mail.h-email.net"
+        ], 
+        "dns-ns": [
+            "ns1.parkingcrew.net", 
+            "ns2.parkingcrew.net"
+        ], 
+        "domain-name": "lesr.osiers.com", 
+        "fuzzer": "subdomain"
+    }, 
+    {
+        "dns-a": [
+            "206.188.192.5"
+        ], 
+        "domain-name": "lesro.siers.com", 
+        "fuzzer": "subdomain", 
+        "geoip-country": "United States"
+    }, 
+    {
+        "dns-a": [
+            "192.64.147.200"
+        ], 
+        "domain-name": "lesros.iers.com", 
+        "fuzzer": "subdomain", 
+        "geoip-country": "United States"
+    }
+]

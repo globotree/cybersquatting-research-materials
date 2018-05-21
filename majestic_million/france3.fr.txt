@@ -1,0 +1,252 @@
+[
+    {
+        "dns-a": [
+            "185.108.34.20"
+        ], 
+        "dns-mx": [
+            "cust13104-1.in.mailcontrol.com", 
+            "cust13104-2.in.mailcontrol.com", 
+            "cust13104-3.in.mailcontrol.com"
+        ], 
+        "dns-ns": [
+            "a1-242.akam.net", 
+            "a13-67.akam.net", 
+            "a14-64.akam.net", 
+            "a22-65.akam.net", 
+            "a3-66.akam.net", 
+            "a8-67.akam.net"
+        ], 
+        "domain-name": "france3.fr", 
+        "fuzzer": "original*", 
+        "geoip-country": "France", 
+        "ssdeep-score": 100
+    }, 
+    {
+        "dns-a": [
+            "72.52.4.120"
+        ], 
+        "dns-mx": [
+            "localhost"
+        ], 
+        "dns-ns": [
+            "ns1.sedoparking.com", 
+            "ns2.sedoparking.com"
+        ], 
+        "domain-name": "france3d.fr", 
+        "fuzzer": "addition", 
+        "geoip-country": "United States", 
+        "mx-spy": true, 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "185.108.34.20"
+        ], 
+        "dns-mx": [
+            "cust13104-1.in.mailcontrol.com", 
+            "cust13104-2.in.mailcontrol.com", 
+            "cust13104-3.in.mailcontrol.com"
+        ], 
+        "dns-ns": [
+            "a1-242.akam.net", 
+            "a13-67.akam.net", 
+            "a14-64.akam.net", 
+            "a22-65.akam.net", 
+            "a3-66.akam.net", 
+            "a8-67.akam.net"
+        ], 
+        "domain-name": "france2.fr", 
+        "fuzzer": "bitsquatting", 
+        "geoip-country": "France", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "185.26.230.129"
+        ], 
+        "dns-mx": [
+            "mail.france7.fr"
+        ], 
+        "dns-ns": [
+            "indom10.indomco.com", 
+            "indom20.indomco.net", 
+            "indom30.indomco.fr"
+        ], 
+        "domain-name": "france7.fr", 
+        "fuzzer": "bitsquatting", 
+        "geoip-country": "United Kingdom", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "213.186.33.5"
+        ], 
+        "dns-mx": [
+            "redirect.ovh.net"
+        ], 
+        "dns-ns": [
+            "dns.ovh.net", 
+            "ns.ovh.net"
+        ], 
+        "domain-name": "frances.fr", 
+        "fuzzer": "bitsquatting", 
+        "geoip-country": "France", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "185.26.230.130"
+        ], 
+        "dns-mx": [
+            "mail.france-3.fr"
+        ], 
+        "dns-ns": [
+            "indom10.indomco.com", 
+            "indom130.indomco.org", 
+            "indom20.indomco.net", 
+            "indom30.indomco.fr", 
+            "indom80.indomco.hk"
+        ], 
+        "domain-name": "france-3.fr", 
+        "fuzzer": "hyphenation", 
+        "geoip-country": "United Kingdom", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "213.186.33.151"
+        ], 
+        "dns-mx": [
+            "mx1.ovh.net", 
+            "mx2.ovh.net", 
+            "mxb.ovh.net"
+        ], 
+        "dns-ns": [
+            "dns111.ovh.net", 
+            "ns111.ovh.net"
+        ], 
+        "domain-name": "france33.fr", 
+        "fuzzer": "insertion", 
+        "geoip-country": "France", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "185.26.230.129"
+        ], 
+        "dns-mx": [
+            "mail.fance3.fr"
+        ], 
+        "dns-ns": [
+            "indom10.indomco.com", 
+            "indom20.indomco.net", 
+            "indom30.indomco.fr"
+        ], 
+        "domain-name": "fance3.fr", 
+        "fuzzer": "omission", 
+        "geoip-country": "United Kingdom"
+    }, 
+    {
+        "dns-a": [
+            "185.26.230.129"
+        ], 
+        "dns-mx": [
+            "mail.frane3.fr"
+        ], 
+        "dns-ns": [
+            "indom10.indomco.com", 
+            "indom130.indomco.org", 
+            "indom20.indomco.net", 
+            "indom30.indomco.fr", 
+            "indom80.indomco.hk"
+        ], 
+        "domain-name": "frane3.fr", 
+        "fuzzer": "omission", 
+        "geoip-country": "United Kingdom", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "185.26.230.129"
+        ], 
+        "dns-mx": [
+            "mail.frace3.fr"
+        ], 
+        "dns-ns": [
+            "indom10.indomco.com", 
+            "indom20.indomco.net", 
+            "indom30.indomco.fr"
+        ], 
+        "domain-name": "frace3.fr", 
+        "fuzzer": "omission", 
+        "geoip-country": "United Kingdom", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "146.185.43.159"
+        ], 
+        "dns-mx": [
+            "mx1.franceguide.com", 
+            "vip2-mailgate.ornis.com"
+        ], 
+        "dns-ns": [
+            "dns200.anycast.me", 
+            "ns200.anycast.me"
+        ], 
+        "domain-name": "france.fr", 
+        "fuzzer": "omission"
+    }, 
+    {
+        "dns-a": [
+            "185.108.34.20"
+        ], 
+        "dns-mx": [
+            "cust13104-1.in.mailcontrol.com", 
+            "cust13104-2.in.mailcontrol.com", 
+            "cust13104-3.in.mailcontrol.com"
+        ], 
+        "dns-ns": [
+            "a1-242.akam.net", 
+            "a13-67.akam.net", 
+            "a14-64.akam.net", 
+            "a22-65.akam.net", 
+            "a3-66.akam.net", 
+            "a8-67.akam.net"
+        ], 
+        "domain-name": "france4.fr", 
+        "fuzzer": "replacement", 
+        "geoip-country": "France", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "109.234.161.45"
+        ], 
+        "dns-ns": [
+            "ns81.domaincontrol.com", 
+            "ns82.domaincontrol.com"
+        ], 
+        "domain-name": "francew.fr", 
+        "fuzzer": "replacement", 
+        "geoip-country": "France", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "185.26.230.129"
+        ], 
+        "dns-mx": [
+            "mail.francr3.fr"
+        ], 
+        "dns-ns": [
+            "indom10.indomco.com", 
+            "indom130.indomco.org", 
+            "indom20.indomco.net", 
+            "indom30.indomco.fr", 
+            "indom80.indomco.hk"
+        ], 
+        "domain-name": "francr3.fr", 
+        "fuzzer": "replacement"
+    }
+]

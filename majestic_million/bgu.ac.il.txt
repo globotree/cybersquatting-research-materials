@@ -1,0 +1,42 @@
+[
+    {
+        "dns-a": [
+            "132.72.138.38"
+        ], 
+        "dns-mx": [
+            "mx1.bgu.ac.il", 
+            "mx2.bgu.ac.il"
+        ], 
+        "dns-ns": [
+            "dns2.bgu.ac.il"
+        ], 
+        "domain-name": "bgu.ac.il", 
+        "fuzzer": "original*", 
+        "geoip-country": "Israel", 
+        "ssdeep-score": 97
+    }, 
+    {
+        "dns-ns": [
+            "DNS2.byu.edu", 
+            "EDNS2.byu.edu", 
+            "EDNS3.byu.edu", 
+            "dns1.byu.edu", 
+            "dns3.byu.edu", 
+            "dns4.byu.edu", 
+            "dns5.byu.edu", 
+            "dns6.byu.edu", 
+            "edns1.byu.edu", 
+            "relay.huji.ac.il"
+        ], 
+        "domain-name": "byu.ac.il", 
+        "fuzzer": "replacement"
+    }, 
+    {
+        "dns-a": [
+            "98.138.19.143"
+        ], 
+        "domain-name": "bgu.ac-il.com", 
+        "fuzzer": "various", 
+        "geoip-country": "United States"
+    }
+]

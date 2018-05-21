@@ -1,0 +1,33 @@
+[
+    {
+        "dns-ns": [
+            "ns1.naver.jp", 
+            "ns2.naver.jp"
+        ], 
+        "domain-name": "blogimg.jp", 
+        "fuzzer": "original*"
+    }, 
+    {
+        "dns-a": [
+            "52.68.84.49"
+        ], 
+        "dns-mx": [
+            "blogig.jp"
+        ], 
+        "dns-ns": [
+            "ns1.quicca.com", 
+            "ns2.quicca.com"
+        ], 
+        "domain-name": "blogig.jp", 
+        "fuzzer": "omission", 
+        "geoip-country": "Japan"
+    }, 
+    {
+        "dns-a": [
+            "210.188.201.31"
+        ], 
+        "domain-name": "blog.img.jp", 
+        "fuzzer": "subdomain", 
+        "geoip-country": "Japan"
+    }
+]

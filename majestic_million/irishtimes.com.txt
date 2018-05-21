@@ -1,0 +1,328 @@
+[
+    {
+        "dns-a": [
+            "151.101.130.174", 
+            "151.101.194.174", 
+            "151.101.2.174", 
+            "151.101.66.174"
+        ], 
+        "dns-mx": [
+            "mx1.irishtimes.com", 
+            "mx2.irishtimes.com", 
+            "mx3.irishtimes.com"
+        ], 
+        "dns-ns": [
+            "ns-1440.awsdns-52.org", 
+            "ns-1768.awsdns-29.co.uk", 
+            "ns-387.awsdns-48.com", 
+            "ns-528.awsdns-02.net", 
+            "ns-cloud-a1.googledomains.com", 
+            "ns-cloud-a2.googledomains.com", 
+            "ns-cloud-a3.googledomains.com", 
+            "ns-cloud-a4.googledomains.com"
+        ], 
+        "domain-name": "irishtimes.com", 
+        "fuzzer": "original*", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 100
+    }, 
+    {
+        "dns-a": [
+            "78.153.212.173"
+        ], 
+        "dns-ns": [
+            "ns1.blacknight.com", 
+            "ns2.blacknight.com", 
+            "ns3.blacknight.com", 
+            "ns4.blacknight.com"
+        ], 
+        "domain-name": "irlshtimes.com", 
+        "fuzzer": "homoglyph", 
+        "geoip-country": "Ireland", 
+        "ssdeep-score": 96
+    }, 
+    {
+        "dns-a": [
+            "78.153.212.173"
+        ], 
+        "dns-ns": [
+            "ns1.blacknight.com", 
+            "ns2.blacknight.com", 
+            "ns3.blacknight.com", 
+            "ns4.blacknight.com"
+        ], 
+        "domain-name": "lrishtimes.com", 
+        "fuzzer": "homoglyph", 
+        "geoip-country": "Ireland", 
+        "ssdeep-score": 99
+    }, 
+    {
+        "dns-mx": [
+            "mx1.irishtimes.com", 
+            "mx2.irishtimes.com", 
+            "mx3.irishtimes.com"
+        ], 
+        "dns-ns": [
+            "ns-1257.awsdns-29.org", 
+            "ns-1815.awsdns-34.co.uk", 
+            "ns-262.awsdns-32.com", 
+            "ns-881.awsdns-46.net", 
+            "ns-cloud-b1.googledomains.com", 
+            "ns-cloud-b2.googledomains.com", 
+            "ns-cloud-b3.googledomains.com", 
+            "ns-cloud-b4.googledomains.com"
+        ], 
+        "domain-name": "irish-times.com", 
+        "fuzzer": "hyphenation"
+    }, 
+    {
+        "dns-a": [
+            "104.37.35.76"
+        ], 
+        "dns-mx": [
+            "mx1.pub.mailpod1-wdc1.one.com", 
+            "mx2.pub.mailpod1-wdc1.one.com"
+        ], 
+        "dns-ns": [
+            "ns01.one.com", 
+            "ns02.one.com"
+        ], 
+        "domain-name": "irishtimezs.com", 
+        "fuzzer": "insertion", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "69.162.80.52"
+        ], 
+        "dns-ns": [
+            "ns1.hastydns.com", 
+            "ns2.hastydns.com"
+        ], 
+        "domain-name": "irihtimes.com", 
+        "fuzzer": "omission", 
+        "geoip-country": "United States"
+    }, 
+    {
+        "dns-a": [
+            "78.153.212.173"
+        ], 
+        "dns-ns": [
+            "ns1.blacknight.com", 
+            "ns2.blacknight.com"
+        ], 
+        "domain-name": "irishtims.com", 
+        "fuzzer": "omission", 
+        "geoip-country": "Ireland", 
+        "ssdeep-score": 99
+    }, 
+    {
+        "dns-a": [
+            "67.225.218.50"
+        ], 
+        "dns-ns": [
+            "ns1.parklogic.com", 
+            "ns2.parklogic.com", 
+            "ns3.parklogic.com", 
+            "ns4.parklogic.com", 
+            "ns5.parklogic.com"
+        ], 
+        "domain-name": "iristimes.com", 
+        "fuzzer": "omission", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "95.211.117.215"
+        ], 
+        "dns-ns": [
+            "ns1.hastydns.com", 
+            "ns2.hastydns.com"
+        ], 
+        "domain-name": "rishtimes.com", 
+        "fuzzer": "omission", 
+        "geoip-country": "Netherlands"
+    }, 
+    {
+        "dns-a": [
+            "67.195.61.46"
+        ], 
+        "dns-mx": [
+            "mx-biz.mail.am0.yahoodns.net"
+        ], 
+        "dns-ns": [
+            "yns1.yahoo.com", 
+            "yns2.yahoo.com"
+        ], 
+        "domain-name": "irishties.com", 
+        "fuzzer": "omission", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "103.224.212.222"
+        ], 
+        "dns-mx": [
+            "park-mx.above.com"
+        ], 
+        "dns-ns": [
+            "ns1.above.com", 
+            "ns2.above.com"
+        ], 
+        "domain-name": "irishimes.com", 
+        "fuzzer": "omission", 
+        "geoip-country": "Australia", 
+        "mx-spy": true, 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "199.191.50.17"
+        ], 
+        "dns-ns": [
+            "ns111317.ztomy.com", 
+            "ns211317.ztomy.com"
+        ], 
+        "domain-name": "irshtimes.com", 
+        "fuzzer": "omission", 
+        "geoip-country": "Virgin Islands", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "74.220.199.6"
+        ], 
+        "domain-name": "irishtime.com", 
+        "fuzzer": "omission", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "199.191.50.73"
+        ], 
+        "dns-ns": [
+            "ns111373.ztomy.com", 
+            "ns211373.ztomy.com"
+        ], 
+        "domain-name": "irishtmes.com", 
+        "fuzzer": "omission", 
+        "geoip-country": "Virgin Islands", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "69.162.80.52"
+        ], 
+        "dns-ns": [
+            "ns1.hastydns.com", 
+            "ns2.hastydns.com"
+        ], 
+        "domain-name": "iriishtimes.com", 
+        "fuzzer": "repetition", 
+        "geoip-country": "United States"
+    }, 
+    {
+        "dns-a": [
+            "95.211.219.66"
+        ], 
+        "dns-ns": [
+            "ns1.hastydns.com", 
+            "ns2.hastydns.com"
+        ], 
+        "domain-name": "iriahtimes.com", 
+        "fuzzer": "replacement", 
+        "geoip-country": "Netherlands"
+    }, 
+    {
+        "dns-a": [
+            "107.172.244.156"
+        ], 
+        "dns-mx": [
+            "irishtimez.com"
+        ], 
+        "dns-ns": [
+            "la1.zserverz.com", 
+            "la2.zserverz.com"
+        ], 
+        "domain-name": "irishtimez.com", 
+        "fuzzer": "replacement", 
+        "geoip-country": "United States"
+    }, 
+    {
+        "dns-a": [
+            "95.211.219.66"
+        ], 
+        "dns-ns": [
+            "ns1.hastydns.com", 
+            "ns2.hastydns.com"
+        ], 
+        "domain-name": "itishtimes.com", 
+        "fuzzer": "replacement", 
+        "geoip-country": "Netherlands"
+    }, 
+    {
+        "dns-a": [
+            "95.211.117.215"
+        ], 
+        "dns-ns": [
+            "ns1.hastydns.com", 
+            "ns2.hastydns.com"
+        ], 
+        "domain-name": "irishrimes.com", 
+        "fuzzer": "replacement", 
+        "geoip-country": "Netherlands"
+    }, 
+    {
+        "dns-a": [
+            "69.162.80.56"
+        ], 
+        "domain-name": "i.rishtimes.com", 
+        "fuzzer": "subdomain", 
+        "geoip-country": "United States"
+    }, 
+    {
+        "dns-a": [
+            "61.152.205.24"
+        ], 
+        "domain-name": "iri.shtimes.com", 
+        "fuzzer": "subdomain", 
+        "geoip-country": "China"
+    }, 
+    {
+        "dns-a": [
+            "23.23.174.132"
+        ], 
+        "domain-name": "irisht.imes.com", 
+        "fuzzer": "subdomain", 
+        "geoip-country": "United States"
+    }, 
+    {
+        "dns-a": [
+            "69.172.201.153"
+        ], 
+        "dns-ns": [
+            "ns1.uniregistrymarket.link", 
+            "ns2.uniregistrymarket.link"
+        ], 
+        "domain-name": "irishti.mes.com", 
+        "fuzzer": "subdomain", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "95.211.219.65"
+        ], 
+        "dns-ns": [
+            "ns1.hastydns.com", 
+            "ns2.hastydns.com"
+        ], 
+        "domain-name": "irishtiems.com", 
+        "fuzzer": "transposition", 
+        "geoip-country": "Netherlands"
+    }
+]

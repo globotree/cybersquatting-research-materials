@@ -1,0 +1,272 @@
+[
+    {
+        "dns-mx": [
+            "mx01.ulisboa.pt", 
+            "mx02.ulisboa.pt", 
+            "mx03.ulisboa.pt", 
+            "mx04.ulisboa.pt"
+        ], 
+        "dns-ns": [
+            "a.ul.pt", 
+            "b.ul.pt"
+        ], 
+        "domain-name": "ul.pt", 
+        "fuzzer": "original*"
+    }, 
+    {
+        "dns-a": [
+            "193.227.239.27"
+        ], 
+        "dns-ns": [
+            "ns-1533.awsdns-63.org", 
+            "ns-1675.awsdns-17.co.uk", 
+            "ns-42.awsdns-05.com", 
+            "ns-687.awsdns-21.net"
+        ], 
+        "domain-name": "ula.pt", 
+        "fuzzer": "addition", 
+        "geoip-country": "Portugal"
+    }, 
+    {
+        "dns-a": [
+            "193.137.75.244"
+        ], 
+        "dns-mx": [
+            "ALT1.ASPMX.L.GOOGLE.COM", 
+            "ALT2.ASPMX.L.GOOGLE.COM", 
+            "ASPMX.L.GOOGLE.COM", 
+            "ASPMX2.GOOGLEMAIL.COM", 
+            "ASPMX3.GOOGLEMAIL.COM", 
+            "ASPMX4.GOOGLEMAIL.COM", 
+            "ASPMX5.GOOGLEMAIL.COM"
+        ], 
+        "dns-ns": [
+            "mcreal.ulusofona.pt", 
+            "mtorga.ulusofona.pt"
+        ], 
+        "domain-name": "ulp.pt", 
+        "fuzzer": "addition", 
+        "geoip-country": "Portugal"
+    }, 
+    {
+        "dns-a": [
+            "46.30.215.85"
+        ], 
+        "dns-mx": [
+            "mx1.pub.mailpod1-cph3.one.com", 
+            "mx2.pub.mailpod1-cph3.one.com", 
+            "mx3.pub.mailpod1-cph3.one.com"
+        ], 
+        "dns-ns": [
+            "ns01.one.com", 
+            "ns02.one.com"
+        ], 
+        "domain-name": "uls.pt", 
+        "fuzzer": "addition", 
+        "geoip-country": "Denmark"
+    }, 
+    {
+        "dns-a": [
+            "104.27.170.40", 
+            "104.27.171.40"
+        ], 
+        "dns-aaaa": [
+            "2400:cb00:2048:1::681b:aa28", 
+            "2400:cb00:2048:1::681b:ab28"
+        ], 
+        "dns-mx": [
+            "mx.zoho.eu", 
+            "mx2.zoho.eu", 
+            "mx3.zoho.eu"
+        ], 
+        "dns-ns": [
+            "david.ns.cloudflare.com", 
+            "vita.ns.cloudflare.com"
+        ], 
+        "domain-name": "ulu.pt", 
+        "fuzzer": "addition", 
+        "geoip-country": "United States"
+    }, 
+    {
+        "dns-a": [
+            "50.87.92.20"
+        ], 
+        "dns-mx": [
+            "mail.ulx.pt"
+        ], 
+        "dns-ns": [
+            "ns1.justhost.com", 
+            "ns2.justhost.com"
+        ], 
+        "domain-name": "ulx.pt", 
+        "fuzzer": "addition", 
+        "geoip-country": "United States"
+    }, 
+    {
+        "dns-a": [
+            "72.52.4.120"
+        ], 
+        "dns-mx": [
+            "localhost"
+        ], 
+        "dns-ns": [
+            "ns1.sedoparking.com", 
+            "ns2.sedoparking.com"
+        ], 
+        "domain-name": "wl.pt", 
+        "fuzzer": "bitsquatting", 
+        "geoip-country": "United States", 
+        "mx-spy": true
+    }, 
+    {
+        "dns-a": [
+            "81.88.57.70"
+        ], 
+        "dns-mx": [
+            "mail-pt.securemail.pro"
+        ], 
+        "dns-ns": [
+            "ns1.amenworld.com", 
+            "ns2.amenworld.com"
+        ], 
+        "domain-name": "el.pt", 
+        "fuzzer": "bitsquatting", 
+        "geoip-country": "Italy"
+    }, 
+    {
+        "dns-a": [
+            "188.93.230.145"
+        ], 
+        "dns-aaaa": [
+            "2001:4cc0:200:3f::20"
+        ], 
+        "dns-mx": [
+            "um.pt"
+        ], 
+        "dns-ns": [
+            "dns1.ibername.com", 
+            "dns2.ibername.com"
+        ], 
+        "domain-name": "um.pt", 
+        "fuzzer": "bitsquatting", 
+        "geoip-country": "Portugal"
+    }, 
+    {
+        "dns-a": [
+            "72.52.4.120"
+        ], 
+        "dns-mx": [
+            "localhost"
+        ], 
+        "dns-ns": [
+            "ns1.sedoparking.com", 
+            "ns2.sedoparking.com"
+        ], 
+        "domain-name": "un.pt", 
+        "fuzzer": "bitsquatting", 
+        "geoip-country": "United States", 
+        "mx-spy": true
+    }, 
+    {
+        "dns-a": [
+            "94.23.79.5"
+        ], 
+        "dns-mx": [
+            "redirect.ovh.net"
+        ], 
+        "dns-ns": [
+            "dns19.ovh.net", 
+            "ns19.ovh.net"
+        ], 
+        "domain-name": "ud.pt", 
+        "fuzzer": "bitsquatting", 
+        "geoip-country": "Portugal"
+    }, 
+    {
+        "dns-a": [
+            "81.88.62.2"
+        ], 
+        "dns-mx": [
+            "mail-pt.securemail.pro"
+        ], 
+        "domain-name": "ui.pt", 
+        "fuzzer": "homoglyph", 
+        "geoip-country": "Italy"
+    }, 
+    {
+        "dns-a": [
+            "185.53.179.29"
+        ], 
+        "dns-ns": [
+            "f1g1ns1.dnspod.net", 
+            "f1g1ns2.dnspod.net"
+        ], 
+        "domain-name": "zl.pt", 
+        "fuzzer": "replacement", 
+        "geoip-country": "Germany"
+    }, 
+    {
+        "dns-a": [
+            "193.137.55.13"
+        ], 
+        "dns-mx": [
+            "mxu.up.pt", 
+            "relay.up.pt"
+        ], 
+        "dns-ns": [
+            "ns1.up.pt", 
+            "ns2.up.pt", 
+            "ns3.up.pt", 
+            "ns4.up.pt"
+        ], 
+        "domain-name": "up.pt", 
+        "fuzzer": "replacement", 
+        "geoip-country": "Portugal"
+    }, 
+    {
+        "dns-a": [
+            "72.52.4.121"
+        ], 
+        "dns-mx": [
+            "localhost"
+        ], 
+        "dns-ns": [
+            "ns1.sedoparking.com", 
+            "ns2.sedoparking.com"
+        ], 
+        "domain-name": "jl.pt", 
+        "fuzzer": "replacement", 
+        "geoip-country": "United States", 
+        "mx-spy": true
+    }, 
+    {
+        "dns-a": [
+            "72.52.4.120"
+        ], 
+        "dns-mx": [
+            "localhost"
+        ], 
+        "dns-ns": [
+            "ns1.sedoparking.com", 
+            "ns2.sedoparking.com"
+        ], 
+        "domain-name": "uo.pt", 
+        "fuzzer": "replacement", 
+        "geoip-country": "United States", 
+        "mx-spy": true
+    }, 
+    {
+        "dns-a": [
+            "81.88.57.70"
+        ], 
+        "dns-mx": [
+            "mail-pt.securemail.pro"
+        ], 
+        "dns-ns": [
+            "ns1.amenworld.com", 
+            "ns2.amenworld.com"
+        ], 
+        "domain-name": "hl.pt", 
+        "fuzzer": "replacement"
+    }
+]

@@ -1,0 +1,49 @@
+[
+    {
+        "dns-a": [
+            "204.124.92.135"
+        ], 
+        "dns-aaaa": [
+            "2001:49c8:8004:20fc::92:135"
+        ], 
+        "dns-mx": [
+            "alt1.aspmx.l.google.com", 
+            "alt2.aspmx.l.google.com", 
+            "aspmx.l.google.com", 
+            "aspmx2.googlemail.com", 
+            "aspmx3.googlemail.com"
+        ], 
+        "dns-ns": [
+            "a.1001.adoniscs.afiliasdns.info", 
+            "b.1001.adoniscs.afiliasdns.org", 
+            "c.1001.adoniscs.afiliasdns.net", 
+            "d.1001.adoniscs.afiliasdns.com", 
+            "e.1001.adoniscs.afiliasdns.info", 
+            "f.1001.adoniscs.afiliasdns.net"
+        ], 
+        "domain-name": "blm.gov", 
+        "fuzzer": "original*", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 100
+    }, 
+    {
+        "dns-a": [
+            "130.14.16.110"
+        ], 
+        "dns-aaaa": [
+            "2607:f220:41e:1016::110"
+        ], 
+        "dns-mx": [
+            "nihcesxway3.hub.nih.gov", 
+            "nihcesxway4.hub.nih.gov", 
+            "nihcesxway5.hub.nih.gov"
+        ], 
+        "dns-ns": [
+            "hanna.cac.washington.edu", 
+            "lhcns1.nlm.nih.gov", 
+            "lhcns2.nlm.nih.gov"
+        ], 
+        "domain-name": "nlm.gov", 
+        "fuzzer": "replacement"
+    }
+]

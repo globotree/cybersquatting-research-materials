@@ -1,0 +1,47 @@
+[
+    {
+        "dns-a": [
+            "193.195.78.74"
+        ], 
+        "dns-mx": [
+            "mail.nhs.uk"
+        ], 
+        "dns-ns": [
+            "ns1.scottishwan.net", 
+            "ns2.scottishwan.net"
+        ], 
+        "domain-name": "scot.nhs.uk", 
+        "fuzzer": "original*", 
+        "geoip-country": "United Kingdom", 
+        "ssdeep-score": 100
+    }, 
+    {
+        "dns-a": [
+            "213.146.137.142"
+        ], 
+        "dns-mx": [
+            "mail.nhs.uk"
+        ], 
+        "dns-ns": [
+            "ns.nhs.uk", 
+            "nsa.nhs.uk", 
+            "nsb.nhs.uk"
+        ], 
+        "domain-name": "sct.nhs.uk", 
+        "fuzzer": "omission", 
+        "geoip-country": "United Kingdom"
+    }, 
+    {
+        "dns-a": [
+            "217.174.249.116"
+        ], 
+        "dns-mx": [
+            "mail.scot.uk"
+        ], 
+        "dns-ns": [
+            "ns.scot.uk"
+        ], 
+        "domain-name": "scot.uk", 
+        "fuzzer": "various"
+    }
+]

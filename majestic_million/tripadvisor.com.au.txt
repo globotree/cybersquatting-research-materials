@@ -1,0 +1,83 @@
+[
+    {
+        "dns-a": [
+            "192.229.162.112", 
+            "192.229.182.112", 
+            "192.229.189.15"
+        ], 
+        "dns-mx": [
+            "mxa-00255801.gslb.pphosted.com", 
+            "mxb-00255801.gslb.pphosted.com"
+        ], 
+        "dns-ns": [
+            "ns1.p10.dynect.net", 
+            "ns2.p10.dynect.net", 
+            "ns3.p10.dynect.net", 
+            "ns4.p10.dynect.net", 
+            "pdns1.ultradns.net", 
+            "pdns2.ultradns.net", 
+            "pdns3.ultradns.org", 
+            "pdns4.ultradns.org", 
+            "pdns5.ultradns.info", 
+            "pdns6.ultradns.co.uk"
+        ], 
+        "domain-name": "tripadvisor.com.au", 
+        "fuzzer": "original*", 
+        "geoip-country": "United States", 
+        "mx-spy": true, 
+        "ssdeep-score": 71
+    }, 
+    {
+        "dns-a": [
+            "103.224.182.251"
+        ], 
+        "dns-mx": [
+            "park-mx.above.com"
+        ], 
+        "dns-ns": [
+            "ns1.above.com", 
+            "ns2.above.com"
+        ], 
+        "domain-name": "tripadvisors.com.au", 
+        "fuzzer": "addition", 
+        "geoip-country": "Australia", 
+        "mx-spy": true, 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "27.124.118.252"
+        ], 
+        "dns-ns": [
+            "ns1.crazydomains.com", 
+            "ns2.crazydomains.com"
+        ], 
+        "domain-name": "dripadvisor.com.au", 
+        "fuzzer": "bitsquatting", 
+        "geoip-country": "Australia"
+    }, 
+    {
+        "dns-a": [
+            "199.191.50.131"
+        ], 
+        "dns-ns": [
+            "ns111431.ztomy.com", 
+            "ns211431.ztomy.com"
+        ], 
+        "domain-name": "tripadvis.or.com.au", 
+        "fuzzer": "subdomain", 
+        "geoip-country": "Virgin Islands", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "207.244.67.218"
+        ], 
+        "dns-ns": [
+            "ns1.dnsnuts.com", 
+            "ns2.dnsnuts.com"
+        ], 
+        "domain-name": "tripadviser.com.au", 
+        "fuzzer": "vowel-swap"
+    }
+]

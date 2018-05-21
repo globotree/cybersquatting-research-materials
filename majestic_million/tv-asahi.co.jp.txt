@@ -1,0 +1,46 @@
+[
+    {
+        "dns-mx": [
+            "mx.securemx.jp"
+        ], 
+        "dns-ns": [
+            "dns-b.iij.ad.jp", 
+            "dns-c.iij.ad.jp"
+        ], 
+        "domain-name": "tv-asahi.co.jp", 
+        "fuzzer": "original*"
+    }, 
+    {
+        "dns-a": [
+            "153.128.69.207"
+        ], 
+        "dns-mx": [
+            "mx-0.aams6.jp", 
+            "mx-1.aams6.jp", 
+            "mx.aams6.jp"
+        ], 
+        "dns-ns": [
+            "name.technowave.ad.jp", 
+            "ns.technowave.ne.jp"
+        ], 
+        "domain-name": "t-asahi.co.jp", 
+        "fuzzer": "omission", 
+        "geoip-country": "Japan"
+    }, 
+    {
+        "dns-a": [
+            "157.7.188.125"
+        ], 
+        "domain-name": "tv-as.ahi.co.jp", 
+        "fuzzer": "subdomain", 
+        "geoip-country": "Japan"
+    }, 
+    {
+        "dns-ns": [
+            "dns-b.iij.ad.jp", 
+            "dns-c.iij.ad.jp"
+        ], 
+        "domain-name": "tv-asahi.jp", 
+        "fuzzer": "various"
+    }
+]

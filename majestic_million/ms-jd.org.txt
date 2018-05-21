@@ -1,0 +1,110 @@
+[
+    {
+        "dns-a": [
+            "202.37.129.184"
+        ], 
+        "dns-mx": [
+            "alt1.aspmx.l.google.com", 
+            "alt2.aspmx.l.google.com", 
+            "aspmx.l.google.com", 
+            "aspmx2.googlemail.com", 
+            "aspmx3.googlemail.com"
+        ], 
+        "dns-ns": [
+            "ns1.nameserverz.com", 
+            "ns2.nameserverz.com"
+        ], 
+        "domain-name": "ms-jd.org", 
+        "fuzzer": "original*", 
+        "geoip-country": "New Zealand"
+    }, 
+    {
+        "dns-a": [
+            "184.168.221.63"
+        ], 
+        "dns-ns": [
+            "ns29.domaincontrol.com", 
+            "ns30.domaincontrol.com"
+        ], 
+        "domain-name": "mr-jd.org", 
+        "fuzzer": "bitsquatting", 
+        "geoip-country": "United States"
+    }, 
+    {
+        "dns-a": [
+            "72.52.4.122"
+        ], 
+        "dns-mx": [
+            "localhost"
+        ], 
+        "dns-ns": [
+            "ns1.sedoparking.com", 
+            "ns2.sedoparking.com"
+        ], 
+        "domain-name": "msjd.org", 
+        "fuzzer": "omission", 
+        "geoip-country": "United States", 
+        "mx-spy": true
+    }, 
+    {
+        "dns-a": [
+            "219.122.61.82"
+        ], 
+        "dns-mx": [
+            "ms-id.org"
+        ], 
+        "dns-ns": [
+            "ns1.k006jp3898.info", 
+            "ns2.k006jp3898.info"
+        ], 
+        "domain-name": "ms-id.org", 
+        "fuzzer": "replacement"
+    }, 
+    {
+        "dns-a": [
+            "91.195.240.103"
+        ], 
+        "dns-ns": [
+            "dns1.name-services.com", 
+            "dns2.name-services.com", 
+            "dns3.name-services.com", 
+            "dns4.name-services.com", 
+            "dns5.name-services.com"
+        ], 
+        "domain-name": "md-jd.org", 
+        "fuzzer": "replacement", 
+        "geoip-country": "Germany"
+    }, 
+    {
+        "dns-a": [
+            "217.21.190.139"
+        ], 
+        "dns-mx": [
+            "mx.backup.mailprotect.be", 
+            "mx.mailprotect.be"
+        ], 
+        "dns-ns": [
+            "ns3.combell.net", 
+            "ns4.combell.net"
+        ], 
+        "domain-name": "ms-md.org", 
+        "fuzzer": "replacement", 
+        "geoip-country": "Belgium"
+    }, 
+    {
+        "dns-a": [
+            "50.63.46.1"
+        ], 
+        "dns-ns": [
+            "A.SERVICE.AFILIASDNS.INFO", 
+            "B.SERVICE.AFILIASDNS.org", 
+            "C.SERVICE.AFILIASDNS.NET", 
+            "D.SERVICE.AFILIASDNS.COM", 
+            "E.SERVICE.AFILIASDNS.INFO", 
+            "F.SERVICE.AFILIASDNS.NET"
+        ], 
+        "domain-name": "ms-j.d.org", 
+        "fuzzer": "subdomain", 
+        "geoip-country": "United States"
+    }
+]

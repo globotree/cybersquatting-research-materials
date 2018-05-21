@@ -1,0 +1,48 @@
+[
+    {
+        "dns-a": [
+            "162.105.131.196"
+        ], 
+        "dns-mx": [
+            "mx1.pku.edu.cn", 
+            "mx2.pku.edu.cn"
+        ], 
+        "dns-ns": [
+            "DNS.pku.edu.cn", 
+            "DNS2.pku.edu.cn", 
+            "ns.pku.edu.cn"
+        ], 
+        "domain-name": "pku.edu.cn", 
+        "fuzzer": "original*", 
+        "geoip-country": "China", 
+        "ssdeep-score": 100
+    }, 
+    {
+        "dns-a": [
+            "202.205.2.13"
+        ], 
+        "dns-ns": [
+            "dns.online.edu.cn", 
+            "dns2.online.edu.cn"
+        ], 
+        "domain-name": "pka.edu.cn", 
+        "fuzzer": "vowel-swap"
+    }, 
+    {
+        "dns-ns": [
+            "ns.PKU.EDU.cn", 
+            "pkuns.PKU.EDU.cn", 
+            "sun1000e.PKU.EDU.cn"
+        ], 
+        "domain-name": "pku.cn", 
+        "fuzzer": "various"
+    }, 
+    {
+        "dns-ns": [
+            "ns1.4everdns.com", 
+            "ns2.4everdns.com"
+        ], 
+        "domain-name": "pkuedu.cn", 
+        "fuzzer": "various"
+    }
+]

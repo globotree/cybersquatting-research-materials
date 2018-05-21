@@ -1,0 +1,147 @@
+[
+    {
+        "dns-a": [
+            "129.115.120.39"
+        ], 
+        "dns-mx": [
+            "utsa-edu.mail.protection.outlook.com"
+        ], 
+        "dns-ns": [
+            "berry.it.utsa.edu", 
+            "jerry.it.utsa.edu", 
+            "juliet.it.utsa.edu", 
+            "ns2.ots.utsystem.edu", 
+            "tick.it.utsa.edu", 
+            "tock.it.utsa.edu", 
+            "tom.it.utsa.edu"
+        ], 
+        "domain-name": "utsa.edu", 
+        "fuzzer": "original*", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 100
+    }, 
+    {
+        "dns-a": [
+            "150.182.12.82"
+        ], 
+        "dns-mx": [
+            "barracuda.utsi.edu"
+        ], 
+        "dns-ns": [
+            "UTSINS1.utsi.edu", 
+            "UTSINS2.utsi.edu"
+        ], 
+        "domain-name": "utsi.edu", 
+        "fuzzer": "bitsquatting", 
+        "geoip-country": "United States"
+    }, 
+    {
+        "dns-a": [
+            "104.210.0.31"
+        ], 
+        "dns-mx": [
+            "mail.utesa.edu"
+        ], 
+        "dns-ns": [
+            "pdns03.domaincontrol.com", 
+            "pdns04.domaincontrol.com"
+        ], 
+        "domain-name": "utesa.edu", 
+        "fuzzer": "insertion", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "66.45.244.26"
+        ], 
+        "dns-mx": [
+            "alt1.aspmx.l.google.com", 
+            "alt2.aspmx.l.google.com", 
+            "aspmx.l.google.com", 
+            "aspmx2.googlemail.com", 
+            "aspmx3.googlemail.com"
+        ], 
+        "dns-ns": [
+            "ns1.uts.edu", 
+            "ns2.uts.edu"
+        ], 
+        "domain-name": "uts.edu", 
+        "fuzzer": "omission", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "129.107.58.60"
+        ], 
+        "dns-mx": [
+            "smtp.uta.edu"
+        ], 
+        "dns-ns": [
+            "maggie.telcom.arizona.edu", 
+            "ns-remote.arizona.edu", 
+            "ns1.uta.edu", 
+            "ns2.ots.utsystem.edu", 
+            "ns2.uta.edu"
+        ], 
+        "domain-name": "uta.edu", 
+        "fuzzer": "omission", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "109.199.115.231"
+        ], 
+        "dns-mx": [
+            "usa-edu.mail.protection.outlook.com"
+        ], 
+        "dns-ns": [
+            "ns4.laureate.net", 
+            "ns5.laureate.net", 
+            "ns6.laureate.net"
+        ], 
+        "domain-name": "usa.edu", 
+        "fuzzer": "omission", 
+        "geoip-country": "United States"
+    }, 
+    {
+        "dns-a": [
+            "148.62.1.183"
+        ], 
+        "dns-mx": [
+            "jtsa-edu.mail.protection.outlook.com"
+        ], 
+        "dns-ns": [
+            "NS.jtsa.edu", 
+            "auth01.ns.uu.net", 
+            "auth60.ns.uu.net"
+        ], 
+        "domain-name": "jtsa.edu", 
+        "fuzzer": "replacement", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "199.242.239.24"
+        ], 
+        "dns-mx": [
+            "swlxmx1.swmed.edu", 
+            "swlxmx2.swmed.edu"
+        ], 
+        "dns-ns": [
+            "swmsazuredc1.swmed.org", 
+            "swmsdc10.swmed.org", 
+            "swmsdc3.swmed.org", 
+            "swmsdc6.swmed.org", 
+            "swnse3.dns.swmed.edu", 
+            "swnse4.dns.swmed.edu"
+        ], 
+        "domain-name": "utsw.edu", 
+        "fuzzer": "replacement", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 0
+    }
+]

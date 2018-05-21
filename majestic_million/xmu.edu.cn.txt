@@ -1,0 +1,139 @@
+[
+    {
+        "dns-a": [
+            "210.34.0.2", 
+            "210.34.0.4"
+        ], 
+        "dns-mx": [
+            "mail.xmu.edu.cn"
+        ], 
+        "dns-ns": [
+            "ns1.xmu.edu.cn", 
+            "ns2.xmu.edu.cn"
+        ], 
+        "domain-name": "xmu.edu.cn", 
+        "fuzzer": "original*", 
+        "geoip-country": "China"
+    }, 
+    {
+        "dns-mx": [
+            "mailgateway.xmut.edu.cn", 
+            "mailserver.xmut.edu.cn"
+        ], 
+        "dns-ns": [
+            "dns1.xmut.edu.cn"
+        ], 
+        "domain-name": "xmut.edu.cn", 
+        "fuzzer": "addition"
+    }, 
+    {
+        "dns-ns": [
+            "king"
+        ], 
+        "domain-name": "ymu.edu.cn", 
+        "fuzzer": "bitsquatting"
+    }, 
+    {
+        "dns-mx": [
+            "mail.zmu.edu.cn"
+        ], 
+        "dns-ns": [
+            "windows-o0u1491"
+        ], 
+        "domain-name": "zmu.edu.cn", 
+        "fuzzer": "bitsquatting"
+    }, 
+    {
+        "dns-mx": [
+            "mxbiz1.qq.com", 
+            "mxbiz2.qq.com"
+        ], 
+        "dns-ns": [
+            "dns1.name.edu.cn", 
+            "dns2.name.edu.cn"
+        ], 
+        "domain-name": "xnu.edu.cn", 
+        "fuzzer": "homoglyph"
+    }, 
+    {
+        "dns-a": [
+            "210.26.168.8"
+        ], 
+        "dns-mx": [
+            "mail.xjmu.edu.cn"
+        ], 
+        "dns-ns": [
+            "dns.xjmu.edu.cn"
+        ], 
+        "domain-name": "xjmu.edu.cn", 
+        "fuzzer": "insertion", 
+        "geoip-country": "China"
+    }, 
+    {
+        "dns-mx": [
+            "mail.xxmu.edu.cn"
+        ], 
+        "dns-ns": [
+            "dns.xxmu.edu.cn"
+        ], 
+        "domain-name": "xxmu.edu.cn", 
+        "fuzzer": "repetition"
+    }, 
+    {
+        "dns-mx": [
+            "mail.smu.edu.cn"
+        ], 
+        "dns-ns": [
+            "dns.smu.edu.cn"
+        ], 
+        "domain-name": "smu.edu.cn", 
+        "fuzzer": "replacement"
+    }, 
+    {
+        "dns-a": [
+            "210.47.244.15"
+        ], 
+        "dns-ns": [
+            "dns.dmu.edu.cn", 
+            "dnsb.dmu.edu.cn"
+        ], 
+        "domain-name": "dmu.edu.cn", 
+        "fuzzer": "replacement", 
+        "geoip-country": "China"
+    }, 
+    {
+        "dns-a": [
+            "127.0.0.1"
+        ], 
+        "dns-aaaa": [
+            "::1"
+        ], 
+        "dns-mx": [
+            "mail.cmu.edu.cn"
+        ], 
+        "dns-ns": [
+            "ns1.cmu.edu.cn", 
+            "ns2.cmu.edu.cn"
+        ], 
+        "domain-name": "cmu.edu.cn", 
+        "fuzzer": "replacement"
+    }, 
+    {
+        "dns-mx": [
+            "mail.xpu.edu.cn"
+        ], 
+        "dns-ns": [
+            "dns.xpu.edu.cn", 
+            "sdns.xpu.edu.cn"
+        ], 
+        "domain-name": "xpu.edu.cn", 
+        "fuzzer": "replacement"
+    }, 
+    {
+        "dns-a": [
+            "50.117.120.251"
+        ], 
+        "domain-name": "xmuedu.cn", 
+        "fuzzer": "various"
+    }
+]

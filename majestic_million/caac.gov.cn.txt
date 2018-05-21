@@ -1,0 +1,92 @@
+[
+    {
+        "dns-mx": [
+            "mail.caac.gov.cn", 
+            "mail1.caac.gov.cn"
+        ], 
+        "dns-ns": [
+            "ns1.caac.gov.cn", 
+            "ns2.caac.gov.cn"
+        ], 
+        "domain-name": "caac.gov.cn", 
+        "fuzzer": "original*", 
+        "mx-spy": true
+    }, 
+    {
+        "dns-a": [
+            "61.135.203.75"
+        ], 
+        "dns-mx": [
+            "mx.qiye.163.com", 
+            "mx2.qiye.163.com"
+        ], 
+        "dns-ns": [
+            "ns1.sfn.cn", 
+            "ns2.sfn.cn"
+        ], 
+        "domain-name": "saac.gov.cn", 
+        "fuzzer": "bitsquatting", 
+        "geoip-country": "China"
+    }, 
+    {
+        "dns-mx": [
+            "mxbiz1.qq.com"
+        ], 
+        "dns-ns": [
+            "ns19.xincache.com", 
+            "ns20.xincache.com"
+        ], 
+        "domain-name": "ceac.gov.cn", 
+        "fuzzer": "bitsquatting"
+    }, 
+    {
+        "dns-a": [
+            "202.123.107.68"
+        ], 
+        "dns-mx": [
+            "webmail.cac.gov.cn"
+        ], 
+        "dns-ns": [
+            "ns1.cac.gov.cn", 
+            "ns1.cdns.cn", 
+            "ns2.cac.gov.cn", 
+            "ns2.cdns.cn", 
+            "ns3.cdns.cn"
+        ], 
+        "domain-name": "cac.gov.cn", 
+        "fuzzer": "omission", 
+        "geoip-country": "China"
+    }, 
+    {
+        "dns-mx": [
+            "mxbiz1.qq.com", 
+            "mxbiz2.qq.com"
+        ], 
+        "dns-ns": [
+            "dns7.hichina.com", 
+            "dns8.hichina.com"
+        ], 
+        "domain-name": "caa.gov.cn", 
+        "fuzzer": "omission"
+    }, 
+    {
+        "dns-a": [
+            "112.124.180.225"
+        ], 
+        "dns-ns": [
+            "dns7.hichina.com", 
+            "dns8.hichina.com"
+        ], 
+        "domain-name": "czac.gov.cn", 
+        "fuzzer": "replacement", 
+        "geoip-country": "China"
+    }, 
+    {
+        "dns-ns": [
+            "f1g1ns1.dnspod.net", 
+            "f1g1ns2.dnspod.net"
+        ], 
+        "domain-name": "casc.gov.cn", 
+        "fuzzer": "replacement"
+    }
+]

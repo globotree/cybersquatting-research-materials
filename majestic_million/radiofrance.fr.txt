@@ -1,0 +1,52 @@
+[
+    {
+        "dns-a": [
+            "81.92.80.55", 
+            "81.92.80.56"
+        ], 
+        "dns-mx": [
+            "master.radio-france.fr"
+        ], 
+        "dns-ns": [
+            "ns2.observatoiredesmarques.fr", 
+            "observatoire.observatoiredesmarques.fr"
+        ], 
+        "domain-name": "radiofrance.fr", 
+        "fuzzer": "original*", 
+        "geoip-country": "France", 
+        "ssdeep-score": 100
+    }, 
+    {
+        "dns-a": [
+            "81.92.80.55", 
+            "81.92.80.56"
+        ], 
+        "dns-mx": [
+            "master.radio-france.fr"
+        ], 
+        "dns-ns": [
+            "ns2.observatoiredesmarques.fr", 
+            "observatoire.observatoiredesmarques.fr"
+        ], 
+        "domain-name": "radio-france.fr", 
+        "fuzzer": "hyphenation", 
+        "geoip-country": "France", 
+        "ssdeep-score": 100
+    }, 
+    {
+        "dns-a": [
+            "199.59.242.150"
+        ], 
+        "domain-name": "radiofra.nce.fr", 
+        "fuzzer": "subdomain", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "127.0.0.1"
+        ], 
+        "domain-name": "radiofran.ce.fr", 
+        "fuzzer": "subdomain"
+    }
+]

@@ -1,0 +1,198 @@
+[
+    {
+        "dns-a": [
+            "185.20.100.239", 
+            "185.20.100.247", 
+            "185.20.100.249"
+        ], 
+        "dns-mx": [
+            "a.mx.delfi.ee", 
+            "b.mx.delfi.ee", 
+            "b.mx.delfi.ee"
+        ], 
+        "dns-ns": [
+            "ns.delfi.ee", 
+            "ns2.delfi.ee"
+        ], 
+        "domain-name": "delfi.ee", 
+        "fuzzer": "original*", 
+        "geoip-country": "Estonia", 
+        "ssdeep-score": 86
+    }, 
+    {
+        "dns-a": [
+            "212.47.208.184"
+        ], 
+        "dns-mx": [
+            "mail.delfin.ee"
+        ], 
+        "dns-ns": [
+            "ns0.radicenter.eu", 
+            "ns2.radicenter.eu"
+        ], 
+        "domain-name": "delfin.ee", 
+        "fuzzer": "addition", 
+        "geoip-country": "Estonia", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "212.47.217.210"
+        ], 
+        "dns-mx": [
+            "telfi.ee"
+        ], 
+        "dns-ns": [
+            "whmns1.termnet.ee", 
+            "whmns2.termnet.ee"
+        ], 
+        "domain-name": "telfi.ee", 
+        "fuzzer": "bitsquatting", 
+        "geoip-country": "Estonia", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "217.146.69.25"
+        ], 
+        "dns-aaaa": [
+            "2a02:29e8:770:0:3::35"
+        ], 
+        "dns-mx": [
+            "mx1.zone.eu", 
+            "mx2.zone.eu"
+        ], 
+        "dns-ns": [
+            "ns.zone.eu", 
+            "ns2.zone.ee", 
+            "ns3.zonedata.net"
+        ], 
+        "domain-name": "elfi.ee", 
+        "fuzzer": "omission", 
+        "geoip-country": "Estonia", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "194.106.117.10"
+        ], 
+        "dns-mx": [
+            "mh1.elkdata.ee", 
+            "mh3.elkdata.ee"
+        ], 
+        "dns-ns": [
+            "ns.elkdata.ee", 
+            "ns2.elkdata.ee", 
+            "ns3.elkdata.net"
+        ], 
+        "domain-name": "deli.ee", 
+        "fuzzer": "omission", 
+        "geoip-country": "Estonia"
+    }, 
+    {
+        "dns-a": [
+            "185.169.68.23"
+        ], 
+        "dns-mx": [
+            "delf.ee"
+        ], 
+        "dns-ns": [
+            "ns1.virtuaal.com", 
+            "ns2.virtuaal.com", 
+            "ns3.virtuaal.com"
+        ], 
+        "domain-name": "delf.ee", 
+        "fuzzer": "omission", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "185.7.252.111"
+        ], 
+        "dns-mx": [
+            "mh11.elkdata.ee", 
+            "mh2.elkdata.ee"
+        ], 
+        "dns-ns": [
+            "ns.elkdata.ee", 
+            "ns2.elkdata.ee", 
+            "ns3.elkdata.net"
+        ], 
+        "domain-name": "dlfi.ee", 
+        "fuzzer": "omission", 
+        "geoip-country": "Estonia", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "91.231.97.254"
+        ], 
+        "dns-mx": [
+            "smtp2.delti.com"
+        ], 
+        "dns-ns": [
+            "dns.globvill.de", 
+            "dns.voerde.globvill.de"
+        ], 
+        "domain-name": "delti.ee", 
+        "fuzzer": "replacement", 
+        "geoip-country": "Germany", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "185.31.240.240"
+        ], 
+        "dns-ns": [
+            "ns.zone.eu", 
+            "ns2.zone.ee", 
+            "ns3.zonedata.net"
+        ], 
+        "domain-name": "selfi.ee", 
+        "fuzzer": "replacement", 
+        "geoip-country": "Estonia", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "217.146.68.36"
+        ], 
+        "dns-aaaa": [
+            "2a02:29e8:770:0:1:1:0:46"
+        ], 
+        "dns-mx": [
+            "mx1.zone.eu", 
+            "mx2.zone.eu"
+        ], 
+        "dns-ns": [
+            "ns.zone.eu", 
+            "ns2.zone.ee", 
+            "ns3.zonedata.net"
+        ], 
+        "domain-name": "defli.ee", 
+        "fuzzer": "transposition", 
+        "geoip-country": "Estonia", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "217.146.68.36"
+        ], 
+        "dns-aaaa": [
+            "2a02:29e8:770:0:1:1:0:46"
+        ], 
+        "dns-mx": [
+            "mx1.zone.eu", 
+            "mx2.zone.eu"
+        ], 
+        "dns-ns": [
+            "ns.zone.eu", 
+            "ns2.zone.ee", 
+            "ns3.zonedata.net"
+        ], 
+        "domain-name": "delif.ee", 
+        "fuzzer": "transposition", 
+        "geoip-country": "Estonia", 
+        "ssdeep-score": 0
+    }
+]

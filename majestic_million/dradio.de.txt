@@ -1,0 +1,406 @@
+[
+    {
+        "dns-a": [
+            "88.215.216.13", 
+            "88.215.236.15"
+        ], 
+        "dns-mx": [
+            "mailav.dradio.de", 
+            "mx16a.antispameurope.com", 
+            "mx16b.antispameurope.com", 
+            "mx16c.antispameurope.com", 
+            "mx16d.antispameurope.com"
+        ], 
+        "dns-ns": [
+            "auth4.dns.cogentco.com", 
+            "auth5.dns.cogentco.com", 
+            "ns1.vodafone-ip.de", 
+            "ns2.vodafone-ip.de"
+        ], 
+        "domain-name": "dradio.de", 
+        "fuzzer": "original*", 
+        "geoip-country": "Germany", 
+        "ssdeep-score": 90
+    }, 
+    {
+        "dns-a": [
+            "69.16.230.42"
+        ], 
+        "dns-mx": [
+            "mx156.hostedmxserver.com"
+        ], 
+        "dns-ns": [
+            "ns1.parklogic.com", 
+            "ns2.parklogic.com", 
+            "ns3.parklogic.com"
+        ], 
+        "domain-name": "dradion.de", 
+        "fuzzer": "addition", 
+        "geoip-country": "United States", 
+        "mx-spy": true, 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "81.169.228.201"
+        ], 
+        "dns-mx": [
+            "mail.eradio.de"
+        ], 
+        "dns-ns": [
+            "ns1-tec.de", 
+            "ns2-tec.de"
+        ], 
+        "domain-name": "eradio.de", 
+        "fuzzer": "bitsquatting", 
+        "geoip-country": "Germany", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "72.52.4.120"
+        ], 
+        "dns-mx": [
+            "localhost"
+        ], 
+        "dns-ns": [
+            "ns1.sedoparking.com", 
+            "ns2.sedoparking.com"
+        ], 
+        "domain-name": "fradio.de", 
+        "fuzzer": "bitsquatting", 
+        "geoip-country": "United States", 
+        "mx-spy": true, 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "217.160.0.20"
+        ], 
+        "dns-mx": [
+            "mx00.schlund.de", 
+            "mx01.schlund.de"
+        ], 
+        "dns-ns": [
+            "ns10.schlund.de", 
+            "ns9.schlund.de"
+        ], 
+        "domain-name": "tradio.de", 
+        "fuzzer": "bitsquatting", 
+        "geoip-country": "Germany"
+    }, 
+    {
+        "dns-a": [
+            "95.211.219.66"
+        ], 
+        "dns-ns": [
+            "ns1.hastydns.com", 
+            "ns2.hastydns.com"
+        ], 
+        "domain-name": "dlradio.de", 
+        "fuzzer": "homoglyph", 
+        "geoip-country": "Netherlands", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "92.51.149.207"
+        ], 
+        "dns-mx": [
+            "mail.vollduplex.de"
+        ], 
+        "dns-ns": [
+            "ns.vollduplex.de", 
+            "ns2.hans.hosteurope.de"
+        ], 
+        "domain-name": "bradio.de", 
+        "fuzzer": "homoglyph", 
+        "geoip-country": "Germany", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "88.215.216.15", 
+            "88.215.236.15"
+        ], 
+        "dns-mx": [
+            "mx16a.antispameurope.com", 
+            "mx16b.antispameurope.com", 
+            "mx16c.antispameurope.com", 
+            "mx16d.antispameurope.com"
+        ], 
+        "dns-ns": [
+            "auth4.dns.cogentco.com", 
+            "auth5.dns.cogentco.com", 
+            "ns1.vodafone-ip.de", 
+            "ns2.vodafone-ip.de"
+        ], 
+        "domain-name": "d-radio.de", 
+        "fuzzer": "hyphenation", 
+        "geoip-country": "Germany", 
+        "ssdeep-score": 90
+    }, 
+    {
+        "dns-a": [
+            "217.160.231.222"
+        ], 
+        "dns-mx": [
+            "mx00.schlund.de", 
+            "mx01.schlund.de"
+        ], 
+        "dns-ns": [
+            "ns15.schlund.de", 
+            "ns16.schlund.de"
+        ], 
+        "domain-name": "deradio.de", 
+        "fuzzer": "insertion", 
+        "geoip-country": "Germany", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "185.53.177.20"
+        ], 
+        "dns-ns": [
+            "parkdns1.internetvikings.com", 
+            "parkdns2.internetvikings.com"
+        ], 
+        "domain-name": "draio.de", 
+        "fuzzer": "omission", 
+        "geoip-country": "Germany", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "69.16.230.42"
+        ], 
+        "dns-mx": [
+            "mx156.hostedmxserver.com"
+        ], 
+        "dns-ns": [
+            "ns1.parklogic.com", 
+            "ns2.parklogic.com", 
+            "ns3.parklogic.com"
+        ], 
+        "domain-name": "dadio.de", 
+        "fuzzer": "omission", 
+        "geoip-country": "United States", 
+        "mx-spy": true, 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "69.16.230.42"
+        ], 
+        "dns-ns": [
+            "ns1.parklogic.com", 
+            "ns2.parklogic.com", 
+            "ns3.parklogic.com"
+        ], 
+        "domain-name": "drdio.de", 
+        "fuzzer": "omission", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "81.17.208.200"
+        ], 
+        "dns-mx": [
+            "ALT1.ASPMX.L.GOOGLE.COM", 
+            "ALT2.ASPMX.L.GOOGLE.COM", 
+            "ALT3.ASPMX.L.GOOGLE.COM", 
+            "ALT4.ASPMX.L.GOOGLE.COM", 
+            "ASPMX.L.GOOGLE.COM"
+        ], 
+        "dns-ns": [
+            "ns.mpexnet.de", 
+            "ns2.mpexnet.de", 
+            "ns3.mpex.net"
+        ], 
+        "domain-name": "radio.de", 
+        "fuzzer": "omission", 
+        "geoip-country": "Germany", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "69.16.230.42"
+        ], 
+        "dns-mx": [
+            "mx156.hostedmxserver.com"
+        ], 
+        "dns-ns": [
+            "ns1.parklogic.com", 
+            "ns2.parklogic.com", 
+            "ns3.parklogic.com"
+        ], 
+        "domain-name": "drado.de", 
+        "fuzzer": "omission", 
+        "geoip-country": "United States", 
+        "mx-spy": true, 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "185.53.177.20"
+        ], 
+        "dns-ns": [
+            "parkdns1.internetvikings.com", 
+            "parkdns2.internetvikings.com"
+        ], 
+        "domain-name": "drradio.de", 
+        "fuzzer": "repetition", 
+        "geoip-country": "Germany", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "185.53.177.20"
+        ], 
+        "dns-ns": [
+            "parkdns1.internetvikings.com", 
+            "parkdns2.internetvikings.com"
+        ], 
+        "domain-name": "rradio.de", 
+        "fuzzer": "replacement", 
+        "geoip-country": "Germany", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "217.160.122.142"
+        ], 
+        "dns-aaaa": [
+            "2001:8d8:1000:f0b7:21ca:bf3e:c274:5008"
+        ], 
+        "dns-mx": [
+            "mx00.kundenserver.de", 
+            "mx01.kundenserver.de"
+        ], 
+        "dns-ns": [
+            "ns-de.1and1-dns.biz", 
+            "ns-de.1and1-dns.com", 
+            "ns-de.1and1-dns.de", 
+            "ns-de.1and1-dns.org"
+        ], 
+        "domain-name": "dradoo.de", 
+        "fuzzer": "replacement", 
+        "geoip-country": "Germany", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "72.52.4.120"
+        ], 
+        "dns-mx": [
+            "localhost"
+        ], 
+        "dns-ns": [
+            "ns1.sedoparking.com"
+        ], 
+        "domain-name": "xradio.de", 
+        "fuzzer": "replacement", 
+        "geoip-country": "United States", 
+        "mx-spy": true, 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "94.102.209.15"
+        ], 
+        "dns-mx": [
+            "mail.cradio.de"
+        ], 
+        "dns-ns": [
+            "ns1.antagus.de", 
+            "ns2.antagus.de"
+        ], 
+        "domain-name": "cradio.de", 
+        "fuzzer": "replacement", 
+        "geoip-country": "Germany"
+    }, 
+    {
+        "dns-a": [
+            "81.17.208.200"
+        ], 
+        "domain-name": "d.radio.de", 
+        "fuzzer": "subdomain", 
+        "geoip-country": "Germany", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "217.243.194.123"
+        ], 
+        "domain-name": "dra.dio.de", 
+        "fuzzer": "subdomain", 
+        "geoip-country": "Germany", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "88.99.192.80"
+        ], 
+        "dns-ns": [
+            "ns1.kv.de", 
+            "ns2.kv.de"
+        ], 
+        "domain-name": "dradi.o.de", 
+        "fuzzer": "subdomain", 
+        "geoip-country": "Germany", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "69.16.230.42"
+        ], 
+        "dns-mx": [
+            "mx156.hostedmxserver.com"
+        ], 
+        "dns-ns": [
+            "ns1.parklogic.com", 
+            "ns2.parklogic.com", 
+            "ns3.parklogic.com"
+        ], 
+        "domain-name": "dardio.de", 
+        "fuzzer": "transposition", 
+        "geoip-country": "United States", 
+        "mx-spy": true, 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "185.53.178.6"
+        ], 
+        "dns-mx": [
+            "mail.h-email.net"
+        ], 
+        "dns-ns": [
+            "ns1.parkingcrew.net", 
+            "ns2.parkingcrew.net"
+        ], 
+        "domain-name": "draido.de", 
+        "fuzzer": "transposition", 
+        "geoip-country": "Germany", 
+        "mx-spy": true, 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "185.53.179.6"
+        ], 
+        "dns-mx": [
+            "mail.h-email.net"
+        ], 
+        "dns-ns": [
+            "ns1.parkingcrew.net", 
+            "ns2.parkingcrew.net"
+        ], 
+        "domain-name": "dradoi.de", 
+        "fuzzer": "transposition", 
+        "geoip-country": "Germany", 
+        "mx-spy": true, 
+        "ssdeep-score": 0
+    }
+]

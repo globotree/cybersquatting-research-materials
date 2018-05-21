@@ -1,0 +1,93 @@
+[
+    {
+        "dns-a": [
+            "67.199.248.12", 
+            "67.199.248.13"
+        ], 
+        "dns-ns": [
+            "ns1.p31.dynect.net", 
+            "ns2.p31.dynect.net", 
+            "ns3.p31.dynect.net", 
+            "ns4.p31.dynect.net", 
+            "pdns1.ultradns.net", 
+            "pdns2.ultradns.net", 
+            "pdns3.ultradns.org", 
+            "pdns4.ultradns.org", 
+            "pdns5.ultradns.info", 
+            "pdns6.ultradns.co.uk"
+        ], 
+        "domain-name": "amzn.to", 
+        "fuzzer": "original*", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 83
+    }, 
+    {
+        "dns-a": [
+            "103.224.182.249"
+        ], 
+        "dns-mx": [
+            "mx92.m1bp.com", 
+            "mx92.mb5p.com"
+        ], 
+        "dns-ns": [
+            "ns1.above.com", 
+            "ns2.above.com"
+        ], 
+        "domain-name": "amazn.to", 
+        "fuzzer": "insertion", 
+        "geoip-country": "Australia", 
+        "mx-spy": true, 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "104.28.24.85", 
+            "104.28.25.85"
+        ], 
+        "dns-aaaa": [
+            "2400:cb00:2048:1::681c:1855", 
+            "2400:cb00:2048:1::681c:1955"
+        ], 
+        "dns-ns": [
+            "dana.ns.cloudflare.com", 
+            "matt.ns.cloudflare.com"
+        ], 
+        "domain-name": "amz.to", 
+        "fuzzer": "omission", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 83
+    }, 
+    {
+        "dns-a": [
+            "185.26.105.244"
+        ], 
+        "dns-mx": [
+            "mxl1.spamora.net", 
+            "mxp1.spamora.net", 
+            "mxv1.spamora.net"
+        ], 
+        "dns-ns": [
+            "ns1.netim.net", 
+            "ns2.netim.net", 
+            "ns3.netim.net", 
+            "ns4.netim.net", 
+            "ns5.netim.net"
+        ], 
+        "domain-name": "azn.to", 
+        "fuzzer": "omission", 
+        "geoip-country": "France", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "210.152.150.111"
+        ], 
+        "dns-ns": [
+            "gdns1.interlink.or.jp", 
+            "gdns2.interlink.or.jp"
+        ], 
+        "domain-name": "amsn.to", 
+        "fuzzer": "replacement", 
+        "geoip-country": "Japan"
+    }
+]

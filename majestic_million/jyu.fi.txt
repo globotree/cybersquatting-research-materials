@@ -1,0 +1,226 @@
+[
+    {
+        "dns-a": [
+            "130.234.6.46"
+        ], 
+        "dns-mx": [
+            "mailgw1.jyu.fi", 
+            "mailgw2.jyu.fi"
+        ], 
+        "dns-ns": [
+            "ns-secondary.funet.fi", 
+            "ns1.jyu.fi", 
+            "ns2.jyu.fi"
+        ], 
+        "domain-name": "jyu.fi", 
+        "fuzzer": "original*", 
+        "geoip-country": "Finland", 
+        "ssdeep-score": 100
+    }, 
+    {
+        "dns-a": [
+            "83.136.252.35"
+        ], 
+        "dns-ns": [
+            "ns1.aptual.fi", 
+            "ns2.aptual.fi"
+        ], 
+        "domain-name": "nyu.fi", 
+        "fuzzer": "bitsquatting", 
+        "geoip-country": "United Kingdom", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "199.59.242.150"
+        ], 
+        "dns-mx": [
+            "mx76.m2bp.com", 
+            "mx76.mb1p.com"
+        ], 
+        "dns-ns": [
+            "ns1.bodis.com", 
+            "ns2.bodis.com"
+        ], 
+        "domain-name": "jiu.fi", 
+        "fuzzer": "bitsquatting", 
+        "geoip-country": "United States", 
+        "mx-spy": true, 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "185.179.117.13"
+        ], 
+        "dns-mx": [
+            "jyt.fi"
+        ], 
+        "dns-ns": [
+            "ns1.webhotellit.com", 
+            "ns2.webhotellit.com", 
+            "ns3.webhotellit.com"
+        ], 
+        "domain-name": "jyt.fi", 
+        "fuzzer": "bitsquatting", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-mx": [
+            "mxa.mailgun.org", 
+            "mxb.mailgun.org"
+        ], 
+        "dns-ns": [
+            "ns1.he.net", 
+            "ns2.he.net", 
+            "ns3.he.net", 
+            "ns4.he.net", 
+            "ns5.he.net"
+        ], 
+        "domain-name": "yu.fi", 
+        "fuzzer": "omission"
+    }, 
+    {
+        "dns-a": [
+            "192.130.3.63"
+        ], 
+        "dns-mx": [
+            "posti.ex.fi"
+        ], 
+        "dns-ns": [
+            "ns1.ex.fi", 
+            "ns2.ex.fi"
+        ], 
+        "domain-name": "jy.fi", 
+        "fuzzer": "omission", 
+        "geoip-country": "Finland"
+    }, 
+    {
+        "dns-a": [
+            "31.217.192.156"
+        ], 
+        "dns-mx": [
+            "securemail1.hostingservice.fi", 
+            "securemail2.hostingservice.fi"
+        ], 
+        "dns-ns": [
+            "ns1.hostingpalvelu.fi", 
+            "ns2.hostingpalvelu.fi"
+        ], 
+        "domain-name": "jau.fi", 
+        "fuzzer": "replacement", 
+        "geoip-country": "Finland", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "185.55.84.252"
+        ], 
+        "dns-ns": [
+            "ns1.domainkauppa.fi", 
+            "ns2.domainkauppa.fi"
+        ], 
+        "domain-name": "jsu.fi", 
+        "fuzzer": "replacement", 
+        "geoip-country": "Finland", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "185.16.98.149"
+        ], 
+        "dns-mx": [
+            "mx2.nettitieto.fi", 
+            "xenon.nettitieto.fi"
+        ], 
+        "dns-ns": [
+            "ns3.nettitieto.fi", 
+            "ns4.nettitieto.fi"
+        ], 
+        "domain-name": "juu.fi", 
+        "fuzzer": "replacement", 
+        "geoip-country": "Finland", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "83.143.220.147", 
+            "83.143.220.148", 
+            "83.143.220.151"
+        ], 
+        "dns-aaaa": [
+            "2a00:14c0:1:307:aa51::147", 
+            "2a00:14c0:1:307:aa51::148", 
+            "2a00:14c0:1:307:aa51::151"
+        ], 
+        "dns-mx": [
+            "ALT1.ASPMX.L.GOOGLE.com", 
+            "ALT2.ASPMX.L.GOOGLE.com", 
+            "ALT3.ASPMX.L.GOOGLE.com", 
+            "ALT4.ASPMX.L.GOOGLE.com", 
+            "ASPMX.L.GOOGLE.com"
+        ], 
+        "dns-ns": [
+            "prodns.kotisivut.com", 
+            "prodns2.kotisivut.com", 
+            "prodns3.kotisivut.com", 
+            "prodns4.kotisivut.com"
+        ], 
+        "domain-name": "jyy.fi", 
+        "fuzzer": "replacement", 
+        "geoip-country": "Finland", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "77.240.23.85"
+        ], 
+        "dns-mx": [
+            "jhu.fi"
+        ], 
+        "dns-ns": [
+            "dns1.louhi.net", 
+            "dns2.louhi.net", 
+            "dns3.louhi.fi"
+        ], 
+        "domain-name": "jhu.fi", 
+        "fuzzer": "replacement", 
+        "geoip-country": "Finland", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "188.117.29.71"
+        ], 
+        "dns-mx": [
+            "juy.fi"
+        ], 
+        "dns-ns": [
+            "ns1.webhotelli.fi", 
+            "ns2.webhotelli.fi"
+        ], 
+        "domain-name": "juy.fi", 
+        "fuzzer": "transposition"
+    }, 
+    {
+        "dns-a": [
+            "178.63.45.64"
+        ], 
+        "dns-mx": [
+            "alt1.aspmx.l.google.com", 
+            "alt2.aspmx.l.google.com", 
+            "aspmx.l.google.com", 
+            "aspmx2.googlemail.com", 
+            "aspmx3.googlemail.com", 
+            "aspmx4.googlemail.com", 
+            "aspmx5.googlemail.com"
+        ], 
+        "dns-ns": [
+            "ns1.donbranco.fi", 
+            "ns2.donbranco.fi"
+        ], 
+        "domain-name": "jya.fi", 
+        "fuzzer": "vowel-swap", 
+        "geoip-country": "Germany", 
+        "ssdeep-score": 0
+    }
+]

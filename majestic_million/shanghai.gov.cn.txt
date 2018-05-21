@@ -1,0 +1,24 @@
+[
+    {
+        "dns-mx": [
+            "mail.shanghai.gov.cn", 
+            "mailgateway.shanghai.gov.cn"
+        ], 
+        "dns-ns": [
+            "ns.shanghai.gov.cn", 
+            "ns2.shanghai.gov.cn", 
+            "ns3.shanghai.gov.cn"
+        ], 
+        "domain-name": "shanghai.gov.cn", 
+        "fuzzer": "original*"
+    }, 
+    {
+        "dns-ns": [
+            "ns.shanghai.cn", 
+            "ns2.shanghai.cn", 
+            "ns3.shanghai.cn"
+        ], 
+        "domain-name": "shanghai.cn", 
+        "fuzzer": "various"
+    }
+]

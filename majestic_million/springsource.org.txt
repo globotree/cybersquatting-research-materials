@@ -1,0 +1,60 @@
+[
+    {
+        "dns-a": [
+            "52.20.63.48", 
+            "52.3.40.100", 
+            "52.4.208.42", 
+            "52.73.244.76", 
+            "54.173.180.4", 
+            "54.208.162.50"
+        ], 
+        "dns-mx": [
+            "mail1.vmware.com", 
+            "mail1b.vmware.com"
+        ], 
+        "dns-ns": [
+            "mary.ns.cloudflare.com", 
+            "theo.ns.cloudflare.com"
+        ], 
+        "domain-name": "springsource.org", 
+        "fuzzer": "original*", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 97
+    }, 
+    {
+        "dns-a": [
+            "205.178.189.131"
+        ], 
+        "domain-name": "sp.ringsource.org", 
+        "fuzzer": "subdomain", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "75.126.102.244"
+        ], 
+        "domain-name": "springsou.rce.org", 
+        "fuzzer": "subdomain", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "216.83.206.108"
+        ], 
+        "domain-name": "springsour.ce.org", 
+        "fuzzer": "subdomain", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "217.194.213.243"
+        ], 
+        "domain-name": "springsourc.e.org", 
+        "fuzzer": "subdomain", 
+        "geoip-country": "United Kingdom", 
+        "ssdeep-score": 0
+    }
+]

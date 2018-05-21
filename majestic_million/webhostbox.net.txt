@@ -1,0 +1,35 @@
+[
+    {
+        "dns-mx": [
+            "mx1.mailhostbox.com", 
+            "mx2.mailhostbox.com", 
+            "mx3.mailhostbox.com"
+        ], 
+        "dns-ns": [
+            "andy.ns.cloudflare.com", 
+            "dora.ns.cloudflare.com"
+        ], 
+        "domain-name": "webhostbox.net", 
+        "fuzzer": "original*"
+    }, 
+    {
+        "dns-a": [
+            "204.11.56.48"
+        ], 
+        "dns-ns": [
+            "ns1626.ztomy.com", 
+            "ns2626.ztomy.com"
+        ], 
+        "domain-name": "webhos.tbox.net", 
+        "fuzzer": "subdomain", 
+        "geoip-country": "Virgin Islands"
+    }, 
+    {
+        "dns-a": [
+            "107.152.27.193"
+        ], 
+        "domain-name": "webhost.box.net", 
+        "fuzzer": "subdomain", 
+        "geoip-country": "United States"
+    }
+]

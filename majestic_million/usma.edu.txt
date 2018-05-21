@@ -1,0 +1,99 @@
+[
+    {
+        "dns-a": [
+            "143.69.2.10"
+        ], 
+        "dns-mx": [
+            "pri-jeemsg.eemsg.mail.mil", 
+            "sec-jeemsg.eemsg.mail.mil", 
+            "smtp03.usma.army.mil", 
+            "smtp04.usma.army.mil"
+        ], 
+        "dns-ns": [
+            "ns01.army.mil", 
+            "ns02.army.mil", 
+            "ns03.army.mil"
+        ], 
+        "domain-name": "usma.edu", 
+        "fuzzer": "original*", 
+        "geoip-country": "United States"
+    }, 
+    {
+        "dns-a": [
+            "136.160.88.139"
+        ], 
+        "dns-mx": [
+            "alt1.aspmx.l.google.com", 
+            "alt2.aspmx.l.google.com", 
+            "alt3.aspmx.l.google.com", 
+            "alt4.aspmx.l.google.com", 
+            "aspmx.l.google.com"
+        ], 
+        "dns-ns": [
+            "ns-a.usna.edu", 
+            "ns-b.usna.edu"
+        ], 
+        "domain-name": "usna.edu", 
+        "fuzzer": "homoglyph", 
+        "geoip-country": "United States"
+    }, 
+    {
+        "dns-a": [
+            "131.95.7.15"
+        ], 
+        "dns-mx": [
+            "usm-edu.mail.protection.outlook.com"
+        ], 
+        "dns-ns": [
+            "darban3.cc.usm.edu", 
+            "darban4.cc.usm.edu"
+        ], 
+        "domain-name": "usm.edu", 
+        "fuzzer": "omission", 
+        "geoip-country": "United States"
+    }, 
+    {
+        "dns-a": [
+            "130.111.28.14"
+        ], 
+        "dns-ns": [
+            "nameo.its.maine.edu", 
+            "namep.its.maine.edu"
+        ], 
+        "domain-name": "uma.edu", 
+        "fuzzer": "omission", 
+        "geoip-country": "United States"
+    }, 
+    {
+        "dns-a": [
+            "109.199.115.231"
+        ], 
+        "dns-mx": [
+            "usa-edu.mail.protection.outlook.com"
+        ], 
+        "dns-ns": [
+            "ns4.laureate.net", 
+            "ns5.laureate.net", 
+            "ns6.laureate.net"
+        ], 
+        "domain-name": "usa.edu", 
+        "fuzzer": "omission"
+    }, 
+    {
+        "dns-mx": [
+            "smtp01.usmma.edu", 
+            "smtp02.usmma.edu", 
+            "smtp03.usmma.edu"
+        ], 
+        "dns-ns": [
+            "ns10.dnsmadeeasy.com", 
+            "ns11.dnsmadeeasy.com", 
+            "ns12.dnsmadeeasy.com", 
+            "ns13.dnsmadeeasy.com", 
+            "ns14.dnsmadeeasy.com", 
+            "ns15.dnsmadeeasy.com"
+        ], 
+        "domain-name": "usmma.edu", 
+        "fuzzer": "repetition"
+    }
+]

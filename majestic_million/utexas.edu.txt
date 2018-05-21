@@ -1,0 +1,38 @@
+[
+    {
+        "dns-a": [
+            "23.185.0.4"
+        ], 
+        "dns-aaaa": [
+            "2620:12a:8000::4", 
+            "2620:12a:8001::4"
+        ], 
+        "dns-mx": [
+            "inbound.mail.utexas.edu"
+        ], 
+        "dns-ns": [
+            "chisos.ots.utexas.edu", 
+            "dns1.illinois.edu", 
+            "dns2.illinois.edu", 
+            "glass.its.utexas.edu", 
+            "marianas.its.utexas.edu"
+        ], 
+        "domain-name": "utexas.edu", 
+        "fuzzer": "original*", 
+        "ssdeep-score": 100
+    }, 
+    {
+        "dns-a": [
+            "63.249.181.78"
+        ], 
+        "dns-mx": [
+            "mail.utexas-edu.com"
+        ], 
+        "dns-ns": [
+            "custns1.dal.corespace.com", 
+            "custns2.dal.corespace.com"
+        ], 
+        "domain-name": "utexas-edu.com", 
+        "fuzzer": "various"
+    }
+]

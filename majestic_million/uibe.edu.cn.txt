@@ -1,0 +1,22 @@
+[
+    {
+        "dns-mx": [
+            "mx.uibe.edu.cn"
+        ], 
+        "dns-ns": [
+            "ipv6dns.uibe.edu.cn", 
+            "sun.uibe.edu.cn", 
+            "water.uibe.edu.cn"
+        ], 
+        "domain-name": "uibe.edu.cn", 
+        "fuzzer": "original*"
+    }, 
+    {
+        "dns-ns": [
+            "ns1.service.edu.cn", 
+            "ns2.service.edu.cn"
+        ], 
+        "domain-name": "uibe.cn", 
+        "fuzzer": "various"
+    }
+]

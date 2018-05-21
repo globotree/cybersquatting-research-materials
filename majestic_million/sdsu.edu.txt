@@ -1,0 +1,86 @@
+[
+    {
+        "dns-mx": [
+            "ALT1.ASPMX.L.GOOGLE.COM", 
+            "ALT2.ASPMX.L.GOOGLE.COM", 
+            "ALT3.ASPMX.L.GOOGLE.COM", 
+            "ALT4.ASPMX.L.GOOGLE.COM", 
+            "ASPMX.L.GOOGLE.COM"
+        ], 
+        "dns-ns": [
+            "dogbert.sdsu.edu", 
+            "munga.sdsu.edu", 
+            "ns1.ucsd.edu", 
+            "ratbert.sdsu.edu"
+        ], 
+        "domain-name": "sdsu.edu", 
+        "fuzzer": "original*"
+    }, 
+    {
+        "dns-a": [
+            "130.212.10.204"
+        ], 
+        "dns-mx": [
+            "sfsu-edu.mail.protection.outlook.com"
+        ], 
+        "dns-ns": [
+            "ns1.sfsu.edu", 
+            "ns2.sfsu.edu", 
+            "ns3.sfsu.edu", 
+            "ns4.cenic.org", 
+            "ns5.cenic.org", 
+            "ns6.cenic.org"
+        ], 
+        "domain-name": "sfsu.edu", 
+        "fuzzer": "bitsquatting", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "162.241.188.131"
+        ], 
+        "dns-ns": [
+            "ns1.ssu.edu", 
+            "ns2.ssu.edu"
+        ], 
+        "domain-name": "ssu.edu", 
+        "fuzzer": "omission", 
+        "geoip-country": "United States"
+    }, 
+    {
+        "dns-a": [
+            "138.247.117.248", 
+            "138.247.117.249"
+        ], 
+        "dns-mx": [
+            "smtp.sd.gov"
+        ], 
+        "dns-ns": [
+            "ns01.dsu.edu", 
+            "ns02.dsu.edu", 
+            "ns03.dsu.edu"
+        ], 
+        "domain-name": "dsu.edu", 
+        "fuzzer": "omission", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "192.231.63.9"
+        ], 
+        "dns-mx": [
+            "barracuda.scsu.edu", 
+            "scsu-edu.mail.protection.outlook.com"
+        ], 
+        "dns-ns": [
+            "ns1.p04.dynect.net", 
+            "ns2.p04.dynect.net", 
+            "ns3.p04.dynect.net", 
+            "ns4.p04.dynect.net"
+        ], 
+        "domain-name": "scsu.edu", 
+        "fuzzer": "replacement"
+    }
+]

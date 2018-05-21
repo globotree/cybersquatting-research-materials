@@ -1,0 +1,101 @@
+[
+    {
+        "dns-a": [
+            "139.224.226.136"
+        ], 
+        "dns-mx": [
+            "mx.sendcloud.org", 
+            "mxn.mxhichina.com", 
+            "mxw.mxhichina.com"
+        ], 
+        "dns-ns": [
+            "ns1.alidns.com", 
+            "ns2.alidns.com"
+        ], 
+        "domain-name": "metinfo.cn", 
+        "fuzzer": "original*", 
+        "geoip-country": "China", 
+        "ssdeep-score": 100
+    }, 
+    {
+        "dns-ns": [
+            "f1g1ns1.dnspod.net", 
+            "f1g1ns2.dnspod.net"
+        ], 
+        "domain-name": "matinfo.cn", 
+        "fuzzer": "bitsquatting"
+    }, 
+    {
+        "dns-a": [
+            "104.160.171.88"
+        ], 
+        "domain-name": "netinfo.cn", 
+        "fuzzer": "homoglyph", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "47.89.58.141"
+        ], 
+        "dns-ns": [
+            "dns25.hichina.com", 
+            "dns26.hichina.com"
+        ], 
+        "domain-name": "metoinfo.cn", 
+        "fuzzer": "insertion", 
+        "geoip-country": "United States"
+    }, 
+    {
+        "dns-ns": [
+            "ns17.xincache.com", 
+            "ns18.xincache.com"
+        ], 
+        "domain-name": "etinfo.cn", 
+        "fuzzer": "omission"
+    }, 
+    {
+        "dns-ns": [
+            "dns17.hichina.com", 
+            "dns18.hichina.com"
+        ], 
+        "domain-name": "mtinfo.cn", 
+        "fuzzer": "omission"
+    }, 
+    {
+        "dns-a": [
+            "50.117.120.251"
+        ], 
+        "dns-mx": [
+            "mail.happyisp.com"
+        ], 
+        "domain-name": "jetinfo.cn", 
+        "fuzzer": "replacement", 
+        "geoip-country": "United States", 
+        "mx-spy": true, 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "50.117.120.251"
+        ], 
+        "dns-mx": [
+            "mail.happyisp.com"
+        ], 
+        "domain-name": "meginfo.cn", 
+        "fuzzer": "replacement", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-mx": [
+            "mx.ym.163.com"
+        ], 
+        "dns-ns": [
+            "dns10.hichina.com", 
+            "dns9.hichina.com"
+        ], 
+        "domain-name": "mstinfo.cn", 
+        "fuzzer": "replacement"
+    }
+]

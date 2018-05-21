@@ -1,0 +1,132 @@
+[
+    {
+        "dns-a": [
+            "165.194.1.2"
+        ], 
+        "dns-mx": [
+            "cau-ac-kr.mail.protection.outlook.com"
+        ], 
+        "dns-ns": [
+            "ns.cau.ac.kr", 
+            "ns1.cau.ac.kr"
+        ], 
+        "domain-name": "cau.ac.kr", 
+        "fuzzer": "original*", 
+        "geoip-country": "Korea", 
+        "ssdeep-score": 100
+    }, 
+    {
+        "dns-a": [
+            "211.57.238.159"
+        ], 
+        "dns-mx": [
+            "mail.bau.ac.kr", 
+            "sniper.bau.ac.kr"
+        ], 
+        "dns-ns": [
+            "ns.bau.ac.kr"
+        ], 
+        "domain-name": "bau.ac.kr", 
+        "fuzzer": "bitsquatting", 
+        "geoip-country": "Korea"
+    }, 
+    {
+        "dns-a": [
+            "203.253.150.56"
+        ], 
+        "dns-mx": [
+            "ems.kau.ac.kr", 
+            "mail.kau.ac.kr", 
+            "oldspam.kau.ac.kr"
+        ], 
+        "dns-ns": [
+            "dns1.kau.ac.kr", 
+            "dns2.kau.ac.kr"
+        ], 
+        "domain-name": "kau.ac.kr", 
+        "fuzzer": "bitsquatting", 
+        "geoip-country": "Korea", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-mx": [
+            "mail.sau.ac.kr"
+        ], 
+        "dns-ns": [
+            "ns.ansantc.ac.kr"
+        ], 
+        "domain-name": "sau.ac.kr", 
+        "fuzzer": "bitsquatting", 
+        "mx-spy": true
+    }, 
+    {
+        "dns-a": [
+            "59.4.98.35"
+        ], 
+        "dns-mx": [
+            "gwmail.ca.ac.kr", 
+            "sniper.ca.ac.kr"
+        ], 
+        "dns-ns": [
+            "ns.ca.ac.kr"
+        ], 
+        "domain-name": "ca.ac.kr", 
+        "fuzzer": "omission", 
+        "geoip-country": "Korea", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "203.250.62.200"
+        ], 
+        "dns-mx": [
+            "mail.cu.ac.kr"
+        ], 
+        "dns-ns": [
+            "ns.cataegu.ac.kr", 
+            "ns2.cataegu.ac.kr"
+        ], 
+        "domain-name": "cu.ac.kr", 
+        "fuzzer": "omission", 
+        "geoip-country": "Korea", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "168.115.32.110"
+        ], 
+        "dns-mx": [
+            "gwmail.donga.ac.kr", 
+            "spamout.donga.ac.kr"
+        ], 
+        "dns-ns": [
+            "dns3.donga.ac.kr", 
+            "dutis.donga.ac.kr", 
+            "seunghak.donga.ac.kr"
+        ], 
+        "domain-name": "dau.ac.kr", 
+        "fuzzer": "replacement"
+    }, 
+    {
+        "dns-mx": [
+            "spam.chongshin.ac.kr"
+        ], 
+        "dns-ns": [
+            "ns.kornet.net", 
+            "ns2.kornet.net"
+        ], 
+        "domain-name": "csu.ac.kr", 
+        "fuzzer": "replacement"
+    }, 
+    {
+        "dns-a": [
+            "202.31.187.204"
+        ], 
+        "dns-ns": [
+            "ns1.uhost.co.kr", 
+            "ns2.uhost.co.kr"
+        ], 
+        "domain-name": "cau.kr", 
+        "fuzzer": "various"
+    }
+]

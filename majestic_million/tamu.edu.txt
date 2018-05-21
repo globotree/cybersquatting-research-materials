@@ -1,0 +1,173 @@
+[
+    {
+        "dns-a": [
+            "165.91.22.70"
+        ], 
+        "dns-mx": [
+            "smtp-relay.tamu.edu", 
+            "tamu-relay.tamu.edu"
+        ], 
+        "dns-ns": [
+            "ns1.tamu.edu", 
+            "ns2.tamu.edu", 
+            "ns3.tamu.edu", 
+            "ns4.tamu.edu"
+        ], 
+        "domain-name": "tamu.edu", 
+        "fuzzer": "original*", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 100
+    }, 
+    {
+        "dns-a": [
+            "68.232.1.147"
+        ], 
+        "dns-mx": [
+            "smtpagent01.tamuc.edu", 
+            "smtpagent02.tamuc.edu"
+        ], 
+        "dns-ns": [
+            "dns1.tamuc.edu", 
+            "dns2.tamuc.edu", 
+            "dns3.tamuc.edu"
+        ], 
+        "domain-name": "tamuc.edu", 
+        "fuzzer": "addition", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "165.91.133.103"
+        ], 
+        "dns-mx": [
+            "cashub.tamug.edu", 
+            "cscashub.tamug.edu", 
+            "gillnet-agent1.tamug.edu", 
+            "gillnet.tamug.edu", 
+            "smtp-relay.tamu.edu"
+        ], 
+        "dns-ns": [
+            "ns1.tamu.edu", 
+            "ns2.tamu.edu", 
+            "ns3.tamu.edu", 
+            "ns4.tamu.edu"
+        ], 
+        "domain-name": "tamug.edu", 
+        "fuzzer": "addition", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "139.94.97.208"
+        ], 
+        "dns-mx": [
+            "excas01.tamuk.edu", 
+            "proofpnt-agt1.tamuk.edu", 
+            "proofpnt-agt2.tamuk.edu"
+        ], 
+        "dns-ns": [
+            "dns2.tamuk.edu", 
+            "themis.tamuk.edu"
+        ], 
+        "domain-name": "tamuk.edu", 
+        "fuzzer": "addition", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "104.154.23.203"
+        ], 
+        "dns-mx": [
+            "csc-mail.ad.tamus.edu", 
+            "smtp-relay.tamu.edu", 
+            "so-mail.ad.tamus.edu"
+        ], 
+        "dns-ns": [
+            "ns1.tamu.edu", 
+            "ns2.tamu.edu", 
+            "ns3.tamu.edu", 
+            "ns4.tamu.edu"
+        ], 
+        "domain-name": "tamus.edu", 
+        "fuzzer": "addition", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "199.79.56.116"
+        ], 
+        "dns-mx": [
+            "proofpointa1.tamut.edu", 
+            "proofpointm.tamut.edu"
+        ], 
+        "dns-ns": [
+            "dnsv1.tamut.edu", 
+            "ns3.tamu.edu"
+        ], 
+        "domain-name": "tamut.edu", 
+        "fuzzer": "addition", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "74.124.212.234"
+        ], 
+        "dns-mx": [
+            "alt1.aspmx.l.google.com", 
+            "alt2.aspmx.l.google.com", 
+            "alt3.aspmx.l.google.com", 
+            "alt4.aspmx.l.google.com", 
+            "aspmx.l.google.com"
+        ], 
+        "dns-ns": [
+            "ns.inmotionhosting.com", 
+            "ns2.inmotionhosting.com"
+        ], 
+        "domain-name": "amu.edu", 
+        "fuzzer": "omission", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "69.63.131.209"
+        ], 
+        "dns-mx": [
+            "bar1.famu.edu", 
+            "bar2.famu.edu"
+        ], 
+        "dns-ns": [
+            "crotalus.famu.edu", 
+            "crotalus2.famu.edu", 
+            "pdns89.ultradns.biz", 
+            "pdns89.ultradns.com", 
+            "pdns89.ultradns.net", 
+            "pdns89.ultradns.org"
+        ], 
+        "domain-name": "famu.edu", 
+        "fuzzer": "replacement"
+    }, 
+    {
+        "dns-a": [
+            "217.147.239.4"
+        ], 
+        "dns-mx": [
+            "mail.tsmu.edu", 
+            "mail2.tsmu.edu", 
+            "ns2.tsmu.edu"
+        ], 
+        "dns-ns": [
+            "ns.tsmu.edu", 
+            "ns0.grena.ge"
+        ], 
+        "domain-name": "tsmu.edu", 
+        "fuzzer": "replacement", 
+        "geoip-country": "Georgia", 
+        "ssdeep-score": 0
+    }
+]

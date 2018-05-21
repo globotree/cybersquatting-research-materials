@@ -1,0 +1,83 @@
+[
+    {
+        "dns-a": [
+            "109.169.55.249"
+        ], 
+        "dns-mx": [
+            "newsmtp1.sabah.com.tr", 
+            "newsmtp2.sabah.com.tr"
+        ], 
+        "dns-ns": [
+            "ns-1189.awsdns-20.org", 
+            "ns-121.awsdns-15.com", 
+            "ns-2036.awsdns-62.co.uk", 
+            "ns-861.awsdns-43.net"
+        ], 
+        "domain-name": "sabah.com.tr", 
+        "fuzzer": "original*", 
+        "geoip-country": "United Kingdom", 
+        "mx-spy": true, 
+        "ssdeep-score": 100
+    }, 
+    {
+        "dns-a": [
+            "93.89.226.17"
+        ], 
+        "dns-mx": [
+            "mx"
+        ], 
+        "dns-ns": [
+            "ns1.isimtescil.net", 
+            "ns2.isimtescil.net"
+        ], 
+        "domain-name": "sarah.com.tr", 
+        "fuzzer": "bitsquatting", 
+        "geoip-country": "Cyprus", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-mx": [
+            "mail.saba.com.tr"
+        ], 
+        "dns-ns": [
+            "ns1.saba.com.tr", 
+            "ns2.saba.com.tr"
+        ], 
+        "domain-name": "saba.com.tr", 
+        "fuzzer": "omission"
+    }, 
+    {
+        "dns-a": [
+            "23.102.12.110"
+        ], 
+        "dns-mx": [
+            "alt1.aspmx.l.google.com", 
+            "alt2.aspmx.l.google.com", 
+            "aspmx.l.google.com", 
+            "aspmx2.googlemail.com", 
+            "aspmx3.googlemail.com"
+        ], 
+        "dns-ns": [
+            "dns1.tekd.net.tr", 
+            "dns2.tekd.net.tr"
+        ], 
+        "domain-name": "saban.com.tr", 
+        "fuzzer": "replacement", 
+        "geoip-country": "Ireland", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "94.138.200.60"
+        ], 
+        "dns-mx": [
+            "mail.sabay.com.tr"
+        ], 
+        "dns-ns": [
+            "ns1.ihsdnsx6.com", 
+            "ns2.ihsdnsx6.com"
+        ], 
+        "domain-name": "sabay.com.tr", 
+        "fuzzer": "replacement"
+    }
+]

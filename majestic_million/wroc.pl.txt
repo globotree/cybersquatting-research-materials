@@ -1,0 +1,236 @@
+[
+    {
+        "dns-ns": [
+            "bilbo.nask.org.pl", 
+            "kirdan.nask.net.pl", 
+            "ldhpux.immt.pwr.wroc.pl", 
+            "ns1.net.icm.edu.pl", 
+            "sun2.pwr.wroc.pl", 
+            "wask.wask.wroc.pl"
+        ], 
+        "domain-name": "wroc.pl", 
+        "fuzzer": "original*"
+    }, 
+    {
+        "dns-mx": [
+            "alt1.aspmx.l.google.com", 
+            "alt2.aspmx.l.google.com", 
+            "aspmx.l.google.com", 
+            "aspmx2.googlemail.com", 
+            "aspmx3.googlemail.com"
+        ], 
+        "dns-ns": [
+            "dns15.ovh.net", 
+            "ns15.ovh.net"
+        ], 
+        "domain-name": "wrock.pl", 
+        "fuzzer": "addition"
+    }, 
+    {
+        "dns-a": [
+            "188.128.255.251"
+        ], 
+        "dns-ns": [
+            "ns1.premium.pl", 
+            "ns2.premium.pl"
+        ], 
+        "domain-name": "wrocl.pl", 
+        "fuzzer": "addition", 
+        "geoip-country": "Poland"
+    }, 
+    {
+        "dns-a": [
+            "79.133.210.186"
+        ], 
+        "dns-mx": [
+            "mail.webwavecms.com"
+        ], 
+        "dns-ns": [
+            "ns10.az.pl", 
+            "ns11.az.pl", 
+            "ns12.az.pl"
+        ], 
+        "domain-name": "vroc.pl", 
+        "fuzzer": "bitsquatting", 
+        "geoip-country": "Poland"
+    }, 
+    {
+        "dns-a": [
+            "185.53.178.6"
+        ], 
+        "dns-mx": [
+            "mail.h-email.net"
+        ], 
+        "dns-ns": [
+            "ns1.parkingcrew.net", 
+            "ns2.parkingcrew.net"
+        ], 
+        "domain-name": "wrog.pl", 
+        "fuzzer": "bitsquatting", 
+        "geoip-country": "Germany", 
+        "mx-spy": true
+    }, 
+    {
+        "dns-a": [
+            "87.98.239.5"
+        ], 
+        "dns-ns": [
+            "dns18.ovh.net", 
+            "ns18.ovh.net"
+        ], 
+        "domain-name": "vvroc.pl", 
+        "fuzzer": "homoglyph", 
+        "geoip-country": "Poland"
+    }, 
+    {
+        "dns-a": [
+            "87.98.234.172"
+        ], 
+        "dns-mx": [
+            "yn.pl"
+        ], 
+        "dns-ns": [
+            "dns.yn.pl", 
+            "dns2.yn.pl"
+        ], 
+        "domain-name": "wro.pl", 
+        "fuzzer": "omission", 
+        "geoip-country": "Poland"
+    }, 
+    {
+        "dns-a": [
+            "185.53.178.7"
+        ], 
+        "dns-mx": [
+            "mail.h-email.net"
+        ], 
+        "dns-ns": [
+            "ns1.parkingcrew.net", 
+            "ns2.parkingcrew.net"
+        ], 
+        "domain-name": "roc.pl", 
+        "fuzzer": "omission", 
+        "geoip-country": "Germany", 
+        "mx-spy": true
+    }, 
+    {
+        "dns-a": [
+            "85.10.230.160"
+        ], 
+        "dns-ns": [
+            "ns1.pro-linuxpl.com", 
+            "ns2.pro-linuxpl.com"
+        ], 
+        "domain-name": "wrc.pl", 
+        "fuzzer": "omission"
+    }, 
+    {
+        "dns-a": [
+            "104.28.0.10", 
+            "104.28.1.10"
+        ], 
+        "dns-aaaa": [
+            "2400:cb00:2048:1::681c:10a", 
+            "2400:cb00:2048:1::681c:a"
+        ], 
+        "dns-ns": [
+            "becky.ns.cloudflare.com", 
+            "josh.ns.cloudflare.com"
+        ], 
+        "domain-name": "eroc.pl", 
+        "fuzzer": "replacement", 
+        "geoip-country": "United States"
+    }, 
+    {
+        "dns-a": [
+            "31.6.70.155"
+        ], 
+        "dns-mx": [
+            "domains007.home.pl"
+        ], 
+        "dns-ns": [
+            "dns.home.pl", 
+            "dns2.home.pl", 
+            "dns3.home.pl"
+        ], 
+        "domain-name": "wrof.pl", 
+        "fuzzer": "replacement", 
+        "geoip-country": "Poland"
+    }, 
+    {
+        "dns-a": [
+            "85.128.128.99"
+        ], 
+        "dns-mx": [
+            "aroc.pl"
+        ], 
+        "dns-ns": [
+            "ns1.nazwa.pl", 
+            "ns2.nazwa.pl", 
+            "ns3.nazwa.pl"
+        ], 
+        "domain-name": "aroc.pl", 
+        "fuzzer": "replacement", 
+        "geoip-country": "Poland"
+    }, 
+    {
+        "dns-a": [
+            "185.53.178.7"
+        ], 
+        "dns-mx": [
+            "mail.h-email.net"
+        ], 
+        "dns-ns": [
+            "ns1.parkingcrew.net", 
+            "ns2.parkingcrew.net"
+        ], 
+        "domain-name": "w.roc.pl", 
+        "fuzzer": "subdomain", 
+        "geoip-country": "Germany", 
+        "mx-spy": true
+    }, 
+    {
+        "dns-a": [
+            "85.128.222.157"
+        ], 
+        "domain-name": "wr.oc.pl", 
+        "fuzzer": "subdomain", 
+        "geoip-country": "Poland"
+    }, 
+    {
+        "dns-a": [
+            "144.76.162.245"
+        ], 
+        "dns-ns": [
+            "ns1.subdomain.com", 
+            "ns2.subdomain.com"
+        ], 
+        "domain-name": "wro.c.pl", 
+        "fuzzer": "subdomain", 
+        "geoip-country": "Germany"
+    }, 
+    {
+        "dns-a": [
+            "213.239.217.43"
+        ], 
+        "dns-mx": [
+            "mail.wrac.pl"
+        ], 
+        "dns-ns": [
+            "dns8.linuxpl.com", 
+            "ns8.linuxpl.com"
+        ], 
+        "domain-name": "wrac.pl", 
+        "fuzzer": "vowel-swap", 
+        "geoip-country": "Germany"
+    }, 
+    {
+        "dns-a": [
+            "212.91.6.58", 
+            "212.91.7.33"
+        ], 
+        "domain-name": "wruc.pl", 
+        "fuzzer": "vowel-swap", 
+        "geoip-country": "Poland"
+    }
+]

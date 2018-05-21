@@ -1,0 +1,80 @@
+[
+    {
+        "dns-a": [
+            "178.79.156.233"
+        ], 
+        "dns-mx": [
+            "in1-smtp.messagingengine.com", 
+            "in2-smtp.messagingengine.com"
+        ], 
+        "dns-ns": [
+            "ns0.transip.nl", 
+            "ns1.transip.net", 
+            "ns2.transip.eu"
+        ], 
+        "domain-name": "imagehost.org", 
+        "fuzzer": "original*", 
+        "geoip-country": "United Kingdom"
+    }, 
+    {
+        "dns-a": [
+            "209.99.64.52"
+        ], 
+        "dns-ns": [
+            "ns11052.ztomy.com", 
+            "ns21052.ztomy.com"
+        ], 
+        "domain-name": "imageshost.org", 
+        "fuzzer": "insertion", 
+        "geoip-country": "United States"
+    }, 
+    {
+        "dns-a": [
+            "80.92.65.144"
+        ], 
+        "dns-mx": [
+            "mfwd.eurodns.com"
+        ], 
+        "dns-ns": [
+            "ns1.eurodns.com", 
+            "ns2.eurodns.com", 
+            "ns3.eurodns.com", 
+            "ns4.eurodns.com"
+        ], 
+        "domain-name": "magehost.org", 
+        "fuzzer": "omission", 
+        "geoip-country": "Luxembourg"
+    }, 
+    {
+        "dns-a": [
+            "209.15.13.134"
+        ], 
+        "dns-mx": [
+            "mail.b-io.co"
+        ], 
+        "dns-ns": [
+            "ns1.dnslink.com", 
+            "ns2.dnslink.com"
+        ], 
+        "domain-name": "imag.ehost.org", 
+        "fuzzer": "subdomain", 
+        "geoip-country": "United States", 
+        "mx-spy": true
+    }, 
+    {
+        "dns-a": [
+            "98.124.199.44"
+        ], 
+        "domain-name": "imageh.ost.org", 
+        "fuzzer": "subdomain", 
+        "geoip-country": "United States"
+    }, 
+    {
+        "dns-a": [
+            "98.124.199.67"
+        ], 
+        "domain-name": "imagehos.t.org", 
+        "fuzzer": "subdomain", 
+        "geoip-country": "United States"
+    }
+]

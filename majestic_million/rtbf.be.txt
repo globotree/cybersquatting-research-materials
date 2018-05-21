@@ -1,0 +1,127 @@
+[
+    {
+        "dns-a": [
+            "151.101.1.63", 
+            "151.101.129.63", 
+            "151.101.193.63", 
+            "151.101.65.63"
+        ], 
+        "dns-mx": [
+            "rtbf-be.mail.protection.outlook.com"
+        ], 
+        "dns-ns": [
+            "ns.rtbf.be", 
+            "ns1.belnet.be", 
+            "ns1.rtbf.be", 
+            "ns2.rtbf.be"
+        ], 
+        "domain-name": "rtbf.be", 
+        "fuzzer": "original*", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 100
+    }, 
+    {
+        "dns-ns": [
+            "ns.rtbf.be", 
+            "ns1.belnet.be", 
+            "ns1.rtbf.be", 
+            "ns2.rtbf.be"
+        ], 
+        "domain-name": "rtbfi.be", 
+        "fuzzer": "addition"
+    }, 
+    {
+        "dns-a": [
+            "85.158.108.167"
+        ], 
+        "dns-mx": [
+            "mailgate1.mx.connexeon.net", 
+            "mailgate2.mx.connexeon.net"
+        ], 
+        "dns-ns": [
+            "ns1.connexeon.com", 
+            "ns2.connexeon.com", 
+            "ns3.connexeon.be"
+        ], 
+        "domain-name": "btbf.be", 
+        "fuzzer": "bitsquatting", 
+        "geoip-country": "Belgium", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "185.53.178.7"
+        ], 
+        "dns-mx": [
+            "mail.h-email.net"
+        ], 
+        "dns-ns": [
+            "ns1.parkingcrew.net", 
+            "ns2.parkingcrew.net"
+        ], 
+        "domain-name": "rtb.be", 
+        "fuzzer": "omission", 
+        "geoip-country": "Germany", 
+        "mx-spy": true, 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "185.53.177.20"
+        ], 
+        "dns-mx": [
+            "mail.rbf.be"
+        ], 
+        "dns-ns": [
+            "dns1.realtime.at", 
+            "dns2.realtime.at"
+        ], 
+        "domain-name": "rbf.be", 
+        "fuzzer": "omission", 
+        "geoip-country": "Germany", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "103.224.182.211"
+        ], 
+        "dns-mx": [
+            "park-mx.above.com"
+        ], 
+        "dns-ns": [
+            "ns1.above.com", 
+            "ns2.above.com"
+        ], 
+        "domain-name": "trbf.be", 
+        "fuzzer": "transposition"
+    }, 
+    {
+        "dns-a": [
+            "212.113.65.30"
+        ], 
+        "dns-mx": [
+            "rbtf-be.mail.protection.outlook.com"
+        ], 
+        "dns-ns": [
+            "ns1.register.be", 
+            "ns2.register.be", 
+            "ns3.register.be"
+        ], 
+        "domain-name": "rbtf.be", 
+        "fuzzer": "transposition", 
+        "geoip-country": "Europe", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "185.53.177.29"
+        ], 
+        "dns-ns": [
+            "ns1.gegidns.com", 
+            "ns2.gegidns.com"
+        ], 
+        "domain-name": "rtfb.be", 
+        "fuzzer": "transposition", 
+        "geoip-country": "Germany"
+    }
+]

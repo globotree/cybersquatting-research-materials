@@ -1,0 +1,43 @@
+[
+    {
+        "dns-a": [
+            "192.249.57.163"
+        ], 
+        "dns-mx": [
+            "bytesforall.com"
+        ], 
+        "dns-ns": [
+            "leah.ns.cloudflare.com", 
+            "paul.ns.cloudflare.com"
+        ], 
+        "domain-name": "bytesforall.com", 
+        "fuzzer": "original*", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 100
+    }, 
+    {
+        "dns-a": [
+            "185.53.178.6"
+        ], 
+        "dns-mx": [
+            "mail.h-email.net"
+        ], 
+        "dns-ns": [
+            "ns1.parkingcrew.net", 
+            "ns2.parkingcrew.net"
+        ], 
+        "domain-name": "bytesf.orall.com", 
+        "fuzzer": "subdomain", 
+        "geoip-country": "Germany", 
+        "mx-spy": true, 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "104.154.243.59"
+        ], 
+        "domain-name": "bytesfo.rall.com", 
+        "fuzzer": "subdomain", 
+        "geoip-country": "United States"
+    }
+]

@@ -1,0 +1,138 @@
+[
+    {
+        "dns-a": [
+            "151.101.130.165", 
+            "151.101.194.165", 
+            "151.101.2.165", 
+            "151.101.66.165"
+        ], 
+        "dns-mx": [
+            "networkworld-com.mail.protection.outlook.com"
+        ], 
+        "dns-ns": [
+            "ns-a.pnap.net", 
+            "ns-b.pnap.net", 
+            "ns-c.pnap.net", 
+            "ns-d.pnap.net", 
+            "ns0.pcworld.com", 
+            "ns1.pcworld.com"
+        ], 
+        "domain-name": "networkworld.com", 
+        "fuzzer": "original*", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 100
+    }, 
+    {
+        "dns-a": [
+            "52.73.124.185", 
+            "54.164.198.60"
+        ], 
+        "dns-ns": [
+            "ns1.namebrightdns.com", 
+            "ns2.namebrightdns.com"
+        ], 
+        "domain-name": "networkworlds.com", 
+        "fuzzer": "addition", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "68.178.213.61"
+        ], 
+        "dns-ns": [
+            "ns1.namefind.com", 
+            "ns2.namefind.com"
+        ], 
+        "domain-name": "network-world.com", 
+        "fuzzer": "hyphenation", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "184.168.221.96"
+        ], 
+        "dns-mx": [
+            "0", 
+            "10"
+        ], 
+        "dns-ns": [
+            "ns01.cashparking.com", 
+            "ns02.cashparking.com"
+        ], 
+        "domain-name": "networksworld.com", 
+        "fuzzer": "insertion", 
+        "geoip-country": "United States", 
+        "mx-spy": true, 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "52.73.124.185", 
+            "54.164.198.60"
+        ], 
+        "dns-ns": [
+            "ns1.namebrightdns.com", 
+            "ns2.namebrightdns.com"
+        ], 
+        "domain-name": "networkword.com", 
+        "fuzzer": "omission", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "67.55.121.97"
+        ], 
+        "dns-ns": [
+            "ns1.networlworld.com", 
+            "ns2.networlworld.com"
+        ], 
+        "domain-name": "networlworld.com", 
+        "fuzzer": "replacement", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "69.172.201.153"
+        ], 
+        "dns-ns": [
+            "ns1.uniregistrymarket.link", 
+            "ns2.uniregistrymarket.link"
+        ], 
+        "domain-name": "netw.orkworld.com", 
+        "fuzzer": "subdomain", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "50.31.210.85"
+        ], 
+        "domain-name": "network.world.com", 
+        "fuzzer": "subdomain", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "206.188.193.2"
+        ], 
+        "domain-name": "networkwo.rld.com", 
+        "fuzzer": "subdomain", 
+        "geoip-country": "United States"
+    }, 
+    {
+        "dns-mx": [
+            "net.networkwolrd.com"
+        ], 
+        "dns-ns": [
+            "ns1.oceaneofgames.com", 
+            "ns2.oceaneofgames.com"
+        ], 
+        "domain-name": "networkwolrd.com", 
+        "fuzzer": "transposition"
+    }
+]

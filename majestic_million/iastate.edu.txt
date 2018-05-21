@@ -1,0 +1,36 @@
+[
+    {
+        "dns-a": [
+            "129.186.235.2"
+        ], 
+        "dns-aaaa": [
+            "2610:130:101:113::2"
+        ], 
+        "dns-mx": [
+            "mailin.iastate.edu"
+        ], 
+        "dns-ns": [
+            "dns-1.iastate.edu", 
+            "dns-2.iastate.edu", 
+            "dns-3.iastate.edu"
+        ], 
+        "domain-name": "iastate.edu", 
+        "fuzzer": "original*", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 100
+    }, 
+    {
+        "dns-mx": [
+            "ironport.astate.edu"
+        ], 
+        "dns-ns": [
+            "ns1.astate.edu", 
+            "ns2.astate.edu", 
+            "ns3.astate.edu", 
+            "ns4.astate.edu", 
+            "quapaw.astate.edu"
+        ], 
+        "domain-name": "astate.edu", 
+        "fuzzer": "omission"
+    }
+]

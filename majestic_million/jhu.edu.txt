@@ -1,0 +1,136 @@
+[
+    {
+        "dns-a": [
+            "128.220.192.40", 
+            "162.129.6.20"
+        ], 
+        "dns-mx": [
+            "smtp.johnshopkins.edu"
+        ], 
+        "dns-ns": [
+            "ens1.jhmi.edu", 
+            "ens1.jhu.edu"
+        ], 
+        "domain-name": "jhu.edu", 
+        "fuzzer": "original*", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 100
+    }, 
+    {
+        "dns-a": [
+            "74.116.156.98"
+        ], 
+        "dns-mx": [
+            "nhu-edu.mail.protection.outlook.com"
+        ], 
+        "dns-ns": [
+            "ns1.laureate.net", 
+            "ns2.laureate.net", 
+            "ns3.laureate.net"
+        ], 
+        "domain-name": "nhu.edu", 
+        "fuzzer": "bitsquatting", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "184.173.85.198"
+        ], 
+        "dns-mx": [
+            "bhu-edu.mail.protection.outlook.com", 
+            "us-smtp-inbound-1.mimecast.com", 
+            "us-smtp-inbound-2.mimecast.com"
+        ], 
+        "dns-ns": [
+            "ns0.jcfb.org", 
+            "ns1.jcfb.org", 
+            "ns2.jcfb.org", 
+            "ns3.jcfb.org", 
+            "ns4.jcfb.org"
+        ], 
+        "domain-name": "bhu.edu", 
+        "fuzzer": "bitsquatting", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "54.191.248.195"
+        ], 
+        "dns-mx": [
+            "jiu-edu.mail.protection.outlook.com"
+        ], 
+        "dns-ns": [
+            "ns1.ncti.com", 
+            "ns2.ncti.com"
+        ], 
+        "domain-name": "jiu.edu", 
+        "fuzzer": "bitsquatting", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "204.29.160.229"
+        ], 
+        "dns-mx": [
+            "ju-edu.mail.protection.outlook.com"
+        ], 
+        "domain-name": "ju.edu", 
+        "fuzzer": "omission"
+    }, 
+    {
+        "dns-mx": [
+            "smtp.johnshopkins.edu"
+        ], 
+        "dns-ns": [
+            "ens1.jhmi.edu", 
+            "ens1.jhu.edu"
+        ], 
+        "domain-name": "jh.edu", 
+        "fuzzer": "omission"
+    }, 
+    {
+        "dns-ns": [
+            "pathfinder"
+        ], 
+        "domain-name": "hu.edu", 
+        "fuzzer": "omission"
+    }, 
+    {
+        "dns-a": [
+            "216.146.46.10", 
+            "216.146.46.11"
+        ], 
+        "dns-mx": [
+            "mxa-000f1d01.gslb.pphosted.com", 
+            "mxb-000f1d01.gslb.pphosted.com"
+        ], 
+        "dns-ns": [
+            "ns1.p07.dynect.net", 
+            "ns2.p07.dynect.net", 
+            "ns3.p07.dynect.net", 
+            "ns4.p07.dynect.net"
+        ], 
+        "domain-name": "jbu.edu", 
+        "fuzzer": "replacement", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "216.70.123.149"
+        ], 
+        "dns-mx": [
+            "barracuda.mhu.edu"
+        ], 
+        "dns-ns": [
+            "auth0.ns.charter.net", 
+            "auth1.ns.charter.net"
+        ], 
+        "domain-name": "mhu.edu", 
+        "fuzzer": "replacement", 
+        "geoip-country": "United States"
+    }
+]

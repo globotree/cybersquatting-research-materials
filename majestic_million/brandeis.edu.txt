@@ -1,0 +1,37 @@
+[
+    {
+        "dns-a": [
+            "129.64.99.200"
+        ], 
+        "dns-mx": [
+            "alba.unet.brandeis.edu", 
+            "rosa.unet.brandeis.edu"
+        ], 
+        "dns-ns": [
+            "ns-1198.awsdns-21.org", 
+            "ns-1953.awsdns-52.co.uk", 
+            "ns-21.awsdns-02.com", 
+            "ns-852.awsdns-42.net"
+        ], 
+        "domain-name": "brandeis.edu", 
+        "fuzzer": "original*", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 100
+    }, 
+    {
+        "dns-a": [
+            "129.64.99.200"
+        ], 
+        "dns-mx": [
+            "alba.unet.brandeis.edu", 
+            "rosa.unet.brandeis.edu"
+        ], 
+        "dns-ns": [
+            "dns-ext1.brandeis.edu", 
+            "dns-ext2.brandeis.edu"
+        ], 
+        "domain-name": "brandies.edu", 
+        "fuzzer": "transposition", 
+        "geoip-country": "United States"
+    }
+]

@@ -1,0 +1,168 @@
+[
+    {
+        "dns-mx": [
+            "mail.cfda.gov.cn"
+        ], 
+        "dns-ns": [
+            "ns.sda.gov.cn"
+        ], 
+        "domain-name": "sda.gov.cn", 
+        "fuzzer": "original*"
+    }, 
+    {
+        "dns-a": [
+            "123.232.39.38"
+        ], 
+        "dns-ns": [
+            "ns1.sfn.cn", 
+            "ns2.sfn.cn"
+        ], 
+        "domain-name": "sdab.gov.cn", 
+        "fuzzer": "addition", 
+        "geoip-country": "China"
+    }, 
+    {
+        "dns-a": [
+            "221.214.94.53"
+        ], 
+        "dns-mx": [
+            "mail.sdaj.gov.cn"
+        ], 
+        "dns-ns": [
+            "ns11.xincache.com", 
+            "ns12.xincache.com"
+        ], 
+        "domain-name": "sdaj.gov.cn", 
+        "fuzzer": "addition", 
+        "geoip-country": "China"
+    }, 
+    {
+        "dns-mx": [
+            "mail.cfda.gov.cn"
+        ], 
+        "dns-ns": [
+            "ns.sfda.gov.cn"
+        ], 
+        "domain-name": "sfda.gov.cn", 
+        "fuzzer": "insertion"
+    }, 
+    {
+        "dns-a": [
+            "220.191.224.92"
+        ], 
+        "dns-mx": [
+            "mxbiz1.qq.com", 
+            "mxbiz2.qq.com"
+        ], 
+        "dns-ns": [
+            "ns1.sfn.cn", 
+            "ns2.sfn.cn"
+        ], 
+        "domain-name": "sxda.gov.cn", 
+        "fuzzer": "insertion", 
+        "geoip-country": "China"
+    }, 
+    {
+        "dns-a": [
+            "218.57.128.131"
+        ], 
+        "dns-mx": [
+            "mail.sdca.gov.cn"
+        ], 
+        "dns-ns": [
+            "dns-jn.sd.cninfo.net"
+        ], 
+        "domain-name": "sdca.gov.cn", 
+        "fuzzer": "insertion", 
+        "geoip-country": "China"
+    }, 
+    {
+        "dns-mx": [
+            "mail.sd.gov.cn"
+        ], 
+        "dns-ns": [
+            "ns.sdjnptt.net.cn", 
+            "ns1.sdjnptt.net.cn"
+        ], 
+        "domain-name": "sd.gov.cn", 
+        "fuzzer": "omission"
+    }, 
+    {
+        "dns-a": [
+            "119.28.48.236", 
+            "49.51.8.200"
+        ], 
+        "dns-ns": [
+            "f1g1ns1.dnspod.net", 
+            "f1g1ns2.dnspod.net"
+        ], 
+        "domain-name": "da.gov.cn", 
+        "fuzzer": "omission", 
+        "geoip-country": "China"
+    }, 
+    {
+        "dns-a": [
+            "119.254.233.149"
+        ], 
+        "dns-mx": [
+            "mail.sca.gov.cn"
+        ], 
+        "dns-ns": [
+            "ns1.sfn.cn", 
+            "ns2.sfn.cn"
+        ], 
+        "domain-name": "sca.gov.cn", 
+        "fuzzer": "replacement", 
+        "geoip-country": "China"
+    }, 
+    {
+        "dns-ns": [
+            "ns1.dns.com.cn", 
+            "ns2.dns.com.cn"
+        ], 
+        "domain-name": "sdy.gov.cn", 
+        "fuzzer": "replacement"
+    }, 
+    {
+        "dns-a": [
+            "61.50.204.167"
+        ], 
+        "dns-mx": [
+            "mxn.mxhichina.com", 
+            "mxw.mxhichina.com"
+        ], 
+        "dns-ns": [
+            "dns10.hichina.com", 
+            "dns9.hichina.com"
+        ], 
+        "domain-name": "yda.gov.cn", 
+        "fuzzer": "replacement", 
+        "geoip-country": "China"
+    }, 
+    {
+        "dns-a": [
+            "218.25.154.173"
+        ], 
+        "dns-mx": [
+            "mail.dda.gov.cn"
+        ], 
+        "dns-ns": [
+            "dns10.hichina.com", 
+            "dns9.hichina.com"
+        ], 
+        "domain-name": "dda.gov.cn", 
+        "fuzzer": "replacement", 
+        "geoip-country": "China"
+    }, 
+    {
+        "dns-mx": [
+            "mail.zda.gov.cn"
+        ], 
+        "dns-ns": [
+            "dns.bizcn.com", 
+            "dns.cnmsn.net"
+        ], 
+        "domain-name": "zda.gov.cn", 
+        "fuzzer": "replacement"
+    }
+]

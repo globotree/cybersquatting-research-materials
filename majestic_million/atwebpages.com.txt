@@ -1,0 +1,140 @@
+[
+    {
+        "dns-a": [
+            "185.176.40.84"
+        ], 
+        "dns-mx": [
+            "mail.atwebpages.com"
+        ], 
+        "dns-ns": [
+            "ns1.runhosting.com", 
+            "ns2.runhosting.com"
+        ], 
+        "domain-name": "atwebpages.com", 
+        "fuzzer": "original*", 
+        "ssdeep-score": 100
+    }, 
+    {
+        "dns-a": [
+            "216.21.239.197"
+        ], 
+        "dns-mx": [
+            "mail2.siteamerica.com", 
+            "relay1.exodus.net", 
+            "relay2.exodus.net", 
+            "relay3.exodus.net", 
+            "relay4.exodus.net", 
+            "relay5.exodus.net", 
+            "relay6.exodus.net"
+        ], 
+        "dns-ns": [
+            "dns010.d.register.com", 
+            "dns029.c.register.com", 
+            "dns054.b.register.com", 
+            "dns128.a.register.com"
+        ], 
+        "domain-name": "avwebpages.com", 
+        "fuzzer": "bitsquatting", 
+        "geoip-country": "United States"
+    }, 
+    {
+        "dns-a": [
+            "184.168.221.41"
+        ], 
+        "dns-ns": [
+            "ns03.domaincontrol.com", 
+            "ns04.domaincontrol.com"
+        ], 
+        "domain-name": "adwebpages.com", 
+        "fuzzer": "bitsquatting", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "192.64.147.150"
+        ], 
+        "dns-ns": [
+            "ns.f20.com", 
+            "ns2.f20.com"
+        ], 
+        "domain-name": "awebpages.com", 
+        "fuzzer": "omission", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "67.227.226.241"
+        ], 
+        "dns-mx": [
+            "mx156.hostedmxserver.com"
+        ], 
+        "dns-ns": [
+            "ns1.parklogic.com", 
+            "ns2.parklogic.com", 
+            "ns3.parklogic.com", 
+            "ns4.parklogic.com", 
+            "ns5.parklogic.com"
+        ], 
+        "domain-name": "atwebpage.com", 
+        "fuzzer": "omission", 
+        "geoip-country": "United States", 
+        "mx-spy": true, 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "184.154.174.162"
+        ], 
+        "dns-mx": [
+            "azwebpages.com"
+        ], 
+        "dns-ns": [
+            "ns1.websitehostserver.net", 
+            "ns2.websitehostserver.net"
+        ], 
+        "domain-name": "azwebpages.com", 
+        "fuzzer": "replacement", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "37.58.107.93"
+        ], 
+        "dns-mx": [
+            "mail.efty.com"
+        ], 
+        "dns-ns": [
+            "ns1.eftydns.com", 
+            "ns2.eftydns.com"
+        ], 
+        "domain-name": "arwebpages.com", 
+        "fuzzer": "replacement", 
+        "geoip-country": "Netherlands", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "107.178.255.126"
+        ], 
+        "domain-name": "at.webpages.com", 
+        "fuzzer": "subdomain", 
+        "geoip-country": "United States"
+    }, 
+    {
+        "dns-a": [
+            "52.73.124.185", 
+            "54.164.198.60"
+        ], 
+        "dns-ns": [
+            "ns1.namebrightdns.com", 
+            "ns2.namebrightdns.com"
+        ], 
+        "domain-name": "atw.ebpages.com", 
+        "fuzzer": "subdomain", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 0
+    }
+]

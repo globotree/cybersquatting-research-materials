@@ -1,0 +1,74 @@
+[
+    {
+        "dns-a": [
+            "207.182.143.50"
+        ], 
+        "dns-mx": [
+            "mail.pagina.mx"
+        ], 
+        "dns-ns": [
+            "ns1.pagina.mx", 
+            "ns2.pagina.mx"
+        ], 
+        "domain-name": "mex.tl", 
+        "fuzzer": "original*", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 100
+    }, 
+    {
+        "dns-a": [
+            "45.63.9.130"
+        ], 
+        "dns-mx": [
+            "meh-tl.mail.protection.outlook.com"
+        ], 
+        "dns-ns": [
+            "ns1.onlydomains.com", 
+            "ns2.onlydomains.com", 
+            "ns3.onlydomains.com"
+        ], 
+        "domain-name": "meh.tl", 
+        "fuzzer": "bitsquatting", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "125.39.5.21"
+        ], 
+        "dns-ns": [
+            "lv3ns1.ffdns.net", 
+            "lv3ns2.ffdns.net", 
+            "lv3ns3.ffdns.net", 
+            "lv3ns4.ffdns.net"
+        ], 
+        "domain-name": "me.tl", 
+        "fuzzer": "omission", 
+        "geoip-country": "China"
+    }, 
+    {
+        "dns-a": [
+            "72.55.175.70"
+        ], 
+        "dns-ns": [
+            "ns1.ddns.mx", 
+            "ns2.ddns.mx", 
+            "ns3.ddns.mx", 
+            "ns4.ddns.mx", 
+            "ns5.ddns.mx"
+        ], 
+        "domain-name": "mx.tl", 
+        "fuzzer": "omission", 
+        "geoip-country": "Canada", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "75.126.102.236"
+        ], 
+        "domain-name": "me.x.tl", 
+        "fuzzer": "subdomain", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 0
+    }
+]

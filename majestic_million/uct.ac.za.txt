@@ -1,0 +1,36 @@
+[
+    {
+        "dns-a": [
+            "137.158.158.44"
+        ], 
+        "dns-mx": [
+            "za-smtp-inbound-1.mimecast.co.za", 
+            "za-smtp-inbound-2.mimecast.co.za"
+        ], 
+        "dns-ns": [
+            "dns3.uct.net.za", 
+            "netman.uct.ac.za", 
+            "rain.psg.com", 
+            "ucthpx.uct.ac.za"
+        ], 
+        "domain-name": "uct.ac.za", 
+        "fuzzer": "original*", 
+        "geoip-country": "South Africa", 
+        "ssdeep-score": 100
+    }, 
+    {
+        "dns-a": [
+            "198.54.58.2"
+        ], 
+        "dns-mx": [
+            "za-smtp-inbound-1.mimecast.co.za", 
+            "za-smtp-inbound-2.mimecast.co.za"
+        ], 
+        "dns-ns": [
+            "disa.tenet.ac.za", 
+            "ns.cut.ac.za"
+        ], 
+        "domain-name": "cut.ac.za", 
+        "fuzzer": "transposition"
+    }
+]

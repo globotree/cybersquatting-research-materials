@@ -1,0 +1,117 @@
+[
+    {
+        "dns-a": [
+            "172.217.23.168"
+        ], 
+        "dns-aaaa": [
+            "2a00:1450:4001:81f::2008"
+        ], 
+        "dns-ns": [
+            "ns1.google.com", 
+            "ns2.google.com", 
+            "ns3.google.com", 
+            "ns4.google.com"
+        ], 
+        "domain-name": "googletagmanager.com", 
+        "fuzzer": "original*", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 100
+    }, 
+    {
+        "dns-a": [
+            "127.0.0.1"
+        ], 
+        "domain-name": "googletagmanagers.com", 
+        "fuzzer": "addition"
+    }, 
+    {
+        "dns-a": [
+            "45.32.184.89"
+        ], 
+        "dns-mx": [
+            "googletagmenager.com"
+        ], 
+        "dns-ns": [
+            "ns1.vultr.com", 
+            "ns2.vultr.com"
+        ], 
+        "domain-name": "googletagmenager.com", 
+        "fuzzer": "bitsquatting", 
+        "geoip-country": "Netherlands", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "185.189.112.245"
+        ], 
+        "domain-name": "gooqletagmanager.com", 
+        "fuzzer": "homoglyph", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "184.168.221.104"
+        ], 
+        "dns-ns": [
+            "ns1.afternic.com", 
+            "ns2.afternic.com"
+        ], 
+        "domain-name": "googletag.manager.com", 
+        "fuzzer": "subdomain", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "54.72.9.51"
+        ], 
+        "dns-mx": [
+            "mail.h-email.net"
+        ], 
+        "domain-name": "googletagm.anager.com", 
+        "fuzzer": "subdomain"
+    }, 
+    {
+        "dns-a": [
+            "72.52.4.122"
+        ], 
+        "dns-mx": [
+            "localhost"
+        ], 
+        "dns-ns": [
+            "ns1.sedoparking.com", 
+            "ns2.sedoparking.com"
+        ], 
+        "domain-name": "googletagma.nager.com", 
+        "fuzzer": "subdomain", 
+        "geoip-country": "United States", 
+        "mx-spy": true, 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "75.126.102.229"
+        ], 
+        "domain-name": "googletagmana.ger.com", 
+        "fuzzer": "subdomain", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "208.73.211.70"
+        ], 
+        "domain-name": "googletagmanag.er.com", 
+        "fuzzer": "subdomain", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-ns": [
+            "ns1.googlitagmanager.com", 
+            "ns2.googlitagmanager.com"
+        ], 
+        "domain-name": "googlitagmanager.com", 
+        "fuzzer": "vowel-swap"
+    }
+]

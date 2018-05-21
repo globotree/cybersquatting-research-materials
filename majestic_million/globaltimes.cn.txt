@@ -1,0 +1,83 @@
+[
+    {
+        "dns-a": [
+            "45.113.70.122"
+        ], 
+        "domain-name": "globaltimes.cn", 
+        "fuzzer": "original*", 
+        "geoip-country": "Hong Kong", 
+        "ssdeep-score": 100
+    }, 
+    {
+        "dns-a": [
+            "103.205.167.79"
+        ], 
+        "dns-ns": [
+            "ns5.dnsdun.com", 
+            "ns5.dnsdun.net"
+        ], 
+        "domain-name": "lobaltimes.cn", 
+        "fuzzer": "omission", 
+        "geoip-country": "Hong Kong"
+    }, 
+    {
+        "dns-a": [
+            "223.6.123.153"
+        ], 
+        "dns-mx": [
+            "mail.globaltime.cn"
+        ], 
+        "dns-ns": [
+            "dns1.hichina.com", 
+            "dns2.hichina.com"
+        ], 
+        "domain-name": "globaltime.cn", 
+        "fuzzer": "omission", 
+        "geoip-country": "China", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "103.205.167.79"
+        ], 
+        "domain-name": "g.lobaltimes.cn", 
+        "fuzzer": "subdomain", 
+        "geoip-country": "Hong Kong"
+    }, 
+    {
+        "dns-a": [
+            "47.89.58.32"
+        ], 
+        "domain-name": "glob.altimes.cn", 
+        "fuzzer": "subdomain", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "47.90.82.159"
+        ], 
+        "domain-name": "global.times.cn", 
+        "fuzzer": "subdomain", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "170.178.178.48"
+        ], 
+        "domain-name": "globalt.imes.cn", 
+        "fuzzer": "subdomain", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "23.234.4.151", 
+            "23.234.4.153"
+        ], 
+        "domain-name": "globaltim.es.cn", 
+        "fuzzer": "subdomain", 
+        "geoip-country": "United States"
+    }
+]

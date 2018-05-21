@@ -1,0 +1,117 @@
+[
+    {
+        "dns-mx": [
+            "mxbiz1.qq.com", 
+            "mxbiz2.qq.com"
+        ], 
+        "dns-ns": [
+            "ns1.dnsv4.com", 
+            "ns2.dnsv4.com"
+        ], 
+        "domain-name": "ncss.org.cn", 
+        "fuzzer": "original*"
+    }, 
+    {
+        "dns-a": [
+            "103.232.215.129"
+        ], 
+        "dns-mx": [
+            "mail.happyisp.com"
+        ], 
+        "domain-name": "ncsss.org.cn", 
+        "fuzzer": "addition", 
+        "geoip-country": "China"
+    }, 
+    {
+        "dns-a": [
+            "106.75.167.209"
+        ], 
+        "dns-mx": [
+            "smtp.faidns.com"
+        ], 
+        "dns-ns": [
+            "f1g1ns1.dnspod.net", 
+            "f1g1ns2.dnspod.net"
+        ], 
+        "domain-name": "nass.org.cn", 
+        "fuzzer": "bitsquatting", 
+        "geoip-country": "China"
+    }, 
+    {
+        "dns-a": [
+            "103.232.215.129"
+        ], 
+        "dns-mx": [
+            "mail.happyisp.com"
+        ], 
+        "domain-name": "ncess.org.cn", 
+        "fuzzer": "insertion", 
+        "geoip-country": "China", 
+        "mx-spy": true
+    }, 
+    {
+        "dns-ns": [
+            "dns13.hichina.com", 
+            "dns14.hichina.com"
+        ], 
+        "domain-name": "nss.org.cn", 
+        "fuzzer": "omission"
+    }, 
+    {
+        "dns-ns": [
+            "dns7.hichina.com", 
+            "dns8.hichina.com"
+        ], 
+        "domain-name": "ncsy.org.cn", 
+        "fuzzer": "replacement"
+    }, 
+    {
+        "dns-a": [
+            "103.232.215.135"
+        ], 
+        "dns-mx": [
+            "mail.happyisp.com"
+        ], 
+        "domain-name": "ncys.org.cn", 
+        "fuzzer": "replacement"
+    }, 
+    {
+        "dns-a": [
+            "122.10.29.3"
+        ], 
+        "dns-ns": [
+            "f1g1ns1.dnspod.net", 
+            "f1g1ns2.dnspod.net"
+        ], 
+        "domain-name": "ncse.org.cn", 
+        "fuzzer": "replacement", 
+        "geoip-country": "Hong Kong"
+    }, 
+    {
+        "dns-ns": [
+            "ns5.dnsdun.com", 
+            "ns5.dnsdun.net"
+        ], 
+        "domain-name": "ncds.org.cn", 
+        "fuzzer": "replacement"
+    }, 
+    {
+        "dns-a": [
+            "211.144.159.161"
+        ], 
+        "dns-ns": [
+            "dns10.hichina.com", 
+            "dns9.hichina.com"
+        ], 
+        "domain-name": "cnss.org.cn", 
+        "fuzzer": "transposition"
+    }, 
+    {
+        "dns-ns": [
+            "ns1.dnsv4.com", 
+            "ns2.dnsv4.com"
+        ], 
+        "domain-name": "ncss.cn", 
+        "fuzzer": "various"
+    }
+]

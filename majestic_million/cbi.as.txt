@@ -1,0 +1,121 @@
+[
+    {
+        "dns-a": [
+            "35.163.86.29"
+        ], 
+        "dns-ns": [
+            "ns-1254.awsdns-28.org", 
+            "ns-1582.awsdns-05.co.uk", 
+            "ns-817.awsdns-38.net", 
+            "ns-98.awsdns-12.com"
+        ], 
+        "domain-name": "cbi.as", 
+        "fuzzer": "original*", 
+        "geoip-country": "United States"
+    }, 
+    {
+        "dns-a": [
+            "87.238.248.247"
+        ], 
+        "dns-mx": [
+            "smtp-mx.bbi.as"
+        ], 
+        "dns-ns": [
+            "ns.andersenit.dk", 
+            "ns1.andersenit.dk"
+        ], 
+        "domain-name": "bbi.as", 
+        "fuzzer": "bitsquatting", 
+        "geoip-country": "Denmark"
+    }, 
+    {
+        "dns-a": [
+            "194.63.248.70"
+        ], 
+        "dns-aaaa": [
+            "2a01:5b40:0:4070::1"
+        ], 
+        "dns-mx": [
+            "mx01.domeneshop.no", 
+            "mx02.domeneshop.no", 
+            "mx03.domeneshop.no", 
+            "mx04.domeneshop.no"
+        ], 
+        "dns-ns": [
+            "ns1.hyp.net", 
+            "ns2.hyp.net", 
+            "ns3.hyp.net"
+        ], 
+        "domain-name": "cci.as", 
+        "fuzzer": "bitsquatting", 
+        "geoip-country": "Norway"
+    }, 
+    {
+        "dns-a": [
+            "52.218.144.95"
+        ], 
+        "dns-mx": [
+            "alt1.aspmx.l.google.com", 
+            "alt2.aspmx.l.google.com", 
+            "aspmx.l.google.com", 
+            "aspmx2.googlemail.com", 
+            "aspmx3.googlemail.com", 
+            "aspmx4.googlemail.com", 
+            "aspmx5.googlemail.com"
+        ], 
+        "dns-ns": [
+            "ns-1413.awsdns-48.org", 
+            "ns-1616.awsdns-10.co.uk", 
+            "ns-213.awsdns-26.com", 
+            "ns-577.awsdns-08.net"
+        ], 
+        "domain-name": "chi.as", 
+        "fuzzer": "replacement", 
+        "geoip-country": "United States"
+    }, 
+    {
+        "dns-a": [
+            "193.75.69.230"
+        ], 
+        "dns-mx": [
+            "vbi-as.mail.protection.outlook.com"
+        ], 
+        "dns-ns": [
+            "ns1.adcomasp.no", 
+            "ns2.adcomasp.no"
+        ], 
+        "domain-name": "vbi.as", 
+        "fuzzer": "replacement", 
+        "geoip-country": "Norway"
+    }, 
+    {
+        "dns-a": [
+            "95.168.204.162"
+        ], 
+        "dns-mx": [
+            "mail.3nicom.cz"
+        ], 
+        "dns-ns": [
+            "ns.forpsi.it", 
+            "ns.forpsi.net"
+        ], 
+        "domain-name": "cni.as", 
+        "fuzzer": "replacement", 
+        "geoip-country": "Czech Republic"
+    }, 
+    {
+        "dns-a": [
+            "62.168.127.59"
+        ], 
+        "dns-mx": [
+            "mail.bci.as"
+        ], 
+        "dns-ns": [
+            "ns.activit.sk", 
+            "ns2.activit.sk"
+        ], 
+        "domain-name": "bci.as", 
+        "fuzzer": "transposition", 
+        "geoip-country": "Slovakia"
+    }
+]

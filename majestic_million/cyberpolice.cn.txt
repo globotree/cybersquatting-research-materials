@@ -1,0 +1,82 @@
+[
+    {
+        "dns-a": [
+            "202.106.113.7"
+        ], 
+        "dns-mx": [
+            "mail.cyberpolice.cn"
+        ], 
+        "dns-ns": [
+            "dns1.datadragon.net", 
+            "dns2.datadragon.net"
+        ], 
+        "domain-name": "cyberpolice.cn", 
+        "fuzzer": "original*", 
+        "geoip-country": "China"
+    }, 
+    {
+        "dns-mx": [
+            "mx.ym.163.com"
+        ], 
+        "dns-ns": [
+            "dns10.hichina.com", 
+            "dns9.hichina.com"
+        ], 
+        "domain-name": "cyber-police.cn", 
+        "fuzzer": "hyphenation"
+    }, 
+    {
+        "dns-a": [
+            "104.217.236.93"
+        ], 
+        "dns-ns": [
+            "ns6.dnsdun.com", 
+            "ns6.dnsdun.net"
+        ], 
+        "domain-name": "cyberpolic.cn", 
+        "fuzzer": "omission", 
+        "geoip-country": "United States"
+    }, 
+    {
+        "dns-a": [
+            "50.117.120.251"
+        ], 
+        "dns-mx": [
+            "mail.happyisp.com"
+        ], 
+        "domain-name": "xyberpolice.cn", 
+        "fuzzer": "replacement", 
+        "geoip-country": "United States", 
+        "mx-spy": true
+    }, 
+    {
+        "dns-a": [
+            "50.117.120.251"
+        ], 
+        "dns-mx": [
+            "mail.happyisp.com"
+        ], 
+        "domain-name": "cyberp.olice.cn", 
+        "fuzzer": "subdomain"
+    }, 
+    {
+        "dns-a": [
+            "184.154.126.180"
+        ], 
+        "domain-name": "cyberpo.lice.cn", 
+        "fuzzer": "subdomain", 
+        "geoip-country": "United States"
+    }, 
+    {
+        "dns-a": [
+            "108.61.161.109"
+        ], 
+        "dns-ns": [
+            "dns19.hichina.com", 
+            "dns20.hichina.com"
+        ], 
+        "domain-name": "cyberpoilce.cn", 
+        "fuzzer": "transposition", 
+        "geoip-country": "Japan"
+    }
+]

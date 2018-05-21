@@ -1,0 +1,57 @@
+[
+    {
+        "dns-a": [
+            "167.176.6.69"
+        ], 
+        "dns-mx": [
+            "mail.fdic.gov", 
+            "mail1.fdic.gov", 
+            "mail2.fdic.gov"
+        ], 
+        "dns-ns": [
+            "ns01.fdic.gov", 
+            "ns02.fdic.gov", 
+            "ns03.fdic.gov"
+        ], 
+        "domain-name": "fdic.gov", 
+        "fuzzer": "original*", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 100
+    }, 
+    {
+        "dns-a": [
+            "129.120.93.242"
+        ], 
+        "dns-ns": [
+            "sauthns1.qwest.net", 
+            "sauthns2.qwest.net"
+        ], 
+        "domain-name": "fcic.gov", 
+        "fuzzer": "replacement", 
+        "geoip-country": "United States"
+    }, 
+    {
+        "dns-a": [
+            "198.81.130.253"
+        ], 
+        "dns-mx": [
+            "smtp01.ic.gov"
+        ], 
+        "domain-name": "fd.ic.gov", 
+        "fuzzer": "subdomain", 
+        "geoip-country": "United States"
+    }, 
+    {
+        "dns-a": [
+            "52.86.22.136", 
+            "54.174.212.152"
+        ], 
+        "dns-ns": [
+            "ns1.namebrightdns.com", 
+            "ns2.namebrightdns.com"
+        ], 
+        "domain-name": "fdic-gov.com", 
+        "fuzzer": "various", 
+        "geoip-country": "United States"
+    }
+]

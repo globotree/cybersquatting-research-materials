@@ -1,0 +1,74 @@
+[
+    {
+        "dns-a": [
+            "143.95.43.97"
+        ], 
+        "dns-mx": [
+            "mailstore1.secureserver.net", 
+            "smtp.secureserver.net"
+        ], 
+        "dns-ns": [
+            "ns-cloud-a1.googledomains.com", 
+            "ns-cloud-a2.googledomains.com", 
+            "ns-cloud-a3.googledomains.com", 
+            "ns-cloud-a4.googledomains.com"
+        ], 
+        "domain-name": "jooxmap.com", 
+        "fuzzer": "original*", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 100
+    }, 
+    {
+        "dns-a": [
+            "69.172.201.153"
+        ], 
+        "dns-ns": [
+            "ns1.uniregistrymarket.link", 
+            "ns2.uniregistrymarket.link"
+        ], 
+        "domain-name": "zooxmap.com", 
+        "fuzzer": "bitsquatting", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-ns": [
+            "ns-1371.awsdns-43.org", 
+            "ns-146.awsdns-18.com", 
+            "ns-1826.awsdns-36.co.uk", 
+            "ns-894.awsdns-47.net"
+        ], 
+        "domain-name": "joomap.com", 
+        "fuzzer": "omission"
+    }, 
+    {
+        "dns-a": [
+            "204.11.56.48"
+        ], 
+        "dns-ns": [
+            "ns1626.ztomy.com", 
+            "ns2626.ztomy.com"
+        ], 
+        "domain-name": "jo.oxmap.com", 
+        "fuzzer": "subdomain", 
+        "geoip-country": "Virgin Islands", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "208.73.211.70"
+        ], 
+        "domain-name": "joox.map.com", 
+        "fuzzer": "subdomain", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "162.144.100.229"
+        ], 
+        "domain-name": "jooxm.ap.com", 
+        "fuzzer": "subdomain", 
+        "geoip-country": "United States"
+    }
+]

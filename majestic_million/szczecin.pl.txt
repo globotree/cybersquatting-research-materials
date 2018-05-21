@@ -1,0 +1,114 @@
+[
+    {
+        "dns-ns": [
+            "a-dns.pl", 
+            "b-dns.pl", 
+            "e-dns.pl", 
+            "f-dns.pl", 
+            "h-dns.pl"
+        ], 
+        "domain-name": "szczecin.pl", 
+        "fuzzer": "original*"
+    }, 
+    {
+        "dns-a": [
+            "46.41.135.31"
+        ], 
+        "dns-mx": [
+            "mail.szczecina.pl"
+        ], 
+        "dns-ns": [
+            "fns2.42.pl", 
+            "ns1.szczecina.pl"
+        ], 
+        "domain-name": "szczecina.pl", 
+        "fuzzer": "addition", 
+        "geoip-country": "Poland"
+    }, 
+    {
+        "dns-a": [
+            "89.161.255.8"
+        ], 
+        "dns-mx": [
+            "szczecinn.pl"
+        ], 
+        "dns-ns": [
+            "dns.home.pl", 
+            "dns2.home.pl", 
+            "dns3.home.pl"
+        ], 
+        "domain-name": "szczecinn.pl", 
+        "fuzzer": "addition", 
+        "geoip-country": "Poland"
+    }, 
+    {
+        "dns-a": [
+            "194.181.14.179"
+        ], 
+        "dns-mx": [
+            "szczucin.pl"
+        ], 
+        "dns-ns": [
+            "ns5.webd.pl", 
+            "ns7.webd.pl"
+        ], 
+        "domain-name": "szczucin.pl", 
+        "fuzzer": "bitsquatting", 
+        "geoip-country": "Poland"
+    }, 
+    {
+        "dns-a": [
+            "184.168.221.104"
+        ], 
+        "dns-ns": [
+            "ns1.afternic.com", 
+            "ns2.afternic.com"
+        ], 
+        "domain-name": "szczecn.pl", 
+        "fuzzer": "omission", 
+        "geoip-country": "United States"
+    }, 
+    {
+        "dns-a": [
+            "212.91.7.33"
+        ], 
+        "dns-ns": [
+            "ns1.aftermarket.pl", 
+            "ns2.aftermarket.pl"
+        ], 
+        "domain-name": "szcecin.pl", 
+        "fuzzer": "omission", 
+        "geoip-country": "Poland"
+    }, 
+    {
+        "dns-a": [
+            "89.40.144.16"
+        ], 
+        "dns-mx": [
+            "mail.szczein.pl"
+        ], 
+        "dns-ns": [
+            "ns1.pvi.pl", 
+            "ns2.pvi.pl"
+        ], 
+        "domain-name": "szczein.pl", 
+        "fuzzer": "omission", 
+        "geoip-country": "Poland"
+    }, 
+    {
+        "dns-a": [
+            "213.108.59.121"
+        ], 
+        "dns-mx": [
+            "mx.active24.pl"
+        ], 
+        "dns-ns": [
+            "dns1.nano.pl", 
+            "dns2.nano.pl", 
+            "dns3.nano.pl"
+        ], 
+        "domain-name": "szcz.ecin.pl", 
+        "fuzzer": "subdomain", 
+        "geoip-country": "Poland"
+    }
+]

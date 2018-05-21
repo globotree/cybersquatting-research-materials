@@ -1,0 +1,151 @@
+[
+    {
+        "dns-a": [
+            "130.231.240.1"
+        ], 
+        "dns-mx": [
+            "oulu-fi.mail.protection.outlook.com"
+        ], 
+        "dns-ns": [
+            "ns-secondary.funet.fi", 
+            "ousrvr.oulu.fi", 
+            "ousrvr2.oulu.fi"
+        ], 
+        "domain-name": "oulu.fi", 
+        "fuzzer": "original*", 
+        "geoip-country": "Finland", 
+        "ssdeep-score": 100
+    }, 
+    {
+        "dns-a": [
+            "178.213.234.31", 
+            "178.213.234.32"
+        ], 
+        "dns-mx": [
+            "antispam-oul1.f-solutions.fi", 
+            "antispam-rau1.f-solutions.fi"
+        ], 
+        "dns-ns": [
+            "ns1.f-solutions.fi", 
+            "ns1.f-solutions.net", 
+            "ns2.f-solutions.fi", 
+            "ns2.f-solutions.net"
+        ], 
+        "domain-name": "oulua.fi", 
+        "fuzzer": "addition", 
+        "geoip-country": "Finland", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "31.217.192.232"
+        ], 
+        "dns-mx": [
+            "mail13.hostingpalvelu.fi"
+        ], 
+        "dns-ns": [
+            "ns1.hostingpalvelu.fi", 
+            "ns2.hostingpalvelu.fi"
+        ], 
+        "domain-name": "oulun.fi", 
+        "fuzzer": "addition", 
+        "geoip-country": "Finland", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "80.69.161.42"
+        ], 
+        "dns-mx": [
+            "mail1.sigmatic.fi"
+        ], 
+        "dns-ns": [
+            "ns1.sigmatic.fi", 
+            "ns2.sigmatic.fi"
+        ], 
+        "domain-name": "ou-lu.fi", 
+        "fuzzer": "hyphenation", 
+        "geoip-country": "Finland", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "81.90.71.19"
+        ], 
+        "dns-mx": [
+            "posti.dvn.fi"
+        ], 
+        "dns-ns": [
+            "ns.devnull.fi", 
+            "ns2.devnull.fi"
+        ], 
+        "domain-name": "lulu.fi", 
+        "fuzzer": "replacement", 
+        "geoip-country": "Finland", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "91.232.156.81", 
+            "91.232.156.82"
+        ], 
+        "dns-mx": [
+            "mail.kapsi.fi", 
+            "mx2.kapsi.fi"
+        ], 
+        "dns-ns": [
+            "ns1.kapsi.fi", 
+            "ns2.kapsi.fi"
+        ], 
+        "domain-name": "pulu.fi", 
+        "fuzzer": "replacement"
+    }, 
+    {
+        "dns-a": [
+            "185.55.84.252"
+        ], 
+        "dns-ns": [
+            "ns1.domainkauppa.fi", 
+            "ns2.domainkauppa.fi"
+        ], 
+        "domain-name": "ou.lu.fi", 
+        "fuzzer": "subdomain", 
+        "geoip-country": "Finland", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "80.69.161.38"
+        ], 
+        "dns-aaaa": [
+            "2a01:51c0:1000:21:80:69:161:38"
+        ], 
+        "dns-mx": [
+            "mail1.sigmatic.fi"
+        ], 
+        "dns-ns": [
+            "ns1.sigmatic.fi", 
+            "ns2.sigmatic.fi"
+        ], 
+        "domain-name": "uulu.fi", 
+        "fuzzer": "vowel-swap"
+    }, 
+    {
+        "dns-a": [
+            "54.76.107.51"
+        ], 
+        "dns-mx": [
+            "mail.oula.fi"
+        ], 
+        "dns-ns": [
+            "prodns.kotisivut.com", 
+            "prodns2.kotisivut.com", 
+            "prodns3.kotisivut.com", 
+            "prodns4.kotisivut.com"
+        ], 
+        "domain-name": "oula.fi", 
+        "fuzzer": "vowel-swap", 
+        "geoip-country": "Ireland", 
+        "ssdeep-score": 0
+    }
+]

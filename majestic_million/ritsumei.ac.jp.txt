@@ -1,0 +1,29 @@
+[
+    {
+        "dns-ns": [
+            "dns-x.sinet.ad.jp", 
+            "rundz1151.ritsumei.ac.jp"
+        ], 
+        "domain-name": "ritsumei.ac.jp", 
+        "fuzzer": "original*"
+    }, 
+    {
+        "dns-ns": [
+            "dns-x.sinet.ad.jp", 
+            "rundz1151.ritsumei.ac.jp"
+        ], 
+        "domain-name": "ritsumei.jp", 
+        "fuzzer": "various"
+    }, 
+    {
+        "dns-a": [
+            "61.126.48.222"
+        ], 
+        "dns-ns": [
+            "asns1.customer.ne.jp", 
+            "asns2.customer.ne.jp"
+        ], 
+        "domain-name": "ritsumeiac.jp", 
+        "fuzzer": "various"
+    }
+]

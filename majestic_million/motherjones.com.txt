@@ -1,0 +1,150 @@
+[
+    {
+        "dns-a": [
+            "192.0.66.2"
+        ], 
+        "dns-mx": [
+            "us-smtp-inbound-1.mimecast.com", 
+            "us-smtp-inbound-2.mimecast.com"
+        ], 
+        "dns-ns": [
+            "ns1.p13.dynect.net", 
+            "ns2.p13.dynect.net", 
+            "ns3.p13.dynect.net", 
+            "ns4.p13.dynect.net"
+        ], 
+        "domain-name": "motherjones.com", 
+        "fuzzer": "original*", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 100
+    }, 
+    {
+        "dns-a": [
+            "52.73.124.185", 
+            "54.164.198.60"
+        ], 
+        "dns-ns": [
+            "ns1.namebrightdns.com", 
+            "ns2.namebrightdns.com"
+        ], 
+        "domain-name": "motherbones.com", 
+        "fuzzer": "bitsquatting", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "216.239.32.21", 
+            "216.239.34.21", 
+            "216.239.36.21", 
+            "216.239.38.21"
+        ], 
+        "dns-mx": [
+            "alt1.aspmx.l.google.com", 
+            "alt2.aspmx.l.google.com", 
+            "aspmx.l.google.com", 
+            "aspmx2.googlemail.com", 
+            "aspmx3.googlemail.com"
+        ], 
+        "dns-ns": [
+            "ns49.domaincontrol.com", 
+            "ns50.domaincontrol.com"
+        ], 
+        "domain-name": "motherrjones.com", 
+        "fuzzer": "insertion", 
+        "geoip-country": "United States"
+    }, 
+    {
+        "dns-a": [
+            "198.105.244.111", 
+            "198.105.254.111"
+        ], 
+        "dns-aaaa": [
+            "2620:118:7002::1111", 
+            "2620:118:7008::1111"
+        ], 
+        "dns-ns": [
+            "a1-144.akam.net", 
+            "a10-65.akam.net", 
+            "a13-66.akam.net", 
+            "a22-67.akam.net", 
+            "a6-64.akam.net", 
+            "a9-65.akam.net"
+        ], 
+        "domain-name": "motherjone.com", 
+        "fuzzer": "omission", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "67.55.121.97"
+        ], 
+        "dns-ns": [
+            "ns1.moterjones.com", 
+            "ns2.moterjones.com"
+        ], 
+        "domain-name": "moterjones.com", 
+        "fuzzer": "omission", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "103.224.182.243"
+        ], 
+        "dns-mx": [
+            "park-mx.above.com"
+        ], 
+        "dns-ns": [
+            "ns1.above.com", 
+            "ns2.above.com"
+        ], 
+        "domain-name": "mtherjones.com", 
+        "fuzzer": "omission", 
+        "geoip-country": "Australia", 
+        "mx-spy": true, 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "216.58.210.19"
+        ], 
+        "dns-aaaa": [
+            "2a00:1450:4001:816::2013"
+        ], 
+        "domain-name": "otherjones.com", 
+        "fuzzer": "omission", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "139.59.163.79"
+        ], 
+        "dns-ns": [
+            "ns1fkl.name.com", 
+            "ns2dky.name.com", 
+            "ns3fgh.name.com", 
+            "ns4cfn.name.com"
+        ], 
+        "domain-name": "motherjonez.com", 
+        "fuzzer": "replacement", 
+        "geoip-country": "United Kingdom", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "192.185.61.97"
+        ], 
+        "dns-mx": [
+            "motherjanes.com"
+        ], 
+        "dns-ns": [
+            "ns8365.hostgator.com", 
+            "ns8366.hostgator.com"
+        ], 
+        "domain-name": "motherjanes.com", 
+        "fuzzer": "vowel-swap"
+    }
+]

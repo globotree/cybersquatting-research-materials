@@ -1,0 +1,77 @@
+[
+    {
+        "dns-a": [
+            "52.65.241.182", 
+            "54.79.75.142"
+        ], 
+        "dns-mx": [
+            "seg-0001-a.nsw.gov.au", 
+            "seg-0001-b.nsw.gov.au"
+        ], 
+        "dns-ns": [
+            "w.au", 
+            "x.au", 
+            "y.au", 
+            "z.au"
+        ], 
+        "domain-name": "nsw.gov.au", 
+        "fuzzer": "original*", 
+        "geoip-country": "Australia", 
+        "ssdeep-score": 99
+    }, 
+    {
+        "dns-a": [
+            "144.53.226.11"
+        ], 
+        "dns-mx": [
+            "mail.abs.gov.au"
+        ], 
+        "dns-ns": [
+            "a1-217.akam.net", 
+            "a20-66.akam.net", 
+            "a4-67.akam.net", 
+            "a6-64.akam.net", 
+            "a7-65.akam.net", 
+            "a9-66.akam.net"
+        ], 
+        "domain-name": "nss.gov.au", 
+        "fuzzer": "bitsquatting", 
+        "geoip-country": "Australia", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-ns": [
+            "ns-1132.awsdns-13.org", 
+            "ns-1680.awsdns-18.co.uk", 
+            "ns-56.awsdns-07.com", 
+            "ns-571.awsdns-07.net"
+        ], 
+        "domain-name": "ns.gov.au", 
+        "fuzzer": "omission"
+    }, 
+    {
+        "dns-a": [
+            "120.29.254.105"
+        ], 
+        "dns-aaaa": [
+            "2001:dcd:6::105"
+        ], 
+        "dns-ns": [
+            "ddns1.ariservices.com", 
+            "ddns2.ariservices.com"
+        ], 
+        "domain-name": "ns2.gov.au", 
+        "fuzzer": "replacement", 
+        "geoip-country": "Australia"
+    }, 
+    {
+        "dns-ns": [
+            "w.au", 
+            "x.au", 
+            "y.au", 
+            "z.au"
+        ], 
+        "domain-name": "nsw.au", 
+        "fuzzer": "various"
+    }
+]

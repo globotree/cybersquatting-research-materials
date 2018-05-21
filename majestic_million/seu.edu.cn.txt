@@ -1,0 +1,131 @@
+[
+    {
+        "dns-a": [
+            "121.248.63.91"
+        ], 
+        "dns-mx": [
+            "voidc50.seu.edu.cn"
+        ], 
+        "dns-ns": [
+            "seic2.seu.edu.cn", 
+            "seic8.seu.edu.cn"
+        ], 
+        "domain-name": "seu.edu.cn", 
+        "fuzzer": "original*", 
+        "geoip-country": "China", 
+        "ssdeep-score": 100
+    }, 
+    {
+        "dns-a": [
+            "202.194.14.6", 
+            "202.194.15.6", 
+            "211.86.56.247"
+        ], 
+        "dns-mx": [
+            "sdu.edu.cn"
+        ], 
+        "dns-ns": [
+            "sdunetnms.sdu.edu.cn", 
+            "sdunetsv2.sdu.edu.cn", 
+            "sdunetsv3.sdu.edu.cn"
+        ], 
+        "domain-name": "sdu.edu.cn", 
+        "fuzzer": "bitsquatting", 
+        "geoip-country": "China", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "210.38.192.100"
+        ], 
+        "dns-mx": [
+            "mail.sgu.edu.cn"
+        ], 
+        "dns-ns": [
+            "dns.sgu.edu.cn"
+        ], 
+        "domain-name": "sgu.edu.cn", 
+        "fuzzer": "bitsquatting", 
+        "geoip-country": "China", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-mx": [
+            "mxhm.qiye.163.com"
+        ], 
+        "dns-ns": [
+            "DNS1.sau.edu.cn", 
+            "DNS2.sau.edu.cn"
+        ], 
+        "domain-name": "sau.edu.cn", 
+        "fuzzer": "bitsquatting"
+    }, 
+    {
+        "dns-mx": [
+            "mail.smu.edu.cn"
+        ], 
+        "dns-ns": [
+            "dns.smu.edu.cn"
+        ], 
+        "domain-name": "smu.edu.cn", 
+        "fuzzer": "bitsquatting"
+    }, 
+    {
+        "dns-a": [
+            "211.80.252.10"
+        ], 
+        "domain-name": "yeu.edu.cn", 
+        "fuzzer": "replacement"
+    }, 
+    {
+        "dns-mx": [
+            "gw.szu.edu.cn", 
+            "mx-szu-edu-cn.icoremail.net"
+        ], 
+        "dns-ns": [
+            "bay.szu.edu.cn", 
+            "sea.szu.edu.cn"
+        ], 
+        "domain-name": "szu.edu.cn", 
+        "fuzzer": "replacement"
+    }, 
+    {
+        "dns-a": [
+            "222.178.188.135"
+        ], 
+        "dns-mx": [
+            "mail.swu.edu.cn"
+        ], 
+        "dns-ns": [
+            "dns1.swu.edu.cn"
+        ], 
+        "domain-name": "swu.edu.cn", 
+        "fuzzer": "replacement", 
+        "geoip-country": "China", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "210.35.115.3"
+        ], 
+        "dns-mx": [
+            "mail.esu.edu.cn"
+        ], 
+        "dns-ns": [
+            "dns.esu.edu.cn"
+        ], 
+        "domain-name": "esu.edu.cn", 
+        "fuzzer": "transposition"
+    }, 
+    {
+        "dns-mx": [
+            "mx-edu1.icoremail.net", 
+            "mx2-edu1.icoremail.net"
+        ], 
+        "dns-ns": [
+            "dragon.shtvu.edu.cn"
+        ], 
+        "domain-name": "sou.edu.cn", 
+        "fuzzer": "vowel-swap"
+    }
+]

@@ -1,0 +1,178 @@
+[
+    {
+        "dns-a": [
+            "138.23.226.208"
+        ], 
+        "dns-mx": [
+            "mx1.ucr.edu", 
+            "mx2.ucr.edu"
+        ], 
+        "dns-ns": [
+            "ns1.ucr.edu", 
+            "ns2.ucr.edu", 
+            "sdns1.berkeley.edu"
+        ], 
+        "domain-name": "ucr.edu", 
+        "fuzzer": "original*", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 100
+    }, 
+    {
+        "dns-mx": [
+            "alt1.aspmx.l.google.com", 
+            "alt2.aspmx.l.google.com", 
+            "aspmx.l.google.com", 
+            "aspmx2.googlemail.com", 
+            "aspmx3.googlemail.com"
+        ], 
+        "dns-ns": [
+            "dcserver.k12.deltaschools.com"
+        ], 
+        "domain-name": "tcr.edu", 
+        "fuzzer": "bitsquatting"
+    }, 
+    {
+        "dns-a": [
+            "192.190.111.22"
+        ], 
+        "dns-mx": [
+            "pandora.sf.ca.us"
+        ], 
+        "dns-ns": [
+            "kumr.lns.com", 
+            "pandora.sf.ca.us"
+        ], 
+        "domain-name": "wcr.edu", 
+        "fuzzer": "bitsquatting", 
+        "geoip-country": "United States"
+    }, 
+    {
+        "dns-a": [
+            "104.28.24.186", 
+            "104.28.25.186"
+        ], 
+        "dns-aaaa": [
+            "2400:cb00:2048:1::681c:18ba", 
+            "2400:cb00:2048:1::681c:19ba"
+        ], 
+        "dns-mx": [
+            "alt1.aspmx.l.google.com", 
+            "alt2.aspmx.l.google.com", 
+            "aspmx.l.google.com", 
+            "aspmx2.googlemail.com", 
+            "aspmx3.googlemail.com"
+        ], 
+        "dns-ns": [
+            "alexis.ns.cloudflare.com", 
+            "anna.ns.cloudflare.com"
+        ], 
+        "domain-name": "ucs.edu", 
+        "fuzzer": "bitsquatting", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "129.137.4.225"
+        ], 
+        "dns-mx": [
+            "ucmailmx3.uc.edu", 
+            "ucmailmx4.uc.edu"
+        ], 
+        "dns-ns": [
+            "ucdnsa.uc.edu", 
+            "ucdnsb.uc.edu"
+        ], 
+        "domain-name": "uc.edu", 
+        "fuzzer": "omission", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-mx": [
+            "polyester.richmond.edu", 
+            "rayon.richmond.edu"
+        ], 
+        "dns-ns": [
+            "cookie.richmond.edu", 
+            "cracker.richmond.edu", 
+            "uvaarpa.virginia.edu"
+        ], 
+        "domain-name": "ur.edu", 
+        "fuzzer": "omission"
+    }, 
+    {
+        "dns-ns": [
+            "dns-one.ucdavis.edu", 
+            "dns-three.ucdavis.edu", 
+            "dns-two.ucdavis.edu"
+        ], 
+        "domain-name": "ucd.edu", 
+        "fuzzer": "replacement"
+    }, 
+    {
+        "dns-a": [
+            "132.170.219.161"
+        ], 
+        "dns-mx": [
+            "ucf-edu.mail.protection.outlook.com"
+        ], 
+        "dns-ns": [
+            "ns1-01.azure-dns.com", 
+            "ns2-01.azure-dns.net", 
+            "ns3-01.azure-dns.org", 
+            "ns4-01.azure-dns.info"
+        ], 
+        "domain-name": "ucf.edu", 
+        "fuzzer": "replacement", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "74.50.124.8"
+        ], 
+        "dns-mx": [
+            "d86659a.ess.barracudanetworks.com", 
+            "d86659b.ess.barracudanetworks.com"
+        ], 
+        "dns-ns": [
+            "dns1.easydns.com", 
+            "dns2.easydns.net", 
+            "dns3.easydns.ca"
+        ], 
+        "domain-name": "icr.edu", 
+        "fuzzer": "replacement", 
+        "geoip-country": "United States"
+    }, 
+    {
+        "dns-a": [
+            "192.99.98.248"
+        ], 
+        "dns-mx": [
+            "alt1.aspmx.l.google.com", 
+            "alt2.aspmx.l.google.com", 
+            "aspmx.l.google.com"
+        ], 
+        "dns-ns": [
+            "ns7.canspace.ca", 
+            "ns8.canspace.ca"
+        ], 
+        "domain-name": "ocr.edu", 
+        "fuzzer": "vowel-swap", 
+        "geoip-country": "Canada", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "184.168.221.82"
+        ], 
+        "dns-ns": [
+            "ns31.domaincontrol.com", 
+            "ns32.domaincontrol.com"
+        ], 
+        "domain-name": "ucr-edu.com", 
+        "fuzzer": "various", 
+        "geoip-country": "United States"
+    }
+]

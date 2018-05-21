@@ -1,0 +1,42 @@
+[
+    {
+        "dns-a": [
+            "185.30.93.10"
+        ], 
+        "dns-mx": [
+            "mail-gw1.esa.int", 
+            "mail-gw2.esa.int"
+        ], 
+        "dns-ns": [
+            "dns1.esa.int", 
+            "dns2.esa.int", 
+            "dns3.esa.int", 
+            "dns4.esa.int", 
+            "dns5.esa.int", 
+            "dns6.esa.int"
+        ], 
+        "domain-name": "esa.int", 
+        "fuzzer": "original*", 
+        "geoip-country": "France", 
+        "ssdeep-score": 100
+    }, 
+    {
+        "dns-a": [
+            "195.243.153.54"
+        ], 
+        "dns-mx": [
+            "mail01.era.int", 
+            "mail02.era.int", 
+            "mail03.era.int", 
+            "mail04.era.int"
+        ], 
+        "dns-ns": [
+            "dns104.ovh.net", 
+            "ns104.ovh.net"
+        ], 
+        "domain-name": "era.int", 
+        "fuzzer": "bitsquatting", 
+        "geoip-country": "Germany", 
+        "ssdeep-score": 0
+    }
+]

@@ -1,0 +1,73 @@
+[
+    {
+        "dns-a": [
+            "104.16.212.99", 
+            "104.16.213.99", 
+            "104.16.214.99", 
+            "104.16.215.99", 
+            "104.16.216.99"
+        ], 
+        "dns-mx": [
+            "businessinsider-com-au.mail.protection.outlook.com"
+        ], 
+        "dns-ns": [
+            "anna.ns.cloudflare.com", 
+            "sam.ns.cloudflare.com"
+        ], 
+        "domain-name": "businessinsider.com.au", 
+        "fuzzer": "original*", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 100
+    }, 
+    {
+        "dns-a": [
+            "104.28.2.103", 
+            "104.28.3.103"
+        ], 
+        "dns-aaaa": [
+            "2400:cb00:2048:1::681c:267", 
+            "2400:cb00:2048:1::681c:367"
+        ], 
+        "dns-ns": [
+            "bob.ns.cloudflare.com", 
+            "lily.ns.cloudflare.com"
+        ], 
+        "domain-name": "business-insider.com.au", 
+        "fuzzer": "hyphenation", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 86
+    }, 
+    {
+        "dns-a": [
+            "103.224.182.239"
+        ], 
+        "dns-mx": [
+            "park-mx.above.com"
+        ], 
+        "dns-ns": [
+            "ns1.above.com", 
+            "ns2.above.com"
+        ], 
+        "domain-name": "businessinsi.der.com.au", 
+        "fuzzer": "subdomain", 
+        "geoip-country": "Australia", 
+        "mx-spy": true, 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "103.224.212.253"
+        ], 
+        "dns-mx": [
+            "park-mx.above.com"
+        ], 
+        "dns-ns": [
+            "ns1.above.com", 
+            "ns2.above.com"
+        ], 
+        "domain-name": "businessinsid.er.com.au", 
+        "fuzzer": "subdomain", 
+        "geoip-country": "Australia", 
+        "mx-spy": true
+    }
+]

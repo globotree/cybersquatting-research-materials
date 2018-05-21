@@ -1,0 +1,40 @@
+[
+    {
+        "dns-a": [
+            "158.125.160.64"
+        ], 
+        "dns-mx": [
+            "mx-1a.lut.ac.uk", 
+            "mx-1b.lut.ac.uk", 
+            "mx-2a.lut.ac.uk", 
+            "mx-2b.lut.ac.uk"
+        ], 
+        "dns-ns": [
+            "agate.lut.ac.uk", 
+            "bgate.lut.ac.uk", 
+            "cgate.lut.ac.uk", 
+            "ns1.surfnet.nl", 
+            "ns3.ja.net"
+        ], 
+        "domain-name": "lboro.ac.uk", 
+        "fuzzer": "original*", 
+        "geoip-country": "United Kingdom", 
+        "ssdeep-score": 100
+    }, 
+    {
+        "dns-a": [
+            "158.125.160.64"
+        ], 
+        "dns-mx": [
+            "ben.lut.ac.uk", 
+            "bill.lut.ac.uk"
+        ], 
+        "dns-ns": [
+            "agate.lut.ac.uk", 
+            "bgate.lut.ac.uk", 
+            "cgate.lut.ac.uk"
+        ], 
+        "domain-name": "lboro.uk", 
+        "fuzzer": "various"
+    }
+]

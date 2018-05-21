@@ -1,0 +1,86 @@
+[
+    {
+        "dns-a": [
+            "104.232.27.118"
+        ], 
+        "dns-ns": [
+            "carl.ns.cloudflare.com", 
+            "yolanda.ns.cloudflare.com"
+        ], 
+        "domain-name": "ahajournals.org", 
+        "fuzzer": "original*", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 100
+    }, 
+    {
+        "dns-a": [
+            "208.85.172.37"
+        ], 
+        "dns-ns": [
+            "ns-1060.awsdns-04.org", 
+            "ns-1695.awsdns-19.co.uk", 
+            "ns-441.awsdns-55.com", 
+            "ns-802.awsdns-36.net"
+        ], 
+        "domain-name": "aha-journals.org", 
+        "fuzzer": "hyphenation", 
+        "geoip-country": "United States"
+    }, 
+    {
+        "dns-a": [
+            "185.53.179.6"
+        ], 
+        "dns-mx": [
+            "mail.h-email.net"
+        ], 
+        "dns-ns": [
+            "ns1.parkingcrew.net", 
+            "ns2.parkingcrew.net"
+        ], 
+        "domain-name": "ahajournal.org", 
+        "fuzzer": "omission", 
+        "geoip-country": "Germany", 
+        "mx-spy": true, 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "65.156.1.100"
+        ], 
+        "dns-ns": [
+            "ns1.reedelsevier.com", 
+            "ns2.reedelsevier.com", 
+            "ns3.reedelsevier.com"
+        ], 
+        "domain-name": "agajournals.org", 
+        "fuzzer": "replacement", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "217.70.184.50"
+        ], 
+        "domain-name": "aha.journals.org", 
+        "fuzzer": "subdomain", 
+        "geoip-country": "France", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "50.63.46.1"
+        ], 
+        "dns-ns": [
+            "a.service.afiliasdns.info", 
+            "b.service.afiliasdns.org", 
+            "c.service.afiliasdns.net", 
+            "d.service.afiliasdns.com", 
+            "e.service.afiliasdns.info", 
+            "f.service.afiliasdns.net"
+        ], 
+        "domain-name": "ahajournal.s.org", 
+        "fuzzer": "subdomain", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 0
+    }
+]

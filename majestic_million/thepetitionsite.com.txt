@@ -1,0 +1,69 @@
+[
+    {
+        "dns-a": [
+            "216.146.46.10", 
+            "216.146.46.11"
+        ], 
+        "dns-ns": [
+            "ns1.p10.dynect.net", 
+            "ns2.p10.dynect.net", 
+            "ns3.p10.dynect.net", 
+            "ns4.p10.dynect.net"
+        ], 
+        "domain-name": "thepetitionsite.com", 
+        "fuzzer": "original*", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 66
+    }, 
+    {
+        "dns-a": [
+            "54.72.9.51"
+        ], 
+        "dns-mx": [
+            "mail.h-email.net"
+        ], 
+        "dns-ns": [
+            "ns1.parkingcrew.net", 
+            "ns2.parkingcrew.net"
+        ], 
+        "domain-name": "thepetitonsite.com", 
+        "fuzzer": "omission", 
+        "geoip-country": "Ireland", 
+        "mx-spy": true, 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "208.91.197.194"
+        ], 
+        "dns-ns": [
+            "dns01.gpn.register.com", 
+            "dns02.gpn.register.com", 
+            "dns03.gpn.register.com", 
+            "dns04.gpn.register.com", 
+            "dns05.gpn.register.com"
+        ], 
+        "domain-name": "thepetitionssite.com", 
+        "fuzzer": "repetition", 
+        "geoip-country": "Virgin Islands", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "208.91.197.194"
+        ], 
+        "domain-name": "th.epetitionsite.com", 
+        "fuzzer": "subdomain", 
+        "geoip-country": "Virgin Islands", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "208.91.197.39"
+        ], 
+        "domain-name": "thepetit.ionsite.com", 
+        "fuzzer": "subdomain", 
+        "geoip-country": "Virgin Islands", 
+        "ssdeep-score": 0
+    }
+]

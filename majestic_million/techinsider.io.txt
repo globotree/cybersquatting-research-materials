@@ -1,0 +1,80 @@
+[
+    {
+        "dns-a": [
+            "151.101.0.68", 
+            "151.101.128.68", 
+            "151.101.192.68", 
+            "151.101.64.68"
+        ], 
+        "dns-mx": [
+            "alt1.aspmx.l.google.com", 
+            "alt2.aspmx.l.google.com", 
+            "aspmx.l.google.com", 
+            "aspmx2.googlemail.com", 
+            "aspmx3.googlemail.com"
+        ], 
+        "dns-ns": [
+            "ns1.p14.dynect.net", 
+            "ns2.p14.dynect.net", 
+            "ns3.p14.dynect.net", 
+            "ns4.p14.dynect.net"
+        ], 
+        "domain-name": "techinsider.io", 
+        "fuzzer": "original*", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 100
+    }, 
+    {
+        "dns-a": [
+            "192.30.252.153", 
+            "192.30.252.154"
+        ], 
+        "dns-mx": [
+            "alt1.aspmx.l.google.com", 
+            "alt2.aspmx.l.google.com", 
+            "aspmx.l.google.com", 
+            "aspmx2.googlemail.com", 
+            "aspmx3.googlemail.com"
+        ], 
+        "dns-ns": [
+            "ns1.dnsimple.com", 
+            "ns2.dnsimple.com", 
+            "ns3.dnsimple.com", 
+            "ns4.dnsimple.com"
+        ], 
+        "domain-name": "techinsiders.io", 
+        "fuzzer": "addition", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "95.170.70.239"
+        ], 
+        "dns-aaaa": [
+            "2a01:7c8:eb:0:95:170:70:239"
+        ], 
+        "domain-name": "techin.sider.io", 
+        "fuzzer": "subdomain", 
+        "geoip-country": "Netherlands", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "199.59.242.150"
+        ], 
+        "domain-name": "techinsi.der.io", 
+        "fuzzer": "subdomain", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "193.223.78.230"
+        ], 
+        "domain-name": "techinsid.er.io", 
+        "fuzzer": "subdomain", 
+        "geoip-country": "United Kingdom", 
+        "ssdeep-score": 0
+    }
+]

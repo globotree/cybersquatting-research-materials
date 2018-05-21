@@ -1,0 +1,68 @@
+[
+    {
+        "dns-a": [
+            "87.106.181.237"
+        ], 
+        "dns-mx": [
+            "mail.winscp.net"
+        ], 
+        "dns-ns": [
+            "ns1.winscp.net", 
+            "ns2.winscp.net"
+        ], 
+        "domain-name": "winscp.net", 
+        "fuzzer": "original*", 
+        "geoip-country": "Germany", 
+        "ssdeep-score": 83
+    }, 
+    {
+        "dns-a": [
+            "124.146.199.117"
+        ], 
+        "dns-mx": [
+            "winsc.net"
+        ], 
+        "dns-ns": [
+            "ns3.sphere.ad.jp", 
+            "ns4.sphere.ad.jp"
+        ], 
+        "domain-name": "winsc.net", 
+        "fuzzer": "omission", 
+        "geoip-country": "Japan", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "202.104.151.98"
+        ], 
+        "dns-ns": [
+            "dns19.hichina.com", 
+            "dns20.hichina.com"
+        ], 
+        "domain-name": "winscm.net", 
+        "fuzzer": "replacement", 
+        "geoip-country": "China"
+    }, 
+    {
+        "dns-a": [
+            "66.96.163.129"
+        ], 
+        "domain-name": "win.scp.net", 
+        "fuzzer": "subdomain", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "141.8.224.169"
+        ], 
+        "dns-ns": [
+            "ns27.rookdns.com", 
+            "ns28.rookdns.com"
+        ], 
+        "domain-name": "winspc.net", 
+        "fuzzer": "transposition", 
+        "geoip-country": "Switzerland", 
+        "ssdeep-score": 0
+    }
+]

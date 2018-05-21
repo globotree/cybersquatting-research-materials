@@ -1,0 +1,71 @@
+[
+    {
+        "dns-a": [
+            "218.241.203.69"
+        ], 
+        "dns-mx": [
+            "mxcom.263xmail.com", 
+            "mxwcom.263xmail.com"
+        ], 
+        "dns-ns": [
+            "ns1.sfn.cn", 
+            "ns2.sfn.cn"
+        ], 
+        "domain-name": "circ.gov.cn", 
+        "fuzzer": "original*", 
+        "geoip-country": "China", 
+        "ssdeep-score": 100
+    }, 
+    {
+        "dns-a": [
+            "219.229.132.43"
+        ], 
+        "dns-mx": [
+            "mail.sirc.gov.cn"
+        ], 
+        "domain-name": "sirc.gov.cn", 
+        "fuzzer": "bitsquatting", 
+        "geoip-country": "China", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-ns": [
+            "ns1.sfn.cn", 
+            "ns2.sfn.cn"
+        ], 
+        "domain-name": "cic.gov.cn", 
+        "fuzzer": "omission"
+    }, 
+    {
+        "dns-a": [
+            "59.61.182.101"
+        ], 
+        "dns-mx": [
+            "mxbiz1.qq.com", 
+            "mxbiz2.qq.com"
+        ], 
+        "dns-ns": [
+            "dns19.hichina.com", 
+            "dns20.hichina.com"
+        ], 
+        "domain-name": "irc.gov.cn", 
+        "fuzzer": "omission", 
+        "geoip-country": "China"
+    }, 
+    {
+        "dns-a": [
+            "59.61.182.101"
+        ], 
+        "domain-name": "c.irc.gov.cn", 
+        "fuzzer": "subdomain", 
+        "geoip-country": "China"
+    }, 
+    {
+        "dns-a": [
+            "61.187.190.68"
+        ], 
+        "domain-name": "ci.rc.gov.cn", 
+        "fuzzer": "subdomain", 
+        "geoip-country": "China"
+    }
+]

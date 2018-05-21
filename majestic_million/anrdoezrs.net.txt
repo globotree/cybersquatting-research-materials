@@ -1,0 +1,42 @@
+[
+    {
+        "dns-mx": [
+            ""
+        ], 
+        "dns-ns": [
+            "asia9.akam.net", 
+            "eur2.akam.net", 
+            "eur3.akam.net", 
+            "eur7.akam.net", 
+            "ns1-100.akam.net", 
+            "ns1-27.akam.net", 
+            "use4.akam.net", 
+            "usw1.akam.net"
+        ], 
+        "domain-name": "anrdoezrs.net", 
+        "fuzzer": "original*"
+    }, 
+    {
+        "dns-a": [
+            "182.61.97.11"
+        ], 
+        "domain-name": "anrdoe.zrs.net", 
+        "fuzzer": "subdomain", 
+        "geoip-country": "China"
+    }, 
+    {
+        "dns-a": [
+            "67.55.92.184", 
+            "67.55.92.187"
+        ], 
+        "dns-mx": [
+            "mx7.androezrs.net"
+        ], 
+        "dns-ns": [
+            "ns1.liverealdeals.com", 
+            "ns2.liverealdeals.com"
+        ], 
+        "domain-name": "androezrs.net", 
+        "fuzzer": "transposition"
+    }
+]

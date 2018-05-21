@@ -1,0 +1,74 @@
+[
+    {
+        "dns-a": [
+            "149.170.3.48"
+        ], 
+        "dns-mx": [
+            "smtp1.mmu.ac.uk", 
+            "smtp2.mmu.ac.uk", 
+            "smtp3.mmu.ac.uk"
+        ], 
+        "dns-ns": [
+            "flute.mmu.ac.uk", 
+            "garion.mmu.ac.uk"
+        ], 
+        "domain-name": "mmu.ac.uk", 
+        "fuzzer": "original*", 
+        "geoip-country": "United Kingdom", 
+        "ssdeep-score": 99
+    }, 
+    {
+        "dns-a": [
+            "160.9.134.58", 
+            "160.9.134.59", 
+            "160.9.244.58", 
+            "160.9.244.59"
+        ], 
+        "dns-ns": [
+            "dns4.leedsbeckett.ac.uk", 
+            "dns5.leedsbeckett.ac.uk", 
+            "dns6.leedsbeckett.ac.uk", 
+            "dns7.leedsbeckett.ac.uk"
+        ], 
+        "domain-name": "lmu.ac.uk", 
+        "fuzzer": "bitsquatting", 
+        "geoip-country": "United Kingdom"
+    }, 
+    {
+        "dns-a": [
+            "134.220.6.18"
+        ], 
+        "dns-mx": [
+            "wlv.ac.uk.mx4.fusemail.net", 
+            "wlv.ac.uk.mx5.fusemail.net", 
+            "wlv.ac.uk.mx6.fusemail.net"
+        ], 
+        "dns-ns": [
+            "blox1.wlv.ac.uk", 
+            "blox2.wlv.ac.uk"
+        ], 
+        "domain-name": "meu.ac.uk", 
+        "fuzzer": "bitsquatting", 
+        "geoip-country": "United Kingdom", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "150.204.254.81", 
+            "150.204.36.20"
+        ], 
+        "dns-mx": [
+            "icritical01.jmu.ac.uk", 
+            "icritical02.jmu.ac.uk", 
+            "icritical03.jmu.ac.uk", 
+            "icritical04.jmu.ac.uk"
+        ], 
+        "dns-ns": [
+            "dnsmaster.ljmu.ac.uk", 
+            "dnsslave1.ljmu.ac.uk"
+        ], 
+        "domain-name": "jmu.ac.uk", 
+        "fuzzer": "replacement", 
+        "geoip-country": "United Kingdom"
+    }
+]

@@ -1,0 +1,22 @@
+[
+    {
+        "dns-mx": [
+            "mail1.fmprc.gov.cn"
+        ], 
+        "dns-ns": [
+            "ns1.cdns.cn", 
+            "ns2.cdns.cn", 
+            "ns3.cdns.cn"
+        ], 
+        "domain-name": "fmprc.gov.cn", 
+        "fuzzer": "original*"
+    }, 
+    {
+        "dns-a": [
+            "61.187.190.68"
+        ], 
+        "domain-name": "fmp.rc.gov.cn", 
+        "fuzzer": "subdomain", 
+        "geoip-country": "China"
+    }
+]

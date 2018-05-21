@@ -1,0 +1,102 @@
+[
+    {
+        "dns-mx": [
+            "mxhm.qiye.163.com"
+        ], 
+        "dns-ns": [
+            "dns.nenu.edu.cn", 
+            "dns2.nenu.edu.cn", 
+            "dns6.nenu.edu.cn"
+        ], 
+        "domain-name": "nenu.edu.cn", 
+        "fuzzer": "original*"
+    }, 
+    {
+        "dns-mx": [
+            "hzmx01.mxmail.netease.com", 
+            "hzmx02.mxmail.netease.com"
+        ], 
+        "dns-ns": [
+            "ns.ndnu.edu.cn"
+        ], 
+        "domain-name": "ndnu.edu.cn", 
+        "fuzzer": "bitsquatting"
+    }, 
+    {
+        "dns-mx": [
+            "mx1.nefu.edu.cn", 
+            "mx2.nefu.edu.cn"
+        ], 
+        "dns-ns": [
+            "ns1.nefu.edu.cn", 
+            "ns2.nefu.edu.cn", 
+            "ns3.nefu.edu.cn"
+        ], 
+        "domain-name": "nefu.edu.cn", 
+        "fuzzer": "bitsquatting"
+    }, 
+    {
+        "dns-ns": [
+            "bamboo.nnu.edu.cn", 
+            "pine.nnu.edu.cn"
+        ], 
+        "domain-name": "nnu.edu.cn", 
+        "fuzzer": "omission"
+    }, 
+    {
+        "dns-a": [
+            "202.118.1.7"
+        ], 
+        "dns-mx": [
+            "gateway.neu.edu.cn", 
+            "gateway1.neu.edu.cn"
+        ], 
+        "dns-ns": [
+            "ns.neu.edu.cn", 
+            "ns1.neu.edu.cn", 
+            "ns2.neu.edu.cn"
+        ], 
+        "domain-name": "neu.edu.cn", 
+        "fuzzer": "omission", 
+        "geoip-country": "China"
+    }, 
+    {
+        "dns-mx": [
+            "mxbiz1.qq.com", 
+            "mxbiz2.qq.com"
+        ], 
+        "dns-ns": [
+            "dns.henu.edu.cn", 
+            "dns2.henu.edu.cn"
+        ], 
+        "domain-name": "henu.edu.cn", 
+        "fuzzer": "replacement"
+    }, 
+    {
+        "dns-mx": [
+            "mail.nwnu.edu.cn", 
+            "vgate.nwnu.edu.cn"
+        ], 
+        "dns-ns": [
+            "pilot.nwnu.edu.cn", 
+            "tsg.nwnu.edu.cn"
+        ], 
+        "domain-name": "nwnu.edu.cn", 
+        "fuzzer": "replacement"
+    }, 
+    {
+        "dns-a": [
+            "45.120.153.79"
+        ], 
+        "domain-name": "nenu.cn", 
+        "fuzzer": "various", 
+        "geoip-country": "Hong Kong"
+    }, 
+    {
+        "dns-a": [
+            "45.120.153.79"
+        ], 
+        "domain-name": "nenuedu.cn", 
+        "fuzzer": "various"
+    }
+]

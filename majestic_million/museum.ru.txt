@@ -1,0 +1,201 @@
+[
+    {
+        "dns-a": [
+            "79.120.40.229"
+        ], 
+        "dns-mx": [
+            "alt1.aspmx.l.google.com", 
+            "alt2.aspmx.l.google.com", 
+            "aspmx.l.google.com", 
+            "aspmx2.googlemail.com", 
+            "aspmx3.googlemail.com", 
+            "aspmx4.googlemail.com", 
+            "aspmx5.googlemail.com"
+        ], 
+        "dns-ns": [
+            "dns1.yandex.ru", 
+            "dns2.yandex.ru"
+        ], 
+        "domain-name": "museum.ru", 
+        "fuzzer": "original*", 
+        "geoip-country": "Russian Federation", 
+        "ssdeep-score": 65
+    }, 
+    {
+        "dns-a": [
+            "91.227.68.27"
+        ], 
+        "dns-mx": [
+            "mail.museumd.ru.museumd.ru"
+        ], 
+        "dns-ns": [
+            "ns.nvhost.ru", 
+            "ns2.nvhost.ru"
+        ], 
+        "domain-name": "museumd.ru", 
+        "fuzzer": "addition", 
+        "geoip-country": "Russian Federation", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "72.52.4.122"
+        ], 
+        "dns-mx": [
+            "localhost"
+        ], 
+        "dns-ns": [
+            "ns1.poishi.com", 
+            "ns2.poishi.com"
+        ], 
+        "domain-name": "museums.ru", 
+        "fuzzer": "addition", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "92.53.96.179"
+        ], 
+        "dns-aaaa": [
+            "2a03:6f00:1::5c35:60b3"
+        ], 
+        "dns-mx": [
+            "mx1.timeweb.ru", 
+            "mx2.timeweb.ru"
+        ], 
+        "dns-ns": [
+            "ns1.timeweb.ru", 
+            "ns2.timeweb.ru", 
+            "ns3.timeweb.org", 
+            "ns4.timeweb.org"
+        ], 
+        "domain-name": "museium.ru", 
+        "fuzzer": "insertion", 
+        "geoip-country": "Russian Federation", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "185.26.122.68"
+        ], 
+        "dns-mx": [
+            "mail.musezum.ru"
+        ], 
+        "dns-ns": [
+            "ns.hostland.ru", 
+            "ns3.hostland.ru"
+        ], 
+        "domain-name": "musezum.ru", 
+        "fuzzer": "insertion", 
+        "geoip-country": "Russian Federation", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "194.58.97.96"
+        ], 
+        "dns-mx": [
+            "mx.ru"
+        ], 
+        "dns-ns": [
+            "ns1.shopgroup.ru", 
+            "ns2.shopgroup.ru"
+        ], 
+        "domain-name": "museu.ru", 
+        "fuzzer": "omission", 
+        "geoip-country": "Russian Federation", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "72.52.4.122"
+        ], 
+        "dns-mx": [
+            "localhost"
+        ], 
+        "dns-ns": [
+            "ns1.sedoparking.com", 
+            "ns2.sedoparking.com"
+        ], 
+        "domain-name": "musem.ru", 
+        "fuzzer": "omission", 
+        "geoip-country": "United States", 
+        "mx-spy": true, 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "77.222.57.218"
+        ], 
+        "dns-mx": [
+            "mx1.spaceweb.ru", 
+            "mx2.spaceweb.ru"
+        ], 
+        "dns-ns": [
+            "ns1.spaceweb.ru", 
+            "ns2.spaceweb.ru", 
+            "ns3.spaceweb.pro", 
+            "ns4.spaceweb.pro"
+        ], 
+        "domain-name": "mmuseum.ru", 
+        "fuzzer": "repetition", 
+        "geoip-country": "Russian Federation", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "193.232.158.144", 
+            "193.232.158.145", 
+            "193.232.159.144", 
+            "193.232.159.145"
+        ], 
+        "dns-ns": [
+            "parking1.nic.ru", 
+            "parking2.nic.ru"
+        ], 
+        "domain-name": "muzeum.ru", 
+        "fuzzer": "replacement", 
+        "geoip-country": "Russian Federation", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "185.53.179.29"
+        ], 
+        "domain-name": "mu.seum.ru", 
+        "fuzzer": "subdomain", 
+        "geoip-country": "Germany", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "31.31.205.31"
+        ], 
+        "dns-ns": [
+            "ns1.reg.ru", 
+            "ns2.reg.ru"
+        ], 
+        "domain-name": "musium.ru", 
+        "fuzzer": "vowel-swap", 
+        "geoip-country": "Russian Federation", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "81.161.117.35"
+        ], 
+        "dns-mx": [
+            "mx.yandex.ru"
+        ], 
+        "dns-ns": [
+            "ns1.spaceweb.ru", 
+            "ns2.spaceweb.ru", 
+            "ns3.spaceweb.pro", 
+            "ns4.spaceweb.pro"
+        ], 
+        "domain-name": "museum-ru.com", 
+        "fuzzer": "various", 
+        "geoip-country": "Russian Federation"
+    }
+]

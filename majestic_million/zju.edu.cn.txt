@@ -1,0 +1,125 @@
+[
+    {
+        "dns-mx": [
+            "mail.zju.edu.cn", 
+            "mx-zju-edu-cn.icoremail.net"
+        ], 
+        "dns-ns": [
+            "ldns.zju.edu.cn"
+        ], 
+        "domain-name": "zju.edu.cn", 
+        "fuzzer": "original*"
+    }, 
+    {
+        "dns-mx": [
+            "mx2.zjut.edu.cn"
+        ], 
+        "dns-ns": [
+            "backup.zjut.edu.cn", 
+            "dns.zjut.edu.cn"
+        ], 
+        "domain-name": "zjut.edu.cn", 
+        "fuzzer": "addition"
+    }, 
+    {
+        "dns-mx": [
+            "mail.xju.edu.cn", 
+            "mailhost.xju.edu.cn", 
+            "xju.abroad.eyou.net"
+        ], 
+        "dns-ns": [
+            "dns1.xju.edu.cn", 
+            "dns2.xju.edu.cn"
+        ], 
+        "domain-name": "xju.edu.cn", 
+        "fuzzer": "bitsquatting"
+    }, 
+    {
+        "dns-mx": [
+            "mx.zzu.edu.cn"
+        ], 
+        "dns-ns": [
+            "dns.zzu.edu.cn", 
+            "dns2.zzu.edu.cn"
+        ], 
+        "domain-name": "zzu.edu.cn", 
+        "fuzzer": "bitsquatting"
+    }, 
+    {
+        "dns-ns": [
+            "zjkxy-3w-web"
+        ], 
+        "domain-name": "zjku.edu.cn", 
+        "fuzzer": "insertion"
+    }, 
+    {
+        "dns-a": [
+            "61.153.34.10", 
+            "61.153.34.3"
+        ], 
+        "dns-mx": [
+            "mxhm.qiye.163.com"
+        ], 
+        "dns-ns": [
+            "nmc.zjnu.edu.cn"
+        ], 
+        "domain-name": "zjnu.edu.cn", 
+        "fuzzer": "insertion", 
+        "geoip-country": "China"
+    }, 
+    {
+        "dns-ns": [
+            "alpha.zju.edu.cn", 
+            "ldns.zju.edu.cn"
+        ], 
+        "domain-name": "zj.edu.cn", 
+        "fuzzer": "omission"
+    }, 
+    {
+        "dns-ns": [
+            "windows-o0u1491"
+        ], 
+        "domain-name": "zmu.edu.cn", 
+        "fuzzer": "replacement"
+    }, 
+    {
+        "dns-mx": [
+            "hzmx01.mxmail.netease.com", 
+            "hzmx02.mxmail.netease.com", 
+            "mxhm.qiye.163.com"
+        ], 
+        "dns-ns": [
+            "dns1.tju.edu.cn", 
+            "dns2.tju.edu.cn"
+        ], 
+        "domain-name": "tju.edu.cn", 
+        "fuzzer": "replacement"
+    }, 
+    {
+        "dns-mx": [
+            "mail.sju.edu.cn"
+        ], 
+        "dns-ns": [
+            "edu-dns"
+        ], 
+        "domain-name": "sju.edu.cn", 
+        "fuzzer": "replacement"
+    }, 
+    {
+        "dns-mx": [
+            "mail.jzu.edu.cn"
+        ], 
+        "dns-ns": [
+            "dns.jzu.edu.cn"
+        ], 
+        "domain-name": "jzu.edu.cn", 
+        "fuzzer": "transposition"
+    }, 
+    {
+        "dns-ns": [
+            "alpha.zju.edu.cn"
+        ], 
+        "domain-name": "zju.cn", 
+        "fuzzer": "various"
+    }
+]

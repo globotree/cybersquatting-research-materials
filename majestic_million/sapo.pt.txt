@@ -1,0 +1,243 @@
+[
+    {
+        "dns-a": [
+            "213.13.146.142"
+        ], 
+        "dns-aaaa": [
+            "2001:8a0:2102:c:213:13:146:142"
+        ], 
+        "dns-mx": [
+            "mx.ptmail.sapo.pt"
+        ], 
+        "dns-ns": [
+            "dns01.sapo.pt", 
+            "dns02.sapo.pt", 
+            "ns.sapo.pt", 
+            "ns2.sapo.pt"
+        ], 
+        "domain-name": "sapo.pt", 
+        "fuzzer": "original*", 
+        "geoip-country": "Portugal", 
+        "ssdeep-score": 99
+    }, 
+    {
+        "dns-a": [
+            "80.172.253.60"
+        ], 
+        "dns-mx": [
+            "mxc.ptempresas.pt", 
+            "mxp.ptempresas.pt"
+        ], 
+        "dns-ns": [
+            "coltrane.telepac.pt", 
+            "ns2.telepac.pt"
+        ], 
+        "domain-name": "sapol.pt", 
+        "fuzzer": "addition", 
+        "geoip-country": "Portugal", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "185.11.164.213", 
+            "62.28.40.146"
+        ], 
+        "dns-mx": [
+            "mx.smartcloudpt.pt", 
+            "mxc.ptempresas.pt", 
+            "mxp.ptempresas.pt"
+        ], 
+        "dns-ns": [
+            "dns1.rede1024.com", 
+            "dns2.rede1024.com", 
+            "ns1.servicosweb.tmn.pt", 
+            "ns10.servicosweb.tmn.pt", 
+            "ns2.servicosweb.tmn.pt"
+        ], 
+        "domain-name": "sapor.pt", 
+        "fuzzer": "addition", 
+        "geoip-country": "Portugal", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "80.172.253.133"
+        ], 
+        "dns-mx": [
+            "sapos.pt"
+        ], 
+        "dns-ns": [
+            "ns1.ptconta.com", 
+            "ns2.ptconta.com", 
+            "ns3.ptconta.com", 
+            "ns4.ptconta.com"
+        ], 
+        "domain-name": "sapos.pt", 
+        "fuzzer": "addition", 
+        "geoip-country": "Portugal"
+    }, 
+    {
+        "dns-ns": [
+            "dns.meganet.pt", 
+            "dns2.meganet.pt"
+        ], 
+        "domain-name": "sapm.pt", 
+        "fuzzer": "bitsquatting"
+    }, 
+    {
+        "dns-ns": [
+            "ns01.atelierlogico.net", 
+            "ns02.atelierlogico.net"
+        ], 
+        "domain-name": "sap.pt", 
+        "fuzzer": "omission"
+    }, 
+    {
+        "dns-a": [
+            "72.52.4.119"
+        ], 
+        "dns-mx": [
+            "localhost"
+        ], 
+        "dns-ns": [
+            "ns1.sedoparking.com", 
+            "ns2.sedoparking.com"
+        ], 
+        "domain-name": "sao.pt", 
+        "fuzzer": "omission", 
+        "geoip-country": "United States", 
+        "mx-spy": true, 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "103.224.182.247"
+        ], 
+        "dns-mx": [
+            "park-mx.above.com"
+        ], 
+        "dns-ns": [
+            "ns1.above.com", 
+            "ns2.above.com"
+        ], 
+        "domain-name": "spo.pt", 
+        "fuzzer": "omission", 
+        "geoip-country": "Australia", 
+        "mx-spy": true, 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "185.53.179.8"
+        ], 
+        "dns-mx": [
+            "mail.h-email.net"
+        ], 
+        "dns-ns": [
+            "ns1.parkingcrew.net", 
+            "ns2.parkingcrew.net"
+        ], 
+        "domain-name": "sspo.pt", 
+        "fuzzer": "replacement", 
+        "geoip-country": "Germany", 
+        "mx-spy": true, 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "185.53.177.29"
+        ], 
+        "dns-ns": [
+            "ns1.gegidns.com", 
+            "ns2.gegidns.com"
+        ], 
+        "domain-name": "sapi.pt", 
+        "fuzzer": "replacement", 
+        "geoip-country": "Germany", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "81.88.57.70"
+        ], 
+        "dns-mx": [
+            "mail-pt.securemail.pro"
+        ], 
+        "dns-ns": [
+            "ns1.amenworld.com", 
+            "ns2.amenworld.com"
+        ], 
+        "domain-name": "xapo.pt", 
+        "fuzzer": "replacement", 
+        "geoip-country": "Italy", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "68.65.122.39"
+        ], 
+        "dns-mx": [
+            "mail.sapp.pt"
+        ], 
+        "dns-ns": [
+            "dns1.namecheaphosting.com", 
+            "dns2.namecheaphosting.com"
+        ], 
+        "domain-name": "sapp.pt", 
+        "fuzzer": "replacement"
+    }, 
+    {
+        "dns-a": [
+            "213.13.146.140"
+        ], 
+        "dns-ns": [
+            "ns1.ptempresas.pt", 
+            "ns10.ptempresas.pt", 
+            "ns2.ptempresas.pt"
+        ], 
+        "domain-name": "aspo.pt", 
+        "fuzzer": "transposition", 
+        "geoip-country": "Portugal", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "213.13.146.140"
+        ], 
+        "dns-ns": [
+            "ns1.ptempresas.pt", 
+            "ns10.ptempresas.pt", 
+            "ns2.ptempresas.pt"
+        ], 
+        "domain-name": "saop.pt", 
+        "fuzzer": "transposition", 
+        "geoip-country": "Portugal", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "89.26.249.65"
+        ], 
+        "dns-ns": [
+            "ns1.rrpproxy.net", 
+            "ns2.na.rrpproxy.net", 
+            "ns2.rrpproxy.net"
+        ], 
+        "domain-name": "sapa.pt", 
+        "fuzzer": "vowel-swap", 
+        "geoip-country": "Portugal"
+    }, 
+    {
+        "dns-a": [
+            "52.86.22.136", 
+            "54.174.212.152"
+        ], 
+        "dns-ns": [
+            "ns1.namebrightdns.com", 
+            "ns2.namebrightdns.com"
+        ], 
+        "domain-name": "sapo-pt.com", 
+        "fuzzer": "various", 
+        "geoip-country": "United States"
+    }
+]

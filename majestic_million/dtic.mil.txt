@@ -1,0 +1,33 @@
+[
+    {
+        "dns-a": [
+            "131.84.179.51"
+        ], 
+        "dns-mx": [
+            "dmg.dtic.mil", 
+            "dmg2.dtic.mil"
+        ], 
+        "dns-ns": [
+            "nsi1a.dtic.mil", 
+            "nsi2a.dtic.mil"
+        ], 
+        "domain-name": "dtic.mil", 
+        "fuzzer": "original*", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 100
+    }, 
+    {
+        "dns-mx": [
+            "cdpintf01.pdc.dtci.mil", 
+            "cdpintf02.pdc.dtci.mil", 
+            "sdcintf01.coop.dtci.mil"
+        ], 
+        "dns-ns": [
+            "ns01.army.mil", 
+            "ns02.army.mil", 
+            "ns03.army.mil"
+        ], 
+        "domain-name": "dtci.mil", 
+        "fuzzer": "transposition"
+    }
+]

@@ -1,0 +1,36 @@
+[
+    {
+        "dns-a": [
+            "146.179.40.24", 
+            "155.198.64.24"
+        ], 
+        "dns-aaaa": [
+            "2001:630:12:600:1:1:0:10b", 
+            "2001:630:12:600:1:2:0:10b"
+        ], 
+        "dns-mx": [
+            "mx1.cc.ic.ac.uk", 
+            "mx2.cc.ic.ac.uk", 
+            "mx3.cc.ic.ac.uk", 
+            "mx4.cc.ic.ac.uk"
+        ], 
+        "dns-ns": [
+            "authdns1.csx.cam.ac.uk", 
+            "ns0.ic.ac.uk", 
+            "ns1.ic.ac.uk", 
+            "ns2.ic.ac.uk"
+        ], 
+        "domain-name": "imperial.ac.uk", 
+        "fuzzer": "original*", 
+        "geoip-country": "United Kingdom", 
+        "ssdeep-score": 100
+    }, 
+    {
+        "dns-a": [
+            "149.210.139.157"
+        ], 
+        "domain-name": "imperial.uk", 
+        "fuzzer": "various", 
+        "geoip-country": "Netherlands"
+    }
+]

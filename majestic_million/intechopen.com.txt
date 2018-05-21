@@ -1,0 +1,67 @@
+[
+    {
+        "dns-a": [
+            "107.23.207.6", 
+            "52.87.94.171"
+        ], 
+        "dns-aaaa": [
+            "2600:1f18:256f:5300:a0e:f2f3:a658:2c43", 
+            "2600:1f18:256f:5350:8a5f:7f2:2814:1eb2"
+        ], 
+        "dns-mx": [
+            "mx0.intechweb.org"
+        ], 
+        "dns-ns": [
+            "ns-124.awsdns-15.com", 
+            "ns-1354.awsdns-41.org", 
+            "ns-1760.awsdns-28.co.uk", 
+            "ns-869.awsdns-44.net"
+        ], 
+        "domain-name": "intechopen.com", 
+        "fuzzer": "original*", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 100
+    }, 
+    {
+        "dns-a": [
+            "95.211.219.67"
+        ], 
+        "dns-ns": [
+            "ns1.hastydns.com", 
+            "ns2.hastydns.com"
+        ], 
+        "domain-name": "interchopen.com", 
+        "fuzzer": "insertion", 
+        "geoip-country": "Netherlands"
+    }, 
+    {
+        "dns-a": [
+            "69.172.201.153"
+        ], 
+        "dns-ns": [
+            "ns1.uniregistrymarket.link", 
+            "ns2.uniregistrymarket.link"
+        ], 
+        "domain-name": "in.techopen.com", 
+        "fuzzer": "subdomain", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "185.53.178.9"
+        ], 
+        "dns-mx": [
+            "mail.h-email.net"
+        ], 
+        "dns-ns": [
+            "ns1.parkingcrew.net", 
+            "ns2.parkingcrew.net"
+        ], 
+        "domain-name": "intecho.pen.com", 
+        "fuzzer": "subdomain", 
+        "geoip-country": "Germany", 
+        "mx-spy": true, 
+        "ssdeep-score": 0
+    }
+]

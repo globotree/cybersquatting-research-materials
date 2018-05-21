@@ -1,0 +1,40 @@
+[
+    {
+        "dns-ns": [
+            "a.thains.co.th", 
+            "ams.sns-pb.isc.org", 
+            "b.thains.co.th", 
+            "c.thains.co.th", 
+            "ns.thnic.net", 
+            "sfba.sns-pb.isc.org"
+        ], 
+        "domain-name": "go.th", 
+        "fuzzer": "original*"
+    }, 
+    {
+        "dns-ns": [
+            "a.thains.co.th", 
+            "ams.sns-pb.isc.org", 
+            "b.thains.co.th", 
+            "c.thains.co.th", 
+            "ns.thnic.net", 
+            "sfba.sns-pb.isc.org"
+        ], 
+        "domain-name": "co.th", 
+        "fuzzer": "bitsquatting"
+    }, 
+    {
+        "dns-a": [
+            "43.241.56.27"
+        ], 
+        "dns-ns": [
+            "dns1.dotsiam.com", 
+            "dns2.dotsiam.com", 
+            "dns3.dotsiam.com", 
+            "dns4.dotsiam.com"
+        ], 
+        "domain-name": "go-th.com", 
+        "fuzzer": "various", 
+        "geoip-country": "Thailand"
+    }
+]

@@ -1,0 +1,61 @@
+[
+    {
+        "dns-a": [
+            "104.18.46.113", 
+            "104.18.47.113"
+        ], 
+        "dns-aaaa": [
+            "2400:cb00:2048:1::6812:2e71", 
+            "2400:cb00:2048:1::6812:2f71"
+        ], 
+        "dns-ns": [
+            "dilbert.ns.cloudflare.com", 
+            "marge.ns.cloudflare.com"
+        ], 
+        "domain-name": "mobirise.co", 
+        "fuzzer": "original*", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 100
+    }, 
+    {
+        "dns-mx": [
+            "eforward1.registrar-servers.com", 
+            "eforward2.registrar-servers.com", 
+            "eforward3.registrar-servers.com", 
+            "eforward4.registrar-servers.com", 
+            "eforward5.registrar-servers.com"
+        ], 
+        "dns-ns": [
+            "dns1.registrar-servers.com", 
+            "dns2.registrar-servers.com"
+        ], 
+        "domain-name": "mobiride.co", 
+        "fuzzer": "replacement"
+    }, 
+    {
+        "dns-a": [
+            "72.52.4.121"
+        ], 
+        "dns-mx": [
+            "localhost"
+        ], 
+        "dns-ns": [
+            "ns1.sedoparking.com", 
+            "ns2.sedoparking.com"
+        ], 
+        "domain-name": "mobir.ise.co", 
+        "fuzzer": "subdomain", 
+        "geoip-country": "United States", 
+        "mx-spy": true, 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "107.180.50.227"
+        ], 
+        "domain-name": "mobiris.e.co", 
+        "fuzzer": "subdomain", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 0
+    }
+]

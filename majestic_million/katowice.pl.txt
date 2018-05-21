@@ -1,0 +1,69 @@
+[
+    {
+        "dns-ns": [
+            "a-dns.pl", 
+            "b-dns.pl", 
+            "e-dns.pl", 
+            "f-dns.pl", 
+            "i-dns.pl"
+        ], 
+        "domain-name": "katowice.pl", 
+        "fuzzer": "original*"
+    }, 
+    {
+        "dns-a": [
+            "185.23.21.18"
+        ], 
+        "dns-mx": [
+            "mx1.zenbox.pl", 
+            "mx2.zenbox.pl", 
+            "mx3.zenbox.pl"
+        ], 
+        "domain-name": "katovvice.pl", 
+        "fuzzer": "homoglyph", 
+        "geoip-country": "Poland"
+    }, 
+    {
+        "dns-a": [
+            "86.111.241.86"
+        ], 
+        "dns-mx": [
+            "mail.iq.pl", 
+            "mx1.iq.pl"
+        ], 
+        "dns-ns": [
+            "ns1.iq.pl", 
+            "ns2.iq.pl"
+        ], 
+        "domain-name": "katowicz.pl", 
+        "fuzzer": "replacement", 
+        "geoip-country": "Poland"
+    }, 
+    {
+        "dns-a": [
+            "85.128.128.99"
+        ], 
+        "domain-name": "ka.towice.pl", 
+        "fuzzer": "subdomain", 
+        "geoip-country": "Poland"
+    }, 
+    {
+        "dns-a": [
+            "195.46.43.240"
+        ], 
+        "domain-name": "katowic.e.pl", 
+        "fuzzer": "subdomain", 
+        "geoip-country": "Poland"
+    }, 
+    {
+        "dns-a": [
+            "81.2.201.254"
+        ], 
+        "dns-ns": [
+            "dns.alpha.pl", 
+            "dns2.alpha.pl"
+        ], 
+        "domain-name": "kotowice.pl", 
+        "fuzzer": "vowel-swap"
+    }
+]

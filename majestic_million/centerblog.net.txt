@@ -1,0 +1,88 @@
+[
+    {
+        "dns-a": [
+            "87.98.133.18"
+        ], 
+        "dns-mx": [
+            "mail.sd1.fr"
+        ], 
+        "dns-ns": [
+            "dns1.sd1.fr", 
+            "dns2.sd1.fr", 
+            "sdns2.ovh.net"
+        ], 
+        "domain-name": "centerblog.net", 
+        "fuzzer": "original*", 
+        "geoip-country": "France", 
+        "ssdeep-score": 100
+    }, 
+    {
+        "dns-a": [
+            "199.191.50.73"
+        ], 
+        "dns-ns": [
+            "ns111373.ztomy.com", 
+            "ns211373.ztomy.com"
+        ], 
+        "domain-name": "centerbog.net", 
+        "fuzzer": "omission", 
+        "geoip-country": "Virgin Islands", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "14.0.21.99"
+        ], 
+        "dns-ns": [
+            "ns1.pavietnam.vn", 
+            "ns2.pavietnam.vn", 
+            "nsbak.pavietnam.net"
+        ], 
+        "domain-name": "enterblog.net", 
+        "fuzzer": "omission", 
+        "geoip-country": "Vietnam"
+    }, 
+    {
+        "dns-a": [
+            "185.53.179.8"
+        ], 
+        "dns-mx": [
+            "mail.h-email.net"
+        ], 
+        "dns-ns": [
+            "ns1.parkingcrew.net", 
+            "ns2.parkingcrew.net"
+        ], 
+        "domain-name": "cente.rblog.net", 
+        "fuzzer": "subdomain", 
+        "geoip-country": "Germany", 
+        "mx-spy": true, 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "69.172.201.153"
+        ], 
+        "dns-ns": [
+            "ns1.uniregistrymarket.link", 
+            "ns2.uniregistrymarket.link"
+        ], 
+        "domain-name": "centerb.log.net", 
+        "fuzzer": "subdomain", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "184.168.221.104"
+        ], 
+        "dns-ns": [
+            "ns1.afternic.com", 
+            "ns2.afternic.com"
+        ], 
+        "domain-name": "centreblog.net", 
+        "fuzzer": "transposition", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 0
+    }
+]

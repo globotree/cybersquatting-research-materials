@@ -1,0 +1,66 @@
+[
+    {
+        "dns-a": [
+            "202.198.16.80"
+        ], 
+        "dns-mx": [
+            "mail.jlu.edu.cn"
+        ], 
+        "dns-ns": [
+            "dns.jlu.edu.cn", 
+            "dns2.jlu.edu.cn"
+        ], 
+        "domain-name": "jlu.edu.cn", 
+        "fuzzer": "original*", 
+        "geoip-country": "China"
+    }, 
+    {
+        "dns-a": [
+            "113.107.26.6"
+        ], 
+        "dns-mx": [
+            "mail.hlu.edu.cn"
+        ], 
+        "dns-ns": [
+            "dns.hlu.edu.cn"
+        ], 
+        "domain-name": "hlu.edu.cn", 
+        "fuzzer": "bitsquatting", 
+        "geoip-country": "China"
+    }, 
+    {
+        "dns-a": [
+            "210.34.128.38"
+        ], 
+        "dns-mx": [
+            "hzmx01.mxmail.netease.com", 
+            "hzmx02.mxmail.netease.com"
+        ], 
+        "dns-ns": [
+            "dns.jmu.edu.cn", 
+            "dns1.jmu.edu.cn", 
+            "dns2.jmu.edu.cn", 
+            "dnsct.jmu.edu.cn", 
+            "dnsct2.jmu.edu.cn", 
+            "dnsun.jmu.edu.cn", 
+            "dnsun2.jmu.edu.cn"
+        ], 
+        "domain-name": "jmu.edu.cn", 
+        "fuzzer": "bitsquatting", 
+        "geoip-country": "China"
+    }, 
+    {
+        "dns-a": [
+            "202.116.0.1"
+        ], 
+        "dns-aaaa": [
+            "2001:da8:2002::1"
+        ], 
+        "dns-mx": [
+            "register.jnu.edu.cn"
+        ], 
+        "domain-name": "jnu.edu.cn", 
+        "fuzzer": "bitsquatting", 
+        "geoip-country": "China"
+    }
+]

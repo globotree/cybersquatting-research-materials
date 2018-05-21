@@ -1,0 +1,81 @@
+[
+    {
+        "dns-a": [
+            "2.22.52.55", 
+            "2.22.52.60"
+        ], 
+        "dns-aaaa": [
+            "2a02:26f0:9c00:183::18f1", 
+            "2a02:26f0:9c00:1b8::18f1"
+        ], 
+        "dns-mx": [
+            "thewest-com-au.mail.protection.outlook.com"
+        ], 
+        "dns-ns": [
+            "a1-92.akam.net", 
+            "a12-67.akam.net", 
+            "a13-64.akam.net", 
+            "a22-65.akam.net", 
+            "a24-66.akam.net"
+        ], 
+        "domain-name": "thewest.com.au", 
+        "fuzzer": "original*", 
+        "geoip-country": "Europe", 
+        "ssdeep-score": 100
+    }, 
+    {
+        "dns-a": [
+            "101.0.113.92"
+        ], 
+        "dns-mx": [
+            "mx01.mailcluster.com.au", 
+            "mx02.mailcluster.com.au"
+        ], 
+        "dns-ns": [
+            "ns1.digitalpacific.com.au", 
+            "ns2.digitalpacific.com.au", 
+            "ns3.digitalpacific.com", 
+            "ns4.digitalpacific.com"
+        ], 
+        "domain-name": "thewests.com.au", 
+        "fuzzer": "addition", 
+        "geoip-country": "Australia", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "203.170.80.250"
+        ], 
+        "dns-ns": [
+            "ns1.crazydomains.com", 
+            "ns2.crazydomains.com"
+        ], 
+        "domain-name": "theest.com.au", 
+        "fuzzer": "omission", 
+        "geoip-country": "Australia", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "116.0.23.237"
+        ], 
+        "domain-name": "th.ewest.com.au", 
+        "fuzzer": "subdomain", 
+        "geoip-country": "Australia", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "98.124.245.24"
+        ], 
+        "dns-mx": [
+            "mail.b-io.co"
+        ], 
+        "dns-ns": [
+            "ns1.fabulous.com", 
+            "ns2.fabulous.com"
+        ], 
+        "domain-name": "thew.est.com.au", 
+        "fuzzer": "subdomain"
+    }
+]

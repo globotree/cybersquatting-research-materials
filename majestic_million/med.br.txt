@@ -1,0 +1,42 @@
+[
+    {
+        "dns-ns": [
+            "a.dns.br", 
+            "b.dns.br", 
+            "c.dns.br", 
+            "d.dns.br", 
+            "e.dns.br", 
+            "f.dns.br"
+        ], 
+        "domain-name": "med.br", 
+        "fuzzer": "original*"
+    }, 
+    {
+        "dns-a": [
+            "150.162.114.36"
+        ], 
+        "dns-mx": [
+            "forte.led.ufsc.br"
+        ], 
+        "dns-ns": [
+            "ns.lec.ufsc.br", 
+            "ns.led.ufsc.br"
+        ], 
+        "domain-name": "led.br", 
+        "fuzzer": "bitsquatting"
+    }, 
+    {
+        "dns-a": [
+            "45.40.137.134"
+        ], 
+        "dns-mx": [
+            "med-br.com"
+        ], 
+        "dns-ns": [
+            "ns1.pessoalmarketing.com", 
+            "ns2.pessoalmarketing.com"
+        ], 
+        "domain-name": "med-br.com", 
+        "fuzzer": "various"
+    }
+]

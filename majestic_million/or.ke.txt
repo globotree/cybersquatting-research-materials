@@ -1,0 +1,53 @@
+[
+    {
+        "dns-ns": [
+            "b.ns.tznic.or.tz", 
+            "kenic.anycastdns.cz", 
+            "mzizi.kenic.or.ke", 
+            "ns-ke.afrinic.net", 
+            "ns.anycast.kenic.or.ke", 
+            "ns2.dns.business"
+        ], 
+        "domain-name": "or.ke", 
+        "fuzzer": "original*"
+    }, 
+    {
+        "dns-a": [
+            "104.198.198.55"
+        ], 
+        "dns-mx": [
+            "mx.ar.ke.cust.hostedemail.com"
+        ], 
+        "dns-ns": [
+            "pdns13.domaincontrol.com", 
+            "pdns14.domaincontrol.com"
+        ], 
+        "domain-name": "ar.ke", 
+        "fuzzer": "vowel-swap"
+    }, 
+    {
+        "dns-ns": [
+            "f1g1ns1.dnspod.net", 
+            "f1g1ns2.dnspod.net"
+        ], 
+        "domain-name": "er.ke", 
+        "fuzzer": "vowel-swap"
+    }, 
+    {
+        "dns-a": [
+            "46.30.213.126"
+        ], 
+        "dns-mx": [
+            "mx1.pub.mailpod3-cph3.one.com", 
+            "mx2.pub.mailpod3-cph3.one.com", 
+            "mx3.pub.mailpod3-cph3.one.com"
+        ], 
+        "dns-ns": [
+            "ns01.one.com", 
+            "ns02.one.com"
+        ], 
+        "domain-name": "or-ke.com", 
+        "fuzzer": "various", 
+        "geoip-country": "Denmark"
+    }
+]

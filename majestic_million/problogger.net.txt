@@ -1,0 +1,93 @@
+[
+    {
+        "dns-a": [
+            "104.31.74.127", 
+            "104.31.75.127"
+        ], 
+        "dns-aaaa": [
+            "2400:cb00:2048:1::681f:4a7f", 
+            "2400:cb00:2048:1::681f:4b7f"
+        ], 
+        "dns-mx": [
+            "alt1.aspmx.l.google.com", 
+            "alt2.aspmx.l.google.com", 
+            "aspmx.l.google.com", 
+            "aspmx2.googlemail.com", 
+            "aspmx3.googlemail.com", 
+            "aspmx4.googlemail.com", 
+            "aspmx5.googlemail.com"
+        ], 
+        "dns-ns": [
+            "abby.ns.cloudflare.com", 
+            "seth.ns.cloudflare.com"
+        ], 
+        "domain-name": "problogger.net", 
+        "fuzzer": "original*", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 100
+    }, 
+    {
+        "dns-a": [
+            "184.168.221.104"
+        ], 
+        "dns-ns": [
+            "ns1.afternic.com", 
+            "ns2.afternic.com"
+        ], 
+        "domain-name": "probloggers.net", 
+        "fuzzer": "addition", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "79.170.40.4"
+        ], 
+        "dns-mx": [
+            "mail.prblogger.net"
+        ], 
+        "dns-ns": [
+            "ns.mainnameserver.com", 
+            "ns2.mainnameserver.com"
+        ], 
+        "domain-name": "prblogger.net", 
+        "fuzzer": "omission", 
+        "geoip-country": "United Kingdom", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "50.63.202.35"
+        ], 
+        "dns-mx": [
+            "mailstore1.secureserver.net", 
+            "smtp.secureserver.net"
+        ], 
+        "dns-ns": [
+            "ns03.domaincontrol.com", 
+            "ns04.domaincontrol.com"
+        ], 
+        "domain-name": "provlogger.net", 
+        "fuzzer": "replacement", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "217.160.0.1"
+        ], 
+        "dns-mx": [
+            "mx00.1and1.fr", 
+            "mx01.1and1.fr"
+        ], 
+        "dns-ns": [
+            "ns1029.ui-dns.biz", 
+            "ns1029.ui-dns.com", 
+            "ns1029.ui-dns.de", 
+            "ns1029.ui-dns.org"
+        ], 
+        "domain-name": "preblogger.net", 
+        "fuzzer": "vowel-swap", 
+        "geoip-country": "Germany"
+    }
+]

@@ -1,0 +1,163 @@
+[
+    {
+        "dns-ns": [
+            "ns1.sfn.cn", 
+            "ns2.sfn.cn"
+        ], 
+        "domain-name": "ah.gov.cn", 
+        "fuzzer": "original*"
+    }, 
+    {
+        "dns-ns": [
+            "ns.cdnhost.cn", 
+            "ns.dnsfamily.com"
+        ], 
+        "domain-name": "ahq.gov.cn", 
+        "fuzzer": "addition"
+    }, 
+    {
+        "dns-a": [
+            "223.220.250.13"
+        ], 
+        "dns-mx": [
+            "mail.qh.gov.cn"
+        ], 
+        "dns-ns": [
+            "ns1.sfn.cn", 
+            "ns2.sfn.cn"
+        ], 
+        "domain-name": "qh.gov.cn", 
+        "fuzzer": "bitsquatting", 
+        "geoip-country": "China"
+    }, 
+    {
+        "dns-a": [
+            "221.224.53.219"
+        ], 
+        "dns-ns": [
+            "dns17.hichina.com", 
+            "dns18.hichina.com"
+        ], 
+        "domain-name": "a.gov.cn", 
+        "fuzzer": "omission", 
+        "geoip-country": "China"
+    }, 
+    {
+        "dns-ns": [
+            "ns3.dnsv4.com", 
+            "ns4.dnsv4.com"
+        ], 
+        "domain-name": "h.gov.cn", 
+        "fuzzer": "omission"
+    }, 
+    {
+        "dns-a": [
+            "61.175.219.229"
+        ], 
+        "dns-mx": [
+            "mail.yh.gov.cn"
+        ], 
+        "dns-ns": [
+            "ns15.xincache.com", 
+            "ns16.xincache.com"
+        ], 
+        "domain-name": "yh.gov.cn", 
+        "fuzzer": "replacement", 
+        "geoip-country": "China"
+    }, 
+    {
+        "dns-mx": [
+            "mail.zh.gov.cn"
+        ], 
+        "dns-ns": [
+            "dns21.hichina.com", 
+            "dns22.hichina.com"
+        ], 
+        "domain-name": "zh.gov.cn", 
+        "fuzzer": "replacement"
+    }, 
+    {
+        "dns-mx": [
+            "mta-ent.21cn.com"
+        ], 
+        "dns-ns": [
+            "nameserver"
+        ], 
+        "domain-name": "wh.gov.cn", 
+        "fuzzer": "replacement"
+    }, 
+    {
+        "dns-a": [
+            "61.129.65.58"
+        ], 
+        "dns-mx": [
+            "mail.sh.gov.cn", 
+            "pop.sh.gov.cn", 
+            "smtp.sh.gov.cn"
+        ], 
+        "dns-ns": [
+            "NS.shanghai.gov.cn", 
+            "NS2.shanghai.gov.cn", 
+            "NS3.shanghai.gov.cn"
+        ], 
+        "domain-name": "sh.gov.cn", 
+        "fuzzer": "replacement"
+    }, 
+    {
+        "dns-a": [
+            "61.180.72.2"
+        ], 
+        "dns-ns": [
+            "ns1.sfn.cn", 
+            "ns2.sfn.cn"
+        ], 
+        "domain-name": "ay.gov.cn", 
+        "fuzzer": "replacement", 
+        "geoip-country": "China"
+    }, 
+    {
+        "dns-a": [
+            "1.31.173.33", 
+            "116.95.25.169", 
+            "121.29.54.163", 
+            "121.29.54.164", 
+            "121.29.54.33", 
+            "121.29.54.34", 
+            "153.37.238.164", 
+            "153.37.238.166", 
+            "220.194.223.30", 
+            "220.194.223.31", 
+            "220.194.223.32", 
+            "60.217.249.27", 
+            "60.217.249.36", 
+            "60.217.249.37"
+        ], 
+        "domain-name": "a.h.gov.cn", 
+        "fuzzer": "subdomain"
+    }, 
+    {
+        "dns-a": [
+            "222.184.35.117"
+        ], 
+        "dns-ns": [
+            "ns1.sfn.cn", 
+            "ns2.sfn.cn"
+        ], 
+        "domain-name": "ha.gov.cn", 
+        "fuzzer": "transposition"
+    }, 
+    {
+        "dns-ns": [
+            "a.dns.cn", 
+            "b.dns.cn", 
+            "c.dns.cn", 
+            "cns.cernet.net", 
+            "d.dns.cn", 
+            "e.dns.cn", 
+            "f.dns.cn", 
+            "g.dns.cn"
+        ], 
+        "domain-name": "ah.cn", 
+        "fuzzer": "various"
+    }
+]

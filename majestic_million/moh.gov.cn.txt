@@ -1,0 +1,60 @@
+[
+    {
+        "dns-mx": [
+            "mail.moh.gov.cn", 
+            "moh.gov.abroad.eyou.net", 
+            "smg.moh.gov.cn"
+        ], 
+        "dns-ns": [
+            "ns1.cdns.cn", 
+            "ns2.cdns.cn", 
+            "ns3.cdns.cn"
+        ], 
+        "domain-name": "moh.gov.cn", 
+        "fuzzer": "original*"
+    }, 
+    {
+        "dns-mx": [
+            "hzmx01.mxmail.netease.com", 
+            "hzmx02.mxmail.netease.com"
+        ], 
+        "dns-ns": [
+            "ns.fzw.cn", 
+            "ns.legaldaily.cn"
+        ], 
+        "domain-name": "moj.gov.cn", 
+        "fuzzer": "bitsquatting"
+    }, 
+    {
+        "dns-a": [
+            "112.90.58.160", 
+            "112.90.58.161", 
+            "124.161.253.14", 
+            "124.161.253.19", 
+            "157.255.128.33", 
+            "157.255.128.34", 
+            "27.221.28.163", 
+            "27.221.28.164", 
+            "27.221.54.30", 
+            "27.221.54.32", 
+            "27.221.54.33", 
+            "60.217.249.26", 
+            "60.217.249.27", 
+            "60.217.249.36", 
+            "60.217.249.37"
+        ], 
+        "domain-name": "mo.h.gov.cn", 
+        "fuzzer": "subdomain"
+    }, 
+    {
+        "dns-a": [
+            "23.224.215.26"
+        ], 
+        "dns-ns": [
+            "ns3.dnsdun.com", 
+            "ns3.dnsdun.net"
+        ], 
+        "domain-name": "mohgov.cn", 
+        "fuzzer": "various"
+    }
+]

@@ -1,0 +1,68 @@
+[
+    {
+        "dns-mx": [
+            "mx.securemx.jp", 
+            "mx6.securemx.jp"
+        ], 
+        "dns-ns": [
+            "dns-b.iij.ad.jp", 
+            "dns-c.iij.ad.jp"
+        ], 
+        "domain-name": "cao.go.jp", 
+        "fuzzer": "original*"
+    }, 
+    {
+        "dns-a": [
+            "52.68.4.243"
+        ], 
+        "dns-mx": [
+            "mx.cio.go.jp"
+        ], 
+        "dns-ns": [
+            "ns1.value-domain.com", 
+            "ns2.value-domain.com"
+        ], 
+        "domain-name": "cio.go.jp", 
+        "fuzzer": "bitsquatting", 
+        "geoip-country": "Japan"
+    }, 
+    {
+        "dns-mx": [
+            "mx.securemx.jp"
+        ], 
+        "dns-ns": [
+            "dns-b.iij.ad.jp", 
+            "dns-c.iij.ad.jp"
+        ], 
+        "domain-name": "caa.go.jp", 
+        "fuzzer": "vowel-swap"
+    }, 
+    {
+        "dns-a": [
+            "157.7.218.176"
+        ], 
+        "dns-mx": [
+            "mx12.gmoserver.jp"
+        ], 
+        "dns-ns": [
+            "dns01.gmoserver.jp", 
+            "dns02.gmoserver.jp"
+        ], 
+        "domain-name": "cao.jp", 
+        "fuzzer": "various"
+    }, 
+    {
+        "dns-a": [
+            "210.225.95.241"
+        ], 
+        "dns-mx": [
+            "rscql.net"
+        ], 
+        "dns-ns": [
+            "ns.jsoc.jp", 
+            "ns.jsoc24plus.jp"
+        ], 
+        "domain-name": "caogo.jp", 
+        "fuzzer": "various"
+    }
+]

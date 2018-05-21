@@ -1,0 +1,41 @@
+[
+    {
+        "dns-a": [
+            "217.160.223.151"
+        ], 
+        "dns-mx": [
+            "mx00.1and1.fr", 
+            "mx01.1and1.fr"
+        ], 
+        "dns-ns": [
+            "ns.schlund.de", 
+            "ns2.schlund.de"
+        ], 
+        "domain-name": "mialojamiento.es", 
+        "fuzzer": "original*", 
+        "geoip-country": "Germany"
+    }, 
+    {
+        "dns-a": [
+            "199.59.242.150"
+        ], 
+        "domain-name": "mi.alojamiento.es", 
+        "fuzzer": "subdomain", 
+        "geoip-country": "United States"
+    }, 
+    {
+        "dns-a": [
+            "72.52.4.122"
+        ], 
+        "dns-mx": [
+            "localhost"
+        ], 
+        "dns-ns": [
+            "ns1.sedoparking.com", 
+            "ns2.sedoparking.com"
+        ], 
+        "domain-name": "mialojamie.nto.es", 
+        "fuzzer": "subdomain", 
+        "geoip-country": "United States"
+    }
+]

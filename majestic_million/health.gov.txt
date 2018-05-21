@@ -1,0 +1,35 @@
+[
+    {
+        "dns-a": [
+            "158.74.52.151"
+        ], 
+        "dns-mx": [
+            "mail.health.gov"
+        ], 
+        "dns-ns": [
+            "rh120ns1.368.dhhs.gov", 
+            "rh120ns2.368.dhhs.gov", 
+            "rh202ns1.355.dhhs.gov", 
+            "rh202ns2.355.dhhs.gov"
+        ], 
+        "domain-name": "health.gov", 
+        "fuzzer": "original*", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 100
+    }, 
+    {
+        "dns-a": [
+            "199.59.242.150"
+        ], 
+        "dns-mx": [
+            "mx76.m2bp.com", 
+            "mx76.mb1p.com"
+        ], 
+        "dns-ns": [
+            "ns1.bodis.com", 
+            "ns2.bodis.com"
+        ], 
+        "domain-name": "health-gov.com", 
+        "fuzzer": "various"
+    }
+]

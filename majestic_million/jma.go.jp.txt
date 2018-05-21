@@ -1,0 +1,39 @@
+[
+    {
+        "dns-mx": [
+            "cdmail.kishou.go.jp", 
+            "cdmailad.kishou.go.jp"
+        ], 
+        "dns-ns": [
+            "a1-219.akam.net", 
+            "a13-64.akam.net", 
+            "a20-65.akam.net", 
+            "a28-66.akam.net", 
+            "a6-67.akam.net", 
+            "a9-64.akam.net"
+        ], 
+        "domain-name": "jma.go.jp", 
+        "fuzzer": "original*"
+    }, 
+    {
+        "dns-a": [
+            "54.64.9.75"
+        ], 
+        "dns-ns": [
+            "ns.jma.or.jp", 
+            "ns.jmas.co.jp"
+        ], 
+        "domain-name": "jma.jp", 
+        "fuzzer": "various"
+    }, 
+    {
+        "dns-ns": [
+            "ns2.gehirndns.com", 
+            "ns2.gehirndns.jp", 
+            "ns2.gehirndns.net", 
+            "ns2.gehirndns.org"
+        ], 
+        "domain-name": "jmago.jp", 
+        "fuzzer": "various"
+    }
+]

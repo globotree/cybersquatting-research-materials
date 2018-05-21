@@ -1,0 +1,121 @@
+[
+    {
+        "dns-a": [
+            "104.20.11.91", 
+            "104.20.12.91"
+        ], 
+        "dns-mx": [
+            "fb.mail.gandi.net", 
+            "spool.mail.gandi.net"
+        ], 
+        "dns-ns": [
+            "algin.ns.cloudflare.com", 
+            "tori.ns.cloudflare.com"
+        ], 
+        "domain-name": "git-scm.com", 
+        "fuzzer": "original*", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 100
+    }, 
+    {
+        "dns-a": [
+            "143.95.39.224"
+        ], 
+        "dns-mx": [
+            "git-scms.com"
+        ], 
+        "dns-ns": [
+            "ns1.asmallorange.com", 
+            "ns2.asmallorange.com"
+        ], 
+        "domain-name": "git-scms.com", 
+        "fuzzer": "addition", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "103.224.212.222"
+        ], 
+        "dns-mx": [
+            "park-mx.above.com"
+        ], 
+        "dns-ns": [
+            "ns1.above.com", 
+            "ns2.above.com"
+        ], 
+        "domain-name": "git-scn.com", 
+        "fuzzer": "homoglyph", 
+        "geoip-country": "Australia", 
+        "mx-spy": true, 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "93.159.105.11"
+        ], 
+        "dns-mx": [
+            "mx.mail.dehosted.net"
+        ], 
+        "dns-ns": [
+            "ns2.xaas.zone", 
+            "ns3.xaas.zone", 
+            "ns4.xaas.zone"
+        ], 
+        "domain-name": "it-scm.com", 
+        "fuzzer": "omission", 
+        "geoip-country": "Germany", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-ns": [
+            "ns15.xincache.com", 
+            "ns16.xincache.com"
+        ], 
+        "domain-name": "gt-scm.com", 
+        "fuzzer": "omission"
+    }, 
+    {
+        "dns-a": [
+            "184.168.221.11"
+        ], 
+        "dns-mx": [
+            "mailstore1.secureserver.net", 
+            "smtp.secureserver.net"
+        ], 
+        "dns-ns": [
+            "ns07.domaincontrol.com", 
+            "ns08.domaincontrol.com"
+        ], 
+        "domain-name": "gitscm.com", 
+        "fuzzer": "omission", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 100
+    }, 
+    {
+        "dns-a": [
+            "184.168.221.104"
+        ], 
+        "dns-ns": [
+            "ns1.afternic.com", 
+            "ns2.afternic.com"
+        ], 
+        "domain-name": "git-smc.com", 
+        "fuzzer": "transposition", 
+        "geoip-country": "United States"
+    }, 
+    {
+        "dns-a": [
+            "103.224.212.222"
+        ], 
+        "dns-mx": [
+            "park-mx.above.com"
+        ], 
+        "dns-ns": [
+            "ns1.above.com", 
+            "ns2.above.com"
+        ], 
+        "domain-name": "get-scm.com", 
+        "fuzzer": "vowel-swap"
+    }
+]

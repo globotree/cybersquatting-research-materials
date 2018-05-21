@@ -1,0 +1,33 @@
+[
+    {
+        "dns-a": [
+            "104.16.35.192", 
+            "104.16.36.192", 
+            "104.16.37.192", 
+            "104.16.38.192", 
+            "104.16.39.192"
+        ], 
+        "dns-mx": [
+            "mail.thenews.com.pk", 
+            "mail2.thenews.com.pk", 
+            "vpop.khi.wol.net.pk"
+        ], 
+        "dns-ns": [
+            "jack.ns.cloudflare.com", 
+            "ruth.ns.cloudflare.com"
+        ], 
+        "domain-name": "thenews.com.pk", 
+        "fuzzer": "original*", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 100
+    }, 
+    {
+        "dns-a": [
+            "173.212.200.30"
+        ], 
+        "domain-name": "the.news.com.pk", 
+        "fuzzer": "subdomain", 
+        "geoip-country": "Germany", 
+        "ssdeep-score": 0
+    }
+]

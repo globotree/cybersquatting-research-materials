@@ -1,0 +1,129 @@
+[
+    {
+        "dns-a": [
+            "112.121.96.30", 
+            "113.196.250.30"
+        ], 
+        "dns-mx": [
+            "mailgw.books.com.tw"
+        ], 
+        "dns-ns": [
+            "gdns.books.com.tw", 
+            "nfdns.books.com.tw"
+        ], 
+        "domain-name": "books.com.tw", 
+        "fuzzer": "original*", 
+        "geoip-country": "Taiwan", 
+        "ssdeep-score": 100
+    }, 
+    {
+        "dns-a": [
+            "207.46.147.148"
+        ], 
+        "dns-mx": [
+            "ALT2.ASPMX.L.GOOGLE.COM", 
+            "ASPMX.L.GOOGLE.COM", 
+            "ASPMX2.GOOGLEMAIL.COM", 
+            "ASPMX3.GOOGLEMAIL.COM"
+        ], 
+        "dns-ns": [
+            "ns35.domaincontrol.com", 
+            "ns36.domaincontrol.com"
+        ], 
+        "domain-name": "bookq.com.tw", 
+        "fuzzer": "bitsquatting", 
+        "geoip-country": "Hong Kong"
+    }, 
+    {
+        "dns-ns": [
+            "admns1.hinet.net", 
+            "admns2.hinet.net"
+        ], 
+        "domain-name": "ibooks.com.tw", 
+        "fuzzer": "homoglyph"
+    }, 
+    {
+        "dns-a": [
+            "217.70.184.38"
+        ], 
+        "dns-mx": [
+            "fb.mail.gandi.net", 
+            "spool.mail.gandi.net"
+        ], 
+        "dns-ns": [
+            "a.dns.gandi.net", 
+            "b.dns.gandi.net", 
+            "c.dns.gandi.net"
+        ], 
+        "domain-name": "boos.com.tw", 
+        "fuzzer": "omission", 
+        "geoip-country": "France", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "112.121.96.30", 
+            "113.196.250.30"
+        ], 
+        "dns-mx": [
+            "mb.books.com.tw"
+        ], 
+        "dns-ns": [
+            "gdns.books.com.tw", 
+            "nfdns.books.com.tw"
+        ], 
+        "domain-name": "book.com.tw", 
+        "fuzzer": "omission", 
+        "geoip-country": "Taiwan", 
+        "ssdeep-score": 100
+    }, 
+    {
+        "dns-a": [
+            "217.70.184.38"
+        ], 
+        "dns-mx": [
+            "fb.mail.gandi.net", 
+            "spool.mail.gandi.net"
+        ], 
+        "dns-ns": [
+            "a.dns.gandi.net", 
+            "b.dns.gandi.net", 
+            "c.dns.gandi.net"
+        ], 
+        "domain-name": "boks.com.tw", 
+        "fuzzer": "omission", 
+        "geoip-country": "France", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "103.17.8.47"
+        ], 
+        "dns-mx": [
+            "hooks.com.tw"
+        ], 
+        "dns-ns": [
+            "ns47.cx901.com", 
+            "ns48.cx901.com"
+        ], 
+        "domain-name": "hooks.com.tw", 
+        "fuzzer": "replacement", 
+        "geoip-country": "Taiwan"
+    }, 
+    {
+        "dns-a": [
+            "219.85.73.66"
+        ], 
+        "dns-mx": [
+            "mail.booky.com.tw"
+        ], 
+        "dns-ns": [
+            "ns1.ix1000.com", 
+            "ns2.ix1000.com"
+        ], 
+        "domain-name": "booky.com.tw", 
+        "fuzzer": "replacement", 
+        "geoip-country": "Taiwan", 
+        "ssdeep-score": 0
+    }
+]

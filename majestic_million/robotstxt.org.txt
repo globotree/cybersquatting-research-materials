@@ -1,0 +1,72 @@
+[
+    {
+        "dns-a": [
+            "78.129.143.219"
+        ], 
+        "dns-mx": [
+            "mx.robotstxt.org"
+        ], 
+        "dns-ns": [
+            "ns1.mythic-beasts.com", 
+            "ns2.mythic-beasts.com"
+        ], 
+        "domain-name": "robotstxt.org", 
+        "fuzzer": "original*", 
+        "geoip-country": "United Kingdom"
+    }, 
+    {
+        "dns-a": [
+            "72.52.4.119"
+        ], 
+        "dns-mx": [
+            "localhost"
+        ], 
+        "dns-ns": [
+            "ns1.sedoparking.com", 
+            "ns2.sedoparking.com"
+        ], 
+        "domain-name": "robots-txt.org", 
+        "fuzzer": "hyphenation", 
+        "geoip-country": "United States"
+    }, 
+    {
+        "dns-a": [
+            "185.53.178.6"
+        ], 
+        "dns-mx": [
+            "mail.h-email.net"
+        ], 
+        "dns-ns": [
+            "ns1.parkingcrew.net", 
+            "ns2.parkingcrew.net"
+        ], 
+        "domain-name": "robottxt.org", 
+        "fuzzer": "omission", 
+        "geoip-country": "Germany", 
+        "mx-spy": true
+    }, 
+    {
+        "dns-a": [
+            "72.52.4.120"
+        ], 
+        "dns-mx": [
+            "localhost"
+        ], 
+        "dns-ns": [
+            "ns1.sedoparking.com", 
+            "ns2.sedoparking.com"
+        ], 
+        "domain-name": "robotst.xt.org", 
+        "fuzzer": "subdomain", 
+        "geoip-country": "United States", 
+        "mx-spy": true
+    }, 
+    {
+        "dns-a": [
+            "98.124.199.67"
+        ], 
+        "domain-name": "robotstx.t.org", 
+        "fuzzer": "subdomain", 
+        "geoip-country": "United States"
+    }
+]

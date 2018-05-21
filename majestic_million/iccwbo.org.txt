@@ -1,0 +1,67 @@
+[
+    {
+        "dns-a": [
+            "46.105.57.169"
+        ], 
+        "dns-mx": [
+            "smtp1.iccwbo.org", 
+            "smtp2.iccwbo.org"
+        ], 
+        "dns-ns": [
+            "amphibole.iccwbo.org", 
+            "rutile.iccwbo.org"
+        ], 
+        "domain-name": "iccwbo.org", 
+        "fuzzer": "original*", 
+        "geoip-country": "France", 
+        "ssdeep-score": 100
+    }, 
+    {
+        "dns-a": [
+            "93.191.169.211"
+        ], 
+        "dns-mx": [
+            "mail.nickstel.com"
+        ], 
+        "dns-ns": [
+            "cns3.sedoparking.com", 
+            "cns4.sedoparking.com"
+        ], 
+        "domain-name": "iccbo.org", 
+        "fuzzer": "omission", 
+        "geoip-country": "Europe", 
+        "mx-spy": true, 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "72.52.4.122"
+        ], 
+        "dns-mx": [
+            "localhost"
+        ], 
+        "dns-ns": [
+            "ns1.sedoparking.com", 
+            "ns2.sedoparking.com"
+        ], 
+        "domain-name": "iccw.bo.org", 
+        "fuzzer": "subdomain"
+    }, 
+    {
+        "dns-a": [
+            "50.63.46.1"
+        ], 
+        "dns-ns": [
+            "A.SERVICE.AFILIASDNS.INFO", 
+            "B.SERVICE.AFILIASDNS.org", 
+            "C.SERVICE.AFILIASDNS.NET", 
+            "D.SERVICE.AFILIASDNS.COM", 
+            "E.SERVICE.AFILIASDNS.INFO", 
+            "F.SERVICE.AFILIASDNS.NET"
+        ], 
+        "domain-name": "iccwb.o.org", 
+        "fuzzer": "subdomain", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 0
+    }
+]

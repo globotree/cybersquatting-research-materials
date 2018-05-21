@@ -1,0 +1,40 @@
+[
+    {
+        "dns-a": [
+            "219.94.203.128"
+        ], 
+        "dns-mx": [
+            "threebit.net"
+        ], 
+        "dns-ns": [
+            "ns1.xserver.jp", 
+            "ns2.xserver.jp", 
+            "ns3.xserver.jp", 
+            "ns4.xserver.jp", 
+            "ns5.xserver.jp"
+        ], 
+        "domain-name": "threebit.net", 
+        "fuzzer": "original*", 
+        "geoip-country": "Japan", 
+        "ssdeep-score": 99
+    }, 
+    {
+        "dns-a": [
+            "185.5.53.9"
+        ], 
+        "dns-mx": [
+            "jonvabalis.serveriai.lt", 
+            "mx-backup.serveriai.lt"
+        ], 
+        "dns-ns": [
+            "ns1.serveriai.lt", 
+            "ns2.serveriai.lt", 
+            "ns3.serveriai.lt", 
+            "ns4.serveriai.lt"
+        ], 
+        "domain-name": "treebit.net", 
+        "fuzzer": "omission", 
+        "geoip-country": "Lithuania", 
+        "ssdeep-score": 0
+    }
+]

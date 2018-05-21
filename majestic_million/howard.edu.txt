@@ -1,0 +1,32 @@
+[
+    {
+        "dns-a": [
+            "138.238.144.31"
+        ], 
+        "dns-mx": [
+            "howard-edu.mail.protection.outlook.com"
+        ], 
+        "dns-ns": [
+            "ns1-03.azure-dns.com", 
+            "ns2-03.azure-dns.net", 
+            "ns3-03.azure-dns.org", 
+            "ns4-03.azure-dns.info"
+        ], 
+        "domain-name": "howard.edu", 
+        "fuzzer": "original*", 
+        "geoip-country": "United States"
+    }, 
+    {
+        "dns-mx": [
+            "howardedu-com01e.mail.protection.outlook.com"
+        ], 
+        "dns-ns": [
+            "ns1.bdm.microsoftonline.com", 
+            "ns2.bdm.microsoftonline.com", 
+            "ns3.bdm.microsoftonline.com", 
+            "ns4.bdm.microsoftonline.com"
+        ], 
+        "domain-name": "howard-edu.com", 
+        "fuzzer": "various"
+    }
+]

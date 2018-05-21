@@ -1,0 +1,48 @@
+[
+    {
+        "dns-mx": [
+            "mx00.kundenserver.de", 
+            "mx01.kundenserver.de"
+        ], 
+        "dns-ns": [
+            "ns-diy.ui-dns.biz", 
+            "ns-diy.ui-dns.com", 
+            "ns-diy.ui-dns.de", 
+            "ns-diy.ui-dns.org"
+        ], 
+        "domain-name": "website-start.de", 
+        "fuzzer": "original*"
+    }, 
+    {
+        "dns-a": [
+            "217.160.233.98"
+        ], 
+        "dns-mx": [
+            "mx00.kundenserver.de", 
+            "mx01.kundenserver.de"
+        ], 
+        "dns-ns": [
+            "ns55.1und1.de", 
+            "ns56.1und1.de"
+        ], 
+        "domain-name": "websitestart.de", 
+        "fuzzer": "omission", 
+        "geoip-country": "Germany"
+    }, 
+    {
+        "dns-a": [
+            "95.130.17.36"
+        ], 
+        "domain-name": "websit.e-start.de", 
+        "fuzzer": "subdomain", 
+        "geoip-country": "Germany"
+    }, 
+    {
+        "dns-a": [
+            "85.25.86.133"
+        ], 
+        "domain-name": "website-sta.rt.de", 
+        "fuzzer": "subdomain", 
+        "geoip-country": "Germany"
+    }
+]

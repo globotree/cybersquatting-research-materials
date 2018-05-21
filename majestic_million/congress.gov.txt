@@ -1,0 +1,33 @@
+[
+    {
+        "dns-a": [
+            "104.16.172.252", 
+            "104.16.173.252"
+        ], 
+        "dns-mx": [
+            "pps02a.loc.gov", 
+            "pps02b.loc.gov", 
+            "pps02c.loc.gov"
+        ], 
+        "dns-ns": [
+            "ns21.loc.gov", 
+            "ns23.loc.gov"
+        ], 
+        "domain-name": "congress.gov", 
+        "fuzzer": "original*", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 100
+    }, 
+    {
+        "dns-a": [
+            "50.63.202.16"
+        ], 
+        "dns-ns": [
+            "ns39.domaincontrol.com", 
+            "ns40.domaincontrol.com"
+        ], 
+        "domain-name": "congress-gov.com", 
+        "fuzzer": "various", 
+        "geoip-country": "United States"
+    }
+]

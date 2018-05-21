@@ -1,0 +1,42 @@
+[
+    {
+        "dns-a": [
+            "128.228.0.51"
+        ], 
+        "dns-mx": [
+            "mail-relay.cuny.edu"
+        ], 
+        "dns-ns": [
+            "acme.ucc.cuny.edu", 
+            "ext-ns1.columbia.edu", 
+            "lavinia.cis.cuny.edu", 
+            "ns10.customer.level3.net", 
+            "ns15.customer.level3.net"
+        ], 
+        "domain-name": "cuny.edu", 
+        "fuzzer": "original*", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 100
+    }, 
+    {
+        "dns-a": [
+            "141.254.110.20"
+        ], 
+        "dns-mx": [
+            "cluster6.us.messagelabs.com", 
+            "cluster6a.us.messagelabs.com"
+        ], 
+        "dns-ns": [
+            "ns.suny.edu", 
+            "ns2.suny.edu", 
+            "ns3.suny.edu", 
+            "ns4.suny.edu", 
+            "ns5.suny.edu", 
+            "ns6.suny.edu"
+        ], 
+        "domain-name": "suny.edu", 
+        "fuzzer": "bitsquatting", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 0
+    }
+]

@@ -1,0 +1,113 @@
+[
+    {
+        "dns-a": [
+            "172.217.16.195"
+        ], 
+        "dns-aaaa": [
+            "2a00:1450:4001:817::2003"
+        ], 
+        "dns-mx": [
+            "google.com.s9a1.psmtp.com", 
+            "google.com.s9a2.psmtp.com", 
+            "google.com.s9b1.psmtp.com", 
+            "google.com.s9b2.psmtp.com"
+        ], 
+        "dns-ns": [
+            "ns1.google.com", 
+            "ns2.google.com", 
+            "ns3.google.com", 
+            "ns4.google.com"
+        ], 
+        "domain-name": "google.com.sg", 
+        "fuzzer": "original*", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 80
+    }, 
+    {
+        "dns-a": [
+            "172.217.16.196"
+        ], 
+        "dns-aaaa": [
+            "2a00:1450:4001:817::2004"
+        ], 
+        "dns-mx": [
+            ""
+        ], 
+        "dns-ns": [
+            "ns1.google.com", 
+            "ns2.google.com", 
+            "ns3.google.com", 
+            "ns4.google.com"
+        ], 
+        "domain-name": "googles.com.sg", 
+        "fuzzer": "addition", 
+        "geoip-country": "United States"
+    }, 
+    {
+        "dns-a": [
+            "185.53.178.29"
+        ], 
+        "dns-ns": [
+            "ns1.domforce.com", 
+            "ns2.domforce.com", 
+            "ns3.domforce.com", 
+            "ns4.domforce.com", 
+            "ns5.domforce.com"
+        ], 
+        "domain-name": "goole.com.sg", 
+        "fuzzer": "omission", 
+        "geoip-country": "Germany", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "103.9.100.206"
+        ], 
+        "dns-mx": [
+            "mail.zoogle.com.sg"
+        ], 
+        "dns-ns": [
+            "ns1.vodien.com", 
+            "ns2.vodien.com", 
+            "ns3.vodien.com"
+        ], 
+        "domain-name": "zoogle.com.sg", 
+        "fuzzer": "replacement"
+    }, 
+    {
+        "dns-a": [
+            "172.217.16.195"
+        ], 
+        "dns-aaaa": [
+            "2a00:1450:4001:817::2003"
+        ], 
+        "dns-mx": [
+            "google.com.s9a1.psmtp.com", 
+            "google.com.s9a2.psmtp.com", 
+            "google.com.s9b1.psmtp.com", 
+            "google.com.s9b2.psmtp.com"
+        ], 
+        "dns-ns": [
+            "ns1.google.com", 
+            "ns2.google.com", 
+            "ns3.google.com", 
+            "ns4.google.com"
+        ], 
+        "domain-name": "google.sg", 
+        "fuzzer": "various", 
+        "geoip-country": "United States"
+    }, 
+    {
+        "dns-a": [
+            "85.25.199.30"
+        ], 
+        "dns-ns": [
+            "ns1.dnspanel.com", 
+            "ns2.dnspanel.com"
+        ], 
+        "domain-name": "googlecom.sg", 
+        "fuzzer": "various", 
+        "geoip-country": "Germany", 
+        "ssdeep-score": 0
+    }
+]

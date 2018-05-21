@@ -1,0 +1,43 @@
+[
+    {
+        "dns-a": [
+            "130.111.33.21"
+        ], 
+        "dns-aaaa": [
+            "2610:48:100:821::15"
+        ], 
+        "dns-mx": [
+            "ALT1.ASPMX.L.GOOGLE.COM", 
+            "ALT2.ASPMX.L.GOOGLE.COM", 
+            "ALT3.ASPMX.L.GOOGLE.COM", 
+            "ALT4.ASPMX.L.GOOGLE.COM", 
+            "ASPMX.L.GOOGLE.COM"
+        ], 
+        "dns-ns": [
+            "nameo.its.maine.edu", 
+            "namep.its.maine.edu"
+        ], 
+        "domain-name": "maine.edu", 
+        "fuzzer": "original*", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 100
+    }, 
+    {
+        "dns-a": [
+            "216.59.42.92"
+        ], 
+        "dns-mx": [
+            "paine-edu.mail.protection.outlook.com"
+        ], 
+        "dns-ns": [
+            "ns1.p03.dynect.net", 
+            "ns2.p03.dynect.net", 
+            "ns3.p03.dynect.net", 
+            "ns4.p03.dynect.net"
+        ], 
+        "domain-name": "paine.edu", 
+        "fuzzer": "replacement", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 0
+    }
+]

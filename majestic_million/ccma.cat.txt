@@ -1,0 +1,97 @@
+[
+    {
+        "dns-a": [
+            "193.104.51.51"
+        ], 
+        "dns-mx": [
+            "smtp1.ccma.cat", 
+            "smtp2.ccma.cat"
+        ], 
+        "dns-ns": [
+            "ns-1425.awsdns-50.org", 
+            "ns-1609.awsdns-09.co.uk", 
+            "ns-286.awsdns-35.com", 
+            "ns-749.awsdns-29.net"
+        ], 
+        "domain-name": "ccma.cat", 
+        "fuzzer": "original*", 
+        "geoip-country": "Spain", 
+        "ssdeep-score": 100
+    }, 
+    {
+        "dns-ns": [
+            "dns1.ispcesi.net", 
+            "dns2.ispcesi.net"
+        ], 
+        "domain-name": "acma.cat", 
+        "fuzzer": "bitsquatting"
+    }, 
+    {
+        "dns-a": [
+            "81.88.48.71"
+        ], 
+        "dns-mx": [
+            "pleskb.comb.cat"
+        ], 
+        "dns-ns": [
+            "dns1.nominalia.com", 
+            "dns2.nominalia.com"
+        ], 
+        "domain-name": "ccmc.cat", 
+        "fuzzer": "bitsquatting", 
+        "geoip-country": "Italy", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "134.0.14.59"
+        ], 
+        "dns-mx": [
+            "mx1.spamtador.com", 
+            "mx2.spamtador.com", 
+            "mx3.spamtador.com"
+        ], 
+        "dns-ns": [
+            "dns18.dns6tems.com", 
+            "ns5.nsprimario.com"
+        ], 
+        "domain-name": "ccm.cat", 
+        "fuzzer": "omission", 
+        "geoip-country": "Spain"
+    }, 
+    {
+        "dns-a": [
+            "82.159.141.16"
+        ], 
+        "dns-mx": [
+            "cma-cat.mail.protection.outlook.com"
+        ], 
+        "dns-ns": [
+            "ns0.dnshostprov.com", 
+            "ns1.dnshostprov.com", 
+            "ns2.dnshostprov.com"
+        ], 
+        "domain-name": "cma.cat", 
+        "fuzzer": "omission", 
+        "geoip-country": "Spain", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "213.27.209.38"
+        ], 
+        "dns-mx": [
+            "pop3.drac.com", 
+            "relay.drac.com", 
+            "relay.drac.net"
+        ], 
+        "dns-ns": [
+            "ns.drac.net", 
+            "ns0.drac.net", 
+            "ns2.drac.net", 
+            "ns3.drac.net"
+        ], 
+        "domain-name": "ccam.cat", 
+        "fuzzer": "transposition"
+    }
+]

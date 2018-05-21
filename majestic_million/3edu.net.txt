@@ -1,0 +1,212 @@
+[
+    {
+        "dns-a": [
+            "121.11.76.91"
+        ], 
+        "dns-ns": [
+            "dns11.hichina.com", 
+            "dns12.hichina.com"
+        ], 
+        "domain-name": "3edu.net", 
+        "fuzzer": "original*", 
+        "geoip-country": "China", 
+        "ssdeep-score": 100
+    }, 
+    {
+        "dns-a": [
+            "173.236.190.136"
+        ], 
+        "dns-ns": [
+            "ns1.dreamhost.com", 
+            "ns2.dreamhost.com", 
+            "ns3.dreamhost.com"
+        ], 
+        "domain-name": "2edu.net", 
+        "fuzzer": "bitsquatting", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "173.236.190.136"
+        ], 
+        "dns-ns": [
+            "ns1.dreamhost.com", 
+            "ns2.dreamhost.com", 
+            "ns3.dreamhost.com"
+        ], 
+        "domain-name": "1edu.net", 
+        "fuzzer": "bitsquatting", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "118.126.5.174"
+        ], 
+        "dns-mx": [
+            "mxdomain.qq.com"
+        ], 
+        "domain-name": "7edu.net", 
+        "fuzzer": "bitsquatting", 
+        "geoip-country": "China"
+    }, 
+    {
+        "dns-a": [
+            "47.91.205.84"
+        ], 
+        "domain-name": "sedu.net", 
+        "fuzzer": "bitsquatting", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "61.191.55.248"
+        ], 
+        "domain-name": "3edq.net", 
+        "fuzzer": "bitsquatting", 
+        "geoip-country": "China"
+    }, 
+    {
+        "dns-a": [
+            "217.76.128.34"
+        ], 
+        "dns-ns": [
+            "dns37.servidoresdns.net", 
+            "dns38.servidoresdns.net"
+        ], 
+        "domain-name": "3dedu.net", 
+        "fuzzer": "insertion", 
+        "geoip-country": "Spain", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "119.28.99.73"
+        ], 
+        "dns-mx": [
+            "mx.mail.ym.163.com"
+        ], 
+        "dns-ns": [
+            "f1g1ns1.dnspod.net", 
+            "f1g1ns2.dnspod.net"
+        ], 
+        "domain-name": "3wedu.net", 
+        "fuzzer": "insertion", 
+        "geoip-country": "China", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "204.11.58.156"
+        ], 
+        "dns-mx": [
+            "3redu.net"
+        ], 
+        "dns-ns": [
+            "ns1.bh-29.webhostbox.net", 
+            "ns2.bh-29.webhostbox.net"
+        ], 
+        "domain-name": "3redu.net", 
+        "fuzzer": "insertion", 
+        "geoip-country": "Virgin Islands", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "52.69.166.231"
+        ], 
+        "domain-name": "3du.net", 
+        "fuzzer": "omission", 
+        "geoip-country": "Japan", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "50.63.202.47"
+        ], 
+        "dns-mx": [
+            "mailstore1.secureserver.net", 
+            "smtp.secureserver.net"
+        ], 
+        "dns-ns": [
+            "ns57.domaincontrol.com", 
+            "ns58.domaincontrol.com"
+        ], 
+        "domain-name": "3eu.net", 
+        "fuzzer": "omission", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "98.124.199.97"
+        ], 
+        "dns-mx": [
+            "mx203.inbound-mx.net"
+        ], 
+        "dns-ns": [
+            "dns1.name-services.com", 
+            "dns2.name-services.com", 
+            "dns3.name-services.com", 
+            "dns4.name-services.com", 
+            "dns5.name-services.com"
+        ], 
+        "domain-name": "edu.net", 
+        "fuzzer": "omission", 
+        "geoip-country": "United States", 
+        "mx-spy": true
+    }, 
+    {
+        "dns-mx": [
+            "localhost"
+        ], 
+        "dns-ns": [
+            "ns1.sedoparking.com", 
+            "ns2.sedoparking.com"
+        ], 
+        "domain-name": "eedu.net", 
+        "fuzzer": "replacement", 
+        "mx-spy": true
+    }, 
+    {
+        "dns-a": [
+            "47.91.205.84"
+        ], 
+        "domain-name": "4edu.net", 
+        "fuzzer": "replacement", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "98.124.199.97"
+        ], 
+        "dns-mx": [
+            "mx203.inbound-mx.org"
+        ], 
+        "domain-name": "3.edu.net", 
+        "fuzzer": "subdomain", 
+        "geoip-country": "United States", 
+        "mx-spy": true, 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "104.28.24.60", 
+            "104.28.25.60"
+        ], 
+        "dns-aaaa": [
+            "2400:cb00:2048:1::681c:183c", 
+            "2400:cb00:2048:1::681c:193c"
+        ], 
+        "dns-ns": [
+            "elsa.ns.cloudflare.com", 
+            "greg.ns.cloudflare.com"
+        ], 
+        "domain-name": "3eda.net", 
+        "fuzzer": "vowel-swap", 
+        "geoip-country": "United States"
+    }
+]

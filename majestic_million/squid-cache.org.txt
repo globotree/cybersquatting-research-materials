@@ -1,0 +1,52 @@
+[
+    {
+        "dns-a": [
+            "104.130.201.120"
+        ], 
+        "dns-mx": [
+            "lists.squid-cache.org", 
+            "mx2.squid-cache.org", 
+            "squid-cache.org"
+        ], 
+        "dns-ns": [
+            "ns.measurement-factory.com", 
+            "ns.packet-pushers.com", 
+            "ns2.packet-pushers.com"
+        ], 
+        "domain-name": "squid-cache.org", 
+        "fuzzer": "original*", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 100
+    }, 
+    {
+        "dns-a": [
+            "69.172.201.153"
+        ], 
+        "dns-ns": [
+            "ns1.uniregistrymarket.link", 
+            "ns2.uniregistrymarket.link"
+        ], 
+        "domain-name": "squidcache.org", 
+        "fuzzer": "omission", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "64.99.80.121"
+        ], 
+        "domain-name": "squid-cac.he.org", 
+        "fuzzer": "subdomain", 
+        "geoip-country": "Canada", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "217.194.213.243"
+        ], 
+        "domain-name": "squid-cach.e.org", 
+        "fuzzer": "subdomain", 
+        "geoip-country": "United Kingdom", 
+        "ssdeep-score": 0
+    }
+]

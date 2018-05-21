@@ -1,0 +1,57 @@
+[
+    {
+        "dns-mx": [
+            "mx.unicc.org", 
+            "mx10.unicc.org", 
+            "mx20.unicc.org"
+        ], 
+        "dns-ns": [
+            "auth60.ns.nl.uu.net", 
+            "ns.NL.net"
+        ], 
+        "domain-name": "icj-cij.org", 
+        "fuzzer": "original*"
+    }, 
+    {
+        "dns-a": [
+            "50.63.46.1"
+        ], 
+        "dns-ns": [
+            "A.SERVICE.AFILIASDNS.INFO", 
+            "B.SERVICE.AFILIASDNS.org", 
+            "C.SERVICE.AFILIASDNS.NET", 
+            "D.SERVICE.AFILIASDNS.COM", 
+            "E.SERVICE.AFILIASDNS.INFO", 
+            "F.SERVICE.AFILIASDNS.NET"
+        ], 
+        "domain-name": "icj-ci.j.org", 
+        "fuzzer": "subdomain", 
+        "geoip-country": "United States"
+    }, 
+    {
+        "dns-a": [
+            "208.91.196.152"
+        ], 
+        "dns-ns": [
+            "sk.s7.ans1.ns147.klczy.com", 
+            "sk.s7.ans2.ns147.klczy.com"
+        ], 
+        "domain-name": "icj-icj.org", 
+        "fuzzer": "transposition", 
+        "geoip-country": "Virgin Islands"
+    }, 
+    {
+        "dns-a": [
+            "103.224.182.241"
+        ], 
+        "dns-mx": [
+            "park-mx.above.com"
+        ], 
+        "dns-ns": [
+            "ns1.above.com", 
+            "ns2.above.com"
+        ], 
+        "domain-name": "icj-cji.org", 
+        "fuzzer": "transposition"
+    }
+]

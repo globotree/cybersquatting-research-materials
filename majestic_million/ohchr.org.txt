@@ -1,0 +1,126 @@
+[
+    {
+        "dns-a": [
+            "146.247.14.129"
+        ], 
+        "dns-mx": [
+            "mx.unicc.org", 
+            "mx10.unicc.org", 
+            "mx20.unicc.org"
+        ], 
+        "dns-ns": [
+            "ns-nadc.unicc.org", 
+            "ns.unicc.org", 
+            "ns1.gva.ch.colt.net"
+        ], 
+        "domain-name": "ohchr.org", 
+        "fuzzer": "original*", 
+        "geoip-country": "Switzerland", 
+        "ssdeep-score": 97
+    }, 
+    {
+        "dns-a": [
+            "209.99.64.43"
+        ], 
+        "domain-name": "ochr.org", 
+        "fuzzer": "omission", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "69.172.201.153"
+        ], 
+        "dns-ns": [
+            "ns1.uniregistrymarket.link", 
+            "ns2.uniregistrymarket.link"
+        ], 
+        "domain-name": "ohcr.org", 
+        "fuzzer": "omission", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-mx": [
+            "mailstore1.secureserver.net", 
+            "smtp.secureserver.net"
+        ], 
+        "dns-ns": [
+            "ns65.domaincontrol.com", 
+            "ns66.domaincontrol.com"
+        ], 
+        "domain-name": "ohhr.org", 
+        "fuzzer": "omission"
+    }, 
+    {
+        "dns-a": [
+            "209.59.190.81"
+        ], 
+        "dns-mx": [
+            "alt1.aspmx.l.google.com", 
+            "alt2.aspmx.l.google.com", 
+            "aspmx.l.google.com", 
+            "aspmx2.googlemail.com", 
+            "aspmx3.googlemail.com"
+        ], 
+        "dns-ns": [
+            "ns1.vibrationresearch.com", 
+            "ns2.vibrationresearch.com"
+        ], 
+        "domain-name": "hchr.org", 
+        "fuzzer": "omission", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-mx": [
+            "mailstore1.secureserver.net", 
+            "smtp.secureserver.net"
+        ], 
+        "dns-ns": [
+            "ns03.domaincontrol.com", 
+            "ns04.domaincontrol.com"
+        ], 
+        "domain-name": "ogchr.org", 
+        "fuzzer": "replacement"
+    }, 
+    {
+        "dns-a": [
+            "67.210.124.70"
+        ], 
+        "dns-mx": [
+            "ohcgr.org"
+        ], 
+        "dns-ns": [
+            "ns1.lunarpages.com", 
+            "ns2.lunarpages.com"
+        ], 
+        "domain-name": "ohcgr.org", 
+        "fuzzer": "replacement"
+    }, 
+    {
+        "dns-a": [
+            "98.124.199.35"
+        ], 
+        "domain-name": "ohch.r.org", 
+        "fuzzer": "subdomain", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "69.64.147.47"
+        ], 
+        "dns-ns": [
+            "dns1.name-services.com", 
+            "dns2.name-services.com", 
+            "dns3.name-services.com", 
+            "dns4.name-services.com", 
+            "dns5.name-services.com"
+        ], 
+        "domain-name": "uhchr.org", 
+        "fuzzer": "vowel-swap", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 0
+    }
+]

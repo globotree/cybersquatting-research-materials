@@ -1,0 +1,43 @@
+[
+    {
+        "dns-a": [
+            "172.217.22.41"
+        ], 
+        "dns-aaaa": [
+            "2a00:1450:4001:81b::2009"
+        ], 
+        "dns-ns": [
+            "ns1.google.com", 
+            "ns2.google.com", 
+            "ns3.google.com", 
+            "ns4.google.com"
+        ], 
+        "domain-name": "blogspot.co.il", 
+        "fuzzer": "original*", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 79
+    }, 
+    {
+        "dns-a": [
+            "213.8.144.130"
+        ], 
+        "domain-name": "blogspo.t.co.il", 
+        "fuzzer": "subdomain", 
+        "geoip-country": "Israel", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "209.15.13.134"
+        ], 
+        "dns-mx": [
+            "mail.b-io.co"
+        ], 
+        "dns-ns": [
+            "ns1.dnslink.com", 
+            "ns2.dnslink.com"
+        ], 
+        "domain-name": "blogspot.co-il.com", 
+        "fuzzer": "various"
+    }
+]

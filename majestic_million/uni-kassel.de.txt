@@ -1,0 +1,132 @@
+[
+    {
+        "dns-mx": [
+            "mx1.its.uni-kassel.de", 
+            "mx2.its.uni-kassel.de", 
+            "mx3.its.uni-kassel.de", 
+            "mx4.its.uni-kassel.de"
+        ], 
+        "dns-ns": [
+            "dns-1.dfn.de", 
+            "dns-2.dfn.de", 
+            "dns-3.dfn.de", 
+            "pm8-3.its.uni-kassel.de", 
+            "pm8-4.its.uni-kassel.de", 
+            "turing.tet.e-technik.uni-kassel.de"
+        ], 
+        "domain-name": "uni-kassel.de", 
+        "fuzzer": "original*"
+    }, 
+    {
+        "dns-a": [
+            "185.53.179.6"
+        ], 
+        "dns-mx": [
+            "mail.h-email.net"
+        ], 
+        "dns-ns": [
+            "ns1.parkingcrew.net", 
+            "ns2.parkingcrew.net"
+        ], 
+        "domain-name": "uni-kasel.de", 
+        "fuzzer": "omission", 
+        "geoip-country": "Germany", 
+        "mx-spy": true
+    }, 
+    {
+        "dns-ns": [
+            "nsa0.schlundtech.de", 
+            "nsb0.schlundtech.de", 
+            "nsc0.schlundtech.de", 
+            "nsd0.schlundtech.de"
+        ], 
+        "domain-name": "unikassel.de", 
+        "fuzzer": "omission"
+    }, 
+    {
+        "dns-a": [
+            "185.53.178.7"
+        ], 
+        "dns-ns": [
+            "ns1.parkingcrew.net", 
+            "ns2.parkingcrew.net"
+        ], 
+        "domain-name": "uni-kassl.de", 
+        "fuzzer": "omission", 
+        "geoip-country": "Germany"
+    }, 
+    {
+        "dns-a": [
+            "185.53.179.8"
+        ], 
+        "dns-mx": [
+            "mail.h-email.net"
+        ], 
+        "dns-ns": [
+            "ns1.parkingcrew.net", 
+            "ns2.parkingcrew.net"
+        ], 
+        "domain-name": "uni-kasse.de", 
+        "fuzzer": "omission", 
+        "geoip-country": "Germany", 
+        "mx-spy": true
+    }, 
+    {
+        "dns-a": [
+            "185.53.178.9"
+        ], 
+        "dns-mx": [
+            "mail.h-email.net"
+        ], 
+        "dns-ns": [
+            "ns1.parkingcrew.net", 
+            "ns2.parkingcrew.net"
+        ], 
+        "domain-name": "uni-assel.de", 
+        "fuzzer": "omission", 
+        "geoip-country": "Germany", 
+        "mx-spy": true
+    }, 
+    {
+        "dns-a": [
+            "81.28.232.66"
+        ], 
+        "dns-mx": [
+            "mail.variomedia.de"
+        ], 
+        "domain-name": "uni-k.assel.de", 
+        "fuzzer": "subdomain"
+    }, 
+    {
+        "dns-a": [
+            "88.198.231.5"
+        ], 
+        "dns-mx": [
+            "mail.b-io.co"
+        ], 
+        "dns-ns": [
+            "ns1.domainprofi.de", 
+            "ns2.domainprofi.de"
+        ], 
+        "domain-name": "uni-ka.ssel.de", 
+        "fuzzer": "subdomain", 
+        "geoip-country": "Germany", 
+        "mx-spy": true
+    }, 
+    {
+        "dns-a": [
+            "185.53.179.6"
+        ], 
+        "dns-mx": [
+            "mail.h-email.net"
+        ], 
+        "dns-ns": [
+            "ns1.parkingcrew.net", 
+            "ns2.parkingcrew.net"
+        ], 
+        "domain-name": "uni-kass.el.de", 
+        "fuzzer": "subdomain", 
+        "geoip-country": "Germany", 
+        "mx-spy": true
+    }
+]

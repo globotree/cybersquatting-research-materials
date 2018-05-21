@@ -1,0 +1,52 @@
+[
+    {
+        "dns-a": [
+            "107.154.112.147", 
+            "107.154.115.147"
+        ], 
+        "dns-mx": [
+            "relay1-c.dila.fr", 
+            "relay2-c.dila.fr"
+        ], 
+        "dns-ns": [
+            "ns1.dila.fr", 
+            "ns2.dila.fr", 
+            "ns3.atos.net", 
+            "ns3.dila.fr", 
+            "ns4.atos.net"
+        ], 
+        "domain-name": "legifrance.gouv.fr", 
+        "fuzzer": "original*", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 99
+    }, 
+    {
+        "dns-mx": [
+            "mx3.nameshield.com", 
+            "mx4.nameshield.net"
+        ], 
+        "dns-ns": [
+            "ns2.observatoiredesmarques.fr", 
+            "ns3.nameshield.net", 
+            "obs.ns1.fr"
+        ], 
+        "domain-name": "legifrance.fr", 
+        "fuzzer": "various"
+    }, 
+    {
+        "dns-a": [
+            "104.197.189.208"
+        ], 
+        "dns-mx": [
+            "inbound-smtp.us-west-2.amazonaws.com"
+        ], 
+        "dns-ns": [
+            "pns21.cloudns.net", 
+            "pns22.cloudns.net", 
+            "pns23.cloudns.net", 
+            "pns24.cloudns.net"
+        ], 
+        "domain-name": "legifrancegouv.fr", 
+        "fuzzer": "various"
+    }
+]

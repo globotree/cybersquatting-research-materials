@@ -1,0 +1,97 @@
+[
+    {
+        "dns-a": [
+            "152.130.96.221"
+        ], 
+        "dns-aaaa": [
+            "2600:8000:0:28::28:221"
+        ], 
+        "dns-mx": [
+            "mx20.va.gov"
+        ], 
+        "dns-ns": [
+            "ns1x.va.gov", 
+            "ns2x.va.gov", 
+            "ns3x.va.gov", 
+            "ns4x.va.gov"
+        ], 
+        "domain-name": "va.gov", 
+        "fuzzer": "original*", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 100
+    }, 
+    {
+        "dns-a": [
+            "198.239.146.53"
+        ], 
+        "dns-mx": [
+            "wamsg.wa.gov"
+        ], 
+        "dns-ns": [
+            "lion.state.or.us", 
+            "nsoly1.wa.gov", 
+            "nsspo1.wa.gov", 
+            "puma.state.or.us"
+        ], 
+        "domain-name": "wa.gov", 
+        "fuzzer": "bitsquatting", 
+        "geoip-country": "United States"
+    }, 
+    {
+        "dns-mx": [
+            "vi-gov.mail.protection.outlook.com"
+        ], 
+        "dns-ns": [
+            "ns21.cloudns.net", 
+            "ns22.cloudns.net", 
+            "ns23.cloudns.net", 
+            "ns24.cloudns.net"
+        ], 
+        "domain-name": "vi.gov", 
+        "fuzzer": "bitsquatting"
+    }, 
+    {
+        "dns-a": [
+            "67.157.98.46"
+        ], 
+        "dns-mx": [
+            "mail.dtsgc.ca.gov"
+        ], 
+        "dns-ns": [
+            "ns5.net.ca.gov", 
+            "ns6.net.ca.gov", 
+            "ns7.net.ca.gov"
+        ], 
+        "domain-name": "ca.gov", 
+        "fuzzer": "replacement", 
+        "geoip-country": "United States"
+    }, 
+    {
+        "dns-a": [
+            "23.23.200.90"
+        ], 
+        "dns-mx": [
+            "ga-gov.mail.protection.outlook.com"
+        ], 
+        "dns-ns": [
+            "sogns1.state.ga.us", 
+            "sogns2.state.ga.us"
+        ], 
+        "domain-name": "ga.gov", 
+        "fuzzer": "replacement"
+    }, 
+    {
+        "dns-a": [
+            "98.124.245.24"
+        ], 
+        "dns-mx": [
+            "mail.b-io.co"
+        ], 
+        "dns-ns": [
+            "ns1.fabulous.com", 
+            "ns2.fabulous.com"
+        ], 
+        "domain-name": "va-gov.com", 
+        "fuzzer": "various"
+    }
+]

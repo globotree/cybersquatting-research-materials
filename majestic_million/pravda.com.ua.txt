@@ -1,0 +1,179 @@
+[
+    {
+        "dns-a": [
+            "107.178.251.122"
+        ], 
+        "dns-mx": [
+            "ALT1.ASPMX.L.GOOGLE.COM", 
+            "ALT2.ASPMX.L.GOOGLE.COM", 
+            "ASPMX.L.GOOGLE.COM", 
+            "ASPMX2.GOOGLEMAIL.COM", 
+            "ASPMX3.GOOGLEMAIL.COM", 
+            "ASPMX4.GOOGLEMAIL.COM", 
+            "ASPMX5.GOOGLEMAIL.COM"
+        ], 
+        "dns-ns": [
+            "mns1.imena.com.ua", 
+            "mns2.imena.com.ua", 
+            "mns3.imena.com.ua"
+        ], 
+        "domain-name": "pravda.com.ua", 
+        "fuzzer": "original*", 
+        "geoip-country": "United States", 
+        "mx-spy": true, 
+        "ssdeep-score": 100
+    }, 
+    {
+        "dns-a": [
+            "5.39.10.93"
+        ], 
+        "dns-mx": [
+            "mx.iname.com.ua"
+        ], 
+        "dns-ns": [
+            "nsa1.srv53.org", 
+            "nsa2.srv53.net", 
+            "nsa4.srv53.com", 
+            "nsb1.srv53.com", 
+            "nsb1.srv53.org", 
+            "nsb4.srv53.net", 
+            "nsc1.srv53.com", 
+            "nsc2.srv53.org", 
+            "nsc4.srv53.net", 
+            "nsd1.srv53.com", 
+            "nsd3.srv53.org", 
+            "nsd4.srv53.net"
+        ], 
+        "domain-name": "prawda.com.ua", 
+        "fuzzer": "bitsquatting", 
+        "geoip-country": "France", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "178.238.229.34"
+        ], 
+        "dns-mx": [
+            "mail.prav-da.com.ua"
+        ], 
+        "dns-ns": [
+            "ns1.contabo.net", 
+            "ns2.contabo.net", 
+            "ns3.contabo.net"
+        ], 
+        "domain-name": "prav-da.com.ua", 
+        "fuzzer": "hyphenation", 
+        "geoip-country": "Germany"
+    }, 
+    {
+        "dns-a": [
+            "194.28.174.228"
+        ], 
+        "dns-mx": [
+            "mail.praveda.com.ua"
+        ], 
+        "dns-ns": [
+            "ns1.s62.in.ua", 
+            "ns2.s62.in.ua"
+        ], 
+        "domain-name": "praveda.com.ua", 
+        "fuzzer": "insertion", 
+        "geoip-country": "Ukraine", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "77.87.193.14"
+        ], 
+        "dns-ns": [
+            "nsa3.srv53.com", 
+            "nsa3.srv53.org", 
+            "nsa4.srv53.net", 
+            "nsb1.srv53.com", 
+            "nsb1.srv53.org", 
+            "nsb4.srv53.net", 
+            "nsc2.srv53.com", 
+            "nsc3.srv53.net", 
+            "nsc3.srv53.org", 
+            "nsd1.srv53.com", 
+            "nsd1.srv53.net", 
+            "nsd2.srv53.org"
+        ], 
+        "domain-name": "prada.com.ua", 
+        "fuzzer": "omission", 
+        "geoip-country": "Ukraine", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "144.76.221.196"
+        ], 
+        "dns-mx": [
+            "taurus.chosten.com"
+        ], 
+        "dns-ns": [
+            "ns1.chosten.com", 
+            "ns2.chosten.com"
+        ], 
+        "domain-name": "ppravda.com.ua", 
+        "fuzzer": "repetition", 
+        "geoip-country": "Germany", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "93.170.141.236"
+        ], 
+        "domain-name": "pra.vda.com.ua", 
+        "fuzzer": "subdomain", 
+        "geoip-country": "Russian Federation"
+    }, 
+    {
+        "dns-a": [
+            "104.18.36.109", 
+            "104.18.37.109"
+        ], 
+        "dns-aaaa": [
+            "2400:cb00:2048:1::6812:246d", 
+            "2400:cb00:2048:1::6812:256d"
+        ], 
+        "dns-mx": [
+            "mx15.ukraine.com.ua", 
+            "mx20.ukraine.com.ua"
+        ], 
+        "dns-ns": [
+            "brianna.ns.cloudflare.com", 
+            "owen.ns.cloudflare.com"
+        ], 
+        "domain-name": "pravdu.com.ua", 
+        "fuzzer": "vowel-swap", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "193.178.147.118"
+        ], 
+        "dns-mx": [
+            "mail.imena.com.ua"
+        ], 
+        "dns-ns": [
+            "nsa1.srv53.com", 
+            "nsa1.srv53.net", 
+            "nsa2.srv53.org", 
+            "nsb3.srv53.com", 
+            "nsb3.srv53.org", 
+            "nsb4.srv53.net", 
+            "nsc1.srv53.com", 
+            "nsc2.srv53.org", 
+            "nsc3.srv53.net", 
+            "nsd1.srv53.net", 
+            "nsd3.srv53.com", 
+            "nsd4.srv53.org"
+        ], 
+        "domain-name": "pravda.ua", 
+        "fuzzer": "various", 
+        "geoip-country": "Ukraine", 
+        "ssdeep-score": 99
+    }
+]

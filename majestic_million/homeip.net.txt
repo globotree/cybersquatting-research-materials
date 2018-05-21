@@ -1,0 +1,259 @@
+[
+    {
+        "dns-a": [
+            "204.13.248.119"
+        ], 
+        "dns-mx": [
+            "ALT1.ASPMX.L.GOOGLE.COM", 
+            "ALT2.ASPMX.L.GOOGLE.COM", 
+            "ASPMX.L.GOOGLE.COM", 
+            "ASPMX2.GOOGLEMAIL.COM", 
+            "ASPMX3.GOOGLEMAIL.COM"
+        ], 
+        "dns-ns": [
+            "ns1.dyndns.org", 
+            "ns2.dyndns.org", 
+            "ns3.dyndns.org", 
+            "ns4.dyndns.org", 
+            "ns5.dyndns.org"
+        ], 
+        "domain-name": "homeip.net", 
+        "fuzzer": "original*", 
+        "geoip-country": "United States"
+    }, 
+    {
+        "dns-a": [
+            "157.7.107.120"
+        ], 
+        "dns-mx": [
+            "mx01.lolipop.jp"
+        ], 
+        "dns-ns": [
+            "dns01.muumuu-domain.com", 
+            "dns02.muumuu-domain.com"
+        ], 
+        "domain-name": "homehp.net", 
+        "fuzzer": "bitsquatting", 
+        "geoip-country": "Japan", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-ns": [
+            "ns13.xincache.com", 
+            "ns14.xincache.com"
+        ], 
+        "domain-name": "homemp.net", 
+        "fuzzer": "bitsquatting"
+    }, 
+    {
+        "dns-a": [
+            "75.101.157.222"
+        ], 
+        "dns-mx": [
+            "p.webcom.ctmail.com"
+        ], 
+        "dns-ns": [
+            "dns053.a.register.com", 
+            "dns059.b.register.com", 
+            "dns224.c.register.com", 
+            "dns249.d.register.com"
+        ], 
+        "domain-name": "homeiq.net", 
+        "fuzzer": "bitsquatting", 
+        "geoip-country": "United States", 
+        "mx-spy": true
+    }, 
+    {
+        "dns-ns": [
+            "dns1.name-services.com", 
+            "dns2.name-services.com", 
+            "dns3.name-services.com", 
+            "dns4.name-services.com", 
+            "dns5.name-services.com"
+        ], 
+        "domain-name": "homeit.net", 
+        "fuzzer": "bitsquatting"
+    }, 
+    {
+        "dns-a": [
+            "141.8.224.169"
+        ], 
+        "dns-ns": [
+            "ns27.rookdns.com", 
+            "ns28.rookdns.com"
+        ], 
+        "domain-name": "homelp.net", 
+        "fuzzer": "homoglyph", 
+        "geoip-country": "Switzerland", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "141.8.224.169"
+        ], 
+        "dns-ns": [
+            "ns27.rookdns.com", 
+            "ns28.rookdns.com"
+        ], 
+        "domain-name": "home-ip.net", 
+        "fuzzer": "hyphenation", 
+        "geoip-country": "Switzerland", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "74.220.199.14"
+        ], 
+        "domain-name": "homezip.net", 
+        "fuzzer": "insertion", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "78.31.64.118"
+        ], 
+        "dns-ns": [
+            "pri.asok.de", 
+            "sec.asok.de"
+        ], 
+        "domain-name": "homesip.net", 
+        "fuzzer": "insertion", 
+        "geoip-country": "Germany", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "69.172.201.153"
+        ], 
+        "dns-ns": [
+            "ns1.uniregistrymarket.link", 
+            "ns2.uniregistrymarket.link"
+        ], 
+        "domain-name": "homep.net", 
+        "fuzzer": "omission", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "208.91.196.40"
+        ], 
+        "dns-ns": [
+            "sk.s5.ans1.ns116.ztomy.com", 
+            "sk.s5.ans2.ns116.ztomy.com"
+        ], 
+        "domain-name": "homip.net", 
+        "fuzzer": "omission", 
+        "geoip-country": "Virgin Islands", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "209.67.50.203"
+        ], 
+        "dns-mx": [
+            "mail2.siteamerica.com", 
+            "relay1.exodus.net", 
+            "relay2.exodus.net", 
+            "relay3.exodus.net", 
+            "relay4.exodus.net", 
+            "relay5.exodus.net", 
+            "relay6.exodus.net"
+        ], 
+        "dns-ns": [
+            "dns13.register.com", 
+            "dns14.register.com"
+        ], 
+        "domain-name": "homei.net", 
+        "fuzzer": "omission", 
+        "geoip-country": "United States"
+    }, 
+    {
+        "dns-a": [
+            "62.219.78.222"
+        ], 
+        "dns-mx": [
+            "ALT1.ASPMX.L.GOOGLE.COM", 
+            "ALT2.ASPMX.L.GOOGLE.COM", 
+            "ALT3.ASPMX.L.GOOGLE.COM", 
+            "ALT4.ASPMX.L.GOOGLE.COM", 
+            "ASPMX.L.GOOGLE.COM"
+        ], 
+        "dns-ns": [
+            "park1.livedns.co.il", 
+            "park2.livedns.co.il"
+        ], 
+        "domain-name": "homeil.net", 
+        "fuzzer": "replacement", 
+        "geoip-country": "Israel", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "23.100.50.51"
+        ], 
+        "dns-mx": [
+            "meebox.homeio.net"
+        ], 
+        "dns-ns": [
+            "eva.ns.cloudflare.com", 
+            "sam.ns.cloudflare.com"
+        ], 
+        "domain-name": "homeio.net", 
+        "fuzzer": "replacement", 
+        "geoip-country": "Ireland"
+    }, 
+    {
+        "dns-a": [
+            "153.126.149.83"
+        ], 
+        "dns-mx": [
+            "mail-stb.homeup.net", 
+            "mail.homeup.net"
+        ], 
+        "dns-ns": [
+            "ns2.greentree-dc.com", 
+            "ns4.greentree-dc.com"
+        ], 
+        "domain-name": "homeup.net", 
+        "fuzzer": "replacement"
+    }, 
+    {
+        "dns-a": [
+            "98.124.245.24"
+        ], 
+        "dns-mx": [
+            "mail.b-io.co"
+        ], 
+        "dns-ns": [
+            "ns1.fabulous.com", 
+            "ns2.fabulous.com"
+        ], 
+        "domain-name": "ho.meip.net", 
+        "fuzzer": "subdomain", 
+        "geoip-country": "United States", 
+        "mx-spy": true, 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "127.0.0.1"
+        ], 
+        "domain-name": "home.ip.net", 
+        "fuzzer": "subdomain"
+    }, 
+    {
+        "dns-a": [
+            "69.172.201.153"
+        ], 
+        "dns-ns": [
+            "ns1.uniregistrymarket.link", 
+            "ns2.uniregistrymarket.link"
+        ], 
+        "domain-name": "homepi.net", 
+        "fuzzer": "transposition", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 0
+    }
+]

@@ -1,0 +1,111 @@
+[
+    {
+        "dns-a": [
+            "134.96.252.33"
+        ], 
+        "dns-mx": [
+            "mail.cs.uni-sb.de", 
+            "mail.uni-sb.de", 
+            "mailin.cs.uni-sb.de"
+        ], 
+        "dns-ns": [
+            "dns1.BelWue.de", 
+            "ns.cs.uni-sb.de", 
+            "ns.rz.uni-saarland.de", 
+            "ns.rz.uni-sb.de", 
+            "ns.uni-sb.de", 
+            "ns1.rz.uni-sb.de"
+        ], 
+        "domain-name": "uni-sb.de", 
+        "fuzzer": "original*", 
+        "geoip-country": "Germany"
+    }, 
+    {
+        "dns-a": [
+            "185.53.178.7"
+        ], 
+        "dns-mx": [
+            "mail.h-email.net"
+        ], 
+        "dns-ns": [
+            "ns1.parkingcrew.net", 
+            "ns2.parkingcrew.net"
+        ], 
+        "domain-name": "unisb.de", 
+        "fuzzer": "omission", 
+        "geoip-country": "Germany", 
+        "mx-spy": true
+    }, 
+    {
+        "dns-a": [
+            "129.69.5.2"
+        ], 
+        "dns-aaaa": [
+            "2001:7c0:7c0:5::1337"
+        ], 
+        "dns-mx": [
+            "mx2.rus.uni-stuttgart.de"
+        ], 
+        "dns-ns": [
+            "dns0.uni-stuttgart.de", 
+            "dns1.belwue.de", 
+            "dns1.uni-stuttgart.edu", 
+            "dns3.belwue.de"
+        ], 
+        "domain-name": "uni-s.de", 
+        "fuzzer": "omission"
+    }, 
+    {
+        "dns-a": [
+            "85.114.133.20"
+        ], 
+        "dns-mx": [
+            "mail1.domainssaubillig.de"
+        ], 
+        "dns-ns": [
+            "ns01.domainssaubillig.de", 
+            "ns02.domainssaubillig.de"
+        ], 
+        "domain-name": "uni-sh.de", 
+        "fuzzer": "replacement", 
+        "geoip-country": "Germany"
+    }, 
+    {
+        "dns-a": [
+            "78.46.1.82"
+        ], 
+        "dns-ns": [
+            "nsa2.schlundtech.de", 
+            "nsb2.schlundtech.de", 
+            "nsc2.schlundtech.de", 
+            "nsd2.schlundtech.de"
+        ], 
+        "domain-name": "uni-ab.de", 
+        "fuzzer": "replacement", 
+        "geoip-country": "Germany"
+    }, 
+    {
+        "dns-a": [
+            "213.208.151.31"
+        ], 
+        "domain-name": "uni-s.b.de", 
+        "fuzzer": "subdomain", 
+        "geoip-country": "Austria"
+    }, 
+    {
+        "dns-a": [
+            "72.52.4.120"
+        ], 
+        "dns-mx": [
+            "localhost"
+        ], 
+        "dns-ns": [
+            "ns1.sedoparking.com", 
+            "ns2.sedoparking.com"
+        ], 
+        "domain-name": "uni-bs.de", 
+        "fuzzer": "transposition", 
+        "geoip-country": "United States", 
+        "mx-spy": true
+    }
+]

@@ -1,0 +1,87 @@
+[
+    {
+        "dns-a": [
+            "104.16.87.210", 
+            "104.16.88.210", 
+            "104.16.89.210", 
+            "104.16.90.210", 
+            "104.16.91.210"
+        ], 
+        "dns-mx": [
+            "kotaku-com-au.mail.protection.outlook.com"
+        ], 
+        "dns-ns": [
+            "anna.ns.cloudflare.com", 
+            "sam.ns.cloudflare.com"
+        ], 
+        "domain-name": "kotaku.com.au", 
+        "fuzzer": "original*", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 97
+    }, 
+    {
+        "dns-a": [
+            "54.253.121.202"
+        ], 
+        "dns-mx": [
+            "otaku.com.au"
+        ], 
+        "dns-ns": [
+            "au-dns1.entitydata.net", 
+            "au-dns4.entitydata.net"
+        ], 
+        "domain-name": "otaku.com.au", 
+        "fuzzer": "omission", 
+        "geoip-country": "Australia", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "50.63.202.41"
+        ], 
+        "dns-ns": [
+            "ns33.domaincontrol.com", 
+            "ns34.domaincontrol.com"
+        ], 
+        "domain-name": "kotak.com.au", 
+        "fuzzer": "omission", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "203.143.72.80"
+        ], 
+        "dns-mx": [
+            "mail.kitaku.com.au", 
+            "mx6.webmascot.com", 
+            "mx7.webmascot.com"
+        ], 
+        "dns-ns": [
+            "ns1.webalive.biz", 
+            "ns2.webalive.biz", 
+            "ns3.webalive.biz"
+        ], 
+        "domain-name": "kitaku.com.au", 
+        "fuzzer": "replacement", 
+        "geoip-country": "Australia", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "185.53.178.7"
+        ], 
+        "dns-mx": [
+            "mail.h-email.net"
+        ], 
+        "dns-ns": [
+            "ns1.parkingcrew.net", 
+            "ns2.parkingcrew.net"
+        ], 
+        "domain-name": "kot.aku.com.au", 
+        "fuzzer": "subdomain", 
+        "geoip-country": "Germany", 
+        "mx-spy": true, 
+        "ssdeep-score": 0
+    }
+]

@@ -1,0 +1,94 @@
+[
+    {
+        "dns-a": [
+            "130.215.36.26"
+        ], 
+        "dns-mx": [
+            "mx1.wpi.edu", 
+            "mx2.wpi.edu", 
+            "mx3.wpi.edu", 
+            "smtp.wpi.edu"
+        ], 
+        "dns-ns": [
+            "adns1.wpi.edu", 
+            "adns2.wpi.edu", 
+            "adns3.wpi.edu", 
+            "adns4.wpi.edu"
+        ], 
+        "domain-name": "wpi.edu", 
+        "fuzzer": "original*", 
+        "geoip-country": "United States"
+    }, 
+    {
+        "dns-a": [
+            "103.23.244.5"
+        ], 
+        "dns-mx": [
+            "ALT1.ASPMX.L.GOOGLE.COM", 
+            "ALT2.ASPMX.L.GOOGLE.COM", 
+            "ASPMX.L.GOOGLE.COM", 
+            "ASPMX2.GOOGLEMAIL.COM", 
+            "ASPMX3.GOOGLEMAIL.COM", 
+            "MX-3.upi.edu"
+        ], 
+        "dns-ns": [
+            "NS1.upi.edu", 
+            "NS3.upi.edu"
+        ], 
+        "domain-name": "upi.edu", 
+        "fuzzer": "bitsquatting", 
+        "geoip-country": "Indonesia", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "192.124.249.103"
+        ], 
+        "dns-mx": [
+            "wti-edu.mail.protection.outlook.com"
+        ], 
+        "dns-ns": [
+            "pdns07.domaincontrol.com", 
+            "pdns08.domaincontrol.com"
+        ], 
+        "domain-name": "wti.edu", 
+        "fuzzer": "bitsquatting", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "50.28.102.133"
+        ], 
+        "dns-mx": [
+            "ALT1.ASPMX.L.GOOGLE.COM", 
+            "ALT2.ASPMX.L.GOOGLE.COM", 
+            "ALT3.ASPMX.L.GOOGLE.COM", 
+            "ALT4.ASPMX.L.GOOGLE.COM", 
+            "ASPMX.L.GOOGLE.COM"
+        ], 
+        "dns-ns": [
+            "ns.liquidweb.com", 
+            "ns1.liquidweb.com"
+        ], 
+        "domain-name": "wi.edu", 
+        "fuzzer": "omission", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "216.122.144.147"
+        ], 
+        "dns-mx": [
+            "mail.woodruffmedical.edu"
+        ], 
+        "dns-ns": [
+            "ns1.awts2.com", 
+            "ns2.awts2.com"
+        ], 
+        "domain-name": "api.edu", 
+        "fuzzer": "replacement", 
+        "geoip-country": "United States"
+    }
+]

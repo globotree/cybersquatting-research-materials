@@ -1,0 +1,137 @@
+[
+    {
+        "dns-a": [
+            "210.170.110.129"
+        ], 
+        "dns-mx": [
+            "smtp.net.ccc.co.jp", 
+            "smtp2.net.ccc.co.jp"
+        ], 
+        "dns-ns": [
+            "ns1.net.ccc.co.jp", 
+            "ns2.net.ccc.co.jp", 
+            "ns3.net.ccc.co.jp", 
+            "ns4.net.ccc.co.jp"
+        ], 
+        "domain-name": "tsite.jp", 
+        "fuzzer": "original*", 
+        "geoip-country": "Japan", 
+        "ssdeep-score": 100
+    }, 
+    {
+        "dns-a": [
+            "180.235.237.61"
+        ], 
+        "dns-mx": [
+            "vlmx20.secure.ne.jp", 
+            "vlmx21.secure.ne.jp", 
+            "vlmx22.secure.ne.jp"
+        ], 
+        "dns-ns": [
+            "ns4.cpi.ad.jp", 
+            "ns5.cpi.ad.jp"
+        ], 
+        "domain-name": "vsite.jp", 
+        "fuzzer": "bitsquatting", 
+        "geoip-country": "Japan"
+    }, 
+    {
+        "dns-a": [
+            "150.95.255.38"
+        ], 
+        "dns-ns": [
+            "dns1.onamae.com", 
+            "dns2.onamae.com"
+        ], 
+        "domain-name": "t-site.jp", 
+        "fuzzer": "hyphenation", 
+        "geoip-country": "Japan", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "153.122.38.25"
+        ], 
+        "dns-mx": [
+            "vcgw1.ymc.ne.jp", 
+            "vcgw2.ymc.ne.jp"
+        ], 
+        "dns-ns": [
+            "ns2.ymc.ne.jp", 
+            "rss12.ymc.ne.jp"
+        ], 
+        "domain-name": "tzsite.jp", 
+        "fuzzer": "insertion", 
+        "geoip-country": "Japan", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "1.33.171.37"
+        ], 
+        "dns-mx": [
+            "tite.jp"
+        ], 
+        "dns-ns": [
+            "ns3.sphere.ad.jp", 
+            "ns4.sphere.ad.jp"
+        ], 
+        "domain-name": "tite.jp", 
+        "fuzzer": "omission", 
+        "geoip-country": "Japan", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "54.178.176.8", 
+            "54.65.213.118"
+        ], 
+        "dns-ns": [
+            "ns-1454.awsdns-53.org", 
+            "ns-1980.awsdns-55.co.uk", 
+            "ns-310.awsdns-38.com", 
+            "ns-801.awsdns-36.net"
+        ], 
+        "domain-name": "site.jp", 
+        "fuzzer": "omission", 
+        "geoip-country": "Japan"
+    }, 
+    {
+        "dns-a": [
+            "153.121.34.224"
+        ], 
+        "dns-ns": [
+            "01.dnsv.jp", 
+            "02.dnsv.jp", 
+            "03.dnsv.jp", 
+            "04.dnsv.jp"
+        ], 
+        "domain-name": "zsite.jp", 
+        "fuzzer": "replacement", 
+        "geoip-country": "Japan", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "218.251.71.202"
+        ], 
+        "dns-mx": [
+            "tsute.jp"
+        ], 
+        "dns-ns": [
+            "ns1.k034jp6595.info", 
+            "ns2.k034jp6595.info"
+        ], 
+        "domain-name": "tsute.jp", 
+        "fuzzer": "replacement"
+    }, 
+    {
+        "dns-a": [
+            "54.178.176.8", 
+            "54.65.213.118"
+        ], 
+        "domain-name": "t.site.jp", 
+        "fuzzer": "subdomain", 
+        "geoip-country": "Japan"
+    }
+]

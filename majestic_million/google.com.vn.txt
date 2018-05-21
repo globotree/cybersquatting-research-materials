@@ -1,0 +1,258 @@
+[
+    {
+        "dns-a": [
+            "172.217.22.35"
+        ], 
+        "dns-aaaa": [
+            "2a00:1450:4001:81b::2003"
+        ], 
+        "dns-mx": [
+            "alt1.aspmx.l.google.com", 
+            "alt2.aspmx.l.google.com", 
+            "alt3.aspmx.l.google.com", 
+            "alt4.aspmx.l.google.com", 
+            "aspmx.l.google.com"
+        ], 
+        "dns-ns": [
+            "ns1.google.com", 
+            "ns2.google.com", 
+            "ns3.google.com", 
+            "ns4.google.com"
+        ], 
+        "domain-name": "google.com.vn", 
+        "fuzzer": "original*", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 85
+    }, 
+    {
+        "dns-a": [
+            "213.239.227.24"
+        ], 
+        "dns-mx": [
+            "mail.goggle.com.vn"
+        ], 
+        "dns-ns": [
+            "ns1.delink.de", 
+            "ns2.delink.de", 
+            "ns3.delink.de"
+        ], 
+        "domain-name": "goggle.com.vn", 
+        "fuzzer": "bitsquatting", 
+        "geoip-country": "Germany", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "185.53.177.20"
+        ], 
+        "dns-ns": [
+            "ns1.zonedns.vn", 
+            "ns2.zonedns.vn", 
+            "ns3.zonedns.vn", 
+            "ns4.zonedns.vn"
+        ], 
+        "domain-name": "goolgle.com.vn", 
+        "fuzzer": "insertion", 
+        "geoip-country": "Germany", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "185.53.178.6"
+        ], 
+        "dns-ns": [
+            "ns1.parkingcrew.net", 
+            "ns2.parkingcrew.net"
+        ], 
+        "domain-name": "googole.com.vn", 
+        "fuzzer": "insertion", 
+        "geoip-country": "Germany", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "202.31.187.154"
+        ], 
+        "dns-mx": [
+            "mail.googl.com.vn"
+        ], 
+        "dns-ns": [
+            "ns3.cypack.com", 
+            "ns4.cypack.com"
+        ], 
+        "domain-name": "googl.com.vn", 
+        "fuzzer": "omission", 
+        "geoip-country": "Korea", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "95.211.117.215"
+        ], 
+        "dns-ns": [
+            "ns1.hastydns.com", 
+            "ns2.hastydns.com"
+        ], 
+        "domain-name": "goole.com.vn", 
+        "fuzzer": "omission", 
+        "geoip-country": "Netherlands"
+    }, 
+    {
+        "dns-a": [
+            "185.53.177.20"
+        ], 
+        "dns-ns": [
+            "dns17.fpt.vn", 
+            "dns18.fpt.vn"
+        ], 
+        "domain-name": "googe.com.vn", 
+        "fuzzer": "omission", 
+        "geoip-country": "Germany", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "213.239.227.24"
+        ], 
+        "dns-mx": [
+            "mail.gogle.com.vn"
+        ], 
+        "dns-ns": [
+            "ns1.delink.de", 
+            "ns2.delink.de", 
+            "ns3.delink.de", 
+            "ns4.delink.de"
+        ], 
+        "domain-name": "gogle.com.vn", 
+        "fuzzer": "omission", 
+        "geoip-country": "Germany", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "54.72.9.51"
+        ], 
+        "dns-ns": [
+            "ns1.parkingcrew.net", 
+            "ns2.parkingcrew.net"
+        ], 
+        "domain-name": "googgle.com.vn", 
+        "fuzzer": "repetition", 
+        "geoip-country": "Ireland", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "185.53.178.9"
+        ], 
+        "dns-ns": [
+            "ns1.parkingcrew.net", 
+            "ns2.parkingcrew.net"
+        ], 
+        "domain-name": "ggoogle.com.vn", 
+        "fuzzer": "repetition", 
+        "geoip-country": "Germany", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "198.54.115.105"
+        ], 
+        "dns-mx": [
+            "smx1.web-hosting.com", 
+            "smx2.web-hosting.com", 
+            "smx3.web-hosting.com"
+        ], 
+        "dns-ns": [
+            "dns1.namecheaphosting.com", 
+            "dns2.namecheaphosting.com"
+        ], 
+        "domain-name": "gooogle.com.vn", 
+        "fuzzer": "repetition", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "118.69.197.5"
+        ], 
+        "domain-name": "goog.le.com.vn", 
+        "fuzzer": "subdomain", 
+        "geoip-country": "Vietnam", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "45.119.80.59"
+        ], 
+        "domain-name": "googl.e.com.vn", 
+        "fuzzer": "subdomain", 
+        "geoip-country": "Vietnam", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "185.53.177.20"
+        ], 
+        "dns-ns": [
+            "ns1.zonedns.vn", 
+            "ns2.zonedns.vn", 
+            "ns3.zonedns.vn", 
+            "ns4.zonedns.vn"
+        ], 
+        "domain-name": "gogole.com.vn", 
+        "fuzzer": "transposition", 
+        "geoip-country": "Germany", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-ns": [
+            "ns1.pavietnam.vn", 
+            "ns2.pavietnam.vn", 
+            "nsbak.pavietnam.net"
+        ], 
+        "domain-name": "goolge.com.vn", 
+        "fuzzer": "transposition"
+    }, 
+    {
+        "dns-a": [
+            "213.239.227.24"
+        ], 
+        "dns-mx": [
+            "mail.googel.com.vn"
+        ], 
+        "dns-ns": [
+            "ns1.delink.de", 
+            "ns2.delink.de", 
+            "ns3.delink.de", 
+            "ns4.delink.de"
+        ], 
+        "domain-name": "googel.com.vn", 
+        "fuzzer": "transposition"
+    }, 
+    {
+        "dns-a": [
+            "172.217.22.35"
+        ], 
+        "dns-aaaa": [
+            "2a00:1450:4001:81b::2003"
+        ], 
+        "dns-mx": [
+            "alt1.aspmx.l.google.com", 
+            "alt2.aspmx.l.google.com", 
+            "alt3.aspmx.l.google.com", 
+            "alt4.aspmx.l.google.com", 
+            "aspmx.l.google.com"
+        ], 
+        "dns-ns": [
+            "ns1.google.com", 
+            "ns2.google.com", 
+            "ns3.google.com", 
+            "ns4.google.com"
+        ], 
+        "domain-name": "google.vn", 
+        "fuzzer": "various", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 75
+    }
+]

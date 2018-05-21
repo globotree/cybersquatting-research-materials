@@ -1,0 +1,103 @@
+[
+    {
+        "dns-a": [
+            "128.240.233.197"
+        ], 
+        "dns-mx": [
+            "mailhub-mx1.ncl.ac.uk", 
+            "mailhub-mx2.ncl.ac.uk", 
+            "mailhub-mx3.ncl.ac.uk", 
+            "mailhub-mx4.ncl.ac.uk", 
+            "mailhub-mx5.ncl.ac.uk"
+        ], 
+        "dns-ns": [
+            "dennis.cent.gla.ac.uk", 
+            "dns0.ncl.ac.uk", 
+            "dns1.ncl.ac.uk", 
+            "dns2.ncl.ac.uk"
+        ], 
+        "domain-name": "ncl.ac.uk", 
+        "fuzzer": "original*", 
+        "geoip-country": "United Kingdom", 
+        "ssdeep-score": 100
+    }, 
+    {
+        "dns-a": [
+            "195.8.66.1"
+        ], 
+        "dns-mx": [
+            "ALT1.ASPMX.L.GOOGLE.COM", 
+            "ALT2.ASPMX.L.GOOGLE.COM", 
+            "ASPMX.L.GOOGLE.COM", 
+            "ASPMX2.GOOGLEMAIL.COM", 
+            "ASPMX3.GOOGLEMAIL.COM"
+        ], 
+        "dns-ns": [
+            "ns0.clara.net", 
+            "ns1.clara.net", 
+            "ns2.clara.net"
+        ], 
+        "domain-name": "ncls.ac.uk", 
+        "fuzzer": "addition", 
+        "geoip-country": "United Kingdom", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "195.195.18.18"
+        ], 
+        "dns-mx": [
+            "mx1.dnsmadeeasy.com", 
+            "mx2.dnsmadeeasy.com", 
+            "mx3.dnsmadeeasy.com", 
+            "mxgw01.ncpontefract.ac.uk"
+        ], 
+        "dns-ns": [
+            "ns1.nclt.ac.uk", 
+            "ns2.nclt.ac.uk", 
+            "ns3.nclt.ac.uk", 
+            "ns4.nclt.ac.uk", 
+            "ns5.nclt.ac.uk", 
+            "ns6.nclt.ac.uk"
+        ], 
+        "domain-name": "nclt.ac.uk", 
+        "fuzzer": "addition", 
+        "geoip-country": "United Kingdom", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "162.13.73.108"
+        ], 
+        "dns-mx": [
+            "ncn-ac-uk.mail.protection.outlook.com"
+        ], 
+        "dns-ns": [
+            "dns1.ncn.ac.uk", 
+            "dns2.ncn.ac.uk", 
+            "dns3.ncn.ac.uk", 
+            "dns4.ncn.ac.uk", 
+            "nca-edns1.ncn.ac.uk", 
+            "ncc-edns1.ncn.ac.uk"
+        ], 
+        "domain-name": "ncn.ac.uk", 
+        "fuzzer": "bitsquatting", 
+        "geoip-country": "United Kingdom", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-mx": [
+            "ALT1.ASPMX.L.GOOGLE.COM", 
+            "ALT2.ASPMX.L.GOOGLE.COM", 
+            "ASPMX.L.GOOGLE.COM", 
+            "ASPMX2.GOOGLEMAIL.COM", 
+            "ASPMX3.GOOGLEMAIL.COM"
+        ], 
+        "dns-ns": [
+            "dns1.nlc.ac.uk", 
+            "ns3.ja.net"
+        ], 
+        "domain-name": "nlc.ac.uk", 
+        "fuzzer": "transposition"
+    }
+]

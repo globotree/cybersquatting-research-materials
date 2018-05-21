@@ -1,0 +1,38 @@
+[
+    {
+        "dns-mx": [
+            "cmx.gmo.jp", 
+            "mx.members.interq.or.jp"
+        ], 
+        "dns-ns": [
+            "ns1.gmointernet.com", 
+            "ns1.gmointernet.jp"
+        ], 
+        "domain-name": "interq.or.jp", 
+        "fuzzer": "original*"
+    }, 
+    {
+        "dns-a": [
+            "158.199.142.96"
+        ], 
+        "dns-mx": [
+            "sv1.inter.or.jp"
+        ], 
+        "dns-ns": [
+            "dns2.tsukuba.ad.jp", 
+            "ns.attele.jp"
+        ], 
+        "domain-name": "inter.or.jp", 
+        "fuzzer": "omission", 
+        "geoip-country": "China", 
+        "mx-spy": true
+    }, 
+    {
+        "dns-ns": [
+            "dns.interq.or.jp", 
+            "dns1.interq.or.jp"
+        ], 
+        "domain-name": "interq.jp", 
+        "fuzzer": "various"
+    }
+]

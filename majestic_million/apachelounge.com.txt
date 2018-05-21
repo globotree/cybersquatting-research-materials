@@ -1,0 +1,71 @@
+[
+    {
+        "dns-a": [
+            "80.101.236.247"
+        ], 
+        "dns-aaaa": [
+            "2001:980:a510:1:c5e7:56f7:9d:ab36"
+        ], 
+        "dns-mx": [
+            "land10web.com"
+        ], 
+        "dns-ns": [
+            "dns039.b.register.com", 
+            "dns091.a.register.com", 
+            "dns217.c.register.com", 
+            "dns249.d.register.com"
+        ], 
+        "domain-name": "apachelounge.com", 
+        "fuzzer": "original*", 
+        "geoip-country": "Netherlands", 
+        "ssdeep-score": 99
+    }, 
+    {
+        "dns-a": [
+            "173.239.5.6", 
+            "173.239.8.164", 
+            "213.247.47.190"
+        ], 
+        "dns-mx": [
+            "mx7.apacheloung.com"
+        ], 
+        "dns-ns": [
+            "ns1.expiereddnsmanager.com", 
+            "ns2.expiereddnsmanager.com"
+        ], 
+        "domain-name": "apacheloung.com", 
+        "fuzzer": "omission", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "184.168.221.35"
+        ], 
+        "dns-ns": [
+            "ns31.domaincontrol.com", 
+            "ns32.domaincontrol.com"
+        ], 
+        "domain-name": "appachelounge.com", 
+        "fuzzer": "repetition", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "91.195.240.135"
+        ], 
+        "domain-name": "apache.lounge.com", 
+        "fuzzer": "subdomain", 
+        "geoip-country": "Germany", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "46.30.213.68"
+        ], 
+        "domain-name": "apachelo.unge.com", 
+        "fuzzer": "subdomain", 
+        "geoip-country": "Denmark"
+    }
+]

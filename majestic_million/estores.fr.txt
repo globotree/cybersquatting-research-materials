@@ -1,0 +1,124 @@
+[
+    {
+        "dns-ns": [
+            "andy.ns.cloudflare.com", 
+            "cloe.ns.cloudflare.com"
+        ], 
+        "domain-name": "estores.fr", 
+        "fuzzer": "original*"
+    }, 
+    {
+        "dns-a": [
+            "46.51.186.114", 
+            "54.217.235.195", 
+            "54.228.216.113", 
+            "54.247.172.220", 
+            "54.247.180.213", 
+            "54.75.230.239"
+        ], 
+        "dns-ns": [
+            "ns2.vpweb.com", 
+            "ns3.vpweb.com", 
+            "ns4.vpweb.com"
+        ], 
+        "domain-name": "gstores.fr", 
+        "fuzzer": "bitsquatting", 
+        "geoip-country": "Ireland"
+    }, 
+    {
+        "dns-a": [
+            "213.186.33.3"
+        ], 
+        "dns-aaaa": [
+            "2001:41d0:1:1b00:213:186:33:3"
+        ], 
+        "dns-mx": [
+            "mx1.ovh.net", 
+            "mx2.ovh.net", 
+            "mxb.ovh.net"
+        ], 
+        "dns-ns": [
+            "dns13.ovh.net", 
+            "ns13.ovh.net"
+        ], 
+        "domain-name": "astores.fr", 
+        "fuzzer": "bitsquatting", 
+        "geoip-country": "France"
+    }, 
+    {
+        "dns-ns": [
+            "ns1.ipcenter.fr", 
+            "ns2.ipcenter.fr", 
+            "ns3.ipcenter.fr"
+        ], 
+        "domain-name": "e-stores.fr", 
+        "fuzzer": "hyphenation"
+    }, 
+    {
+        "dns-a": [
+            "193.252.114.147"
+        ], 
+        "dns-mx": [
+            "mx.mailbox.orange-business.com"
+        ], 
+        "dns-ns": [
+            "ns2.domicile.fr", 
+            "ns3.domicile.fr"
+        ], 
+        "domain-name": "stores.fr", 
+        "fuzzer": "omission", 
+        "geoip-country": "France"
+    }, 
+    {
+        "dns-a": [
+            "95.141.115.216"
+        ], 
+        "dns-mx": [
+            "mail.estore.fr"
+        ], 
+        "dns-ns": [
+            "ns.edialog.fr", 
+            "ns2.edialog.fr", 
+            "ns3.edialog.fr", 
+            "ns4.edialog.fr"
+        ], 
+        "domain-name": "estore.fr", 
+        "fuzzer": "omission", 
+        "geoip-country": "France", 
+        "mx-spy": true
+    }, 
+    {
+        "dns-a": [
+            "217.70.184.38"
+        ], 
+        "dns-mx": [
+            "fb.mail.gandi.net", 
+            "spool.mail.gandi.net"
+        ], 
+        "dns-ns": [
+            "ns-176-c.gandi.net", 
+            "ns-212-a.gandi.net", 
+            "ns-231-b.gandi.net"
+        ], 
+        "domain-name": "estoree.fr", 
+        "fuzzer": "replacement", 
+        "geoip-country": "France"
+    }, 
+    {
+        "dns-a": [
+            "217.70.184.38"
+        ], 
+        "dns-mx": [
+            "fb.mail.gandi.net", 
+            "spool.mail.gandi.net"
+        ], 
+        "dns-ns": [
+            "a.dns.gandi.net", 
+            "b.dns.gandi.net", 
+            "c.dns.gandi.net"
+        ], 
+        "domain-name": "ostores.fr", 
+        "fuzzer": "vowel-swap", 
+        "geoip-country": "France"
+    }
+]

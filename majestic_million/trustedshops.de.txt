@@ -1,0 +1,142 @@
+[
+    {
+        "dns-a": [
+            "213.227.161.21"
+        ], 
+        "dns-mx": [
+            "mail01.trustedshops.net", 
+            "mail02.trustedshops.net"
+        ], 
+        "dns-ns": [
+            "ns10.dnsmadeeasy.com", 
+            "ns11.dnsmadeeasy.com", 
+            "ns12.dnsmadeeasy.com", 
+            "ns13.dnsmadeeasy.com", 
+            "ns14.dnsmadeeasy.com"
+        ], 
+        "domain-name": "trustedshops.de", 
+        "fuzzer": "original*", 
+        "geoip-country": "Austria", 
+        "ssdeep-score": 86
+    }, 
+    {
+        "dns-a": [
+            "37.9.175.24"
+        ], 
+        "dns-mx": [
+            "mailin1.trustebshops.de", 
+            "mailin2.trustebshops.de"
+        ], 
+        "dns-ns": [
+            "ns1.websupport.sk", 
+            "ns2.websupport.sk", 
+            "ns3.websupport.sk"
+        ], 
+        "domain-name": "trustebshops.de", 
+        "fuzzer": "homoglyph", 
+        "geoip-country": "Slovakia", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-mx": [
+            "mail01.trustedshops.net", 
+            "mail02.trustedshops.net"
+        ], 
+        "dns-ns": [
+            "ns.udag.de", 
+            "ns.udag.net", 
+            "ns.udag.org"
+        ], 
+        "domain-name": "trusted-shops.de", 
+        "fuzzer": "hyphenation"
+    }, 
+    {
+        "dns-a": [
+            "89.31.143.1"
+        ], 
+        "dns-mx": [
+            "mx00.udag.de", 
+            "mx01.udag.de"
+        ], 
+        "dns-ns": [
+            "ns.udag.de", 
+            "ns.udag.net", 
+            "ns.udag.org"
+        ], 
+        "domain-name": "trustedeshops.de", 
+        "fuzzer": "insertion", 
+        "geoip-country": "Germany", 
+        "ssdeep-score": 100
+    }, 
+    {
+        "dns-a": [
+            "89.31.143.1"
+        ], 
+        "dns-mx": [
+            "mail01.trustedshops.net", 
+            "mail02.trustedshops.net"
+        ], 
+        "dns-ns": [
+            "ns.udag.de", 
+            "ns.udag.net", 
+            "ns.udag.org"
+        ], 
+        "domain-name": "trustedshop.de", 
+        "fuzzer": "omission", 
+        "geoip-country": "Germany", 
+        "ssdeep-score": 90
+    }, 
+    {
+        "dns-a": [
+            "89.31.143.1"
+        ], 
+        "dns-mx": [
+            "mx00.udag.de", 
+            "mx01.udag.de"
+        ], 
+        "dns-ns": [
+            "ns.udag.de", 
+            "ns.udag.net", 
+            "ns.udag.org"
+        ], 
+        "domain-name": "frustedshops.de", 
+        "fuzzer": "replacement", 
+        "geoip-country": "Germany", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "80.83.116.39"
+        ], 
+        "domain-name": "truste.dshops.de", 
+        "fuzzer": "subdomain", 
+        "geoip-country": "Germany", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "95.128.203.58"
+        ], 
+        "domain-name": "trusted.shops.de", 
+        "fuzzer": "subdomain", 
+        "geoip-country": "Germany", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "72.52.4.119"
+        ], 
+        "dns-mx": [
+            "localhost"
+        ], 
+        "dns-ns": [
+            "ns1.sedoparking.com", 
+            "ns2.sedoparking.com"
+        ], 
+        "domain-name": "trustedsho.ps.de", 
+        "fuzzer": "subdomain", 
+        "geoip-country": "United States", 
+        "mx-spy": true, 
+        "ssdeep-score": 0
+    }
+]

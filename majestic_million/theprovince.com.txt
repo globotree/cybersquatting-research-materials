@@ -1,0 +1,113 @@
+[
+    {
+        "dns-a": [
+            "192.33.31.56"
+        ], 
+        "dns-mx": [
+            "smtp.postmedia.com"
+        ], 
+        "dns-ns": [
+            "ns1.postmediadns.com", 
+            "ns2.postmediadns.com"
+        ], 
+        "domain-name": "theprovince.com", 
+        "fuzzer": "original*", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 99
+    }, 
+    {
+        "dns-a": [
+            "184.169.141.142"
+        ], 
+        "dns-mx": [
+            "mailstore1.secureserver.net", 
+            "smtp.secureserver.net"
+        ], 
+        "dns-ns": [
+            "ns25.domaincontrol.com", 
+            "ns26.domaincontrol.com"
+        ], 
+        "domain-name": "theprovinces.com", 
+        "fuzzer": "addition", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "199.191.50.73"
+        ], 
+        "dns-ns": [
+            "ns111373.ztomy.com", 
+            "ns211373.ztomy.com"
+        ], 
+        "domain-name": "theprovine.com", 
+        "fuzzer": "omission", 
+        "geoip-country": "Virgin Islands", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "88.214.207.96"
+        ], 
+        "domain-name": "th.eprovince.com", 
+        "fuzzer": "subdomain", 
+        "geoip-country": "United Kingdom", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "65.17.226.113"
+        ], 
+        "domain-name": "the.province.com", 
+        "fuzzer": "subdomain", 
+        "geoip-country": "United States"
+    }, 
+    {
+        "dns-a": [
+            "84.241.182.155"
+        ], 
+        "domain-name": "thep.rovince.com", 
+        "fuzzer": "subdomain", 
+        "geoip-country": "Netherlands", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "208.91.197.91"
+        ], 
+        "domain-name": "thepr.ovince.com", 
+        "fuzzer": "subdomain", 
+        "geoip-country": "Virgin Islands", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "185.53.178.7"
+        ], 
+        "dns-mx": [
+            "mail.h-email.net"
+        ], 
+        "dns-ns": [
+            "ns1.parkingcrew.net", 
+            "ns2.parkingcrew.net"
+        ], 
+        "domain-name": "theprovin.ce.com", 
+        "fuzzer": "subdomain", 
+        "geoip-country": "Germany", 
+        "mx-spy": true, 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "217.160.233.225"
+        ], 
+        "dns-ns": [
+            "ns1064.ui-dns.biz", 
+            "ns1064.ui-dns.com", 
+            "ns1064.ui-dns.de", 
+            "ns1064.ui-dns.org"
+        ], 
+        "domain-name": "theprovence.com", 
+        "fuzzer": "vowel-swap"
+    }
+]

@@ -1,0 +1,240 @@
+[
+    {
+        "dns-a": [
+            "111.235.181.103"
+        ], 
+        "dns-mx": [
+            "mail.conac.cn"
+        ], 
+        "dns-ns": [
+            "ns1.sdc.org.cn", 
+            "ns2.sdc.org.cn", 
+            "ns3.sdc.org.cn"
+        ], 
+        "domain-name": "conac.cn", 
+        "fuzzer": "original*", 
+        "geoip-country": "China"
+    }, 
+    {
+        "dns-a": [
+            "50.117.120.251"
+        ], 
+        "dns-mx": [
+            "mail.happyisp.com"
+        ], 
+        "domain-name": "conaco.cn", 
+        "fuzzer": "addition", 
+        "geoip-country": "United States", 
+        "mx-spy": true
+    }, 
+    {
+        "dns-a": [
+            "122.114.251.228"
+        ], 
+        "dns-ns": [
+            "dns31.hichina.com", 
+            "dns32.hichina.com"
+        ], 
+        "domain-name": "bonac.cn", 
+        "fuzzer": "bitsquatting", 
+        "geoip-country": "China"
+    }, 
+    {
+        "dns-a": [
+            "23.107.204.229"
+        ], 
+        "dns-ns": [
+            "f1g1ns1.dnspod.net", 
+            "f1g1ns2.dnspod.net"
+        ], 
+        "domain-name": "konac.cn", 
+        "fuzzer": "bitsquatting", 
+        "geoip-country": "United States"
+    }, 
+    {
+        "dns-a": [
+            "50.117.120.251"
+        ], 
+        "dns-mx": [
+            "mail.happyisp.com"
+        ], 
+        "domain-name": "sonac.cn", 
+        "fuzzer": "bitsquatting", 
+        "geoip-country": "United States", 
+        "mx-spy": true
+    }, 
+    {
+        "dns-ns": [
+            "ns1.dnsdun.com", 
+            "ns1.dnsdun.net"
+        ], 
+        "domain-name": "cnnac.cn", 
+        "fuzzer": "bitsquatting"
+    }, 
+    {
+        "dns-a": [
+            "80.70.184.109"
+        ], 
+        "dns-mx": [
+            "cdn.corp-email.cn", 
+            "cdn.corpemail.net", 
+            "cnc.biz-email.net", 
+            "mail.biz-email.net"
+        ], 
+        "dns-ns": [
+            "ns1.cnolnic.net", 
+            "ns2.cnolnic.net"
+        ], 
+        "domain-name": "conec.cn", 
+        "fuzzer": "bitsquatting", 
+        "geoip-country": "Germany"
+    }, 
+    {
+        "dns-a": [
+            "222.35.138.254"
+        ], 
+        "domain-name": "conic.cn", 
+        "fuzzer": "bitsquatting", 
+        "geoip-country": "China"
+    }, 
+    {
+        "dns-a": [
+            "211.100.61.132"
+        ], 
+        "dns-mx": [
+            "mx04.east.net", 
+            "mx05.east.net", 
+            "mx06.east.net"
+        ], 
+        "domain-name": "conas.cn", 
+        "fuzzer": "bitsquatting", 
+        "geoip-country": "China"
+    }, 
+    {
+        "dns-a": [
+            "219.234.25.43"
+        ], 
+        "dns-ns": [
+            "ns1.myhostadmin.net", 
+            "ns2.myhostadmin.net", 
+            "ns3.myhostadmin.net", 
+            "ns4.myhostadmin.net", 
+            "ns5.myhostadmin.net", 
+            "ns6.myhostadmin.net"
+        ], 
+        "domain-name": "corac.cn", 
+        "fuzzer": "homoglyph", 
+        "geoip-country": "China"
+    }, 
+    {
+        "dns-a": [
+            "150.242.126.34"
+        ], 
+        "domain-name": "conyac.cn", 
+        "fuzzer": "insertion", 
+        "geoip-country": "Hong Kong"
+    }, 
+    {
+        "dns-a": [
+            "50.117.120.251"
+        ], 
+        "dns-mx": [
+            "mail.happyisp.com"
+        ], 
+        "domain-name": "cona.cn", 
+        "fuzzer": "omission", 
+        "geoip-country": "United States", 
+        "mx-spy": true
+    }, 
+    {
+        "dns-a": [
+            "203.78.142.12"
+        ], 
+        "domain-name": "cnac.cn", 
+        "fuzzer": "omission", 
+        "geoip-country": "Hong Kong"
+    }, 
+    {
+        "dns-a": [
+            "47.91.202.117", 
+            "47.91.202.119", 
+            "47.91.202.135", 
+            "47.91.202.17"
+        ], 
+        "domain-name": "conc.cn", 
+        "fuzzer": "omission", 
+        "geoip-country": "United States"
+    }, 
+    {
+        "dns-a": [
+            "185.53.177.31"
+        ], 
+        "dns-ns": [
+            "ns1.protectdelegation.ca", 
+            "ns2.protectdelegation.com", 
+            "ns3.protectdelegation.eu"
+        ], 
+        "domain-name": "coac.cn", 
+        "fuzzer": "omission", 
+        "geoip-country": "Germany"
+    }, 
+    {
+        "dns-a": [
+            "188.94.219.101"
+        ], 
+        "dns-mx": [
+            "mx.online.no"
+        ], 
+        "dns-ns": [
+            "domain1.telenor.net", 
+            "domain2.telenor.net"
+        ], 
+        "domain-name": "conax.cn", 
+        "fuzzer": "replacement", 
+        "geoip-country": "Norway"
+    }, 
+    {
+        "dns-a": [
+            "103.232.215.130"
+        ], 
+        "dns-mx": [
+            "mail.happyisp.com"
+        ], 
+        "domain-name": "cpnac.cn", 
+        "fuzzer": "replacement", 
+        "geoip-country": "China", 
+        "mx-spy": true
+    }, 
+    {
+        "dns-a": [
+            "50.117.120.251"
+        ], 
+        "dns-mx": [
+            "mail.happyisp.com"
+        ], 
+        "domain-name": "donac.cn", 
+        "fuzzer": "replacement", 
+        "geoip-country": "United States", 
+        "mx-spy": true
+    }, 
+    {
+        "dns-a": [
+            "47.88.63.178"
+        ], 
+        "dns-ns": [
+            "dns31.hichina.com", 
+            "dns32.hichina.com"
+        ], 
+        "domain-name": "con.ac.cn", 
+        "fuzzer": "subdomain", 
+        "geoip-country": "United States"
+    }, 
+    {
+        "dns-a": [
+            "47.90.82.159"
+        ], 
+        "domain-name": "cona.c.cn", 
+        "fuzzer": "subdomain", 
+        "geoip-country": "United States"
+    }
+]

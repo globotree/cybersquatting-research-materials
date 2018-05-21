@@ -1,0 +1,80 @@
+[
+    {
+        "dns-mx": [
+            "mail.csrc.gov.cn"
+        ], 
+        "dns-ns": [
+            "ns.csrc.gov.cn", 
+            "ns1.csrc.gov.cn", 
+            "ns2.csrc.gov.cn"
+        ], 
+        "domain-name": "csrc.gov.cn", 
+        "fuzzer": "original*"
+    }, 
+    {
+        "dns-ns": [
+            "ns17.xincache.com", 
+            "ns18.xincache.com"
+        ], 
+        "domain-name": "asrc.gov.cn", 
+        "fuzzer": "bitsquatting"
+    }, 
+    {
+        "dns-a": [
+            "175.102.3.220"
+        ], 
+        "dns-ns": [
+            "ns7.cnmsn.net", 
+            "ns8.cnmsn.net"
+        ], 
+        "domain-name": "cspc.gov.cn", 
+        "fuzzer": "bitsquatting", 
+        "geoip-country": "China"
+    }, 
+    {
+        "dns-ns": [
+            "dns27.hichina.com", 
+            "dns28.hichina.com"
+        ], 
+        "domain-name": "csfc.gov.cn", 
+        "fuzzer": "replacement"
+    }, 
+    {
+        "dns-a": [
+            "113.207.120.144"
+        ], 
+        "dns-mx": [
+            "mail.cstc.gov.cn"
+        ], 
+        "dns-ns": [
+            "ns19.xincache.com", 
+            "ns20.xincache.com"
+        ], 
+        "domain-name": "cstc.gov.cn", 
+        "fuzzer": "replacement", 
+        "geoip-country": "China"
+    }, 
+    {
+        "dns-a": [
+            "61.187.190.68"
+        ], 
+        "domain-name": "cs.rc.gov.cn", 
+        "fuzzer": "subdomain", 
+        "geoip-country": "China"
+    }, 
+    {
+        "dns-a": [
+            "122.10.86.199"
+        ], 
+        "dns-ns": [
+            "ns1.myhostadmin.net", 
+            "ns2.myhostadmin.net", 
+            "ns3.myhostadmin.net", 
+            "ns4.myhostadmin.net", 
+            "ns5.myhostadmin.net", 
+            "ns6.myhostadmin.net"
+        ], 
+        "domain-name": "csrcgov.cn", 
+        "fuzzer": "various"
+    }
+]

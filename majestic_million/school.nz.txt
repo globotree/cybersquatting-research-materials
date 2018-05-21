@@ -1,0 +1,51 @@
+[
+    {
+        "dns-ns": [
+            "ns1.dns.net.nz", 
+            "ns2.dns.net.nz", 
+            "ns3.dns.net.nz", 
+            "ns4.dns.net.nz", 
+            "ns5.dns.net.nz", 
+            "ns6.dns.net.nz", 
+            "ns7.dns.net.nz"
+        ], 
+        "domain-name": "school.nz", 
+        "fuzzer": "original*"
+    }, 
+    {
+        "dns-a": [
+            "119.47.114.163"
+        ], 
+        "dns-mx": [
+            "mx1.webhost.co.nz", 
+            "mx2.webhost.co.nz", 
+            "mx3.webhost.co.nz", 
+            "mx4.webhost.co.nz"
+        ], 
+        "dns-ns": [
+            "ns1.nameserver.net.nz", 
+            "ns2.nameserver.net.nz", 
+            "ns3.nameserver.net.nz"
+        ], 
+        "domain-name": "schoolz.nz", 
+        "fuzzer": "addition", 
+        "geoip-country": "New Zealand"
+    }, 
+    {
+        "dns-mx": [
+            "alt1.aspmx.l.google.com", 
+            "alt2.aspmx.l.google.com", 
+            "alt3.aspmx.l.google.com", 
+            "alt4.aspmx.l.google.com", 
+            "aspmx.l.google.com"
+        ], 
+        "dns-ns": [
+            "ns1.dnsimple.com", 
+            "ns2.dnsimple.com", 
+            "ns3.dnsimple.com", 
+            "ns4.dnsimple.com"
+        ], 
+        "domain-name": "sch00l.nz", 
+        "fuzzer": "homoglyph"
+    }
+]

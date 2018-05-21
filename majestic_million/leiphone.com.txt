@@ -1,0 +1,296 @@
+[
+    {
+        "dns-a": [
+            "157.185.149.167"
+        ], 
+        "dns-ns": [
+            "f1g1ns1.dnspod.net", 
+            "f1g1ns2.dnspod.net"
+        ], 
+        "domain-name": "leiphone.com", 
+        "fuzzer": "original*", 
+        "geoip-country": "United States"
+    }, 
+    {
+        "dns-a": [
+            "87.236.19.40"
+        ], 
+        "dns-mx": [
+            "mx1.beget.com", 
+            "mx2.beget.com"
+        ], 
+        "dns-ns": [
+            "ns1.beget.com", 
+            "ns1.beget.pro", 
+            "ns2.beget.com", 
+            "ns2.beget.pro"
+        ], 
+        "domain-name": "neiphone.com", 
+        "fuzzer": "bitsquatting", 
+        "geoip-country": "Russian Federation"
+    }, 
+    {
+        "dns-mx": [
+            "mailstore1.secureserver.net", 
+            "smtp.secureserver.net"
+        ], 
+        "dns-ns": [
+            "ns69.domaincontrol.com", 
+            "ns70.domaincontrol.com"
+        ], 
+        "domain-name": "heiphone.com", 
+        "fuzzer": "bitsquatting"
+    }, 
+    {
+        "dns-a": [
+            "104.27.146.219", 
+            "104.27.147.219"
+        ], 
+        "dns-mx": [
+            "dc-7aa52e19e6cc.deiphone.com"
+        ], 
+        "dns-ns": [
+            "matt.ns.cloudflare.com", 
+            "pola.ns.cloudflare.com"
+        ], 
+        "domain-name": "deiphone.com", 
+        "fuzzer": "bitsquatting", 
+        "geoip-country": "United States"
+    }, 
+    {
+        "dns-mx": [
+            "mxn.mxhichina.com", 
+            "mxw.mxhichina.com"
+        ], 
+        "dns-ns": [
+            "dns31.hichina.com", 
+            "dns32.hichina.com"
+        ], 
+        "domain-name": "laiphone.com", 
+        "fuzzer": "bitsquatting"
+    }, 
+    {
+        "dns-a": [
+            "192.0.78.24", 
+            "192.0.78.25"
+        ], 
+        "dns-ns": [
+            "ns1.wordpress.com", 
+            "ns2.wordpress.com", 
+            "ns3.wordpress.com"
+        ], 
+        "domain-name": "lemphone.com", 
+        "fuzzer": "bitsquatting", 
+        "geoip-country": "United States"
+    }, 
+    {
+        "dns-a": [
+            "64.99.64.32"
+        ], 
+        "dns-mx": [
+            "mx.ieiphone.com.cust.b.hostedemail.com"
+        ], 
+        "dns-ns": [
+            "ns1.shopco.com"
+        ], 
+        "domain-name": "ieiphone.com", 
+        "fuzzer": "homoglyph", 
+        "geoip-country": "Canada"
+    }, 
+    {
+        "dns-a": [
+            "54.209.15.3"
+        ], 
+        "dns-mx": [
+            "lediphone.com"
+        ], 
+        "dns-ns": [
+            "ns1.crisplayer.com", 
+            "ns2.crisplayer.com"
+        ], 
+        "domain-name": "lediphone.com", 
+        "fuzzer": "insertion", 
+        "geoip-country": "United States"
+    }, 
+    {
+        "dns-a": [
+            "80.83.90.49"
+        ], 
+        "dns-mx": [
+            "mail.liphone.com"
+        ], 
+        "dns-ns": [
+            "dns1.eitss.net", 
+            "dns2.eitss.net"
+        ], 
+        "domain-name": "liphone.com", 
+        "fuzzer": "omission", 
+        "geoip-country": "Sweden"
+    }, 
+    {
+        "dns-a": [
+            "72.52.4.119"
+        ], 
+        "dns-mx": [
+            "localhost"
+        ], 
+        "dns-ns": [
+            "ns1.sedoparking.com", 
+            "ns2.sedoparking.com"
+        ], 
+        "domain-name": "eiphone.com", 
+        "fuzzer": "omission", 
+        "geoip-country": "United States", 
+        "mx-spy": true
+    }, 
+    {
+        "dns-a": [
+            "104.156.231.152"
+        ], 
+        "dns-ns": [
+            "ns1.uniregistry-dns.com", 
+            "ns1.uniregistry-dns.net", 
+            "ns2.uniregistry-dns.com", 
+            "ns2.uniregistry-dns.net"
+        ], 
+        "domain-name": "lephone.com", 
+        "fuzzer": "omission", 
+        "geoip-country": "United States"
+    }, 
+    {
+        "dns-a": [
+            "118.123.242.156"
+        ], 
+        "dns-ns": [
+            "ns11.xincache.com", 
+            "ns12.xincache.com"
+        ], 
+        "domain-name": "lsiphone.com", 
+        "fuzzer": "replacement", 
+        "geoip-country": "China"
+    }, 
+    {
+        "dns-a": [
+            "69.163.200.177"
+        ], 
+        "dns-mx": [
+            "vade-in1.mail.dreamhost.com", 
+            "vade-in2.mail.dreamhost.com"
+        ], 
+        "dns-ns": [
+            "ns1.dreamhost.com", 
+            "ns2.dreamhost.com", 
+            "ns3.dreamhost.com"
+        ], 
+        "domain-name": "keiphone.com", 
+        "fuzzer": "replacement", 
+        "geoip-country": "United States"
+    }, 
+    {
+        "dns-a": [
+            "68.178.213.61"
+        ], 
+        "dns-ns": [
+            "ns1.namefind.com", 
+            "ns2.namefind.com"
+        ], 
+        "domain-name": "leophone.com", 
+        "fuzzer": "replacement", 
+        "geoip-country": "United States"
+    }, 
+    {
+        "dns-a": [
+            "72.52.4.119"
+        ], 
+        "dns-mx": [
+            "localhost"
+        ], 
+        "dns-ns": [
+            "ns1.sedoparking.com", 
+            "ns2.sedoparking.com"
+        ], 
+        "domain-name": "l.eiphone.com", 
+        "fuzzer": "subdomain", 
+        "geoip-country": "United States", 
+        "mx-spy": true
+    }, 
+    {
+        "dns-a": [
+            "72.1.46.83"
+        ], 
+        "domain-name": "lei.phone.com", 
+        "fuzzer": "subdomain", 
+        "geoip-country": "United States"
+    }, 
+    {
+        "dns-a": [
+            "69.172.201.153"
+        ], 
+        "dns-ns": [
+            "ns1.uniregistrymarket.link", 
+            "ns2.uniregistrymarket.link"
+        ], 
+        "domain-name": "leip.hone.com", 
+        "fuzzer": "subdomain", 
+        "geoip-country": "United States"
+    }, 
+    {
+        "dns-a": [
+            "40.77.56.174"
+        ], 
+        "dns-mx": [
+            "ncorp-spamfilter.nooter.com", 
+            "ne-spamfilter.ne.com"
+        ], 
+        "dns-ns": [
+            "cbru.br.ns.els-gms.att.net", 
+            "cmtu.mt.ns.els-gms.att.net"
+        ], 
+        "domain-name": "leipho.ne.com", 
+        "fuzzer": "subdomain", 
+        "geoip-country": "United States"
+    }, 
+    {
+        "dns-a": [
+            "72.52.4.119"
+        ], 
+        "dns-mx": [
+            "localhost"
+        ], 
+        "dns-ns": [
+            "ns1.sedoparking.com", 
+            "ns2.sedoparking.com"
+        ], 
+        "domain-name": "eliphone.com", 
+        "fuzzer": "transposition", 
+        "geoip-country": "United States", 
+        "mx-spy": true
+    }, 
+    {
+        "dns-a": [
+            "67.195.197.75"
+        ], 
+        "dns-mx": [
+            "mx-biz.mail.am0.yahoodns.net"
+        ], 
+        "dns-ns": [
+            "yns1.yahoo.com", 
+            "yns2.yahoo.com"
+        ], 
+        "domain-name": "liephone.com", 
+        "fuzzer": "transposition", 
+        "geoip-country": "United States"
+    }, 
+    {
+        "dns-a": [
+            "174.139.206.10"
+        ], 
+        "dns-ns": [
+            "ns3.dnsdun.com", 
+            "ns5.dnsdun.net"
+        ], 
+        "domain-name": "loiphone.com", 
+        "fuzzer": "vowel-swap", 
+        "geoip-country": "United States"
+    }
+]

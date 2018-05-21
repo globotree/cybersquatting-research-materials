@@ -1,0 +1,59 @@
+[
+    {
+        "dns-a": [
+            "130.211.30.107"
+        ], 
+        "dns-mx": [
+            "alt1.aspmx.l.google.com", 
+            "alt2.aspmx.l.google.com", 
+            "alt3.aspmx.l.google.com", 
+            "alt4.aspmx.l.google.com", 
+            "aspmx.l.google.com"
+        ], 
+        "dns-ns": [
+            "ns-cloud-d1.googledomains.com", 
+            "ns-cloud-d2.googledomains.com", 
+            "ns-cloud-d3.googledomains.com", 
+            "ns-cloud-d4.googledomains.com"
+        ], 
+        "domain-name": "ibtimes.co.in", 
+        "fuzzer": "original*", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 100
+    }, 
+    {
+        "dns-mx": [
+            "smtp1.sendpal.in", 
+            "smtp2.sendpal.in"
+        ], 
+        "dns-ns": [
+            "PDNS1.ULTRADNS.net", 
+            "PDNS2.ULTRADNS.net", 
+            "PDNS3.ULTRADNS.ORG", 
+            "PDNS4.ULTRADNS.ORG", 
+            "PDNS5.ULTRADNS.INFO", 
+            "PDNS6.ULTRADNS.CO.UK", 
+            "ns1.p07.dynect.net", 
+            "ns2.p07.dynect.net", 
+            "ns3.p07.dynect.net", 
+            "ns4.p07.dynect.net"
+        ], 
+        "domain-name": "itimes.co.in", 
+        "fuzzer": "omission"
+    }, 
+    {
+        "dns-a": [
+            "130.211.30.107"
+        ], 
+        "dns-ns": [
+            "ns-cloud-b1.googledomains.com", 
+            "ns-cloud-b2.googledomains.com", 
+            "ns-cloud-b3.googledomains.com", 
+            "ns-cloud-b4.googledomains.com"
+        ], 
+        "domain-name": "ibtimes.in", 
+        "fuzzer": "various", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 100
+    }
+]

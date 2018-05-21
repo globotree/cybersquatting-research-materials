@@ -1,0 +1,164 @@
+[
+    {
+        "dns-a": [
+            "218.94.38.237"
+        ], 
+        "dns-mx": [
+            "mail.yangtse.com"
+        ], 
+        "dns-ns": [
+            "dns27.hichina.com", 
+            "dns28.hichina.com"
+        ], 
+        "domain-name": "yangtse.com", 
+        "fuzzer": "original*", 
+        "geoip-country": "China", 
+        "ssdeep-score": 100
+    }, 
+    {
+        "dns-a": [
+            "47.52.79.83"
+        ], 
+        "dns-ns": [
+            "dns3.hichina.com", 
+            "dns4.hichina.com"
+        ], 
+        "domain-name": "yangtser.com", 
+        "fuzzer": "addition", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "142.111.170.82"
+        ], 
+        "dns-ns": [
+            "ns1.dnsdun.net", 
+            "ns5.dnsdun.com"
+        ], 
+        "domain-name": "yengtse.com", 
+        "fuzzer": "bitsquatting", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "184.168.221.62"
+        ], 
+        "dns-mx": [
+            "mailstore1.secureserver.net", 
+            "smtp.secureserver.net"
+        ], 
+        "dns-ns": [
+            "ns41.domaincontrol.com", 
+            "ns42.domaincontrol.com"
+        ], 
+        "domain-name": "yang-tse.com", 
+        "fuzzer": "hyphenation", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "103.216.218.117"
+        ], 
+        "domain-name": "yangse.com", 
+        "fuzzer": "omission", 
+        "geoip-country": "Hong Kong", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "114.80.211.44"
+        ], 
+        "dns-ns": [
+            "f1g1ns1.dnspod.net", 
+            "f1g1ns2.dnspod.net"
+        ], 
+        "domain-name": "yangts.com", 
+        "fuzzer": "omission", 
+        "geoip-country": "China"
+    }, 
+    {
+        "dns-a": [
+            "103.216.218.117"
+        ], 
+        "domain-name": "yangte.com", 
+        "fuzzer": "omission"
+    }, 
+    {
+        "dns-a": [
+            "184.168.224.176"
+        ], 
+        "dns-mx": [
+            "mx1-us1.ppe-hosted.com", 
+            "mx2-us1.ppe-hosted.com"
+        ], 
+        "dns-ns": [
+            "ns71.domaincontrol.com", 
+            "ns72.domaincontrol.com"
+        ], 
+        "domain-name": "yantse.com", 
+        "fuzzer": "omission", 
+        "geoip-country": "United States"
+    }, 
+    {
+        "dns-a": [
+            "174.122.148.156"
+        ], 
+        "dns-ns": [
+            "ns1.freedns.vn", 
+            "ns2.freedns.vn"
+        ], 
+        "domain-name": "yangtee.com", 
+        "fuzzer": "replacement", 
+        "geoip-country": "United States"
+    }, 
+    {
+        "dns-a": [
+            "45.77.226.90"
+        ], 
+        "dns-mx": [
+            "alt1.aspmx.l.google.com", 
+            "alt2.aspmx.l.google.com", 
+            "aspmx.l.google.com", 
+            "aspmx2.googlemail.com", 
+            "aspmx3.googlemail.com"
+        ], 
+        "dns-ns": [
+            "ns-1010.awsdns-62.net", 
+            "ns-1221.awsdns-24.org", 
+            "ns-1881.awsdns-43.co.uk", 
+            "ns-37.awsdns-04.com"
+        ], 
+        "domain-name": "yangtze.com", 
+        "fuzzer": "replacement", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "185.53.179.8"
+        ], 
+        "dns-mx": [
+            "mail.h-email.net"
+        ], 
+        "dns-ns": [
+            "ns1.parkingcrew.net", 
+            "ns2.parkingcrew.net"
+        ], 
+        "domain-name": "yangste.com", 
+        "fuzzer": "transposition", 
+        "geoip-country": "Germany", 
+        "mx-spy": true, 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-ns": [
+            "juming.dnsdun.com", 
+            "juming.dnsdun.net"
+        ], 
+        "domain-name": "yongtse.com", 
+        "fuzzer": "vowel-swap"
+    }
+]

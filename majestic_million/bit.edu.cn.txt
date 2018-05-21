@@ -1,0 +1,103 @@
+[
+    {
+        "dns-mx": [
+            "mailgw.bit.edu.cn", 
+            "mh.bit.edu.cn"
+        ], 
+        "dns-ns": [
+            "dns.bit.edu.cn", 
+            "dns2.bit.edu.cn"
+        ], 
+        "domain-name": "bit.edu.cn", 
+        "fuzzer": "original*"
+    }, 
+    {
+        "dns-a": [
+            "202.205.10.82", 
+            "211.151.89.107"
+        ], 
+        "dns-mx": [
+            "114.251.211.1"
+        ], 
+        "dns-ns": [
+            "dns.online.edu.cn", 
+            "dns2.online.edu.cn"
+        ], 
+        "domain-name": "bitc.edu.cn", 
+        "fuzzer": "addition", 
+        "geoip-country": "China"
+    }, 
+    {
+        "dns-mx": [
+            "mxbiz1.qq.com", 
+            "mxbiz2.qq.com"
+        ], 
+        "dns-ns": [
+            "dns.cit.edu.cn", 
+            "dns1.cit.edu.cn"
+        ], 
+        "domain-name": "cit.edu.cn", 
+        "fuzzer": "bitsquatting"
+    }, 
+    {
+        "dns-ns": [
+            "ns1.cernet.com", 
+            "ns1.hosting.edu.cn", 
+            "ns2.cernet.com", 
+            "ns2.hosting.edu.cn"
+        ], 
+        "domain-name": "fit.edu.cn", 
+        "fuzzer": "bitsquatting"
+    }, 
+    {
+        "dns-mx": [
+            "mx.jit.edu.cn"
+        ], 
+        "dns-ns": [
+            "dns1.jit.edu.cn"
+        ], 
+        "domain-name": "jit.edu.cn", 
+        "fuzzer": "bitsquatting"
+    }, 
+    {
+        "dns-a": [
+            "58.16.50.140"
+        ], 
+        "dns-mx": [
+            "mail.git.edu.cn"
+        ], 
+        "dns-ns": [
+            "dns.git.edu.cn", 
+            "dns1.git.edu.cn"
+        ], 
+        "domain-name": "git.edu.cn", 
+        "fuzzer": "replacement", 
+        "geoip-country": "China"
+    }, 
+    {
+        "dns-mx": [
+            "mail.hit.edu.cn"
+        ], 
+        "dns-ns": [
+            "hit01.hit.edu.cn", 
+            "hit03.hit.edu.cn"
+        ], 
+        "domain-name": "hit.edu.cn", 
+        "fuzzer": "replacement"
+    }, 
+    {
+        "dns-a": [
+            "218.87.41.3", 
+            "218.87.41.5"
+        ], 
+        "dns-mx": [
+            "mail.nit.edu.cn"
+        ], 
+        "dns-ns": [
+            "dns1.nit.edu.cn", 
+            "dns2.nit.edu.cn"
+        ], 
+        "domain-name": "nit.edu.cn", 
+        "fuzzer": "replacement"
+    }
+]

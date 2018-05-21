@@ -1,0 +1,36 @@
+[
+    {
+        "dns-a": [
+            "137.219.20.223"
+        ], 
+        "dns-mx": [
+            "smtp-in.jcu.edu.au"
+        ], 
+        "dns-ns": [
+            "ns1.jcu.edu.au", 
+            "ns2.jcu.edu.au", 
+            "ns3.jcu.edu.au"
+        ], 
+        "domain-name": "jcu.edu.au", 
+        "fuzzer": "original*", 
+        "geoip-country": "Australia", 
+        "ssdeep-score": 100
+    }, 
+    {
+        "dns-a": [
+            "77.104.185.143"
+        ], 
+        "dns-mx": [
+            "mail.sarinarusso.com.au"
+        ], 
+        "dns-ns": [
+            "ns1.jcu.edu.au", 
+            "ns2.jcu.edu.au", 
+            "ns3.jcu.edu.au"
+        ], 
+        "domain-name": "jcub.edu.au", 
+        "fuzzer": "addition", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 0
+    }
+]

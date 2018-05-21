@@ -1,0 +1,35 @@
+[
+    {
+        "dns-a": [
+            "45.33.90.21"
+        ], 
+        "dns-aaaa": [
+            "2600:3c03::f03c:91ff:fe7a:f3c3"
+        ], 
+        "dns-mx": [
+            "mail.rationalwiki.org"
+        ], 
+        "dns-ns": [
+            "ns1.linode.com", 
+            "ns2.linode.com", 
+            "ns3.linode.com", 
+            "ns4.linode.com", 
+            "ns5.linode.com"
+        ], 
+        "domain-name": "rationalwiki.org", 
+        "fuzzer": "original*", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 100
+    }, 
+    {
+        "dns-a": [
+            "157.240.20.36"
+        ], 
+        "dns-aaaa": [
+            "2a03:2880:f11c:8184:face:b00c:0:14c9"
+        ], 
+        "domain-name": "rationalwik.i.org", 
+        "fuzzer": "subdomain", 
+        "geoip-country": "United States"
+    }
+]

@@ -1,0 +1,59 @@
+[
+    {
+        "dns-a": [
+            "54.230.14.125", 
+            "54.230.14.140", 
+            "54.230.14.146", 
+            "54.230.14.153", 
+            "54.230.14.214", 
+            "54.230.14.215", 
+            "54.230.14.32", 
+            "54.230.14.4"
+        ], 
+        "dns-mx": [
+            "publicintegrity-org.mail.protection.outlook.com"
+        ], 
+        "dns-ns": [
+            "ns-1001.awsdns-61.net", 
+            "ns-1353.awsdns-41.org", 
+            "ns-1679.awsdns-17.co.uk", 
+            "ns-78.awsdns-09.com"
+        ], 
+        "domain-name": "publicintegrity.org", 
+        "fuzzer": "original*", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 100
+    }, 
+    {
+        "dns-a": [
+            "65.254.248.177"
+        ], 
+        "dns-mx": [
+            "mx.public-integrity.org"
+        ], 
+        "dns-ns": [
+            "ns1.fatcow.com", 
+            "ns2.fatcow.com"
+        ], 
+        "domain-name": "public-integrity.org", 
+        "fuzzer": "hyphenation", 
+        "geoip-country": "United States"
+    }, 
+    {
+        "dns-a": [
+            "74.117.221.21"
+        ], 
+        "domain-name": "publi.cintegrity.org", 
+        "fuzzer": "subdomain", 
+        "geoip-country": "Cayman Islands", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "206.108.41.130"
+        ], 
+        "domain-name": "publicint.egrity.org", 
+        "fuzzer": "subdomain", 
+        "geoip-country": "United States"
+    }
+]

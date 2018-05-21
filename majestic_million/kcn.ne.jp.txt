@@ -1,0 +1,181 @@
+[
+    {
+        "dns-a": [
+            "61.86.4.11"
+        ], 
+        "dns-mx": [
+            "mailgw.kcn.ne.jp"
+        ], 
+        "dns-ns": [
+            "dns0.kcn.ne.jp", 
+            "dns1.kcn.ne.jp"
+        ], 
+        "domain-name": "kcn.ne.jp", 
+        "fuzzer": "original*", 
+        "geoip-country": "Japan"
+    }, 
+    {
+        "dns-mx": [
+            "mx.kcni.ne.jp"
+        ], 
+        "dns-ns": [
+            "dns-b.iij.ad.jp", 
+            "dns-c.iij.ad.jp"
+        ], 
+        "domain-name": "kcni.ne.jp", 
+        "fuzzer": "addition"
+    }, 
+    {
+        "dns-a": [
+            "157.7.138.45"
+        ], 
+        "dns-mx": [
+            "jcn.ne.jp"
+        ], 
+        "dns-ns": [
+            "2nd.dnsv.jp", 
+            "dns.jcn.ne.jp"
+        ], 
+        "domain-name": "jcn.ne.jp", 
+        "fuzzer": "bitsquatting", 
+        "geoip-country": "Japan"
+    }, 
+    {
+        "dns-a": [
+            "160.16.87.14"
+        ], 
+        "dns-mx": [
+            "mail.icn.ne.jp"
+        ], 
+        "dns-ns": [
+            "ns1.icn.ne.jp"
+        ], 
+        "domain-name": "icn.ne.jp", 
+        "fuzzer": "bitsquatting", 
+        "geoip-country": "Japan"
+    }, 
+    {
+        "dns-mx": [
+            "gateway3.ocn.ad.jp", 
+            "gateway4.ocn.ad.jp"
+        ], 
+        "dns-ns": [
+            "ns1.ocn.ad.jp", 
+            "ns2.ocn.ad.jp"
+        ], 
+        "domain-name": "ocn.ne.jp", 
+        "fuzzer": "bitsquatting"
+    }, 
+    {
+        "dns-mx": [
+            "dione.ccn.ne.jp"
+        ], 
+        "dns-ns": [
+            "ns1.home.ad.jp", 
+            "ns2.home.ad.jp"
+        ], 
+        "domain-name": "ccn.ne.jp", 
+        "fuzzer": "bitsquatting"
+    }, 
+    {
+        "dns-a": [
+            "203.81.112.136"
+        ], 
+        "dns-mx": [
+            "antivirus5.cynet.co.jp", 
+            "smartsrv1.cynet.co.jp", 
+            "smartsrv2.cynet.co.jp"
+        ], 
+        "dns-ns": [
+            "dns-a.iij.ad.jp", 
+            "dns2.odn.ne.jp", 
+            "dns3.odn.ne.jp", 
+            "ns1.kbn.ne.jp", 
+            "ns2.kbn.ne.jp"
+        ], 
+        "domain-name": "kbn.ne.jp", 
+        "fuzzer": "bitsquatting", 
+        "geoip-country": "Japan", 
+        "mx-spy": true
+    }, 
+    {
+        "dns-mx": [
+            "k4.kan.ne.jp"
+        ], 
+        "dns-ns": [
+            "k2.kan.ne.jp", 
+            "k4.kan.ne.jp"
+        ], 
+        "domain-name": "kan.ne.jp", 
+        "fuzzer": "bitsquatting"
+    }, 
+    {
+        "dns-a": [
+            "157.7.44.171"
+        ], 
+        "dns-mx": [
+            "mail4.heteml.jp"
+        ], 
+        "dns-ns": [
+            "dns0.heteml.jp", 
+            "dns1.heteml.jp"
+        ], 
+        "domain-name": "ksn.ne.jp", 
+        "fuzzer": "bitsquatting", 
+        "geoip-country": "Japan"
+    }, 
+    {
+        "dns-a": [
+            "103.241.128.9"
+        ], 
+        "dns-mx": [
+            "mxjp1.nospamcloud.com", 
+            "mxjp2.nospamcloud.com"
+        ], 
+        "dns-ns": [
+            "ns01.domainserver.ne.jp", 
+            "ns02.domainserver.ne.jp"
+        ], 
+        "domain-name": "kcr.ne.jp", 
+        "fuzzer": "homoglyph", 
+        "geoip-country": "Japan"
+    }, 
+    {
+        "dns-mx": [
+            "mail5.mcn.ne.jp", 
+            "mail6.mcn.ne.jp"
+        ], 
+        "dns-ns": [
+            "ns.mediawars.ne.jp", 
+            "ns2.mediawars.ne.jp"
+        ], 
+        "domain-name": "mcn.ne.jp", 
+        "fuzzer": "replacement"
+    }, 
+    {
+        "dns-a": [
+            "61.115.230.69"
+        ], 
+        "dns-ns": [
+            "sv.kdn.ne.jp"
+        ], 
+        "domain-name": "kdn.ne.jp", 
+        "fuzzer": "replacement"
+    }, 
+    {
+        "dns-ns": [
+            "dns011.phoenix-c.or.jp", 
+            "dns012.phoenix-c.or.jp"
+        ], 
+        "domain-name": "knc.ne.jp", 
+        "fuzzer": "transposition"
+    }, 
+    {
+        "dns-ns": [
+            "dns0.kcn.ne.jp", 
+            "dns1.kcn.ne.jp"
+        ], 
+        "domain-name": "kcn.jp", 
+        "fuzzer": "various"
+    }
+]

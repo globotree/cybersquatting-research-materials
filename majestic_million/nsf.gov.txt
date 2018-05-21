@@ -1,0 +1,47 @@
+[
+    {
+        "dns-a": [
+            "128.150.4.107"
+        ], 
+        "dns-aaaa": [
+            "2620:10f:6001:4::107"
+        ], 
+        "dns-mx": [
+            "nsf-gov.mail.protection.outlook.com"
+        ], 
+        "dns-ns": [
+            "ns1.nsf.gov", 
+            "ns2.nsf.gov", 
+            "ns3.nsf.gov"
+        ], 
+        "domain-name": "nsf.gov", 
+        "fuzzer": "original*", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 100
+    }, 
+    {
+        "dns-a": [
+            "199.48.133.250"
+        ], 
+        "dns-ns": [
+            "dns101.netops.sspdata.net", 
+            "dns101.tripwire.net", 
+            "dns111.netops.sspdata.net", 
+            "dns121.netops.sspdata.net", 
+            "ns1.sfgov.org", 
+            "ns2.sfgov.org"
+        ], 
+        "domain-name": "sf.gov", 
+        "fuzzer": "omission", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "199.48.133.250"
+        ], 
+        "domain-name": "n.sf.gov", 
+        "fuzzer": "subdomain", 
+        "geoip-country": "United States"
+    }
+]

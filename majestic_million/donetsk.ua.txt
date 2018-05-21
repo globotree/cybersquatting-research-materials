@@ -1,0 +1,46 @@
+[
+    {
+        "dns-a": [
+            "185.12.115.209"
+        ], 
+        "dns-aaaa": [
+            "2a02:f080:12:115::209"
+        ], 
+        "dns-ns": [
+            "ho1.eunic.net.ua", 
+            "ns.dn.ua", 
+            "ns.kh.ua", 
+            "ns.sm.ua", 
+            "ns.zp.ua"
+        ], 
+        "domain-name": "donetsk.ua", 
+        "fuzzer": "original*", 
+        "geoip-country": "Ukraine", 
+        "ssdeep-score": 100
+    }, 
+    {
+        "dns-a": [
+            "195.149.114.22"
+        ], 
+        "dns-ns": [
+            "parked1.uadns.com", 
+            "parked2.uadns.com"
+        ], 
+        "domain-name": "donets.k.ua", 
+        "fuzzer": "subdomain", 
+        "geoip-country": "Ukraine", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "184.168.221.44"
+        ], 
+        "dns-ns": [
+            "ns17.domaincontrol.com", 
+            "ns18.domaincontrol.com"
+        ], 
+        "domain-name": "donetsk-ua.com", 
+        "fuzzer": "various", 
+        "geoip-country": "United States"
+    }
+]

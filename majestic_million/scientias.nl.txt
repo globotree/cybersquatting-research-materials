@@ -1,0 +1,57 @@
+[
+    {
+        "dns-a": [
+            "37.97.134.117"
+        ], 
+        "dns-mx": [
+            "alt1.aspmx.l.google.com", 
+            "alt2.aspmx.l.google.com", 
+            "alt3.aspmx.l.google.com", 
+            "alt4.aspmx.l.google.com", 
+            "aspmx.l.google.com"
+        ], 
+        "dns-ns": [
+            "ns0.transip.nl", 
+            "ns1.transip.net", 
+            "ns2.transip.eu"
+        ], 
+        "domain-name": "scientias.nl", 
+        "fuzzer": "original*", 
+        "geoip-country": "Netherlands", 
+        "ssdeep-score": 100
+    }, 
+    {
+        "dns-a": [
+            "213.75.21.22"
+        ], 
+        "dns-mx": [
+            "scientia-nl.mail.protection.outlook.com"
+        ], 
+        "dns-ns": [
+            "ns1.allisp.eu", 
+            "ns2.allisp.eu", 
+            "ns3.allisp.eu"
+        ], 
+        "domain-name": "scientia.nl", 
+        "fuzzer": "omission", 
+        "geoip-country": "Netherlands", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "185.53.179.6"
+        ], 
+        "dns-mx": [
+            "mail.h-email.net"
+        ], 
+        "dns-ns": [
+            "ns1.parkingcrew.net", 
+            "ns2.parkingcrew.net"
+        ], 
+        "domain-name": "scientas.nl", 
+        "fuzzer": "omission", 
+        "geoip-country": "Germany", 
+        "mx-spy": true, 
+        "ssdeep-score": 0
+    }
+]

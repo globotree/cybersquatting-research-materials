@@ -1,0 +1,100 @@
+[
+    {
+        "dns-a": [
+            "192.230.77.222", 
+            "192.230.78.222"
+        ], 
+        "dns-mx": [
+            "mx.aalto.fi"
+        ], 
+        "dns-ns": [
+            "ns-secondary.funet.fi", 
+            "ns01.aalto.fi", 
+            "ns02.aalto.fi", 
+            "ns03.aalto.fi"
+        ], 
+        "domain-name": "aalto.fi", 
+        "fuzzer": "original*", 
+        "geoip-country": "United States"
+    }, 
+    {
+        "dns-a": [
+            "84.34.147.56"
+        ], 
+        "dns-mx": [
+            "mailscanner01.zoner.fi", 
+            "mailscanner02.zoner.fi"
+        ], 
+        "dns-ns": [
+            "ns1.zoner.fi", 
+            "ns2.zoner.fi"
+        ], 
+        "domain-name": "aaltos.fi", 
+        "fuzzer": "addition", 
+        "geoip-country": "Finland", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "85.131.63.28"
+        ], 
+        "dns-mx": [
+            "calto.fi"
+        ], 
+        "dns-ns": [
+            "cp-ns1.wmhost.com", 
+            "cp-ns2.wmhost.com"
+        ], 
+        "domain-name": "calto.fi", 
+        "fuzzer": "bitsquatting", 
+        "geoip-country": "Finland", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "137.74.127.233"
+        ], 
+        "dns-ns": [
+            "ns1.rrpproxy.net", 
+            "ns2.na.rrpproxy.net", 
+            "ns2.rrpproxy.net"
+        ], 
+        "domain-name": "alto.fi", 
+        "fuzzer": "omission", 
+        "geoip-country": "France", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "160.153.131.196"
+        ], 
+        "dns-ns": [
+            "ns1jrfix.cloudapp.net", 
+            "ns2jrfix.cloudapp.net"
+        ], 
+        "domain-name": "salto.fi", 
+        "fuzzer": "replacement", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "84.234.64.246"
+        ], 
+        "dns-mx": [
+            "walto.fi"
+        ], 
+        "domain-name": "walto.fi", 
+        "fuzzer": "replacement", 
+        "geoip-country": "Finland"
+    }, 
+    {
+        "dns-a": [
+            "137.74.127.233"
+        ], 
+        "domain-name": "a.alto.fi", 
+        "fuzzer": "subdomain", 
+        "geoip-country": "France", 
+        "ssdeep-score": 0
+    }
+]

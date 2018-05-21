@@ -1,0 +1,175 @@
+[
+    {
+        "dns-a": [
+            "172.217.23.164"
+        ], 
+        "dns-aaaa": [
+            "2a00:1450:4001:81f::2004"
+        ], 
+        "dns-mx": [
+            "alt1.gmr-smtp-in.l.google.com", 
+            "alt2.gmr-smtp-in.l.google.com", 
+            "gmr-smtp-in.l.google.com"
+        ], 
+        "dns-ns": [
+            "ns1.google.com", 
+            "ns2.google.com", 
+            "ns3.google.com", 
+            "ns4.google.com"
+        ], 
+        "domain-name": "googlecode.com", 
+        "fuzzer": "original*", 
+        "geoip-country": "United States"
+    }, 
+    {
+        "dns-a": [
+            "85.233.160.215"
+        ], 
+        "domain-name": "googlecodef.com", 
+        "fuzzer": "addition", 
+        "geoip-country": "United Kingdom"
+    }, 
+    {
+        "dns-a": [
+            "185.53.179.7"
+        ], 
+        "dns-mx": [
+            "mail.h-email.net"
+        ], 
+        "dns-ns": [
+            "ns1.parkingcrew.net", 
+            "ns2.parkingcrew.net"
+        ], 
+        "domain-name": "googlecodes.com", 
+        "fuzzer": "addition", 
+        "geoip-country": "Germany", 
+        "mx-spy": true
+    }, 
+    {
+        "dns-ns": [
+            "ns1.googledomains.com", 
+            "ns2.googledomains.com", 
+            "ns3.googledomains.com", 
+            "ns4.googledomains.com"
+        ], 
+        "domain-name": "gogglecode.com", 
+        "fuzzer": "bitsquatting"
+    }, 
+    {
+        "dns-mx": [
+            "mx3.name.com", 
+            "mx4.name.com", 
+            "mx5.name.com", 
+            "mx6.name.com", 
+            "mx7.name.com", 
+            "mx8.name.com"
+        ], 
+        "dns-ns": [
+            "ns1ntw.name.com", 
+            "ns2btz.name.com", 
+            "ns3cjl.name.com", 
+            "ns4fmw.name.com"
+        ], 
+        "domain-name": "goog1ecode.com", 
+        "fuzzer": "homoglyph"
+    }, 
+    {
+        "dns-a": [
+            "136.243.93.28", 
+            "144.76.108.189"
+        ], 
+        "dns-ns": [
+            "ns11.cloudns.net", 
+            "ns12.cloudns.net", 
+            "ns13.cloudns.net", 
+            "ns14.cloudns.net", 
+            "pns11.cloudns.net", 
+            "pns12.cloudns.net", 
+            "pns13.cloudns.net", 
+            "pns14.cloudns.net", 
+            "pns15.cloudns.net", 
+            "pns16.cloudns.net", 
+            "pns17.cloudns.net", 
+            "pns18.cloudns.net", 
+            "pns19.cloudns.net", 
+            "pns20.cloudns.net"
+        ], 
+        "domain-name": "googlescode.com", 
+        "fuzzer": "insertion", 
+        "geoip-country": "Germany"
+    }, 
+    {
+        "dns-ns": [
+            "ns1.googledomains.com", 
+            "ns2.googledomains.com", 
+            "ns3.googledomains.com", 
+            "ns4.googledomains.com"
+        ], 
+        "domain-name": "goglecode.com", 
+        "fuzzer": "omission"
+    }, 
+    {
+        "dns-ns": [
+            "ns1.googledomains.com", 
+            "ns2.googledomains.com", 
+            "ns3.googledomains.com", 
+            "ns4.googledomains.com"
+        ], 
+        "domain-name": "goolecode.com", 
+        "fuzzer": "omission"
+    }, 
+    {
+        "dns-a": [
+            "216.250.121.9"
+        ], 
+        "dns-mx": [
+            "mx00.1and1.com", 
+            "mx01.1and1.com"
+        ], 
+        "dns-ns": [
+            "ns1077.ui-dns.biz", 
+            "ns1077.ui-dns.com", 
+            "ns1077.ui-dns.de", 
+            "ns1077.ui-dns.org"
+        ], 
+        "domain-name": "googlecide.com", 
+        "fuzzer": "replacement", 
+        "geoip-country": "United States"
+    }, 
+    {
+        "dns-a": [
+            "89.40.173.52"
+        ], 
+        "dns-mx": [
+            "googlecore.com"
+        ], 
+        "dns-ns": [
+            "ns1.netsons.net", 
+            "ns2.netsons.net", 
+            "ns3.netsons.net", 
+            "ns4.netsons.net"
+        ], 
+        "domain-name": "googlecore.com", 
+        "fuzzer": "replacement", 
+        "geoip-country": "Italy"
+    }, 
+    {
+        "dns-a": [
+            "98.124.199.73"
+        ], 
+        "domain-name": "goog.lecode.com", 
+        "fuzzer": "subdomain", 
+        "geoip-country": "United States"
+    }, 
+    {
+        "dns-a": [
+            "52.33.196.199"
+        ], 
+        "dns-mx": [
+            "de-com-wildcard-null-mx.centralnic.net"
+        ], 
+        "domain-name": "googleco.de.com", 
+        "fuzzer": "subdomain", 
+        "geoip-country": "United States"
+    }
+]

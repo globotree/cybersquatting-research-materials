@@ -1,0 +1,63 @@
+[
+    {
+        "dns-a": [
+            "165.234.159.38"
+        ], 
+        "dns-mx": [
+            "irnprt1.itd.nd.gov", 
+            "itdmx1.itd.nd.gov"
+        ], 
+        "dns-ns": [
+            "ns3.ndnic.com", 
+            "ns3.state.nd.us"
+        ], 
+        "domain-name": "nd.gov", 
+        "fuzzer": "original*", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 75
+    }, 
+    {
+        "dns-a": [
+            "206.16.212.82"
+        ], 
+        "dns-mx": [
+            "mx02.ne.gov", 
+            "mx04.ne.gov"
+        ], 
+        "dns-ns": [
+            "dns1.doc.state.ne.us", 
+            "dns2.doc.state.ne.us", 
+            "ns1.nicusa-gl.com", 
+            "ns2.nicusa-gl.com"
+        ], 
+        "domain-name": "ne.gov", 
+        "fuzzer": "bitsquatting", 
+        "geoip-country": "United States"
+    }, 
+    {
+        "dns-ns": [
+            "nsA.mdarchives.state.md.us", 
+            "nsB.mdarchives.state.md.us", 
+            "nsC.mdsa.net", 
+            "nsD.mdsa.net"
+        ], 
+        "domain-name": "md.gov", 
+        "fuzzer": "homoglyph"
+    }, 
+    {
+        "dns-a": [
+            "52.204.9.77"
+        ], 
+        "dns-mx": [
+            "smtp1-mke.securence.com", 
+            "smtp1-msp.securence.com"
+        ], 
+        "dns-ns": [
+            "ns1.nc.gov", 
+            "ns2.nc.gov"
+        ], 
+        "domain-name": "nc.gov", 
+        "fuzzer": "replacement", 
+        "geoip-country": "United States"
+    }
+]

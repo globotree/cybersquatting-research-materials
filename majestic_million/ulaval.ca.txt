@@ -1,0 +1,97 @@
+[
+    {
+        "dns-a": [
+            "132.203.189.82"
+        ], 
+        "dns-mx": [
+            "ul-exc-pr-as01.ulaval.ca", 
+            "ul-exc-pr-as02.ulaval.ca"
+        ], 
+        "dns-ns": [
+            "UL-DNS-PR-NS03.n.ulaval.ca", 
+            "UL-DNS-PR-NS04.n.ulaval.ca"
+        ], 
+        "domain-name": "ulaval.ca", 
+        "fuzzer": "original*", 
+        "geoip-country": "Canada", 
+        "ssdeep-score": 99
+    }, 
+    {
+        "dns-a": [
+            "141.8.224.93"
+        ], 
+        "dns-ns": [
+            "ns7.rookdns.com", 
+            "ns8.rookdns.com"
+        ], 
+        "domain-name": "ulval.ca", 
+        "fuzzer": "omission", 
+        "geoip-country": "Switzerland", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "192.241.171.49"
+        ], 
+        "dns-mx": [
+            "smtp.laval.ca", 
+            "smtp.ville.laval.qc.ca"
+        ], 
+        "dns-ns": [
+            "dns1.easydns.com", 
+            "dns2.easydns.net", 
+            "dns3.easydns.ca"
+        ], 
+        "domain-name": "laval.ca", 
+        "fuzzer": "omission", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "158.85.87.76"
+        ], 
+        "dns-mx": [
+            "mail.ulava.ca"
+        ], 
+        "dns-ns": [
+            "slns1.namespro.ca", 
+            "slns2.namespro.ca"
+        ], 
+        "domain-name": "ulava.ca", 
+        "fuzzer": "omission", 
+        "geoip-country": "Canada", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "69.90.223.165"
+        ], 
+        "dns-mx": [
+            "ilaval.ca"
+        ], 
+        "dns-ns": [
+            "ns326.canadianwebhosting.com", 
+            "ns327.canadianwebhosting.com"
+        ], 
+        "domain-name": "ilaval.ca", 
+        "fuzzer": "replacement"
+    }, 
+    {
+        "dns-a": [
+            "72.52.4.122"
+        ], 
+        "dns-mx": [
+            "localhost"
+        ], 
+        "dns-ns": [
+            "ns1.sedoparking.com", 
+            "ns2.sedoparking.com"
+        ], 
+        "domain-name": "ul.aval.ca", 
+        "fuzzer": "subdomain", 
+        "geoip-country": "United States", 
+        "mx-spy": true, 
+        "ssdeep-score": 0
+    }
+]

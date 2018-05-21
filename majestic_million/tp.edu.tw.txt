@@ -1,0 +1,34 @@
+[
+    {
+        "dns-a": [
+            "163.21.249.178"
+        ], 
+        "dns-aaaa": [
+            "2001:288:1200::178"
+        ], 
+        "dns-mx": [
+            "mailgw.tp.edu.tw"
+        ], 
+        "dns-ns": [
+            "dns.tp.edu.tw", 
+            "dns2.tp.edu.tw", 
+            "dns3.tp.edu.tw"
+        ], 
+        "domain-name": "tp.edu.tw", 
+        "fuzzer": "original*", 
+        "geoip-country": "Taiwan", 
+        "ssdeep-score": 100
+    }, 
+    {
+        "dns-mx": [
+            "spam.tpa.edu.tw"
+        ], 
+        "dns-ns": [
+            "dns.tpa.edu.tw", 
+            "dns2.tpa.edu.tw"
+        ], 
+        "domain-name": "tpa.edu.tw", 
+        "fuzzer": "addition", 
+        "mx-spy": true
+    }
+]

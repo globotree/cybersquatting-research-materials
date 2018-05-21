@@ -1,0 +1,107 @@
+[
+    {
+        "dns-mx": [
+            "mail.ndrc.gov.cn"
+        ], 
+        "dns-ns": [
+            "f1g1ns1.dnspod.net", 
+            "f1g1ns2.dnspod.net"
+        ], 
+        "domain-name": "ndrc.gov.cn", 
+        "fuzzer": "original*"
+    }, 
+    {
+        "dns-mx": [
+            "mail.ndrcc.gov.cn"
+        ], 
+        "dns-ns": [
+            "dns10.hichina.com", 
+            "dns9.hichina.com"
+        ], 
+        "domain-name": "ndrcc.gov.cn", 
+        "fuzzer": "addition"
+    }, 
+    {
+        "dns-a": [
+            "58.221.115.10"
+        ], 
+        "dns-mx": [
+            "mx236a.chinaemail.cn", 
+            "mxa236a.chinaemail.cn"
+        ], 
+        "dns-ns": [
+            "ns1.sfn.cn", 
+            "ns2.sfn.cn"
+        ], 
+        "domain-name": "ntrc.gov.cn", 
+        "fuzzer": "bitsquatting", 
+        "geoip-country": "China"
+    }, 
+    {
+        "dns-a": [
+            "58.221.247.202"
+        ], 
+        "dns-ns": [
+            "dns25.hichina.com", 
+            "dns26.hichina.com"
+        ], 
+        "domain-name": "rdrc.gov.cn", 
+        "fuzzer": "homoglyph", 
+        "geoip-country": "China"
+    }, 
+    {
+        "dns-a": [
+            "61.133.207.37"
+        ], 
+        "dns-ns": [
+            "ns1.sdc.org.cn", 
+            "ns2.sdc.org.cn", 
+            "ns3.sdc.org.cn"
+        ], 
+        "domain-name": "nxdrc.gov.cn", 
+        "fuzzer": "insertion", 
+        "geoip-country": "China"
+    }, 
+    {
+        "dns-a": [
+            "218.246.21.140"
+        ], 
+        "dns-mx": [
+            "mail.drc.gov.cn"
+        ], 
+        "dns-ns": [
+            "kk2041"
+        ], 
+        "domain-name": "drc.gov.cn", 
+        "fuzzer": "omission", 
+        "geoip-country": "China"
+    }, 
+    {
+        "dns-ns": [
+            "ns5.cnmsn.net", 
+            "ns6.cnmsn.net"
+        ], 
+        "domain-name": "ndrf.gov.cn", 
+        "fuzzer": "replacement"
+    }, 
+    {
+        "dns-a": [
+            "220.161.216.122"
+        ], 
+        "dns-ns": [
+            "dns21.hichina.com", 
+            "dns22.hichina.com"
+        ], 
+        "domain-name": "ndrd.gov.cn", 
+        "fuzzer": "replacement", 
+        "geoip-country": "China"
+    }, 
+    {
+        "dns-a": [
+            "61.187.190.68"
+        ], 
+        "domain-name": "nd.rc.gov.cn", 
+        "fuzzer": "subdomain", 
+        "geoip-country": "China"
+    }
+]

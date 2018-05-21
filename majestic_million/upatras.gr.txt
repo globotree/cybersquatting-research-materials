@@ -1,0 +1,32 @@
+[
+    {
+        "dns-mx": [
+            "albatross.upnet.gr"
+        ], 
+        "dns-ns": [
+            "FOO.upnet.gr", 
+            "NIC.upatras.gr", 
+            "nic.grnet.gr", 
+            "sns0.grnet.gr", 
+            "sns1.grnet.gr"
+        ], 
+        "domain-name": "upatras.gr", 
+        "fuzzer": "original*"
+    }, 
+    {
+        "dns-a": [
+            "195.170.8.52"
+        ], 
+        "dns-mx": [
+            "mx.otenet.gr", 
+            "mx2.otenet.gr"
+        ], 
+        "dns-ns": [
+            "ns1.otenet.gr", 
+            "ns2.otenet.gr"
+        ], 
+        "domain-name": "patras.gr", 
+        "fuzzer": "omission", 
+        "geoip-country": "Greece"
+    }
+]

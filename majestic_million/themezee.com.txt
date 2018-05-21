@@ -1,0 +1,128 @@
+[
+    {
+        "dns-a": [
+            "176.28.37.19"
+        ], 
+        "dns-aaaa": [
+            "2a01:488:42:1000:b01c:2513:ffdd:c429"
+        ], 
+        "dns-mx": [
+            "mx0.themezee.com"
+        ], 
+        "dns-ns": [
+            "ns1.hans.hosteurope.de", 
+            "ns2.hans.hosteurope.de"
+        ], 
+        "domain-name": "themezee.com", 
+        "fuzzer": "original*", 
+        "geoip-country": "Germany", 
+        "ssdeep-score": 100
+    }, 
+    {
+        "dns-a": [
+            "203.124.113.1"
+        ], 
+        "dns-ns": [
+            "ns65.domaincontrol.com", 
+            "ns66.domaincontrol.com"
+        ], 
+        "domain-name": "themezeem.com", 
+        "fuzzer": "addition", 
+        "geoip-country": "Singapore", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "72.52.4.119"
+        ], 
+        "dns-mx": [
+            "localhost"
+        ], 
+        "dns-ns": [
+            "ns1.sedoparking.com", 
+            "ns2.sedoparking.com"
+        ], 
+        "domain-name": "themeee.com", 
+        "fuzzer": "omission", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "216.21.239.197"
+        ], 
+        "dns-mx": [
+            "mail2.siteamerica.com", 
+            "relay1.exodus.net", 
+            "relay2.exodus.net"
+        ], 
+        "dns-ns": [
+            "dns010.d.register.com", 
+            "dns029.c.register.com", 
+            "dns174.b.register.com", 
+            "dns176.a.register.com"
+        ], 
+        "domain-name": "themzee.com", 
+        "fuzzer": "omission", 
+        "geoip-country": "United States"
+    }, 
+    {
+        "dns-a": [
+            "52.73.124.185", 
+            "54.164.198.60"
+        ], 
+        "dns-ns": [
+            "ns1.namebrightdns.com", 
+            "ns2.namebrightdns.com"
+        ], 
+        "domain-name": "themeze.com", 
+        "fuzzer": "omission", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "50.63.202.34"
+        ], 
+        "dns-mx": [
+            "mailstore1.secureserver.net", 
+            "smtp.secureserver.net"
+        ], 
+        "dns-ns": [
+            "ns07.domaincontrol.com", 
+            "ns08.domaincontrol.com"
+        ], 
+        "domain-name": "themezze.com", 
+        "fuzzer": "replacement", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-mx": [
+            "120.ry.cz"
+        ], 
+        "dns-ns": [
+            "ns.parktons.com", 
+            "ns2.parktons.com"
+        ], 
+        "domain-name": "themesee.com", 
+        "fuzzer": "replacement"
+    }, 
+    {
+        "dns-a": [
+            "46.242.242.144"
+        ], 
+        "dns-mx": [
+            "themezie.com"
+        ], 
+        "dns-ns": [
+            "dns.home.pl", 
+            "dns2.home.pl", 
+            "dns3.home.pl"
+        ], 
+        "domain-name": "themezie.com", 
+        "fuzzer": "vowel-swap", 
+        "geoip-country": "Poland", 
+        "ssdeep-score": 0
+    }
+]

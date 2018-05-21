@@ -1,0 +1,37 @@
+[
+    {
+        "dns-a": [
+            "200.80.43.106"
+        ], 
+        "dns-mx": [
+            "mail.lurisia.com.ar"
+        ], 
+        "dns-ns": [
+            "ns1.towebs.com", 
+            "ns2.towebs.com", 
+            "ns3.towebs.com", 
+            "ns4.towebs.com"
+        ], 
+        "domain-name": "lurisia.com.ar", 
+        "fuzzer": "original*", 
+        "geoip-country": "Argentina", 
+        "ssdeep-score": 100
+    }, 
+    {
+        "dns-a": [
+            "72.52.4.122"
+        ], 
+        "dns-mx": [
+            "localhost"
+        ], 
+        "dns-ns": [
+            "ns1.sedoparking.com", 
+            "ns2.sedoparking.com"
+        ], 
+        "domain-name": "lurisi.a.com.ar", 
+        "fuzzer": "subdomain", 
+        "geoip-country": "United States", 
+        "mx-spy": true, 
+        "ssdeep-score": 0
+    }
+]

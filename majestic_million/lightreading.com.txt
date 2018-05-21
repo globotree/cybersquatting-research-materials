@@ -1,0 +1,85 @@
+[
+    {
+        "dns-a": [
+            "34.197.180.5", 
+            "52.203.51.44"
+        ], 
+        "dns-mx": [
+            "us-smtp-inbound-1.mimecast.com", 
+            "us-smtp-inbound-2.mimecast.com"
+        ], 
+        "dns-ns": [
+            "jill.ns.cloudflare.com", 
+            "tom.ns.cloudflare.com"
+        ], 
+        "domain-name": "lightreading.com", 
+        "fuzzer": "original*", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 96
+    }, 
+    {
+        "dns-a": [
+            "216.239.32.21", 
+            "216.239.34.21", 
+            "216.239.36.21", 
+            "216.239.38.21"
+        ], 
+        "dns-mx": [
+            "mx1.daemonmail.net", 
+            "mx2.daemonmail.net"
+        ], 
+        "dns-ns": [
+            "ns1.domaindiscover.com", 
+            "ns2.domaindiscover.com"
+        ], 
+        "domain-name": "lightreadings.com", 
+        "fuzzer": "addition", 
+        "geoip-country": "United States"
+    }, 
+    {
+        "dns-a": [
+            "68.178.213.61"
+        ], 
+        "dns-ns": [
+            "ns1.namefind.com", 
+            "ns2.namefind.com"
+        ], 
+        "domain-name": "nightreading.com", 
+        "fuzzer": "bitsquatting", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "192.155.46.140"
+        ], 
+        "dns-mx": [
+            "joyent2.agora.com"
+        ], 
+        "dns-ns": [
+            "ns1.agora.com", 
+            "ns2.agora.com", 
+            "ns3.agora.com"
+        ], 
+        "domain-name": "light-reading.com", 
+        "fuzzer": "hyphenation", 
+        "geoip-country": "United States"
+    }, 
+    {
+        "dns-a": [
+            "72.52.4.119"
+        ], 
+        "dns-mx": [
+            "localhost"
+        ], 
+        "dns-ns": [
+            "ns1.sedoparking.com", 
+            "ns2.sedoparking.com"
+        ], 
+        "domain-name": "ligh.treading.com", 
+        "fuzzer": "subdomain", 
+        "geoip-country": "United States", 
+        "mx-spy": true, 
+        "ssdeep-score": 0
+    }
+]

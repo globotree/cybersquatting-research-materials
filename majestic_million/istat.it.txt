@@ -1,0 +1,225 @@
+[
+    {
+        "dns-mx": [
+            "posta4.istat.it", 
+            "posta5.istat.it"
+        ], 
+        "dns-ns": [
+            "ns.istat.it", 
+            "ns1.garr.net", 
+            "ns2.istat.it"
+        ], 
+        "domain-name": "istat.it", 
+        "fuzzer": "original*"
+    }, 
+    {
+        "dns-a": [
+            "185.53.178.6"
+        ], 
+        "dns-ns": [
+            "ns1.parkingcrew.net", 
+            "ns2.parkingcrew.net"
+        ], 
+        "domain-name": "istati.it", 
+        "fuzzer": "addition", 
+        "geoip-country": "Germany"
+    }, 
+    {
+        "dns-a": [
+            "185.53.70.52"
+        ], 
+        "dns-mx": [
+            "mail.kstat.it"
+        ], 
+        "dns-ns": [
+            "ns1.pcsystem.it", 
+            "ns2.pcsystem.it", 
+            "ns3.pcsystem.it"
+        ], 
+        "domain-name": "kstat.it", 
+        "fuzzer": "bitsquatting", 
+        "geoip-country": "Italy"
+    }, 
+    {
+        "dns-a": [
+            "89.46.105.70"
+        ], 
+        "dns-mx": [
+            "mx.istap.it"
+        ], 
+        "dns-ns": [
+            "dns.technorail.com", 
+            "dns2.technorail.com", 
+            "dns3.arubadns.net", 
+            "dns4.arubadns.cz"
+        ], 
+        "domain-name": "istap.it", 
+        "fuzzer": "bitsquatting", 
+        "geoip-country": "Italy"
+    }, 
+    {
+        "dns-a": [
+            "94.23.71.84"
+        ], 
+        "dns-mx": [
+            "mx1.apf.it"
+        ], 
+        "dns-ns": [
+            "andretta.apf.it", 
+            "ns.andretta.com", 
+            "ns.apf.it"
+        ], 
+        "domain-name": "i-stat.it", 
+        "fuzzer": "hyphenation", 
+        "geoip-country": "Italy"
+    }, 
+    {
+        "dns-a": [
+            "62.149.128.151", 
+            "62.149.128.154", 
+            "62.149.128.157", 
+            "62.149.128.160", 
+            "62.149.128.163", 
+            "62.149.128.166", 
+            "62.149.128.72", 
+            "62.149.128.74"
+        ], 
+        "dns-mx": [
+            "mx.stat.it"
+        ], 
+        "dns-ns": [
+            "dns.technorail.com", 
+            "dns2.technorail.com", 
+            "dns3.arubadns.net", 
+            "dns4.arubadns.cz"
+        ], 
+        "domain-name": "stat.it", 
+        "fuzzer": "omission", 
+        "geoip-country": "Italy"
+    }, 
+    {
+        "dns-a": [
+            "72.52.4.121"
+        ], 
+        "dns-mx": [
+            "localhost"
+        ], 
+        "dns-ns": [
+            "ns1.sedoparking.com", 
+            "ns2.sedoparking.com"
+        ], 
+        "domain-name": "isat.it", 
+        "fuzzer": "omission", 
+        "geoip-country": "United States", 
+        "mx-spy": true
+    }, 
+    {
+        "dns-a": [
+            "188.213.172.156"
+        ], 
+        "dns-mx": [
+            "mail.ipfrom.it"
+        ], 
+        "dns-ns": [
+            "ns1.domaindirect.it", 
+            "ns2.domaindirect.it"
+        ], 
+        "domain-name": "itat.it", 
+        "fuzzer": "omission", 
+        "geoip-country": "Italy"
+    }, 
+    {
+        "dns-a": [
+            "80.88.87.24"
+        ], 
+        "dns-mx": [
+            "ista-it.mail.protection.outlook.com"
+        ], 
+        "dns-ns": [
+            "dns1.regdom.it", 
+            "dns2.regdom.it"
+        ], 
+        "domain-name": "ista.it", 
+        "fuzzer": "omission", 
+        "geoip-country": "Italy"
+    }, 
+    {
+        "dns-a": [
+            "62.149.128.151", 
+            "62.149.128.154", 
+            "62.149.128.157", 
+            "62.149.128.160", 
+            "62.149.128.163", 
+            "62.149.128.166", 
+            "62.149.128.72", 
+            "62.149.128.74"
+        ], 
+        "dns-mx": [
+            "mx.israt.it"
+        ], 
+        "dns-ns": [
+            "dns.technorail.com", 
+            "dns2.technorail.com", 
+            "dns3.arubadns.net", 
+            "dns4.arubadns.cz"
+        ], 
+        "domain-name": "israt.it", 
+        "fuzzer": "replacement", 
+        "geoip-country": "Italy"
+    }, 
+    {
+        "dns-a": [
+            "185.81.2.140"
+        ], 
+        "dns-mx": [
+            "s5.powermailhost.com"
+        ], 
+        "dns-ns": [
+            "ns1.dnshigh.com", 
+            "ns2.dnshigh.com"
+        ], 
+        "domain-name": "istay.it", 
+        "fuzzer": "replacement", 
+        "geoip-country": "Italy"
+    }, 
+    {
+        "dns-a": [
+            "84.33.1.155"
+        ], 
+        "dns-mx": [
+            "mail.istar.it"
+        ], 
+        "dns-ns": [
+            "dns01.itgo.it", 
+            "dns02.itgo.it"
+        ], 
+        "domain-name": "istar.it", 
+        "fuzzer": "replacement", 
+        "geoip-country": "Italy"
+    }, 
+    {
+        "dns-mx": [
+            "mail.jstat.it"
+        ], 
+        "dns-ns": [
+            "ns.iunet.it", 
+            "sdns.wind.it"
+        ], 
+        "domain-name": "jstat.it", 
+        "fuzzer": "replacement"
+    }, 
+    {
+        "dns-a": [
+            "185.53.178.7"
+        ], 
+        "dns-mx": [
+            "mail.h-email.net"
+        ], 
+        "dns-ns": [
+            "ns1.parkingcrew.net", 
+            "ns2.parkingcrew.net"
+        ], 
+        "domain-name": "estat.it", 
+        "fuzzer": "vowel-swap"
+    }
+]

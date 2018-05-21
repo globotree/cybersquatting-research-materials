@@ -1,0 +1,57 @@
+[
+    {
+        "dns-mx": [
+            "mx.pharmnet.com.cn", 
+            "mxa.pharmnet.com.cn"
+        ], 
+        "dns-ns": [
+            "ns1.chinanetsun-dns.com", 
+            "ns2.chinanetsun-dns.com"
+        ], 
+        "domain-name": "pharmnet.com.cn", 
+        "fuzzer": "original*"
+    }, 
+    {
+        "dns-a": [
+            "50.117.120.251"
+        ], 
+        "dns-mx": [
+            "mail.happyisp.com"
+        ], 
+        "domain-name": "pharmne.t.com.cn", 
+        "fuzzer": "subdomain", 
+        "geoip-country": "United States", 
+        "mx-spy": true
+    }, 
+    {
+        "dns-a": [
+            "184.154.126.180"
+        ], 
+        "domain-name": "pharment.com.cn", 
+        "fuzzer": "transposition", 
+        "geoip-country": "United States"
+    }, 
+    {
+        "dns-a": [
+            "122.10.97.96"
+        ], 
+        "dns-ns": [
+            "ns1.chinanetsun-dns.com", 
+            "ns2.chinanetsun-dns.com"
+        ], 
+        "domain-name": "pharmnet.cn", 
+        "fuzzer": "various"
+    }, 
+    {
+        "dns-a": [
+            "172.106.57.43"
+        ], 
+        "dns-ns": [
+            "f1g1ns1.dnspod.net", 
+            "f1g1ns2.dnspod.net"
+        ], 
+        "domain-name": "pharmnetcom.cn", 
+        "fuzzer": "various", 
+        "geoip-country": "United States"
+    }
+]

@@ -1,0 +1,71 @@
+[
+    {
+        "dns-mx": [
+            "hzmx01.mxmail.netease.com", 
+            "mxhm.qiye.163.com"
+        ], 
+        "dns-ns": [
+            "dns.cug.edu.cn", 
+            "fossil.cug.edu.cn"
+        ], 
+        "domain-name": "cug.edu.cn", 
+        "fuzzer": "original*"
+    }, 
+    {
+        "dns-a": [
+            "127.0.0.1"
+        ], 
+        "dns-aaaa": [
+            "::1"
+        ], 
+        "dns-mx": [
+            "mail.cugb.edu.cn"
+        ], 
+        "dns-ns": [
+            "dns.cugb.edu.cn", 
+            "ring.cugb.edu.cn"
+        ], 
+        "domain-name": "cugb.edu.cn", 
+        "fuzzer": "addition"
+    }, 
+    {
+        "dns-a": [
+            "202.205.16.1"
+        ], 
+        "dns-mx": [
+            "hzmx01.mxmail.netease.com", 
+            "hzmx02.mxmail.netease.com"
+        ], 
+        "dns-ns": [
+            "BDNS.cuc.edu.cn", 
+            "BDNS2.cuc.edu.cn", 
+            "PDNS.cuc.edu.cn"
+        ], 
+        "domain-name": "cuc.edu.cn", 
+        "fuzzer": "bitsquatting", 
+        "geoip-country": "China"
+    }, 
+    {
+        "dns-mx": [
+            "mxhm.qiye.163.com"
+        ], 
+        "dns-ns": [
+            "dns1.cuz.edu.cn", 
+            "dns2.cuz.edu.cn"
+        ], 
+        "domain-name": "cuz.edu.cn", 
+        "fuzzer": "replacement"
+    }, 
+    {
+        "dns-a": [
+            "192.161.61.251"
+        ], 
+        "dns-ns": [
+            "ns6.dnsdun.com", 
+            "ns6.dnsdun.net"
+        ], 
+        "domain-name": "cugedu.cn", 
+        "fuzzer": "various", 
+        "geoip-country": "United States"
+    }
+]

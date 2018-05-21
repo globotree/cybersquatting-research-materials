@@ -1,0 +1,51 @@
+[
+    {
+        "dns-a": [
+            "165.201.63.67"
+        ], 
+        "dns-mx": [
+            "ks-gov.mail.protection.outlook.com"
+        ], 
+        "dns-ns": [
+            "ks01.state.ks.us", 
+            "ks11.state.ks.us"
+        ], 
+        "domain-name": "ks.gov", 
+        "fuzzer": "original*", 
+        "geoip-country": "United States"
+    }, 
+    {
+        "dns-a": [
+            "192.251.58.38"
+        ], 
+        "dns-mx": [
+            "mx01.state.ms.us", 
+            "mx02.state.ms.us", 
+            "mx03.state.ms.us", 
+            "mx04.state.ms.us", 
+            "mx05.state.ms.us"
+        ], 
+        "dns-ns": [
+            "ns1.its.state.ms.us", 
+            "ns1.msstate.edu", 
+            "sun1.its.state.ms.us"
+        ], 
+        "domain-name": "ms.gov", 
+        "fuzzer": "replacement"
+    }, 
+    {
+        "dns-a": [
+            "205.204.196.64"
+        ], 
+        "dns-mx": [
+            "mail1.state.ky.us"
+        ], 
+        "dns-ns": [
+            "azure.state.ky.us", 
+            "midnight.state.ky.us", 
+            "ns3.ky.gov"
+        ], 
+        "domain-name": "ky.gov", 
+        "fuzzer": "replacement"
+    }
+]

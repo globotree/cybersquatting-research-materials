@@ -1,0 +1,82 @@
+[
+    {
+        "dns-a": [
+            "69.16.219.69", 
+            "69.16.219.70"
+        ], 
+        "dns-ns": [
+            "ns-1307.awsdns-35.org", 
+            "ns-157.awsdns-19.com", 
+            "ns-2011.awsdns-59.co.uk", 
+            "ns-585.awsdns-09.net"
+        ], 
+        "domain-name": "picoodle.com", 
+        "fuzzer": "original*", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 100
+    }, 
+    {
+        "dns-ns": [
+            "ns1.dreamhost.com", 
+            "ns2.dreamhost.com", 
+            "ns3.dreamhost.com"
+        ], 
+        "domain-name": "picdoodle.com", 
+        "fuzzer": "insertion"
+    }, 
+    {
+        "dns-a": [
+            "184.168.221.16"
+        ], 
+        "dns-mx": [
+            "mailstore1.secureserver.net", 
+            "smtp.secureserver.net"
+        ], 
+        "dns-ns": [
+            "ns27.domaincontrol.com", 
+            "ns28.domaincontrol.com"
+        ], 
+        "domain-name": "pixoodle.com", 
+        "fuzzer": "replacement", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "64.13.155.82"
+        ], 
+        "domain-name": "pic.oodle.com", 
+        "fuzzer": "subdomain", 
+        "geoip-country": "United States"
+    }, 
+    {
+        "dns-a": [
+            "64.99.80.121"
+        ], 
+        "domain-name": "pico.odle.com", 
+        "fuzzer": "subdomain", 
+        "geoip-country": "Canada", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "54.221.207.100"
+        ], 
+        "domain-name": "picoo.dle.com", 
+        "fuzzer": "subdomain", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "115.182.94.238"
+        ], 
+        "dns-mx": [
+            "lemail.le.com", 
+            "mail10.le.com", 
+            "mail3.le.com"
+        ], 
+        "domain-name": "picood.le.com", 
+        "fuzzer": "subdomain"
+    }
+]

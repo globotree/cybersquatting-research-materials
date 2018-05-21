@@ -1,0 +1,54 @@
+[
+    {
+        "dns-a": [
+            "163.44.190.65"
+        ], 
+        "dns-mx": [
+            "ALT1.ASPMX.L.GOOGLE.COM", 
+            "ALT2.ASPMX.L.GOOGLE.COM", 
+            "ASPMX.L.GOOGLE.COM", 
+            "ASPMX2.GOOGLEMAIL.COM", 
+            "ASPMX3.GOOGLEMAIL.COM"
+        ], 
+        "dns-ns": [
+            "dns1.gmo-pass.jp", 
+            "dns2.gmo-pass.jp"
+        ], 
+        "domain-name": "yaplog.jp", 
+        "fuzzer": "original*", 
+        "geoip-country": "Japan", 
+        "ssdeep-score": 93
+    }, 
+    {
+        "dns-a": [
+            "210.157.23.219"
+        ], 
+        "dns-mx": [
+            "ALT1.ASPMX.L.GOOGLE.COM", 
+            "ALT2.ASPMX.L.GOOGLE.COM", 
+            "ASPMX.L.GOOGLE.COM", 
+            "ASPMX2.GOOGLEMAIL.COM", 
+            "ASPMX3.GOOGLEMAIL.COM"
+        ], 
+        "dns-ns": [
+            "dns1.gmo-pass.jp", 
+            "dns2.gmo-pass.jp"
+        ], 
+        "domain-name": "yaqlog.jp", 
+        "fuzzer": "bitsquatting", 
+        "geoip-country": "Japan"
+    }, 
+    {
+        "dns-a": [
+            "150.95.255.38"
+        ], 
+        "dns-ns": [
+            "dns1.onamae.com", 
+            "dns2.onamae.com"
+        ], 
+        "domain-name": "yap.log.jp", 
+        "fuzzer": "subdomain", 
+        "geoip-country": "Japan", 
+        "ssdeep-score": 0
+    }
+]

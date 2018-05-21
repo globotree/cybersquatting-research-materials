@@ -1,0 +1,32 @@
+[
+    {
+        "dns-mx": [
+            "cluster8.eu.messagelabs.com", 
+            "cluster8a.eu.messagelabs.com", 
+            "smtp01.ecb.int", 
+            "smtp02.ecb.int"
+        ], 
+        "dns-ns": [
+            "auth02.ns.de.uu.net", 
+            "auth52.ns.de.uu.net", 
+            "ns1.de.colt.net", 
+            "ns8.colt.net"
+        ], 
+        "domain-name": "ecb.int", 
+        "fuzzer": "original*"
+    }, 
+    {
+        "dns-mx": [
+            "mxa-0013cb01.gslb.pphosted.com", 
+            "mxb-0013cb01.gslb.pphosted.com"
+        ], 
+        "dns-ns": [
+            "ns0.coebank.org", 
+            "ns1.coebank.org", 
+            "ns2.coebank.org"
+        ], 
+        "domain-name": "ceb.int", 
+        "fuzzer": "transposition", 
+        "mx-spy": true
+    }
+]

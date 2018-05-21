@@ -1,0 +1,46 @@
+[
+    {
+        "dns-a": [
+            "31.173.38.227"
+        ], 
+        "dns-mx": [
+            "z.mcfr.ru"
+        ], 
+        "domain-name": "zakupki.gov.ru", 
+        "fuzzer": "original*", 
+        "geoip-country": "Russian Federation", 
+        "ssdeep-score": 100
+    }, 
+    {
+        "dns-a": [
+            "185.76.253.9"
+        ], 
+        "dns-mx": [
+            "mx3.trade.su"
+        ], 
+        "dns-ns": [
+            "ns.trade.su", 
+            "office.trade.su", 
+            "sysadmin.trade.su"
+        ], 
+        "domain-name": "zakupki.ru", 
+        "fuzzer": "various", 
+        "geoip-country": "Russian Federation"
+    }, 
+    {
+        "dns-a": [
+            "72.52.4.120"
+        ], 
+        "dns-mx": [
+            "localhost"
+        ], 
+        "dns-ns": [
+            "ns1.sedoparking.com", 
+            "ns2.sedoparking.com"
+        ], 
+        "domain-name": "zakupkigov.ru", 
+        "fuzzer": "various", 
+        "geoip-country": "United States", 
+        "mx-spy": true
+    }
+]

@@ -1,0 +1,274 @@
+[
+    {
+        "dns-a": [
+            "66.162.124.69"
+        ], 
+        "dns-mx": [
+            "mail.legion.org", 
+            "mail2.legion.org", 
+            "mx1.mail.twtelecom.net", 
+            "mx2.mail.twtelecom.net"
+        ], 
+        "dns-ns": [
+            "ns1.twtelecom.net", 
+            "ns2.twtelecom.net"
+        ], 
+        "domain-name": "legion.org", 
+        "fuzzer": "original*", 
+        "geoip-country": "United States"
+    }, 
+    {
+        "dns-a": [
+            "194.58.119.216"
+        ], 
+        "dns-mx": [
+            "emx.mail.ru"
+        ], 
+        "dns-ns": [
+            "ns1.legiona.ru", 
+            "ns2.legiona.ru"
+        ], 
+        "domain-name": "legiona.org", 
+        "fuzzer": "addition", 
+        "geoip-country": "Russian Federation"
+    }, 
+    {
+        "dns-a": [
+            "127.0.0.1"
+        ], 
+        "dns-mx": [
+            "aspmx.l.google.com"
+        ], 
+        "dns-ns": [
+            "ns45.worldnic.com", 
+            "ns46.worldnic.com"
+        ], 
+        "domain-name": "legions.org", 
+        "fuzzer": "addition"
+    }, 
+    {
+        "dns-a": [
+            "171.25.194.90"
+        ], 
+        "dns-ns": [
+            "ns1.reg.ru", 
+            "ns2.reg.ru"
+        ], 
+        "domain-name": "megion.org", 
+        "fuzzer": "bitsquatting", 
+        "geoip-country": "Russian Federation"
+    }, 
+    {
+        "dns-mx": [
+            "alt1.aspmx.l.google.com", 
+            "alt2.aspmx.l.google.com", 
+            "aspmx.l.google.com", 
+            "aspmx2.googlemail.com", 
+            "aspmx3.googlemail.com"
+        ], 
+        "dns-ns": [
+            "ns18.zoneedit.com", 
+            "ns8.zoneedit.com"
+        ], 
+        "domain-name": "legi0n.org", 
+        "fuzzer": "homoglyph"
+    }, 
+    {
+        "dns-a": [
+            "50.63.202.32"
+        ], 
+        "dns-ns": [
+            "ns75.domaincontrol.com", 
+            "ns76.domaincontrol.com"
+        ], 
+        "domain-name": "ledgion.org", 
+        "fuzzer": "insertion", 
+        "geoip-country": "United States"
+    }, 
+    {
+        "dns-a": [
+            "85.159.233.44"
+        ], 
+        "dns-ns": [
+            "ns1.domainmx.com", 
+            "ns2.domainmx.com"
+        ], 
+        "domain-name": "legon.org", 
+        "fuzzer": "omission", 
+        "geoip-country": "Netherlands"
+    }, 
+    {
+        "dns-a": [
+            "94.136.40.103"
+        ], 
+        "dns-mx": [
+            "mx0.123-reg.co.uk", 
+            "mx1.123-reg.co.uk"
+        ], 
+        "dns-ns": [
+            "ns.hosteurope.com", 
+            "ns2.hosteurope.com"
+        ], 
+        "domain-name": "legin.org", 
+        "fuzzer": "omission", 
+        "geoip-country": "United Kingdom"
+    }, 
+    {
+        "dns-a": [
+            "217.115.143.140"
+        ], 
+        "dns-mx": [
+            "mx0.legio.org"
+        ], 
+        "dns-ns": [
+            "ns1.hans.hosteurope.de", 
+            "ns2.hans.hosteurope.de"
+        ], 
+        "domain-name": "legio.org", 
+        "fuzzer": "omission", 
+        "geoip-country": "Germany"
+    }, 
+    {
+        "dns-a": [
+            "8.8.8.8"
+        ], 
+        "dns-mx": [
+            "mailstore1.secureserver.net", 
+            "smtp.secureserver.net"
+        ], 
+        "dns-ns": [
+            "ns61.domaincontrol.com", 
+            "ns62.domaincontrol.com"
+        ], 
+        "domain-name": "letion.org", 
+        "fuzzer": "replacement", 
+        "geoip-country": "United States"
+    }, 
+    {
+        "dns-a": [
+            "50.63.202.47"
+        ], 
+        "dns-mx": [
+            "mailstore1.secureserver.net", 
+            "smtp.secureserver.net"
+        ], 
+        "dns-ns": [
+            "ns37.domaincontrol.com", 
+            "ns38.domaincontrol.com"
+        ], 
+        "domain-name": "levion.org", 
+        "fuzzer": "replacement", 
+        "geoip-country": "United States"
+    }, 
+    {
+        "dns-a": [
+            "157.7.188.226"
+        ], 
+        "domain-name": "le.gion.org", 
+        "fuzzer": "subdomain", 
+        "geoip-country": "Japan"
+    }, 
+    {
+        "dns-a": [
+            "173.167.202.42"
+        ], 
+        "domain-name": "leg.ion.org", 
+        "fuzzer": "subdomain", 
+        "geoip-country": "United States"
+    }, 
+    {
+        "dns-a": [
+            "72.52.4.122"
+        ], 
+        "dns-mx": [
+            "localhost"
+        ], 
+        "dns-ns": [
+            "ns1.sedoparking.com", 
+            "ns2.sedoparking.com"
+        ], 
+        "domain-name": "legi.on.org", 
+        "fuzzer": "subdomain", 
+        "geoip-country": "United States", 
+        "mx-spy": true
+    }, 
+    {
+        "dns-a": [
+            "50.63.46.1"
+        ], 
+        "dns-ns": [
+            "A.SERVICE.AFILIASDNS.INFO", 
+            "B.SERVICE.AFILIASDNS.org", 
+            "C.SERVICE.AFILIASDNS.NET", 
+            "D.SERVICE.AFILIASDNS.COM", 
+            "E.SERVICE.AFILIASDNS.INFO", 
+            "F.SERVICE.AFILIASDNS.NET"
+        ], 
+        "domain-name": "legio.n.org", 
+        "fuzzer": "subdomain", 
+        "geoip-country": "United States"
+    }, 
+    {
+        "dns-a": [
+            "199.191.50.73"
+        ], 
+        "dns-ns": [
+            "ns111373.ztomy.com", 
+            "ns211373.ztomy.com"
+        ], 
+        "domain-name": "leigon.org", 
+        "fuzzer": "transposition", 
+        "geoip-country": "Virgin Islands"
+    }, 
+    {
+        "dns-a": [
+            "145.131.10.247"
+        ], 
+        "dns-mx": [
+            "bounce.argewebhosting.nl"
+        ], 
+        "dns-ns": [
+            "ns1.argewebhosting.eu", 
+            "ns2.argewebhosting.com", 
+            "ns3.argewebhosting.nl"
+        ], 
+        "domain-name": "legian.org", 
+        "fuzzer": "vowel-swap"
+    }, 
+    {
+        "dns-a": [
+            "46.30.213.117"
+        ], 
+        "dns-mx": [
+            "mx1.pub.mailpod6-cph3.one.com", 
+            "mx2.pub.mailpod6-cph3.one.com", 
+            "mx3.pub.mailpod6-cph3.one.com"
+        ], 
+        "dns-ns": [
+            "ns01.one.com", 
+            "ns02.one.com"
+        ], 
+        "domain-name": "logion.org", 
+        "fuzzer": "vowel-swap", 
+        "geoip-country": "Denmark"
+    }, 
+    {
+        "dns-a": [
+            "148.251.236.100"
+        ], 
+        "dns-aaaa": [
+            "2a01:4f8:201:3468::2"
+        ], 
+        "dns-mx": [
+            "mail.legien.org"
+        ], 
+        "dns-ns": [
+            "ns1.first-ns.de", 
+            "robotns2.second-ns.de", 
+            "robotns3.second-ns.com"
+        ], 
+        "domain-name": "legien.org", 
+        "fuzzer": "vowel-swap", 
+        "geoip-country": "Germany"
+    }
+]

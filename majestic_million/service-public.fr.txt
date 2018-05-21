@@ -1,0 +1,122 @@
+[
+    {
+        "dns-a": [
+            "160.92.64.57"
+        ], 
+        "dns-mx": [
+            "relay1-c.dila.fr", 
+            "relay2-c.dila.fr"
+        ], 
+        "dns-ns": [
+            "ns1.dila.fr", 
+            "ns2.dila.fr", 
+            "ns3.dila.fr"
+        ], 
+        "domain-name": "service-public.fr", 
+        "fuzzer": "original*", 
+        "geoip-country": "France", 
+        "ssdeep-score": 96
+    }, 
+    {
+        "dns-a": [
+            "217.70.184.38"
+        ], 
+        "dns-mx": [
+            "fb.mail.gandi.net", 
+            "spool.mail.gandi.net"
+        ], 
+        "dns-ns": [
+            "a.dns.gandi.net", 
+            "b.dns.gandi.net", 
+            "c.dns.gandi.net"
+        ], 
+        "domain-name": "services-public.fr", 
+        "fuzzer": "insertion", 
+        "geoip-country": "France", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "107.174.82.6"
+        ], 
+        "dns-ns": [
+            "ns1.openprovider.nl", 
+            "ns2.openprovider.be", 
+            "ns3.openprovider.eu"
+        ], 
+        "domain-name": "srvice-public.fr", 
+        "fuzzer": "omission", 
+        "geoip-country": "United States"
+    }, 
+    {
+        "dns-a": [
+            "104.160.25.215"
+        ], 
+        "dns-ns": [
+            "ns1.openprovider.nl", 
+            "ns2.openprovider.be", 
+            "ns3.openprovider.eu"
+        ], 
+        "domain-name": "servic-public.fr", 
+        "fuzzer": "omission", 
+        "geoip-country": "New Zealand"
+    }, 
+    {
+        "dns-a": [
+            "185.53.179.6"
+        ], 
+        "dns-ns": [
+            "ns1.parkingcrew.net", 
+            "ns2.parkingcrew.net"
+        ], 
+        "domain-name": "sevice-public.fr", 
+        "fuzzer": "omission", 
+        "geoip-country": "Germany", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "160.92.166.94"
+        ], 
+        "dns-mx": [
+            "mailhost.axime.com"
+        ], 
+        "dns-ns": [
+            "ns1.dila.fr", 
+            "ns2.dila.fr", 
+            "ns3.dila.fr"
+        ], 
+        "domain-name": "servicepublic.fr", 
+        "fuzzer": "omission", 
+        "geoip-country": "France"
+    }, 
+    {
+        "dns-a": [
+            "50.117.43.109"
+        ], 
+        "dns-ns": [
+            "ns1.openprovider.nl", 
+            "ns2.openprovider.be", 
+            "ns3.openprovider.eu"
+        ], 
+        "domain-name": "sercice-public.fr", 
+        "fuzzer": "replacement", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "213.32.119.0"
+        ], 
+        "dns-ns": [
+            "ns1.feelb.net", 
+            "ns2.feelb.net", 
+            "ns3.feelb.net", 
+            "ns4.feelb.net"
+        ], 
+        "domain-name": "servive-public.fr", 
+        "fuzzer": "replacement", 
+        "geoip-country": "Denmark", 
+        "ssdeep-score": 0
+    }
+]

@@ -1,0 +1,185 @@
+[
+    {
+        "dns-mx": [
+            "mx1.condenast.iphmx.com", 
+            "mx2.condenast.iphmx.com"
+        ], 
+        "dns-ns": [
+            "ns-1162.awsdns-17.org", 
+            "ns-1973.awsdns-54.co.uk", 
+            "ns-276.awsdns-34.com", 
+            "ns-528.awsdns-02.net"
+        ], 
+        "domain-name": "webmonkey.com", 
+        "fuzzer": "original*"
+    }, 
+    {
+        "dns-a": [
+            "68.178.213.61"
+        ], 
+        "dns-ns": [
+            "ns1.namefind.com", 
+            "ns2.namefind.com"
+        ], 
+        "domain-name": "webmonkeys.com", 
+        "fuzzer": "addition", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "208.118.63.22"
+        ], 
+        "dns-mx": [
+            "igw5002.site4now.net"
+        ], 
+        "dns-ns": [
+            "ns1.site4now.net", 
+            "ns2.site4now.net", 
+            "ns3.site4now.net"
+        ], 
+        "domain-name": "webmonkeyz.com", 
+        "fuzzer": "addition", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "78.47.59.169"
+        ], 
+        "dns-aaaa": [
+            "2a01:4f8:190:62f4::13"
+        ], 
+        "dns-mx": [
+            "mx.redirect.domainoffensive.de", 
+            "mxfallback.redirect.domainoffensive.de"
+        ], 
+        "dns-ns": [
+            "ns1.resellerinterface.de", 
+            "ns2.resellerinterface.de", 
+            "ns3.resellerinterface.de"
+        ], 
+        "domain-name": "wermonkey.com", 
+        "fuzzer": "bitsquatting", 
+        "geoip-country": "Germany", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "67.227.226.241"
+        ], 
+        "dns-mx": [
+            "mx174.mb5p.com"
+        ], 
+        "dns-ns": [
+            "ns1.parklogic.com", 
+            "ns2.parklogic.com", 
+            "ns3.parklogic.com", 
+            "ns4.parklogic.com", 
+            "ns5.parklogic.com"
+        ], 
+        "domain-name": "webmokey.com", 
+        "fuzzer": "omission", 
+        "geoip-country": "United States", 
+        "mx-spy": true, 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "184.168.221.104"
+        ], 
+        "dns-ns": [
+            "ns1.afternic.com", 
+            "ns2.afternic.com"
+        ], 
+        "domain-name": "webmonky.com", 
+        "fuzzer": "omission", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "202.217.56.174"
+        ], 
+        "dns-ns": [
+            "ns00.vips.ne.jp", 
+            "ns01.vips.ne.jp"
+        ], 
+        "domain-name": "webmoney.com", 
+        "fuzzer": "omission", 
+        "geoip-country": "Japan", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "24.89.132.150"
+        ], 
+        "dns-ns": [
+            "dns1.name-services.com", 
+            "dns2.name-services.com", 
+            "dns3.name-services.com", 
+            "dns4.name-services.com", 
+            "dns5.name-services.com"
+        ], 
+        "domain-name": "wemonkey.com", 
+        "fuzzer": "omission", 
+        "geoip-country": "United States"
+    }, 
+    {
+        "dns-a": [
+            "148.251.43.179"
+        ], 
+        "dns-ns": [
+            "ns65.domaincontrol.com", 
+            "ns66.domaincontrol.com"
+        ], 
+        "domain-name": "webonkey.com", 
+        "fuzzer": "omission", 
+        "geoip-country": "Germany", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "74.208.215.135"
+        ], 
+        "dns-aaaa": [
+            "2607:f1c0:1000:901e:9fd0:e633:cb87:b835"
+        ], 
+        "dns-mx": [
+            "mx00.1and1.com", 
+            "mx01.1and1.com"
+        ], 
+        "dns-ns": [
+            "ns1041.ui-dns.biz", 
+            "ns1041.ui-dns.com", 
+            "ns1041.ui-dns.de", 
+            "ns1041.ui-dns.org"
+        ], 
+        "domain-name": "webmonkeh.com", 
+        "fuzzer": "replacement", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "52.86.22.136", 
+            "54.174.212.152"
+        ], 
+        "dns-ns": [
+            "ns1.namebrightdns.com", 
+            "ns2.namebrightdns.com"
+        ], 
+        "domain-name": "we.bmonkey.com", 
+        "fuzzer": "subdomain", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "85.17.25.242"
+        ], 
+        "domain-name": "webm.onkey.com", 
+        "fuzzer": "subdomain", 
+        "geoip-country": "Netherlands"
+    }
+]

@@ -1,0 +1,65 @@
+[
+    {
+        "dns-a": [
+            "132.249.21.111"
+        ], 
+        "dns-mx": [
+            "inbound.ucsd.edu"
+        ], 
+        "dns-ns": [
+            "dns2.itd.umich.edu", 
+            "ns0.sdsc.edu", 
+            "ns1.sdsc.edu", 
+            "ns1.ucsd.edu"
+        ], 
+        "domain-name": "sdsc.edu", 
+        "fuzzer": "original*", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 100
+    }, 
+    {
+        "dns-a": [
+            "69.16.236.27"
+        ], 
+        "dns-mx": [
+            "sdcc-edu.mail.protection.outlook.com"
+        ], 
+        "dns-ns": [
+            "ns-1205.awsdns-22.org", 
+            "ns-1562.awsdns-03.co.uk", 
+            "ns-466.awsdns-58.com", 
+            "ns-771.awsdns-32.net"
+        ], 
+        "domain-name": "sdcc.edu", 
+        "fuzzer": "bitsquatting", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-ns": [
+            "elgin.ssc.edu", 
+            "hunley.ssc.edu", 
+            "ns1.illinois.net", 
+            "ns2.illinois.net"
+        ], 
+        "domain-name": "ssc.edu", 
+        "fuzzer": "omission"
+    }, 
+    {
+        "dns-a": [
+            "185.56.85.113"
+        ], 
+        "dns-mx": [
+            "mx10.mailspamprotection.com", 
+            "mx20.mailspamprotection.com", 
+            "mx30.mailspamprotection.com"
+        ], 
+        "dns-ns": [
+            "ns1.m40.siteground.biz", 
+            "ns2.m40.siteground.biz"
+        ], 
+        "domain-name": "sdc.edu", 
+        "fuzzer": "omission", 
+        "geoip-country": "United States"
+    }
+]

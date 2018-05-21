@@ -1,0 +1,114 @@
+[
+    {
+        "dns-a": [
+            "185.43.124.6"
+        ], 
+        "dns-mx": [
+            "standaard-be.mail.protection.outlook.com"
+        ], 
+        "dns-ns": [
+            "ns1.register.be", 
+            "ns2.register.be", 
+            "ns3.register.be"
+        ], 
+        "domain-name": "standaard.be", 
+        "fuzzer": "original*", 
+        "geoip-country": "Belgium", 
+        "ssdeep-score": 100
+    }, 
+    {
+        "dns-a": [
+            "185.53.177.20"
+        ], 
+        "dns-mx": [
+            "mail.standaart.be"
+        ], 
+        "dns-ns": [
+            "dns1.realtime.at", 
+            "dns2.realtime.at"
+        ], 
+        "domain-name": "standaart.be", 
+        "fuzzer": "bitsquatting", 
+        "geoip-country": "Germany", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "185.53.178.8"
+        ], 
+        "dns-mx": [
+            "mail.h-email.net"
+        ], 
+        "dns-ns": [
+            "ns1.parkingcrew.net", 
+            "ns2.parkingcrew.net"
+        ], 
+        "domain-name": "standaar.be", 
+        "fuzzer": "omission", 
+        "geoip-country": "Germany", 
+        "mx-spy": true, 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "185.53.179.8"
+        ], 
+        "dns-ns": [
+            "ns1.fastpark.net", 
+            "ns2.fastpark.net"
+        ], 
+        "domain-name": "stadaard.be", 
+        "fuzzer": "omission", 
+        "geoip-country": "Germany", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "104.47.148.238"
+        ], 
+        "dns-mx": [
+            "standard-be.mail.protection.outlook.com"
+        ], 
+        "dns-ns": [
+            "ns3.european-server.com", 
+            "ns4.european-server.com"
+        ], 
+        "domain-name": "standard.be", 
+        "fuzzer": "omission", 
+        "geoip-country": "Netherlands", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "185.53.178.7"
+        ], 
+        "dns-mx": [
+            "mail.h-email.net"
+        ], 
+        "dns-ns": [
+            "ns1.parkingcrew.net", 
+            "ns2.parkingcrew.net"
+        ], 
+        "domain-name": "standaad.be", 
+        "fuzzer": "omission", 
+        "geoip-country": "Germany", 
+        "mx-spy": true, 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-ns": [
+            "ns31.domaincontrol.com", 
+            "ns32.domaincontrol.com"
+        ], 
+        "domain-name": "standaars.be", 
+        "fuzzer": "replacement"
+    }, 
+    {
+        "dns-a": [
+            "213.132.197.80"
+        ], 
+        "domain-name": "standaa.rd.be", 
+        "fuzzer": "subdomain", 
+        "geoip-country": "Netherlands"
+    }
+]

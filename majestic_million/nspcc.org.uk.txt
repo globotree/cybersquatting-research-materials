@@ -1,0 +1,128 @@
+[
+    {
+        "dns-a": [
+            "85.133.62.2"
+        ], 
+        "dns-mx": [
+            "nspcc-org-uk.mail.protection.outlook.com"
+        ], 
+        "dns-ns": [
+            "ns1.nspcc.org.uk", 
+            "ns1.sungardeurope.com", 
+            "ns2.nspcc.org.uk", 
+            "ns2.sungardeurope.com"
+        ], 
+        "domain-name": "nspcc.org.uk", 
+        "fuzzer": "original*", 
+        "geoip-country": "United Kingdom"
+    }, 
+    {
+        "dns-a": [
+            "109.104.87.148"
+        ], 
+        "dns-mx": [
+            "mail.nwpcc.org.uk"
+        ], 
+        "dns-ns": [
+            "ns.123-reg.co.uk", 
+            "ns2.123-reg.co.uk"
+        ], 
+        "domain-name": "nwpcc.org.uk", 
+        "fuzzer": "bitsquatting", 
+        "geoip-country": "United Kingdom"
+    }, 
+    {
+        "dns-a": [
+            "199.59.242.150"
+        ], 
+        "dns-mx": [
+            "mx76.m2bp.com", 
+            "mx76.mb1p.com"
+        ], 
+        "dns-ns": [
+            "ns1.bodis.com", 
+            "ns2.bodis.com"
+        ], 
+        "domain-name": "rspcc.org.uk", 
+        "fuzzer": "homoglyph", 
+        "geoip-country": "United States", 
+        "mx-spy": true
+    }, 
+    {
+        "dns-a": [
+            "35.189.79.17"
+        ], 
+        "dns-mx": [
+            "builduk.org.mx4.mailanyone.net", 
+            "builduk.org.mx5.mailanyone.net", 
+            "builduk.org.mx6.mailanyone.net"
+        ], 
+        "dns-ns": [
+            "ns.hosteurope.com", 
+            "ns2.hosteurope.com"
+        ], 
+        "domain-name": "nscc.org.uk", 
+        "fuzzer": "omission", 
+        "geoip-country": "United States"
+    }, 
+    {
+        "dns-a": [
+            "185.77.64.26"
+        ], 
+        "dns-mx": [
+            "nspc-org-uk.mail.protection.outlook.com"
+        ], 
+        "dns-ns": [
+            "ns0-vh.tagadab.com", 
+            "ns1-vh.tagadab.com", 
+            "ns2-vh.tagadab.com"
+        ], 
+        "domain-name": "nspc.org.uk", 
+        "fuzzer": "omission", 
+        "geoip-country": "United Kingdom"
+    }, 
+    {
+        "dns-a": [
+            "199.34.228.100"
+        ], 
+        "dns-ns": [
+            "ns.123-reg.co.uk", 
+            "ns2.123-reg.co.uk"
+        ], 
+        "domain-name": "spcc.org.uk", 
+        "fuzzer": "omission", 
+        "geoip-country": "United States"
+    }, 
+    {
+        "dns-a": [
+            "109.239.101.62"
+        ], 
+        "domain-name": "nsp.cc.org.uk", 
+        "fuzzer": "subdomain", 
+        "geoip-country": "United Kingdom"
+    }, 
+    {
+        "dns-a": [
+            "109.239.101.62"
+        ], 
+        "domain-name": "nspc.c.org.uk", 
+        "fuzzer": "subdomain", 
+        "geoip-country": "United Kingdom"
+    }, 
+    {
+        "dns-a": [
+            "50.63.202.56"
+        ], 
+        "dns-mx": [
+            "mailstore1.secureserver.net", 
+            "smtp.secureserver.net"
+        ], 
+        "dns-ns": [
+            "ns27.domaincontrol.com", 
+            "ns28.domaincontrol.com"
+        ], 
+        "domain-name": "npscc.org.uk", 
+        "fuzzer": "transposition", 
+        "geoip-country": "United States"
+    }
+]

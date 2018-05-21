@@ -1,0 +1,219 @@
+[
+    {
+        "dns-a": [
+            "52.65.88.184", 
+            "54.79.109.77"
+        ], 
+        "dns-mx": [
+            "alt1.aspmx.l.google.com", 
+            "alt2.aspmx.l.google.com", 
+            "alt3.aspmx.l.google.com", 
+            "alt4.aspmx.l.google.com", 
+            "aspmx.l.google.com"
+        ], 
+        "dns-ns": [
+            "ns-1250.awsdns-28.org", 
+            "ns-1844.awsdns-38.co.uk", 
+            "ns-400.awsdns-50.com", 
+            "ns-547.awsdns-04.net"
+        ], 
+        "domain-name": "domain.com.au", 
+        "fuzzer": "original*", 
+        "geoip-country": "Australia", 
+        "ssdeep-score": 97
+    }, 
+    {
+        "dns-a": [
+            "98.124.245.24"
+        ], 
+        "dns-mx": [
+            "mail.b-io.co"
+        ], 
+        "dns-ns": [
+            "ns1.fabulous.com", 
+            "ns2.fabulous.com"
+        ], 
+        "domain-name": "domaine.com.au", 
+        "fuzzer": "addition", 
+        "geoip-country": "United States", 
+        "mx-spy": true, 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "27.121.66.2"
+        ], 
+        "dns-mx": [
+            "mail.domains.com.au"
+        ], 
+        "dns-ns": [
+            "ns-1.ezyreg.com", 
+            "ns-2.ezyreg.com"
+        ], 
+        "domain-name": "domains.com.au", 
+        "fuzzer": "addition", 
+        "geoip-country": "Australia", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-mx": [
+            "mta.ournet.com.au"
+        ], 
+        "dns-ns": [
+            "sixpack.networks.com.au", 
+            "slab.ournet.com.au"
+        ], 
+        "domain-name": "domainz.com.au", 
+        "fuzzer": "addition"
+    }, 
+    {
+        "dns-a": [
+            "141.8.224.25"
+        ], 
+        "dns-ns": [
+            "ns1.rookdns.com", 
+            "ns2.rookdns.com"
+        ], 
+        "domain-name": "domein.com.au", 
+        "fuzzer": "bitsquatting", 
+        "geoip-country": "Switzerland", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "43.229.63.211"
+        ], 
+        "dns-mx": [
+            "mail.domayn.com.au"
+        ], 
+        "dns-ns": [
+            "baron.hwy.com.au", 
+            "max.hwy.com.au", 
+            "zetta.hwy.com.au"
+        ], 
+        "domain-name": "domayn.com.au", 
+        "fuzzer": "bitsquatting", 
+        "geoip-country": "Australia", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "74.117.114.108"
+        ], 
+        "domain-name": "domin.com.au", 
+        "fuzzer": "omission", 
+        "geoip-country": "Cayman Islands", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "103.226.222.194"
+        ], 
+        "dns-aaaa": [
+            "2404:8280:a222:bbbb:bba1:71:ffff:ffff"
+        ], 
+        "dns-mx": [
+            "mail.doman.com.au"
+        ], 
+        "dns-ns": [
+            "ns1.syrahost.com", 
+            "ns2.syrahost.com"
+        ], 
+        "domain-name": "doman.com.au", 
+        "fuzzer": "omission", 
+        "geoip-country": "Australia", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "173.192.21.195"
+        ], 
+        "dns-mx": [
+            "romain.com.au"
+        ], 
+        "dns-ns": [
+            "ns1.hostingbay.net", 
+            "ns2.hostingbay.net", 
+            "ns3.hostingbay.net"
+        ], 
+        "domain-name": "romain.com.au", 
+        "fuzzer": "replacement", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-mx": [
+            "park-mx.above.com"
+        ], 
+        "dns-ns": [
+            "ns1.above.com", 
+            "ns2.above.com"
+        ], 
+        "domain-name": "dom.ain.com.au", 
+        "fuzzer": "subdomain"
+    }, 
+    {
+        "dns-a": [
+            "166.62.112.199"
+        ], 
+        "dns-mx": [
+            "ALT1.ASPMX.L.GOOGLE.COM", 
+            "ALT2.ASPMX.L.GOOGLE.COM", 
+            "ASPMX.L.GOOGLE.COM", 
+            "ASPMX2.GOOGLEMAIL.COM", 
+            "ASPMX3.GOOGLEMAIL.COM"
+        ], 
+        "dns-ns": [
+            "ns16.zoneedit.com", 
+            "ns9.zoneedit.com"
+        ], 
+        "domain-name": "domani.com.au", 
+        "fuzzer": "transposition", 
+        "geoip-country": "United States"
+    }, 
+    {
+        "dns-a": [
+            "203.210.106.153"
+        ], 
+        "dns-mx": [
+            "mx1.bne.server-mail.com", 
+            "mx2.bne.server-mail.com"
+        ], 
+        "dns-ns": [
+            "bne001n.server-dns.com", 
+            "sjc001n.server-dns-us.com", 
+            "wic001n.server-dns.com.au"
+        ], 
+        "domain-name": "demain.com.au", 
+        "fuzzer": "vowel-swap", 
+        "geoip-country": "Australia"
+    }, 
+    {
+        "dns-a": [
+            "72.52.4.122"
+        ], 
+        "dns-mx": [
+            "localhost"
+        ], 
+        "dns-ns": [
+            "ns1.sedoparking.com", 
+            "ns2.sedoparking.com"
+        ], 
+        "domain-name": "damain.com.au", 
+        "fuzzer": "vowel-swap", 
+        "geoip-country": "United States", 
+        "mx-spy": true, 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "203.170.87.147"
+        ], 
+        "dns-ns": [
+            "ns1.awshost.com.au", 
+            "ns2.awshost.com.au"
+        ], 
+        "domain-name": "dumain.com.au", 
+        "fuzzer": "vowel-swap"
+    }
+]

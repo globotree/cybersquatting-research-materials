@@ -1,0 +1,109 @@
+[
+    {
+        "dns-a": [
+            "205.147.88.158"
+        ], 
+        "dns-mx": [
+            "mx01.vegasystems.de", 
+            "mx03.vegasystems.de"
+        ], 
+        "dns-ns": [
+            "ns77.worldnic.com", 
+            "ns78.worldnic.com"
+        ], 
+        "domain-name": "paralympic.org", 
+        "fuzzer": "original*", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 100
+    }, 
+    {
+        "dns-a": [
+            "5.79.99.130"
+        ], 
+        "dns-mx": [
+            "p.webcom.ctmail.com"
+        ], 
+        "dns-ns": [
+            "ns21.worldnic.com", 
+            "ns22.worldnic.com"
+        ], 
+        "domain-name": "paralympics.org", 
+        "fuzzer": "addition", 
+        "geoip-country": "Netherlands", 
+        "mx-spy": true
+    }, 
+    {
+        "dns-a": [
+            "103.224.212.222"
+        ], 
+        "dns-mx": [
+            "park-mx.above.com"
+        ], 
+        "dns-ns": [
+            "ns1.above.com", 
+            "ns2.above.com"
+        ], 
+        "domain-name": "paralimpic.org", 
+        "fuzzer": "bitsquatting", 
+        "geoip-country": "Australia", 
+        "mx-spy": true, 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-mx": [
+            "park-mx.above.com"
+        ], 
+        "dns-ns": [
+            "ns1.above.com", 
+            "ns2.above.com"
+        ], 
+        "domain-name": "paraolympic.org", 
+        "fuzzer": "insertion", 
+        "mx-spy": true
+    }, 
+    {
+        "dns-a": [
+            "103.224.212.222"
+        ], 
+        "dns-mx": [
+            "park-mx.above.com"
+        ], 
+        "dns-ns": [
+            "ns1.above.com", 
+            "ns2.above.com"
+        ], 
+        "domain-name": "paralypic.org", 
+        "fuzzer": "omission", 
+        "geoip-country": "Australia", 
+        "mx-spy": true, 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "192.190.86.119"
+        ], 
+        "domain-name": "paralym.pic.org", 
+        "fuzzer": "subdomain", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "45.79.159.185"
+        ], 
+        "domain-name": "paralymp.ic.org", 
+        "fuzzer": "subdomain", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "34.216.49.207", 
+            "52.43.35.212", 
+            "54.186.0.231"
+        ], 
+        "domain-name": "paralympi.c.org", 
+        "fuzzer": "subdomain", 
+        "geoip-country": "United States"
+    }
+]

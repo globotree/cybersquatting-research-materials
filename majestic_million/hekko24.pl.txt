@@ -1,0 +1,61 @@
+[
+    {
+        "dns-a": [
+            "185.204.217.248"
+        ], 
+        "dns-mx": [
+            "mail.hekko24.pl"
+        ], 
+        "dns-ns": [
+            "ns1.hekko.net.pl", 
+            "ns2.hekko.net.pl"
+        ], 
+        "domain-name": "hekko24.pl", 
+        "fuzzer": "original*", 
+        "ssdeep-score": 100
+    }, 
+    {
+        "dns-a": [
+            "85.128.255.11"
+        ], 
+        "domain-name": "hek.ko24.pl", 
+        "fuzzer": "subdomain", 
+        "geoip-country": "Poland", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "178.32.203.128"
+        ], 
+        "dns-mx": [
+            "alt1.aspmx.l.google.com", 
+            "alt2.aspmx.l.google.com", 
+            "aspmx.l.google.com"
+        ], 
+        "dns-ns": [
+            "dns.home.pl", 
+            "dns2.home.pl", 
+            "dns3.home.pl"
+        ], 
+        "domain-name": "hekko.24.pl", 
+        "fuzzer": "subdomain", 
+        "geoip-country": "Poland", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "185.53.178.6"
+        ], 
+        "dns-mx": [
+            "mail.h-email.net"
+        ], 
+        "dns-ns": [
+            "ns1.parkingcrew.net", 
+            "ns2.parkingcrew.net"
+        ], 
+        "domain-name": "hekko2.4.pl", 
+        "fuzzer": "subdomain", 
+        "geoip-country": "Germany", 
+        "mx-spy": true
+    }
+]

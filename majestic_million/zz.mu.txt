@@ -1,0 +1,47 @@
+[
+    {
+        "dns-a": [
+            "31.170.160.58"
+        ], 
+        "dns-mx": [
+            "mx1.hostinger.ru"
+        ], 
+        "dns-ns": [
+            "ns1.hostinger.ru", 
+            "ns2.hostinger.ru", 
+            "ns3.hostinger.ru", 
+            "ns4.hostinger.ru"
+        ], 
+        "domain-name": "zz.mu", 
+        "fuzzer": "original*", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 100
+    }, 
+    {
+        "dns-a": [
+            "198.46.81.179"
+        ], 
+        "dns-mx": [
+            "rz.mu"
+        ], 
+        "dns-ns": [
+            "ns.inmotionhosting.com", 
+            "ns2.inmotionhosting.com"
+        ], 
+        "domain-name": "rz.mu", 
+        "fuzzer": "bitsquatting"
+    }, 
+    {
+        "dns-a": [
+            "136.243.145.162"
+        ], 
+        "dns-ns": [
+            "ns1.names.rent", 
+            "ns2.names.rent"
+        ], 
+        "domain-name": "z.mu", 
+        "fuzzer": "omission", 
+        "geoip-country": "Germany", 
+        "ssdeep-score": 0
+    }
+]

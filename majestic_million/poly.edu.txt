@@ -1,0 +1,42 @@
+[
+    {
+        "dns-a": [
+            "128.238.1.62", 
+            "128.238.1.63", 
+            "128.238.1.68", 
+            "128.238.111.62", 
+            "54.209.255.182"
+        ], 
+        "dns-aaaa": [
+            "2002:80ee:13f::80ee:13f"
+        ], 
+        "dns-ns": [
+            "dns-vm-01.poly.edu", 
+            "gatekeeper.poly.edu", 
+            "ns1.poly.edu", 
+            "ns2.poly.edu", 
+            "photon.poly.edu", 
+            "poly-ad-vm-01.poly.edu", 
+            "poly-ad-vm-02.poly.edu", 
+            "poly-addr-vm-01.poly.edu", 
+            "wins-vm-01.poly.edu"
+        ], 
+        "domain-name": "poly.edu", 
+        "fuzzer": "original*", 
+        "geoip-country": "United States"
+    }, 
+    {
+        "dns-a": [
+            "116.126.87.50"
+        ], 
+        "dns-ns": [
+            "ns1.whoisdomain.kr", 
+            "ns2.whoisdomain.kr", 
+            "ns3.whoisdomain.kr", 
+            "ns4.whoisdomain.kr"
+        ], 
+        "domain-name": "poly-edu.com", 
+        "fuzzer": "various", 
+        "geoip-country": "Korea"
+    }
+]

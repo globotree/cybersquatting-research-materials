@@ -1,0 +1,89 @@
+[
+    {
+        "dns-a": [
+            "155.210.11.37"
+        ], 
+        "dns-mx": [
+            "mx01.puc.rediris.es", 
+            "mx02.puc.rediris.es"
+        ], 
+        "dns-ns": [
+            "chico.rediris.es", 
+            "ns.unizar.es", 
+            "ns2.unizar.es", 
+            "ns3.unizar.es", 
+            "sun.rediris.es"
+        ], 
+        "domain-name": "unizar.es", 
+        "fuzzer": "original*", 
+        "geoip-country": "Spain", 
+        "ssdeep-score": 100
+    }, 
+    {
+        "dns-ns": [
+            "ns1.sarenet.es", 
+            "ns2.sarenet.es"
+        ], 
+        "domain-name": "urizar.es", 
+        "fuzzer": "homoglyph"
+    }, 
+    {
+        "dns-a": [
+            "185.208.169.35"
+        ], 
+        "dns-mx": [
+            "redirect.ovh.net"
+        ], 
+        "dns-ns": [
+            "dns19.ovh.net", 
+            "ns19.ovh.net"
+        ], 
+        "domain-name": "uizar.es", 
+        "fuzzer": "omission"
+    }, 
+    {
+        "dns-a": [
+            "72.52.4.122"
+        ], 
+        "dns-mx": [
+            "localhost"
+        ], 
+        "dns-ns": [
+            "ns1.sedoparking.com", 
+            "ns2.sedoparking.com"
+        ], 
+        "domain-name": "nizar.es", 
+        "fuzzer": "omission", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "72.52.4.122"
+        ], 
+        "dns-mx": [
+            "localhost"
+        ], 
+        "dns-ns": [
+            "ns1.sedoparking.com", 
+            "ns2.sedoparking.com"
+        ], 
+        "domain-name": "u.nizar.es", 
+        "fuzzer": "subdomain", 
+        "geoip-country": "United States", 
+        "mx-spy": true, 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "87.106.138.181"
+        ], 
+        "dns-ns": [
+            "ns1.dondominio.com", 
+            "ns2.dondominio.com"
+        ], 
+        "domain-name": "uni.zar.es", 
+        "fuzzer": "subdomain", 
+        "geoip-country": "Germany"
+    }
+]

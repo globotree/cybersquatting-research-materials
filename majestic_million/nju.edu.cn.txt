@@ -1,0 +1,129 @@
+[
+    {
+        "dns-mx": [
+            "mxbiz1.qq.com", 
+            "mxbiz2.qq.com"
+        ], 
+        "dns-ns": [
+            "dns.nju.edu.cn", 
+            "ns.nju.edu.cn"
+        ], 
+        "domain-name": "nju.edu.cn", 
+        "fuzzer": "original*"
+    }, 
+    {
+        "dns-a": [
+            "202.119.248.66"
+        ], 
+        "dns-mx": [
+            "mail.njut.edu.cn"
+        ], 
+        "dns-ns": [
+            "dns.njut.edu.cn"
+        ], 
+        "domain-name": "njut.edu.cn", 
+        "fuzzer": "addition", 
+        "geoip-country": "China"
+    }, 
+    {
+        "dns-ns": [
+            "bamboo.nnu.edu.cn", 
+            "pine.nnu.edu.cn"
+        ], 
+        "domain-name": "nnu.edu.cn", 
+        "fuzzer": "bitsquatting"
+    }, 
+    {
+        "dns-mx": [
+            "smtp.nbu.edu.cn", 
+            "smtp1.nbu.edu.cn"
+        ], 
+        "dns-ns": [
+            "center.nbu.edu.cn", 
+            "dns1.nbu.edu.cn", 
+            "dns2.nbu.edu.cn", 
+            "dns3.nbu.edu.cn"
+        ], 
+        "domain-name": "nbu.edu.cn", 
+        "fuzzer": "bitsquatting"
+    }, 
+    {
+        "dns-mx": [
+            "demail.mju.edu.cn.mju.edu.cn", 
+            "mail.mju.edu.cn"
+        ], 
+        "dns-ns": [
+            "dns1.mju.edu.cn"
+        ], 
+        "domain-name": "mju.edu.cn", 
+        "fuzzer": "homoglyph"
+    }, 
+    {
+        "dns-mx": [
+            "mail.njmu.edu.cn", 
+            "webmail.njmu.edu.cn"
+        ], 
+        "dns-ns": [
+            "dns.njmu.edu.cn", 
+            "rose.njmu.edu.cn"
+        ], 
+        "domain-name": "njmu.edu.cn", 
+        "fuzzer": "insertion"
+    }, 
+    {
+        "dns-a": [
+            "202.119.104.28"
+        ], 
+        "dns-mx": [
+            "mail.njnu.edu.cn", 
+            "mail1.njnu.edu.cn"
+        ], 
+        "dns-ns": [
+            "bamboo.njnu.edu.cn", 
+            "pine.njnu.edu.cn"
+        ], 
+        "domain-name": "njnu.edu.cn", 
+        "fuzzer": "insertion", 
+        "geoip-country": "China"
+    }, 
+    {
+        "dns-mx": [
+            "mxbiz1.qq.com", 
+            "mxbiz2.qq.com"
+        ], 
+        "dns-ns": [
+            "dns1.nmu.edu.cn", 
+            "dns5.nmu.edu.cn", 
+            "dns9.nmu.edu.cn"
+        ], 
+        "domain-name": "nmu.edu.cn", 
+        "fuzzer": "replacement"
+    }, 
+    {
+        "dns-a": [
+            "202.116.0.1"
+        ], 
+        "dns-ns": [
+            "maina.jnu.edu.cn", 
+            "mainb.jnu.edu.cn"
+        ], 
+        "domain-name": "jnu.edu.cn", 
+        "fuzzer": "transposition"
+    }, 
+    {
+        "dns-ns": [
+            "dns.nju.cn", 
+            "ns.nju.cn"
+        ], 
+        "domain-name": "nju.cn", 
+        "fuzzer": "various"
+    }, 
+    {
+        "dns-ns": [
+            "ns1.dns.com.cn", 
+            "ns2.dns.com.cn"
+        ], 
+        "domain-name": "njuedu.cn", 
+        "fuzzer": "various"
+    }
+]

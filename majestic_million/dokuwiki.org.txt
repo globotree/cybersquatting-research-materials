@@ -1,0 +1,68 @@
+[
+    {
+        "dns-a": [
+            "138.201.137.132"
+        ], 
+        "dns-aaaa": [
+            "2a01:4f8:172:3483::2"
+        ], 
+        "dns-mx": [
+            "bitters.splitbrain.org"
+        ], 
+        "dns-ns": [
+            "a.regfish-ns.net", 
+            "b.regfish-ns.net", 
+            "c.regfish-ns.net"
+        ], 
+        "domain-name": "dokuwiki.org", 
+        "fuzzer": "original*", 
+        "geoip-country": "Germany", 
+        "ssdeep-score": 99
+    }, 
+    {
+        "dns-a": [
+            "103.224.212.222"
+        ], 
+        "dns-mx": [
+            "park-mx.above.com"
+        ], 
+        "dns-ns": [
+            "ns1.above.com", 
+            "ns2.above.com"
+        ], 
+        "domain-name": "docuwiki.org", 
+        "fuzzer": "bitsquatting", 
+        "geoip-country": "Australia", 
+        "mx-spy": true, 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "141.8.225.76"
+        ], 
+        "dns-mx": [
+            "mx07.register.com"
+        ], 
+        "dns-ns": [
+            "dns108.c.register.com", 
+            "dns111.a.register.com", 
+            "dns201.b.register.com", 
+            "dns249.d.register.com"
+        ], 
+        "domain-name": "dokuwik.org", 
+        "fuzzer": "omission", 
+        "geoip-country": "Switzerland", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "185.60.216.36"
+        ], 
+        "dns-aaaa": [
+            "2a03:2880:f12d:84:face:b00c:0:14c9"
+        ], 
+        "domain-name": "dokuwik.i.org", 
+        "fuzzer": "subdomain", 
+        "geoip-country": "Ireland"
+    }
+]

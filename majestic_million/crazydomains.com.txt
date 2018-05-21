@@ -1,0 +1,114 @@
+[
+    {
+        "dns-a": [
+            "27.124.125.35"
+        ], 
+        "dns-mx": [
+            "filter.au.ds.network"
+        ], 
+        "dns-ns": [
+            "names1.syrahost.com", 
+            "names2.syrahost.com"
+        ], 
+        "domain-name": "crazydomains.com", 
+        "fuzzer": "original*", 
+        "geoip-country": "Australia", 
+        "ssdeep-score": 80
+    }, 
+    {
+        "dns-a": [
+            "104.18.62.40", 
+            "104.18.63.40"
+        ], 
+        "dns-aaaa": [
+            "2400:cb00:2048:1::6812:3e28", 
+            "2400:cb00:2048:1::6812:3f28"
+        ], 
+        "dns-mx": [
+            "mail.syrahost.com"
+        ], 
+        "dns-ns": [
+            "dale.ns.cloudflare.com", 
+            "lily.ns.cloudflare.com"
+        ], 
+        "domain-name": "crazydomain.com", 
+        "fuzzer": "omission", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 80
+    }, 
+    {
+        "dns-a": [
+            "141.8.224.93"
+        ], 
+        "dns-ns": [
+            "ns7.rookdns.com", 
+            "ns8.rookdns.com"
+        ], 
+        "domain-name": "crasydomains.com", 
+        "fuzzer": "replacement", 
+        "geoip-country": "Switzerland", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "98.124.199.65"
+        ], 
+        "domain-name": "crazy.domains.com", 
+        "fuzzer": "subdomain", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "52.86.22.136", 
+            "54.174.212.152"
+        ], 
+        "dns-ns": [
+            "ns1.namebrightdns.com", 
+            "ns2.namebrightdns.com"
+        ], 
+        "domain-name": "crazyd.omains.com", 
+        "fuzzer": "subdomain", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "64.99.80.121"
+        ], 
+        "domain-name": "crazydo.mains.com", 
+        "fuzzer": "subdomain", 
+        "geoip-country": "Canada", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "35.226.96.148"
+        ], 
+        "domain-name": "crazydom.ains.com", 
+        "fuzzer": "subdomain", 
+        "geoip-country": "United States"
+    }, 
+    {
+        "dns-a": [
+            "75.126.100.21"
+        ], 
+        "domain-name": "crazydomai.ns.com", 
+        "fuzzer": "subdomain", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "141.8.224.169"
+        ], 
+        "dns-ns": [
+            "ns27.rookdns.com", 
+            "ns28.rookdns.com"
+        ], 
+        "domain-name": "crazydomians.com", 
+        "fuzzer": "transposition", 
+        "geoip-country": "Switzerland", 
+        "ssdeep-score": 0
+    }
+]

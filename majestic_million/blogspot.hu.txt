@@ -1,0 +1,74 @@
+[
+    {
+        "dns-a": [
+            "172.217.22.41"
+        ], 
+        "dns-aaaa": [
+            "2a00:1450:4001:81b::2009"
+        ], 
+        "dns-ns": [
+            "ns1.google.com", 
+            "ns2.google.com", 
+            "ns3.google.com", 
+            "ns4.google.com"
+        ], 
+        "domain-name": "blogspot.hu", 
+        "fuzzer": "original*", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 80
+    }, 
+    {
+        "dns-a": [
+            "78.131.88.48"
+        ], 
+        "dns-mx": [
+            "mail.blog-spot.hu"
+        ], 
+        "dns-ns": [
+            "ns1.net-tech.hu", 
+            "ns2.net-tech.hu"
+        ], 
+        "domain-name": "blog-spot.hu", 
+        "fuzzer": "hyphenation", 
+        "geoip-country": "Hungary", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "79.172.216.61"
+        ], 
+        "dns-mx": [
+            "mail.gspot.hu"
+        ], 
+        "dns-ns": [
+            "ns.tot-all-informatika.hu", 
+            "secondary.dns2.hu"
+        ], 
+        "domain-name": "blo.gspot.hu", 
+        "fuzzer": "subdomain", 
+        "geoip-country": "Hungary"
+    }, 
+    {
+        "dns-a": [
+            "195.228.75.160"
+        ], 
+        "dns-mx": [
+            "mail.intronetx.hu"
+        ], 
+        "dns-ns": [
+            "ns1.intronetx.hu", 
+            "ns2.intronetx.hu"
+        ], 
+        "domain-name": "blogs.pot.hu", 
+        "fuzzer": "subdomain"
+    }, 
+    {
+        "dns-a": [
+            "84.2.34.161"
+        ], 
+        "domain-name": "blogsp.ot.hu", 
+        "fuzzer": "subdomain", 
+        "geoip-country": "Hungary", 
+        "ssdeep-score": 0
+    }
+]

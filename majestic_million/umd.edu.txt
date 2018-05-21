@@ -1,0 +1,160 @@
+[
+    {
+        "dns-a": [
+            "52.85.101.127", 
+            "52.85.101.134", 
+            "52.85.101.158", 
+            "52.85.101.183", 
+            "52.85.101.218", 
+            "52.85.101.31", 
+            "52.85.101.6", 
+            "52.85.101.73"
+        ], 
+        "dns-mx": [
+            "mx1.umd.iphmx.com", 
+            "mx2.umd.iphmx.com"
+        ], 
+        "dns-ns": [
+            "ns1.umd.edu", 
+            "ns2.umd.edu"
+        ], 
+        "domain-name": "umd.edu", 
+        "fuzzer": "original*", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 100
+    }, 
+    {
+        "dns-a": [
+            "129.63.176.200"
+        ], 
+        "dns-mx": [
+            "emailgwa.uml.edu", 
+            "emailgwb.uml.edu", 
+            "emailsr1.uml.edu", 
+            "emailsr2.uml.edu"
+        ], 
+        "dns-ns": [
+            "dnsext01.uml.edu", 
+            "dnsext02.uml.edu"
+        ], 
+        "domain-name": "uml.edu", 
+        "fuzzer": "bitsquatting", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "150.131.194.46"
+        ], 
+        "dns-mx": [
+            "umont01.umt.edu", 
+            "umont02.umt.edu"
+        ], 
+        "dns-ns": [
+            "cudess1.umt.edu", 
+            "cudess2.umt.edu", 
+            "ec2-52-41-69-95.us-west-2.compute.amazonaws.com"
+        ], 
+        "domain-name": "umt.edu", 
+        "fuzzer": "bitsquatting", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "216.243.141.139"
+        ], 
+        "dns-ns": [
+            "ns1.umb.edu", 
+            "ns2.umb.edu"
+        ], 
+        "domain-name": "umb.edu", 
+        "fuzzer": "homoglyph", 
+        "geoip-country": "United States"
+    }, 
+    {
+        "dns-a": [
+            "134.129.183.73"
+        ], 
+        "dns-mx": [
+            "mail.global.frontbridge.com", 
+            "und-edu.mail.protection.outlook.com"
+        ], 
+        "dns-ns": [
+            "dns1.und.nodak.edu", 
+            "ns2.ndus.edu"
+        ], 
+        "domain-name": "und.edu", 
+        "fuzzer": "homoglyph", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "185.27.255.9"
+        ], 
+        "dns-mx": [
+            "185.27.255.9"
+        ], 
+        "dns-ns": [
+            "ns1.eunoc.net", 
+            "ns2.eunoc.net", 
+            "ns3.eunoc.net"
+        ], 
+        "domain-name": "md.edu", 
+        "fuzzer": "omission", 
+        "geoip-country": "Germany", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-ns": [
+            "noc.ums.edu", 
+            "ns.ums.edu", 
+            "trantor.umd.edu", 
+            "umcpnoc.ums.edu"
+        ], 
+        "domain-name": "ums.edu", 
+        "fuzzer": "replacement"
+    }, 
+    {
+        "dns-a": [
+            "192.231.68.40"
+        ], 
+        "dns-mx": [
+            "mxa-00141b01.gslb.pphosted.com", 
+            "mxb-00141b01.gslb.pphosted.com"
+        ], 
+        "dns-ns": [
+            "ibdmzns1vip.umc.edu", 
+            "ibdmzns2vip.umc.edu"
+        ], 
+        "domain-name": "umc.edu", 
+        "fuzzer": "replacement", 
+        "geoip-country": "United States"
+    }, 
+    {
+        "dns-a": [
+            "185.27.255.9"
+        ], 
+        "domain-name": "u.md.edu", 
+        "fuzzer": "subdomain", 
+        "geoip-country": "Germany", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "74.124.204.232"
+        ], 
+        "dns-mx": [
+            "east.smtp.exch023.serverdata.net", 
+            "mud-edu.mail.protection.outlook.com", 
+            "west.smtp.exch023.serverdata.net"
+        ], 
+        "dns-ns": [
+            "ns1.makeupjobs.us", 
+            "ns2.makeupjobs.us"
+        ], 
+        "domain-name": "mud.edu", 
+        "fuzzer": "transposition"
+    }
+]

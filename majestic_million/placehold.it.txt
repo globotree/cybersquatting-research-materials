@@ -1,0 +1,44 @@
+[
+    {
+        "dns-a": [
+            "45.33.24.119"
+        ], 
+        "dns-aaaa": [
+            "2600:3c00::f03c:91ff:fe60:d792"
+        ], 
+        "dns-mx": [
+            "mail.placehold.it"
+        ], 
+        "dns-ns": [
+            "algin.ns.cloudflare.com", 
+            "eva.ns.cloudflare.com"
+        ], 
+        "domain-name": "placehold.it", 
+        "fuzzer": "original*", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 100
+    }, 
+    {
+        "dns-a": [
+            "54.172.142.238"
+        ], 
+        "dns-ns": [
+            "ns-1389.awsdns-45.org", 
+            "ns-2018.awsdns-60.co.uk", 
+            "ns-240.awsdns-30.com", 
+            "ns-974.awsdns-57.net"
+        ], 
+        "domain-name": "place-hold.it", 
+        "fuzzer": "hyphenation", 
+        "geoip-country": "United States"
+    }, 
+    {
+        "dns-a": [
+            "80.92.84.139"
+        ], 
+        "domain-name": "placeh.old.it", 
+        "fuzzer": "subdomain", 
+        "geoip-country": "Luxembourg", 
+        "ssdeep-score": 0
+    }
+]

@@ -1,0 +1,156 @@
+[
+    {
+        "dns-a": [
+            "129.120.231.230"
+        ], 
+        "dns-mx": [
+            "unt-edu.mail.protection.outlook.com"
+        ], 
+        "dns-ns": [
+            "ns-a.public.grid.unt.edu", 
+            "ns-b.public.grid.unt.edu"
+        ], 
+        "domain-name": "unt.edu", 
+        "fuzzer": "original*", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 100
+    }, 
+    {
+        "dns-mx": [
+            "ALT1.ASPMX.L.GOOGLE.COM", 
+            "ALT2.ASPMX.L.GOOGLE.COM", 
+            "ASPMX.L.GOOGLE.COM", 
+            "ASPMX2.L.GOOGLE.COM", 
+            "ASPMX3.L.GOOGLE.COM", 
+            "ASPMX4.L.GOOGLE.COM", 
+            "ASPMX5.L.GOOGLE.COM"
+        ], 
+        "dns-ns": [
+            "ns1.uft.cl", 
+            "ns2.uft.cl"
+        ], 
+        "domain-name": "uft.edu", 
+        "fuzzer": "bitsquatting"
+    }, 
+    {
+        "dns-a": [
+            "202.253.138.148"
+        ], 
+        "dns-mx": [
+            "alt1.aspmx.l.google.com", 
+            "alt2.aspmx.l.google.com", 
+            "alt3.aspmx.l.google.com", 
+            "alt4.aspmx.l.google.com", 
+            "aspmx.l.google.com"
+        ], 
+        "dns-ns": [
+            "dns0.unu.edu", 
+            "dns1.unu.edu", 
+            "dns2.unu.edu", 
+            "dns3.unu.edu", 
+            "dns4.unu.edu"
+        ], 
+        "domain-name": "unu.edu", 
+        "fuzzer": "bitsquatting", 
+        "geoip-country": "Japan", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "134.129.183.73"
+        ], 
+        "dns-mx": [
+            "mail.global.frontbridge.com", 
+            "und-edu.mail.protection.outlook.com"
+        ], 
+        "dns-ns": [
+            "dns1.und.nodak.edu", 
+            "ns2.ndus.edu"
+        ], 
+        "domain-name": "und.edu", 
+        "fuzzer": "bitsquatting", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "150.131.194.46"
+        ], 
+        "dns-mx": [
+            "umont01.umt.edu", 
+            "umont02.umt.edu"
+        ], 
+        "dns-ns": [
+            "cudess1.umt.edu", 
+            "cudess2.umt.edu", 
+            "ec2-52-41-69-95.us-west-2.compute.amazonaws.com"
+        ], 
+        "domain-name": "umt.edu", 
+        "fuzzer": "homoglyph", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "208.75.222.101"
+        ], 
+        "dns-mx": [
+            "mxa-001b8f01.gslb.pphosted.com", 
+            "mxb-001b8f01.gslb.pphosted.com"
+        ], 
+        "dns-ns": [
+            "ns19.customer.level3.net", 
+            "ns24.customer.level3.net", 
+            "ns9.customer.level3.net"
+        ], 
+        "domain-name": "ut.edu", 
+        "fuzzer": "omission", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "134.197.15.101"
+        ], 
+        "dns-mx": [
+            "unr-edu.mail.protection.outlook.com"
+        ], 
+        "dns-ns": [
+            "ns3.unr.edu", 
+            "nsx1.unr.edu", 
+            "nsx2.unr.edu"
+        ], 
+        "domain-name": "unr.edu", 
+        "fuzzer": "replacement", 
+        "geoip-country": "United States"
+    }, 
+    {
+        "dns-mx": [
+            "mx1.unf.edu", 
+            "mx2.unf.edu"
+        ], 
+        "dns-ns": [
+            "ns1.unf.edu", 
+            "ns2.unf.edu"
+        ], 
+        "domain-name": "unf.edu", 
+        "fuzzer": "replacement"
+    }, 
+    {
+        "dns-a": [
+            "168.30.195.109"
+        ], 
+        "dns-mx": [
+            "ung-edu.mail.protection.outlook.com"
+        ], 
+        "dns-ns": [
+            "ns1.ung.edu", 
+            "ns2.ung.edu", 
+            "ns3.ung.edu", 
+            "ns4.ung.edu"
+        ], 
+        "domain-name": "ung.edu", 
+        "fuzzer": "replacement", 
+        "geoip-country": "United States"
+    }
+]

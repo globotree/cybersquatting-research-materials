@@ -1,0 +1,43 @@
+[
+    {
+        "dns-ns": [
+            "b.ns.tznic.or.tz", 
+            "kenic.anycastdns.cz", 
+            "mzizi.kenic.or.ke", 
+            "ns-ke.afrinic.net", 
+            "ns.anycast.kenic.or.ke", 
+            "ns2.dns.business"
+        ], 
+        "domain-name": "go.ke", 
+        "fuzzer": "original*"
+    }, 
+    {
+        "dns-ns": [
+            "b.ns.kenic.or.ke", 
+            "b.ns.tznic.or.tz", 
+            "kenic.anycastdns.cz", 
+            "mzizi.kenic.or.ke", 
+            "ns-ke.afrinic.net", 
+            "ns.anycast.kenic.or.ke", 
+            "ns2.dns.business"
+        ], 
+        "domain-name": "co.ke", 
+        "fuzzer": "bitsquatting"
+    }, 
+    {
+        "dns-a": [
+            "50.63.202.56"
+        ], 
+        "dns-mx": [
+            "mailstore1.secureserver.net", 
+            "smtp.secureserver.net"
+        ], 
+        "dns-ns": [
+            "ns73.domaincontrol.com", 
+            "ns74.domaincontrol.com"
+        ], 
+        "domain-name": "go-ke.com", 
+        "fuzzer": "various", 
+        "geoip-country": "United States"
+    }
+]

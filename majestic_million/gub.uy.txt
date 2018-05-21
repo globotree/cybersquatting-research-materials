@@ -1,0 +1,73 @@
+[
+    {
+        "dns-ns": [
+            "ns.dns.br", 
+            "ns1.anteldata.com.uy", 
+            "ns2.anteldata.com.uy", 
+            "ns3.nic.mx", 
+            "seciu.edu.uy", 
+            "sns-pb.isc.org", 
+            "ultra.edu.uy"
+        ], 
+        "domain-name": "gub.uy", 
+        "fuzzer": "original*"
+    }, 
+    {
+        "dns-a": [
+            "50.28.15.147"
+        ], 
+        "dns-mx": [
+            "cub.uy"
+        ], 
+        "dns-ns": [
+            "ns1.lineadns.com", 
+            "ns2.lineadns.com"
+        ], 
+        "domain-name": "cub.uy", 
+        "fuzzer": "bitsquatting", 
+        "geoip-country": "United States"
+    }, 
+    {
+        "dns-a": [
+            "69.162.126.13"
+        ], 
+        "dns-mx": [
+            "mx1.gu.uy"
+        ], 
+        "dns-ns": [
+            "ns.gu.uy"
+        ], 
+        "domain-name": "gu.uy", 
+        "fuzzer": "omission", 
+        "geoip-country": "United States"
+    }, 
+    {
+        "dns-a": [
+            "192.186.247.70"
+        ], 
+        "dns-mx": [
+            "mail.gb.uy"
+        ], 
+        "dns-ns": [
+            "ns61.domaincontrol.com", 
+            "ns62.domaincontrol.com"
+        ], 
+        "domain-name": "gb.uy", 
+        "fuzzer": "omission", 
+        "geoip-country": "United States"
+    }, 
+    {
+        "dns-a": [
+            "198.46.81.205"
+        ], 
+        "dns-mx": [
+            "gbu.uy"
+        ], 
+        "dns-ns": [
+            "ns.inmotionhosting.com", 
+            "ns2.inmotionhosting.com"
+        ], 
+        "domain-name": "gbu.uy", 
+        "fuzzer": "transposition"
+    }
+]

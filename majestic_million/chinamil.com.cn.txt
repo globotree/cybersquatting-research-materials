@@ -1,0 +1,118 @@
+[
+    {
+        "dns-mx": [
+            "mail.chinamil.com.cn"
+        ], 
+        "dns-ns": [
+            "dns1.jfjb.com.cn", 
+            "dns2.jfjb.com.cn", 
+            "ns1.cdns.cn", 
+            "ns2.cdns.cn", 
+            "ns3.cdns.cn"
+        ], 
+        "domain-name": "chinamil.com.cn", 
+        "fuzzer": "original*", 
+        "mx-spy": true
+    }, 
+    {
+        "dns-a": [
+            "219.143.68.152"
+        ], 
+        "dns-mx": [
+            "mx.chinaoil.com.cn"
+        ], 
+        "dns-ns": [
+            "ns1.sfn.cn", 
+            "ns2.sfn.cn"
+        ], 
+        "domain-name": "chinaoil.com.cn", 
+        "fuzzer": "bitsquatting", 
+        "geoip-country": "China", 
+        "mx-spy": true
+    }, 
+    {
+        "dns-a": [
+            "172.247.135.218"
+        ], 
+        "dns-ns": [
+            "ns3.dnsdun.com", 
+            "ns3.dnsdun.net"
+        ], 
+        "domain-name": "chinamim.com.cn", 
+        "fuzzer": "bitsquatting", 
+        "geoip-country": "United States"
+    }, 
+    {
+        "dns-a": [
+            "104.160.171.91"
+        ], 
+        "domain-name": "chinaml.com.cn", 
+        "fuzzer": "omission", 
+        "geoip-country": "United States"
+    }, 
+    {
+        "dns-a": [
+            "104.217.243.174"
+        ], 
+        "dns-ns": [
+            "ns4.dnsdun.com", 
+            "ns4.dnsdun.net"
+        ], 
+        "domain-name": "hinamil.com.cn", 
+        "fuzzer": "omission", 
+        "geoip-country": "United States"
+    }, 
+    {
+        "dns-a": [
+            "50.117.120.251"
+        ], 
+        "dns-mx": [
+            "mail.happyisp.com"
+        ], 
+        "domain-name": "chinami.com.cn", 
+        "fuzzer": "omission", 
+        "geoip-country": "United States", 
+        "mx-spy": true
+    }, 
+    {
+        "dns-a": [
+            "106.3.227.177", 
+            "183.63.52.177"
+        ], 
+        "dns-ns": [
+            "dns10.hichina.com", 
+            "dns9.hichina.com"
+        ], 
+        "domain-name": "chinamol.com.cn", 
+        "fuzzer": "replacement", 
+        "geoip-country": "China"
+    }, 
+    {
+        "dns-a": [
+            "104.217.243.174"
+        ], 
+        "domain-name": "c.hinamil.com.cn", 
+        "fuzzer": "subdomain", 
+        "geoip-country": "United States"
+    }, 
+    {
+        "dns-a": [
+            "50.117.120.251"
+        ], 
+        "dns-mx": [
+            "mail.happyisp.com"
+        ], 
+        "domain-name": "chinami.l.com.cn", 
+        "fuzzer": "subdomain", 
+        "geoip-country": "United States", 
+        "mx-spy": true
+    }, 
+    {
+        "dns-ns": [
+            "ns3.cgw.cn", 
+            "ns4.cgw.cn"
+        ], 
+        "domain-name": "chinamil.cn", 
+        "fuzzer": "various"
+    }
+]

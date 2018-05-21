@@ -1,0 +1,439 @@
+[
+    {
+        "dns-a": [
+            "172.217.23.174"
+        ], 
+        "dns-aaaa": [
+            "2a00:1450:4001:81f::200e"
+        ], 
+        "dns-ns": [
+            "ns1.google.com", 
+            "ns2.google.com", 
+            "ns3.google.com", 
+            "ns4.google.com"
+        ], 
+        "domain-name": "goo.gl", 
+        "fuzzer": "original*", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 99
+    }, 
+    {
+        "dns-a": [
+            "185.53.178.8"
+        ], 
+        "dns-ns": [
+            "ns1.parkingcrew.net", 
+            "ns2.parkingcrew.net"
+        ], 
+        "domain-name": "good.gl", 
+        "fuzzer": "addition", 
+        "geoip-country": "Germany", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "54.72.9.51"
+        ], 
+        "dns-ns": [
+            "ns1.fastpark.net", 
+            "ns2.fastpark.net"
+        ], 
+        "domain-name": "goof.gl", 
+        "fuzzer": "addition", 
+        "geoip-country": "Ireland", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-ns": [
+            "ns1.google.com", 
+            "ns2.google.com", 
+            "ns3.google.com", 
+            "ns4.google.com"
+        ], 
+        "domain-name": "goog.gl", 
+        "fuzzer": "addition"
+    }, 
+    {
+        "dns-a": [
+            "185.53.179.6"
+        ], 
+        "dns-ns": [
+            "ns1.parkingcrew.net", 
+            "ns2.parkingcrew.net"
+        ], 
+        "domain-name": "gool.gl", 
+        "fuzzer": "addition", 
+        "geoip-country": "Germany", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "93.191.168.52"
+        ], 
+        "dns-mx": [
+            "bh.markmonitor.com"
+        ], 
+        "dns-ns": [
+            "ns1.markmonitor.com", 
+            "ns3.markmonitor.com"
+        ], 
+        "domain-name": "gooo.gl", 
+        "fuzzer": "addition", 
+        "geoip-country": "Europe", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "104.236.178.164"
+        ], 
+        "dns-mx": [
+            "mailstore1.secureserver.net", 
+            "smtp.secureserver.net"
+        ], 
+        "dns-ns": [
+            "ns10.dnsmadeeasy.com", 
+            "ns11.dnsmadeeasy.com", 
+            "ns12.dnsmadeeasy.com", 
+            "ns13.dnsmadeeasy.com", 
+            "ns14.dnsmadeeasy.com", 
+            "ns15.dnsmadeeasy.com"
+        ], 
+        "domain-name": "foo.gl", 
+        "fuzzer": "bitsquatting", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "210.203.22.13"
+        ], 
+        "dns-ns": [
+            "f1g1ns1.dnspod.net", 
+            "f1g1ns2.dnspod.net"
+        ], 
+        "domain-name": "ooo.gl", 
+        "fuzzer": "bitsquatting", 
+        "geoip-country": "Taiwan", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "78.46.184.60"
+        ], 
+        "dns-mx": [
+            "mx.moo.gl"
+        ], 
+        "dns-ns": [
+            "root-dns.netcup.net", 
+            "second-dns.netcup.net", 
+            "third-dns.netcup.net"
+        ], 
+        "domain-name": "woo.gl", 
+        "fuzzer": "bitsquatting", 
+        "geoip-country": "Germany", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "51.254.203.64"
+        ], 
+        "dns-mx": [
+            "alt1.aspmx.l.google.com", 
+            "alt2.aspmx.l.google.com", 
+            "aspmx.l.google.com", 
+            "aspmx3.googlemail.com"
+        ], 
+        "dns-ns": [
+            "sdns2.ovh.net", 
+            "vps342819.ovh.net"
+        ], 
+        "domain-name": "gmo.gl", 
+        "fuzzer": "bitsquatting", 
+        "geoip-country": "France", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "120.34.11.214"
+        ], 
+        "dns-ns": [
+            "f1g1ns1.dnspod.net", 
+            "f1g1ns2.dnspod.net"
+        ], 
+        "domain-name": "ggo.gl", 
+        "fuzzer": "bitsquatting", 
+        "geoip-country": "China"
+    }, 
+    {
+        "dns-a": [
+            "72.52.4.120"
+        ], 
+        "dns-mx": [
+            "localhost"
+        ], 
+        "dns-ns": [
+            "ns1.sedoparking.com", 
+            "ns2.sedoparking.com"
+        ], 
+        "domain-name": "gog.gl", 
+        "fuzzer": "bitsquatting", 
+        "geoip-country": "United States", 
+        "mx-spy": true, 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "185.53.178.6"
+        ], 
+        "dns-ns": [
+            "ns1.parkingcrew.net", 
+            "ns2.parkingcrew.net"
+        ], 
+        "domain-name": "g00.gl", 
+        "fuzzer": "homoglyph", 
+        "geoip-country": "Germany", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "185.53.179.8"
+        ], 
+        "dns-ns": [
+            "ns1.parkingcrew.net", 
+            "ns2.parkingcrew.net"
+        ], 
+        "domain-name": "go0.gl", 
+        "fuzzer": "homoglyph", 
+        "geoip-country": "Germany", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "185.26.105.244"
+        ], 
+        "dns-mx": [
+            "mxl1.spamora.net", 
+            "mxp1.spamora.net", 
+            "mxv1.spamora.net"
+        ], 
+        "dns-ns": [
+            "ns1.netim.net", 
+            "ns2.netim.net", 
+            "ns3.netim.net", 
+            "ns4.netim.net", 
+            "ns5.netim.net"
+        ], 
+        "domain-name": "gloo.gl", 
+        "fuzzer": "insertion", 
+        "geoip-country": "France", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "80.71.132.234"
+        ], 
+        "dns-mx": [
+            "mail.less.dk"
+        ], 
+        "dns-ns": [
+            "ns1.gratisdns.dk", 
+            "ns2.gratisdns.dk", 
+            "ns3.gratisdns.dk", 
+            "ns4.gratisdns.dk", 
+            "ns5.gratisdns.dk"
+        ], 
+        "domain-name": "oo.gl", 
+        "fuzzer": "omission", 
+        "geoip-country": "Denmark"
+    }, 
+    {
+        "dns-a": [
+            "149.56.189.105"
+        ], 
+        "dns-ns": [
+            "ns301.dnsever.com", 
+            "ns327.dnsever.com", 
+            "ns343.dnsever.com", 
+            "ns362.dnsever.com", 
+            "ns384.dnsever.com"
+        ], 
+        "domain-name": "go.gl", 
+        "fuzzer": "omission", 
+        "geoip-country": "Canada", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "185.53.178.8"
+        ], 
+        "dns-ns": [
+            "ns1.parkingcrew.net", 
+            "ns2.parkingcrew.net"
+        ], 
+        "domain-name": "ggoo.gl", 
+        "fuzzer": "repetition", 
+        "geoip-country": "Germany", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "103.225.76.150"
+        ], 
+        "dns-ns": [
+            "ns1.iwantmyname.net", 
+            "ns2.iwantmyname.net", 
+            "ns3.iwantmyname.net", 
+            "ns4.iwantmyname.net"
+        ], 
+        "domain-name": "yoo.gl", 
+        "fuzzer": "replacement", 
+        "geoip-country": "India", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-ns": [
+            "ns1.101domain.com", 
+            "ns2.101domain.com", 
+            "ns5.101domain.com"
+        ], 
+        "domain-name": "glo.gl", 
+        "fuzzer": "replacement"
+    }, 
+    {
+        "dns-a": [
+            "93.157.97.6"
+        ], 
+        "dns-mx": [
+            "mx.hoo.gl"
+        ], 
+        "dns-ns": [
+            "ns1.ogicom.pl", 
+            "ns2.ogicom.pl", 
+            "ns3.ogicom.pl"
+        ], 
+        "domain-name": "hoo.gl", 
+        "fuzzer": "replacement", 
+        "geoip-country": "Poland", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "144.76.111.187"
+        ], 
+        "dns-aaaa": [
+            "2a01:4f8:192:61b4::1004"
+        ], 
+        "dns-mx": [
+            "mail.zoo.gl"
+        ], 
+        "dns-ns": [
+            "n1.f4st.host", 
+            "n2.f4st.host", 
+            "n3.f4st.host"
+        ], 
+        "domain-name": "zoo.gl", 
+        "fuzzer": "replacement"
+    }, 
+    {
+        "dns-a": [
+            "185.53.178.8"
+        ], 
+        "dns-mx": [
+            "mail.h-email.net"
+        ], 
+        "dns-ns": [
+            "ns1.parkingcrew.net", 
+            "ns2.parkingcrew.net"
+        ], 
+        "domain-name": "too.gl", 
+        "fuzzer": "replacement"
+    }, 
+    {
+        "dns-a": [
+            "185.53.178.6"
+        ], 
+        "dns-ns": [
+            "ns1.parkingcrew.net", 
+            "ns2.parkingcrew.net"
+        ], 
+        "domain-name": "gol.gl", 
+        "fuzzer": "replacement", 
+        "geoip-country": "Germany", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "80.71.132.234"
+        ], 
+        "dns-mx": [
+            "mail.less.dk"
+        ], 
+        "dns-ns": [
+            "ns1.gratisdns.dk", 
+            "ns2.gratisdns.dk", 
+            "ns3.gratisdns.dk", 
+            "ns4.gratisdns.dk", 
+            "ns5.gratisdns.dk"
+        ], 
+        "domain-name": "g.oo.gl", 
+        "fuzzer": "subdomain", 
+        "geoip-country": "Denmark"
+    }, 
+    {
+        "dns-a": [
+            "185.22.234.118"
+        ], 
+        "domain-name": "go.o.gl", 
+        "fuzzer": "subdomain", 
+        "geoip-country": "Russian Federation", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "210.129.58.79"
+        ], 
+        "dns-ns": [
+            "ns1.he.net", 
+            "ns2.he.net", 
+            "ns3.he.net", 
+            "ns4.he.net", 
+            "ns5.he.net"
+        ], 
+        "domain-name": "gou.gl", 
+        "fuzzer": "vowel-swap", 
+        "geoip-country": "Japan", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "188.120.77.214"
+        ], 
+        "dns-ns": [
+            "ns1.gratisdns.dk", 
+            "ns2.gratisdns.dk", 
+            "ns3.gratisdns.dk", 
+            "ns4.gratisdns.dk", 
+            "ns5.gratisdns.dk"
+        ], 
+        "domain-name": "geo.gl", 
+        "fuzzer": "vowel-swap", 
+        "geoip-country": "Denmark"
+    }, 
+    {
+        "dns-a": [
+            "104.24.106.192", 
+            "104.24.107.192"
+        ], 
+        "dns-aaaa": [
+            "2400:cb00:2048:1::6818:6ac0", 
+            "2400:cb00:2048:1::6818:6bc0"
+        ], 
+        "dns-ns": [
+            "aria.ns.cloudflare.com", 
+            "rick.ns.cloudflare.com"
+        ], 
+        "domain-name": "goo-gl.com", 
+        "fuzzer": "various", 
+        "geoip-country": "United States"
+    }
+]

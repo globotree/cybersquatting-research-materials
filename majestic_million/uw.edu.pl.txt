@@ -1,0 +1,296 @@
+[
+    {
+        "dns-a": [
+            "193.0.115.152"
+        ], 
+        "dns-ns": [
+            "arwena.nask.waw.pl", 
+            "ns1.net.icm.edu.pl", 
+            "ns1.uw.edu.pl", 
+            "ns2.net.icm.edu.pl", 
+            "ns2.uw.edu.pl", 
+            "wask.wask.wroc.pl"
+        ], 
+        "domain-name": "uw.edu.pl", 
+        "fuzzer": "original*", 
+        "geoip-country": "Poland", 
+        "ssdeep-score": 100
+    }, 
+    {
+        "dns-a": [
+            "212.33.71.77"
+        ], 
+        "dns-mx": [
+            "mx.uwb.edu.pl"
+        ], 
+        "dns-ns": [
+            "dns.man.bialystok.pl", 
+            "master.man.bialystok.pl", 
+            "moc.uwb.edu.pl", 
+            "noc.uwb.edu.pl"
+        ], 
+        "domain-name": "uwb.edu.pl", 
+        "fuzzer": "addition", 
+        "geoip-country": "Poland", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "213.184.0.50"
+        ], 
+        "dns-mx": [
+            "mail-mgmt.man.olsztyn.pl"
+        ], 
+        "dns-ns": [
+            "dns1.uwm.edu.pl", 
+            "zeus.uwm.edu.pl"
+        ], 
+        "domain-name": "uwm.edu.pl", 
+        "fuzzer": "addition", 
+        "geoip-country": "Poland", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "156.17.87.174"
+        ], 
+        "dns-mx": [
+            "uwr-edu-pl.mail.protection.outlook.com"
+        ], 
+        "dns-ns": [
+            "hera.math.uni.wroc.pl", 
+            "skierka.adm.uni.wroc.pl", 
+            "szermierz.uni.wroc.pl"
+        ], 
+        "domain-name": "uwr.edu.pl", 
+        "fuzzer": "addition", 
+        "geoip-country": "Poland", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-mx": [
+            "alt1.aspmx.l.google.com", 
+            "alt2.aspmx.l.google.com", 
+            "alt3.aspmx.l.google.com", 
+            "alt4.aspmx.l.google.com", 
+            "aspmx.l.google.com"
+        ], 
+        "dns-ns": [
+            "ns6.az.pl", 
+            "ns7.az.pl", 
+            "ns8.az.pl"
+        ], 
+        "domain-name": "tw.edu.pl", 
+        "fuzzer": "bitsquatting"
+    }, 
+    {
+        "dns-ns": [
+            "ns6.az.pl", 
+            "ns7.az.pl", 
+            "ns8.az.pl"
+        ], 
+        "domain-name": "ww.edu.pl", 
+        "fuzzer": "bitsquatting"
+    }, 
+    {
+        "dns-a": [
+            "148.81.196.55"
+        ], 
+        "dns-mx": [
+            "uv.edu.pl"
+        ], 
+        "dns-ns": [
+            "ns1.nazwa.pl", 
+            "ns2.nazwa.pl", 
+            "ns3.nazwa.pl"
+        ], 
+        "domain-name": "uv.edu.pl", 
+        "fuzzer": "bitsquatting", 
+        "geoip-country": "Poland", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-mx": [
+            "mx.yandex.net"
+        ], 
+        "dns-ns": [
+            "ns-145-c.gandi.net", 
+            "ns-18-a.gandi.net", 
+            "ns-180-b.gandi.net"
+        ], 
+        "domain-name": "uu.edu.pl", 
+        "fuzzer": "bitsquatting"
+    }, 
+    {
+        "dns-a": [
+            "155.158.104.231"
+        ], 
+        "dns-mx": [
+            "barracuda.us.edu.pl", 
+            "d69205a.ess.barracudanetworks.com", 
+            "d69205b.ess.barracudanetworks.com"
+        ], 
+        "dns-ns": [
+            "dns.fuw.edu.pl", 
+            "dns1.us.edu.pl", 
+            "dns2.us.edu.pl"
+        ], 
+        "domain-name": "us.edu.pl", 
+        "fuzzer": "bitsquatting", 
+        "geoip-country": "Poland", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "153.19.1.81"
+        ], 
+        "dns-mx": [
+            "ms82369222.msv1.invalid", 
+            "mx.oi.ug.edu.pl", 
+            "mx01.ci.ug.edu.pl"
+        ], 
+        "dns-ns": [
+            "halina.univ.gda.pl", 
+            "ns1.task.gda.pl"
+        ], 
+        "domain-name": "ug.edu.pl", 
+        "fuzzer": "bitsquatting", 
+        "geoip-country": "Poland", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "185.53.179.7"
+        ], 
+        "dns-mx": [
+            "mail.h-email.net"
+        ], 
+        "dns-ns": [
+            "ns1.parkingcrew.net", 
+            "ns2.parkingcrew.net"
+        ], 
+        "domain-name": "u.edu.pl", 
+        "fuzzer": "omission", 
+        "geoip-country": "Germany", 
+        "mx-spy": true, 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "212.91.6.58", 
+            "212.91.7.33"
+        ], 
+        "domain-name": "w.edu.pl", 
+        "fuzzer": "omission", 
+        "geoip-country": "Poland", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-ns": [
+            "ns1.blocked.nazwa.pl", 
+            "ns2.blocked.nazwa.pl"
+        ], 
+        "domain-name": "iw.edu.pl", 
+        "fuzzer": "replacement"
+    }, 
+    {
+        "dns-mx": [
+            "mxbiz1.qq.com", 
+            "mxbiz2.qq.com"
+        ], 
+        "dns-ns": [
+            "f1g1ns1.dnspod.net", 
+            "f1g1ns2.dnspod.net"
+        ], 
+        "domain-name": "u2.edu.pl", 
+        "fuzzer": "replacement"
+    }, 
+    {
+        "dns-a": [
+            "62.129.195.117"
+        ], 
+        "dns-mx": [
+            "ue.edu.pl"
+        ], 
+        "dns-ns": [
+            "dns.home.pl", 
+            "dns2.home.pl", 
+            "dns3.home.pl"
+        ], 
+        "domain-name": "ue.edu.pl", 
+        "fuzzer": "replacement", 
+        "geoip-country": "Poland", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "185.23.21.10"
+        ], 
+        "dns-mx": [
+            "mx1.zenbox.pl", 
+            "mx2.zenbox.pl", 
+            "mx3.zenbox.pl"
+        ], 
+        "dns-ns": [
+            "ns1.zenbox.pl", 
+            "ns2.zenbox.pl"
+        ], 
+        "domain-name": "ux.edu.pl", 
+        "fuzzer": "replacement", 
+        "geoip-country": "Poland", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "212.91.6.58", 
+            "212.91.7.33"
+        ], 
+        "domain-name": "u.w.edu.pl", 
+        "fuzzer": "subdomain", 
+        "geoip-country": "Poland", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "188.128.255.251"
+        ], 
+        "dns-ns": [
+            "ns1.premium.pl", 
+            "ns2.premium.pl"
+        ], 
+        "domain-name": "wu.edu.pl", 
+        "fuzzer": "transposition", 
+        "geoip-country": "Poland", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "46.29.16.231"
+        ], 
+        "dns-mx": [
+            "aw.edu.pl"
+        ], 
+        "dns-ns": [
+            "ns1.nazwa.pl", 
+            "ns2.nazwa.pl", 
+            "ns3.nazwa.pl"
+        ], 
+        "domain-name": "aw.edu.pl", 
+        "fuzzer": "vowel-swap", 
+        "geoip-country": "Poland"
+    }, 
+    {
+        "dns-a": [
+            "94.152.157.206"
+        ], 
+        "dns-mx": [
+            "uw.pl"
+        ], 
+        "dns-ns": [
+            "ns1.tld.pl", 
+            "ns2.tld.pl"
+        ], 
+        "domain-name": "uw.pl", 
+        "fuzzer": "various"
+    }
+]

@@ -1,0 +1,325 @@
+[
+    {
+        "dns-ns": [
+            "b.dns.id", 
+            "c.dns.id", 
+            "d.dns.id", 
+            "e.dns.id"
+        ], 
+        "domain-name": "sch.id", 
+        "fuzzer": "original*"
+    }, 
+    {
+        "dns-a": [
+            "217.26.52.21"
+        ], 
+        "dns-mx": [
+            "mx1.mail.hostpoint.ch", 
+            "mx2.mail.hostpoint.ch"
+        ], 
+        "dns-ns": [
+            "ns.hostpoint.ch", 
+            "ns2.hostpoint.ch", 
+            "ns3.hostpoint.ch"
+        ], 
+        "domain-name": "schm.id", 
+        "fuzzer": "addition", 
+        "geoip-country": "Switzerland"
+    }, 
+    {
+        "dns-a": [
+            "203.119.112.50"
+        ], 
+        "domain-name": "rch.id", 
+        "fuzzer": "bitsquatting", 
+        "geoip-country": "Indonesia"
+    }, 
+    {
+        "dns-a": [
+            "203.119.112.50"
+        ], 
+        "domain-name": "qch.id", 
+        "fuzzer": "bitsquatting", 
+        "geoip-country": "Indonesia"
+    }, 
+    {
+        "dns-a": [
+            "203.119.112.50"
+        ], 
+        "domain-name": "wch.id", 
+        "fuzzer": "bitsquatting", 
+        "geoip-country": "Indonesia"
+    }, 
+    {
+        "dns-a": [
+            "203.119.112.50"
+        ], 
+        "domain-name": "cch.id", 
+        "fuzzer": "bitsquatting", 
+        "geoip-country": "Indonesia"
+    }, 
+    {
+        "dns-a": [
+            "203.119.112.50"
+        ], 
+        "domain-name": "sbh.id", 
+        "fuzzer": "bitsquatting", 
+        "geoip-country": "Indonesia"
+    }, 
+    {
+        "dns-a": [
+            "203.119.112.50"
+        ], 
+        "domain-name": "sah.id", 
+        "fuzzer": "bitsquatting", 
+        "geoip-country": "Indonesia"
+    }, 
+    {
+        "dns-a": [
+            "203.119.112.50"
+        ], 
+        "domain-name": "sgh.id", 
+        "fuzzer": "bitsquatting", 
+        "geoip-country": "Indonesia"
+    }, 
+    {
+        "dns-a": [
+            "203.119.112.50"
+        ], 
+        "domain-name": "skh.id", 
+        "fuzzer": "bitsquatting", 
+        "geoip-country": "Indonesia"
+    }, 
+    {
+        "dns-a": [
+            "203.119.112.50"
+        ], 
+        "domain-name": "ssh.id", 
+        "fuzzer": "bitsquatting", 
+        "geoip-country": "Indonesia"
+    }, 
+    {
+        "dns-a": [
+            "203.119.112.50"
+        ], 
+        "domain-name": "sci.id", 
+        "fuzzer": "bitsquatting", 
+        "geoip-country": "Indonesia"
+    }, 
+    {
+        "dns-a": [
+            "203.119.112.50"
+        ], 
+        "domain-name": "scj.id", 
+        "fuzzer": "bitsquatting", 
+        "geoip-country": "Indonesia"
+    }, 
+    {
+        "dns-a": [
+            "203.119.112.50"
+        ], 
+        "domain-name": "scl.id", 
+        "fuzzer": "bitsquatting", 
+        "geoip-country": "Indonesia"
+    }, 
+    {
+        "dns-a": [
+            "203.119.112.50"
+        ], 
+        "domain-name": "scx.id", 
+        "fuzzer": "bitsquatting", 
+        "geoip-country": "Indonesia"
+    }, 
+    {
+        "dns-a": [
+            "203.119.112.50"
+        ], 
+        "domain-name": "sc.id", 
+        "fuzzer": "omission", 
+        "geoip-country": "Indonesia"
+    }, 
+    {
+        "dns-a": [
+            "203.119.112.50"
+        ], 
+        "domain-name": "ch.id", 
+        "fuzzer": "omission", 
+        "geoip-country": "Indonesia"
+    }, 
+    {
+        "dns-a": [
+            "203.119.112.50"
+        ], 
+        "domain-name": "sh.id", 
+        "fuzzer": "omission", 
+        "geoip-country": "Indonesia"
+    }, 
+    {
+        "dns-a": [
+            "104.24.112.199", 
+            "104.24.113.199"
+        ], 
+        "dns-aaaa": [
+            "2400:cb00:2048:1::6818:70c7", 
+            "2400:cb00:2048:1::6818:71c7"
+        ], 
+        "dns-ns": [
+            "chip.ns.cloudflare.com", 
+            "megan.ns.cloudflare.com"
+        ], 
+        "domain-name": "ssch.id", 
+        "fuzzer": "repetition", 
+        "geoip-country": "United States"
+    }, 
+    {
+        "dns-a": [
+            "203.119.112.50"
+        ], 
+        "domain-name": "scn.id", 
+        "fuzzer": "replacement", 
+        "geoip-country": "Indonesia"
+    }, 
+    {
+        "dns-a": [
+            "203.119.112.50"
+        ], 
+        "domain-name": "svh.id", 
+        "fuzzer": "replacement", 
+        "geoip-country": "Indonesia"
+    }, 
+    {
+        "dns-a": [
+            "203.119.112.50"
+        ], 
+        "domain-name": "dch.id", 
+        "fuzzer": "replacement", 
+        "geoip-country": "Indonesia"
+    }, 
+    {
+        "dns-a": [
+            "203.119.112.50"
+        ], 
+        "domain-name": "sxh.id", 
+        "fuzzer": "replacement", 
+        "geoip-country": "Indonesia"
+    }, 
+    {
+        "dns-a": [
+            "203.119.112.50"
+        ], 
+        "domain-name": "xch.id", 
+        "fuzzer": "replacement", 
+        "geoip-country": "Indonesia"
+    }, 
+    {
+        "dns-a": [
+            "103.28.12.99"
+        ], 
+        "dns-mx": [
+            "mx.ach.id"
+        ], 
+        "dns-ns": [
+            "dns1.qwords.id", 
+            "dnsiix1.qwords.net", 
+            "dnsiix2.qwords.net"
+        ], 
+        "domain-name": "ach.id", 
+        "fuzzer": "replacement"
+    }, 
+    {
+        "dns-a": [
+            "203.119.112.50"
+        ], 
+        "domain-name": "zch.id", 
+        "fuzzer": "replacement", 
+        "geoip-country": "Indonesia"
+    }, 
+    {
+        "dns-a": [
+            "203.119.112.50"
+        ], 
+        "domain-name": "scb.id", 
+        "fuzzer": "replacement", 
+        "geoip-country": "Indonesia"
+    }, 
+    {
+        "dns-a": [
+            "203.119.112.50"
+        ], 
+        "domain-name": "ech.id", 
+        "fuzzer": "replacement", 
+        "geoip-country": "Indonesia"
+    }, 
+    {
+        "dns-a": [
+            "203.119.112.50"
+        ], 
+        "domain-name": "ych.id", 
+        "fuzzer": "replacement", 
+        "geoip-country": "Indonesia"
+    }, 
+    {
+        "dns-a": [
+            "203.119.112.50"
+        ], 
+        "domain-name": "scy.id", 
+        "fuzzer": "replacement", 
+        "geoip-country": "Indonesia"
+    }, 
+    {
+        "dns-a": [
+            "203.119.112.50"
+        ], 
+        "domain-name": "sfh.id", 
+        "fuzzer": "replacement", 
+        "geoip-country": "Indonesia"
+    }, 
+    {
+        "dns-a": [
+            "203.119.112.50"
+        ], 
+        "domain-name": "scz.id", 
+        "fuzzer": "replacement", 
+        "geoip-country": "Indonesia"
+    }, 
+    {
+        "dns-a": [
+            "203.119.112.50"
+        ], 
+        "domain-name": "scu.id", 
+        "fuzzer": "replacement", 
+        "geoip-country": "Indonesia"
+    }, 
+    {
+        "dns-a": [
+            "203.119.112.50"
+        ], 
+        "domain-name": "sdh.id", 
+        "fuzzer": "replacement", 
+        "geoip-country": "Indonesia"
+    }, 
+    {
+        "dns-a": [
+            "203.119.112.50"
+        ], 
+        "domain-name": "scg.id", 
+        "fuzzer": "replacement", 
+        "geoip-country": "Indonesia"
+    }, 
+    {
+        "dns-a": [
+            "203.119.112.50"
+        ], 
+        "domain-name": "csh.id", 
+        "fuzzer": "transposition", 
+        "geoip-country": "Indonesia"
+    }, 
+    {
+        "dns-a": [
+            "203.119.112.50"
+        ], 
+        "domain-name": "shc.id", 
+        "fuzzer": "transposition", 
+        "geoip-country": "Indonesia"
+    }
+]

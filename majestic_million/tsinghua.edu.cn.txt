@@ -1,0 +1,31 @@
+[
+    {
+        "dns-mx": [
+            "mta0.tsinghua.edu.cn", 
+            "mta1.tsinghua.edu.cn"
+        ], 
+        "dns-ns": [
+            "dns.tsinghua.edu.cn", 
+            "dns2.edu.cn", 
+            "dns2.tsinghua.edu.cn", 
+            "ns2.cuhk.hk"
+        ], 
+        "domain-name": "tsinghua.edu.cn", 
+        "fuzzer": "original*"
+    }, 
+    {
+        "dns-ns": [
+            "dns.tsinghua.edu.cn", 
+            "dns2.tsinghua.edu.cn"
+        ], 
+        "domain-name": "tsinghua.cn", 
+        "fuzzer": "various"
+    }, 
+    {
+        "dns-a": [
+            "52.69.166.231"
+        ], 
+        "domain-name": "tsinghuaedu.cn", 
+        "fuzzer": "various"
+    }
+]

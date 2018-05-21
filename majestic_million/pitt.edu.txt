@@ -1,0 +1,76 @@
+[
+    {
+        "dns-a": [
+            "136.142.35.137"
+        ], 
+        "dns-mx": [
+            "pitt-edu.mail.protection.outlook.com"
+        ], 
+        "dns-ns": [
+            "ns4.pitt.edu", 
+            "ns5.pitt.edu"
+        ], 
+        "domain-name": "pitt.edu", 
+        "fuzzer": "original*", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 100
+    }, 
+    {
+        "dns-a": [
+            "91.195.240.101"
+        ], 
+        "dns-mx": [
+            "mail.itt.edu"
+        ], 
+        "dns-ns": [
+            "ns1.mpower.nl", 
+            "ns2.mpower.nl"
+        ], 
+        "domain-name": "itt.edu", 
+        "fuzzer": "omission", 
+        "geoip-country": "Germany", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "192.81.168.149"
+        ], 
+        "dns-mx": [
+            "ptt-edu.mail.protection.outlook.com"
+        ], 
+        "dns-ns": [
+            "ns1.ptt.edu", 
+            "ns2.ptt.edu"
+        ], 
+        "domain-name": "ptt.edu", 
+        "fuzzer": "omission", 
+        "geoip-country": "Canada", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "66.251.14.106"
+        ], 
+        "dns-mx": [
+            "barracuda.pit.edu"
+        ], 
+        "dns-ns": [
+            "ns1.paetec.net", 
+            "ns2.paetec.net", 
+            "ns3.paetec.net"
+        ], 
+        "domain-name": "pit.edu", 
+        "fuzzer": "omission", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "91.195.240.101"
+        ], 
+        "domain-name": "p.itt.edu", 
+        "fuzzer": "subdomain", 
+        "geoip-country": "Germany", 
+        "ssdeep-score": 0
+    }
+]

@@ -1,0 +1,28 @@
+[
+    {
+        "dns-ns": [
+            "ns-1041.awsdns-02.org", 
+            "ns-1610.awsdns-09.co.uk", 
+            "ns-19.awsdns-02.com", 
+            "ns-629.awsdns-14.net", 
+            "ns1.p16.dynect.net", 
+            "ns2.p16.dynect.net", 
+            "ns3.p16.dynect.net", 
+            "ns4.p16.dynect.net"
+        ], 
+        "domain-name": "vox-cdn.com", 
+        "fuzzer": "original*"
+    }, 
+    {
+        "dns-a": [
+            "72.251.192.236"
+        ], 
+        "dns-ns": [
+            "ns1.voxcdn.net", 
+            "ns2.voxcdn.net"
+        ], 
+        "domain-name": "voxcdn.com", 
+        "fuzzer": "omission", 
+        "geoip-country": "United States"
+    }
+]

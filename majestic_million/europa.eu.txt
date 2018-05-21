@@ -1,0 +1,922 @@
+[
+    {
+        "dns-a": [
+            "147.67.119.135", 
+            "147.67.119.170", 
+            "147.67.119.60", 
+            "147.67.136.135", 
+            "147.67.136.170", 
+            "147.67.136.60"
+        ], 
+        "dns-aaaa": [
+            "2a01:7080:14:100::361:1", 
+            "2a01:7080:14:100::362:1", 
+            "2a01:7080:24:100::361:1", 
+            "2a01:7080:24:100::362:1"
+        ], 
+        "dns-mx": [
+            "s-dc-edg006-q.mail.ec.europa.eu", 
+            "s-dc-edg007-q.mail.ec.europa.eu", 
+            "s-dc-edg008-q.mail.ec.europa.eu", 
+            "s-dc-edg030-Z.mail.ec.europa.eu", 
+            "s-dc-edg031-Z.mail.ec.europa.eu", 
+            "s-dc-edg032-Z.mail.ec.europa.eu"
+        ], 
+        "dns-ns": [
+            "ns1.be.colt.net", 
+            "ns1.bt.net", 
+            "ns1bru.europa.eu", 
+            "ns1lux.europa.eu", 
+            "ns2bru.europa.eu", 
+            "ns2eu.bt.net", 
+            "ns2lux.europa.eu", 
+            "ns3bru.europa.eu", 
+            "ns3lux.europa.eu"
+        ], 
+        "domain-name": "europa.eu", 
+        "fuzzer": "original*", 
+        "geoip-country": "Luxembourg", 
+        "ssdeep-score": 100
+    }, 
+    {
+        "dns-mx": [
+            "us2.mx1.mailhostbox.com", 
+            "us2.mx2.mailhostbox.com", 
+            "us2.mx3.mailhostbox.com"
+        ], 
+        "dns-ns": [
+            "1a7ea920.bitcoin-dns.hosting", 
+            "a8332f3a.bitcoin-dns.hosting", 
+            "ad636824.bitcoin-dns.hosting", 
+            "c358ea2d.bitcoin-dns.hosting"
+        ], 
+        "domain-name": "europaa.eu", 
+        "fuzzer": "addition"
+    }, 
+    {
+        "dns-mx": [
+            "relay.europac.eu", 
+            "smtp.europac.eu"
+        ], 
+        "dns-ns": [
+            "hiperion.ticsconsulting.es", 
+            "pandora.ticsconsulting.es"
+        ], 
+        "domain-name": "europac.eu", 
+        "fuzzer": "addition", 
+        "mx-spy": true
+    }, 
+    {
+        "dns-a": [
+            "62.149.128.151", 
+            "62.149.128.154", 
+            "62.149.128.157", 
+            "62.149.128.160", 
+            "62.149.128.163", 
+            "62.149.128.166"
+        ], 
+        "dns-mx": [
+            "mx.europad.eu"
+        ], 
+        "dns-ns": [
+            "dns.technorail.com", 
+            "dns2.technorail.com"
+        ], 
+        "domain-name": "europad.eu", 
+        "fuzzer": "addition", 
+        "geoip-country": "Italy", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "195.225.171.30"
+        ], 
+        "dns-ns": [
+            "dns2.widhost.net"
+        ], 
+        "domain-name": "europae.eu", 
+        "fuzzer": "addition", 
+        "geoip-country": "Italy"
+    }, 
+    {
+        "dns-a": [
+            "185.98.131.45"
+        ], 
+        "dns-mx": [
+            "mail.europaf.eu"
+        ], 
+        "dns-ns": [
+            "ns1.lwsdns.com", 
+            "ns2.lwsdns.com", 
+            "ns3.lwsdns.com", 
+            "ns4.lwsdns.com"
+        ], 
+        "domain-name": "europaf.eu", 
+        "fuzzer": "addition", 
+        "geoip-country": "France", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "46.30.213.118"
+        ], 
+        "dns-mx": [
+            "mx1.pub.mailpod3-cph3.one.com", 
+            "mx2.pub.mailpod3-cph3.one.com", 
+            "mx3.pub.mailpod3-cph3.one.com"
+        ], 
+        "dns-ns": [
+            "ns01.one.com", 
+            "ns02.one.com"
+        ], 
+        "domain-name": "europah.eu", 
+        "fuzzer": "addition", 
+        "geoip-country": "Denmark", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "103.224.182.240"
+        ], 
+        "dns-mx": [
+            "park-mx.above.com"
+        ], 
+        "dns-ns": [
+            "ns1.above.com", 
+            "ns2.above.com"
+        ], 
+        "domain-name": "europai.eu", 
+        "fuzzer": "addition", 
+        "geoip-country": "Australia", 
+        "mx-spy": true, 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "52.58.78.16"
+        ], 
+        "dns-ns": [
+            "hrh1.royalqueendomains.co.uk", 
+            "hrh2.royalqueendomains.co.uk", 
+            "hrh3.royalqueendomains.co.uk"
+        ], 
+        "domain-name": "europak.eu", 
+        "fuzzer": "addition", 
+        "geoip-country": "Germany", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "52.58.78.16"
+        ], 
+        "dns-ns": [
+            "a.gpk.eu", 
+            "b.gpk.eu", 
+            "c.gpk.eu"
+        ], 
+        "domain-name": "europal.eu", 
+        "fuzzer": "addition", 
+        "geoip-country": "Germany", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "109.199.116.116"
+        ], 
+        "dns-mx": [
+            "mx10.mailspamprotection.com", 
+            "mx20.mailspamprotection.com", 
+            "mx30.mailspamprotection.com"
+        ], 
+        "dns-ns": [
+            "ns1.c20722.sgvps.net", 
+            "ns2.c20722.sgvps.net"
+        ], 
+        "domain-name": "europam.eu", 
+        "fuzzer": "addition", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "91.216.107.227"
+        ], 
+        "dns-mx": [
+            "mail.europan.eu"
+        ], 
+        "dns-ns": [
+            "ns1.lwsdns.com", 
+            "ns2.lwsdns.com", 
+            "ns3.lwsdns.com", 
+            "ns4.lwsdns.com"
+        ], 
+        "domain-name": "europan.eu", 
+        "fuzzer": "addition", 
+        "geoip-country": "France", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "217.70.184.38"
+        ], 
+        "dns-mx": [
+            "fb.mail.gandi.net", 
+            "spool.mail.gandi.net"
+        ], 
+        "dns-ns": [
+            "ns-220-c.gandi.net", 
+            "ns-221-b.gandi.net", 
+            "ns-61-a.gandi.net"
+        ], 
+        "domain-name": "europao.eu", 
+        "fuzzer": "addition", 
+        "geoip-country": "France", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "91.185.204.53"
+        ], 
+        "dns-mx": [
+            "europap.eu"
+        ], 
+        "dns-ns": [
+            "ns1.dnserv.com", 
+            "ns2.dnserv.com", 
+            "ns3.dnserv.com"
+        ], 
+        "domain-name": "europap.eu", 
+        "fuzzer": "addition", 
+        "geoip-country": "Slovenia"
+    }, 
+    {
+        "dns-a": [
+            "184.168.221.9"
+        ], 
+        "dns-mx": [
+            "mailstore1.secureserver.net", 
+            "smtp.secureserver.net"
+        ], 
+        "dns-ns": [
+            "ns13.domaincontrol.com", 
+            "ns14.domaincontrol.com"
+        ], 
+        "domain-name": "europaq.eu", 
+        "fuzzer": "addition", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "185.53.177.31"
+        ], 
+        "dns-ns": [
+            "ns1.protectdelegation.ca", 
+            "ns2.protectdelegation.com", 
+            "ns3.protectdelegation.eu"
+        ], 
+        "domain-name": "europar.eu", 
+        "fuzzer": "addition", 
+        "geoip-country": "Germany", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "91.184.0.100"
+        ], 
+        "dns-aaaa": [
+            "2a02:2268:ffff:ffff::4"
+        ], 
+        "dns-mx": [
+            "mail.europas.eu", 
+            "mx1.europas.eu"
+        ], 
+        "dns-ns": [
+            "ns1.hostnet.nl", 
+            "ns2.hostnetbv.com", 
+            "ns3.hostnetbv.nl"
+        ], 
+        "domain-name": "europas.eu", 
+        "fuzzer": "addition", 
+        "geoip-country": "Netherlands", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "127.0.0.1"
+        ], 
+        "dns-mx": [
+            "mail.europax.eu"
+        ], 
+        "dns-ns": [
+            "ns1.ns-serve.net", 
+            "ns2.ns-serve.net"
+        ], 
+        "domain-name": "europax.eu", 
+        "fuzzer": "addition", 
+        "mx-spy": true
+    }, 
+    {
+        "dns-a": [
+            "52.58.78.16"
+        ], 
+        "dns-ns": [
+            "a.gpk.eu", 
+            "b.gpk.eu", 
+            "c.gpk.eu"
+        ], 
+        "domain-name": "europay.eu", 
+        "fuzzer": "addition", 
+        "geoip-country": "Germany", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "185.33.52.18"
+        ], 
+        "dns-aaaa": [
+            "2a00:c760:80:d07:2011:ffff:b921:3412"
+        ], 
+        "dns-mx": [
+            "mx.dotroll.com"
+        ], 
+        "dns-ns": [
+            "ns1.dotroll.com", 
+            "ns2.dotroll.com"
+        ], 
+        "domain-name": "auropa.eu", 
+        "fuzzer": "bitsquatting", 
+        "geoip-country": "Hungary", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "198.185.159.144", 
+            "198.185.159.145", 
+            "198.49.23.144", 
+            "198.49.23.145"
+        ], 
+        "dns-ns": [
+            "ns55.domaincontrol.com", 
+            "ns56.domaincontrol.com"
+        ], 
+        "domain-name": "ewropa.eu", 
+        "fuzzer": "bitsquatting", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "209.99.64.51"
+        ], 
+        "dns-ns": [
+            "ns11051.ztomy.com", 
+            "ns21051.ztomy.com"
+        ], 
+        "domain-name": "eurmpa.eu", 
+        "fuzzer": "bitsquatting", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "72.52.4.119"
+        ], 
+        "dns-mx": [
+            "localhost"
+        ], 
+        "dns-ns": [
+            "ns1.sedoparking.com", 
+            "ns2.sedoparking.com"
+        ], 
+        "domain-name": "eurora.eu", 
+        "fuzzer": "bitsquatting", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-mx": [
+            "alt1.aspmx.l.google.com", 
+            "alt2.aspmx.l.google.com", 
+            "aspmx.l.google.com", 
+            "aspmx2.googlemail.com", 
+            "aspmx3.googlemail.com"
+        ], 
+        "dns-ns": [
+            "dns.technorail.com", 
+            "dns2.technorail.com", 
+            "dns3.arubadns.net", 
+            "dns4.arubadns.cz"
+        ], 
+        "domain-name": "europc.eu", 
+        "fuzzer": "bitsquatting"
+    }, 
+    {
+        "dns-a": [
+            "81.2.194.128"
+        ], 
+        "dns-ns": [
+            "ns.forpsi.cz", 
+            "ns.forpsi.it", 
+            "ns.forpsi.net", 
+            "ns.forpsi.us"
+        ], 
+        "domain-name": "xn--eurpa-2ta.eu", 
+        "fuzzer": "homoglyph", 
+        "geoip-country": "Czech Republic", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-mx": [
+            "mail.protonmail.ch"
+        ], 
+        "dns-ns": [
+            "dns12.pointhq.com", 
+            "dns15.pointhq.com", 
+            "dns8.pointhq.com"
+        ], 
+        "domain-name": "xn--eropa-xfb.eu", 
+        "fuzzer": "homoglyph"
+    }, 
+    {
+        "dns-a": [
+            "104.31.76.250", 
+            "104.31.77.250"
+        ], 
+        "dns-ns": [
+            "bonnie.ns.cloudflare.com", 
+            "jack.ns.cloudflare.com"
+        ], 
+        "domain-name": "eu-ropa.eu", 
+        "fuzzer": "hyphenation", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "52.58.78.16"
+        ], 
+        "dns-ns": [
+            "a.gpk.eu", 
+            "b.gpk.eu", 
+            "c.gpk.eu"
+        ], 
+        "domain-name": "euro-pa.eu", 
+        "fuzzer": "hyphenation", 
+        "geoip-country": "Germany", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "103.224.182.240"
+        ], 
+        "dns-mx": [
+            "park-mx.above.com"
+        ], 
+        "dns-ns": [
+            "ns1.above.com", 
+            "ns2.above.com"
+        ], 
+        "domain-name": "euroopa.eu", 
+        "fuzzer": "insertion", 
+        "geoip-country": "Australia", 
+        "mx-spy": true, 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "185.53.177.31"
+        ], 
+        "dns-ns": [
+            "ns1.protectdelegation.ca", 
+            "ns2.protectdelegation.com", 
+            "ns3.protectdelegation.eu"
+        ], 
+        "domain-name": "eutropa.eu", 
+        "fuzzer": "insertion", 
+        "geoip-country": "Germany", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "109.95.158.2"
+        ], 
+        "dns-mx": [
+            "mx-1.dpoczta.pl", 
+            "mx-2.dpoczta.pl"
+        ], 
+        "dns-ns": [
+            "ns1.dhosting.pl", 
+            "ns2.dhosting.pl"
+        ], 
+        "domain-name": "europpa.eu", 
+        "fuzzer": "insertion", 
+        "geoip-country": "Poland", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "185.53.177.20"
+        ], 
+        "dns-ns": [
+            "a.gpk.eu", 
+            "b.gpk.eu", 
+            "c.gpk.eu"
+        ], 
+        "domain-name": "europ.eu", 
+        "fuzzer": "omission", 
+        "geoip-country": "Germany", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "62.116.163.90"
+        ], 
+        "dns-ns": [
+            "ns10.ns14.de", 
+            "ns9.ns14.de"
+        ], 
+        "domain-name": "eropa.eu", 
+        "fuzzer": "omission", 
+        "geoip-country": "Germany"
+    }, 
+    {
+        "dns-a": [
+            "103.224.182.241"
+        ], 
+        "dns-mx": [
+            "park-mx.above.com"
+        ], 
+        "dns-ns": [
+            "ns1.above.com", 
+            "ns2.above.com"
+        ], 
+        "domain-name": "euroa.eu", 
+        "fuzzer": "omission", 
+        "geoip-country": "Australia", 
+        "mx-spy": true, 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "146.66.84.72"
+        ], 
+        "dns-mx": [
+            "mailstore1.secureserver.net", 
+            "smtp.secureserver.net"
+        ], 
+        "dns-ns": [
+            "ns57.domaincontrol.com", 
+            "ns58.domaincontrol.com"
+        ], 
+        "domain-name": "uropa.eu", 
+        "fuzzer": "omission", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "72.52.4.119"
+        ], 
+        "dns-mx": [
+            "localhost"
+        ], 
+        "dns-ns": [
+            "ns1.sedoparking.com", 
+            "ns2.sedoparking.com"
+        ], 
+        "domain-name": "euopa.eu", 
+        "fuzzer": "omission", 
+        "geoip-country": "United States", 
+        "mx-spy": true, 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "185.53.177.31"
+        ], 
+        "dns-ns": [
+            "ns1.protectdelegation.eu", 
+            "ns2.protectdelegation.ca", 
+            "ns3.protectdelegation.com"
+        ], 
+        "domain-name": "eeuropa.eu", 
+        "fuzzer": "repetition", 
+        "geoip-country": "Germany", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "85.128.134.229"
+        ], 
+        "dns-mx": [
+            "wuropa.eu"
+        ], 
+        "dns-ns": [
+            "ns1.nazwa.pl", 
+            "ns2.nazwa.pl", 
+            "ns3.nazwa.pl"
+        ], 
+        "domain-name": "wuropa.eu", 
+        "fuzzer": "replacement", 
+        "geoip-country": "Poland", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "52.58.78.16"
+        ], 
+        "dns-ns": [
+            "a.gpk.eu", 
+            "b.gpk.eu", 
+            "c.gpk.eu"
+        ], 
+        "domain-name": "eurola.eu", 
+        "fuzzer": "replacement", 
+        "geoip-country": "Germany", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "72.52.4.119"
+        ], 
+        "dns-mx": [
+            "localhost"
+        ], 
+        "dns-ns": [
+            "ns1.sedoparking.com", 
+            "ns2.sedoparking.com"
+        ], 
+        "domain-name": "eiropa.eu", 
+        "fuzzer": "replacement", 
+        "geoip-country": "United States", 
+        "mx-spy": true, 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "5.157.84.69"
+        ], 
+        "dns-mx": [
+            "mx1.firstfind.nl", 
+            "mx2.firstfind.nl", 
+            "server110.firstfind.nl"
+        ], 
+        "dns-ns": [
+            "ns3.firstfind.nl", 
+            "ns4.firstfind.nl", 
+            "ns5.firstfind.net"
+        ], 
+        "domain-name": "euroma.eu", 
+        "fuzzer": "replacement", 
+        "geoip-country": "Netherlands", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "85.128.134.228"
+        ], 
+        "dns-mx": [
+            "euripa.eu"
+        ], 
+        "dns-ns": [
+            "ns1.nazwa.pl", 
+            "ns2.nazwa.pl", 
+            "ns3.nazwa.pl"
+        ], 
+        "domain-name": "euripa.eu", 
+        "fuzzer": "replacement", 
+        "geoip-country": "Poland", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "52.58.78.16"
+        ], 
+        "dns-ns": [
+            "a.gpk.eu", 
+            "b.gpk.eu", 
+            "c.gpk.eu"
+        ], 
+        "domain-name": "europs.eu", 
+        "fuzzer": "replacement", 
+        "geoip-country": "Germany", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "127.0.0.1"
+        ], 
+        "dns-mx": [
+            "mail.eufopa.eu"
+        ], 
+        "dns-ns": [
+            "ns1.ns-serve.net", 
+            "ns2.ns-serve.net"
+        ], 
+        "domain-name": "eufopa.eu", 
+        "fuzzer": "replacement", 
+        "mx-spy": true
+    }, 
+    {
+        "dns-a": [
+            "85.128.134.237"
+        ], 
+        "dns-mx": [
+            "eutopa.eu"
+        ], 
+        "dns-ns": [
+            "ns1.nazwa.pl", 
+            "ns2.nazwa.pl", 
+            "ns3.nazwa.pl"
+        ], 
+        "domain-name": "eutopa.eu", 
+        "fuzzer": "replacement", 
+        "geoip-country": "Poland", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "173.201.192.133", 
+            "173.201.192.148", 
+            "173.201.192.20", 
+            "173.201.192.5", 
+            "173.201.193.133", 
+            "173.201.193.148", 
+            "173.201.193.20", 
+            "173.201.193.5", 
+            "72.167.218.173", 
+            "72.167.218.183", 
+            "72.167.218.45", 
+            "72.167.218.55", 
+            "97.74.135.133", 
+            "97.74.135.148", 
+            "97.74.135.45", 
+            "97.74.135.55"
+        ], 
+        "domain-name": "e.uropa.eu", 
+        "fuzzer": "subdomain", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "185.53.177.20"
+        ], 
+        "dns-mx": [
+            "mail.eruopa.eu"
+        ], 
+        "dns-ns": [
+            "dns1.realtime.at", 
+            "dns2.realtime.at"
+        ], 
+        "domain-name": "eruopa.eu", 
+        "fuzzer": "transposition"
+    }, 
+    {
+        "dns-a": [
+            "104.18.54.135", 
+            "104.18.55.135"
+        ], 
+        "dns-aaaa": [
+            "2400:cb00:2048:1::6812:3687", 
+            "2400:cb00:2048:1::6812:3787"
+        ], 
+        "dns-ns": [
+            "chloe.ns.cloudflare.com", 
+            "kanye.ns.cloudflare.com"
+        ], 
+        "domain-name": "euorpa.eu", 
+        "fuzzer": "transposition", 
+        "geoip-country": "United States"
+    }, 
+    {
+        "dns-a": [
+            "87.98.247.5"
+        ], 
+        "dns-mx": [
+            "redirect.ovh.net"
+        ], 
+        "dns-ns": [
+            "dns108.ovh.net", 
+            "ns108.ovh.net"
+        ], 
+        "domain-name": "europu.eu", 
+        "fuzzer": "vowel-swap", 
+        "geoip-country": "Germany", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "88.198.46.233"
+        ], 
+        "dns-mx": [
+            "mail.kkdevs.com"
+        ], 
+        "dns-ns": [
+            "ns1.resellerinterface.de", 
+            "ns2.resellerinterface.de", 
+            "ns3.resellerinterface.de"
+        ], 
+        "domain-name": "iuropa.eu", 
+        "fuzzer": "vowel-swap"
+    }, 
+    {
+        "dns-a": [
+            "31.31.72.167"
+        ], 
+        "dns-aaaa": [
+            "2a02:2b88:2:1::47c6:13"
+        ], 
+        "dns-mx": [
+            "eu1.eurepa.eu", 
+            "eu2.eurepa.eu", 
+            "server.eurepa.eu"
+        ], 
+        "dns-ns": [
+            "ns.wedos.com", 
+            "ns.wedos.cz", 
+            "ns.wedos.eu", 
+            "ns.wedos.net"
+        ], 
+        "domain-name": "eurepa.eu", 
+        "fuzzer": "vowel-swap", 
+        "geoip-country": "Czech Republic", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "195.198.203.66"
+        ], 
+        "dns-mx": [
+            "localhost.eurupa.eu"
+        ], 
+        "dns-ns": [
+            "dns1.scandhost.com", 
+            "dns2.scandhost.com"
+        ], 
+        "domain-name": "eurupa.eu", 
+        "fuzzer": "vowel-swap", 
+        "geoip-country": "Sweden", 
+        "mx-spy": true, 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "37.187.108.55"
+        ], 
+        "dns-aaaa": [
+            "2001:41d0:a:3c37::1"
+        ], 
+        "dns-ns": [
+            "a.ns.joker.com", 
+            "b.ns.joker.com", 
+            "c.ns.joker.com"
+        ], 
+        "domain-name": "europo.eu", 
+        "fuzzer": "vowel-swap", 
+        "geoip-country": "France", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "80.92.65.144"
+        ], 
+        "dns-mx": [
+            "mail.ouropa.eu"
+        ], 
+        "dns-ns": [
+            "ns1.eurodns.com", 
+            "ns2.eurodns.com", 
+            "ns3.eurodns.com", 
+            "ns4.eurodns.com"
+        ], 
+        "domain-name": "ouropa.eu", 
+        "fuzzer": "vowel-swap", 
+        "geoip-country": "Luxembourg"
+    }, 
+    {
+        "dns-mx": [
+            "mx.zoho.com", 
+            "mx2.zoho.com"
+        ], 
+        "dns-ns": [
+            "dns12.pointhq.com", 
+            "dns15.pointhq.com", 
+            "dns8.pointhq.com"
+        ], 
+        "domain-name": "europaeu.eu", 
+        "fuzzer": "various"
+    }, 
+    {
+        "dns-a": [
+            "141.8.230.20"
+        ], 
+        "dns-mx": [
+            "mxs1.domainrecover.com", 
+            "mxs2.domainrecover.com"
+        ], 
+        "domain-name": "europa-eu.com", 
+        "fuzzer": "various"
+    }
+]

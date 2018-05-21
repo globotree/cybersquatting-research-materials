@@ -1,0 +1,44 @@
+[
+    {
+        "dns-a": [
+            "104.236.81.188"
+        ], 
+        "dns-ns": [
+            "ns-1117.awsdns-11.org", 
+            "ns-1731.awsdns-24.co.uk", 
+            "ns-430.awsdns-53.com", 
+            "ns-857.awsdns-43.net"
+        ], 
+        "domain-name": "flywheelsites.com", 
+        "fuzzer": "original*", 
+        "geoip-country": "United States"
+    }, 
+    {
+        "dns-a": [
+            "173.239.5.6", 
+            "173.239.8.164", 
+            "213.247.47.190"
+        ], 
+        "dns-mx": [
+            "mx7.flywheelsite.com"
+        ], 
+        "dns-ns": [
+            "ns1.expiereddnsmanager.com", 
+            "ns2.expiereddnsmanager.com"
+        ], 
+        "domain-name": "flywheelsite.com", 
+        "fuzzer": "omission", 
+        "geoip-country": "United States"
+    }, 
+    {
+        "dns-a": [
+            "185.53.178.7"
+        ], 
+        "dns-ns": [
+            "ns1.parkingcrew.net", 
+            "ns2.parkingcrew.net"
+        ], 
+        "domain-name": "fly.wheelsites.com", 
+        "fuzzer": "subdomain"
+    }
+]

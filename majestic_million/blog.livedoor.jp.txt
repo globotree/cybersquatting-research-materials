@@ -1,0 +1,29 @@
+[
+    {
+        "dns-a": [
+            "125.6.190.6"
+        ], 
+        "domain-name": "blog.livedoor.jp", 
+        "fuzzer": "original*", 
+        "geoip-country": "Japan", 
+        "ssdeep-score": 99
+    }, 
+    {
+        "dns-a": [
+            "104.27.150.113", 
+            "104.27.151.113"
+        ], 
+        "domain-name": "blog.livedor.jp", 
+        "fuzzer": "omission", 
+        "geoip-country": "United States"
+    }, 
+    {
+        "dns-a": [
+            "157.7.205.13"
+        ], 
+        "domain-name": "blog.livedooor.jp", 
+        "fuzzer": "repetition", 
+        "geoip-country": "Japan", 
+        "ssdeep-score": 0
+    }
+]

@@ -1,0 +1,81 @@
+[
+    {
+        "dns-ns": [
+            "ns1.p11.dynect.net", 
+            "ns2.p11.dynect.net", 
+            "ns3.p11.dynect.net", 
+            "ns4.p11.dynect.net"
+        ], 
+        "domain-name": "nocookie.net", 
+        "fuzzer": "original*"
+    }, 
+    {
+        "dns-a": [
+            "209.15.13.134"
+        ], 
+        "dns-mx": [
+            "mail.b-io.co"
+        ], 
+        "dns-ns": [
+            "ns1.dnslink.com", 
+            "ns2.dnslink.com"
+        ], 
+        "domain-name": "nocookies.net", 
+        "fuzzer": "addition", 
+        "geoip-country": "United States", 
+        "mx-spy": true
+    }, 
+    {
+        "dns-a": [
+            "50.63.202.50"
+        ], 
+        "dns-ns": [
+            "ns17.domaincontrol.com", 
+            "ns18.domaincontrol.com"
+        ], 
+        "domain-name": "nobookie.net", 
+        "fuzzer": "bitsquatting", 
+        "geoip-country": "United States"
+    }, 
+    {
+        "dns-a": [
+            "185.23.21.10"
+        ], 
+        "dns-mx": [
+            "mx1.zenbox.pl", 
+            "mx2.zenbox.pl", 
+            "mx3.zenbox.pl"
+        ], 
+        "dns-ns": [
+            "ns1.zenbox.pl", 
+            "ns2.zenbox.pl"
+        ], 
+        "domain-name": "ocookie.net", 
+        "fuzzer": "omission", 
+        "geoip-country": "Poland"
+    }, 
+    {
+        "dns-a": [
+            "184.168.221.51"
+        ], 
+        "dns-mx": [
+            "mailstore1.secureserver.net", 
+            "smtp.secureserver.net"
+        ], 
+        "dns-ns": [
+            "ns63.domaincontrol.com", 
+            "ns64.domaincontrol.com"
+        ], 
+        "domain-name": "ncookie.net", 
+        "fuzzer": "omission", 
+        "geoip-country": "United States"
+    }, 
+    {
+        "dns-a": [
+            "185.23.21.10"
+        ], 
+        "domain-name": "n.ocookie.net", 
+        "fuzzer": "subdomain", 
+        "geoip-country": "Poland"
+    }
+]

@@ -1,0 +1,70 @@
+[
+    {
+        "dns-a": [
+            "127.0.0.1"
+        ], 
+        "dns-mx": [
+            "pipe.hostinger.eu"
+        ], 
+        "dns-ns": [
+            "raid1.main-hosting.com", 
+            "raid2.main-hosting.com"
+        ], 
+        "domain-name": "hostinger.eu", 
+        "fuzzer": "original*"
+    }, 
+    {
+        "dns-a": [
+            "109.235.60.233"
+        ], 
+        "dns-mx": [
+            "mail.hosinger.eu"
+        ], 
+        "dns-ns": [
+            "ns1.sweetdomains.de", 
+            "ns2.sweetdomains.de"
+        ], 
+        "domain-name": "hosinger.eu", 
+        "fuzzer": "omission", 
+        "geoip-country": "Germany"
+    }, 
+    {
+        "dns-a": [
+            "108.61.117.62"
+        ], 
+        "dns-mx": [
+            "bostinger.ch.bostinger.eu"
+        ], 
+        "dns-ns": [
+            "ns10.drayhost.de", 
+            "ns11.drayhost.de"
+        ], 
+        "domain-name": "bostinger.eu", 
+        "fuzzer": "replacement", 
+        "geoip-country": "Netherlands"
+    }, 
+    {
+        "dns-a": [
+            "212.172.221.12"
+        ], 
+        "domain-name": "host.inger.eu", 
+        "fuzzer": "subdomain", 
+        "geoip-country": "Germany"
+    }, 
+    {
+        "dns-a": [
+            "89.31.143.1"
+        ], 
+        "domain-name": "hosti.nger.eu", 
+        "fuzzer": "subdomain", 
+        "geoip-country": "Germany"
+    }, 
+    {
+        "dns-a": [
+            "5.9.40.102"
+        ], 
+        "domain-name": "hostin.ger.eu", 
+        "fuzzer": "subdomain", 
+        "geoip-country": "Germany"
+    }
+]

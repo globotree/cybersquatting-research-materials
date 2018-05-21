@@ -1,0 +1,192 @@
+[
+    {
+        "dns-a": [
+            "52.203.93.98", 
+            "52.73.241.51"
+        ], 
+        "dns-ns": [
+            "ns-1048.awsdns-03.org", 
+            "ns-1741.awsdns-25.co.uk", 
+            "ns-232.awsdns-29.com", 
+            "ns-540.awsdns-03.net"
+        ], 
+        "domain-name": "who.is", 
+        "fuzzer": "original*", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 100
+    }, 
+    {
+        "dns-a": [
+            "193.4.58.173"
+        ], 
+        "dns-ns": [
+            "forwarding00.isnic.is", 
+            "forwarding01.isnic.is"
+        ], 
+        "domain-name": "whod.is", 
+        "fuzzer": "addition", 
+        "geoip-country": "Iceland"
+    }, 
+    {
+        "dns-a": [
+            "103.224.182.252"
+        ], 
+        "dns-mx": [
+            "park-mx.above.com"
+        ], 
+        "dns-ns": [
+            "ns1.above.com", 
+            "ns2.above.com"
+        ], 
+        "domain-name": "whoi.is", 
+        "fuzzer": "addition", 
+        "geoip-country": "Australia", 
+        "mx-spy": true, 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "52.222.146.115", 
+            "52.222.146.131", 
+            "52.222.146.28", 
+            "52.222.146.42", 
+            "52.222.146.62", 
+            "52.222.146.67", 
+            "52.222.146.78", 
+            "52.222.146.86"
+        ], 
+        "dns-mx": [
+            "alt1.aspmx.l.google.com", 
+            "alt2.aspmx.l.google.com", 
+            "aspmx.l.google.com", 
+            "aspmx2.googlemail.com", 
+            "aspmx3.googlemail.com"
+        ], 
+        "dns-ns": [
+            "ns-1063.awsdns-04.org", 
+            "ns-146.awsdns-18.com", 
+            "ns-1894.awsdns-44.co.uk", 
+            "ns-762.awsdns-31.net"
+        ], 
+        "domain-name": "whot.is", 
+        "fuzzer": "addition", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "185.53.178.6"
+        ], 
+        "dns-ns": [
+            "ns1.parkingcrew.net", 
+            "ns2.parkingcrew.net"
+        ], 
+        "domain-name": "sho.is", 
+        "fuzzer": "bitsquatting", 
+        "geoip-country": "Germany", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-ns": [
+            "ns1.p16.dynect.net", 
+            "ns2.p16.dynect.net", 
+            "ns3.p16.dynect.net", 
+            "ns4.p16.dynect.net"
+        ], 
+        "domain-name": "whn.is", 
+        "fuzzer": "bitsquatting"
+    }, 
+    {
+        "dns-a": [
+            "193.4.58.173"
+        ], 
+        "dns-ns": [
+            "forwarding00.isnic.is", 
+            "forwarding01.isnic.is"
+        ], 
+        "domain-name": "wo.is", 
+        "fuzzer": "omission", 
+        "geoip-country": "Iceland", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "193.4.58.173"
+        ], 
+        "dns-ns": [
+            "forwarding00.isnic.is", 
+            "forwarding01.isnic.is"
+        ], 
+        "domain-name": "ho.is", 
+        "fuzzer": "omission", 
+        "geoip-country": "Iceland", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "217.28.191.227"
+        ], 
+        "dns-mx": [
+            "wh-is.mail.protection.outlook.com"
+        ], 
+        "dns-ns": [
+            "cronus.ci.is", 
+            "skuggi.ci.is"
+        ], 
+        "domain-name": "wh.is", 
+        "fuzzer": "omission", 
+        "geoip-country": "Iceland", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "185.53.178.6"
+        ], 
+        "dns-ns": [
+            "ns1.parkingcrew.net", 
+            "ns2.parkingcrew.net"
+        ], 
+        "domain-name": "whi.is", 
+        "fuzzer": "replacement", 
+        "geoip-country": "Germany", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "193.4.58.173"
+        ], 
+        "dns-ns": [
+            "forwarding00.isnic.is", 
+            "forwarding01.isnic.is"
+        ], 
+        "domain-name": "w.ho.is", 
+        "fuzzer": "subdomain", 
+        "geoip-country": "Iceland"
+    }, 
+    {
+        "dns-a": [
+            "174.36.202.233"
+        ], 
+        "dns-ns": [
+            "ns1.name.com", 
+            "ns2.name.com", 
+            "ns3.name.com", 
+            "ns4.name.com"
+        ], 
+        "domain-name": "whois.is", 
+        "fuzzer": "various"
+    }, 
+    {
+        "dns-a": [
+            "69.172.201.153"
+        ], 
+        "dns-ns": [
+            "ns1.uniregistrymarket.link", 
+            "ns2.uniregistrymarket.link"
+        ], 
+        "domain-name": "who-is.com", 
+        "fuzzer": "various", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 0
+    }
+]

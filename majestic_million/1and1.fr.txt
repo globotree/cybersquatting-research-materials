@@ -1,0 +1,141 @@
+[
+    {
+        "dns-a": [
+            "217.160.86.38"
+        ], 
+        "dns-mx": [
+            "mxint01.1and1.com", 
+            "mxint02.1and1.com"
+        ], 
+        "dns-ns": [
+            "ns-1and1.ui-dns.biz", 
+            "ns-1and1.ui-dns.com", 
+            "ns-1and1.ui-dns.de", 
+            "ns-1and1.ui-dns.org"
+        ], 
+        "domain-name": "1and1.fr", 
+        "fuzzer": "original*", 
+        "geoip-country": "Germany", 
+        "ssdeep-score": 96
+    }, 
+    {
+        "dns-a": [
+            "212.227.145.64"
+        ], 
+        "dns-mx": [
+            "mx00.schlund.de", 
+            "mx01.schlund.de"
+        ], 
+        "dns-ns": [
+            "ns3.schlund.de", 
+            "ns4.schlund.de"
+        ], 
+        "domain-name": "1and.fr", 
+        "fuzzer": "omission", 
+        "geoip-country": "Germany"
+    }, 
+    {
+        "dns-a": [
+            "212.227.145.64"
+        ], 
+        "dns-mx": [
+            "mx00.schlund.de", 
+            "mx01.schlund.de"
+        ], 
+        "dns-ns": [
+            "ns3.schlund.de", 
+            "ns4.schlund.de"
+        ], 
+        "domain-name": "1nd1.fr", 
+        "fuzzer": "omission", 
+        "geoip-country": "Germany"
+    }, 
+    {
+        "dns-a": [
+            "46.105.78.141"
+        ], 
+        "dns-mx": [
+            "mx.and1.fr"
+        ], 
+        "dns-ns": [
+            "ns7.httpserveur.net", 
+            "ns8.httpserveur.net"
+        ], 
+        "domain-name": "and1.fr", 
+        "fuzzer": "omission", 
+        "geoip-country": "France", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "212.227.145.64"
+        ], 
+        "dns-mx": [
+            "mx00.schlund.de", 
+            "mx01.schlund.de"
+        ], 
+        "dns-ns": [
+            "ns3.schlund.de", 
+            "ns4.schlund.de"
+        ], 
+        "domain-name": "1an1.fr", 
+        "fuzzer": "omission", 
+        "geoip-country": "Germany"
+    }, 
+    {
+        "dns-a": [
+            "212.227.145.64"
+        ], 
+        "dns-mx": [
+            "mx00.schlund.de", 
+            "mx01.schlund.de"
+        ], 
+        "dns-ns": [
+            "ns3.schlund.de", 
+            "ns4.schlund.de"
+        ], 
+        "domain-name": "1snd1.fr", 
+        "fuzzer": "replacement", 
+        "geoip-country": "Germany"
+    }, 
+    {
+        "dns-a": [
+            "46.105.78.141"
+        ], 
+        "domain-name": "1.and1.fr", 
+        "fuzzer": "subdomain", 
+        "geoip-country": "France", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "185.26.105.241"
+        ], 
+        "dns-ns": [
+            "ns1.francedns.com", 
+            "ns2.francedns.com", 
+            "ns3.francedns.com"
+        ], 
+        "domain-name": "1adn1.fr", 
+        "fuzzer": "transposition"
+    }, 
+    {
+        "dns-a": [
+            "217.160.0.96"
+        ], 
+        "dns-aaaa": [
+            "2001:8d8:100f:f000::285"
+        ], 
+        "dns-mx": [
+            "mx00.1and1.fr", 
+            "mx01.1and1.fr"
+        ], 
+        "dns-ns": [
+            "ns61.1and1.fr", 
+            "ns62.1and1.fr"
+        ], 
+        "domain-name": "1und1.fr", 
+        "fuzzer": "vowel-swap", 
+        "geoip-country": "Germany"
+    }
+]

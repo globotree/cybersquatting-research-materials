@@ -1,0 +1,36 @@
+[
+    {
+        "dns-a": [
+            "146.142.252.23"
+        ], 
+        "dns-mx": [
+            "blsmail1.bls.gov"
+        ], 
+        "dns-ns": [
+            "auth111.ns.uu.net", 
+            "auth120.ns.uu.net"
+        ], 
+        "domain-name": "bls.gov", 
+        "fuzzer": "original*", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 100
+    }, 
+    {
+        "dns-a": [
+            "170.97.67.190"
+        ], 
+        "dns-mx": [
+            "hlanuep002.nls.gov"
+        ], 
+        "dns-ns": [
+            "hudgate.hud.gov", 
+            "hudgater.hud.gov", 
+            "ns1.hud.gov", 
+            "ns2.hud.gov", 
+            "ns3.hud.gov", 
+            "ns4.hud.gov"
+        ], 
+        "domain-name": "nls.gov", 
+        "fuzzer": "replacement"
+    }
+]

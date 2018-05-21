@@ -1,0 +1,442 @@
+[
+    {
+        "dns-ns": [
+            "a-dns.pl", 
+            "b-dns.pl", 
+            "e-dns.pl", 
+            "f-dns.pl", 
+            "i-dns.pl"
+        ], 
+        "domain-name": "radom.pl", 
+        "fuzzer": "original*"
+    }, 
+    {
+        "dns-a": [
+            "195.114.1.126"
+        ], 
+        "dns-mx": [
+            "mail.superhost.pl"
+        ], 
+        "dns-ns": [
+            "ns1.superhost.pl", 
+            "ns2.superhost.pl"
+        ], 
+        "domain-name": "radome.pl", 
+        "fuzzer": "addition", 
+        "geoip-country": "Poland"
+    }, 
+    {
+        "dns-a": [
+            "85.128.128.99"
+        ], 
+        "dns-mx": [
+            "radomi.pl"
+        ], 
+        "dns-ns": [
+            "ns1.nazwa.pl", 
+            "ns2.nazwa.pl", 
+            "ns3.nazwa.pl"
+        ], 
+        "domain-name": "radomi.pl", 
+        "fuzzer": "addition", 
+        "geoip-country": "Poland"
+    }, 
+    {
+        "dns-a": [
+            "79.96.2.36"
+        ], 
+        "dns-mx": [
+            "zadom.pl"
+        ], 
+        "dns-ns": [
+            "dns.home.pl", 
+            "dns2.home.pl", 
+            "dns3.home.pl"
+        ], 
+        "domain-name": "zadom.pl", 
+        "fuzzer": "bitsquatting", 
+        "geoip-country": "Poland"
+    }, 
+    {
+        "dns-a": [
+            "85.128.199.69"
+        ], 
+        "dns-mx": [
+            "redom.pl"
+        ], 
+        "dns-ns": [
+            "ns1.nazwa.pl", 
+            "ns2.nazwa.pl", 
+            "ns3.nazwa.pl"
+        ], 
+        "domain-name": "redom.pl", 
+        "fuzzer": "bitsquatting", 
+        "geoip-country": "Poland"
+    }, 
+    {
+        "dns-a": [
+            "176.122.230.17"
+        ], 
+        "dns-mx": [
+            "mail.radoo.pl"
+        ], 
+        "dns-ns": [
+            "ns1.ekspertit.pl", 
+            "ns2.ekspertit.pl"
+        ], 
+        "domain-name": "radoo.pl", 
+        "fuzzer": "bitsquatting", 
+        "geoip-country": "Poland"
+    }, 
+    {
+        "dns-a": [
+            "46.41.144.60"
+        ], 
+        "dns-mx": [
+            "strefa04.emailserver.pl"
+        ], 
+        "dns-ns": [
+            "ns1.strefa.pl", 
+            "ns2.strefa.pl", 
+            "ns3.strefa.pl"
+        ], 
+        "domain-name": "radon.pl", 
+        "fuzzer": "homoglyph", 
+        "geoip-country": "Poland"
+    }, 
+    {
+        "dns-a": [
+            "79.96.57.26"
+        ], 
+        "dns-mx": [
+            "radonn.pl"
+        ], 
+        "dns-ns": [
+            "dns.home.pl", 
+            "dns2.home.pl", 
+            "dns3.home.pl"
+        ], 
+        "domain-name": "radonn.pl", 
+        "fuzzer": "homoglyph", 
+        "geoip-country": "Poland"
+    }, 
+    {
+        "dns-a": [
+            "94.152.8.10"
+        ], 
+        "dns-mx": [
+            "ra-dom.pl"
+        ], 
+        "dns-ns": [
+            "ns1.kei.pl", 
+            "ns2.kei.pl"
+        ], 
+        "domain-name": "ra-dom.pl", 
+        "fuzzer": "hyphenation", 
+        "geoip-country": "Poland"
+    }, 
+    {
+        "dns-a": [
+            "79.189.171.170"
+        ], 
+        "dns-mx": [
+            "radcom.pl"
+        ], 
+        "dns-ns": [
+            "ns1.az.pl", 
+            "ns2.az.pl", 
+            "ns3.az.pl"
+        ], 
+        "domain-name": "radcom.pl", 
+        "fuzzer": "insertion", 
+        "geoip-country": "Poland"
+    }, 
+    {
+        "dns-a": [
+            "216.239.32.21", 
+            "216.239.34.21", 
+            "216.239.36.21", 
+            "216.239.38.21"
+        ], 
+        "dns-mx": [
+            "mx1.ovh.net", 
+            "mx2.ovh.net", 
+            "mxb.ovh.net"
+        ], 
+        "dns-ns": [
+            "dns110.ovh.net", 
+            "ns110.ovh.net"
+        ], 
+        "domain-name": "rafdom.pl", 
+        "fuzzer": "insertion", 
+        "geoip-country": "United States"
+    }, 
+    {
+        "dns-a": [
+            "46.29.20.209"
+        ], 
+        "dns-mx": [
+            "mail.radkom.pl"
+        ], 
+        "dns-ns": [
+            "ns1.dnsprotect.eu", 
+            "ns2.dnsprotect.eu"
+        ], 
+        "domain-name": "radkom.pl", 
+        "fuzzer": "insertion", 
+        "geoip-country": "Poland"
+    }, 
+    {
+        "dns-a": [
+            "193.222.87.232"
+        ], 
+        "dns-ns": [
+            "ns1.swatchgroup.com", 
+            "ns2.swatchgroup.com", 
+            "ns3.swatchgroup.com", 
+            "ns4.swatchgroup.com"
+        ], 
+        "domain-name": "rado.pl", 
+        "fuzzer": "omission", 
+        "geoip-country": "Switzerland"
+    }, 
+    {
+        "dns-a": [
+            "213.186.33.5"
+        ], 
+        "dns-mx": [
+            "redirect.ovh.net"
+        ], 
+        "dns-ns": [
+            "dns104.ovh.net", 
+            "ns104.ovh.net"
+        ], 
+        "domain-name": "rdom.pl", 
+        "fuzzer": "omission", 
+        "geoip-country": "France"
+    }, 
+    {
+        "dns-a": [
+            "213.186.33.5"
+        ], 
+        "dns-mx": [
+            "redirect.ovh.net"
+        ], 
+        "domain-name": "raom.pl", 
+        "fuzzer": "omission", 
+        "geoip-country": "France"
+    }, 
+    {
+        "dns-a": [
+            "85.128.157.216"
+        ], 
+        "dns-mx": [
+            "radm.pl"
+        ], 
+        "dns-ns": [
+            "ns1.nazwa.pl", 
+            "ns2.nazwa.pl", 
+            "ns3.nazwa.pl"
+        ], 
+        "domain-name": "radm.pl", 
+        "fuzzer": "omission", 
+        "geoip-country": "Poland"
+    }, 
+    {
+        "dns-a": [
+            "77.65.30.212"
+        ], 
+        "dns-mx": [
+            "mail.adom.pl"
+        ], 
+        "dns-ns": [
+            "dns.eureka.net.pl", 
+            "dns2.eureka.net.pl"
+        ], 
+        "domain-name": "adom.pl", 
+        "fuzzer": "omission", 
+        "geoip-country": "Poland"
+    }, 
+    {
+        "dns-a": [
+            "213.186.33.5"
+        ], 
+        "dns-mx": [
+            "redirect.ovh.net"
+        ], 
+        "dns-ns": [
+            "dns15.ovh.net", 
+            "ns15.ovh.net"
+        ], 
+        "domain-name": "radim.pl", 
+        "fuzzer": "replacement", 
+        "geoip-country": "France"
+    }, 
+    {
+        "dns-a": [
+            "213.186.33.5"
+        ], 
+        "dns-mx": [
+            "redirect.ovh.net"
+        ], 
+        "dns-ns": [
+            "dns104.ovh.net", 
+            "ns104.ovh.net"
+        ], 
+        "domain-name": "eadom.pl", 
+        "fuzzer": "replacement", 
+        "geoip-country": "France"
+    }, 
+    {
+        "dns-a": [
+            "72.52.4.119"
+        ], 
+        "dns-mx": [
+            "localhost"
+        ], 
+        "dns-ns": [
+            "ns1.sedoparking.com", 
+            "ns2.sedoparking.com"
+        ], 
+        "domain-name": "fadom.pl", 
+        "fuzzer": "replacement", 
+        "geoip-country": "United States", 
+        "mx-spy": true
+    }, 
+    {
+        "dns-a": [
+            "85.128.181.58"
+        ], 
+        "dns-mx": [
+            "racom.pl"
+        ], 
+        "dns-ns": [
+            "ns1.nazwa.pl", 
+            "ns2.nazwa.pl", 
+            "ns3.nazwa.pl"
+        ], 
+        "domain-name": "racom.pl", 
+        "fuzzer": "replacement", 
+        "geoip-country": "Poland"
+    }, 
+    {
+        "dns-a": [
+            "87.98.239.19"
+        ], 
+        "dns-mx": [
+            "mx1.ovh.net", 
+            "mx2.ovh.net", 
+            "mxb.ovh.net"
+        ], 
+        "dns-ns": [
+            "dns16.ovh.net", 
+            "ns16.ovh.net"
+        ], 
+        "domain-name": "radok.pl", 
+        "fuzzer": "replacement"
+    }, 
+    {
+        "dns-a": [
+            "94.23.214.153"
+        ], 
+        "dns-mx": [
+            "ALT1.ASPMX.L.GOOGLE.COM", 
+            "ALT2.ASPMX.L.GOOGLE.COM", 
+            "ASPMX.L.GOOGLE.COM", 
+            "ASPMX2.GOOGLEMAIL.COM"
+        ], 
+        "dns-ns": [
+            "dns.home.pl", 
+            "dns2.home.pl", 
+            "dns3.home.pl"
+        ], 
+        "domain-name": "ra.dom.pl", 
+        "fuzzer": "subdomain", 
+        "geoip-country": "France"
+    }, 
+    {
+        "dns-a": [
+            "85.128.193.166"
+        ], 
+        "domain-name": "rado.m.pl", 
+        "fuzzer": "subdomain", 
+        "geoip-country": "Poland"
+    }, 
+    {
+        "dns-a": [
+            "62.129.219.75"
+        ], 
+        "dns-mx": [
+            "ardom.pl"
+        ], 
+        "dns-ns": [
+            "dns.home.pl", 
+            "dns2.home.pl", 
+            "dns3.home.pl"
+        ], 
+        "domain-name": "ardom.pl", 
+        "fuzzer": "transposition", 
+        "geoip-country": "Poland"
+    }, 
+    {
+        "dns-a": [
+            "89.40.144.171"
+        ], 
+        "dns-mx": [
+            "mail.radmo.pl"
+        ], 
+        "dns-ns": [
+            "ns1.microhost.pl", 
+            "ns2.microhost.pl"
+        ], 
+        "domain-name": "radmo.pl", 
+        "fuzzer": "transposition"
+    }, 
+    {
+        "dns-a": [
+            "212.85.96.58"
+        ], 
+        "dns-mx": [
+            "radam.pl"
+        ], 
+        "dns-ns": [
+            "dns.home.pl", 
+            "dns2.home.pl", 
+            "dns3.home.pl"
+        ], 
+        "domain-name": "radam.pl", 
+        "fuzzer": "vowel-swap", 
+        "geoip-country": "Poland"
+    }, 
+    {
+        "dns-a": [
+            "85.10.230.160"
+        ], 
+        "dns-mx": [
+            "mail.radem.pl"
+        ], 
+        "dns-ns": [
+            "ns1.pro-linuxpl.com", 
+            "ns2.pro-linuxpl.com"
+        ], 
+        "domain-name": "radem.pl", 
+        "fuzzer": "vowel-swap", 
+        "geoip-country": "Germany"
+    }, 
+    {
+        "dns-a": [
+            "85.128.128.99"
+        ], 
+        "dns-mx": [
+            "radompl.pl"
+        ], 
+        "dns-ns": [
+            "ns1.nazwa.pl", 
+            "ns2.nazwa.pl", 
+            "ns3.nazwa.pl"
+        ], 
+        "domain-name": "radompl.pl", 
+        "fuzzer": "various", 
+        "geoip-country": "Poland"
+    }
+]

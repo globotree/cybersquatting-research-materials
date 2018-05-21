@@ -1,0 +1,144 @@
+[
+    {
+        "dns-a": [
+            "52.20.246.37", 
+            "54.164.95.14", 
+            "54.86.211.189"
+        ], 
+        "dns-mx": [
+            "us-smtp-inbound-1.mimecast.com", 
+            "us-smtp-inbound-2.mimecast.com"
+        ], 
+        "dns-ns": [
+            "ns-1189.awsdns-20.org", 
+            "ns-1931.awsdns-49.co.uk", 
+            "ns-329.awsdns-41.com", 
+            "ns-998.awsdns-60.net"
+        ], 
+        "domain-name": "routledge.com", 
+        "fuzzer": "original*", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 94
+    }, 
+    {
+        "dns-ns": [
+            "demeter.is.co.za", 
+            "jupiter.is.co.za", 
+            "titan.is.co.za"
+        ], 
+        "domain-name": "routledges.com", 
+        "fuzzer": "addition"
+    }, 
+    {
+        "dns-a": [
+            "74.208.236.62"
+        ], 
+        "dns-mx": [
+            "mx00.1and1.com", 
+            "mx01.1and1.com"
+        ], 
+        "dns-ns": [
+            "ns1095.ui-dns.biz", 
+            "ns1095.ui-dns.com", 
+            "ns1095.ui-dns.de", 
+            "ns1095.ui-dns.org"
+        ], 
+        "domain-name": "rutledge.com", 
+        "fuzzer": "omission", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "185.53.178.6"
+        ], 
+        "dns-mx": [
+            "mail.h-email.net"
+        ], 
+        "dns-ns": [
+            "ns1.parkingcrew.net", 
+            "ns2.parkingcrew.net"
+        ], 
+        "domain-name": "routlege.com", 
+        "fuzzer": "omission", 
+        "geoip-country": "Germany", 
+        "mx-spy": true, 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "67.55.92.182", 
+            "67.55.92.183"
+        ], 
+        "dns-mx": [
+            "mx7.rouledge.com"
+        ], 
+        "dns-ns": [
+            "ns3.renewyourexpiereddomain.com", 
+            "ns4.renewyourexpiereddomain.com"
+        ], 
+        "domain-name": "rouledge.com", 
+        "fuzzer": "omission", 
+        "geoip-country": "United States"
+    }, 
+    {
+        "dns-a": [
+            "31.193.10.187"
+        ], 
+        "dns-ns": [
+            "ns1.w3infotech.net", 
+            "ns2.w3infotech.net"
+        ], 
+        "domain-name": "routedge.com", 
+        "fuzzer": "omission", 
+        "geoip-country": "United Kingdom", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "104.238.146.112"
+        ], 
+        "dns-ns": [
+            "dns1.name-services.com", 
+            "dns2.name-services.com", 
+            "dns3.name-services.com", 
+            "dns4.name-services.com", 
+            "dns5.name-services.com"
+        ], 
+        "domain-name": "routlledge.com", 
+        "fuzzer": "repetition", 
+        "geoip-country": "United States"
+    }, 
+    {
+        "dns-a": [
+            "52.86.22.136", 
+            "54.174.212.152"
+        ], 
+        "dns-ns": [
+            "ns1.namebrightdns.com", 
+            "ns2.namebrightdns.com"
+        ], 
+        "domain-name": "ro.utledge.com", 
+        "fuzzer": "subdomain", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "75.126.101.242"
+        ], 
+        "domain-name": "rout.ledge.com", 
+        "fuzzer": "subdomain", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "98.130.139.103"
+        ], 
+        "domain-name": "routle.dge.com", 
+        "fuzzer": "subdomain", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 0
+    }
+]

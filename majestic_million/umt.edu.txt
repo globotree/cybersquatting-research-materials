@@ -1,0 +1,142 @@
+[
+    {
+        "dns-a": [
+            "150.131.194.46"
+        ], 
+        "dns-mx": [
+            "umont01.umt.edu", 
+            "umont02.umt.edu"
+        ], 
+        "dns-ns": [
+            "cudess1.umt.edu", 
+            "cudess2.umt.edu", 
+            "ec2-52-41-69-95.us-west-2.compute.amazonaws.com"
+        ], 
+        "domain-name": "umt.edu", 
+        "fuzzer": "original*", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 100
+    }, 
+    {
+        "dns-a": [
+            "142.4.50.75"
+        ], 
+        "dns-mx": [
+            "alt1.aspmx.l.google.com", 
+            "alt2.aspmx.l.google.com", 
+            "alt3.aspmx.l.google.com", 
+            "alt4.aspmx.l.google.com", 
+            "aspmx.l.google.com"
+        ], 
+        "dns-ns": [
+            "dns5.hndservers.net", 
+            "dns6.hndservers.net"
+        ], 
+        "domain-name": "uit.edu", 
+        "fuzzer": "bitsquatting", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "52.85.95.104", 
+            "52.85.95.132", 
+            "52.85.95.173", 
+            "52.85.95.206", 
+            "52.85.95.66", 
+            "52.85.95.73", 
+            "52.85.95.8", 
+            "52.85.95.83"
+        ], 
+        "dns-mx": [
+            "mx1.umd.iphmx.com", 
+            "mx2.umd.iphmx.com"
+        ], 
+        "dns-ns": [
+            "ns1.umd.edu", 
+            "ns2.umd.edu"
+        ], 
+        "domain-name": "umd.edu", 
+        "fuzzer": "bitsquatting", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "129.120.231.230"
+        ], 
+        "dns-mx": [
+            "unt-edu.mail.protection.outlook.com"
+        ], 
+        "dns-ns": [
+            "ns-a.public.grid.unt.edu", 
+            "ns-b.public.grid.unt.edu"
+        ], 
+        "domain-name": "unt.edu", 
+        "fuzzer": "homoglyph", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "208.75.222.101"
+        ], 
+        "dns-mx": [
+            "mxa-001b8f01.gslb.pphosted.com", 
+            "mxb-001b8f01.gslb.pphosted.com"
+        ], 
+        "dns-ns": [
+            "ns19.customer.level3.net", 
+            "ns24.customer.level3.net", 
+            "ns9.customer.level3.net"
+        ], 
+        "domain-name": "ut.edu", 
+        "fuzzer": "omission", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "43.255.154.38"
+        ], 
+        "dns-mx": [
+            "imt-edu.mail.protection.outlook.com", 
+            "mail1.imt.edu"
+        ], 
+        "dns-ns": [
+            "ns03.domaincontrol.com", 
+            "ns04.domaincontrol.com"
+        ], 
+        "domain-name": "imt.edu", 
+        "fuzzer": "replacement"
+    }, 
+    {
+        "dns-a": [
+            "208.87.72.93", 
+            "208.87.74.47"
+        ], 
+        "dns-mx": [
+            "utm-edu.mail.protection.outlook.com"
+        ], 
+        "dns-ns": [
+            "extdns1.utm.edu", 
+            "extdns2.utm.edu"
+        ], 
+        "domain-name": "utm.edu", 
+        "fuzzer": "transposition"
+    }, 
+    {
+        "dns-a": [
+            "166.62.40.106"
+        ], 
+        "dns-mx": [
+            "amt.edu"
+        ], 
+        "dns-ns": [
+            "ns1.secureserver.net", 
+            "ns2.secureserver.net"
+        ], 
+        "domain-name": "amt.edu", 
+        "fuzzer": "vowel-swap"
+    }
+]

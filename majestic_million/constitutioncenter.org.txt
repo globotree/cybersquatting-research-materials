@@ -1,0 +1,155 @@
+[
+    {
+        "dns-a": [
+            "104.20.77.11", 
+            "104.20.78.11"
+        ], 
+        "dns-aaaa": [
+            "2400:cb00:2048:1::6814:4d0b", 
+            "2400:cb00:2048:1::6814:4e0b"
+        ], 
+        "dns-mx": [
+            "mail.constitutioncenter.org", 
+            "mail2.constitutioncenter.org", 
+            "queue.dca.net", 
+            "remora.constitutioncenter.org"
+        ], 
+        "dns-ns": [
+            "jake.ns.cloudflare.com", 
+            "kate.ns.cloudflare.com"
+        ], 
+        "domain-name": "constitutioncenter.org", 
+        "fuzzer": "original*", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 100
+    }, 
+    {
+        "dns-a": [
+            "141.8.224.93"
+        ], 
+        "domain-name": "constitution-center.org", 
+        "fuzzer": "hyphenation", 
+        "geoip-country": "Switzerland", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "103.224.182.244"
+        ], 
+        "dns-mx": [
+            "park-mx.above.com"
+        ], 
+        "dns-ns": [
+            "ns1.above.com", 
+            "ns2.above.com"
+        ], 
+        "domain-name": "constituioncenter.org", 
+        "fuzzer": "omission", 
+        "geoip-country": "Australia", 
+        "mx-spy": true, 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "199.191.50.73"
+        ], 
+        "dns-ns": [
+            "ns111373.ztomy.com", 
+            "ns211373.ztomy.com"
+        ], 
+        "domain-name": "consitutioncenter.org", 
+        "fuzzer": "omission", 
+        "geoip-country": "Virgin Islands", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "37.58.107.93"
+        ], 
+        "dns-mx": [
+            "mail.efty.com"
+        ], 
+        "dns-ns": [
+            "ns1.eftydns.com", 
+            "ns2.eftydns.com"
+        ], 
+        "domain-name": "constiutioncenter.org", 
+        "fuzzer": "omission", 
+        "geoip-country": "Netherlands", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "69.172.201.153"
+        ], 
+        "dns-ns": [
+            "ns1.uniregistrymarket.link", 
+            "ns2.uniregistrymarket.link"
+        ], 
+        "domain-name": "constitution.center.org", 
+        "fuzzer": "subdomain", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "206.188.192.108"
+        ], 
+        "domain-name": "constitutionc.enter.org", 
+        "fuzzer": "subdomain", 
+        "geoip-country": "United States"
+    }, 
+    {
+        "dns-a": [
+            "199.59.242.150"
+        ], 
+        "domain-name": "constitutionce.nter.org", 
+        "fuzzer": "subdomain", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "66.96.147.134"
+        ], 
+        "dns-mx": [
+            "mx.ter.org"
+        ], 
+        "domain-name": "constitutioncen.ter.org", 
+        "fuzzer": "subdomain", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "98.124.199.35"
+        ], 
+        "domain-name": "constitutioncente.r.org", 
+        "fuzzer": "subdomain", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-ns": [
+            "ns1.systemdns.com", 
+            "ns2.systemdns.com", 
+            "ns3.systemdns.com"
+        ], 
+        "domain-name": "constitutoincenter.org", 
+        "fuzzer": "transposition"
+    }, 
+    {
+        "dns-a": [
+            "202.124.241.178"
+        ], 
+        "dns-ns": [
+            "ns1.netregistry.net", 
+            "ns2.netregistry.net", 
+            "ns3.netregistry.net"
+        ], 
+        "domain-name": "constitutioncentre.org", 
+        "fuzzer": "transposition", 
+        "geoip-country": "Australia", 
+        "ssdeep-score": 0
+    }
+]

@@ -1,0 +1,370 @@
+[
+    {
+        "dns-a": [
+            "168.146.73.101"
+        ], 
+        "dns-mx": [
+            "mxa-000e6001.gslb.pphosted.com", 
+            "mxb-000e6001.gslb.pphosted.com"
+        ], 
+        "dns-ns": [
+            "ns01.pearson.com", 
+            "ns02.pearson.com", 
+            "ns03.pearson.com", 
+            "ns04.pearson.com"
+        ], 
+        "domain-name": "prenhall.com", 
+        "fuzzer": "original*", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 100
+    }, 
+    {
+        "dns-ns": [
+            "ns01.pearson.com", 
+            "ns02.pearson.com", 
+            "ns03.pearson.com", 
+            "ns04.pearson.com"
+        ], 
+        "domain-name": "prenhalll.com", 
+        "fuzzer": "addition"
+    }, 
+    {
+        "dns-mx": [
+            "alt1.gmr-smtp-in.l.google.com", 
+            "alt2.gmr-smtp-in.l.google.com", 
+            "alt3.gmr-smtp-in.l.google.com", 
+            "alt4.gmr-smtp-in.l.google.com", 
+            "gmr-smtp-in.l.google.com"
+        ], 
+        "dns-ns": [
+            "ns-cloud-e1.googledomains.com", 
+            "ns-cloud-e2.googledomains.com", 
+            "ns-cloud-e3.googledomains.com", 
+            "ns-cloud-e4.googledomains.com"
+        ], 
+        "domain-name": "rrenhall.com", 
+        "fuzzer": "bitsquatting"
+    }, 
+    {
+        "dns-a": [
+            "91.195.240.101"
+        ], 
+        "dns-mx": [
+            "mail.prenhell.com"
+        ], 
+        "dns-ns": [
+            "ns1.mpower.nl", 
+            "ns2.mpower.nl"
+        ], 
+        "domain-name": "prenhell.com", 
+        "fuzzer": "bitsquatting", 
+        "geoip-country": "Germany", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-ns": [
+            "ns01.pearson.com", 
+            "ns02.pearson.com", 
+            "ns03.pearson.com", 
+            "ns04.pearson.com"
+        ], 
+        "domain-name": "prenhill.com", 
+        "fuzzer": "bitsquatting"
+    }, 
+    {
+        "dns-a": [
+            "91.195.240.101"
+        ], 
+        "dns-mx": [
+            "mail.prenhail.com"
+        ], 
+        "dns-ns": [
+            "ns1.mpower.nl", 
+            "ns2.mpower.nl"
+        ], 
+        "domain-name": "prenhail.com", 
+        "fuzzer": "homoglyph", 
+        "geoip-country": "Germany", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "208.91.196.152"
+        ], 
+        "dns-ns": [
+            "sk.s7.ans1.ns147.klczy.com", 
+            "sk.s7.ans2.ns147.klczy.com"
+        ], 
+        "domain-name": "premhall.com", 
+        "fuzzer": "homoglyph", 
+        "geoip-country": "Virgin Islands", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "165.160.13.20", 
+            "165.160.15.20"
+        ], 
+        "dns-mx": [
+            "custmx.cscdns.net"
+        ], 
+        "dns-ns": [
+            "dns1.cscdns.net", 
+            "dns2.cscdns.net"
+        ], 
+        "domain-name": "pren-hall.com", 
+        "fuzzer": "hyphenation", 
+        "geoip-country": "United States", 
+        "mx-spy": true, 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "165.160.13.20", 
+            "165.160.15.20"
+        ], 
+        "dns-mx": [
+            "custmx.cscdns.net"
+        ], 
+        "dns-ns": [
+            "dns1.cscdns.net", 
+            "dns2.cscdns.net"
+        ], 
+        "domain-name": "prennhall.com", 
+        "fuzzer": "insertion", 
+        "geoip-country": "United States", 
+        "mx-spy": true, 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "165.160.13.20", 
+            "165.160.15.20"
+        ], 
+        "dns-mx": [
+            "custmx.cscdns.net"
+        ], 
+        "dns-ns": [
+            "dns1.cscdns.net", 
+            "dns2.cscdns.net"
+        ], 
+        "domain-name": "prehnhall.com", 
+        "fuzzer": "insertion", 
+        "geoip-country": "United States", 
+        "mx-spy": true, 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "208.73.210.202", 
+            "208.73.210.217", 
+            "208.73.211.165", 
+            "208.73.211.177"
+        ], 
+        "dns-ns": [
+            "ns1.dsredirection.com", 
+            "ns2.dsredirection.com"
+        ], 
+        "domain-name": "prenhal.com", 
+        "fuzzer": "omission", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "103.224.182.249"
+        ], 
+        "dns-mx": [
+            "park-mx.above.com"
+        ], 
+        "dns-ns": [
+            "ns1.above.com", 
+            "ns2.above.com"
+        ], 
+        "domain-name": "prehall.com", 
+        "fuzzer": "omission", 
+        "geoip-country": "Australia", 
+        "mx-spy": true, 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "165.160.13.20", 
+            "165.160.15.20"
+        ], 
+        "dns-mx": [
+            "custmx.cscdns.net"
+        ], 
+        "dns-ns": [
+            "dns1.cscdns.net", 
+            "dns2.cscdns.net"
+        ], 
+        "domain-name": "prnhall.com", 
+        "fuzzer": "omission", 
+        "geoip-country": "United States", 
+        "mx-spy": true, 
+        "ssdeep-score": 100
+    }, 
+    {
+        "dns-a": [
+            "72.52.179.175"
+        ], 
+        "dns-mx": [
+            "mx156.hostedmxserver.com"
+        ], 
+        "dns-ns": [
+            "ns1.parklogic.com", 
+            "ns2.parklogic.com", 
+            "ns3.parklogic.com", 
+            "ns4.parklogic.com", 
+            "ns5.parklogic.com"
+        ], 
+        "domain-name": "prenall.com", 
+        "fuzzer": "omission", 
+        "geoip-country": "United States", 
+        "mx-spy": true, 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "192.163.211.219"
+        ], 
+        "dns-mx": [
+            "mx1.penhall.iphmx.com", 
+            "mx2.penhall.iphmx.com", 
+            "penhall-com.mail.protection.outlook.com"
+        ], 
+        "dns-ns": [
+            "ns43.worldnic.com", 
+            "ns44.worldnic.com"
+        ], 
+        "domain-name": "penhall.com", 
+        "fuzzer": "omission", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "35.165.255.15"
+        ], 
+        "dns-ns": [
+            "ns1.prengall.com", 
+            "ns2.prengall.com"
+        ], 
+        "domain-name": "prengall.com", 
+        "fuzzer": "replacement", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "165.160.13.20", 
+            "165.160.15.20"
+        ], 
+        "dns-mx": [
+            "custmx.cscdns.net"
+        ], 
+        "dns-ns": [
+            "dns1.cscdns.net", 
+            "dns2.cscdns.net"
+        ], 
+        "domain-name": "prenball.com", 
+        "fuzzer": "replacement", 
+        "geoip-country": "United States", 
+        "mx-spy": true
+    }, 
+    {
+        "dns-a": [
+            "69.172.201.153"
+        ], 
+        "dns-ns": [
+            "ns1.uniregistrymarket.link", 
+            "ns2.uniregistrymarket.link"
+        ], 
+        "domain-name": "pr.enhall.com", 
+        "fuzzer": "subdomain", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "208.91.196.40"
+        ], 
+        "dns-ns": [
+            "sk.s5.ans1.ns116.ztomy.com", 
+            "sk.s5.ans2.ns116.ztomy.com"
+        ], 
+        "domain-name": "pernhall.com", 
+        "fuzzer": "transposition", 
+        "geoip-country": "Virgin Islands", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-ns": [
+            "ns01.pearson.com", 
+            "ns02.pearson.com", 
+            "ns03.pearson.com", 
+            "ns04.pearson.com"
+        ], 
+        "domain-name": "prnehall.com", 
+        "fuzzer": "transposition"
+    }, 
+    {
+        "dns-a": [
+            "165.160.13.20", 
+            "165.160.15.20"
+        ], 
+        "dns-mx": [
+            "custmx.cscdns.net"
+        ], 
+        "dns-ns": [
+            "dns1.cscdns.net", 
+            "dns2.cscdns.net"
+        ], 
+        "domain-name": "prenahll.com", 
+        "fuzzer": "transposition"
+    }, 
+    {
+        "dns-a": [
+            "185.53.178.8"
+        ], 
+        "dns-mx": [
+            "mail.h-email.net"
+        ], 
+        "dns-ns": [
+            "ns1.parkingcrew.net", 
+            "ns2.parkingcrew.net"
+        ], 
+        "domain-name": "pronhall.com", 
+        "fuzzer": "vowel-swap"
+    }, 
+    {
+        "dns-a": [
+            "91.195.240.101"
+        ], 
+        "dns-mx": [
+            "mail.prinhall.com"
+        ], 
+        "dns-ns": [
+            "ns1.mpower.nl", 
+            "ns2.mpower.nl"
+        ], 
+        "domain-name": "prinhall.com", 
+        "fuzzer": "vowel-swap"
+    }, 
+    {
+        "dns-a": [
+            "165.160.13.20", 
+            "165.160.15.20"
+        ], 
+        "dns-mx": [
+            "custmx.cscdns.net"
+        ], 
+        "dns-ns": [
+            "dns1.cscdns.net", 
+            "dns2.cscdns.net"
+        ], 
+        "domain-name": "prenhull.com", 
+        "fuzzer": "vowel-swap"
+    }
+]

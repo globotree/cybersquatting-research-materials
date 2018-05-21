@@ -1,0 +1,30 @@
+[
+    {
+        "dns-a": [
+            "160.17.98.198"
+        ], 
+        "dns-mx": [
+            "mx.x.recruit.co.jp"
+        ], 
+        "dns-ns": [
+            "ns1.x.recruit.co.jp", 
+            "ns2.x.recruit.co.jp", 
+            "ns3.x.recruit.co.jp"
+        ], 
+        "domain-name": "hotpepper.jp", 
+        "fuzzer": "original*", 
+        "geoip-country": "Japan", 
+        "ssdeep-score": 100
+    }, 
+    {
+        "dns-a": [
+            "157.7.107.145"
+        ], 
+        "dns-mx": [
+            "mx01.lolipop.jp"
+        ], 
+        "domain-name": "hot.pepper.jp", 
+        "fuzzer": "subdomain", 
+        "geoip-country": "Japan"
+    }
+]

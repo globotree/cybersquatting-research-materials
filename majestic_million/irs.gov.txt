@@ -1,0 +1,55 @@
+[
+    {
+        "dns-a": [
+            "166.123.218.220"
+        ], 
+        "dns-mx": [
+            "emgc.irs.gov", 
+            "emge.irs.gov", 
+            "emgw.irs.gov"
+        ], 
+        "dns-ns": [
+            "ns1.irs.gov", 
+            "ns2.irs.gov", 
+            "ns3.irs.gov", 
+            "ns4.irs.gov"
+        ], 
+        "domain-name": "irs.gov", 
+        "fuzzer": "original*", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 100
+    }, 
+    {
+        "dns-a": [
+            "199.169.194.42"
+        ], 
+        "dns-aaaa": [
+            "2605:3100:fffc:100::2a"
+        ], 
+        "dns-ns": [
+            "ns1.twai.gov", 
+            "ns2.twai.gov"
+        ], 
+        "domain-name": "its.gov", 
+        "fuzzer": "replacement", 
+        "geoip-country": "United States"
+    }, 
+    {
+        "dns-a": [
+            "104.36.55.19"
+        ], 
+        "dns-ns": [
+            "naos.metisentry.net", 
+            "ns1.pantek.com", 
+            "ns2.pantek.com", 
+            "ruby.metisentry.net", 
+            "sand.metisentry.net", 
+            "sandeu.metisentry.net", 
+            "yildun.metisentry.net"
+        ], 
+        "domain-name": "irs-gov.com", 
+        "fuzzer": "various", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 0
+    }
+]

@@ -1,0 +1,35 @@
+[
+    {
+        "dns-mx": [
+            "hzmx01.mxmail.netease.com", 
+            "hzmx02.mxmail.netease.com"
+        ], 
+        "dns-ns": [
+            "ns.fzw.cn", 
+            "ns.legaldaily.cn"
+        ], 
+        "domain-name": "moj.gov.cn", 
+        "fuzzer": "original*"
+    }, 
+    {
+        "dns-mx": [
+            "mail.moh.gov.cn", 
+            "moh.gov.abroad.eyou.net", 
+            "smg.moh.gov.cn"
+        ], 
+        "dns-ns": [
+            "ns1.cdns.cn", 
+            "ns2.cdns.cn", 
+            "ns3.cdns.cn"
+        ], 
+        "domain-name": "moh.gov.cn", 
+        "fuzzer": "bitsquatting"
+    }, 
+    {
+        "dns-a": [
+            "123.103.13.79"
+        ], 
+        "domain-name": "mj.gov.cn", 
+        "fuzzer": "omission"
+    }
+]

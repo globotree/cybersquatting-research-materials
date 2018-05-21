@@ -1,0 +1,128 @@
+[
+    {
+        "dns-a": [
+            "172.217.22.35"
+        ], 
+        "dns-aaaa": [
+            "2a00:1450:4001:81b::2003"
+        ], 
+        "dns-mx": [
+            "google.com.s9a1.psmtp.com", 
+            "google.com.s9a2.psmtp.com", 
+            "google.com.s9b1.psmtp.com", 
+            "google.com.s9b2.psmtp.com"
+        ], 
+        "dns-ns": [
+            "ns1.google.com", 
+            "ns2.google.com", 
+            "ns3.google.com", 
+            "ns4.google.com"
+        ], 
+        "domain-name": "google.bg", 
+        "fuzzer": "original*", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 80
+    }, 
+    {
+        "dns-a": [
+            "79.98.108.220"
+        ], 
+        "dns-mx": [
+            "googlee.bg"
+        ], 
+        "dns-ns": [
+            "ns3.novahost.bg", 
+            "ns4.novahost.bg"
+        ], 
+        "domain-name": "googlee.bg", 
+        "fuzzer": "addition", 
+        "geoip-country": "Bulgaria", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "195.191.148.97"
+        ], 
+        "dns-mx": [
+            "googl.bg"
+        ], 
+        "dns-ns": [
+            "ns147.superhosting.bg", 
+            "ns148.superhosting.bg"
+        ], 
+        "domain-name": "googl.bg", 
+        "fuzzer": "omission", 
+        "geoip-country": "Bulgaria", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "185.66.141.23"
+        ], 
+        "dns-ns": [
+            "ns1.jabse.com", 
+            "ns2.jabse.com", 
+            "ns3.jabse.com"
+        ], 
+        "domain-name": "goole.bg", 
+        "fuzzer": "omission", 
+        "geoip-country": "Netherlands", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "185.66.141.23"
+        ], 
+        "dns-ns": [
+            "ns1.jabse.com", 
+            "ns2.jabse.com", 
+            "ns3.jabse.com"
+        ], 
+        "domain-name": "googe.bg", 
+        "fuzzer": "omission", 
+        "geoip-country": "Netherlands", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "195.191.148.97"
+        ], 
+        "dns-mx": [
+            "oogle.bg"
+        ], 
+        "dns-ns": [
+            "ns147.superhosting.bg", 
+            "ns148.superhosting.bg"
+        ], 
+        "domain-name": "oogle.bg", 
+        "fuzzer": "omission", 
+        "geoip-country": "Bulgaria", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "217.174.149.125"
+        ], 
+        "dns-mx": [
+            "gooogle.bg"
+        ], 
+        "dns-ns": [
+            "ns3.gotobg.net", 
+            "ns4.gotobg.net"
+        ], 
+        "domain-name": "gooogle.bg", 
+        "fuzzer": "repetition", 
+        "geoip-country": "Bulgaria", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-ns": [
+            "ns1.googledomains.com", 
+            "ns2.googledomains.com", 
+            "ns3.googledomains.com", 
+            "ns4.googledomains.com"
+        ], 
+        "domain-name": "google-bg.com", 
+        "fuzzer": "various"
+    }
+]

@@ -1,0 +1,119 @@
+[
+    {
+        "dns-a": [
+            "202.116.0.1"
+        ], 
+        "dns-aaaa": [
+            "2001:da8:2002::1"
+        ], 
+        "dns-mx": [
+            "register.jnu.edu.cn"
+        ], 
+        "dns-ns": [
+            "maina.jnu.edu.cn", 
+            "mainb.jnu.edu.cn"
+        ], 
+        "domain-name": "jnu.edu.cn", 
+        "fuzzer": "original*", 
+        "geoip-country": "China"
+    }, 
+    {
+        "dns-mx": [
+            "smtp.hnu.edu.cn"
+        ], 
+        "dns-ns": [
+            "dns.hnu.edu.cn"
+        ], 
+        "domain-name": "hnu.edu.cn", 
+        "fuzzer": "bitsquatting"
+    }, 
+    {
+        "dns-ns": [
+            "bamboo.nnu.edu.cn", 
+            "pine.nnu.edu.cn"
+        ], 
+        "domain-name": "nnu.edu.cn", 
+        "fuzzer": "bitsquatting"
+    }, 
+    {
+        "dns-mx": [
+            "email.bnu.edu.cn", 
+            "email2.bnu.edu.cn"
+        ], 
+        "dns-ns": [
+            "ns.bnu.edu.cn", 
+            "ns2.bnu.edu.cn", 
+            "ns3.bnu.edu.cn"
+        ], 
+        "domain-name": "bnu.edu.cn", 
+        "fuzzer": "bitsquatting"
+    }, 
+    {
+        "dns-mx": [
+            "mail.jlu.edu.cn"
+        ], 
+        "dns-ns": [
+            "dns.jlu.edu.cn", 
+            "dns2.jlu.edu.cn"
+        ], 
+        "domain-name": "jlu.edu.cn", 
+        "fuzzer": "bitsquatting"
+    }, 
+    {
+        "dns-a": [
+            "210.34.128.38"
+        ], 
+        "dns-mx": [
+            "hzmx01.mxmail.netease.com", 
+            "hzmx02.mxmail.netease.com"
+        ], 
+        "dns-ns": [
+            "dns.jmu.edu.cn", 
+            "dns1.jmu.edu.cn", 
+            "dns2.jmu.edu.cn", 
+            "dnsct.jmu.edu.cn", 
+            "dnsct2.jmu.edu.cn", 
+            "dnsun.jmu.edu.cn", 
+            "dnsun2.jmu.edu.cn"
+        ], 
+        "domain-name": "jmu.edu.cn", 
+        "fuzzer": "homoglyph", 
+        "geoip-country": "China"
+    }, 
+    {
+        "dns-a": [
+            "210.41.152.22"
+        ], 
+        "dns-mx": [
+            "mail.mnu.edu.cn"
+        ], 
+        "dns-ns": [
+            "pridns.mnu.edu.cn", 
+            "secdns.mnu.edu.cn"
+        ], 
+        "domain-name": "mnu.edu.cn", 
+        "fuzzer": "replacement"
+    }, 
+    {
+        "dns-mx": [
+            "mxbiz1.qq.com", 
+            "mxbiz2.qq.com"
+        ], 
+        "dns-ns": [
+            "dns.nju.edu.cn", 
+            "ns.nju.edu.cn"
+        ], 
+        "domain-name": "nju.edu.cn", 
+        "fuzzer": "transposition"
+    }, 
+    {
+        "dns-a": [
+            "202.116.0.1"
+        ], 
+        "dns-ns": [
+            "maina.jnu.cn"
+        ], 
+        "domain-name": "jnu.cn", 
+        "fuzzer": "various"
+    }
+]

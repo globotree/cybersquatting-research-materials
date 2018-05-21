@@ -1,0 +1,94 @@
+[
+    {
+        "dns-a": [
+            "138.201.238.66"
+        ], 
+        "dns-mx": [
+            "mail.av-test.org"
+        ], 
+        "dns-ns": [
+            "ns1.first-ns.de", 
+            "robotns2.second-ns.de", 
+            "robotns3.second-ns.com"
+        ], 
+        "domain-name": "av-test.org", 
+        "fuzzer": "original*", 
+        "geoip-country": "Germany", 
+        "ssdeep-score": 99
+    }, 
+    {
+        "dns-a": [
+            "138.201.238.66"
+        ], 
+        "dns-mx": [
+            "mail.av-tests.org"
+        ], 
+        "dns-ns": [
+            "ns1.first-ns.de", 
+            "robotns2.second-ns.de", 
+            "robotns3.second-ns.com"
+        ], 
+        "domain-name": "av-tests.org", 
+        "fuzzer": "addition", 
+        "geoip-country": "Germany", 
+        "ssdeep-score": 99
+    }, 
+    {
+        "dns-a": [
+            "211.100.61.117"
+        ], 
+        "dns-mx": [
+            "mx5x01.east.net", 
+            "mx5x02.east.net"
+        ], 
+        "domain-name": "ev-test.org", 
+        "fuzzer": "bitsquatting", 
+        "geoip-country": "China", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "138.201.238.66"
+        ], 
+        "dns-mx": [
+            "mail.avtest.org"
+        ], 
+        "dns-ns": [
+            "ns1.first-ns.de", 
+            "robotns2.second-ns.de", 
+            "robotns3.second-ns.com"
+        ], 
+        "domain-name": "avtest.org", 
+        "fuzzer": "omission", 
+        "geoip-country": "Germany", 
+        "ssdeep-score": 99
+    }, 
+    {
+        "dns-a": [
+            "5.9.43.237"
+        ], 
+        "dns-mx": [
+            "mail.nominalia.com"
+        ], 
+        "dns-ns": [
+            "dns1.nominalia.com", 
+            "dns2.nominalia.com"
+        ], 
+        "domain-name": "a-test.org", 
+        "fuzzer": "omission", 
+        "geoip-country": "Germany", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "160.16.90.74"
+        ], 
+        "dns-ns": [
+            "ns1.dns.ne.jp", 
+            "ns2.dns.ne.jp"
+        ], 
+        "domain-name": "v-test.org", 
+        "fuzzer": "omission", 
+        "geoip-country": "Japan"
+    }
+]

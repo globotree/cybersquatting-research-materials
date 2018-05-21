@@ -1,0 +1,83 @@
+[
+    {
+        "dns-a": [
+            "104.25.155.37", 
+            "104.25.156.37"
+        ], 
+        "dns-aaaa": [
+            "2400:cb00:2048:1::6819:9b25", 
+            "2400:cb00:2048:1::6819:9c25"
+        ], 
+        "dns-mx": [
+            "mx1.emailsrvr.com"
+        ], 
+        "dns-ns": [
+            "melinda.ns.cloudflare.com", 
+            "miles.ns.cloudflare.com"
+        ], 
+        "domain-name": "gulf-times.com", 
+        "fuzzer": "original*", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 100
+    }, 
+    {
+        "dns-a": [
+            "66.45.246.141"
+        ], 
+        "domain-name": "gulf-time.com", 
+        "fuzzer": "omission", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "166.62.87.127"
+        ], 
+        "dns-mx": [
+            "mail.gulftimes.com"
+        ], 
+        "dns-ns": [
+            "ns17.domaincontrol.com", 
+            "ns18.domaincontrol.com"
+        ], 
+        "domain-name": "gulftimes.com", 
+        "fuzzer": "omission", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "23.23.174.132"
+        ], 
+        "domain-name": "gulf-t.imes.com", 
+        "fuzzer": "subdomain", 
+        "geoip-country": "United States"
+    }, 
+    {
+        "dns-a": [
+            "69.172.201.153"
+        ], 
+        "dns-ns": [
+            "ns1.uniregistrymarket.link", 
+            "ns2.uniregistrymarket.link"
+        ], 
+        "domain-name": "gulf-ti.mes.com", 
+        "fuzzer": "subdomain", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "219.94.162.152"
+        ], 
+        "dns-mx": [
+            "golf-times.com"
+        ], 
+        "dns-ns": [
+            "ns1.dns.ne.jp", 
+            "ns2.dns.ne.jp"
+        ], 
+        "domain-name": "golf-times.com", 
+        "fuzzer": "vowel-swap"
+    }
+]

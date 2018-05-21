@@ -1,0 +1,192 @@
+[
+    {
+        "dns-mx": [
+            "tkes51.tksc.jaxa.jp", 
+            "tkes52.tksc.jaxa.jp"
+        ], 
+        "dns-ns": [
+            "dns-x.sinet.ad.jp", 
+            "forest.tksc.jaxa.jp", 
+            "ns.jaxa.jp"
+        ], 
+        "domain-name": "jaxa.jp", 
+        "fuzzer": "original*"
+    }, 
+    {
+        "dns-a": [
+            "157.7.107.100"
+        ], 
+        "dns-mx": [
+            "mx01.lolipop.jp"
+        ], 
+        "dns-ns": [
+            "uns01.lolipop.jp", 
+            "uns02.lolipop.jp"
+        ], 
+        "domain-name": "jaxas.jp", 
+        "fuzzer": "addition", 
+        "geoip-country": "Japan"
+    }, 
+    {
+        "dns-a": [
+            "210.144.91.9"
+        ], 
+        "dns-ns": [
+            "bdns1.meiji.co.jp", 
+            "bdns2.meiji.co.jp"
+        ], 
+        "domain-name": "zaxa.jp", 
+        "fuzzer": "bitsquatting", 
+        "geoip-country": "Japan"
+    }, 
+    {
+        "dns-a": [
+            "59.106.19.192"
+        ], 
+        "dns-mx": [
+            "jexa.jp"
+        ], 
+        "dns-ns": [
+            "ns1.dns.ne.jp", 
+            "ns2.dns.ne.jp"
+        ], 
+        "domain-name": "jexa.jp", 
+        "fuzzer": "bitsquatting", 
+        "geoip-country": "Japan"
+    }, 
+    {
+        "dns-a": [
+            "150.60.177.253"
+        ], 
+        "dns-mx": [
+            "af135.secure.ne.jp"
+        ], 
+        "dns-ns": [
+            "ns51.v6dns.jp", 
+            "ns52.v6dns.jp"
+        ], 
+        "domain-name": "jaza.jp", 
+        "fuzzer": "bitsquatting", 
+        "geoip-country": "Japan"
+    }, 
+    {
+        "dns-a": [
+            "157.7.188.191"
+        ], 
+        "dns-mx": [
+            "mail21.heteml.jp"
+        ], 
+        "dns-ns": [
+            "dns0.heteml.jp", 
+            "dns1.heteml.jp"
+        ], 
+        "domain-name": "japa.jp", 
+        "fuzzer": "bitsquatting", 
+        "geoip-country": "Japan"
+    }, 
+    {
+        "dns-a": [
+            "54.72.9.51"
+        ], 
+        "dns-mx": [
+            "mail.h-email.net"
+        ], 
+        "dns-ns": [
+            "ns1.parkingcrew.net", 
+            "ns2.parkingcrew.net"
+        ], 
+        "domain-name": "jaha.jp", 
+        "fuzzer": "bitsquatting", 
+        "geoip-country": "Ireland", 
+        "mx-spy": true
+    }, 
+    {
+        "dns-a": [
+            "219.94.129.18"
+        ], 
+        "dns-mx": [
+            "jxa.jp"
+        ], 
+        "dns-ns": [
+            "ns1.dns.ne.jp", 
+            "ns2.dns.ne.jp"
+        ], 
+        "domain-name": "jxa.jp", 
+        "fuzzer": "omission", 
+        "geoip-country": "Japan"
+    }, 
+    {
+        "dns-mx": [
+            "mx01.lolipop.jp"
+        ], 
+        "dns-ns": [
+            "dns01.chicappa.jp", 
+            "dns02.chicappa.jp"
+        ], 
+        "domain-name": "axa.jp", 
+        "fuzzer": "omission"
+    }, 
+    {
+        "dns-mx": [
+            "jax.jp"
+        ], 
+        "dns-ns": [
+            "ns1.value-domain.com", 
+            "ns2.value-domain.com"
+        ], 
+        "domain-name": "jax.jp", 
+        "fuzzer": "omission"
+    }, 
+    {
+        "dns-ns": [
+            "nsk0.secure.ne.jp", 
+            "nsk1.secure.ne.jp"
+        ], 
+        "domain-name": "jaa.jp", 
+        "fuzzer": "omission"
+    }, 
+    {
+        "dns-a": [
+            "157.7.107.63"
+        ], 
+        "dns-mx": [
+            "mx01.lolipop.jp"
+        ], 
+        "dns-ns": [
+            "uns01.lolipop.jp", 
+            "uns02.lolipop.jp"
+        ], 
+        "domain-name": "maxa.jp", 
+        "fuzzer": "replacement", 
+        "geoip-country": "Japan"
+    }, 
+    {
+        "dns-a": [
+            "202.45.166.114"
+        ], 
+        "dns-mx": [
+            "mail.jada.jp"
+        ], 
+        "dns-ns": [
+            "ns.jada.jp", 
+            "ns3.hokurikudaido.com"
+        ], 
+        "domain-name": "jada.jp", 
+        "fuzzer": "replacement", 
+        "geoip-country": "Japan"
+    }, 
+    {
+        "dns-a": [
+            "203.138.98.155"
+        ], 
+        "dns-mx": [
+            "mail.jasa.jp"
+        ], 
+        "dns-ns": [
+            "ns.jasa.jp"
+        ], 
+        "domain-name": "jasa.jp", 
+        "fuzzer": "replacement", 
+        "geoip-country": "Japan"
+    }
+]

@@ -1,0 +1,75 @@
+[
+    {
+        "dns-mx": [
+            "alt1.aspmx.l.google.com", 
+            "alt2.aspmx.l.google.com", 
+            "alt3.aspmx.l.google.com", 
+            "alt4.aspmx.l.google.com", 
+            "aspmx.l.google.com"
+        ], 
+        "dns-ns": [
+            "ns-1402.awsdns-47.org", 
+            "ns-1669.awsdns-16.co.uk", 
+            "ns-464.awsdns-58.com", 
+            "ns-570.awsdns-07.net"
+        ], 
+        "domain-name": "birminghammail.co.uk", 
+        "fuzzer": "original*"
+    }, 
+    {
+        "dns-a": [
+            "62.201.164.138"
+        ], 
+        "dns-aaaa": [
+            "2001:868:100:600::f138"
+        ], 
+        "domain-name": "birmingham.mail.co.uk", 
+        "fuzzer": "subdomain", 
+        "geoip-country": "Germany", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "69.172.201.153"
+        ], 
+        "dns-ns": [
+            "ns1.uniregistrymarket.link", 
+            "ns2.uniregistrymarket.link"
+        ], 
+        "domain-name": "birminghamma.il.co.uk", 
+        "fuzzer": "subdomain", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "98.124.245.24"
+        ], 
+        "dns-mx": [
+            "mail.b-io.co"
+        ], 
+        "dns-ns": [
+            "ns1.fabulous.com", 
+            "ns2.fabulous.com"
+        ], 
+        "domain-name": "birminghammai.l.co.uk", 
+        "fuzzer": "subdomain", 
+        "geoip-country": "United States", 
+        "mx-spy": true
+    }, 
+    {
+        "dns-a": [
+            "46.137.169.93", 
+            "54.228.238.58"
+        ], 
+        "dns-ns": [
+            "ns-1085.awsdns-07.org", 
+            "ns-2040.awsdns-63.co.uk", 
+            "ns-340.awsdns-42.com", 
+            "ns-722.awsdns-26.net"
+        ], 
+        "domain-name": "birminghammail.uk", 
+        "fuzzer": "various", 
+        "geoip-country": "Ireland"
+    }
+]

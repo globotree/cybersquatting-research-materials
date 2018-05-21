@@ -1,0 +1,44 @@
+[
+    {
+        "dns-aaaa": [
+            "2400:cb00:2048:1::6811:4668"
+        ], 
+        "dns-mx": [
+            "mx.yandex.ru"
+        ], 
+        "dns-ns": [
+            "ns7.yandex.ru", 
+            "ns8.yandex.ru"
+        ], 
+        "domain-name": "yandex.ua", 
+        "fuzzer": "original*"
+    }, 
+    {
+        "dns-a": [
+            "77.120.115.180"
+        ], 
+        "domain-name": "yand.ex.ua", 
+        "fuzzer": "subdomain", 
+        "geoip-country": "Ukraine"
+    }, 
+    {
+        "dns-a": [
+            "185.68.16.128"
+        ], 
+        "dns-aaaa": [
+            "2a00:7a60:0:1080::1"
+        ], 
+        "dns-mx": [
+            "mx15.ukraine.com.ua", 
+            "mx20.ukraine.com.ua"
+        ], 
+        "dns-ns": [
+            "ns18.inhostedns.com", 
+            "ns28.inhostedns.net", 
+            "ns38.inhostedns.org"
+        ], 
+        "domain-name": "yandex-ua.com", 
+        "fuzzer": "various", 
+        "geoip-country": "Ukraine"
+    }
+]

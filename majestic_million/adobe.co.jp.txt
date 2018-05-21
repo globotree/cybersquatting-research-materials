@@ -1,0 +1,123 @@
+[
+    {
+        "dns-a": [
+            "193.104.215.58"
+        ], 
+        "dns-mx": [
+            "adobe-co-jp.mail.protection.outlook.com", 
+            "adobe.mail.protection.outlook.com"
+        ], 
+        "dns-ns": [
+            "a1-217.akam.net", 
+            "a10-64.akam.net", 
+            "a13-65.akam.net", 
+            "a26-66.akam.net", 
+            "a28-67.akam.net", 
+            "a7-64.akam.net", 
+            "adobe-dns-01.adobe.com", 
+            "adobe-dns-03.adobe.com", 
+            "adobe-dns-04.adobe.com", 
+            "adobe-dns-05.adobe.com"
+        ], 
+        "domain-name": "adobe.co.jp", 
+        "fuzzer": "original*", 
+        "geoip-country": "Europe", 
+        "ssdeep-score": 100
+    }, 
+    {
+        "dns-a": [
+            "157.7.135.158"
+        ], 
+        "dns-mx": [
+            "mail.atobe.co.jp"
+        ], 
+        "dns-ns": [
+            "ns1.rocketnet.jp", 
+            "ns2.rocketnet.jp"
+        ], 
+        "domain-name": "atobe.co.jp", 
+        "fuzzer": "bitsquatting", 
+        "geoip-country": "Japan", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "183.90.253.31"
+        ], 
+        "dns-mx": [
+            "adore.co.jp"
+        ], 
+        "dns-ns": [
+            "ns1.xserver.jp", 
+            "ns2.xserver.jp", 
+            "ns3.xserver.jp", 
+            "ns4.xserver.jp", 
+            "ns5.xserver.jp"
+        ], 
+        "domain-name": "adore.co.jp", 
+        "fuzzer": "bitsquatting", 
+        "geoip-country": "Japan"
+    }, 
+    {
+        "dns-a": [
+            "60.43.219.28"
+        ], 
+        "dns-mx": [
+            "mwbgw1.ocn.ad.jp", 
+            "mwbgw2.ocn.ad.jp"
+        ], 
+        "dns-ns": [
+            "ns-204.dns.jp-e1.cloudn-service.com", 
+            "ns-205.dns.jp-w1.cloudn-service.com", 
+            "ns-206.dns.us-e1.cloudn-service.com"
+        ], 
+        "domain-name": "adlobe.co.jp", 
+        "fuzzer": "homoglyph", 
+        "geoip-country": "Japan", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "157.7.107.165"
+        ], 
+        "dns-mx": [
+            "mx01.lolipop.jp"
+        ], 
+        "dns-ns": [
+            "uns01.lolipop.jp", 
+            "uns02.lolipop.jp"
+        ], 
+        "domain-name": "adode.co.jp", 
+        "fuzzer": "homoglyph", 
+        "geoip-country": "Japan", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "133.242.30.171"
+        ], 
+        "dns-mx": [
+            "mail.asobe.co.jp"
+        ], 
+        "dns-ns": [
+            "ns1.tokyodomain.com", 
+            "ns2.tokyodomain.com"
+        ], 
+        "domain-name": "asobe.co.jp", 
+        "fuzzer": "replacement", 
+        "geoip-country": "Japan", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-mx": [
+            "amxi.aics.ne.jp"
+        ], 
+        "dns-ns": [
+            "gntdns01.alpha-plt.jp", 
+            "gntdns02.alpha-plt.jp", 
+            "gntdns03.alpha-plt.jp"
+        ], 
+        "domain-name": "adone.co.jp", 
+        "fuzzer": "replacement"
+    }
+]

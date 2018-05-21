@@ -1,0 +1,82 @@
+[
+    {
+        "dns-a": [
+            "151.101.1.69", 
+            "151.101.129.69", 
+            "151.101.193.69", 
+            "151.101.65.69"
+        ], 
+        "dns-ns": [
+            "ns-1135.awsdns-13.org", 
+            "ns-860.awsdns-43.net", 
+            "ns-cloud-c1.googledomains.com", 
+            "ns-cloud-c2.googledomains.com"
+        ], 
+        "domain-name": "serverfault.com", 
+        "fuzzer": "original*", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 88
+    }, 
+    {
+        "dns-a": [
+            "216.12.130.248"
+        ], 
+        "dns-aaaa": [
+            "2610:60:0:1002:203:47ff:fe73:b1f7", 
+            "2610:60:0:1002:203:47ff:fe73:b21f"
+        ], 
+        "dns-mx": [
+            "svmx00.servervault.com", 
+            "svmx01.servervault.com", 
+            "svmx02.servervault.com"
+        ], 
+        "dns-ns": [
+            "ns1.servervault.com", 
+            "ns2.servervault.com"
+        ], 
+        "domain-name": "servervault.com", 
+        "fuzzer": "bitsquatting", 
+        "geoip-country": "United States", 
+        "mx-spy": true, 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "52.73.124.185", 
+            "54.164.198.60"
+        ], 
+        "dns-ns": [
+            "ns1.namebrightdns.com", 
+            "ns2.namebrightdns.com"
+        ], 
+        "domain-name": "servefault.com", 
+        "fuzzer": "omission", 
+        "geoip-country": "United States"
+    }, 
+    {
+        "dns-a": [
+            "185.53.178.6"
+        ], 
+        "dns-mx": [
+            "mail.h-email.net"
+        ], 
+        "dns-ns": [
+            "ns1.parkingcrew.net", 
+            "ns2.parkingcrew.net"
+        ], 
+        "domain-name": "server.fault.com", 
+        "fuzzer": "subdomain", 
+        "geoip-country": "Germany", 
+        "mx-spy": true, 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "75.126.100.20"
+        ], 
+        "domain-name": "serverfau.lt.com", 
+        "fuzzer": "subdomain", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 0
+    }
+]

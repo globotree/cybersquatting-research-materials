@@ -1,0 +1,55 @@
+[
+    {
+        "dns-a": [
+            "104.16.77.187", 
+            "104.16.78.187"
+        ], 
+        "dns-aaaa": [
+            "2400:cb00:2048:1::6810:4cbb", 
+            "2400:cb00:2048:1::6810:4ebb"
+        ], 
+        "dns-mx": [
+            "mx-east.fbi.gov"
+        ], 
+        "dns-ns": [
+            "a1.fbi.gov", 
+            "a2.fbi.gov", 
+            "a3.fbi.gov"
+        ], 
+        "domain-name": "fbi.gov", 
+        "fuzzer": "original*", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 93
+    }, 
+    {
+        "dns-a": [
+            "66.151.109.46", 
+            "66.151.109.54"
+        ], 
+        "dns-aaaa": [
+            "2600:c08:2020::1:6", 
+            "2600:c08:2020::1:7"
+        ], 
+        "dns-mx": [
+            "smtp.fbo.gov"
+        ], 
+        "dns-ns": [
+            "ns03.symplicity.com", 
+            "ns04.symplicity.com", 
+            "ns06.symplicity.com"
+        ], 
+        "domain-name": "fbo.gov", 
+        "fuzzer": "replacement"
+    }, 
+    {
+        "dns-a": [
+            "141.8.230.20"
+        ], 
+        "dns-mx": [
+            "mxs1.domainrecover.com", 
+            "mxs2.domainrecover.com"
+        ], 
+        "domain-name": "fbi-gov.com", 
+        "fuzzer": "various"
+    }
+]

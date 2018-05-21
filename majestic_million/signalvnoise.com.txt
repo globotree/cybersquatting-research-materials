@@ -1,0 +1,75 @@
+[
+    {
+        "dns-a": [
+            "204.62.114.116"
+        ], 
+        "dns-ns": [
+            "dns1.p02.nsone.net", 
+            "dns2.p02.nsone.net", 
+            "dns3.p02.nsone.net", 
+            "dns4.p02.nsone.net", 
+            "ns-1056.awsdns-04.org", 
+            "ns-1847.awsdns-38.co.uk", 
+            "ns-293.awsdns-36.com", 
+            "ns-575.awsdns-07.net"
+        ], 
+        "domain-name": "signalvnoise.com", 
+        "fuzzer": "original*", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 99
+    }, 
+    {
+        "dns-a": [
+            "23.235.37.119"
+        ], 
+        "dns-mx": [
+            "mail.signalnoise.com"
+        ], 
+        "dns-ns": [
+            "ns1.mediatemple.net", 
+            "ns2.mediatemple.net"
+        ], 
+        "domain-name": "signalnoise.com", 
+        "fuzzer": "omission", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "69.172.201.153"
+        ], 
+        "dns-ns": [
+            "ns1.uniregistrymarket.link", 
+            "ns2.uniregistrymarket.link"
+        ], 
+        "domain-name": "signal.vnoise.com", 
+        "fuzzer": "subdomain", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "204.239.167.21"
+        ], 
+        "domain-name": "signalv.noise.com", 
+        "fuzzer": "subdomain", 
+        "geoip-country": "Canada"
+    }, 
+    {
+        "dns-a": [
+            "54.246.209.93"
+        ], 
+        "domain-name": "signalvn.oise.com", 
+        "fuzzer": "subdomain", 
+        "geoip-country": "Ireland", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "198.64.157.161"
+        ], 
+        "domain-name": "signalvno.ise.com", 
+        "fuzzer": "subdomain", 
+        "geoip-country": "United States"
+    }
+]

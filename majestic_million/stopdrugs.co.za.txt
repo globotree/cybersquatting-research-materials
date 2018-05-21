@@ -1,0 +1,61 @@
+[
+    {
+        "dns-a": [
+            "129.232.136.165"
+        ], 
+        "dns-mx": [
+            "mail.stopdrugs.co.za"
+        ], 
+        "dns-ns": [
+            "ns1.dns-h.com", 
+            "ns1.host-h.net", 
+            "ns2.host-h.net"
+        ], 
+        "domain-name": "stopdrugs.co.za", 
+        "fuzzer": "original*", 
+        "geoip-country": "South Africa", 
+        "ssdeep-score": 100
+    }, 
+    {
+        "dns-a": [
+            "185.53.179.6"
+        ], 
+        "dns-mx": [
+            "mail.h-email.net"
+        ], 
+        "dns-ns": [
+            "ns1.parkingcrew.net", 
+            "ns2.parkingcrew.net"
+        ], 
+        "domain-name": "stop.drugs.co.za", 
+        "fuzzer": "subdomain", 
+        "geoip-country": "Germany", 
+        "mx-spy": true, 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "75.126.57.130"
+        ], 
+        "domain-name": "stopd.rugs.co.za", 
+        "fuzzer": "subdomain", 
+        "geoip-country": "United States"
+    }, 
+    {
+        "dns-a": [
+            "72.52.4.119"
+        ], 
+        "dns-mx": [
+            "localhost"
+        ], 
+        "dns-ns": [
+            "ns1.sedoparking.com", 
+            "ns2.sedoparking.com"
+        ], 
+        "domain-name": "stopdr.ugs.co.za", 
+        "fuzzer": "subdomain", 
+        "geoip-country": "United States", 
+        "mx-spy": true, 
+        "ssdeep-score": 0
+    }
+]

@@ -1,0 +1,65 @@
+[
+    {
+        "dns-a": [
+            "77.240.20.17", 
+            "77.240.20.18", 
+            "77.240.20.19"
+        ], 
+        "dns-mx": [
+            "butler.mbnet.fi", 
+            "james.mbnet.fi", 
+            "monica.mbnet.fi"
+        ], 
+        "dns-ns": [
+            "dns1.louhi.net", 
+            "dns2.louhi.net", 
+            "dns3.louhi.fi"
+        ], 
+        "domain-name": "mbnet.fi", 
+        "fuzzer": "original*", 
+        "geoip-country": "Finland", 
+        "ssdeep-score": 100
+    }, 
+    {
+        "dns-ns": [
+            "nsgbr.comlaude.co.uk", 
+            "nssui.comlaude.ch", 
+            "nsusa.comlaude.net"
+        ], 
+        "domain-name": "mbet.fi", 
+        "fuzzer": "omission"
+    }, 
+    {
+        "dns-a": [
+            "80.69.161.35"
+        ], 
+        "dns-aaaa": [
+            "2a01:51c0:1000:21:80:69:161:35"
+        ], 
+        "dns-mx": [
+            "mail1.sigmatic.fi"
+        ], 
+        "dns-ns": [
+            "ns1.sigmatic.fi", 
+            "ns2.sigmatic.fi"
+        ], 
+        "domain-name": "mvnet.fi", 
+        "fuzzer": "replacement"
+    }, 
+    {
+        "dns-a": [
+            "144.76.197.237"
+        ], 
+        "dns-mx": [
+            "mail.mgnet.fi"
+        ], 
+        "dns-ns": [
+            "ns1.mgnet.fi", 
+            "ns2.mgnet.fi"
+        ], 
+        "domain-name": "mgnet.fi", 
+        "fuzzer": "replacement", 
+        "geoip-country": "Germany", 
+        "ssdeep-score": 0
+    }
+]

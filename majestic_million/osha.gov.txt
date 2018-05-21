@@ -1,0 +1,35 @@
+[
+    {
+        "dns-a": [
+            "52.191.215.1"
+        ], 
+        "dns-mx": [
+            "mail-ironport1.dol.gov", 
+            "mail-ironport3.dol.gov", 
+            "sil-mta-dmz-01-pub.dol.gov", 
+            "sil-mta-dmz-02-pub.dol.gov", 
+            "stl-mta-dmz-01-pub.dol.gov", 
+            "stl-mta-dmz-02-pub.dol.gov"
+        ], 
+        "dns-ns": [
+            "ns05.dol.gov", 
+            "ns06.dol.gov", 
+            "ns1.dol.gov", 
+            "ns2.dol.gov"
+        ], 
+        "domain-name": "osha.gov", 
+        "fuzzer": "original*", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 100
+    }, 
+    {
+        "dns-ns": [
+            "ns05.dol.gov", 
+            "ns06.dol.gov", 
+            "ns1.dol.gov", 
+            "ns2.dol.gov"
+        ], 
+        "domain-name": "msha.gov", 
+        "fuzzer": "bitsquatting"
+    }
+]

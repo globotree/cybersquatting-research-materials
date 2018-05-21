@@ -1,0 +1,52 @@
+[
+    {
+        "dns-ns": [
+            "ns.123-reg.co.uk", 
+            "ns2.123-reg.co.uk"
+        ], 
+        "domain-name": "123-reg-new-domain.co.uk", 
+        "fuzzer": "original*"
+    }, 
+    {
+        "dns-a": [
+            "87.106.142.81"
+        ], 
+        "dns-ns": [
+            "a.giraffe.co.uk", 
+            "b.giraffe.co.uk"
+        ], 
+        "domain-name": "123-reg-new-dom.ain.co.uk", 
+        "fuzzer": "subdomain", 
+        "geoip-country": "Germany"
+    }, 
+    {
+        "dns-a": [
+            "208.73.210.202", 
+            "208.73.210.217", 
+            "208.73.211.165", 
+            "208.73.211.177"
+        ], 
+        "dns-ns": [
+            "ns1.dsredirection.com", 
+            "ns2.dsredirection.com"
+        ], 
+        "domain-name": "123-reg-new-doma.in.co.uk", 
+        "fuzzer": "subdomain", 
+        "geoip-country": "United States"
+    }, 
+    {
+        "dns-a": [
+            "66.6.44.4"
+        ], 
+        "domain-name": "123-reg-new-domai.n.co.uk", 
+        "fuzzer": "subdomain", 
+        "geoip-country": "United States"
+    }, 
+    {
+        "dns-ns": [
+            "ns2.123-reg.co.uk"
+        ], 
+        "domain-name": "123-reg-new-domain.uk", 
+        "fuzzer": "various"
+    }
+]

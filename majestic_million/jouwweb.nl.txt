@@ -1,0 +1,116 @@
+[
+    {
+        "dns-a": [
+            "91.195.81.61"
+        ], 
+        "dns-mx": [
+            "ALT1.ASPMX.L.GOOGLE.COM", 
+            "ALT2.ASPMX.L.GOOGLE.COM", 
+            "ALT3.ASPMX.L.GOOGLE.COM", 
+            "ALT4.ASPMX.L.GOOGLE.COM", 
+            "ASPMX.L.GOOGLE.COM"
+        ], 
+        "dns-ns": [
+            "ns1.webhosted.nl", 
+            "ns2.webhosted.nl"
+        ], 
+        "domain-name": "jouwweb.nl", 
+        "fuzzer": "original*", 
+        "geoip-country": "Netherlands", 
+        "ssdeep-score": 97
+    }, 
+    {
+        "dns-a": [
+            "46.249.36.104"
+        ], 
+        "dns-mx": [
+            "mail.jouwwebs.nl"
+        ], 
+        "dns-ns": [
+            "ns1.webhosted.nl", 
+            "ns2.webhosted.net"
+        ], 
+        "domain-name": "jouwwebs.nl", 
+        "fuzzer": "addition", 
+        "geoip-country": "Netherlands", 
+        "ssdeep-score": 90
+    }, 
+    {
+        "dns-a": [
+            "194.109.6.98"
+        ], 
+        "dns-aaaa": [
+            "2001:888:0:18::117:80"
+        ], 
+        "dns-mx": [
+            "mx1.xs4all.nl", 
+            "mx2.xs4all.nl", 
+            "mx3.xs4all.nl", 
+            "mx4.xs4all.nl"
+        ], 
+        "dns-ns": [
+            "ns.xs4all.nl", 
+            "ns2.xs4all.nl"
+        ], 
+        "domain-name": "bouwweb.nl", 
+        "fuzzer": "bitsquatting", 
+        "geoip-country": "Netherlands", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "46.249.36.104"
+        ], 
+        "dns-mx": [
+            "ALT1.ASPMX.L.GOOGLE.COM", 
+            "ALT2.ASPMX.L.GOOGLE.COM", 
+            "ALT3.ASPMX.L.GOOGLE.COM", 
+            "ALT4.ASPMX.L.GOOGLE.COM", 
+            "ASPMX.L.GOOGLE.COM"
+        ], 
+        "dns-ns": [
+            "ns1.webhosted.nl", 
+            "ns2.webhosted.nl"
+        ], 
+        "domain-name": "jouweb.nl", 
+        "fuzzer": "omission", 
+        "geoip-country": "Netherlands", 
+        "ssdeep-score": 75
+    }, 
+    {
+        "dns-a": [
+            "5.157.84.29"
+        ], 
+        "dns-mx": [
+            "mx1.firstfind.nl", 
+            "mx2.firstfind.nl", 
+            "server16.firstfind.nl"
+        ], 
+        "dns-ns": [
+            "ns3.firstfind.nl", 
+            "ns4.firstfind.nl", 
+            "ns5.firstfind.net"
+        ], 
+        "domain-name": "jouwweg.nl", 
+        "fuzzer": "replacement", 
+        "geoip-country": "Netherlands", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "178.22.63.90"
+        ], 
+        "domain-name": "jouw.web.nl", 
+        "fuzzer": "subdomain", 
+        "geoip-country": "Netherlands", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "46.30.213.50"
+        ], 
+        "domain-name": "jouww.eb.nl", 
+        "fuzzer": "subdomain", 
+        "geoip-country": "Denmark"
+    }
+]

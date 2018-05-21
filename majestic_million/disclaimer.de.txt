@@ -1,0 +1,65 @@
+[
+    {
+        "dns-a": [
+            "81.169.145.72"
+        ], 
+        "dns-aaaa": [
+            "2a01:238:20a:202:1072::"
+        ], 
+        "dns-mx": [
+            "smtp.rzone.de"
+        ], 
+        "dns-ns": [
+            "docks13.rzone.de", 
+            "shades08.rzone.de"
+        ], 
+        "domain-name": "disclaimer.de", 
+        "fuzzer": "original*", 
+        "geoip-country": "Germany", 
+        "ssdeep-score": 100
+    }, 
+    {
+        "dns-a": [
+            "185.53.177.20"
+        ], 
+        "dns-ns": [
+            "dns1.epag.net", 
+            "dns2.epag.net"
+        ], 
+        "domain-name": "disclaimers.de", 
+        "fuzzer": "addition", 
+        "geoip-country": "Germany", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "72.52.4.119"
+        ], 
+        "dns-mx": [
+            "localhost"
+        ], 
+        "dns-ns": [
+            "ns1.sedoparking.com", 
+            "ns2.sedoparking.com"
+        ], 
+        "domain-name": "diclaimer.de", 
+        "fuzzer": "omission", 
+        "geoip-country": "United States", 
+        "mx-spy": true, 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "178.254.57.14"
+        ], 
+        "dns-mx": [
+            "mail.dislcaimer.de"
+        ], 
+        "dns-ns": [
+            "ns1.evanzo.com", 
+            "ns12.evanzo.de"
+        ], 
+        "domain-name": "dislcaimer.de", 
+        "fuzzer": "transposition"
+    }
+]

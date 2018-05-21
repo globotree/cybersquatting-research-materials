@@ -1,0 +1,134 @@
+[
+    {
+        "dns-a": [
+            "145.131.7.83"
+        ], 
+        "dns-mx": [
+            "maildrop1.argewebhosting.nl", 
+            "maildrop2.argewebhosting.nl", 
+            "maildrop3.argewebhosting.nl"
+        ], 
+        "dns-ns": [
+            "ns1.argewebhosting.eu", 
+            "ns2.argewebhosting.com", 
+            "ns3.argewebhosting.nl"
+        ], 
+        "domain-name": "elitek.nl", 
+        "fuzzer": "original*", 
+        "geoip-country": "Netherlands", 
+        "ssdeep-score": 100
+    }, 
+    {
+        "dns-a": [
+            "159.253.0.121"
+        ], 
+        "dns-mx": [
+            "emitek.nl"
+        ], 
+        "dns-ns": [
+            "ns0.transip.net", 
+            "ns1.transip.nl", 
+            "ns2.transip.eu"
+        ], 
+        "domain-name": "emitek.nl", 
+        "fuzzer": "bitsquatting", 
+        "geoip-country": "Netherlands"
+    }, 
+    {
+        "dns-a": [
+            "52.58.172.75"
+        ], 
+        "dns-mx": [
+            "mail3.sylconia.nl"
+        ], 
+        "dns-ns": [
+            "ns1.sylconia.net", 
+            "ns2.sylconia.net", 
+            "ns3.sylconia.com"
+        ], 
+        "domain-name": "elitec.nl", 
+        "fuzzer": "bitsquatting", 
+        "geoip-country": "Germany"
+    }, 
+    {
+        "dns-a": [
+            "93.191.131.66"
+        ], 
+        "dns-mx": [
+            "mx.on-site.nl"
+        ], 
+        "dns-ns": [
+            "ns1.openprovider.nl", 
+            "ns2.openprovider.be", 
+            "ns3.openprovider.eu"
+        ], 
+        "domain-name": "eltek.nl", 
+        "fuzzer": "omission", 
+        "geoip-country": "Netherlands", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-mx": [
+            "mail.litek.nl"
+        ], 
+        "dns-ns": [
+            "ns1.daylightdisplays.be", 
+            "ns2.daylightdisplays.be"
+        ], 
+        "domain-name": "litek.nl", 
+        "fuzzer": "omission"
+    }, 
+    {
+        "dns-a": [
+            "84.244.149.150"
+        ], 
+        "dns-mx": [
+            "mailfilter1.vanpolen.nl", 
+            "mailfilter2.vanpolen.nl", 
+            "mailfilter3.vanpolen.nl"
+        ], 
+        "dns-ns": [
+            "ns13.csv-networks.nl", 
+            "ns14.csv-networks.nl"
+        ], 
+        "domain-name": "elite.nl", 
+        "fuzzer": "omission", 
+        "geoip-country": "Netherlands", 
+        "mx-spy": true
+    }, 
+    {
+        "dns-a": [
+            "95.170.79.203"
+        ], 
+        "dns-mx": [
+            "aspmx.l.google.com", 
+            "relay.transip.nl"
+        ], 
+        "dns-ns": [
+            "ns0.transip.net", 
+            "ns1.transip.nl", 
+            "ns2.transip.eu"
+        ], 
+        "domain-name": "elitem.nl", 
+        "fuzzer": "replacement", 
+        "geoip-country": "Netherlands", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "109.71.53.90"
+        ], 
+        "dns-mx": [
+            "elitel.nl.bak-mx.eu0103.smtpbak.com", 
+            "elitel.nl.pri-mx.eu0103.smtproutes.com"
+        ], 
+        "dns-ns": [
+            "ns1.yourwebhoster.com", 
+            "ns2.yourwebhoster.com", 
+            "ns3.yourwebhoster.nl", 
+            "ns4.yourwebhoster.nl"
+        ], 
+        "domain-name": "elitel.nl", 
+        "fuzzer": "replacement"
+    }
+]

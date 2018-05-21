@@ -1,0 +1,57 @@
+[
+    {
+        "dns-mx": [
+            "mail.daemon-tools.cc"
+        ], 
+        "dns-ns": [
+            "ns03.dtsite.com", 
+            "ns07.dtsite.com", 
+            "ns10.dtsite.com"
+        ], 
+        "domain-name": "daemon-tools.cc", 
+        "fuzzer": "original*"
+    }, 
+    {
+        "dns-a": [
+            "185.53.178.7"
+        ], 
+        "dns-mx": [
+            "mail.h-email.net"
+        ], 
+        "dns-ns": [
+            "ns1.parkingcrew.net", 
+            "ns2.parkingcrew.net"
+        ], 
+        "domain-name": "daemontools.cc", 
+        "fuzzer": "omission", 
+        "geoip-country": "Germany", 
+        "mx-spy": true, 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "43.242.130.218"
+        ], 
+        "domain-name": "daemon-to.ols.cc", 
+        "fuzzer": "subdomain", 
+        "geoip-country": "Hong Kong", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "72.52.4.119"
+        ], 
+        "dns-mx": [
+            "localhost"
+        ], 
+        "dns-ns": [
+            "ns1.sedoparking.com", 
+            "ns2.sedoparking.com"
+        ], 
+        "domain-name": "deamon-tools.cc", 
+        "fuzzer": "transposition", 
+        "geoip-country": "United States", 
+        "mx-spy": true, 
+        "ssdeep-score": 0
+    }
+]

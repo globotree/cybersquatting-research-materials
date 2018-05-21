@@ -1,0 +1,93 @@
+[
+    {
+        "dns-a": [
+            "52.210.108.135"
+        ], 
+        "dns-mx": [
+            "cluster3.eu.messagelabs.com"
+        ], 
+        "dns-ns": [
+            "ns0.bt.net", 
+            "ns1.bt.net", 
+            "ns2.bt.net"
+        ], 
+        "domain-name": "nationaltrust.org.uk", 
+        "fuzzer": "original*", 
+        "geoip-country": "Ireland", 
+        "ssdeep-score": 99
+    }, 
+    {
+        "dns-a": [
+            "52.210.108.135"
+        ], 
+        "dns-mx": [
+            "mailgate.national-trust.org.uk"
+        ], 
+        "dns-ns": [
+            "ns0.bt.net", 
+            "ns1.bt.net", 
+            "ns2.bt.net"
+        ], 
+        "domain-name": "national-trust.org.uk", 
+        "fuzzer": "hyphenation", 
+        "geoip-country": "Ireland", 
+        "ssdeep-score": 99
+    }, 
+    {
+        "dns-a": [
+            "103.224.212.222"
+        ], 
+        "dns-mx": [
+            "park-mx.above.com"
+        ], 
+        "dns-ns": [
+            "ns1.above.com", 
+            "ns2.above.com"
+        ], 
+        "domain-name": "nationltrust.org.uk", 
+        "fuzzer": "omission", 
+        "geoip-country": "Australia", 
+        "mx-spy": true, 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "109.239.101.62"
+        ], 
+        "domain-name": "nationaltru.st.org.uk", 
+        "fuzzer": "subdomain", 
+        "geoip-country": "United Kingdom", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "109.239.101.62"
+        ], 
+        "domain-name": "nationaltrus.t.org.uk", 
+        "fuzzer": "subdomain", 
+        "geoip-country": "United Kingdom", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-ns": [
+            "ns0.bt.net", 
+            "ns1.bt.net", 
+            "ns2.bt.net"
+        ], 
+        "domain-name": "nationaltrust.uk", 
+        "fuzzer": "various"
+    }, 
+    {
+        "dns-a": [
+            "185.53.178.6"
+        ], 
+        "dns-ns": [
+            "ns1.parkingcrew.net", 
+            "ns2.parkingcrew.net"
+        ], 
+        "domain-name": "nationaltrustorg.uk", 
+        "fuzzer": "various", 
+        "geoip-country": "Germany", 
+        "ssdeep-score": 0
+    }
+]

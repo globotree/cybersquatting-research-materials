@@ -1,0 +1,102 @@
+[
+    {
+        "dns-a": [
+            "204.74.99.100"
+        ], 
+        "dns-mx": [
+            "cust20986-1-in.mailcontrol.com", 
+            "cust20986-2-in.mailcontrol.com", 
+            "cust20986-3-in.mailcontrol.com"
+        ], 
+        "dns-ns": [
+            "dns11.domainnetwork.com", 
+            "dns12.domainnetwork.com", 
+            "dns13.domainnetwork.com", 
+            "dns14.domainnetwork.net", 
+            "dns15.domainnetwork.net", 
+            "dns16.domainnetwork.net"
+        ], 
+        "domain-name": "qantas.com.au", 
+        "fuzzer": "original*", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 100
+    }, 
+    {
+        "dns-a": [
+            "202.124.241.178"
+        ], 
+        "dns-ns": [
+            "dns1.speedingbits.com", 
+            "dns2.speedingbits.com"
+        ], 
+        "domain-name": "santas.com.au", 
+        "fuzzer": "bitsquatting", 
+        "geoip-country": "Australia", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "103.16.128.252"
+        ], 
+        "dns-mx": [
+            "qantac.com.au"
+        ], 
+        "dns-ns": [
+            "ns1.azappservers.com", 
+            "ns2.azappservers.com"
+        ], 
+        "domain-name": "qantac.com.au", 
+        "fuzzer": "bitsquatting", 
+        "geoip-country": "Australia", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "88.221.191.134"
+        ], 
+        "dns-ns": [
+            "dns11.domainnetwork.com", 
+            "dns12.domainnetwork.com", 
+            "dns13.domainnetwork.com", 
+            "dns14.domainnetwork.net", 
+            "dns15.domainnetwork.net", 
+            "dns16.domainnetwork.net"
+        ], 
+        "domain-name": "qants.com.au", 
+        "fuzzer": "omission", 
+        "geoip-country": "Europe"
+    }, 
+    {
+        "dns-mx": [
+            "qanta-com-au.mail.protection.outlook.com"
+        ], 
+        "dns-ns": [
+            "ns1.bdm.microsoftonline.com", 
+            "ns2.bdm.microsoftonline.com", 
+            "ns3.bdm.microsoftonline.com", 
+            "ns4.bdm.microsoftonline.com"
+        ], 
+        "domain-name": "qanta.com.au", 
+        "fuzzer": "omission"
+    }, 
+    {
+        "dns-a": [
+            "103.18.110.201"
+        ], 
+        "dns-aaaa": [
+            "2407:e700:3:26::61"
+        ], 
+        "dns-mx": [
+            "antas.com.au"
+        ], 
+        "dns-ns": [
+            "ns1.netvirtue.com.au", 
+            "ns2.netvirtue.com.au", 
+            "ns3.netvirtue.com.au"
+        ], 
+        "domain-name": "antas.com.au", 
+        "fuzzer": "omission", 
+        "geoip-country": "Australia", 
+        "ssdeep-score": 0
+    }
+]

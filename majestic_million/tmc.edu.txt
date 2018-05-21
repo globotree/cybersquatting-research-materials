@@ -1,0 +1,330 @@
+[
+    {
+        "dns-mx": [
+            "mx-1.texasmedicalcenter.org", 
+            "mx-2.texasmedicalcenter.org"
+        ], 
+        "dns-ns": [
+            "ns1.bcm.edu", 
+            "ns2.bcm.edu", 
+            "ns3.bcm.edu", 
+            "ns4.bcm.edu"
+        ], 
+        "domain-name": "tmc.edu", 
+        "fuzzer": "original*"
+    }, 
+    {
+        "dns-a": [
+            "134.197.153.203"
+        ], 
+        "dns-mx": [
+            "alt1.aspmx.l.google.com", 
+            "alt2.aspmx.l.google.com", 
+            "aspmx.l.google.com", 
+            "aspmx2.googlemail.com", 
+            "aspmx3.googlemail.com"
+        ], 
+        "dns-ns": [
+            "ns1e.nevada.edu", 
+            "ns2e.nevada.edu", 
+            "tmccdns.tmcc.edu", 
+            "tmccdns2.tmcc.edu", 
+            "tmccdns3.tmcc.edu"
+        ], 
+        "domain-name": "tmcc.edu", 
+        "fuzzer": "addition", 
+        "geoip-country": "United States"
+    }, 
+    {
+        "dns-a": [
+            "192.231.68.40"
+        ], 
+        "dns-mx": [
+            "mxa-00141b01.gslb.pphosted.com", 
+            "mxb-00141b01.gslb.pphosted.com"
+        ], 
+        "dns-ns": [
+            "ibdmzns1vip.umc.edu", 
+            "ibdmzns2vip.umc.edu"
+        ], 
+        "domain-name": "umc.edu", 
+        "fuzzer": "bitsquatting", 
+        "geoip-country": "United States"
+    }, 
+    {
+        "dns-a": [
+            "64.89.44.97"
+        ], 
+        "dns-mx": [
+            "pmc-edu.mail.protection.outlook.com"
+        ], 
+        "dns-ns": [
+            "ns1.powweb.com", 
+            "ns2.powweb.com"
+        ], 
+        "domain-name": "pmc.edu", 
+        "fuzzer": "bitsquatting", 
+        "geoip-country": "United States"
+    }, 
+    {
+        "dns-a": [
+            "192.185.77.214"
+        ], 
+        "dns-mx": [
+            "mail.dmc.edu"
+        ], 
+        "dns-ns": [
+            "ns109.websitewelcome.com", 
+            "ns110.websitewelcome.com"
+        ], 
+        "domain-name": "dmc.edu", 
+        "fuzzer": "bitsquatting", 
+        "geoip-country": "United States"
+    }, 
+    {
+        "dns-a": [
+            "50.31.64.21"
+        ], 
+        "dns-mx": [
+            "alt1.aspmx.l.google.com", 
+            "aspmx.l.google.com"
+        ], 
+        "dns-ns": [
+            "dns1.shnw.net", 
+            "dns2.shnw.net"
+        ], 
+        "domain-name": "tlc.edu", 
+        "fuzzer": "bitsquatting", 
+        "geoip-country": "United States"
+    }, 
+    {
+        "dns-a": [
+            "104.25.136.9", 
+            "104.25.137.9"
+        ], 
+        "dns-aaaa": [
+            "2400:cb00:2048:1::6819:8809", 
+            "2400:cb00:2048:1::6819:8909"
+        ], 
+        "dns-mx": [
+            "tms-edu.mail.protection.outlook.com"
+        ], 
+        "dns-ns": [
+            "eric.ns.cloudflare.com", 
+            "meera.ns.cloudflare.com"
+        ], 
+        "domain-name": "tms.edu", 
+        "fuzzer": "bitsquatting", 
+        "geoip-country": "United States"
+    }, 
+    {
+        "dns-a": [
+            "23.185.0.3"
+        ], 
+        "dns-aaaa": [
+            "2620:12a:8000::3", 
+            "2620:12a:8001::3"
+        ], 
+        "dns-mx": [
+            "alt1.aspmx.l.google.com", 
+            "alt2.aspmx.l.google.com", 
+            "aspmx.l.google.com", 
+            "aspmx2.googlemail.com", 
+            "aspmx3.googlemail.com"
+        ], 
+        "dns-ns": [
+            "ns3.ndnic.com", 
+            "ns3.state.nd.us"
+        ], 
+        "domain-name": "tm.edu", 
+        "fuzzer": "omission"
+    }, 
+    {
+        "dns-a": [
+            "34.196.195.67"
+        ], 
+        "dns-mx": [
+            "alt1.aspmx.l.google.com", 
+            "alt2.aspmx.l.google.com", 
+            "alt3.aspmx.l.google.com", 
+            "alt4.aspmx.l.google.com", 
+            "aspmx.l.google.com"
+        ], 
+        "dns-ns": [
+            "dns2.itd.umich.edu", 
+            "ext-ns1.columbia.edu", 
+            "sns-pb.isc.org"
+        ], 
+        "domain-name": "tc.edu", 
+        "fuzzer": "omission", 
+        "geoip-country": "United States"
+    }, 
+    {
+        "dns-a": [
+            "159.203.177.180"
+        ], 
+        "dns-mx": [
+            "ALT1.ASPMX.L.GOOGLE.COM", 
+            "ALT2.ASPMX.L.GOOGLE.COM", 
+            "ALT3.ASPMX.L.GOOGLE.COM", 
+            "ALT4.ASPMX.L.GOOGLE.COM", 
+            "ASPMX.L.GOOGLE.COM"
+        ], 
+        "dns-ns": [
+            "ns.mc.edu", 
+            "ns2.mc.edu"
+        ], 
+        "domain-name": "mc.edu", 
+        "fuzzer": "omission", 
+        "geoip-country": "United States"
+    }, 
+    {
+        "dns-a": [
+            "72.32.66.243"
+        ], 
+        "dns-mx": [
+            "d131373a.ess.barracudanetworks.com", 
+            "d131373b.ess.barracudanetworks.com"
+        ], 
+        "dns-ns": [
+            "dns1.tjc.edu", 
+            "w28maindcp01.ad.tjc.local", 
+            "w28maindcv01.ad.tjc.local"
+        ], 
+        "domain-name": "tjc.edu", 
+        "fuzzer": "replacement", 
+        "geoip-country": "United States"
+    }, 
+    {
+        "dns-a": [
+            "147.124.1.42"
+        ], 
+        "dns-mx": [
+            "us-smtp-inbound-1.mimecast.com", 
+            "us-smtp-inbound-2.mimecast.com"
+        ], 
+        "dns-ns": [
+            "dns1.albion.edu", 
+            "dns1.merit.net", 
+            "dns2.albion.edu", 
+            "dns2.merit.net", 
+            "dns3.merit.net"
+        ], 
+        "domain-name": "tpc.edu", 
+        "fuzzer": "replacement", 
+        "geoip-country": "United States"
+    }, 
+    {
+        "dns-a": [
+            "67.199.46.109"
+        ], 
+        "dns-mx": [
+            "d126801a.ess.barracudanetworks.com", 
+            "d126801b.ess.barracudanetworks.com"
+        ], 
+        "dns-ns": [
+            "dmz-mil-dns-005.gmc.cc.ga.us", 
+            "ns1.usg.edu", 
+            "ns2.usg.edu", 
+            "ns3.usg.edu", 
+            "ns4.usg.edu"
+        ], 
+        "domain-name": "gmc.edu", 
+        "fuzzer": "replacement", 
+        "geoip-country": "United States"
+    }, 
+    {
+        "dns-a": [
+            "50.63.83.1"
+        ], 
+        "dns-ns": [
+            "ns29.domaincontrol.com", 
+            "ns30.domaincontrol.com"
+        ], 
+        "domain-name": "zmc.edu", 
+        "fuzzer": "replacement", 
+        "geoip-country": "United States"
+    }, 
+    {
+        "dns-a": [
+            "192.240.94.4"
+        ], 
+        "dns-mx": [
+            "rmc-edu.mail.protection.outlook.com"
+        ], 
+        "dns-ns": [
+            "ns1.securityspace.net", 
+            "ns2.securityspace.net", 
+            "ns3.securityspace.net", 
+            "ns4.securityspace.net"
+        ], 
+        "domain-name": "rmc.edu", 
+        "fuzzer": "replacement", 
+        "geoip-country": "United States"
+    }, 
+    {
+        "dns-a": [
+            "23.229.222.100"
+        ], 
+        "dns-mx": [
+            "fmc-edu.mail.protection.outlook.com"
+        ], 
+        "dns-ns": [
+            "dns1.name-services.com", 
+            "dns2.name-services.com", 
+            "dns3.name-services.com", 
+            "dns4.name-services.com", 
+            "dns5.name-services.com"
+        ], 
+        "domain-name": "fmc.edu", 
+        "fuzzer": "replacement", 
+        "geoip-country": "United States"
+    }, 
+    {
+        "dns-a": [
+            "35.185.14.176"
+        ], 
+        "dns-mx": [
+            "alt1.aspmx.l.google.com", 
+            "alt2.aspmx.l.google.com", 
+            "alt3.aspmx.l.google.com", 
+            "alt4.aspmx.l.google.com", 
+            "aspmx.l.google.com"
+        ], 
+        "dns-ns": [
+            "ns1.no-ip.com", 
+            "ns2.no-ip.com", 
+            "ns3.no-ip.com", 
+            "ns4.no-ip.com", 
+            "ns5.no-ip.com"
+        ], 
+        "domain-name": "tkc.edu", 
+        "fuzzer": "replacement", 
+        "geoip-country": "United States"
+    }, 
+    {
+        "dns-a": [
+            "162.144.55.122"
+        ], 
+        "dns-mx": [
+            "mtc-edu.mail.eo.outlook.com"
+        ], 
+        "dns-ns": [
+            "ns1.oar.net", 
+            "ns2.oar.net"
+        ], 
+        "domain-name": "mtc.edu", 
+        "fuzzer": "transposition"
+    }, 
+    {
+        "dns-a": [
+            "213.174.57.13"
+        ], 
+        "dns-ns": [
+            "ns1.domainkunden.de", 
+            "ns2.domainkunden.de"
+        ], 
+        "domain-name": "tcm.edu", 
+        "fuzzer": "transposition"
+    }
+]

@@ -1,0 +1,35 @@
+[
+    {
+        "dns-a": [
+            "139.78.95.106", 
+            "139.78.95.107"
+        ], 
+        "dns-mx": [
+            "mailhost02.okstate.edu", 
+            "mailhost07.okstate.edu", 
+            "mailhost08.okstate.edu", 
+            "mailhost09.okstate.edu"
+        ], 
+        "dns-ns": [
+            "exns1.okstate.edu", 
+            "exns2.okstate.edu"
+        ], 
+        "domain-name": "okstate.edu", 
+        "fuzzer": "original*", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 100
+    }, 
+    {
+        "dns-a": [
+            "64.99.64.37"
+        ], 
+        "dns-ns": [
+            "ns1.systemdns.com", 
+            "ns2.systemdns.com", 
+            "ns3.systemdns.com"
+        ], 
+        "domain-name": "okstate-edu.com", 
+        "fuzzer": "various", 
+        "geoip-country": "Canada"
+    }
+]

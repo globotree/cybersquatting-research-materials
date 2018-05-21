@@ -1,0 +1,54 @@
+[
+    {
+        "dns-a": [
+            "148.88.65.80"
+        ], 
+        "dns-aaaa": [
+            "2001:630:80:2ff::80:1"
+        ], 
+        "dns-mx": [
+            "mh-0-0.lancs.ac.uk", 
+            "mh-0-1.lancs.ac.uk", 
+            "mh-1-0.lancs.ac.uk", 
+            "mh-1-1.lancs.ac.uk"
+        ], 
+        "dns-ns": [
+            "hub.ubc.ca", 
+            "ns0.lancs.ac.uk", 
+            "ns1.lancs.ac.uk", 
+            "ns2.lancs.ac.uk"
+        ], 
+        "domain-name": "lancaster.ac.uk", 
+        "fuzzer": "original*", 
+        "geoip-country": "United Kingdom", 
+        "ssdeep-score": 94
+    }, 
+    {
+        "dns-a": [
+            "98.124.245.24"
+        ], 
+        "dns-mx": [
+            "mail.b-io.co"
+        ], 
+        "dns-ns": [
+            "ns1.fabulous.com", 
+            "ns2.fabulous.com"
+        ], 
+        "domain-name": "lancaster.uk", 
+        "fuzzer": "various"
+    }, 
+    {
+        "dns-a": [
+            "213.171.195.105"
+        ], 
+        "dns-ns": [
+            "ns1.livedns.co.uk", 
+            "ns2.livedns.co.uk", 
+            "ns3.livedns.co.uk"
+        ], 
+        "domain-name": "lancasterac.uk", 
+        "fuzzer": "various", 
+        "geoip-country": "United Kingdom", 
+        "ssdeep-score": 0
+    }
+]

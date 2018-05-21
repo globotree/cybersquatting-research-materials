@@ -1,0 +1,39 @@
+[
+    {
+        "dns-a": [
+            "131.252.115.150"
+        ], 
+        "dns-mx": [
+            "alt1.aspmx.l.google.com", 
+            "alt2.aspmx.l.google.com", 
+            "alt3.aspmx.l.google.com", 
+            "alt4.aspmx.l.google.com", 
+            "aspmx.l.google.com"
+        ], 
+        "dns-ns": [
+            "dns0.pdx.edu", 
+            "dns1.pdx.edu", 
+            "phloem.uoregon.edu", 
+            "walt.ee.pdx.edu"
+        ], 
+        "domain-name": "pdx.edu", 
+        "fuzzer": "original*", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 88
+    }, 
+    {
+        "dns-a": [
+            "74.205.54.122"
+        ], 
+        "dns-mx": [
+            "pdc-edu.mail.protection.outlook.com"
+        ], 
+        "dns-ns": [
+            "ns1.vccs.edu", 
+            "ns2.vccs.edu"
+        ], 
+        "domain-name": "pdc.edu", 
+        "fuzzer": "replacement", 
+        "geoip-country": "United States"
+    }
+]

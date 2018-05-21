@@ -1,0 +1,80 @@
+[
+    {
+        "dns-a": [
+            "94.23.64.2"
+        ], 
+        "dns-mx": [
+            "mail.europromec.com"
+        ], 
+        "dns-ns": [
+            "dns103.ovh.net", 
+            "ns103.ovh.net"
+        ], 
+        "domain-name": "europromec.com", 
+        "fuzzer": "original*", 
+        "geoip-country": "Italy", 
+        "ssdeep-score": 97
+    }, 
+    {
+        "dns-a": [
+            "200.35.156.32"
+        ], 
+        "dns-mx": [
+            "eurotromec.com"
+        ], 
+        "dns-ns": [
+            "ns1.vientobueno.cl", 
+            "ns2.vientobueno.cl"
+        ], 
+        "domain-name": "eurotromec.com", 
+        "fuzzer": "bitsquatting", 
+        "geoip-country": "Chile", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "217.160.230.52"
+        ], 
+        "dns-aaaa": [
+            "2001:8d8:1000:f107:9c97:8761:84b3:4021"
+        ], 
+        "dns-mx": [
+            "mx00.1and1.es", 
+            "mx01.1and1.es"
+        ], 
+        "dns-ns": [
+            "ns1065.ui-dns.biz", 
+            "ns1065.ui-dns.com", 
+            "ns1065.ui-dns.de", 
+            "ns1065.ui-dns.org"
+        ], 
+        "domain-name": "europromex.com", 
+        "fuzzer": "replacement", 
+        "geoip-country": "Germany"
+    }, 
+    {
+        "dns-a": [
+            "202.172.28.144"
+        ], 
+        "dns-mx": [
+            "europromed.com"
+        ], 
+        "dns-ns": [
+            "ns11.value-domain.com", 
+            "ns12.value-domain.com", 
+            "ns13.value-domain.com"
+        ], 
+        "domain-name": "europromed.com", 
+        "fuzzer": "replacement", 
+        "geoip-country": "Japan", 
+        "mx-spy": true
+    }, 
+    {
+        "dns-a": [
+            "85.17.25.202"
+        ], 
+        "domain-name": "euro.promec.com", 
+        "fuzzer": "subdomain", 
+        "geoip-country": "Netherlands"
+    }
+]

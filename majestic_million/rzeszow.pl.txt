@@ -1,0 +1,170 @@
+[
+    {
+        "dns-ns": [
+            "a-dns.pl", 
+            "b-dns.pl", 
+            "e-dns.pl", 
+            "f-dns.pl", 
+            "i-dns.pl"
+        ], 
+        "domain-name": "rzeszow.pl", 
+        "fuzzer": "original*"
+    }, 
+    {
+        "dns-a": [
+            "188.165.1.95"
+        ], 
+        "dns-mx": [
+            "rzeszowa.pl"
+        ], 
+        "dns-ns": [
+            "ns1.of.pl", 
+            "ns2.of.pl", 
+            "ns3.of.pl", 
+            "ns4.of.pl"
+        ], 
+        "domain-name": "rzeszowa.pl", 
+        "fuzzer": "addition", 
+        "geoip-country": "Ireland"
+    }, 
+    {
+        "dns-a": [
+            "213.133.97.199"
+        ], 
+        "dns-mx": [
+            "mail.rzeszoww.pl"
+        ], 
+        "dns-ns": [
+            "dns8.linuxpl.com", 
+            "ns8.linuxpl.com"
+        ], 
+        "domain-name": "rzeszoww.pl", 
+        "fuzzer": "addition", 
+        "geoip-country": "Germany"
+    }, 
+    {
+        "dns-a": [
+            "87.98.239.5"
+        ], 
+        "dns-mx": [
+            "redirect.ovh.net"
+        ], 
+        "dns-ns": [
+            "dns19.ovh.net", 
+            "ns19.ovh.net"
+        ], 
+        "domain-name": "rzeszov.pl", 
+        "fuzzer": "bitsquatting", 
+        "geoip-country": "Poland"
+    }, 
+    {
+        "dns-a": [
+            "72.52.4.119"
+        ], 
+        "dns-mx": [
+            "localhost"
+        ], 
+        "dns-ns": [
+            "ns1.sedoparking.com", 
+            "ns2.sedoparking.com"
+        ], 
+        "domain-name": "xn--rzeszw-fxa.pl", 
+        "fuzzer": "homoglyph", 
+        "geoip-country": "United States", 
+        "mx-spy": true
+    }, 
+    {
+        "dns-a": [
+            "87.98.239.5"
+        ], 
+        "dns-mx": [
+            "redirect.ovh.net"
+        ], 
+        "dns-ns": [
+            "dns19.ovh.net", 
+            "ns19.ovh.net"
+        ], 
+        "domain-name": "rzeszovv.pl", 
+        "fuzzer": "homoglyph", 
+        "geoip-country": "Poland"
+    }, 
+    {
+        "dns-a": [
+            "199.59.242.150"
+        ], 
+        "dns-mx": [
+            "mx76.m2bp.com", 
+            "mx76.mb1p.com"
+        ], 
+        "dns-ns": [
+            "ns1.bodis.com", 
+            "ns2.bodis.com"
+        ], 
+        "domain-name": "rzesow.pl", 
+        "fuzzer": "omission", 
+        "geoip-country": "United States", 
+        "mx-spy": true
+    }, 
+    {
+        "dns-a": [
+            "212.91.6.58", 
+            "212.91.7.33"
+        ], 
+        "domain-name": "rzeszw.pl", 
+        "fuzzer": "omission", 
+        "geoip-country": "Poland"
+    }, 
+    {
+        "dns-a": [
+            "212.91.6.58", 
+            "212.91.7.33"
+        ], 
+        "domain-name": "zeszow.pl", 
+        "fuzzer": "omission", 
+        "geoip-country": "Poland"
+    }, 
+    {
+        "dns-a": [
+            "212.91.6.58", 
+            "212.91.7.33"
+        ], 
+        "domain-name": "rzesziw.pl", 
+        "fuzzer": "replacement", 
+        "geoip-country": "Poland"
+    }, 
+    {
+        "dns-a": [
+            "212.91.6.58", 
+            "212.91.7.33"
+        ], 
+        "domain-name": "r.zeszow.pl", 
+        "fuzzer": "subdomain", 
+        "geoip-country": "Poland"
+    }, 
+    {
+        "dns-a": [
+            "81.219.55.202"
+        ], 
+        "domain-name": "rzeszo.w.pl", 
+        "fuzzer": "subdomain", 
+        "geoip-country": "Poland"
+    }, 
+    {
+        "dns-a": [
+            "212.91.6.58", 
+            "212.91.7.33"
+        ], 
+        "domain-name": "zreszow.pl", 
+        "fuzzer": "transposition", 
+        "geoip-country": "Poland"
+    }, 
+    {
+        "dns-a": [
+            "212.91.6.58", 
+            "212.91.7.33"
+        ], 
+        "domain-name": "rzezsow.pl", 
+        "fuzzer": "transposition", 
+        "geoip-country": "Poland"
+    }
+]

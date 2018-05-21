@@ -1,0 +1,114 @@
+[
+    {
+        "dns-a": [
+            "80.189.90.17"
+        ], 
+        "dns-mx": [
+            "mx-ironport.core.plus.net", 
+            "mx-ironport.last.plus.net"
+        ], 
+        "dns-ns": [
+            "ns1.force9.net", 
+            "ns2.force9.net"
+        ], 
+        "domain-name": "globalnet.co.uk", 
+        "fuzzer": "original*", 
+        "geoip-country": "United Kingdom"
+    }, 
+    {
+        "dns-a": [
+            "94.23.3.97"
+        ], 
+        "dns-aaaa": [
+            "2001:41d0:2:461::"
+        ], 
+        "dns-mx": [
+            "mail.globalnets.co.uk"
+        ], 
+        "dns-ns": [
+            "ns1.globalnets.net", 
+            "ns2.globalnets.net"
+        ], 
+        "domain-name": "globalnets.co.uk", 
+        "fuzzer": "addition", 
+        "geoip-country": "France"
+    }, 
+    {
+        "dns-a": [
+            "217.160.0.212"
+        ], 
+        "dns-mx": [
+            "mx00.1and1.co.uk", 
+            "mx01.1and1.co.uk"
+        ], 
+        "dns-ns": [
+            "ns1106.ui-dns.biz", 
+            "ns1106.ui-dns.com", 
+            "ns1106.ui-dns.de", 
+            "ns1106.ui-dns.org"
+        ], 
+        "domain-name": "globalnett.co.uk", 
+        "fuzzer": "addition", 
+        "geoip-country": "Germany"
+    }, 
+    {
+        "dns-a": [
+            "62.233.121.61"
+        ], 
+        "dns-mx": [
+            "ismtp.easyspace.everyone.net"
+        ], 
+        "dns-ns": [
+            "ns1.namecity.com", 
+            "ns2.namecity.com"
+        ], 
+        "domain-name": "globaljet.co.uk", 
+        "fuzzer": "bitsquatting", 
+        "geoip-country": "United Kingdom"
+    }, 
+    {
+        "dns-a": [
+            "216.21.224.199"
+        ], 
+        "dns-mx": [
+            "globalmet-co-uk.mail.eo.outlook.com", 
+            "ibmr.btconnect.com", 
+            "ms48079824.msv1.eo.outlook.com"
+        ], 
+        "dns-ns": [
+            "dns085.c.register.com", 
+            "dns109.b.register.com", 
+            "dns177.d.register.com", 
+            "dns220.a.register.com"
+        ], 
+        "domain-name": "globalmet.co.uk", 
+        "fuzzer": "homoglyph", 
+        "geoip-country": "United States"
+    }, 
+    {
+        "dns-a": [
+            "103.224.212.222"
+        ], 
+        "dns-mx": [
+            "park-mx.above.com"
+        ], 
+        "dns-ns": [
+            "ns1.above.com", 
+            "ns2.above.com"
+        ], 
+        "domain-name": "lobalnet.co.uk", 
+        "fuzzer": "omission", 
+        "geoip-country": "Australia", 
+        "mx-spy": true
+    }, 
+    {
+        "dns-a": [
+            "103.224.212.222"
+        ], 
+        "dns-mx": [
+            "park-mx.above.com"
+        ], 
+        "domain-name": "g.lobalnet.co.uk", 
+        "fuzzer": "subdomain"
+    }
+]

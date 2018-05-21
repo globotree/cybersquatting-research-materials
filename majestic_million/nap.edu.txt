@@ -1,0 +1,90 @@
+[
+    {
+        "dns-a": [
+            "144.171.20.6"
+        ], 
+        "dns-mx": [
+            "newton.nap.edu"
+        ], 
+        "dns-ns": [
+            "berkshire.nas.edu", 
+            "bighorn.nas.edu", 
+            "bona.nas.edu", 
+            "bonairl.nas.edu", 
+            "bonaor.nas.edu", 
+            "rushmore.nas.edu"
+        ], 
+        "domain-name": "nap.edu", 
+        "fuzzer": "original*", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 91
+    }, 
+    {
+        "dns-mx": [
+            "alt1.aspmx.l.google.com", 
+            "alt2.aspmx.l.google.com", 
+            "alt3.aspmx.l.google.com", 
+            "alt4.aspmx.l.google.com", 
+            "aspmx.l.google.com"
+        ], 
+        "dns-ns": [
+            "ns-a.usna.edu", 
+            "ns-b.usna.edu"
+        ], 
+        "domain-name": "naps.edu", 
+        "fuzzer": "addition"
+    }, 
+    {
+        "dns-a": [
+            "104.156.48.36"
+        ], 
+        "dns-mx": [
+            "barracuda.np.edu", 
+            "np-edu.mail.protection.outlook.com"
+        ], 
+        "dns-ns": [
+            "ns1.areon.net", 
+            "ns1.np.edu", 
+            "ns2.areon.net"
+        ], 
+        "domain-name": "np.edu", 
+        "fuzzer": "omission"
+    }, 
+    {
+        "dns-a": [
+            "50.201.93.53"
+        ], 
+        "dns-mx": [
+            "na-edu.mail.protection.outlook.com", 
+            "web.na.edu"
+        ], 
+        "dns-ns": [
+            "ns1", 
+            "ns2", 
+            "ns3"
+        ], 
+        "domain-name": "na.edu", 
+        "fuzzer": "omission", 
+        "geoip-country": "United States"
+    }, 
+    {
+        "dns-a": [
+            "34.227.181.200"
+        ], 
+        "dns-mx": [
+            "rockies.nas.edu", 
+            "sawtooth.nas.edu"
+        ], 
+        "dns-ns": [
+            "berkshire.nas.edu", 
+            "bighorn.nas.edu", 
+            "bona.nas.edu", 
+            "bonairl.nas.edu", 
+            "bonaor.nas.edu", 
+            "rushmore.nas.edu"
+        ], 
+        "domain-name": "nam.edu", 
+        "fuzzer": "replacement", 
+        "geoip-country": "United States"
+    }
+]

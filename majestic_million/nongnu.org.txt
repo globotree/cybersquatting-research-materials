@@ -1,0 +1,71 @@
+[
+    {
+        "dns-a": [
+            "208.118.235.148"
+        ], 
+        "dns-mx": [
+            "eggs.gnu.org"
+        ], 
+        "dns-ns": [
+            "ns1.gnu.org", 
+            "ns3.gnu.org"
+        ], 
+        "domain-name": "nongnu.org", 
+        "fuzzer": "original*", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 100
+    }, 
+    {
+        "dns-a": [
+            "170.178.178.42"
+        ], 
+        "domain-name": "nongfu.org", 
+        "fuzzer": "bitsquatting", 
+        "geoip-country": "United States"
+    }, 
+    {
+        "dns-a": [
+            "208.118.235.148"
+        ], 
+        "dns-mx": [
+            "eggs.gnu.org"
+        ], 
+        "dns-ns": [
+            "ns1.gnu.org", 
+            "ns3.gnu.org"
+        ], 
+        "domain-name": "non-gnu.org", 
+        "fuzzer": "hyphenation", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 100
+    }, 
+    {
+        "dns-a": [
+            "116.126.87.36"
+        ], 
+        "dns-ns": [
+            "ns1.whoisdomain.kr", 
+            "ns2.whoisdomain.kr", 
+            "ns3.whoisdomain.kr", 
+            "ns4.whoisdomain.kr"
+        ], 
+        "domain-name": "nongbu.org", 
+        "fuzzer": "replacement", 
+        "geoip-country": "Korea", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "162.249.125.79"
+        ], 
+        "dns-mx": [
+            "nungnu.org"
+        ], 
+        "dns-ns": [
+            "ns1.geekstorage.com", 
+            "ns2.geekstorage.com"
+        ], 
+        "domain-name": "nungnu.org", 
+        "fuzzer": "vowel-swap"
+    }
+]

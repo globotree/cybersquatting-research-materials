@@ -1,0 +1,28 @@
+[
+    {
+        "dns-a": [
+            "23.185.0.2"
+        ], 
+        "dns-aaaa": [
+            "2620:12a:8000::2", 
+            "2620:12a:8001::2"
+        ], 
+        "dns-mx": [
+            "ppagent-prod-01.uit.tufts.edu", 
+            "ppagent-prod-02.uit.tufts.edu", 
+            "ppagent-prod-03.uit.tufts.edu", 
+            "ppagent-prod-04.uit.tufts.edu", 
+            "ppagent-prod-05.uit.tufts.edu", 
+            "ppagent-prod-06.uit.tufts.edu"
+        ], 
+        "dns-ns": [
+            "dns-auth-prod-01.it.tufts.edu", 
+            "dns-auth-prod-02.it.tufts.edu", 
+            "ns1.tufts.edu", 
+            "woodward.net.tufts.edu"
+        ], 
+        "domain-name": "tufts.edu", 
+        "fuzzer": "original*", 
+        "ssdeep-score": 100
+    }
+]

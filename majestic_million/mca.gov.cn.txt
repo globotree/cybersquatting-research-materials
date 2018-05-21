@@ -1,0 +1,96 @@
+[
+    {
+        "dns-a": [
+            "116.193.41.39"
+        ], 
+        "dns-mx": [
+            "mail.mca.gov.cn", 
+            "newmail.mca.gov.cn"
+        ], 
+        "dns-ns": [
+            "localhost", 
+            "ns1.mca.gov.cn", 
+            "ns2.mca.gov.cn"
+        ], 
+        "domain-name": "mca.gov.cn", 
+        "fuzzer": "original*", 
+        "geoip-country": "China"
+    }, 
+    {
+        "dns-a": [
+            "61.155.161.12"
+        ], 
+        "dns-mx": [
+            "mx-n.global-mail.cn", 
+            "mx1-n.global-mail.cn"
+        ], 
+        "dns-ns": [
+            "ns1.sfn.cn", 
+            "ns2.sfn.cn"
+        ], 
+        "domain-name": "eca.gov.cn", 
+        "fuzzer": "bitsquatting", 
+        "geoip-country": "China"
+    }, 
+    {
+        "dns-mx": [
+            "mx1.icoremail.net"
+        ], 
+        "dns-ns": [
+            "ns1.msa.gov.cn"
+        ], 
+        "domain-name": "msa.gov.cn", 
+        "fuzzer": "bitsquatting", 
+        "mx-spy": true
+    }, 
+    {
+        "dns-a": [
+            "219.139.240.25"
+        ], 
+        "dns-ns": [
+            "dns10.hichina.com", 
+            "dns9.hichina.com"
+        ], 
+        "domain-name": "mc.gov.cn", 
+        "fuzzer": "omission", 
+        "geoip-country": "China"
+    }, 
+    {
+        "dns-mx": [
+            "mail.mfa.gov.cn"
+        ], 
+        "dns-ns": [
+            "ns1.cdns.cn", 
+            "ns2.cdns.cn", 
+            "ns3.cdns.cn"
+        ], 
+        "domain-name": "mfa.gov.cn", 
+        "fuzzer": "replacement"
+    }, 
+    {
+        "dns-ns": [
+            "pdns.cpip.net.cn", 
+            "sdns.cpip.net.cn"
+        ], 
+        "domain-name": "mcz.gov.cn", 
+        "fuzzer": "replacement"
+    }, 
+    {
+        "dns-mx": [
+            "rays.cma.gov.cn"
+        ], 
+        "dns-ns": [
+            "dns.cma.gov.cn", 
+            "dns2.cma.gov.cn"
+        ], 
+        "domain-name": "cma.gov.cn", 
+        "fuzzer": "transposition"
+    }, 
+    {
+        "dns-a": [
+            "45.120.153.79"
+        ], 
+        "domain-name": "mcagov.cn", 
+        "fuzzer": "various"
+    }
+]

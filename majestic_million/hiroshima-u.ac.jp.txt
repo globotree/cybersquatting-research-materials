@@ -1,0 +1,30 @@
+[
+    {
+        "dns-mx": [
+            "ckmail.hiroshima-u.ac.jp"
+        ], 
+        "dns-ns": [
+            "dns-x.sinet.ad.jp", 
+            "ns.supercsi.jp", 
+            "ns01.hiroshima-u.ac.jp", 
+            "ns02.hiroshima-u.ac.jp"
+        ], 
+        "domain-name": "hiroshima-u.ac.jp", 
+        "fuzzer": "original*"
+    }, 
+    {
+        "dns-a": [
+            "52.193.129.39", 
+            "54.249.29.80"
+        ], 
+        "dns-ns": [
+            "ns-1100.awsdns-09.org", 
+            "ns-2036.awsdns-62.co.uk", 
+            "ns-300.awsdns-37.com", 
+            "ns-758.awsdns-30.net"
+        ], 
+        "domain-name": "hiroshima-u.jp", 
+        "fuzzer": "various", 
+        "geoip-country": "Japan"
+    }
+]

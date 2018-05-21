@@ -1,0 +1,84 @@
+[
+    {
+        "dns-a": [
+            "104.20.206.61", 
+            "104.20.207.61"
+        ], 
+        "dns-aaaa": [
+            "2400:cb00:2048:1::6814:ce3d", 
+            "2400:cb00:2048:1::6814:cf3d"
+        ], 
+        "dns-mx": [
+            "amnestyusa.org.s5a1.psmtp.com", 
+            "amnestyusa.org.s5a2.psmtp.com", 
+            "amnestyusa.org.s5b1.psmtp.com", 
+            "amnestyusa.org.s5b2.psmtp.com"
+        ], 
+        "dns-ns": [
+            "carter.ns.cloudflare.com", 
+            "jo.ns.cloudflare.com"
+        ], 
+        "domain-name": "amnestyusa.org", 
+        "fuzzer": "original*", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 100
+    }, 
+    {
+        "dns-a": [
+            "205.178.189.131"
+        ], 
+        "dns-mx": [
+            "p.webcom.ctmail.com"
+        ], 
+        "dns-ns": [
+            "ns1.worldnic.com", 
+            "ns2.worldnic.com"
+        ], 
+        "domain-name": "amnestyuse.org", 
+        "fuzzer": "bitsquatting", 
+        "geoip-country": "United States", 
+        "mx-spy": true, 
+        "ssdeep-score": 100
+    }, 
+    {
+        "dns-ns": [
+            "ns7.rookdns.com", 
+            "ns8.rookdns.com"
+        ], 
+        "domain-name": "annestyusa.org", 
+        "fuzzer": "homoglyph"
+    }, 
+    {
+        "dns-a": [
+            "162.220.6.106"
+        ], 
+        "dns-ns": [
+            "ns1.blackmesh.com", 
+            "ns2.blackmesh.com"
+        ], 
+        "domain-name": "amnesty-usa.org", 
+        "fuzzer": "hyphenation", 
+        "geoip-country": "United States"
+    }, 
+    {
+        "dns-a": [
+            "104.154.94.123"
+        ], 
+        "domain-name": "amnestyus.a.org", 
+        "fuzzer": "subdomain", 
+        "geoip-country": "United States"
+    }, 
+    {
+        "dns-a": [
+            "199.191.50.73"
+        ], 
+        "dns-ns": [
+            "ns111373.ztomy.com", 
+            "ns211373.ztomy.com"
+        ], 
+        "domain-name": "amenstyusa.org", 
+        "fuzzer": "transposition", 
+        "geoip-country": "Virgin Islands", 
+        "ssdeep-score": 0
+    }
+]

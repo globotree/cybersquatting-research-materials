@@ -1,0 +1,85 @@
+[
+    {
+        "dns-a": [
+            "104.25.130.17", 
+            "104.25.131.17"
+        ], 
+        "dns-aaaa": [
+            "2400:cb00:2048:1::6819:8211", 
+            "2400:cb00:2048:1::6819:8311"
+        ], 
+        "dns-ns": [
+            "anirban.ns.cloudflare.com", 
+            "tina.ns.cloudflare.com"
+        ], 
+        "domain-name": "reactjs.org", 
+        "fuzzer": "original*", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 100
+    }, 
+    {
+        "dns-a": [
+            "94.23.64.5"
+        ], 
+        "dns-mx": [
+            "redirect.ovh.net"
+        ], 
+        "dns-ns": [
+            "dns19.ovh.net", 
+            "ns19.ovh.net"
+        ], 
+        "domain-name": "react-js.org", 
+        "fuzzer": "hyphenation", 
+        "geoip-country": "Italy", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "69.172.201.153"
+        ], 
+        "dns-ns": [
+            "ns1.uniregistrymarket.link", 
+            "ns2.uniregistrymarket.link"
+        ], 
+        "domain-name": "reacts.org", 
+        "fuzzer": "omission", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-mx": [
+            "mailstore1.secureserver.net", 
+            "smtp.secureserver.net"
+        ], 
+        "dns-ns": [
+            "ns47.domaincontrol.com", 
+            "ns48.domaincontrol.com"
+        ], 
+        "domain-name": "reactis.org", 
+        "fuzzer": "replacement"
+    }, 
+    {
+        "dns-a": [
+            "23.229.219.8"
+        ], 
+        "domain-name": "reac.tjs.org", 
+        "fuzzer": "subdomain"
+    }, 
+    {
+        "dns-a": [
+            "50.63.46.1"
+        ], 
+        "dns-ns": [
+            "A.SERVICE.AFILIASDNS.INFO", 
+            "B.SERVICE.AFILIASDNS.org", 
+            "C.SERVICE.AFILIASDNS.NET", 
+            "D.SERVICE.AFILIASDNS.COM", 
+            "E.SERVICE.AFILIASDNS.INFO", 
+            "F.SERVICE.AFILIASDNS.NET"
+        ], 
+        "domain-name": "reactj.s.org", 
+        "fuzzer": "subdomain", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 0
+    }
+]

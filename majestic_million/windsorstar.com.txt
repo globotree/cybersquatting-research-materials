@@ -1,0 +1,126 @@
+[
+    {
+        "dns-a": [
+            "192.33.31.56"
+        ], 
+        "dns-mx": [
+            "smtp.postmedia.com"
+        ], 
+        "dns-ns": [
+            "ns1.postmediadns.com", 
+            "ns2.postmediadns.com"
+        ], 
+        "domain-name": "windsorstar.com", 
+        "fuzzer": "original*", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 100
+    }, 
+    {
+        "dns-a": [
+            "52.86.22.136", 
+            "54.174.212.152"
+        ], 
+        "dns-ns": [
+            "ns1.namebrightdns.com", 
+            "ns2.namebrightdns.com"
+        ], 
+        "domain-name": "windsorstars.com", 
+        "fuzzer": "addition", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-ns": [
+            "ns1.systemdns.com", 
+            "ns2.systemdns.com", 
+            "ns3.systemdns.com"
+        ], 
+        "domain-name": "windlsorstar.com", 
+        "fuzzer": "homoglyph"
+    }, 
+    {
+        "dns-a": [
+            "185.53.177.30"
+        ], 
+        "dns-ns": [
+            "ns1.parkingspa.com", 
+            "ns2.parkingspa.com"
+        ], 
+        "domain-name": "windsorsta.com", 
+        "fuzzer": "omission", 
+        "geoip-country": "Germany", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "103.224.182.245"
+        ], 
+        "dns-ns": [
+            "ns1.above.com", 
+            "ns2.above.com"
+        ], 
+        "domain-name": "windorstar.com", 
+        "fuzzer": "omission", 
+        "geoip-country": "Australia", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "198.185.159.144", 
+            "198.185.159.145", 
+            "198.49.23.144", 
+            "198.49.23.145"
+        ], 
+        "dns-ns": [
+            "ns59.domaincontrol.com", 
+            "ns60.domaincontrol.com"
+        ], 
+        "domain-name": "windsorstr.com", 
+        "fuzzer": "omission", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "104.27.170.70", 
+            "104.27.171.70"
+        ], 
+        "dns-ns": [
+            "boyd.ns.cloudflare.com", 
+            "gene.ns.cloudflare.com"
+        ], 
+        "domain-name": "wind.sorstar.com", 
+        "fuzzer": "subdomain", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "67.225.218.50"
+        ], 
+        "dns-ns": [
+            "ns1.parklogic.com", 
+            "ns2.parklogic.com", 
+            "ns3.parklogic.com", 
+            "ns4.parklogic.com", 
+            "ns5.parklogic.com"
+        ], 
+        "domain-name": "windsors.tar.com", 
+        "fuzzer": "subdomain", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "67.55.121.97"
+        ], 
+        "dns-ns": [
+            "ns1.windsorstor.com", 
+            "ns2.windsorstor.com"
+        ], 
+        "domain-name": "windsorstor.com", 
+        "fuzzer": "vowel-swap", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 0
+    }
+]

@@ -1,0 +1,48 @@
+[
+    {
+        "dns-a": [
+            "131.181.196.203"
+        ], 
+        "dns-mx": [
+            "qut-edu-au.mail.protection.outlook.com"
+        ], 
+        "dns-ns": [
+            "ns1.qut.edu.au", 
+            "ns2.qut.edu.au", 
+            "ns3.qut.edu.au"
+        ], 
+        "domain-name": "qut.edu.au", 
+        "fuzzer": "original*", 
+        "geoip-country": "Australia", 
+        "ssdeep-score": 100
+    }, 
+    {
+        "dns-a": [
+            "125.253.94.70"
+        ], 
+        "dns-mx": [
+            "mail.qet.edu.au"
+        ], 
+        "dns-ns": [
+            "ns.qet.edu.au", 
+            "ns1.qet.edu.au"
+        ], 
+        "domain-name": "qet.edu.au", 
+        "fuzzer": "bitsquatting", 
+        "geoip-country": "Australia"
+    }, 
+    {
+        "dns-a": [
+            "192.185.170.176"
+        ], 
+        "dns-mx": [
+            "qat.edu.au"
+        ], 
+        "dns-ns": [
+            "ns1.uniwebhost.net", 
+            "ns2.uniwebhost.net"
+        ], 
+        "domain-name": "qat.edu.au", 
+        "fuzzer": "vowel-swap"
+    }
+]

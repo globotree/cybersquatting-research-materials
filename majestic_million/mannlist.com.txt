@@ -1,0 +1,111 @@
+[
+    {
+        "dns-a": [
+            "85.17.27.43"
+        ], 
+        "dns-ns": [
+            "dns1.registrar-servers.com", 
+            "dns2.registrar-servers.com", 
+            "dns3.registrar-servers.com", 
+            "dns4.registrar-servers.com", 
+            "dns5.registrar-servers.com"
+        ], 
+        "domain-name": "mannlist.com", 
+        "fuzzer": "original*", 
+        "geoip-country": "Netherlands", 
+        "ssdeep-score": 99
+    }, 
+    {
+        "dns-a": [
+            "204.11.56.48"
+        ], 
+        "dns-ns": [
+            "ns1626.ztomy.com", 
+            "ns2626.ztomy.com"
+        ], 
+        "domain-name": "manolist.com", 
+        "fuzzer": "bitsquatting", 
+        "geoip-country": "Virgin Islands", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "67.228.0.96"
+        ], 
+        "dns-mx": [
+            "mx1.seanic.net"
+        ], 
+        "dns-ns": [
+            "ns19.seanic.net", 
+            "ns20.seanic.net"
+        ], 
+        "domain-name": "manndist.com", 
+        "fuzzer": "bitsquatting", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "173.241.1.82"
+        ], 
+        "dns-mx": [
+            "alt1.aspmx.l.google.com", 
+            "alt2.aspmx.l.google.com", 
+            "aspmx.l.google.com", 
+            "aspmx2.googlemail.com", 
+            "aspmx3.googlemail.com"
+        ], 
+        "dns-ns": [
+            "ns1.centurionhosting.com", 
+            "ns2.centurionhosting.com", 
+            "ns3.centurionhosting.com", 
+            "ns4.centurionhosting.com"
+        ], 
+        "domain-name": "manlist.com", 
+        "fuzzer": "omission", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "208.91.197.27"
+        ], 
+        "dns-mx": [
+            "p.webcom.ctmail.com"
+        ], 
+        "dns-ns": [
+            "ns85.worldnic.com", 
+            "ns86.worldnic.com"
+        ], 
+        "domain-name": "annlist.com", 
+        "fuzzer": "omission", 
+        "geoip-country": "United States", 
+        "mx-spy": true, 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "208.91.197.27"
+        ], 
+        "domain-name": "m.annlist.com", 
+        "fuzzer": "subdomain", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-ns": [
+            "ns41.rookdns.com", 
+            "ns42.rookdns.com"
+        ], 
+        "domain-name": "mann.list.com", 
+        "fuzzer": "subdomain"
+    }, 
+    {
+        "dns-a": [
+            "109.235.169.44"
+        ], 
+        "domain-name": "mannl.ist.com", 
+        "fuzzer": "subdomain", 
+        "geoip-country": "Sweden"
+    }
+]

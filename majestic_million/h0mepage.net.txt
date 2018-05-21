@@ -1,0 +1,67 @@
+[
+    {
+        "dns-a": [
+            "104.27.182.76", 
+            "104.27.183.76"
+        ], 
+        "dns-aaaa": [
+            "2400:cb00:2048:1::681b:b64c", 
+            "2400:cb00:2048:1::681b:b74c"
+        ], 
+        "dns-ns": [
+            "chris.ns.cloudflare.com", 
+            "reza.ns.cloudflare.com"
+        ], 
+        "domain-name": "h0mepage.net", 
+        "fuzzer": "original*", 
+        "geoip-country": "United States"
+    }, 
+    {
+        "dns-a": [
+            "46.137.174.70"
+        ], 
+        "dns-mx": [
+            "mx1.emailsrvr.com", 
+            "mx2.emailsrvr.com"
+        ], 
+        "dns-ns": [
+            "ns35.domaincontrol.com", 
+            "ns36.domaincontrol.com"
+        ], 
+        "domain-name": "homepage.net", 
+        "fuzzer": "replacement", 
+        "geoip-country": "Ireland"
+    }, 
+    {
+        "dns-a": [
+            "207.148.248.143"
+        ], 
+        "domain-name": "h0m.epage.net", 
+        "fuzzer": "subdomain", 
+        "geoip-country": "United States"
+    }, 
+    {
+        "dns-a": [
+            "68.178.213.61"
+        ], 
+        "domain-name": "h0me.page.net", 
+        "fuzzer": "subdomain", 
+        "geoip-country": "United States"
+    }, 
+    {
+        "dns-a": [
+            "69.172.201.153"
+        ], 
+        "domain-name": "h0mep.age.net", 
+        "fuzzer": "subdomain", 
+        "geoip-country": "United States"
+    }, 
+    {
+        "dns-a": [
+            "195.34.168.99"
+        ], 
+        "domain-name": "h0mepa.ge.net", 
+        "fuzzer": "subdomain", 
+        "geoip-country": "Germany"
+    }
+]

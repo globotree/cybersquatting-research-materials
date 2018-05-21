@@ -1,0 +1,28 @@
+[
+    {
+        "dns-mx": [
+            "mx.securemx.jp"
+        ], 
+        "dns-ns": [
+            "a1-12.akam.net", 
+            "a10-67.akam.net", 
+            "a14-64.akam.net", 
+            "a20-65.akam.net", 
+            "a7-66.akam.net", 
+            "a9-67.akam.net"
+        ], 
+        "domain-name": "maff.go.jp", 
+        "fuzzer": "original*"
+    }, 
+    {
+        "dns-ns": [
+            "ns1.xserver.jp", 
+            "ns2.xserver.jp", 
+            "ns3.xserver.jp", 
+            "ns4.xserver.jp", 
+            "ns5.xserver.jp"
+        ], 
+        "domain-name": "maff.jp", 
+        "fuzzer": "various"
+    }
+]

@@ -1,0 +1,121 @@
+[
+    {
+        "dns-a": [
+            "151.101.0.200", 
+            "151.101.128.200", 
+            "151.101.192.200", 
+            "151.101.64.200"
+        ], 
+        "dns-mx": [
+            "mxa-0018d701.gslb.pphosted.com", 
+            "mxb-0018d701.gslb.pphosted.com"
+        ], 
+        "dns-ns": [
+            "ns-1200.awsdns-22.org", 
+            "ns-1916.awsdns-47.co.uk", 
+            "ns-29.awsdns-03.com", 
+            "ns-983.awsdns-58.net"
+        ], 
+        "domain-name": "redbookmag.com", 
+        "fuzzer": "original*", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 100
+    }, 
+    {
+        "dns-a": [
+            "148.66.136.54"
+        ], 
+        "dns-mx": [
+            "mail.redbookmags.com"
+        ], 
+        "dns-ns": [
+            "ns07.domaincontrol.com", 
+            "ns08.domaincontrol.com"
+        ], 
+        "domain-name": "redbookmags.com", 
+        "fuzzer": "addition", 
+        "geoip-country": "Singapore", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "70.32.1.32"
+        ], 
+        "dns-mx": [
+            "park-mx.above.com"
+        ], 
+        "dns-ns": [
+            "ns1.above.com", 
+            "ns2.above.com"
+        ], 
+        "domain-name": "redbookmac.com", 
+        "fuzzer": "bitsquatting", 
+        "geoip-country": "United States", 
+        "mx-spy": true, 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "80.92.65.144"
+        ], 
+        "dns-ns": [
+            "ns1.eurodns.com", 
+            "ns2.eurodns.com", 
+            "ns3.eurodns.com", 
+            "ns4.eurodns.com"
+        ], 
+        "domain-name": "redbookmg.com", 
+        "fuzzer": "omission", 
+        "geoip-country": "Luxembourg", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-mx": [
+            "mx156.hostedmxserver.com"
+        ], 
+        "dns-ns": [
+            "ns1.parklogic.com", 
+            "ns2.parklogic.com", 
+            "ns3.parklogic.com", 
+            "ns4.parklogic.com", 
+            "ns5.parklogic.com"
+        ], 
+        "domain-name": "redbokmag.com", 
+        "fuzzer": "omission", 
+        "mx-spy": true
+    }, 
+    {
+        "dns-a": [
+            "146.148.34.125"
+        ], 
+        "dns-mx": [
+            "mail.hope-mail.com"
+        ], 
+        "dns-ns": [
+            "ns4.dnsauthority.com", 
+            "ns5.dnsauthority.com"
+        ], 
+        "domain-name": "rebookmag.com", 
+        "fuzzer": "omission", 
+        "geoip-country": "United States", 
+        "mx-spy": true, 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "185.53.178.8"
+        ], 
+        "dns-mx": [
+            "mail.h-email.net"
+        ], 
+        "dns-ns": [
+            "ns1.parkingcrew.net", 
+            "ns2.parkingcrew.net"
+        ], 
+        "domain-name": "redbbookmag.com", 
+        "fuzzer": "repetition", 
+        "geoip-country": "Germany", 
+        "mx-spy": true, 
+        "ssdeep-score": 0
+    }
+]

@@ -1,0 +1,51 @@
+[
+    {
+        "dns-a": [
+            "147.135.161.78"
+        ], 
+        "dns-mx": [
+            "mx00.1and1.es", 
+            "mx01.1and1.es"
+        ], 
+        "dns-ns": [
+            "ns1077.ui-dns.biz", 
+            "ns1077.ui-dns.com", 
+            "ns1077.ui-dns.de", 
+            "ns1077.ui-dns.org"
+        ], 
+        "domain-name": "diariodehuelva.es", 
+        "fuzzer": "original*", 
+        "geoip-country": "United States"
+    }, 
+    {
+        "dns-a": [
+            "80.38.96.28"
+        ], 
+        "dns-ns": [
+            "ns1.cdmon.net", 
+            "ns2.cdmon.net", 
+            "ns3.cdmon.net", 
+            "ns4.cdmondns-01.org", 
+            "ns5.cdmondns-01.com"
+        ], 
+        "domain-name": "diario.dehuelva.es", 
+        "fuzzer": "subdomain", 
+        "geoip-country": "Spain"
+    }, 
+    {
+        "dns-a": [
+            "72.52.4.122"
+        ], 
+        "dns-mx": [
+            "localhost"
+        ], 
+        "dns-ns": [
+            "ns1.sedoparking.com", 
+            "ns2.sedoparking.com"
+        ], 
+        "domain-name": "diariodehue.lva.es", 
+        "fuzzer": "subdomain", 
+        "geoip-country": "United States", 
+        "mx-spy": true
+    }
+]

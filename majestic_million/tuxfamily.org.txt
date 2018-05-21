@@ -1,0 +1,83 @@
+[
+    {
+        "dns-a": [
+            "188.121.227.54"
+        ], 
+        "dns-aaaa": [
+            "2a02:2178:2:f::54"
+        ], 
+        "dns-mx": [
+            "mx1.tuxfamily.net", 
+            "mx2.tuxfamily.net"
+        ], 
+        "dns-ns": [
+            "ns1.staff.tuxfamily.net", 
+            "ns2.staff.tuxfamily.net"
+        ], 
+        "domain-name": "tuxfamily.org", 
+        "fuzzer": "original*", 
+        "geoip-country": "France", 
+        "ssdeep-score": 100
+    }, 
+    {
+        "dns-a": [
+            "76.186.195.154"
+        ], 
+        "dns-ns": [
+            "ns16.zoneedit.com", 
+            "ns19.zoneedit.com"
+        ], 
+        "domain-name": "txfamily.org", 
+        "fuzzer": "omission", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-mx": [
+            "tufamily-org.mail.protection.outlook.com"
+        ], 
+        "dns-ns": [
+            "ns65.domaincontrol.com", 
+            "ns66.domaincontrol.com"
+        ], 
+        "domain-name": "tufamily.org", 
+        "fuzzer": "omission"
+    }, 
+    {
+        "dns-a": [
+            "168.235.67.112"
+        ], 
+        "domain-name": "tu.xfamily.org", 
+        "fuzzer": "subdomain", 
+        "geoip-country": "United States"
+    }, 
+    {
+        "dns-a": [
+            "112.126.81.41"
+        ], 
+        "domain-name": "tuxf.amily.org", 
+        "fuzzer": "subdomain", 
+        "geoip-country": "China", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "72.52.178.23"
+        ], 
+        "dns-mx": [
+            "mx156.hostedmxserver.com"
+        ], 
+        "dns-ns": [
+            "ns1.parklogic.com", 
+            "ns2.parklogic.com", 
+            "ns3.parklogic.com", 
+            "ns4.parklogic.com", 
+            "ns5.parklogic.com"
+        ], 
+        "domain-name": "tuxfa.mily.org", 
+        "fuzzer": "subdomain", 
+        "geoip-country": "United States", 
+        "mx-spy": true, 
+        "ssdeep-score": 0
+    }
+]

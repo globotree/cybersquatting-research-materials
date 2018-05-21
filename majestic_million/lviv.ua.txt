@@ -1,0 +1,43 @@
+[
+    {
+        "dns-mx": [
+            "Alpha.UAR.Net", 
+            "Relay2.UAR.Net"
+        ], 
+        "dns-ns": [
+            "arwena.nask.waw.pl", 
+            "ns2.uar.net", 
+            "ns5.univie.ac.at", 
+            "sigma.uar.net"
+        ], 
+        "domain-name": "lviv.ua", 
+        "fuzzer": "original*"
+    }, 
+    {
+        "dns-a": [
+            "91.229.77.79"
+        ], 
+        "dns-ns": [
+            "ns1.deltahost.net.ua", 
+            "ns1.deltahostdns.com", 
+            "ns2.deltahost.net.ua", 
+            "ns2.deltahostdns.com"
+        ], 
+        "domain-name": "vliv.ua", 
+        "fuzzer": "transposition"
+    }, 
+    {
+        "dns-a": [
+            "93.178.253.150"
+        ], 
+        "dns-mx": [
+            "mx.lviv-ua.com"
+        ], 
+        "dns-ns": [
+            "ns15.domaincontrol.com", 
+            "ns16.domaincontrol.com"
+        ], 
+        "domain-name": "lviv-ua.com", 
+        "fuzzer": "various"
+    }
+]

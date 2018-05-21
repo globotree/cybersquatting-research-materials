@@ -1,0 +1,82 @@
+[
+    {
+        "dns-a": [
+            "23.185.0.2"
+        ], 
+        "dns-aaaa": [
+            "2620:12a:8000::2", 
+            "2620:12a:8001::2"
+        ], 
+        "dns-mx": [
+            "alt1.aspmx.l.google.com", 
+            "alt2.aspmx.l.google.com", 
+            "alt3.aspmx.l.google.com", 
+            "alt4.aspmx.l.google.com", 
+            "aspmx.l.google.com"
+        ], 
+        "dns-ns": [
+            "ns1.net.unlv.edu", 
+            "ns2.net.unlv.edu", 
+            "ns5.net.unlv.edu"
+        ], 
+        "domain-name": "unlv.edu", 
+        "fuzzer": "original*", 
+        "ssdeep-score": 100
+    }, 
+    {
+        "dns-a": [
+            "129.93.168.40", 
+            "129.93.168.41", 
+            "129.93.168.42", 
+            "129.93.168.43"
+        ], 
+        "dns-mx": [
+            "mxa-00246401.gslb.pphosted.com", 
+            "mxb-00246401.gslb.pphosted.com"
+        ], 
+        "dns-ns": [
+            "dns1.unl.edu", 
+            "dns2.unl.edu"
+        ], 
+        "domain-name": "unl.edu", 
+        "fuzzer": "omission", 
+        "geoip-country": "United States", 
+        "mx-spy": true
+    }, 
+    {
+        "dns-a": [
+            "50.57.21.143"
+        ], 
+        "dns-mx": [
+            "376887-db2.ulv.edu", 
+            "alt1.aspmx.l.google.com", 
+            "alt2.aspmx.l.google.com", 
+            "aspmx.l.google.com", 
+            "aspmx2.googlemail.com", 
+            "aspmx3.googlemail.com", 
+            "mail.ulv.edu", 
+            "www.ulv.edu"
+        ], 
+        "dns-ns": [
+            "authns1.qwest.net", 
+            "authns2.qwest.net"
+        ], 
+        "domain-name": "ulv.edu", 
+        "fuzzer": "omission"
+    }, 
+    {
+        "dns-a": [
+            "50.63.202.26"
+        ], 
+        "dns-mx": [
+            "mx.zoho.com", 
+            "mx2.zoho.com"
+        ], 
+        "dns-ns": [
+            "ns43.domaincontrol.com", 
+            "ns44.domaincontrol.com"
+        ], 
+        "domain-name": "unlv-edu.com", 
+        "fuzzer": "various"
+    }
+]

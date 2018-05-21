@@ -1,0 +1,51 @@
+[
+    {
+        "dns-a": [
+            "74.208.37.175"
+        ], 
+        "dns-mx": [
+            "mxi00.1und1.com", 
+            "mxi01.1und1.com"
+        ], 
+        "dns-ns": [
+            "ns27.perfora.net", 
+            "ns28.perfora.net"
+        ], 
+        "domain-name": "onlinehome.us", 
+        "fuzzer": "original*", 
+        "geoip-country": "United States"
+    }, 
+    {
+        "dns-a": [
+            "72.52.4.122"
+        ], 
+        "dns-mx": [
+            "localhost"
+        ], 
+        "dns-ns": [
+            "ns1.sedoparking.com", 
+            "ns2.sedoparking.com"
+        ], 
+        "domain-name": "onlinehomes.us", 
+        "fuzzer": "addition", 
+        "geoip-country": "United States", 
+        "mx-spy": true
+    }, 
+    {
+        "dns-a": [
+            "184.168.221.96"
+        ], 
+        "dns-mx": [
+            "0", 
+            "10"
+        ], 
+        "dns-ns": [
+            "ns01.cashparking.com", 
+            "ns02.cashparking.com"
+        ], 
+        "domain-name": "onlin.ehome.us", 
+        "fuzzer": "subdomain", 
+        "geoip-country": "United States", 
+        "mx-spy": true
+    }
+]

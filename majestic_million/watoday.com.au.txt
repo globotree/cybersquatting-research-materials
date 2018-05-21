@@ -1,0 +1,73 @@
+[
+    {
+        "dns-a": [
+            "52.222.146.115", 
+            "52.222.146.124", 
+            "52.222.146.163", 
+            "52.222.146.236", 
+            "52.222.146.238", 
+            "52.222.146.25", 
+            "52.222.146.47", 
+            "52.222.146.65"
+        ], 
+        "dns-aaaa": [
+            "2600:9000:2047:1600:e:e40f:c540:93a1", 
+            "2600:9000:2047:2a00:e:e40f:c540:93a1", 
+            "2600:9000:2047:5200:e:e40f:c540:93a1", 
+            "2600:9000:2047:5a00:e:e40f:c540:93a1", 
+            "2600:9000:2047:8800:e:e40f:c540:93a1", 
+            "2600:9000:2047:ba00:e:e40f:c540:93a1", 
+            "2600:9000:2047:ee00:e:e40f:c540:93a1", 
+            "2600:9000:2047:f800:e:e40f:c540:93a1"
+        ], 
+        "dns-mx": [
+            "mail1.f2.com.au", 
+            "mail2.f2.com.au"
+        ], 
+        "dns-ns": [
+            "ns-1410.awsdns-48.org", 
+            "ns-156.awsdns-19.com", 
+            "ns-1873.awsdns-42.co.uk", 
+            "ns-582.awsdns-08.net"
+        ], 
+        "domain-name": "watoday.com.au", 
+        "fuzzer": "original*", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 100
+    }, 
+    {
+        "dns-mx": [
+            "mx.netregistry.net", 
+            "mx4.netregistry.net"
+        ], 
+        "dns-ns": [
+            "ns1.netregistry.net", 
+            "ns2.netregistry.net", 
+            "ns3.netregistry.net"
+        ], 
+        "domain-name": "vatoday.com.au", 
+        "fuzzer": "bitsquatting"
+    }, 
+    {
+        "dns-a": [
+            "66.96.147.117"
+        ], 
+        "domain-name": "wat.oday.com.au", 
+        "fuzzer": "subdomain", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "69.172.201.153"
+        ], 
+        "dns-ns": [
+            "ns1.uniregistrymarket.link", 
+            "ns2.uniregistrymarket.link"
+        ], 
+        "domain-name": "wato.day.com.au", 
+        "fuzzer": "subdomain", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 0
+    }
+]

@@ -1,0 +1,118 @@
+[
+    {
+        "dns-mx": [
+            "mx1.emailsrvr.com", 
+            "mx2.emailsrvr.com"
+        ], 
+        "dns-ns": [
+            "ns.rackspace.com", 
+            "ns2.rackspace.com"
+        ], 
+        "domain-name": "rackcdn.com", 
+        "fuzzer": "original*"
+    }, 
+    {
+        "dns-mx": [
+            "mxbiz1.qq.com", 
+            "mxbiz2.qq.com"
+        ], 
+        "dns-ns": [
+            "lv3ns1.ffdns.net", 
+            "lv3ns2.ffdns.net", 
+            "lv3ns3.ffdns.net", 
+            "lv3ns4.ffdns.net"
+        ], 
+        "domain-name": "packcdn.com", 
+        "fuzzer": "bitsquatting"
+    }, 
+    {
+        "dns-a": [
+            "173.239.5.6", 
+            "173.239.8.164", 
+            "213.247.47.190"
+        ], 
+        "dns-mx": [
+            "mx7.rackcen.com"
+        ], 
+        "dns-ns": [
+            "ns1.expiereddnsmanager.com", 
+            "ns2.expiereddnsmanager.com"
+        ], 
+        "domain-name": "rackcen.com", 
+        "fuzzer": "bitsquatting", 
+        "geoip-country": "United States"
+    }, 
+    {
+        "dns-a": [
+            "141.8.224.93"
+        ], 
+        "dns-ns": [
+            "ns7.rookdns.com", 
+            "ns8.rookdns.com"
+        ], 
+        "domain-name": "rackcdm.com", 
+        "fuzzer": "homoglyph", 
+        "geoip-country": "Switzerland"
+    }, 
+    {
+        "dns-a": [
+            "141.8.224.93"
+        ], 
+        "dns-ns": [
+            "ns7.rookdns.com", 
+            "ns8.rookdns.com"
+        ], 
+        "domain-name": "ackcdn.com", 
+        "fuzzer": "omission", 
+        "geoip-country": "Switzerland"
+    }, 
+    {
+        "dns-a": [
+            "115.47.63.208"
+        ], 
+        "domain-name": "rackcn.com", 
+        "fuzzer": "omission", 
+        "geoip-country": "China"
+    }, 
+    {
+        "dns-a": [
+            "68.178.213.61"
+        ], 
+        "dns-ns": [
+            "ns1.namefind.com", 
+            "ns2.namefind.com"
+        ], 
+        "domain-name": "rackcd.com", 
+        "fuzzer": "omission", 
+        "geoip-country": "United States"
+    }, 
+    {
+        "dns-a": [
+            "141.8.224.93"
+        ], 
+        "dns-ns": [
+            "ns7.rookdns.com", 
+            "ns8.rookdns.com"
+        ], 
+        "domain-name": "r.ackcdn.com", 
+        "fuzzer": "subdomain", 
+        "geoip-country": "Switzerland"
+    }, 
+    {
+        "dns-a": [
+            "137.74.57.250"
+        ], 
+        "dns-mx": [
+            "mail.rockcdn.com"
+        ], 
+        "dns-ns": [
+            "anna.ns.rockcdn.com", 
+            "bell.ns.rockcdn.com", 
+            "coco.ns.rockcdn.com", 
+            "dirk.ns.rockcdn.com", 
+            "elan.ns.rockcdn.com"
+        ], 
+        "domain-name": "rockcdn.com", 
+        "fuzzer": "vowel-swap"
+    }
+]

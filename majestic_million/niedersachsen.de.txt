@@ -1,0 +1,228 @@
+[
+    {
+        "dns-mx": [
+            "inetmail12.niedersachsen.de", 
+            "inetmail21.niedersachsen.de"
+        ], 
+        "dns-ns": [
+            "deneb.dfn.de", 
+            "dns1.niedersachsen.de", 
+            "dns2.niedersachsen.de", 
+            "dns4.niedersachsen.de", 
+            "dns4.niedersachsen.info"
+        ], 
+        "domain-name": "niedersachsen.de", 
+        "fuzzer": "original*"
+    }, 
+    {
+        "dns-a": [
+            "78.47.59.169"
+        ], 
+        "dns-aaaa": [
+            "2a01:4f8:190:62f4::13"
+        ], 
+        "dns-mx": [
+            "mx.redirect.domainoffensive.de", 
+            "mxfallback.redirect.domainoffensive.de"
+        ], 
+        "dns-ns": [
+            "ns1.domainoffensive.de", 
+            "ns2.domainoffensive.de", 
+            "ns3.domainoffensive.de"
+        ], 
+        "domain-name": "liedersachsen.de", 
+        "fuzzer": "bitsquatting", 
+        "geoip-country": "Germany"
+    }, 
+    {
+        "dns-a": [
+            "185.53.179.6"
+        ], 
+        "dns-ns": [
+            "ns1.parkingcrew.net", 
+            "ns2.parkingcrew.net"
+        ], 
+        "domain-name": "nieder-sachsen.de", 
+        "fuzzer": "hyphenation", 
+        "geoip-country": "Germany"
+    }, 
+    {
+        "dns-a": [
+            "103.224.182.245"
+        ], 
+        "dns-mx": [
+            "park-mx.above.com"
+        ], 
+        "dns-ns": [
+            "ns1.above.com", 
+            "ns2.above.com"
+        ], 
+        "domain-name": "niedersaschsen.de", 
+        "fuzzer": "insertion", 
+        "geoip-country": "Australia", 
+        "mx-spy": true
+    }, 
+    {
+        "dns-a": [
+            "72.52.179.175"
+        ], 
+        "dns-mx": [
+            "mx156.hostedmxserver.com"
+        ], 
+        "dns-ns": [
+            "ns1.parklogic.com", 
+            "ns2.parklogic.com", 
+            "ns3.parklogic.com"
+        ], 
+        "domain-name": "nierdersachsen.de", 
+        "fuzzer": "insertion", 
+        "geoip-country": "United States", 
+        "mx-spy": true
+    }, 
+    {
+        "dns-a": [
+            "103.224.182.245"
+        ], 
+        "dns-mx": [
+            "park-mx.above.com"
+        ], 
+        "dns-ns": [
+            "ns1.above.com", 
+            "ns2.above.com"
+        ], 
+        "domain-name": "niedersachesen.de", 
+        "fuzzer": "insertion", 
+        "geoip-country": "Australia", 
+        "mx-spy": true
+    }, 
+    {
+        "dns-a": [
+            "185.53.178.7"
+        ], 
+        "dns-ns": [
+            "ns1.parkingcrew.net", 
+            "ns2.parkingcrew.net"
+        ], 
+        "domain-name": "niedersacsen.de", 
+        "fuzzer": "omission", 
+        "geoip-country": "Germany"
+    }, 
+    {
+        "dns-a": [
+            "185.53.178.8"
+        ], 
+        "dns-mx": [
+            "mail.h-email.net"
+        ], 
+        "dns-ns": [
+            "ns1.parkingcrew.net", 
+            "ns2.parkingcrew.net"
+        ], 
+        "domain-name": "niederschsen.de", 
+        "fuzzer": "omission", 
+        "geoip-country": "Germany", 
+        "mx-spy": true
+    }, 
+    {
+        "dns-a": [
+            "89.200.168.36"
+        ], 
+        "dns-mx": [
+            "mail.niedesachsen.de"
+        ], 
+        "dns-ns": [
+            "ns1.ns-serve.net", 
+            "ns2.ns-serve.net"
+        ], 
+        "domain-name": "niedesachsen.de", 
+        "fuzzer": "omission", 
+        "geoip-country": "Germany"
+    }, 
+    {
+        "dns-ns": [
+            "dns-1.dfn.de", 
+            "dns-2.dfn.de", 
+            "dns-3.dfn.de"
+        ], 
+        "domain-name": "niedrsachsen.de", 
+        "fuzzer": "omission"
+    }, 
+    {
+        "dns-a": [
+            "217.160.233.119"
+        ], 
+        "dns-mx": [
+            "mx00.kundenserver.de", 
+            "mx01.kundenserver.de"
+        ], 
+        "dns-ns": [
+            "ns55.1und1.de", 
+            "ns56.1und1.de"
+        ], 
+        "domain-name": "niedersachse.de", 
+        "fuzzer": "omission", 
+        "geoip-country": "Germany"
+    }, 
+    {
+        "dns-ns": [
+            "dns-1.dfn.de", 
+            "dns-2.dfn.de", 
+            "dns-3.dfn.de"
+        ], 
+        "domain-name": "niedersachen.de", 
+        "fuzzer": "omission"
+    }, 
+    {
+        "dns-a": [
+            "185.53.179.7"
+        ], 
+        "dns-mx": [
+            "mail.h-email.net"
+        ], 
+        "dns-ns": [
+            "ns1.parkingcrew.net", 
+            "ns2.parkingcrew.net"
+        ], 
+        "domain-name": "niederachsen.de", 
+        "fuzzer": "omission", 
+        "geoip-country": "Germany", 
+        "mx-spy": true
+    }, 
+    {
+        "dns-a": [
+            "212.227.45.247"
+        ], 
+        "domain-name": "niedersa.chsen.de", 
+        "fuzzer": "subdomain", 
+        "geoip-country": "Germany"
+    }, 
+    {
+        "dns-a": [
+            "89.31.143.100"
+        ], 
+        "domain-name": "niedersachs.en.de", 
+        "fuzzer": "subdomain", 
+        "geoip-country": "Germany"
+    }, 
+    {
+        "dns-a": [
+            "209.198.23.31"
+        ], 
+        "dns-ns": [
+            "ns1.dropcatcher.de", 
+            "ns2.dropcatcher.de"
+        ], 
+        "domain-name": "niedersahcsen.de", 
+        "fuzzer": "transposition", 
+        "geoip-country": "United States"
+    }, 
+    {
+        "dns-ns": [
+            "dns-1.dfn.de", 
+            "dns-2.dfn.de", 
+            "dns-3.dfn.de"
+        ], 
+        "domain-name": "niedersachsne.de", 
+        "fuzzer": "transposition"
+    }
+]

@@ -1,0 +1,81 @@
+[
+    {
+        "dns-ns": [
+            "ns.nic.do", 
+            "ns1.nic.do", 
+            "ns2.nic.do", 
+            "ns3.nic.do", 
+            "ns3.nic.mx", 
+            "phloem.uoregon.edu", 
+            "sns-pb.isc.org"
+        ], 
+        "domain-name": "gob.do", 
+        "fuzzer": "original*"
+    }, 
+    {
+        "dns-mx": [
+            "alt1.aspmx.l.google.com", 
+            "alt2.aspmx.l.google.com", 
+            "alt3.aspmx.l.google.com", 
+            "aspmx.l.google.com"
+        ], 
+        "dns-ns": [
+            "dns1.midominio.do", 
+            "dns2.midominio.do", 
+            "dns3.midominio.do", 
+            "dns4.midominio.do"
+        ], 
+        "domain-name": "gof.do", 
+        "fuzzer": "bitsquatting"
+    }, 
+    {
+        "dns-a": [
+            "192.30.252.153", 
+            "192.30.252.154"
+        ], 
+        "dns-ns": [
+            "ns1.instradns.com", 
+            "ns2.instradns.com", 
+            "ns3.instradns.com"
+        ], 
+        "domain-name": "gor.do", 
+        "fuzzer": "bitsquatting", 
+        "geoip-country": "United States"
+    }, 
+    {
+        "dns-a": [
+            "208.91.197.91"
+        ], 
+        "domain-name": "god.do", 
+        "fuzzer": "homoglyph", 
+        "geoip-country": "Virgin Islands"
+    }, 
+    {
+        "dns-a": [
+            "66.96.149.1"
+        ], 
+        "dns-mx": [
+            "mx.go.do"
+        ], 
+        "dns-ns": [
+            "ns1.netfirms.com", 
+            "ns2.netfirms.com"
+        ], 
+        "domain-name": "go.do", 
+        "fuzzer": "omission", 
+        "geoip-country": "United States"
+    }, 
+    {
+        "dns-ns": [
+            "ns.nic.do", 
+            "ns1.nic.do", 
+            "ns2.nic.do", 
+            "ns3.nic.do", 
+            "ns3.nic.mx", 
+            "phloem.uoregon.edu", 
+            "sns-pb.isc.org"
+        ], 
+        "domain-name": "gov.do", 
+        "fuzzer": "replacement"
+    }
+]

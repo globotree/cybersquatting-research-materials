@@ -1,0 +1,80 @@
+[
+    {
+        "dns-a": [
+            "142.3.152.34"
+        ], 
+        "dns-mx": [
+            "pokey.cc.uregina.ca"
+        ], 
+        "dns-ns": [
+            "atlas.cc.uregina.ca", 
+            "fw.uregina.ca", 
+            "ns1.d-zone.ca", 
+            "ns2.d-zone.ca", 
+            "sue.cc.uregina.ca"
+        ], 
+        "domain-name": "uregina.ca", 
+        "fuzzer": "original*", 
+        "geoip-country": "Canada", 
+        "ssdeep-score": 100
+    }, 
+    {
+        "dns-a": [
+            "158.85.87.76"
+        ], 
+        "dns-mx": [
+            "mail.eregina.ca"
+        ], 
+        "dns-ns": [
+            "slns1.namespro.ca", 
+            "slns2.namespro.ca"
+        ], 
+        "domain-name": "eregina.ca", 
+        "fuzzer": "bitsquatting", 
+        "geoip-country": "Canada", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "198.169.65.13"
+        ], 
+        "dns-mx": [
+            "regina-ca.mail.protection.outlook.com"
+        ], 
+        "dns-ns": [
+            "ns-1156.awsdns-16.org", 
+            "ns-1552.awsdns-02.co.uk", 
+            "ns-489.awsdns-61.com", 
+            "ns-785.awsdns-34.net"
+        ], 
+        "domain-name": "regina.ca", 
+        "fuzzer": "omission", 
+        "geoip-country": "Canada", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "67.231.21.20"
+        ], 
+        "dns-mx": [
+            "iregina.ca"
+        ], 
+        "dns-ns": [
+            "ns318.canadianwebhosting.com", 
+            "ns319.canadianwebhosting.com"
+        ], 
+        "domain-name": "iregina.ca", 
+        "fuzzer": "replacement", 
+        "geoip-country": "Canada", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "54.221.207.100"
+        ], 
+        "domain-name": "ure.gina.ca", 
+        "fuzzer": "subdomain", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 0
+    }
+]

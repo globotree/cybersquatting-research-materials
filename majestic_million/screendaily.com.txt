@@ -1,0 +1,69 @@
+[
+    {
+        "dns-a": [
+            "34.252.9.76"
+        ], 
+        "dns-mx": [
+            "screendaily-com.mail.protection.outlook.com"
+        ], 
+        "dns-ns": [
+            "ns0.phase8.net", 
+            "ns1.phase8.net", 
+            "ns2.phase8.net"
+        ], 
+        "domain-name": "screendaily.com", 
+        "fuzzer": "original*", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 99
+    }, 
+    {
+        "dns-a": [
+            "85.233.160.22"
+        ], 
+        "dns-ns": [
+            "ns0.phase8.net", 
+            "ns1.phase8.net", 
+            "ns2.phase8.net"
+        ], 
+        "domain-name": "screen-daily.com", 
+        "fuzzer": "hyphenation", 
+        "geoip-country": "United Kingdom", 
+        "ssdeep-score": 99
+    }, 
+    {
+        "dns-a": [
+            "104.217.43.163"
+        ], 
+        "domain-name": "creendaily.com", 
+        "fuzzer": "omission", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "104.160.171.88"
+        ], 
+        "domain-name": "scree.ndaily.com", 
+        "fuzzer": "subdomain", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "5.22.149.135"
+        ], 
+        "domain-name": "screen.daily.com", 
+        "fuzzer": "subdomain", 
+        "geoip-country": "Germany", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "23.229.158.1"
+        ], 
+        "domain-name": "screenda.ily.com", 
+        "fuzzer": "subdomain", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 0
+    }
+]

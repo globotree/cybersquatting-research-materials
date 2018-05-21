@@ -1,0 +1,44 @@
+[
+    {
+        "dns-mx": [
+            "alt1.aspmx.l.google.com", 
+            "alt2.aspmx.l.google.com", 
+            "aspmx.l.google.com", 
+            "aspmx2.googlemail.com", 
+            "aspmx3.googlemail.com", 
+            "aspmx4.googlemail.com", 
+            "aspmx5.googlemail.com"
+        ], 
+        "dns-ns": [
+            "adns1.upenn.edu", 
+            "adns2.upenn.edu", 
+            "adns3.upenn.edu", 
+            "dns1.udel.edu", 
+            "dns2.udel.edu"
+        ], 
+        "domain-name": "udel.edu", 
+        "fuzzer": "original*"
+    }, 
+    {
+        "dns-a": [
+            "148.238.49.0"
+        ], 
+        "dns-mx": [
+            "alt1.aspmx.l.google.com", 
+            "alt2.aspmx.l.google.com", 
+            "aspmx.l.google.com", 
+            "aspmx2.googlemail.com", 
+            "aspmx3.googlemail.com"
+        ], 
+        "dns-ns": [
+            "dhcpsrv.udem.edu.mx", 
+            "dns1.udem.edu.mx", 
+            "dns2.udem.edu.mx", 
+            "srvadadmin01.udem.edu.mx", 
+            "udemdns01.udem.edu.mx"
+        ], 
+        "domain-name": "udem.edu", 
+        "fuzzer": "bitsquatting", 
+        "geoip-country": "Mexico"
+    }
+]

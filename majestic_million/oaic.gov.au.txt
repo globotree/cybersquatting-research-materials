@@ -1,0 +1,36 @@
+[
+    {
+        "dns-a": [
+            "202.4.229.183"
+        ], 
+        "dns-mx": [
+            "oaic-gov-au.mail.protection.outlook.com"
+        ], 
+        "dns-ns": [
+            "ns1-07.azure-dns.com", 
+            "ns2-07.azure-dns.net", 
+            "ns3-07.azure-dns.org", 
+            "ns4-07.azure-dns.info"
+        ], 
+        "domain-name": "oaic.gov.au", 
+        "fuzzer": "original*", 
+        "geoip-country": "Australia", 
+        "ssdeep-score": 100
+    }, 
+    {
+        "dns-a": [
+            "113.20.25.162"
+        ], 
+        "dns-mx": [
+            "192.190.66.43", 
+            "mail.aic.gov.au"
+        ], 
+        "dns-ns": [
+            "ns1.aic.gov.au"
+        ], 
+        "domain-name": "aic.gov.au", 
+        "fuzzer": "omission", 
+        "geoip-country": "Australia", 
+        "ssdeep-score": 0
+    }
+]

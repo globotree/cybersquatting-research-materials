@@ -1,0 +1,70 @@
+[
+    {
+        "dns-mx": [
+            "smtp.spp.gov.cn"
+        ], 
+        "dns-ns": [
+            "ns1.cdns.cn", 
+            "ns2.cdns.cn", 
+            "ns3.cdns.cn"
+        ], 
+        "domain-name": "spp.gov.cn", 
+        "fuzzer": "original*"
+    }, 
+    {
+        "dns-a": [
+            "10.10.10.10"
+        ], 
+        "dns-mx": [
+            "mail.sppa.gov.cn"
+        ], 
+        "dns-ns": [
+            "exchange.sppa.gov.cn"
+        ], 
+        "domain-name": "sppa.gov.cn", 
+        "fuzzer": "addition"
+    }, 
+    {
+        "dns-a": [
+            "218.95.179.202"
+        ], 
+        "dns-ns": [
+            "dns19.hichina.com", 
+            "dns20.hichina.com"
+        ], 
+        "domain-name": "spt.gov.cn", 
+        "fuzzer": "bitsquatting", 
+        "geoip-country": "China"
+    }, 
+    {
+        "dns-ns": [
+            "vip1.alidns.com", 
+            "vip2.alidns.com"
+        ], 
+        "domain-name": "sp.gov.cn", 
+        "fuzzer": "omission"
+    }, 
+    {
+        "dns-mx": [
+            "smtp.spp.gov.cn"
+        ], 
+        "dns-ns": [
+            "ns1.cdns.cn", 
+            "ns2.cdns.cn", 
+            "ns3.cdns.cn"
+        ], 
+        "domain-name": "spp.cn", 
+        "fuzzer": "various"
+    }, 
+    {
+        "dns-a": [
+            "23.224.215.48"
+        ], 
+        "dns-ns": [
+            "ns3.dnsdun.com", 
+            "ns3.dnsdun.net"
+        ], 
+        "domain-name": "sppgov.cn", 
+        "fuzzer": "various"
+    }
+]

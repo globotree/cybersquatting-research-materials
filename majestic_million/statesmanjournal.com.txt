@@ -1,0 +1,119 @@
+[
+    {
+        "dns-a": [
+            "159.54.242.176", 
+            "209.97.50.225"
+        ], 
+        "dns-mx": [
+            "us-smtp-inbound-1.mimecast.com", 
+            "us-smtp-inbound-2.mimecast.com"
+        ], 
+        "dns-ns": [
+            "dns1.p08.nsone.net", 
+            "dns2.p08.nsone.net", 
+            "dns3.p08.nsone.net", 
+            "dns4.p08.nsone.net", 
+            "ns1.gannett.com", 
+            "ns2.gannett.com", 
+            "ns3.gannett.com", 
+            "ns4.gannett.com"
+        ], 
+        "domain-name": "statesmanjournal.com", 
+        "fuzzer": "original*", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 100
+    }, 
+    {
+        "dns-ns": [
+            "dns1.p06.nsone.net", 
+            "dns2.p06.nsone.net", 
+            "dns3.p06.nsone.net", 
+            "dns4.p06.nsone.net", 
+            "ns1.infi.net", 
+            "ns2.infi.net", 
+            "ns3.infi.net", 
+            "ns4.infi.net"
+        ], 
+        "domain-name": "statesman-journal.com", 
+        "fuzzer": "hyphenation"
+    }, 
+    {
+        "dns-a": [
+            "5.79.68.108"
+        ], 
+        "dns-ns": [
+            "ns1.wombatdns.com", 
+            "ns2.wombatdns.com"
+        ], 
+        "domain-name": "statemanjournal.com", 
+        "fuzzer": "omission", 
+        "geoip-country": "Netherlands", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "72.52.4.119"
+        ], 
+        "dns-mx": [
+            "localhost"
+        ], 
+        "dns-ns": [
+            "ns1.sedoparking.com", 
+            "ns2.sedoparking.com"
+        ], 
+        "domain-name": "statesmanjounal.com", 
+        "fuzzer": "omission", 
+        "geoip-country": "United States", 
+        "mx-spy": true, 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "72.52.4.122"
+        ], 
+        "dns-ns": [
+            "ns1.sedoparking.com", 
+            "ns2.sedoparking.com"
+        ], 
+        "domain-name": "states.manjournal.com", 
+        "fuzzer": "subdomain", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "146.148.78.181"
+        ], 
+        "domain-name": "statesm.anjournal.com", 
+        "fuzzer": "subdomain", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "207.148.248.143"
+        ], 
+        "domain-name": "statesma.njournal.com", 
+        "fuzzer": "subdomain", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "207.148.248.143"
+        ], 
+        "domain-name": "statesmanj.ournal.com", 
+        "fuzzer": "subdomain", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "72.9.105.30"
+        ], 
+        "domain-name": "statesmanjou.rnal.com", 
+        "fuzzer": "subdomain", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 0
+    }
+]

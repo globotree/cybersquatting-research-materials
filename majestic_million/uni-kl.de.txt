@@ -1,0 +1,164 @@
+[
+    {
+        "dns-mx": [
+            "mailgate1.uni-kl.de", 
+            "mailgate2.uni-kl.de"
+        ], 
+        "dns-ns": [
+            "dns-2.dfn.de", 
+            "dns1.belwue.de", 
+            "minnehaha.rhrk.uni-kl.de", 
+            "minnetonka.rhrk.uni-kl.de"
+        ], 
+        "domain-name": "uni-kl.de", 
+        "fuzzer": "original*"
+    }, 
+    {
+        "dns-mx": [
+            "mailin100.dcpserver.de"
+        ], 
+        "dns-ns": [
+            "auth1.artfiles.de", 
+            "auth2.artfiles.de"
+        ], 
+        "domain-name": "uni-klo.de", 
+        "fuzzer": "addition"
+    }, 
+    {
+        "dns-a": [
+            "134.106.87.120"
+        ], 
+        "dns-mx": [
+            "smtpmx.uni-oldenburg.de"
+        ], 
+        "dns-ns": [
+            "arbi.informatik.uni-oldenburg.de", 
+            "ns01.uni-oldenburg.de", 
+            "ns02.uni-oldenburg.de", 
+            "ws-mue1.win-ip.dfn.de"
+        ], 
+        "domain-name": "uni-ol.de", 
+        "fuzzer": "bitsquatting", 
+        "geoip-country": "Germany"
+    }, 
+    {
+        "dns-a": [
+            "72.52.4.120"
+        ], 
+        "dns-mx": [
+            "localhost"
+        ], 
+        "dns-ns": [
+            "ns1.sedoparking.com", 
+            "ns2.sedoparking.com"
+        ], 
+        "domain-name": "uni-kn.de", 
+        "fuzzer": "bitsquatting", 
+        "geoip-country": "United States", 
+        "mx-spy": true
+    }, 
+    {
+        "dns-a": [
+            "139.18.1.34"
+        ], 
+        "dns-ns": [
+            "dns-3.dfn.de", 
+            "news.uni-leipzig.de", 
+            "server2.rz.uni-leipzig.de"
+        ], 
+        "domain-name": "uni-l.de", 
+        "fuzzer": "omission", 
+        "geoip-country": "Germany"
+    }, 
+    {
+        "dns-a": [
+            "185.53.178.8"
+        ], 
+        "dns-mx": [
+            "mail.h-email.net"
+        ], 
+        "dns-ns": [
+            "ns1.parkingcrew.net", 
+            "ns2.parkingcrew.net"
+        ], 
+        "domain-name": "unikl.de", 
+        "fuzzer": "omission", 
+        "geoip-country": "Germany", 
+        "mx-spy": true
+    }, 
+    {
+        "dns-a": [
+            "81.169.145.156"
+        ], 
+        "dns-aaaa": [
+            "2a01:238:20a:202:1156::"
+        ], 
+        "dns-mx": [
+            "smtp.rzone.de"
+        ], 
+        "dns-ns": [
+            "docks14.rzone.de", 
+            "shades17.rzone.de"
+        ], 
+        "domain-name": "uni-k.de", 
+        "fuzzer": "omission", 
+        "geoip-country": "Germany"
+    }, 
+    {
+        "dns-a": [
+            "185.53.178.9"
+        ], 
+        "dns-mx": [
+            "mail.h-email.net"
+        ], 
+        "dns-ns": [
+            "ns1.parkingcrew.net", 
+            "ns2.parkingcrew.net"
+        ], 
+        "domain-name": "ui-kl.de", 
+        "fuzzer": "omission", 
+        "geoip-country": "Germany", 
+        "mx-spy": true
+    }, 
+    {
+        "dns-a": [
+            "185.53.178.6"
+        ], 
+        "dns-ns": [
+            "ns1.parkingcrew.net", 
+            "ns2.parkingcrew.net"
+        ], 
+        "domain-name": "ni-kl.de", 
+        "fuzzer": "omission", 
+        "geoip-country": "Germany"
+    }, 
+    {
+        "dns-a": [
+            "130.185.109.77"
+        ], 
+        "dns-aaaa": [
+            "2a01:4a0:2002:4:1da9:a99f:5423:3cf1"
+        ], 
+        "dns-mx": [
+            "uni-ko.de"
+        ], 
+        "dns-ns": [
+            "ns.checkdomain.de", 
+            "ns2.checkdomain.de"
+        ], 
+        "domain-name": "uni-ko.de", 
+        "fuzzer": "replacement"
+    }, 
+    {
+        "dns-a": [
+            "54.72.9.51"
+        ], 
+        "dns-ns": [
+            "ns1.parkingcrew.net", 
+            "ns2.parkingcrew.net"
+        ], 
+        "domain-name": "u.ni-kl.de", 
+        "fuzzer": "subdomain", 
+        "geoip-country": "Ireland"
+    }
+]

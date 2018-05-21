@@ -1,0 +1,36 @@
+[
+    {
+        "dns-a": [
+            "203.192.7.68", 
+            "203.192.7.69"
+        ], 
+        "dns-ns": [
+            "dns29.hichina.com", 
+            "dns30.hichina.com"
+        ], 
+        "domain-name": "qstheory.cn", 
+        "fuzzer": "original*", 
+        "geoip-country": "China", 
+        "ssdeep-score": 100
+    }, 
+    {
+        "dns-a": [
+            "23.224.132.11"
+        ], 
+        "dns-ns": [
+            "ns1.dnsdun.com", 
+            "ns1.dnsdun.net"
+        ], 
+        "domain-name": "qstheoryy.cn", 
+        "fuzzer": "addition", 
+        "geoip-country": "United States"
+    }, 
+    {
+        "dns-a": [
+            "216.12.162.232"
+        ], 
+        "domain-name": "qstheroy.cn", 
+        "fuzzer": "transposition", 
+        "geoip-country": "China"
+    }
+]

@@ -1,0 +1,305 @@
+[
+    {
+        "dns-mx": [
+            "heimdall.iarc.fr", 
+            "sif.iarc.fr"
+        ], 
+        "dns-ns": [
+            "ccpntc3.in2p3.fr", 
+            "ccpnvx.in2p3.fr", 
+            "dnsext.iarc.fr", 
+            "ns1.iarc.fr"
+        ], 
+        "domain-name": "iarc.fr", 
+        "fuzzer": "original*"
+    }, 
+    {
+        "dns-a": [
+            "81.88.57.68"
+        ], 
+        "dns-mx": [
+            "mxav1.marc.fr", 
+            "mxav2.marc.fr"
+        ], 
+        "dns-ns": [
+            "ns2.amen.fr", 
+            "paris.amen.fr"
+        ], 
+        "domain-name": "marc.fr", 
+        "fuzzer": "bitsquatting", 
+        "geoip-country": "Italy"
+    }, 
+    {
+        "dns-mx": [
+            "mx.alienor.net"
+        ], 
+        "dns-ns": [
+            "nsa.alienor.net", 
+            "nsb.alienor.net", 
+            "nsc.alienor.net"
+        ], 
+        "domain-name": "aarc.fr", 
+        "fuzzer": "bitsquatting"
+    }, 
+    {
+        "dns-a": [
+            "195.70.1.226"
+        ], 
+        "dns-mx": [
+            "mx001.icrc.org", 
+            "mx002.icrc.org"
+        ], 
+        "dns-ns": [
+            "aqua.open.ch", 
+            "ns1.icrc.org", 
+            "terra.open.ch"
+        ], 
+        "domain-name": "icrc.fr", 
+        "fuzzer": "bitsquatting", 
+        "geoip-country": "Switzerland"
+    }, 
+    {
+        "dns-a": [
+            "217.70.184.38"
+        ], 
+        "dns-mx": [
+            "fb.mail.gandi.net", 
+            "spool.mail.gandi.net"
+        ], 
+        "dns-ns": [
+            "a.dns.gandi.net", 
+            "b.dns.gandi.net", 
+            "c.dns.gandi.net"
+        ], 
+        "domain-name": "iqrc.fr", 
+        "fuzzer": "bitsquatting", 
+        "geoip-country": "France"
+    }, 
+    {
+        "dns-a": [
+            "213.186.33.19"
+        ], 
+        "dns-mx": [
+            "mx0.mail.ovh.net"
+        ], 
+        "dns-ns": [
+            "dns17.ovh.net", 
+            "ns17.ovh.net"
+        ], 
+        "domain-name": "iasc.fr", 
+        "fuzzer": "bitsquatting", 
+        "geoip-country": "France"
+    }, 
+    {
+        "dns-a": [
+            "93.88.241.24"
+        ], 
+        "dns-mx": [
+            "mta-gw.infomaniak.ch"
+        ], 
+        "dns-ns": [
+            "ns1.infomaniak.ch", 
+            "ns2.infomaniak.ch"
+        ], 
+        "domain-name": "ia2c.fr", 
+        "fuzzer": "bitsquatting", 
+        "geoip-country": "Switzerland"
+    }, 
+    {
+        "dns-a": [
+            "194.206.126.204"
+        ], 
+        "dns-mx": [
+            "mx0.mailinblack.com", 
+            "proxival.mailinblack.com"
+        ], 
+        "dns-ns": [
+            "ns3.lerelaisinternet.com", 
+            "ns4.lerelaisinternet.com"
+        ], 
+        "domain-name": "larc.fr", 
+        "fuzzer": "homoglyph", 
+        "geoip-country": "France"
+    }, 
+    {
+        "dns-a": [
+            "213.186.33.169"
+        ], 
+        "dns-mx": [
+            "redirect.ovh.net"
+        ], 
+        "dns-ns": [
+            "dns14.ovh.net", 
+            "ns14.ovh.net"
+        ], 
+        "domain-name": "izarc.fr", 
+        "fuzzer": "insertion", 
+        "geoip-country": "France"
+    }, 
+    {
+        "dns-a": [
+            "81.18.190.78"
+        ], 
+        "dns-mx": [
+            "mail.arc.fr", 
+            "mx.minou.biz"
+        ], 
+        "dns-ns": [
+            "a.dns.gandi.net", 
+            "b.dns.gandi.net", 
+            "c.dns.gandi.net"
+        ], 
+        "domain-name": "arc.fr", 
+        "fuzzer": "omission", 
+        "geoip-country": "France"
+    }, 
+    {
+        "dns-a": [
+            "149.202.133.35"
+        ], 
+        "dns-mx": [
+            "mail.irc.fr"
+        ], 
+        "dns-ns": [
+            "dns1.affiliate-program.org", 
+            "dns2.affiliate-program.org"
+        ], 
+        "domain-name": "irc.fr", 
+        "fuzzer": "omission"
+    }, 
+    {
+        "dns-a": [
+            "89.185.41.118"
+        ], 
+        "dns-mx": [
+            "iac-fr.mail.protection.outlook.com"
+        ], 
+        "dns-ns": [
+            "dns15.ovh.net", 
+            "ns15.ovh.net"
+        ], 
+        "domain-name": "iac.fr", 
+        "fuzzer": "omission", 
+        "geoip-country": "France"
+    }, 
+    {
+        "dns-a": [
+            "95.142.101.112"
+        ], 
+        "dns-mx": [
+            "mx01.nexthal.com", 
+            "mx02.nexthal.com"
+        ], 
+        "dns-ns": [
+            "ns1.network38.com", 
+            "ns2.network38.com"
+        ], 
+        "domain-name": "iar.fr", 
+        "fuzzer": "omission", 
+        "geoip-country": "Netherlands"
+    }, 
+    {
+        "dns-a": [
+            "213.186.33.40"
+        ], 
+        "dns-mx": [
+            "mx1.ovh.net", 
+            "mx2.ovh.net", 
+            "mxb.ovh.net"
+        ], 
+        "dns-ns": [
+            "dns200.anycast.me", 
+            "ns200.anycast.me"
+        ], 
+        "domain-name": "iafc.fr", 
+        "fuzzer": "replacement"
+    }, 
+    {
+        "dns-a": [
+            "217.160.0.140"
+        ], 
+        "dns-mx": [
+            "mx00.1and1.fr", 
+            "mx01.1and1.fr"
+        ], 
+        "dns-ns": [
+            "ns1074.ui-dns.biz", 
+            "ns1074.ui-dns.com", 
+            "ns1074.ui-dns.de", 
+            "ns1074.ui-dns.org"
+        ], 
+        "domain-name": "jarc.fr", 
+        "fuzzer": "replacement", 
+        "geoip-country": "Germany"
+    }, 
+    {
+        "dns-a": [
+            "217.160.0.82"
+        ], 
+        "dns-aaaa": [
+            "2001:8d8:100f:f000::213"
+        ], 
+        "dns-mx": [
+            "mx00.1and1.fr", 
+            "mx01.1and1.fr"
+        ], 
+        "dns-ns": [
+            "ns1027.ui-dns.de", 
+            "ns1044.ui-dns.org", 
+            "ns1051.ui-dns.biz", 
+            "ns1120.ui-dns.com"
+        ], 
+        "domain-name": "iatc.fr", 
+        "fuzzer": "replacement", 
+        "geoip-country": "Germany"
+    }, 
+    {
+        "dns-a": [
+            "217.70.184.38"
+        ], 
+        "dns-mx": [
+            "fb.mail.gandi.net", 
+            "spool.mail.gandi.net"
+        ], 
+        "dns-ns": [
+            "a.dns.gandi.net", 
+            "b.dns.gandi.net", 
+            "c.dns.gandi.net"
+        ], 
+        "domain-name": "iard.fr", 
+        "fuzzer": "replacement", 
+        "geoip-country": "France"
+    }, 
+    {
+        "dns-a": [
+            "213.186.33.5"
+        ], 
+        "dns-mx": [
+            "redirect.ovh.net"
+        ], 
+        "dns-ns": [
+            "dns10.ovh.net", 
+            "ns10.ovh.net"
+        ], 
+        "domain-name": "irac.fr", 
+        "fuzzer": "transposition", 
+        "geoip-country": "France"
+    }, 
+    {
+        "dns-a": [
+            "217.70.184.38"
+        ], 
+        "dns-mx": [
+            "fb.mail.gandi.net", 
+            "spool.mail.gandi.net"
+        ], 
+        "dns-ns": [
+            "a.dns.gandi.net", 
+            "b.dns.gandi.net", 
+            "c.dns.gandi.net"
+        ], 
+        "domain-name": "earc.fr", 
+        "fuzzer": "vowel-swap", 
+        "geoip-country": "France"
+    }
+]

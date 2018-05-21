@@ -1,0 +1,125 @@
+[
+    {
+        "dns-a": [
+            "140.205.32.8"
+        ], 
+        "dns-ns": [
+            "ns3.aliyun.com", 
+            "ns4.aliyun.com", 
+            "ns5.aliyun.com"
+        ], 
+        "domain-name": "aliyuncs.com", 
+        "fuzzer": "original*", 
+        "geoip-country": "China"
+    }, 
+    {
+        "dns-a": [
+            "180.76.132.135"
+        ], 
+        "dns-mx": [
+            "mxn.mxhichina.com", 
+            "mxw.mxhichina.com"
+        ], 
+        "dns-ns": [
+            "ns1.cnolnic.com", 
+            "ns2.cnolnic.com"
+        ], 
+        "domain-name": "aliyuncsc.com", 
+        "fuzzer": "addition", 
+        "geoip-country": "China"
+    }, 
+    {
+        "dns-a": [
+            "192.126.117.203"
+        ], 
+        "dns-ns": [
+            "elinore.ns.cloudflare.com", 
+            "seth.ns.cloudflare.com"
+        ], 
+        "domain-name": "aliyuncss.com", 
+        "fuzzer": "addition", 
+        "geoip-country": "United States"
+    }, 
+    {
+        "dns-ns": [
+            "ns1.yundunddos.com", 
+            "ns2.yundunddos.com"
+        ], 
+        "domain-name": "aliyuncc.com", 
+        "fuzzer": "bitsquatting"
+    }, 
+    {
+        "dns-a": [
+            "103.224.182.253"
+        ], 
+        "dns-mx": [
+            "park-mx.above.com"
+        ], 
+        "dns-ns": [
+            "ns3.above.com", 
+            "ns4.above.com"
+        ], 
+        "domain-name": "allyuncs.com", 
+        "fuzzer": "homoglyph", 
+        "geoip-country": "Australia", 
+        "mx-spy": true
+    }, 
+    {
+        "dns-a": [
+            "141.8.224.93"
+        ], 
+        "dns-ns": [
+            "ns7.rookdns.com", 
+            "ns8.rookdns.com"
+        ], 
+        "domain-name": "alyuncs.com", 
+        "fuzzer": "omission", 
+        "geoip-country": "Switzerland"
+    }, 
+    {
+        "dns-a": [
+            "183.111.66.76"
+        ], 
+        "dns-ns": [
+            "ns1.ezdnscenter.com", 
+            "ns2.ezdnscenter.com", 
+            "ns3.ezdnscenter.com", 
+            "ns4.ezdnscenter.com", 
+            "ns5.ezdnscenter.com", 
+            "ns6.ezdnscenter.com"
+        ], 
+        "domain-name": "aliyunc.com", 
+        "fuzzer": "omission", 
+        "geoip-country": "Korea"
+    }, 
+    {
+        "dns-a": [
+            "45.120.153.79"
+        ], 
+        "domain-name": "aliyuns.com", 
+        "fuzzer": "omission", 
+        "geoip-country": "Hong Kong"
+    }, 
+    {
+        "dns-a": [
+            "101.200.233.136"
+        ], 
+        "dns-ns": [
+            "dns1.hichina.com", 
+            "dns2.hichina.com"
+        ], 
+        "domain-name": "aliyunds.com", 
+        "fuzzer": "replacement", 
+        "geoip-country": "China"
+    }, 
+    {
+        "dns-ns": [
+            "lv3ns1.ffdns.net", 
+            "lv3ns2.ffdns.net", 
+            "lv3ns3.ffdns.net", 
+            "lv3ns4.ffdns.net"
+        ], 
+        "domain-name": "aliyunsc.com", 
+        "fuzzer": "transposition"
+    }
+]

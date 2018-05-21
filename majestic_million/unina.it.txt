@@ -1,0 +1,285 @@
+[
+    {
+        "dns-mx": [
+            "fmvip.unina.it"
+        ], 
+        "dns-ns": [
+            "dscna1.unina.it", 
+            "dscna2.unina.it"
+        ], 
+        "domain-name": "unina.it", 
+        "fuzzer": "original*"
+    }, 
+    {
+        "dns-mx": [
+            "mail.uninav.it"
+        ], 
+        "dns-ns": [
+            "nava1.uninav.it", 
+            "ns1.garr.net", 
+            "parthenope.uninav.it"
+        ], 
+        "domain-name": "uninav.it", 
+        "fuzzer": "addition"
+    }, 
+    {
+        "dns-a": [
+            "217.160.0.138"
+        ], 
+        "dns-aaaa": [
+            "2001:8d8:100f:f000::219"
+        ], 
+        "dns-mx": [
+            "mx00.1and1.it", 
+            "mx01.1and1.it"
+        ], 
+        "dns-ns": [
+            "ns1121.ui-dns.biz", 
+            "ns1121.ui-dns.com", 
+            "ns1121.ui-dns.de", 
+            "ns1121.ui-dns.org"
+        ], 
+        "domain-name": "uninc.it", 
+        "fuzzer": "bitsquatting", 
+        "geoip-country": "Germany"
+    }, 
+    {
+        "dns-a": [
+            "213.239.213.52"
+        ], 
+        "dns-mx": [
+            "mail.urina.it"
+        ], 
+        "dns-ns": [
+            "ns1.snatchdns.com", 
+            "ns2.snatchdns.com"
+        ], 
+        "domain-name": "urina.it", 
+        "fuzzer": "homoglyph", 
+        "geoip-country": "Germany"
+    }, 
+    {
+        "dns-a": [
+            "84.33.2.47"
+        ], 
+        "dns-mx": [
+            "mx1.sub4.homie.mail.dreamhost.com", 
+            "mx2.sub4.homie.mail.dreamhost.com"
+        ], 
+        "dns-ns": [
+            "ns1.server24.eu", 
+            "ns2.server24.eu"
+        ], 
+        "domain-name": "unima.it", 
+        "fuzzer": "homoglyph", 
+        "geoip-country": "Italy"
+    }, 
+    {
+        "dns-a": [
+            "95.110.208.98"
+        ], 
+        "dns-mx": [
+            "in.widestore.net"
+        ], 
+        "dns-ns": [
+            "dns.widhost.net", 
+            "dns2.widhost.net"
+        ], 
+        "domain-name": "unira.it", 
+        "fuzzer": "homoglyph", 
+        "geoip-country": "Italy"
+    }, 
+    {
+        "dns-a": [
+            "195.110.124.133"
+        ], 
+        "dns-mx": [
+            "alt1.aspmx.l.google.com", 
+            "alt2.aspmx.l.google.com", 
+            "aspmx.l.google.com", 
+            "aspmx2.googlemail.com", 
+            "aspmx3.googlemail.com"
+        ], 
+        "dns-ns": [
+            "ns1.register.it", 
+            "ns2.register.it"
+        ], 
+        "domain-name": "nina.it", 
+        "fuzzer": "omission", 
+        "geoip-country": "Italy"
+    }, 
+    {
+        "dns-a": [
+            "94.143.154.25"
+        ], 
+        "dns-mx": [
+            "mx01.cbsolt.net", 
+            "mx02.cbsolt.net"
+        ], 
+        "dns-ns": [
+            "ns1.mvmnet.com", 
+            "ns2.mvmnet.com", 
+            "ns3.mvmnet.it", 
+            "ns4.mvmnet-dns.eu"
+        ], 
+        "domain-name": "uina.it", 
+        "fuzzer": "omission", 
+        "geoip-country": "Italy"
+    }, 
+    {
+        "dns-a": [
+            "149.56.126.237", 
+            "46.166.184.102"
+        ], 
+        "dns-aaaa": [
+            "2a00:1768:2001:63::46:102"
+        ], 
+        "dns-ns": [
+            "pns1.cloudns.net", 
+            "pns2.cloudns.net"
+        ], 
+        "domain-name": "unna.it", 
+        "fuzzer": "omission", 
+        "geoip-country": "Canada"
+    }, 
+    {
+        "dns-a": [
+            "185.53.179.7"
+        ], 
+        "dns-mx": [
+            "mail.h-email.net"
+        ], 
+        "dns-ns": [
+            "ns1.parkingcrew.net", 
+            "ns2.parkingcrew.net"
+        ], 
+        "domain-name": "unia.it", 
+        "fuzzer": "omission", 
+        "geoip-country": "Germany", 
+        "mx-spy": true
+    }, 
+    {
+        "dns-a": [
+            "185.53.178.7"
+        ], 
+        "dns-ns": [
+            "ns1.parkingcrew.net", 
+            "ns2.parkingcrew.net"
+        ], 
+        "domain-name": "unin.it", 
+        "fuzzer": "omission", 
+        "geoip-country": "Germany"
+    }, 
+    {
+        "dns-a": [
+            "192.167.60.25"
+        ], 
+        "dns-mx": [
+            "refero.uniba.it"
+        ], 
+        "dns-ns": [
+            "gaia.di.uniba.it", 
+            "gauss.uniba.it", 
+            "ns1.garr.net", 
+            "sirio.csi.uniba.it"
+        ], 
+        "domain-name": "uniba.it", 
+        "fuzzer": "replacement", 
+        "geoip-country": "Italy"
+    }, 
+    {
+        "dns-a": [
+            "185.53.178.7"
+        ], 
+        "dns-ns": [
+            "ns1.parkingcrew.net", 
+            "ns2.parkingcrew.net"
+        ], 
+        "domain-name": "ununa.it", 
+        "fuzzer": "replacement", 
+        "geoip-country": "Germany"
+    }, 
+    {
+        "dns-a": [
+            "81.31.147.66"
+        ], 
+        "dns-mx": [
+            "mail.uniny.it"
+        ], 
+        "dns-ns": [
+            "dns1.dnshosting.it", 
+            "dns2.dnshosting.it", 
+            "dns3.dns-hosting.it"
+        ], 
+        "domain-name": "uniny.it", 
+        "fuzzer": "replacement", 
+        "geoip-country": "Italy"
+    }, 
+    {
+        "dns-a": [
+            "185.53.179.6"
+        ], 
+        "dns-mx": [
+            "mail.h-email.net"
+        ], 
+        "dns-ns": [
+            "ns1.parkingcrew.net", 
+            "ns2.parkingcrew.net"
+        ], 
+        "domain-name": "un.ina.it", 
+        "fuzzer": "subdomain", 
+        "geoip-country": "Germany", 
+        "mx-spy": true
+    }, 
+    {
+        "dns-mx": [
+            "psilocybe.unian.it"
+        ], 
+        "dns-ns": [
+            "dns.univpm.it", 
+            "psilocybe.univpm.it"
+        ], 
+        "domain-name": "unian.it", 
+        "fuzzer": "transposition"
+    }, 
+    {
+        "dns-a": [
+            "209.15.13.134"
+        ], 
+        "dns-mx": [
+            "mail.b-io.co"
+        ], 
+        "dns-ns": [
+            "ns1.dnslink.com", 
+            "ns2.dnslink.com"
+        ], 
+        "domain-name": "anina.it", 
+        "fuzzer": "vowel-swap"
+    }, 
+    {
+        "dns-a": [
+            "50.63.202.44"
+        ], 
+        "dns-ns": [
+            "ns81.domaincontrol.com", 
+            "ns82.domaincontrol.com"
+        ], 
+        "domain-name": "uninu.it", 
+        "fuzzer": "vowel-swap", 
+        "geoip-country": "United States"
+    }, 
+    {
+        "dns-a": [
+            "109.168.100.244"
+        ], 
+        "dns-mx": [
+            "mail.unino.it"
+        ], 
+        "dns-ns": [
+            "ns.kpnqwest.it", 
+            "ns2.kpnqwest.it"
+        ], 
+        "domain-name": "unino.it", 
+        "fuzzer": "vowel-swap"
+    }
+]

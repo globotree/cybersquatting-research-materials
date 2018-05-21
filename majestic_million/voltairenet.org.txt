@@ -1,0 +1,69 @@
+[
+    {
+        "dns-a": [
+            "104.27.154.66", 
+            "104.27.155.66"
+        ], 
+        "dns-aaaa": [
+            "2400:cb00:2048:1::681b:9a42", 
+            "2400:cb00:2048:1::681b:9b42"
+        ], 
+        "dns-mx": [
+            "dc-48a0a779caeb.voltairenet.org"
+        ], 
+        "dns-ns": [
+            "brenda.ns.cloudflare.com", 
+            "chad.ns.cloudflare.com"
+        ], 
+        "domain-name": "voltairenet.org", 
+        "fuzzer": "original*", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 100
+    }, 
+    {
+        "dns-a": [
+            "103.224.182.241"
+        ], 
+        "dns-mx": [
+            "park-mx.above.com"
+        ], 
+        "dns-ns": [
+            "ns1.above.com", 
+            "ns2.above.com"
+        ], 
+        "domain-name": "voltairnet.org", 
+        "fuzzer": "omission", 
+        "geoip-country": "Australia", 
+        "mx-spy": true, 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "204.74.99.100"
+        ], 
+        "dns-mx": [
+            "mx0a-001c2c01.pphosted.com", 
+            "mx0b-001c2c01.pphosted.com"
+        ], 
+        "dns-ns": [
+            "pdns68.ultradns.biz", 
+            "pdns68.ultradns.co.uk", 
+            "pdns68.ultradns.com", 
+            "pdns68.ultradns.info", 
+            "pdns68.ultradns.net", 
+            "pdns68.ultradns.org"
+        ], 
+        "domain-name": "voltaire.net.org", 
+        "fuzzer": "subdomain", 
+        "geoip-country": "United States"
+    }, 
+    {
+        "dns-a": [
+            "98.124.199.67"
+        ], 
+        "domain-name": "voltairene.t.org", 
+        "fuzzer": "subdomain", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 0
+    }
+]

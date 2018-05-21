@@ -1,0 +1,76 @@
+[
+    {
+        "dns-a": [
+            "104.24.108.92", 
+            "104.24.109.92"
+        ], 
+        "dns-aaaa": [
+            "2400:cb00:2048:1::6818:6c5c", 
+            "2400:cb00:2048:1::6818:6d5c"
+        ], 
+        "dns-ns": [
+            "mimi.ns.cloudflare.com", 
+            "sid.ns.cloudflare.com"
+        ], 
+        "domain-name": "soloadvance.com", 
+        "fuzzer": "original*", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 100
+    }, 
+    {
+        "dns-a": [
+            "213.186.33.3"
+        ], 
+        "dns-mx": [
+            "mx1.ovh.net", 
+            "mx2.ovh.net", 
+            "mxb.ovh.net"
+        ], 
+        "dns-ns": [
+            "dns101.ovh.net", 
+            "ns101.ovh.net"
+        ], 
+        "domain-name": "soladvance.com", 
+        "fuzzer": "omission", 
+        "geoip-country": "France", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "96.126.99.160"
+        ], 
+        "domain-name": "sol.oadvance.com", 
+        "fuzzer": "subdomain", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "204.11.56.48"
+        ], 
+        "dns-ns": [
+            "ns1626.ztomy.com", 
+            "ns2626.ztomy.com"
+        ], 
+        "domain-name": "soloa.dvance.com", 
+        "fuzzer": "subdomain", 
+        "geoip-country": "Virgin Islands"
+    }, 
+    {
+        "dns-a": [
+            "185.53.178.7"
+        ], 
+        "dns-mx": [
+            "mail.h-email.net"
+        ], 
+        "dns-ns": [
+            "ns1.parkingcrew.net", 
+            "ns2.parkingcrew.net"
+        ], 
+        "domain-name": "soloadvan.ce.com", 
+        "fuzzer": "subdomain", 
+        "geoip-country": "Germany", 
+        "mx-spy": true, 
+        "ssdeep-score": 0
+    }
+]

@@ -1,0 +1,56 @@
+[
+    {
+        "dns-a": [
+            "104.28.26.111", 
+            "104.28.27.111"
+        ], 
+        "dns-aaaa": [
+            "2400:cb00:2048:1::681c:1a6f", 
+            "2400:cb00:2048:1::681c:1b6f"
+        ], 
+        "dns-mx": [
+            "mx.interdata.lt", 
+            "mx2.interdata.lt"
+        ], 
+        "dns-ns": [
+            "eva.ns.cloudflare.com", 
+            "mark.ns.cloudflare.com"
+        ], 
+        "domain-name": "0daymusic.org", 
+        "fuzzer": "original*", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 100
+    }, 
+    {
+        "dns-a": [
+            "68.178.213.61"
+        ], 
+        "dns-ns": [
+            "ns1.namefind.com", 
+            "ns2.namefind.com"
+        ], 
+        "domain-name": "odaymusic.org", 
+        "fuzzer": "replacement", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "45.79.159.185"
+        ], 
+        "domain-name": "0daymus.ic.org", 
+        "fuzzer": "subdomain", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "34.216.49.207", 
+            "52.43.35.212", 
+            "54.186.0.231"
+        ], 
+        "domain-name": "0daymusi.c.org", 
+        "fuzzer": "subdomain", 
+        "geoip-country": "United States"
+    }
+]

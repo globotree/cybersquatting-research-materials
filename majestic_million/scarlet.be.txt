@@ -1,0 +1,114 @@
+[
+    {
+        "dns-a": [
+            "195.95.93.91"
+        ], 
+        "dns-mx": [
+            "mx.scarlet.be"
+        ], 
+        "dns-ns": [
+            "ns1.scartech.be", 
+            "ns2.scartech.be", 
+            "ns3.scartech.be"
+        ], 
+        "domain-name": "scarlet.be", 
+        "fuzzer": "original*", 
+        "geoip-country": "Belgium", 
+        "ssdeep-score": 100
+    }, 
+    {
+        "dns-a": [
+            "213.187.247.79"
+        ], 
+        "dns-mx": [
+            "postduif.natuurpark.nl"
+        ], 
+        "dns-ns": [
+            "dns1.blixem.nl", 
+            "dns2.blixem.nl", 
+            "dns3.blixem.nl"
+        ], 
+        "domain-name": "scarlett.be", 
+        "fuzzer": "addition", 
+        "geoip-country": "Lebanon", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "185.53.177.20"
+        ], 
+        "dns-mx": [
+            "mail.skarlet.be"
+        ], 
+        "dns-ns": [
+            "dns1.realtime.at", 
+            "dns2.realtime.at"
+        ], 
+        "domain-name": "skarlet.be", 
+        "fuzzer": "bitsquatting", 
+        "geoip-country": "Germany", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "185.53.177.29"
+        ], 
+        "dns-ns": [
+            "ns1.singleplan.com", 
+            "ns2.singleplan.com"
+        ], 
+        "domain-name": "carlet.be", 
+        "fuzzer": "omission", 
+        "geoip-country": "Germany", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "185.53.177.29"
+        ], 
+        "dns-ns": [
+            "ns1.singleplan.com", 
+            "ns2.singleplan.com"
+        ], 
+        "domain-name": "scaret.be", 
+        "fuzzer": "omission", 
+        "geoip-country": "Germany", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "46.30.213.220"
+        ], 
+        "dns-mx": [
+            "mx1.pub.mailpod5-cph3.one.com", 
+            "mx2.pub.mailpod5-cph3.one.com", 
+            "mx3.pub.mailpod5-cph3.one.com"
+        ], 
+        "dns-ns": [
+            "ns01.one.com", 
+            "ns02.one.com"
+        ], 
+        "domain-name": "sarlet.be", 
+        "fuzzer": "omission", 
+        "geoip-country": "Denmark", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "185.53.177.29"
+        ], 
+        "domain-name": "s.carlet.be", 
+        "fuzzer": "subdomain", 
+        "geoip-country": "Germany", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "213.251.76.139"
+        ], 
+        "domain-name": "scar.let.be", 
+        "fuzzer": "subdomain", 
+        "geoip-country": "Belgium", 
+        "ssdeep-score": 0
+    }
+]

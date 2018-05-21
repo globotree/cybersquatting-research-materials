@@ -1,0 +1,54 @@
+[
+    {
+        "dns-a": [
+            "103.6.117.2", 
+            "103.6.117.3"
+        ], 
+        "dns-mx": [
+            "ALT1.ASPMX.L.GOOGLE.COM", 
+            "ALT2.ASPMX.L.GOOGLE.COM", 
+            "ASPMX.L.GOOGLE.COM", 
+            "ASPMX2.GOOGLEMAIL.COM", 
+            "ASPMX3.GOOGLEMAIL.COM"
+        ], 
+        "dns-ns": [
+            "ns1.kaskus.com", 
+            "ns2.kaskus.com", 
+            "ns3.kaskus.com", 
+            "ns4.kaskus.com"
+        ], 
+        "domain-name": "kaskus.co.id", 
+        "fuzzer": "original*", 
+        "geoip-country": "Indonesia", 
+        "ssdeep-score": 99
+    }, 
+    {
+        "dns-a": [
+            "103.6.117.2", 
+            "103.6.117.3"
+        ], 
+        "dns-ns": [
+            "ns1.kaskus.com", 
+            "ns2.kaskus.com", 
+            "ns3.kaskus.com", 
+            "ns4.kaskus.com"
+        ], 
+        "domain-name": "kaskus.id", 
+        "fuzzer": "various"
+    }, 
+    {
+        "dns-a": [
+            "199.59.242.150"
+        ], 
+        "dns-mx": [
+            "mx76.m2bp.com", 
+            "mx76.mb1p.com"
+        ], 
+        "dns-ns": [
+            "ns1.bodis.com", 
+            "ns2.bodis.com"
+        ], 
+        "domain-name": "kaskusco.id", 
+        "fuzzer": "various"
+    }
+]

@@ -1,0 +1,132 @@
+[
+    {
+        "dns-a": [
+            "202.113.5.168"
+        ], 
+        "dns-ns": [
+            "dns1.tju.edu.cn", 
+            "dns2.tju.edu.cn"
+        ], 
+        "domain-name": "tju.edu.cn", 
+        "fuzzer": "original*", 
+        "geoip-country": "China", 
+        "ssdeep-score": 100
+    }, 
+    {
+        "dns-mx": [
+            "mail.tjus.edu.cn"
+        ], 
+        "dns-ns": [
+            "win-kmcs5g91d1n"
+        ], 
+        "domain-name": "tjus.edu.cn", 
+        "fuzzer": "addition"
+    }, 
+    {
+        "dns-mx": [
+            "mail.tjut.edu.cn", 
+            "tjut.abroad.eyou.net"
+        ], 
+        "dns-ns": [
+            "dns.tjut.edu.cn", 
+            "dns1.tjut.edu.cn"
+        ], 
+        "domain-name": "tjut.edu.cn", 
+        "fuzzer": "addition"
+    }, 
+    {
+        "dns-mx": [
+            "mta0.tsinghua.edu.cn", 
+            "mta1.tsinghua.edu.cn"
+        ], 
+        "dns-ns": [
+            "dns.tsinghua.edu.cn", 
+            "dns2.edu.cn", 
+            "dns2.tsinghua.edu.cn"
+        ], 
+        "domain-name": "thu.edu.cn", 
+        "fuzzer": "bitsquatting"
+    }, 
+    {
+        "dns-a": [
+            "218.90.212.39"
+        ], 
+        "dns-mx": [
+            "mxbiz1.qq.com", 
+            "mxbiz2.qq.com"
+        ], 
+        "dns-ns": [
+            "dns1.tzu.edu.cn", 
+            "dns2.tzu.edu.cn"
+        ], 
+        "domain-name": "tzu.edu.cn", 
+        "fuzzer": "bitsquatting", 
+        "geoip-country": "China", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "202.113.96.11"
+        ], 
+        "dns-mx": [
+            "mail.tjnu.edu.cn"
+        ], 
+        "dns-ns": [
+            "center.tjnu.edu.cn", 
+            "dns.tjnu.edu.cn"
+        ], 
+        "domain-name": "tjnu.edu.cn", 
+        "fuzzer": "insertion", 
+        "geoip-country": "China", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-mx": [
+            "mails.tjmu.edu.cn"
+        ], 
+        "dns-ns": [
+            "dns.tjmu.edu.cn", 
+            "dns1.hust.edu.cn", 
+            "dns1.tjmu.edu.cn", 
+            "dns2.hust.edu.cn"
+        ], 
+        "domain-name": "tjmu.edu.cn", 
+        "fuzzer": "insertion"
+    }, 
+    {
+        "dns-mx": [
+            "mail.tj.edu.cn", 
+            "xmail.tj.edu.cn"
+        ], 
+        "dns-ns": [
+            "dns1.tj.edu.cn", 
+            "dns2.tj.edu.cn"
+        ], 
+        "domain-name": "tj.edu.cn", 
+        "fuzzer": "omission"
+    }, 
+    {
+        "dns-mx": [
+            "hzmx01.mxmail.netease.com", 
+            "hzmx02.mxmail.netease.com", 
+            "mxhm.qiye.163.com"
+        ], 
+        "dns-ns": [
+            "dns.tijmu.edu.cn", 
+            "dns2.tijmu.edu.cn"
+        ], 
+        "domain-name": "tmu.edu.cn", 
+        "fuzzer": "replacement"
+    }, 
+    {
+        "dns-mx": [
+            "mail.zju.edu.cn", 
+            "mx-zju-edu-cn.icoremail.net"
+        ], 
+        "dns-ns": [
+            "alpha.zju.edu.cn"
+        ], 
+        "domain-name": "zju.edu.cn", 
+        "fuzzer": "replacement"
+    }
+]

@@ -1,0 +1,111 @@
+[
+    {
+        "dns-a": [
+            "173.254.190.150"
+        ], 
+        "dns-mx": [
+            "annals.org.s7a1.psmtp.com", 
+            "annals.org.s7a2.psmtp.com", 
+            "annals.org.s7b1.psmtp.com", 
+            "annals.org.s7b2.psmtp.com"
+        ], 
+        "dns-ns": [
+            "cbru.br.ns.els-gms.att.net", 
+            "cmtu.mt.ns.els-gms.att.net"
+        ], 
+        "domain-name": "annals.org", 
+        "fuzzer": "original*", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 99
+    }, 
+    {
+        "dns-a": [
+            "184.168.40.1"
+        ], 
+        "dns-mx": [
+            "mailstore1.secureserver.net", 
+            "smtp.secureserver.net"
+        ], 
+        "dns-ns": [
+            "ns43.domaincontrol.com", 
+            "ns44.domaincontrol.com"
+        ], 
+        "domain-name": "ennals.org", 
+        "fuzzer": "bitsquatting", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "207.148.248.143"
+        ], 
+        "domain-name": "annas.org", 
+        "fuzzer": "omission", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "69.64.147.242"
+        ], 
+        "dns-ns": [
+            "ns1mtw.name.com", 
+            "ns2fgp.name.com", 
+            "ns3jwx.name.com", 
+            "ns4ksy.name.com"
+        ], 
+        "domain-name": "anals.org", 
+        "fuzzer": "omission", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "205.251.138.97"
+        ], 
+        "dns-mx": [
+            "annal.org"
+        ], 
+        "dns-ns": [
+            "ns1.dedicatednode.com", 
+            "ns2.dedicatednode.com"
+        ], 
+        "domain-name": "annal.org", 
+        "fuzzer": "omission", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "84.248.107.68"
+        ], 
+        "dns-mx": [
+            "mail.joker.com"
+        ], 
+        "dns-ns": [
+            "a.ns.joker.com", 
+            "b.ns.joker.com", 
+            "c.ns.joker.com"
+        ], 
+        "domain-name": "annala.org", 
+        "fuzzer": "replacement", 
+        "geoip-country": "Finland"
+    }, 
+    {
+        "dns-a": [
+            "50.63.46.1"
+        ], 
+        "dns-ns": [
+            "A.SERVICE.AFILIASDNS.INFO", 
+            "B.SERVICE.AFILIASDNS.org", 
+            "C.SERVICE.AFILIASDNS.NET", 
+            "D.SERVICE.AFILIASDNS.COM", 
+            "E.SERVICE.AFILIASDNS.INFO", 
+            "F.SERVICE.AFILIASDNS.NET"
+        ], 
+        "domain-name": "annal.s.org", 
+        "fuzzer": "subdomain", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 0
+    }
+]

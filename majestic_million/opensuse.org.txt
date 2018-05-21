@@ -1,0 +1,103 @@
+[
+    {
+        "dns-a": [
+            "130.57.66.19"
+        ], 
+        "dns-aaaa": [
+            "2001:67c:2178:8::19"
+        ], 
+        "dns-mx": [
+            "mx1.suse.de", 
+            "mx2.suse.de"
+        ], 
+        "dns-ns": [
+            "nshou1.novell.com", 
+            "nsprv1.novell.com", 
+            "nsprv2.novell.com"
+        ], 
+        "domain-name": "opensuse.org", 
+        "fuzzer": "original*", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 100
+    }, 
+    {
+        "dns-a": [
+            "185.38.39.90"
+        ], 
+        "dns-mx": [
+            "mx1.keepnet.net", 
+            "mx2.keepnet.net"
+        ], 
+        "dns-ns": [
+            "ns1.systemdns.com", 
+            "ns2.systemdns.com", 
+            "ns3.systemdns.com"
+        ], 
+        "domain-name": "opensure.org", 
+        "fuzzer": "bitsquatting", 
+        "geoip-country": "United Kingdom", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "50.63.202.26"
+        ], 
+        "dns-mx": [
+            "mailstore1.secureserver.net", 
+            "smtp.secureserver.net"
+        ], 
+        "dns-ns": [
+            "ns65.domaincontrol.com", 
+            "ns66.domaincontrol.com"
+        ], 
+        "domain-name": "opensue.org", 
+        "fuzzer": "omission", 
+        "geoip-country": "United States"
+    }, 
+    {
+        "dns-a": [
+            "67.222.106.46"
+        ], 
+        "dns-mx": [
+            "openuse.org"
+        ], 
+        "dns-ns": [
+            "dns.presenceweb.org", 
+            "dns2.presenceweb.org"
+        ], 
+        "domain-name": "openuse.org", 
+        "fuzzer": "omission", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-ns": [
+            "dns10.hichina.com", 
+            "dns9.hichina.com"
+        ], 
+        "domain-name": "opensise.org", 
+        "fuzzer": "replacement"
+    }, 
+    {
+        "dns-a": [
+            "217.194.213.243"
+        ], 
+        "domain-name": "opensus.e.org", 
+        "fuzzer": "subdomain", 
+        "geoip-country": "United Kingdom", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "209.99.40.222"
+        ], 
+        "dns-ns": [
+            "dns10.parkpage.foundationapi.com", 
+            "dns9.parkpage.foundationapi.com"
+        ], 
+        "domain-name": "opnesuse.org", 
+        "fuzzer": "transposition", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 0
+    }
+]

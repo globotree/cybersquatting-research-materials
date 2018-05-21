@@ -1,0 +1,88 @@
+[
+    {
+        "dns-a": [
+            "130.95.128.140"
+        ], 
+        "dns-mx": [
+            "mail-ext-in1.uwa.edu.au", 
+            "mail-ext-in2.uwa.edu.au"
+        ], 
+        "dns-ns": [
+            "is-ibx-010.is.uwa.edu.au", 
+            "ns1.aarnet.net.au", 
+            "ns1.uwa.edu.au", 
+            "ns2.aarnet.net.au", 
+            "ns2.uwa.edu.au", 
+            "ns3.aarnet.net.au"
+        ], 
+        "domain-name": "uwa.edu.au", 
+        "fuzzer": "original*", 
+        "geoip-country": "Australia", 
+        "ssdeep-score": 99
+    }, 
+    {
+        "dns-a": [
+            "129.127.149.1"
+        ], 
+        "dns-ns": [
+            "ns.adelaide.edu.au", 
+            "ns1.adelaide.edu.au", 
+            "ns2.adelaide.edu.au"
+        ], 
+        "domain-name": "ua.edu.au", 
+        "fuzzer": "omission", 
+        "geoip-country": "Australia", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-ns": [
+            "w.au", 
+            "x.au", 
+            "y.au", 
+            "z.au"
+        ], 
+        "domain-name": "wa.edu.au", 
+        "fuzzer": "omission"
+    }, 
+    {
+        "dns-a": [
+            "103.241.2.252"
+        ], 
+        "dns-mx": [
+            "iwa.edu.au"
+        ], 
+        "dns-ns": [
+            "ns1.netorigin.net", 
+            "ns2.netorigin.net", 
+            "ns3.netorigin.net", 
+            "ns4.netorigin.net"
+        ], 
+        "domain-name": "iwa.edu.au", 
+        "fuzzer": "replacement", 
+        "geoip-country": "Australia"
+    }, 
+    {
+        "dns-a": [
+            "43.245.43.61"
+        ], 
+        "dns-mx": [
+            "asav-eg-mx01.uws.edu.au", 
+            "asav-eg-mx02.uws.edu.au", 
+            "asav-eg-mx03.uws.edu.au", 
+            "asav-eg-mx04.uws.edu.au", 
+            "asav-eg-mx05.uws.edu.au"
+        ], 
+        "dns-ns": [
+            "ns1.aarnet.net.au", 
+            "ns1.uws.edu.au", 
+            "ns2.aarnet.net.au", 
+            "ns2.uws.edu.au", 
+            "ns3.aarnet.net.au", 
+            "ns3.uws.edu.au"
+        ], 
+        "domain-name": "uws.edu.au", 
+        "fuzzer": "replacement", 
+        "geoip-country": "Australia", 
+        "ssdeep-score": 0
+    }
+]

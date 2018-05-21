@@ -1,0 +1,33 @@
+[
+    {
+        "dns-a": [
+            "52.57.71.40"
+        ], 
+        "dns-mx": [
+            "mail.thenational.ae", 
+            "mail2.thenational.ae"
+        ], 
+        "dns-ns": [
+            "ns1.instradns.com", 
+            "ns2.instradns.com", 
+            "ns3.instradns.com"
+        ], 
+        "domain-name": "thenational.ae", 
+        "fuzzer": "original*", 
+        "geoip-country": "Germany", 
+        "ssdeep-score": 100
+    }, 
+    {
+        "dns-a": [
+            "69.172.201.153"
+        ], 
+        "dns-ns": [
+            "ns1.uniregistrymarket.link", 
+            "ns2.uniregistrymarket.link"
+        ], 
+        "domain-name": "the.national.ae", 
+        "fuzzer": "subdomain", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 0
+    }
+]

@@ -1,0 +1,91 @@
+[
+    {
+        "dns-mx": [
+            "mail.mod.gov.cn"
+        ], 
+        "dns-ns": [
+            "dns1.jfjb.com.cn", 
+            "dns2.jfjb.com.cn", 
+            "ns1.cdns.cn", 
+            "ns2.cdns.cn", 
+            "ns3.cdns.cn"
+        ], 
+        "domain-name": "mod.gov.cn", 
+        "fuzzer": "original*", 
+        "mx-spy": true
+    }, 
+    {
+        "dns-mx": [
+            "mail.moe.gov.cn", 
+            "smtp.moe.gov.cn"
+        ], 
+        "dns-ns": [
+            "dnsprim.moe.gov.cn", 
+            "dnssec.moe.gov.cn"
+        ], 
+        "domain-name": "moe.gov.cn", 
+        "fuzzer": "bitsquatting"
+    }, 
+    {
+        "dns-mx": [
+            "mail.mof.gov.cn"
+        ], 
+        "dns-ns": [
+            "ns1.cdns.cn", 
+            "ns2.cdns.cn", 
+            "ns3.cdns.cn"
+        ], 
+        "domain-name": "mof.gov.cn", 
+        "fuzzer": "bitsquatting"
+    }, 
+    {
+        "dns-a": [
+            "219.143.235.81"
+        ], 
+        "dns-mx": [
+            "mail.mot.gov.cn"
+        ], 
+        "dns-ns": [
+            "ns.mot.gov.cn", 
+            "nsbk.mot.gov.cn"
+        ], 
+        "domain-name": "mot.gov.cn", 
+        "fuzzer": "bitsquatting", 
+        "geoip-country": "China"
+    }, 
+    {
+        "dns-mx": [
+            "mail.mos.gov.cn"
+        ], 
+        "dns-ns": [
+            "ns1.cdns.cn", 
+            "ns2.cdns.cn", 
+            "ns3.cdns.cn"
+        ], 
+        "domain-name": "mos.gov.cn", 
+        "fuzzer": "replacement"
+    }, 
+    {
+        "dns-ns": [
+            "f1g1ns1.dnspod.net", 
+            "f1g1ns2.dnspod.net"
+        ], 
+        "domain-name": "mod.cn", 
+        "fuzzer": "various"
+    }, 
+    {
+        "dns-a": [
+            "61.139.126.241"
+        ], 
+        "dns-ns": [
+            "ns1.myhostadmin.net", 
+            "ns2.myhostadmin.net", 
+            "ns3.myhostadmin.net", 
+            "ns4.myhostadmin.net", 
+            "ns5.myhostadmin.net", 
+            "ns6.myhostadmin.net"
+        ], 
+        "domain-name": "modgov.cn", 
+        "fuzzer": "various"
+    }
+]

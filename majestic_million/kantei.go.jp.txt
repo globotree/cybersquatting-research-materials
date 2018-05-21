@@ -1,0 +1,37 @@
+[
+    {
+        "dns-a": [
+            "202.214.216.10"
+        ], 
+        "dns-aaaa": [
+            "2001:240:1e00:f21::138"
+        ], 
+        "dns-mx": [
+            "mx.securemx.jp", 
+            "mx6.securemx.jp"
+        ], 
+        "dns-ns": [
+            "ns7.kantei.go.jp", 
+            "ns8.kantei.go.jp"
+        ], 
+        "domain-name": "kantei.go.jp", 
+        "fuzzer": "original*", 
+        "geoip-country": "Japan", 
+        "ssdeep-score": 100
+    }, 
+    {
+        "dns-a": [
+            "202.214.216.10"
+        ], 
+        "dns-aaaa": [
+            "2001:240:1e00:f21::138"
+        ], 
+        "dns-ns": [
+            "ns7.kantei.jp", 
+            "ns8.kantei.jp"
+        ], 
+        "domain-name": "kantei.jp", 
+        "fuzzer": "various", 
+        "geoip-country": "Japan"
+    }
+]

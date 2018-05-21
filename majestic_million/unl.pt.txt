@@ -1,0 +1,178 @@
+[
+    {
+        "dns-a": [
+            "193.137.122.10"
+        ], 
+        "dns-mx": [
+            "mail.unl.pt"
+        ], 
+        "dns-ns": [
+            "ns1.unl.pt", 
+            "ns2.unl.pt"
+        ], 
+        "domain-name": "unl.pt", 
+        "fuzzer": "original*", 
+        "geoip-country": "Portugal", 
+        "ssdeep-score": 97
+    }, 
+    {
+        "dns-a": [
+            "81.88.57.70"
+        ], 
+        "dns-mx": [
+            "mail-pt.securemail.pro"
+        ], 
+        "dns-ns": [
+            "ns1.amenworld.com", 
+            "ns2.amenworld.com"
+        ], 
+        "domain-name": "unlk.pt", 
+        "fuzzer": "addition", 
+        "geoip-country": "Italy", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "195.22.14.117"
+        ], 
+        "dns-mx": [
+            "tnl-pt.mail.protection.outlook.com"
+        ], 
+        "dns-ns": [
+            "ns1.host7x24.com", 
+            "ns2.host7x24.com"
+        ], 
+        "domain-name": "tnl.pt", 
+        "fuzzer": "bitsquatting", 
+        "geoip-country": "Portugal", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "89.26.244.34"
+        ], 
+        "dns-mx": [
+            "webmail.enl.pt"
+        ], 
+        "dns-ns": [
+            "ns1.dnscpanel.com", 
+            "ns2.dnscpanel.com"
+        ], 
+        "domain-name": "enl.pt", 
+        "fuzzer": "bitsquatting", 
+        "geoip-country": "Portugal"
+    }, 
+    {
+        "dns-a": [
+            "185.53.179.8"
+        ], 
+        "dns-mx": [
+            "mail.h-email.net"
+        ], 
+        "dns-ns": [
+            "ns1.parkingcrew.net", 
+            "ns2.parkingcrew.net"
+        ], 
+        "domain-name": "uol.pt", 
+        "fuzzer": "bitsquatting", 
+        "geoip-country": "Germany", 
+        "mx-spy": true, 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "72.52.4.120"
+        ], 
+        "dns-mx": [
+            "localhost"
+        ], 
+        "dns-ns": [
+            "ns1.sedoparking.com", 
+            "ns2.sedoparking.com"
+        ], 
+        "domain-name": "uni.pt", 
+        "fuzzer": "homoglyph", 
+        "geoip-country": "United States", 
+        "mx-spy": true, 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-mx": [
+            "mx01.ulisboa.pt", 
+            "mx02.ulisboa.pt", 
+            "mx03.ulisboa.pt", 
+            "mx04.ulisboa.pt"
+        ], 
+        "dns-ns": [
+            "a.ul.pt", 
+            "b.ul.pt"
+        ], 
+        "domain-name": "ul.pt", 
+        "fuzzer": "omission"
+    }, 
+    {
+        "dns-a": [
+            "72.52.4.120"
+        ], 
+        "dns-mx": [
+            "localhost"
+        ], 
+        "dns-ns": [
+            "ns1.sedoparking.com", 
+            "ns2.sedoparking.com"
+        ], 
+        "domain-name": "un.pt", 
+        "fuzzer": "omission", 
+        "geoip-country": "United States", 
+        "mx-spy": true, 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "188.93.230.75"
+        ], 
+        "dns-mx": [
+            "uno.pt"
+        ], 
+        "dns-ns": [
+            "dns1.ibername.com", 
+            "dns2.ibername.com", 
+            "dns3.ibername.net", 
+            "dns4.ibername.net"
+        ], 
+        "domain-name": "uno.pt", 
+        "fuzzer": "replacement"
+    }, 
+    {
+        "dns-a": [
+            "5.79.65.75"
+        ], 
+        "dns-mx": [
+            "mail.unp.pt"
+        ], 
+        "dns-ns": [
+            "ns10.host-servers.net", 
+            "ns9.host-servers.net"
+        ], 
+        "domain-name": "unp.pt", 
+        "fuzzer": "replacement", 
+        "geoip-country": "Netherlands", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "217.112.91.150"
+        ], 
+        "dns-mx": [
+            "mail.anl.pt"
+        ], 
+        "dns-ns": [
+            "ns.aclsi.pt", 
+            "ns2.aclsi.pt"
+        ], 
+        "domain-name": "anl.pt", 
+        "fuzzer": "vowel-swap", 
+        "geoip-country": "United Kingdom", 
+        "ssdeep-score": 0
+    }
+]

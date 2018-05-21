@@ -1,0 +1,98 @@
+[
+    {
+        "dns-a": [
+            "151.101.1.132", 
+            "151.101.129.132", 
+            "151.101.193.132", 
+            "151.101.65.132"
+        ], 
+        "dns-mx": [
+            "ALT3.ASPMX.L.GOOGLE.COM", 
+            "ALT4.ASPMX.L.GOOGLE.COM", 
+            "ASPMX.L.GOOGLE.COM", 
+            "alt1.ASPMX.L.GOOGLE.COM", 
+            "alt2.ASPMX.L.GOOGLE.COM"
+        ], 
+        "dns-ns": [
+            "ns1.p21.dynect.net", 
+            "ns2.p21.dynect.net", 
+            "ns3.p21.dynect.net", 
+            "ns4.p21.dynect.net", 
+            "ns5.dnsmadeeasy.com", 
+            "ns6.dnsmadeeasy.com", 
+            "ns7.dnsmadeeasy.com"
+        ], 
+        "domain-name": "charitywater.org", 
+        "fuzzer": "original*", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 100
+    }, 
+    {
+        "dns-a": [
+            "185.53.178.7"
+        ], 
+        "dns-mx": [
+            "mail.h-email.net"
+        ], 
+        "dns-ns": [
+            "ns1.parkingcrew.net", 
+            "ns2.parkingcrew.net"
+        ], 
+        "domain-name": "charitywarter.org", 
+        "fuzzer": "insertion", 
+        "geoip-country": "Germany", 
+        "mx-spy": true, 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "185.53.179.6"
+        ], 
+        "dns-mx": [
+            "mail.h-email.net"
+        ], 
+        "dns-ns": [
+            "ns1.parkingcrew.net", 
+            "ns2.parkingcrew.net"
+        ], 
+        "domain-name": "charitwater.org", 
+        "fuzzer": "omission", 
+        "geoip-country": "Germany", 
+        "mx-spy": true, 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "66.96.147.134"
+        ], 
+        "dns-mx": [
+            "mx.ter.org"
+        ], 
+        "domain-name": "charitywa.ter.org", 
+        "fuzzer": "subdomain", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "98.124.199.35"
+        ], 
+        "domain-name": "charitywate.r.org", 
+        "fuzzer": "subdomain", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "209.99.40.223"
+        ], 
+        "dns-ns": [
+            "dns11.parkpage.foundationapi.com", 
+            "dns12.parkpage.foundationapi.com"
+        ], 
+        "domain-name": "chartiywater.org", 
+        "fuzzer": "transposition", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 0
+    }
+]

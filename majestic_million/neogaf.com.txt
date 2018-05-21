@@ -1,0 +1,227 @@
+[
+    {
+        "dns-a": [
+            "104.20.132.57", 
+            "104.20.133.57"
+        ], 
+        "dns-aaaa": [
+            "2400:cb00:2048:1::6814:8439", 
+            "2400:cb00:2048:1::6814:8539"
+        ], 
+        "dns-mx": [
+            "alt1.aspmx.l.google.com", 
+            "alt2.aspmx.l.google.com", 
+            "alt3.aspmx.l.google.com", 
+            "alt4.aspmx.l.google.com", 
+            "aspmx.l.google.com"
+        ], 
+        "dns-ns": [
+            "gwen.ns.cloudflare.com", 
+            "james.ns.cloudflare.com"
+        ], 
+        "domain-name": "neogaf.com", 
+        "fuzzer": "original*", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 96
+    }, 
+    {
+        "dns-a": [
+            "203.170.80.250", 
+            "27.124.125.18"
+        ], 
+        "dns-aaaa": [
+            "2a00:fd80:aaaa:aaaa:1::1"
+        ], 
+        "dns-ns": [
+            "ns1.crazydomains.com", 
+            "ns2.crazydomains.com"
+        ], 
+        "domain-name": "neogaff.com", 
+        "fuzzer": "addition", 
+        "geoip-country": "Australia", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "141.8.224.169"
+        ], 
+        "dns-ns": [
+            "ns27.rookdns.com", 
+            "ns28.rookdns.com"
+        ], 
+        "domain-name": "neofaf.com", 
+        "fuzzer": "bitsquatting", 
+        "geoip-country": "Switzerland", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "91.195.240.108"
+        ], 
+        "dns-ns": [
+            "dns1.name-services.com", 
+            "dns2.name-services.com", 
+            "dns3.name-services.com", 
+            "dns4.name-services.com", 
+            "dns5.name-services.com"
+        ], 
+        "domain-name": "neogad.com", 
+        "fuzzer": "bitsquatting", 
+        "geoip-country": "Germany", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "162.212.129.177"
+        ], 
+        "dns-mx": [
+            "neoga.com"
+        ], 
+        "dns-ns": [
+            "ns1.fdihosting7.com", 
+            "ns2.fdihosting7.com"
+        ], 
+        "domain-name": "neoga.com", 
+        "fuzzer": "omission", 
+        "geoip-country": "United States"
+    }, 
+    {
+        "dns-a": [
+            "85.214.88.233"
+        ], 
+        "dns-mx": [
+            "negaf.com"
+        ], 
+        "dns-ns": [
+            "nsa6.schlundtech.de", 
+            "nsb6.schlundtech.de", 
+            "nsc6.schlundtech.de", 
+            "nsd6.schlundtech.de"
+        ], 
+        "domain-name": "negaf.com", 
+        "fuzzer": "omission", 
+        "geoip-country": "Germany"
+    }, 
+    {
+        "dns-a": [
+            "91.195.240.82"
+        ], 
+        "dns-ns": [
+            "ns1kwy.name.com", 
+            "ns2knz.name.com", 
+            "ns3dkz.name.com", 
+            "ns4lqx.name.com"
+        ], 
+        "domain-name": "neogar.com", 
+        "fuzzer": "replacement", 
+        "geoip-country": "Germany", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "59.188.217.206"
+        ], 
+        "dns-ns": [
+            "ns7.cnmsn.net", 
+            "ns8.cnmsn.net"
+        ], 
+        "domain-name": "neogac.com", 
+        "fuzzer": "replacement", 
+        "geoip-country": "Hong Kong", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "185.53.178.7"
+        ], 
+        "dns-mx": [
+            "mail.h-email.net"
+        ], 
+        "dns-ns": [
+            "ns1.parkingcrew.net", 
+            "ns2.parkingcrew.net"
+        ], 
+        "domain-name": "nepgaf.com", 
+        "fuzzer": "replacement", 
+        "geoip-country": "Germany", 
+        "mx-spy": true, 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "162.243.10.151"
+        ], 
+        "dns-ns": [
+            "ns1.yourdoor.com", 
+            "ns2.yourdoor.com"
+        ], 
+        "domain-name": "ne.ogaf.com", 
+        "fuzzer": "subdomain", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "98.124.245.24"
+        ], 
+        "dns-ns": [
+            "ns1.fabulous.com", 
+            "ns2.fabulous.com"
+        ], 
+        "domain-name": "neog.af.com", 
+        "fuzzer": "subdomain", 
+        "geoip-country": "United States"
+    }, 
+    {
+        "dns-a": [
+            "67.55.92.184", 
+            "67.55.92.187"
+        ], 
+        "dns-mx": [
+            "mx7.noegaf.com"
+        ], 
+        "dns-ns": [
+            "ns1.liverealdeals.com", 
+            "ns2.liverealdeals.com"
+        ], 
+        "domain-name": "noegaf.com", 
+        "fuzzer": "transposition", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "173.239.5.6", 
+            "173.239.8.164", 
+            "213.247.47.190"
+        ], 
+        "dns-mx": [
+            "mx7.negoaf.com"
+        ], 
+        "dns-ns": [
+            "ns1.expiereddnsmanager.com", 
+            "ns2.expiereddnsmanager.com"
+        ], 
+        "domain-name": "negoaf.com", 
+        "fuzzer": "transposition", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "103.224.212.222"
+        ], 
+        "dns-mx": [
+            "park-mx.above.com"
+        ], 
+        "dns-ns": [
+            "ns1.above.com", 
+            "ns2.above.com"
+        ], 
+        "domain-name": "neoagf.com", 
+        "fuzzer": "transposition", 
+        "geoip-country": "Australia", 
+        "mx-spy": true, 
+        "ssdeep-score": 0
+    }
+]

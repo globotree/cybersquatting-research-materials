@@ -1,0 +1,197 @@
+[
+    {
+        "dns-a": [
+            "130.179.16.50"
+        ], 
+        "dns-mx": [
+            "umce3cip01.ad.umanitoba.ca", 
+            "umce3cip02.ad.umanitoba.ca", 
+            "umce3cip03.ad.umanitoba.ca"
+        ], 
+        "dns-ns": [
+            "ddi-ns1.cc.umanitoba.ca", 
+            "ddi-ns2.cc.umanitoba.ca", 
+            "ns1.concordia.ca", 
+            "ns1.d-zone.ca", 
+            "ns2.d-zone.ca"
+        ], 
+        "domain-name": "umanitoba.ca", 
+        "fuzzer": "original*", 
+        "geoip-country": "Canada", 
+        "ssdeep-score": 100
+    }, 
+    {
+        "dns-a": [
+            "52.24.21.255"
+        ], 
+        "dns-mx": [
+            "eforward1.registrar-servers.com", 
+            "eforward2.registrar-servers.com", 
+            "eforward3.registrar-servers.com", 
+            "eforward4.registrar-servers.com", 
+            "eforward5.registrar-servers.com"
+        ], 
+        "dns-ns": [
+            "dns1.registrar-servers.com", 
+            "dns2.registrar-servers.com", 
+            "dns3.registrar-servers.com", 
+            "dns4.registrar-servers.com", 
+            "dns5.registrar-servers.com"
+        ], 
+        "domain-name": "umanitobaa.ca", 
+        "fuzzer": "addition", 
+        "geoip-country": "United States"
+    }, 
+    {
+        "dns-a": [
+            "158.85.87.76"
+        ], 
+        "dns-mx": [
+            "mail.emanitoba.ca"
+        ], 
+        "dns-ns": [
+            "slns1.namespro.ca", 
+            "slns2.namespro.ca"
+        ], 
+        "domain-name": "emanitoba.ca", 
+        "fuzzer": "bitsquatting", 
+        "geoip-country": "Canada", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "192.195.77.41"
+        ], 
+        "dns-aaaa": [
+            "2607:f1c0:1000:9032:34d9:d1f9:f789:c800"
+        ], 
+        "dns-mx": [
+            "mx00.1and1.com", 
+            "mx01.1and1.com"
+        ], 
+        "dns-ns": [
+            "ns1084.ui-dns.biz", 
+            "ns1084.ui-dns.com", 
+            "ns1084.ui-dns.de", 
+            "ns1084.ui-dns.org"
+        ], 
+        "domain-name": "umanltoba.ca", 
+        "fuzzer": "homoglyph", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "50.63.202.32"
+        ], 
+        "dns-mx": [
+            "mailstore1.secureserver.net", 
+            "smtp.secureserver.net"
+        ], 
+        "dns-ns": [
+            "ns53.domaincontrol.com", 
+            "ns54.domaincontrol.com"
+        ], 
+        "domain-name": "unmanitoba.ca", 
+        "fuzzer": "insertion", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "198.163.15.25"
+        ], 
+        "dns-mx": [
+            "smtp.gov.mb.ca"
+        ], 
+        "dns-ns": [
+            "dns1.mts.net", 
+            "dns2.mts.net"
+        ], 
+        "domain-name": "manitoba.ca", 
+        "fuzzer": "omission", 
+        "geoip-country": "Canada", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "104.18.58.5", 
+            "104.18.59.5"
+        ], 
+        "dns-aaaa": [
+            "2400:cb00:2048:1::6812:3a05", 
+            "2400:cb00:2048:1::6812:3b05"
+        ], 
+        "dns-mx": [
+            "ymanitoba-ca.mail.protection.outlook.com"
+        ], 
+        "dns-ns": [
+            "ajay.ns.cloudflare.com", 
+            "janet.ns.cloudflare.com"
+        ], 
+        "domain-name": "ymanitoba.ca", 
+        "fuzzer": "replacement", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "50.63.202.41"
+        ], 
+        "dns-ns": [
+            "ns73.domaincontrol.com", 
+            "ns74.domaincontrol.com"
+        ], 
+        "domain-name": "imanitoba.ca", 
+        "fuzzer": "replacement", 
+        "geoip-country": "United States"
+    }, 
+    {
+        "dns-a": [
+            "199.59.242.150"
+        ], 
+        "domain-name": "umani.toba.ca", 
+        "fuzzer": "subdomain", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "98.124.245.24"
+        ], 
+        "dns-mx": [
+            "mail.b-io.co"
+        ], 
+        "dns-ns": [
+            "ns1.fabulous.com", 
+            "ns2.fabulous.com"
+        ], 
+        "domain-name": "umanit.oba.ca", 
+        "fuzzer": "subdomain", 
+        "geoip-country": "United States", 
+        "mx-spy": true, 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "141.8.224.93"
+        ], 
+        "dns-ns": [
+            "ns7.rookdns.com", 
+            "ns8.rookdns.com"
+        ], 
+        "domain-name": "umantioba.ca", 
+        "fuzzer": "transposition", 
+        "geoip-country": "Switzerland", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-ns": [
+            "ns1.systemdns.com", 
+            "ns2.systemdns.com", 
+            "ns3.systemdns.com"
+        ], 
+        "domain-name": "umonitoba.ca", 
+        "fuzzer": "vowel-swap"
+    }
+]

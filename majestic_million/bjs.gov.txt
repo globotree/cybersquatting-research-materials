@@ -1,0 +1,33 @@
+[
+    {
+        "dns-a": [
+            "149.101.16.41"
+        ], 
+        "dns-aaaa": [
+            "2607:f330:8400:20f1::41"
+        ], 
+        "dns-ns": [
+            "ns-jdcw-01.usdoj.gov", 
+            "ns-jdcw-02.usdoj.gov", 
+            "ns2.cjis.gov"
+        ], 
+        "domain-name": "bjs.gov", 
+        "fuzzer": "original*", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 100
+    }, 
+    {
+        "dns-a": [
+            "149.101.166.15"
+        ], 
+        "dns-mx": [
+            "mx-jdcw.usdoj.gov"
+        ], 
+        "dns-ns": [
+            "ns1.ojp.gov", 
+            "ns2.ojp.gov"
+        ], 
+        "domain-name": "bja.gov", 
+        "fuzzer": "replacement"
+    }
+]

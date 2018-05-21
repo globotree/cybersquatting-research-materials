@@ -1,0 +1,58 @@
+[
+    {
+        "dns-a": [
+            "137.215.10.220"
+        ], 
+        "dns-mx": [
+            "alt1.aspmx.l.google.com", 
+            "alt2.aspmx.l.google.com", 
+            "alt3.aspmx.l.google.com", 
+            "alt4.aspmx.l.google.com", 
+            "aspmx.l.google.com"
+        ], 
+        "dns-ns": [
+            "disa.tenet.ac.za", 
+            "infoblox-gk.up.ac.za", 
+            "infoblox-kal.up.ac.za", 
+            "infoblox-lcdv.up.ac.za", 
+            "infoblox-mam.up.ac.za", 
+            "infoblox-med.up.ac.za", 
+            "infoblox-op.up.ac.za", 
+            "infoblox-wtb.up.ac.za", 
+            "ns1.up.ac.za", 
+            "ns2.up.ac.za"
+        ], 
+        "domain-name": "up.ac.za", 
+        "fuzzer": "original*", 
+        "geoip-country": "South Africa"
+    }, 
+    {
+        "dns-ns": [
+            "disa.tenet.ac.za", 
+            "extdns.nmmu.ac.za", 
+            "neptune.nmmu.ac.za", 
+            "rain.psg.com"
+        ], 
+        "domain-name": "upe.ac.za", 
+        "fuzzer": "addition"
+    }, 
+    {
+        "dns-a": [
+            "196.21.218.225"
+        ], 
+        "dns-mx": [
+            "alt1.aspmx.l.google.com", 
+            "alt2.aspmx.l.google.com", 
+            "alt3.aspmx.l.google.com", 
+            "alt4.aspmx.l.google.com", 
+            "aspmx.l.google.com"
+        ], 
+        "dns-ns": [
+            "disa.tenet.ac.za", 
+            "ulns01.ul.ac.za"
+        ], 
+        "domain-name": "ul.ac.za", 
+        "fuzzer": "replacement", 
+        "geoip-country": "South Africa"
+    }
+]

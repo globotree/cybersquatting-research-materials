@@ -1,0 +1,80 @@
+[
+    {
+        "dns-mx": [
+            "rays.cma.gov.cn"
+        ], 
+        "dns-ns": [
+            "dns.cma.gov.cn", 
+            "dns2.cma.gov.cn"
+        ], 
+        "domain-name": "cma.gov.cn", 
+        "fuzzer": "original*"
+    }, 
+    {
+        "dns-a": [
+            "211.149.239.49"
+        ], 
+        "dns-ns": [
+            "dns23.hichina.com", 
+            "dns24.hichina.com"
+        ], 
+        "domain-name": "sma.gov.cn", 
+        "fuzzer": "bitsquatting", 
+        "geoip-country": "China"
+    }, 
+    {
+        "dns-mx": [
+            "mx.cea.gov.cn"
+        ], 
+        "dns-ns": [
+            "ns1.sfn.cn", 
+            "ns2.sfn.cn"
+        ], 
+        "domain-name": "cea.gov.cn", 
+        "fuzzer": "bitsquatting"
+    }, 
+    {
+        "dns-ns": [
+            "pdns.cpip.net.cn", 
+            "sdns.cpip.net.cn"
+        ], 
+        "domain-name": "cmc.gov.cn", 
+        "fuzzer": "bitsquatting"
+    }, 
+    {
+        "dns-ns": [
+            "netra.nmdis.gov.cn"
+        ], 
+        "domain-name": "cme.gov.cn", 
+        "fuzzer": "bitsquatting"
+    }, 
+    {
+        "dns-ns": [
+            "ns.dns.net.cn", 
+            "ns20.dns.net.cn", 
+            "ns7.dns.net.cn"
+        ], 
+        "domain-name": "cms.gov.cn", 
+        "fuzzer": "replacement"
+    }, 
+    {
+        "dns-a": [
+            "116.193.41.39"
+        ], 
+        "dns-ns": [
+            "localhost", 
+            "ns1.mca.gov.cn", 
+            "ns2.mca.gov.cn"
+        ], 
+        "domain-name": "mca.gov.cn", 
+        "fuzzer": "transposition"
+    }, 
+    {
+        "dns-ns": [
+            "dns.cma.cn", 
+            "dns2.cma.cn"
+        ], 
+        "domain-name": "cma.cn", 
+        "fuzzer": "various"
+    }
+]

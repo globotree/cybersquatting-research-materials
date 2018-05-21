@@ -1,0 +1,36 @@
+[
+    {
+        "dns-a": [
+            "114.251.199.226"
+        ], 
+        "dns-mx": [
+            "web2.chinalaw.gov.cn"
+        ], 
+        "dns-ns": [
+            "ns.chinalaw.gov.cn"
+        ], 
+        "domain-name": "chinalaw.gov.cn", 
+        "fuzzer": "original*", 
+        "geoip-country": "China"
+    }, 
+    {
+        "dns-ns": [
+            "ns19.xincache.com", 
+            "ns20.xincache.com"
+        ], 
+        "domain-name": "chinalqw.gov.cn", 
+        "fuzzer": "bitsquatting"
+    }, 
+    {
+        "dns-a": [
+            "50.117.120.251"
+        ], 
+        "dns-mx": [
+            "mail.happyisp.com"
+        ], 
+        "domain-name": "chinala.w.gov.cn", 
+        "fuzzer": "subdomain", 
+        "geoip-country": "United States", 
+        "mx-spy": true
+    }
+]

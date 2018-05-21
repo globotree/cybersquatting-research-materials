@@ -1,0 +1,47 @@
+[
+    {
+        "dns-a": [
+            "81.31.46.138"
+        ], 
+        "dns-aaaa": [
+            "2a01:430:206:1::138"
+        ], 
+        "dns-ns": [
+            "ns1.skauting.cz", 
+            "ns2.skauting.cz"
+        ], 
+        "domain-name": "skauting.cz", 
+        "fuzzer": "original*", 
+        "geoip-country": "Czech Republic", 
+        "ssdeep-score": 100
+    }, 
+    {
+        "dns-a": [
+            "185.53.177.20"
+        ], 
+        "dns-ns": [
+            "ns1.one.cz", 
+            "ns2.one.cz"
+        ], 
+        "domain-name": "skating.cz", 
+        "fuzzer": "omission", 
+        "geoip-country": "Germany", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "87.236.197.55"
+        ], 
+        "dns-mx": [
+            "mail1.weps.cz", 
+            "mail2.weps.cz"
+        ], 
+        "dns-ns": [
+            "ns1.thinline.cz", 
+            "ns2.thinline.cz", 
+            "ns3.cesky-hosting.eu"
+        ], 
+        "domain-name": "skautin.g.cz", 
+        "fuzzer": "subdomain"
+    }
+]

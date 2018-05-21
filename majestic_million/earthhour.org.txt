@@ -1,0 +1,48 @@
+[
+    {
+        "dns-a": [
+            "23.185.0.4"
+        ], 
+        "dns-aaaa": [
+            "2620:12a:8000::4"
+        ], 
+        "dns-mx": [
+            "alt1.aspmx.l.google.com", 
+            "alt2.aspmx.l.google.com", 
+            "aspmx.l.google.com", 
+            "aspmx2.googlemail.com", 
+            "aspmx3.googlemail.com"
+        ], 
+        "dns-ns": [
+            "ns-1399.awsdns-46.org", 
+            "ns-2010.awsdns-59.co.uk", 
+            "ns-206.awsdns-25.com", 
+            "ns-544.awsdns-04.net"
+        ], 
+        "domain-name": "earthhour.org", 
+        "fuzzer": "original*", 
+        "ssdeep-score": 96
+    }, 
+    {
+        "dns-a": [
+            "69.172.201.153"
+        ], 
+        "dns-ns": [
+            "ns1.uniregistrymarket.link", 
+            "ns2.uniregistrymarket.link"
+        ], 
+        "domain-name": "earthho.ur.org", 
+        "fuzzer": "subdomain", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "98.124.199.35"
+        ], 
+        "domain-name": "earthhou.r.org", 
+        "fuzzer": "subdomain", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 0
+    }
+]

@@ -1,0 +1,50 @@
+[
+    {
+        "dns-mx": [
+            "mailgateway-bak.anl.gov", 
+            "mailgateway.anl.gov"
+        ], 
+        "dns-ns": [
+            "adns1.es.net", 
+            "adns2.es.net", 
+            "nsx.lbl.gov", 
+            "t1dns1.anl.gov", 
+            "t1dns2.anl.gov"
+        ], 
+        "domain-name": "anl.gov", 
+        "fuzzer": "original*"
+    }, 
+    {
+        "dns-a": [
+            "141.221.67.63"
+        ], 
+        "dns-mx": [
+            "mailgw5.inl.gov", 
+            "mailgw6.inl.gov"
+        ], 
+        "dns-ns": [
+            "ns.inel.gov", 
+            "ns.inl.gov", 
+            "ns2.inel.gov", 
+            "ns2.inl.gov"
+        ], 
+        "domain-name": "inl.gov", 
+        "fuzzer": "bitsquatting", 
+        "geoip-country": "United States", 
+        "mx-spy": true
+    }, 
+    {
+        "dns-a": [
+            "206.16.212.91"
+        ], 
+        "dns-ns": [
+            "ns1-09.azure-dns.com", 
+            "ns2-09.azure-dns.net", 
+            "ns3-09.azure-dns.org", 
+            "ns4-09.azure-dns.info"
+        ], 
+        "domain-name": "al.gov", 
+        "fuzzer": "omission", 
+        "geoip-country": "United States"
+    }
+]

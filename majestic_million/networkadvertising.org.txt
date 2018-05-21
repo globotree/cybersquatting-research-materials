@@ -1,0 +1,103 @@
+[
+    {
+        "dns-a": [
+            "35.172.208.66", 
+            "35.173.87.144"
+        ], 
+        "dns-mx": [
+            "alt1.aspmx.l.google.com", 
+            "alt2.aspmx.l.google.com", 
+            "aspmx.l.google.com", 
+            "aspmx2.googlemail.com", 
+            "aspmx3.googlemail.com"
+        ], 
+        "dns-ns": [
+            "ns-1099.awsdns-09.org", 
+            "ns-1970.awsdns-54.co.uk", 
+            "ns-335.awsdns-41.com", 
+            "ns-695.awsdns-22.net"
+        ], 
+        "domain-name": "networkadvertising.org", 
+        "fuzzer": "original*", 
+        "geoip-country": "United States"
+    }, 
+    {
+        "dns-a": [
+            "141.8.224.93"
+        ], 
+        "dns-ns": [
+            "ns7.rookdns.com", 
+            "ns8.rookdns.com"
+        ], 
+        "domain-name": "networkadverising.org", 
+        "fuzzer": "omission", 
+        "geoip-country": "Switzerland"
+    }, 
+    {
+        "dns-a": [
+            "185.53.178.7"
+        ], 
+        "dns-mx": [
+            "mail.h-email.net"
+        ], 
+        "dns-ns": [
+            "ns1.parkingcrew.net", 
+            "ns2.parkingcrew.net"
+        ], 
+        "domain-name": "networkadvertizing.org", 
+        "fuzzer": "replacement", 
+        "geoip-country": "Germany", 
+        "mx-spy": true
+    }, 
+    {
+        "dns-a": [
+            "69.172.201.153"
+        ], 
+        "dns-ns": [
+            "ns1.uniregistrymarket.link", 
+            "ns2.uniregistrymarket.link"
+        ], 
+        "domain-name": "networkadverti.sing.org", 
+        "fuzzer": "subdomain", 
+        "geoip-country": "United States"
+    }, 
+    {
+        "dns-a": [
+            "35.196.226.51"
+        ], 
+        "domain-name": "networkadvertis.ing.org", 
+        "fuzzer": "subdomain", 
+        "geoip-country": "United States"
+    }, 
+    {
+        "dns-a": [
+            "64.99.80.121"
+        ], 
+        "domain-name": "networkadvertisi.ng.org", 
+        "fuzzer": "subdomain", 
+        "geoip-country": "Canada"
+    }, 
+    {
+        "dns-a": [
+            "188.166.216.219"
+        ], 
+        "domain-name": "networkadvertisin.g.org", 
+        "fuzzer": "subdomain", 
+        "geoip-country": "Singapore"
+    }, 
+    {
+        "dns-a": [
+            "209.164.105.167"
+        ], 
+        "dns-mx": [
+            "networkadvretising.org"
+        ], 
+        "dns-ns": [
+            "ns1.md-pb-iqsv.com", 
+            "ns2.md-pb-iqsv.com"
+        ], 
+        "domain-name": "networkadvretising.org", 
+        "fuzzer": "transposition", 
+        "geoip-country": "United States"
+    }
+]

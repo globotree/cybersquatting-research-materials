@@ -1,0 +1,39 @@
+[
+    {
+        "dns-a": [
+            "204.121.60.11"
+        ], 
+        "dns-aaaa": [
+            "2620:126:4000:1801:ca61:9daf:c1d0:9870"
+        ], 
+        "dns-mx": [
+            "proofpoint7.lanl.gov", 
+            "proofpoint8.lanl.gov"
+        ], 
+        "dns-ns": [
+            "ns1.es.net", 
+            "nsx.lanl.gov", 
+            "nsx2.lanl.gov"
+        ], 
+        "domain-name": "lanl.gov", 
+        "fuzzer": "original*", 
+        "geoip-country": "United States", 
+        "mx-spy": true, 
+        "ssdeep-score": 100
+    }, 
+    {
+        "dns-mx": [
+            "mailgateway-bak.anl.gov", 
+            "mailgateway.anl.gov"
+        ], 
+        "dns-ns": [
+            "adns1.es.net", 
+            "adns2.es.net", 
+            "nsx.lbl.gov", 
+            "t1dns1.anl.gov", 
+            "t1dns2.anl.gov"
+        ], 
+        "domain-name": "anl.gov", 
+        "fuzzer": "omission"
+    }
+]

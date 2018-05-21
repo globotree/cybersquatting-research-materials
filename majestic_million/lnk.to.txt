@@ -1,0 +1,110 @@
+[
+    {
+        "dns-a": [
+            "34.248.13.202", 
+            "54.154.196.1"
+        ], 
+        "dns-mx": [
+            "alt1.aspmx.l.google.com", 
+            "alt2.aspmx.l.google.com", 
+            "aspmx.l.google.com", 
+            "aspmx2.googlemail.com", 
+            "aspmx3.googlemail.com"
+        ], 
+        "dns-ns": [
+            "ns-1032.awsdns-01.org", 
+            "ns-1700.awsdns-20.co.uk", 
+            "ns-456.awsdns-57.com", 
+            "ns-775.awsdns-32.net"
+        ], 
+        "domain-name": "lnk.to", 
+        "fuzzer": "original*", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 99
+    }, 
+    {
+        "dns-a": [
+            "12.29.116.209"
+        ], 
+        "dns-mx": [
+            "mx1.emailsrvr.com", 
+            "mx2.emailsrvr.com"
+        ], 
+        "dns-ns": [
+            "ns1.register.to", 
+            "ns2.register.to", 
+            "ns3.register.to", 
+            "ns4.register.to"
+        ], 
+        "domain-name": "lnkd.to", 
+        "fuzzer": "addition", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "157.7.107.159"
+        ], 
+        "dns-mx": [
+            "mx01.lolipop.jp"
+        ], 
+        "dns-ns": [
+            "uns01.lolipop.jp", 
+            "uns02.lolipop.jp"
+        ], 
+        "domain-name": "ink.to", 
+        "fuzzer": "homoglyph", 
+        "geoip-country": "Japan", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "50.57.204.141"
+        ], 
+        "dns-ns": [
+            "mns01.domaincontrol.com", 
+            "mns02.domaincontrol.com"
+        ], 
+        "domain-name": "1nk.to", 
+        "fuzzer": "homoglyph", 
+        "geoip-country": "United States"
+    }, 
+    {
+        "dns-a": [
+            "69.64.93.57"
+        ], 
+        "dns-ns": [
+            "fns.frogsmart.net", 
+            "sns.frogsmart.net"
+        ], 
+        "domain-name": "ln.to", 
+        "fuzzer": "omission"
+    }, 
+    {
+        "dns-a": [
+            "46.38.239.81"
+        ], 
+        "dns-mx": [
+            "mail.rsshfr.com"
+        ], 
+        "dns-ns": [
+            "ns.inwx.de", 
+            "ns2.inwx.de", 
+            "ns3.inwx.eu", 
+            "ns4.inwx.com", 
+            "ns5.inwx.net"
+        ], 
+        "domain-name": "lk.to", 
+        "fuzzer": "omission", 
+        "geoip-country": "Germany", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "192.188.2.36"
+        ], 
+        "domain-name": "ln.k.to", 
+        "fuzzer": "subdomain", 
+        "geoip-country": "Canada"
+    }
+]

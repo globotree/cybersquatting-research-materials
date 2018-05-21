@@ -1,0 +1,165 @@
+[
+    {
+        "dns-a": [
+            "130.86.9.189"
+        ], 
+        "dns-mx": [
+            "csus-edu.mail.protection.outlook.com"
+        ], 
+        "dns-ns": [
+            "ns1.csus.edu", 
+            "ns2.csus.edu", 
+            "ns4.cenic.org", 
+            "ns5.cenic.org", 
+            "ns6.cenic.org"
+        ], 
+        "domain-name": "csus.edu", 
+        "fuzzer": "original*", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 100
+    }, 
+    {
+        "dns-a": [
+            "52.38.114.122"
+        ], 
+        "dns-mx": [
+            "mxa-00025101.gslb.pphosted.com", 
+            "mxb-00025101.gslb.pphosted.com"
+        ], 
+        "dns-ns": [
+            "ns.csusb.edu", 
+            "ns2.csusb.edu", 
+            "ns3.csusb.edu"
+        ], 
+        "domain-name": "csusb.edu", 
+        "fuzzer": "addition", 
+        "geoip-country": "United States", 
+        "mx-spy": true, 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "144.37.12.45"
+        ], 
+        "dns-mx": [
+            "csusm-edu.mail.protection.outlook.com"
+        ], 
+        "dns-ns": [
+            "atlas.csusm.edu", 
+            "atlas2.csusm.edu", 
+            "azurepublicdnsxfer.csusm.edu", 
+            "ns1.csu.net"
+        ], 
+        "domain-name": "csusm.edu", 
+        "fuzzer": "addition", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "132.241.85.179", 
+            "132.241.85.180"
+        ], 
+        "dns-mx": [
+            "csuc-edu.mail.protection.outlook.com"
+        ], 
+        "dns-ns": [
+            "menkaura.net.csuchico.edu"
+        ], 
+        "domain-name": "csuc.edu", 
+        "fuzzer": "bitsquatting", 
+        "geoip-country": "United States"
+    }, 
+    {
+        "dns-a": [
+            "209.175.73.2"
+        ], 
+        "dns-mx": [
+            "academic8.csu.edu", 
+            "barracuda.csu.edu", 
+            "barracuda2.csu.edu"
+        ], 
+        "dns-ns": [
+            "cougar1.csu.edu", 
+            "cougar2.csu.edu", 
+            "ns1.illinois.net", 
+            "ns2.illinois.net"
+        ], 
+        "domain-name": "csu.edu", 
+        "fuzzer": "omission", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "192.111.36.44"
+        ], 
+        "dns-mx": [
+            "cus-edu.mail.protection.outlook.com"
+        ], 
+        "dns-ns": [
+            "dns.cuis.edu", 
+            "ns1.cune.edu", 
+            "ns2.cune.edu"
+        ], 
+        "domain-name": "cus.edu", 
+        "fuzzer": "omission", 
+        "geoip-country": "United States"
+    }, 
+    {
+        "dns-a": [
+            "52.6.78.130"
+        ], 
+        "dns-mx": [
+            "alt1.aspmx.l.google.com", 
+            "alt2.aspmx.l.google.com", 
+            "aspmx2.googlemail.com", 
+            "aspmx3.googlemail.com", 
+            "aspxmx.l.google.com"
+        ], 
+        "dns-ns": [
+            "campusdns.subr.edu", 
+            "sudns.subr.edu"
+        ], 
+        "domain-name": "sus.edu", 
+        "fuzzer": "omission", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "143.110.1.200"
+        ], 
+        "dns-mx": [
+            "aspmx.l.google.com"
+        ], 
+        "dns-ns": [
+            "css1.css.edu", 
+            "ns2.mptelecom.net"
+        ], 
+        "domain-name": "css.edu", 
+        "fuzzer": "omission", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "50.63.83.158"
+        ], 
+        "dns-mx": [
+            "ALT1.ASPMX.L.GOOGLE.COM", 
+            "ALT2.ASPMX.L.GOOGLE.COM", 
+            "ASPMX.L.GOOGLE.COM", 
+            "ASPMX2.GOOGLEMAIL.COM", 
+            "ASPMX3.GOOGLEMAIL.COM"
+        ], 
+        "dns-ns": [
+            "ns41.domaincontrol.com", 
+            "ns42.domaincontrol.com"
+        ], 
+        "domain-name": "cshs.edu", 
+        "fuzzer": "replacement", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 0
+    }
+]

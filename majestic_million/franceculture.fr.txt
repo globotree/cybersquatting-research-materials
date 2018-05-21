@@ -1,0 +1,32 @@
+[
+    {
+        "dns-a": [
+            "104.155.54.123"
+        ], 
+        "dns-mx": [
+            "master.radio-france.fr"
+        ], 
+        "dns-ns": [
+            "ns2.observatoiredesmarques.fr", 
+            "observatoire.observatoiredesmarques.fr"
+        ], 
+        "domain-name": "franceculture.fr", 
+        "fuzzer": "original*", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 100
+    }, 
+    {
+        "dns-a": [
+            "81.92.80.55", 
+            "81.92.80.56"
+        ], 
+        "dns-mx": [
+            "mx3.nameshield.com", 
+            "mx4.nameshield.net"
+        ], 
+        "domain-name": "france-culture.fr", 
+        "fuzzer": "hyphenation", 
+        "geoip-country": "France", 
+        "ssdeep-score": 100
+    }
+]

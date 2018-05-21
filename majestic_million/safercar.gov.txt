@@ -1,0 +1,30 @@
+[
+    {
+        "dns-a": [
+            "204.68.194.196"
+        ], 
+        "dns-ns": [
+            "edns1.dot.gov", 
+            "edns2.dot.gov", 
+            "edns3.dot.gov"
+        ], 
+        "domain-name": "safercar.gov", 
+        "fuzzer": "original*", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 100
+    }, 
+    {
+        "dns-a": [
+            "204.68.194.196"
+        ], 
+        "dns-ns": [
+            "edns1.dot.gov", 
+            "edns2.dot.gov", 
+            "edns3.dot.gov"
+        ], 
+        "domain-name": "safecar.gov", 
+        "fuzzer": "omission", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 100
+    }
+]

@@ -1,0 +1,175 @@
+[
+    {
+        "dns-a": [
+            "117.23.61.124", 
+            "180.97.158.203"
+        ], 
+        "dns-ns": [
+            "f1g1ns1.dnspod.net", 
+            "f1g1ns2.dnspod.net"
+        ], 
+        "domain-name": "longhoo.net", 
+        "fuzzer": "original*", 
+        "geoip-country": "China", 
+        "ssdeep-score": 100
+    }, 
+    {
+        "dns-ns": [
+            "ns1.myhostadmin.net", 
+            "ns2.myhostadmin.net", 
+            "ns3.myhostadmin.net", 
+            "ns4.myhostadmin.net", 
+            "ns5.myhostadmin.net", 
+            "ns6.myhostadmin.net"
+        ], 
+        "domain-name": "longhooo.net", 
+        "fuzzer": "addition"
+    }, 
+    {
+        "dns-a": [
+            "1.34.154.22"
+        ], 
+        "dns-mx": [
+            "mxdomain.qq.com"
+        ], 
+        "dns-ns": [
+            "dns1.hichina.com", 
+            "dns2.hichina.com"
+        ], 
+        "domain-name": "honghoo.net", 
+        "fuzzer": "bitsquatting", 
+        "geoip-country": "Taiwan", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "183.111.174.62"
+        ], 
+        "dns-mx": [
+            "mailapp.hiworks.co.kr"
+        ], 
+        "dns-ns": [
+            "ns1.cafe24.co.kr", 
+            "ns1.cafe24.com", 
+            "ns2.cafe24.co.kr", 
+            "ns2.cafe24.com"
+        ], 
+        "domain-name": "donghoo.net", 
+        "fuzzer": "bitsquatting", 
+        "geoip-country": "Korea", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "45.113.123.18"
+        ], 
+        "dns-ns": [
+            "f1g1ns1.dnspod.net", 
+            "f1g1ns2.dnspod.net"
+        ], 
+        "domain-name": "longjoo.net", 
+        "fuzzer": "bitsquatting", 
+        "geoip-country": "Hong Kong", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "104.31.84.182", 
+            "104.31.85.182"
+        ], 
+        "dns-aaaa": [
+            "2400:cb00:2048:1::681f:54b6", 
+            "2400:cb00:2048:1::681f:55b6"
+        ], 
+        "dns-ns": [
+            "jake.ns.cloudflare.com", 
+            "sandy.ns.cloudflare.com"
+        ], 
+        "domain-name": "longho.net", 
+        "fuzzer": "omission", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "218.61.46.150"
+        ], 
+        "dns-ns": [
+            "dns10.hichina.com", 
+            "dns9.hichina.com"
+        ], 
+        "domain-name": "longoo.net", 
+        "fuzzer": "omission", 
+        "geoip-country": "China"
+    }, 
+    {
+        "dns-a": [
+            "173.234.185.126"
+        ], 
+        "dns-ns": [
+            "f1g1ns1.dnspod.net", 
+            "f1g1ns2.dnspod.net"
+        ], 
+        "domain-name": "longzoo.net", 
+        "fuzzer": "replacement", 
+        "geoip-country": "United States"
+    }, 
+    {
+        "dns-a": [
+            "113.42.125.210"
+        ], 
+        "dns-mx": [
+            "longhop.net"
+        ], 
+        "dns-ns": [
+            "ns01.u003jp8382.info", 
+            "ns02.u003jp8382.info"
+        ], 
+        "domain-name": "longhop.net", 
+        "fuzzer": "replacement", 
+        "geoip-country": "Japan"
+    }, 
+    {
+        "dns-a": [
+            "127.0.0.1"
+        ], 
+        "domain-name": "longh.oo.net", 
+        "fuzzer": "subdomain"
+    }, 
+    {
+        "dns-a": [
+            "119.28.60.187"
+        ], 
+        "dns-ns": [
+            "f1g1ns1.dnspod.net", 
+            "f1g1ns2.dnspod.net"
+        ], 
+        "domain-name": "longhoe.net", 
+        "fuzzer": "vowel-swap", 
+        "geoip-country": "China", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "219.234.20.115"
+        ], 
+        "dns-ns": [
+            "ns1.world-server.net", 
+            "ns2.world-server.net", 
+            "ns3.world-server.net", 
+            "ns4.world-server.net", 
+            "ns5.world-server.net"
+        ], 
+        "domain-name": "longhao.net", 
+        "fuzzer": "vowel-swap"
+    }, 
+    {
+        "dns-a": [
+            "203.78.142.12"
+        ], 
+        "domain-name": "longhuo.net", 
+        "fuzzer": "vowel-swap", 
+        "geoip-country": "Hong Kong", 
+        "ssdeep-score": 0
+    }
+]

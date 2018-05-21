@@ -1,0 +1,89 @@
+[
+    {
+        "dns-a": [
+            "134.124.1.234"
+        ], 
+        "dns-mx": [
+            "um-kip5.um.umsystem.edu", 
+            "um-kip6.um.umsystem.edu", 
+            "um-nip3.um.umsystem.edu", 
+            "um-nip4.um.umsystem.edu", 
+            "um-tip1.um.umsystem.edu", 
+            "um-tip2.um.umsystem.edu"
+        ], 
+        "dns-ns": [
+            "epsilon3.umsl.edu", 
+            "ns2.umsl.edu", 
+            "sdns-ns1.mst.edu", 
+            "sdns-ns2.mst.edu"
+        ], 
+        "domain-name": "umsl.edu", 
+        "fuzzer": "original*", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 100
+    }, 
+    {
+        "dns-a": [
+            "50.63.45.1"
+        ], 
+        "dns-mx": [
+            "ALT1.ASPMX.L.GOOGLE.COM", 
+            "ALT2.ASPMX.L.GOOGLE.COM", 
+            "ASPMX.L.GOOGLE.COM", 
+            "ASPMX2.GOOGLEMAIL.COM", 
+            "ASPMX3.GOOGLEMAIL.COM"
+        ], 
+        "dns-ns": [
+            "ns5.secureserver.net", 
+            "ns6.secureserver.net"
+        ], 
+        "domain-name": "msl.edu", 
+        "fuzzer": "omission", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-ns": [
+            "noc.ums.edu", 
+            "ns.ums.edu", 
+            "trantor.umd.edu", 
+            "umcpnoc.ums.edu"
+        ], 
+        "domain-name": "ums.edu", 
+        "fuzzer": "omission"
+    }, 
+    {
+        "dns-a": [
+            "129.63.176.200"
+        ], 
+        "dns-mx": [
+            "emailgwa.uml.edu", 
+            "emailgwb.uml.edu", 
+            "emailsr1.uml.edu", 
+            "emailsr2.uml.edu"
+        ], 
+        "dns-ns": [
+            "dnsext01.uml.edu", 
+            "dnsext02.uml.edu"
+        ], 
+        "domain-name": "uml.edu", 
+        "fuzzer": "omission", 
+        "geoip-country": "United States", 
+        "mx-spy": true
+    }, 
+    {
+        "dns-a": [
+            "104.196.208.78"
+        ], 
+        "dns-mx": [
+            "mail.usml.edu"
+        ], 
+        "dns-ns": [
+            "mns01.domaincontrol.com", 
+            "mns02.domaincontrol.com"
+        ], 
+        "domain-name": "usml.edu", 
+        "fuzzer": "transposition", 
+        "geoip-country": "United States"
+    }
+]

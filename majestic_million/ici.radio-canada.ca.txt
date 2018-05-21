@@ -1,0 +1,84 @@
+[
+    {
+        "dns-a": [
+            "23.64.229.132"
+        ], 
+        "dns-aaaa": [
+            "2a02:26f0:9c00:19f::2b5b", 
+            "2a02:26f0:9c00:1bb::2b5b"
+        ], 
+        "domain-name": "ici.radio-canada.ca", 
+        "fuzzer": "original*", 
+        "geoip-country": "Netherlands", 
+        "ssdeep-score": 96
+    }, 
+    {
+        "dns-a": [
+            "72.52.179.174"
+        ], 
+        "dns-mx": [
+            "mx156.hostedmxserver.com"
+        ], 
+        "dns-ns": [
+            "ns1.parklogic.com", 
+            "ns2.parklogic.com", 
+            "ns3.parklogic.com", 
+            "ns4.parklogic.com", 
+            "ns5.parklogic.com"
+        ], 
+        "domain-name": "ici.radio-canda.ca", 
+        "fuzzer": "omission", 
+        "geoip-country": "United States", 
+        "mx-spy": true, 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "162.248.180.54"
+        ], 
+        "dns-mx": [
+            "gwtor-out3.cbc.ca", 
+            "mtliron.cbc.ca", 
+            "toriron.cbc.ca"
+        ], 
+        "dns-ns": [
+            "ns1.p21.dynect.net", 
+            "ns2.p21.dynect.net", 
+            "ns3.p21.dynect.net", 
+            "ns4.p21.dynect.net"
+        ], 
+        "domain-name": "iciradio-canada.ca", 
+        "fuzzer": "omission", 
+        "geoip-country": "Canada", 
+        "ssdeep-score": 93
+    }, 
+    {
+        "dns-a": [
+            "23.64.229.132"
+        ], 
+        "dns-aaaa": [
+            "2a02:26f0:9c00:19f::2b5b", 
+            "2a02:26f0:9c00:1bb::2b5b"
+        ], 
+        "domain-name": "ici.radiocanada.ca", 
+        "fuzzer": "omission", 
+        "geoip-country": "Netherlands"
+    }, 
+    {
+        "dns-a": [
+            "185.53.178.6"
+        ], 
+        "dns-mx": [
+            "mail.h-email.net"
+        ], 
+        "dns-ns": [
+            "ns1.parkingcrew.net", 
+            "ns2.parkingcrew.net"
+        ], 
+        "domain-name": "ici.radi.o-canada.ca", 
+        "fuzzer": "subdomain", 
+        "geoip-country": "Germany", 
+        "mx-spy": true, 
+        "ssdeep-score": 0
+    }
+]

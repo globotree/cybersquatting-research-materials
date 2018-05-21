@@ -1,0 +1,147 @@
+[
+    {
+        "dns-a": [
+            "173.248.157.162"
+        ], 
+        "dns-mx": [
+            "alt1.aspmx.l.google.com", 
+            "alt2.aspmx.l.google.com", 
+            "aspmx.l.google.com", 
+            "aspmx2.googlemail.com", 
+            "aspmx3.googlemail.com", 
+            "aspmx4.googlemail.com", 
+            "aspmx5.googlemail.com"
+        ], 
+        "dns-ns": [
+            "ns1.hongkiat.com", 
+            "ns2.hongkiat.com"
+        ], 
+        "domain-name": "hongkiat.com", 
+        "fuzzer": "original*", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 100
+    }, 
+    {
+        "dns-a": [
+            "203.88.169.148"
+        ], 
+        "dns-ns": [
+            "dns7.hichina.com", 
+            "dns8.hichina.com"
+        ], 
+        "domain-name": "hongkia.com", 
+        "fuzzer": "omission", 
+        "geoip-country": "Hong Kong"
+    }, 
+    {
+        "dns-a": [
+            "209.99.40.223"
+        ], 
+        "dns-ns": [
+            "dns10.parkpage.foundationapi.com", 
+            "dns9.parkpage.foundationapi.com"
+        ], 
+        "domain-name": "hongiat.com", 
+        "fuzzer": "omission", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "67.55.92.184", 
+            "67.55.92.187"
+        ], 
+        "dns-mx": [
+            "mx7.honkiat.com"
+        ], 
+        "dns-ns": [
+            "ns1.liverealdeals.com", 
+            "ns2.liverealdeals.com"
+        ], 
+        "domain-name": "honkiat.com", 
+        "fuzzer": "omission", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "194.9.94.85", 
+            "194.9.94.86"
+        ], 
+        "dns-ns": [
+            "ns1.loopia.se", 
+            "ns2.loopia.se"
+        ], 
+        "domain-name": "hongkist.com", 
+        "fuzzer": "replacement", 
+        "geoip-country": "Sweden", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "116.0.120.83"
+        ], 
+        "dns-mx": [
+            "yongkiat.com"
+        ], 
+        "dns-ns": [
+            "dns1.serverfreak.biz", 
+            "dns2.serverfreak.biz"
+        ], 
+        "domain-name": "yongkiat.com", 
+        "fuzzer": "replacement", 
+        "geoip-country": "Malaysia", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "125.141.231.79"
+        ], 
+        "dns-mx": [
+            "mail.kiat.com"
+        ], 
+        "domain-name": "hong.kiat.com", 
+        "fuzzer": "subdomain"
+    }, 
+    {
+        "dns-a": [
+            "95.211.219.66"
+        ], 
+        "dns-ns": [
+            "ns1.hastydns.com", 
+            "ns2.hastydns.com"
+        ], 
+        "domain-name": "hongkait.com", 
+        "fuzzer": "transposition", 
+        "geoip-country": "Netherlands"
+    }, 
+    {
+        "dns-a": [
+            "141.8.224.93"
+        ], 
+        "dns-ns": [
+            "ns7.rookdns.com", 
+            "ns8.rookdns.com"
+        ], 
+        "domain-name": "hongkiot.com", 
+        "fuzzer": "vowel-swap", 
+        "geoip-country": "Switzerland", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "50.63.202.47"
+        ], 
+        "dns-mx": [
+            "mailstore1.secureserver.net", 
+            "smtp.secureserver.net"
+        ], 
+        "dns-ns": [
+            "ns69.domaincontrol.com", 
+            "ns70.domaincontrol.com"
+        ], 
+        "domain-name": "hengkiat.com", 
+        "fuzzer": "vowel-swap", 
+        "geoip-country": "United States"
+    }
+]

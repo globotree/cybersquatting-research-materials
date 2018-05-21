@@ -1,0 +1,35 @@
+[
+    {
+        "dns-a": [
+            "23.43.138.194"
+        ], 
+        "dns-aaaa": [
+            "2a02:26f0:18:484::1fc4", 
+            "2a02:26f0:18:48d::1fc4"
+        ], 
+        "dns-mx": [
+            "mx.public.govdelivery.com", 
+            "mx2.public.govdelivery.com"
+        ], 
+        "dns-ns": [
+            "a1-86.akam.net", 
+            "a10-67.akam.net", 
+            "a13-64.akam.net", 
+            "a24-65.akam.net", 
+            "a3-66.akam.net", 
+            "a8-67.akam.net"
+        ], 
+        "domain-name": "healthcare.gov", 
+        "fuzzer": "original*", 
+        "geoip-country": "Netherlands", 
+        "ssdeep-score": 100
+    }, 
+    {
+        "dns-ns": [
+            "ns1.hastydns.com", 
+            "ns2.hastydns.com"
+        ], 
+        "domain-name": "healthcare-gov.com", 
+        "fuzzer": "various"
+    }
+]

@@ -1,0 +1,114 @@
+[
+    {
+        "dns-a": [
+            "192.251.58.38"
+        ], 
+        "dns-mx": [
+            "mx01.state.ms.us", 
+            "mx02.state.ms.us", 
+            "mx03.state.ms.us", 
+            "mx04.state.ms.us", 
+            "mx05.state.ms.us"
+        ], 
+        "dns-ns": [
+            "ns1.its.state.ms.us", 
+            "ns1.msstate.edu", 
+            "sun1.its.state.ms.us"
+        ], 
+        "domain-name": "ms.gov", 
+        "fuzzer": "original*", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 99
+    }, 
+    {
+        "dns-a": [
+            "166.123.218.116"
+        ], 
+        "dns-aaaa": [
+            "2610:108:4000:2002::85"
+        ], 
+        "dns-ns": [
+            "ns1.treasury.gov", 
+            "ns3.treasury.gov"
+        ], 
+        "domain-name": "msb.gov", 
+        "fuzzer": "addition", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-mx": [
+            "alt1.aspmx.l.google.com", 
+            "alt2.aspmx.l.google.com", 
+            "aspmx.l.google.com", 
+            "aspmx2.googlemail.com", 
+            "aspmx3.googlemail.com"
+        ], 
+        "dns-ns": [
+            "a.1001.adoniscs.afiliasdns.info", 
+            "b.1001.adoniscs.afiliasdns.org", 
+            "c.1001.adoniscs.afiliasdns.net", 
+            "d.1001.adoniscs.afiliasdns.com", 
+            "e.1001.adoniscs.afiliasdns.info", 
+            "f.1001.adoniscs.afiliasdns.net"
+        ], 
+        "domain-name": "mms.gov", 
+        "fuzzer": "repetition"
+    }, 
+    {
+        "dns-a": [
+            "198.182.162.1"
+        ], 
+        "dns-ns": [
+            "dns.state.me.us", 
+            "dns4.maine.gov"
+        ], 
+        "domain-name": "me.gov", 
+        "fuzzer": "replacement", 
+        "geoip-country": "United States"
+    }, 
+    {
+        "dns-a": [
+            "146.243.121.22", 
+            "170.63.206.57"
+        ], 
+        "dns-ns": [
+            "internet-dns1.state.ma.us", 
+            "internet-dns2.state.ma.us", 
+            "internet-dns3.state.ma.us"
+        ], 
+        "domain-name": "ma.gov", 
+        "fuzzer": "replacement", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "206.16.194.214", 
+            "63.241.205.240"
+        ], 
+        "dns-ns": [
+            "nsA.mdarchives.state.md.us", 
+            "nsB.mdarchives.state.md.us", 
+            "nsC.mdsa.net", 
+            "nsD.mdsa.net"
+        ], 
+        "domain-name": "md.gov", 
+        "fuzzer": "replacement", 
+        "geoip-country": "United States"
+    }, 
+    {
+        "dns-a": [
+            "165.201.63.67"
+        ], 
+        "dns-mx": [
+            "ks-gov.mail.protection.outlook.com"
+        ], 
+        "dns-ns": [
+            "ks01.state.ks.us", 
+            "ks11.state.ks.us"
+        ], 
+        "domain-name": "ks.gov", 
+        "fuzzer": "replacement"
+    }
+]

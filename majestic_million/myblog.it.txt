@@ -1,0 +1,142 @@
+[
+    {
+        "dns-a": [
+            "213.209.17.224"
+        ], 
+        "dns-mx": [
+            "myblog-it.mail.protection.outlook.com"
+        ], 
+        "dns-ns": [
+            "dns1.virgilio.net", 
+            "dns2.virgilio.net", 
+            "dns4.virgilio.net", 
+            "dns5.virgilio.net"
+        ], 
+        "domain-name": "myblog.it", 
+        "fuzzer": "original*", 
+        "geoip-country": "Italy", 
+        "ssdeep-score": 100
+    }, 
+    {
+        "dns-a": [
+            "185.53.178.6"
+        ], 
+        "dns-mx": [
+            "mail.h-email.net"
+        ], 
+        "dns-ns": [
+            "ns1.parkingcrew.net", 
+            "ns2.parkingcrew.net"
+        ], 
+        "domain-name": "myblogs.it", 
+        "fuzzer": "addition", 
+        "geoip-country": "Germany", 
+        "mx-spy": true, 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "94.23.64.16"
+        ], 
+        "dns-mx": [
+            "redirect.ovh.net"
+        ], 
+        "dns-ns": [
+            "dns17.ovh.net", 
+            "ns17.ovh.net"
+        ], 
+        "domain-name": "mybloo.it", 
+        "fuzzer": "bitsquatting", 
+        "geoip-country": "Italy", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "185.2.4.27"
+        ], 
+        "dns-mx": [
+            "mail.register.it"
+        ], 
+        "dns-ns": [
+            "ns1.register.it", 
+            "ns2.register.it"
+        ], 
+        "domain-name": "mylog.it", 
+        "fuzzer": "omission", 
+        "geoip-country": "Italy", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "185.81.1.60"
+        ], 
+        "dns-mx": [
+            "mail.mblog.it"
+        ], 
+        "dns-ns": [
+            "ns1.dns4userver.com", 
+            "ns2.dns4userver.com", 
+            "ns3.dns4userver.com"
+        ], 
+        "domain-name": "mblog.it", 
+        "fuzzer": "omission", 
+        "geoip-country": "Italy"
+    }, 
+    {
+        "dns-a": [
+            "91.121.229.83"
+        ], 
+        "dns-ns": [
+            "pns1.cloudns.net", 
+            "pns2.cloudns.net"
+        ], 
+        "domain-name": "mybog.it", 
+        "fuzzer": "omission", 
+        "geoip-country": "United Kingdom", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "209.124.66.18"
+        ], 
+        "dns-mx": [
+            "yblog.it"
+        ], 
+        "dns-ns": [
+            "ns1.a2hosting.com", 
+            "ns2.a2hosting.com", 
+            "ns3.a2hosting.com", 
+            "ns4.a2hosting.com"
+        ], 
+        "domain-name": "yblog.it", 
+        "fuzzer": "omission"
+    }, 
+    {
+        "dns-a": [
+            "138.68.157.216"
+        ], 
+        "dns-mx": [
+            "mx1.ovh.net", 
+            "mx2.ovh.net"
+        ], 
+        "dns-ns": [
+            "dns11.ovh.net", 
+            "ns11.ovh.net"
+        ], 
+        "domain-name": "mtblog.it", 
+        "fuzzer": "replacement"
+    }, 
+    {
+        "dns-a": [
+            "91.121.229.83"
+        ], 
+        "dns-ns": [
+            "pns1.cloudns.net", 
+            "pns2.cloudns.net"
+        ], 
+        "domain-name": "mybolg.it", 
+        "fuzzer": "transposition", 
+        "geoip-country": "United Kingdom", 
+        "ssdeep-score": 0
+    }
+]

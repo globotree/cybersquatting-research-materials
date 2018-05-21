@@ -1,0 +1,47 @@
+[
+    {
+        "dns-a": [
+            "83.169.89.103"
+        ], 
+        "dns-mx": [
+            "festivalcannes-fr02b.mail.protection.outlook.com"
+        ], 
+        "dns-ns": [
+            "a.dns.gandi.net", 
+            "b.dns.gandi.net", 
+            "c.dns.gandi.net"
+        ], 
+        "domain-name": "festival-cannes.fr", 
+        "fuzzer": "original*", 
+        "geoip-country": "France"
+    }, 
+    {
+        "dns-a": [
+            "212.227.247.87"
+        ], 
+        "dns-aaaa": [
+            "2001:8d8:1001:120a:219:1817:a99f:a000"
+        ], 
+        "dns-mx": [
+            "mx00.1and1.fr", 
+            "mx01.1and1.fr"
+        ], 
+        "dns-ns": [
+            "ns1126.ui-dns.biz", 
+            "ns1126.ui-dns.com", 
+            "ns1126.ui-dns.de", 
+            "ns1126.ui-dns.org"
+        ], 
+        "domain-name": "festival-vannes.fr", 
+        "fuzzer": "replacement", 
+        "geoip-country": "Germany"
+    }, 
+    {
+        "dns-a": [
+            "212.129.58.243"
+        ], 
+        "domain-name": "festival-can.nes.fr", 
+        "fuzzer": "subdomain", 
+        "geoip-country": "France"
+    }
+]

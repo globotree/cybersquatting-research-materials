@@ -1,0 +1,443 @@
+[
+    {
+        "dns-a": [
+            "195.69.192.140"
+        ], 
+        "dns-mx": [
+            "mail1.oebb.at", 
+            "mail2.oebb.at"
+        ], 
+        "dns-ns": [
+            "dns1.oebb.at", 
+            "dns2.oebb.at"
+        ], 
+        "domain-name": "oebb.at", 
+        "fuzzer": "original*", 
+        "geoip-country": "Austria", 
+        "ssdeep-score": 100
+    }, 
+    {
+        "dns-a": [
+            "185.53.177.20"
+        ], 
+        "dns-mx": [
+            "mail.oebbb.at"
+        ], 
+        "dns-ns": [
+            "dns1.realtime.at", 
+            "dns2.realtime.at"
+        ], 
+        "domain-name": "oebbb.at", 
+        "fuzzer": "addition", 
+        "geoip-country": "Germany", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "213.239.211.47"
+        ], 
+        "dns-mx": [
+            "mail.oebbg.at"
+        ], 
+        "dns-ns": [
+            "ns17.hoststar.at", 
+            "ns18.hoststar.at"
+        ], 
+        "domain-name": "oebbg.at", 
+        "fuzzer": "addition", 
+        "geoip-country": "Germany", 
+        "mx-spy": true, 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-mx": [
+            "mx1.bon.at"
+        ], 
+        "dns-ns": [
+            "dns1.telekom.at", 
+            "dns2.telekom.at", 
+            "dns3.telekom.at"
+        ], 
+        "domain-name": "oebbl.at", 
+        "fuzzer": "addition"
+    }, 
+    {
+        "dns-a": [
+            "195.177.199.12"
+        ], 
+        "dns-mx": [
+            "scanlab01.mymailwall.at", 
+            "scanlab02.mymailwall.at"
+        ], 
+        "dns-ns": [
+            "dns1.telekom.at", 
+            "dns2.telekom.at", 
+            "dns3.telekom.at"
+        ], 
+        "domain-name": "oefb.at", 
+        "fuzzer": "bitsquatting", 
+        "geoip-country": "Austria", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-ns": [
+            "dns1.telekom.at", 
+            "dns2.telekom.at", 
+            "dns3.telekom.at"
+        ], 
+        "domain-name": "oebf.at", 
+        "fuzzer": "bitsquatting"
+    }, 
+    {
+        "dns-a": [
+            "93.189.27.250"
+        ], 
+        "dns-mx": [
+            "mx1.stebio.at", 
+            "mx2.stebio.at"
+        ], 
+        "dns-ns": [
+            "ns1.fssg.at", 
+            "ns2.fssg.at"
+        ], 
+        "domain-name": "oebr.at", 
+        "fuzzer": "bitsquatting", 
+        "geoip-country": "Austria", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "185.53.178.7"
+        ], 
+        "dns-mx": [
+            "mail.h-email.net"
+        ], 
+        "dns-ns": [
+            "ns1.parkingcrew.net", 
+            "ns2.parkingcrew.net"
+        ], 
+        "domain-name": "xn--ebb-rna.at", 
+        "fuzzer": "homoglyph", 
+        "geoip-country": "Germany", 
+        "mx-spy": true, 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "72.52.179.175"
+        ], 
+        "dns-mx": [
+            "mx156.hostedmxserver.com"
+        ], 
+        "dns-ns": [
+            "ns1.parklogic.com", 
+            "ns2.parklogic.com", 
+            "ns3.parklogic.com", 
+            "ns4.parklogic.com", 
+            "ns5.parklogic.com"
+        ], 
+        "domain-name": "0ebb.at", 
+        "fuzzer": "homoglyph", 
+        "geoip-country": "United States", 
+        "mx-spy": true, 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-mx": [
+            "mail.oebd.at"
+        ], 
+        "dns-ns": [
+            "ns1.world4you.at", 
+            "ns2.world4you.at"
+        ], 
+        "domain-name": "oebd.at", 
+        "fuzzer": "homoglyph"
+    }, 
+    {
+        "dns-a": [
+            "86.59.6.123"
+        ], 
+        "dns-mx": [
+            "amx-01.service.at"
+        ], 
+        "dns-ns": [
+            "ns1.service.at", 
+            "ns2.service.at"
+        ], 
+        "domain-name": "oeb.at", 
+        "fuzzer": "omission", 
+        "geoip-country": "Austria", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "212.162.13.230"
+        ], 
+        "dns-mx": [
+            "obb.at"
+        ], 
+        "dns-ns": [
+            "ns1.nsentry.net", 
+            "ns2.nsentry.net"
+        ], 
+        "domain-name": "obb.at", 
+        "fuzzer": "omission", 
+        "geoip-country": "Germany", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "87.230.15.126"
+        ], 
+        "dns-mx": [
+            "mail.ebb.at"
+        ], 
+        "dns-ns": [
+            "ns1.ns-serve.net", 
+            "ns2.ns-serve.net"
+        ], 
+        "domain-name": "ebb.at", 
+        "fuzzer": "omission", 
+        "geoip-country": "Germany", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "185.53.177.29"
+        ], 
+        "dns-ns": [
+            "ns1.singleplan.com", 
+            "ns2.singleplan.com"
+        ], 
+        "domain-name": "oeebb.at", 
+        "fuzzer": "repetition", 
+        "geoip-country": "Germany", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "185.53.177.29"
+        ], 
+        "dns-ns": [
+            "ns1.gegidns.com", 
+            "ns2.gegidns.com"
+        ], 
+        "domain-name": "owbb.at", 
+        "fuzzer": "replacement", 
+        "geoip-country": "Germany", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "5.11.3.61"
+        ], 
+        "dns-mx": [
+            "mx01.3-s.at", 
+            "mx02.3-s.at"
+        ], 
+        "dns-ns": [
+            "ns1.apa.at", 
+            "ns2.apa.at"
+        ], 
+        "domain-name": "oegb.at", 
+        "fuzzer": "replacement", 
+        "geoip-country": "Austria", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "212.39.192.43"
+        ], 
+        "dns-mx": [
+            "serv01.oenb.co.at", 
+            "serv02.oenb.co.at"
+        ], 
+        "dns-ns": [
+            "serv01.oenb.co.at", 
+            "serv02.oenb.co.at"
+        ], 
+        "domain-name": "oenb.at", 
+        "fuzzer": "replacement", 
+        "geoip-country": "Austria"
+    }, 
+    {
+        "dns-a": [
+            "109.239.58.131"
+        ], 
+        "domain-name": "oebn.at", 
+        "fuzzer": "replacement", 
+        "geoip-country": "Germany", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "87.98.150.101"
+        ], 
+        "dns-ns": [
+            "ns.inwx.de", 
+            "ns2.inwx.de", 
+            "ns3.inwx.eu", 
+            "ns4.inwx.com", 
+            "ns5.inwx.net"
+        ], 
+        "domain-name": "pebb.at", 
+        "fuzzer": "replacement", 
+        "geoip-country": "France", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-ns": [
+            "dns4.telekom.at", 
+            "dns5.telekom.at", 
+            "ns1.verkehrsbuero.at"
+        ], 
+        "domain-name": "oevb.at", 
+        "fuzzer": "replacement"
+    }, 
+    {
+        "dns-a": [
+            "87.98.150.101"
+        ], 
+        "dns-ns": [
+            "ns.inwx.de", 
+            "ns2.inwx.de", 
+            "ns3.inwx.eu", 
+            "ns4.inwx.com", 
+            "ns5.inwx.net"
+        ], 
+        "domain-name": "iebb.at", 
+        "fuzzer": "replacement", 
+        "geoip-country": "France", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "81.19.145.155"
+        ], 
+        "dns-mx": [
+            "mail.oebg.at"
+        ], 
+        "dns-ns": [
+            "ns1.world4you.at", 
+            "ns2.world4you.at"
+        ], 
+        "domain-name": "oebg.at", 
+        "fuzzer": "replacement", 
+        "geoip-country": "Austria", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "83.218.161.136"
+        ], 
+        "dns-mx": [
+            "mail.oehb.at"
+        ], 
+        "dns-ns": [
+            "ns1.upc.biz", 
+            "ns2.upc.biz"
+        ], 
+        "domain-name": "oehb.at", 
+        "fuzzer": "replacement", 
+        "geoip-country": "Austria"
+    }, 
+    {
+        "dns-a": [
+            "185.53.178.29"
+        ], 
+        "dns-ns": [
+            "ns1.domforce.com", 
+            "ns2.domforce.com", 
+            "ns3.domforce.com", 
+            "ns4.domforce.com", 
+            "ns5.domforce.com"
+        ], 
+        "domain-name": "orbb.at", 
+        "fuzzer": "replacement", 
+        "geoip-country": "Germany", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "176.9.104.229"
+        ], 
+        "dns-mx": [
+            "mx.mymailwall.com"
+        ], 
+        "dns-ns": [
+            "ns.nextlayer.at", 
+            "ns2.nextlayer.at"
+        ], 
+        "domain-name": "oebv.at", 
+        "fuzzer": "replacement", 
+        "geoip-country": "Germany", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-ns": [
+            "ns1.bmlv.gv.at", 
+            "ns11.govix.at", 
+            "ns2.bmlv.gv.at", 
+            "ns5.univie.ac.at"
+        ], 
+        "domain-name": "oebh.at", 
+        "fuzzer": "replacement"
+    }, 
+    {
+        "dns-a": [
+            "87.230.15.126"
+        ], 
+        "domain-name": "o.ebb.at", 
+        "fuzzer": "subdomain", 
+        "geoip-country": "Germany", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "72.52.4.122"
+        ], 
+        "dns-mx": [
+            "localhost"
+        ], 
+        "dns-ns": [
+            "ns1.sedoparking.com", 
+            "ns2.sedoparking.com"
+        ], 
+        "domain-name": "oe.bb.at", 
+        "fuzzer": "subdomain", 
+        "geoip-country": "United States", 
+        "mx-spy": true, 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "54.72.9.51"
+        ], 
+        "dns-mx": [
+            "mail.h-email.net"
+        ], 
+        "dns-ns": [
+            "ns1.parkingcrew.net", 
+            "ns2.parkingcrew.net"
+        ], 
+        "domain-name": "eobb.at", 
+        "fuzzer": "transposition"
+    }, 
+    {
+        "dns-a": [
+            "72.52.179.175"
+        ], 
+        "dns-mx": [
+            "mx156.hostedmxserver.com"
+        ], 
+        "dns-ns": [
+            "ns1.parklogic.com", 
+            "ns2.parklogic.com", 
+            "ns3.parklogic.com", 
+            "ns4.parklogic.com", 
+            "ns5.parklogic.com"
+        ], 
+        "domain-name": "oobb.at", 
+        "fuzzer": "vowel-swap"
+    }
+]

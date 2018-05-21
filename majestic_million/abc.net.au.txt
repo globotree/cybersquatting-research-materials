@@ -1,0 +1,669 @@
+[
+    {
+        "dns-a": [
+            "203.2.218.214"
+        ], 
+        "dns-mx": [
+            "au-smtp-inbound-1.mimecast.com", 
+            "au-smtp-inbound-2.mimecast.com"
+        ], 
+        "dns-ns": [
+            "ns.abc.net.au", 
+            "ns1.telstra.net"
+        ], 
+        "domain-name": "abc.net.au", 
+        "fuzzer": "original*", 
+        "geoip-country": "Australia", 
+        "ssdeep-score": 100
+    }, 
+    {
+        "dns-a": [
+            "112.140.180.152"
+        ], 
+        "dns-ns": [
+            "ns1.nameserver.net.au", 
+            "ns2.nameserver.net.au", 
+            "ns3.nameserver.net.au"
+        ], 
+        "domain-name": "abca.net.au", 
+        "fuzzer": "addition", 
+        "geoip-country": "Australia", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "198.185.159.144", 
+            "198.185.159.145", 
+            "198.49.23.144", 
+            "198.49.23.145"
+        ], 
+        "dns-mx": [
+            "alt1.aspmx.l.google.com", 
+            "alt2.aspmx.l.google.com", 
+            "aspmx.l.google.com", 
+            "aspmx2.googlemail.com", 
+            "aspmx3.googlemail.com"
+        ], 
+        "dns-ns": [
+            "ns31.domaincontrol.com", 
+            "ns32.domaincontrol.com"
+        ], 
+        "domain-name": "abcc.net.au", 
+        "fuzzer": "addition", 
+        "geoip-country": "United States"
+    }, 
+    {
+        "dns-ns": [
+            "ns1.netregistry.net", 
+            "ns2.netregistry.net", 
+            "ns3.netregistry.net"
+        ], 
+        "domain-name": "abcd.net.au", 
+        "fuzzer": "addition"
+    }, 
+    {
+        "dns-a": [
+            "79.170.40.167"
+        ], 
+        "dns-mx": [
+            "fallbackmx.spamexperts.eu", 
+            "lastmx.spamexperts.net", 
+            "mx.spamexperts.com"
+        ], 
+        "dns-ns": [
+            "ns1.qnetau.com", 
+            "ns2.qnetau.com", 
+            "ns3.qnetau.com"
+        ], 
+        "domain-name": "abco.net.au", 
+        "fuzzer": "addition", 
+        "geoip-country": "United Kingdom", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-mx": [
+            "mx1.tpgi.com.au", 
+            "mx2.tpgi.com.au"
+        ], 
+        "dns-ns": [
+            "ns1.tpgi.com.au", 
+            "ns2.tpgi.com.au"
+        ], 
+        "domain-name": "abcs.net.au", 
+        "fuzzer": "addition"
+    }, 
+    {
+        "dns-a": [
+            "203.170.80.250"
+        ], 
+        "dns-ns": [
+            "ns1.crazydomains.com", 
+            "ns2.crazydomains.com"
+        ], 
+        "domain-name": "abct.net.au", 
+        "fuzzer": "addition", 
+        "geoip-country": "Australia", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "65.61.208.7"
+        ], 
+        "dns-mx": [
+            "dpmail31pro.doteasy.com", 
+            "dpmailbu.doteasy.com"
+        ], 
+        "dns-ns": [
+            "dns1.doteasy.com", 
+            "dns2.doteasy.com"
+        ], 
+        "domain-name": "ebc.net.au", 
+        "fuzzer": "bitsquatting", 
+        "geoip-country": "Canada", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "104.24.102.22", 
+            "104.24.103.22"
+        ], 
+        "dns-aaaa": [
+            "2400:cb00:2048:1::6818:6616", 
+            "2400:cb00:2048:1::6818:6716"
+        ], 
+        "dns-mx": [
+            "fmxsy3a.hostediq.com.au", 
+            "fmxsy3b.hostediq.com.au"
+        ], 
+        "dns-ns": [
+            "alla.ns.cloudflare.com", 
+            "duke.ns.cloudflare.com"
+        ], 
+        "domain-name": "ibc.net.au", 
+        "fuzzer": "bitsquatting", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "203.4.254.9"
+        ], 
+        "dns-mx": [
+            "qbc.net.au"
+        ], 
+        "dns-ns": [
+            "ns1.lizzyhosting.com.au", 
+            "ns2.lizzyhosting.com.au"
+        ], 
+        "domain-name": "qbc.net.au", 
+        "fuzzer": "bitsquatting", 
+        "geoip-country": "Australia", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "174.129.25.170"
+        ], 
+        "dns-mx": [
+            "alt1.aspmx.l.google.com", 
+            "alt2.aspmx.l.google.com", 
+            "aspmx.l.google.com", 
+            "aspmx2.googlemail.com", 
+            "aspmx3.googlemail.com", 
+            "aspmx4.googlemail.com", 
+            "aspmx5.googlemail.com"
+        ], 
+        "dns-ns": [
+            "brigh.twoplums.com.au", 
+            "mutley.twoplums.com.au"
+        ], 
+        "domain-name": "acc.net.au", 
+        "fuzzer": "bitsquatting", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "185.53.179.7"
+        ], 
+        "dns-mx": [
+            "mail.h-email.net"
+        ], 
+        "dns-ns": [
+            "ns1.parkingcrew.net", 
+            "ns2.parkingcrew.net"
+        ], 
+        "domain-name": "afc.net.au", 
+        "fuzzer": "bitsquatting", 
+        "geoip-country": "Germany", 
+        "mx-spy": true, 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "116.66.228.190"
+        ], 
+        "dns-ns": [
+            "dns1.cscdns.net", 
+            "dns2.cscdns.net"
+        ], 
+        "domain-name": "ajc.net.au", 
+        "fuzzer": "bitsquatting", 
+        "geoip-country": "Australia"
+    }, 
+    {
+        "dns-a": [
+            "203.63.38.2"
+        ], 
+        "dns-mx": [
+            "mail.arc.net.au"
+        ], 
+        "dns-ns": [
+            "alpha.arc.net.au", 
+            "bob.arc.net.au"
+        ], 
+        "domain-name": "arc.net.au", 
+        "fuzzer": "bitsquatting", 
+        "geoip-country": "Australia", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "138.225.2.74"
+        ], 
+        "dns-ns": [
+            "nse1.abb.com", 
+            "nse2.abb.com", 
+            "nse3.abb.com"
+        ], 
+        "domain-name": "abb.net.au", 
+        "fuzzer": "bitsquatting", 
+        "geoip-country": "Switzerland"
+    }, 
+    {
+        "dns-a": [
+            "93.191.169.89"
+        ], 
+        "dns-mx": [
+            "iad.inline.email.fireeyecloud.com", 
+            "smf.inline.email.fireeyecloud.com"
+        ], 
+        "dns-ns": [
+            "ns-1015.awsdns-62.net", 
+            "ns-139.awsdns-17.com", 
+            "ns-1513.awsdns-61.org", 
+            "ns-1572.awsdns-04.co.uk"
+        ], 
+        "domain-name": "aba.net.au", 
+        "fuzzer": "bitsquatting", 
+        "geoip-country": "Europe"
+    }, 
+    {
+        "dns-a": [
+            "50.63.202.23"
+        ], 
+        "dns-mx": [
+            "abg-net-au.mail.protection.outlook.com"
+        ], 
+        "dns-ns": [
+            "ns23.domaincontrol.com", 
+            "ns24.domaincontrol.com"
+        ], 
+        "domain-name": "abg.net.au", 
+        "fuzzer": "bitsquatting", 
+        "geoip-country": "United States"
+    }, 
+    {
+        "dns-a": [
+            "223.130.25.70"
+        ], 
+        "dns-mx": [
+            "abk.net.au"
+        ], 
+        "dns-ns": [
+            "ns1.hosting-services.net.au", 
+            "ns2.hosting-services.net.au", 
+            "ns3.hosting-services.net.au"
+        ], 
+        "domain-name": "abk.net.au", 
+        "fuzzer": "bitsquatting", 
+        "geoip-country": "Australia", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "185.53.179.7"
+        ], 
+        "dns-mx": [
+            "mail.h-email.net"
+        ], 
+        "dns-ns": [
+            "ns1.parkingcrew.net", 
+            "ns2.parkingcrew.net"
+        ], 
+        "domain-name": "abs.net.au", 
+        "fuzzer": "bitsquatting", 
+        "geoip-country": "Germany", 
+        "mx-spy": true, 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "61.8.8.247"
+        ], 
+        "dns-ns": [
+            "kim.ns.cloudflare.com", 
+            "plato.ns.cloudflare.com"
+        ], 
+        "domain-name": "aibc.net.au", 
+        "fuzzer": "homoglyph", 
+        "geoip-country": "Australia", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "184.168.47.225"
+        ], 
+        "dns-mx": [
+            "alt1.aspmx.l.google.com", 
+            "alt2.aspmx.l.google.com", 
+            "alt3.aspmx.l.google.com", 
+            "alt4.aspmx.l.google.com", 
+            "aspmx.l.google.com"
+        ], 
+        "dns-ns": [
+            "rs1.net.au", 
+            "rs2.net.au", 
+            "rs3.net.au"
+        ], 
+        "domain-name": "adc.net.au", 
+        "fuzzer": "homoglyph", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "101.0.100.121"
+        ], 
+        "dns-mx": [
+            "mail.yourdns.com.au"
+        ], 
+        "dns-ns": [
+            "ns1.yourdns.com.au", 
+            "ns2.yourdns.com.au"
+        ], 
+        "domain-name": "abnc.net.au", 
+        "fuzzer": "insertion", 
+        "geoip-country": "Australia", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "23.236.62.147"
+        ], 
+        "dns-mx": [
+            "mail.anbc.net.au"
+        ], 
+        "dns-ns": [
+            "ns10.wixdns.net", 
+            "ns11.wixdns.net"
+        ], 
+        "domain-name": "anbc.net.au", 
+        "fuzzer": "insertion", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "23.236.62.147"
+        ], 
+        "dns-mx": [
+            "mx1.nameserver.net.au", 
+            "mx2.nameserver.net.au", 
+            "mx3.nameserver.net.au"
+        ], 
+        "dns-ns": [
+            "ns1.nameserver.net.au", 
+            "ns2.nameserver.net.au", 
+            "ns3.nameserver.net.au"
+        ], 
+        "domain-name": "ahbc.net.au", 
+        "fuzzer": "insertion", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "173.248.128.102"
+        ], 
+        "dns-mx": [
+            "mail.ac.net.au"
+        ], 
+        "dns-ns": [
+            "ns1.netregistry.net", 
+            "ns2.netregistry.net", 
+            "ns3.netregistry.net"
+        ], 
+        "domain-name": "ac.net.au", 
+        "fuzzer": "omission", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "103.29.85.50"
+        ], 
+        "dns-mx": [
+            "ab.net.au"
+        ], 
+        "dns-ns": [
+            "ns1.milcstudio.com.au", 
+            "ns2.milcstudio.com.au"
+        ], 
+        "domain-name": "ab.net.au", 
+        "fuzzer": "omission", 
+        "geoip-country": "Australia", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-mx": [
+            "bc-net-au.mail.protection.outlook.com"
+        ], 
+        "dns-ns": [
+            "ns1.partnerconsole.net", 
+            "ns2.partnerconsole.net", 
+            "ns3.partnerconsole.net"
+        ], 
+        "domain-name": "bc.net.au", 
+        "fuzzer": "omission"
+    }, 
+    {
+        "dns-a": [
+            "162.144.15.8"
+        ], 
+        "dns-mx": [
+            "mail.aabc.net.au"
+        ], 
+        "dns-ns": [
+            "ns4023.hostgator.com", 
+            "ns4024.hostgator.com"
+        ], 
+        "domain-name": "aabc.net.au", 
+        "fuzzer": "repetition", 
+        "geoip-country": "United States"
+    }, 
+    {
+        "dns-a": [
+            "103.9.168.231"
+        ], 
+        "dns-mx": [
+            "abbc-net-au.mail.protection.outlook.com"
+        ], 
+        "dns-ns": [
+            "ns1.hosting-services.net.au", 
+            "ns2.hosting-services.net.au", 
+            "ns3.hosting-services.net.au"
+        ], 
+        "domain-name": "abbc.net.au", 
+        "fuzzer": "repetition", 
+        "geoip-country": "Australia", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "112.140.180.152"
+        ], 
+        "dns-mx": [
+            "ahctech.dyndns.biz"
+        ], 
+        "dns-ns": [
+            "ns1.nameserver.net.au", 
+            "ns2.nameserver.net.au", 
+            "ns3.nameserver.net.au"
+        ], 
+        "domain-name": "ahc.net.au", 
+        "fuzzer": "replacement", 
+        "geoip-country": "Australia", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "223.130.27.185"
+        ], 
+        "dns-mx": [
+            "abf.net.au"
+        ], 
+        "dns-ns": [
+            "ns1.hosting-services.net.au", 
+            "ns2.hosting-services.net.au", 
+            "ns3.hosting-services.net.au"
+        ], 
+        "domain-name": "abf.net.au", 
+        "fuzzer": "replacement", 
+        "geoip-country": "Australia", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "199.59.242.150"
+        ], 
+        "dns-mx": [
+            "mx76.m2bp.com", 
+            "mx76.mb1p.com"
+        ], 
+        "dns-ns": [
+            "ns1.bodis.com", 
+            "ns2.bodis.com"
+        ], 
+        "domain-name": "anc.net.au", 
+        "fuzzer": "replacement", 
+        "geoip-country": "United States", 
+        "mx-spy": true, 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "27.121.114.99"
+        ], 
+        "dns-mx": [
+            "cleaner.agc.net.au"
+        ], 
+        "dns-ns": [
+            "ns1.evps.com.au", 
+            "ns2.evps.com.au"
+        ], 
+        "domain-name": "agc.net.au", 
+        "fuzzer": "replacement"
+    }, 
+    {
+        "dns-a": [
+            "103.42.110.34"
+        ], 
+        "dns-mx": [
+            "mail.sbc.net.au"
+        ], 
+        "dns-ns": [
+            "ns1.syd1.hostingplatform.net.au", 
+            "ns2.syd1.hostingplatform.net.au"
+        ], 
+        "domain-name": "sbc.net.au", 
+        "fuzzer": "replacement", 
+        "geoip-country": "Australia", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "103.8.29.103"
+        ], 
+        "dns-mx": [
+            "mulgara.westnet.com.au"
+        ], 
+        "dns-ns": [
+            "ns1.visioneeringit.com", 
+            "ns2.visioneeringit.com"
+        ], 
+        "domain-name": "wbc.net.au", 
+        "fuzzer": "replacement", 
+        "geoip-country": "Australia", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "27.121.66.195"
+        ], 
+        "dns-mx": [
+            "abv-net-au.mail.eo.outlook.com"
+        ], 
+        "dns-ns": [
+            "ns1.bdm.microsoftonline.com", 
+            "ns2.bdm.microsoftonline.com", 
+            "ns3.bdm.microsoftonline.com", 
+            "ns4.bdm.microsoftonline.com"
+        ], 
+        "domain-name": "abv.net.au", 
+        "fuzzer": "replacement", 
+        "geoip-country": "Australia"
+    }, 
+    {
+        "dns-a": [
+            "27.121.64.76"
+        ], 
+        "dns-mx": [
+            "abd.net.au"
+        ], 
+        "dns-ns": [
+            "ns-1.ezyreg.com", 
+            "ns-2.ezyreg.com"
+        ], 
+        "domain-name": "abd.net.au", 
+        "fuzzer": "replacement"
+    }, 
+    {
+        "dns-a": [
+            "27.54.86.236"
+        ], 
+        "dns-aaaa": [
+            "2404:8280:a222:bbbb:bba1:27:ffff:ffff"
+        ], 
+        "dns-mx": [
+            "mail.ybc.net.au"
+        ], 
+        "dns-ns": [
+            "ns1.syrahost.com", 
+            "ns2.syrahost.com"
+        ], 
+        "domain-name": "ybc.net.au", 
+        "fuzzer": "replacement", 
+        "geoip-country": "Australia"
+    }, 
+    {
+        "dns-a": [
+            "0.0.0.0"
+        ], 
+        "dns-mx": [
+            "mx1.pm.telstra.com", 
+            "mx2.pm.telstra.com"
+        ], 
+        "dns-ns": [
+            "br-dns10.tmns.net.au", 
+            "br-dns11.tmns.net.au", 
+            "sj-dns01.tmns.net.au"
+        ], 
+        "domain-name": "avc.net.au", 
+        "fuzzer": "replacement"
+    }, 
+    {
+        "dns-a": [
+            "122.99.115.64"
+        ], 
+        "dns-mx": [
+            "bac-net-au.mail.protection.outlook.com"
+        ], 
+        "dns-ns": [
+            "ns1.nge.com.au", 
+            "ns2.nge.com.au", 
+            "ns3.nge.com.au"
+        ], 
+        "domain-name": "bac.net.au", 
+        "fuzzer": "transposition"
+    }, 
+    {
+        "dns-ns": [
+            "ns41.rookdns.com", 
+            "ns42.rookdns.com"
+        ], 
+        "domain-name": "obc.net.au", 
+        "fuzzer": "vowel-swap"
+    }, 
+    {
+        "dns-a": [
+            "182.160.154.179"
+        ], 
+        "dns-ns": [
+            "ns100.ubcserver.com", 
+            "ns99.ubcserver.com"
+        ], 
+        "domain-name": "ubc.net.au", 
+        "fuzzer": "vowel-swap"
+    }
+]

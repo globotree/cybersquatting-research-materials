@@ -1,0 +1,741 @@
+[
+    {
+        "dns-ns": [
+            "a-dns.pl", 
+            "b-dns.pl", 
+            "d-dns.pl", 
+            "e-dns.pl", 
+            "f-dns.pl", 
+            "g-dns.pl", 
+            "h-dns.pl", 
+            "i-dns.pl"
+        ], 
+        "domain-name": "biz.pl", 
+        "fuzzer": "original*"
+    }, 
+    {
+        "dns-a": [
+            "86.111.240.162"
+        ], 
+        "dns-mx": [
+            "mail.iq.pl", 
+            "mx1.iq.pl"
+        ], 
+        "dns-ns": [
+            "ns1.iq.pl", 
+            "ns2.iq.pl"
+        ], 
+        "domain-name": "biza.pl", 
+        "fuzzer": "addition", 
+        "geoip-country": "Poland"
+    }, 
+    {
+        "dns-a": [
+            "195.114.1.126"
+        ], 
+        "dns-mx": [
+            "mail.superhost.pl"
+        ], 
+        "dns-ns": [
+            "ns1.superhost.pl", 
+            "ns2.superhost.pl"
+        ], 
+        "domain-name": "bizb.pl", 
+        "fuzzer": "addition", 
+        "geoip-country": "Poland"
+    }, 
+    {
+        "dns-a": [
+            "188.116.38.101"
+        ], 
+        "dns-mx": [
+            "bize.pl"
+        ], 
+        "dns-ns": [
+            "ns1.netmark.pl", 
+            "ns2.netmark.pl"
+        ], 
+        "domain-name": "bize.pl", 
+        "fuzzer": "addition", 
+        "geoip-country": "Poland"
+    }, 
+    {
+        "dns-a": [
+            "46.242.239.124"
+        ], 
+        "dns-mx": [
+            "bizg.pl"
+        ], 
+        "dns-ns": [
+            "dns.home.pl", 
+            "dns2.home.pl", 
+            "dns3.home.pl"
+        ], 
+        "domain-name": "bizg.pl", 
+        "fuzzer": "addition", 
+        "geoip-country": "Poland"
+    }, 
+    {
+        "dns-a": [
+            "212.91.6.83"
+        ], 
+        "dns-mx": [
+            "mx2.47.pl"
+        ], 
+        "dns-ns": [
+            "ns1.47.pl", 
+            "ns2.47.pl"
+        ], 
+        "domain-name": "bizi.pl", 
+        "fuzzer": "addition", 
+        "geoip-country": "Poland"
+    }, 
+    {
+        "dns-a": [
+            "94.152.145.226"
+        ], 
+        "dns-mx": [
+            "bizn.pl"
+        ], 
+        "dns-ns": [
+            "ns1.tld.pl", 
+            "ns2.tld.pl"
+        ], 
+        "domain-name": "bizn.pl", 
+        "fuzzer": "addition", 
+        "geoip-country": "Poland"
+    }, 
+    {
+        "dns-mx": [
+            "mx.bizo.pl"
+        ], 
+        "dns-ns": [
+            "emma.ns.cloudflare.com", 
+            "walt.ns.cloudflare.com"
+        ], 
+        "domain-name": "bizo.pl", 
+        "fuzzer": "addition", 
+        "mx-spy": true
+    }, 
+    {
+        "dns-a": [
+            "176.31.124.7"
+        ], 
+        "dns-ns": [
+            "dns1.prv.pl", 
+            "dns2.prv.pl"
+        ], 
+        "domain-name": "bizu.pl", 
+        "fuzzer": "addition", 
+        "geoip-country": "France"
+    }, 
+    {
+        "dns-a": [
+            "193.239.44.116"
+        ], 
+        "dns-mx": [
+            "mx01.agnat.pl"
+        ], 
+        "dns-ns": [
+            "ns1.domena.pl", 
+            "ns2.domena.pl", 
+            "ns3.domena.pl"
+        ], 
+        "domain-name": "bizy.pl", 
+        "fuzzer": "addition", 
+        "geoip-country": "Poland"
+    }, 
+    {
+        "dns-a": [
+            "194.181.2.201"
+        ], 
+        "dns-ns": [
+            "ns1.burdanet.pl", 
+            "ns2.burdanet.pl", 
+            "ns3.burdanet.pl"
+        ], 
+        "domain-name": "bizz.pl", 
+        "fuzzer": "addition", 
+        "geoip-country": "Poland"
+    }, 
+    {
+        "dns-a": [
+            "72.52.4.122"
+        ], 
+        "dns-mx": [
+            "localhost"
+        ], 
+        "dns-ns": [
+            "ns1.sedoparking.com", 
+            "ns2.sedoparking.com"
+        ], 
+        "domain-name": "ciz.pl", 
+        "fuzzer": "bitsquatting", 
+        "geoip-country": "United States", 
+        "mx-spy": true
+    }, 
+    {
+        "dns-a": [
+            "89.161.236.161"
+        ], 
+        "dns-mx": [
+            "fiz.pl"
+        ], 
+        "dns-ns": [
+            "dns.home.pl", 
+            "dns2.home.pl", 
+            "dns3.home.pl"
+        ], 
+        "domain-name": "fiz.pl", 
+        "fuzzer": "bitsquatting", 
+        "geoip-country": "Poland"
+    }, 
+    {
+        "dns-a": [
+            "212.91.7.33"
+        ], 
+        "dns-mx": [
+            "mail.mxhoppr.com"
+        ], 
+        "dns-ns": [
+            "ns1.aftermarket.pl", 
+            "ns2.aftermarket.pl"
+        ], 
+        "domain-name": "jiz.pl", 
+        "fuzzer": "bitsquatting", 
+        "geoip-country": "Poland", 
+        "mx-spy": true
+    }, 
+    {
+        "dns-mx": [
+            "mail-gw.neologic.pl"
+        ], 
+        "dns-ns": [
+            "ns1.riz.pl", 
+            "ns2.riz.pl"
+        ], 
+        "domain-name": "riz.pl", 
+        "fuzzer": "bitsquatting"
+    }, 
+    {
+        "dns-a": [
+            "46.242.145.91"
+        ], 
+        "dns-mx": [
+            "bhz.pl"
+        ], 
+        "dns-ns": [
+            "ns10.az.pl", 
+            "ns11.az.pl", 
+            "ns12.az.pl"
+        ], 
+        "domain-name": "bhz.pl", 
+        "fuzzer": "bitsquatting", 
+        "geoip-country": "Poland"
+    }, 
+    {
+        "dns-a": [
+            "185.53.178.7"
+        ], 
+        "dns-mx": [
+            "mail.h-email.net"
+        ], 
+        "dns-ns": [
+            "ns1.parkingcrew.net", 
+            "ns2.parkingcrew.net"
+        ], 
+        "domain-name": "bkz.pl", 
+        "fuzzer": "bitsquatting", 
+        "geoip-country": "Germany", 
+        "mx-spy": true
+    }, 
+    {
+        "dns-a": [
+            "72.52.4.122"
+        ], 
+        "dns-mx": [
+            "localhost"
+        ], 
+        "dns-ns": [
+            "ns1.sedoparking.com", 
+            "ns2.sedoparking.com"
+        ], 
+        "domain-name": "bmz.pl", 
+        "fuzzer": "bitsquatting", 
+        "geoip-country": "United States", 
+        "mx-spy": true
+    }, 
+    {
+        "dns-mx": [
+            "baz.pl"
+        ], 
+        "dns-ns": [
+            "ns10.az.pl", 
+            "ns11.az.pl", 
+            "ns12.az.pl"
+        ], 
+        "domain-name": "baz.pl", 
+        "fuzzer": "bitsquatting"
+    }, 
+    {
+        "dns-a": [
+            "104.28.30.62", 
+            "104.28.31.62"
+        ], 
+        "dns-aaaa": [
+            "2400:cb00:2048:1::681c:1e3e", 
+            "2400:cb00:2048:1::681c:1f3e"
+        ], 
+        "dns-ns": [
+            "jean.ns.cloudflare.com", 
+            "theo.ns.cloudflare.com"
+        ], 
+        "domain-name": "byz.pl", 
+        "fuzzer": "bitsquatting", 
+        "geoip-country": "United States"
+    }, 
+    {
+        "dns-a": [
+            "83.175.144.62"
+        ], 
+        "dns-ns": [
+            "ns1.koba.pl", 
+            "ns2.koba.pl"
+        ], 
+        "domain-name": "bix.pl", 
+        "fuzzer": "bitsquatting", 
+        "geoip-country": "Poland"
+    }, 
+    {
+        "dns-a": [
+            "88.198.240.8"
+        ], 
+        "dns-mx": [
+            "mail.bir.pl"
+        ], 
+        "dns-ns": [
+            "ns1.pro-linuxpl.com", 
+            "ns2.pro-linuxpl.com"
+        ], 
+        "domain-name": "bir.pl", 
+        "fuzzer": "bitsquatting", 
+        "geoip-country": "Germany"
+    }, 
+    {
+        "dns-a": [
+            "67.207.75.234"
+        ], 
+        "dns-ns": [
+            "ns1.aftermarket.pl", 
+            "ns2.aftermarket.pl"
+        ], 
+        "domain-name": "bij.pl", 
+        "fuzzer": "bitsquatting", 
+        "geoip-country": "United States"
+    }, 
+    {
+        "dns-a": [
+            "94.23.92.156"
+        ], 
+        "dns-mx": [
+            "brillantpartner.home.pl"
+        ], 
+        "dns-ns": [
+            "dns.home.pl", 
+            "dns2.home.pl", 
+            "dns3.home.pl"
+        ], 
+        "domain-name": "ibiz.pl", 
+        "fuzzer": "homoglyph", 
+        "geoip-country": "Poland"
+    }, 
+    {
+        "dns-a": [
+            "188.128.255.251"
+        ], 
+        "dns-ns": [
+            "ns1.premium.pl", 
+            "ns2.premium.pl"
+        ], 
+        "domain-name": "blz.pl", 
+        "fuzzer": "homoglyph", 
+        "geoip-country": "Poland"
+    }, 
+    {
+        "dns-a": [
+            "62.129.201.41"
+        ], 
+        "dns-mx": [
+            "diz.pl"
+        ], 
+        "dns-ns": [
+            "dns.home.pl", 
+            "dns2.home.pl", 
+            "dns3.home.pl"
+        ], 
+        "domain-name": "diz.pl", 
+        "fuzzer": "homoglyph", 
+        "geoip-country": "Poland"
+    }, 
+    {
+        "dns-a": [
+            "109.95.156.1"
+        ], 
+        "dns-mx": [
+            "mx-1.dpoczta.pl", 
+            "mx-2.dpoczta.pl"
+        ], 
+        "dns-ns": [
+            "ns1.dhosting.pl", 
+            "ns2.dhosting.pl"
+        ], 
+        "domain-name": "bioz.pl", 
+        "fuzzer": "insertion", 
+        "geoip-country": "Poland"
+    }, 
+    {
+        "dns-a": [
+            "195.149.227.55"
+        ], 
+        "dns-mx": [
+            "iz.pl"
+        ], 
+        "dns-ns": [
+            "ns1.tld.pl", 
+            "ns2.tld.pl"
+        ], 
+        "domain-name": "iz.pl", 
+        "fuzzer": "omission", 
+        "geoip-country": "Poland"
+    }, 
+    {
+        "dns-a": [
+            "213.180.141.188"
+        ], 
+        "dns-mx": [
+            "bi-pl.mail.protection.outlook.com"
+        ], 
+        "dns-ns": [
+            "dns1.onet.pl", 
+            "dns2.onet.pl", 
+            "dns3.onet.pl"
+        ], 
+        "domain-name": "bi.pl", 
+        "fuzzer": "omission", 
+        "geoip-country": "Poland"
+    }, 
+    {
+        "dns-a": [
+            "195.187.142.3"
+        ], 
+        "dns-mx": [
+            "mta.bz.pl"
+        ], 
+        "dns-ns": [
+            "ns1.centrum24.pl", 
+            "ns2.centrum24.pl"
+        ], 
+        "domain-name": "bz.pl", 
+        "fuzzer": "omission", 
+        "geoip-country": "Poland"
+    }, 
+    {
+        "dns-a": [
+            "144.76.55.230"
+        ], 
+        "dns-mx": [
+            "mail.bbiz.pl"
+        ], 
+        "dns-ns": [
+            "dns1.linux.pl", 
+            "dns2.linux.pl"
+        ], 
+        "domain-name": "bbiz.pl", 
+        "fuzzer": "repetition", 
+        "geoip-country": "Germany"
+    }, 
+    {
+        "dns-a": [
+            "212.91.7.33"
+        ], 
+        "dns-ns": [
+            "ns1.aftermarket.pl", 
+            "ns2.aftermarket.pl"
+        ], 
+        "domain-name": "viz.pl", 
+        "fuzzer": "replacement", 
+        "geoip-country": "Poland"
+    }, 
+    {
+        "dns-a": [
+            "31.186.82.38"
+        ], 
+        "dns-mx": [
+            "mail5.mydevil.net"
+        ], 
+        "dns-ns": [
+            "dns1.mydevil.net", 
+            "dns2.mydevil.net"
+        ], 
+        "domain-name": "bi7.pl", 
+        "fuzzer": "replacement", 
+        "geoip-country": "Poland"
+    }, 
+    {
+        "dns-a": [
+            "77.55.45.96"
+        ], 
+        "dns-mx": [
+            "bi2.pl"
+        ], 
+        "dns-ns": [
+            "ns1.nazwa.pl", 
+            "ns2.nazwa.pl", 
+            "ns3.nazwa.pl"
+        ], 
+        "domain-name": "bi2.pl", 
+        "fuzzer": "replacement", 
+        "geoip-country": "Poland"
+    }, 
+    {
+        "dns-a": [
+            "212.91.7.33"
+        ], 
+        "dns-mx": [
+            "ALT1.ASPMX.L.GOOGLE.COM", 
+            "ALT2.ASPMX.L.GOOGLE.COM", 
+            "ASPMX.L.GOOGLE.COM", 
+            "ASPMX2.GOOGLEMAIL.COM", 
+            "ASPMX3.GOOGLEMAIL.COM"
+        ], 
+        "dns-ns": [
+            "ns1.aftermarket.pl", 
+            "ns2.aftermarket.pl"
+        ], 
+        "domain-name": "bi3.pl", 
+        "fuzzer": "replacement", 
+        "geoip-country": "Poland"
+    }, 
+    {
+        "dns-a": [
+            "185.53.178.6"
+        ], 
+        "dns-mx": [
+            "mail.h-email.net"
+        ], 
+        "dns-ns": [
+            "ns1.parkingcrew.net", 
+            "ns2.parkingcrew.net"
+        ], 
+        "domain-name": "bjz.pl", 
+        "fuzzer": "replacement", 
+        "geoip-country": "Germany", 
+        "mx-spy": true
+    }, 
+    {
+        "dns-a": [
+            "85.17.227.88"
+        ], 
+        "dns-mx": [
+            "mail.buz.pl"
+        ], 
+        "dns-ns": [
+            "dns12.linuxpl.com", 
+            "ns12.linuxpl.com"
+        ], 
+        "domain-name": "buz.pl", 
+        "fuzzer": "replacement", 
+        "geoip-country": "Netherlands"
+    }, 
+    {
+        "dns-a": [
+            "188.128.255.251"
+        ], 
+        "dns-ns": [
+            "ns1.premium.pl", 
+            "ns2.premium.pl"
+        ], 
+        "domain-name": "bih.pl", 
+        "fuzzer": "replacement", 
+        "geoip-country": "Poland"
+    }, 
+    {
+        "dns-a": [
+            "195.66.88.218"
+        ], 
+        "dns-mx": [
+            "mx1.bik.pl", 
+            "mx2.bik.pl"
+        ], 
+        "dns-ns": [
+            "dns.home.pl", 
+            "dns2.home.pl", 
+            "dns3.home.pl"
+        ], 
+        "domain-name": "big.pl", 
+        "fuzzer": "replacement", 
+        "geoip-country": "Poland"
+    }, 
+    {
+        "dns-a": [
+            "212.91.7.33"
+        ], 
+        "dns-ns": [
+            "ns1.aftermarket.pl", 
+            "ns2.aftermarket.pl"
+        ], 
+        "domain-name": "hiz.pl", 
+        "fuzzer": "replacement", 
+        "geoip-country": "Poland"
+    }, 
+    {
+        "dns-a": [
+            "91.234.217.86"
+        ], 
+        "dns-mx": [
+            "bia.pl"
+        ], 
+        "dns-ns": [
+            "dns.szu.pl", 
+            "ns2.szu.pl"
+        ], 
+        "domain-name": "bia.pl", 
+        "fuzzer": "replacement", 
+        "geoip-country": "Poland"
+    }, 
+    {
+        "dns-a": [
+            "188.128.255.251"
+        ], 
+        "dns-ns": [
+            "ns1.premium.pl", 
+            "ns2.premium.pl"
+        ], 
+        "domain-name": "niz.pl", 
+        "fuzzer": "replacement", 
+        "geoip-country": "Poland"
+    }, 
+    {
+        "dns-a": [
+            "46.242.240.253"
+        ], 
+        "dns-mx": [
+            "biu.pl"
+        ], 
+        "dns-ns": [
+            "dns.home.pl", 
+            "dns2.home.pl", 
+            "dns3.home.pl"
+        ], 
+        "domain-name": "biu.pl", 
+        "fuzzer": "replacement", 
+        "geoip-country": "Poland"
+    }, 
+    {
+        "dns-a": [
+            "72.52.4.122"
+        ], 
+        "dns-mx": [
+            "localhost"
+        ], 
+        "dns-ns": [
+            "ns1.sedoparking.com", 
+            "ns2.sedoparking.com"
+        ], 
+        "domain-name": "bis.pl", 
+        "fuzzer": "replacement", 
+        "geoip-country": "United States", 
+        "mx-spy": true
+    }, 
+    {
+        "dns-a": [
+            "212.91.7.33"
+        ], 
+        "dns-ns": [
+            "ns1.aftermarket.pl", 
+            "ns2.aftermarket.pl"
+        ], 
+        "domain-name": "biq.pl", 
+        "fuzzer": "replacement", 
+        "geoip-country": "Poland"
+    }, 
+    {
+        "dns-a": [
+            "77.55.41.225"
+        ], 
+        "dns-mx": [
+            "boz.pl"
+        ], 
+        "dns-ns": [
+            "ns1.nazwa.pl", 
+            "ns2.nazwa.pl", 
+            "ns3.nazwa.pl"
+        ], 
+        "domain-name": "boz.pl", 
+        "fuzzer": "replacement", 
+        "geoip-country": "Poland"
+    }, 
+    {
+        "dns-a": [
+            "195.149.227.55"
+        ], 
+        "dns-mx": [
+            "iz.pl"
+        ], 
+        "domain-name": "b.iz.pl", 
+        "fuzzer": "subdomain", 
+        "geoip-country": "Poland"
+    }, 
+    {
+        "dns-a": [
+            "81.219.55.202"
+        ], 
+        "domain-name": "bi.z.pl", 
+        "fuzzer": "subdomain", 
+        "geoip-country": "Poland"
+    }, 
+    {
+        "dns-a": [
+            "185.208.164.232"
+        ], 
+        "dns-mx": [
+            "mail.ibz.pl"
+        ], 
+        "dns-ns": [
+            "ns1.hekko.net.pl", 
+            "ns2.hekko.net.pl"
+        ], 
+        "domain-name": "ibz.pl", 
+        "fuzzer": "transposition"
+    }, 
+    {
+        "dns-a": [
+            "195.149.224.160"
+        ], 
+        "dns-mx": [
+            "bzi.pl"
+        ], 
+        "dns-ns": [
+            "ns1.tld.pl", 
+            "ns2.tld.pl"
+        ], 
+        "domain-name": "bzi.pl", 
+        "fuzzer": "transposition", 
+        "geoip-country": "Poland"
+    }, 
+    {
+        "dns-a": [
+            "72.52.4.122"
+        ], 
+        "dns-mx": [
+            "localhost"
+        ], 
+        "dns-ns": [
+            "ns1.sedoparking.com"
+        ], 
+        "domain-name": "bez.pl", 
+        "fuzzer": "vowel-swap", 
+        "geoip-country": "United States", 
+        "mx-spy": true
+    }
+]

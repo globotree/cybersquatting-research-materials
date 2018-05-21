@@ -1,0 +1,122 @@
+[
+    {
+        "dns-a": [
+            "147.162.235.155"
+        ], 
+        "dns-mx": [
+            "mx.unipd.it", 
+            "mx.unipd.it", 
+            "mx2-padova.cineca.it", 
+            "mxext.unipd.it", 
+            "mxext.unipd.it"
+        ], 
+        "dns-ns": [
+            "giotto.unipd.it", 
+            "ipdunivx.unipd.it", 
+            "mail.dei.unipd.it", 
+            "ns1.garr.net"
+        ], 
+        "domain-name": "unipd.it", 
+        "fuzzer": "original*", 
+        "geoip-country": "Italy", 
+        "ssdeep-score": 100
+    }, 
+    {
+        "dns-ns": [
+            "deimos.unich.it", 
+            "indice.unich.it", 
+            "ns1.garr.net"
+        ], 
+        "domain-name": "unipe.it", 
+        "fuzzer": "bitsquatting"
+    }, 
+    {
+        "dns-a": [
+            "185.53.178.6"
+        ], 
+        "dns-ns": [
+            "ns1.parkingcrew.net", 
+            "ns2.parkingcrew.net"
+        ], 
+        "domain-name": "unip.it", 
+        "fuzzer": "omission"
+    }, 
+    {
+        "dns-a": [
+            "79.54.106.55"
+        ], 
+        "dns-mx": [
+            "mx00.1and1.it", 
+            "mx01.1and1.it"
+        ], 
+        "dns-ns": [
+            "ns1057.ui-dns.biz", 
+            "ns1057.ui-dns.com", 
+            "ns1057.ui-dns.de", 
+            "ns1057.ui-dns.org"
+        ], 
+        "domain-name": "nipd.it", 
+        "fuzzer": "omission", 
+        "geoip-country": "Italy"
+    }, 
+    {
+        "dns-a": [
+            "89.46.106.39"
+        ], 
+        "dns-mx": [
+            "mx.unid.it"
+        ], 
+        "dns-ns": [
+            "dns.technorail.com", 
+            "dns2.technorail.com", 
+            "dns3.arubadns.net", 
+            "dns4.arubadns.cz"
+        ], 
+        "domain-name": "unid.it", 
+        "fuzzer": "omission", 
+        "geoip-country": "Italy"
+    }, 
+    {
+        "dns-mx": [
+            "unipr-it.mail.protection.outlook.com"
+        ], 
+        "dns-ns": [
+            "caio.cce.unipr.it", 
+            "server.fis.unipr.it"
+        ], 
+        "domain-name": "unipr.it", 
+        "fuzzer": "replacement"
+    }, 
+    {
+        "dns-a": [
+            "54.72.9.51"
+        ], 
+        "dns-ns": [
+            "ns1.parkingcrew.net", 
+            "ns2.parkingcrew.net"
+        ], 
+        "domain-name": "un.ipd.it", 
+        "fuzzer": "subdomain", 
+        "geoip-country": "Ireland", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "217.64.195.226"
+        ], 
+        "dns-aaaa": [
+            "2001:4b78:1001::401"
+        ], 
+        "dns-mx": [
+            "m-04b.th.seeweb.it", 
+            "smtp-avas-th.seeweb.it"
+        ], 
+        "dns-ns": [
+            "ns1.th.seeweb.it", 
+            "ns2.th.seeweb.it"
+        ], 
+        "domain-name": "uni.pd.it", 
+        "fuzzer": "subdomain", 
+        "geoip-country": "Italy"
+    }
+]

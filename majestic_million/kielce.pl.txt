@@ -1,0 +1,96 @@
+[
+    {
+        "dns-mx": [
+            "eden.tu.kielce.pl", 
+            "sabat.tu.kielce.pl"
+        ], 
+        "dns-ns": [
+            "bilbo.nask.org.pl", 
+            "dns.kielce.pl", 
+            "dns1.kielce.pl"
+        ], 
+        "domain-name": "kielce.pl", 
+        "fuzzer": "original*"
+    }, 
+    {
+        "dns-a": [
+            "213.133.97.199"
+        ], 
+        "dns-mx": [
+            "mail.kielcee.pl"
+        ], 
+        "dns-ns": [
+            "dns8.linuxpl.com", 
+            "ns8.linuxpl.com"
+        ], 
+        "domain-name": "kielcee.pl", 
+        "fuzzer": "addition", 
+        "geoip-country": "Germany"
+    }, 
+    {
+        "dns-a": [
+            "87.98.252.229"
+        ], 
+        "dns-mx": [
+            "kielc.pl"
+        ], 
+        "dns-ns": [
+            "ns1.of.pl", 
+            "ns2.of.pl", 
+            "ns3.of.pl", 
+            "ns4.of.pl"
+        ], 
+        "domain-name": "kielc.pl", 
+        "fuzzer": "omission", 
+        "geoip-country": "France"
+    }, 
+    {
+        "dns-a": [
+            "185.53.179.7"
+        ], 
+        "dns-mx": [
+            "mail.h-email.net"
+        ], 
+        "dns-ns": [
+            "ns1.parkingcrew.net", 
+            "ns2.parkingcrew.net"
+        ], 
+        "domain-name": "kiece.pl", 
+        "fuzzer": "omission", 
+        "geoip-country": "Germany", 
+        "mx-spy": true
+    }, 
+    {
+        "dns-a": [
+            "212.91.6.58", 
+            "212.91.7.33"
+        ], 
+        "domain-name": "kie.lce.pl", 
+        "fuzzer": "subdomain", 
+        "geoip-country": "Poland"
+    }, 
+    {
+        "dns-a": [
+            "195.46.43.240"
+        ], 
+        "domain-name": "kielc.e.pl", 
+        "fuzzer": "subdomain", 
+        "geoip-country": "Poland"
+    }, 
+    {
+        "dns-a": [
+            "188.68.252.117"
+        ], 
+        "dns-mx": [
+            "mail.kielec.pl"
+        ], 
+        "dns-ns": [
+            "ns1.acs.pl", 
+            "ns2.acs.pl", 
+            "ns3.acs.pl"
+        ], 
+        "domain-name": "kielec.pl", 
+        "fuzzer": "transposition", 
+        "geoip-country": "Poland"
+    }
+]

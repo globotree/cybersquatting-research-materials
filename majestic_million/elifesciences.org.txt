@@ -1,0 +1,123 @@
+[
+    {
+        "dns-a": [
+            "52.222.146.107", 
+            "52.222.146.12", 
+            "52.222.146.131", 
+            "52.222.146.156", 
+            "52.222.146.19", 
+            "52.222.146.214", 
+            "52.222.146.237", 
+            "52.222.146.41"
+        ], 
+        "dns-mx": [
+            "alt1.aspmx.l.google.com", 
+            "alt2.aspmx.l.google.com", 
+            "aspmx.l.google.com", 
+            "aspmx2.googlemail.com", 
+            "aspmx3.googlemail.com"
+        ], 
+        "dns-ns": [
+            "ns-1336.awsdns-39.org", 
+            "ns-183.awsdns-22.com", 
+            "ns-1936.awsdns-50.co.uk", 
+            "ns-595.awsdns-10.net"
+        ], 
+        "domain-name": "elifesciences.org", 
+        "fuzzer": "original*", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 100
+    }, 
+    {
+        "dns-a": [
+            "52.222.146.119", 
+            "52.222.146.142", 
+            "52.222.146.192", 
+            "52.222.146.224", 
+            "52.222.146.244", 
+            "52.222.146.63", 
+            "52.222.146.78", 
+            "52.222.146.94"
+        ], 
+        "dns-ns": [
+            "ns-1123.awsdns-12.org", 
+            "ns-1741.awsdns-25.co.uk", 
+            "ns-481.awsdns-60.com", 
+            "ns-810.awsdns-37.net"
+        ], 
+        "domain-name": "e-lifesciences.org", 
+        "fuzzer": "hyphenation", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 100
+    }, 
+    {
+        "dns-a": [
+            "98.124.245.24"
+        ], 
+        "dns-mx": [
+            "mail.b-io.co"
+        ], 
+        "dns-ns": [
+            "ns1.fabulous.com", 
+            "ns2.fabulous.com"
+        ], 
+        "domain-name": "lifesciences.org", 
+        "fuzzer": "omission", 
+        "geoip-country": "United States", 
+        "mx-spy": true, 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "98.124.245.24"
+        ], 
+        "dns-mx": [
+            "mail.b-io.co"
+        ], 
+        "dns-ns": [
+            "ns1.fabulous.com", 
+            "ns2.fabulous.com"
+        ], 
+        "domain-name": "e.lifesciences.org", 
+        "fuzzer": "subdomain", 
+        "geoip-country": "United States", 
+        "mx-spy": true, 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "209.150.87.108"
+        ], 
+        "domain-name": "elifescien.ces.org", 
+        "fuzzer": "subdomain", 
+        "geoip-country": "United States"
+    }, 
+    {
+        "dns-a": [
+            "72.52.4.119"
+        ], 
+        "dns-ns": [
+            "ns1.sedoparking.com", 
+            "ns2.sedoparking.com"
+        ], 
+        "domain-name": "elifescienc.es.org", 
+        "fuzzer": "subdomain"
+    }, 
+    {
+        "dns-a": [
+            "50.63.46.1"
+        ], 
+        "dns-ns": [
+            "A.SERVICE.AFILIASDNS.INFO", 
+            "B.SERVICE.AFILIASDNS.org", 
+            "C.SERVICE.AFILIASDNS.NET", 
+            "D.SERVICE.AFILIASDNS.COM", 
+            "E.SERVICE.AFILIASDNS.INFO", 
+            "F.SERVICE.AFILIASDNS.NET"
+        ], 
+        "domain-name": "elifescience.s.org", 
+        "fuzzer": "subdomain", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 0
+    }
+]

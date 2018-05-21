@@ -1,0 +1,326 @@
+[
+    {
+        "dns-a": [
+            "185.12.115.209"
+        ], 
+        "dns-aaaa": [
+            "2a02:f080:12:115::209"
+        ], 
+        "dns-ns": [
+            "ho1.eunic.net.ua", 
+            "ns.dn.ua", 
+            "ns.kh.ua", 
+            "ns.sm.ua", 
+            "ns.zp.ua"
+        ], 
+        "domain-name": "lg.ua", 
+        "fuzzer": "original*", 
+        "geoip-country": "Ukraine", 
+        "ssdeep-score": 100
+    }, 
+    {
+        "dns-a": [
+            "148.251.3.196"
+        ], 
+        "dns-mx": [
+            "mail.lge.ua"
+        ], 
+        "domain-name": "lge.ua", 
+        "fuzzer": "addition", 
+        "geoip-country": "Germany", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "212.113.37.47"
+        ], 
+        "dns-ns": [
+            "nsa1.srv53.net", 
+            "nsa2.srv53.org", 
+            "nsa4.srv53.com", 
+            "nsb1.srv53.org", 
+            "nsb3.srv53.net", 
+            "nsb4.srv53.com", 
+            "nsc3.srv53.com", 
+            "nsc3.srv53.org", 
+            "nsc4.srv53.net", 
+            "nsd1.srv53.org", 
+            "nsd3.srv53.net", 
+            "nsd4.srv53.com"
+        ], 
+        "domain-name": "mg.ua", 
+        "fuzzer": "bitsquatting", 
+        "geoip-country": "Ukraine"
+    }, 
+    {
+        "dns-a": [
+            "213.186.192.10"
+        ], 
+        "dns-mx": [
+            "mx1.dg.net.ua"
+        ], 
+        "dns-ns": [
+            "ns.vegatele.com", 
+            "ns2.vega.com.ua"
+        ], 
+        "domain-name": "dg.ua", 
+        "fuzzer": "bitsquatting", 
+        "geoip-country": "Ukraine"
+    }, 
+    {
+        "dns-a": [
+            "136.243.135.89"
+        ], 
+        "dns-mx": [
+            "mail.lf.ua"
+        ], 
+        "dns-ns": [
+            "dns.fastdns24.com", 
+            "dns2.fastdns24.org", 
+            "dns3.fastdns24.eu", 
+            "dns4.fastdns24.link"
+        ], 
+        "domain-name": "lf.ua", 
+        "fuzzer": "bitsquatting", 
+        "geoip-country": "Germany", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "217.160.130.41"
+        ], 
+        "dns-mx": [
+            "lc.ua"
+        ], 
+        "dns-ns": [
+            "nsa1.srv53.org", 
+            "nsa3.srv53.net", 
+            "nsa4.srv53.com", 
+            "nsb2.srv53.com", 
+            "nsb2.srv53.org", 
+            "nsb4.srv53.net", 
+            "nsc2.srv53.org", 
+            "nsc3.srv53.net", 
+            "nsc4.srv53.com", 
+            "nsd1.srv53.net", 
+            "nsd4.srv53.com", 
+            "nsd4.srv53.org"
+        ], 
+        "domain-name": "lc.ua", 
+        "fuzzer": "bitsquatting", 
+        "geoip-country": "Germany", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "195.149.114.22"
+        ], 
+        "dns-ns": [
+            "parked1.uadns.com", 
+            "parked2.uadns.com"
+        ], 
+        "domain-name": "lo.ua", 
+        "fuzzer": "bitsquatting", 
+        "geoip-country": "Ukraine", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "62.149.2.16"
+        ], 
+        "dns-mx": [
+            "mail.ig.ua"
+        ], 
+        "dns-ns": [
+            "nsa2.srv53.org", 
+            "nsa3.srv53.com", 
+            "nsa4.srv53.net", 
+            "nsb2.srv53.net", 
+            "nsb2.srv53.org", 
+            "nsb3.srv53.com", 
+            "nsc1.srv53.org", 
+            "nsc2.srv53.net", 
+            "nsc4.srv53.com", 
+            "nsd1.srv53.org", 
+            "nsd2.srv53.net", 
+            "nsd3.srv53.com"
+        ], 
+        "domain-name": "ig.ua", 
+        "fuzzer": "homoglyph", 
+        "geoip-country": "Ukraine", 
+        "mx-spy": true, 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "195.248.234.27"
+        ], 
+        "dns-mx": [
+            "mail.l.ua"
+        ], 
+        "dns-ns": [
+            "ns1.s27.org.ua", 
+            "ns2.s27.org.ua"
+        ], 
+        "domain-name": "l.ua", 
+        "fuzzer": "omission", 
+        "geoip-country": "Ukraine", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "212.224.112.222"
+        ], 
+        "dns-mx": [
+            "mail.g.ua"
+        ], 
+        "dns-ns": [
+            "ns1.fornex.com", 
+            "ns2.fornex.com", 
+            "ns3.fornex.com", 
+            "ns4.fornex.com"
+        ], 
+        "domain-name": "g.ua", 
+        "fuzzer": "omission", 
+        "geoip-country": "Germany"
+    }, 
+    {
+        "dns-a": [
+            "5.39.73.150"
+        ], 
+        "dns-mx": [
+            "mx.kg.ua"
+        ], 
+        "dns-ns": [
+            "dns1.vps-private.net", 
+            "dns2.vps-private.net"
+        ], 
+        "domain-name": "kg.ua", 
+        "fuzzer": "replacement", 
+        "geoip-country": "France", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "195.138.69.234"
+        ], 
+        "dns-mx": [
+            "backup.olenich.com.ua", 
+            "relay.olenich.com.ua"
+        ], 
+        "dns-ns": [
+            "ns.hosting5.tenet.ua", 
+            "ns4.tenet.ua", 
+            "ns5.tenet.ua"
+        ], 
+        "domain-name": "og.ua", 
+        "fuzzer": "replacement"
+    }, 
+    {
+        "dns-ns": [
+            "ho1.ns.lutsk.ua", 
+            "nix.ns.ua", 
+            "ns.cv.ua"
+        ], 
+        "domain-name": "lt.ua", 
+        "fuzzer": "replacement"
+    }, 
+    {
+        "dns-a": [
+            "137.177.84.21"
+        ], 
+        "dns-mx": [
+            "mail.imena.com.ua"
+        ], 
+        "dns-ns": [
+            "ns01.savvis.net", 
+            "ns02.savvis.net", 
+            "ns03.savvis.net", 
+            "ns04.savvis.net", 
+            "ns05.savvis.net"
+        ], 
+        "domain-name": "pg.ua", 
+        "fuzzer": "replacement", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "144.76.202.183", 
+            "144.76.232.124"
+        ], 
+        "dns-mx": [
+            "mail.lb.ua", 
+            "mail2.lb.ua"
+        ], 
+        "dns-ns": [
+            "nsa2.srv53.com", 
+            "nsa3.srv53.org", 
+            "nsa4.srv53.net", 
+            "nsb3.srv53.net", 
+            "nsb3.srv53.org", 
+            "nsb4.srv53.com", 
+            "nsc1.srv53.net", 
+            "nsc2.srv53.com", 
+            "nsc2.srv53.org", 
+            "nsd2.srv53.com", 
+            "nsd2.srv53.net", 
+            "nsd4.srv53.org"
+        ], 
+        "domain-name": "lb.ua", 
+        "fuzzer": "replacement", 
+        "geoip-country": "Germany", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "194.247.13.36"
+        ], 
+        "dns-mx": [
+            "mail.lty.com.ua"
+        ], 
+        "dns-ns": [
+            "ns15.inhostedns.com", 
+            "ns25.inhostedns.net", 
+            "ns35.inhostedns.org"
+        ], 
+        "domain-name": "ly.ua", 
+        "fuzzer": "replacement", 
+        "geoip-country": "Ukraine", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "212.224.112.222"
+        ], 
+        "domain-name": "l.g.ua", 
+        "fuzzer": "subdomain", 
+        "geoip-country": "Germany"
+    }, 
+    {
+        "dns-a": [
+            "136.243.14.158"
+        ], 
+        "dns-mx": [
+            "mail.imena.com.ua"
+        ], 
+        "dns-ns": [
+            "nsa2.srv53.net", 
+            "nsa2.srv53.org", 
+            "nsa3.srv53.com", 
+            "nsb1.srv53.org", 
+            "nsb2.srv53.com", 
+            "nsb2.srv53.net", 
+            "nsc3.srv53.com", 
+            "nsc3.srv53.org", 
+            "nsc4.srv53.net", 
+            "nsd1.srv53.net", 
+            "nsd2.srv53.org", 
+            "nsd4.srv53.com"
+        ], 
+        "domain-name": "lg-ua.com", 
+        "fuzzer": "various", 
+        "geoip-country": "Germany", 
+        "ssdeep-score": 0
+    }
+]

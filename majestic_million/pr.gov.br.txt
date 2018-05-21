@@ -1,0 +1,96 @@
+[
+    {
+        "dns-a": [
+            "200.189.112.33"
+        ], 
+        "dns-mx": [
+            "smtp01.pr.gov.br", 
+            "smtp02.pr.gov.br", 
+            "smtp03.pr.gov.br", 
+            "smtp04.pr.gov.br", 
+            "smtp05.pr.gov.br", 
+            "smtpfilter01.pr.gov.br", 
+            "smtpfilter02.pr.gov.br", 
+            "smtpfilter03.pr.gov.br", 
+            "smtpfilter04.pr.gov.br", 
+            "smtpfilter05.pr.gov.br", 
+            "ssmtp002.pr.gov.br", 
+            "ssmtp003.pr.gov.br", 
+            "ssmtp004.pr.gov.br", 
+            "ssmtp005.pr.gov.br", 
+            "ssmtp006.pr.gov.br"
+        ], 
+        "dns-ns": [
+            "ns1.pr.gov.br", 
+            "ns3.pr.gov.br", 
+            "nsp.pr.gov.br"
+        ], 
+        "domain-name": "pr.gov.br", 
+        "fuzzer": "original*", 
+        "geoip-country": "Brazil", 
+        "mx-spy": true, 
+        "ssdeep-score": 100
+    }, 
+    {
+        "dns-a": [
+            "138.122.112.5"
+        ], 
+        "dns-mx": [
+            "mx3.prf.gov.br"
+        ], 
+        "dns-ns": [
+            "ns3.prf.gov.br", 
+            "ns4.prf.gov.br"
+        ], 
+        "domain-name": "prf.gov.br", 
+        "fuzzer": "addition", 
+        "geoip-country": "Brazil", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-mx": [
+            "mail.rr.gov.br"
+        ], 
+        "dns-ns": [
+            "ns.oi.com.br", 
+            "rorainopolis.cti.rr.gov.br"
+        ], 
+        "domain-name": "rr.gov.br", 
+        "fuzzer": "bitsquatting"
+    }, 
+    {
+        "dns-ns": [
+            "ns.codata.com.br", 
+            "ns1.codata.com.br", 
+            "ns2.codata.pb.gov.br"
+        ], 
+        "domain-name": "pb.gov.br", 
+        "fuzzer": "bitsquatting"
+    }, 
+    {
+        "dns-a": [
+            "200.238.107.167"
+        ], 
+        "dns-mx": [
+            "as.pe.gov.br"
+        ], 
+        "dns-ns": [
+            "ns1.pe.gov.br", 
+            "ns2.pe.gov.br"
+        ], 
+        "domain-name": "pe.gov.br", 
+        "fuzzer": "replacement"
+    }, 
+    {
+        "dns-a": [
+            "200.169.41.77"
+        ], 
+        "dns-ns": [
+            "ns1.pf.gov.br", 
+            "ns2.pf.gov.br"
+        ], 
+        "domain-name": "pf.gov.br", 
+        "fuzzer": "replacement", 
+        "geoip-country": "Brazil"
+    }
+]

@@ -1,0 +1,40 @@
+[
+    {
+        "dns-a": [
+            "130.111.46.127"
+        ], 
+        "dns-mx": [
+            "mail-relay.maine.edu"
+        ], 
+        "dns-ns": [
+            "nameo.its.maine.edu", 
+            "namep.its.maine.edu"
+        ], 
+        "domain-name": "umaine.edu", 
+        "fuzzer": "original*", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 99
+    }, 
+    {
+        "dns-a": [
+            "130.111.33.21"
+        ], 
+        "dns-aaaa": [
+            "2610:48:100:821::15"
+        ], 
+        "dns-mx": [
+            "ALT1.ASPMX.L.GOOGLE.COM", 
+            "ALT2.ASPMX.L.GOOGLE.COM", 
+            "ALT3.ASPMX.L.GOOGLE.COM", 
+            "ALT4.ASPMX.L.GOOGLE.COM", 
+            "ASPMX.L.GOOGLE.COM"
+        ], 
+        "dns-ns": [
+            "nameo.its.maine.edu", 
+            "namep.its.maine.edu"
+        ], 
+        "domain-name": "maine.edu", 
+        "fuzzer": "omission", 
+        "geoip-country": "United States"
+    }
+]

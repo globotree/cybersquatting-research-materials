@@ -1,0 +1,105 @@
+[
+    {
+        "dns-a": [
+            "198.239.146.53"
+        ], 
+        "dns-mx": [
+            "wamsg.wa.gov"
+        ], 
+        "dns-ns": [
+            "lion.state.or.us", 
+            "nsoly1.wa.gov", 
+            "nsspo1.wa.gov", 
+            "puma.state.or.us"
+        ], 
+        "domain-name": "wa.gov", 
+        "fuzzer": "original*", 
+        "geoip-country": "United States"
+    }, 
+    {
+        "dns-a": [
+            "152.130.96.221"
+        ], 
+        "dns-aaaa": [
+            "2600:8010:0:28::28:221"
+        ], 
+        "dns-mx": [
+            "mx20.va.gov"
+        ], 
+        "dns-ns": [
+            "ns1x.va.gov", 
+            "ns2x.va.gov", 
+            "ns3x.va.gov", 
+            "ns4x.va.gov"
+        ], 
+        "domain-name": "va.gov", 
+        "fuzzer": "bitsquatting", 
+        "geoip-country": "United States"
+    }, 
+    {
+        "dns-a": [
+            "23.23.200.90"
+        ], 
+        "dns-mx": [
+            "ga-gov.mail.protection.outlook.com"
+        ], 
+        "dns-ns": [
+            "sogns1.state.ga.us", 
+            "sogns2.state.ga.us"
+        ], 
+        "domain-name": "ga.gov", 
+        "fuzzer": "bitsquatting", 
+        "geoip-country": "United States"
+    }, 
+    {
+        "dns-a": [
+            "165.189.157.83"
+        ], 
+        "dns-mx": [
+            "smtp.wi.gov"
+        ], 
+        "dns-ns": [
+            "bigred.state.wi.us", 
+            "bigred3.wi.gov", 
+            "dns.uw-mad.wiscnet.net", 
+            "dns.uw-mil.wiscnet.net"
+        ], 
+        "domain-name": "wi.gov", 
+        "fuzzer": "bitsquatting"
+    }, 
+    {
+        "dns-a": [
+            "192.146.215.91"
+        ], 
+        "dns-mx": [
+            "alt1.aspmx.l.google.com", 
+            "alt2.aspmx.l.google.com", 
+            "alt3.aspmx.l.google.com", 
+            "alt4.aspmx.l.google.com", 
+            "aspmx.l.google.com"
+        ], 
+        "dns-ns": [
+            "ns10.dnsmadeeasy.com", 
+            "ns11.dnsmadeeasy.com", 
+            "ns12.dnsmadeeasy.com", 
+            "ns13.dnsmadeeasy.com", 
+            "ns14.dnsmadeeasy.com", 
+            "ns15.dnsmadeeasy.com"
+        ], 
+        "domain-name": "wy.gov", 
+        "fuzzer": "replacement", 
+        "geoip-country": "United States"
+    }, 
+    {
+        "dns-a": [
+            "198.54.117.200"
+        ], 
+        "dns-ns": [
+            "dns101.registrar-servers.com", 
+            "dns102.registrar-servers.com"
+        ], 
+        "domain-name": "wa-gov.com", 
+        "fuzzer": "various", 
+        "geoip-country": "United States"
+    }
+]

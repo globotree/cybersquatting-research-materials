@@ -1,0 +1,783 @@
+[
+    {
+        "dns-a": [
+            "162.251.80.3", 
+            "162.251.80.8"
+        ], 
+        "dns-mx": [
+            "alt1.aspmx.l.google.com", 
+            "alt2.aspmx.l.google.com", 
+            "alt3.aspmx.l.google.com", 
+            "alt4.aspmx.l.google.com", 
+            "aspmx.l.google.com"
+        ], 
+        "dns-ns": [
+            "ns1.nic.in.net", 
+            "ns2.nic.in.net", 
+            "ns3.nic.in.net", 
+            "ns4.nic.in.net"
+        ], 
+        "domain-name": "in.net", 
+        "fuzzer": "original*", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 100
+    }, 
+    {
+        "dns-a": [
+            "72.52.4.121"
+        ], 
+        "dns-mx": [
+            "localhost"
+        ], 
+        "dns-ns": [
+            "ns1.sedoparking.com", 
+            "ns2.sedoparking.com"
+        ], 
+        "domain-name": "ina.net", 
+        "fuzzer": "addition", 
+        "geoip-country": "United States", 
+        "mx-spy": true, 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "50.63.50.102"
+        ], 
+        "dns-mx": [
+            "ALT1.ASPMX.L.GOOGLE.COM", 
+            "ALT2.ASPMX.L.GOOGLE.COM", 
+            "ASPMX.L.GOOGLE.COM", 
+            "ASPMX2.GOOGLEMAIL.COM", 
+            "ASPMX3.GOOGLEMAIL.COM"
+        ], 
+        "dns-ns": [
+            "ns01.domaincontrol.com", 
+            "ns02.domaincontrol.com"
+        ], 
+        "domain-name": "inb.net", 
+        "fuzzer": "addition", 
+        "geoip-country": "United States"
+    }, 
+    {
+        "dns-ns": [
+            "ns1.inc.net", 
+            "ns2.inc.net", 
+            "ns3.inc.net", 
+            "ns4.inc.net"
+        ], 
+        "domain-name": "inc.net", 
+        "fuzzer": "addition"
+    }, 
+    {
+        "dns-mx": [
+            "mail1.grnoc.iu.edu", 
+            "mail2.grnoc.iu.edu"
+        ], 
+        "dns-ns": [
+            "adams.ind.net", 
+            "jefferson.ind.net", 
+            "washington.ind.net"
+        ], 
+        "domain-name": "ind.net", 
+        "fuzzer": "addition"
+    }, 
+    {
+        "dns-a": [
+            "202.174.108.100"
+        ], 
+        "dns-mx": [
+            "ALT1.ASPMX.L.GOOGLE.COM", 
+            "ALT2.ASPMX.L.GOOGLE.COM", 
+            "ASPMX.L.GOOGLE.COM", 
+            "ASPMX2.GOOGLEMAIL.COM", 
+            "ASPMX3.GOOGLEMAIL.COM", 
+            "ASPMX4.GOOGLEMAIL.COM", 
+            "ASPMX5.GOOGLEMAIL.COM"
+        ], 
+        "dns-ns": [
+            "ns1.ine.net", 
+            "ns2.ine.net"
+        ], 
+        "domain-name": "ine.net", 
+        "fuzzer": "addition", 
+        "geoip-country": "Australia"
+    }, 
+    {
+        "dns-a": [
+            "81.95.44.222"
+        ], 
+        "dns-mx": [
+            "mail.inf.net"
+        ], 
+        "dns-ns": [
+            "ns.nanosemantics.ru", 
+            "ns4-cloud.nic.ru", 
+            "ns4-l2.nic.ru", 
+            "ns4.nic.ru", 
+            "ns8-cloud.nic.ru", 
+            "ns8-l2.nic.ru", 
+            "ns8.nic.ru"
+        ], 
+        "domain-name": "inf.net", 
+        "fuzzer": "addition", 
+        "geoip-country": "Russian Federation", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-ns": [
+            "eur2.akam.net", 
+            "eur6.akam.net", 
+            "ns1-229.akam.net", 
+            "ns1-34.akam.net", 
+            "usc4.akam.net", 
+            "use9.akam.net", 
+            "usw1.akam.net", 
+            "usw2.akam.net"
+        ], 
+        "domain-name": "ing.net", 
+        "fuzzer": "addition"
+    }, 
+    {
+        "dns-mx": [
+            "mail2a.smtproutes.org", 
+            "mail2b.smtproutes.org"
+        ], 
+        "dns-ns": [
+            "dx0.qtk.com", 
+            "dx1.qtk.com"
+        ], 
+        "domain-name": "inh.net", 
+        "fuzzer": "addition"
+    }, 
+    {
+        "dns-mx": [
+            "mailstore1.secureserver.net", 
+            "smtp.secureserver.net"
+        ], 
+        "dns-ns": [
+            "ns15.domaincontrol.com", 
+            "ns16.domaincontrol.com"
+        ], 
+        "domain-name": "ini.net", 
+        "fuzzer": "addition"
+    }, 
+    {
+        "dns-a": [
+            "185.53.179.8"
+        ], 
+        "dns-mx": [
+            "mail.h-email.net"
+        ], 
+        "dns-ns": [
+            "ns1.parkingcrew.net", 
+            "ns2.parkingcrew.net"
+        ], 
+        "domain-name": "inj.net", 
+        "fuzzer": "addition", 
+        "geoip-country": "Germany", 
+        "mx-spy": true, 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "165.160.13.20", 
+            "165.160.15.20"
+        ], 
+        "dns-ns": [
+            "dns1.cscdns.net", 
+            "dns2.cscdns.net"
+        ], 
+        "domain-name": "ink.net", 
+        "fuzzer": "addition", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "54.82.236.146"
+        ], 
+        "dns-mx": [
+            "mail.inl.net"
+        ], 
+        "dns-ns": [
+            "ns1.netlabs.net", 
+            "ns2.netlabs.net", 
+            "ns3.netlabs.net", 
+            "ns4.netlabs.net"
+        ], 
+        "domain-name": "inl.net", 
+        "fuzzer": "addition", 
+        "geoip-country": "United States"
+    }, 
+    {
+        "dns-a": [
+            "188.121.43.60"
+        ], 
+        "dns-mx": [
+            "mailstore1.europe.secureserver.net", 
+            "smtp.europe.secureserver.net"
+        ], 
+        "dns-ns": [
+            "ns21.worldnic.com", 
+            "ns22.worldnic.com"
+        ], 
+        "domain-name": "inm.net", 
+        "fuzzer": "addition", 
+        "geoip-country": "Netherlands", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "185.53.179.8"
+        ], 
+        "dns-mx": [
+            "mail.h-email.net"
+        ], 
+        "domain-name": "inn.net", 
+        "fuzzer": "addition", 
+        "geoip-country": "Germany", 
+        "mx-spy": true, 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "46.226.193.12"
+        ], 
+        "dns-mx": [
+            "mail.ino.net"
+        ], 
+        "dns-ns": [
+            "ns1.host4free.gr", 
+            "ns2.host4free.gr"
+        ], 
+        "domain-name": "ino.net", 
+        "fuzzer": "addition", 
+        "geoip-country": "Greece"
+    }, 
+    {
+        "dns-a": [
+            "199.59.242.150"
+        ], 
+        "dns-mx": [
+            "mx76.m2bp.com", 
+            "mx76.mb1p.com"
+        ], 
+        "dns-ns": [
+            "ns1.bodis.com", 
+            "ns2.bodis.com"
+        ], 
+        "domain-name": "inp.net", 
+        "fuzzer": "addition", 
+        "geoip-country": "United States", 
+        "mx-spy": true, 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "184.106.20.102"
+        ], 
+        "dns-mx": [
+            "mailstore1.secureserver.net", 
+            "smtp.secureserver.net"
+        ], 
+        "dns-ns": [
+            "ns51.domaincontrol.com", 
+            "ns52.domaincontrol.com"
+        ], 
+        "domain-name": "inq.net", 
+        "fuzzer": "addition", 
+        "geoip-country": "United States"
+    }, 
+    {
+        "dns-a": [
+            "199.59.242.150"
+        ], 
+        "dns-mx": [
+            "mx76.m2bp.com", 
+            "mx76.mb1p.com"
+        ], 
+        "dns-ns": [
+            "ns1.bodis.com", 
+            "ns2.bodis.com"
+        ], 
+        "domain-name": "inr.net", 
+        "fuzzer": "addition", 
+        "geoip-country": "United States", 
+        "mx-spy": true, 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-mx": [
+            "mail2.intares.net", 
+            "mail3.ins.net"
+        ], 
+        "dns-ns": [
+            "dns002.intares.net", 
+            "dns003.intares.net", 
+            "ns.ins.net"
+        ], 
+        "domain-name": "ins.net", 
+        "fuzzer": "addition"
+    }, 
+    {
+        "dns-a": [
+            "69.46.28.43"
+        ], 
+        "dns-mx": [
+            "mail2a.smtproutes.org", 
+            "mail2b.smtproutes.org"
+        ], 
+        "dns-ns": [
+            "dx0.qtk.com", 
+            "dx1.qtk.com"
+        ], 
+        "domain-name": "int.net", 
+        "fuzzer": "addition", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "209.222.117.35"
+        ], 
+        "dns-mx": [
+            "d83150a.ess.barracudanetworks.com", 
+            "d83150b.ess.barracudanetworks.com"
+        ], 
+        "dns-ns": [
+            "pdns07.domaincontrol.com", 
+            "pdns08.domaincontrol.com"
+        ], 
+        "domain-name": "inu.net", 
+        "fuzzer": "addition", 
+        "geoip-country": "United States"
+    }, 
+    {
+        "dns-a": [
+            "103.246.31.103"
+        ], 
+        "domain-name": "inv.net", 
+        "fuzzer": "addition", 
+        "geoip-country": "Australia"
+    }, 
+    {
+        "dns-a": [
+            "69.172.201.153"
+        ], 
+        "domain-name": "inw.net", 
+        "fuzzer": "addition", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "69.28.217.3"
+        ], 
+        "dns-mx": [
+            "alt1.aspmx.l.google.com", 
+            "alt2.aspmx.l.google.com", 
+            "alt3.aspmx.l.google.com", 
+            "alt4.aspmx.l.google.com", 
+            "aspmx.l.google.com"
+        ], 
+        "dns-ns": [
+            "ns87.worldnic.com", 
+            "ns88.worldnic.com"
+        ], 
+        "domain-name": "inx.net", 
+        "fuzzer": "addition", 
+        "geoip-country": "United States"
+    }, 
+    {
+        "dns-a": [
+            "69.172.201.153"
+        ], 
+        "dns-ns": [
+            "ns1.uniregistrymarket.link", 
+            "ns2.uniregistrymarket.link"
+        ], 
+        "domain-name": "iny.net", 
+        "fuzzer": "addition", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "72.52.4.121"
+        ], 
+        "dns-mx": [
+            "localhost"
+        ], 
+        "dns-ns": [
+            "ns1.sedoparking.com", 
+            "ns2.sedoparking.com"
+        ], 
+        "domain-name": "inz.net", 
+        "fuzzer": "addition", 
+        "geoip-country": "United States", 
+        "mx-spy": true, 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "209.15.13.134"
+        ], 
+        "dns-mx": [
+            "mail.b-io.co"
+        ], 
+        "dns-ns": [
+            "ns1.dnslink.com", 
+            "ns2.dnslink.com"
+        ], 
+        "domain-name": "hn.net", 
+        "fuzzer": "bitsquatting", 
+        "geoip-country": "United States", 
+        "mx-spy": true, 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "98.124.199.73"
+        ], 
+        "dns-ns": [
+            "dns1.name-services.com", 
+            "dns2.name-services.com", 
+            "dns3.name-services.com", 
+            "dns4.name-services.com", 
+            "dns5.name-services.com"
+        ], 
+        "domain-name": "kn.net", 
+        "fuzzer": "bitsquatting", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "45.120.153.79"
+        ], 
+        "domain-name": "mn.net", 
+        "fuzzer": "bitsquatting", 
+        "geoip-country": "Hong Kong", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "72.52.4.122"
+        ], 
+        "dns-mx": [
+            "localhost"
+        ], 
+        "dns-ns": [
+            "ns1.sedoparking.com", 
+            "ns2.sedoparking.com"
+        ], 
+        "domain-name": "an.net", 
+        "fuzzer": "bitsquatting", 
+        "geoip-country": "United States", 
+        "mx-spy": true, 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "64.99.64.32"
+        ], 
+        "dns-mx": [
+            "mx.io.net.cust.b.hostedemail.com"
+        ], 
+        "domain-name": "io.net", 
+        "fuzzer": "bitsquatting", 
+        "geoip-country": "Canada", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "205.166.61.220", 
+            "205.166.61.221"
+        ], 
+        "dns-mx": [
+            "mxa.ctinetworks.com", 
+            "mxb.ctinetworks.com", 
+            "mxd.ctinetworks.com", 
+            "mxw.ctinetworks.com", 
+            "mxy.ctinetworks.com"
+        ], 
+        "dns-ns": [
+            "ns1.pa.net", 
+            "ns2.pa.net"
+        ], 
+        "domain-name": "il.net", 
+        "fuzzer": "bitsquatting", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "63.135.239.100"
+        ], 
+        "dns-mx": [
+            "mailgate1.ij.net"
+        ], 
+        "dns-ns": [
+            "aslan.ij.net", 
+            "ns2.ij.net"
+        ], 
+        "domain-name": "ij.net", 
+        "fuzzer": "bitsquatting", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "45.63.10.106"
+        ], 
+        "dns-mx": [
+            "mx1.emailsrvr.com", 
+            "mx2.emailsrvr.com"
+        ], 
+        "dns-ns": [
+            "ns-cloud-a1.googledomains.com", 
+            "ns-cloud-a2.googledomains.com", 
+            "ns-cloud-a3.googledomains.com", 
+            "ns-cloud-a4.googledomains.com"
+        ], 
+        "domain-name": "if.net", 
+        "fuzzer": "bitsquatting", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "184.168.221.51"
+        ], 
+        "dns-mx": [
+            "mailstore1.secureserver.net", 
+            "smtp.secureserver.net"
+        ], 
+        "dns-ns": [
+            "ns29.domaincontrol.com", 
+            "ns30.domaincontrol.com"
+        ], 
+        "domain-name": "xn--n-mga.net", 
+        "fuzzer": "homoglyph", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "206.117.24.116"
+        ], 
+        "dns-mx": [
+            "cata.ln.net"
+        ], 
+        "dns-ns": [
+            "c30.ln.net", 
+            "cata.ln.net"
+        ], 
+        "domain-name": "ln.net", 
+        "fuzzer": "homoglyph", 
+        "geoip-country": "United States"
+    }, 
+    {
+        "dns-a": [
+            "85.13.152.1"
+        ], 
+        "dns-mx": [
+            "v299750.kasserver.com"
+        ], 
+        "dns-ns": [
+            "ns5.kasserver.com", 
+            "ns6.kasserver.com"
+        ], 
+        "domain-name": "xn--n-iga.net", 
+        "fuzzer": "homoglyph", 
+        "geoip-country": "Germany", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-mx": [
+            "mts.im.net"
+        ], 
+        "dns-ns": [
+            "ns1.andastra.de", 
+            "ns2.andastra.de"
+        ], 
+        "domain-name": "im.net", 
+        "fuzzer": "homoglyph"
+    }, 
+    {
+        "dns-a": [
+            "203.78.142.12"
+        ], 
+        "domain-name": "1n.net", 
+        "fuzzer": "homoglyph", 
+        "geoip-country": "Hong Kong", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "192.124.249.11"
+        ], 
+        "dns-mx": [
+            "ir.net"
+        ], 
+        "dns-ns": [
+            "ns1.s4spk.com", 
+            "ns2.s4spk.com"
+        ], 
+        "domain-name": "ir.net", 
+        "fuzzer": "homoglyph", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "217.30.208.126"
+        ], 
+        "dns-mx": [
+            "wallace.headoff.biz"
+        ], 
+        "dns-ns": [
+            "hercules.headoff.biz", 
+            "nicolas.headoff.biz"
+        ], 
+        "domain-name": "i-n.net", 
+        "fuzzer": "hyphenation", 
+        "geoip-country": "Bulgaria"
+    }, 
+    {
+        "dns-a": [
+            "50.57.34.52"
+        ], 
+        "dns-mx": [
+            "mail.fma.com"
+        ], 
+        "dns-ns": [
+            "ns1.fma.net", 
+            "ns2.fma.net"
+        ], 
+        "domain-name": "i.net", 
+        "fuzzer": "omission"
+    }, 
+    {
+        "dns-a": [
+            "69.172.201.153"
+        ], 
+        "dns-ns": [
+            "ns1.uniregistrymarket.link", 
+            "ns2.uniregistrymarket.link"
+        ], 
+        "domain-name": "iin.net", 
+        "fuzzer": "repetition", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "150.101.140.197"
+        ], 
+        "dns-mx": [
+            "ipmailmx.internode.on.net"
+        ], 
+        "dns-ns": [
+            "ns1.on.net", 
+            "ns2.on.net", 
+            "ns3.on.net", 
+            "ns4.on.net"
+        ], 
+        "domain-name": "on.net", 
+        "fuzzer": "replacement", 
+        "geoip-country": "Australia"
+    }, 
+    {
+        "dns-a": [
+            "69.172.201.153"
+        ], 
+        "dns-ns": [
+            "ns1.uniregistrymarket.link", 
+            "ns2.uniregistrymarket.link"
+        ], 
+        "domain-name": "9n.net", 
+        "fuzzer": "replacement", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "184.168.221.104"
+        ], 
+        "dns-ns": [
+            "ns1.afternic.com", 
+            "ns2.afternic.com"
+        ], 
+        "domain-name": "ih.net", 
+        "fuzzer": "replacement", 
+        "geoip-country": "United States"
+    }, 
+    {
+        "dns-a": [
+            "205.159.223.114"
+        ], 
+        "dns-ns": [
+            "ns13.gi.net", 
+            "ns14.gi.net"
+        ], 
+        "domain-name": "jn.net", 
+        "fuzzer": "replacement", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "199.59.242.150"
+        ], 
+        "dns-ns": [
+            "dns1.name-services.com", 
+            "dns2.name-services.com", 
+            "dns3.name-services.com", 
+            "dns4.name-services.com", 
+            "dns5.name-services.com"
+        ], 
+        "domain-name": "un.net", 
+        "fuzzer": "replacement", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-mx": [
+            "a.mx.en.net", 
+            "b.mx.en.net"
+        ], 
+        "dns-ns": [
+            "e0.ns.voyager.net", 
+            "e1.ns.voyager.net", 
+            "e2.ns.voyager.net"
+        ], 
+        "domain-name": "en.net", 
+        "fuzzer": "vowel-swap"
+    }, 
+    {
+        "dns-ns": [
+            "auth00.ns.be.uu.net", 
+            "auth50.ns.be.uu.net"
+        ], 
+        "domain-name": "innet.net", 
+        "fuzzer": "various"
+    }, 
+    {
+        "dns-a": [
+            "72.52.4.121"
+        ], 
+        "dns-mx": [
+            "localhost"
+        ], 
+        "dns-ns": [
+            "ns1.sedoparking.com", 
+            "ns2.sedoparking.com"
+        ], 
+        "domain-name": "in-net.com", 
+        "fuzzer": "various", 
+        "geoip-country": "United States", 
+        "mx-spy": true, 
+        "ssdeep-score": 0
+    }
+]

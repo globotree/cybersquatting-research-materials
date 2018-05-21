@@ -1,0 +1,41 @@
+[
+    {
+        "dns-a": [
+            "23.185.0.4"
+        ], 
+        "dns-aaaa": [
+            "2620:12a:8000::4", 
+            "2620:12a:8001::4"
+        ], 
+        "dns-mx": [
+            "ucdavis-edu.mail.protection.outlook.com"
+        ], 
+        "dns-ns": [
+            "dns-one.ucdavis.edu", 
+            "dns-three.ucdavis.edu", 
+            "dns-two.ucdavis.edu"
+        ], 
+        "domain-name": "ucdavis.edu", 
+        "fuzzer": "original*", 
+        "ssdeep-score": 100
+    }, 
+    {
+        "dns-a": [
+            "176.34.236.137", 
+            "176.34.254.112", 
+            "46.137.127.88", 
+            "46.137.78.67", 
+            "54.217.225.20", 
+            "54.228.219.35"
+        ], 
+        "dns-ns": [
+            "ns2.vpweb.com", 
+            "ns3.vpweb.com", 
+            "ns4.vpweb.com"
+        ], 
+        "domain-name": "ucdavis-edu.com", 
+        "fuzzer": "various", 
+        "geoip-country": "Ireland", 
+        "ssdeep-score": 0
+    }
+]

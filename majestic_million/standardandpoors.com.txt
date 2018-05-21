@@ -1,0 +1,98 @@
+[
+    {
+        "dns-a": [
+            "52.21.131.66", 
+            "54.82.154.110"
+        ], 
+        "dns-mx": [
+            "corp148mr3.spglobal.com", 
+            "corp148mr4.spglobal.com", 
+            "corp148mr6.spglobal.com", 
+            "nj12corpmr01.spglobal.com", 
+            "nj12corpmr02.spglobal.com"
+        ], 
+        "dns-ns": [
+            "pdns100.ultradns.biz", 
+            "pdns100.ultradns.com", 
+            "pdns100.ultradns.net", 
+            "pdns100.ultradns.org"
+        ], 
+        "domain-name": "standardandpoors.com", 
+        "fuzzer": "original*", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 99
+    }, 
+    {
+        "dns-a": [
+            "185.53.178.7"
+        ], 
+        "dns-mx": [
+            "mail.h-email.net"
+        ], 
+        "dns-ns": [
+            "ns1.parkingcrew.net", 
+            "ns2.parkingcrew.net"
+        ], 
+        "domain-name": "standartandpoors.com", 
+        "fuzzer": "bitsquatting", 
+        "geoip-country": "Germany", 
+        "mx-spy": true, 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "208.91.196.105"
+        ], 
+        "dns-ns": [
+            "sk.s5.cm.ns1.39.ztomy.com", 
+            "sk.s5.cm.ns2.39.ztomy.com"
+        ], 
+        "domain-name": "standardsandpoors.com", 
+        "fuzzer": "insertion", 
+        "geoip-country": "Virgin Islands", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "141.8.224.93"
+        ], 
+        "dns-ns": [
+            "ns7.rookdns.com", 
+            "ns8.rookdns.com"
+        ], 
+        "domain-name": "standardandpoores.com", 
+        "fuzzer": "insertion", 
+        "geoip-country": "Switzerland", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "50.63.202.91"
+        ], 
+        "dns-ns": [
+            "ns17.domaincontrol.com", 
+            "ns18.domaincontrol.com"
+        ], 
+        "domain-name": "standardandpoos.com", 
+        "fuzzer": "omission", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-mx": [
+            "corp148mr3.mcgraw-hill.com", 
+            "corp148mr4.mcgraw-hill.com", 
+            "corp148mr6.mcgraw-hill.com", 
+            "nj12corpmr01.mcgraw-hill.com", 
+            "nj12corpmr02.mcgraw-hill.com"
+        ], 
+        "dns-ns": [
+            "pdns100.ultradns.biz", 
+            "pdns100.ultradns.com", 
+            "pdns100.ultradns.net", 
+            "pdns100.ultradns.org"
+        ], 
+        "domain-name": "standardandpoor.com", 
+        "fuzzer": "omission"
+    }
+]

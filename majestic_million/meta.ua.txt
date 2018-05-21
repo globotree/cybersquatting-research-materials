@@ -1,0 +1,169 @@
+[
+    {
+        "dns-a": [
+            "194.0.131.18"
+        ], 
+        "dns-mx": [
+            "mxs.meta.ua"
+        ], 
+        "dns-ns": [
+            "ns1.meta.com.ua", 
+            "ns1.meta.ua", 
+            "ns4.top.net.ua", 
+            "ns5.top.net.ua"
+        ], 
+        "domain-name": "meta.ua", 
+        "fuzzer": "original*", 
+        "geoip-country": "Ukraine", 
+        "ssdeep-score": 93
+    }, 
+    {
+        "dns-a": [
+            "62.149.25.3", 
+            "62.149.5.223"
+        ], 
+        "dns-mx": [
+            "mail.metal.ua", 
+            "mail.metal.ua"
+        ], 
+        "dns-ns": [
+            "ns1.webname.ua", 
+            "ns2.webname.ua"
+        ], 
+        "domain-name": "metal.ua", 
+        "fuzzer": "addition", 
+        "geoip-country": "Ukraine", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "178.79.170.179"
+        ], 
+        "dns-mx": [
+            "meda-se.mx1.staysecuregroup.com", 
+            "meda-se.mx2.staysecuregroup.net"
+        ], 
+        "dns-ns": [
+            "ns-1374.awsdns-43.org", 
+            "ns-2044.awsdns-63.co.uk", 
+            "ns-216.awsdns-27.com", 
+            "ns-531.awsdns-02.net"
+        ], 
+        "domain-name": "meda.ua", 
+        "fuzzer": "bitsquatting", 
+        "geoip-country": "United Kingdom", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "176.9.30.61"
+        ], 
+        "dns-mx": [
+            "alt1.aspmx.l.google.com", 
+            "alt2.aspmx.l.google.com", 
+            "aspmx.l.google.com", 
+            "aspmx2.googlemail.com", 
+            "aspmx3.googlemail.com"
+        ], 
+        "dns-ns": [
+            "diva.ns.cloudflare.com", 
+            "justin.ns.cloudflare.com"
+        ], 
+        "domain-name": "mta.ua", 
+        "fuzzer": "omission", 
+        "geoip-country": "Germany", 
+        "mx-spy": true, 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "78.109.22.99"
+        ], 
+        "dns-mx": [
+            "mail4.hosting.ua"
+        ], 
+        "dns-ns": [
+            "ns5.ukrdns.biz", 
+            "ns6.ukrdns.biz"
+        ], 
+        "domain-name": "mera.ua", 
+        "fuzzer": "replacement", 
+        "geoip-country": "Ukraine", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "5.39.10.93"
+        ], 
+        "dns-aaaa": [
+            "2001:41d0:b:a74:5:39:10:93"
+        ], 
+        "dns-mx": [
+            "ALT1.ASPMX.L.GOOGLE.COM", 
+            "ALT2.ASPMX.L.GOOGLE.COM", 
+            "ASPMX.L.GOOGLE.COM", 
+            "ASPMX2.GOOGLEMAIL.COM", 
+            "ASPMX3.GOOGLEMAIL.COM"
+        ], 
+        "dns-ns": [
+            "nsa2.srv53.com", 
+            "nsa3.srv53.net", 
+            "nsa4.srv53.org", 
+            "nsb1.srv53.org", 
+            "nsb3.srv53.com", 
+            "nsb3.srv53.net", 
+            "nsc1.srv53.net", 
+            "nsc3.srv53.org", 
+            "nsc4.srv53.com", 
+            "nsd1.srv53.com", 
+            "nsd2.srv53.net", 
+            "nsd2.srv53.org"
+        ], 
+        "domain-name": "mega.ua", 
+        "fuzzer": "replacement", 
+        "geoip-country": "France", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "91.195.52.10"
+        ], 
+        "domain-name": "met.a.ua", 
+        "fuzzer": "subdomain", 
+        "geoip-country": "Ukraine"
+    }, 
+    {
+        "dns-a": [
+            "185.104.45.55"
+        ], 
+        "dns-aaaa": [
+            "2a06:6440:0:2d37::1"
+        ], 
+        "dns-mx": [
+            "mx15.ukraine.com.ua", 
+            "mx20.ukraine.com.ua"
+        ], 
+        "dns-ns": [
+            "ns113.inhostedns.com", 
+            "ns213.inhostedns.net", 
+            "ns313.inhostedns.org"
+        ], 
+        "domain-name": "meat.ua", 
+        "fuzzer": "transposition", 
+        "geoip-country": "United Kingdom", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "204.11.56.37"
+        ], 
+        "dns-ns": [
+            "ns1637.ztomy.com", 
+            "ns2637.ztomy.com"
+        ], 
+        "domain-name": "meta-ua.com", 
+        "fuzzer": "various", 
+        "geoip-country": "Virgin Islands", 
+        "ssdeep-score": 0
+    }
+]

@@ -1,0 +1,143 @@
+[
+    {
+        "dns-a": [
+            "193.205.139.223"
+        ], 
+        "dns-mx": [
+            "uniroma3-it.mail.protection.outlook.com"
+        ], 
+        "dns-ns": [
+            "dns.uniroma3.it", 
+            "dns2.uniroma3.it", 
+            "ns.uniroma3.it", 
+            "ns1.garr.net"
+        ], 
+        "domain-name": "uniroma3.it", 
+        "fuzzer": "original*", 
+        "geoip-country": "Italy", 
+        "ssdeep-score": 100
+    }, 
+    {
+        "dns-mx": [
+            "mx-01.uniroma2.it", 
+            "mx-02.uniroma2.it", 
+            "mx-03.uniroma2.it", 
+            "mx-04.uniroma2.it", 
+            "mx-05.uniroma2.it"
+        ], 
+        "dns-ns": [
+            "dns.uniroma2.it", 
+            "dns1.uniroma2.it", 
+            "ns1.garr.net"
+        ], 
+        "domain-name": "uniroma2.it", 
+        "fuzzer": "bitsquatting"
+    }, 
+    {
+        "dns-a": [
+            "151.100.101.140"
+        ], 
+        "dns-mx": [
+            "ALT1.ASPMX.L.GOOGLE.COM", 
+            "ALT2.ASPMX.L.GOOGLE.COM", 
+            "ASPMX.L.GOOGLE.COM", 
+            "ASPMX2.GOOGLEMAIL.COM", 
+            "ASPMX3.GOOGLEMAIL.COM"
+        ], 
+        "dns-ns": [
+            "desiree.cics.uniroma1.it", 
+            "ns1.garr.net", 
+            "risc-ns.cics.uniroma1.it"
+        ], 
+        "domain-name": "uniroma1.it", 
+        "fuzzer": "bitsquatting", 
+        "geoip-country": "Italy", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "72.52.4.120"
+        ], 
+        "dns-mx": [
+            "localhost"
+        ], 
+        "dns-ns": [
+            "ns1.sedoparking.com", 
+            "ns2.sedoparking.com"
+        ], 
+        "domain-name": "uniroma.it", 
+        "fuzzer": "omission", 
+        "geoip-country": "United States", 
+        "mx-spy": true, 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "217.160.0.29"
+        ], 
+        "dns-aaaa": [
+            "2001:8d8:100f:f000::292"
+        ], 
+        "dns-mx": [
+            "mx00.1and1.it", 
+            "mx01.1and1.it"
+        ], 
+        "dns-ns": [
+            "ns1041.ui-dns.biz", 
+            "ns1041.ui-dns.com", 
+            "ns1041.ui-dns.de", 
+            "ns1041.ui-dns.org"
+        ], 
+        "domain-name": "uniromae.it", 
+        "fuzzer": "replacement", 
+        "geoip-country": "Germany", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "104.24.96.112", 
+            "104.24.97.112"
+        ], 
+        "dns-aaaa": [
+            "2400:cb00:2048:1::6818:6070", 
+            "2400:cb00:2048:1::6818:6170"
+        ], 
+        "dns-ns": [
+            "dean.ns.cloudflare.com", 
+            "rosa.ns.cloudflare.com"
+        ], 
+        "domain-name": "iniroma3.it", 
+        "fuzzer": "replacement", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-mx": [
+            "uniroma4-it.mail.protection.outlook.com"
+        ], 
+        "dns-ns": [
+            "dns1.uniroma4.it", 
+            "dns2.uniroma4.it", 
+            "ns1.garr.net"
+        ], 
+        "domain-name": "uniroma4.it", 
+        "fuzzer": "replacement"
+    }, 
+    {
+        "dns-a": [
+            "54.72.9.51"
+        ], 
+        "dns-mx": [
+            "mail.h-email.net"
+        ], 
+        "dns-ns": [
+            "ns1.fastpark.net", 
+            "ns2.fastpark.net"
+        ], 
+        "domain-name": "uni.roma3.it", 
+        "fuzzer": "subdomain", 
+        "geoip-country": "Ireland", 
+        "mx-spy": true, 
+        "ssdeep-score": 0
+    }
+]

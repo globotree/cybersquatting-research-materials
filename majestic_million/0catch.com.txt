@@ -1,0 +1,139 @@
+[
+    {
+        "dns-a": [
+            "66.219.202.4"
+        ], 
+        "dns-mx": [
+            "mail.0catch.com"
+        ], 
+        "dns-ns": [
+            "ns1.0catch.com", 
+            "ns2.0catch.com"
+        ], 
+        "domain-name": "0catch.com", 
+        "fuzzer": "original*", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 100
+    }, 
+    {
+        "dns-a": [
+            "184.168.221.54"
+        ], 
+        "dns-ns": [
+            "ns25.domaincontrol.com", 
+            "ns26.domaincontrol.com"
+        ], 
+        "domain-name": "1catch.com", 
+        "fuzzer": "bitsquatting", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "72.52.4.121"
+        ], 
+        "dns-ns": [
+            "ns1.sedoparking.com", 
+            "ns2.sedoparking.com"
+        ], 
+        "domain-name": "2catch.com", 
+        "fuzzer": "bitsquatting", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "72.52.4.121"
+        ], 
+        "dns-mx": [
+            "localhost"
+        ], 
+        "dns-ns": [
+            "ns1.sedoparking.com", 
+            "ns2.sedoparking.com"
+        ], 
+        "domain-name": "4catch.com", 
+        "fuzzer": "bitsquatting", 
+        "geoip-country": "United States", 
+        "mx-spy": true, 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "66.219.202.4"
+        ], 
+        "dns-mx": [
+            "mail.0catch.com"
+        ], 
+        "dns-ns": [
+            "ns1.0catch.com", 
+            "ns2.0catch.com"
+        ], 
+        "domain-name": "0-catch.com", 
+        "fuzzer": "hyphenation", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 100
+    }, 
+    {
+        "dns-a": [
+            "23.22.216.234", 
+            "52.86.163.26"
+        ], 
+        "dns-ns": [
+            "ns1.a0f.net", 
+            "ns2.a0f.net"
+        ], 
+        "domain-name": "0atch.com", 
+        "fuzzer": "omission", 
+        "geoip-country": "United States"
+    }, 
+    {
+        "dns-ns": [
+            "nserver.apple.com", 
+            "nserver.asia.apple.com", 
+            "nserver.euro.apple.com", 
+            "nserver2.apple.com", 
+            "nserver3.apple.com", 
+            "nserver4.apple.com"
+        ], 
+        "domain-name": "catch.com", 
+        "fuzzer": "omission"
+    }, 
+    {
+        "dns-a": [
+            "72.52.4.90"
+        ], 
+        "dns-ns": [
+            "ns1.sedoparking.com", 
+            "ns2.sedoparking.com"
+        ], 
+        "domain-name": "9catch.com", 
+        "fuzzer": "replacement"
+    }, 
+    {
+        "dns-a": [
+            "141.8.224.169"
+        ], 
+        "dns-ns": [
+            "ns27.rookdns.com", 
+            "ns28.rookdns.com"
+        ], 
+        "domain-name": "ocatch.com", 
+        "fuzzer": "replacement", 
+        "geoip-country": "Switzerland", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "69.172.201.153"
+        ], 
+        "dns-ns": [
+            "ns1.uniregistrymarket.link", 
+            "ns2.uniregistrymarket.link"
+        ], 
+        "domain-name": "0c.atch.com", 
+        "fuzzer": "subdomain", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 0
+    }
+]

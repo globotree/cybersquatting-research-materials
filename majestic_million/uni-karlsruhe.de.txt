@@ -1,0 +1,199 @@
+[
+    {
+        "dns-mx": [
+            "scc-mailin-cn-01.scc.kit.edu", 
+            "scc-mailin-cs-01.scc.kit.edu"
+        ], 
+        "dns-ns": [
+            "dns1.belwue.de", 
+            "dns1.kit.edu", 
+            "dns2.kit.edu", 
+            "dns3.belwue.de"
+        ], 
+        "domain-name": "uni-karlsruhe.de", 
+        "fuzzer": "original*"
+    }, 
+    {
+        "dns-ns": [
+            "dns1.belwue.de", 
+            "dns1.kit.edu", 
+            "dns2.kit.edu", 
+            "dns3.belwue.de"
+        ], 
+        "domain-name": "uni-karisruhe.de", 
+        "fuzzer": "homoglyph"
+    }, 
+    {
+        "dns-a": [
+            "185.53.178.8"
+        ], 
+        "dns-mx": [
+            "mail.h-email.net"
+        ], 
+        "dns-ns": [
+            "ns1.parkingcrew.net", 
+            "ns2.parkingcrew.net"
+        ], 
+        "domain-name": "uni-kalsruhe.de", 
+        "fuzzer": "omission", 
+        "geoip-country": "Germany", 
+        "mx-spy": true
+    }, 
+    {
+        "dns-ns": [
+            "dns1.belwue.de", 
+            "dns1.kit.edu", 
+            "dns2.kit.edu", 
+            "dns3.belwue.de"
+        ], 
+        "domain-name": "unikarlsruhe.de", 
+        "fuzzer": "omission"
+    }, 
+    {
+        "dns-a": [
+            "149.56.9.70"
+        ], 
+        "dns-ns": [
+            "ns1.commonmx.com", 
+            "ns2.commonmx.com"
+        ], 
+        "domain-name": "uni-karsruhe.de", 
+        "fuzzer": "omission", 
+        "geoip-country": "Canada"
+    }, 
+    {
+        "dns-a": [
+            "185.53.178.9"
+        ], 
+        "dns-mx": [
+            "mail.h-email.net"
+        ], 
+        "dns-ns": [
+            "ns1.parkingcrew.net", 
+            "ns2.parkingcrew.net"
+        ], 
+        "domain-name": "uni-karlsuhe.de", 
+        "fuzzer": "omission", 
+        "geoip-country": "Germany", 
+        "mx-spy": true
+    }, 
+    {
+        "dns-a": [
+            "54.72.9.51"
+        ], 
+        "dns-mx": [
+            "mail.h-email.net"
+        ], 
+        "dns-ns": [
+            "ns1.parkingcrew.net", 
+            "ns2.parkingcrew.net"
+        ], 
+        "domain-name": "uni-karlruhe.de", 
+        "fuzzer": "omission", 
+        "geoip-country": "Ireland", 
+        "mx-spy": true
+    }, 
+    {
+        "dns-a": [
+            "95.129.51.172"
+        ], 
+        "dns-aaaa": [
+            "2a03:2900:2::11"
+        ], 
+        "domain-name": "uni-ka.rlsruhe.de", 
+        "fuzzer": "subdomain", 
+        "geoip-country": "Germany"
+    }, 
+    {
+        "dns-a": [
+            "134.119.41.88"
+        ], 
+        "dns-aaaa": [
+            "2a00:1158:1000:407::258"
+        ], 
+        "domain-name": "uni-karls.ruhe.de", 
+        "fuzzer": "subdomain", 
+        "geoip-country": "Germany"
+    }, 
+    {
+        "dns-a": [
+            "156.67.232.127"
+        ], 
+        "dns-mx": [
+            "mail.uhe.de"
+        ], 
+        "domain-name": "uni-karlsr.uhe.de", 
+        "fuzzer": "subdomain", 
+        "geoip-country": "Germany"
+    }, 
+    {
+        "dns-ns": [
+            "dns1.belwue.de", 
+            "dns1.kit.edu", 
+            "dns2.kit.edu", 
+            "dns3.belwue.de"
+        ], 
+        "domain-name": "uni-akrlsruhe.de", 
+        "fuzzer": "transposition"
+    }, 
+    {
+        "dns-ns": [
+            "dns1.belwue.de", 
+            "dns1.kit.edu", 
+            "dns2.kit.edu", 
+            "dns3.belwue.de"
+        ], 
+        "domain-name": "uni-kralsruhe.de", 
+        "fuzzer": "transposition"
+    }, 
+    {
+        "dns-ns": [
+            "dns1.belwue.de", 
+            "dns1.kit.edu", 
+            "dns2.kit.edu", 
+            "dns3.belwue.de"
+        ], 
+        "domain-name": "uni-kalrsruhe.de", 
+        "fuzzer": "transposition"
+    }, 
+    {
+        "dns-ns": [
+            "dns1.belwue.de", 
+            "dns1.kit.edu", 
+            "dns2.kit.edu", 
+            "dns3.belwue.de"
+        ], 
+        "domain-name": "uni-karslruhe.de", 
+        "fuzzer": "transposition"
+    }, 
+    {
+        "dns-ns": [
+            "dns1.belwue.de", 
+            "dns1.kit.edu", 
+            "dns2.kit.edu", 
+            "dns3.belwue.de"
+        ], 
+        "domain-name": "uni-karlsurhe.de", 
+        "fuzzer": "transposition"
+    }, 
+    {
+        "dns-ns": [
+            "dns1.belwue.de", 
+            "dns1.kit.edu", 
+            "dns2.kit.edu", 
+            "dns3.belwue.de"
+        ], 
+        "domain-name": "uni-karlsrhue.de", 
+        "fuzzer": "transposition"
+    }, 
+    {
+        "dns-ns": [
+            "dns1.belwue.de", 
+            "dns1.kit.edu", 
+            "dns2.kit.edu", 
+            "dns3.belwue.de"
+        ], 
+        "domain-name": "uni-karlsrueh.de", 
+        "fuzzer": "transposition"
+    }
+]

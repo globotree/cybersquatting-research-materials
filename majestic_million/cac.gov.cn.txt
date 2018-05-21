@@ -1,0 +1,185 @@
+[
+    {
+        "dns-a": [
+            "202.123.107.68"
+        ], 
+        "dns-mx": [
+            "webmail.cac.gov.cn"
+        ], 
+        "dns-ns": [
+            "ns1.cac.gov.cn", 
+            "ns1.cdns.cn", 
+            "ns2.cac.gov.cn", 
+            "ns2.cdns.cn", 
+            "ns3.cdns.cn"
+        ], 
+        "domain-name": "cac.gov.cn", 
+        "fuzzer": "original*", 
+        "geoip-country": "China", 
+        "ssdeep-score": 100
+    }, 
+    {
+        "dns-a": [
+            "121.12.154.131"
+        ], 
+        "dns-mx": [
+            "mail.cacz.gov.cn"
+        ], 
+        "dns-ns": [
+            "ns1.360wzb.com", 
+            "ns2.360wzb.com"
+        ], 
+        "domain-name": "cacz.gov.cn", 
+        "fuzzer": "addition", 
+        "geoip-country": "China"
+    }, 
+    {
+        "dns-mx": [
+            "bac.abroad.eyou.net", 
+            "mail.bac.gov.cn"
+        ], 
+        "dns-ns": [
+            "win-h54et54itv7"
+        ], 
+        "domain-name": "bac.gov.cn", 
+        "fuzzer": "bitsquatting"
+    }, 
+    {
+        "dns-mx": [
+            "mail.aqsiq.gov.cn"
+        ], 
+        "dns-ns": [
+            "dns.aqsiq.gov.cn", 
+            "dns1.aqsiq.gov.cn"
+        ], 
+        "domain-name": "sac.gov.cn", 
+        "fuzzer": "bitsquatting"
+    }, 
+    {
+        "dns-a": [
+            "123.59.100.74"
+        ], 
+        "dns-mx": [
+            "qiye163mx01.mxmail.netease.com", 
+            "qiye163mx02.mxmail.netease.com"
+        ], 
+        "dns-ns": [
+            "ns1.sfn.cn", 
+            "ns2.sfn.cn"
+        ], 
+        "domain-name": "cec.gov.cn", 
+        "fuzzer": "bitsquatting", 
+        "geoip-country": "China", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-ns": [
+            "ns1.sfn.cn", 
+            "ns2.sfn.cn"
+        ], 
+        "domain-name": "cic.gov.cn", 
+        "fuzzer": "bitsquatting"
+    }, 
+    {
+        "dns-ns": [
+            "dns7.hichina.com", 
+            "dns8.hichina.com"
+        ], 
+        "domain-name": "cqc.gov.cn", 
+        "fuzzer": "bitsquatting"
+    }, 
+    {
+        "dns-a": [
+            "219.140.160.66"
+        ], 
+        "dns-mx": [
+            "mxbiz1.qq.com", 
+            "mxbiz2.qq.com"
+        ], 
+        "dns-ns": [
+            "dns7.hichina.com", 
+            "dns8.hichina.com"
+        ], 
+        "domain-name": "caa.gov.cn", 
+        "fuzzer": "bitsquatting", 
+        "geoip-country": "China", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-ns": [
+            "f1g1ns1.dnspod.net", 
+            "f1g1ns2.dnspod.net"
+        ], 
+        "domain-name": "casc.gov.cn", 
+        "fuzzer": "insertion"
+    }, 
+    {
+        "dns-a": [
+            "112.124.180.225"
+        ], 
+        "dns-ns": [
+            "dns7.hichina.com", 
+            "dns8.hichina.com"
+        ], 
+        "domain-name": "czac.gov.cn", 
+        "fuzzer": "insertion", 
+        "geoip-country": "China", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "120.35.31.34"
+        ], 
+        "dns-ns": [
+            "ns1.sfn.cn", 
+            "ns2.sfn.cn"
+        ], 
+        "domain-name": "cc.gov.cn", 
+        "fuzzer": "omission", 
+        "geoip-country": "China", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-mx": [
+            "mail.caac.gov.cn", 
+            "mail1.caac.gov.cn"
+        ], 
+        "dns-ns": [
+            "ns1.caac.gov.cn", 
+            "ns2.caac.gov.cn"
+        ], 
+        "domain-name": "caac.gov.cn", 
+        "fuzzer": "repetition", 
+        "mx-spy": true
+    }, 
+    {
+        "dns-mx": [
+            "mail.cax.gov.cn"
+        ], 
+        "dns-ns": [
+            "dns7.hichina.com", 
+            "dns8.hichina.com"
+        ], 
+        "domain-name": "cax.gov.cn", 
+        "fuzzer": "replacement"
+    }, 
+    {
+        "dns-ns": [
+            "dns19.hichina.com", 
+            "dns20.hichina.com"
+        ], 
+        "domain-name": "xac.gov.cn", 
+        "fuzzer": "replacement"
+    }, 
+    {
+        "dns-a": [
+            "47.89.58.32"
+        ], 
+        "dns-ns": [
+            "dns15.hichina.com", 
+            "dns16.hichina.com"
+        ], 
+        "domain-name": "cac.cn", 
+        "fuzzer": "various"
+    }
+]

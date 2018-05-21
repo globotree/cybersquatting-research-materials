@@ -1,0 +1,148 @@
+[
+    {
+        "dns-a": [
+            "2.16.100.113", 
+            "2.16.100.83"
+        ], 
+        "dns-mx": [
+            "vmx5.spamcop.net"
+        ], 
+        "dns-ns": [
+            "asia3.akam.net", 
+            "ns1-109.akam.net", 
+            "ns1-11.akam.net", 
+            "ns1-117.akam.net", 
+            "ns1-73.akam.net", 
+            "ns1-90.akam.net", 
+            "ns1-93.akam.net", 
+            "use1.akam.net"
+        ], 
+        "domain-name": "spamcop.net", 
+        "fuzzer": "original*", 
+        "geoip-country": "Europe", 
+        "ssdeep-score": 97
+    }, 
+    {
+        "dns-a": [
+            "174.129.25.170", 
+            "50.63.202.52"
+        ], 
+        "dns-ns": [
+            "ns33.domaincontrol.com", 
+            "ns34.domaincontrol.com"
+        ], 
+        "domain-name": "spamcops.net", 
+        "fuzzer": "addition", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "195.22.4.21"
+        ], 
+        "dns-mx": [
+            "mx1.spamcox.net", 
+            "mx2.spamcox.net"
+        ], 
+        "dns-ns": [
+            "ns1.spamcox.net", 
+            "ns2.spamcox.net", 
+            "ns3.spamcox.net", 
+            "ns4.spamcox.net"
+        ], 
+        "domain-name": "spamcox.net", 
+        "fuzzer": "bitsquatting", 
+        "geoip-country": "Portugal", 
+        "mx-spy": true, 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "67.192.185.197"
+        ], 
+        "dns-mx": [
+            "4.rack-host.net"
+        ], 
+        "dns-ns": [
+            "ns1.dynadot.com", 
+            "ns2.dynadot.com"
+        ], 
+        "domain-name": "spancop.net", 
+        "fuzzer": "homoglyph", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "34.197.90.97"
+        ], 
+        "domain-name": "spamco.net", 
+        "fuzzer": "omission", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "216.239.32.21", 
+            "216.239.34.21", 
+            "216.239.36.21", 
+            "216.239.38.21"
+        ], 
+        "dns-mx": [
+            "alt1.aspmx.l.google.com", 
+            "alt2.aspmx.l.google.com", 
+            "aspmx.l.google.com", 
+            "aspmx2.googlemail.com", 
+            "aspmx3.googlemail.com", 
+            "aspmx4.googlemail.com", 
+            "aspmx5.googlemail.com"
+        ], 
+        "dns-ns": [
+            "dns1.name-services.com", 
+            "dns2.name-services.com", 
+            "dns3.name-services.com", 
+            "dns4.name-services.com", 
+            "dns5.name-services.com"
+        ], 
+        "domain-name": "samcop.net", 
+        "fuzzer": "omission", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "98.124.199.110"
+        ], 
+        "dns-mx": [
+            "mx.spamcom.net.cust.a.hostedemail.com"
+        ], 
+        "dns-ns": [
+            "dns1.name-services.com", 
+            "dns2.name-services.com", 
+            "dns3.name-services.com", 
+            "dns4.name-services.com", 
+            "dns5.name-services.com"
+        ], 
+        "domain-name": "spamcom.net", 
+        "fuzzer": "replacement", 
+        "geoip-country": "United States"
+    }, 
+    {
+        "dns-a": [
+            "108.167.135.72"
+        ], 
+        "domain-name": "sp.amcop.net", 
+        "fuzzer": "subdomain", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "207.148.248.143"
+        ], 
+        "domain-name": "spa.mcop.net", 
+        "fuzzer": "subdomain", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 0
+    }
+]

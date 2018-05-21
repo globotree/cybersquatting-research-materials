@@ -1,0 +1,33 @@
+[
+    {
+        "dns-a": [
+            "204.51.94.213"
+        ], 
+        "dns-mx": [
+            "sans-edu.mail.protection.outlook.com"
+        ], 
+        "dns-ns": [
+            "dns21a.sans.org", 
+            "dns21b.sans.org", 
+            "dns31a.sans.org", 
+            "dns31b.sans.org"
+        ], 
+        "domain-name": "sans.edu", 
+        "fuzzer": "original*", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 100
+    }, 
+    {
+        "dns-mx": [
+            "cuda.sals.edu", 
+            "sals-edu.mail.protection.outlook.com"
+        ], 
+        "dns-ns": [
+            "ns3.level3.net", 
+            "ns4.level3.net", 
+            "ws1.sals.edu"
+        ], 
+        "domain-name": "sals.edu", 
+        "fuzzer": "bitsquatting"
+    }
+]

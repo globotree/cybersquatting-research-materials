@@ -1,0 +1,177 @@
+[
+    {
+        "dns-mx": [
+            "postrelay1.lrz.de", 
+            "postrelay2.lrz.de"
+        ], 
+        "dns-ns": [
+            "dns1.lrz.de", 
+            "dns2.lrz.bayern", 
+            "dns3.lrz.eu"
+        ], 
+        "domain-name": "uni-muenchen.de", 
+        "fuzzer": "original*"
+    }, 
+    {
+        "dns-ns": [
+            "dns1.lrz.de", 
+            "dns2.lrz.bayern", 
+            "dns3.lrz.eu"
+        ], 
+        "domain-name": "uni-muenche.de", 
+        "fuzzer": "omission"
+    }, 
+    {
+        "dns-a": [
+            "185.53.178.6"
+        ], 
+        "dns-mx": [
+            "mail.h-email.net"
+        ], 
+        "dns-ns": [
+            "ns1.parkingcrew.net", 
+            "ns2.parkingcrew.net"
+        ], 
+        "domain-name": "un-muenchen.de", 
+        "fuzzer": "omission", 
+        "geoip-country": "Germany", 
+        "mx-spy": true
+    }, 
+    {
+        "dns-a": [
+            "213.83.9.149"
+        ], 
+        "dns-ns": [
+            "a.ns14.net", 
+            "b.ns14.net", 
+            "c.ns14.net", 
+            "d.ns14.net"
+        ], 
+        "domain-name": "uni-munchen.de", 
+        "fuzzer": "omission", 
+        "geoip-country": "Germany"
+    }, 
+    {
+        "dns-ns": [
+            "dns1.lrz.de", 
+            "dns2.lrz.bayern", 
+            "dns3.lrz.eu"
+        ], 
+        "domain-name": "uni-muenchn.de", 
+        "fuzzer": "omission"
+    }, 
+    {
+        "dns-ns": [
+            "dns1.lrz.de", 
+            "dns2.lrz.bayern", 
+            "dns3.lrz.eu"
+        ], 
+        "domain-name": "uni-muechen.de", 
+        "fuzzer": "omission"
+    }, 
+    {
+        "dns-ns": [
+            "dns1.lrz.de", 
+            "dns2.lrz.bayern", 
+            "dns3.lrz.eu"
+        ], 
+        "domain-name": "unimuenchen.de", 
+        "fuzzer": "omission"
+    }, 
+    {
+        "dns-ns": [
+            "dns1.lrz.de", 
+            "dns2.lrz.bayern", 
+            "dns3.lrz.eu"
+        ], 
+        "domain-name": "uni-menchen.de", 
+        "fuzzer": "omission"
+    }, 
+    {
+        "dns-a": [
+            "176.28.12.209"
+        ], 
+        "dns-mx": [
+            "mail.ui-muenchen.de", 
+            "mailin.campusspeicher.de"
+        ], 
+        "dns-ns": [
+            "dns1.mediafam.de", 
+            "dns2.mediafam.de", 
+            "dns3.mediafam.de", 
+            "dns4.mediafam.de"
+        ], 
+        "domain-name": "ui-muenchen.de", 
+        "fuzzer": "omission", 
+        "geoip-country": "Germany"
+    }, 
+    {
+        "dns-a": [
+            "81.169.253.234"
+        ], 
+        "dns-mx": [
+            "server6.andrehotzler.de"
+        ], 
+        "dns-ns": [
+            "a.ns14.net", 
+            "b.ns14.net", 
+            "c.ns14.net", 
+            "d.ns14.net"
+        ], 
+        "domain-name": "ni-muenchen.de", 
+        "fuzzer": "omission", 
+        "geoip-country": "Germany"
+    }, 
+    {
+        "dns-ns": [
+            "dns1.lrz.de", 
+            "dns2.lrz.bayern", 
+            "dns3.lrz.eu"
+        ], 
+        "domain-name": "uni-muencen.de", 
+        "fuzzer": "omission"
+    }, 
+    {
+        "dns-a": [
+            "134.119.234.131"
+        ], 
+        "dns-aaaa": [
+            "2a00:1158:2d:300::83"
+        ], 
+        "dns-mx": [
+            "mxlb.ispgateway.de"
+        ], 
+        "dns-ns": [
+            "ns.namespace4you.de", 
+            "ns2.namespace4you.de"
+        ], 
+        "domain-name": "ini-muenchen.de", 
+        "fuzzer": "replacement", 
+        "geoip-country": "Germany"
+    }, 
+    {
+        "dns-a": [
+            "212.162.56.253"
+        ], 
+        "domain-name": "uni-mue.nchen.de", 
+        "fuzzer": "subdomain", 
+        "geoip-country": "Germany"
+    }, 
+    {
+        "dns-a": [
+            "89.31.143.100"
+        ], 
+        "domain-name": "uni-muench.en.de", 
+        "fuzzer": "subdomain", 
+        "geoip-country": "Germany"
+    }, 
+    {
+        "dns-ns": [
+            "dns1.lrz.de", 
+            "dns2.lrz.bayern", 
+            "dns3.lrz.eu"
+        ], 
+        "domain-name": "uni-meunchen.de", 
+        "fuzzer": "transposition"
+    }
+]

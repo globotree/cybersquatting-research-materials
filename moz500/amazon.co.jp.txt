@@ -1,0 +1,79 @@
+[
+    {
+        "dns-a": [
+            "52.119.161.5", 
+            "52.119.164.121", 
+            "52.119.168.48"
+        ], 
+        "dns-mx": [
+            "amazon-smtp.amazon.com"
+        ], 
+        "dns-ns": [
+            "ns1.p31.dynect.net", 
+            "ns2.p31.dynect.net", 
+            "ns3.p31.dynect.net", 
+            "ns4.p31.dynect.net", 
+            "pdns1.ultradns.net", 
+            "pdns2.ultradns.net", 
+            "pdns3.ultradns.org", 
+            "pdns4.ultradns.org", 
+            "pdns5.ultradns.info", 
+            "pdns6.ultradns.co.uk"
+        ], 
+        "domain-name": "amazon.co.jp", 
+        "fuzzer": "original*", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 46
+    }, 
+    {
+        "dns-a": [
+            "150.95.249.1"
+        ], 
+        "dns-mx": [
+            "mx10.gmoserver.jp"
+        ], 
+        "dns-ns": [
+            "dns01.gmoserver.jp", 
+            "dns02.gmoserver.jp"
+        ], 
+        "domain-name": "amaton.co.jp", 
+        "fuzzer": "replacement", 
+        "geoip-country": "Japan"
+    }, 
+    {
+        "dns-a": [
+            "54.240.248.0", 
+            "54.240.250.0", 
+            "54.240.252.0"
+        ], 
+        "dns-mx": [
+            "smtp-0101.amazon.com", 
+            "smtp-0102.amazon.com", 
+            "smtp-2101.amazon.com", 
+            "smtp-2102.amazon.com"
+        ], 
+        "dns-ns": [
+            "ns1.p31.dynect.net", 
+            "ns2.p31.dynect.net", 
+            "ns3.p31.dynect.net", 
+            "ns4.p31.dynect.net", 
+            "pdns1.ultradns.net", 
+            "pdns2.ultradns.net", 
+            "pdns3.ultradns.org", 
+            "pdns4.ultradns.org", 
+            "pdns5.ultradns.info", 
+            "pdns6.ultradns.co.uk"
+        ], 
+        "domain-name": "amazon.jp", 
+        "fuzzer": "various"
+    }, 
+    {
+        "dns-ns": [
+            "ns-1.amazon.com", 
+            "ns-2.amazon.com", 
+            "ns-3.amazon.com"
+        ], 
+        "domain-name": "amazonco.jp", 
+        "fuzzer": "various"
+    }
+]

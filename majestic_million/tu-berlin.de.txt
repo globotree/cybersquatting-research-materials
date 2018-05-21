@@ -1,0 +1,525 @@
+[
+    {
+        "dns-a": [
+            "130.149.7.201"
+        ], 
+        "dns-mx": [
+            "a1861.mx.srv.dfn.de", 
+            "b1861.mx.srv.dfn.de", 
+            "c1861.mx.srv.dfn.de", 
+            "mfilter-186-1-1.mx.srv.dfn.de", 
+            "mfilter-186-1-2.mx.srv.dfn.de", 
+            "mfilter-186-1-3.mx.srv.dfn.de"
+        ], 
+        "dns-ns": [
+            "dns-2.dfn.de", 
+            "dns-3.dfn.de", 
+            "ns.tu-berlin.de"
+        ], 
+        "domain-name": "tu-berlin.de", 
+        "fuzzer": "original*", 
+        "geoip-country": "Germany", 
+        "ssdeep-score": 100
+    }, 
+    {
+        "dns-ns": [
+            "5107719043.earth.orderbox-dns.com", 
+            "5107719043.mars.orderbox-dns.com", 
+            "5107719043.mercury.orderbox-dns.com", 
+            "5107719043.venus.orderbox-dns.com"
+        ], 
+        "domain-name": "pu-berlin.de", 
+        "fuzzer": "bitsquatting"
+    }, 
+    {
+        "dns-a": [
+            "217.160.231.216"
+        ], 
+        "dns-mx": [
+            "mx00.schlund.de", 
+            "mx01.schlund.de"
+        ], 
+        "dns-ns": [
+            "ns15.schlund.de", 
+            "ns16.schlund.de"
+        ], 
+        "domain-name": "du-berlin.de", 
+        "fuzzer": "bitsquatting", 
+        "geoip-country": "Germany", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "94.130.6.21"
+        ], 
+        "dns-mx": [
+            "mx00.kundenserver.de", 
+            "mx01.kundenserver.de"
+        ], 
+        "dns-ns": [
+            "ns65.1und1.de", 
+            "ns66.1und1.de"
+        ], 
+        "domain-name": "tt-berlin.de", 
+        "fuzzer": "bitsquatting", 
+        "geoip-country": "Ukraine", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "80.150.6.143"
+        ], 
+        "dns-aaaa": [
+            "2003:2:2:15:80:150:6:143"
+        ], 
+        "dns-mx": [
+            "smtp-01.tld.t-online.de", 
+            "smtp-02.tld.t-online.de"
+        ], 
+        "dns-ns": [
+            "dns01-tld.t-online.de", 
+            "dns02-tld.t-online.de"
+        ], 
+        "domain-name": "tq-berlin.de", 
+        "fuzzer": "bitsquatting", 
+        "geoip-country": "Germany", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "217.160.0.204"
+        ], 
+        "dns-mx": [
+            "mx00.kundenserver.de", 
+            "mx01.kundenserver.de"
+        ], 
+        "dns-ns": [
+            "ns55.1und1.de", 
+            "ns56.1und1.de"
+        ], 
+        "domain-name": "te-berlin.de", 
+        "fuzzer": "bitsquatting", 
+        "geoip-country": "Germany", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "95.130.17.36"
+        ], 
+        "dns-mx": [
+            "mail.vw-ab.de"
+        ], 
+        "dns-ns": [
+            "dns.dns1.de", 
+            "dns.dns2.de", 
+            "dns.dns3.de", 
+            "dns.dns4.de"
+        ], 
+        "domain-name": "t5-berlin.de", 
+        "fuzzer": "bitsquatting", 
+        "geoip-country": "Germany", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-mx": [
+            "mail.tu-beriin.de"
+        ], 
+        "dns-ns": [
+            "ns.tu-beriin.de", 
+            "ns2.tu-beriin.de"
+        ], 
+        "domain-name": "tu-beriin.de", 
+        "fuzzer": "homoglyph"
+    }, 
+    {
+        "dns-a": [
+            "217.160.231.54"
+        ], 
+        "dns-mx": [
+            "mx00.kundenserver.de", 
+            "mx01.kundenserver.de"
+        ], 
+        "dns-ns": [
+            "ns49.1und1.de", 
+            "ns50.1und1.de"
+        ], 
+        "domain-name": "tuh-berlin.de", 
+        "fuzzer": "insertion", 
+        "geoip-country": "Germany", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-ns": [
+            "ns1.domaindiscount24.net", 
+            "ns2.domaindiscount24.net", 
+            "ns3.domaindiscount24.net"
+        ], 
+        "domain-name": "tui-berlin.de", 
+        "fuzzer": "insertion"
+    }, 
+    {
+        "dns-a": [
+            "185.53.178.9"
+        ], 
+        "dns-mx": [
+            "mail.h-email.net"
+        ], 
+        "dns-ns": [
+            "ns1.parkingcrew.net", 
+            "ns2.parkingcrew.net"
+        ], 
+        "domain-name": "tu-erlin.de", 
+        "fuzzer": "omission", 
+        "geoip-country": "Germany", 
+        "mx-spy": true, 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "72.52.179.175"
+        ], 
+        "dns-mx": [
+            "mx156.hostedmxserver.com"
+        ], 
+        "dns-ns": [
+            "ns1.parklogic.com", 
+            "ns2.parklogic.com", 
+            "ns3.parklogic.com"
+        ], 
+        "domain-name": "tu-belin.de", 
+        "fuzzer": "omission", 
+        "geoip-country": "United States", 
+        "mx-spy": true, 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-ns": [
+            "dns-1.dfn.de", 
+            "dns-2.dfn.de", 
+            "dns-3.dfn.de"
+        ], 
+        "domain-name": "tuberlin.de", 
+        "fuzzer": "omission"
+    }, 
+    {
+        "dns-a": [
+            "185.53.179.8"
+        ], 
+        "dns-mx": [
+            "mail.h-email.net"
+        ], 
+        "dns-ns": [
+            "ns1.parkingcrew.net", 
+            "ns2.parkingcrew.net"
+        ], 
+        "domain-name": "tu-berli.de", 
+        "fuzzer": "omission", 
+        "geoip-country": "Germany", 
+        "mx-spy": true, 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-mx": [
+            "mailx.tcommerce.de"
+        ], 
+        "dns-ns": [
+            "pns.dtag.de", 
+            "secondary006.dtag.net", 
+            "support.mesch.dtag.de"
+        ], 
+        "domain-name": "t-berlin.de", 
+        "fuzzer": "omission"
+    }, 
+    {
+        "dns-a": [
+            "85.13.138.203"
+        ], 
+        "dns-mx": [
+            "w0155100.kasserver.com"
+        ], 
+        "dns-ns": [
+            "ns5.kasserver.com", 
+            "ns6.kasserver.com"
+        ], 
+        "domain-name": "u-berlin.de", 
+        "fuzzer": "omission", 
+        "geoip-country": "Germany"
+    }, 
+    {
+        "dns-a": [
+            "72.52.179.175"
+        ], 
+        "dns-mx": [
+            "mx156.hostedmxserver.com"
+        ], 
+        "dns-ns": [
+            "ns1.parklogic.com", 
+            "ns2.parklogic.com", 
+            "ns3.parklogic.com"
+        ], 
+        "domain-name": "tu-berln.de", 
+        "fuzzer": "omission", 
+        "geoip-country": "United States", 
+        "mx-spy": true, 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "185.53.178.7"
+        ], 
+        "dns-mx": [
+            "mail.h-email.net"
+        ], 
+        "dns-ns": [
+            "ns1.parkingcrew.net", 
+            "ns2.parkingcrew.net"
+        ], 
+        "domain-name": "tu-berin.de", 
+        "fuzzer": "omission", 
+        "geoip-country": "Germany", 
+        "mx-spy": true, 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "217.160.223.134"
+        ], 
+        "dns-mx": [
+            "mx00.schlund.de", 
+            "mx01.schlund.de"
+        ], 
+        "dns-ns": [
+            "ns3.schlund.de", 
+            "ns4.schlund.de"
+        ], 
+        "domain-name": "yu-berlin.de", 
+        "fuzzer": "replacement", 
+        "geoip-country": "Germany", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "81.169.145.158"
+        ], 
+        "dns-aaaa": [
+            "2a01:238:20a:202:1158::"
+        ], 
+        "dns-mx": [
+            "smtpin.rzone.de"
+        ], 
+        "dns-ns": [
+            "docks02.rzone.de", 
+            "shades20.rzone.de"
+        ], 
+        "domain-name": "th-berlin.de", 
+        "fuzzer": "replacement", 
+        "geoip-country": "Germany", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "81.169.145.82"
+        ], 
+        "dns-aaaa": [
+            "2a01:238:20a:202:1082::"
+        ], 
+        "dns-mx": [
+            "smtp.rzone.de"
+        ], 
+        "dns-ns": [
+            "docks14.rzone.de", 
+            "shades03.rzone.de"
+        ], 
+        "domain-name": "ru-berlin.de", 
+        "fuzzer": "replacement", 
+        "geoip-country": "Germany", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "84.200.97.33"
+        ], 
+        "dns-mx": [
+            "mail.tz-berlin.de"
+        ], 
+        "dns-ns": [
+            "ns1.routing.net", 
+            "ns2.routing.net", 
+            "ns3.routing.net"
+        ], 
+        "domain-name": "tz-berlin.de", 
+        "fuzzer": "replacement", 
+        "geoip-country": "Germany"
+    }, 
+    {
+        "dns-a": [
+            "160.45.170.10"
+        ], 
+        "dns-mx": [
+            "mail.fu-berlin.de"
+        ], 
+        "dns-ns": [
+            "atalante.stanford.edu", 
+            "dns-2.dfn.de", 
+            "ns1.fu-berlin.de", 
+            "ns2.fu-berlin.de", 
+            "ns3.fu-berlin.de"
+        ], 
+        "domain-name": "fu-berlin.de", 
+        "fuzzer": "replacement", 
+        "geoip-country": "Germany", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "130.185.109.77"
+        ], 
+        "dns-aaaa": [
+            "2a01:4a0:2002:4:1da9:a99f:5423:3cf1"
+        ], 
+        "dns-mx": [
+            "gu-berlin.de"
+        ], 
+        "dns-ns": [
+            "ns.checkdomain.de", 
+            "ns2.checkdomain.de"
+        ], 
+        "domain-name": "gu-berlin.de", 
+        "fuzzer": "replacement"
+    }, 
+    {
+        "dns-a": [
+            "81.169.145.161"
+        ], 
+        "dns-aaaa": [
+            "2a01:238:20a:202:1161::"
+        ], 
+        "dns-mx": [
+            "smtp.rzone.de"
+        ], 
+        "dns-ns": [
+            "docks04.rzone.de", 
+            "shades14.rzone.de"
+        ], 
+        "domain-name": "zu-berlin.de", 
+        "fuzzer": "replacement", 
+        "geoip-country": "Germany", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "85.13.138.203"
+        ], 
+        "domain-name": "t.u-berlin.de", 
+        "fuzzer": "subdomain", 
+        "geoip-country": "Germany"
+    }, 
+    {
+        "dns-a": [
+            "95.211.117.215"
+        ], 
+        "domain-name": "tu-b.erlin.de", 
+        "fuzzer": "subdomain", 
+        "geoip-country": "Netherlands"
+    }, 
+    {
+        "dns-a": [
+            "212.53.129.162"
+        ], 
+        "domain-name": "tu-be.rlin.de", 
+        "fuzzer": "subdomain", 
+        "geoip-country": "Germany"
+    }, 
+    {
+        "dns-a": [
+            "88.99.192.80"
+        ], 
+        "dns-ns": [
+            "ns1.kv.de", 
+            "ns2.kv.de"
+        ], 
+        "domain-name": "tu-ber.lin.de", 
+        "fuzzer": "subdomain", 
+        "geoip-country": "Germany", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "85.13.152.48"
+        ], 
+        "dns-mx": [
+            "w00cbc4e.kasserver.com"
+        ], 
+        "dns-ns": [
+            "ns5.kasserver.com", 
+            "ns6.kasserver.com"
+        ], 
+        "domain-name": "ut-berlin.de", 
+        "fuzzer": "transposition", 
+        "geoip-country": "Germany", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "72.52.179.175"
+        ], 
+        "dns-mx": [
+            "mx156.hostedmxserver.com"
+        ], 
+        "dns-ns": [
+            "ns1.parklogic.com", 
+            "ns2.parklogic.com", 
+            "ns3.parklogic.com"
+        ], 
+        "domain-name": "tu-belrin.de", 
+        "fuzzer": "transposition"
+    }, 
+    {
+        "dns-a": [
+            "144.76.102.246"
+        ], 
+        "dns-ns": [
+            "ns01.centralserver.de", 
+            "ns02.centralserver.de", 
+            "ns03.centralserver.de"
+        ], 
+        "domain-name": "tu-beriln.de", 
+        "fuzzer": "transposition", 
+        "geoip-country": "Germany", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "80.237.133.20"
+        ], 
+        "dns-aaaa": [
+            "2a01:488:42:1000:50ed:8514:ff76:5028"
+        ], 
+        "dns-mx": [
+            "mx0.to-berlin.de"
+        ], 
+        "dns-ns": [
+            "a1.wpns.hosteurope.de", 
+            "a1.wsns.hosteurope.de"
+        ], 
+        "domain-name": "to-berlin.de", 
+        "fuzzer": "vowel-swap", 
+        "geoip-country": "Germany", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "176.94.152.26"
+        ], 
+        "dns-mx": [
+            "mx01.vegasystems.de", 
+            "mx03.vegasystems.de"
+        ], 
+        "dns-ns": [
+            "ns1.vegasystems.de", 
+            "ns2.vegasystems.net"
+        ], 
+        "domain-name": "ta-berlin.de", 
+        "fuzzer": "vowel-swap"
+    }
+]

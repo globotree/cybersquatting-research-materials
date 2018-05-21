@@ -1,0 +1,26 @@
+[
+    {
+        "dns-mx": [
+            "mail.workercn.cn"
+        ], 
+        "dns-ns": [
+            "dns1.fastcdn.com", 
+            "dns2.fastcdn.com", 
+            "dns3.fastcdn.com", 
+            "dns4.fastcdn.com", 
+            "dns5.fastcdn.com", 
+            "dns6.fastcdn.com", 
+            "dns7.fastcdn.com"
+        ], 
+        "domain-name": "workercn.cn", 
+        "fuzzer": "original*"
+    }, 
+    {
+        "dns-a": [
+            "23.234.53.198"
+        ], 
+        "domain-name": "work.ercn.cn", 
+        "fuzzer": "subdomain", 
+        "geoip-country": "United States"
+    }
+]

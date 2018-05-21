@@ -1,0 +1,64 @@
+[
+    {
+        "dns-a": [
+            "207.232.26.149"
+        ], 
+        "dns-mx": [
+            "mail.yadvashem.org.il"
+        ], 
+        "dns-ns": [
+            "dns.netvision.net.il", 
+            "nypop.netvision.net.il"
+        ], 
+        "domain-name": "yadvashem.org", 
+        "fuzzer": "original*", 
+        "geoip-country": "Israel", 
+        "ssdeep-score": 91
+    }, 
+    {
+        "dns-a": [
+            "103.224.182.241"
+        ], 
+        "dns-mx": [
+            "park-mx.above.com"
+        ], 
+        "dns-ns": [
+            "ns1.above.com", 
+            "ns2.above.com"
+        ], 
+        "domain-name": "yadveshem.org", 
+        "fuzzer": "bitsquatting", 
+        "geoip-country": "Australia", 
+        "mx-spy": true, 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "199.191.50.73"
+        ], 
+        "dns-ns": [
+            "ns111373.ztomy.com", 
+            "ns211373.ztomy.com"
+        ], 
+        "domain-name": "yavashem.org", 
+        "fuzzer": "omission", 
+        "geoip-country": "Virgin Islands", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "198.199.66.216"
+        ], 
+        "domain-name": "yadvas.hem.org", 
+        "fuzzer": "subdomain", 
+        "geoip-country": "United States"
+    }, 
+    {
+        "dns-a": [
+            "68.178.213.61"
+        ], 
+        "domain-name": "yadvashe.m.org", 
+        "fuzzer": "subdomain", 
+        "geoip-country": "United States"
+    }
+]

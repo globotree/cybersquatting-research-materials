@@ -1,0 +1,96 @@
+[
+    {
+        "dns-mx": [
+            "mail.rmgops.com"
+        ], 
+        "dns-ns": [
+            "ns1.p139.dynect.net", 
+            "ns2.p139.dynect.net", 
+            "ns3.p139.dynect.net", 
+            "ns4.p139.dynect.net"
+        ], 
+        "domain-name": "linksynergy.com", 
+        "fuzzer": "original*"
+    }, 
+    {
+        "dns-a": [
+            "184.168.25.1"
+        ], 
+        "dns-mx": [
+            "mailstore1.secureserver.net", 
+            "smtp.secureserver.net"
+        ], 
+        "dns-ns": [
+            "ns53.domaincontrol.com", 
+            "ns54.domaincontrol.com"
+        ], 
+        "domain-name": "linksynerqy.com", 
+        "fuzzer": "homoglyph", 
+        "geoip-country": "United States"
+    }, 
+    {
+        "dns-a": [
+            "103.224.182.244"
+        ], 
+        "dns-mx": [
+            "park-mx.above.com"
+        ], 
+        "dns-ns": [
+            "ns1.above.com", 
+            "ns2.above.com"
+        ], 
+        "domain-name": "inksynergy.com", 
+        "fuzzer": "omission", 
+        "geoip-country": "Australia", 
+        "mx-spy": true
+    }, 
+    {
+        "dns-a": [
+            "173.45.244.228"
+        ], 
+        "dns-mx": [
+            "mail.linkzynergy.com"
+        ], 
+        "dns-ns": [
+            "ns1.slicehost.net", 
+            "ns2.slicehost.net", 
+            "ns3.slicehost.net"
+        ], 
+        "domain-name": "linkzynergy.com", 
+        "fuzzer": "replacement", 
+        "geoip-country": "United States"
+    }, 
+    {
+        "dns-a": [
+            "103.224.182.244"
+        ], 
+        "dns-mx": [
+            "park-mx.above.com"
+        ], 
+        "dns-ns": [
+            "ns1.above.com", 
+            "ns2.above.com"
+        ], 
+        "domain-name": "l.inksynergy.com", 
+        "fuzzer": "subdomain"
+    }, 
+    {
+        "dns-a": [
+            "173.239.23.228"
+        ], 
+        "domain-name": "linksy.nergy.com", 
+        "fuzzer": "subdomain", 
+        "geoip-country": "United States"
+    }, 
+    {
+        "dns-a": [
+            "66.96.161.159"
+        ], 
+        "dns-mx": [
+            "mx.rgy.com"
+        ], 
+        "domain-name": "linksyne.rgy.com", 
+        "fuzzer": "subdomain", 
+        "geoip-country": "United States"
+    }
+]

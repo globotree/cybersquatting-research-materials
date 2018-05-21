@@ -1,0 +1,187 @@
+[
+    {
+        "dns-ns": [
+            "PCH.RCP.pe", 
+            "PE1.DNSNODE.NET", 
+            "QUIPU.RCP.NET.pe", 
+            "SNS-PB.ISC.ORG"
+        ], 
+        "domain-name": "gob.pe", 
+        "fuzzer": "original*"
+    }, 
+    {
+        "dns-a": [
+            "50.63.202.49"
+        ], 
+        "dns-mx": [
+            "mailstore1.secureserver.net", 
+            "smtp.secureserver.net"
+        ], 
+        "dns-ns": [
+            "ns29.domaincontrol.com", 
+            "ns30.domaincontrol.com"
+        ], 
+        "domain-name": "gobe.pe", 
+        "fuzzer": "addition", 
+        "geoip-country": "United States"
+    }, 
+    {
+        "dns-a": [
+            "192.185.165.194"
+        ], 
+        "dns-mx": [
+            "mx.zoho.com", 
+            "mx2.zoho.com"
+        ], 
+        "dns-ns": [
+            "ns927.websitewelcome.com", 
+            "ns928.websitewelcome.com"
+        ], 
+        "domain-name": "gobg.pe", 
+        "fuzzer": "addition", 
+        "geoip-country": "United States"
+    }, 
+    {
+        "dns-mx": [
+            "alt1.aspmx.l.google.com", 
+            "alt2.aspmx.l.google.com", 
+            "alt3.aspmx.l.google.com", 
+            "alt4.aspmx.l.google.com", 
+            "aspmx.l.google.com"
+        ], 
+        "dns-ns": [
+            "ns-1443.awsdns-52.org", 
+            "ns-2016.awsdns-60.co.uk", 
+            "ns-245.awsdns-30.com", 
+            "ns-913.awsdns-50.net"
+        ], 
+        "domain-name": "fob.pe", 
+        "fuzzer": "bitsquatting"
+    }, 
+    {
+        "dns-a": [
+            "83.100.84.147"
+        ], 
+        "dns-mx": [
+            "mx10.tdc.fi", 
+            "mx11.tdc.fi", 
+            "mx12.tdc.fi"
+        ], 
+        "dns-ns": [
+            "a.dns.gandi.net", 
+            "b.dns.gandi.net", 
+            "c.dns.gandi.net"
+        ], 
+        "domain-name": "oob.pe", 
+        "fuzzer": "bitsquatting", 
+        "geoip-country": "Finland"
+    }, 
+    {
+        "dns-a": [
+            "104.238.136.248"
+        ], 
+        "dns-mx": [
+            "ALT1.ASPMX.L.GOOGLE.COM", 
+            "ALT2.ASPMX.L.GOOGLE.COM", 
+            "ASPMX.L.GOOGLE.COM", 
+            "ASPMX2.GOOGLEMAIL.COM", 
+            "ASPMX3.GOOGLEMAIL.COM"
+        ], 
+        "dns-ns": [
+            "dns1.stabletransit.com", 
+            "dns2.stabletransit.com"
+        ], 
+        "domain-name": "go.pe", 
+        "fuzzer": "omission", 
+        "geoip-country": "United States"
+    }, 
+    {
+        "dns-a": [
+            "54.243.56.179"
+        ], 
+        "dns-ns": [
+            "ns1.jnj.com", 
+            "ns3.jnj.com", 
+            "ns5.jnj.com"
+        ], 
+        "domain-name": "ob.pe", 
+        "fuzzer": "omission", 
+        "geoip-country": "United States"
+    }, 
+    {
+        "dns-a": [
+            "69.172.201.153"
+        ], 
+        "dns-ns": [
+            "ns1.uniregistrymarket.link", 
+            "ns2.uniregistrymarket.link"
+        ], 
+        "domain-name": "gb.pe", 
+        "fuzzer": "omission", 
+        "geoip-country": "United States"
+    }, 
+    {
+        "dns-a": [
+            "161.132.118.36"
+        ], 
+        "dns-mx": [
+            "relay.hobconsultores.com"
+        ], 
+        "dns-ns": [
+            "ns1.opticalip.com.pe", 
+            "ns2.opticalip.com.pe"
+        ], 
+        "domain-name": "hob.pe", 
+        "fuzzer": "replacement"
+    }, 
+    {
+        "dns-a": [
+            "103.224.182.250"
+        ], 
+        "dns-mx": [
+            "park-mx.above.com"
+        ], 
+        "dns-ns": [
+            "ns3.above.com", 
+            "ns4.above.com"
+        ], 
+        "domain-name": "gog.pe", 
+        "fuzzer": "replacement", 
+        "geoip-country": "Australia", 
+        "mx-spy": true
+    }, 
+    {
+        "dns-a": [
+            "199.59.242.150"
+        ], 
+        "domain-name": "go.b.pe", 
+        "fuzzer": "subdomain", 
+        "geoip-country": "United States"
+    }, 
+    {
+        "dns-mx": [
+            "mx.zoho.com", 
+            "mx2.zoho.com"
+        ], 
+        "dns-ns": [
+            "NS.RCP.NET.pe", 
+            "NS2.RCP.NET.pe"
+        ], 
+        "domain-name": "geb.pe", 
+        "fuzzer": "vowel-swap"
+    }, 
+    {
+        "dns-a": [
+            "192.185.169.164"
+        ], 
+        "dns-mx": [
+            "gab.pe"
+        ], 
+        "dns-ns": [
+            "ns233.websitewelcome.com", 
+            "ns234.websitewelcome.com"
+        ], 
+        "domain-name": "gab.pe", 
+        "fuzzer": "vowel-swap"
+    }
+]

@@ -1,0 +1,111 @@
+[
+    {
+        "dns-a": [
+            "133.145.228.249"
+        ], 
+        "dns-mx": [
+            "cluster8.us.messagelabs.com", 
+            "cluster8a.us.messagelabs.com"
+        ], 
+        "dns-ns": [
+            "a1-47.akam.net", 
+            "a13-66.akam.net", 
+            "a16-67.akam.net", 
+            "a24-64.akam.net", 
+            "a28-65.akam.net", 
+            "a3-66.akam.net"
+        ], 
+        "domain-name": "hitachi.co.jp", 
+        "fuzzer": "original*", 
+        "geoip-country": "Japan", 
+        "ssdeep-score": 100
+    }, 
+    {
+        "dns-mx": [
+            "smtp.hitachik.co.jp"
+        ], 
+        "dns-ns": [
+            "ns.dlsv.com", 
+            "ns2.dlsv.com", 
+            "ns3.dlsv.com"
+        ], 
+        "domain-name": "hitachik.co.jp", 
+        "fuzzer": "addition", 
+        "mx-spy": true
+    }, 
+    {
+        "dns-a": [
+            "219.94.203.110"
+        ], 
+        "dns-mx": [
+            "hatachi.co.jp"
+        ], 
+        "dns-ns": [
+            "ns1.xserver.jp", 
+            "ns2.xserver.jp", 
+            "ns3.xserver.jp", 
+            "ns4.xserver.jp", 
+            "ns5.xserver.jp"
+        ], 
+        "domain-name": "hatachi.co.jp", 
+        "fuzzer": "bitsquatting", 
+        "geoip-country": "Japan", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "120.136.10.54"
+        ], 
+        "dns-mx": [
+            "itachi.co.jp"
+        ], 
+        "dns-ns": [
+            "ns1.xserver.jp", 
+            "ns2.xserver.jp", 
+            "ns3.xserver.jp", 
+            "ns4.xserver.jp", 
+            "ns5.xserver.jp"
+        ], 
+        "domain-name": "itachi.co.jp", 
+        "fuzzer": "omission", 
+        "geoip-country": "Japan"
+    }, 
+    {
+        "dns-a": [
+            "103.55.13.47"
+        ], 
+        "dns-mx": [
+            "mail.hirachi.co.jp"
+        ], 
+        "dns-ns": [
+            "ns1.zen-sv.com", 
+            "ns2.zen-sv.com", 
+            "ns3.zen-sv.com"
+        ], 
+        "domain-name": "hirachi.co.jp", 
+        "fuzzer": "replacement", 
+        "geoip-country": "Japan", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "120.136.10.54"
+        ], 
+        "domain-name": "h.itachi.co.jp", 
+        "fuzzer": "subdomain", 
+        "geoip-country": "Japan", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-ns": [
+            "a1-47.akam.net", 
+            "a13-66.akam.net", 
+            "a16-67.akam.net", 
+            "a24-64.akam.net", 
+            "a28-65.akam.net", 
+            "a3-66.akam.net"
+        ], 
+        "domain-name": "hitachi.jp", 
+        "fuzzer": "various"
+    }
+]

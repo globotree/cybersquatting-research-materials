@@ -1,0 +1,24 @@
+[
+    {
+        "dns-mx": [
+            "mail.milliyet.com.tr"
+        ], 
+        "dns-ns": [
+            "ams.netdirekt.com.tr", 
+            "frk.netdirekt.com.tr", 
+            "ist.netdirekt.com.tr", 
+            "izm.netdirekt.com.tr"
+        ], 
+        "domain-name": "milliyet.com.tr", 
+        "fuzzer": "original*"
+    }, 
+    {
+        "dns-a": [
+            "188.138.124.217"
+        ], 
+        "domain-name": "milliy.et.com.tr", 
+        "fuzzer": "subdomain", 
+        "geoip-country": "Germany", 
+        "ssdeep-score": 0
+    }
+]

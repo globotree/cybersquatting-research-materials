@@ -1,0 +1,48 @@
+[
+    {
+        "dns-mx": [
+            "cluster3.eu.messagelabs.com", 
+            "cluster3a.eu.messagelabs.com"
+        ], 
+        "dns-ns": [
+            "ns0-f.dns.pipex.net", 
+            "ns1-f.dns.pipex.net"
+        ], 
+        "domain-name": "fsa.gov.uk", 
+        "fuzzer": "original*"
+    }, 
+    {
+        "dns-a": [
+            "217.69.40.156"
+        ], 
+        "dns-mx": [
+            "mail.dsa.gov.uk"
+        ], 
+        "dns-ns": [
+            "ns0.eechost.net", 
+            "ns2.eechost.net"
+        ], 
+        "domain-name": "dsa.gov.uk", 
+        "fuzzer": "bitsquatting", 
+        "geoip-country": "United Kingdom"
+    }, 
+    {
+        "dns-a": [
+            "185.26.230.129"
+        ], 
+        "dns-mx": [
+            "mail.info.csa.gov.uk", 
+            "relay1.netnames.net", 
+            "relay2.netnames.net"
+        ], 
+        "dns-ns": [
+            "ns1.netnames.net", 
+            "ns2.netnames.net", 
+            "ns5.netnames.net", 
+            "ns6.netnames.net"
+        ], 
+        "domain-name": "csa.gov.uk", 
+        "fuzzer": "replacement", 
+        "geoip-country": "United Kingdom"
+    }
+]

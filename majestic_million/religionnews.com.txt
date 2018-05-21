@@ -1,0 +1,96 @@
+[
+    {
+        "dns-a": [
+            "104.20.91.55", 
+            "104.20.92.55"
+        ], 
+        "dns-aaaa": [
+            "2400:cb00:2048:1::6814:5b37", 
+            "2400:cb00:2048:1::6814:5c37"
+        ], 
+        "dns-mx": [
+            "um-kip5.um.umsystem.edu", 
+            "um-kip6.um.umsystem.edu", 
+            "um-nip3.um.umsystem.edu", 
+            "um-nip4.um.umsystem.edu", 
+            "um-tip1.um.umsystem.edu", 
+            "um-tip2.um.umsystem.edu"
+        ], 
+        "dns-ns": [
+            "ajay.ns.cloudflare.com", 
+            "tess.ns.cloudflare.com"
+        ], 
+        "domain-name": "religionnews.com", 
+        "fuzzer": "original*", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 97
+    }, 
+    {
+        "dns-a": [
+            "184.168.221.63"
+        ], 
+        "dns-mx": [
+            "mailstore1.secureserver.net", 
+            "smtp.secureserver.net"
+        ], 
+        "dns-ns": [
+            "ns67.domaincontrol.com", 
+            "ns68.domaincontrol.com"
+        ], 
+        "domain-name": "religion-news.com", 
+        "fuzzer": "hyphenation", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "50.63.202.48"
+        ], 
+        "dns-mx": [
+            "mailstore1.secureserver.net", 
+            "smtp.secureserver.net"
+        ], 
+        "dns-ns": [
+            "ns49.domaincontrol.com", 
+            "ns50.domaincontrol.com"
+        ], 
+        "domain-name": "religionnewz.com", 
+        "fuzzer": "replacement", 
+        "geoip-country": "United States"
+    }, 
+    {
+        "dns-a": [
+            "216.21.239.197"
+        ], 
+        "domain-name": "relig.ionnews.com", 
+        "fuzzer": "subdomain", 
+        "geoip-country": "United States"
+    }, 
+    {
+        "dns-a": [
+            "69.172.201.153"
+        ], 
+        "domain-name": "religi.onnews.com", 
+        "fuzzer": "subdomain", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "69.172.201.153"
+        ], 
+        "domain-name": "religio.nnews.com", 
+        "fuzzer": "subdomain", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "64.30.224.118"
+        ], 
+        "domain-name": "religion.news.com", 
+        "fuzzer": "subdomain", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 0
+    }
+]

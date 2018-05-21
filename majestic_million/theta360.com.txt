@@ -1,0 +1,84 @@
+[
+    {
+        "dns-a": [
+            "54.243.165.204"
+        ], 
+        "dns-mx": [
+            "mail.theta360.com"
+        ], 
+        "dns-ns": [
+            "ns-1125.awsdns-12.org", 
+            "ns-1688.awsdns-19.co.uk", 
+            "ns-427.awsdns-53.com", 
+            "ns-893.awsdns-47.net"
+        ], 
+        "domain-name": "theta360.com", 
+        "fuzzer": "original*", 
+        "geoip-country": "United States", 
+        "mx-spy": true, 
+        "ssdeep-score": 100
+    }, 
+    {
+        "dns-a": [
+            "121.42.101.177"
+        ], 
+        "dns-ns": [
+            "dns13.hichina.com", 
+            "dns14.hichina.com"
+        ], 
+        "domain-name": "tieta360.com", 
+        "fuzzer": "bitsquatting", 
+        "geoip-country": "China", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "184.168.221.35"
+        ], 
+        "dns-mx": [
+            "mailstore1.secureserver.net", 
+            "smtp.secureserver.net"
+        ], 
+        "dns-ns": [
+            "ns67.domaincontrol.com", 
+            "ns68.domaincontrol.com"
+        ], 
+        "domain-name": "thetas360.com", 
+        "fuzzer": "insertion", 
+        "geoip-country": "United States"
+    }, 
+    {
+        "dns-a": [
+            "50.63.202.48"
+        ], 
+        "dns-mx": [
+            "mailstore1.secureserver.net", 
+            "smtp.secureserver.net"
+        ], 
+        "dns-ns": [
+            "ns41.domaincontrol.com", 
+            "ns42.domaincontrol.com"
+        ], 
+        "domain-name": "thera360.com", 
+        "fuzzer": "replacement", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "110.173.196.1"
+        ], 
+        "domain-name": "th.eta360.com", 
+        "fuzzer": "subdomain", 
+        "geoip-country": "China", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "210.51.48.244"
+        ], 
+        "domain-name": "the.ta360.com", 
+        "fuzzer": "subdomain", 
+        "geoip-country": "China"
+    }
+]

@@ -1,0 +1,68 @@
+[
+    {
+        "dns-a": [
+            "104.25.223.108", 
+            "104.25.224.108"
+        ], 
+        "dns-aaaa": [
+            "2400:cb00:2048:1::6819:df6c", 
+            "2400:cb00:2048:1::6819:e06c"
+        ], 
+        "dns-mx": [
+            "mail.muffingroup.com"
+        ], 
+        "dns-ns": [
+            "rachel.ns.cloudflare.com", 
+            "vern.ns.cloudflare.com"
+        ], 
+        "domain-name": "muffingroup.com", 
+        "fuzzer": "original*", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 100
+    }, 
+    {
+        "dns-a": [
+            "93.125.99.44"
+        ], 
+        "dns-mx": [
+            "mailbe03.hoster.by"
+        ], 
+        "dns-ns": [
+            "ns1.tutby.com", 
+            "ns2.tutby.com"
+        ], 
+        "domain-name": "muffin-group.com", 
+        "fuzzer": "hyphenation", 
+        "geoip-country": "Belarus", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "141.8.224.93"
+        ], 
+        "dns-ns": [
+            "ns7.rookdns.com", 
+            "ns8.rookdns.com"
+        ], 
+        "domain-name": "muffinggroup.com", 
+        "fuzzer": "repetition", 
+        "geoip-country": "Switzerland", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "98.124.199.121"
+        ], 
+        "dns-ns": [
+            "dns1.name-services.com", 
+            "dns2.name-services.com", 
+            "dns3.name-services.com", 
+            "dns4.name-services.com", 
+            "dns5.name-services.com"
+        ], 
+        "domain-name": "puffingroup.com", 
+        "fuzzer": "replacement", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 0
+    }
+]

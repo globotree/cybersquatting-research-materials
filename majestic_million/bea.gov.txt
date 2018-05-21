@@ -1,0 +1,90 @@
+[
+    {
+        "dns-a": [
+            "192.149.12.20"
+        ], 
+        "dns-mx": [
+            "mx1.bea.gov", 
+            "mx2.bea.gov", 
+            "smtp1.recoverypoint.com", 
+            "smtp2.recoverypoint.com"
+        ], 
+        "dns-ns": [
+            "sauthns1.qwest.net", 
+            "sauthns2.qwest.net"
+        ], 
+        "domain-name": "bea.gov", 
+        "fuzzer": "original*", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 100
+    }, 
+    {
+        "dns-a": [
+            "209.193.7.22"
+        ], 
+        "dns-ns": [
+            "ns1.acsalaska.net", 
+            "ns2.acsalaska.net", 
+            "ns3.acsalaska.net", 
+            "ns4.acsalaska.net"
+        ], 
+        "domain-name": "fea.gov", 
+        "fuzzer": "bitsquatting", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "149.101.146.74"
+        ], 
+        "dns-aaaa": [
+            "2607:f330:8400:100::74"
+        ], 
+        "dns-mx": [
+            "mx-jdcw.usdoj.gov"
+        ], 
+        "dns-ns": [
+            "ns-jdcw-01.usdoj.gov", 
+            "ns-jdcw-02.usdoj.gov", 
+            "ns2.cjis.gov"
+        ], 
+        "domain-name": "dea.gov", 
+        "fuzzer": "homoglyph", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-mx": [
+            "nea-gov.mail.eo.outlook.com"
+        ], 
+        "dns-ns": [
+            "sauthns1.qwest.net", 
+            "sauthns2.qwest.net"
+        ], 
+        "domain-name": "nea.gov", 
+        "fuzzer": "replacement"
+    }, 
+    {
+        "dns-a": [
+            "192.255.0.82"
+        ], 
+        "dns-mx": [
+            "alt1.aspmx.l.google.com", 
+            "alt2.aspmx.l.google.com", 
+            "aspmx.l.google.com", 
+            "aspmx2.googlemail.com", 
+            "aspmx3.googlemail.com"
+        ], 
+        "dns-ns": [
+            "a.1001.adoniscs.afiliasdns.info", 
+            "b.1001.adoniscs.afiliasdns.org", 
+            "c.1001.adoniscs.afiliasdns.net", 
+            "d.1001.adoniscs.afiliasdns.com", 
+            "e.1001.adoniscs.afiliasdns.info", 
+            "f.1001.adoniscs.afiliasdns.net"
+        ], 
+        "domain-name": "bia.gov", 
+        "fuzzer": "vowel-swap", 
+        "geoip-country": "United States"
+    }
+]

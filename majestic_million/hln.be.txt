@@ -1,0 +1,493 @@
+[
+    {
+        "dns-a": [
+            "104.81.231.236"
+        ], 
+        "dns-aaaa": [
+            "2a02:26f0:9c00:182::2286", 
+            "2a02:26f0:9c00:1bb::2286"
+        ], 
+        "dns-mx": [
+            "alt1.aspmx.l.google.com", 
+            "alt2.aspmx.l.google.com", 
+            "aspmx.l.google.com", 
+            "aspmx2.googlemail.com", 
+            "aspmx3.googlemail.com"
+        ], 
+        "dns-ns": [
+            "eur2.akam.net", 
+            "eur5.akam.net", 
+            "eur6.akam.net", 
+            "ns1-125.akam.net", 
+            "ns1-25.akam.net"
+        ], 
+        "domain-name": "hln.be", 
+        "fuzzer": "original*", 
+        "geoip-country": "Netherlands", 
+        "ssdeep-score": 100
+    }, 
+    {
+        "dns-a": [
+            "103.224.182.211"
+        ], 
+        "dns-mx": [
+            "park-mx.above.com"
+        ], 
+        "dns-ns": [
+            "ns1.above.com", 
+            "ns2.above.com"
+        ], 
+        "domain-name": "hlnb.be", 
+        "fuzzer": "addition", 
+        "geoip-country": "Australia", 
+        "mx-spy": true, 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "103.224.182.211"
+        ], 
+        "dns-mx": [
+            "park-mx.above.com"
+        ], 
+        "dns-ns": [
+            "ns1.above.com", 
+            "ns2.above.com"
+        ], 
+        "domain-name": "hlne.be", 
+        "fuzzer": "addition", 
+        "geoip-country": "Australia", 
+        "mx-spy": true, 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "103.224.182.211"
+        ], 
+        "dns-mx": [
+            "park-mx.above.com"
+        ], 
+        "dns-ns": [
+            "ns1.above.com", 
+            "ns2.above.com"
+        ], 
+        "domain-name": "hlnn.be", 
+        "fuzzer": "addition", 
+        "geoip-country": "Australia", 
+        "mx-spy": true, 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-mx": [
+            "cluster2.server.eu", 
+            "fallback1.server.eu", 
+            "fallback2.server.eu"
+        ], 
+        "dns-ns": [
+            "ns.totaal.net", 
+            "ns.totaalnet.com", 
+            "ns.totaalnet.org"
+        ], 
+        "domain-name": "iln.be", 
+        "fuzzer": "bitsquatting"
+    }, 
+    {
+        "dns-a": [
+            "72.52.4.121"
+        ], 
+        "dns-mx": [
+            "localhost"
+        ], 
+        "dns-ns": [
+            "ns1.sedoparking.com", 
+            "ns2.sedoparking.com"
+        ], 
+        "domain-name": "jln.be", 
+        "fuzzer": "bitsquatting", 
+        "geoip-country": "United States", 
+        "mx-spy": true, 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "194.183.244.11"
+        ], 
+        "dns-mx": [
+            "backup-mx-2.easynet.be", 
+            "backup-mx.easynet.be", 
+            "backup-relay-in.easynet.be", 
+            "relay-in-2.easynet.be", 
+            "relay-in.easynet.be"
+        ], 
+        "dns-ns": [
+            "dns0.easynet.be", 
+            "dns1.easynet.be", 
+            "dns2.easynet.be", 
+            "dns3.easynet.be"
+        ], 
+        "domain-name": "lln.be", 
+        "fuzzer": "bitsquatting", 
+        "geoip-country": "Belgium"
+    }, 
+    {
+        "dns-mx": [
+            "cluster2.server.eu", 
+            "fallback1.server.eu", 
+            "fallback2.server.eu"
+        ], 
+        "dns-ns": [
+            "ns.eurosrs.com", 
+            "ns.eurosrs.net", 
+            "ns.eurosrs.org"
+        ], 
+        "domain-name": "hmn.be", 
+        "fuzzer": "bitsquatting"
+    }, 
+    {
+        "dns-mx": [
+            "mail1.hnn.be", 
+            "mail2.hnn.be", 
+            "mail3.hnn.be"
+        ], 
+        "dns-ns": [
+            "ns1.psa-antwerp.be", 
+            "ns2.psa-antwerp.be"
+        ], 
+        "domain-name": "hnn.be", 
+        "fuzzer": "bitsquatting"
+    }, 
+    {
+        "dns-a": [
+            "193.109.63.21"
+        ], 
+        "dns-mx": [
+            "zcs2.dchost.be"
+        ], 
+        "dns-ns": [
+            "cpns1.dchosting.be", 
+            "cpns2.dchosting.be", 
+            "cpns4.dchosting.be"
+        ], 
+        "domain-name": "hhn.be", 
+        "fuzzer": "bitsquatting", 
+        "geoip-country": "Belgium", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "193.105.133.191"
+        ], 
+        "dns-mx": [
+            "mxcloud1.dgnus.net"
+        ], 
+        "dns-ns": [
+            "ns1.dgnus.net", 
+            "ns2.dgnus.net"
+        ], 
+        "domain-name": "hdn.be", 
+        "fuzzer": "bitsquatting", 
+        "geoip-country": "Belgium", 
+        "mx-spy": true, 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "72.52.4.90"
+        ], 
+        "dns-mx": [
+            "mailgw.ns36.de"
+        ], 
+        "dns-ns": [
+            "a.ns36.de", 
+            "b.ns36.de"
+        ], 
+        "domain-name": "hlo.be", 
+        "fuzzer": "bitsquatting", 
+        "geoip-country": "United States", 
+        "mx-spy": true, 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "80.92.84.139"
+        ], 
+        "dns-mx": [
+            "mail.b-io.co"
+        ], 
+        "dns-ns": [
+            "ns1.eurodns.com", 
+            "ns2.eurodns.com", 
+            "ns3.eurodns.com", 
+            "ns4.eurodns.com"
+        ], 
+        "domain-name": "hlj.be", 
+        "fuzzer": "bitsquatting", 
+        "geoip-country": "Luxembourg", 
+        "mx-spy": true, 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "212.123.6.254"
+        ], 
+        "dns-mx": [
+            "hlf-be.mail.protection.outlook.com"
+        ], 
+        "dns-ns": [
+            "ns.be.hostbasket.com", 
+            "ns.fr.hostbasket.com", 
+            "ns.nl.hostbasket.com"
+        ], 
+        "domain-name": "hlf.be", 
+        "fuzzer": "bitsquatting", 
+        "geoip-country": "Belgium", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "89.22.104.110"
+        ], 
+        "dns-mx": [
+            "webbox182.server-home.org"
+        ], 
+        "dns-ns": [
+            "a.dns.gandi.net", 
+            "b.dns.gandi.net", 
+            "c.dns.gandi.net"
+        ], 
+        "domain-name": "hlm.be", 
+        "fuzzer": "homoglyph", 
+        "geoip-country": "Germany", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "213.132.197.80"
+        ], 
+        "dns-mx": [
+            "mailfilter.webguru.nl"
+        ], 
+        "dns-ns": [
+            "ns.domeinguru.nl", 
+            "ns1.domeinguru.nl"
+        ], 
+        "domain-name": "hlr.be", 
+        "fuzzer": "homoglyph", 
+        "geoip-country": "Netherlands", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-ns": [
+            "ns1.persgroep-ops.net", 
+            "ns2.persgroep-ops.net", 
+            "ns3.persgroep-ops.net"
+        ], 
+        "domain-name": "hin.be", 
+        "fuzzer": "homoglyph"
+    }, 
+    {
+        "dns-a": [
+            "103.224.182.211"
+        ], 
+        "dns-mx": [
+            "park-mx.above.com"
+        ], 
+        "dns-ns": [
+            "ns1.above.com", 
+            "ns2.above.com"
+        ], 
+        "domain-name": "hkln.be", 
+        "fuzzer": "insertion", 
+        "geoip-country": "Australia", 
+        "mx-spy": true, 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-mx": [
+            "mail.ln.be"
+        ], 
+        "dns-ns": [
+            "dns.tuonome.it", 
+            "dns2.tuonome.it"
+        ], 
+        "domain-name": "ln.be", 
+        "fuzzer": "omission"
+    }, 
+    {
+        "dns-a": [
+            "72.52.4.120"
+        ], 
+        "dns-mx": [
+            "localhost"
+        ], 
+        "dns-ns": [
+            "ns1.sedoparking.com", 
+            "ns2.sedoparking.com"
+        ], 
+        "domain-name": "gln.be", 
+        "fuzzer": "replacement", 
+        "geoip-country": "United States", 
+        "mx-spy": true, 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "185.53.178.9"
+        ], 
+        "dns-mx": [
+            "mail.h-email.net"
+        ], 
+        "dns-ns": [
+            "ns1.parkingcrew.net", 
+            "ns2.parkingcrew.net"
+        ], 
+        "domain-name": "hon.be", 
+        "fuzzer": "replacement", 
+        "geoip-country": "Germany", 
+        "mx-spy": true, 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "185.53.177.20"
+        ], 
+        "dns-mx": [
+            "mail.bln.be"
+        ], 
+        "dns-ns": [
+            "dns1.realtime.at", 
+            "dns2.realtime.at"
+        ], 
+        "domain-name": "bln.be", 
+        "fuzzer": "replacement", 
+        "geoip-country": "Germany", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "37.97.135.129"
+        ], 
+        "dns-aaaa": [
+            "2a01:7c8:aabc:2e:5054:ff:fe24:1b7d"
+        ], 
+        "dns-mx": [
+            "mx186.m2bp.com", 
+            "mx186.mb1p.com"
+        ], 
+        "dns-ns": [
+            "ns1.sonexo.eu", 
+            "ns2.sonexo.com"
+        ], 
+        "domain-name": "uln.be", 
+        "fuzzer": "replacement", 
+        "geoip-country": "Netherlands", 
+        "mx-spy": true, 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-mx": [
+            "cluster2.server.eu", 
+            "fallback1.server.eu", 
+            "fallback2.server.eu"
+        ], 
+        "dns-ns": [
+            "ns.eurosrs.com", 
+            "ns.eurosrs.net", 
+            "ns.eurosrs.org"
+        ], 
+        "domain-name": "hpn.be", 
+        "fuzzer": "replacement"
+    }, 
+    {
+        "dns-a": [
+            "213.187.247.79"
+        ], 
+        "dns-mx": [
+            "mail1.cleanport.nl"
+        ], 
+        "dns-ns": [
+            "dns1.blixem.nl", 
+            "dns2.blixem.nl", 
+            "dns3.blixem.nl"
+        ], 
+        "domain-name": "hlh.be", 
+        "fuzzer": "replacement", 
+        "geoip-country": "Lebanon"
+    }, 
+    {
+        "dns-a": [
+            "213.132.196.245"
+        ], 
+        "dns-mx": [
+            "mailfilter1.webguru.nl"
+        ], 
+        "dns-ns": [
+            "ns.nlhosting.net", 
+            "ns1.nlhosting.net"
+        ], 
+        "domain-name": "hkn.be", 
+        "fuzzer": "replacement", 
+        "geoip-country": "Netherlands", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "185.162.31.247"
+        ], 
+        "dns-mx": [
+            "hlb-be.mail.protection.outlook.com"
+        ], 
+        "dns-ns": [
+            "ns1.register.be", 
+            "ns2.register.be", 
+            "ns3.register.be"
+        ], 
+        "domain-name": "hlb.be", 
+        "fuzzer": "replacement", 
+        "geoip-country": "Belgium", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "52.58.78.16"
+        ], 
+        "dns-mx": [
+            "mx.nln.be"
+        ], 
+        "dns-ns": [
+            "ns1.undeveloped.com", 
+            "ns2.undeveloped.com"
+        ], 
+        "domain-name": "nln.be", 
+        "fuzzer": "replacement"
+    }, 
+    {
+        "dns-mx": [
+            "cluster2.server.eu", 
+            "fallback1.server.eu", 
+            "fallback2.server.eu"
+        ], 
+        "dns-ns": [
+            "ns.eurosrs.com", 
+            "ns.eurosrs.net", 
+            "ns.eurosrs.org"
+        ], 
+        "domain-name": "lhn.be", 
+        "fuzzer": "transposition"
+    }, 
+    {
+        "dns-a": [
+            "176.74.198.65"
+        ], 
+        "dns-mx": [
+            "hnl.be"
+        ], 
+        "dns-ns": [
+            "ns0.nl", 
+            "ns11.net", 
+            "ns5.be"
+        ], 
+        "domain-name": "hnl.be", 
+        "fuzzer": "transposition"
+    }
+]

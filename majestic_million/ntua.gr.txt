@@ -1,0 +1,40 @@
+[
+    {
+        "dns-a": [
+            "147.102.222.210"
+        ], 
+        "dns-aaaa": [
+            "2001:648:2000:de::210"
+        ], 
+        "dns-mx": [
+            "achilles.noc.ntua.gr", 
+            "diomedes.noc.ntua.gr", 
+            "ulysses.noc.ntua.gr"
+        ], 
+        "dns-ns": [
+            "achilles.noc.ntua.gr", 
+            "diomedes.noc.ntua.gr", 
+            "sns0.grnet.gr", 
+            "sns1.grnet.gr", 
+            "ulysses.noc.ntua.gr"
+        ], 
+        "domain-name": "ntua.gr", 
+        "fuzzer": "original*", 
+        "geoip-country": "Greece", 
+        "ssdeep-score": 91
+    }, 
+    {
+        "dns-a": [
+            "195.154.207.165"
+        ], 
+        "dns-mx": [
+            "ntia.gr"
+        ], 
+        "dns-ns": [
+            "node1.mediahost.gr", 
+            "node2.mediahost.gr"
+        ], 
+        "domain-name": "ntia.gr", 
+        "fuzzer": "replacement"
+    }
+]

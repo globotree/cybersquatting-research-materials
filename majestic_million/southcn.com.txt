@@ -1,0 +1,174 @@
+[
+    {
+        "dns-a": [
+            "59.42.241.10"
+        ], 
+        "dns-mx": [
+            "smtp.southcn.com"
+        ], 
+        "dns-ns": [
+            "dns.southcn.com", 
+            "dns1.southcn.com"
+        ], 
+        "domain-name": "southcn.com", 
+        "fuzzer": "original*", 
+        "geoip-country": "China"
+    }, 
+    {
+        "dns-a": [
+            "47.88.35.32"
+        ], 
+        "dns-mx": [
+            "mxbiz1.qq.com", 
+            "mxbiz2.qq.com"
+        ], 
+        "dns-ns": [
+            "dns10.hichina.com", 
+            "dns9.hichina.com"
+        ], 
+        "domain-name": "southcnc.com", 
+        "fuzzer": "addition", 
+        "geoip-country": "United States"
+    }, 
+    {
+        "dns-a": [
+            "108.60.24.46"
+        ], 
+        "dns-mx": [
+            "dpmailbu.doteasy.com", 
+            "dprhcp168.doteasy.com"
+        ], 
+        "dns-ns": [
+            "dns1.doteasy.com", 
+            "dns2.doteasy.com"
+        ], 
+        "domain-name": "southan.com", 
+        "fuzzer": "bitsquatting", 
+        "geoip-country": "Canada"
+    }, 
+    {
+        "dns-a": [
+            "65.118.37.10"
+        ], 
+        "dns-mx": [
+            "mail1.southco.com", 
+            "mail2.southco.com"
+        ], 
+        "dns-ns": [
+            "authns1.qwest.net", 
+            "authns2.qwest.net"
+        ], 
+        "domain-name": "southco.com", 
+        "fuzzer": "bitsquatting", 
+        "geoip-country": "United States"
+    }, 
+    {
+        "dns-a": [
+            "50.63.202.29"
+        ], 
+        "dns-ns": [
+            "ns51.domaincontrol.com", 
+            "ns52.domaincontrol.com"
+        ], 
+        "domain-name": "southcr.com", 
+        "fuzzer": "homoglyph", 
+        "geoip-country": "United States"
+    }, 
+    {
+        "dns-a": [
+            "108.187.187.146"
+        ], 
+        "dns-ns": [
+            "juming.dnsdun.com", 
+            "juming.dnsdun.net"
+        ], 
+        "domain-name": "south-cn.com", 
+        "fuzzer": "hyphenation", 
+        "geoip-country": "United States"
+    }, 
+    {
+        "dns-a": [
+            "52.73.124.185", 
+            "54.164.198.60"
+        ], 
+        "dns-ns": [
+            "ns1.namebrightdns.com", 
+            "ns2.namebrightdns.com"
+        ], 
+        "domain-name": "southc.com", 
+        "fuzzer": "omission", 
+        "geoip-country": "United States"
+    }, 
+    {
+        "dns-a": [
+            "184.168.221.29"
+        ], 
+        "dns-ns": [
+            "ns71.domaincontrol.com", 
+            "ns72.domaincontrol.com"
+        ], 
+        "domain-name": "southn.com", 
+        "fuzzer": "omission", 
+        "geoip-country": "United States"
+    }, 
+    {
+        "dns-ns": [
+            "f1g1ns1.dnspod.net", 
+            "f1g1ns2.dnspod.net"
+        ], 
+        "domain-name": "soufhcn.com", 
+        "fuzzer": "replacement"
+    }, 
+    {
+        "dns-a": [
+            "68.178.213.61"
+        ], 
+        "dns-ns": [
+            "ns1.namefind.com", 
+            "ns2.namefind.com"
+        ], 
+        "domain-name": "southch.com", 
+        "fuzzer": "replacement", 
+        "geoip-country": "United States"
+    }, 
+    {
+        "dns-a": [
+            "218.75.26.76"
+        ], 
+        "dns-ns": [
+            "ns19.xincache.com", 
+            "ns20.xincache.com"
+        ], 
+        "domain-name": "youthcn.com", 
+        "fuzzer": "replacement", 
+        "geoip-country": "China"
+    }, 
+    {
+        "dns-a": [
+            "123.103.241.70", 
+            "123.103.246.18"
+        ], 
+        "dns-ns": [
+            "f1g1ns1.dnspod.net", 
+            "f1g1ns2.dnspod.net"
+        ], 
+        "domain-name": "soutucn.com", 
+        "fuzzer": "replacement", 
+        "geoip-country": "Hong Kong"
+    }, 
+    {
+        "dns-a": [
+            "113.10.163.89"
+        ], 
+        "domain-name": "so.uthcn.com", 
+        "fuzzer": "subdomain"
+    }, 
+    {
+        "dns-ns": [
+            "ns1.bodis.com", 
+            "ns2.bodis.com"
+        ], 
+        "domain-name": "south.cn.com", 
+        "fuzzer": "subdomain"
+    }
+]

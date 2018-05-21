@@ -1,0 +1,421 @@
+[
+    {
+        "dns-ns": [
+            "a-dns.pl", 
+            "b-dns.pl", 
+            "e-dns.pl", 
+            "f-dns.pl", 
+            "h-dns.pl"
+        ], 
+        "domain-name": "warszawa.pl", 
+        "fuzzer": "original*"
+    }, 
+    {
+        "dns-a": [
+            "188.116.2.84"
+        ], 
+        "dns-mx": [
+            "mail.warszawaa.pl"
+        ], 
+        "dns-ns": [
+            "dns3.hitme.net.pl", 
+            "dns4.hitme.net.pl"
+        ], 
+        "domain-name": "warszawaa.pl", 
+        "fuzzer": "addition", 
+        "geoip-country": "Poland"
+    }, 
+    {
+        "dns-a": [
+            "178.19.110.187"
+        ], 
+        "dns-mx": [
+            "warszawai.pl"
+        ], 
+        "dns-ns": [
+            "dns1.slaskdatacenter.pl", 
+            "dns2.slaskdatacenter.pl", 
+            "dns3.slaskdatacenter.pl"
+        ], 
+        "domain-name": "warszawai.pl", 
+        "fuzzer": "addition", 
+        "geoip-country": "Poland"
+    }, 
+    {
+        "dns-a": [
+            "46.228.193.215"
+        ], 
+        "dns-mx": [
+            "poczta.warszawam.pl"
+        ], 
+        "dns-ns": [
+            "dns12.ovh.net", 
+            "ns12.ovh.net"
+        ], 
+        "domain-name": "warszawam.pl", 
+        "fuzzer": "addition", 
+        "geoip-country": "Germany"
+    }, 
+    {
+        "dns-a": [
+            "104.27.180.90", 
+            "104.27.181.90"
+        ], 
+        "dns-aaaa": [
+            "2400:cb00:2048:1::681b:b45a", 
+            "2400:cb00:2048:1::681b:b55a"
+        ], 
+        "dns-ns": [
+            "amanda.ns.cloudflare.com", 
+            "norman.ns.cloudflare.com"
+        ], 
+        "domain-name": "warsjawa.pl", 
+        "fuzzer": "bitsquatting", 
+        "geoip-country": "United States"
+    }, 
+    {
+        "dns-a": [
+            "79.96.225.13"
+        ], 
+        "dns-mx": [
+            "warszawe.pl"
+        ], 
+        "dns-ns": [
+            "dns.home.pl", 
+            "dns2.home.pl", 
+            "dns3.home.pl"
+        ], 
+        "domain-name": "warszawe.pl", 
+        "fuzzer": "bitsquatting", 
+        "geoip-country": "Poland"
+    }, 
+    {
+        "dns-a": [
+            "144.76.174.145"
+        ], 
+        "dns-mx": [
+            "mail.warsz-awa.pl"
+        ], 
+        "dns-ns": [
+            "ns1.laohost.net", 
+            "ns2.laohost.net"
+        ], 
+        "domain-name": "warsz-awa.pl", 
+        "fuzzer": "hyphenation", 
+        "geoip-country": "Germany"
+    }, 
+    {
+        "dns-a": [
+            "188.116.53.38"
+        ], 
+        "dns-mx": [
+            "mx1.hitme.pl", 
+            "mx2.hitme.pl"
+        ], 
+        "dns-ns": [
+            "dns1.hitme.pl", 
+            "dns2.hitme.pl"
+        ], 
+        "domain-name": "warsza-wa.pl", 
+        "fuzzer": "hyphenation", 
+        "geoip-country": "Poland"
+    }, 
+    {
+        "dns-a": [
+            "85.128.191.45"
+        ], 
+        "dns-mx": [
+            "warszawqa.pl"
+        ], 
+        "dns-ns": [
+            "ns1.nazwa.pl", 
+            "ns2.nazwa.pl", 
+            "ns3.nazwa.pl"
+        ], 
+        "domain-name": "warszawqa.pl", 
+        "fuzzer": "insertion", 
+        "geoip-country": "Poland"
+    }, 
+    {
+        "dns-ns": [
+            "ns1.blocked.nazwa.pl", 
+            "ns2.blocked.nazwa.pl"
+        ], 
+        "domain-name": "warszaa.pl", 
+        "fuzzer": "omission"
+    }, 
+    {
+        "dns-a": [
+            "213.186.33.5"
+        ], 
+        "dns-mx": [
+            "redirect.ovh.net"
+        ], 
+        "dns-ns": [
+            "dns108.ovh.net", 
+            "ns108.ovh.net"
+        ], 
+        "domain-name": "wrszawa.pl", 
+        "fuzzer": "omission", 
+        "geoip-country": "France"
+    }, 
+    {
+        "dns-a": [
+            "213.186.33.5"
+        ], 
+        "dns-mx": [
+            "redirect.ovh.net"
+        ], 
+        "dns-ns": [
+            "dns15.ovh.net", 
+            "ns15.ovh.net"
+        ], 
+        "domain-name": "waszawa.pl", 
+        "fuzzer": "omission", 
+        "geoip-country": "France"
+    }, 
+    {
+        "dns-a": [
+            "213.186.33.5"
+        ], 
+        "dns-mx": [
+            "redirect.ovh.net"
+        ], 
+        "domain-name": "arszawa.pl", 
+        "fuzzer": "omission", 
+        "geoip-country": "France"
+    }, 
+    {
+        "dns-a": [
+            "212.91.7.33"
+        ], 
+        "dns-ns": [
+            "ns1.aftermarket.pl", 
+            "ns2.aftermarket.pl"
+        ], 
+        "domain-name": "warsawa.pl", 
+        "fuzzer": "omission", 
+        "geoip-country": "Poland"
+    }, 
+    {
+        "dns-a": [
+            "212.91.7.33"
+        ], 
+        "dns-ns": [
+            "ns1.aftermarket.pl", 
+            "ns2.aftermarket.pl"
+        ], 
+        "domain-name": "warszaw.pl", 
+        "fuzzer": "omission", 
+        "geoip-country": "Poland"
+    }, 
+    {
+        "dns-a": [
+            "72.52.4.120"
+        ], 
+        "dns-mx": [
+            "localhost"
+        ], 
+        "dns-ns": [
+            "ns1.sedoparking.com", 
+            "ns2.sedoparking.com"
+        ], 
+        "domain-name": "warszwa.pl", 
+        "fuzzer": "omission", 
+        "geoip-country": "United States", 
+        "mx-spy": true
+    }, 
+    {
+        "dns-a": [
+            "213.186.33.5"
+        ], 
+        "dns-mx": [
+            "redirect.ovh.net"
+        ], 
+        "dns-ns": [
+            "dns108.ovh.net", 
+            "ns108.ovh.net"
+        ], 
+        "domain-name": "warzawa.pl", 
+        "fuzzer": "omission", 
+        "geoip-country": "France"
+    }, 
+    {
+        "dns-a": [
+            "212.91.6.58", 
+            "212.91.7.33"
+        ], 
+        "domain-name": "warszaea.pl", 
+        "fuzzer": "replacement", 
+        "geoip-country": "Poland"
+    }, 
+    {
+        "dns-a": [
+            "212.91.6.58", 
+            "212.91.7.33"
+        ], 
+        "domain-name": "earszawa.pl", 
+        "fuzzer": "replacement", 
+        "geoip-country": "Poland"
+    }, 
+    {
+        "dns-a": [
+            "212.91.6.58", 
+            "212.91.7.33"
+        ], 
+        "domain-name": "wardzawa.pl", 
+        "fuzzer": "replacement", 
+        "geoip-country": "Poland"
+    }, 
+    {
+        "dns-a": [
+            "185.53.179.7"
+        ], 
+        "dns-ns": [
+            "ns1.fastpark.net", 
+            "ns2.fastpark.net"
+        ], 
+        "domain-name": "warshawa.pl", 
+        "fuzzer": "replacement", 
+        "geoip-country": "Germany"
+    }, 
+    {
+        "dns-a": [
+            "212.91.6.58", 
+            "212.91.7.33"
+        ], 
+        "domain-name": "qarszawa.pl", 
+        "fuzzer": "replacement", 
+        "geoip-country": "Poland"
+    }, 
+    {
+        "dns-a": [
+            "213.186.33.5"
+        ], 
+        "dns-mx": [
+            "redirect.ovh.net"
+        ], 
+        "dns-ns": [
+            "dns103.ovh.net", 
+            "ns103.ovh.net"
+        ], 
+        "domain-name": "waeszawa.pl", 
+        "fuzzer": "replacement", 
+        "geoip-country": "France"
+    }, 
+    {
+        "dns-a": [
+            "79.96.202.3"
+        ], 
+        "dns-mx": [
+            "warssawa.pl"
+        ], 
+        "dns-ns": [
+            "dns.home.pl", 
+            "dns2.home.pl", 
+            "dns3.home.pl"
+        ], 
+        "domain-name": "warssawa.pl", 
+        "fuzzer": "replacement", 
+        "geoip-country": "Poland"
+    }, 
+    {
+        "dns-a": [
+            "188.165.254.148"
+        ], 
+        "dns-mx": [
+            "mx1.ovh.net", 
+            "mx2.ovh.net", 
+            "mxb.ovh.net"
+        ], 
+        "dns-ns": [
+            "dns104.ovh.net", 
+            "ns104.ovh.net"
+        ], 
+        "domain-name": "warszawy.pl", 
+        "fuzzer": "replacement"
+    }, 
+    {
+        "dns-a": [
+            "212.91.6.58", 
+            "212.91.7.33"
+        ], 
+        "domain-name": "warszaws.pl", 
+        "fuzzer": "replacement", 
+        "geoip-country": "Poland"
+    }, 
+    {
+        "dns-a": [
+            "85.128.128.99"
+        ], 
+        "domain-name": "wa.rszawa.pl", 
+        "fuzzer": "subdomain", 
+        "geoip-country": "Poland"
+    }, 
+    {
+        "dns-a": [
+            "46.242.240.121"
+        ], 
+        "dns-mx": [
+            "mail.comunikacja.pl"
+        ], 
+        "dns-ns": [
+            "dns.home.pl", 
+            "dns2.home.pl", 
+            "dns3.home.pl"
+        ], 
+        "domain-name": "war.szawa.pl", 
+        "fuzzer": "subdomain", 
+        "geoip-country": "Poland"
+    }, 
+    {
+        "dns-a": [
+            "212.91.7.33"
+        ], 
+        "domain-name": "warsza.wa.pl", 
+        "fuzzer": "subdomain", 
+        "geoip-country": "Poland"
+    }, 
+    {
+        "dns-a": [
+            "94.23.196.139"
+        ], 
+        "dns-mx": [
+            "serwer1399668.home.pl"
+        ], 
+        "dns-ns": [
+            "dns.home.pl", 
+            "dns2.home.pl", 
+            "dns3.home.pl"
+        ], 
+        "domain-name": "warszaw.a.pl", 
+        "fuzzer": "subdomain", 
+        "geoip-country": "France"
+    }, 
+    {
+        "dns-a": [
+            "212.91.6.58", 
+            "212.91.7.33"
+        ], 
+        "domain-name": "awrszawa.pl", 
+        "fuzzer": "transposition", 
+        "geoip-country": "Poland"
+    }, 
+    {
+        "dns-a": [
+            "188.165.136.242"
+        ], 
+        "dns-mx": [
+            "warszawo.pl"
+        ], 
+        "dns-ns": [
+            "ns1.of.pl", 
+            "ns2.of.pl", 
+            "ns3.of.pl", 
+            "ns4.of.pl"
+        ], 
+        "domain-name": "warszawo.pl", 
+        "fuzzer": "vowel-swap", 
+        "geoip-country": "Finland"
+    }
+]

@@ -1,0 +1,84 @@
+[
+    {
+        "dns-a": [
+            "163.152.6.10"
+        ], 
+        "dns-mx": [
+            "spam.korea.ac.kr"
+        ], 
+        "dns-ns": [
+            "kucc.korea.ac.kr", 
+            "kuccgx.korea.ac.kr"
+        ], 
+        "domain-name": "korea.ac.kr", 
+        "fuzzer": "original*", 
+        "geoip-country": "Korea", 
+        "ssdeep-score": 100
+    }, 
+    {
+        "dns-a": [
+            "121.254.178.250"
+        ], 
+        "dns-ns": [
+            "ns.gabia.co.kr", 
+            "ns.gabia.net", 
+            "ns1.gabia.co.kr"
+        ], 
+        "domain-name": "korean.ac.kr", 
+        "fuzzer": "addition", 
+        "geoip-country": "Korea", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "163.152.6.10"
+        ], 
+        "dns-mx": [
+            "smtp.koreau.ac.kr", 
+            "smtp2.koreau.ac.kr"
+        ], 
+        "dns-ns": [
+            "kucc.korea.ac.kr", 
+            "kuccgx.korea.ac.kr"
+        ], 
+        "domain-name": "koreau.ac.kr", 
+        "fuzzer": "addition", 
+        "geoip-country": "Korea", 
+        "ssdeep-score": 100
+    }, 
+    {
+        "dns-a": [
+            "59.23.230.75"
+        ], 
+        "dns-mx": [
+            "mail.corea.ac.kr"
+        ], 
+        "dns-ns": [
+            "ns1.corea.ac.kr"
+        ], 
+        "domain-name": "corea.ac.kr", 
+        "fuzzer": "bitsquatting", 
+        "geoip-country": "Korea"
+    }, 
+    {
+        "dns-ns": [
+            "ns1.ikorea.ac.kr"
+        ], 
+        "domain-name": "ikorea.ac.kr", 
+        "fuzzer": "homoglyph"
+    }, 
+    {
+        "dns-a": [
+            "125.60.61.55"
+        ], 
+        "dns-mx": [
+            "antispam.korea.kr"
+        ], 
+        "dns-ns": [
+            "ns.gcc.go.kr", 
+            "ns2.gcc.go.kr"
+        ], 
+        "domain-name": "korea.kr", 
+        "fuzzer": "various"
+    }
+]

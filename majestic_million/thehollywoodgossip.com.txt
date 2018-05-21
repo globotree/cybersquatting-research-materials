@@ -1,0 +1,109 @@
+[
+    {
+        "dns-a": [
+            "216.239.32.21", 
+            "216.239.34.21", 
+            "216.239.36.21", 
+            "216.239.38.21"
+        ], 
+        "dns-aaaa": [
+            "2001:4860:4802:32::15", 
+            "2001:4860:4802:34::15", 
+            "2001:4860:4802:36::15", 
+            "2001:4860:4802:38::15"
+        ], 
+        "dns-mx": [
+            "alt1.aspmx.l.google.com", 
+            "alt2.aspmx.l.google.com", 
+            "alt3.aspmx.l.google.com", 
+            "alt4.aspmx.l.google.com", 
+            "aspmx.l.google.com"
+        ], 
+        "dns-ns": [
+            "ns-cloud-e1.googledomains.com", 
+            "ns-cloud-e2.googledomains.com", 
+            "ns-cloud-e3.googledomains.com", 
+            "ns-cloud-e4.googledomains.com"
+        ], 
+        "domain-name": "thehollywoodgossip.com", 
+        "fuzzer": "original*", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 100
+    }, 
+    {
+        "dns-a": [
+            "132.148.131.124"
+        ], 
+        "dns-ns": [
+            "ns51.domaincontrol.com", 
+            "ns52.domaincontrol.com"
+        ], 
+        "domain-name": "thehollywoodgossips.com", 
+        "fuzzer": "addition", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "104.24.118.163", 
+            "104.24.119.163"
+        ], 
+        "dns-aaaa": [
+            "2400:cb00:2048:1::6818:76a3", 
+            "2400:cb00:2048:1::6818:77a3"
+        ], 
+        "dns-mx": [
+            "mail.thehollywoodgossp.com"
+        ], 
+        "dns-ns": [
+            "brit.ns.cloudflare.com", 
+            "david.ns.cloudflare.com"
+        ], 
+        "domain-name": "thehollywoodgossp.com", 
+        "fuzzer": "omission", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "192.240.172.207"
+        ], 
+        "dns-mx": [
+            "mail.thebollywoodgossip.com"
+        ], 
+        "dns-ns": [
+            "dns683-1.nexcess.net", 
+            "dns683-2.nexcess.net"
+        ], 
+        "domain-name": "thebollywoodgossip.com", 
+        "fuzzer": "replacement", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "50.31.225.93"
+        ], 
+        "domain-name": "the.hollywoodgossip.com", 
+        "fuzzer": "subdomain", 
+        "geoip-country": "United States"
+    }, 
+    {
+        "dns-a": [
+            "68.178.213.61"
+        ], 
+        "domain-name": "thehollywo.odgossip.com", 
+        "fuzzer": "subdomain", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "91.195.240.115"
+        ], 
+        "domain-name": "thehollywoo.dgossip.com", 
+        "fuzzer": "subdomain", 
+        "geoip-country": "Germany", 
+        "ssdeep-score": 0
+    }
+]

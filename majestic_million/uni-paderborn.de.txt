@@ -1,0 +1,94 @@
+[
+    {
+        "dns-a": [
+            "131.234.142.33"
+        ], 
+        "dns-mx": [
+            "mail.uni-paderborn.de"
+        ], 
+        "dns-ns": [
+            "dns-1.dfn.de", 
+            "dns01.uni-paderborn.de", 
+            "dns02.uni-paderborn.de", 
+            "dns03.uni-paderborn.de"
+        ], 
+        "domain-name": "uni-paderborn.de", 
+        "fuzzer": "original*", 
+        "geoip-country": "Germany", 
+        "ssdeep-score": 100
+    }, 
+    {
+        "dns-a": [
+            "185.53.179.6"
+        ], 
+        "dns-ns": [
+            "ns1.parkingcrew.net", 
+            "ns2.parkingcrew.net"
+        ], 
+        "domain-name": "uni-padeborn.de", 
+        "fuzzer": "omission", 
+        "geoip-country": "Germany", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-ns": [
+            "dns-1.dfn.de", 
+            "dns-2.dfn.de", 
+            "dns-3.dfn.de"
+        ], 
+        "domain-name": "uni-paderbrn.de", 
+        "fuzzer": "omission"
+    }, 
+    {
+        "dns-a": [
+            "185.53.178.7"
+        ], 
+        "dns-mx": [
+            "mail.h-email.net"
+        ], 
+        "dns-ns": [
+            "ns1.parkingcrew.net", 
+            "ns2.parkingcrew.net"
+        ], 
+        "domain-name": "uni-paderbon.de", 
+        "fuzzer": "omission", 
+        "geoip-country": "Germany", 
+        "mx-spy": true, 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-ns": [
+            "dns-1.dfn.de", 
+            "dns-2.dfn.de", 
+            "dns-3.dfn.de"
+        ], 
+        "domain-name": "unipaderborn.de", 
+        "fuzzer": "omission"
+    }, 
+    {
+        "dns-a": [
+            "80.246.60.90"
+        ], 
+        "domain-name": "uni-pa.derborn.de", 
+        "fuzzer": "subdomain", 
+        "geoip-country": "Germany"
+    }, 
+    {
+        "dns-a": [
+            "178.254.62.35"
+        ], 
+        "domain-name": "uni-pade.rborn.de", 
+        "fuzzer": "subdomain", 
+        "geoip-country": "Germany", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-ns": [
+            "dns-1.dfn.de", 
+            "dns-2.dfn.de", 
+            "dns-3.dfn.de"
+        ], 
+        "domain-name": "uni-paderbron.de", 
+        "fuzzer": "transposition"
+    }
+]

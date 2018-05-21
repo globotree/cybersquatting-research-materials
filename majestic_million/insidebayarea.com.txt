@@ -1,0 +1,47 @@
+[
+    {
+        "dns-a": [
+            "63.147.65.60"
+        ], 
+        "dns-mx": [
+            "insidebayarea.com.s7a1.psmtp.com", 
+            "insidebayarea.com.s7a2.psmtp.com", 
+            "insidebayarea.com.s7b1.psmtp.com", 
+            "insidebayarea.com.s7b2.psmtp.com"
+        ], 
+        "dns-ns": [
+            "authns1.qwest.net", 
+            "authns2.qwest.net"
+        ], 
+        "domain-name": "insidebayarea.com", 
+        "fuzzer": "original*", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 100
+    }, 
+    {
+        "dns-a": [
+            "95.211.219.66"
+        ], 
+        "dns-ns": [
+            "ns1.hastydns.com", 
+            "ns2.hastydns.com"
+        ], 
+        "domain-name": "insidebayare.com", 
+        "fuzzer": "omission", 
+        "geoip-country": "Netherlands"
+    }, 
+    {
+        "dns-a": [
+            "52.86.22.136", 
+            "54.174.212.152"
+        ], 
+        "dns-ns": [
+            "ns1.namebrightdns.com", 
+            "ns2.namebrightdns.com"
+        ], 
+        "domain-name": "insideba.yarea.com", 
+        "fuzzer": "subdomain", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 0
+    }
+]

@@ -1,0 +1,686 @@
+[
+    {
+        "dns-a": [
+            "194.224.84.77"
+        ], 
+        "dns-mx": [
+            "mx.acens.vocento.com"
+        ], 
+        "dns-ns": [
+            "ns1.sarenet.es", 
+            "ns2.sarenet.es"
+        ], 
+        "domain-name": "abc.es", 
+        "fuzzer": "original*", 
+        "geoip-country": "Spain", 
+        "ssdeep-score": 99
+    }, 
+    {
+        "dns-a": [
+            "37.152.88.55"
+        ], 
+        "dns-ns": [
+            "ns2.dondominio.com", 
+            "ns4.dondominio.com"
+        ], 
+        "domain-name": "abca.es", 
+        "fuzzer": "addition", 
+        "geoip-country": "Spain", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "217.160.0.12"
+        ], 
+        "dns-aaaa": [
+            "2001:8d8:100f:f000::211"
+        ], 
+        "dns-mx": [
+            "mx00.1and1.es", 
+            "mx01.1and1.es"
+        ], 
+        "domain-name": "abcc.es", 
+        "fuzzer": "addition", 
+        "geoip-country": "Germany", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "72.52.4.122"
+        ], 
+        "dns-mx": [
+            "localhost"
+        ], 
+        "dns-ns": [
+            "ns1.sedoparking.com", 
+            "ns2.sedoparking.com"
+        ], 
+        "domain-name": "abcd.es", 
+        "fuzzer": "addition", 
+        "geoip-country": "United States", 
+        "mx-spy": true, 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "185.53.177.29"
+        ], 
+        "dns-ns": [
+            "ns1.gegidns.com", 
+            "ns2.gegidns.com"
+        ], 
+        "domain-name": "abce.es", 
+        "fuzzer": "addition", 
+        "geoip-country": "Germany", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "217.160.0.201"
+        ], 
+        "dns-aaaa": [
+            "2001:8d8:100f:f000::210"
+        ], 
+        "dns-mx": [
+            "mx00.1and1.es", 
+            "mx01.1and1.es"
+        ], 
+        "dns-ns": [
+            "ns1108.ui-dns.biz", 
+            "ns1108.ui-dns.com", 
+            "ns1108.ui-dns.de", 
+            "ns1108.ui-dns.org"
+        ], 
+        "domain-name": "abcg.es", 
+        "fuzzer": "addition", 
+        "geoip-country": "Germany", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "67.225.201.170"
+        ], 
+        "dns-mx": [
+            "abct.es"
+        ], 
+        "dns-ns": [
+            "ns1.noc-m.com", 
+            "ns2.noc-m.com"
+        ], 
+        "domain-name": "abct.es", 
+        "fuzzer": "addition", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "92.43.17.11"
+        ], 
+        "dns-mx": [
+            "abcz.es", 
+            "mx-1.abcz.es", 
+            "mx-2.abcz.es"
+        ], 
+        "dns-ns": [
+            "ns1.redcoruna.com", 
+            "ns2.redcoruna.com", 
+            "ns3.redcoruna.com"
+        ], 
+        "domain-name": "abcz.es", 
+        "fuzzer": "addition", 
+        "geoip-country": "Spain", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-mx": [
+            "mx.serviciodecorreo.es"
+        ], 
+        "dns-ns": [
+            "dns1.servidoresdns.net", 
+            "dns2.servidoresdns.net"
+        ], 
+        "domain-name": "cbc.es", 
+        "fuzzer": "bitsquatting"
+    }, 
+    {
+        "dns-a": [
+            "5.145.175.124"
+        ], 
+        "dns-mx": [
+            "mta01.cerocomputer.com", 
+            "zimbra.cerocomputer.com"
+        ], 
+        "dns-ns": [
+            "ns201.iservices4u.com", 
+            "ns202.iservices4u.com", 
+            "ns203.iservices4u.com"
+        ], 
+        "domain-name": "ebc.es", 
+        "fuzzer": "bitsquatting", 
+        "geoip-country": "Spain", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "188.93.78.112"
+        ], 
+        "dns-mx": [
+            "mail.ibc.es"
+        ], 
+        "dns-ns": [
+            "bind7.ervers.net", 
+            "bind8.ervers.net"
+        ], 
+        "domain-name": "ibc.es", 
+        "fuzzer": "bitsquatting", 
+        "geoip-country": "Spain", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "31.170.165.200"
+        ], 
+        "dns-mx": [
+            "mx1.hostinger.es"
+        ], 
+        "dns-ns": [
+            "ns1.hostinger.es", 
+            "ns2.hostinger.es", 
+            "ns3.hostinger.es", 
+            "ns4.hostinger.es"
+        ], 
+        "domain-name": "qbc.es", 
+        "fuzzer": "bitsquatting", 
+        "geoip-country": "United Kingdom"
+    }, 
+    {
+        "dns-mx": [
+            "mxa-002e5d02.gslb.pphosted.com", 
+            "mxb-002e5d02.gslb.pphosted.com"
+        ], 
+        "dns-ns": [
+            "ns.zurich.com", 
+            "ns4.zurich.com"
+        ], 
+        "domain-name": "acc.es", 
+        "fuzzer": "bitsquatting"
+    }, 
+    {
+        "dns-a": [
+            "69.172.201.153"
+        ], 
+        "dns-ns": [
+            "ns1.uniregistrymarket.link", 
+            "ns2.uniregistrymarket.link"
+        ], 
+        "domain-name": "afc.es", 
+        "fuzzer": "bitsquatting", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "37.152.88.55"
+        ], 
+        "dns-ns": [
+            "ns2.dondominio.com", 
+            "ns3.dondominio.com"
+        ], 
+        "domain-name": "ajc.es", 
+        "fuzzer": "bitsquatting", 
+        "geoip-country": "Spain", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "138.225.2.74"
+        ], 
+        "dns-ns": [
+            "nse1.abb.com", 
+            "nse2.abb.com", 
+            "nse3.abb.com"
+        ], 
+        "domain-name": "abb.es", 
+        "fuzzer": "bitsquatting", 
+        "geoip-country": "Switzerland"
+    }, 
+    {
+        "dns-a": [
+            "72.52.4.122"
+        ], 
+        "dns-mx": [
+            "localhost"
+        ], 
+        "dns-ns": [
+            "ns1.sedoparking.com", 
+            "ns2.sedoparking.com"
+        ], 
+        "domain-name": "aba.es", 
+        "fuzzer": "bitsquatting", 
+        "geoip-country": "United States", 
+        "mx-spy": true, 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "64.34.67.250"
+        ], 
+        "dns-mx": [
+            "mail.abg.es"
+        ], 
+        "dns-ns": [
+            "ns1041.websiteservername.com", 
+            "ns1042.websiteservername.com"
+        ], 
+        "domain-name": "abg.es", 
+        "fuzzer": "bitsquatting", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "217.160.0.182"
+        ], 
+        "dns-mx": [
+            "mx00.1and1.es", 
+            "mx01.1and1.es"
+        ], 
+        "dns-ns": [
+            "ns1084.ui-dns.biz", 
+            "ns1084.ui-dns.com", 
+            "ns1084.ui-dns.de", 
+            "ns1084.ui-dns.org"
+        ], 
+        "domain-name": "abk.es", 
+        "fuzzer": "bitsquatting", 
+        "geoip-country": "Germany", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "82.98.157.18"
+        ], 
+        "dns-mx": [
+            "mail.abs.es"
+        ], 
+        "dns-ns": [
+            "ns.dinahosting.com", 
+            "ns2.dinahosting.com", 
+            "ns3.dinahosting.com", 
+            "ns4.dinahosting.com"
+        ], 
+        "domain-name": "abs.es", 
+        "fuzzer": "bitsquatting", 
+        "geoip-country": "Spain", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "5.45.9.79"
+        ], 
+        "dns-mx": [
+            "relay1.grupogimeno.net", 
+            "relay2.grupogimeno.net"
+        ], 
+        "dns-ns": [
+            "ns1.grupogimeno.net", 
+            "ns2.grupogimeno.net"
+        ], 
+        "domain-name": "adc.es", 
+        "fuzzer": "homoglyph", 
+        "geoip-country": "Spain", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "104.28.24.218", 
+            "104.28.25.218"
+        ], 
+        "dns-aaaa": [
+            "2400:cb00:2048:1::681c:18da", 
+            "2400:cb00:2048:1::681c:19da"
+        ], 
+        "dns-ns": [
+            "lynn.ns.cloudflare.com", 
+            "may.ns.cloudflare.com"
+        ], 
+        "domain-name": "albc.es", 
+        "fuzzer": "homoglyph", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "50.63.202.3"
+        ], 
+        "dns-mx": [
+            "mailstore1.secureserver.net", 
+            "smtp.secureserver.net"
+        ], 
+        "dns-ns": [
+            "ns61.domaincontrol.com", 
+            "ns62.domaincontrol.com"
+        ], 
+        "domain-name": "abgc.es", 
+        "fuzzer": "insertion", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "217.160.0.5"
+        ], 
+        "dns-mx": [
+            "mx00.1and1.es", 
+            "mx01.1and1.es"
+        ], 
+        "dns-ns": [
+            "ns1054.ui-dns.biz", 
+            "ns1054.ui-dns.com", 
+            "ns1054.ui-dns.de", 
+            "ns1054.ui-dns.org"
+        ], 
+        "domain-name": "agbc.es", 
+        "fuzzer": "insertion", 
+        "geoip-country": "Germany", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "31.193.226.207"
+        ], 
+        "dns-mx": [
+            "ahbc.es"
+        ], 
+        "dns-ns": [
+            "dns1.hostinet.com", 
+            "dns2.hostinet.com"
+        ], 
+        "domain-name": "ahbc.es", 
+        "fuzzer": "insertion", 
+        "geoip-country": "Spain"
+    }, 
+    {
+        "dns-a": [
+            "91.126.166.152"
+        ], 
+        "dns-mx": [
+            "mail.avbc.es"
+        ], 
+        "dns-ns": [
+            "ns1.avbc.es", 
+            "ns2.avbc.es"
+        ], 
+        "domain-name": "avbc.es", 
+        "fuzzer": "insertion", 
+        "geoip-country": "Spain", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "107.150.171.154"
+        ], 
+        "dns-ns": [
+            "ns1.openprovider.nl", 
+            "ns2.openprovider.be", 
+            "ns3.openprovider.eu"
+        ], 
+        "domain-name": "abvc.es", 
+        "fuzzer": "insertion", 
+        "geoip-country": "Turkey", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "185.53.177.20"
+        ], 
+        "dns-ns": [
+            "ns1.singleplan.com", 
+            "ns2.singleplan.com"
+        ], 
+        "domain-name": "aabc.es", 
+        "fuzzer": "repetition", 
+        "geoip-country": "Germany", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "154.58.201.67"
+        ], 
+        "dns-mx": [
+            "im1.imail-server.net", 
+            "im2.imail-server.net", 
+            "mail.ahc.es"
+        ], 
+        "dns-ns": [
+            "ns1.nerion.com", 
+            "ns2.nerion.com", 
+            "ns3.nerion.com", 
+            "ns4.nerion.com"
+        ], 
+        "domain-name": "ahc.es", 
+        "fuzzer": "replacement", 
+        "geoip-country": "Spain", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "23.97.145.242"
+        ], 
+        "dns-mx": [
+            "mta01.dsmail.es", 
+            "mta02.dsmail.es", 
+            "poolmx.dsmail.es"
+        ], 
+        "dns-ns": [
+            "ns.gestiondecuenta.com", 
+            "ns2.gestiondecuenta.com", 
+            "ns3.gestiondecuenta.com", 
+            "ns4.gestiondecuenta.com"
+        ], 
+        "domain-name": "zbc.es", 
+        "fuzzer": "replacement", 
+        "geoip-country": "Netherlands"
+    }, 
+    {
+        "dns-a": [
+            "81.46.223.101"
+        ], 
+        "dns-mx": [
+            "mail.abf.es"
+        ], 
+        "dns-ns": [
+            "ns1.abf.es", 
+            "ns2.abf.es"
+        ], 
+        "domain-name": "abf.es", 
+        "fuzzer": "replacement", 
+        "geoip-country": "Spain", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "89.248.107.150"
+        ], 
+        "dns-mx": [
+            "anc-es.mail.protection.outlook.com"
+        ], 
+        "dns-ns": [
+            "dns1.interdominios.com", 
+            "dns2.interdominios.com"
+        ], 
+        "domain-name": "anc.es", 
+        "fuzzer": "replacement", 
+        "geoip-country": "Spain", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "217.76.132.40"
+        ], 
+        "dns-mx": [
+            "mx.serviciodecorreo.es"
+        ], 
+        "dns-ns": [
+            "dns1.servidoresdns.net", 
+            "dns2.servidoresdns.net"
+        ], 
+        "domain-name": "agc.es", 
+        "fuzzer": "replacement", 
+        "geoip-country": "Spain", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "45.33.14.247"
+        ], 
+        "dns-ns": [
+            "ns1.eurodns.com", 
+            "ns2.eurodns.com", 
+            "ns3.eurodns.com", 
+            "ns4.eurodns.com"
+        ], 
+        "domain-name": "wbc.es", 
+        "fuzzer": "replacement", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "212.36.76.5"
+        ], 
+        "dns-mx": [
+            "mail.nfinite9000.com", 
+            "mail2.nfinite9000.com"
+        ], 
+        "dns-ns": [
+            "ns1.nfinite9000.net", 
+            "ns2.nfinite9000.net"
+        ], 
+        "domain-name": "abv.es", 
+        "fuzzer": "replacement", 
+        "geoip-country": "Spain"
+    }, 
+    {
+        "dns-mx": [
+            "antispam.genetsis.com"
+        ], 
+        "dns-ns": [
+            "ns01.genetsis.com", 
+            "ns02.genetsis.com"
+        ], 
+        "domain-name": "abx.es", 
+        "fuzzer": "replacement"
+    }, 
+    {
+        "dns-a": [
+            "149.202.228.230"
+        ], 
+        "dns-mx": [
+            "abd-es.mail.protection.outlook.com"
+        ], 
+        "dns-ns": [
+            "ns1.bdm.microsoftonline.com", 
+            "ns2.bdm.microsoftonline.com", 
+            "ns3.bdm.microsoftonline.com", 
+            "ns4.bdm.microsoftonline.com"
+        ], 
+        "domain-name": "abd.es", 
+        "fuzzer": "replacement", 
+        "geoip-country": "Spain"
+    }, 
+    {
+        "dns-a": [
+            "45.33.14.247"
+        ], 
+        "dns-ns": [
+            "ns1.eurodns.com", 
+            "ns2.eurodns.com", 
+            "ns3.eurodns.com", 
+            "ns4.eurodns.com"
+        ], 
+        "domain-name": "ybc.es", 
+        "fuzzer": "replacement", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "217.13.80.251", 
+            "217.13.80.252"
+        ], 
+        "dns-mx": [
+            "mx1.dnsxperta.com"
+        ], 
+        "dns-ns": [
+            "ns1.dnsxperta.com", 
+            "ns2.dnsxperta.com"
+        ], 
+        "domain-name": "avc.es", 
+        "fuzzer": "replacement", 
+        "geoip-country": "Spain"
+    }, 
+    {
+        "dns-a": [
+            "217.116.27.160"
+        ], 
+        "dns-mx": [
+            "ALT1.ASPMX.L.GOOGLE.COM", 
+            "ALT2.ASPMX.L.GOOGLE.COM", 
+            "ALT3.ASPMX.L.GOOGLE.COM", 
+            "ALT4.ASPMX.L.GOOGLE.COM", 
+            "ASPMX.L.GOOGLE.COM"
+        ], 
+        "dns-ns": [
+            "ns1.acens.net", 
+            "ns2.acens.net"
+        ], 
+        "domain-name": "acb.es", 
+        "fuzzer": "transposition", 
+        "geoip-country": "Spain"
+    }, 
+    {
+        "dns-a": [
+            "95.211.156.205"
+        ], 
+        "dns-ns": [
+            "dns1.nominalia.com", 
+            "dns2.nominalia.com"
+        ], 
+        "domain-name": "obc.es", 
+        "fuzzer": "vowel-swap", 
+        "geoip-country": "Netherlands", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "184.168.221.96"
+        ], 
+        "dns-mx": [
+            "0", 
+            "10"
+        ], 
+        "dns-ns": [
+            "ns01.cashparking.com", 
+            "ns02.cashparking.com"
+        ], 
+        "domain-name": "ubc.es", 
+        "fuzzer": "vowel-swap", 
+        "geoip-country": "United States", 
+        "mx-spy": true
+    }, 
+    {
+        "dns-a": [
+            "91.108.180.25"
+        ], 
+        "dns-ns": [
+            "ns1.openprovider.nl", 
+            "ns2.openprovider.be", 
+            "ns3.openprovider.eu"
+        ], 
+        "domain-name": "abces.es", 
+        "fuzzer": "various", 
+        "geoip-country": "Sweden", 
+        "ssdeep-score": 0
+    }
+]

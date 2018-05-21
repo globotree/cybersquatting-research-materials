@@ -1,0 +1,60 @@
+[
+    {
+        "dns-a": [
+            "23.57.19.46"
+        ], 
+        "dns-aaaa": [
+            "2a02:26f0:3000:28f::132d", 
+            "2a02:26f0:3000:290::132d"
+        ], 
+        "dns-mx": [
+            "mxa-0024ed01.gslb.pphosted.com", 
+            "mxb-0024ed01.gslb.pphosted.com"
+        ], 
+        "dns-ns": [
+            "a1-166.akam.net", 
+            "a13-67.akam.net", 
+            "a20-64.akam.net", 
+            "a22-65.akam.net", 
+            "a24-66.akam.net", 
+            "a7-67.akam.net"
+        ], 
+        "domain-name": "fcc.gov", 
+        "fuzzer": "original*", 
+        "geoip-country": "Netherlands", 
+        "ssdeep-score": 100
+    }, 
+    {
+        "dns-a": [
+            "152.180.6.131"
+        ], 
+        "dns-mx": [
+            "mail.fca.gov", 
+            "mail2.fca.gov"
+        ], 
+        "dns-ns": [
+            "dnssec10.datamtn.com", 
+            "dnssec11.datamtn.com", 
+            "dnssec12.datamtn.com", 
+            "dnssec14.datamtn.com", 
+            "dnssec7.datamtn.com", 
+            "dnssec9.datamtn.com"
+        ], 
+        "domain-name": "fca.gov", 
+        "fuzzer": "bitsquatting", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-ns": [
+            "a.1001.adoniscs.afiliasdns.info", 
+            "b.1001.adoniscs.afiliasdns.org", 
+            "c.1001.adoniscs.afiliasdns.net", 
+            "d.1001.adoniscs.afiliasdns.com", 
+            "e.1001.adoniscs.afiliasdns.info", 
+            "f.1001.adoniscs.afiliasdns.net"
+        ], 
+        "domain-name": "fcg.gov", 
+        "fuzzer": "bitsquatting"
+    }
+]

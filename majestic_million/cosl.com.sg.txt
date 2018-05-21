@@ -1,0 +1,52 @@
+[
+    {
+        "dns-a": [
+            "119.73.129.165"
+        ], 
+        "dns-mx": [
+            "blocker.cosl.com.sg"
+        ], 
+        "dns-ns": [
+            "dnssec1.singnet.com.sg", 
+            "dnssec2.singnet.com.sg", 
+            "dnssec3.singnet.com.sg"
+        ], 
+        "domain-name": "cosl.com.sg", 
+        "fuzzer": "original*", 
+        "geoip-country": "Singapore", 
+        "mx-spy": true, 
+        "ssdeep-score": 82
+    }, 
+    {
+        "dns-a": [
+            "113.11.251.105"
+        ], 
+        "dns-mx": [
+            "cslex.csl.com.sg"
+        ], 
+        "dns-ns": [
+            "dnssec1.singnet.com.sg", 
+            "dnssec2.singnet.com.sg", 
+            "dnssec3.singnet.com.sg"
+        ], 
+        "domain-name": "csl.com.sg", 
+        "fuzzer": "omission"
+    }, 
+    {
+        "dns-a": [
+            "72.167.109.40"
+        ], 
+        "dns-mx": [
+            "mx.zohomail.com", 
+            "mx2.zohomail.com"
+        ], 
+        "dns-ns": [
+            "ns1.pepper-interactive.com.sg", 
+            "ns2.pepper-interactive.com.sg"
+        ], 
+        "domain-name": "coal.com.sg", 
+        "fuzzer": "replacement", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 0
+    }
+]

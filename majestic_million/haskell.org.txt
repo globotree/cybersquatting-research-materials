@@ -1,0 +1,115 @@
+[
+    {
+        "dns-a": [
+            "23.253.242.70"
+        ], 
+        "dns-aaaa": [
+            "2001:4800:7817:104:be76:4eff:fe04:f608"
+        ], 
+        "dns-mx": [
+            "mail.haskell.org"
+        ], 
+        "dns-ns": [
+            "lex.ns.cloudflare.com", 
+            "pola.ns.cloudflare.com"
+        ], 
+        "domain-name": "haskell.org", 
+        "fuzzer": "original*", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 100
+    }, 
+    {
+        "dns-mx": [
+            "mail.indra.com"
+        ], 
+        "dns-ns": [
+            "dns.bitway.com", 
+            "ns1.indra.com", 
+            "ns2.indra.com"
+        ], 
+        "domain-name": "jaskell.org", 
+        "fuzzer": "bitsquatting"
+    }, 
+    {
+        "dns-a": [
+            "208.91.197.27"
+        ], 
+        "dns-ns": [
+            "ns1.worldnic.com", 
+            "ns2.worldnic.com"
+        ], 
+        "domain-name": "haskel.org", 
+        "fuzzer": "omission", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-mx": [
+            "alt1.aspmx.l.google.com", 
+            "alt2.aspmx.l.google.com", 
+            "aspmx.l.google.com", 
+            "aspmx2.googlemail.com", 
+            "aspmx3.googlemail.com"
+        ], 
+        "dns-ns": [
+            "dns1.registrar-servers.com", 
+            "dns2.registrar-servers.com"
+        ], 
+        "domain-name": "gaskell.org", 
+        "fuzzer": "replacement"
+    }, 
+    {
+        "dns-a": [
+            "68.178.213.61"
+        ], 
+        "domain-name": "hask.ell.org", 
+        "fuzzer": "subdomain", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "103.224.182.249"
+        ], 
+        "dns-mx": [
+            "park-mx.above.com"
+        ], 
+        "dns-ns": [
+            "ns1.above.com", 
+            "ns2.above.com"
+        ], 
+        "domain-name": "haske.ll.org", 
+        "fuzzer": "subdomain", 
+        "geoip-country": "Australia", 
+        "mx-spy": true
+    }, 
+    {
+        "dns-a": [
+            "50.63.46.1"
+        ], 
+        "dns-ns": [
+            "A.SERVICE.AFILIASDNS.INFO", 
+            "B.SERVICE.AFILIASDNS.org", 
+            "C.SERVICE.AFILIASDNS.NET", 
+            "D.SERVICE.AFILIASDNS.COM", 
+            "E.SERVICE.AFILIASDNS.INFO", 
+            "F.SERVICE.AFILIASDNS.NET"
+        ], 
+        "domain-name": "haskel.l.org", 
+        "fuzzer": "subdomain", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "184.168.221.46"
+        ], 
+        "dns-ns": [
+            "ns41.domaincontrol.com", 
+            "ns42.domaincontrol.com"
+        ], 
+        "domain-name": "haskill.org", 
+        "fuzzer": "vowel-swap", 
+        "geoip-country": "United States"
+    }
+]

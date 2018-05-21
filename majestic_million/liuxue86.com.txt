@@ -1,0 +1,91 @@
+[
+    {
+        "dns-a": [
+            "175.6.247.203"
+        ], 
+        "dns-ns": [
+            "ns3.dnsv2.com", 
+            "ns4.dnsv2.com"
+        ], 
+        "domain-name": "liuxue86.com", 
+        "fuzzer": "original*", 
+        "geoip-country": "China", 
+        "ssdeep-score": 80
+    }, 
+    {
+        "dns-a": [
+            "122.114.94.72"
+        ], 
+        "dns-ns": [
+            "dns10.hichina.com", 
+            "dns9.hichina.com"
+        ], 
+        "domain-name": "liuxue87.com", 
+        "fuzzer": "bitsquatting", 
+        "geoip-country": "China"
+    }, 
+    {
+        "dns-a": [
+            "45.120.153.79"
+        ], 
+        "domain-name": "liuxue84.com", 
+        "fuzzer": "bitsquatting", 
+        "geoip-country": "Hong Kong", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "23.234.4.151", 
+            "23.234.4.153"
+        ], 
+        "dns-mx": [
+            "mxdomain.qq.com"
+        ], 
+        "domain-name": "liuxue8.com", 
+        "fuzzer": "omission", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "39.109.6.163"
+        ], 
+        "domain-name": "liuxue6.com", 
+        "fuzzer": "omission", 
+        "geoip-country": "Hong Kong", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "45.199.85.4"
+        ], 
+        "dns-ns": [
+            "v1.dns234.net", 
+            "v2.dns234.net"
+        ], 
+        "domain-name": "lliuxue86.com", 
+        "fuzzer": "repetition", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "74.63.122.27"
+        ], 
+        "domain-name": "liuxue.86.com", 
+        "fuzzer": "subdomain", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "121.199.40.38"
+        ], 
+        "dns-ns": [
+            "dns17.hichina.com", 
+            "dns18.hichina.com"
+        ], 
+        "domain-name": "liuxue68.com", 
+        "fuzzer": "transposition"
+    }
+]

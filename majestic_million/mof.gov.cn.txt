@@ -1,0 +1,51 @@
+[
+    {
+        "dns-mx": [
+            "mail.mof.gov.cn"
+        ], 
+        "dns-ns": [
+            "ns1.cdns.cn", 
+            "ns2.cdns.cn", 
+            "ns3.cdns.cn"
+        ], 
+        "domain-name": "mof.gov.cn", 
+        "fuzzer": "original*"
+    }, 
+    {
+        "dns-mx": [
+            "mail.mod.gov.cn"
+        ], 
+        "dns-ns": [
+            "dns1.jfjb.com.cn", 
+            "dns2.jfjb.com.cn", 
+            "ns1.cdns.cn", 
+            "ns2.cdns.cn", 
+            "ns3.cdns.cn"
+        ], 
+        "domain-name": "mod.gov.cn", 
+        "fuzzer": "bitsquatting", 
+        "mx-spy": true
+    }, 
+    {
+        "dns-a": [
+            "219.143.235.81"
+        ], 
+        "dns-mx": [
+            "mail.mot.gov.cn"
+        ], 
+        "dns-ns": [
+            "ns.mot.gov.cn", 
+            "nsbk.mot.gov.cn"
+        ], 
+        "domain-name": "mot.gov.cn", 
+        "fuzzer": "replacement"
+    }, 
+    {
+        "dns-ns": [
+            "juming.dnsdun.com", 
+            "juming.dnsdun.net"
+        ], 
+        "domain-name": "mofgov.cn", 
+        "fuzzer": "various"
+    }
+]

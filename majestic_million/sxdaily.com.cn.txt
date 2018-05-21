@@ -1,0 +1,161 @@
+[
+    {
+        "dns-mx": [
+            "mxbiz1.qq.com", 
+            "mxbiz2.qq.com"
+        ], 
+        "dns-ns": [
+            "dns10.hichina.com", 
+            "dns9.hichina.com"
+        ], 
+        "domain-name": "sxdaily.com.cn", 
+        "fuzzer": "original*"
+    }, 
+    {
+        "dns-a": [
+            "101.1.17.111"
+        ], 
+        "dns-ns": [
+            "ns1.myhostadmin.net", 
+            "ns2.myhostadmin.net", 
+            "ns3.myhostadmin.net", 
+            "ns4.myhostadmin.net", 
+            "ns5.myhostadmin.net", 
+            "ns6.myhostadmin.net"
+        ], 
+        "domain-name": "cxdaily.com.cn", 
+        "fuzzer": "bitsquatting", 
+        "geoip-country": "Hong Kong"
+    }, 
+    {
+        "dns-a": [
+            "203.78.142.12"
+        ], 
+        "dns-ns": [
+            "dns3.hichina.com", 
+            "dns4.hichina.com"
+        ], 
+        "domain-name": "shdaily.com.cn", 
+        "fuzzer": "bitsquatting", 
+        "geoip-country": "Hong Kong"
+    }, 
+    {
+        "dns-mx": [
+            "xdaily-com-cn.mail.protection.partner.outlook.cn"
+        ], 
+        "dns-ns": [
+            "dns10.hichina.com", 
+            "dns9.hichina.com"
+        ], 
+        "domain-name": "xdaily.com.cn", 
+        "fuzzer": "omission"
+    }, 
+    {
+        "dns-a": [
+            "47.89.58.32"
+        ], 
+        "dns-ns": [
+            "dns25.hichina.com", 
+            "dns26.hichina.com"
+        ], 
+        "domain-name": "sdaily.com.cn", 
+        "fuzzer": "omission", 
+        "geoip-country": "United States"
+    }, 
+    {
+        "dns-ns": [
+            "ns1.myhostadmin.net", 
+            "ns2.myhostadmin.net", 
+            "ns3.myhostadmin.net", 
+            "ns4.myhostadmin.net", 
+            "ns5.myhostadmin.net", 
+            "ns6.myhostadmin.net"
+        ], 
+        "domain-name": "sxdailly.com.cn", 
+        "fuzzer": "repetition"
+    }, 
+    {
+        "dns-a": [
+            "103.66.92.251"
+        ], 
+        "dns-ns": [
+            "ns11.xincache.com", 
+            "ns12.xincache.com"
+        ], 
+        "domain-name": "sxdaiily.com.cn", 
+        "fuzzer": "repetition", 
+        "geoip-country": "China"
+    }, 
+    {
+        "dns-a": [
+            "103.27.111.164"
+        ], 
+        "dns-ns": [
+            "f1g1ns1.dnspod.net", 
+            "f1g1ns2.dnspod.net"
+        ], 
+        "domain-name": "sddaily.com.cn", 
+        "fuzzer": "replacement", 
+        "geoip-country": "Hong Kong"
+    }, 
+    {
+        "dns-a": [
+            "27.255.79.112"
+        ], 
+        "dns-ns": [
+            "a.dnspod.com", 
+            "b.dnspod.com", 
+            "c.dnspod.com"
+        ], 
+        "domain-name": "xxdaily.com.cn", 
+        "fuzzer": "replacement", 
+        "geoip-country": "Korea"
+    }, 
+    {
+        "dns-ns": [
+            "dns1.cq118.cn", 
+            "dns2.cq118.cn"
+        ], 
+        "domain-name": "scdaily.com.cn", 
+        "fuzzer": "replacement"
+    }, 
+    {
+        "dns-mx": [
+            "mail.yxdaily.com.cn"
+        ], 
+        "dns-ns": [
+            "ns3.ce.net.cn"
+        ], 
+        "domain-name": "yxdaily.com.cn", 
+        "fuzzer": "replacement"
+    }, 
+    {
+        "dns-a": [
+            "202.101.165.9"
+        ], 
+        "domain-name": "xsdaily.com.cn", 
+        "fuzzer": "transposition", 
+        "geoip-country": "China"
+    }, 
+    {
+        "dns-a": [
+            "210.74.157.130"
+        ], 
+        "dns-ns": [
+            "ns3.ce.net.cn"
+        ], 
+        "domain-name": "sxdaily.cn", 
+        "fuzzer": "various"
+    }, 
+    {
+        "dns-a": [
+            "45.35.175.222"
+        ], 
+        "dns-ns": [
+            "f1g1ns1.dnspod.net", 
+            "f1g1ns2.dnspod.net"
+        ], 
+        "domain-name": "sxdailycom.cn", 
+        "fuzzer": "various"
+    }
+]

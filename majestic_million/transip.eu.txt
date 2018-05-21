@@ -1,0 +1,175 @@
+[
+    {
+        "dns-a": [
+            "37.97.254.2"
+        ], 
+        "dns-aaaa": [
+            "2a01:7c8:3:1337::2"
+        ], 
+        "dns-mx": [
+            "mail0.transip.nl", 
+            "relay.transip.nl"
+        ], 
+        "dns-ns": [
+            "ns0.transip.net", 
+            "ns1.transip.nl", 
+            "ns2.transip.eu"
+        ], 
+        "domain-name": "transip.eu", 
+        "fuzzer": "original*", 
+        "geoip-country": "Netherlands", 
+        "ssdeep-score": 97
+    }, 
+    {
+        "dns-a": [
+            "217.160.122.89"
+        ], 
+        "dns-aaaa": [
+            "2001:8d8:1000:30a9:c14e:1f81:21a4:7039"
+        ], 
+        "dns-mx": [
+            "mx00.kundenserver.de", 
+            "mx01.kundenserver.de"
+        ], 
+        "dns-ns": [
+            "ns1044.ui-dns.biz", 
+            "ns1044.ui-dns.com", 
+            "ns1044.ui-dns.de", 
+            "ns1044.ui-dns.org"
+        ], 
+        "domain-name": "transap.eu", 
+        "fuzzer": "bitsquatting", 
+        "geoip-country": "Germany", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "194.242.61.72"
+        ], 
+        "dns-mx": [
+            "mail.transit.eu", 
+            "mail1.transit.eu", 
+            "mail2.transit.eu"
+        ], 
+        "dns-ns": [
+            "ns1.dnsitalia.net", 
+            "ns2.dnsitalia.net", 
+            "nsct.dnsitalia.net", 
+            "nsrm.dnsitalia.net"
+        ], 
+        "domain-name": "transit.eu", 
+        "fuzzer": "bitsquatting", 
+        "geoip-country": "Italy", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "83.98.155.165"
+        ], 
+        "dns-mx": [
+            "mail.transix.eu"
+        ], 
+        "dns-ns": [
+            "nsauth1.trans-ix.com", 
+            "nsauth2.trans-ix.com"
+        ], 
+        "domain-name": "transix.eu", 
+        "fuzzer": "bitsquatting", 
+        "geoip-country": "Netherlands", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "80.69.67.3"
+        ], 
+        "dns-mx": [
+            "relay.transip.nl", 
+            "trans-ip.eu"
+        ], 
+        "dns-ns": [
+            "ns0.transip.net", 
+            "ns1.transip.net", 
+            "ns2.transip.net"
+        ], 
+        "domain-name": "trans-ip.eu", 
+        "fuzzer": "hyphenation", 
+        "geoip-country": "Netherlands"
+    }, 
+    {
+        "dns-a": [
+            "213.187.247.79"
+        ], 
+        "dns-mx": [
+            "postduif.natuurpark.nl"
+        ], 
+        "dns-ns": [
+            "dns1.blixem.nl", 
+            "dns2.blixem.nl"
+        ], 
+        "domain-name": "transp.eu", 
+        "fuzzer": "omission", 
+        "geoip-country": "Lebanon", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "89.105.214.154"
+        ], 
+        "dns-mx": [
+            "mail.transil.eu"
+        ], 
+        "dns-ns": [
+            "ns.naamserver.net", 
+            "ns1.naamserver.net", 
+            "ns2.naamserver.net"
+        ], 
+        "domain-name": "transil.eu", 
+        "fuzzer": "replacement", 
+        "geoip-country": "Netherlands"
+    }, 
+    {
+        "dns-a": [
+            "80.92.65.53"
+        ], 
+        "dns-mx": [
+            "mfwd.ebrandservices.com"
+        ], 
+        "dns-ns": [
+            "ns1.eurodns.com", 
+            "ns2.eurodns.com", 
+            "ns3.eurodns.com", 
+            "ns4.eurodns.com"
+        ], 
+        "domain-name": "transup.eu", 
+        "fuzzer": "replacement", 
+        "geoip-country": "Luxembourg", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "80.92.65.53"
+        ], 
+        "dns-mx": [
+            "mfwd.ebrandservices.com"
+        ], 
+        "dns-ns": [
+            "ns1.eurodns.com", 
+            "ns2.eurodns.com", 
+            "ns3.eurodns.com", 
+            "ns4.eurodns.com"
+        ], 
+        "domain-name": "transim.eu", 
+        "fuzzer": "replacement", 
+        "geoip-country": "Luxembourg", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "91.195.240.82"
+        ], 
+        "domain-name": "tr.ansip.eu", 
+        "fuzzer": "subdomain", 
+        "geoip-country": "Germany", 
+        "ssdeep-score": 0
+    }
+]

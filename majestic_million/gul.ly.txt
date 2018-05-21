@@ -1,0 +1,114 @@
+[
+    {
+        "dns-a": [
+            "208.97.149.65"
+        ], 
+        "dns-ns": [
+            "ns1.dreamhost.com", 
+            "ns2.dreamhost.com", 
+            "ns3.dreamhost.com"
+        ], 
+        "domain-name": "gul.ly", 
+        "fuzzer": "original*", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 100
+    }, 
+    {
+        "dns-a": [
+            "23.23.117.64", 
+            "23.23.164.223"
+        ], 
+        "dns-mx": [
+            "alt1.aspmx.l.google.com", 
+            "alt2.aspmx.l.google.com", 
+            "aspmx.l.google.com", 
+            "aspmx2.googlemail.com", 
+            "aspmx3.googlemail.com"
+        ], 
+        "dns-ns": [
+            "ns-1348.awsdns-40.org", 
+            "ns-1624.awsdns-11.co.uk", 
+            "ns-441.awsdns-55.com", 
+            "ns-672.awsdns-20.net"
+        ], 
+        "domain-name": "ul.ly", 
+        "fuzzer": "omission", 
+        "geoip-country": "United States"
+    }, 
+    {
+        "dns-a": [
+            "38.72.121.133"
+        ], 
+        "dns-ns": [
+            "ns-1224.awsdns-25.org", 
+            "ns-1928.awsdns-49.co.uk", 
+            "ns-343.awsdns-42.com", 
+            "ns-593.awsdns-10.net"
+        ], 
+        "domain-name": "gu.ly", 
+        "fuzzer": "omission", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "41.208.71.72"
+        ], 
+        "dns-mx": [
+            "mx1.secure.ly", 
+            "mx2.secure.ly", 
+            "mx3.secure.ly", 
+            "mx4.secure.ly"
+        ], 
+        "dns-ns": [
+            "ns1.web13.libyanspider.net", 
+            "ns2.web13.libyanspider.net"
+        ], 
+        "domain-name": "gl.ly", 
+        "fuzzer": "omission", 
+        "geoip-country": "Libya"
+    }, 
+    {
+        "dns-a": [
+            "54.175.122.194"
+        ], 
+        "domain-name": "bul.ly", 
+        "fuzzer": "replacement", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "41.208.71.90"
+        ], 
+        "dns-mx": [
+            "mx1.secure.ly", 
+            "mx2.secure.ly", 
+            "mx3.secure.ly", 
+            "mx4.secure.ly"
+        ], 
+        "dns-ns": [
+            "ns1.web15.libyanspider.net", 
+            "ns2.web15.libyanspider.net"
+        ], 
+        "domain-name": "gol.ly", 
+        "fuzzer": "vowel-swap", 
+        "geoip-country": "Libya"
+    }, 
+    {
+        "dns-a": [
+            "213.186.33.16"
+        ], 
+        "dns-mx": [
+            "mx1.ovh.net", 
+            "mx2.ovh.net", 
+            "mxb.ovh.net"
+        ], 
+        "dns-ns": [
+            "dns200.anycast.me", 
+            "ns200.anycast.me"
+        ], 
+        "domain-name": "gul-ly.com", 
+        "fuzzer": "various"
+    }
+]

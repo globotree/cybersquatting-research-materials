@@ -1,0 +1,435 @@
+[
+    {
+        "dns-a": [
+            "74.121.199.234"
+        ], 
+        "dns-mx": [
+            "ALT1.ASPMX.L.GOOGLE.com", 
+            "ALT2.ASPMX.L.GOOGLE.com", 
+            "ASPMX.L.GOOGLE.com", 
+            "ASPMX2.GOOGLEMAIL.com", 
+            "ASPMX3.GOOGLEMAIL.com"
+        ], 
+        "dns-ns": [
+            "ns1.p13.dynect.net", 
+            "ns2.p13.dynect.net", 
+            "ns3.p13.dynect.net", 
+            "ns4.p13.dynect.net"
+        ], 
+        "domain-name": "percona.com", 
+        "fuzzer": "original*", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 100
+    }, 
+    {
+        "dns-a": [
+            "216.146.46.10", 
+            "216.146.46.11"
+        ], 
+        "dns-ns": [
+            "ns1.p13.dynect.net", 
+            "ns2.p13.dynect.net", 
+            "ns3.p13.dynect.net", 
+            "ns4.p13.dynect.net"
+        ], 
+        "domain-name": "perconas.com", 
+        "fuzzer": "addition", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 100
+    }, 
+    {
+        "dns-a": [
+            "160.153.136.3"
+        ], 
+        "dns-mx": [
+            "mailstore1.secureserver.net", 
+            "smtp.secureserver.net"
+        ], 
+        "dns-ns": [
+            "ns25.domaincontrol.com", 
+            "ns26.domaincontrol.com"
+        ], 
+        "domain-name": "tercona.com", 
+        "fuzzer": "bitsquatting", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "52.73.124.185", 
+            "54.164.198.60"
+        ], 
+        "dns-ns": [
+            "ns1.namebrightdns.com", 
+            "ns2.namebrightdns.com"
+        ], 
+        "domain-name": "parcona.com", 
+        "fuzzer": "bitsquatting", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "46.30.213.176"
+        ], 
+        "dns-mx": [
+            "mx1.pub.mailpod1-cph3.one.com", 
+            "mx2.pub.mailpod1-cph3.one.com", 
+            "mx3.pub.mailpod1-cph3.one.com"
+        ], 
+        "dns-ns": [
+            "ns01.one.com", 
+            "ns02.one.com"
+        ], 
+        "domain-name": "perbona.com", 
+        "fuzzer": "bitsquatting", 
+        "geoip-country": "Denmark", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "128.199.187.25"
+        ], 
+        "dns-mx": [
+            "mail.pergona.com", 
+            "pergona.com"
+        ], 
+        "dns-ns": [
+            "NS01.SYSPACES.com", 
+            "NS02.SYSPACES.com"
+        ], 
+        "domain-name": "pergona.com", 
+        "fuzzer": "bitsquatting", 
+        "geoip-country": "Singapore", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "23.23.174.132"
+        ], 
+        "domain-name": "persona.com", 
+        "fuzzer": "bitsquatting", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "81.169.145.157"
+        ], 
+        "dns-aaaa": [
+            "2a01:238:20a:202:1157::"
+        ], 
+        "dns-mx": [
+            "smtpin.rzone.de"
+        ], 
+        "dns-ns": [
+            "ns1.webmailer.de", 
+            "ns2.webmailer.de"
+        ], 
+        "domain-name": "percola.com", 
+        "fuzzer": "bitsquatting", 
+        "geoip-country": "Germany", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "192.185.35.57"
+        ], 
+        "dns-mx": [
+            "mail.perconi.com"
+        ], 
+        "dns-ns": [
+            "ns8171.hostgator.com", 
+            "ns8172.hostgator.com"
+        ], 
+        "domain-name": "perconi.com", 
+        "fuzzer": "bitsquatting", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "54.86.200.191"
+        ], 
+        "dns-mx": [
+            "mail.percoma.com"
+        ], 
+        "dns-ns": [
+            "ns1psw.name.com", 
+            "ns2fjz.name.com", 
+            "ns3qty.name.com", 
+            "ns4lny.name.com"
+        ], 
+        "domain-name": "percoma.com", 
+        "fuzzer": "homoglyph", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-ns": [
+            "dns.trans.net", 
+            "dns2.trans.net", 
+            "dns3.trans.net"
+        ], 
+        "domain-name": "percora.com", 
+        "fuzzer": "homoglyph"
+    }, 
+    {
+        "dns-a": [
+            "91.231.140.74"
+        ], 
+        "dns-mx": [
+            "mail.ercona.com"
+        ], 
+        "dns-ns": [
+            "ns1.idhosting.pl", 
+            "ns2.idhosting.pl"
+        ], 
+        "domain-name": "ercona.com", 
+        "fuzzer": "omission", 
+        "geoip-country": "Poland", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "184.168.221.59"
+        ], 
+        "dns-mx": [
+            "ALT1.ASPMX.L.GOOGLE.com", 
+            "ALT2.ASPMX.L.GOOGLE.com", 
+            "ALT3.ASPMX.L.GOOGLE.com", 
+            "ALT4.ASPMX.L.GOOGLE.com", 
+            "ASPMX.L.GOOGLE.com"
+        ], 
+        "dns-ns": [
+            "ns57.domaincontrol.com", 
+            "ns58.domaincontrol.com"
+        ], 
+        "domain-name": "perona.com", 
+        "fuzzer": "omission", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "192.232.251.48"
+        ], 
+        "dns-mx": [
+            "percon.com"
+        ], 
+        "dns-ns": [
+            "ns1339.hostgator.com", 
+            "ns1340.hostgator.com"
+        ], 
+        "domain-name": "percon.com", 
+        "fuzzer": "omission", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "104.236.42.205"
+        ], 
+        "domain-name": "percoa.com", 
+        "fuzzer": "omission", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "54.183.99.63"
+        ], 
+        "domain-name": "pecona.com", 
+        "fuzzer": "omission", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "91.195.240.117"
+        ], 
+        "dns-ns": [
+            "ns1.renewyourname.net", 
+            "ns2.renewyourname.net"
+        ], 
+        "domain-name": "percon1.com", 
+        "fuzzer": "replacement", 
+        "geoip-country": "Germany", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "162.144.4.170"
+        ], 
+        "dns-mx": [
+            "percoba.com"
+        ], 
+        "dns-ns": [
+            "ns1383.hostgator.com", 
+            "ns1384.hostgator.com"
+        ], 
+        "domain-name": "percoba.com", 
+        "fuzzer": "replacement", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "209.237.150.20"
+        ], 
+        "dns-mx": [
+            "inbound.registeredsite.com"
+        ], 
+        "dns-ns": [
+            "a.ns.interland.net", 
+            "b.ns.interland.net", 
+            "c.ns.interland.net"
+        ], 
+        "domain-name": "petcona.com", 
+        "fuzzer": "replacement", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "89.31.143.1"
+        ], 
+        "dns-mx": [
+            "mx00.udag.de", 
+            "mx01.udag.de"
+        ], 
+        "dns-ns": [
+            "ns.udag.de", 
+            "ns.udag.net", 
+            "ns.udag.org"
+        ], 
+        "domain-name": "percons.com", 
+        "fuzzer": "replacement", 
+        "geoip-country": "Germany", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "88.208.252.203"
+        ], 
+        "dns-mx": [
+            "mercona-com.mail.protection.outlook.com"
+        ], 
+        "dns-ns": [
+            "ns1.livedns.co.uk", 
+            "ns2.livedns.co.uk", 
+            "ns3.livedns.co.uk"
+        ], 
+        "domain-name": "mercona.com", 
+        "fuzzer": "replacement", 
+        "geoip-country": "United Kingdom", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "209.15.13.134"
+        ], 
+        "dns-mx": [
+            "mail.b-io.co"
+        ], 
+        "dns-ns": [
+            "ns1.dnslink.com", 
+            "ns2.dnslink.com"
+        ], 
+        "domain-name": "perdona.com", 
+        "fuzzer": "replacement", 
+        "geoip-country": "United States", 
+        "mx-spy": true, 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "184.168.221.2"
+        ], 
+        "dns-mx": [
+            "mailstore1.secureserver.net", 
+            "smtp.secureserver.net"
+        ], 
+        "dns-ns": [
+            "ns67.domaincontrol.com", 
+            "ns68.domaincontrol.com"
+        ], 
+        "domain-name": "perxona.com", 
+        "fuzzer": "replacement", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "50.63.202.40"
+        ], 
+        "dns-mx": [
+            "mailstore1.secureserver.net", 
+            "smtp.secureserver.net"
+        ], 
+        "dns-ns": [
+            "ns23.domaincontrol.com", 
+            "ns24.domaincontrol.com"
+        ], 
+        "domain-name": "perfona.com", 
+        "fuzzer": "replacement", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "69.172.201.153"
+        ], 
+        "dns-ns": [
+            "ns1.uniregistrymarket.link", 
+            "ns2.uniregistrymarket.link"
+        ], 
+        "domain-name": "per.cona.com", 
+        "fuzzer": "subdomain", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "212.24.105.54"
+        ], 
+        "domain-name": "perc.ona.com", 
+        "fuzzer": "subdomain", 
+        "geoip-country": "Lithuania", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "5.35.225.208"
+        ], 
+        "dns-mx": [
+            "mx0.percuna.com"
+        ], 
+        "dns-ns": [
+            "ns1.hans.hosteurope.de", 
+            "ns2.hans.hosteurope.de"
+        ], 
+        "domain-name": "percuna.com", 
+        "fuzzer": "vowel-swap", 
+        "geoip-country": "Germany", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "162.13.125.18"
+        ], 
+        "dns-mx": [
+            "cluster8.eu.messagelabs.com", 
+            "cluster8a.eu.messagelabs.com"
+        ], 
+        "dns-ns": [
+            "ns1.blacknight.com", 
+            "ns2.blacknight.com", 
+            "ns3.blacknight.com", 
+            "ns4.blacknight.com"
+        ], 
+        "domain-name": "percana.com", 
+        "fuzzer": "vowel-swap", 
+        "geoip-country": "United Kingdom"
+    }
+]

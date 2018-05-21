@@ -1,0 +1,60 @@
+[
+    {
+        "dns-a": [
+            "178.254.55.103"
+        ], 
+        "dns-mx": [
+            "mail6.pwhost.de"
+        ], 
+        "dns-ns": [
+            "ns.inwx.de", 
+            "ns2.inwx.de", 
+            "ns3.inwx.eu", 
+            "ns4.inwx.com", 
+            "ns5.inwx.net"
+        ], 
+        "domain-name": "ozerov.de", 
+        "fuzzer": "original*", 
+        "geoip-country": "Germany", 
+        "ssdeep-score": 100
+    }, 
+    {
+        "dns-a": [
+            "5.45.105.215"
+        ], 
+        "dns-mx": [
+            "mail.zerov.de"
+        ], 
+        "dns-ns": [
+            "root-dns.netcup.net", 
+            "second-dns.netcup.net", 
+            "third-dns.netcup.net"
+        ], 
+        "domain-name": "zerov.de", 
+        "fuzzer": "omission", 
+        "geoip-country": "Germany"
+    }, 
+    {
+        "dns-a": [
+            "94.102.214.245"
+        ], 
+        "dns-mx": [
+            "mail.ozero.de"
+        ], 
+        "dns-ns": [
+            "ns1.antagus.de", 
+            "ns2.antagus.de"
+        ], 
+        "domain-name": "ozero.de", 
+        "fuzzer": "omission", 
+        "geoip-country": "Germany"
+    }, 
+    {
+        "dns-a": [
+            "5.45.105.215"
+        ], 
+        "domain-name": "o.zerov.de", 
+        "fuzzer": "subdomain", 
+        "geoip-country": "Germany"
+    }
+]

@@ -1,0 +1,48 @@
+[
+    {
+        "dns-a": [
+            "104.24.0.68", 
+            "104.24.1.68"
+        ], 
+        "dns-aaaa": [
+            "2400:cb00:2048:1::6818:144", 
+            "2400:cb00:2048:1::6818:44"
+        ], 
+        "dns-mx": [
+            "mail.howtoforge.com"
+        ], 
+        "dns-ns": [
+            "karl.ns.cloudflare.com", 
+            "melissa.ns.cloudflare.com"
+        ], 
+        "domain-name": "howtoforge.com", 
+        "fuzzer": "original*", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 100
+    }, 
+    {
+        "dns-a": [
+            "103.224.212.254"
+        ], 
+        "dns-mx": [
+            "park-mx.above.com"
+        ], 
+        "dns-ns": [
+            "ns3.above.com", 
+            "ns4.above.com"
+        ], 
+        "domain-name": "howtoforget.com", 
+        "fuzzer": "addition", 
+        "geoip-country": "Australia", 
+        "mx-spy": true, 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "85.13.155.231"
+        ], 
+        "domain-name": "howt.oforge.com", 
+        "fuzzer": "subdomain", 
+        "geoip-country": "Germany"
+    }
+]

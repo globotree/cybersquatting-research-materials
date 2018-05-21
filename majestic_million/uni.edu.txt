@@ -1,0 +1,312 @@
+[
+    {
+        "dns-a": [
+            "134.161.7.207"
+        ], 
+        "dns-mx": [
+            "alt1.aspmx.l.google.com", 
+            "alt2.aspmx.l.google.com", 
+            "aspmx.l.google.com", 
+            "aspmx2.googlemail.com", 
+            "aspmx3.googlemail.com"
+        ], 
+        "dns-ns": [
+            "dns-2.iastate.edu", 
+            "dns-e3.uiowa.edu", 
+            "dns.uni.edu", 
+            "dns2.uni.edu"
+        ], 
+        "domain-name": "uni.edu", 
+        "fuzzer": "original*", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 100
+    }, 
+    {
+        "dns-a": [
+            "50.87.22.108"
+        ], 
+        "dns-mx": [
+            "alt1.aspmx.l.google.com", 
+            "alt2.aspmx.l.google.com", 
+            "alt3.aspmx.l.google.com", 
+            "alt4.aspmx.l.google.com", 
+            "aspmx.l.google.com"
+        ], 
+        "dns-ns": [
+            "ns1.bluehost.com", 
+            "ns2.bluehost.com"
+        ], 
+        "domain-name": "uniq.edu", 
+        "fuzzer": "addition", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "65.254.250.152"
+        ], 
+        "dns-mx": [
+            "mx.unix.edu"
+        ], 
+        "dns-ns": [
+            "ns1.powweb.com", 
+            "ns2.powweb.com"
+        ], 
+        "domain-name": "unix.edu", 
+        "fuzzer": "addition", 
+        "geoip-country": "United States"
+    }, 
+    {
+        "dns-a": [
+            "132.177.132.99"
+        ], 
+        "dns-mx": [
+            "mxa-0020ca01.gslb.pphosted.com", 
+            "mxb-0020ca01.gslb.pphosted.com"
+        ], 
+        "dns-ns": [
+            "nic.unh.edu", 
+            "ns.usnh.edu", 
+            "ns2.unh.edu", 
+            "unhsst.unh.edu"
+        ], 
+        "domain-name": "unh.edu", 
+        "fuzzer": "bitsquatting", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "144.216.1.50", 
+            "144.216.1.51", 
+            "144.216.1.52"
+        ], 
+        "dns-mx": [
+            "mxa-00246402.gslb.pphosted.com", 
+            "mxb-00246402.gslb.pphosted.com"
+        ], 
+        "dns-ns": [
+            "unkname.unk.edu", 
+            "unkname2.unk.edu"
+        ], 
+        "domain-name": "unk.edu", 
+        "fuzzer": "bitsquatting", 
+        "geoip-country": "United States", 
+        "mx-spy": true, 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "129.24.168.32"
+        ], 
+        "dns-mx": [
+            "mxvs.unm.edu"
+        ], 
+        "dns-ns": [
+            "externaldns0.nmt.edu", 
+            "ns1.unm.edu", 
+            "ns2.unm.edu"
+        ], 
+        "domain-name": "unm.edu", 
+        "fuzzer": "bitsquatting", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "216.54.215.184"
+        ], 
+        "dns-mx": [
+            "mxa-00033f02.gslb.pphosted.com", 
+            "mxb-00033f02.gslb.pphosted.com"
+        ], 
+        "dns-ns": [
+            "asnsvr.asc.edu", 
+            "ibv3.una.edu", 
+            "ibv4.una.edu", 
+            "ns1.asc.edu", 
+            "ns2.asc.edu", 
+            "ns3.asc.edu"
+        ], 
+        "domain-name": "una.edu", 
+        "fuzzer": "bitsquatting", 
+        "geoip-country": "United States", 
+        "mx-spy": true, 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "185.81.156.51", 
+            "185.81.156.52", 
+            "185.81.156.53", 
+            "185.81.156.54", 
+            "185.81.156.55", 
+            "185.81.156.56", 
+            "185.81.156.57", 
+            "185.81.156.58", 
+            "185.81.156.59", 
+            "185.81.156.60"
+        ], 
+        "dns-mx": [
+            "mx2.free-h.org", 
+            "mx3.free-h.org", 
+            "pf3.free-h.org"
+        ], 
+        "dns-ns": [
+            "ns2.free-h.org", 
+            "ns3.free-h.org", 
+            "pf3.free-h.org"
+        ], 
+        "domain-name": "umi.edu", 
+        "fuzzer": "homoglyph", 
+        "geoip-country": "France", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "131.128.1.132", 
+            "131.128.1.133"
+        ], 
+        "dns-mx": [
+            "ALT1.ASPMX.L.GOOGLE.COM", 
+            "ALT2.ASPMX.L.GOOGLE.COM", 
+            "ASPMX.L.GOOGLE.COM", 
+            "ASPMX2.GOOGLEMAIL.COM", 
+            "ASPMX3.GOOGLEMAIL.COM"
+        ], 
+        "dns-ns": [
+            "bigbluebug.uri.edu", 
+            "netops.uri.edu", 
+            "phloem.uoregon.edu"
+        ], 
+        "domain-name": "uri.edu", 
+        "fuzzer": "homoglyph", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "129.93.168.40", 
+            "129.93.168.41", 
+            "129.93.168.42", 
+            "129.93.168.43"
+        ], 
+        "dns-mx": [
+            "mxa-00246401.gslb.pphosted.com", 
+            "mxb-00246401.gslb.pphosted.com"
+        ], 
+        "dns-ns": [
+            "dns1.unl.edu", 
+            "dns2.unl.edu"
+        ], 
+        "domain-name": "unl.edu", 
+        "fuzzer": "homoglyph", 
+        "geoip-country": "United States", 
+        "mx-spy": true, 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "65.112.93.103"
+        ], 
+        "dns-mx": [
+            "ni-edu.mail.protection.outlook.com"
+        ], 
+        "dns-ns": [
+            "ns10.dnsmadeeasy.com", 
+            "ns11.dnsmadeeasy.com", 
+            "ns12.dnsmadeeasy.com", 
+            "ns13.dnsmadeeasy.com", 
+            "ns14.dnsmadeeasy.com", 
+            "ns15.dnsmadeeasy.com"
+        ], 
+        "domain-name": "ni.edu", 
+        "fuzzer": "omission", 
+        "geoip-country": "United States"
+    }, 
+    {
+        "dns-ns": [
+            "ns1.itb.ac.id", 
+            "ranggalawe.ui.ac.id", 
+            "uicsgtw.cs.ui.ac.id"
+        ], 
+        "domain-name": "ui.edu", 
+        "fuzzer": "omission"
+    }, 
+    {
+        "dns-a": [
+            "202.253.138.148"
+        ], 
+        "dns-mx": [
+            "alt1.aspmx.l.google.com", 
+            "alt2.aspmx.l.google.com", 
+            "alt3.aspmx.l.google.com", 
+            "alt4.aspmx.l.google.com", 
+            "aspmx.l.google.com"
+        ], 
+        "dns-ns": [
+            "dns0.unu.edu", 
+            "dns1.unu.edu", 
+            "dns2.unu.edu", 
+            "dns3.unu.edu", 
+            "dns4.unu.edu"
+        ], 
+        "domain-name": "unu.edu", 
+        "fuzzer": "replacement", 
+        "geoip-country": "Japan", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "137.30.242.38"
+        ], 
+        "dns-mx": [
+            "uno-edu.mail.protection.outlook.com"
+        ], 
+        "dns-ns": [
+            "ns1-05.azure-dns.com", 
+            "ns2-05.azure-dns.net", 
+            "ns3-05.azure-dns.org", 
+            "ns4-05.azure-dns.info"
+        ], 
+        "domain-name": "uno.edu", 
+        "fuzzer": "replacement", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "178.208.52.110"
+        ], 
+        "dns-mx": [
+            "in-mx.online.be"
+        ], 
+        "dns-ns": [
+            "ns1.ionip.as6696.net", 
+            "ns2.ionip.as6696.net"
+        ], 
+        "domain-name": "ubi.edu", 
+        "fuzzer": "replacement"
+    }, 
+    {
+        "dns-a": [
+            "54.83.28.193"
+        ], 
+        "dns-ns": [
+            "dns4.rr.com", 
+            "ns1.biz.rr.com", 
+            "ns2.biz.rr.com"
+        ], 
+        "domain-name": "une.edu", 
+        "fuzzer": "vowel-swap"
+    }, 
+    {
+        "dns-a": [
+            "66.45.246.141"
+        ], 
+        "domain-name": "uni-edu.com", 
+        "fuzzer": "various", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 0
+    }
+]

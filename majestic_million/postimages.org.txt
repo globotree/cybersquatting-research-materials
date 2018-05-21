@@ -1,0 +1,107 @@
+[
+    {
+        "dns-a": [
+            "46.229.166.179"
+        ], 
+        "dns-ns": [
+            "dns.anycastns1.org", 
+            "dns.anycastns2.org"
+        ], 
+        "domain-name": "postimages.org", 
+        "fuzzer": "original*", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 100
+    }, 
+    {
+        "dns-a": [
+            "46.229.166.177"
+        ], 
+        "dns-mx": [
+            "alt1.aspmx.l.google.com", 
+            "alt2.aspmx.l.google.com", 
+            "alt3.aspmx.l.google.com", 
+            "alt4.aspmx.l.google.com", 
+            "aspmx.l.google.com"
+        ], 
+        "dns-ns": [
+            "dns.anycastns1.org", 
+            "dns.anycastns2.org"
+        ], 
+        "domain-name": "postimage.org", 
+        "fuzzer": "omission", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 100
+    }, 
+    {
+        "dns-a": [
+            "198.71.233.15"
+        ], 
+        "dns-mx": [
+            "posimages-org.mail.protection.outlook.com"
+        ], 
+        "domain-name": "posimages.org", 
+        "fuzzer": "omission", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "91.221.196.253"
+        ], 
+        "dns-aaaa": [
+            "2001:67c:3c0:12::53"
+        ], 
+        "domain-name": "post.images.org", 
+        "fuzzer": "subdomain", 
+        "geoip-country": "Denmark"
+    }, 
+    {
+        "dns-ns": [
+            "ns1.uniregistrymarket.link", 
+            "ns2.uniregistrymarket.link"
+        ], 
+        "domain-name": "postim.ages.org", 
+        "fuzzer": "subdomain"
+    }, 
+    {
+        "dns-a": [
+            "66.96.162.132"
+        ], 
+        "domain-name": "postima.ges.org", 
+        "fuzzer": "subdomain", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "72.52.4.119"
+        ], 
+        "dns-mx": [
+            "localhost"
+        ], 
+        "dns-ns": [
+            "ns1.sedoparking.com", 
+            "ns2.sedoparking.com"
+        ], 
+        "domain-name": "postimag.es.org", 
+        "fuzzer": "subdomain", 
+        "geoip-country": "United States", 
+        "mx-spy": true, 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "50.63.46.1"
+        ], 
+        "dns-ns": [
+            "A.SERVICE.AFILIASDNS.INFO", 
+            "B.SERVICE.AFILIASDNS.org", 
+            "C.SERVICE.AFILIASDNS.NET", 
+            "D.SERVICE.AFILIASDNS.COM", 
+            "E.SERVICE.AFILIASDNS.INFO", 
+            "F.SERVICE.AFILIASDNS.NET"
+        ], 
+        "domain-name": "postimage.s.org", 
+        "fuzzer": "subdomain"
+    }
+]

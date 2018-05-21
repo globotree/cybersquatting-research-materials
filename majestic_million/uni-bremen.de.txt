@@ -1,0 +1,150 @@
+[
+    {
+        "dns-a": [
+            "134.102.22.124"
+        ], 
+        "dns-mx": [
+            "mailgate-1.zfn.uni-bremen.de", 
+            "mailgate-2.zfn.uni-bremen.de"
+        ], 
+        "dns-ns": [
+            "dns-2.dfn.de", 
+            "ines.zfn.uni-bremen.de", 
+            "ns.informatik.uni-bremen.de"
+        ], 
+        "domain-name": "uni-bremen.de", 
+        "fuzzer": "original*", 
+        "geoip-country": "Germany", 
+        "ssdeep-score": 100
+    }, 
+    {
+        "dns-a": [
+            "217.160.223.134"
+        ], 
+        "dns-mx": [
+            "mx00.kundenserver.de", 
+            "mx01.kundenserver.de"
+        ], 
+        "dns-ns": [
+            "ns39.1und1.de", 
+            "ns40.1und1.de"
+        ], 
+        "domain-name": "tni-bremen.de", 
+        "fuzzer": "bitsquatting", 
+        "geoip-country": "Germany", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "185.53.178.7"
+        ], 
+        "dns-mx": [
+            "mail.h-email.net"
+        ], 
+        "dns-ns": [
+            "ns1.parkingcrew.net", 
+            "ns2.parkingcrew.net"
+        ], 
+        "domain-name": "uni-remen.de", 
+        "fuzzer": "omission", 
+        "geoip-country": "Germany", 
+        "mx-spy": true, 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "185.53.178.6"
+        ], 
+        "dns-mx": [
+            "mail.h-email.net"
+        ], 
+        "dns-ns": [
+            "ns1.parkingcrew.net", 
+            "ns2.parkingcrew.net"
+        ], 
+        "domain-name": "uni-breme.de", 
+        "fuzzer": "omission", 
+        "geoip-country": "Germany", 
+        "mx-spy": true, 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "5.189.132.155"
+        ], 
+        "dns-aaaa": [
+            "2a02:c207:3001:786::1"
+        ], 
+        "dns-mx": [
+            "smtp.schuerholz.it"
+        ], 
+        "dns-ns": [
+            "ns1.rieckers.it", 
+            "ns1.schuerholz.it", 
+            "ns2.rieckers.it"
+        ], 
+        "domain-name": "uni-bremn.de", 
+        "fuzzer": "omission", 
+        "geoip-country": "Germany"
+    }, 
+    {
+        "dns-a": [
+            "185.53.178.7"
+        ], 
+        "dns-mx": [
+            "mail.h-email.net"
+        ], 
+        "dns-ns": [
+            "ns1.parkingcrew.net", 
+            "ns2.parkingcrew.net"
+        ], 
+        "domain-name": "uni-brmen.de", 
+        "fuzzer": "omission", 
+        "geoip-country": "Germany", 
+        "mx-spy": true, 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "217.160.122.37"
+        ], 
+        "dns-aaaa": [
+            "2001:8d8:1000:b0f0:cff4:3a6d:f305:3037"
+        ], 
+        "dns-mx": [
+            "mx00.kundenserver.de", 
+            "mx01.kundenserver.de"
+        ], 
+        "dns-ns": [
+            "ns65.1und1.de", 
+            "ns66.1und1.de"
+        ], 
+        "domain-name": "uno-bremen.de", 
+        "fuzzer": "replacement", 
+        "geoip-country": "Germany", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "52.58.78.16"
+        ], 
+        "dns-mx": [
+            "mx.uni-br.emen.de"
+        ], 
+        "dns-ns": [
+            "ns1.undeveloped.com", 
+            "ns2.undeveloped.com"
+        ], 
+        "domain-name": "uni-br.emen.de", 
+        "fuzzer": "subdomain"
+    }, 
+    {
+        "dns-a": [
+            "89.31.143.100"
+        ], 
+        "domain-name": "uni-brem.en.de", 
+        "fuzzer": "subdomain", 
+        "geoip-country": "Germany", 
+        "ssdeep-score": 0
+    }
+]

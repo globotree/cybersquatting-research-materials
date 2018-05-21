@@ -1,0 +1,51 @@
+[
+    {
+        "dns-a": [
+            "202.102.251.238"
+        ], 
+        "dns-mx": [
+            "mail.beareyes.com.cn"
+        ], 
+        "dns-ns": [
+            "ns.beareyes.com.cn", 
+            "ns2.beareyes.com.cn"
+        ], 
+        "domain-name": "beareyes.com.cn", 
+        "fuzzer": "original*", 
+        "geoip-country": "China", 
+        "ssdeep-score": 100
+    }, 
+    {
+        "dns-a": [
+            "202.97.174.194"
+        ], 
+        "dns-mx": [
+            "mx1.dns-diy.com", 
+            "mx3.dns-diy.com"
+        ], 
+        "domain-name": "beareye.com.cn", 
+        "fuzzer": "omission", 
+        "geoip-country": "China"
+    }, 
+    {
+        "dns-a": [
+            "47.91.169.15"
+        ], 
+        "domain-name": "bea.reyes.com.cn", 
+        "fuzzer": "subdomain", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "50.117.120.251"
+        ], 
+        "dns-mx": [
+            "mail.happyisp.com"
+        ], 
+        "domain-name": "beareyse.com.cn", 
+        "fuzzer": "transposition", 
+        "geoip-country": "United States", 
+        "mx-spy": true
+    }
+]

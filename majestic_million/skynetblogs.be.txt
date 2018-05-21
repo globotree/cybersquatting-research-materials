@@ -1,0 +1,98 @@
+[
+    {
+        "dns-a": [
+            "176.31.142.41"
+        ], 
+        "dns-mx": [
+            "mxa.mailgun.org", 
+            "mxb.mailgun.org"
+        ], 
+        "dns-ns": [
+            "ns001.bhpr.net", 
+            "ns002.bhpr.net"
+        ], 
+        "domain-name": "skynetblogs.be", 
+        "fuzzer": "original*", 
+        "geoip-country": "France", 
+        "mx-spy": true, 
+        "ssdeep-score": 100
+    }, 
+    {
+        "dns-mx": [
+            "in.mx.skynet.be", 
+            "relay.mx.skynet.be"
+        ], 
+        "dns-ns": [
+            "ns1.skynet.be", 
+            "ns2.skynet.be", 
+            "ns3.skynet.be", 
+            "ns4.skynet.be"
+        ], 
+        "domain-name": "skynetblocs.be", 
+        "fuzzer": "bitsquatting"
+    }, 
+    {
+        "dns-a": [
+            "195.238.10.73"
+        ], 
+        "dns-mx": [
+            "in.mx.skynet.be", 
+            "relay.mx.skynet.be"
+        ], 
+        "dns-ns": [
+            "ns1.skynet.be", 
+            "ns2.skynet.be", 
+            "ns3.skynet.be", 
+            "ns4.skynet.be"
+        ], 
+        "domain-name": "skynetblog.be", 
+        "fuzzer": "omission", 
+        "geoip-country": "Belgium"
+    }, 
+    {
+        "dns-a": [
+            "188.165.23.19"
+        ], 
+        "dns-mx": [
+            "mx1.mail.ovh.net", 
+            "mx2.mail.ovh.net", 
+            "mx3.mail.ovh.net"
+        ], 
+        "dns-ns": [
+            "dns12.ovh.net", 
+            "ns12.ovh.net"
+        ], 
+        "domain-name": "skynetbogs.be", 
+        "fuzzer": "omission", 
+        "geoip-country": "Poland", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-mx": [
+            "in.mx.skynet.be", 
+            "relay.mx.skynet.be"
+        ], 
+        "dns-ns": [
+            "ns1.skynet.be", 
+            "ns2.skynet.be", 
+            "ns3.skynet.be", 
+            "ns4.skynet.be"
+        ], 
+        "domain-name": "skynetblobs.be", 
+        "fuzzer": "replacement"
+    }, 
+    {
+        "dns-a": [
+            "72.52.4.120"
+        ], 
+        "dns-mx": [
+            "localhost"
+        ], 
+        "dns-ns": [
+            "ns1.sedoparking.com", 
+            "ns2.sedoparking.com"
+        ], 
+        "domain-name": "skynetblo.gs.be", 
+        "fuzzer": "subdomain"
+    }
+]

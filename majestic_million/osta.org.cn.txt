@@ -1,0 +1,188 @@
+[
+    {
+        "dns-a": [
+            "124.42.10.244"
+        ], 
+        "dns-mx": [
+            "mail.pthl.net"
+        ], 
+        "dns-ns": [
+            "dns1.nvqol.net", 
+            "dns2.nvqol.net"
+        ], 
+        "domain-name": "osta.org.cn", 
+        "fuzzer": "original*", 
+        "geoip-country": "China", 
+        "ssdeep-score": 100
+    }, 
+    {
+        "dns-a": [
+            "203.160.55.233"
+        ], 
+        "dns-ns": [
+            "dns27.hichina.com", 
+            "dns28.hichina.com"
+        ], 
+        "domain-name": "ostaa.org.cn", 
+        "fuzzer": "addition", 
+        "geoip-country": "China", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "162.159.210.10", 
+            "162.159.211.10"
+        ], 
+        "dns-ns": [
+            "ns1.myhostadmin.net", 
+            "ns2.myhostadmin.net", 
+            "ns3.myhostadmin.net", 
+            "ns4.myhostadmin.net", 
+            "ns5.myhostadmin.net", 
+            "ns6.myhostadmin.net"
+        ], 
+        "domain-name": "ostas.org.cn", 
+        "fuzzer": "addition", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "43.227.30.93"
+        ], 
+        "domain-name": "ostaw.org.cn", 
+        "fuzzer": "addition", 
+        "geoip-country": "Hong Kong", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "103.85.23.106"
+        ], 
+        "domain-name": "ostc.org.cn", 
+        "fuzzer": "bitsquatting", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "123.56.42.215"
+        ], 
+        "dns-ns": [
+            "f1g1ns1.dnspod.net", 
+            "f1g1ns2.dnspod.net"
+        ], 
+        "domain-name": "oste.org.cn", 
+        "fuzzer": "bitsquatting", 
+        "geoip-country": "China"
+    }, 
+    {
+        "dns-ns": [
+            "ns1.myhostadmin.net", 
+            "ns2.myhostadmin.net", 
+            "ns3.myhostadmin.net", 
+            "ns4.myhostadmin.net", 
+            "ns5.myhostadmin.net", 
+            "ns6.myhostadmin.net"
+        ], 
+        "domain-name": "0sta.org.cn", 
+        "fuzzer": "homoglyph"
+    }, 
+    {
+        "dns-a": [
+            "43.228.204.186"
+        ], 
+        "dns-mx": [
+            "mxbiz1.qq.com", 
+            "mxbiz2.qq.com"
+        ], 
+        "domain-name": "osa.org.cn", 
+        "fuzzer": "omission", 
+        "geoip-country": "China", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-mx": [
+            "cdn.corp-email.cn", 
+            "cdn.corpemail.net", 
+            "cnc.biz-email.net", 
+            "mail.biz-email.net"
+        ], 
+        "dns-ns": [
+            "ns19.xincache.com", 
+            "ns20.xincache.com"
+        ], 
+        "domain-name": "sta.org.cn", 
+        "fuzzer": "omission"
+    }, 
+    {
+        "dns-a": [
+            "123.58.180.165", 
+            "123.58.180.166"
+        ], 
+        "dns-ns": [
+            "dns10.hichina.com", 
+            "dns9.hichina.com"
+        ], 
+        "domain-name": "ost.org.cn", 
+        "fuzzer": "omission", 
+        "geoip-country": "China"
+    }, 
+    {
+        "dns-ns": [
+            "dns15.hichina.com", 
+            "dns16.hichina.com"
+        ], 
+        "domain-name": "psta.org.cn", 
+        "fuzzer": "replacement"
+    }, 
+    {
+        "dns-a": [
+            "103.232.215.129"
+        ], 
+        "dns-mx": [
+            "mail.happyisp.com"
+        ], 
+        "domain-name": "sota.org.cn", 
+        "fuzzer": "transposition", 
+        "geoip-country": "China", 
+        "mx-spy": true
+    }, 
+    {
+        "dns-a": [
+            "50.117.120.251"
+        ], 
+        "dns-mx": [
+            "mail.happyisp.com"
+        ], 
+        "domain-name": "osat.org.cn", 
+        "fuzzer": "transposition", 
+        "geoip-country": "United States", 
+        "mx-spy": true, 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-ns": [
+            "ns2.cnkuai.com"
+        ], 
+        "domain-name": "osto.org.cn", 
+        "fuzzer": "vowel-swap"
+    }, 
+    {
+        "dns-a": [
+            "124.42.10.243"
+        ], 
+        "dns-ns": [
+            "dns1.nvqol.net", 
+            "dns2.nvqol.net"
+        ], 
+        "domain-name": "osta.cn", 
+        "fuzzer": "various"
+    }, 
+    {
+        "dns-a": [
+            "50.117.120.251"
+        ], 
+        "domain-name": "ostaorg.cn", 
+        "fuzzer": "various"
+    }
+]

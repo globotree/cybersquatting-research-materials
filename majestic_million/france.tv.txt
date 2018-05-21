@@ -1,0 +1,211 @@
+[
+    {
+        "dns-mx": [
+            "cust13104-1.in.mailcontrol.com", 
+            "cust13104-2.in.mailcontrol.com", 
+            "cust13104-3.in.mailcontrol.com"
+        ], 
+        "dns-ns": [
+            "a1-242.akam.net", 
+            "a13-67.akam.net", 
+            "a14-64.akam.net", 
+            "a22-65.akam.net", 
+            "a3-66.akam.net", 
+            "a8-67.akam.net"
+        ], 
+        "domain-name": "france.tv", 
+        "fuzzer": "original*"
+    }, 
+    {
+        "dns-a": [
+            "185.26.230.129"
+        ], 
+        "dns-mx": [
+            "mail.franceo.tv"
+        ], 
+        "dns-ns": [
+            "indom10.indomco.com", 
+            "indom20.indomco.net", 
+            "indom30.indomco.fr"
+        ], 
+        "domain-name": "franceo.tv", 
+        "fuzzer": "addition", 
+        "geoip-country": "United Kingdom", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "209.124.66.22"
+        ], 
+        "dns-mx": [
+            "alt1.aspmx.l.google.com", 
+            "alt2.aspmx.l.google.com", 
+            "aspmx.l.google.com", 
+            "aspmx2.googlemail.com", 
+            "aspmx3.googlemail.com", 
+            "frances.tv"
+        ], 
+        "dns-ns": [
+            "ns1.a2hosting.com", 
+            "ns2.a2hosting.com", 
+            "ns3.a2hosting.com", 
+            "ns4.a2hosting.com"
+        ], 
+        "domain-name": "frances.tv", 
+        "fuzzer": "addition", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "47.89.58.32"
+        ], 
+        "dns-ns": [
+            "dns1.hichina.com", 
+            "dns2.hichina.com"
+        ], 
+        "domain-name": "frence.tv", 
+        "fuzzer": "bitsquatting", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "194.29.230.40"
+        ], 
+        "dns-mx": [
+            "mail.franke.tv"
+        ], 
+        "dns-ns": [
+            "ns.ipberlin.com", 
+            "ns3.ipberlin.com"
+        ], 
+        "domain-name": "franke.tv", 
+        "fuzzer": "bitsquatting", 
+        "geoip-country": "Germany", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "208.91.197.27"
+        ], 
+        "dns-mx": [
+            "p.webcom.ctmail.com"
+        ], 
+        "dns-ns": [
+            "ns19.worldnic.com", 
+            "ns20.worldnic.com"
+        ], 
+        "domain-name": "franca.tv", 
+        "fuzzer": "bitsquatting", 
+        "geoip-country": "United States", 
+        "mx-spy": true, 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "143.95.32.200"
+        ], 
+        "dns-mx": [
+            "alt1.aspmx.l.google.com", 
+            "alt2.aspmx.l.google.com", 
+            "aspmx.l.google.com", 
+            "aspmx2.googlemail.com", 
+            "aspmx3.googlemail.com"
+        ], 
+        "dns-ns": [
+            "ns1.asoshared.com", 
+            "ns2.asoshared.com"
+        ], 
+        "domain-name": "franc.tv", 
+        "fuzzer": "omission", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "91.195.240.82"
+        ], 
+        "dns-mx": [
+            "mail.b-io.co"
+        ], 
+        "dns-ns": [
+            "ns1gmz.name.com", 
+            "ns2fgp.name.com", 
+            "ns3dty.name.com", 
+            "ns4lqx.name.com"
+        ], 
+        "domain-name": "trance.tv", 
+        "fuzzer": "replacement", 
+        "geoip-country": "Germany", 
+        "mx-spy": true, 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "184.168.221.3"
+        ], 
+        "dns-mx": [
+            "mailstore1.secureserver.net", 
+            "smtp.secureserver.net"
+        ], 
+        "dns-ns": [
+            "ns55.domaincontrol.com", 
+            "ns56.domaincontrol.com"
+        ], 
+        "domain-name": "franco.tv", 
+        "fuzzer": "vowel-swap"
+    }, 
+    {
+        "dns-a": [
+            "184.168.221.32"
+        ], 
+        "dns-mx": [
+            "mailstore1.secureserver.net", 
+            "smtp.secureserver.net"
+        ], 
+        "dns-ns": [
+            "ns19.domaincontrol.com", 
+            "ns20.domaincontrol.com"
+        ], 
+        "domain-name": "franci.tv", 
+        "fuzzer": "vowel-swap"
+    }, 
+    {
+        "dns-a": [
+            "185.26.230.129"
+        ], 
+        "dns-mx": [
+            "mail.francetv.tv"
+        ], 
+        "dns-ns": [
+            "indom10.indomco.com", 
+            "indom130.indomco.org", 
+            "indom20.indomco.net", 
+            "indom30.indomco.fr", 
+            "indom80.indomco.hk"
+        ], 
+        "domain-name": "francetv.tv", 
+        "fuzzer": "various"
+    }, 
+    {
+        "dns-a": [
+            "185.26.230.129"
+        ], 
+        "dns-mx": [
+            "relay1.netnames.net", 
+            "relay2.netnames.net"
+        ], 
+        "dns-ns": [
+            "indom10.indomco.com", 
+            "indom130.indomco.org", 
+            "indom20.indomco.net", 
+            "indom30.indomco.fr", 
+            "indom80.indomco.hk"
+        ], 
+        "domain-name": "france-tv.com", 
+        "fuzzer": "various", 
+        "geoip-country": "United Kingdom", 
+        "ssdeep-score": 0
+    }
+]

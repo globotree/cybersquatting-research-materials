@@ -1,0 +1,26 @@
+[
+    {
+        "dns-ns": [
+            "ns.dns.br", 
+            "ns3.nic.mx", 
+            "pch.gt", 
+            "sns-pb.isc.org"
+        ], 
+        "domain-name": "gob.gt", 
+        "fuzzer": "original*"
+    }, 
+    {
+        "dns-a": [
+            "76.74.242.160"
+        ], 
+        "dns-mx": [
+            "go.gt"
+        ], 
+        "dns-ns": [
+            "ns1.hostpapa.com", 
+            "ns2.hostpapa.com"
+        ], 
+        "domain-name": "go.gt", 
+        "fuzzer": "omission"
+    }
+]

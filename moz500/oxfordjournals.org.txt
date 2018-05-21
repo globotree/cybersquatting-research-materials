@@ -1,0 +1,81 @@
+[
+    {
+        "dns-a": [
+            "193.132.48.225"
+        ], 
+        "dns-ns": [
+            "ns-1363.awsdns-42.org", 
+            "ns-180.awsdns-22.com", 
+            "ns-1829.awsdns-36.co.uk", 
+            "ns-871.awsdns-44.net"
+        ], 
+        "domain-name": "oxfordjournals.org", 
+        "fuzzer": "original*", 
+        "geoip-country": "United Kingdom", 
+        "ssdeep-score": 94
+    }, 
+    {
+        "dns-a": [
+            "198.50.233.231"
+        ], 
+        "dns-ns": [
+            "ns1.domainmx.com", 
+            "ns2.domainmx.com"
+        ], 
+        "domain-name": "oxfordjounals.org", 
+        "fuzzer": "omission", 
+        "geoip-country": "Hong Kong", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "208.91.196.152"
+        ], 
+        "dns-ns": [
+            "sk.s7.ans1.ns147.klczy.com", 
+            "sk.s7.ans2.ns147.klczy.com"
+        ], 
+        "domain-name": "oxfordjurnals.org", 
+        "fuzzer": "omission", 
+        "geoip-country": "Virgin Islands", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "37.48.65.136"
+        ], 
+        "dns-ns": [
+            "ns1.weaponizedcow.com", 
+            "ns2.weaponizedcow.com"
+        ], 
+        "domain-name": "oxfordjournal.org", 
+        "fuzzer": "omission", 
+        "geoip-country": "Netherlands"
+    }, 
+    {
+        "dns-a": [
+            "217.70.184.50"
+        ], 
+        "domain-name": "oxford.journals.org", 
+        "fuzzer": "subdomain", 
+        "geoip-country": "France", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "50.63.46.1"
+        ], 
+        "dns-ns": [
+            "A.SERVICE.AFILIASDNS.INFO", 
+            "B.SERVICE.AFILIASDNS.org", 
+            "C.SERVICE.AFILIASDNS.NET", 
+            "D.SERVICE.AFILIASDNS.COM", 
+            "E.SERVICE.AFILIASDNS.INFO", 
+            "F.SERVICE.AFILIASDNS.NET"
+        ], 
+        "domain-name": "oxfordjournal.s.org", 
+        "fuzzer": "subdomain", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 0
+    }
+]

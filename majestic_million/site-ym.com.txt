@@ -1,0 +1,43 @@
+[
+    {
+        "dns-ns": [
+            "ns1.ymaws.com", 
+            "ns2.ymaws.com", 
+            "ns3.ymaws.com", 
+            "ns4.ymaws.com"
+        ], 
+        "domain-name": "site-ym.com", 
+        "fuzzer": "original*"
+    }, 
+    {
+        "dns-mx": [
+            "panther.owari.ne.jp"
+        ], 
+        "dns-ns": [
+            "ns.owari.ne.jp", 
+            "ns1.owari.ne.jp"
+        ], 
+        "domain-name": "site-m.com", 
+        "fuzzer": "omission"
+    }, 
+    {
+        "dns-a": [
+            "24.73.102.199"
+        ], 
+        "dns-ns": [
+            "ns53.domaincontrol.com", 
+            "ns54.domaincontrol.com"
+        ], 
+        "domain-name": "siteym.com", 
+        "fuzzer": "omission", 
+        "geoip-country": "United States"
+    }, 
+    {
+        "dns-a": [
+            "45.55.118.33"
+        ], 
+        "domain-name": "site-y.com", 
+        "fuzzer": "omission", 
+        "geoip-country": "United States"
+    }
+]

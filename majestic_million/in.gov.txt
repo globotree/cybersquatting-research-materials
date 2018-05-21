@@ -1,0 +1,92 @@
+[
+    {
+        "dns-a": [
+            "208.40.244.65"
+        ], 
+        "dns-mx": [
+            "mail1.egov.com", 
+            "mail3.egov.com"
+        ], 
+        "dns-ns": [
+            "ns1.in.gov", 
+            "ns2.in.gov", 
+            "ns2.state.in.us", 
+            "ns3.in.gov"
+        ], 
+        "domain-name": "in.gov", 
+        "fuzzer": "original*", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 100
+    }, 
+    {
+        "dns-a": [
+            "141.221.67.63"
+        ], 
+        "dns-mx": [
+            "mailgw5.inl.gov", 
+            "mailgw6.inl.gov"
+        ], 
+        "dns-ns": [
+            "ns.inel.gov", 
+            "ns.inl.gov", 
+            "ns2.inel.gov", 
+            "ns2.inl.gov"
+        ], 
+        "domain-name": "inl.gov", 
+        "fuzzer": "addition", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "151.111.166.96"
+        ], 
+        "dns-mx": [
+            "mn365.mail.protection.outlook.com"
+        ], 
+        "dns-ns": [
+            "ns1.state.mn.us", 
+            "ns2.state.mn.us", 
+            "ns3.state.mn.us"
+        ], 
+        "domain-name": "mn.gov", 
+        "fuzzer": "bitsquatting"
+    }, 
+    {
+        "dns-a": [
+            "163.191.60.103"
+        ], 
+        "dns-mx": [
+            "smtp01.illinois.gov", 
+            "smtp02.illinois.gov", 
+            "smtp03.illinois.gov", 
+            "smtp04.illinois.gov"
+        ], 
+        "dns-ns": [
+            "ns1.state.il.us", 
+            "ns2.state.il.us", 
+            "ns3.state.il.us"
+        ], 
+        "domain-name": "il.gov", 
+        "fuzzer": "bitsquatting", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "85.128.128.99"
+        ], 
+        "dns-mx": [
+            "in-gov.com"
+        ], 
+        "dns-ns": [
+            "ns1.nazwa.pl", 
+            "ns2.nazwa.pl", 
+            "ns3.nazwa.pl"
+        ], 
+        "domain-name": "in-gov.com", 
+        "fuzzer": "various", 
+        "geoip-country": "Poland", 
+        "ssdeep-score": 0
+    }
+]

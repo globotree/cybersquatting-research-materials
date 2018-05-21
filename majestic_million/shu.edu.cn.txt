@@ -1,0 +1,215 @@
+[
+    {
+        "dns-a": [
+            "202.120.127.220"
+        ], 
+        "dns-mx": [
+            "newmail.shu.edu.cn"
+        ], 
+        "dns-ns": [
+            "dns2.shu.edu.cn"
+        ], 
+        "domain-name": "shu.edu.cn", 
+        "fuzzer": "original*", 
+        "geoip-country": "China"
+    }, 
+    {
+        "dns-mx": [
+            "mail.qhu.edu.cn"
+        ], 
+        "dns-ns": [
+            "dns.qhu.edu.cn", 
+            "ns.qhu.edu.cn"
+        ], 
+        "domain-name": "qhu.edu.cn", 
+        "fuzzer": "bitsquatting"
+    }, 
+    {
+        "dns-a": [
+            "202.114.64.84"
+        ], 
+        "dns-mx": [
+            "whu.edu.cn"
+        ], 
+        "dns-ns": [
+            "dns.whu.edu.cn", 
+            "wuda.whu.edu.cn"
+        ], 
+        "domain-name": "whu.edu.cn", 
+        "fuzzer": "bitsquatting", 
+        "geoip-country": "China"
+    }, 
+    {
+        "dns-mx": [
+            "mxbiz2.qq.com"
+        ], 
+        "dns-ns": [
+            "dns1.chu.edu.cn", 
+            "dns2.chu.edu.cn"
+        ], 
+        "domain-name": "chu.edu.cn", 
+        "fuzzer": "bitsquatting"
+    }, 
+    {
+        "dns-mx": [
+            "mail.slu.edu.cn"
+        ], 
+        "dns-ns": [
+            "SLNT-1.slu.edu.cn", 
+            "SLNT-2.slu.edu.cn"
+        ], 
+        "domain-name": "slu.edu.cn", 
+        "fuzzer": "bitsquatting"
+    }, 
+    {
+        "dns-mx": [
+            "mxbiz1.qq.com", 
+            "mxbiz2.qq.com"
+        ], 
+        "dns-ns": [
+            "crane.sxu.edu.cn", 
+            "deer.sxu.edu.cn", 
+            "ns1.sxu.edu.cn"
+        ], 
+        "domain-name": "sxu.edu.cn", 
+        "fuzzer": "bitsquatting"
+    }, 
+    {
+        "dns-a": [
+            "116.236.245.119", 
+            "202.121.48.117"
+        ], 
+        "dns-mx": [
+            "mailgw.shnu.edu.cn"
+        ], 
+        "dns-ns": [
+            "dns1.shnu.edu.cn", 
+            "dns2.shnu.edu.cn"
+        ], 
+        "domain-name": "shnu.edu.cn", 
+        "fuzzer": "insertion", 
+        "geoip-country": "China"
+    }, 
+    {
+        "dns-mx": [
+            "mailgw.shzu.edu.cn"
+        ], 
+        "dns-ns": [
+            "dns1.shzu.edu.cn", 
+            "dns2.shzu.edu.cn"
+        ], 
+        "domain-name": "shzu.edu.cn", 
+        "fuzzer": "insertion"
+    }, 
+    {
+        "dns-mx": [
+            "mxbiz1.qq.com", 
+            "mxbiz2.qq.com"
+        ], 
+        "dns-ns": [
+            "dns.sh.edu.cn", 
+            "dns1.sh.edu.cn", 
+            "dnsmaster.sh.edu.cn"
+        ], 
+        "domain-name": "sh.edu.cn", 
+        "fuzzer": "omission"
+    }, 
+    {
+        "dns-a": [
+            "210.38.192.100"
+        ], 
+        "dns-mx": [
+            "mail.sgu.edu.cn"
+        ], 
+        "dns-ns": [
+            "dns.sgu.edu.cn"
+        ], 
+        "domain-name": "sgu.edu.cn", 
+        "fuzzer": "replacement", 
+        "geoip-country": "China"
+    }, 
+    {
+        "dns-mx": [
+            "mail.ahu.edu.cn"
+        ], 
+        "dns-ns": [
+            "mars.ahu.edu.cn", 
+            "mercury.ahu.edu.cn"
+        ], 
+        "domain-name": "ahu.edu.cn", 
+        "fuzzer": "replacement"
+    }, 
+    {
+        "dns-mx": [
+            "gw.szu.edu.cn", 
+            "mx-szu-edu-cn.icoremail.net"
+        ], 
+        "dns-ns": [
+            "bay.szu.edu.cn", 
+            "sea.szu.edu.cn"
+        ], 
+        "domain-name": "szu.edu.cn", 
+        "fuzzer": "replacement"
+    }, 
+    {
+        "dns-mx": [
+            "hzmx01.mxmail.netease.com", 
+            "hzmx02.mxmail.netease.com"
+        ], 
+        "dns-ns": [
+            "dns.dhu.edu.cn", 
+            "sunshine.dhu.edu.cn"
+        ], 
+        "domain-name": "dhu.edu.cn", 
+        "fuzzer": "replacement"
+    }, 
+    {
+        "dns-mx": [
+            "mx202.snu.edu.cn", 
+            "mx61.snu.edu.cn", 
+            "mxcnc1.snu.edu.cn", 
+            "mxcnc2.snu.edu.cn"
+        ], 
+        "dns-ns": [
+            "dns.snu.edu.cn", 
+            "dns1.snu.edu.cn", 
+            "dns2.snu.edu.cn", 
+            "dns3.snu.edu.cn"
+        ], 
+        "domain-name": "snu.edu.cn", 
+        "fuzzer": "replacement"
+    }, 
+    {
+        "dns-mx": [
+            "hzmx01.mxmail.netease.com", 
+            "hzmx02.mxmail.netease.com"
+        ], 
+        "dns-ns": [
+            "202.199.32.2.syu.edu.cn"
+        ], 
+        "domain-name": "syu.edu.cn", 
+        "fuzzer": "replacement"
+    }, 
+    {
+        "dns-mx": [
+            "914149313.mail.outlook.com"
+        ], 
+        "dns-ns": [
+            "ns1.xhu.edu.cn", 
+            "ns2.xhu.edu.cn"
+        ], 
+        "domain-name": "xhu.edu.cn", 
+        "fuzzer": "replacement"
+    }, 
+    {
+        "dns-a": [
+            "211.86.191.0"
+        ], 
+        "dns-ns": [
+            "dns.hsu.edu.cn", 
+            "ns.hsu.edu.cn"
+        ], 
+        "domain-name": "hsu.edu.cn", 
+        "fuzzer": "transposition"
+    }
+]

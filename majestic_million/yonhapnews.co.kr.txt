@@ -1,0 +1,52 @@
+[
+    {
+        "dns-a": [
+            "211.106.66.1", 
+            "211.106.66.5"
+        ], 
+        "dns-mx": [
+            "nmail2.yonhapnews.co.kr"
+        ], 
+        "dns-ns": [
+            "dns.yonhapnews.co.kr", 
+            "ns2.kornet.ne.kr"
+        ], 
+        "domain-name": "yonhapnews.co.kr", 
+        "fuzzer": "original*", 
+        "geoip-country": "Korea", 
+        "ssdeep-score": 100
+    }, 
+    {
+        "dns-a": [
+            "14.63.216.242"
+        ], 
+        "domain-name": "yonha.pnews.co.kr", 
+        "fuzzer": "subdomain", 
+        "geoip-country": "Korea", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "72.52.4.122"
+        ], 
+        "dns-mx": [
+            "localhost"
+        ], 
+        "dns-ns": [
+            "ns1.sedoparking.com", 
+            "ns2.sedoparking.com"
+        ], 
+        "domain-name": "yonhapn.ews.co.kr", 
+        "fuzzer": "subdomain", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-ns": [
+            "dns.yonhapnews.co.kr", 
+            "ns2.kornet.ne.kr"
+        ], 
+        "domain-name": "yonhapnews.kr", 
+        "fuzzer": "various"
+    }
+]

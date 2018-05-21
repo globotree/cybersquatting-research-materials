@@ -1,0 +1,100 @@
+[
+    {
+        "dns-mx": [
+            "mataram.univ-paris5.fr"
+        ], 
+        "dns-ns": [
+            "delta.univ-paris5.fr", 
+            "descartes0.math-info.univ-paris5.fr"
+        ], 
+        "domain-name": "univ-paris5.fr", 
+        "fuzzer": "original*"
+    }, 
+    {
+        "dns-mx": [
+            "pyrope.paris-sorbonne.fr"
+        ], 
+        "dns-ns": [
+            "ns0.paris-sorbonne.fr", 
+            "ns1.paris-sorbonne.fr", 
+            "ns2.paris-sorbonne.fr", 
+            "ns3.paris-sorbonne.fr"
+        ], 
+        "domain-name": "univ-paris4.fr", 
+        "fuzzer": "bitsquatting"
+    }, 
+    {
+        "dns-mx": [
+            "korolev.univ-paris7.fr", 
+            "potemkin.univ-paris7.fr", 
+            "shiva.jussieu.fr"
+        ], 
+        "dns-ns": [
+            "korolev.univ-paris7.fr", 
+            "potemkin.univ-paris7.fr", 
+            "shiva.jussieu.fr"
+        ], 
+        "domain-name": "univ-paris7.fr", 
+        "fuzzer": "bitsquatting"
+    }, 
+    {
+        "dns-a": [
+            "193.55.96.121"
+        ], 
+        "dns-aaaa": [
+            "2001:660:3305::121"
+        ], 
+        "dns-mx": [
+            "mx1.univ-paris1.fr", 
+            "mx2.univ-paris1.fr"
+        ], 
+        "dns-ns": [
+            "austra.univ-paris1.fr", 
+            "broceliande.univ-paris1.fr", 
+            "panoramix.rap.prd.fr"
+        ], 
+        "domain-name": "univ-paris1.fr", 
+        "fuzzer": "bitsquatting", 
+        "geoip-country": "France"
+    }, 
+    {
+        "dns-a": [
+            "196.196.40.250"
+        ], 
+        "dns-ns": [
+            "ns1.openprovider.nl", 
+            "ns2.openprovider.be", 
+            "ns3.openprovider.eu"
+        ], 
+        "domain-name": "univparis5.fr", 
+        "fuzzer": "omission", 
+        "geoip-country": "United States"
+    }, 
+    {
+        "dns-a": [
+            "185.53.179.7"
+        ], 
+        "dns-mx": [
+            "mail.h-email.net"
+        ], 
+        "dns-ns": [
+            "ns1.parkingcrew.net", 
+            "ns2.parkingcrew.net"
+        ], 
+        "domain-name": "univ-paris.fr", 
+        "fuzzer": "omission", 
+        "geoip-country": "Germany", 
+        "mx-spy": true
+    }, 
+    {
+        "dns-mx": [
+            "shiva.jussieu.fr"
+        ], 
+        "dns-ns": [
+            "ganesh.upmc.fr", 
+            "shiva.jussieu.fr"
+        ], 
+        "domain-name": "univ-paris6.fr", 
+        "fuzzer": "replacement"
+    }
+]

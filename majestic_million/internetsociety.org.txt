@@ -1,0 +1,95 @@
+[
+    {
+        "dns-a": [
+            "46.43.36.212"
+        ], 
+        "dns-aaaa": [
+            "2001:41c8:20::b31a"
+        ], 
+        "dns-mx": [
+            "internetsociety-org.mail.protection.outlook.com"
+        ], 
+        "dns-ns": [
+            "ns-ext.nlnetlabs.nl", 
+            "ns1.ams1.afilias-nst.info", 
+            "ns1.hkg1.afilias-nst.info", 
+            "ns1.mia1.afilias-nst.info", 
+            "ns1.sea1.afilias-nst.info", 
+            "ns1.yyz1.afilias-nst.info"
+        ], 
+        "domain-name": "internetsociety.org", 
+        "fuzzer": "original*", 
+        "geoip-country": "United Kingdom", 
+        "ssdeep-score": 100
+    }, 
+    {
+        "dns-a": [
+            "208.73.210.202", 
+            "208.73.210.217", 
+            "208.73.211.165", 
+            "208.73.211.177"
+        ], 
+        "dns-ns": [
+            "ns1.dsredirection.com", 
+            "ns2.dsredirection.com"
+        ], 
+        "domain-name": "inter.netsociety.org", 
+        "fuzzer": "subdomain", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "173.239.23.228"
+        ], 
+        "domain-name": "internet.society.org", 
+        "fuzzer": "subdomain", 
+        "geoip-country": "United States"
+    }, 
+    {
+        "dns-a": [
+            "46.30.213.125"
+        ], 
+        "domain-name": "internets.ociety.org", 
+        "fuzzer": "subdomain", 
+        "geoip-country": "Denmark"
+    }, 
+    {
+        "dns-a": [
+            "199.191.50.73"
+        ], 
+        "dns-ns": [
+            "ns111373.ztomy.com", 
+            "ns211373.ztomy.com"
+        ], 
+        "domain-name": "internetsoc.iety.org", 
+        "fuzzer": "subdomain", 
+        "geoip-country": "Virgin Islands", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "75.126.102.236"
+        ], 
+        "domain-name": "internetsoci.ety.org", 
+        "fuzzer": "subdomain", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "213.186.33.87"
+        ], 
+        "dns-mx": [
+            "mx1.ovh.net", 
+            "mx2.ovh.net", 
+            "mxb.ovh.net"
+        ], 
+        "dns-ns": [
+            "dns101.ovh.net", 
+            "ns101.ovh.net"
+        ], 
+        "domain-name": "internetscoiety.org", 
+        "fuzzer": "transposition"
+    }
+]

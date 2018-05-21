@@ -1,0 +1,351 @@
+[
+    {
+        "dns-mx": [
+            "smtp3.gob.cl", 
+            "smtp4.gob.cl"
+        ], 
+        "dns-ns": [
+            "a.nic.cl", 
+            "b.nic.cl", 
+            "ns.gob.cl", 
+            "ns2.gob.cl", 
+            "ns6.gob.cl", 
+            "ns7.gob.cl"
+        ], 
+        "domain-name": "gob.cl", 
+        "fuzzer": "original*"
+    }, 
+    {
+        "dns-a": [
+            "186.64.117.220"
+        ], 
+        "dns-mx": [
+            "mail.gobe.cl"
+        ], 
+        "dns-ns": [
+            "ns1.miwebdns.net", 
+            "ns2.miwebdns.net", 
+            "ns3.miwebdns.net"
+        ], 
+        "domain-name": "gobe.cl", 
+        "fuzzer": "addition", 
+        "geoip-country": "Chile", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "201.217.243.68"
+        ], 
+        "dns-mx": [
+            "gobo.cl"
+        ], 
+        "dns-ns": [
+            "dns1.backbone.cl", 
+            "dns2.backbone.cl"
+        ], 
+        "domain-name": "gobo.cl", 
+        "fuzzer": "addition", 
+        "geoip-country": "Chile"
+    }, 
+    {
+        "dns-a": [
+            "201.217.243.150"
+        ], 
+        "dns-mx": [
+            "alt1.aspmx.l.google.com", 
+            "alt2.aspmx.l.google.com", 
+            "aspmx.l.google.com", 
+            "aspmx2.googlemail.com", 
+            "aspmx3.googlemail.com", 
+            "aspmx4.googlemail.com", 
+            "aspmx5.googlemail.com"
+        ], 
+        "dns-ns": [
+            "dns1.tpd.cl", 
+            "dns2.tpd.cl"
+        ], 
+        "domain-name": "fob.cl", 
+        "fuzzer": "bitsquatting", 
+        "geoip-country": "Chile"
+    }, 
+    {
+        "dns-a": [
+            "23.236.62.147"
+        ], 
+        "dns-ns": [
+            "ns4.wixdns.net", 
+            "ns5.wixdns.net"
+        ], 
+        "domain-name": "oob.cl", 
+        "fuzzer": "bitsquatting", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-ns": [
+            "ns1.redcol.cl", 
+            "ns2.redcol.cl"
+        ], 
+        "domain-name": "gnb.cl", 
+        "fuzzer": "bitsquatting"
+    }, 
+    {
+        "dns-a": [
+            "200.24.13.70"
+        ], 
+        "dns-mx": [
+            "gmb.cl"
+        ], 
+        "dns-ns": [
+            "ns01.inc.cl", 
+            "ns02.inc.cl", 
+            "ns03.inc.cl", 
+            "ns04.inc.cl"
+        ], 
+        "domain-name": "gmb.cl", 
+        "fuzzer": "bitsquatting", 
+        "geoip-country": "Chile"
+    }, 
+    {
+        "dns-a": [
+            "201.148.104.102"
+        ], 
+        "dns-mx": [
+            "gor.cl"
+        ], 
+        "dns-ns": [
+            "dns1.planetahosting.cl", 
+            "dns2.planetahosting.cl", 
+            "dns3.planetahosting.cl", 
+            "dns4.planetahosting.cl"
+        ], 
+        "domain-name": "gor.cl", 
+        "fuzzer": "bitsquatting", 
+        "geoip-country": "Chile"
+    }, 
+    {
+        "dns-a": [
+            "205.186.143.117"
+        ], 
+        "dns-mx": [
+            "ALT1.ASPMX.L.GOOGLE.COM", 
+            "ALT2.ASPMX.L.GOOGLE.COM", 
+            "ALT3.ASPMX.L.GOOGLE.COM", 
+            "ALT4.ASPMX.L.GOOGLE.COM", 
+            "ASPMX.L.GOOGLE.COM"
+        ], 
+        "dns-ns": [
+            "ns1.mediatemple.net", 
+            "ns2.mediatemple.net"
+        ], 
+        "domain-name": "god.cl", 
+        "fuzzer": "homoglyph", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "72.52.4.120"
+        ], 
+        "dns-mx": [
+            "localhost"
+        ], 
+        "dns-ns": [
+            "ns1.sedoparking.com", 
+            "ns2.sedoparking.com"
+        ], 
+        "domain-name": "go.cl", 
+        "fuzzer": "omission", 
+        "geoip-country": "United States", 
+        "mx-spy": true, 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-ns": [
+            "ns1.jnj.com", 
+            "ns3.jnj.com", 
+            "ns5.jnj.com"
+        ], 
+        "domain-name": "ob.cl", 
+        "fuzzer": "omission"
+    }, 
+    {
+        "dns-a": [
+            "192.254.189.166"
+        ], 
+        "dns-mx": [
+            "alt1.aspmx.l.google.com", 
+            "alt2.aspmx.l.google.com", 
+            "aspmx.l.google.com", 
+            "aspmx2.googlemail.com", 
+            "aspmx3.googlemail.com"
+        ], 
+        "dns-ns": [
+            "ns637.hostgator.com", 
+            "ns638.hostgator.com"
+        ], 
+        "domain-name": "goob.cl", 
+        "fuzzer": "repetition", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "52.10.168.224"
+        ], 
+        "dns-mx": [
+            "smtp3.gov.cl", 
+            "smtp4.gov.cl"
+        ], 
+        "dns-ns": [
+            "a.nic.cl", 
+            "b.nic.cl", 
+            "ns.gov.cl", 
+            "ns2.gov.cl", 
+            "ns6.gov.cl", 
+            "ns7.gov.cl"
+        ], 
+        "domain-name": "gov.cl", 
+        "fuzzer": "replacement", 
+        "geoip-country": "United States"
+    }, 
+    {
+        "dns-a": [
+            "200.73.113.131"
+        ], 
+        "dns-mx": [
+            "glb.cl"
+        ], 
+        "dns-ns": [
+            "dns1.mcserver.cl", 
+            "dns2.mcserver.cl"
+        ], 
+        "domain-name": "glb.cl", 
+        "fuzzer": "replacement", 
+        "geoip-country": "Chile"
+    }, 
+    {
+        "dns-a": [
+            "173.230.137.187"
+        ], 
+        "dns-aaaa": [
+            "2600:3c02::f03c:91ff:feb0:e67e"
+        ], 
+        "dns-mx": [
+            "ALT1.ASPMX.L.GOOGLE.COM", 
+            "ALT2.ASPMX.L.GOOGLE.COM", 
+            "ALT3.ASPMX.L.GOOGLE.COM", 
+            "ALT4.ASPMX.L.GOOGLE.COM", 
+            "ASPMX.L.GOOGLE.COM"
+        ], 
+        "dns-ns": [
+            "ns1.gon.cl", 
+            "ns1.linode.com", 
+            "ns2.gon.cl", 
+            "ns2.linode.com", 
+            "ns3.gon.cl", 
+            "ns3.linode.com", 
+            "ns4.linode.com", 
+            "ns5.linode.com"
+        ], 
+        "domain-name": "gon.cl", 
+        "fuzzer": "replacement", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "144.217.93.141"
+        ], 
+        "dns-mx": [
+            "gpb.cl"
+        ], 
+        "dns-ns": [
+            "ns1.webdeveloper.cl", 
+            "ns2.webdeveloper.cl"
+        ], 
+        "domain-name": "gpb.cl", 
+        "fuzzer": "replacement", 
+        "geoip-country": "United States"
+    }, 
+    {
+        "dns-a": [
+            "23.236.62.147"
+        ], 
+        "dns-mx": [
+            "alt1.aspmx.l.google.com", 
+            "alt2.aspmx.l.google.com", 
+            "alt3.aspmx.l.google.com", 
+            "alt4.aspmx.l.google.com", 
+            "aspmx.l.google.com"
+        ], 
+        "dns-ns": [
+            "ns10.wixdns.net", 
+            "ns11.wixdns.net"
+        ], 
+        "domain-name": "tob.cl", 
+        "fuzzer": "replacement", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "186.64.119.130"
+        ], 
+        "dns-mx": [
+            "bob.cl", 
+            "servermx1.dnsmisitio.net"
+        ], 
+        "dns-ns": [
+            "mx1.dnsmisitio.net", 
+            "ns1.dnsmisitio.net", 
+            "ns2.dnsmisitio.net", 
+            "ns3.dnsmisitio.net"
+        ], 
+        "domain-name": "bob.cl", 
+        "fuzzer": "replacement", 
+        "geoip-country": "Chile", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "199.167.202.165"
+        ], 
+        "dns-mx": [
+            "alt1.aspmx.l.google.com", 
+            "alt2.aspmx.l.google.com", 
+            "alt3.aspmx.l.google.com", 
+            "alt4.aspmx.l.google.com", 
+            "aspmx.l.google.com"
+        ], 
+        "dns-ns": [
+            "ns1.todo-en-salud.com", 
+            "ns2.todo-en-salud.com"
+        ], 
+        "domain-name": "gog.cl", 
+        "fuzzer": "replacement"
+    }, 
+    {
+        "dns-a": [
+            "162.243.113.240"
+        ], 
+        "dns-ns": [
+            "ns1.digitalocean.com", 
+            "ns2.digitalocean.com", 
+            "ns3.digitalocean.com"
+        ], 
+        "domain-name": "ogb.cl", 
+        "fuzzer": "transposition"
+    }, 
+    {
+        "dns-mx": [
+            "zs.gtdinternet.com"
+        ], 
+        "dns-ns": [
+            "ns.gtdinternet.com", 
+            "ns2.gtdinternet.com"
+        ], 
+        "domain-name": "geb.cl", 
+        "fuzzer": "vowel-swap"
+    }
+]

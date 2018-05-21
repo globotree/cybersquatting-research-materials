@@ -1,0 +1,158 @@
+[
+    {
+        "dns-a": [
+            "193.106.248.37"
+        ], 
+        "dns-mx": [
+            "ALT1.ASPMX.L.GOOGLE.com", 
+            "ALT2.ASPMX.L.GOOGLE.com", 
+            "ASPMX.L.GOOGLE.com", 
+            "ASPMX2.GOOGLEMAIL.com", 
+            "ASPMX3.GOOGLEMAIL.com", 
+            "ASPMX4.GOOGLEMAIL.com", 
+            "ASPMX5.GOOGLEMAIL.com"
+        ], 
+        "dns-ns": [
+            "ns1.hostenko.com", 
+            "ns2.hostenko.com"
+        ], 
+        "domain-name": "hostenko.com", 
+        "fuzzer": "original*", 
+        "geoip-country": "Ukraine", 
+        "ssdeep-score": 100
+    }, 
+    {
+        "dns-a": [
+            "141.8.224.93"
+        ], 
+        "dns-ns": [
+            "ns7.rookdns.com", 
+            "ns8.rookdns.com"
+        ], 
+        "domain-name": "hostenco.com", 
+        "fuzzer": "bitsquatting", 
+        "geoip-country": "Switzerland", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "195.149.114.53"
+        ], 
+        "dns-mx": [
+            "mail.holstenko.com"
+        ], 
+        "dns-ns": [
+            "ns10.uadns.com", 
+            "ns11.uadns.com", 
+            "ns12.uadns.com"
+        ], 
+        "domain-name": "holstenko.com", 
+        "fuzzer": "insertion", 
+        "geoip-country": "Ukraine", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "23.89.200.49"
+        ], 
+        "dns-aaaa": [
+            "2605:f700:80:800::7457:7b93"
+        ], 
+        "dns-mx": [
+            "alt1.aspmx.l.google.com", 
+            "alt2.aspmx.l.google.com", 
+            "aspmx.l.google.com", 
+            "aspmx2.googlemail.com", 
+            "aspmx3.googlemail.com", 
+            "aspmx4.googlemail.com", 
+            "aspmx5.googlemail.com"
+        ], 
+        "dns-ns": [
+            "dns1.hosteko.com", 
+            "dns2.hosteko.com", 
+            "dns3.hosteko.com", 
+            "dns4.hosteko.com"
+        ], 
+        "domain-name": "hosteko.com", 
+        "fuzzer": "omission", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-mx": [
+            "alt1.gmr-smtp-in.l.google.com", 
+            "alt2.gmr-smtp-in.l.google.com", 
+            "alt3.gmr-smtp-in.l.google.com", 
+            "alt4.gmr-smtp-in.l.google.com", 
+            "gmr-smtp-in.l.google.com"
+        ], 
+        "dns-ns": [
+            "ns-cloud-a1.googledomains.com", 
+            "ns-cloud-a2.googledomains.com", 
+            "ns-cloud-a3.googledomains.com", 
+            "ns-cloud-a4.googledomains.com"
+        ], 
+        "domain-name": "hosteno.com", 
+        "fuzzer": "omission"
+    }, 
+    {
+        "dns-a": [
+            "78.46.93.76"
+        ], 
+        "dns-mx": [
+            "78.46.93.76"
+        ], 
+        "dns-ns": [
+            "netname.com.ua", 
+            "ns3.prohosting.com.ua"
+        ], 
+        "domain-name": "hostenk.com", 
+        "fuzzer": "omission", 
+        "geoip-country": "Germany", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "185.53.178.7"
+        ], 
+        "dns-mx": [
+            "mail.h-email.net"
+        ], 
+        "dns-ns": [
+            "ns1.parkingcrew.net", 
+            "ns2.parkingcrew.net"
+        ], 
+        "domain-name": "ho.stenko.com", 
+        "fuzzer": "subdomain"
+    }, 
+    {
+        "dns-a": [
+            "69.172.201.153"
+        ], 
+        "dns-ns": [
+            "ns1.uniregistrymarket.link", 
+            "ns2.uniregistrymarket.link"
+        ], 
+        "domain-name": "hoste.nko.com", 
+        "fuzzer": "subdomain", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "104.18.34.236", 
+            "104.18.35.236"
+        ], 
+        "dns-aaaa": [
+            "2400:cb00:2048:1::6812:22ec", 
+            "2400:cb00:2048:1::6812:23ec"
+        ], 
+        "dns-ns": [
+            "melissa.ns.cloudflare.com", 
+            "pablo.ns.cloudflare.com"
+        ], 
+        "domain-name": "hostinko.com", 
+        "fuzzer": "vowel-swap", 
+        "geoip-country": "United States"
+    }
+]

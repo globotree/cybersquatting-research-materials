@@ -1,0 +1,337 @@
+[
+    {
+        "dns-mx": [
+            "mx2.cc.upv.es", 
+            "mx4.cc.upv.es", 
+            "mxv.cc.upv.es", 
+            "vega.cc.upv.es"
+        ], 
+        "dns-ns": [
+            "chico.rediris.es", 
+            "mirzam.ccc.upv.es", 
+            "sun.rediris.es", 
+            "vega.cc.upv.es"
+        ], 
+        "domain-name": "upv.es", 
+        "fuzzer": "original*"
+    }, 
+    {
+        "dns-a": [
+            "158.42.250.210"
+        ], 
+        "dns-mx": [
+            "alt1.aspmx.l.google.com", 
+            "alt2.aspmx.l.google.com", 
+            "aspmx.l.google.com", 
+            "aspmx2.googlemail.com", 
+            "aspmx3.googlemail.com"
+        ], 
+        "dns-ns": [
+            "dns103.ovh.net", 
+            "ns103.ovh.net"
+        ], 
+        "domain-name": "upvx.es", 
+        "fuzzer": "addition", 
+        "geoip-country": "Spain"
+    }, 
+    {
+        "dns-a": [
+            "217.76.130.138"
+        ], 
+        "dns-mx": [
+            "mx.serviciodecorreo.es"
+        ], 
+        "dns-ns": [
+            "dns27.servidoresdns.net", 
+            "dns28.servidoresdns.net"
+        ], 
+        "domain-name": "tpv.es", 
+        "fuzzer": "bitsquatting", 
+        "geoip-country": "Spain"
+    }, 
+    {
+        "dns-a": [
+            "213.186.33.5"
+        ], 
+        "dns-mx": [
+            "mx1.ovh.net", 
+            "mx2.ovh.net", 
+            "mxb.ovh.net"
+        ], 
+        "dns-ns": [
+            "dns11.ovh.net", 
+            "ns11.ovh.net"
+        ], 
+        "domain-name": "qpv.es", 
+        "fuzzer": "bitsquatting", 
+        "geoip-country": "France"
+    }, 
+    {
+        "dns-a": [
+            "217.13.124.102"
+        ], 
+        "dns-mx": [
+            "mail.epv.es"
+        ], 
+        "dns-ns": [
+            "ns.epv.es"
+        ], 
+        "domain-name": "epv.es", 
+        "fuzzer": "bitsquatting", 
+        "geoip-country": "Spain"
+    }, 
+    {
+        "dns-a": [
+            "193.144.16.86"
+        ], 
+        "dns-mx": [
+            "urv-es.mail.protection.outlook.com"
+        ], 
+        "dns-ns": [
+            "aliga.urv.cat", 
+            "aliga.urv.es", 
+            "chico.rediris.es", 
+            "dns.urv.cat", 
+            "dns.urv.es"
+        ], 
+        "domain-name": "urv.es", 
+        "fuzzer": "bitsquatting", 
+        "geoip-country": "Spain"
+    }, 
+    {
+        "dns-a": [
+            "199.59.242.150"
+        ], 
+        "dns-mx": [
+            "mx76.m2bp.com", 
+            "mx76.mb1p.com"
+        ], 
+        "dns-ns": [
+            "ns1.bodis.com", 
+            "ns2.bodis.com"
+        ], 
+        "domain-name": "utv.es", 
+        "fuzzer": "bitsquatting", 
+        "geoip-country": "United States", 
+        "mx-spy": true
+    }, 
+    {
+        "dns-a": [
+            "72.52.4.120"
+        ], 
+        "dns-mx": [
+            "localhost"
+        ], 
+        "dns-ns": [
+            "ns1.sedoparking.com", 
+            "ns2.sedoparking.com"
+        ], 
+        "domain-name": "uxv.es", 
+        "fuzzer": "bitsquatting", 
+        "geoip-country": "United States", 
+        "mx-spy": true
+    }, 
+    {
+        "dns-a": [
+            "72.52.4.120"
+        ], 
+        "dns-mx": [
+            "localhost"
+        ], 
+        "dns-ns": [
+            "ns1.sedoparking.com", 
+            "ns2.sedoparking.com"
+        ], 
+        "domain-name": "upt.es", 
+        "fuzzer": "bitsquatting", 
+        "geoip-country": "United States", 
+        "mx-spy": true
+    }, 
+    {
+        "dns-a": [
+            "72.52.4.120"
+        ], 
+        "dns-mx": [
+            "localhost"
+        ], 
+        "dns-ns": [
+            "ns1.sedoparking.com", 
+            "ns2.sedoparking.com"
+        ], 
+        "domain-name": "upr.es", 
+        "fuzzer": "bitsquatting", 
+        "geoip-country": "United States", 
+        "mx-spy": true
+    }, 
+    {
+        "dns-a": [
+            "84.89.128.15"
+        ], 
+        "dns-ns": [
+            "ns1.upf.edu", 
+            "ns2.upf.edu"
+        ], 
+        "domain-name": "upf.es", 
+        "fuzzer": "bitsquatting", 
+        "geoip-country": "Spain"
+    }, 
+    {
+        "dns-mx": [
+            "mx01.puc.rediris.es", 
+            "mx02.puc.rediris.es"
+        ], 
+        "dns-ns": [
+            "gong.ci.uv.es", 
+            "peque.ci.uv.es", 
+            "shackleton.red.uv.es"
+        ], 
+        "domain-name": "uv.es", 
+        "fuzzer": "omission"
+    }, 
+    {
+        "dns-a": [
+            "54.72.9.51"
+        ], 
+        "dns-ns": [
+            "ns1.parkingcrew.net", 
+            "ns2.parkingcrew.net"
+        ], 
+        "domain-name": "umv.es", 
+        "fuzzer": "replacement"
+    }, 
+    {
+        "dns-a": [
+            "104.18.62.157", 
+            "104.18.63.157"
+        ], 
+        "dns-aaaa": [
+            "2400:cb00:2048:1::6812:3e9d", 
+            "2400:cb00:2048:1::6812:3f9d"
+        ], 
+        "dns-mx": [
+            "mail.upg.es"
+        ], 
+        "dns-ns": [
+            "matt.ns.cloudflare.com", 
+            "zoe.ns.cloudflare.com"
+        ], 
+        "domain-name": "upg.es", 
+        "fuzzer": "replacement", 
+        "geoip-country": "United States"
+    }, 
+    {
+        "dns-a": [
+            "217.13.124.102"
+        ], 
+        "dns-mx": [
+            "mail.hpv.es"
+        ], 
+        "dns-ns": [
+            "ns.hpv.es"
+        ], 
+        "domain-name": "hpv.es", 
+        "fuzzer": "replacement", 
+        "geoip-country": "Spain"
+    }, 
+    {
+        "dns-a": [
+            "72.52.4.121"
+        ], 
+        "dns-mx": [
+            "localhost"
+        ], 
+        "dns-ns": [
+            "ns1.sedoparking.com", 
+            "ns2.sedoparking.com"
+        ], 
+        "domain-name": "zpv.es", 
+        "fuzzer": "replacement", 
+        "geoip-country": "United States", 
+        "mx-spy": true
+    }, 
+    {
+        "dns-a": [
+            "185.53.178.7"
+        ], 
+        "dns-ns": [
+            "ns1.parkingcrew.net", 
+            "ns2.parkingcrew.net"
+        ], 
+        "domain-name": "upb.es", 
+        "fuzzer": "replacement", 
+        "geoip-country": "Germany"
+    }, 
+    {
+        "dns-mx": [
+            "mail.rpv.es"
+        ], 
+        "dns-ns": [
+            "frontend.itencore.net"
+        ], 
+        "domain-name": "ipv.es", 
+        "fuzzer": "replacement"
+    }, 
+    {
+        "dns-a": [
+            "10.11.54.220", 
+            "10.11.84.230", 
+            "10.4.87.3", 
+            "10.5.30.7", 
+            "10.67.9.34", 
+            "147.83.2.135", 
+            "147.83.24.7", 
+            "147.83.42.80", 
+            "147.83.88.250"
+        ], 
+        "dns-mx": [
+            "mx1.upc.es", 
+            "mx2.upc.es"
+        ], 
+        "dns-ns": [
+            "backus.upc.es", 
+            "chico.rediris.es", 
+            "euler.upc.es", 
+            "sun.rediris.es"
+        ], 
+        "domain-name": "upc.es", 
+        "fuzzer": "replacement"
+    }, 
+    {
+        "dns-a": [
+            "217.13.124.102"
+        ], 
+        "dns-mx": [
+            "mail.uvp.es"
+        ], 
+        "dns-ns": [
+            "ns.uvp.es"
+        ], 
+        "domain-name": "uvp.es", 
+        "fuzzer": "transposition", 
+        "geoip-country": "Spain"
+    }, 
+    {
+        "dns-a": [
+            "192.185.4.130"
+        ], 
+        "domain-name": "opv.es", 
+        "fuzzer": "vowel-swap", 
+        "geoip-country": "United States"
+    }, 
+    {
+        "dns-a": [
+            "72.52.4.122"
+        ], 
+        "dns-mx": [
+            "localhost"
+        ], 
+        "dns-ns": [
+            "ns1.sedoparking.com", 
+            "ns2.sedoparking.com"
+        ], 
+        "domain-name": "apv.es", 
+        "fuzzer": "vowel-swap", 
+        "geoip-country": "United States", 
+        "mx-spy": true
+    }
+]

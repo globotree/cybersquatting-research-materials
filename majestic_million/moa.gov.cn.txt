@@ -1,0 +1,50 @@
+[
+    {
+        "dns-ns": [
+            "agri-dns01.agri.org.cn", 
+            "agri-dns02.agri.org.cn"
+        ], 
+        "domain-name": "moa.gov.cn", 
+        "fuzzer": "original*"
+    }, 
+    {
+        "dns-mx": [
+            "mail.moe.gov.cn", 
+            "smtp.moe.gov.cn"
+        ], 
+        "dns-ns": [
+            "dnsprim.moe.gov.cn", 
+            "dnssec.moe.gov.cn"
+        ], 
+        "domain-name": "moe.gov.cn", 
+        "fuzzer": "bitsquatting"
+    }, 
+    {
+        "dns-mx": [
+            "mail.mos.gov.cn"
+        ], 
+        "dns-ns": [
+            "ns1.cdns.cn", 
+            "ns2.cdns.cn", 
+            "ns3.cdns.cn"
+        ], 
+        "domain-name": "mos.gov.cn", 
+        "fuzzer": "replacement"
+    }, 
+    {
+        "dns-ns": [
+            "ns5.cnmsn.net", 
+            "ns6.cnmsn.net"
+        ], 
+        "domain-name": "mao.gov.cn", 
+        "fuzzer": "transposition"
+    }, 
+    {
+        "dns-ns": [
+            "ns13.xincache.com", 
+            "ns14.xincache.com"
+        ], 
+        "domain-name": "moagov.cn", 
+        "fuzzer": "various"
+    }
+]

@@ -1,0 +1,94 @@
+[
+    {
+        "dns-a": [
+            "129.1.11.8"
+        ], 
+        "dns-mx": [
+            "mx1.hc1818.iphmx.com", 
+            "mx2.hc1818.iphmx.com"
+        ], 
+        "dns-ns": [
+            "ns1.bgsu.edu", 
+            "ns1.oar.net", 
+            "ns2.bgsu.edu", 
+            "ns2.oar.net"
+        ], 
+        "domain-name": "bgsu.edu", 
+        "fuzzer": "original*", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 99
+    }, 
+    {
+        "dns-a": [
+            "147.226.7.15"
+        ], 
+        "dns-mx": [
+            "bsu-edu.mail.protection.outlook.com"
+        ], 
+        "dns-ns": [
+            "ns1.bsu.edu", 
+            "ns3.bsu.edu", 
+            "ns6.bsu.edu"
+        ], 
+        "domain-name": "bsu.edu", 
+        "fuzzer": "omission", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "104.130.251.77"
+        ], 
+        "dns-mx": [
+            "gsu-edu.mail.eo.outlook.com", 
+            "gsu-edu.mail.protection.outlook.com"
+        ], 
+        "dns-ns": [
+            "dns-ext1.gsu.edu", 
+            "dns-ext2.gsu.edu", 
+            "ns1.usg.edu", 
+            "ns2.usg.edu", 
+            "ns3.usg.edu", 
+            "ns4.usg.edu"
+        ], 
+        "domain-name": "gsu.edu", 
+        "fuzzer": "omission", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "45.55.35.135"
+        ], 
+        "dns-mx": [
+            "ALT1.ASPMX.L.GOOGLE.COM", 
+            "ALT2.ASPMX.L.GOOGLE.COM", 
+            "ALT3.ASPMX.L.GOOGLE.COM", 
+            "ALT4.ASPMX.L.GOOGLE.COM", 
+            "ASPMX.L.GOOGLE.COM"
+        ], 
+        "dns-ns": [
+            "ns1.developcents.com", 
+            "ns2.developcents.com"
+        ], 
+        "domain-name": "bgu.edu", 
+        "fuzzer": "omission", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "206.176.39.162"
+        ], 
+        "dns-mx": [
+            "d44299a.ess.barracudanetworks.com", 
+            "d44299b.ess.barracudanetworks.com"
+        ], 
+        "dns-ns": [
+            "BHSU-DNS01.bhsu.edu", 
+            "BHSU-DNS02.bhsu.edu"
+        ], 
+        "domain-name": "bhsu.edu", 
+        "fuzzer": "replacement"
+    }
+]

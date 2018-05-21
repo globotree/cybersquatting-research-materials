@@ -1,0 +1,204 @@
+[
+    {
+        "dns-a": [
+            "210.61.56.39"
+        ], 
+        "dns-aaaa": [
+            "2001:b000:1c9:7600:0:a:d23d:3827"
+        ], 
+        "dns-mx": [
+            "spamfilter.xuite.net"
+        ], 
+        "dns-ns": [
+            "ns1.xuite.net", 
+            "ns2.xuite.net"
+        ], 
+        "domain-name": "xuite.net", 
+        "fuzzer": "original*", 
+        "geoip-country": "Taiwan", 
+        "ssdeep-score": 99
+    }, 
+    {
+        "dns-ns": [
+            "f1g1ns1.dnspod.net", 
+            "f1g1ns2.dnspod.net"
+        ], 
+        "domain-name": "zuite.net", 
+        "fuzzer": "bitsquatting"
+    }, 
+    {
+        "dns-a": [
+            "203.78.142.12"
+        ], 
+        "domain-name": "huite.net", 
+        "fuzzer": "bitsquatting", 
+        "geoip-country": "Hong Kong", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "198.71.161.53"
+        ], 
+        "domain-name": "xute.net", 
+        "fuzzer": "omission", 
+        "geoip-country": "United States"
+    }, 
+    {
+        "dns-a": [
+            "85.17.25.214"
+        ], 
+        "dns-ns": [
+            "ns1.smtmdns.com", 
+            "ns2.smtmdns.com"
+        ], 
+        "domain-name": "xuie.net", 
+        "fuzzer": "omission", 
+        "geoip-country": "Netherlands", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "72.52.4.120"
+        ], 
+        "dns-mx": [
+            "localhost"
+        ], 
+        "dns-ns": [
+            "ns1.sedoparking.com", 
+            "ns2.sedoparking.com"
+        ], 
+        "domain-name": "uite.net", 
+        "fuzzer": "omission", 
+        "geoip-country": "United States", 
+        "mx-spy": true, 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "144.76.0.242", 
+            "144.76.1.130"
+        ], 
+        "dns-ns": [
+            "ns1.ndsplitter.com", 
+            "ns2.ndsplitter.com", 
+            "ns3.ndsplitter.com"
+        ], 
+        "domain-name": "xite.net", 
+        "fuzzer": "omission", 
+        "geoip-country": "Germany", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "68.178.213.61"
+        ], 
+        "dns-ns": [
+            "ns1.namefind.com", 
+            "ns2.namefind.com"
+        ], 
+        "domain-name": "xuit.net", 
+        "fuzzer": "omission", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "107.191.117.162"
+        ], 
+        "dns-mx": [
+            "mail.duite.net"
+        ], 
+        "dns-ns": [
+            "ns1.onlydomains.com", 
+            "ns2.onlydomains.com", 
+            "ns3.onlydomains.com"
+        ], 
+        "domain-name": "duite.net", 
+        "fuzzer": "replacement", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "69.172.201.153"
+        ], 
+        "dns-ns": [
+            "ns1.uniregistrymarket.link", 
+            "ns2.uniregistrymarket.link"
+        ], 
+        "domain-name": "suite.net", 
+        "fuzzer": "replacement", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "50.63.202.37"
+        ], 
+        "dns-mx": [
+            "mailstore1.secureserver.net", 
+            "smtp.secureserver.net"
+        ], 
+        "dns-ns": [
+            "ns13.domaincontrol.com", 
+            "ns14.domaincontrol.com"
+        ], 
+        "domain-name": "x8ite.net", 
+        "fuzzer": "replacement", 
+        "geoip-country": "United States"
+    }, 
+    {
+        "dns-a": [
+            "72.52.4.120"
+        ], 
+        "dns-mx": [
+            "localhost"
+        ], 
+        "dns-ns": [
+            "ns1.sedoparking.com", 
+            "ns2.sedoparking.com"
+        ], 
+        "domain-name": "x.uite.net", 
+        "fuzzer": "subdomain", 
+        "geoip-country": "United States", 
+        "mx-spy": true, 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-ns": [
+            "f1g1ns1.dnspod.net", 
+            "f1g1ns2.dnspod.net"
+        ], 
+        "domain-name": "uxite.net", 
+        "fuzzer": "transposition"
+    }, 
+    {
+        "dns-a": [
+            "185.53.179.7"
+        ], 
+        "domain-name": "xutie.net", 
+        "fuzzer": "transposition"
+    }, 
+    {
+        "dns-a": [
+            "5.135.115.129"
+        ], 
+        "dns-mx": [
+            "xuiet.net"
+        ], 
+        "dns-ns": [
+            "ns1.dt-dns.com", 
+            "ns2.dt-dns.com"
+        ], 
+        "domain-name": "xuiet.net", 
+        "fuzzer": "transposition"
+    }, 
+    {
+        "dns-a": [
+            "103.56.100.175"
+        ], 
+        "domain-name": "xuete.net", 
+        "fuzzer": "vowel-swap", 
+        "geoip-country": "China"
+    }
+]

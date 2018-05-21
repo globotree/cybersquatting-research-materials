@@ -1,0 +1,74 @@
+[
+    {
+        "dns-a": [
+            "34.224.129.198", 
+            "52.7.209.220"
+        ], 
+        "dns-ns": [
+            "ns-1212.awsdns-23.org", 
+            "ns-1644.awsdns-13.co.uk", 
+            "ns-250.awsdns-31.com", 
+            "ns-769.awsdns-32.net"
+        ], 
+        "domain-name": "spectrumlocalnews.com", 
+        "fuzzer": "original*", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 99
+    }, 
+    {
+        "dns-a": [
+            "184.172.106.42"
+        ], 
+        "dns-ns": [
+            "ns1.milesmx.com", 
+            "ns2.milesmx.com"
+        ], 
+        "domain-name": "soectrumlocalnews.com", 
+        "fuzzer": "replacement", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "192.0.78.24", 
+            "192.0.78.25"
+        ], 
+        "dns-mx": [
+            "inbound.calnews.com.netsolmail.net"
+        ], 
+        "dns-ns": [
+            "ns1.wordpress.com", 
+            "ns2.wordpress.com", 
+            "ns3.wordpress.com"
+        ], 
+        "domain-name": "spectrumlo.calnews.com", 
+        "fuzzer": "subdomain", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "98.124.245.24"
+        ], 
+        "dns-mx": [
+            "mail.b-io.co"
+        ], 
+        "dns-ns": [
+            "ns1.fabulous.com", 
+            "ns2.fabulous.com"
+        ], 
+        "domain-name": "spectrumloc.alnews.com", 
+        "fuzzer": "subdomain", 
+        "geoip-country": "United States", 
+        "mx-spy": true
+    }, 
+    {
+        "dns-a": [
+            "64.30.224.118"
+        ], 
+        "domain-name": "spectrumlocal.news.com", 
+        "fuzzer": "subdomain", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 0
+    }
+]

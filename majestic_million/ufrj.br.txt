@@ -1,0 +1,56 @@
+[
+    {
+        "dns-a": [
+            "146.164.170.36"
+        ], 
+        "dns-mx": [
+            "smtp.ufrj.br", 
+            "smtp2.ufrj.br", 
+            "smtp5.ufrj.br"
+        ], 
+        "dns-ns": [
+            "ns.ufrj.br", 
+            "ns2.ufrj.br", 
+            "ns3.ufrj.br", 
+            "ns4.ufrj.br"
+        ], 
+        "domain-name": "ufrj.br", 
+        "fuzzer": "original*", 
+        "geoip-country": "Brazil", 
+        "ssdeep-score": 99
+    }, 
+    {
+        "dns-a": [
+            "177.20.144.66"
+        ], 
+        "dns-aaaa": [
+            "2801:8c:0:b0::a007"
+        ], 
+        "dns-mx": [
+            "kraken.ufrn.br"
+        ], 
+        "dns-ns": [
+            "ns1.ufrn.br", 
+            "ns2.ufrn.br"
+        ], 
+        "domain-name": "ufrn.br", 
+        "fuzzer": "bitsquatting", 
+        "geoip-country": "Brazil", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "200.11.2.11"
+        ], 
+        "dns-mx": [
+            "mailscan.ufrrj.br"
+        ], 
+        "dns-ns": [
+            "ns.itr.ufrrj.br", 
+            "ns.ufrrj.br", 
+            "ns1.ufrrj.br"
+        ], 
+        "domain-name": "ufrrj.br", 
+        "fuzzer": "insertion"
+    }
+]

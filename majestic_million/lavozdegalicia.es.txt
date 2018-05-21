@@ -1,0 +1,84 @@
+[
+    {
+        "dns-a": [
+            "77.27.236.100"
+        ], 
+        "dns-mx": [
+            "a.mx.lavozdegalicia.es", 
+            "b.mx.lavozdegalicia.es"
+        ], 
+        "dns-ns": [
+            "dns1.lavoz.es", 
+            "dns2.lavoz.es"
+        ], 
+        "domain-name": "lavozdegalicia.es", 
+        "fuzzer": "original*", 
+        "geoip-country": "Spain", 
+        "ssdeep-score": 100
+    }, 
+    {
+        "dns-a": [
+            "146.66.85.215"
+        ], 
+        "dns-mx": [
+            "mx10.mailspamprotection.com", 
+            "mx20.mailspamprotection.com", 
+            "mx30.mailspamprotection.com"
+        ], 
+        "dns-ns": [
+            "ns1.ams19.siteground.eu", 
+            "ns2.ams19.siteground.eu"
+        ], 
+        "domain-name": "xn--lavozdegalca-1fbb.es", 
+        "fuzzer": "homoglyph", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "37.59.226.114"
+        ], 
+        "dns-mx": [
+            "lavozdealicia.es"
+        ], 
+        "dns-ns": [
+            "dns1.raiolanetworks.es", 
+            "dns2.raiolanetworks.es", 
+            "dns3.raiolanetworks.es"
+        ], 
+        "domain-name": "lavozdealicia.es", 
+        "fuzzer": "omission", 
+        "geoip-country": "Spain"
+    }, 
+    {
+        "dns-a": [
+            "185.53.177.29"
+        ], 
+        "dns-ns": [
+            "ns1.gegidns.com", 
+            "ns2.gegidns.com"
+        ], 
+        "domain-name": "lavozdegalcia.es", 
+        "fuzzer": "omission", 
+        "geoip-country": "Germany", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "192.185.4.130"
+        ], 
+        "domain-name": "lavozdegali.cia.es", 
+        "fuzzer": "subdomain", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "198.57.247.131"
+        ], 
+        "domain-name": "lavzodegalicia.es", 
+        "fuzzer": "transposition", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 0
+    }
+]

@@ -1,0 +1,35 @@
+[
+    {
+        "dns-a": [
+            "137.200.39.19", 
+            "137.200.4.16"
+        ], 
+        "dns-aaaa": [
+            "2001:1930:d07::aaaa", 
+            "2001:1930:e03::aaaa"
+        ], 
+        "dns-ns": [
+            "dns1.ssa.gov", 
+            "dns2.ssa.gov", 
+            "dns5.ssa.gov", 
+            "dns6.ssa.gov"
+        ], 
+        "domain-name": "socialsecurity.gov", 
+        "fuzzer": "original*", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 100
+    }, 
+    {
+        "dns-a": [
+            "185.53.178.8"
+        ], 
+        "dns-ns": [
+            "ns1.parkingcrew.net", 
+            "ns2.parkingcrew.net"
+        ], 
+        "domain-name": "socialsecurity-gov.com", 
+        "fuzzer": "various", 
+        "geoip-country": "Germany", 
+        "ssdeep-score": 0
+    }
+]

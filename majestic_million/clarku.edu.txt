@@ -1,0 +1,59 @@
+[
+    {
+        "dns-a": [
+            "140.232.1.129"
+        ], 
+        "dns-mx": [
+            "clarku-edu.mail.protection.outlook.com"
+        ], 
+        "dns-ns": [
+            "ns1.clarku.edu", 
+            "ns2.clarku.edu", 
+            "ns3.clarku.edu", 
+            "ns4.clarku.edu"
+        ], 
+        "domain-name": "clarku.edu", 
+        "fuzzer": "original*", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 93
+    }, 
+    {
+        "dns-a": [
+            "23.185.0.2"
+        ], 
+        "dns-aaaa": [
+            "2620:12a:8000::2", 
+            "2620:12a:8001::2"
+        ], 
+        "dns-mx": [
+            "clarke-edu.mail.protection.outlook.com"
+        ], 
+        "dns-ns": [
+            "ns1-04.azure-dns.com", 
+            "ns2-04.azure-dns.net", 
+            "ns3-04.azure-dns.org", 
+            "ns4-04.azure-dns.info"
+        ], 
+        "domain-name": "clarke.edu", 
+        "fuzzer": "bitsquatting", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "192.102.5.10"
+        ], 
+        "dns-mx": [
+            "clark-edu.mail.protection.outlook.com"
+        ], 
+        "dns-ns": [
+            "dns1.clark.edu", 
+            "dns1.ctc.edu", 
+            "dns2.clark.edu", 
+            "dns2.ctc.edu", 
+            "dns3.ctc.edu"
+        ], 
+        "domain-name": "clark.edu", 
+        "fuzzer": "omission", 
+        "geoip-country": "United States"
+    }
+]

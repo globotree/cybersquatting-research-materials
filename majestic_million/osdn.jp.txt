@@ -1,0 +1,187 @@
+[
+    {
+        "dns-a": [
+            "202.221.179.11"
+        ], 
+        "dns-mx": [
+            "mail.osdn.jp"
+        ], 
+        "dns-ns": [
+            "master.osdn.jp", 
+            "ns.osdn.jp", 
+            "ns2.osdn.jp"
+        ], 
+        "domain-name": "osdn.jp", 
+        "fuzzer": "original*", 
+        "geoip-country": "Japan", 
+        "ssdeep-score": 97
+    }, 
+    {
+        "dns-a": [
+            "154.34.30.175"
+        ], 
+        "dns-mx": [
+            "kara.hpsm.jp"
+        ], 
+        "dns-ns": [
+            "ns-1134.awsdns-13.org", 
+            "ns-1730.awsdns-24.co.uk", 
+            "ns-608.awsdns-12.net", 
+            "ns-67.awsdns-08.com"
+        ], 
+        "domain-name": "nsdn.jp", 
+        "fuzzer": "bitsquatting", 
+        "geoip-country": "Japan"
+    }, 
+    {
+        "dns-a": [
+            "104.215.95.187", 
+            "52.164.206.56"
+        ], 
+        "dns-ns": [
+            "ns2.msft.net", 
+            "ns3.msft.net", 
+            "ns4.msft.net"
+        ], 
+        "domain-name": "msdn.jp", 
+        "fuzzer": "bitsquatting", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "157.7.188.195"
+        ], 
+        "dns-mx": [
+            "mail22.heteml.jp"
+        ], 
+        "dns-ns": [
+            "dns0.heteml.jp", 
+            "dns1.heteml.jp"
+        ], 
+        "domain-name": "osen.jp", 
+        "fuzzer": "bitsquatting", 
+        "geoip-country": "Japan", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "210.235.188.162"
+        ], 
+        "dns-mx": [
+            "osdl.jp"
+        ], 
+        "dns-ns": [
+            "ns1.f103jp0814.info", 
+            "ns2.f103jp0814.info"
+        ], 
+        "domain-name": "osdl.jp", 
+        "fuzzer": "bitsquatting", 
+        "geoip-country": "Japan"
+    }, 
+    {
+        "dns-a": [
+            "59.106.13.21"
+        ], 
+        "dns-mx": [
+            "sdn.jp"
+        ], 
+        "dns-ns": [
+            "ns1.dns.ne.jp", 
+            "ns2.dns.ne.jp"
+        ], 
+        "domain-name": "sdn.jp", 
+        "fuzzer": "omission", 
+        "geoip-country": "Japan", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "182.48.57.165"
+        ], 
+        "dns-mx": [
+            "alt1.aspmx.l.google.com", 
+            "alt2.aspmx.l.google.com", 
+            "aspmx.l.google.com", 
+            "aspmx2.googlemail.com", 
+            "aspmx3.googlemail.com"
+        ], 
+        "dns-ns": [
+            "01.dnsv.jp", 
+            "02.dnsv.jp", 
+            "03.dnsv.jp", 
+            "04.dnsv.jp"
+        ], 
+        "domain-name": "osd.jp", 
+        "fuzzer": "omission", 
+        "geoip-country": "Japan", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "112.78.112.188"
+        ], 
+        "dns-mx": [
+            "osn.jp"
+        ], 
+        "dns-ns": [
+            "ns1.dns.ne.jp", 
+            "ns2.dns.ne.jp"
+        ], 
+        "domain-name": "osn.jp", 
+        "fuzzer": "omission", 
+        "geoip-country": "Japan", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "219.94.163.161"
+        ], 
+        "dns-aaaa": [
+            "2403:3a00:101:f:219:94:163:161"
+        ], 
+        "dns-mx": [
+            "isdn.jp"
+        ], 
+        "dns-ns": [
+            "ns1.dns.ne.jp", 
+            "ns2.dns.ne.jp"
+        ], 
+        "domain-name": "isdn.jp", 
+        "fuzzer": "replacement", 
+        "geoip-country": "Japan"
+    }, 
+    {
+        "dns-a": [
+            "80.74.103.121"
+        ], 
+        "dns-mx": [
+            "ossn-jp.mail.protection.outlook.com"
+        ], 
+        "dns-ns": [
+            "ns.markarea.com", 
+            "ns02.trademarkarea.com", 
+            "ns1.markarea.com"
+        ], 
+        "domain-name": "ossn.jp", 
+        "fuzzer": "replacement", 
+        "geoip-country": "Israel", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "154.34.3.106"
+        ], 
+        "dns-mx": [
+            "mail.asdn.jp"
+        ], 
+        "dns-ns": [
+            "ns-1144.awsdns-15.org", 
+            "ns-2029.awsdns-61.co.uk", 
+            "ns-253.awsdns-31.com", 
+            "ns-709.awsdns-24.net"
+        ], 
+        "domain-name": "asdn.jp", 
+        "fuzzer": "vowel-swap"
+    }
+]

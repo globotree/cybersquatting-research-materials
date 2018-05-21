@@ -1,0 +1,48 @@
+[
+    {
+        "dns-a": [
+            "150.191.80.17"
+        ], 
+        "dns-mx": [
+            "emdch-mx21.nt.gov.au", 
+            "emdch-mx31.nt.gov.au", 
+            "emdch-mx41.nt.gov.au"
+        ], 
+        "dns-ns": [
+            "a1.verisigndns.com", 
+            "a2.verisigndns.com", 
+            "a3.verisigndns.com"
+        ], 
+        "domain-name": "nt.gov.au", 
+        "fuzzer": "original*", 
+        "geoip-country": "Australia", 
+        "ssdeep-score": 99
+    }, 
+    {
+        "dns-a": [
+            "54.253.120.120"
+        ], 
+        "dns-mx": [
+            "mail.ntc.gov.au", 
+            "mail2.ntc.gov.au"
+        ], 
+        "dns-ns": [
+            "pridns.pacific.net.au", 
+            "secdns.pacific.net.au"
+        ], 
+        "domain-name": "ntc.gov.au", 
+        "fuzzer": "addition", 
+        "geoip-country": "Australia", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-ns": [
+            "w.au", 
+            "x.au", 
+            "y.au", 
+            "z.au"
+        ], 
+        "domain-name": "nt.au", 
+        "fuzzer": "various"
+    }
+]

@@ -1,0 +1,203 @@
+[
+    {
+        "dns-a": [
+            "194.224.84.155"
+        ], 
+        "dns-mx": [
+            "mx.acens.vocento.com"
+        ], 
+        "dns-ns": [
+            "ns1.sarenet.es", 
+            "ns2.sarenet.es"
+        ], 
+        "domain-name": "elcorreo.com", 
+        "fuzzer": "original*", 
+        "geoip-country": "Spain", 
+        "ssdeep-score": 99
+    }, 
+    {
+        "dns-a": [
+            "192.190.86.114"
+        ], 
+        "dns-mx": [
+            "elcorreos.com"
+        ], 
+        "dns-ns": [
+            "ns1.holeinmysock.com", 
+            "ns2.holeinmysock.com"
+        ], 
+        "domain-name": "elcorreos.com", 
+        "fuzzer": "addition", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "62.151.2.81"
+        ], 
+        "dns-mx": [
+            "smtp.ozongo.com"
+        ], 
+        "dns-ns": [
+            "ns1.ozongo.com", 
+            "ns2.ozongo.com"
+        ], 
+        "domain-name": "alcorreo.com", 
+        "fuzzer": "bitsquatting", 
+        "geoip-country": "Spain"
+    }, 
+    {
+        "dns-a": [
+            "103.224.212.222"
+        ], 
+        "dns-mx": [
+            "park-mx.above.com"
+        ], 
+        "dns-ns": [
+            "ns1.above.com", 
+            "ns2.above.com"
+        ], 
+        "domain-name": "elcorrreo.com", 
+        "fuzzer": "insertion", 
+        "geoip-country": "Australia", 
+        "mx-spy": true, 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "185.53.178.9"
+        ], 
+        "dns-mx": [
+            "mail.h-email.net"
+        ], 
+        "dns-ns": [
+            "ns1.parkingcrew.net", 
+            "ns2.parkingcrew.net"
+        ], 
+        "domain-name": "ecorreo.com", 
+        "fuzzer": "omission", 
+        "geoip-country": "Germany", 
+        "mx-spy": true, 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "52.86.22.136", 
+            "54.174.212.152"
+        ], 
+        "dns-ns": [
+            "ns1.namebrightdns.com", 
+            "ns2.namebrightdns.com"
+        ], 
+        "domain-name": "elcorre.com", 
+        "fuzzer": "omission", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "78.41.204.28"
+        ], 
+        "dns-ns": [
+            "ns1.torresdns.com", 
+            "ns2.torresdns.com"
+        ], 
+        "domain-name": "elcoreo.com", 
+        "fuzzer": "omission", 
+        "geoip-country": "Netherlands", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "52.86.22.136", 
+            "54.174.212.152"
+        ], 
+        "dns-ns": [
+            "ns1.namebrightdns.com", 
+            "ns2.namebrightdns.com"
+        ], 
+        "domain-name": "elcorro.com", 
+        "fuzzer": "omission", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "184.168.221.104"
+        ], 
+        "dns-ns": [
+            "ns1.afternic.com", 
+            "ns2.afternic.com"
+        ], 
+        "domain-name": "elc.orreo.com", 
+        "fuzzer": "subdomain", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "69.172.201.153"
+        ], 
+        "domain-name": "elco.rreo.com", 
+        "fuzzer": "subdomain", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "69.172.201.153"
+        ], 
+        "dns-ns": [
+            "ns1.uniregistrymarket.link", 
+            "ns2.uniregistrymarket.link"
+        ], 
+        "domain-name": "elcorr.eo.com", 
+        "fuzzer": "subdomain", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "185.53.178.7"
+        ], 
+        "dns-mx": [
+            "exchange.dewile.net", 
+            "mail.h-email.net"
+        ], 
+        "dns-ns": [
+            "ns1.parkingcrew.net", 
+            "ns2.parkingcrew.net"
+        ], 
+        "domain-name": "elcorroe.com", 
+        "fuzzer": "transposition"
+    }, 
+    {
+        "dns-a": [
+            "173.254.91.127"
+        ], 
+        "dns-mx": [
+            "mail.elcorrea.com"
+        ], 
+        "dns-ns": [
+            "ns1.bluehost.com", 
+            "ns2.bluehost.com"
+        ], 
+        "domain-name": "elcorrea.com", 
+        "fuzzer": "vowel-swap"
+    }, 
+    {
+        "dns-a": [
+            "176.28.103.205"
+        ], 
+        "dns-mx": [
+            "mx.elcorreu.com"
+        ], 
+        "dns-ns": [
+            "ns1.srv-hostalia.com", 
+            "ns2.srv-hostalia.com"
+        ], 
+        "domain-name": "elcorreu.com", 
+        "fuzzer": "vowel-swap", 
+        "geoip-country": "Spain"
+    }
+]

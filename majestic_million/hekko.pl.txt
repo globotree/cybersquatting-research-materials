@@ -1,0 +1,282 @@
+[
+    {
+        "dns-a": [
+            "185.204.217.248"
+        ], 
+        "dns-aaaa": [
+            "2a02:1778:110::1:1"
+        ], 
+        "dns-mx": [
+            "mail.hekko.pl"
+        ], 
+        "dns-ns": [
+            "ns1.hekko.net.pl", 
+            "ns2.hekko.net.pl"
+        ], 
+        "domain-name": "hekko.pl", 
+        "fuzzer": "original*", 
+        "ssdeep-score": 99
+    }, 
+    {
+        "dns-a": [
+            "91.198.146.248"
+        ], 
+        "domain-name": "jekko.pl", 
+        "fuzzer": "bitsquatting", 
+        "geoip-country": "Poland", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "185.53.178.6"
+        ], 
+        "dns-mx": [
+            "mail.h-email.net"
+        ], 
+        "dns-ns": [
+            "ns1.fastpark.net", 
+            "ns2.fastpark.net"
+        ], 
+        "domain-name": "lekko.pl", 
+        "fuzzer": "bitsquatting", 
+        "geoip-country": "Germany", 
+        "mx-spy": true, 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "188.128.255.251"
+        ], 
+        "dns-ns": [
+            "ns1.premium.pl", 
+            "ns2.premium.pl"
+        ], 
+        "domain-name": "hakko.pl", 
+        "fuzzer": "bitsquatting", 
+        "geoip-country": "Poland", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "85.128.128.99"
+        ], 
+        "dns-mx": [
+            "hejko.pl"
+        ], 
+        "dns-ns": [
+            "ns1.nazwa.pl", 
+            "ns2.nazwa.pl", 
+            "ns3.nazwa.pl"
+        ], 
+        "domain-name": "hejko.pl", 
+        "fuzzer": "bitsquatting", 
+        "geoip-country": "Poland", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "185.53.178.9"
+        ], 
+        "dns-mx": [
+            "mail.h-email.net"
+        ], 
+        "dns-ns": [
+            "ns1.parkingcrew.net", 
+            "ns2.parkingcrew.net"
+        ], 
+        "domain-name": "heiko.pl", 
+        "fuzzer": "bitsquatting", 
+        "geoip-country": "Germany", 
+        "mx-spy": true, 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "79.96.45.117"
+        ], 
+        "dns-mx": [
+            "ekko.pl"
+        ], 
+        "dns-ns": [
+            "dns.home.pl", 
+            "dns2.home.pl", 
+            "dns3.home.pl"
+        ], 
+        "domain-name": "ekko.pl", 
+        "fuzzer": "omission", 
+        "geoip-country": "Poland", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "86.111.241.89"
+        ], 
+        "dns-mx": [
+            "mail.iq.pl", 
+            "mx1.iq.pl"
+        ], 
+        "dns-ns": [
+            "ns1.iq.pl", 
+            "ns2.iq.pl"
+        ], 
+        "domain-name": "heko.pl", 
+        "fuzzer": "omission", 
+        "geoip-country": "Poland", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "212.91.6.58", 
+            "212.91.7.33"
+        ], 
+        "domain-name": "hekkko.pl", 
+        "fuzzer": "repetition", 
+        "geoip-country": "Poland", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "212.91.6.58", 
+            "212.91.7.33"
+        ], 
+        "domain-name": "hekki.pl", 
+        "fuzzer": "replacement", 
+        "geoip-country": "Poland", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "85.128.220.161"
+        ], 
+        "dns-mx": [
+            "gekko.pl"
+        ], 
+        "dns-ns": [
+            "ns1.nazwa.pl", 
+            "ns2.nazwa.pl", 
+            "ns3.nazwa.pl"
+        ], 
+        "domain-name": "gekko.pl", 
+        "fuzzer": "replacement", 
+        "geoip-country": "Poland", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-ns": [
+            "ns1.unoeuro.com", 
+            "ns2.unoeuro.com", 
+            "ns3.unoeuro.com", 
+            "ns4.unoeuro.com"
+        ], 
+        "domain-name": "bekko.pl", 
+        "fuzzer": "replacement"
+    }, 
+    {
+        "dns-a": [
+            "86.111.241.65"
+        ], 
+        "dns-mx": [
+            "mail.iq.pl", 
+            "mx1.iq.pl"
+        ], 
+        "dns-ns": [
+            "ns1.iq.pl", 
+            "ns2.iq.pl"
+        ], 
+        "domain-name": "nekko.pl", 
+        "fuzzer": "replacement", 
+        "geoip-country": "Poland", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "79.96.45.117"
+        ], 
+        "dns-mx": [
+            "ekko.pl"
+        ], 
+        "dns-ns": [
+            "dns.home.pl", 
+            "dns2.home.pl", 
+            "dns3.home.pl"
+        ], 
+        "domain-name": "h.ekko.pl", 
+        "fuzzer": "subdomain", 
+        "geoip-country": "Poland", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "195.149.226.108"
+        ], 
+        "dns-mx": [
+            "kko.pl"
+        ], 
+        "domain-name": "he.kko.pl", 
+        "fuzzer": "subdomain", 
+        "geoip-country": "Poland", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "194.146.219.1"
+        ], 
+        "domain-name": "hek.ko.pl", 
+        "fuzzer": "subdomain", 
+        "geoip-country": "Poland", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "144.76.67.111"
+        ], 
+        "dns-mx": [
+            "alt1.aspmx.l.google.com", 
+            "alt2.aspmx.l.google.com", 
+            "aspmx.l.google.com", 
+            "aspmx2.googlemail.com", 
+            "aspmx3.googlemail.com"
+        ], 
+        "dns-ns": [
+            "dns1.o.pl", 
+            "dns2.o.pl"
+        ], 
+        "domain-name": "hekk.o.pl", 
+        "fuzzer": "subdomain", 
+        "geoip-country": "Germany", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "217.70.184.38"
+        ], 
+        "dns-mx": [
+            "fb.mail.gandi.net", 
+            "spool.mail.gandi.net"
+        ], 
+        "dns-ns": [
+            "ns-208-a.gandi.net", 
+            "ns-208-c.gandi.net", 
+            "ns-60-b.gandi.net"
+        ], 
+        "domain-name": "hikko.pl", 
+        "fuzzer": "vowel-swap", 
+        "geoip-country": "France", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "87.98.239.5"
+        ], 
+        "dns-mx": [
+            "redirect.ovh.net"
+        ], 
+        "dns-ns": [
+            "dns104.ovh.net", 
+            "ns104.ovh.net"
+        ], 
+        "domain-name": "hokko.pl", 
+        "fuzzer": "vowel-swap", 
+        "geoip-country": "Poland"
+    }
+]

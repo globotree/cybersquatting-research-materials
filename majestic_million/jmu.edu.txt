@@ -1,0 +1,150 @@
+[
+    {
+        "dns-a": [
+            "134.126.10.50"
+        ], 
+        "dns-mx": [
+            "elliot.jmu.edu"
+        ], 
+        "dns-ns": [
+            "ns3.jmu.edu", 
+            "ns4.jmu.edu", 
+            "ns5.jmu.edu"
+        ], 
+        "domain-name": "jmu.edu", 
+        "fuzzer": "original*", 
+        "geoip-country": "United States", 
+        "mx-spy": true, 
+        "ssdeep-score": 100
+    }, 
+    {
+        "dns-a": [
+            "198.185.159.144", 
+            "198.185.159.145", 
+            "198.49.23.144", 
+            "198.49.23.145"
+        ], 
+        "dns-mx": [
+            "d113911a.ess.barracudanetworks.com", 
+            "d113911b.ess.barracudanetworks.com", 
+            "mx-caprica.easydns.com"
+        ], 
+        "dns-ns": [
+            "dns1.easydns.com", 
+            "dns2.easydns.net", 
+            "dns3.easydns.ca"
+        ], 
+        "domain-name": "hmu.edu", 
+        "fuzzer": "bitsquatting", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "198.110.200.4"
+        ], 
+        "dns-aaaa": [
+            "2001:48a8:800:3200:198:110:200:4"
+        ], 
+        "dns-mx": [
+            "ALT1.ASPMX.L.GOOGLE.COM", 
+            "ALT2.ASPMX.L.GOOGLE.COM", 
+            "ALT3.ASPMX.L.GOOGLE.COM", 
+            "ALT4.ASPMX.L.GOOGLE.COM", 
+            "ASPMX.L.GOOGLE.COM"
+        ], 
+        "dns-ns": [
+            "bart.nmu.edu", 
+            "candace.nmu.edu", 
+            "lindana.nmu.edu", 
+            "nmudns.nmu.edu"
+        ], 
+        "domain-name": "nmu.edu", 
+        "fuzzer": "bitsquatting", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "54.191.248.195"
+        ], 
+        "dns-mx": [
+            "jiu-edu.mail.protection.outlook.com"
+        ], 
+        "dns-ns": [
+            "ns1.ncti.com", 
+            "ns2.ncti.com"
+        ], 
+        "domain-name": "jiu.edu", 
+        "fuzzer": "bitsquatting", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "134.48.29.23"
+        ], 
+        "dns-mx": [
+            "mxa-0020b801.gslb.pphosted.com", 
+            "mxb-0020b801.gslb.pphosted.com"
+        ], 
+        "dns-ns": [
+            "dns1.mu.edu", 
+            "dns2.mu.edu", 
+            "ns1.twtelecom.net", 
+            "ns2.twtelecom.net"
+        ], 
+        "domain-name": "mu.edu", 
+        "fuzzer": "omission", 
+        "geoip-country": "United States", 
+        "mx-spy": true, 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "204.29.160.229"
+        ], 
+        "dns-mx": [
+            "ju-edu.mail.protection.outlook.com"
+        ], 
+        "dns-ns": [
+            "ns10.dnsmadeeasy.com", 
+            "ns11.dnsmadeeasy.com", 
+            "ns12.dnsmadeeasy.com", 
+            "ns13.dnsmadeeasy.com", 
+            "ns14.dnsmadeeasy.com", 
+            "ns15.dnsmadeeasy.com"
+        ], 
+        "domain-name": "ju.edu", 
+        "fuzzer": "omission", 
+        "geoip-country": "United States"
+    }, 
+    {
+        "dns-a": [
+            "23.236.62.147"
+        ], 
+        "dns-mx": [
+            "alt1.aspmx.l.google.com", 
+            "alt2.aspmx.l.google.com", 
+            "aspmx.l.google.com", 
+            "aspmx2.googlemail.com", 
+            "aspmx3.googlemail.com"
+        ], 
+        "dns-ns": [
+            "ns0.wixdns.net", 
+            "ns1.wixdns.net"
+        ], 
+        "domain-name": "imu.edu", 
+        "fuzzer": "replacement", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-ns": [
+            "alijku01.edvz.uni-linz.ac.at", 
+            "ns2.jku.at"
+        ], 
+        "domain-name": "jku.edu", 
+        "fuzzer": "replacement"
+    }
+]

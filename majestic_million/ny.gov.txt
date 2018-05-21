@@ -1,0 +1,63 @@
+[
+    {
+        "dns-a": [
+            "107.20.176.212"
+        ], 
+        "dns-mx": [
+            "ny-gov.mail.protection.outlook.com"
+        ], 
+        "dns-ns": [
+            "cbru.br.ns.els-gms.att.net", 
+            "cmtu.mt.ns.els-gms.att.net", 
+            "ns1.ny.gov", 
+            "ns2.ny.gov"
+        ], 
+        "domain-name": "ny.gov", 
+        "fuzzer": "original*", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 100
+    }, 
+    {
+        "dns-a": [
+            "161.185.30.156"
+        ], 
+        "dns-mx": [
+            "vwall1.nyc.gov", 
+            "vwall2.nyc.gov", 
+            "vwall3.nyc.gov", 
+            "vwall4.nyc.gov", 
+            "vwall5.nyc.gov", 
+            "vwall6.nyc.gov", 
+            "vwall7.nyc.gov", 
+            "vwall8.nyc.gov"
+        ], 
+        "dns-ns": [
+            "vwall1a.nyc.gov", 
+            "vwall2a.nyc.gov", 
+            "vwall3a.nyc.gov", 
+            "vwall4a.nyc.gov"
+        ], 
+        "domain-name": "nyc.gov", 
+        "fuzzer": "addition", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "199.192.8.2"
+        ], 
+        "dns-mx": [
+            "mxa-001f7b01.gslb.pphosted.com", 
+            "mxb-001f7b01.gslb.pphosted.com"
+        ], 
+        "dns-ns": [
+            "flume.state.nh.us", 
+            "oldman.state.nh.us", 
+            "whitemtns.state.nh.us"
+        ], 
+        "domain-name": "nh.gov", 
+        "fuzzer": "replacement", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 0
+    }
+]

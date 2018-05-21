@@ -1,0 +1,107 @@
+[
+    {
+        "dns-a": [
+            "195.2.69.145"
+        ], 
+        "dns-mx": [
+            "mx.rospotrebnadzor.ru.postman.ru"
+        ], 
+        "dns-ns": [
+            "ns3-l2.nic.ru", 
+            "ns4-cloud.nic.ru", 
+            "ns4-l2.nic.ru", 
+            "ns8-cloud.nic.ru", 
+            "ns8-l2.nic.ru"
+        ], 
+        "domain-name": "rospotrebnadzor.ru", 
+        "fuzzer": "original*", 
+        "geoip-country": "Russian Federation", 
+        "ssdeep-score": 97
+    }, 
+    {
+        "dns-a": [
+            "88.99.219.19"
+        ], 
+        "dns-mx": [
+            "mail.rospotrebnadzora.ru", 
+            "mail.rospotrebnadzora.ru"
+        ], 
+        "dns-ns": [
+            "ns53.eskhosting.com", 
+            "ns54.eskhosting.com"
+        ], 
+        "domain-name": "rospotrebnadzora.ru", 
+        "fuzzer": "addition", 
+        "geoip-country": "Germany", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "31.31.205.163"
+        ], 
+        "domain-name": "rospotreb-nadzor.ru", 
+        "fuzzer": "hyphenation", 
+        "geoip-country": "Russian Federation", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "104.27.180.16", 
+            "104.27.181.16"
+        ], 
+        "dns-aaaa": [
+            "2400:cb00:2048:1::681b:b410", 
+            "2400:cb00:2048:1::681b:b510"
+        ], 
+        "dns-ns": [
+            "rihana.ns.cloudflare.com", 
+            "walt.ns.cloudflare.com"
+        ], 
+        "domain-name": "rospotrebnadsor.ru", 
+        "fuzzer": "replacement", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "31.31.205.163"
+        ], 
+        "domain-name": "rospotreb.nadzor.ru", 
+        "fuzzer": "subdomain", 
+        "geoip-country": "Russian Federation", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "127.0.0.99"
+        ], 
+        "domain-name": "rospotrebna.dzor.ru", 
+        "fuzzer": "subdomain"
+    }, 
+    {
+        "dns-a": [
+            "78.140.179.107"
+        ], 
+        "domain-name": "rospotrebnadz.or.ru", 
+        "fuzzer": "subdomain", 
+        "geoip-country": "Netherlands", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "81.177.135.133"
+        ], 
+        "dns-mx": [
+            "mail.rospatrebnadzor.ru"
+        ], 
+        "dns-ns": [
+            "ns1.jino.ru", 
+            "ns2.jino.ru", 
+            "ns3.jino.ru", 
+            "ns4.jino.ru"
+        ], 
+        "domain-name": "rospatrebnadzor.ru", 
+        "fuzzer": "vowel-swap", 
+        "geoip-country": "Russian Federation"
+    }
+]

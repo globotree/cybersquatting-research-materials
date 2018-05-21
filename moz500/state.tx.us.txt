@@ -1,0 +1,30 @@
+[
+    {
+        "dns-mx": [
+            "emu.tx.net"
+        ], 
+        "dns-ns": [
+            "merlin.texan.state.tx.us", 
+            "ns.capnet.state.tx.us", 
+            "ns5.capnet.state.tx.us", 
+            "ns9.tex-an.net", 
+            "tybalt.caltech.edu"
+        ], 
+        "domain-name": "state.tx.us", 
+        "fuzzer": "original*"
+    }, 
+    {
+        "dns-a": [
+            "185.53.179.7"
+        ], 
+        "dns-mx": [
+            "mail.h-email.net"
+        ], 
+        "dns-ns": [
+            "ns1.parkingcrew.net", 
+            "ns2.parkingcrew.net"
+        ], 
+        "domain-name": "statetx.us", 
+        "fuzzer": "various"
+    }
+]

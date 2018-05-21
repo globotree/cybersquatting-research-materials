@@ -1,0 +1,232 @@
+[
+    {
+        "dns-mx": [
+            "mailprdfbdmz1-mx.es.gwu.edu", 
+            "mailprdfbdmz2-mx.es.gwu.edu", 
+            "mailprdfbdmz3-mx.es.gwu.edu", 
+            "mailprdfbdmz4-mx.es.gwu.edu", 
+            "mailprdvadmz1-mx.es.gwu.edu", 
+            "mailprdvadmz2-mx.es.gwu.edu", 
+            "mailprdvadmz3-mx.es.gwu.edu", 
+            "mailprdvadmz4-mx.es.gwu.edu"
+        ], 
+        "dns-ns": [
+            "ns2.gwu.edu", 
+            "ns3.gwu.edu"
+        ], 
+        "domain-name": "gwu.edu", 
+        "fuzzer": "original*"
+    }, 
+    {
+        "dns-a": [
+            "146.187.224.173"
+        ], 
+        "dns-mx": [
+            "ewu-edu.mail.protection.outlook.com"
+        ], 
+        "dns-ns": [
+            "dns1.ewu.edu", 
+            "dns2.ewu.edu", 
+            "dns3.ewu.edu"
+        ], 
+        "domain-name": "ewu.edu", 
+        "fuzzer": "bitsquatting", 
+        "geoip-country": "United States"
+    }, 
+    {
+        "dns-a": [
+            "72.233.192.40"
+        ], 
+        "dns-mx": [
+            "cwu-edu.mail.protection.outlook.com"
+        ], 
+        "dns-ns": [
+            "apple.wa-k20.net", 
+            "ns0.cwu.edu", 
+            "ruler.wa-k20.net"
+        ], 
+        "domain-name": "cwu.edu", 
+        "fuzzer": "bitsquatting", 
+        "geoip-country": "United States"
+    }, 
+    {
+        "dns-a": [
+            "104.239.175.178"
+        ], 
+        "dns-mx": [
+            "alt1.aspmx.l.google.com", 
+            "alt2.aspmx.l.google.com", 
+            "aspmx.l.google.com", 
+            "aspmx2.googlemail.com", 
+            "aspmx3.googlemail.com"
+        ], 
+        "dns-ns": [
+            "alcor.owu.edu", 
+            "mizar.owu.edu", 
+            "ns1.oar.net", 
+            "ns2.oar.net"
+        ], 
+        "domain-name": "owu.edu", 
+        "fuzzer": "bitsquatting", 
+        "geoip-country": "United States"
+    }, 
+    {
+        "dns-a": [
+            "140.160.243.27"
+        ], 
+        "dns-mx": [
+            "wwu-edu.mail.protection.outlook.com"
+        ], 
+        "dns-ns": [
+            "ns1.wwu.edu", 
+            "ns2.wwu.edu", 
+            "ns3.wwu.edu"
+        ], 
+        "domain-name": "wwu.edu", 
+        "fuzzer": "bitsquatting", 
+        "geoip-country": "United States"
+    }, 
+    {
+        "dns-a": [
+            "104.130.251.77"
+        ], 
+        "dns-mx": [
+            "gsu-edu.mail.eo.outlook.com", 
+            "gsu-edu.mail.protection.outlook.com"
+        ], 
+        "dns-ns": [
+            "dns-ext1.gsu.edu", 
+            "dns-ext2.gsu.edu", 
+            "ns1.usg.edu", 
+            "ns2.usg.edu", 
+            "ns3.usg.edu", 
+            "ns4.usg.edu"
+        ], 
+        "domain-name": "gsu.edu", 
+        "fuzzer": "bitsquatting", 
+        "geoip-country": "United States"
+    }, 
+    {
+        "dns-a": [
+            "192.251.73.15"
+        ], 
+        "dns-mx": [
+            "us-smtp-inbound-1.mimecast.com", 
+            "us-smtp-inbound-2.mimecast.com"
+        ], 
+        "dns-ns": [
+            "ns1.ggu.edu", 
+            "ns1.yipes.com", 
+            "ns2.ggu.edu"
+        ], 
+        "domain-name": "ggu.edu", 
+        "fuzzer": "bitsquatting", 
+        "geoip-country": "United States"
+    }, 
+    {
+        "dns-a": [
+            "70.40.219.54"
+        ], 
+        "dns-mx": [
+            "aspmx.l.google.com"
+        ], 
+        "dns-ns": [
+            "ns1.bluehost.com", 
+            "ns2.bluehost.com"
+        ], 
+        "domain-name": "gw.edu", 
+        "fuzzer": "omission", 
+        "geoip-country": "United States"
+    }, 
+    {
+        "dns-mx": [
+            "mx1.wu.ac.at", 
+            "mx2.wu.ac.at"
+        ], 
+        "dns-ns": [
+            "ns1.wu-wien.ac.at", 
+            "ns2.wu-wien.ac.at"
+        ], 
+        "domain-name": "wu.edu", 
+        "fuzzer": "omission"
+    }, 
+    {
+        "dns-a": [
+            "23.23.92.211"
+        ], 
+        "dns-ns": [
+            "ns1.gu.edu", 
+            "ns2.gu.edu", 
+            "ns3.gu.edu"
+        ], 
+        "domain-name": "gu.edu", 
+        "fuzzer": "omission", 
+        "geoip-country": "United States"
+    }, 
+    {
+        "dns-a": [
+            "216.54.22.164"
+        ], 
+        "dns-mx": [
+            "ALT3.aspmx.l.google.com", 
+            "ALT4.aspmx.l.google.com", 
+            "alt1.aspmx.l.google.com", 
+            "alt2.aspmx.l.google.com", 
+            "aspmx.l.google.com"
+        ], 
+        "dns-ns": [
+            "pdns11.domaincontrol.com", 
+            "pdns12.domaincontrol.com"
+        ], 
+        "domain-name": "vwu.edu", 
+        "fuzzer": "replacement", 
+        "geoip-country": "United States"
+    }, 
+    {
+        "dns-a": [
+            "198.178.139.215"
+        ], 
+        "dns-mx": [
+            "mxagent1.twu.edu", 
+            "mxagent2.twu.edu", 
+            "mxagent3.twu.edu", 
+            "mxagent4.twu.edu"
+        ], 
+        "dns-ns": [
+            "dnshu.twu.edu", 
+            "nsx1.twu.edu", 
+            "nsx2.twu.edu", 
+            "nsx3.twu.edu"
+        ], 
+        "domain-name": "twu.edu", 
+        "fuzzer": "replacement", 
+        "geoip-country": "United States"
+    }, 
+    {
+        "dns-a": [
+            "72.44.232.22"
+        ], 
+        "dns-mx": [
+            "ALT1.ASPMX.L.GOOGLE.COM", 
+            "ALT2.ASPMX.L.GOOGLE.COM", 
+            "ASPMX.L.GOOGLE.COM", 
+            "ASPMX2.GOOGLEMAIL.COM", 
+            "ASPMX3.GOOGLEMAIL.COM", 
+            "ASPMX4.GOOGLEMAIL.COM", 
+            "ASPMX5.GOOGLEMAIL.COM", 
+            "us-smtp-inbound-1.mimecast.COM", 
+            "us-smtp-inbound-2.mimecast.COM"
+        ], 
+        "dns-ns": [
+            "pdns1.ultradns.net", 
+            "pdns2.ultradns.net", 
+            "pdns3.ultradns.org", 
+            "pdns4.ultradns.org", 
+            "pdns5.ultradns.info", 
+            "pdns6.ultradns.co.uk"
+        ], 
+        "domain-name": "wgu.edu", 
+        "fuzzer": "transposition", 
+        "geoip-country": "United States"
+    }
+]

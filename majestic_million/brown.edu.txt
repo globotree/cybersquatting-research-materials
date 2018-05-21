@@ -1,0 +1,40 @@
+[
+    {
+        "dns-a": [
+            "128.148.252.151"
+        ], 
+        "dns-mx": [
+            "alt1.aspmx.l.google.com", 
+            "alt2.aspmx.l.google.com", 
+            "alt3.aspmx.l.google.com", 
+            "alt4.aspmx.l.google.com", 
+            "aspmx.l.google.com"
+        ], 
+        "dns-ns": [
+            "bru-ns1.brown.edu", 
+            "bru-ns2.brown.edu", 
+            "bru-ns4.brown.edu", 
+            "ns1.ucsb.edu"
+        ], 
+        "domain-name": "brown.edu", 
+        "fuzzer": "original*", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 100
+    }, 
+    {
+        "dns-a": [
+            "184.173.116.40"
+        ], 
+        "dns-mx": [
+            "crown-edu.mail.protection.outlook.com"
+        ], 
+        "dns-ns": [
+            "dns1.carverlink.com", 
+            "dns2.carverlink.com"
+        ], 
+        "domain-name": "crown.edu", 
+        "fuzzer": "bitsquatting", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 0
+    }
+]

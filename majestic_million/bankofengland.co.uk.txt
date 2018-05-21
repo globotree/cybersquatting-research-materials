@@ -1,0 +1,84 @@
+[
+    {
+        "dns-a": [
+            "194.61.178.65"
+        ], 
+        "dns-mx": [
+            "cluster2.eu.messagelabs.com", 
+            "cluster2a.eu.messagelabs.com"
+        ], 
+        "dns-ns": [
+            "ns0-b.dns.pipex.net", 
+            "ns1-b.dns.pipex.net"
+        ], 
+        "domain-name": "bankofengland.co.uk", 
+        "fuzzer": "original*", 
+        "geoip-country": "United Kingdom", 
+        "ssdeep-score": 100
+    }, 
+    {
+        "dns-a": [
+            "50.63.202.51"
+        ], 
+        "dns-ns": [
+            "ns41.domaincontrol.com", 
+            "ns42.domaincontrol.com"
+        ], 
+        "domain-name": "dankofengland.co.uk", 
+        "fuzzer": "homoglyph", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-mx": [
+            "mx.yandex.net"
+        ], 
+        "dns-ns": [
+            "a.dnspod.com", 
+            "b.dnspod.com", 
+            "c.dnspod.com"
+        ], 
+        "domain-name": "bnkofengland.co.uk", 
+        "fuzzer": "omission"
+    }, 
+    {
+        "dns-a": [
+            "139.162.214.154"
+        ], 
+        "domain-name": "bankofen.gland.co.uk", 
+        "fuzzer": "subdomain", 
+        "geoip-country": "United Kingdom"
+    }, 
+    {
+        "dns-a": [
+            "79.170.44.107"
+        ], 
+        "dns-mx": [
+            "mail.nd.co.uk"
+        ], 
+        "domain-name": "bankofengla.nd.co.uk", 
+        "fuzzer": "subdomain", 
+        "geoip-country": "United Kingdom", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "66.6.44.4"
+        ], 
+        "domain-name": "bankofenglan.d.co.uk", 
+        "fuzzer": "subdomain", 
+        "geoip-country": "United States"
+    }, 
+    {
+        "dns-a": [
+            "194.61.178.65"
+        ], 
+        "dns-ns": [
+            "ns0-b.dns.pipex.net", 
+            "ns1-b.dns.pipex.net"
+        ], 
+        "domain-name": "bankofengland.uk", 
+        "fuzzer": "various", 
+        "geoip-country": "United Kingdom"
+    }
+]

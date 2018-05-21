@@ -1,0 +1,199 @@
+[
+    {
+        "dns-a": [
+            "119.235.235.13"
+        ], 
+        "dns-mx": [
+            "smtp.naver.jp"
+        ], 
+        "dns-ns": [
+            "adns1.naver.com", 
+            "adns2.naver.com", 
+            "ns1.naver.jp", 
+            "ns2.naver.jp"
+        ], 
+        "domain-name": "naver.jp", 
+        "fuzzer": "original*", 
+        "geoip-country": "Japan", 
+        "mx-spy": true, 
+        "ssdeep-score": 99
+    }, 
+    {
+        "dns-a": [
+            "120.136.14.50"
+        ], 
+        "dns-mx": [
+            "laver.jp"
+        ], 
+        "dns-ns": [
+            "ns1.xserver.jp", 
+            "ns2.xserver.jp", 
+            "ns3.xserver.jp", 
+            "ns4.xserver.jp", 
+            "ns5.xserver.jp"
+        ], 
+        "domain-name": "laver.jp", 
+        "fuzzer": "bitsquatting", 
+        "geoip-country": "Japan", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "160.16.213.116"
+        ], 
+        "dns-ns": [
+            "01.dnsv.jp", 
+            "02.dnsv.jp", 
+            "03.dnsv.jp", 
+            "04.dnsv.jp"
+        ], 
+        "domain-name": "faver.jp", 
+        "fuzzer": "bitsquatting", 
+        "geoip-country": "Japan", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "72.52.4.122"
+        ], 
+        "dns-mx": [
+            "localhost"
+        ], 
+        "dns-ns": [
+            "ns1.sedoparking.com", 
+            "ns2.sedoparking.com"
+        ], 
+        "domain-name": "never.jp", 
+        "fuzzer": "bitsquatting", 
+        "geoip-country": "United States", 
+        "mx-spy": true, 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "50.56.81.119"
+        ], 
+        "dns-mx": [
+            "mail.b-io.co"
+        ], 
+        "domain-name": "navar.jp", 
+        "fuzzer": "bitsquatting", 
+        "geoip-country": "United States", 
+        "mx-spy": true, 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-mx": [
+            "mx-0.aams6.jp", 
+            "mx-1.aams6.jp", 
+            "mx.aams6.jp"
+        ], 
+        "dns-ns": [
+            "name.technowave.ad.jp", 
+            "ns.technowave.ne.jp"
+        ], 
+        "domain-name": "naves.jp", 
+        "fuzzer": "bitsquatting"
+    }, 
+    {
+        "dns-a": [
+            "157.7.107.125"
+        ], 
+        "dns-mx": [
+            "mx01.lolipop.jp"
+        ], 
+        "dns-ns": [
+            "dns01.chicappa.jp", 
+            "dns02.chicappa.jp"
+        ], 
+        "domain-name": "aver.jp", 
+        "fuzzer": "omission", 
+        "geoip-country": "Japan", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "49.212.196.50"
+        ], 
+        "dns-ns": [
+            "01.dnsv.jp", 
+            "02.dnsv.jp", 
+            "03.dnsv.jp", 
+            "04.dnsv.jp"
+        ], 
+        "domain-name": "nave.jp", 
+        "fuzzer": "omission", 
+        "geoip-country": "Japan", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "52.210.8.34"
+        ], 
+        "dns-mx": [
+            "mx1.jimdo.com", 
+            "mx2.jimdo.com"
+        ], 
+        "dns-ns": [
+            "ns1.jimdo.com", 
+            "ns2.jimdo.com"
+        ], 
+        "domain-name": "nacer.jp", 
+        "fuzzer": "replacement", 
+        "geoip-country": "Ireland", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "157.7.107.26"
+        ], 
+        "dns-mx": [
+            "mx01.lolipop.jp"
+        ], 
+        "dns-ns": [
+            "uns01.lolipop.jp", 
+            "uns02.lolipop.jp"
+        ], 
+        "domain-name": "haver.jp", 
+        "fuzzer": "replacement", 
+        "geoip-country": "Japan"
+    }, 
+    {
+        "dns-a": [
+            "166.78.103.6"
+        ], 
+        "domain-name": "navet.jp", 
+        "fuzzer": "replacement", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "153.127.84.56"
+        ], 
+        "dns-mx": [
+            "anver.jp"
+        ], 
+        "dns-ns": [
+            "ns1.mixhost.jp", 
+            "ns2.mixhost.jp", 
+            "ns3.mixhost.jp"
+        ], 
+        "domain-name": "anver.jp", 
+        "fuzzer": "transposition"
+    }, 
+    {
+        "dns-a": [
+            "202.172.28.138"
+        ], 
+        "dns-mx": [
+            "navir.jp"
+        ], 
+        "dns-ns": [
+            "ns1.value-domain.com", 
+            "ns2.value-domain.com"
+        ], 
+        "domain-name": "navir.jp", 
+        "fuzzer": "vowel-swap"
+    }
+]

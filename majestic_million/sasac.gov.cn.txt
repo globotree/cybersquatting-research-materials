@@ -1,0 +1,45 @@
+[
+    {
+        "dns-ns": [
+            "dns1.sasac.gov.cn", 
+            "dns2.sasac.gov.cn"
+        ], 
+        "domain-name": "sasac.gov.cn", 
+        "fuzzer": "original*"
+    }, 
+    {
+        "dns-mx": [
+            "mail.sasaca.gov.cn"
+        ], 
+        "dns-ns": [
+            "dns1.sasaca.gov.cn", 
+            "dns2.sasaca.gov.cn"
+        ], 
+        "domain-name": "sasaca.gov.cn", 
+        "fuzzer": "addition"
+    }, 
+    {
+        "dns-a": [
+            "61.135.203.75"
+        ], 
+        "dns-mx": [
+            "mx.qiye.163.com", 
+            "mx2.qiye.163.com"
+        ], 
+        "dns-ns": [
+            "ns1.sfn.cn", 
+            "ns2.sfn.cn"
+        ], 
+        "domain-name": "saac.gov.cn", 
+        "fuzzer": "omission", 
+        "geoip-country": "China"
+    }, 
+    {
+        "dns-a": [
+            "222.173.37.20"
+        ], 
+        "domain-name": "sasac.cn", 
+        "fuzzer": "various", 
+        "geoip-country": "China"
+    }
+]

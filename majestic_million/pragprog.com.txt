@@ -1,0 +1,123 @@
+[
+    {
+        "dns-a": [
+            "23.21.170.200"
+        ], 
+        "dns-mx": [
+            "mx1.emailsrvr.com", 
+            "mx2.emailsrvr.com"
+        ], 
+        "dns-ns": [
+            "ns-1266.awsdns-30.org", 
+            "ns-1538.awsdns-00.co.uk", 
+            "ns-275.awsdns-34.com", 
+            "ns-960.awsdns-56.net"
+        ], 
+        "domain-name": "pragprog.com", 
+        "fuzzer": "original*", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 96
+    }, 
+    {
+        "dns-a": [
+            "172.104.148.239"
+        ], 
+        "dns-aaaa": [
+            "2a01:7e01::f03c:91ff:fe39:f345"
+        ], 
+        "dns-mx": [
+            "mail.pregprog.com"
+        ], 
+        "dns-ns": [
+            "ns1.linode.com", 
+            "ns2.linode.com", 
+            "ns3.linode.com", 
+            "ns4.linode.com", 
+            "ns5.linode.com"
+        ], 
+        "domain-name": "pregprog.com", 
+        "fuzzer": "bitsquatting", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "52.14.106.108"
+        ], 
+        "dns-mx": [
+            "pracprog.com"
+        ], 
+        "dns-ns": [
+            "ns1.asitethatworks.com", 
+            "ns2.asitethatworks.com"
+        ], 
+        "domain-name": "pracprog.com", 
+        "fuzzer": "bitsquatting", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "184.168.221.42"
+        ], 
+        "dns-mx": [
+            "mailstore1.secureserver.net", 
+            "smtp.secureserver.net"
+        ], 
+        "dns-ns": [
+            "ns05.domaincontrol.com", 
+            "ns06.domaincontrol.com"
+        ], 
+        "domain-name": "pragpro.com", 
+        "fuzzer": "omission", 
+        "geoip-country": "United States"
+    }, 
+    {
+        "dns-a": [
+            "52.86.22.136", 
+            "54.174.212.152"
+        ], 
+        "dns-ns": [
+            "ns1.namebrightdns.com", 
+            "ns2.namebrightdns.com"
+        ], 
+        "domain-name": "pra.gprog.com", 
+        "fuzzer": "subdomain", 
+        "geoip-country": "United States"
+    }, 
+    {
+        "dns-a": [
+            "65.254.231.115"
+        ], 
+        "dns-mx": [
+            "mx.rog.com"
+        ], 
+        "domain-name": "pragp.rog.com", 
+        "fuzzer": "subdomain"
+    }, 
+    {
+        "dns-a": [
+            "98.124.199.67"
+        ], 
+        "domain-name": "pragpr.og.com", 
+        "fuzzer": "subdomain", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "66.111.4.53", 
+            "66.111.4.54"
+        ], 
+        "dns-mx": [
+            "in1-smtp.messagingengine.com", 
+            "in2-smtp.messagingengine.com"
+        ], 
+        "dns-ns": [
+            "ns1.messagingengine.com", 
+            "ns2.messagingengine.com"
+        ], 
+        "domain-name": "progprog.com", 
+        "fuzzer": "vowel-swap"
+    }
+]

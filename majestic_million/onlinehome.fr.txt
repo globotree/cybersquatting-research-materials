@@ -1,0 +1,26 @@
+[
+    {
+        "dns-a": [
+            "212.227.145.64"
+        ], 
+        "dns-mx": [
+            "mx00.schlund.de", 
+            "mx01.schlund.de"
+        ], 
+        "dns-ns": [
+            "ns3.schlund.de", 
+            "ns4.schlund.de"
+        ], 
+        "domain-name": "onlinehome.fr", 
+        "fuzzer": "original*", 
+        "geoip-country": "Germany"
+    }, 
+    {
+        "dns-a": [
+            "62.210.16.61"
+        ], 
+        "domain-name": "online.home.fr", 
+        "fuzzer": "subdomain", 
+        "geoip-country": "France"
+    }
+]

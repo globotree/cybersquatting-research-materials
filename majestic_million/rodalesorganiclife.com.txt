@@ -1,0 +1,75 @@
+[
+    {
+        "dns-a": [
+            "104.16.152.154", 
+            "104.16.153.154", 
+            "104.16.154.154", 
+            "104.16.155.154", 
+            "104.16.156.154"
+        ], 
+        "dns-aaaa": [
+            "2400:cb00:2048:1::6810:989a", 
+            "2400:cb00:2048:1::6810:999a", 
+            "2400:cb00:2048:1::6810:9a9a", 
+            "2400:cb00:2048:1::6810:9b9a", 
+            "2400:cb00:2048:1::6810:9c9a"
+        ], 
+        "dns-mx": [
+            "alt1.aspmx.l.google.com", 
+            "alt2.aspmx.l.google.com", 
+            "alt3.aspmx.l.google.com", 
+            "alt4.aspmx.l.google.com", 
+            "aspmx.l.google.com"
+        ], 
+        "dns-ns": [
+            "brenda.ns.cloudflare.com", 
+            "david.ns.cloudflare.com"
+        ], 
+        "domain-name": "rodalesorganiclife.com", 
+        "fuzzer": "original*", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 100
+    }, 
+    {
+        "dns-a": [
+            "98.124.199.16"
+        ], 
+        "domain-name": "rodales.organiclife.com", 
+        "fuzzer": "subdomain", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "198.185.159.144", 
+            "198.185.159.145", 
+            "198.49.23.144", 
+            "198.49.23.145"
+        ], 
+        "domain-name": "rodalesorga.niclife.com", 
+        "fuzzer": "subdomain", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-ns": [
+            "ns1.namebrightdns.com", 
+            "ns2.namebrightdns.com"
+        ], 
+        "domain-name": "rodalesorgan.iclife.com", 
+        "fuzzer": "subdomain"
+    }, 
+    {
+        "dns-a": [
+            "69.172.201.153"
+        ], 
+        "dns-ns": [
+            "ns1.uniregistrymarket.link", 
+            "ns2.uniregistrymarket.link"
+        ], 
+        "domain-name": "rodalesorganicli.fe.com", 
+        "fuzzer": "subdomain", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 0
+    }
+]

@@ -1,0 +1,224 @@
+[
+    {
+        "dns-a": [
+            "213.135.60.40"
+        ], 
+        "dns-mx": [
+            "mx1.icm.edu.pl"
+        ], 
+        "dns-ns": [
+            "galaxy.uci.agh.edu.pl", 
+            "hermes.sgh.waw.pl", 
+            "ns.icm.edu.pl", 
+            "ns1.core.icm.edu.pl", 
+            "ns2.core.icm.edu.pl", 
+            "rose.man.poznan.pl"
+        ], 
+        "domain-name": "icm.edu.pl", 
+        "fuzzer": "original*", 
+        "geoip-country": "Poland", 
+        "ssdeep-score": 100
+    }, 
+    {
+        "dns-a": [
+            "150.254.78.151"
+        ], 
+        "dns-ns": [
+            "ns1.wmi.amu.edu.pl", 
+            "ns2.wmi.amu.edu.pl"
+        ], 
+        "domain-name": "acm.edu.pl", 
+        "fuzzer": "bitsquatting", 
+        "geoip-country": "Poland", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "87.98.239.5"
+        ], 
+        "dns-mx": [
+            "redirect.ovh.net"
+        ], 
+        "dns-ns": [
+            "dns111.ovh.net", 
+            "ns111.ovh.net"
+        ], 
+        "domain-name": "ism.edu.pl", 
+        "fuzzer": "bitsquatting", 
+        "geoip-country": "Poland", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "94.152.195.101"
+        ], 
+        "dns-mx": [
+            "ico.edu.pl"
+        ], 
+        "dns-ns": [
+            "ns1.ibc.pl", 
+            "ns2.ibc.pl"
+        ], 
+        "domain-name": "ico.edu.pl", 
+        "fuzzer": "bitsquatting", 
+        "geoip-country": "Poland", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "212.91.7.33"
+        ], 
+        "dns-ns": [
+            "ns1.aftermarket.pl", 
+            "ns2.aftermarket.pl"
+        ], 
+        "domain-name": "ice.edu.pl", 
+        "fuzzer": "bitsquatting", 
+        "geoip-country": "Poland", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-ns": [
+            "f1g1ns1.dnspod.net", 
+            "f1g1ns2.dnspod.net"
+        ], 
+        "domain-name": "ic.edu.pl", 
+        "fuzzer": "omission"
+    }, 
+    {
+        "dns-a": [
+            "178.32.149.185"
+        ], 
+        "dns-mx": [
+            "ALT1.ASPMX.L.GOOGLE.COM", 
+            "ALT2.ASPMX.L.GOOGLE.COM", 
+            "ALT3.ASPMX.L.GOOGLE.COM", 
+            "ALT4.ASPMX.L.GOOGLE.COM", 
+            "ASPMX.L.GOOGLE.COM"
+        ], 
+        "dns-ns": [
+            "ns10.az.pl", 
+            "ns11.az.pl", 
+            "ns12.az.pl"
+        ], 
+        "domain-name": "im.edu.pl", 
+        "fuzzer": "omission", 
+        "geoip-country": "France"
+    }, 
+    {
+        "dns-a": [
+            "193.218.152.29"
+        ], 
+        "dns-mx": [
+            "mail.superhost.pl"
+        ], 
+        "dns-ns": [
+            "ns1.superhost.pl", 
+            "ns2.superhost.pl"
+        ], 
+        "domain-name": "cm.edu.pl", 
+        "fuzzer": "omission", 
+        "geoip-country": "Poland", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "178.32.253.229"
+        ], 
+        "dns-mx": [
+            "hosting.v-smart.eu"
+        ], 
+        "dns-ns": [
+            "dns.home.pl", 
+            "dns2.home.pl", 
+            "dns3.home.pl"
+        ], 
+        "domain-name": "ick.edu.pl", 
+        "fuzzer": "replacement", 
+        "geoip-country": "France", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "185.53.178.6"
+        ], 
+        "dns-ns": [
+            "ns1.parkingcrew.net", 
+            "ns2.parkingcrew.net"
+        ], 
+        "domain-name": "ic.m.edu.pl", 
+        "fuzzer": "subdomain", 
+        "geoip-country": "Germany", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "91.185.184.249"
+        ], 
+        "dns-mx": [
+            "mx1.zenbox.pl", 
+            "mx2.zenbox.pl", 
+            "mx3.zenbox.pl"
+        ], 
+        "dns-ns": [
+            "ns1.zenbox.pl", 
+            "ns2.zenbox.pl"
+        ], 
+        "domain-name": "cim.edu.pl", 
+        "fuzzer": "transposition", 
+        "geoip-country": "Poland", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-ns": [
+            "ns6.az.pl", 
+            "ns7.az.pl", 
+            "ns8.az.pl"
+        ], 
+        "domain-name": "imc.edu.pl", 
+        "fuzzer": "transposition"
+    }, 
+    {
+        "dns-a": [
+            "89.161.139.210"
+        ], 
+        "dns-mx": [
+            "ecm.edu.pl"
+        ], 
+        "dns-ns": [
+            "dns.home.pl", 
+            "dns2.home.pl", 
+            "dns3.home.pl"
+        ], 
+        "domain-name": "ecm.edu.pl", 
+        "fuzzer": "vowel-swap", 
+        "geoip-country": "Poland"
+    }, 
+    {
+        "dns-a": [
+            "188.128.255.251"
+        ], 
+        "dns-ns": [
+            "ns1.premium.pl", 
+            "ns2.premium.pl"
+        ], 
+        "domain-name": "icm.pl", 
+        "fuzzer": "various", 
+        "geoip-country": "Poland", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "185.53.178.6"
+        ], 
+        "dns-mx": [
+            "mail.h-email.net"
+        ], 
+        "dns-ns": [
+            "ns1.parkingcrew.net", 
+            "ns2.parkingcrew.net"
+        ], 
+        "domain-name": "icmedu.pl", 
+        "fuzzer": "various"
+    }
+]

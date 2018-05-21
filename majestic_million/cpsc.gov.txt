@@ -1,0 +1,45 @@
+[
+    {
+        "dns-a": [
+            "63.74.109.2"
+        ], 
+        "dns-aaaa": [
+            "2600:803:240::2"
+        ], 
+        "dns-mx": [
+            "hormel.cpsc.gov", 
+            "stagg.cpsc.gov"
+        ], 
+        "dns-ns": [
+            "a1-85.akam.net", 
+            "a13-64.akam.net", 
+            "a20-65.akam.net", 
+            "a28-66.akam.net", 
+            "a3-67.akam.net", 
+            "a4-64.akam.net"
+        ], 
+        "domain-name": "cpsc.gov", 
+        "fuzzer": "original*", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 100
+    }, 
+    {
+        "dns-a": [
+            "158.74.53.77"
+        ], 
+        "dns-mx": [
+            "smtp.ees.hhs.gov", 
+            "smtp2.ees.hhs.gov"
+        ], 
+        "dns-ns": [
+            "rh120ns1.368.dhhs.gov", 
+            "rh120ns2.368.dhhs.gov", 
+            "rh202ns1.355.dhhs.gov", 
+            "rh202ns2.355.dhhs.gov"
+        ], 
+        "domain-name": "psc.gov", 
+        "fuzzer": "omission", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 0
+    }
+]

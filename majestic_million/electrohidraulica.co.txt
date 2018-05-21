@@ -1,0 +1,28 @@
+[
+    {
+        "dns-a": [
+            "192.64.33.134"
+        ], 
+        "dns-mx": [
+            "mail.electrohidraulica.co"
+        ], 
+        "dns-ns": [
+            "ns1.acenet.us", 
+            "ns2.acenet.us", 
+            "ns3.acenet.us", 
+            "ns4.acenet.us"
+        ], 
+        "domain-name": "electrohidraulica.co", 
+        "fuzzer": "original*", 
+        "geoip-country": "United States"
+    }, 
+    {
+        "dns-a": [
+            "208.73.211.70"
+        ], 
+        "domain-name": "electrohidrauli.ca.co", 
+        "fuzzer": "subdomain", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 0
+    }
+]

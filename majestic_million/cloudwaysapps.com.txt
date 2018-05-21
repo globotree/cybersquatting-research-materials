@@ -1,0 +1,66 @@
+[
+    {
+        "dns-ns": [
+            "ns-1086.awsdns-07.org", 
+            "ns-2016.awsdns-60.co.uk", 
+            "ns-222.awsdns-27.com", 
+            "ns-854.awsdns-42.net"
+        ], 
+        "domain-name": "cloudwaysapps.com", 
+        "fuzzer": "original*"
+    }, 
+    {
+        "dns-a": [
+            "136.0.144.19"
+        ], 
+        "dns-ns": [
+            "ns5.2kz.net", 
+            "ns6.2kz.net", 
+            "ns7.2kz.net", 
+            "ns8.2kz.net"
+        ], 
+        "domain-name": "cloudwayapps.com", 
+        "fuzzer": "omission", 
+        "geoip-country": "United States"
+    }, 
+    {
+        "dns-a": [
+            "199.191.50.142"
+        ], 
+        "dns-ns": [
+            "ns111442.ztomy.com", 
+            "ns211442.ztomy.com"
+        ], 
+        "domain-name": "cloudwaysapp.com", 
+        "fuzzer": "omission", 
+        "geoip-country": "Virgin Islands"
+    }, 
+    {
+        "dns-a": [
+            "209.99.64.55"
+        ], 
+        "dns-ns": [
+            "ns11055.ztomy.com", 
+            "ns21055.ztomy.com"
+        ], 
+        "domain-name": "cloud.waysapps.com", 
+        "fuzzer": "subdomain", 
+        "geoip-country": "United States"
+    }, 
+    {
+        "dns-a": [
+            "206.188.192.136"
+        ], 
+        "domain-name": "cloudway.sapps.com", 
+        "fuzzer": "subdomain", 
+        "geoip-country": "United States"
+    }, 
+    {
+        "dns-a": [
+            "67.205.25.189"
+        ], 
+        "domain-name": "cloudwaysa.pps.com", 
+        "fuzzer": "subdomain", 
+        "geoip-country": "United States"
+    }
+]

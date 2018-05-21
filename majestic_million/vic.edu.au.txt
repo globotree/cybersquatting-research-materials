@@ -1,0 +1,115 @@
+[
+    {
+        "dns-ns": [
+            "w.au", 
+            "x.au", 
+            "y.au", 
+            "z.au"
+        ], 
+        "domain-name": "vic.edu.au", 
+        "fuzzer": "original*"
+    }, 
+    {
+        "dns-a": [
+            "119.9.56.28"
+        ], 
+        "dns-mx": [
+            "mail.vics.edu.au"
+        ], 
+        "dns-ns": [
+            "ns1.hostpapa.com", 
+            "ns2.hostpapa.com"
+        ], 
+        "domain-name": "vics.edu.au", 
+        "fuzzer": "addition", 
+        "geoip-country": "Australia"
+    }, 
+    {
+        "dns-a": [
+            "76.74.235.190"
+        ], 
+        "domain-name": "tic.edu.au", 
+        "fuzzer": "bitsquatting", 
+        "geoip-country": "United States"
+    }, 
+    {
+        "dns-a": [
+            "103.9.171.54"
+        ], 
+        "dns-mx": [
+            "via-edu-au.mail.protection.outlook.com"
+        ], 
+        "dns-ns": [
+            "ns1.hosting-services.net.au", 
+            "ns2.hosting-services.net.au", 
+            "ns3.hosting-services.net.au"
+        ], 
+        "domain-name": "via.edu.au", 
+        "fuzzer": "bitsquatting", 
+        "geoip-country": "Australia"
+    }, 
+    {
+        "dns-a": [
+            "202.47.5.45"
+        ], 
+        "dns-mx": [
+            "alt1.aspmx.l.google.com", 
+            "alt2.aspmx.l.google.com", 
+            "aspmx.l.google.com", 
+            "aspmx2.googlemail.com", 
+            "aspmx3.googlemail.com"
+        ], 
+        "dns-ns": [
+            "iris.ns.cloudflare.com", 
+            "mario.ns.cloudflare.com"
+        ], 
+        "domain-name": "cic.edu.au", 
+        "fuzzer": "replacement", 
+        "geoip-country": "Australia"
+    }, 
+    {
+        "dns-a": [
+            "27.54.86.236"
+        ], 
+        "dns-aaaa": [
+            "2404:8280:a222:bbbb:bba1:27:ffff:ffff"
+        ], 
+        "dns-mx": [
+            "alt1.aspmx.l.google.com", 
+            "alt2.aspmx.l.google.com", 
+            "alt3.aspmx.l.google.com", 
+            "alt4.aspmx.l.google.com", 
+            "aspmx.l.google.com"
+        ], 
+        "dns-ns": [
+            "ns1.syrahost.com"
+        ], 
+        "domain-name": "gic.edu.au", 
+        "fuzzer": "replacement", 
+        "geoip-country": "Australia"
+    }, 
+    {
+        "dns-a": [
+            "162.212.131.145"
+        ], 
+        "dns-mx": [
+            "vci.edu.au"
+        ], 
+        "dns-ns": [
+            "ns162212131145.a2dns.com", 
+            "ns162212131146.a2dns.com"
+        ], 
+        "domain-name": "vci.edu.au", 
+        "fuzzer": "transposition"
+    }, 
+    {
+        "dns-ns": [
+            "w.au", 
+            "x.au", 
+            "y.au", 
+            "z.au"
+        ], 
+        "domain-name": "vic.au", 
+        "fuzzer": "various"
+    }
+]

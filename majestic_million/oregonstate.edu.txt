@@ -1,0 +1,30 @@
+[
+    {
+        "dns-a": [
+            "54.244.95.93"
+        ], 
+        "dns-mx": [
+            "relay.oregonstate.edu"
+        ], 
+        "dns-ns": [
+            "dns.merit.net", 
+            "ns1.nero.net", 
+            "ns1.oregonstate.edu", 
+            "ns1.ucsb.edu", 
+            "ns2.oregonstate.edu"
+        ], 
+        "domain-name": "oregonstate.edu", 
+        "fuzzer": "original*", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 100
+    }, 
+    {
+        "dns-ns": [
+            "ns1.nero.net", 
+            "ns1.oregonstate.edu", 
+            "ns2.oregonstate.edu"
+        ], 
+        "domain-name": "oregon-state.edu", 
+        "fuzzer": "hyphenation"
+    }
+]

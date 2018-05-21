@@ -1,0 +1,118 @@
+[
+    {
+        "dns-a": [
+            "202.28.249.26"
+        ], 
+        "dns-aaaa": [
+            "2001:3c8:5007::98:26"
+        ], 
+        "dns-mx": [
+            "cmu-ac-th.mail.protection.outlook.com"
+        ], 
+        "dns-ns": [
+            "clarinet.asianet.co.th", 
+            "ns-azure.cmu.ac.th", 
+            "ns.cmu.ac.th"
+        ], 
+        "domain-name": "cmu.ac.th", 
+        "fuzzer": "original*", 
+        "geoip-country": "Thailand", 
+        "ssdeep-score": 100
+    }, 
+    {
+        "dns-a": [
+            "150.107.31.72"
+        ], 
+        "dns-mx": [
+            "ALT1.ASPMX.L.GOOGLE.COM", 
+            "ALT2.ASPMX.L.GOOGLE.COM", 
+            "ASPMX.L.GOOGLE.COM", 
+            "ASPMX2.GOOGLEMAIL.COM", 
+            "ASPMX3.GOOGLEMAIL.COM", 
+            "ASPMX4.GOOGLEMAIL.COM", 
+            "ASPMX5.GOOGLEMAIL.COM"
+        ], 
+        "dns-ns": [
+            "ns.cmw.ac.th"
+        ], 
+        "domain-name": "cmw.ac.th", 
+        "fuzzer": "bitsquatting", 
+        "geoip-country": "Thailand", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-aaaa": [
+            "2001:3c8:5501:f100::46"
+        ], 
+        "dns-mx": [
+            "alt1.aspmx.l.google.com", 
+            "alt2.aspmx.l.google.com", 
+            "aspmx.l.google.com", 
+            "aspmx2.googlemail.com", 
+            "aspmx3.googlemail.com"
+        ], 
+        "dns-ns": [
+            "ns.crru.ac.th"
+        ], 
+        "domain-name": "crru.ac.th", 
+        "fuzzer": "homoglyph"
+    }, 
+    {
+        "dns-a": [
+            "27.254.96.76"
+        ], 
+        "dns-mx": [
+            "mail.cnu.ac.th"
+        ], 
+        "dns-ns": [
+            "skz-a431a211658"
+        ], 
+        "domain-name": "cnu.ac.th", 
+        "fuzzer": "homoglyph"
+    }, 
+    {
+        "dns-ns": [
+            "ns.porar.com", 
+            "ns2.porar.com"
+        ], 
+        "domain-name": "mu.ac.th", 
+        "fuzzer": "omission"
+    }, 
+    {
+        "dns-mx": [
+            "ALT1.ASPMX.L.GOOGLE.COM", 
+            "ALT2.ASPMX.L.GOOGLE.COM", 
+            "ASPMX.L.GOOGLE.COM", 
+            "ASPMX2.GOOGLEMAIL.COM", 
+            "ASPMX3.GOOGLEMAIL.COM"
+        ], 
+        "dns-ns": [
+            "ns1.ais-idc.com", 
+            "ns2.ais-idc.com", 
+            "ns2.sbn-idc.com", 
+            "ns3.ais-idc.com"
+        ], 
+        "domain-name": "cpu.ac.th", 
+        "fuzzer": "replacement"
+    }, 
+    {
+        "dns-a": [
+            "202.28.52.4"
+        ], 
+        "dns-mx": [
+            "ALT1.ASPMX.L.GOOGLE.COM", 
+            "ALT2.ASPMX.L.GOOGLE.COM", 
+            "ALT3.ASPMX.L.GOOGLE.COM", 
+            "ALT4.ASPMX.L.GOOGLE.COM", 
+            "ASPMX.L.GOOGLE.COM", 
+            "oldmail.mcu.ac.th"
+        ], 
+        "dns-ns": [
+            "ns.mcu.ac.th", 
+            "ns2.mcu.ac.th"
+        ], 
+        "domain-name": "mcu.ac.th", 
+        "fuzzer": "transposition", 
+        "geoip-country": "Thailand"
+    }
+]

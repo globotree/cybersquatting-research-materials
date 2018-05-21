@@ -1,0 +1,94 @@
+[
+    {
+        "dns-a": [
+            "50.23.246.167"
+        ], 
+        "dns-mx": [
+            "inbound-smtp.us-west-2.amazonaws.com"
+        ], 
+        "dns-ns": [
+            "ns-1273.awsdns-31.org", 
+            "ns-1613.awsdns-09.co.uk", 
+            "ns-504.awsdns-63.com", 
+            "ns-878.awsdns-45.net"
+        ], 
+        "domain-name": "sevenforums.com", 
+        "fuzzer": "original*", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 100
+    }, 
+    {
+        "dns-a": [
+            "54.72.11.253"
+        ], 
+        "dns-ns": [
+            "ns1.parkingcrew.net", 
+            "ns2.parkingcrew.net"
+        ], 
+        "domain-name": "sevenforms.com", 
+        "fuzzer": "omission", 
+        "geoip-country": "Ireland", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "144.76.0.242", 
+            "144.76.1.130"
+        ], 
+        "dns-ns": [
+            "ns1.ndsplitter.com", 
+            "ns2.ndsplitter.com", 
+            "ns3.ndsplitter.com"
+        ], 
+        "domain-name": "sevenforum.com", 
+        "fuzzer": "omission", 
+        "geoip-country": "Germany", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "207.148.248.143"
+        ], 
+        "domain-name": "seve.nforums.com", 
+        "fuzzer": "subdomain", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "54.83.60.158"
+        ], 
+        "domain-name": "seven.forums.com", 
+        "fuzzer": "subdomain", 
+        "geoip-country": "United States"
+    }, 
+    {
+        "dns-a": [
+            "72.52.4.122"
+        ], 
+        "dns-mx": [
+            "localhost"
+        ], 
+        "dns-ns": [
+            "ns1.sedoparking.com", 
+            "ns2.sedoparking.com"
+        ], 
+        "domain-name": "sevenf.orums.com", 
+        "fuzzer": "subdomain", 
+        "geoip-country": "United States", 
+        "mx-spy": true, 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "95.211.117.215"
+        ], 
+        "dns-ns": [
+            "ns1.hastydns.com", 
+            "ns2.hastydns.com"
+        ], 
+        "domain-name": "sevenfourms.com", 
+        "fuzzer": "transposition", 
+        "geoip-country": "Netherlands"
+    }
+]

@@ -1,0 +1,58 @@
+[
+    {
+        "dns-a": [
+            "157.185.149.167"
+        ], 
+        "domain-name": "mlr.gov.cn", 
+        "fuzzer": "original*", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 100
+    }, 
+    {
+        "dns-ns": [
+            "ns1.myhostadmin.net", 
+            "ns2.myhostadmin.net", 
+            "ns3.myhostadmin.net", 
+            "ns4.myhostadmin.net", 
+            "ns5.myhostadmin.net", 
+            "ns6.myhostadmin.net"
+        ], 
+        "domain-name": "mlrd.gov.cn", 
+        "fuzzer": "addition"
+    }, 
+    {
+        "dns-mx": [
+            "mxn.mxhichina.com", 
+            "mxw.mxhichina.com"
+        ], 
+        "dns-ns": [
+            "dns19.hichina.com", 
+            "dns20.hichina.com"
+        ], 
+        "domain-name": "mlrs.gov.cn", 
+        "fuzzer": "addition"
+    }, 
+    {
+        "dns-ns": [
+            "ns19.xincache.com", 
+            "ns20.xincache.com"
+        ], 
+        "domain-name": "mlz.gov.cn", 
+        "fuzzer": "bitsquatting"
+    }, 
+    {
+        "dns-a": [
+            "202.109.226.163"
+        ], 
+        "dns-mx": [
+            "m1.sanfront.com.cn"
+        ], 
+        "dns-ns": [
+            "ns1.sfn.cn", 
+            "ns2.sfn.cn"
+        ], 
+        "domain-name": "ml.gov.cn", 
+        "fuzzer": "omission", 
+        "geoip-country": "China"
+    }
+]

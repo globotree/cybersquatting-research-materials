@@ -1,0 +1,197 @@
+[
+    {
+        "dns-a": [
+            "139.2.165.112"
+        ], 
+        "dns-aaaa": [
+            "2001:67c:510:1164::1112:1"
+        ], 
+        "dns-mx": [
+            "mailin1.de1.retarus.com", 
+            "mailin1.rmx.de", 
+            "mailin2.de1.retarus.com", 
+            "mailin2.rmx.de", 
+            "mailin3.rmx.de", 
+            "mailin4.rmx.de"
+        ], 
+        "dns-ns": [
+            "dns1.cscdns.net", 
+            "dns2.cscdns.net"
+        ], 
+        "domain-name": "continental-corporation.com", 
+        "fuzzer": "original*", 
+        "geoip-country": "Germany", 
+        "ssdeep-score": 100
+    }, 
+    {
+        "dns-a": [
+            "192.168.1.1"
+        ], 
+        "dns-ns": [
+            "ns1.bdydns.cn", 
+            "ns2.bdydns.cn"
+        ], 
+        "domain-name": "continental-corporations.com", 
+        "fuzzer": "addition"
+    }, 
+    {
+        "dns-a": [
+            "74.208.236.9"
+        ], 
+        "dns-aaaa": [
+            "2607:f1c0:100f:f000::24c"
+        ], 
+        "dns-mx": [
+            "mx00.1and1.com", 
+            "mx01.1and1.com"
+        ], 
+        "dns-ns": [
+            "ns1017.ui-dns.org", 
+            "ns1053.ui-dns.de", 
+            "ns1064.ui-dns.com", 
+            "ns1087.ui-dns.biz"
+        ], 
+        "domain-name": "continantal-corporation.com", 
+        "fuzzer": "bitsquatting", 
+        "geoip-country": "United States"
+    }, 
+    {
+        "dns-a": [
+            "104.154.95.49"
+        ], 
+        "dns-ns": [
+            "supp674031.earth.orderbox-dns.com", 
+            "supp674031.mars.orderbox-dns.com", 
+            "supp674031.mercury.orderbox-dns.com", 
+            "supp674031.venus.orderbox-dns.com"
+        ], 
+        "domain-name": "continenta1-corporation.com", 
+        "fuzzer": "homoglyph", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "176.34.236.137", 
+            "46.137.127.88", 
+            "54.217.225.20", 
+            "54.228.219.35", 
+            "54.246.119.12", 
+            "54.247.110.83"
+        ], 
+        "dns-ns": [
+            "ns2.vpweb.com", 
+            "ns3.vpweb.com", 
+            "ns4.vpweb.com"
+        ], 
+        "domain-name": "continental-corporaton.com", 
+        "fuzzer": "omission", 
+        "geoip-country": "Ireland", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "69.51.66.7"
+        ], 
+        "dns-mx": [
+            "mail.continentalcorporation.com"
+        ], 
+        "dns-ns": [
+            "ns.centric.net"
+        ], 
+        "domain-name": "continentalcorporation.com", 
+        "fuzzer": "omission", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-mx": [
+            "us2.mx1.mailhostbox.com", 
+            "us2.mx2.mailhostbox.com", 
+            "us2.mx3.mailhostbox.com"
+        ], 
+        "dns-ns": [
+            "1a7ea920.bitcoin-dns.hosting", 
+            "a8332f3a.bitcoin-dns.hosting", 
+            "ad636824.bitcoin-dns.hosting", 
+            "c358ea2d.bitcoin-dns.hosting"
+        ], 
+        "domain-name": "continental-coorporation.com", 
+        "fuzzer": "repetition"
+    }, 
+    {
+        "dns-a": [
+            "69.172.201.153"
+        ], 
+        "domain-name": "continental-cor.poration.com", 
+        "fuzzer": "subdomain", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "69.172.201.153"
+        ], 
+        "dns-ns": [
+            "ns1.uniregistrymarket.link", 
+            "ns2.uniregistrymarket.link"
+        ], 
+        "domain-name": "continental-corpo.ration.com", 
+        "fuzzer": "subdomain", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "69.172.201.153"
+        ], 
+        "dns-ns": [
+            "ns1.uniregistrymarket.link", 
+            "ns2.uniregistrymarket.link"
+        ], 
+        "domain-name": "continental-corpor.ation.com", 
+        "fuzzer": "subdomain", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "64.41.186.27"
+        ], 
+        "domain-name": "continental-corporat.ion.com", 
+        "fuzzer": "subdomain", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "208.78.94.160"
+        ], 
+        "domain-name": "continental-corporati.on.com", 
+        "fuzzer": "subdomain", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "209.99.40.223"
+        ], 
+        "dns-ns": [
+            "dns11.parkpage.foundationapi.com", 
+            "dns12.parkpage.foundationapi.com"
+        ], 
+        "domain-name": "contniental-corporation.com", 
+        "fuzzer": "transposition", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-ns": [
+            "ns1.systemdns.com", 
+            "ns2.systemdns.com", 
+            "ns3.systemdns.com"
+        ], 
+        "domain-name": "continental-corperation.com", 
+        "fuzzer": "vowel-swap"
+    }
+]

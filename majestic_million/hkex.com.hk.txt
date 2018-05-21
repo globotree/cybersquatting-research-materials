@@ -1,0 +1,145 @@
+[
+    {
+        "dns-a": [
+            "203.78.5.6", 
+            "203.78.6.6"
+        ], 
+        "dns-mx": [
+            "mail-a.hkex.com.hk", 
+            "mail-p.hkex.com.hk", 
+            "mail-s.hkex.com.hk", 
+            "mail-t.hkex.com.hk", 
+            "mail-t2.hkex.com.hk"
+        ], 
+        "dns-ns": [
+            "a4.nstld.com", 
+            "f4.nstld.com", 
+            "g4.nstld.com", 
+            "h4.nstld.com", 
+            "j4.nstld.com", 
+            "k4.nstld.com", 
+            "l4.nstld.com"
+        ], 
+        "domain-name": "hkex.com.hk", 
+        "fuzzer": "original*", 
+        "geoip-country": "Hong Kong", 
+        "ssdeep-score": 100
+    }, 
+    {
+        "dns-a": [
+            "163.47.9.108"
+        ], 
+        "dns-mx": [
+            "mail.hkdex.com.hk"
+        ], 
+        "dns-ns": [
+            "ns0.dnsmadeeasy.com", 
+            "ns1.dnsmadeeasy.com", 
+            "ns2.dnsmadeeasy.com", 
+            "ns3.dnsmadeeasy.com", 
+            "ns4.dnsmadeeasy.com"
+        ], 
+        "domain-name": "hkdex.com.hk", 
+        "fuzzer": "insertion", 
+        "geoip-country": "Singapore", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "210.59.228.45"
+        ], 
+        "dns-mx": [
+            "s9.hostedmail.cc"
+        ], 
+        "dns-ns": [
+            "dns.twmail.org", 
+            "dns2.twmail.org"
+        ], 
+        "domain-name": "hex.com.hk", 
+        "fuzzer": "omission", 
+        "geoip-country": "Taiwan"
+    }, 
+    {
+        "dns-mx": [
+            "mail.bbmail.com.hk"
+        ], 
+        "dns-ns": [
+            "ns1.hkbn.net", 
+            "ns2.hkbn.net"
+        ], 
+        "domain-name": "hkes.com.hk", 
+        "fuzzer": "replacement"
+    }, 
+    {
+        "dns-mx": [
+            "hkex.com.hk"
+        ], 
+        "dns-ns": [
+            "a4.nstld.com", 
+            "f4.nstld.com", 
+            "g4.nstld.com", 
+            "h4.nstld.com", 
+            "j4.nstld.com", 
+            "k4.nstld.com", 
+            "l4.nstld.com"
+        ], 
+        "domain-name": "hkec.com.hk", 
+        "fuzzer": "replacement"
+    }, 
+    {
+        "dns-a": [
+            "202.181.187.11"
+        ], 
+        "dns-mx": [
+            "mail.hked.com.hk"
+        ], 
+        "dns-ns": [
+            "dns.bn01.xen.hk", 
+            "dns.ix01.xen.hk", 
+            "tritek.vm05.ix01.xen.hk"
+        ], 
+        "domain-name": "hked.com.hk", 
+        "fuzzer": "replacement"
+    }, 
+    {
+        "dns-ns": [
+            "dns1.cuhk.edu.hk", 
+            "dns2.cuhk.edu.hk"
+        ], 
+        "domain-name": "hkix.com.hk", 
+        "fuzzer": "vowel-swap"
+    }, 
+    {
+        "dns-ns": [
+            "ns1.hku.hk", 
+            "ns2.cuhk.edu.hk", 
+            "ns3.hku.hk"
+        ], 
+        "domain-name": "hkox.com.hk", 
+        "fuzzer": "vowel-swap"
+    }, 
+    {
+        "dns-a": [
+            "202.84.254.2", 
+            "203.78.5.6"
+        ], 
+        "dns-mx": [
+            "mail-a.hkex.com.hk", 
+            "mail-p.hkex.com.hk", 
+            "mail-s.hkex.com.hk", 
+            "mail-t.hkex.com.hk", 
+            "mail-t2.hkex.com.hk"
+        ], 
+        "dns-ns": [
+            "a4.nstld.com", 
+            "f4.nstld.com", 
+            "g4.nstld.com", 
+            "h4.nstld.com", 
+            "j4.nstld.com", 
+            "k4.nstld.com", 
+            "l4.nstld.com"
+        ], 
+        "domain-name": "hkex.hk", 
+        "fuzzer": "various"
+    }
+]

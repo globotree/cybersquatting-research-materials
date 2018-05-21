@@ -1,0 +1,66 @@
+[
+    {
+        "dns-a": [
+            "137.132.21.27"
+        ], 
+        "dns-mx": [
+            "mxa-0017ee01.gslb.pphosted.com", 
+            "mxb-0017ee01.gslb.pphosted.com"
+        ], 
+        "dns-ns": [
+            "dnssec1.singnet.com.sg", 
+            "dnssec2.singnet.com.sg", 
+            "dnssec3.singnet.com.sg", 
+            "ns1.nus.edu.sg", 
+            "ns2.nus.edu.sg"
+        ], 
+        "domain-name": "nus.edu.sg", 
+        "fuzzer": "original*", 
+        "geoip-country": "Singapore", 
+        "mx-spy": true, 
+        "ssdeep-score": 97
+    }, 
+    {
+        "dns-a": [
+            "103.230.234.51"
+        ], 
+        "dns-mx": [
+            "mail4.hmail.sg", 
+            "mail5.hmail.sg"
+        ], 
+        "dns-ns": [
+            "ns7.apc.sg", 
+            "ns8.apc.sg"
+        ], 
+        "domain-name": "nuhs.edu.sg", 
+        "fuzzer": "insertion", 
+        "geoip-country": "Singapore", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "155.69.7.163"
+        ], 
+        "dns-ns": [
+            "dnstex.ntu.edu.sg", 
+            "dnstex1.ntu.edu.sg"
+        ], 
+        "domain-name": "nu.edu.sg", 
+        "fuzzer": "omission", 
+        "geoip-country": "Singapore"
+    }, 
+    {
+        "dns-a": [
+            "137.132.21.27"
+        ], 
+        "dns-ns": [
+            "dnssec1.singnet.com.sg", 
+            "dnssec2.singnet.com.sg", 
+            "dnssec3.singnet.com.sg", 
+            "ns1.nus.edu.sg", 
+            "ns2.nus.edu.sg"
+        ], 
+        "domain-name": "nus.sg", 
+        "fuzzer": "various"
+    }
+]

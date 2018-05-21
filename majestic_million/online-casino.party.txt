@@ -1,0 +1,65 @@
+[
+    {
+        "dns-a": [
+            "107.181.174.219"
+        ], 
+        "dns-ns": [
+            "dns1.regway.com", 
+            "dns2.regway.com", 
+            "dns3.regway.com", 
+            "dns4.regway.com"
+        ], 
+        "domain-name": "online-casino.party", 
+        "fuzzer": "original*", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 100
+    }, 
+    {
+        "dns-a": [
+            "194.63.248.70"
+        ], 
+        "dns-aaaa": [
+            "2a01:5b40:0:4070::1"
+        ], 
+        "dns-ns": [
+            "ns1.hyp.net", 
+            "ns2.hyp.net", 
+            "ns3.hyp.net"
+        ], 
+        "domain-name": "online-casinos.party", 
+        "fuzzer": "addition", 
+        "geoip-country": "Norway", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "50.63.202.34"
+        ], 
+        "dns-mx": [
+            "mailstore1.secureserver.net", 
+            "smtp.secureserver.net"
+        ], 
+        "dns-ns": [
+            "ns13.domaincontrol.com", 
+            "ns14.domaincontrol.com"
+        ], 
+        "domain-name": "onlinecasino.party", 
+        "fuzzer": "omission", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "107.180.50.184"
+        ], 
+        "dns-mx": [
+            "mail.online-casino-party.com"
+        ], 
+        "dns-ns": [
+            "ns45.domaincontrol.com", 
+            "ns46.domaincontrol.com"
+        ], 
+        "domain-name": "online-casino-party.com", 
+        "fuzzer": "various"
+    }
+]

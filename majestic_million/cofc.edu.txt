@@ -1,0 +1,70 @@
+[
+    {
+        "dns-a": [
+            "173.255.197.239"
+        ], 
+        "dns-mx": [
+            "cofc-edu.mail.protection.outlook.com"
+        ], 
+        "dns-ns": [
+            "ns-1531.awsdns-63.org", 
+            "ns-1552.awsdns-02.co.uk", 
+            "ns-502.awsdns-62.com", 
+            "ns-614.awsdns-12.net"
+        ], 
+        "domain-name": "cofc.edu", 
+        "fuzzer": "original*", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 99
+    }, 
+    {
+        "dns-a": [
+            "23.236.62.147"
+        ], 
+        "dns-mx": [
+            "mailstore1.secureserver.net", 
+            "smtp.secureserver.net"
+        ], 
+        "dns-ns": [
+            "ns12.wixdns.net", 
+            "ns13.wixdns.net"
+        ], 
+        "domain-name": "coc.edu", 
+        "fuzzer": "omission"
+    }, 
+    {
+        "dns-a": [
+            "140.211.24.129"
+        ], 
+        "dns-mx": [
+            "smtpfw.cocc.edu"
+        ], 
+        "dns-ns": [
+            "ns.cocc.edu", 
+            "ns1.nero.net", 
+            "ns2.nero.net"
+        ], 
+        "domain-name": "cocc.edu", 
+        "fuzzer": "replacement", 
+        "geoip-country": "United States"
+    }, 
+    {
+        "dns-a": [
+            "164.107.27.143"
+        ], 
+        "dns-mx": [
+            "newark.ohio-state.edu"
+        ], 
+        "dns-ns": [
+            "ns4.net.ohio-state.edu", 
+            "ns4.oar.net", 
+            "ns5.net.ohio-state.edu", 
+            "ns5.oar.net", 
+            "ns6.oar.net", 
+            "ns7.oar.net"
+        ], 
+        "domain-name": "cotc.edu", 
+        "fuzzer": "replacement", 
+        "geoip-country": "United States"
+    }
+]

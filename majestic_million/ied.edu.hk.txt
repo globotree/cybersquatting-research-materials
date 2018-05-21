@@ -1,0 +1,47 @@
+[
+    {
+        "dns-a": [
+            "68.232.129.239", 
+            "68.232.135.39"
+        ], 
+        "dns-mx": [
+            "esa1.hkied.iphmx.com", 
+            "esa3.hkied.iphmx.com"
+        ], 
+        "dns-ns": [
+            "extdns1.ied.edu.hk", 
+            "extdns2.ied.edu.hk", 
+            "extdns3.ied.edu.hk", 
+            "extdns4.ied.edu.hk", 
+            "tc-extdns1.ied.edu.hk", 
+            "tc-extdns2.ied.edu.hk"
+        ], 
+        "domain-name": "ied.edu.hk", 
+        "fuzzer": "original*", 
+        "geoip-country": "United States"
+    }, 
+    {
+        "dns-ns": [
+            "extdns1.ied.edu.hk", 
+            "extdns2.ied.edu.hk", 
+            "extdns3.ied.edu.hk", 
+            "extdns4.ied.edu.hk", 
+            "tc-extdns1.ied.edu.hk", 
+            "tc-extdns2.ied.edu.hk"
+        ], 
+        "domain-name": "ued.edu.hk", 
+        "fuzzer": "replacement"
+    }, 
+    {
+        "dns-ns": [
+            "extdns1.ied.edu.hk", 
+            "extdns2.ied.edu.hk", 
+            "extdns3.ied.edu.hk", 
+            "extdns4.ied.edu.hk", 
+            "tc-extdns1.ied.edu.hk", 
+            "tc-extdns2.ied.edu.hk"
+        ], 
+        "domain-name": "ied.hk", 
+        "fuzzer": "various"
+    }
+]

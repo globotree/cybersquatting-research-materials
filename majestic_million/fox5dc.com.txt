@@ -1,0 +1,50 @@
+[
+    {
+        "dns-a": [
+            "54.209.218.125", 
+            "54.209.238.155"
+        ], 
+        "dns-ns": [
+            "asia3.akam.net", 
+            "ns1-12.akam.net", 
+            "ns1-120.akam.net", 
+            "usc1.akam.net", 
+            "use1.akam.net", 
+            "use3.akam.net", 
+            "usw1.akam.net", 
+            "usw4.akam.net"
+        ], 
+        "domain-name": "fox5dc.com", 
+        "fuzzer": "original*", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 100
+    }, 
+    {
+        "dns-a": [
+            "54.209.218.125", 
+            "54.209.218.155"
+        ], 
+        "dns-ns": [
+            "ns01.ibsys.com", 
+            "ns02.ibsys.com", 
+            "ns03.ibsys.com"
+        ], 
+        "domain-name": "foxdc.com", 
+        "fuzzer": "omission", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 100
+    }, 
+    {
+        "dns-a": [
+            "209.99.40.223"
+        ], 
+        "dns-ns": [
+            "dns10.parkpage.foundationapi.com", 
+            "dns9.parkpage.foundationapi.com"
+        ], 
+        "domain-name": "fo.x5dc.com", 
+        "fuzzer": "subdomain", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 0
+    }
+]

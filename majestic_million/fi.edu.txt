@@ -1,0 +1,166 @@
+[
+    {
+        "dns-a": [
+            "23.253.11.108"
+        ], 
+        "dns-mx": [
+            "fi.edu.mx1.rcimx.com", 
+            "fi.edu.mx2.rcimx.com", 
+            "fi.edu.mx3.rcimx.com", 
+            "fi.edu.mx4.rcimx.com"
+        ], 
+        "dns-ns": [
+            "ns12.customer.level3.net", 
+            "ns9.customer.level3.net"
+        ], 
+        "domain-name": "fi.edu", 
+        "fuzzer": "original*", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 85
+    }, 
+    {
+        "dns-mx": [
+            "mail1.fis.edu", 
+            "mail2.fis.edu", 
+            "mail3.fis.edu"
+        ], 
+        "dns-ns": [
+            "a.ns14.net", 
+            "b.ns14.net", 
+            "c.ns14.net", 
+            "d.ns14.net"
+        ], 
+        "domain-name": "fis.edu", 
+        "fuzzer": "addition"
+    }, 
+    {
+        "dns-a": [
+            "163.118.171.29"
+        ], 
+        "dns-mx": [
+            "smtphost-atl.fit.edu", 
+            "smtphost-vip.fit.edu"
+        ], 
+        "dns-ns": [
+            "NS2.fit.edu", 
+            "NS4.fit.edu", 
+            "ns1.fit.edu"
+        ], 
+        "domain-name": "fit.edu", 
+        "fuzzer": "addition", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "104.40.3.53", 
+            "40.76.218.33"
+        ], 
+        "dns-mx": [
+            "smtp01-dr.fiu.edu", 
+            "smtp02-dr.fiu.edu", 
+            "smtp02.fiu.edu", 
+            "smtp04-dr.fiu.edu", 
+            "smtp04.fiu.edu", 
+            "smtp05.fiu.edu", 
+            "smtp06.fiu.edu"
+        ], 
+        "dns-ns": [
+            "dns1.fiu.edu", 
+            "dns2.fiu.edu", 
+            "dns3.fiu.edu", 
+            "drdns.fiu.edu"
+        ], 
+        "domain-name": "fiu.edu", 
+        "fuzzer": "addition", 
+        "geoip-country": "United States"
+    }, 
+    {
+        "dns-a": [
+            "104.46.38.245"
+        ], 
+        "dns-mx": [
+            "bi-edu.mail.protection.outlook.com", 
+            "ironport1.bi.no", 
+            "ironport2.bi.no"
+        ], 
+        "dns-ns": [
+            "bifall.bi.no", 
+            "biname.bi.no", 
+            "nn.uninett.no"
+        ], 
+        "domain-name": "bi.edu", 
+        "fuzzer": "bitsquatting", 
+        "geoip-country": "Netherlands", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "65.112.93.103"
+        ], 
+        "dns-mx": [
+            "ni-edu.mail.protection.outlook.com"
+        ], 
+        "dns-ns": [
+            "ns10.dnsmadeeasy.com", 
+            "ns11.dnsmadeeasy.com", 
+            "ns12.dnsmadeeasy.com", 
+            "ns13.dnsmadeeasy.com", 
+            "ns14.dnsmadeeasy.com", 
+            "ns15.dnsmadeeasy.com"
+        ], 
+        "domain-name": "ni.edu", 
+        "fuzzer": "bitsquatting", 
+        "geoip-country": "United States"
+    }, 
+    {
+        "dns-ns": [
+            "ns1.tcc.fl.edu", 
+            "ns2.tcc.fl.edu", 
+            "ns3.tcc.fl.edu"
+        ], 
+        "domain-name": "fl.edu", 
+        "fuzzer": "homoglyph"
+    }, 
+    {
+        "dns-a": [
+            "67.227.152.17"
+        ], 
+        "dns-mx": [
+            "ALT1.ASPMX.L.GOOGLE.COM", 
+            "ALT2.ASPMX.L.GOOGLE.COM", 
+            "ASPMX.L.GOOGLE.COM", 
+            "ASPMX2.GOOGLEMAIL.COM", 
+            "ASPMX3.GOOGLEMAIL.COM"
+        ], 
+        "dns-ns": [
+            "dns1.remc1.net", 
+            "dns2.remc1.net", 
+            "dns3.remc1.net", 
+            "dns4.remc1.net"
+        ], 
+        "domain-name": "fu.edu", 
+        "fuzzer": "replacement", 
+        "geoip-country": "United States"
+    }, 
+    {
+        "dns-a": [
+            "160.153.95.192"
+        ], 
+        "dns-mx": [
+            "ALT1.ASPMX.L.GOOGLE.COM", 
+            "ALT2.ASPMX.L.GOOGLE.COM", 
+            "ASPMX.L.GOOGLE.COM", 
+            "ASPMX2.GOOGLEMAIL.COM", 
+            "ASPMX3.GOOGLEMAIL.COM"
+        ], 
+        "dns-ns": [
+            "ns21.domaincontrol.com", 
+            "ns22.domaincontrol.com"
+        ], 
+        "domain-name": "ti.edu", 
+        "fuzzer": "replacement", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 0
+    }
+]

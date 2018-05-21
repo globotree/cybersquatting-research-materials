@@ -1,0 +1,26 @@
+[
+    {
+        "dns-a": [
+            "131.112.125.17"
+        ], 
+        "dns-mx": [
+            "filter.nap.gsic.titech.ac.jp"
+        ], 
+        "dns-ns": [
+            "ns.fujisawa.wide.ad.jp", 
+            "ns1.noc.titech.ac.jp", 
+            "ns2.noc.titech.ac.jp"
+        ], 
+        "domain-name": "titech.ac.jp", 
+        "fuzzer": "original*", 
+        "geoip-country": "Japan"
+    }, 
+    {
+        "dns-ns": [
+            "ns1.noc.titech.ac.jp", 
+            "ns3.noc.titech.ac.jp"
+        ], 
+        "domain-name": "titech.jp", 
+        "fuzzer": "various"
+    }
+]

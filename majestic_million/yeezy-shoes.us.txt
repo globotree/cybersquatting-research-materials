@@ -1,0 +1,62 @@
+[
+    {
+        "dns-ns": [
+            "yuns648621.earth.orderbox-dns.com", 
+            "yuns648621.mars.orderbox-dns.com", 
+            "yuns648621.mercury.orderbox-dns.com", 
+            "yuns648621.venus.orderbox-dns.com"
+        ], 
+        "domain-name": "yeezy--shoes.us", 
+        "fuzzer": "hyphenation"
+    }, 
+    {
+        "dns-a": [
+            "104.31.66.10", 
+            "104.31.67.10"
+        ], 
+        "dns-aaaa": [
+            "2400:cb00:2048:1::681f:420a", 
+            "2400:cb00:2048:1::681f:430a"
+        ], 
+        "dns-ns": [
+            "meg.ns.cloudflare.com", 
+            "peyton.ns.cloudflare.com"
+        ], 
+        "domain-name": "yeezys-shoes.us", 
+        "fuzzer": "insertion", 
+        "geoip-country": "United States"
+    }, 
+    {
+        "dns-a": [
+            "31.3.65.30"
+        ], 
+        "dns-mx": [
+            "mail.idp365.net"
+        ], 
+        "dns-ns": [
+            "dns1.idp365.net", 
+            "dns2.idp365.net", 
+            "dns3.idp365.net"
+        ], 
+        "domain-name": "yeezyshoes.us", 
+        "fuzzer": "omission", 
+        "geoip-country": "United Kingdom"
+    }, 
+    {
+        "dns-a": [
+            "184.168.221.96"
+        ], 
+        "dns-mx": [
+            "0", 
+            "10"
+        ], 
+        "dns-ns": [
+            "ns01.cashparking.com", 
+            "ns02.cashparking.com"
+        ], 
+        "domain-name": "yeezy-s.hoes.us", 
+        "fuzzer": "subdomain", 
+        "geoip-country": "United States", 
+        "mx-spy": true
+    }
+]

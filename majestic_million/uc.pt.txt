@@ -1,0 +1,342 @@
+[
+    {
+        "dns-a": [
+            "193.137.200.184"
+        ], 
+        "dns-mx": [
+            "smtp.uc.pt"
+        ], 
+        "dns-ns": [
+            "ns-1.uc.pt", 
+            "ns-2.uc.pt"
+        ], 
+        "domain-name": "uc.pt", 
+        "fuzzer": "original*", 
+        "geoip-country": "Portugal", 
+        "ssdeep-score": 100
+    }, 
+    {
+        "dns-a": [
+            "64.131.66.67"
+        ], 
+        "dns-mx": [
+            "mail.uca.pt"
+        ], 
+        "dns-ns": [
+            "ns10.host-servers.net", 
+            "ns9.host-servers.net"
+        ], 
+        "domain-name": "uca.pt", 
+        "fuzzer": "addition", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "217.19.237.54"
+        ], 
+        "dns-mx": [
+            "mailrelay.register.be"
+        ], 
+        "dns-ns": [
+            "ns1.register.be", 
+            "ns2.register.be"
+        ], 
+        "domain-name": "ucb.pt", 
+        "fuzzer": "addition", 
+        "geoip-country": "Belgium", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "188.93.230.25"
+        ], 
+        "dns-mx": [
+            "ucc-pt.mail.protection.outlook.com"
+        ], 
+        "dns-ns": [
+            "dns1.ibername.com", 
+            "dns2.ibername.com", 
+            "dns3.ibername.net", 
+            "dns4.ibername.net"
+        ], 
+        "domain-name": "ucc.pt", 
+        "fuzzer": "addition", 
+        "geoip-country": "Portugal", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "145.14.144.7"
+        ], 
+        "dns-aaaa": [
+            "2a02:4780:dead:ce39::1"
+        ], 
+        "dns-ns": [
+            "ns01.000webhost.com", 
+            "ns02.000webhost.com"
+        ], 
+        "domain-name": "ucf.pt", 
+        "fuzzer": "addition", 
+        "geoip-country": "Netherlands", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "213.4.57.105"
+        ], 
+        "dns-mx": [
+            "poster1i.iberlayer.com", 
+            "poster2i.iberlayer.com", 
+            "poster3i.iberlayer.com", 
+            "poster4i.iberlayer.com"
+        ], 
+        "dns-ns": [
+            "dns1.grupouci.net", 
+            "dns2.grupouci.net"
+        ], 
+        "domain-name": "uci.pt", 
+        "fuzzer": "addition", 
+        "geoip-country": "Spain", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "81.88.57.70"
+        ], 
+        "dns-mx": [
+            "mail-pt.securemail.pro"
+        ], 
+        "dns-ns": [
+            "ns1.amenworld.com", 
+            "ns2.amenworld.com"
+        ], 
+        "domain-name": "ucl.pt", 
+        "fuzzer": "addition", 
+        "geoip-country": "Italy", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "158.162.0.40"
+        ], 
+        "dns-mx": [
+            "ed01.lisboa.ucp.pt", 
+            "ed02.lisboa.ucp.pt"
+        ], 
+        "dns-ns": [
+            "carvalho.fe.lisboa.ucp.pt", 
+            "hermes.ucp.pt", 
+            "ns01.porto.ucp.pt", 
+            "ns02.fccn.pt", 
+            "ns02.porto.ucp.pt"
+        ], 
+        "domain-name": "ucp.pt", 
+        "fuzzer": "addition", 
+        "geoip-country": "Portugal"
+    }, 
+    {
+        "dns-mx": [
+            "mx2.tap.pt", 
+            "mx3.tap.pt"
+        ], 
+        "dns-ns": [
+            "ns1.tap.pt", 
+            "ns2.tap.pt", 
+            "ns2.webside.pt"
+        ], 
+        "domain-name": "ucs.pt", 
+        "fuzzer": "addition"
+    }, 
+    {
+        "dns-a": [
+            "72.52.4.120"
+        ], 
+        "dns-mx": [
+            "localhost"
+        ], 
+        "dns-ns": [
+            "ns1.sedoparking.com", 
+            "ns2.sedoparking.com"
+        ], 
+        "domain-name": "wc.pt", 
+        "fuzzer": "bitsquatting", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-mx": [
+            "mx1.ua.pt", 
+            "mx2.ua.pt"
+        ], 
+        "dns-ns": [
+            "ns.ua.pt", 
+            "ns2.ua.pt"
+        ], 
+        "domain-name": "ua.pt", 
+        "fuzzer": "bitsquatting"
+    }, 
+    {
+        "dns-a": [
+            "72.52.4.120"
+        ], 
+        "dns-mx": [
+            "localhost"
+        ], 
+        "dns-ns": [
+            "ns1.sedoparking.com", 
+            "ns2.sedoparking.com"
+        ], 
+        "domain-name": "ux.pt", 
+        "fuzzer": "replacement", 
+        "geoip-country": "United States", 
+        "mx-spy": true, 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "72.52.4.120"
+        ], 
+        "dns-mx": [
+            "localhost"
+        ], 
+        "dns-ns": [
+            "ns1.sedoparking.com", 
+            "ns2.sedoparking.com"
+        ], 
+        "domain-name": "uv.pt", 
+        "fuzzer": "replacement", 
+        "geoip-country": "United States", 
+        "mx-spy": true, 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "72.52.4.120"
+        ], 
+        "dns-mx": [
+            "localhost"
+        ], 
+        "dns-ns": [
+            "ns1.sedoparking.com", 
+            "ns2.sedoparking.com"
+        ], 
+        "domain-name": "zc.pt", 
+        "fuzzer": "replacement", 
+        "geoip-country": "United States", 
+        "mx-spy": true, 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "94.23.79.5"
+        ], 
+        "dns-mx": [
+            "redirect.ovh.net"
+        ], 
+        "dns-ns": [
+            "dns19.ovh.net", 
+            "ns19.ovh.net"
+        ], 
+        "domain-name": "ud.pt", 
+        "fuzzer": "replacement", 
+        "geoip-country": "Portugal"
+    }, 
+    {
+        "dns-a": [
+            "88.198.48.226"
+        ], 
+        "dns-mx": [
+            "mail.hc.pt"
+        ], 
+        "dns-ns": [
+            "ns1.seo-linuxpl.com", 
+            "ns2.seo-linuxpl.com"
+        ], 
+        "domain-name": "hc.pt", 
+        "fuzzer": "replacement", 
+        "geoip-country": "Germany", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "72.52.4.121"
+        ], 
+        "dns-mx": [
+            "localhost"
+        ], 
+        "dns-ns": [
+            "ns1.sedoparking.com", 
+            "ns2.sedoparking.com"
+        ], 
+        "domain-name": "ic.pt", 
+        "fuzzer": "replacement", 
+        "geoip-country": "United States", 
+        "mx-spy": true, 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "72.52.4.119"
+        ], 
+        "dns-mx": [
+            "localhost"
+        ], 
+        "dns-ns": [
+            "ns1.sedoparking.com", 
+            "ns2.sedoparking.com"
+        ], 
+        "domain-name": "uf.pt", 
+        "fuzzer": "replacement", 
+        "geoip-country": "United States", 
+        "mx-spy": true, 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "188.93.230.35"
+        ], 
+        "dns-mx": [
+            "jc.pt"
+        ], 
+        "dns-ns": [
+            "dns1.ibername.com", 
+            "dns2.ibername.com", 
+            "dns3.ibername.net", 
+            "dns4.ibername.net"
+        ], 
+        "domain-name": "jc.pt", 
+        "fuzzer": "replacement"
+    }, 
+    {
+        "dns-a": [
+            "72.52.4.122"
+        ], 
+        "dns-mx": [
+            "localhost"
+        ], 
+        "dns-ns": [
+            "ns1.sedoparking.com", 
+            "ns2.sedoparking.com"
+        ], 
+        "domain-name": "oc.pt", 
+        "fuzzer": "vowel-swap", 
+        "geoip-country": "United States", 
+        "mx-spy": true, 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "85.13.153.106"
+        ], 
+        "dns-mx": [
+            "w012c05e.kasserver.com"
+        ], 
+        "dns-ns": [
+            "ns5.kasserver.com", 
+            "ns6.kasserver.com"
+        ], 
+        "domain-name": "uc-pt.com", 
+        "fuzzer": "various"
+    }
+]

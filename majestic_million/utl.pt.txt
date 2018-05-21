@@ -1,0 +1,157 @@
+[
+    {
+        "dns-mx": [
+            "mx01.ulisboa.pt", 
+            "mx02.ulisboa.pt", 
+            "mx03.ulisboa.pt", 
+            "mx04.ulisboa.pt"
+        ], 
+        "dns-ns": [
+            "a.ul.pt", 
+            "b.ul.pt", 
+            "ns1.tecnico.ulisboa.pt", 
+            "ns2.tecnico.ulisboa.pt"
+        ], 
+        "domain-name": "utl.pt", 
+        "fuzzer": "original*"
+    }, 
+    {
+        "dns-a": [
+            "146.66.85.113"
+        ], 
+        "dns-mx": [
+            "mx10.mailspamprotection.com", 
+            "mx20.mailspamprotection.com", 
+            "mx30.mailspamprotection.com"
+        ], 
+        "dns-ns": [
+            "ns1.ams7.siteground.eu", 
+            "ns2.ams7.siteground.eu"
+        ], 
+        "domain-name": "etl.pt", 
+        "fuzzer": "bitsquatting", 
+        "geoip-country": "United States"
+    }, 
+    {
+        "dns-a": [
+            "94.46.168.195"
+        ], 
+        "dns-mx": [
+            "utd.pt"
+        ], 
+        "dns-ns": [
+            "ns1.mydnspt.net", 
+            "ns2.mydnspt.net", 
+            "ns7.mydnspt.net", 
+            "ns8.mydnspt.net"
+        ], 
+        "domain-name": "utd.pt", 
+        "fuzzer": "bitsquatting", 
+        "geoip-country": "Portugal", 
+        "mx-spy": true
+    }, 
+    {
+        "dns-a": [
+            "98.142.108.186"
+        ], 
+        "dns-mx": [
+            "mx.beta.servershark.org", 
+            "mxbackup.servershark.org"
+        ], 
+        "dns-ns": [
+            "ns1.cloudnserver.com", 
+            "ns2.cloudnserver.com", 
+            "ns3.cloudnserver.com"
+        ], 
+        "domain-name": "uti.pt", 
+        "fuzzer": "homoglyph", 
+        "geoip-country": "France"
+    }, 
+    {
+        "dns-mx": [
+            "mx01.ulisboa.pt", 
+            "mx02.ulisboa.pt", 
+            "mx03.ulisboa.pt", 
+            "mx04.ulisboa.pt"
+        ], 
+        "dns-ns": [
+            "a.ul.pt", 
+            "b.ul.pt"
+        ], 
+        "domain-name": "ul.pt", 
+        "fuzzer": "omission"
+    }, 
+    {
+        "dns-a": [
+            "192.64.147.231"
+        ], 
+        "dns-ns": [
+            "ns1.voodoo.com", 
+            "ns2.voodoo.com"
+        ], 
+        "domain-name": "ut.pt", 
+        "fuzzer": "omission", 
+        "geoip-country": "United States"
+    }, 
+    {
+        "dns-a": [
+            "130.185.87.66"
+        ], 
+        "dns-mx": [
+            "mx1.cleanmx.pt", 
+            "mx2.cleanmx.pt"
+        ], 
+        "dns-ns": [
+            "ns1.mydnspt.net", 
+            "ns2.mydnspt.net", 
+            "ns7.mydnspt.net", 
+            "ns8.mydnspt.net"
+        ], 
+        "domain-name": "itl.pt", 
+        "fuzzer": "replacement", 
+        "geoip-country": "Portugal"
+    }, 
+    {
+        "dns-a": [
+            "130.185.80.65"
+        ], 
+        "dns-mx": [
+            "htl.pt"
+        ], 
+        "dns-ns": [
+            "ns5.mydnspt.net", 
+            "ns6.mydnspt.net"
+        ], 
+        "domain-name": "htl.pt", 
+        "fuzzer": "replacement", 
+        "geoip-country": "Portugal"
+    }, 
+    {
+        "dns-a": [
+            "165.227.133.196"
+        ], 
+        "dns-ns": [
+            "ns1.digitalocean.com", 
+            "ns2.digitalocean.com", 
+            "ns3.digitalocean.com"
+        ], 
+        "domain-name": "utp.pt", 
+        "fuzzer": "replacement", 
+        "geoip-country": "United States"
+    }, 
+    {
+        "dns-a": [
+            "81.88.48.97"
+        ], 
+        "dns-mx": [
+            "mail-pt.securemail.pro"
+        ], 
+        "dns-ns": [
+            "ns1.amenworld.com", 
+            "ns2.amenworld.com"
+        ], 
+        "domain-name": "atl.pt", 
+        "fuzzer": "vowel-swap", 
+        "geoip-country": "Italy"
+    }
+]

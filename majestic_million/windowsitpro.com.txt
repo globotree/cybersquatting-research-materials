@@ -1,0 +1,43 @@
+[
+    {
+        "dns-a": [
+            "34.208.58.231", 
+            "35.165.116.212", 
+            "52.42.11.209"
+        ], 
+        "dns-mx": [
+            "mxa-001d5a01.gslb.pphosted.com", 
+            "mxb-001d5a01.gslb.pphosted.com"
+        ], 
+        "dns-ns": [
+            "ns-1180.awsdns-19.org", 
+            "ns-123.awsdns-15.com", 
+            "ns-1912.awsdns-47.co.uk", 
+            "ns-686.awsdns-21.net"
+        ], 
+        "domain-name": "windowsitpro.com", 
+        "fuzzer": "original*", 
+        "geoip-country": "United States", 
+        "mx-spy": true, 
+        "ssdeep-score": 100
+    }, 
+    {
+        "dns-a": [
+            "66.45.246.141"
+        ], 
+        "domain-name": "window.sitpro.com", 
+        "fuzzer": "subdomain", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "165.160.13.20", 
+            "165.160.15.20"
+        ], 
+        "domain-name": "windows.itpro.com", 
+        "fuzzer": "subdomain", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 0
+    }
+]

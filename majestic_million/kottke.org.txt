@@ -1,0 +1,70 @@
+[
+    {
+        "dns-a": [
+            "162.247.141.135"
+        ], 
+        "dns-mx": [
+            "ALT1.ASPMX.L.GOOGLE.COM", 
+            "ALT2.ASPMX.L.GOOGLE.COM", 
+            "ASPMX.L.GOOGLE.COM", 
+            "ASPMX2.GOOGLEMAIL.COM", 
+            "ASPMX3.GOOGLEMAIL.COM", 
+            "ASPMX4.GOOGLEMAIL.COM", 
+            "ASPMX5.GOOGLEMAIL.COM"
+        ], 
+        "dns-ns": [
+            "ns1.theplanet.com", 
+            "ns2.theplanet.com"
+        ], 
+        "domain-name": "kottke.org", 
+        "fuzzer": "original*", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 100
+    }, 
+    {
+        "dns-a": [
+            "112.78.117.117"
+        ], 
+        "dns-mx": [
+            "kotke.org"
+        ], 
+        "dns-ns": [
+            "ns1.firebird.jp", 
+            "ns2.firebird.jp", 
+            "ns3.firebird.jp"
+        ], 
+        "domain-name": "kotke.org", 
+        "fuzzer": "omission", 
+        "geoip-country": "Japan", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "78.46.206.38"
+        ], 
+        "dns-mx": [
+            "mail.linuxkompetenz.net"
+        ], 
+        "domain-name": "kotte.org", 
+        "fuzzer": "omission", 
+        "geoip-country": "Germany", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "72.52.4.122"
+        ], 
+        "dns-mx": [
+            "localhost"
+        ], 
+        "dns-ns": [
+            "ns1.sedoparking.com", 
+            "ns2.sedoparking.com"
+        ], 
+        "domain-name": "kott.ke.org", 
+        "fuzzer": "subdomain", 
+        "geoip-country": "United States", 
+        "mx-spy": true, 
+        "ssdeep-score": 0
+    }
+]

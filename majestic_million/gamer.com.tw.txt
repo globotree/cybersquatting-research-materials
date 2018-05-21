@@ -1,0 +1,177 @@
+[
+    {
+        "dns-a": [
+            "104.17.127.66", 
+            "104.17.128.66", 
+            "104.17.129.66", 
+            "104.17.130.66", 
+            "104.17.131.66"
+        ], 
+        "dns-mx": [
+            "alt1.aspmx.l.google.com", 
+            "alt2.aspmx.l.google.com", 
+            "aspmx.l.google.com", 
+            "aspmx2.googlemail.com", 
+            "aspmx3.googlemail.com", 
+            "aspmx4.googlemail.com", 
+            "aspmx5.googlemail.com"
+        ], 
+        "dns-ns": [
+            "greg.ns.cloudflare.com", 
+            "jessica.ns.cloudflare.com"
+        ], 
+        "domain-name": "gamer.com.tw", 
+        "fuzzer": "original*", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 100
+    }, 
+    {
+        "dns-a": [
+            "184.168.221.41", 
+            "184.173.156.3"
+        ], 
+        "dns-ns": [
+            "dns1.name-services.com", 
+            "dns2.name-services.com", 
+            "dns3.name-services.com", 
+            "dns4.name-services.com", 
+            "dns5.name-services.com"
+        ], 
+        "domain-name": "gamers.com.tw", 
+        "fuzzer": "addition", 
+        "geoip-country": "United States"
+    }, 
+    {
+        "dns-a": [
+            "118.163.181.163"
+        ], 
+        "dns-ns": [
+            "rsdn1.octor.com", 
+            "rsdn2.octor.com"
+        ], 
+        "domain-name": "famer.com.tw", 
+        "fuzzer": "bitsquatting", 
+        "geoip-country": "Taiwan"
+    }, 
+    {
+        "dns-a": [
+            "185.53.177.31"
+        ], 
+        "dns-ns": [
+            "ns1.protectdelegation.eu", 
+            "ns2.protectdelegation.ca", 
+            "ns3.protectdelegation.com"
+        ], 
+        "domain-name": "games.com.tw", 
+        "fuzzer": "bitsquatting", 
+        "geoip-country": "Germany", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "125.227.141.59"
+        ], 
+        "dns-mx": [
+            "alt1.aspmx.l.google.com", 
+            "alt2.aspmx.l.google.com", 
+            "aspmx.l.google.com", 
+            "aspmx2.googlemail.com", 
+            "aspmx3.googlemail.com", 
+            "aspmx4.googlemail.com", 
+            "aspmx5.googlemail.com"
+        ], 
+        "dns-ns": [
+            "vdns1.seed.net.tw", 
+            "vdns2.seed.net.tw"
+        ], 
+        "domain-name": "gamez.com.tw", 
+        "fuzzer": "bitsquatting", 
+        "geoip-country": "Taiwan", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-ns": [
+            "admns1.hinet.net", 
+            "admns2.hinet.net"
+        ], 
+        "domain-name": "game2.com.tw", 
+        "fuzzer": "bitsquatting"
+    }, 
+    {
+        "dns-a": [
+            "217.70.184.38"
+        ], 
+        "dns-mx": [
+            "fb.mail.gandi.net", 
+            "spool.mail.gandi.net"
+        ], 
+        "dns-ns": [
+            "a.dns.gandi.net", 
+            "b.dns.gandi.net", 
+            "c.dns.gandi.net"
+        ], 
+        "domain-name": "ganer.com.tw", 
+        "fuzzer": "homoglyph", 
+        "geoip-country": "France", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "210.242.72.196"
+        ], 
+        "dns-mx": [
+            "ntvirus.url.com.tw", 
+            "ntvirus2.url.com.tw"
+        ], 
+        "dns-ns": [
+            "dns.twmail.org", 
+            "dns2.twmail.org"
+        ], 
+        "domain-name": "garner.com.tw", 
+        "fuzzer": "homoglyph", 
+        "geoip-country": "Taiwan", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "185.53.178.8"
+        ], 
+        "dns-mx": [
+            "mail.h-email.net"
+        ], 
+        "dns-ns": [
+            "ns1.fastpark.net", 
+            "ns2.fastpark.net"
+        ], 
+        "domain-name": "game.com.tw", 
+        "fuzzer": "omission", 
+        "geoip-country": "Germany", 
+        "mx-spy": true, 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "210.200.180.85"
+        ], 
+        "dns-mx": [
+            "ALT1.ASPMX.L.GOOGLE.COM", 
+            "ASPMX.L.GOOGLE.COM"
+        ], 
+        "dns-ns": [
+            "rsdn1.octor.com", 
+            "rsdn2.octor.com"
+        ], 
+        "domain-name": "zamer.com.tw", 
+        "fuzzer": "replacement", 
+        "geoip-country": "Taiwan", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-ns": [
+            "vdns1.seed.net.tw", 
+            "vdns2.seed.net.tw"
+        ], 
+        "domain-name": "gamer.tw", 
+        "fuzzer": "various"
+    }
+]

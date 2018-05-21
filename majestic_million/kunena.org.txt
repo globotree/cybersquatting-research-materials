@@ -1,0 +1,91 @@
+[
+    {
+        "dns-a": [
+            "104.31.82.44", 
+            "104.31.83.44"
+        ], 
+        "dns-aaaa": [
+            "2400:cb00:2048:1::681f:522c", 
+            "2400:cb00:2048:1::681f:532c"
+        ], 
+        "dns-mx": [
+            "alt1.aspmx.l.google.com", 
+            "alt2.aspmx.l.google.com", 
+            "aspmx.l.google.com", 
+            "aspmx2.googlemail.com", 
+            "aspmx3.googlemail.com"
+        ], 
+        "dns-ns": [
+            "trey.ns.cloudflare.com", 
+            "zoe.ns.cloudflare.com"
+        ], 
+        "domain-name": "kunena.org", 
+        "fuzzer": "original*", 
+        "geoip-country": "United States"
+    }, 
+    {
+        "dns-a": [
+            "50.63.202.87"
+        ], 
+        "dns-mx": [
+            "mailstore1.secureserver.net", 
+            "smtp.secureserver.net"
+        ], 
+        "dns-ns": [
+            "ns33.domaincontrol.com", 
+            "ns34.domaincontrol.com"
+        ], 
+        "domain-name": "kunana.org", 
+        "fuzzer": "bitsquatting", 
+        "geoip-country": "United States"
+    }, 
+    {
+        "dns-a": [
+            "66.147.244.97"
+        ], 
+        "dns-mx": [
+            "fallbackmx.spamexperts.eu", 
+            "lastmx.spamexperts.net", 
+            "mx.spamexperts.com"
+        ], 
+        "dns-ns": [
+            "ns1.bluehost.com", 
+            "ns2.bluehost.com"
+        ], 
+        "domain-name": "kunen.org", 
+        "fuzzer": "omission", 
+        "geoip-country": "United States"
+    }, 
+    {
+        "dns-a": [
+            "72.52.4.90"
+        ], 
+        "dns-mx": [
+            "mailgw.ns36.de"
+        ], 
+        "dns-ns": [
+            "a.ns36.de", 
+            "b.ns36.de"
+        ], 
+        "domain-name": "kunea.org", 
+        "fuzzer": "omission", 
+        "geoip-country": "United States", 
+        "mx-spy": true
+    }, 
+    {
+        "dns-a": [
+            "157.56.13.114"
+        ], 
+        "domain-name": "kun.ena.org", 
+        "fuzzer": "subdomain", 
+        "geoip-country": "United States"
+    }, 
+    {
+        "dns-a": [
+            "104.154.94.123"
+        ], 
+        "domain-name": "kunen.a.org", 
+        "fuzzer": "subdomain", 
+        "geoip-country": "United States"
+    }
+]

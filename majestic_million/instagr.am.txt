@@ -1,0 +1,143 @@
+[
+    {
+        "dns-a": [
+            "34.192.156.80", 
+            "34.194.67.150", 
+            "34.198.69.129", 
+            "34.200.158.81", 
+            "34.226.19.90", 
+            "35.170.88.35", 
+            "52.22.239.100", 
+            "52.22.53.128"
+        ], 
+        "dns-aaaa": [
+            "2406:da00:ff00::22c0:9c50", 
+            "2406:da00:ff00::22c2:4396", 
+            "2406:da00:ff00::22c6:4581", 
+            "2406:da00:ff00::22c8:9e51", 
+            "2406:da00:ff00::22e2:135a", 
+            "2406:da00:ff00::36ac:1f08", 
+            "2406:da00:ff00::36ec:5869", 
+            "2406:da00:ff00::36ec:6f50"
+        ], 
+        "dns-mx": [
+            "alt1.aspmx.l.google.com", 
+            "alt2.aspmx.l.google.com", 
+            "aspmx.l.google.com", 
+            "aspmx2.googlemail.com", 
+            "aspmx3.googlemail.com"
+        ], 
+        "dns-ns": [
+            "ns-1385.awsdns-45.org", 
+            "ns-1851.awsdns-39.co.uk", 
+            "ns-292.awsdns-36.com", 
+            "ns-759.awsdns-30.net"
+        ], 
+        "domain-name": "instagr.am", 
+        "fuzzer": "original*", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 90
+    }, 
+    {
+        "dns-a": [
+            "23.23.203.37"
+        ], 
+        "dns-mx": [
+            "mailstore1.secureserver.net", 
+            "smtp.secureserver.net"
+        ], 
+        "dns-ns": [
+            "ns69.domaincontrol.com", 
+            "ns70.domaincontrol.com"
+        ], 
+        "domain-name": "instigr.am", 
+        "fuzzer": "bitsquatting", 
+        "geoip-country": "United States"
+    }, 
+    {
+        "dns-a": [
+            "72.52.4.122"
+        ], 
+        "dns-mx": [
+            "localhost"
+        ], 
+        "dns-ns": [
+            "ns1.sedoparking.com", 
+            "ns2.sedoparking.com"
+        ], 
+        "domain-name": "nstagr.am", 
+        "fuzzer": "omission", 
+        "geoip-country": "United States", 
+        "mx-spy": true, 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "195.225.106.98"
+        ], 
+        "dns-mx": [
+            "mail.instgr.am"
+        ], 
+        "dns-ns": [
+            "b.ns14.net", 
+            "ns.checon.net", 
+            "ns6.checon.de"
+        ], 
+        "domain-name": "instgr.am", 
+        "fuzzer": "omission", 
+        "geoip-country": "Germany", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "72.52.4.122"
+        ], 
+        "dns-mx": [
+            "localhost"
+        ], 
+        "dns-ns": [
+            "ns1.sedoparking.com", 
+            "ns2.sedoparking.com"
+        ], 
+        "domain-name": "i.nstagr.am", 
+        "fuzzer": "subdomain", 
+        "geoip-country": "United States", 
+        "mx-spy": true, 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "54.72.9.115"
+        ], 
+        "domain-name": "insta.gr.am", 
+        "fuzzer": "subdomain", 
+        "geoip-country": "Ireland", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "184.168.221.9"
+        ], 
+        "dns-mx": [
+            "mailstore1.secureserver.net", 
+            "smtp.secureserver.net"
+        ], 
+        "dns-ns": [
+            "ns51.domaincontrol.com", 
+            "ns52.domaincontrol.com"
+        ], 
+        "domain-name": "isntagr.am", 
+        "fuzzer": "transposition"
+    }, 
+    {
+        "dns-mx": [
+            "mx.yandex.ru"
+        ], 
+        "dns-ns": [
+            "ns1.reg.ru", 
+            "ns2.reg.ru"
+        ], 
+        "domain-name": "instagram.am", 
+        "fuzzer": "various"
+    }
+]

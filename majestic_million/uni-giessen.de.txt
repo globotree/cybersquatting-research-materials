@@ -1,0 +1,113 @@
+[
+    {
+        "dns-a": [
+            "134.176.3.51", 
+            "134.176.3.53", 
+            "134.176.3.54"
+        ], 
+        "dns-mx": [
+            "mailgw11.hrz.uni-giessen.de", 
+            "mailgw31.hrz.uni-giessen.de", 
+            "mailgw41.hrz.uni-giessen.de", 
+            "mailgw51.hrz.uni-giessen.de"
+        ], 
+        "dns-ns": [
+            "deneb.dfn.de", 
+            "ns1.hrz.uni-giessen.de", 
+            "ns2.hrz.uni-giessen.de"
+        ], 
+        "domain-name": "uni-giessen.de", 
+        "fuzzer": "original*", 
+        "geoip-country": "Germany", 
+        "ssdeep-score": 50
+    }, 
+    {
+        "dns-ns": [
+            "dns-1.dfn.de", 
+            "dns-2.dfn.de", 
+            "dns-3.dfn.de"
+        ], 
+        "domain-name": "uni-giesssen.de", 
+        "fuzzer": "insertion"
+    }, 
+    {
+        "dns-ns": [
+            "deneb.dfn.de", 
+            "ns1.hrz.uni-giessen.de", 
+            "ns2.hrz.uni-giessen.de"
+        ], 
+        "domain-name": "unigiessen.de", 
+        "fuzzer": "omission"
+    }, 
+    {
+        "dns-ns": [
+            "dns-1.dfn.de", 
+            "dns-2.dfn.de", 
+            "dns-3.dfn.de"
+        ], 
+        "domain-name": "uni-giesen.de", 
+        "fuzzer": "omission"
+    }, 
+    {
+        "dns-ns": [
+            "dns-1.dfn.de", 
+            "dns-2.dfn.de", 
+            "dns-3.dfn.de"
+        ], 
+        "domain-name": "uni-giesse.de", 
+        "fuzzer": "omission"
+    }, 
+    {
+        "dns-a": [
+            "54.72.9.51"
+        ], 
+        "dns-mx": [
+            "mail.h-email.net"
+        ], 
+        "dns-ns": [
+            "ns1.parkingcrew.net", 
+            "ns2.parkingcrew.net"
+        ], 
+        "domain-name": "un-giessen.de", 
+        "fuzzer": "omission", 
+        "geoip-country": "Ireland", 
+        "mx-spy": true, 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-ns": [
+            "dns-1.dfn.de", 
+            "dns-2.dfn.de", 
+            "dns-3.dfn.de"
+        ], 
+        "domain-name": "uni-gissen.de", 
+        "fuzzer": "omission"
+    }, 
+    {
+        "dns-a": [
+            "176.9.83.229"
+        ], 
+        "domain-name": "uni-g.iessen.de", 
+        "fuzzer": "subdomain", 
+        "geoip-country": "Germany", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "89.31.143.100"
+        ], 
+        "domain-name": "uni-giess.en.de", 
+        "fuzzer": "subdomain", 
+        "geoip-country": "Germany", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-ns": [
+            "dns-1.dfn.de", 
+            "dns-2.dfn.de", 
+            "dns-3.dfn.de"
+        ], 
+        "domain-name": "uni-geissen.de", 
+        "fuzzer": "transposition"
+    }
+]

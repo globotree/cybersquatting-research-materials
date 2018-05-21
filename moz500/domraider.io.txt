@@ -1,0 +1,35 @@
+[
+    {
+        "dns-a": [
+            "104.24.22.77", 
+            "104.24.23.77"
+        ], 
+        "dns-mx": [
+            "domraider-io.mail.protection.outlook.com"
+        ], 
+        "dns-ns": [
+            "alec.ns.cloudflare.com", 
+            "jo.ns.cloudflare.com"
+        ], 
+        "domain-name": "domraider.io", 
+        "fuzzer": "original*", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 100
+    }, 
+    {
+        "dns-a": [
+            "199.59.242.150"
+        ], 
+        "domain-name": "domrai.der.io", 
+        "fuzzer": "subdomain", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "193.223.78.230"
+        ], 
+        "domain-name": "domraid.er.io", 
+        "fuzzer": "subdomain"
+    }
+]

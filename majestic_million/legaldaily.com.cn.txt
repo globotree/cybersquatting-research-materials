@@ -1,0 +1,53 @@
+[
+    {
+        "dns-mx": [
+            "hzmx01.mxmail.netease.com", 
+            "hzmx02.mxmail.netease.com"
+        ], 
+        "dns-ns": [
+            "ns.fzrb.cn", 
+            "ns.fzw.cn", 
+            "ns.legaldaily.cn"
+        ], 
+        "domain-name": "legaldaily.com.cn", 
+        "fuzzer": "original*"
+    }, 
+    {
+        "dns-a": [
+            "50.117.120.251"
+        ], 
+        "dns-mx": [
+            "mail.happyisp.com"
+        ], 
+        "domain-name": "1egaldaily.com.cn", 
+        "fuzzer": "homoglyph", 
+        "geoip-country": "United States", 
+        "mx-spy": true
+    }, 
+    {
+        "dns-a": [
+            "47.89.58.32"
+        ], 
+        "domain-name": "lega.ldaily.com.cn", 
+        "fuzzer": "subdomain", 
+        "geoip-country": "United States"
+    }, 
+    {
+        "dns-a": [
+            "103.42.78.229"
+        ], 
+        "dns-ns": [
+            "ns.legaldaily.cn"
+        ], 
+        "domain-name": "legaldaily.cn", 
+        "fuzzer": "various"
+    }, 
+    {
+        "dns-ns": [
+            "ns11.xincache.com", 
+            "ns12.xincache.com"
+        ], 
+        "domain-name": "legaldailycom.cn", 
+        "fuzzer": "various"
+    }
+]

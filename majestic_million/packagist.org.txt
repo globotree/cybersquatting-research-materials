@@ -1,0 +1,84 @@
+[
+    {
+        "dns-a": [
+            "87.98.253.214"
+        ], 
+        "dns-aaaa": [
+            "2001:41d0:a:7b19::3"
+        ], 
+        "dns-mx": [
+            "alt1.aspmx.l.google.com", 
+            "alt2.aspmx.l.google.com", 
+            "aspmx.l.google.com", 
+            "aspmx2.googlemail.com", 
+            "aspmx3.googlemail.com", 
+            "aspmx4.googlemail.com", 
+            "aspmx5.googlemail.com"
+        ], 
+        "dns-ns": [
+            "ns-1320.awsdns-37.org", 
+            "ns-1930.awsdns-49.co.uk", 
+            "ns-601.awsdns-11.net", 
+            "ns-86.awsdns-10.com"
+        ], 
+        "domain-name": "packagist.org", 
+        "fuzzer": "original*", 
+        "geoip-country": "France", 
+        "ssdeep-score": 100
+    }, 
+    {
+        "dns-a": [
+            "67.227.226.240"
+        ], 
+        "dns-mx": [
+            "mx156.hostedmxserver.com"
+        ], 
+        "dns-ns": [
+            "ns1.parklogic.com", 
+            "ns2.parklogic.com", 
+            "ns3.parklogic.com", 
+            "ns4.parklogic.com", 
+            "ns5.parklogic.com"
+        ], 
+        "domain-name": "packgist.org", 
+        "fuzzer": "omission", 
+        "geoip-country": "United States", 
+        "mx-spy": true, 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "64.99.80.121"
+        ], 
+        "domain-name": "packa.gist.org", 
+        "fuzzer": "subdomain", 
+        "geoip-country": "Canada", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "212.69.161.113"
+        ], 
+        "dns-mx": [
+            "zimbra.ist.org"
+        ], 
+        "dns-ns": [
+            "ns1.linbit.com", 
+            "ns1.upstreamnet.at", 
+            "ns2.upstreamnet.at"
+        ], 
+        "domain-name": "packag.ist.org", 
+        "fuzzer": "subdomain", 
+        "geoip-country": "Austria", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "98.124.199.67"
+        ], 
+        "domain-name": "packagis.t.org", 
+        "fuzzer": "subdomain", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 0
+    }
+]

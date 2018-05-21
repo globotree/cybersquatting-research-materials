@@ -1,0 +1,32 @@
+[
+    {
+        "dns-a": [
+            "104.18.34.32", 
+            "104.18.35.32"
+        ], 
+        "dns-aaaa": [
+            "2400:cb00:2048:1::6812:2220", 
+            "2400:cb00:2048:1::6812:2320"
+        ], 
+        "dns-mx": [
+            "dc-5469fec55bbb.skyfon-varna.eu"
+        ], 
+        "dns-ns": [
+            "amir.ns.cloudflare.com", 
+            "jamie.ns.cloudflare.com"
+        ], 
+        "domain-name": "skyfon-varna.eu", 
+        "fuzzer": "original*", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 96
+    }, 
+    {
+        "dns-a": [
+            "185.53.179.29"
+        ], 
+        "domain-name": "skyfon-va.rna.eu", 
+        "fuzzer": "subdomain", 
+        "geoip-country": "Germany", 
+        "ssdeep-score": 0
+    }
+]

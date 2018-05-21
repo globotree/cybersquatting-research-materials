@@ -1,0 +1,120 @@
+[
+    {
+        "dns-a": [
+            "104.24.0.3", 
+            "104.24.1.3"
+        ], 
+        "dns-aaaa": [
+            "2400:cb00:2048:1::6818:103", 
+            "2400:cb00:2048:1::6818:3"
+        ], 
+        "dns-mx": [
+            "mail1.sprit.org", 
+            "mail2.sprit.org"
+        ], 
+        "dns-ns": [
+            "ivy.ns.cloudflare.com", 
+            "jeff.ns.cloudflare.com"
+        ], 
+        "domain-name": "notebookcheck.net", 
+        "fuzzer": "original*", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 100
+    }, 
+    {
+        "dns-a": [
+            "94.130.67.142"
+        ], 
+        "dns-mx": [
+            "notebook-check.net"
+        ], 
+        "dns-ns": [
+            "ns1.pws-dns.net", 
+            "ns2.pws-dns.net"
+        ], 
+        "domain-name": "notebook-check.net", 
+        "fuzzer": "hyphenation", 
+        "geoip-country": "Ukraine", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "185.53.178.7"
+        ], 
+        "dns-mx": [
+            "mail.h-email.net"
+        ], 
+        "dns-ns": [
+            "ns1.parkingcrew.net", 
+            "ns2.parkingcrew.net"
+        ], 
+        "domain-name": "notebookchck.net", 
+        "fuzzer": "omission", 
+        "geoip-country": "Germany", 
+        "mx-spy": true, 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "103.224.212.222"
+        ], 
+        "dns-mx": [
+            "park-mx.above.com"
+        ], 
+        "dns-ns": [
+            "ns1.above.com", 
+            "ns2.above.com"
+        ], 
+        "domain-name": "notbookcheck.net", 
+        "fuzzer": "omission", 
+        "geoip-country": "Australia", 
+        "mx-spy": true, 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "67.227.226.241"
+        ], 
+        "dns-mx": [
+            "mx156.hostedmxserver.com"
+        ], 
+        "dns-ns": [
+            "ns1.parklogic.com", 
+            "ns2.parklogic.com", 
+            "ns3.parklogic.com", 
+            "ns4.parklogic.com", 
+            "ns5.parklogic.com"
+        ], 
+        "domain-name": "notebookchek.net", 
+        "fuzzer": "omission", 
+        "geoip-country": "United States", 
+        "mx-spy": true, 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "153.121.40.124"
+        ], 
+        "domain-name": "noteboo.kcheck.net", 
+        "fuzzer": "subdomain", 
+        "geoip-country": "Japan"
+    }, 
+    {
+        "dns-a": [
+            "64.99.80.121"
+        ], 
+        "domain-name": "notebookc.heck.net", 
+        "fuzzer": "subdomain", 
+        "geoip-country": "Canada", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "199.59.242.150"
+        ], 
+        "domain-name": "notebookche.ck.net", 
+        "fuzzer": "subdomain", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 0
+    }
+]

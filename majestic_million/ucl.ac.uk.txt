@@ -1,0 +1,84 @@
+[
+    {
+        "dns-a": [
+            "144.82.250.24"
+        ], 
+        "dns-mx": [
+            "ucl-ac-uk.mail.protection.outlook.com"
+        ], 
+        "dns-ns": [
+            "dns-ns0.ucl.ac.uk", 
+            "dns-ns1.ucl.ac.uk", 
+            "ns1.cs.ucl.ac.uk", 
+            "ns2.ja.net"
+        ], 
+        "domain-name": "ucl.ac.uk", 
+        "fuzzer": "original*", 
+        "geoip-country": "United Kingdom", 
+        "ssdeep-score": 100
+    }, 
+    {
+        "dns-mx": [
+            "engine01-20334-1.icritical.com", 
+            "engine02-20334-2.icritical.com", 
+            "engine03-20334-3.icritical.com", 
+            "engine04-20334-4.icritical.com"
+        ], 
+        "dns-ns": [
+            "ns01.arts.ac.uk", 
+            "ns02.arts.ac.uk", 
+            "ns3.ja.net"
+        ], 
+        "domain-name": "ual.ac.uk", 
+        "fuzzer": "bitsquatting"
+    }, 
+    {
+        "dns-a": [
+            "104.199.98.12"
+        ], 
+        "dns-mx": [
+            "mxa.mailgun.org", 
+            "mxb.mailgun.org"
+        ], 
+        "dns-ns": [
+            "ns10.ja.net", 
+            "ns11.ja.net", 
+            "ns12.ja.net"
+        ], 
+        "domain-name": "ucp.ac.uk", 
+        "fuzzer": "replacement", 
+        "geoip-country": "United States", 
+        "mx-spy": true, 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "52.212.115.228"
+        ], 
+        "dns-mx": [
+            "email.uco.ac.uk"
+        ], 
+        "dns-ns": [
+            "ns10.ja.net", 
+            "ns11.ja.net", 
+            "ns12.ja.net"
+        ], 
+        "domain-name": "uco.ac.uk", 
+        "fuzzer": "replacement", 
+        "geoip-country": "Ireland", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "69.172.201.153"
+        ], 
+        "dns-ns": [
+            "ns1.uniregistrymarket.link", 
+            "ns2.uniregistrymarket.link"
+        ], 
+        "domain-name": "ucl.uk", 
+        "fuzzer": "various", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 0
+    }
+]

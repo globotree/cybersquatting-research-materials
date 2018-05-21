@@ -1,0 +1,46 @@
+[
+    {
+        "dns-a": [
+            "216.119.142.92"
+        ], 
+        "dns-mx": [
+            "freeprivacypolicy.com"
+        ], 
+        "dns-ns": [
+            "george.ns.cloudflare.com", 
+            "jamie.ns.cloudflare.com"
+        ], 
+        "domain-name": "freeprivacypolicy.com", 
+        "fuzzer": "original*", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 99
+    }, 
+    {
+        "dns-a": [
+            "50.63.202.36"
+        ], 
+        "dns-mx": [
+            "mailstore1.secureserver.net", 
+            "smtp.secureserver.net"
+        ], 
+        "dns-ns": [
+            "ns01.domaincontrol.com", 
+            "ns02.domaincontrol.com"
+        ], 
+        "domain-name": "free-privacypolicy.com", 
+        "fuzzer": "hyphenation", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "67.222.132.210"
+        ], 
+        "dns-aaaa": [
+            "2606:db00:0:1::20"
+        ], 
+        "domain-name": "free.privacypolicy.com", 
+        "fuzzer": "subdomain", 
+        "geoip-country": "United States"
+    }
+]

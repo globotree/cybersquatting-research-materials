@@ -1,0 +1,76 @@
+[
+    {
+        "dns-a": [
+            "212.113.11.22"
+        ], 
+        "dns-mx": [
+            "lse-ac-uk.mail.protection.outlook.com"
+        ], 
+        "dns-ns": [
+            "ad2.lse.ac.uk", 
+            "ad3.lse.ac.uk", 
+            "ext-ns1.columbia.edu", 
+            "ns1.lse.ac.uk", 
+            "ns2.lse.ac.uk", 
+            "ns3.ja.net", 
+            "ns3.lse.ac.uk"
+        ], 
+        "domain-name": "lse.ac.uk", 
+        "fuzzer": "original*", 
+        "geoip-country": "United Kingdom", 
+        "ssdeep-score": 100
+    }, 
+    {
+        "dns-a": [
+            "109.108.128.148"
+        ], 
+        "dns-mx": [
+            "lsec-ac-uk.mail.protection.outlook.com"
+        ], 
+        "dns-ns": [
+            "ns10.ja.net", 
+            "ns11.ja.net", 
+            "ns12.ja.net"
+        ], 
+        "domain-name": "lsec.ac.uk", 
+        "fuzzer": "addition", 
+        "geoip-country": "United Kingdom"
+    }, 
+    {
+        "dns-a": [
+            "143.210.133.220"
+        ], 
+        "dns-mx": [
+            "mailin1.le.ac.uk", 
+            "mailin2.le.ac.uk", 
+            "mailin3.le.ac.uk", 
+            "mailin4.le.ac.uk"
+        ], 
+        "dns-ns": [
+            "adns0.bath.ac.uk", 
+            "ns0.le.ac.uk", 
+            "ns1.le.ac.uk", 
+            "ns2.le.ac.uk", 
+            "sns-pb.isc.org"
+        ], 
+        "domain-name": "le.ac.uk", 
+        "fuzzer": "omission"
+    }, 
+    {
+        "dns-a": [
+            "37.188.98.122"
+        ], 
+        "dns-mx": [
+            "lae-ac-uk.mail.protection.outlook.com", 
+            "lae-ac-uk.mail.protection.outlook.com"
+        ], 
+        "dns-ns": [
+            "ns1.bdm.microsoftonline.com", 
+            "ns2.bdm.microsoftonline.com"
+        ], 
+        "domain-name": "lae.ac.uk", 
+        "fuzzer": "replacement", 
+        "geoip-country": "United Kingdom", 
+        "ssdeep-score": 0
+    }
+]

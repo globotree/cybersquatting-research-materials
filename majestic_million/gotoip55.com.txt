@@ -1,0 +1,61 @@
+[
+    {
+        "dns-a": [
+            "1.2.3.4"
+        ], 
+        "dns-ns": [
+            "ns1.myhostadmin.net", 
+            "ns2.myhostadmin.net", 
+            "ns3.myhostadmin.net", 
+            "ns4.myhostadmin.net", 
+            "ns5.myhostadmin.net", 
+            "ns6.myhostadmin.net"
+        ], 
+        "domain-name": "gotoip55.com", 
+        "fuzzer": "original*", 
+        "geoip-country": "United States"
+    }, 
+    {
+        "dns-a": [
+            "174.128.252.86"
+        ], 
+        "dns-ns": [
+            "v1s1.xundns.com", 
+            "v1s2.xundns.com"
+        ], 
+        "domain-name": "gotoip5.com", 
+        "fuzzer": "omission", 
+        "geoip-country": "United States"
+    }, 
+    {
+        "dns-a": [
+            "174.139.66.26"
+        ], 
+        "domain-name": "goto.ip55.com", 
+        "fuzzer": "subdomain", 
+        "geoip-country": "United States"
+    }, 
+    {
+        "dns-a": [
+            "208.73.210.202", 
+            "208.73.210.217", 
+            "208.73.211.165", 
+            "208.73.211.177"
+        ], 
+        "dns-ns": [
+            "ns1.dsredirection.com", 
+            "ns2.dsredirection.com"
+        ], 
+        "domain-name": "gotoi.p55.com", 
+        "fuzzer": "subdomain", 
+        "geoip-country": "United States"
+    }, 
+    {
+        "dns-a": [
+            "116.213.178.11"
+        ], 
+        "domain-name": "gotoip.55.com", 
+        "fuzzer": "subdomain", 
+        "geoip-country": "China"
+    }
+]

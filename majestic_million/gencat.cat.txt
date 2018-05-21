@@ -1,0 +1,37 @@
+[
+    {
+        "dns-a": [
+            "83.247.129.60"
+        ], 
+        "dns-mx": [
+            "smtp1.gencat.cat", 
+            "smtp2.gencat.cat", 
+            "smtp3.gencat.cat"
+        ], 
+        "domain-name": "gencat.cat", 
+        "fuzzer": "original*", 
+        "geoip-country": "Spain", 
+        "ssdeep-score": 100
+    }, 
+    {
+        "dns-ns": [
+            "docks11.rzone.de", 
+            "shades16.rzone.de"
+        ], 
+        "domain-name": "genkat.cat", 
+        "fuzzer": "bitsquatting"
+    }, 
+    {
+        "dns-a": [
+            "217.76.128.34"
+        ], 
+        "dns-ns": [
+            "dns29.servidoresdns.net", 
+            "dns30.servidoresdns.net"
+        ], 
+        "domain-name": "encat.cat", 
+        "fuzzer": "omission", 
+        "geoip-country": "Spain", 
+        "ssdeep-score": 0
+    }
+]

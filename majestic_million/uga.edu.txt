@@ -1,0 +1,161 @@
+[
+    {
+        "dns-a": [
+            "128.192.225.20"
+        ], 
+        "dns-mx": [
+            "uga-edu.mail.protection.outlook.com"
+        ], 
+        "dns-ns": [
+            "dns2.uga.edu", 
+            "dns3.uga.edu", 
+            "dns4.uga.edu"
+        ], 
+        "domain-name": "uga.edu", 
+        "fuzzer": "original*", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 100
+    }, 
+    {
+        "dns-a": [
+            "168.22.248.185"
+        ], 
+        "dns-mx": [
+            "barracuda.ega.edu"
+        ], 
+        "dns-ns": [
+            "ns1.usg.edu", 
+            "ns2.usg.edu", 
+            "ns3.usg.edu", 
+            "ns4.usg.edu"
+        ], 
+        "domain-name": "ega.edu", 
+        "fuzzer": "bitsquatting", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "161.31.3.35"
+        ], 
+        "dns-mx": [
+            "alt1.aspmx.l.google.com", 
+            "alt2.aspmx.l.google.com", 
+            "alt3.aspmx.l.google.com", 
+            "alt4.aspmx.l.google.com", 
+            "aspmx.l.google.com"
+        ], 
+        "dns-ns": [
+            "ns.arknet.edu", 
+            "ns1.uca.edu", 
+            "ns2.uca.edu"
+        ], 
+        "domain-name": "uca.edu", 
+        "fuzzer": "bitsquatting", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "199.88.23.56"
+        ], 
+        "dns-mx": [
+            "mxa-0026f501.gslb.pphosted.com", 
+            "mxb-0026f501.gslb.pphosted.com"
+        ], 
+        "dns-ns": [
+            "asnsvr.asc.edu", 
+            "asnsvr2.asc.edu", 
+            "az-uwans.uwa.edu", 
+            "ns1.uwa.edu", 
+            "ns2.uwa.edu"
+        ], 
+        "domain-name": "uwa.edu", 
+        "fuzzer": "bitsquatting", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "130.160.0.20", 
+            "130.160.2.20"
+        ], 
+        "dns-mx": [
+            "mx1.ua.edu", 
+            "mx2.ua.edu"
+        ], 
+        "dns-ns": [
+            "ext-dns1.ua.edu", 
+            "ext-dns2.ua.edu", 
+            "ext-dns3.ua.edu"
+        ], 
+        "domain-name": "ua.edu", 
+        "fuzzer": "omission", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "129.107.58.60"
+        ], 
+        "dns-mx": [
+            "smtp.uta.edu"
+        ], 
+        "dns-ns": [
+            "maggie.telcom.arizona.edu", 
+            "ns-remote.arizona.edu", 
+            "ns1.uta.edu", 
+            "ns2.ots.utsystem.edu", 
+            "ns2.uta.edu"
+        ], 
+        "domain-name": "uta.edu", 
+        "fuzzer": "replacement", 
+        "geoip-country": "United States"
+    }, 
+    {
+        "dns-a": [
+            "104.196.199.193"
+        ], 
+        "dns-mx": [
+            "alt1.aspmx.l.google.com", 
+            "alt2.aspmx.l.google.com", 
+            "aspmx.l.google.com", 
+            "aspmx2.googlemail.com", 
+            "aspmx3.googlemail.com"
+        ], 
+        "dns-ns": [
+            "ns-cloud-a1.googledomains.com", 
+            "ns-cloud-a2.googledomains.com", 
+            "ns-cloud-a3.googledomains.com", 
+            "ns-cloud-a4.googledomains.com"
+        ], 
+        "domain-name": "iga.edu", 
+        "fuzzer": "replacement", 
+        "geoip-country": "United States"
+    }, 
+    {
+        "dns-ns": [
+            "ib03-vlc-vip.net.virginia.edu", 
+            "ib04-cdc-udc-vip.net.virginia.edu"
+        ], 
+        "domain-name": "uva.edu", 
+        "fuzzer": "replacement"
+    }, 
+    {
+        "dns-a": [
+            "69.167.190.53"
+        ], 
+        "dns-mx": [
+            "mx1.emailsrvr.com", 
+            "mx2.emailsrvr.com"
+        ], 
+        "dns-ns": [
+            "dns1.stabletransit.com", 
+            "dns2.stabletransit.com"
+        ], 
+        "domain-name": "uag.edu", 
+        "fuzzer": "transposition", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 0
+    }
+]

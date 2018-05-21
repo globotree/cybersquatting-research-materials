@@ -1,0 +1,181 @@
+[
+    {
+        "dns-a": [
+            "89.185.38.136"
+        ], 
+        "dns-mx": [
+            "mx1.louvre.fr", 
+            "mx2.louvre.fr"
+        ], 
+        "dns-ns": [
+            "ns0.fr.claradns.net", 
+            "ns1.fr.claradns.net", 
+            "ns2.fr.claradns.net"
+        ], 
+        "domain-name": "louvre.fr", 
+        "fuzzer": "original*", 
+        "geoip-country": "France", 
+        "ssdeep-score": 100
+    }, 
+    {
+        "dns-aaaa": [
+            "2001:8d8:100f:f000::26a"
+        ], 
+        "dns-mx": [
+            "mx00.1and1.fr", 
+            "mx01.1and1.fr"
+        ], 
+        "dns-ns": [
+            "ns1043.ui-dns.biz", 
+            "ns1043.ui-dns.com", 
+            "ns1043.ui-dns.de", 
+            "ns1043.ui-dns.org"
+        ], 
+        "domain-name": "louvree.fr", 
+        "fuzzer": "addition"
+    }, 
+    {
+        "dns-a": [
+            "213.186.33.87"
+        ], 
+        "dns-mx": [
+            "mx1.ovh.net", 
+            "mx2.ovh.net", 
+            "mxb.ovh.net"
+        ], 
+        "dns-ns": [
+            "dns20.ovh.net", 
+            "ns20.ovh.net"
+        ], 
+        "domain-name": "louvres.fr", 
+        "fuzzer": "addition", 
+        "geoip-country": "France", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "37.97.135.129"
+        ], 
+        "dns-mx": [
+            "mx186.m2bp.com", 
+            "mx186.mb1p.com"
+        ], 
+        "dns-ns": [
+            "ns1.sonexo.eu", 
+            "ns2.sonexo.com"
+        ], 
+        "domain-name": "loutre.fr", 
+        "fuzzer": "bitsquatting", 
+        "geoip-country": "Netherlands", 
+        "mx-spy": true, 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "185.53.178.29"
+        ], 
+        "domain-name": "lovre.fr", 
+        "fuzzer": "omission", 
+        "geoip-country": "Germany", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "185.53.177.29"
+        ], 
+        "dns-ns": [
+            "ns1.gegidns.com", 
+            "ns2.gegidns.com"
+        ], 
+        "domain-name": "louvr.fr", 
+        "fuzzer": "omission", 
+        "geoip-country": "Germany", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "185.53.177.29"
+        ], 
+        "dns-ns": [
+            "ns1.gegidns.com", 
+            "ns2.gegidns.com"
+        ], 
+        "domain-name": "loure.fr", 
+        "fuzzer": "omission", 
+        "geoip-country": "Germany", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "192.64.147.176"
+        ], 
+        "dns-ns": [
+            "ns1.voodoo.com", 
+            "ns2.voodoo.com"
+        ], 
+        "domain-name": "luvre.fr", 
+        "fuzzer": "omission", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "213.186.33.5"
+        ], 
+        "domain-name": "ouvre.fr", 
+        "fuzzer": "omission"
+    }, 
+    {
+        "dns-a": [
+            "72.52.4.122"
+        ], 
+        "dns-ns": [
+            "ns1.sedoparking.com", 
+            "ns2.sedoparking.com"
+        ], 
+        "domain-name": "louve.fr", 
+        "fuzzer": "omission"
+    }, 
+    {
+        "dns-a": [
+            "212.83.133.209"
+        ], 
+        "dns-mx": [
+            "mx.hexanet.fr", 
+            "mx2.hexanet.fr", 
+            "mx3.hexanet.fr"
+        ], 
+        "dns-ns": [
+            "ns3.hexanet.fr", 
+            "ns4.hexanet.fr"
+        ], 
+        "domain-name": "loivre.fr", 
+        "fuzzer": "replacement", 
+        "geoip-country": "France", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "141.8.225.186"
+        ], 
+        "dns-ns": [
+            "ns1.gegidns.com", 
+            "ns2.gegidns.com"
+        ], 
+        "domain-name": "lourve.fr", 
+        "fuzzer": "transposition", 
+        "geoip-country": "Switzerland", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "185.53.177.29"
+        ], 
+        "dns-ns": [
+            "ns1.gegidns.com", 
+            "ns2.gegidns.com"
+        ], 
+        "domain-name": "louver.fr", 
+        "fuzzer": "transposition"
+    }
+]

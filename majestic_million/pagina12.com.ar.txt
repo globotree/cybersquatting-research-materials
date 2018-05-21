@@ -1,0 +1,56 @@
+[
+    {
+        "dns-a": [
+            "104.20.10.198", 
+            "104.20.9.198"
+        ], 
+        "dns-mx": [
+            "mail.pagina12.com.ar"
+        ], 
+        "dns-ns": [
+            "bill.ns.cloudflare.com", 
+            "edna.ns.cloudflare.com"
+        ], 
+        "domain-name": "pagina12.com.ar", 
+        "fuzzer": "original*", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 94
+    }, 
+    {
+        "dns-a": [
+            "200.58.111.217"
+        ], 
+        "dns-mx": [
+            "mail.pagina16.com.ar", 
+            "mx1.pagina16.com.ar"
+        ], 
+        "dns-ns": [
+            "ns3.hostmar.com", 
+            "ns4.hostmar.com"
+        ], 
+        "domain-name": "pagina16.com.ar", 
+        "fuzzer": "bitsquatting", 
+        "geoip-country": "Argentina"
+    }, 
+    {
+        "dns-a": [
+            "138.0.155.8"
+        ], 
+        "dns-ns": [
+            "dns1.pagina12.com.ar", 
+            "dns2.pagina12.com.ar"
+        ], 
+        "domain-name": "xn--pgina12-hwa.com.ar", 
+        "fuzzer": "homoglyph", 
+        "geoip-country": "Argentina", 
+        "ssdeep-score": 94
+    }, 
+    {
+        "dns-a": [
+            "181.225.136.70"
+        ], 
+        "domain-name": "pagina1.2.com.ar", 
+        "fuzzer": "subdomain", 
+        "geoip-country": "Argentina"
+    }
+]

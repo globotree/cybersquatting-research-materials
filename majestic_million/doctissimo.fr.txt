@@ -1,0 +1,116 @@
+[
+    {
+        "dns-a": [
+            "85.116.38.43"
+        ], 
+        "dns-mx": [
+            "mailhub.medcost.fr", 
+            "ns1.medcost.fr"
+        ], 
+        "dns-ns": [
+            "ns01.ladtech.fr", 
+            "ns02.ladtech.fr"
+        ], 
+        "domain-name": "doctissimo.fr", 
+        "fuzzer": "original*", 
+        "geoip-country": "France", 
+        "ssdeep-score": 100
+    }, 
+    {
+        "dns-a": [
+            "195.64.164.87"
+        ], 
+        "dns-mx": [
+            "mail.dogtissimo.fr"
+        ], 
+        "dns-ns": [
+            "a.ns.mailclub.fr", 
+            "b.ns.mailclub.eu", 
+            "c.ns.mailclub.com"
+        ], 
+        "domain-name": "dogtissimo.fr", 
+        "fuzzer": "bitsquatting", 
+        "geoip-country": "France", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "37.59.179.120"
+        ], 
+        "dns-mx": [
+            "mx1.octea.com"
+        ], 
+        "dns-ns": [
+            "a.dns.gandi.net", 
+            "b.dns.gandi.net", 
+            "c.dns.gandi.net"
+        ], 
+        "domain-name": "octissimo.fr", 
+        "fuzzer": "omission", 
+        "geoip-country": "France", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "217.70.184.38"
+        ], 
+        "dns-mx": [
+            "fb.mail.gandi.net", 
+            "spool.mail.gandi.net"
+        ], 
+        "dns-ns": [
+            "a.dns.gandi.net", 
+            "b.dns.gandi.net", 
+            "c.dns.gandi.net"
+        ], 
+        "domain-name": "doctissimmo.fr", 
+        "fuzzer": "repetition", 
+        "geoip-country": "France", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "185.53.178.29"
+        ], 
+        "dns-ns": [
+            "ns1.domforce.com", 
+            "ns2.domforce.com", 
+            "ns3.domforce.com", 
+            "ns4.domforce.com", 
+            "ns5.domforce.com"
+        ], 
+        "domain-name": "doctossimo.fr", 
+        "fuzzer": "replacement", 
+        "geoip-country": "Germany", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "37.59.179.120"
+        ], 
+        "domain-name": "d.octissimo.fr", 
+        "fuzzer": "subdomain", 
+        "geoip-country": "France", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "193.70.61.180"
+        ], 
+        "dns-ns": [
+            "dns11.ovh.net", 
+            "ns11.ovh.net"
+        ], 
+        "domain-name": "doctiss.imo.fr", 
+        "fuzzer": "subdomain", 
+        "geoip-country": "Italy"
+    }, 
+    {
+        "dns-a": [
+            "95.142.172.215"
+        ], 
+        "domain-name": "doctissi.mo.fr", 
+        "fuzzer": "subdomain", 
+        "geoip-country": "France"
+    }
+]

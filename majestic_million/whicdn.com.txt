@@ -1,0 +1,76 @@
+[
+    {
+        "dns-a": [
+            "72.21.91.125"
+        ], 
+        "dns-ns": [
+            "ns-1424.awsdns-50.org", 
+            "ns-145.awsdns-18.com", 
+            "ns-1883.awsdns-43.co.uk", 
+            "ns-899.awsdns-48.net"
+        ], 
+        "domain-name": "whicdn.com", 
+        "fuzzer": "original*", 
+        "geoip-country": "United States"
+    }, 
+    {
+        "dns-a": [
+            "184.168.221.43"
+        ], 
+        "dns-mx": [
+            "mailstore1.secureserver.net", 
+            "smtp.secureserver.net"
+        ], 
+        "dns-ns": [
+            "ns55.domaincontrol.com", 
+            "ns56.domaincontrol.com"
+        ], 
+        "domain-name": "whmcdn.com", 
+        "fuzzer": "bitsquatting", 
+        "geoip-country": "United States"
+    }, 
+    {
+        "dns-ns": [
+            "f1g1ns1.dnspod.net", 
+            "f1g1ns2.dnspod.net"
+        ], 
+        "domain-name": "whcdn.com", 
+        "fuzzer": "omission"
+    }, 
+    {
+        "dns-a": [
+            "101.254.154.3"
+        ], 
+        "dns-mx": [
+            "mxbiz1.qq.com", 
+            "mxbiz2.qq.com"
+        ], 
+        "dns-ns": [
+            "ns1.dns.com.cn", 
+            "ns2.dns.com.cn"
+        ], 
+        "domain-name": "hicdn.com", 
+        "fuzzer": "omission", 
+        "geoip-country": "China"
+    }, 
+    {
+        "dns-a": [
+            "103.47.221.207"
+        ], 
+        "dns-ns": [
+            "ns17.xincache.com", 
+            "ns18.xincache.com"
+        ], 
+        "domain-name": "wicdn.com", 
+        "fuzzer": "omission", 
+        "geoip-country": "China"
+    }, 
+    {
+        "dns-a": [
+            "98.126.46.27"
+        ], 
+        "domain-name": "whocdn.com", 
+        "fuzzer": "replacement", 
+        "geoip-country": "United States"
+    }
+]

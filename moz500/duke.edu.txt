@@ -1,0 +1,27 @@
+[
+    {
+        "dns-a": [
+            "152.3.72.197"
+        ], 
+        "dns-mx": [
+            "mx.oit.duke.edu"
+        ], 
+        "dns-ns": [
+            "dns-auth-01.oit.duke.edu", 
+            "dns-auth-02.oit.duke.edu", 
+            "dns-nc1-01.oit.duke.edu"
+        ], 
+        "domain-name": "duke.edu", 
+        "fuzzer": "original*", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 100
+    }, 
+    {
+        "dns-ns": [
+            "ns17.xincache.com", 
+            "ns18.xincache.com"
+        ], 
+        "domain-name": "duke-edu.com", 
+        "fuzzer": "various"
+    }
+]

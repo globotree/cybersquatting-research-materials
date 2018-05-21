@@ -1,0 +1,33 @@
+[
+    {
+        "dns-ns": [
+            "dns1.p04.nsone.net", 
+            "dns2.p04.nsone.net", 
+            "dns3.p04.nsone.net", 
+            "dns4.p04.nsone.net", 
+            "ns-1326.awsdns-37.org", 
+            "ns-1716.awsdns-22.co.uk", 
+            "ns-946.awsdns-54.net", 
+            "ns-97.awsdns-12.com"
+        ], 
+        "domain-name": "netdna-cdn.com", 
+        "fuzzer": "original*"
+    }, 
+    {
+        "dns-a": [
+            "173.239.5.6", 
+            "173.239.8.164", 
+            "213.247.47.190"
+        ], 
+        "dns-mx": [
+            "mx7.netdnacdn.com"
+        ], 
+        "dns-ns": [
+            "ns1.expiereddnsmanager.com", 
+            "ns2.expiereddnsmanager.com"
+        ], 
+        "domain-name": "netdnacdn.com", 
+        "fuzzer": "omission", 
+        "geoip-country": "United States"
+    }
+]

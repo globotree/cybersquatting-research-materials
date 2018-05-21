@@ -1,0 +1,92 @@
+[
+    {
+        "dns-ns": [
+            "ns1.dns.net.nz", 
+            "ns2.dns.net.nz", 
+            "ns3.dns.net.nz", 
+            "ns4.dns.net.nz", 
+            "ns5.dns.net.nz", 
+            "ns6.dns.net.nz", 
+            "ns7.dns.net.nz"
+        ], 
+        "domain-name": "govt.nz", 
+        "fuzzer": "original*"
+    }, 
+    {
+        "dns-a": [
+            "138.68.235.25"
+        ], 
+        "dns-ns": [
+            "ns1.digitalocean.com", 
+            "ns2.digitalocean.com", 
+            "ns3.digitalocean.com"
+        ], 
+        "domain-name": "govts.nz", 
+        "fuzzer": "addition", 
+        "geoip-country": "United States"
+    }, 
+    {
+        "dns-a": [
+            "199.73.55.48"
+        ], 
+        "dns-mx": [
+            "MAIL.101DOMAIN.COM"
+        ], 
+        "dns-ns": [
+            "NS1.101DOMAIN.COM", 
+            "NS2.101DOMAIN.COM", 
+            "NS5.101DOMAIN.COM"
+        ], 
+        "domain-name": "gott.nz", 
+        "fuzzer": "bitsquatting", 
+        "geoip-country": "United States"
+    }, 
+    {
+        "dns-mx": [
+            "alt1.aspmx.l.google.com", 
+            "aspmx.l.google.com"
+        ], 
+        "dns-ns": [
+            "ns1.discountdomains.co.nz", 
+            "ns2.discountdomains.co.nz", 
+            "ns3.discountdomains.co.nz"
+        ], 
+        "domain-name": "g0vt.nz", 
+        "fuzzer": "homoglyph"
+    }, 
+    {
+        "dns-a": [
+            "104.31.72.40", 
+            "104.31.73.40"
+        ], 
+        "dns-aaaa": [
+            "2400:cb00:2048:1::681f:4828", 
+            "2400:cb00:2048:1::681f:4928"
+        ], 
+        "dns-ns": [
+            "ed.ns.cloudflare.com", 
+            "pat.ns.cloudflare.com"
+        ], 
+        "domain-name": "got.nz", 
+        "fuzzer": "omission", 
+        "geoip-country": "United States"
+    }, 
+    {
+        "dns-a": [
+            "34.196.13.28"
+        ], 
+        "dns-mx": [
+            "mail.happyisp.com"
+        ], 
+        "dns-ns": [
+            "ns1.pql.net", 
+            "ns2.pql.net", 
+            "ns3.tppns.com", 
+            "ns4.tppns.com"
+        ], 
+        "domain-name": "gvot.nz", 
+        "fuzzer": "transposition", 
+        "geoip-country": "United States", 
+        "mx-spy": true
+    }
+]

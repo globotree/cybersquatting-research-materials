@@ -1,0 +1,136 @@
+[
+    {
+        "dns-a": [
+            "129.70.240.4"
+        ], 
+        "dns-mx": [
+            "mx1.uni-bielefeld.de", 
+            "mx2.uni-bielefeld.de", 
+            "mx3.uni-bielefeld.de"
+        ], 
+        "dns-ns": [
+            "dns-2.dfn.de", 
+            "ns1.uni-bielefeld.de", 
+            "ns2.uni-bielefeld.de"
+        ], 
+        "domain-name": "uni-bielefeld.de", 
+        "fuzzer": "original*", 
+        "geoip-country": "Germany", 
+        "ssdeep-score": 100
+    }, 
+    {
+        "dns-ns": [
+            "dns-1.dfn.de", 
+            "dns-2.dfn.de", 
+            "dns-3.dfn.de"
+        ], 
+        "domain-name": "uni-bielefel.de", 
+        "fuzzer": "omission"
+    }, 
+    {
+        "dns-ns": [
+            "dns-1.dfn.de", 
+            "dns-2.dfn.de", 
+            "dns-3.dfn.de"
+        ], 
+        "domain-name": "uni-bielfeld.de", 
+        "fuzzer": "omission"
+    }, 
+    {
+        "dns-ns": [
+            "dns-2.dfn.de", 
+            "ns1.uni-bielefeld.de", 
+            "ns2.uni-bielefeld.de"
+        ], 
+        "domain-name": "unibielefeld.de", 
+        "fuzzer": "omission"
+    }, 
+    {
+        "dns-ns": [
+            "dns-1.dfn.de", 
+            "dns-2.dfn.de", 
+            "dns-3.dfn.de"
+        ], 
+        "domain-name": "uni-bielefld.de", 
+        "fuzzer": "omission"
+    }, 
+    {
+        "dns-ns": [
+            "dns-1.dfn.de", 
+            "dns-2.dfn.de", 
+            "dns-3.dfn.de"
+        ], 
+        "domain-name": "uni-bilefeld.de", 
+        "fuzzer": "omission"
+    }, 
+    {
+        "dns-ns": [
+            "dns-1.dfn.de", 
+            "dns-2.dfn.de", 
+            "dns-3.dfn.de"
+        ], 
+        "domain-name": "uni-bielefed.de", 
+        "fuzzer": "omission"
+    }, 
+    {
+        "dns-a": [
+            "185.53.179.6"
+        ], 
+        "dns-mx": [
+            "mail.h-email.net"
+        ], 
+        "dns-ns": [
+            "ns1.parkingcrew.net", 
+            "ns2.parkingcrew.net"
+        ], 
+        "domain-name": "un-bielefeld.de", 
+        "fuzzer": "omission", 
+        "geoip-country": "Germany", 
+        "mx-spy": true, 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "54.72.9.51"
+        ], 
+        "dns-mx": [
+            "mail.h-email.net"
+        ], 
+        "dns-ns": [
+            "ns1.parkingcrew.net", 
+            "ns2.parkingcrew.net"
+        ], 
+        "domain-name": "uni-bieleeld.de", 
+        "fuzzer": "omission", 
+        "geoip-country": "Ireland", 
+        "mx-spy": true, 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "212.46.109.194"
+        ], 
+        "domain-name": "uni-biele.feld.de", 
+        "fuzzer": "subdomain", 
+        "geoip-country": "Germany", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "62.116.133.123"
+        ], 
+        "domain-name": "uni-bielefel.d.de", 
+        "fuzzer": "subdomain", 
+        "geoip-country": "Germany", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-ns": [
+            "dns-1.dfn.de", 
+            "dns-2.dfn.de", 
+            "dns-3.dfn.de"
+        ], 
+        "domain-name": "uni-bielefled.de", 
+        "fuzzer": "transposition"
+    }
+]

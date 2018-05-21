@@ -1,0 +1,92 @@
+[
+    {
+        "dns-a": [
+            "130.211.40.237"
+        ], 
+        "dns-mx": [
+            "mail.mds.de", 
+            "mail1.mds.de", 
+            "mail2.mds.de"
+        ], 
+        "dns-ns": [
+            "1.ns.berlinonline.de", 
+            "2.ns.berlinonline.de", 
+            "x.ns.berlinonline.de"
+        ], 
+        "domain-name": "berliner-zeitung.de", 
+        "fuzzer": "original*", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 100
+    }, 
+    {
+        "dns-a": [
+            "72.52.179.175"
+        ], 
+        "dns-mx": [
+            "mx156.hostedmxserver.com"
+        ], 
+        "dns-ns": [
+            "ns1.parklogic.com", 
+            "ns2.parklogic.com", 
+            "ns3.parklogic.com"
+        ], 
+        "domain-name": "beliner-zeitung.de", 
+        "fuzzer": "omission", 
+        "geoip-country": "United States", 
+        "mx-spy": true, 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "5.39.246.37"
+        ], 
+        "domain-name": "berlinerzeitung.de", 
+        "fuzzer": "omission", 
+        "geoip-country": "Germany", 
+        "ssdeep-score": 100
+    }, 
+    {
+        "dns-a": [
+            "46.38.235.18"
+        ], 
+        "domain-name": "berlin.er-zeitung.de", 
+        "fuzzer": "subdomain", 
+        "geoip-country": "Germany", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "176.9.83.229"
+        ], 
+        "domain-name": "berliner-zei.tung.de", 
+        "fuzzer": "subdomain", 
+        "geoip-country": "Germany", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "88.99.192.80"
+        ], 
+        "dns-ns": [
+            "ns1.kv.de", 
+            "ns2.kv.de"
+        ], 
+        "domain-name": "berliner-zeitun.g.de", 
+        "fuzzer": "subdomain", 
+        "geoip-country": "Germany", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "5.39.246.37"
+        ], 
+        "dns-ns": [
+            "1.ns.berlinonline.de", 
+            "2.ns.berlinonline.de", 
+            "x.ns.berlinonline.de"
+        ], 
+        "domain-name": "berlinre-zeitung.de", 
+        "fuzzer": "transposition", 
+        "geoip-country": "Germany"
+    }
+]

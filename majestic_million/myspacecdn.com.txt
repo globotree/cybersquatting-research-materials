@@ -1,0 +1,36 @@
+[
+    {
+        "dns-ns": [
+            "ns-cloud-d1.googledomains.com", 
+            "ns-cloud-d2.googledomains.com", 
+            "ns-cloud-d3.googledomains.com", 
+            "ns-cloud-d4.googledomains.com"
+        ], 
+        "domain-name": "myspacecdn.com", 
+        "fuzzer": "original*"
+    }, 
+    {
+        "dns-a": [
+            "78.140.179.18"
+        ], 
+        "domain-name": "my.spacecdn.com", 
+        "fuzzer": "subdomain", 
+        "geoip-country": "Netherlands"
+    }, 
+    {
+        "dns-a": [
+            "46.4.102.45"
+        ], 
+        "domain-name": "mys.pacecdn.com", 
+        "fuzzer": "subdomain", 
+        "geoip-country": "Germany"
+    }, 
+    {
+        "dns-a": [
+            "45.120.153.79"
+        ], 
+        "domain-name": "myspac.ecdn.com", 
+        "fuzzer": "subdomain", 
+        "geoip-country": "Hong Kong"
+    }
+]

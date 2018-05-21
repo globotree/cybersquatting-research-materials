@@ -1,0 +1,81 @@
+[
+    {
+        "dns-a": [
+            "178.124.129.12", 
+            "178.124.129.14", 
+            "178.124.129.16"
+        ], 
+        "dns-mx": [
+            "alt1.aspmx.l.google.com", 
+            "alt2.aspmx.l.google.com", 
+            "aspmx.l.google.com", 
+            "aspmx2.googlemail.com", 
+            "aspmx3.googlemail.com"
+        ], 
+        "dns-ns": [
+            "ns1.dnspark.com", 
+            "ns2.dnspark.net"
+        ], 
+        "domain-name": "onliner.by", 
+        "fuzzer": "original*", 
+        "geoip-country": "Belarus", 
+        "ssdeep-score": 90
+    }, 
+    {
+        "dns-ns": [
+            "ns1.activeby.net", 
+            "ns2.activeby.net"
+        ], 
+        "domain-name": "onminer.by", 
+        "fuzzer": "bitsquatting"
+    }, 
+    {
+        "dns-a": [
+            "185.66.70.39"
+        ], 
+        "dns-mx": [
+            "onlaner.by"
+        ], 
+        "dns-ns": [
+            "dns1.helpdesk.by", 
+            "dns2.helpdesk.by"
+        ], 
+        "domain-name": "onlaner.by", 
+        "fuzzer": "bitsquatting", 
+        "geoip-country": "Belarus", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "178.159.240.240"
+        ], 
+        "dns-mx": [
+            "mx1.activeby.net", 
+            "mx2.activeby.net"
+        ], 
+        "dns-ns": [
+            "ns1.activeby.net", 
+            "ns2.activeby.net", 
+            "ns3.activeby.net"
+        ], 
+        "domain-name": "onlyner.by", 
+        "fuzzer": "bitsquatting", 
+        "geoip-country": "Belarus", 
+        "mx-spy": true
+    }, 
+    {
+        "dns-a": [
+            "178.124.129.12", 
+            "178.124.129.14", 
+            "178.124.129.16"
+        ], 
+        "dns-ns": [
+            "ns1.dnspark.com", 
+            "ns2.dnspark.net"
+        ], 
+        "domain-name": "online.by", 
+        "fuzzer": "omission", 
+        "geoip-country": "Belarus", 
+        "ssdeep-score": 83
+    }
+]

@@ -1,0 +1,89 @@
+[
+    {
+        "dns-a": [
+            "144.217.159.253"
+        ], 
+        "dns-mx": [
+            "mail.papernow.org"
+        ], 
+        "dns-ns": [
+            "pdns09.domaincontrol.com", 
+            "pdns10.domaincontrol.com"
+        ], 
+        "domain-name": "papernow.org", 
+        "fuzzer": "original*", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 100
+    }, 
+    {
+        "dns-a": [
+            "104.207.134.33"
+        ], 
+        "dns-mx": [
+            "mail.paper-now.org"
+        ], 
+        "dns-ns": [
+            "ns.securednsservices.com", 
+            "ns2.securednsservices.com"
+        ], 
+        "domain-name": "paper-now.org", 
+        "fuzzer": "hyphenation", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "72.52.4.122"
+        ], 
+        "dns-mx": [
+            "localhost"
+        ], 
+        "dns-ns": [
+            "ns1.sedoparking.com", 
+            "ns2.sedoparking.com"
+        ], 
+        "domain-name": "papern.ow.org", 
+        "fuzzer": "subdomain", 
+        "geoip-country": "United States", 
+        "mx-spy": true, 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "198.143.164.252"
+        ], 
+        "dns-mx": [
+            "mail.wordpress.org"
+        ], 
+        "dns-ns": [
+            "ns1.wordpress.org", 
+            "ns2.wordpress.org", 
+            "ns3.wordpress.org", 
+            "ns4.wordpress.org"
+        ], 
+        "domain-name": "paperno.w.org", 
+        "fuzzer": "subdomain", 
+        "geoip-country": "United States"
+    }, 
+    {
+        "dns-a": [
+            "62.149.128.151", 
+            "62.149.128.154", 
+            "62.149.128.157", 
+            "62.149.128.160", 
+            "62.149.128.163", 
+            "62.149.128.166"
+        ], 
+        "dns-mx": [
+            "mx.papernew.org"
+        ], 
+        "dns-ns": [
+            "dns.technorail.com", 
+            "dns2.technorail.com", 
+            "dns3.arubadns.net", 
+            "dns4.arubadns.cz"
+        ], 
+        "domain-name": "papernew.org", 
+        "fuzzer": "vowel-swap"
+    }
+]

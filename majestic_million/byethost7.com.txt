@@ -1,0 +1,140 @@
+[
+    {
+        "dns-ns": [
+            "ns1.byet.org", 
+            "ns1.byethost7.com", 
+            "ns2.byet.org", 
+            "ns2.byethost7.com", 
+            "ns3.byet.org", 
+            "ns4.byet.org", 
+            "ns5.byet.org"
+        ], 
+        "domain-name": "byethost7.com", 
+        "fuzzer": "original*"
+    }, 
+    {
+        "dns-ns": [
+            "ns1.byet.org", 
+            "ns2.byet.org", 
+            "ns3.byet.org", 
+            "ns4.byet.org", 
+            "ns5.byet.org"
+        ], 
+        "domain-name": "byethost6.com", 
+        "fuzzer": "bitsquatting"
+    }, 
+    {
+        "dns-ns": [
+            "ns1.byet.org", 
+            "ns2.byet.org", 
+            "ns3.byet.org", 
+            "ns4.byet.org", 
+            "ns5.byet.org"
+        ], 
+        "domain-name": "byethost3.com", 
+        "fuzzer": "bitsquatting"
+    }, 
+    {
+        "dns-a": [
+            "67.55.92.182", 
+            "67.55.92.183"
+        ], 
+        "dns-mx": [
+            "mx7.bythost7.com"
+        ], 
+        "dns-ns": [
+            "ns3.renewyourexpiereddomain.com", 
+            "ns4.renewyourexpiereddomain.com"
+        ], 
+        "domain-name": "bythost7.com", 
+        "fuzzer": "omission", 
+        "geoip-country": "United States"
+    }, 
+    {
+        "dns-a": [
+            "67.55.92.182", 
+            "67.55.92.183"
+        ], 
+        "dns-mx": [
+            "mx7.byehost7.com"
+        ], 
+        "dns-ns": [
+            "ns3.renewyourexpiereddomain.com", 
+            "ns4.renewyourexpiereddomain.com"
+        ], 
+        "domain-name": "byehost7.com", 
+        "fuzzer": "omission", 
+        "geoip-country": "United States"
+    }, 
+    {
+        "dns-a": [
+            "67.55.92.184", 
+            "67.55.92.187"
+        ], 
+        "dns-mx": [
+            "mx7.byethos7.com"
+        ], 
+        "dns-ns": [
+            "ns1.liverealdeals.com", 
+            "ns2.liverealdeals.com"
+        ], 
+        "domain-name": "byethos7.com", 
+        "fuzzer": "omission", 
+        "geoip-country": "United States"
+    }, 
+    {
+        "dns-a": [
+            "164.132.240.3"
+        ], 
+        "dns-mx": [
+            "mail.byethost.com"
+        ], 
+        "dns-ns": [
+            "ns1.byet.org", 
+            "ns2.byet.org", 
+            "ns3.byet.org", 
+            "ns4.byet.org", 
+            "ns5.byet.org"
+        ], 
+        "domain-name": "byethost.com", 
+        "fuzzer": "omission", 
+        "geoip-country": "France"
+    }, 
+    {
+        "dns-ns": [
+            "ns1.byet.org", 
+            "ns1.byethost8.com", 
+            "ns2.byet.org", 
+            "ns2.byethost8.com", 
+            "ns3.byet.org", 
+            "ns4.byet.org", 
+            "ns5.byet.org"
+        ], 
+        "domain-name": "byethost8.com", 
+        "fuzzer": "replacement"
+    }, 
+    {
+        "dns-a": [
+            "69.172.201.153"
+        ], 
+        "dns-ns": [
+            "ns1.uniregistrymarket.link", 
+            "ns2.uniregistrymarket.link"
+        ], 
+        "domain-name": "byetho.st7.com", 
+        "fuzzer": "subdomain", 
+        "geoip-country": "United States"
+    }, 
+    {
+        "dns-a": [
+            "184.168.221.104"
+        ], 
+        "dns-ns": [
+            "ns1.afternic.com", 
+            "ns2.afternic.com"
+        ], 
+        "domain-name": "bytehost7.com", 
+        "fuzzer": "transposition", 
+        "geoip-country": "United States"
+    }
+]

@@ -1,0 +1,318 @@
+[
+    {
+        "dns-mx": [
+            "mx1.ust.hk", 
+            "mx2.ust.hk"
+        ], 
+        "dns-ns": [
+            "ustsu1.ust.hk", 
+            "ustsu2.ust.hk"
+        ], 
+        "domain-name": "ust.hk", 
+        "fuzzer": "original*"
+    }, 
+    {
+        "dns-a": [
+            "115.159.5.220"
+        ], 
+        "dns-mx": [
+            "mxdomain.qq.com"
+        ], 
+        "dns-ns": [
+            "ns1.myhostadmin.net", 
+            "ns2.myhostadmin.net", 
+            "ns3.myhostadmin.net", 
+            "ns4.myhostadmin.net", 
+            "ns5.myhostadmin.net", 
+            "ns6.myhostadmin.net"
+        ], 
+        "domain-name": "ustc.hk", 
+        "fuzzer": "addition", 
+        "geoip-country": "China"
+    }, 
+    {
+        "dns-a": [
+            "43.241.73.91"
+        ], 
+        "dns-mx": [
+            "tst-hk.mail.protection.outlook.com"
+        ], 
+        "dns-ns": [
+            "ns29.pointdnshere.net", 
+            "ns30.pointdnshere.net"
+        ], 
+        "domain-name": "tst.hk", 
+        "fuzzer": "bitsquatting", 
+        "geoip-country": "Hong Kong"
+    }, 
+    {
+        "dns-a": [
+            "103.232.215.147"
+        ], 
+        "dns-mx": [
+            "mail.happyisp.com"
+        ], 
+        "domain-name": "wst.hk", 
+        "fuzzer": "bitsquatting", 
+        "geoip-country": "China", 
+        "mx-spy": true
+    }, 
+    {
+        "dns-a": [
+            "203.174.34.54"
+        ], 
+        "dns-mx": [
+            "ALT2.ASPMX.L.GOOGLE.COM", 
+            "ASPMX.L.GOOGLE.COM", 
+            "ASPMX.L.GOOGLE.COM", 
+            "ASPMX2.GOOGLEMAIL.COM", 
+            "ASPMX3.GOOGLEMAIL.COM"
+        ], 
+        "dns-ns": [
+            "ns1.abchk.net", 
+            "ns2.abchk.net"
+        ], 
+        "domain-name": "qst.hk", 
+        "fuzzer": "bitsquatting", 
+        "geoip-country": "Hong Kong"
+    }, 
+    {
+        "dns-a": [
+            "43.252.163.155"
+        ], 
+        "dns-ns": [
+            "ns5.dnsdun.com", 
+            "ns5.dnsdun.net"
+        ], 
+        "domain-name": "urt.hk", 
+        "fuzzer": "bitsquatting", 
+        "geoip-country": "Hong Kong"
+    }, 
+    {
+        "dns-ns": [
+            "ns5.dnsdun.com", 
+            "ns5.dnsdun.net"
+        ], 
+        "domain-name": "uqt.hk", 
+        "fuzzer": "bitsquatting"
+    }, 
+    {
+        "dns-a": [
+            "101.78.198.155"
+        ], 
+        "dns-mx": [
+            "mail.uct.hk"
+        ], 
+        "dns-ns": [
+            "ns1.ezhosthk.com", 
+            "ns2.ezhosthk.com"
+        ], 
+        "domain-name": "uct.hk", 
+        "fuzzer": "bitsquatting", 
+        "geoip-country": "Hong Kong"
+    }, 
+    {
+        "dns-a": [
+            "43.252.163.154"
+        ], 
+        "dns-ns": [
+            "ns5.dnsdun.com", 
+            "ns5.dnsdun.net"
+        ], 
+        "domain-name": "usu.hk", 
+        "fuzzer": "bitsquatting", 
+        "geoip-country": "Hong Kong"
+    }, 
+    {
+        "dns-mx": [
+            "bizavmta1.netvigator.com", 
+            "bizavmta2.netvigator.com"
+        ], 
+        "dns-ns": [
+            "ns7.imsbiz.com", 
+            "ns8.imsbiz.com"
+        ], 
+        "domain-name": "usp.hk", 
+        "fuzzer": "bitsquatting"
+    }, 
+    {
+        "dns-a": [
+            "203.132.200.3"
+        ], 
+        "dns-ns": [
+            "ns1.ytt.com.hk", 
+            "ns2.cyberchn.com.hk"
+        ], 
+        "domain-name": "ut.hk", 
+        "fuzzer": "omission", 
+        "geoip-country": "Hong Kong"
+    }, 
+    {
+        "dns-a": [
+            "104.216.166.134"
+        ], 
+        "dns-ns": [
+            "ns5.dnsdun.com", 
+            "ns5.dnsdun.net"
+        ], 
+        "domain-name": "uxt.hk", 
+        "fuzzer": "replacement", 
+        "geoip-country": "United States"
+    }, 
+    {
+        "dns-ns": [
+            "NS10.HKDNR.NET.hk", 
+            "NS11.HKDNR.NET.hk", 
+            "NS12.HKDNR.NET.hk", 
+            "NS9.HKDNR.NET.hk"
+        ], 
+        "domain-name": "uat.hk", 
+        "fuzzer": "replacement"
+    }, 
+    {
+        "dns-ns": [
+            "ns5.dnsdun.com", 
+            "ns5.dnsdun.net"
+        ], 
+        "domain-name": "uzt.hk", 
+        "fuzzer": "replacement"
+    }, 
+    {
+        "dns-a": [
+            "43.252.163.153"
+        ], 
+        "dns-ns": [
+            "ns5.dnsdun.com", 
+            "ns5.dnsdun.net"
+        ], 
+        "domain-name": "usg.hk", 
+        "fuzzer": "replacement", 
+        "geoip-country": "Hong Kong"
+    }, 
+    {
+        "dns-a": [
+            "104.216.166.125"
+        ], 
+        "dns-ns": [
+            "ns5.dnsdun.com", 
+            "ns5.dnsdun.net"
+        ], 
+        "domain-name": "usf.hk", 
+        "fuzzer": "replacement", 
+        "geoip-country": "United States"
+    }, 
+    {
+        "dns-a": [
+            "104.216.166.11"
+        ], 
+        "dns-ns": [
+            "ns5.dnsdun.com", 
+            "ns5.dnsdun.net"
+        ], 
+        "domain-name": "usz.hk", 
+        "fuzzer": "replacement", 
+        "geoip-country": "United States"
+    }, 
+    {
+        "dns-a": [
+            "104.216.166.12"
+        ], 
+        "dns-ns": [
+            "ns5.dnsdun.com", 
+            "ns5.dnsdun.net"
+        ], 
+        "domain-name": "usy.hk", 
+        "fuzzer": "replacement", 
+        "geoip-country": "United States"
+    }, 
+    {
+        "dns-a": [
+            "104.216.166.40"
+        ], 
+        "dns-ns": [
+            "ns5.dnsdun.com", 
+            "ns5.dnsdun.net"
+        ], 
+        "domain-name": "uyt.hk", 
+        "fuzzer": "replacement", 
+        "geoip-country": "United States"
+    }, 
+    {
+        "dns-mx": [
+            "mail.bbmail.com.hk"
+        ], 
+        "dns-ns": [
+            "ns1.hkbn.net", 
+            "ns2.hkbn.net"
+        ], 
+        "domain-name": "udt.hk", 
+        "fuzzer": "replacement"
+    }, 
+    {
+        "dns-a": [
+            "223.29.248.195"
+        ], 
+        "dns-mx": [
+            "mx1.abchk.net", 
+            "mx13.abchk.net"
+        ], 
+        "dns-ns": [
+            "ns1.abchk.net", 
+            "ns2.abchk.net"
+        ], 
+        "domain-name": "jst.hk", 
+        "fuzzer": "replacement", 
+        "geoip-country": "Hong Kong"
+    }, 
+    {
+        "dns-a": [
+            "43.252.163.155"
+        ], 
+        "dns-ns": [
+            "ns5.dnsdun.com", 
+            "ns5.dnsdun.net"
+        ], 
+        "domain-name": "sut.hk", 
+        "fuzzer": "transposition"
+    }, 
+    {
+        "dns-a": [
+            "222.92.46.5"
+        ], 
+        "dns-mx": [
+            "mxbiz1.qq.com", 
+            "mxbiz2.qq.com"
+        ], 
+        "dns-ns": [
+            "dns7.hichina.com", 
+            "dns8.hichina.com"
+        ], 
+        "domain-name": "uts.hk", 
+        "fuzzer": "transposition"
+    }, 
+    {
+        "dns-a": [
+            "107.150.96.213"
+        ], 
+        "dns-ns": [
+            "ns7.01isp.com", 
+            "ns8.01isp.net"
+        ], 
+        "domain-name": "ost.hk", 
+        "fuzzer": "vowel-swap", 
+        "geoip-country": "China"
+    }, 
+    {
+        "dns-a": [
+            "210.245.164.88"
+        ], 
+        "dns-mx": [
+            "mail.ast.hk"
+        ], 
+        "dns-ns": [
+            "ns18.host0101.net"
+        ], 
+        "domain-name": "ast.hk", 
+        "fuzzer": "vowel-swap"
+    }
+]

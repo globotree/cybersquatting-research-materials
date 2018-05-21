@@ -1,0 +1,456 @@
+[
+    {
+        "dns-a": [
+            "194.199.8.109"
+        ], 
+        "dns-mx": [
+            "hermes03.bnf.fr", 
+            "hermes1.bnf.fr", 
+            "hermes2.bnf.fr", 
+            "smtpmx.bnf.fr"
+        ], 
+        "dns-ns": [
+            "ariane.bnf.fr", 
+            "galatee.bnf.fr"
+        ], 
+        "domain-name": "bnf.fr", 
+        "fuzzer": "original*", 
+        "geoip-country": "France", 
+        "ssdeep-score": 100
+    }, 
+    {
+        "dns-a": [
+            "128.93.162.4"
+        ], 
+        "dns-mx": [
+            "mail2-smtp-roc.national.inria.fr", 
+            "mail3-smtp-sop.national.inria.fr"
+        ], 
+        "dns-ns": [
+            "dns19.ovh.net", 
+            "ns19.ovh.net"
+        ], 
+        "domain-name": "bnfa.fr", 
+        "fuzzer": "addition", 
+        "geoip-country": "France", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "217.70.184.38"
+        ], 
+        "dns-mx": [
+            "fb.mail.gandi.net", 
+            "spool.mail.gandi.net"
+        ], 
+        "dns-ns": [
+            "a.dns.gandi.net", 
+            "b.dns.gandi.net", 
+            "c.dns.gandi.net"
+        ], 
+        "domain-name": "bnfb.fr", 
+        "fuzzer": "addition", 
+        "geoip-country": "France", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "199.59.242.150"
+        ], 
+        "dns-mx": [
+            "mx76.m2bp.com", 
+            "mx76.mb1p.com"
+        ], 
+        "dns-ns": [
+            "ns1.bodis.com", 
+            "ns2.bodis.com"
+        ], 
+        "domain-name": "cnf.fr", 
+        "fuzzer": "bitsquatting", 
+        "geoip-country": "United States", 
+        "mx-spy": true, 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "213.186.33.18"
+        ], 
+        "dns-mx": [
+            "smtp02.topdns.com", 
+            "smtp03.topdns.com", 
+            "smtp04.topdns.com"
+        ], 
+        "dns-ns": [
+            "ns-canada.topdns.com", 
+            "ns-uk.topdns.com", 
+            "ns-usa.topdns.com"
+        ], 
+        "domain-name": "fnf.fr", 
+        "fuzzer": "bitsquatting", 
+        "geoip-country": "France", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "213.186.33.24"
+        ], 
+        "dns-mx": [
+            "redirect.ovh.net"
+        ], 
+        "dns-ns": [
+            "dns106.ovh.net", 
+            "ns106.ovh.net"
+        ], 
+        "domain-name": "rnf.fr", 
+        "fuzzer": "bitsquatting", 
+        "geoip-country": "France", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "178.32.4.52"
+        ], 
+        "dns-mx": [
+            "mx5.dataxy.fr"
+        ], 
+        "dns-ns": [
+            "ns0.dataxy.fr", 
+            "ns1.dataxy.fr"
+        ], 
+        "domain-name": "bof.fr", 
+        "fuzzer": "bitsquatting", 
+        "geoip-country": "France", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-mx": [
+            "mail.blf.fr"
+        ], 
+        "dns-ns": [
+            "ns2.oleane.net", 
+            "ns3.oleane.net"
+        ], 
+        "domain-name": "blf.fr", 
+        "fuzzer": "bitsquatting"
+    }, 
+    {
+        "dns-a": [
+            "213.186.33.40"
+        ], 
+        "dns-mx": [
+            "mx1.ovh.net", 
+            "mx2.ovh.net", 
+            "mxb.ovh.net"
+        ], 
+        "dns-ns": [
+            "dns13.ovh.net", 
+            "ns13.ovh.net"
+        ], 
+        "domain-name": "bjf.fr", 
+        "fuzzer": "bitsquatting", 
+        "geoip-country": "France", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-ns": [
+            "dns.caissedesdepots.fr", 
+            "dns2.caissedesdepots.fr", 
+            "dns3.caissedesdepots.fr", 
+            "dns5.caissedesdepots.fr"
+        ], 
+        "domain-name": "bnd.fr", 
+        "fuzzer": "bitsquatting"
+    }, 
+    {
+        "dns-a": [
+            "199.59.242.150"
+        ], 
+        "dns-mx": [
+            "mx76.m2bp.com", 
+            "mx76.mb1p.com"
+        ], 
+        "dns-ns": [
+            "ns1.bodis.com", 
+            "ns2.bodis.com"
+        ], 
+        "domain-name": "bnb.fr", 
+        "fuzzer": "bitsquatting", 
+        "geoip-country": "United States", 
+        "mx-spy": true, 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-mx": [
+            "mfwd.eurodns.com"
+        ], 
+        "dns-ns": [
+            "ns1.eurodns.com", 
+            "ns2.eurodns.com", 
+            "ns3.eurodns.com", 
+            "ns4.eurodns.com"
+        ], 
+        "domain-name": "bnv.fr", 
+        "fuzzer": "bitsquatting"
+    }, 
+    {
+        "dns-a": [
+            "5.79.70.98"
+        ], 
+        "dns-mx": [
+            "mail.dnf.fr"
+        ], 
+        "dns-ns": [
+            "ns1.mijndnsserver.nl", 
+            "ns2.mijndnsserver.nl", 
+            "ns3.mijndnsserver.eu", 
+            "ns4.mijndnsserver.net"
+        ], 
+        "domain-name": "dnf.fr", 
+        "fuzzer": "homoglyph", 
+        "geoip-country": "Netherlands", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "80.118.147.159"
+        ], 
+        "dns-mx": [
+            "bmf-fr.mail.protection.outlook.com"
+        ], 
+        "dns-ns": [
+            "ns11.dinaodns.net", 
+            "ns12.dinaodns.net"
+        ], 
+        "domain-name": "bmf.fr", 
+        "fuzzer": "homoglyph", 
+        "geoip-country": "France", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "213.186.33.5"
+        ], 
+        "dns-mx": [
+            "redirect.ovh.net"
+        ], 
+        "dns-ns": [
+            "dns109.ovh.net", 
+            "ns109.ovh.net"
+        ], 
+        "domain-name": "brf.fr", 
+        "fuzzer": "homoglyph", 
+        "geoip-country": "France", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "95.142.101.112"
+        ], 
+        "dns-mx": [
+            "mx01.nexthal.com", 
+            "mx02.nexthal.com"
+        ], 
+        "dns-ns": [
+            "ns1.network38.com", 
+            "ns2.network38.com"
+        ], 
+        "domain-name": "bf.fr", 
+        "fuzzer": "omission", 
+        "geoip-country": "Netherlands", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "95.142.101.112"
+        ], 
+        "dns-mx": [
+            "mx01.nexthal.com", 
+            "mx02.nexthal.com"
+        ], 
+        "dns-ns": [
+            "ns1.network38.com", 
+            "ns2.network38.com"
+        ], 
+        "domain-name": "bn.fr", 
+        "fuzzer": "omission", 
+        "geoip-country": "Netherlands", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-mx": [
+            "mail.afnor.org", 
+            "mail2.afnor.org"
+        ], 
+        "dns-ns": [
+            "saturne.afnor.fr", 
+            "spdns3.cscdns.net"
+        ], 
+        "domain-name": "nf.fr", 
+        "fuzzer": "omission"
+    }, 
+    {
+        "dns-a": [
+            "213.186.33.5", 
+            "217.19.202.132"
+        ], 
+        "dns-mx": [
+            "mail.vnf.fr", 
+            "mail2.vnf.fr", 
+            "melsec.vnf.fr"
+        ], 
+        "dns-ns": [
+            "dns110.ovh.net", 
+            "ns110.ovh.net"
+        ], 
+        "domain-name": "vnf.fr", 
+        "fuzzer": "replacement"
+    }, 
+    {
+        "dns-a": [
+            "193.252.114.13"
+        ], 
+        "dns-mx": [
+            "mailhost.bnr.fr"
+        ], 
+        "dns-ns": [
+            "ns2.oleane.net", 
+            "ns3.oleane.net"
+        ], 
+        "domain-name": "bnr.fr", 
+        "fuzzer": "replacement", 
+        "geoip-country": "France", 
+        "mx-spy": true, 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "199.59.242.150"
+        ], 
+        "dns-mx": [
+            "mx76.m2bp.com", 
+            "mx76.mb1p.com"
+        ], 
+        "dns-ns": [
+            "ns1.bodis.com", 
+            "ns2.bodis.com"
+        ], 
+        "domain-name": "hnf.fr", 
+        "fuzzer": "replacement", 
+        "geoip-country": "United States", 
+        "mx-spy": true, 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "46.166.189.98"
+        ], 
+        "dns-ns": [
+            "ns-canada.topdns.com", 
+            "ns-uk.topdns.com", 
+            "ns-usa.topdns.com"
+        ], 
+        "domain-name": "nnf.fr", 
+        "fuzzer": "replacement", 
+        "geoip-country": "Netherlands", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-mx": [
+            "mx0.mail.ovh.net", 
+            "mx1.mail.ovh.net", 
+            "mx2.mail.ovh.net"
+        ], 
+        "dns-ns": [
+            "ns3.lerelaisinternet.com", 
+            "ns4.lerelaisinternet.com"
+        ], 
+        "domain-name": "bhf.fr", 
+        "fuzzer": "replacement"
+    }, 
+    {
+        "dns-a": [
+            "72.52.4.120"
+        ], 
+        "dns-mx": [
+            "localhost"
+        ], 
+        "dns-ns": [
+            "ns1.sedoparking.com", 
+            "ns2.sedoparking.com"
+        ], 
+        "domain-name": "gnf.fr", 
+        "fuzzer": "replacement"
+    }, 
+    {
+        "dns-a": [
+            "195.144.11.40"
+        ], 
+        "dns-mx": [
+            "mx6.phpnet.org", 
+            "mx6.phpnet.org", 
+            "mxsecondaire.phpnet.org"
+        ], 
+        "dns-ns": [
+            "ns.phpnet.org", 
+            "ns2.phpnet.org"
+        ], 
+        "domain-name": "bbf.fr", 
+        "fuzzer": "replacement", 
+        "geoip-country": "France"
+    }, 
+    {
+        "dns-a": [
+            "46.105.57.169"
+        ], 
+        "dns-mx": [
+            "mta-gw.infomaniak.ch"
+        ], 
+        "dns-ns": [
+            "ns-1510.awsdns-60.org", 
+            "ns-1808.awsdns-34.co.uk", 
+            "ns-784.awsdns-34.net", 
+            "ns-99.awsdns-12.com"
+        ], 
+        "domain-name": "bnc.fr", 
+        "fuzzer": "replacement", 
+        "geoip-country": "France", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "62.210.16.62"
+        ], 
+        "dns-aaaa": [
+            "2001:bc8:4::3"
+        ], 
+        "dns-mx": [
+            "alt1.aspmx.l.google.com", 
+            "alt2.aspmx.l.google.com", 
+            "alt3.aspmx.l.google.com", 
+            "alt4.aspmx.l.google.com", 
+            "aspmx.l.google.com"
+        ], 
+        "dns-ns": [
+            "ns0.online.net", 
+            "ns1.online.net"
+        ], 
+        "domain-name": "bnt.fr", 
+        "fuzzer": "replacement", 
+        "geoip-country": "France"
+    }, 
+    {
+        "dns-a": [
+            "95.142.101.112"
+        ], 
+        "dns-mx": [
+            "mx01.nexthal.com", 
+            "mx02.nexthal.com"
+        ], 
+        "dns-ns": [
+            "ns1.network38.com", 
+            "ns2.network38.com"
+        ], 
+        "domain-name": "nbf.fr", 
+        "fuzzer": "transposition"
+    }
+]

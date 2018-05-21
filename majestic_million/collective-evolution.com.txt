@@ -1,0 +1,78 @@
+[
+    {
+        "dns-a": [
+            "104.20.65.247", 
+            "104.20.66.247"
+        ], 
+        "dns-mx": [
+            "alt1.aspmx.l.google.com", 
+            "alt2.aspmx.l.google.com", 
+            "aspmx.l.google.com", 
+            "aspmx2.googlemail.com", 
+            "aspmx3.googlemail.com"
+        ], 
+        "dns-ns": [
+            "jean.ns.cloudflare.com", 
+            "todd.ns.cloudflare.com"
+        ], 
+        "domain-name": "collective-evolution.com", 
+        "fuzzer": "original*", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 99
+    }, 
+    {
+        "dns-a": [
+            "66.96.149.28"
+        ], 
+        "dns-mx": [
+            "mx.collective-revolution.com"
+        ], 
+        "dns-ns": [
+            "ns1.domain.com", 
+            "ns2.domain.com"
+        ], 
+        "domain-name": "collective-revolution.com", 
+        "fuzzer": "insertion", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "194.245.148.189"
+        ], 
+        "dns-ns": [
+            "a.ns.joker.com", 
+            "b.ns.joker.com", 
+            "c.ns.joker.com"
+        ], 
+        "domain-name": "collectiveevolution.com", 
+        "fuzzer": "omission", 
+        "geoip-country": "Germany", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "23.23.174.132"
+        ], 
+        "domain-name": "collective-evol.ution.com", 
+        "fuzzer": "subdomain", 
+        "geoip-country": "United States"
+    }, 
+    {
+        "dns-a": [
+            "64.41.186.27"
+        ], 
+        "domain-name": "collective-evolut.ion.com", 
+        "fuzzer": "subdomain", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "208.78.94.160"
+        ], 
+        "domain-name": "collective-evoluti.on.com", 
+        "fuzzer": "subdomain", 
+        "geoip-country": "United States"
+    }
+]

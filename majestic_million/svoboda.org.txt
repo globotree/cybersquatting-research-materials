@@ -1,0 +1,114 @@
+[
+    {
+        "dns-a": [
+            "23.43.143.2"
+        ], 
+        "dns-aaaa": [
+            "2a02:26f0:18:381::23e7", 
+            "2a02:26f0:18:3a1::23e7"
+        ], 
+        "dns-ns": [
+            "a1-222.akam.net", 
+            "a11-64.akam.net", 
+            "a12-65.akam.net", 
+            "a2-64.akam.net", 
+            "a7-66.akam.net", 
+            "a8-67.akam.net"
+        ], 
+        "domain-name": "svoboda.org", 
+        "fuzzer": "original*", 
+        "geoip-country": "Netherlands", 
+        "ssdeep-score": 100
+    }, 
+    {
+        "dns-a": [
+            "5.189.176.4"
+        ], 
+        "dns-ns": [
+            "ns1.reg.ru", 
+            "ns2.reg.ru"
+        ], 
+        "domain-name": "svobodar.org", 
+        "fuzzer": "addition", 
+        "geoip-country": "Germany", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "184.168.221.58"
+        ], 
+        "dns-mx": [
+            "alt1.aspmx.l.google.com", 
+            "alt2.aspmx.l.google.com", 
+            "aspmx.l.google.com", 
+            "aspmx2.googlemail.com", 
+            "aspmx3.googlemail.com"
+        ], 
+        "dns-ns": [
+            "ns73.domaincontrol.com", 
+            "ns74.domaincontrol.com"
+        ], 
+        "domain-name": "svobodas.org", 
+        "fuzzer": "addition", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "185.53.177.30"
+        ], 
+        "dns-ns": [
+            "ns1.parkingspa.com", 
+            "ns2.parkingspa.com"
+        ], 
+        "domain-name": "swoboda.org", 
+        "fuzzer": "bitsquatting", 
+        "geoip-country": "Germany", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "77.78.104.221"
+        ], 
+        "dns-mx": [
+            "server.mailadress.net"
+        ], 
+        "dns-ns": [
+            "ns.parktons.com", 
+            "ns2.parktons.com"
+        ], 
+        "domain-name": "svobody.org", 
+        "fuzzer": "replacement", 
+        "geoip-country": "Czech Republic"
+    }, 
+    {
+        "dns-a": [
+            "104.154.94.123"
+        ], 
+        "domain-name": "svobod.a.org", 
+        "fuzzer": "subdomain", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "23.43.143.2"
+        ], 
+        "dns-aaaa": [
+            "2a02:26f0:18:381::23e7", 
+            "2a02:26f0:18:3a1::23e7"
+        ], 
+        "dns-ns": [
+            "a1-222.akam.net", 
+            "a11-64.akam.net", 
+            "a12-65.akam.net", 
+            "a2-64.akam.net", 
+            "a7-66.akam.net", 
+            "a8-67.akam.net"
+        ], 
+        "domain-name": "svaboda.org", 
+        "fuzzer": "vowel-swap", 
+        "geoip-country": "Netherlands", 
+        "ssdeep-score": 0
+    }
+]

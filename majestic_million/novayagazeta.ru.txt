@@ -1,0 +1,152 @@
+[
+    {
+        "dns-a": [
+            "103.5.149.8"
+        ], 
+        "dns-mx": [
+            "alt1.aspmx.l.google.com", 
+            "alt2.aspmx.l.google.com", 
+            "alt3.aspmx.l.google.com", 
+            "alt4.aspmx.l.google.com", 
+            "aspmx.l.google.com"
+        ], 
+        "dns-ns": [
+            "ns3-l2.nic.ru", 
+            "ns4-cloud.nic.ru", 
+            "ns4-l2.nic.ru", 
+            "ns8-cloud.nic.ru", 
+            "ns8-l2.nic.ru"
+        ], 
+        "domain-name": "novayagazeta.ru", 
+        "fuzzer": "original*", 
+        "geoip-country": "Hong Kong", 
+        "ssdeep-score": 100
+    }, 
+    {
+        "dns-mx": [
+            "localhost"
+        ], 
+        "dns-ns": [
+            "ns1.sedoparking.com", 
+            "ns2.sedoparking.com"
+        ], 
+        "domain-name": "nowayagazeta.ru", 
+        "fuzzer": "bitsquatting", 
+        "mx-spy": true
+    }, 
+    {
+        "dns-a": [
+            "127.0.0.99"
+        ], 
+        "dns-mx": [
+            "localhost"
+        ], 
+        "dns-ns": [
+            "ns1.sedoparking.com", 
+            "ns2.sedoparking.com"
+        ], 
+        "domain-name": "novaiagazeta.ru", 
+        "fuzzer": "bitsquatting", 
+        "mx-spy": true
+    }, 
+    {
+        "dns-a": [
+            "185.53.179.40"
+        ], 
+        "dns-ns": [
+            "ns1.snparking.ru", 
+            "ns2.snparking.ru"
+        ], 
+        "domain-name": "novayaqazeta.ru", 
+        "fuzzer": "homoglyph", 
+        "geoip-country": "Germany", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "72.52.4.122"
+        ], 
+        "dns-mx": [
+            "localhost"
+        ], 
+        "dns-ns": [
+            "ns1.poishi.com", 
+            "ns2.poishi.com"
+        ], 
+        "domain-name": "novyagazeta.ru", 
+        "fuzzer": "omission", 
+        "geoip-country": "United States", 
+        "mx-spy": true, 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "72.52.4.122"
+        ], 
+        "dns-ns": [
+            "ns1.sedoparking.com", 
+            "ns2.sedoparking.com"
+        ], 
+        "domain-name": "novaygazeta.ru", 
+        "fuzzer": "omission", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "138.68.69.113"
+        ], 
+        "dns-ns": [
+            "ns1.topdns.me", 
+            "ns2.topdns.me", 
+            "ns3.topdns.me"
+        ], 
+        "domain-name": "novayagazetta.ru", 
+        "fuzzer": "repetition", 
+        "geoip-country": "Germany", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "72.52.4.122"
+        ], 
+        "dns-mx": [
+            "localhost"
+        ], 
+        "dns-ns": [
+            "ns1.sedoparking.com", 
+            "ns2.sedoparking.com"
+        ], 
+        "domain-name": "novayagaseta.ru", 
+        "fuzzer": "replacement", 
+        "geoip-country": "United States", 
+        "mx-spy": true, 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "193.232.158.144", 
+            "193.232.158.145", 
+            "193.232.159.144", 
+            "193.232.159.145"
+        ], 
+        "dns-ns": [
+            "parking1.nic.ru", 
+            "parking2.nic.ru"
+        ], 
+        "domain-name": "novay.agazeta.ru", 
+        "fuzzer": "subdomain", 
+        "geoip-country": "Russian Federation", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "109.70.26.37", 
+            "194.85.61.76"
+        ], 
+        "domain-name": "novayagaz.eta.ru", 
+        "fuzzer": "subdomain", 
+        "geoip-country": "Russian Federation", 
+        "ssdeep-score": 0
+    }
+]

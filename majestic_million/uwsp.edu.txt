@@ -1,0 +1,79 @@
+[
+    {
+        "dns-a": [
+            "143.236.202.207"
+        ], 
+        "dns-mx": [
+            "mxa-00253201.gslb.pphosted.com", 
+            "mxb-00253201.gslb.pphosted.com"
+        ], 
+        "dns-ns": [
+            "dns1.uwsp.edu", 
+            "dns2.uwsp.edu", 
+            "ecdns1.uwsp.edu"
+        ], 
+        "domain-name": "uwsp.edu", 
+        "fuzzer": "original*", 
+        "geoip-country": "United States"
+    }, 
+    {
+        "dns-a": [
+            "104.196.120.193"
+        ], 
+        "dns-mx": [
+            "mxa-002f2d01.gslb.pphosted.com", 
+            "mxb-002f2d01.gslb.pphosted.com"
+        ], 
+        "dns-ns": [
+            "ns3.level3.net", 
+            "ns4.level3.net"
+        ], 
+        "domain-name": "uws.edu", 
+        "fuzzer": "omission", 
+        "geoip-country": "United States", 
+        "mx-spy": true
+    }, 
+    {
+        "dns-a": [
+            "131.210.201.30"
+        ], 
+        "dns-mx": [
+            "uwp-edu.mail.protection.outlook.com"
+        ], 
+        "dns-ns": [
+            "adns-1.uwsys.net", 
+            "adns-2.uwsys.net", 
+            "ash.ad.uwp.edu", 
+            "cedar.ad.uwp.edu", 
+            "lumina.nms.uwp.edu", 
+            "lumina.uwp.edu", 
+            "maple.ad.uwp.edu", 
+            "oak.ad.uwp.edu", 
+            "uwmdns1.uwm.edu", 
+            "uwmdns2.uwm.edu"
+        ], 
+        "domain-name": "uwp.edu", 
+        "fuzzer": "omission", 
+        "geoip-country": "United States"
+    }, 
+    {
+        "dns-a": [
+            "204.109.14.165", 
+            "204.109.15.165"
+        ], 
+        "dns-mx": [
+            "d45031a.ess.barracudanetworks.com", 
+            "d45031b.ess.barracudanetworks.com"
+        ], 
+        "dns-ns": [
+            "ns0.dnsmadeeasy.com", 
+            "ns1.dnsmadeeasy.com", 
+            "ns2.dnsmadeeasy.com", 
+            "ns3.dnsmadeeasy.com", 
+            "ns4.dnsmadeeasy.com"
+        ], 
+        "domain-name": "usp.edu", 
+        "fuzzer": "omission", 
+        "geoip-country": "United States"
+    }
+]

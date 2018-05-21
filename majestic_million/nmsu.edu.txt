@@ -1,0 +1,130 @@
+[
+    {
+        "dns-a": [
+            "128.123.3.2"
+        ], 
+        "dns-mx": [
+            "mailrelay5.nmsu.edu", 
+            "mailrelay6.nmsu.edu", 
+            "mailrelay8.nmsu.edu"
+        ], 
+        "dns-ns": [
+            "dns1.nmsu.edu", 
+            "dns2.nmsu.edu"
+        ], 
+        "domain-name": "nmsu.edu", 
+        "fuzzer": "original*", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 100
+    }, 
+    {
+        "dns-a": [
+            "50.28.103.98"
+        ], 
+        "dns-mx": [
+            "nmsua.edu"
+        ], 
+        "dns-ns": [
+            "ns1.nmsua.edu", 
+            "ns2.nmsua.edu"
+        ], 
+        "domain-name": "nmsua.edu", 
+        "fuzzer": "addition", 
+        "geoip-country": "United States"
+    }, 
+    {
+        "dns-a": [
+            "35.9.247.69"
+        ], 
+        "dns-mx": [
+            "mxa-00165801.gslb.pphosted.com", 
+            "mxb-00165801.gslb.pphosted.com"
+        ], 
+        "dns-ns": [
+            "ns-1432.awsdns-51.org", 
+            "ns-1827.awsdns-36.co.uk", 
+            "ns-64.awsdns-08.com", 
+            "ns-665.awsdns-19.net"
+        ], 
+        "domain-name": "msu.edu", 
+        "fuzzer": "omission", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "198.110.200.4"
+        ], 
+        "dns-aaaa": [
+            "2001:48a8:800:3200:198:110:200:4"
+        ], 
+        "dns-mx": [
+            "ALT1.ASPMX.L.GOOGLE.COM", 
+            "ALT2.ASPMX.L.GOOGLE.COM", 
+            "ALT3.ASPMX.L.GOOGLE.COM", 
+            "ALT4.ASPMX.L.GOOGLE.COM", 
+            "ASPMX.L.GOOGLE.COM"
+        ], 
+        "dns-ns": [
+            "bart.nmu.edu", 
+            "candace.nmu.edu", 
+            "lindana.nmu.edu", 
+            "nmudns.nmu.edu"
+        ], 
+        "domain-name": "nmu.edu", 
+        "fuzzer": "omission", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "204.155.176.137"
+        ], 
+        "dns-mx": [
+            "mx01.nsu.edu", 
+            "mx02.nsu.edu", 
+            "snsusmx01.nsu.edu", 
+            "snsusmx02.nsu.edu"
+        ], 
+        "dns-ns": [
+            "ns1.nsu.edu", 
+            "ns2.nsu.edu"
+        ], 
+        "domain-name": "nsu.edu", 
+        "fuzzer": "omission", 
+        "geoip-country": "United States", 
+        "mx-spy": true
+    }, 
+    {
+        "dns-a": [
+            "134.29.1.130"
+        ], 
+        "dns-mx": [
+            "mnsu-edu.mail.protection.outlook.com"
+        ], 
+        "dns-ns": [
+            "NS1.mnsu.edu", 
+            "NS2.mnsu.edu", 
+            "dns.uw-mad.wiscnet.net", 
+            "dns.uw-mil.wiscnet.net"
+        ], 
+        "domain-name": "mnsu.edu", 
+        "fuzzer": "transposition", 
+        "geoip-country": "United States"
+    }, 
+    {
+        "dns-mx": [
+            "mx1.mail.name.com", 
+            "mx2.mail.name.com", 
+            "mx3.mail.name.com"
+        ], 
+        "dns-ns": [
+            "ns1vwx.name.com", 
+            "ns2fln.name.com", 
+            "ns3jwx.name.com", 
+            "ns4lrt.name.com"
+        ], 
+        "domain-name": "nmsu-edu.com", 
+        "fuzzer": "various"
+    }
+]

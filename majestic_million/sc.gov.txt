@@ -1,0 +1,72 @@
+[
+    {
+        "dns-a": [
+            "167.7.51.20"
+        ], 
+        "dns-mx": [
+            "cioe500.state.sc.us"
+        ], 
+        "dns-ns": [
+            "ns1.net.state.sc.us", 
+            "ns2.net.state.sc.us"
+        ], 
+        "domain-name": "sc.gov", 
+        "fuzzer": "original*", 
+        "geoip-country": "United States", 
+        "mx-spy": true
+    }, 
+    {
+        "dns-a": [
+            "164.82.40.54", 
+            "164.82.9.158"
+        ], 
+        "dns-aaaa": [
+            "2620:0:190:110::1160"
+        ], 
+        "dns-mx": [
+            "smtp3.dc.gov", 
+            "smtp3b.dc.gov"
+        ], 
+        "dns-ns": [
+            "ns1.washingtondc.gov", 
+            "ns2.washingtondc.gov", 
+            "ns3.washingtondc.gov", 
+            "ns4.washingtondc.gov"
+        ], 
+        "domain-name": "dc.gov", 
+        "fuzzer": "replacement", 
+        "geoip-country": "United States"
+    }, 
+    {
+        "dns-a": [
+            "199.48.133.250"
+        ], 
+        "dns-ns": [
+            "dns101.netops.sspdata.net", 
+            "dns101.tripwire.net", 
+            "dns111.netops.sspdata.net", 
+            "dns121.netops.sspdata.net", 
+            "ns1.sfgov.org", 
+            "ns2.sfgov.org"
+        ], 
+        "domain-name": "sf.gov", 
+        "fuzzer": "replacement", 
+        "geoip-country": "United States"
+    }, 
+    {
+        "dns-a": [
+            "164.154.226.126"
+        ], 
+        "dns-mx": [
+            "smtp.sd.gov", 
+            "smtp.sd.gov"
+        ], 
+        "dns-ns": [
+            "ns1.k12.sd.us", 
+            "ns1.sd.gov", 
+            "ns2.sd.gov"
+        ], 
+        "domain-name": "sd.gov", 
+        "fuzzer": "replacement"
+    }
+]

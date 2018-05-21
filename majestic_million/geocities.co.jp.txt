@@ -1,0 +1,28 @@
+[
+    {
+        "dns-mx": [
+            "mx1.mail.yahoo.co.jp", 
+            "mx2.mail.yahoo.co.jp", 
+            "mx3.mail.yahoo.co.jp", 
+            "mx5.mail.yahoo.co.jp"
+        ], 
+        "dns-ns": [
+            "ns01.yahoo.co.jp", 
+            "ns02.yahoo.co.jp", 
+            "ns11.yahoo.co.jp", 
+            "ns12.yahoo.co.jp"
+        ], 
+        "domain-name": "geocities.co.jp", 
+        "fuzzer": "original*"
+    }, 
+    {
+        "dns-ns": [
+            "ns01.yahoo.co.jp", 
+            "ns02.yahoo.co.jp", 
+            "ns11.yahoo.co.jp", 
+            "ns12.yahoo.co.jp"
+        ], 
+        "domain-name": "geocities.jp", 
+        "fuzzer": "various"
+    }
+]

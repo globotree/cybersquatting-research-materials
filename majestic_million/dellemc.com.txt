@@ -1,0 +1,103 @@
+[
+    {
+        "dns-a": [
+            "128.221.237.180", 
+            "168.159.208.45"
+        ], 
+        "dns-mx": [
+            "smtp.ins.dell.com"
+        ], 
+        "dns-ns": [
+            "emcns3.emc.com", 
+            "emcns4.emc.com", 
+            "emcns6.emc.com", 
+            "emcns7.emc.com", 
+            "gw.emc.com", 
+            "ns0.emc.com"
+        ], 
+        "domain-name": "dellemc.com", 
+        "fuzzer": "original*", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 100
+    }, 
+    {
+        "dns-mx": [
+            "us2.mx1.mailhostbox.com", 
+            "us2.mx2.mailhostbox.com", 
+            "us2.mx3.mailhostbox.com"
+        ], 
+        "dns-ns": [
+            "dns1.bigrock.in", 
+            "dns2.bigrock.in", 
+            "dns3.bigrock.in", 
+            "dns4.bigrock.in"
+        ], 
+        "domain-name": "dellamc.com", 
+        "fuzzer": "bitsquatting"
+    }, 
+    {
+        "dns-a": [
+            "217.19.248.132"
+        ], 
+        "dns-ns": [
+            "dns1.idp365.net", 
+            "dns2.idp365.net", 
+            "dns3.idp365.net"
+        ], 
+        "domain-name": "dell-emc.com", 
+        "fuzzer": "hyphenation", 
+        "geoip-country": "United Kingdom", 
+        "ssdeep-score": 100
+    }, 
+    {
+        "dns-a": [
+            "50.63.202.46"
+        ], 
+        "dns-mx": [
+            "mailstore1.secureserver.net", 
+            "smtp.secureserver.net"
+        ], 
+        "dns-ns": [
+            "ns01.domaincontrol.com", 
+            "ns02.domaincontrol.com"
+        ], 
+        "domain-name": "dellmc.com", 
+        "fuzzer": "omission", 
+        "geoip-country": "United States"
+    }, 
+    {
+        "dns-a": [
+            "209.240.133.217"
+        ], 
+        "dns-mx": [
+            "mx1.daemonmail.net", 
+            "mx2.daemonmail.net"
+        ], 
+        "dns-ns": [
+            "ns1.domaindiscover.com", 
+            "ns2.domaindiscover.com"
+        ], 
+        "domain-name": "dellem.com", 
+        "fuzzer": "omission", 
+        "geoip-country": "United States"
+    }, 
+    {
+        "dns-a": [
+            "85.233.160.22"
+        ], 
+        "dns-mx": [
+            "fwd0.hosts.co.uk", 
+            "fwd1.hosts.co.uk", 
+            "fwd2.hosts.co.uk"
+        ], 
+        "dns-ns": [
+            "ns0.phase8.net", 
+            "ns1.phase8.net", 
+            "ns2.phase8.net"
+        ], 
+        "domain-name": "delllemc.com", 
+        "fuzzer": "repetition", 
+        "geoip-country": "United Kingdom", 
+        "ssdeep-score": 0
+    }
+]

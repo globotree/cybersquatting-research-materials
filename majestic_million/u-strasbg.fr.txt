@@ -1,0 +1,65 @@
+[
+    {
+        "dns-mx": [
+            "mx.u-strasbg.fr", 
+            "mxa.relay.renater.fr", 
+            "mxb.relay.renater.fr", 
+            "mxc.relay.renater.fr", 
+            "mxd.relay.renater.fr"
+        ], 
+        "dns-ns": [
+            "ns1.u-strasbg.fr", 
+            "ns2.u-strasbg.fr", 
+            "shiva.jussieu.fr"
+        ], 
+        "domain-name": "u-strasbg.fr", 
+        "fuzzer": "original*"
+    }, 
+    {
+        "dns-a": [
+            "104.28.12.160", 
+            "104.28.13.160"
+        ], 
+        "dns-aaaa": [
+            "2400:cb00:2048:1::681c:ca0", 
+            "2400:cb00:2048:1::681c:da0"
+        ], 
+        "dns-ns": [
+            "ali.ns.cloudflare.com", 
+            "elliot.ns.cloudflare.com"
+        ], 
+        "domain-name": "u-strabg.fr", 
+        "fuzzer": "omission", 
+        "geoip-country": "United States"
+    }, 
+    {
+        "dns-a": [
+            "213.186.33.5"
+        ], 
+        "dns-mx": [
+            "redirect.ovh.net"
+        ], 
+        "dns-ns": [
+            "dns200.anycast.me", 
+            "ns200.anycast.me"
+        ], 
+        "domain-name": "u-strasb.fr", 
+        "fuzzer": "omission", 
+        "geoip-country": "France"
+    }, 
+    {
+        "dns-a": [
+            "107.6.169.59"
+        ], 
+        "dns-mx": [
+            "ustrasbg.fr"
+        ], 
+        "dns-ns": [
+            "ns1.stablehost.com", 
+            "ns2.stablehost.com"
+        ], 
+        "domain-name": "ustrasbg.fr", 
+        "fuzzer": "omission", 
+        "geoip-country": "Netherlands"
+    }
+]

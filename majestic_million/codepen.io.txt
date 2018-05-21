@@ -1,0 +1,97 @@
+[
+    {
+        "dns-a": [
+            "104.25.14.31", 
+            "104.25.15.31"
+        ], 
+        "dns-aaaa": [
+            "2400:cb00:2048:1::6819:e1f", 
+            "2400:cb00:2048:1::6819:f1f"
+        ], 
+        "dns-mx": [
+            "alt1.aspmx.l.google.com", 
+            "alt2.aspmx.l.google.com", 
+            "aspmx.l.google.com", 
+            "aspmx2.googlemail.com", 
+            "aspmx3.googlemail.com"
+        ], 
+        "dns-ns": [
+            "albert.ns.cloudflare.com", 
+            "kristin.ns.cloudflare.com"
+        ], 
+        "domain-name": "codepen.io", 
+        "fuzzer": "original*", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 91
+    }, 
+    {
+        "dns-a": [
+            "23.236.62.147"
+        ], 
+        "dns-mx": [
+            "eforward1.registrar-servers.com", 
+            "eforward2.registrar-servers.com", 
+            "eforward3.registrar-servers.com", 
+            "eforward4.registrar-servers.com", 
+            "eforward5.registrar-servers.com"
+        ], 
+        "dns-ns": [
+            "ns14.wixdns.net", 
+            "ns15.wixdns.net"
+        ], 
+        "domain-name": "codepan.io", 
+        "fuzzer": "bitsquatting", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "103.224.182.252"
+        ], 
+        "dns-mx": [
+            "park-mx.above.com"
+        ], 
+        "dns-ns": [
+            "ns1.above.com", 
+            "ns2.above.com"
+        ], 
+        "domain-name": "codeopen.io", 
+        "fuzzer": "insertion", 
+        "geoip-country": "Australia", 
+        "mx-spy": true, 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-ns": [
+            "ns-1443.awsdns-52.org", 
+            "ns-1932.awsdns-49.co.uk", 
+            "ns-232.awsdns-29.com", 
+            "ns-842.awsdns-41.net"
+        ], 
+        "domain-name": "codpen.io", 
+        "fuzzer": "omission"
+    }, 
+    {
+        "dns-a": [
+            "138.68.236.252"
+        ], 
+        "domain-name": "code.pen.io", 
+        "fuzzer": "subdomain", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "35.194.170.209"
+        ], 
+        "dns-mx": [
+            "inbound-smtp.us-east-1.amazonaws.com"
+        ], 
+        "dns-ns": [
+            "ns25.domaincontrol.com", 
+            "ns26.domaincontrol.com"
+        ], 
+        "domain-name": "codepin.io", 
+        "fuzzer": "vowel-swap"
+    }
+]

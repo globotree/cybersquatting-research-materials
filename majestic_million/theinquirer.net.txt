@@ -1,0 +1,81 @@
+[
+    {
+        "dns-a": [
+            "104.16.237.209", 
+            "104.16.238.209", 
+            "104.16.239.209", 
+            "104.16.240.209", 
+            "104.16.241.209"
+        ], 
+        "dns-aaaa": [
+            "2400:cb00:2048:1::6810:edd1", 
+            "2400:cb00:2048:1::6810:eed1", 
+            "2400:cb00:2048:1::6810:efd1", 
+            "2400:cb00:2048:1::6810:f0d1", 
+            "2400:cb00:2048:1::6810:f1d1"
+        ], 
+        "dns-mx": [
+            "theinquirer-net.mail.protection.outlook.com"
+        ], 
+        "dns-ns": [
+            "meg.ns.cloudflare.com", 
+            "phil.ns.cloudflare.com"
+        ], 
+        "domain-name": "theinquirer.net", 
+        "fuzzer": "original*", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 100
+    }, 
+    {
+        "dns-a": [
+            "185.26.230.129"
+        ], 
+        "dns-mx": [
+            "cluster5.eu.messagelabs.com", 
+            "cluster5a.eu.messagelabs.com"
+        ], 
+        "dns-ns": [
+            "ns1.netnames.net", 
+            "ns2.netnames.net", 
+            "ns5.netnames.net", 
+            "ns6.netnames.net"
+        ], 
+        "domain-name": "the-inquirer.net", 
+        "fuzzer": "hyphenation", 
+        "geoip-country": "United Kingdom", 
+        "ssdeep-score": 100
+    }, 
+    {
+        "dns-a": [
+            "127.0.0.1"
+        ], 
+        "dns-mx": [
+            "mx156.hostedmxserver.com"
+        ], 
+        "dns-ns": [
+            "ns1.parklogic.com", 
+            "ns2.parklogic.com", 
+            "ns3.parklogic.com", 
+            "ns4.parklogic.com", 
+            "ns5.parklogic.com"
+        ], 
+        "domain-name": "theinquier.net", 
+        "fuzzer": "omission", 
+        "mx-spy": true
+    }, 
+    {
+        "dns-a": [
+            "50.63.202.33"
+        ], 
+        "dns-mx": [
+            "theenquirer-net.mail.protection.outlook.com"
+        ], 
+        "dns-ns": [
+            "ns55.domaincontrol.com", 
+            "ns56.domaincontrol.com"
+        ], 
+        "domain-name": "theenquirer.net", 
+        "fuzzer": "vowel-swap", 
+        "geoip-country": "United States"
+    }
+]

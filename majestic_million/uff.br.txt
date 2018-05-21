@@ -1,0 +1,79 @@
+[
+    {
+        "dns-a": [
+            "200.20.0.21"
+        ], 
+        "dns-mx": [
+            "mailhub.uff.br", 
+            "mailhub2.uff.br", 
+            "vm.uff.br"
+        ], 
+        "dns-ns": [
+            "guanabara.rederio.br", 
+            "marlin.telecom.uff.br", 
+            "server.uff.br"
+        ], 
+        "domain-name": "uff.br", 
+        "fuzzer": "original*", 
+        "geoip-country": "Brazil", 
+        "ssdeep-score": 100
+    }, 
+    {
+        "dns-a": [
+            "200.137.192.17"
+        ], 
+        "dns-aaaa": [
+            "2001:12f0:c0b::17"
+        ], 
+        "dns-mx": [
+            "mx0.ufg.br", 
+            "mx1.ufg.br"
+        ], 
+        "dns-ns": [
+            "ns.ufg.br", 
+            "ns2.ufg.br"
+        ], 
+        "domain-name": "ufg.br", 
+        "fuzzer": "bitsquatting"
+    }, 
+    {
+        "dns-a": [
+            "200.235.128.244"
+        ], 
+        "dns-mx": [
+            "gaia.cpd.ufv.br", 
+            "gaia2.cpd.ufv.br"
+        ], 
+        "dns-ns": [
+            "ns1.cpd.ufv.br", 
+            "ns2.cpd.ufv.br"
+        ], 
+        "domain-name": "ufv.br", 
+        "fuzzer": "bitsquatting", 
+        "geoip-country": "Brazil"
+    }, 
+    {
+        "dns-a": [
+            "200.17.41.185"
+        ], 
+        "dns-aaaa": [
+            "2001:12f0:784::41:185"
+        ], 
+        "dns-mx": [
+            "ALT1.ASPMX.L.GOOGLE.COM", 
+            "ALT2.ASPMX.L.GOOGLE.COM", 
+            "ALT3.ASPMX.L.GOOGLE.COM", 
+            "ALT4.ASPMX.L.GOOGLE.COM", 
+            "ASPMX.L.GOOGLE.COM"
+        ], 
+        "dns-ns": [
+            "cici.npd.ufc.br", 
+            "cici.sti.ufc.br", 
+            "jeri0.ufc.br", 
+            "taiba.ufc.br"
+        ], 
+        "domain-name": "ufc.br", 
+        "fuzzer": "replacement", 
+        "geoip-country": "Brazil"
+    }
+]

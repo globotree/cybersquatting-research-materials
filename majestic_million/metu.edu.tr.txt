@@ -1,0 +1,37 @@
+[
+    {
+        "dns-a": [
+            "144.122.145.153"
+        ], 
+        "dns-mx": [
+            "kale.general.services.metu.edu.tr", 
+            "varya.general.services.metu.edu.tr"
+        ], 
+        "dns-ns": [
+            "ns1.metu.edu.tr", 
+            "ns2.metu.edu.tr"
+        ], 
+        "domain-name": "metu.edu.tr", 
+        "fuzzer": "original*", 
+        "geoip-country": "Turkey", 
+        "ssdeep-score": 100
+    }, 
+    {
+        "dns-a": [
+            "193.140.108.140"
+        ], 
+        "dns-aaaa": [
+            "2001:a98:100:1b:10:1:11:140"
+        ], 
+        "dns-mx": [
+            "postakontrol.etu.edu.tr"
+        ], 
+        "dns-ns": [
+            "ns1.etu.edu.tr", 
+            "ns2.etu.edu.tr"
+        ], 
+        "domain-name": "etu.edu.tr", 
+        "fuzzer": "omission", 
+        "geoip-country": "Turkey"
+    }
+]

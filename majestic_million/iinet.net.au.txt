@@ -1,0 +1,81 @@
+[
+    {
+        "dns-a": [
+            "203.173.50.151"
+        ], 
+        "dns-aaaa": [
+            "2001:4478:1310:1fff:203:173:50:151"
+        ], 
+        "dns-mx": [
+            "asav.iinet.net.au"
+        ], 
+        "dns-ns": [
+            "ns1.iinet.net.au", 
+            "ns2.iinet.net.au", 
+            "ns3.iinet.net.au"
+        ], 
+        "domain-name": "iinet.net.au", 
+        "fuzzer": "original*", 
+        "geoip-country": "Australia", 
+        "ssdeep-score": 100
+    }, 
+    {
+        "dns-a": [
+            "101.0.93.106"
+        ], 
+        "dns-mx": [
+            "sp1mx.hosting-australia.com", 
+            "sp2mx.hosting-australia.com", 
+            "sp3mx.hosting-australia.com"
+        ], 
+        "dns-ns": [
+            "ns1.hosting-australia.com", 
+            "ns2.hosting-australia.com", 
+            "ns3.hosting-australia.com"
+        ], 
+        "domain-name": "hinet.net.au", 
+        "fuzzer": "bitsquatting", 
+        "geoip-country": "Australia"
+    }, 
+    {
+        "dns-a": [
+            "104.31.92.168", 
+            "104.31.93.168"
+        ], 
+        "dns-aaaa": [
+            "2400:cb00:2048:1::681f:5ca8", 
+            "2400:cb00:2048:1::681f:5da8"
+        ], 
+        "dns-mx": [
+            "alt1.aspmx.l.google.com", 
+            "alt2.aspmx.l.google.com", 
+            "aspmx.l.google.com", 
+            "aspmx2.googlemail.com", 
+            "aspmx3.googlemail.com"
+        ], 
+        "dns-ns": [
+            "ed.ns.cloudflare.com", 
+            "elle.ns.cloudflare.com"
+        ], 
+        "domain-name": "minet.net.au", 
+        "fuzzer": "bitsquatting", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "50.87.23.139"
+        ], 
+        "dns-mx": [
+            "mail.inet.net.au"
+        ], 
+        "dns-ns": [
+            "ns1.bluehost.com", 
+            "ns2.bluehost.com"
+        ], 
+        "domain-name": "inet.net.au", 
+        "fuzzer": "omission", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 0
+    }
+]

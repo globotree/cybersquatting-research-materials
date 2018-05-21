@@ -1,0 +1,68 @@
+[
+    {
+        "dns-a": [
+            "131.220.14.100"
+        ], 
+        "dns-mx": [
+            "x29.rhrz.uni-bonn.de", 
+            "x30.rhrz.uni-bonn.de", 
+            "x47-as.rhrz.uni-bonn.de"
+        ], 
+        "dns-ns": [
+            "dns-3.dfn.de", 
+            "nic.rhrz.uni-bonn.de", 
+            "node03-en2.rhrz.uni-bonn.de", 
+            "node08.rhrz.uni-bonn.de"
+        ], 
+        "domain-name": "uni-bonn.de", 
+        "fuzzer": "original*", 
+        "geoip-country": "Germany", 
+        "ssdeep-score": 100
+    }, 
+    {
+        "dns-a": [
+            "131.220.14.100"
+        ], 
+        "dns-ns": [
+            "nic.rhrz.uni-bonn.de", 
+            "node03-en2.rhrz.uni-bonn.de", 
+            "node08.rhrz.uni-bonn.de"
+        ], 
+        "domain-name": "uni-bon.de", 
+        "fuzzer": "omission", 
+        "geoip-country": "Germany", 
+        "ssdeep-score": 100
+    }, 
+    {
+        "dns-a": [
+            "131.220.14.100"
+        ], 
+        "dns-ns": [
+            "dns-3.dfn.de", 
+            "nic.rhrz.uni-bonn.de", 
+            "node03-en2.rhrz.uni-bonn.de", 
+            "node08.rhrz.uni-bonn.de"
+        ], 
+        "domain-name": "unibonn.de", 
+        "fuzzer": "omission", 
+        "geoip-country": "Germany", 
+        "ssdeep-score": 100
+    }, 
+    {
+        "dns-a": [
+            "185.53.178.9"
+        ], 
+        "dns-mx": [
+            "mail.h-email.net"
+        ], 
+        "dns-ns": [
+            "ns1.parkingcrew.net", 
+            "ns2.parkingcrew.net"
+        ], 
+        "domain-name": "uni-onn.de", 
+        "fuzzer": "omission", 
+        "geoip-country": "Germany", 
+        "mx-spy": true, 
+        "ssdeep-score": 0
+    }
+]

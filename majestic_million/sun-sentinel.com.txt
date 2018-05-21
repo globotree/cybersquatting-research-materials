@@ -1,0 +1,95 @@
+[
+    {
+        "dns-a": [
+            "192.187.77.17", 
+            "192.187.93.86"
+        ], 
+        "dns-mx": [
+            "sunsentinel-com0i.mail.protection.outlook.com"
+        ], 
+        "dns-ns": [
+            "dns1.tribpub.com", 
+            "dns2.tribpub.com", 
+            "dns3.tribpub.com", 
+            "dns4.tribpub.com"
+        ], 
+        "domain-name": "sun-sentinel.com", 
+        "fuzzer": "original*", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 100
+    }, 
+    {
+        "dns-a": [
+            "159.203.72.25"
+        ], 
+        "dns-ns": [
+            "ns1fkl.name.com", 
+            "ns2dky.name.com", 
+            "ns3fgh.name.com", 
+            "ns4cfn.name.com"
+        ], 
+        "domain-name": "sun-sentinels.com", 
+        "fuzzer": "addition", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "192.187.77.17", 
+            "192.187.93.86"
+        ], 
+        "dns-ns": [
+            "dns1.tribpub.com", 
+            "dns2.tribpub.com", 
+            "dns3.tribpub.com", 
+            "dns4.tribpub.com"
+        ], 
+        "domain-name": "sun-sentinal.com", 
+        "fuzzer": "bitsquatting", 
+        "geoip-country": "United States"
+    }, 
+    {
+        "dns-a": [
+            "103.224.182.253"
+        ], 
+        "dns-mx": [
+            "park-mx.above.com"
+        ], 
+        "dns-ns": [
+            "ns3.above.com", 
+            "ns4.above.com"
+        ], 
+        "domain-name": "sun-sentimel.com", 
+        "fuzzer": "homoglyph", 
+        "geoip-country": "Australia", 
+        "mx-spy": true, 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "192.187.76.39"
+        ], 
+        "dns-mx": [
+            "sunsentinel-com.mail.protection.outlook.com"
+        ], 
+        "dns-ns": [
+            "dns1.tribpub.com", 
+            "dns2.tribpub.com", 
+            "dns3.tribpub.com", 
+            "dns4.tribpub.com"
+        ], 
+        "domain-name": "sunsentinel.com", 
+        "fuzzer": "omission", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 100
+    }, 
+    {
+        "dns-a": [
+            "107.180.49.116"
+        ], 
+        "domain-name": "sun-sentin.el.com", 
+        "fuzzer": "subdomain", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 0
+    }
+]

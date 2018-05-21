@@ -1,0 +1,170 @@
+[
+    {
+        "dns-a": [
+            "116.52.249.93", 
+            "116.52.249.95"
+        ], 
+        "dns-mx": [
+            "mail.yn.gov.cn"
+        ], 
+        "dns-ns": [
+            "ns1.ynegov.cn", 
+            "ns2.ynegov.cn"
+        ], 
+        "domain-name": "yn.gov.cn", 
+        "fuzzer": "original*", 
+        "geoip-country": "China", 
+        "ssdeep-score": 100
+    }, 
+    {
+        "dns-ns": [
+            "dnsserver"
+        ], 
+        "domain-name": "ynf.gov.cn", 
+        "fuzzer": "addition"
+    }, 
+    {
+        "dns-ns": [
+            "dns17.hichina.com", 
+            "dns18.hichina.com"
+        ], 
+        "domain-name": "ynj.gov.cn", 
+        "fuzzer": "addition"
+    }, 
+    {
+        "dns-ns": [
+            "ns7.cnmsn.net", 
+            "ns8.cnmsn.net"
+        ], 
+        "domain-name": "ynl.gov.cn", 
+        "fuzzer": "addition"
+    }, 
+    {
+        "dns-ns": [
+            "dns10.hichina.com", 
+            "dns9.hichina.com"
+        ], 
+        "domain-name": "ynw.gov.cn", 
+        "fuzzer": "addition"
+    }, 
+    {
+        "dns-a": [
+            "220.179.115.75"
+        ], 
+        "dns-ns": [
+            "dns11.hichina.com", 
+            "dns12.hichina.com"
+        ], 
+        "domain-name": "xn.gov.cn", 
+        "fuzzer": "bitsquatting", 
+        "geoip-country": "China"
+    }, 
+    {
+        "dns-a": [
+            "124.115.244.35"
+        ], 
+        "domain-name": "yl.gov.cn", 
+        "fuzzer": "bitsquatting", 
+        "geoip-country": "China"
+    }, 
+    {
+        "dns-ns": [
+            "dmz-dnsserver"
+        ], 
+        "domain-name": "yj.gov.cn", 
+        "fuzzer": "bitsquatting"
+    }, 
+    {
+        "dns-a": [
+            "112.117.211.66"
+        ], 
+        "dns-ns": [
+            "dns10.hichina.com", 
+            "dns9.hichina.com"
+        ], 
+        "domain-name": "yr.gov.cn", 
+        "fuzzer": "homoglyph", 
+        "geoip-country": "China", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-ns": [
+            "win-f8bd8e888hd"
+        ], 
+        "domain-name": "ym.gov.cn", 
+        "fuzzer": "homoglyph"
+    }, 
+    {
+        "dns-a": [
+            "61.175.219.229"
+        ], 
+        "dns-mx": [
+            "mail.yh.gov.cn"
+        ], 
+        "dns-ns": [
+            "ns15.xincache.com", 
+            "ns16.xincache.com"
+        ], 
+        "domain-name": "yh.gov.cn", 
+        "fuzzer": "replacement"
+    }, 
+    {
+        "dns-a": [
+            "218.89.64.78"
+        ], 
+        "dns-mx": [
+            "218.89.64.3"
+        ], 
+        "dns-ns": [
+            "dns1.ybcei.gov.cn", 
+            "dns2.ybcei.gov.cn"
+        ], 
+        "domain-name": "yb.gov.cn", 
+        "fuzzer": "replacement", 
+        "geoip-country": "China"
+    }, 
+    {
+        "dns-a": [
+            "121.40.159.24"
+        ], 
+        "dns-ns": [
+            "dns31.hichina.com", 
+            "dns32.hichina.com"
+        ], 
+        "domain-name": "tn.gov.cn", 
+        "fuzzer": "replacement", 
+        "geoip-country": "China"
+    }, 
+    {
+        "dns-a": [
+            "218.22.156.133"
+        ], 
+        "dns-ns": [
+            "ns17.xincache.com", 
+            "ns18.xincache.com"
+        ], 
+        "domain-name": "hn.gov.cn", 
+        "fuzzer": "replacement"
+    }, 
+    {
+        "dns-a": [
+            "218.56.144.28"
+        ], 
+        "domain-name": "ny.gov.cn", 
+        "fuzzer": "transposition"
+    }, 
+    {
+        "dns-ns": [
+            "a.dns.cn", 
+            "b.dns.cn", 
+            "c.dns.cn", 
+            "cns.cernet.net", 
+            "d.dns.cn", 
+            "e.dns.cn", 
+            "f.dns.cn", 
+            "g.dns.cn"
+        ], 
+        "domain-name": "yn.cn", 
+        "fuzzer": "various"
+    }
+]

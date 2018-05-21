@@ -1,0 +1,48 @@
+[
+    {
+        "dns-a": [
+            "104.28.12.172", 
+            "104.28.13.172"
+        ], 
+        "dns-aaaa": [
+            "2400:cb00:2048:1::681c:cac", 
+            "2400:cb00:2048:1::681c:dac"
+        ], 
+        "dns-mx": [
+            "mail.webstandards.org"
+        ], 
+        "dns-ns": [
+            "jean.ns.cloudflare.com", 
+            "paul.ns.cloudflare.com"
+        ], 
+        "domain-name": "webstandards.org", 
+        "fuzzer": "original*", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 100
+    }, 
+    {
+        "dns-a": [
+            "80.65.238.153"
+        ], 
+        "domain-name": "webstanda.rds.org", 
+        "fuzzer": "subdomain", 
+        "geoip-country": "France"
+    }, 
+    {
+        "dns-a": [
+            "50.63.46.1"
+        ], 
+        "dns-ns": [
+            "A.SERVICE.AFILIASDNS.INFO", 
+            "B.SERVICE.AFILIASDNS.org", 
+            "C.SERVICE.AFILIASDNS.NET", 
+            "D.SERVICE.AFILIASDNS.COM", 
+            "E.SERVICE.AFILIASDNS.INFO", 
+            "F.SERVICE.AFILIASDNS.NET"
+        ], 
+        "domain-name": "webstandard.s.org", 
+        "fuzzer": "subdomain", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 0
+    }
+]

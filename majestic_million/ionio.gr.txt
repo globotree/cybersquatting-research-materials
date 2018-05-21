@@ -1,0 +1,86 @@
+[
+    {
+        "dns-a": [
+            "195.130.124.109"
+        ], 
+        "dns-mx": [
+            "smtp.ionio.gr", 
+            "smtpin1.ionio.gr"
+        ], 
+        "dns-ns": [
+            "directory.ionio.gr", 
+            "ns.ionio.gr", 
+            "sns0.grnet.gr", 
+            "sns1.grnet.gr"
+        ], 
+        "domain-name": "ionio.gr", 
+        "fuzzer": "original*", 
+        "geoip-country": "Greece"
+    }, 
+    {
+        "dns-a": [
+            "69.172.201.153"
+        ], 
+        "dns-ns": [
+            "ns1.uniregistrymarket.link", 
+            "ns2.uniregistrymarket.link"
+        ], 
+        "domain-name": "ionion.gr", 
+        "fuzzer": "addition", 
+        "geoip-country": "United States"
+    }, 
+    {
+        "dns-a": [
+            "88.99.232.231"
+        ], 
+        "dns-mx": [
+            "ionios.gr"
+        ], 
+        "dns-ns": [
+            "ns1.krkx.gr", 
+            "ns2.krkx.gr"
+        ], 
+        "domain-name": "ionios.gr", 
+        "fuzzer": "addition", 
+        "geoip-country": "Germany"
+    }, 
+    {
+        "dns-a": [
+            "136.243.9.216"
+        ], 
+        "dns-ns": [
+            "dns1.papaki.gr", 
+            "dns2.papaki.gr"
+        ], 
+        "domain-name": "ioniko.gr", 
+        "fuzzer": "insertion", 
+        "geoip-country": "Germany"
+    }, 
+    {
+        "dns-a": [
+            "5.9.103.14"
+        ], 
+        "dns-mx": [
+            "ioio.gr"
+        ], 
+        "dns-ns": [
+            "ns1.web-touch.eu", 
+            "ns2.web-touch.eu"
+        ], 
+        "domain-name": "ioio.gr", 
+        "fuzzer": "omission", 
+        "geoip-country": "Germany"
+    }, 
+    {
+        "dns-a": [
+            "144.76.185.118"
+        ], 
+        "dns-ns": [
+            "ns1.eproductions2.gr", 
+            "ns2.eproductions2.gr"
+        ], 
+        "domain-name": "ionia.gr", 
+        "fuzzer": "vowel-swap", 
+        "geoip-country": "Germany"
+    }
+]

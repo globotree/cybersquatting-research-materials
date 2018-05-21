@@ -1,0 +1,35 @@
+[
+    {
+        "dns-a": [
+            "87.252.208.70"
+        ], 
+        "dns-mx": [
+            "ALT1.ASPMX.L.GOOGLE.com", 
+            "ALT2.ASPMX.L.GOOGLE.com", 
+            "ASPMX.L.GOOGLE.com", 
+            "ASPMX2.GOOGLEMAIL.com", 
+            "ASPMX3.GOOGLEMAIL.com", 
+            "ASPMX4.GOOGLEMAIL.com", 
+            "ASPMX5.GOOGLEMAIL.com"
+        ], 
+        "dns-ns": [
+            "ns1.p06.dynect.net", 
+            "ns2.p06.dynect.net", 
+            "ns3.p06.dynect.net", 
+            "ns4.p06.dynect.net"
+        ], 
+        "domain-name": "researchandmarkets.com", 
+        "fuzzer": "original*", 
+        "geoip-country": "United Kingdom", 
+        "ssdeep-score": 100
+    }, 
+    {
+        "dns-a": [
+            "143.95.109.241"
+        ], 
+        "domain-name": "researchandmar.kets.com", 
+        "fuzzer": "subdomain", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 0
+    }
+]

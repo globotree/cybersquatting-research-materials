@@ -1,0 +1,29 @@
+[
+    {
+        "dns-a": [
+            "202.127.48.0"
+        ], 
+        "dns-mx": [
+            "mail.customs.gov.cn"
+        ], 
+        "dns-ns": [
+            "ccn.customs.gov.cn", 
+            "ccn1.customs.gov.cn", 
+            "cns1.zdnscloud.net", 
+            "dns1.zdnscloud.info", 
+            "ins1.zdnscloud.com", 
+            "vns1.zdnscloud.biz"
+        ], 
+        "domain-name": "customs.gov.cn", 
+        "fuzzer": "original*", 
+        "geoip-country": "China"
+    }, 
+    {
+        "dns-ns": [
+            "dns11.hichina.com", 
+            "dns12.hichina.com"
+        ], 
+        "domain-name": "customsgov.cn", 
+        "fuzzer": "various"
+    }
+]

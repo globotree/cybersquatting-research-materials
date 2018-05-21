@@ -1,0 +1,121 @@
+[
+    {
+        "dns-a": [
+            "204.62.114.179", 
+            "204.62.115.88"
+        ], 
+        "dns-mx": [
+            "alt1.aspmx.l.google.com", 
+            "alt2.aspmx.l.google.com", 
+            "aspmx.l.google.com", 
+            "aspmx2.googlemail.com", 
+            "aspmx3.googlemail.com"
+        ], 
+        "dns-ns": [
+            "dns1.p07.nsone.net", 
+            "dns2.p07.nsone.net", 
+            "dns3.p07.nsone.net", 
+            "dns4.p07.nsone.net", 
+            "ns-1201.awsdns-22.org", 
+            "ns-1911.awsdns-46.co.uk", 
+            "ns-246.awsdns-30.com", 
+            "ns-541.awsdns-03.net"
+        ], 
+        "domain-name": "37signals.com", 
+        "fuzzer": "original*", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 100
+    }, 
+    {
+        "dns-a": [
+            "74.208.236.148"
+        ], 
+        "dns-aaaa": [
+            "2607:f1c0:100f:f000::255"
+        ], 
+        "dns-mx": [
+            "mx00.1and1.com", 
+            "mx01.1and1.com"
+        ], 
+        "dns-ns": [
+            "ns1057.ui-dns.biz", 
+            "ns1057.ui-dns.com", 
+            "ns1057.ui-dns.de", 
+            "ns1057.ui-dns.org"
+        ], 
+        "domain-name": "17signals.com", 
+        "fuzzer": "bitsquatting", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "162.144.12.30"
+        ], 
+        "dns-mx": [
+            "mail.33signals.com"
+        ], 
+        "dns-ns": [
+            "ns6587.hostgator.com", 
+            "ns6588.hostgator.com"
+        ], 
+        "domain-name": "33signals.com", 
+        "fuzzer": "bitsquatting", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "184.168.221.38"
+        ], 
+        "dns-mx": [
+            "mailstore1.secureserver.net", 
+            "smtp.secureserver.net"
+        ], 
+        "dns-ns": [
+            "ns35.domaincontrol.com", 
+            "ns36.domaincontrol.com"
+        ], 
+        "domain-name": "7signals.com", 
+        "fuzzer": "omission", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "50.63.202.48"
+        ], 
+        "dns-mx": [
+            "mailstore1.secureserver.net", 
+            "smtp.secureserver.net"
+        ], 
+        "dns-ns": [
+            "ns53.domaincontrol.com", 
+            "ns54.domaincontrol.com"
+        ], 
+        "domain-name": "3signals.com", 
+        "fuzzer": "omission", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "69.162.80.51"
+        ], 
+        "dns-ns": [
+            "ns1.hastydns.com", 
+            "ns2.hastydns.com"
+        ], 
+        "domain-name": "37signal.com", 
+        "fuzzer": "omission", 
+        "geoip-country": "United States"
+    }, 
+    {
+        "dns-a": [
+            "104.156.165.12"
+        ], 
+        "domain-name": "37sig.nals.com", 
+        "fuzzer": "subdomain", 
+        "geoip-country": "United States"
+    }
+]

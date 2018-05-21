@@ -1,0 +1,155 @@
+[
+    {
+        "dns-a": [
+            "208.66.40.102"
+        ], 
+        "dns-mx": [
+            "mail.iamsport.org"
+        ], 
+        "dns-ns": [
+            "dns1.eleet-tech.com", 
+            "dns2.eleet-tech.com"
+        ], 
+        "domain-name": "iamsport.org", 
+        "fuzzer": "original*", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 97
+    }, 
+    {
+        "dns-a": [
+            "208.66.40.74"
+        ], 
+        "dns-mx": [
+            "mail.iamsports.org"
+        ], 
+        "dns-ns": [
+            "dns1.eleet-tech.com", 
+            "dns2.eleet-tech.com"
+        ], 
+        "domain-name": "iamsports.org", 
+        "fuzzer": "addition", 
+        "geoip-country": "United States"
+    }, 
+    {
+        "dns-a": [
+            "50.87.224.102"
+        ], 
+        "dns-mx": [
+            "aamsport.org"
+        ], 
+        "dns-ns": [
+            "ns1.bluehost.com", 
+            "ns2.bluehost.com"
+        ], 
+        "domain-name": "aamsport.org", 
+        "fuzzer": "bitsquatting", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "104.31.70.157", 
+            "104.31.71.157"
+        ], 
+        "dns-aaaa": [
+            "2400:cb00:2048:1::681f:469d", 
+            "2400:cb00:2048:1::681f:479d"
+        ], 
+        "dns-mx": [
+            "mx.imsport.org.cust.b.hostedemail.com"
+        ], 
+        "dns-ns": [
+            "chan.ns.cloudflare.com", 
+            "toby.ns.cloudflare.com"
+        ], 
+        "domain-name": "imsport.org", 
+        "fuzzer": "omission", 
+        "geoip-country": "United States"
+    }, 
+    {
+        "dns-a": [
+            "129.237.33.76"
+        ], 
+        "dns-ns": [
+            "ns1.ku.edu", 
+            "ns2.ku.edu"
+        ], 
+        "domain-name": "jamsport.org", 
+        "fuzzer": "replacement", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "162.222.227.105"
+        ], 
+        "dns-mx": [
+            "ALT1.ASPMX.L.GOOGLE.COM", 
+            "ALT2.ASPMX.L.GOOGLE.COM", 
+            "ALT3.ASPMX.L.GOOGLE.COM", 
+            "ALT4.ASPMX.L.GOOGLE.COM", 
+            "ASPMX.L.GOOGLE.COM"
+        ], 
+        "dns-ns": [
+            "lab1.fireflysolutions.in", 
+            "lab2.fireflysolutions.in"
+        ], 
+        "domain-name": "ismsport.org", 
+        "fuzzer": "replacement", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "184.168.221.96"
+        ], 
+        "dns-mx": [
+            "0", 
+            "10"
+        ], 
+        "dns-ns": [
+            "ns01.cashparking.com", 
+            "ns02.cashparking.com"
+        ], 
+        "domain-name": "ia.msport.org", 
+        "fuzzer": "subdomain", 
+        "geoip-country": "United States", 
+        "mx-spy": true, 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "74.117.222.18"
+        ], 
+        "dns-aaaa": [
+            "::ffff:74.117.222.18"
+        ], 
+        "domain-name": "iams.port.org", 
+        "fuzzer": "subdomain", 
+        "geoip-country": "Cayman Islands", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "98.124.199.67"
+        ], 
+        "domain-name": "iamspor.t.org", 
+        "fuzzer": "subdomain", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "94.126.40.154"
+        ], 
+        "dns-mx": [
+            "mailforward.lcn.com"
+        ], 
+        "dns-ns": [
+            "ns0.lcn.com", 
+            "ns1.lcn.com"
+        ], 
+        "domain-name": "iomsport.org", 
+        "fuzzer": "vowel-swap"
+    }
+]

@@ -1,0 +1,84 @@
+[
+    {
+        "dns-a": [
+            "49.50.67.51"
+        ], 
+        "dns-mx": [
+            "mail.icsi.edu"
+        ], 
+        "dns-ns": [
+            "ns2.spectranet.com", 
+            "ns5.spectranet.com"
+        ], 
+        "domain-name": "icsi.edu", 
+        "fuzzer": "original*", 
+        "geoip-country": "India", 
+        "mx-spy": true, 
+        "ssdeep-score": 100
+    }, 
+    {
+        "dns-a": [
+            "198.199.68.158"
+        ], 
+        "dns-mx": [
+            "mail.icasi.edu"
+        ], 
+        "dns-ns": [
+            "ns1.brinkster.com", 
+            "ns2.brinkster.com"
+        ], 
+        "domain-name": "icasi.edu", 
+        "fuzzer": "insertion", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "128.9.47.110"
+        ], 
+        "dns-mx": [
+            "mail-c.ads.isi.edu", 
+            "mail-d.ads.isi.edu"
+        ], 
+        "dns-ns": [
+            "nitro.isi.edu", 
+            "ns.east.isi.edu", 
+            "ns.isi.edu", 
+            "vapor.isi.edu"
+        ], 
+        "domain-name": "isi.edu", 
+        "fuzzer": "omission", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "52.183.61.249"
+        ], 
+        "dns-mx": [
+            "csi-edu.mail.protection.outlook.com"
+        ], 
+        "dns-ns": [
+            "brick.csi.edu", 
+            "dns2.pmt.org", 
+            "dns3.pmt.org", 
+            "dns4.pmt.org"
+        ], 
+        "domain-name": "csi.edu", 
+        "fuzzer": "omission", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "65.23.47.82"
+        ], 
+        "dns-ns": [
+            "gu-dns.globaluniversity.edu"
+        ], 
+        "domain-name": "ici.edu", 
+        "fuzzer": "omission", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 0
+    }
+]

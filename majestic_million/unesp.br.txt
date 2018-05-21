@@ -1,0 +1,78 @@
+[
+    {
+        "dns-a": [
+            "200.145.6.90"
+        ], 
+        "dns-aaaa": [
+            "2801:88:1000::90"
+        ], 
+        "dns-mx": [
+            "alt1.l.google.com", 
+            "alt2.l.google.com", 
+            "alt3.l.google.com", 
+            "alt4.l.google.com", 
+            "aspmx.l.google.com"
+        ], 
+        "dns-ns": [
+            "ns1.unesp.br", 
+            "ns2.unesp.br"
+        ], 
+        "domain-name": "unesp.br", 
+        "fuzzer": "original*", 
+        "geoip-country": "Brazil", 
+        "ssdeep-score": 100
+    }, 
+    {
+        "dns-a": [
+            "177.129.73.84"
+        ], 
+        "dns-ns": [
+            "ns1.unicesumar.edu.br", 
+            "ns2.unicesumar.edu.br"
+        ], 
+        "domain-name": "unespa.br", 
+        "fuzzer": "addition", 
+        "geoip-country": "Brazil", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "192.124.249.118"
+        ], 
+        "dns-mx": [
+            "alt1.aspmx.l.google.com", 
+            "alt2.aspmx.l.google.com", 
+            "aspmx.l.google.com", 
+            "aspmx2.googlemail.com", 
+            "aspmx3.googlemail.com"
+        ], 
+        "dns-ns": [
+            "ns1-01.azure-dns.com", 
+            "ns2-01.azure-dns.net", 
+            "ns3-01.azure-dns.org", 
+            "ns4-01.azure-dns.info"
+        ], 
+        "domain-name": "unasp.br", 
+        "fuzzer": "bitsquatting", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "191.252.49.50"
+        ], 
+        "dns-mx": [
+            "mx.a.locaweb.com.br", 
+            "mx.b.locaweb.com.br", 
+            "mx.core.locaweb.com.br", 
+            "mx.jk.locaweb.com.br"
+        ], 
+        "dns-ns": [
+            "ns1.locaweb.com.br", 
+            "ns2.locaweb.com.br", 
+            "ns3.locaweb.com.br"
+        ], 
+        "domain-name": "unes.br", 
+        "fuzzer": "omission"
+    }
+]

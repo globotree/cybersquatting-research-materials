@@ -1,0 +1,62 @@
+[
+    {
+        "dns-a": [
+            "130.238.7.114"
+        ], 
+        "dns-ns": [
+            "dns1.uu.se", 
+            "dns2.uu.se", 
+            "dns3.uu.se"
+        ], 
+        "domain-name": "diva-portal.org", 
+        "fuzzer": "original*", 
+        "geoip-country": "Sweden", 
+        "ssdeep-score": 80
+    }, 
+    {
+        "dns-a": [
+            "176.9.189.21"
+        ], 
+        "dns-mx": [
+            "mail.div-portal.org"
+        ], 
+        "dns-ns": [
+            "ns1.first-ns.de", 
+            "robotns2.second-ns.de", 
+            "robotns3.second-ns.com"
+        ], 
+        "domain-name": "div-portal.org", 
+        "fuzzer": "omission", 
+        "geoip-country": "Germany"
+    }, 
+    {
+        "dns-a": [
+            "208.91.196.105"
+        ], 
+        "dns-ns": [
+            "sk.s5.cm.ns1.39.ztomy.com", 
+            "sk.s5.cm.ns2.39.ztomy.com"
+        ], 
+        "domain-name": "divaportal.org", 
+        "fuzzer": "omission", 
+        "geoip-country": "Virgin Islands", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "50.63.46.1"
+        ], 
+        "dns-ns": [
+            "A.SERVICE.AFILIASDNS.INFO", 
+            "B.SERVICE.AFILIASDNS.org", 
+            "C.SERVICE.AFILIASDNS.NET", 
+            "D.SERVICE.AFILIASDNS.COM", 
+            "E.SERVICE.AFILIASDNS.INFO", 
+            "F.SERVICE.AFILIASDNS.NET"
+        ], 
+        "domain-name": "diva-porta.l.org", 
+        "fuzzer": "subdomain", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 0
+    }
+]

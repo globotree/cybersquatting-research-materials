@@ -1,0 +1,147 @@
+[
+    {
+        "dns-a": [
+            "121.8.171.26"
+        ], 
+        "dns-mx": [
+            "mx1.scnu.edu.cn", 
+            "mx2.scnu.edu.cn"
+        ], 
+        "dns-ns": [
+            "hsnc.scnu.edu.cn", 
+            "hsut.scnu.edu.cn"
+        ], 
+        "domain-name": "scnu.edu.cn", 
+        "fuzzer": "original*", 
+        "geoip-country": "China"
+    }, 
+    {
+        "dns-mx": [
+            "mxbiz1.qq.com", 
+            "mxbiz2.qq.com"
+        ], 
+        "dns-ns": [
+            "ccnu-1.ccnu.edu.cn", 
+            "ccnu-2.ccnu.edu.cn", 
+            "ns1.ccnu.edu.cn", 
+            "ns2.ccnu.edu.cn"
+        ], 
+        "domain-name": "ccnu.edu.cn", 
+        "fuzzer": "bitsquatting"
+    }, 
+    {
+        "dns-a": [
+            "125.69.85.18", 
+            "125.69.85.19", 
+            "202.115.32.72"
+        ], 
+        "dns-mx": [
+            "scu.eyou.cn4e.com"
+        ], 
+        "dns-ns": [
+            "dart.scu.edu.cn", 
+            "secdns.scu.edu.cn"
+        ], 
+        "domain-name": "scu.edu.cn", 
+        "fuzzer": "omission", 
+        "geoip-country": "China"
+    }, 
+    {
+        "dns-a": [
+            "202.204.221.10"
+        ], 
+        "dns-mx": [
+            "mxbiz1.qq.com", 
+            "mxbiz2.qq.com"
+        ], 
+        "dns-ns": [
+            "dns.cnu.edu.cn", 
+            "dns2.cnu.edu.cn"
+        ], 
+        "domain-name": "cnu.edu.cn", 
+        "fuzzer": "omission", 
+        "geoip-country": "China"
+    }, 
+    {
+        "dns-ns": [
+            "orange.gznet.edu.cn", 
+            "scutsv33.scut.edu.cn"
+        ], 
+        "domain-name": "scn.edu.cn", 
+        "fuzzer": "omission"
+    }, 
+    {
+        "dns-mx": [
+            "mx202.snu.edu.cn", 
+            "mx61.snu.edu.cn", 
+            "mxcnc1.snu.edu.cn", 
+            "mxcnc2.snu.edu.cn"
+        ], 
+        "dns-ns": [
+            "dns.snu.edu.cn", 
+            "dns1.snu.edu.cn", 
+            "dns2.snu.edu.cn", 
+            "dns3.snu.edu.cn"
+        ], 
+        "domain-name": "snu.edu.cn", 
+        "fuzzer": "omission"
+    }, 
+    {
+        "dns-mx": [
+            "dns.sxnu.edu.cn", 
+            "mail.sxnu.edu.cn"
+        ], 
+        "dns-ns": [
+            "dns.sxnu.edu.cn", 
+            "ns1.sxnu.edu.cn"
+        ], 
+        "domain-name": "sxnu.edu.cn", 
+        "fuzzer": "replacement"
+    }, 
+    {
+        "dns-mx": [
+            "mailscan.ecnu.edu.cn", 
+            "webmail.ecnu.edu.cn"
+        ], 
+        "dns-ns": [
+            "liwa.ecnu.edu.cn", 
+            "sun.ecnu.edu.cn", 
+            "xiayu.ecnu.edu.cn", 
+            "yingtao.ecnu.edu.cn"
+        ], 
+        "domain-name": "ecnu.edu.cn", 
+        "fuzzer": "replacement"
+    }, 
+    {
+        "dns-mx": [
+            "mail.sdnu.edu.cn", 
+            "mx-sdnu-edu-cn.icoremail.net"
+        ], 
+        "dns-ns": [
+            "shihun.sdnu.edu.cn"
+        ], 
+        "domain-name": "sdnu.edu.cn", 
+        "fuzzer": "replacement"
+    }, 
+    {
+        "dns-mx": [
+            "mail.scun.edu.cn"
+        ], 
+        "dns-ns": [
+            "dns.scun.edu.cn", 
+            "oar.scun.edu.cn"
+        ], 
+        "domain-name": "scun.edu.cn", 
+        "fuzzer": "transposition"
+    }, 
+    {
+        "dns-a": [
+            "50.117.120.251"
+        ], 
+        "dns-mx": [
+            "mail.happyisp.com"
+        ], 
+        "domain-name": "scnu.cn", 
+        "fuzzer": "various"
+    }
+]

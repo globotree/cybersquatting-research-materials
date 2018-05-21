@@ -1,0 +1,160 @@
+[
+    {
+        "dns-a": [
+            "212.15.224.34"
+        ], 
+        "dns-mx": [
+            "bcnweb11.bcn.es"
+        ], 
+        "dns-ns": [
+            "ns1.bcn.cat", 
+            "ns2.bcn.cat", 
+            "ns3bcn.entorno.es"
+        ], 
+        "domain-name": "barcelona.cat", 
+        "fuzzer": "original*", 
+        "geoip-country": "Spain", 
+        "ssdeep-score": 100
+    }, 
+    {
+        "dns-a": [
+            "46.16.61.114"
+        ], 
+        "dns-ns": [
+            "ns1.cdmon.net", 
+            "ns2.cdmon.net", 
+            "ns3.cdmon.net", 
+            "ns4.cdmondns-01.org", 
+            "ns5.cdmondns-01.com"
+        ], 
+        "domain-name": "barcelonas.cat", 
+        "fuzzer": "addition", 
+        "geoip-country": "Spain", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "81.88.48.71"
+        ], 
+        "dns-mx": [
+            "mail.nominalia.com"
+        ], 
+        "dns-ns": [
+            "dns1.nominalia.com", 
+            "dns2.nominalia.com"
+        ], 
+        "domain-name": "bapcelona.cat", 
+        "fuzzer": "bitsquatting", 
+        "geoip-country": "Italy", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "77.104.148.196"
+        ], 
+        "dns-mx": [
+            "mx10.mailspamprotection.com", 
+            "mx20.mailspamprotection.com", 
+            "mx30.mailspamprotection.com"
+        ], 
+        "dns-ns": [
+            "ns1.esm11.siteground.biz", 
+            "ns2.esm11.siteground.biz"
+        ], 
+        "domain-name": "bargelona.cat", 
+        "fuzzer": "bitsquatting", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "80.92.65.53"
+        ], 
+        "dns-ns": [
+            "ns1.eurodns.com", 
+            "ns2.eurodns.com", 
+            "ns3.eurodns.com", 
+            "ns4.eurodns.com"
+        ], 
+        "domain-name": "barcalona.cat", 
+        "fuzzer": "bitsquatting", 
+        "geoip-country": "Luxembourg", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "208.91.197.160"
+        ], 
+        "dns-ns": [
+            "parking1.mdnsservice.com", 
+            "parking2.mdnsservice.com"
+        ], 
+        "domain-name": "barcedona.cat", 
+        "fuzzer": "bitsquatting", 
+        "geoip-country": "Virgin Islands", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "213.186.33.5"
+        ], 
+        "dns-mx": [
+            "redirect.ovh.net"
+        ], 
+        "dns-ns": [
+            "dns13.ovh.net", 
+            "ns13.ovh.net"
+        ], 
+        "domain-name": "barcelone.cat", 
+        "fuzzer": "bitsquatting", 
+        "geoip-country": "France", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "185.28.21.186"
+        ], 
+        "dns-mx": [
+            "mx1.hostinger.es"
+        ], 
+        "dns-ns": [
+            "ns1.hostinger.es", 
+            "ns2.hostinger.es", 
+            "ns3.hostinger.es", 
+            "ns4.hostinger.es"
+        ], 
+        "domain-name": "barceloona.cat", 
+        "fuzzer": "insertion", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "37.46.74.136"
+        ], 
+        "dns-mx": [
+            "mail.badcelona.cat"
+        ], 
+        "dns-ns": [
+            "ns37.dominiodns.com", 
+            "ns38.dominiodns.com"
+        ], 
+        "domain-name": "badcelona.cat", 
+        "fuzzer": "replacement", 
+        "geoip-country": "Spain", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-mx": [
+            "mail.borcelona.cat"
+        ], 
+        "dns-ns": [
+            "ns.dinahosting.com", 
+            "ns2.dinahosting.com", 
+            "ns3.dinahosting.com", 
+            "ns4.dinahosting.com"
+        ], 
+        "domain-name": "borcelona.cat", 
+        "fuzzer": "vowel-swap"
+    }
+]

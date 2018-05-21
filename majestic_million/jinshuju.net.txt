@@ -1,0 +1,77 @@
+[
+    {
+        "dns-a": [
+            "54.222.133.41", 
+            "54.223.74.102"
+        ], 
+        "dns-mx": [
+            "mx.zoho.com", 
+            "mx2.zoho.com", 
+            "mx3.zoho.com"
+        ], 
+        "dns-ns": [
+            "lv3ns1.ffdns.net", 
+            "lv3ns2.ffdns.net", 
+            "lv3ns3.ffdns.net", 
+            "lv3ns4.ffdns.net"
+        ], 
+        "domain-name": "jinshuju.net", 
+        "fuzzer": "original*", 
+        "geoip-country": "China", 
+        "ssdeep-score": 99
+    }, 
+    {
+        "dns-ns": [
+            "f1g1ns1.dnspod.net", 
+            "f1g1ns2.dnspod.net"
+        ], 
+        "domain-name": "jinsheju.net", 
+        "fuzzer": "bitsquatting"
+    }, 
+    {
+        "dns-a": [
+            "122.10.96.42"
+        ], 
+        "dns-ns": [
+            "dns7.hichina.com", 
+            "dns8.hichina.com"
+        ], 
+        "domain-name": "jlnshuju.net", 
+        "fuzzer": "homoglyph", 
+        "geoip-country": "Hong Kong"
+    }, 
+    {
+        "dns-ns": [
+            "f1g1ns1.dnspod.net", 
+            "f1g1ns2.dnspod.net"
+        ], 
+        "domain-name": "jishuju.net", 
+        "fuzzer": "omission"
+    }, 
+    {
+        "dns-a": [
+            "68.178.213.61"
+        ], 
+        "domain-name": "jins.huju.net", 
+        "fuzzer": "subdomain", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "184.168.221.96"
+        ], 
+        "dns-mx": [
+            "0", 
+            "10"
+        ], 
+        "dns-ns": [
+            "ns01.cashparking.com", 
+            "ns02.cashparking.com"
+        ], 
+        "domain-name": "jinsh.uju.net", 
+        "fuzzer": "subdomain", 
+        "geoip-country": "United States", 
+        "mx-spy": true
+    }
+]

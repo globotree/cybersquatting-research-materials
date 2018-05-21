@@ -1,0 +1,94 @@
+[
+    {
+        "dns-a": [
+            "13.32.14.125", 
+            "13.32.14.135", 
+            "13.32.14.17", 
+            "13.32.14.216", 
+            "13.32.14.224", 
+            "13.32.14.233", 
+            "13.32.14.50", 
+            "13.32.14.89"
+        ], 
+        "dns-mx": [
+            "americanprogress-org.mail.protection.outlook.com"
+        ], 
+        "dns-ns": [
+            "ns-1106.awsdns-10.org", 
+            "ns-1764.awsdns-28.co.uk", 
+            "ns-328.awsdns-41.com", 
+            "ns-948.awsdns-54.net"
+        ], 
+        "domain-name": "americanprogress.org", 
+        "fuzzer": "original*", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 100
+    }, 
+    {
+        "dns-a": [
+            "184.168.221.6"
+        ], 
+        "dns-mx": [
+            "mailstore1.secureserver.net", 
+            "smtp.secureserver.net"
+        ], 
+        "dns-ns": [
+            "ns73.domaincontrol.com", 
+            "ns74.domaincontrol.com"
+        ], 
+        "domain-name": "american-progress.org", 
+        "fuzzer": "hyphenation", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 100
+    }, 
+    {
+        "dns-a": [
+            "185.53.178.8"
+        ], 
+        "dns-mx": [
+            "mail.h-email.net"
+        ], 
+        "dns-ns": [
+            "ns1.parkingcrew.net", 
+            "ns2.parkingcrew.net"
+        ], 
+        "domain-name": "americanprogres.org", 
+        "fuzzer": "omission", 
+        "geoip-country": "Germany", 
+        "mx-spy": true, 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "66.83.245.238"
+        ], 
+        "domain-name": "americanpro.gress.org", 
+        "fuzzer": "subdomain", 
+        "geoip-country": "United States"
+    }, 
+    {
+        "dns-a": [
+            "72.52.4.119"
+        ], 
+        "dns-mx": [
+            "localhost"
+        ], 
+        "dns-ns": [
+            "ns1.sedoparking.com", 
+            "ns2.sedoparking.com"
+        ], 
+        "domain-name": "americanprog.ress.org", 
+        "fuzzer": "subdomain", 
+        "geoip-country": "United States", 
+        "mx-spy": true, 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "50.63.46.1"
+        ], 
+        "domain-name": "americanprogres.s.org", 
+        "fuzzer": "subdomain", 
+        "geoip-country": "United States"
+    }
+]

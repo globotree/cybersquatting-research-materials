@@ -1,0 +1,46 @@
+[
+    {
+        "dns-a": [
+            "199.20.64.195"
+        ], 
+        "dns-mx": [
+            "mxa-0000da01.gslb.pphosted.com", 
+            "mxb-0000da01.gslb.pphosted.com"
+        ], 
+        "dns-ns": [
+            "ns1.state.nj.us", 
+            "ns2.state.nj.us"
+        ], 
+        "domain-name": "nj.gov", 
+        "fuzzer": "original*", 
+        "geoip-country": "United States", 
+        "mx-spy": true, 
+        "ssdeep-score": 100
+    }, 
+    {
+        "dns-a": [
+            "199.192.8.2"
+        ], 
+        "dns-mx": [
+            "mxa-001f7b01.gslb.pphosted.com", 
+            "mxb-001f7b01.gslb.pphosted.com"
+        ], 
+        "dns-ns": [
+            "flume.state.nh.us", 
+            "oldman.state.nh.us", 
+            "whitemtns.state.nh.us"
+        ], 
+        "domain-name": "nh.gov", 
+        "fuzzer": "bitsquatting", 
+        "geoip-country": "United States"
+    }, 
+    {
+        "dns-ns": [
+            "dns3.nm.gov", 
+            "ns1.nm.gov", 
+            "ns2.nm.gov"
+        ], 
+        "domain-name": "nm.gov", 
+        "fuzzer": "replacement"
+    }
+]

@@ -1,0 +1,448 @@
+[
+    {
+        "dns-mx": [
+            "smtp1.cnrs.fr", 
+            "smtp2.cnrs.fr"
+        ], 
+        "dns-ns": [
+            "camus.dr15.cnrs.fr", 
+            "ns1.cnrs.fr", 
+            "ns2.cnrs.fr", 
+            "panoramix.rap.prd.fr"
+        ], 
+        "domain-name": "cnrs.fr", 
+        "fuzzer": "original*"
+    }, 
+    {
+        "dns-a": [
+            "109.234.161.177"
+        ], 
+        "dns-mx": [
+            "cnrsm.fr"
+        ], 
+        "dns-ns": [
+            "ns1.o2switch.net", 
+            "ns2.o2switch.net"
+        ], 
+        "domain-name": "cnrsm.fr", 
+        "fuzzer": "addition", 
+        "geoip-country": "France"
+    }, 
+    {
+        "dns-a": [
+            "81.88.57.68"
+        ], 
+        "dns-mx": [
+            "mail-fr.securemail.pro"
+        ], 
+        "dns-ns": [
+            "ns1.amenworld.com", 
+            "ns2.amenworld.com"
+        ], 
+        "domain-name": "bnrs.fr", 
+        "fuzzer": "bitsquatting", 
+        "geoip-country": "Italy"
+    }, 
+    {
+        "dns-a": [
+            "193.52.0.72"
+        ], 
+        "dns-mx": [
+            "ciboule.inserm.fr", 
+            "potentille.inserm.fr"
+        ], 
+        "dns-ns": [
+            "ns1.inserm.fr", 
+            "ns2.inserm.fr", 
+            "ns3.inserm.fr"
+        ], 
+        "domain-name": "anrs.fr", 
+        "fuzzer": "bitsquatting", 
+        "geoip-country": "France"
+    }, 
+    {
+        "dns-a": [
+            "81.169.145.90"
+        ], 
+        "dns-aaaa": [
+            "2a01:238:20a:202:1090::"
+        ], 
+        "dns-mx": [
+            "smtp.rzone.de"
+        ], 
+        "dns-ns": [
+            "docks08.rzone.de", 
+            "shades10.rzone.de"
+        ], 
+        "domain-name": "snrs.fr", 
+        "fuzzer": "bitsquatting", 
+        "geoip-country": "Germany"
+    }, 
+    {
+        "dns-a": [
+            "217.160.223.211"
+        ], 
+        "dns-mx": [
+            "mx00.1and1.fr", 
+            "mx01.1and1.fr"
+        ], 
+        "dns-ns": [
+            "ns1074.ui-dns.biz", 
+            "ns1074.ui-dns.com", 
+            "ns1074.ui-dns.de", 
+            "ns1074.ui-dns.org"
+        ], 
+        "domain-name": "clrs.fr", 
+        "fuzzer": "bitsquatting", 
+        "geoip-country": "Germany"
+    }, 
+    {
+        "dns-a": [
+            "87.98.150.35"
+        ], 
+        "dns-mx": [
+            "mx1.viaduc.fr", 
+            "mx2.viaduc.fr"
+        ], 
+        "dns-ns": [
+            "ns1.nom-domaine.fr", 
+            "ns2.nom-domaine.fr"
+        ], 
+        "domain-name": "cfrs.fr", 
+        "fuzzer": "bitsquatting", 
+        "geoip-country": "France"
+    }, 
+    {
+        "dns-a": [
+            "188.165.252.104"
+        ], 
+        "dns-ns": [
+            "dns11.ovh.net", 
+            "ns11.ovh.net"
+        ], 
+        "domain-name": "cnss.fr", 
+        "fuzzer": "bitsquatting", 
+        "geoip-country": "France"
+    }, 
+    {
+        "dns-a": [
+            "188.165.53.185"
+        ], 
+        "dns-mx": [
+            "mail2.atixnet.net"
+        ], 
+        "dns-ns": [
+            "dns106.ovh.net", 
+            "ns106.ovh.net"
+        ], 
+        "domain-name": "cnps.fr", 
+        "fuzzer": "bitsquatting", 
+        "geoip-country": "France"
+    }, 
+    {
+        "dns-a": [
+            "213.186.33.40"
+        ], 
+        "dns-aaaa": [
+            "2001:41d0:1:1b00:213:186:33:40"
+        ], 
+        "dns-mx": [
+            "redirect.ovh.net"
+        ], 
+        "dns-ns": [
+            "dns14.ovh.net", 
+            "ns14.ovh.net"
+        ], 
+        "domain-name": "cnbs.fr", 
+        "fuzzer": "bitsquatting", 
+        "geoip-country": "France"
+    }, 
+    {
+        "dns-a": [
+            "94.23.103.162"
+        ], 
+        "dns-ns": [
+            "ns3.dns26.net", 
+            "ns4.dns26.net"
+        ], 
+        "domain-name": "cnrc.fr", 
+        "fuzzer": "bitsquatting", 
+        "geoip-country": "France"
+    }, 
+    {
+        "dns-a": [
+            "217.70.184.38"
+        ], 
+        "dns-mx": [
+            "fb.mail.gandi.net", 
+            "spool.mail.gandi.net"
+        ], 
+        "dns-ns": [
+            "a.dns.gandi.net", 
+            "b.dns.gandi.net", 
+            "c.dns.gandi.net"
+        ], 
+        "domain-name": "cmrs.fr", 
+        "fuzzer": "homoglyph", 
+        "geoip-country": "France"
+    }, 
+    {
+        "dns-ns": [
+            "ns1.cnrs.fr", 
+            "ns2.cnrs.fr", 
+            "ns3.cnrs.fr"
+        ], 
+        "domain-name": "xn--nrs-1la.fr", 
+        "fuzzer": "homoglyph"
+    }, 
+    {
+        "dns-a": [
+            "37.59.144.170"
+        ], 
+        "dns-mx": [
+            "cnjrs.fr"
+        ], 
+        "dns-ns": [
+            "nsa.hosting1976.fr", 
+            "nsb.hosting1976.fr", 
+            "nsc.hosting1976.fr"
+        ], 
+        "domain-name": "cnjrs.fr", 
+        "fuzzer": "insertion", 
+        "geoip-country": "France"
+    }, 
+    {
+        "dns-a": [
+            "62.210.16.62"
+        ], 
+        "dns-mx": [
+            "mx-cache.online.net", 
+            "mx.online.net"
+        ], 
+        "dns-ns": [
+            "ns0.online.net", 
+            "ns1.online.net"
+        ], 
+        "domain-name": "nrs.fr", 
+        "fuzzer": "omission", 
+        "geoip-country": "France"
+    }, 
+    {
+        "dns-a": [
+            "46.21.202.44"
+        ], 
+        "dns-mx": [
+            "mail.crs.fr"
+        ], 
+        "dns-ns": [
+            "host-7d-108.hosting.magiconline.fr", 
+            "ns2.magic.fr"
+        ], 
+        "domain-name": "crs.fr", 
+        "fuzzer": "omission", 
+        "geoip-country": "France"
+    }, 
+    {
+        "dns-mx": [
+            "cnr-fr.mail.protection.outlook.com", 
+            "cnr03.cnr.fr"
+        ], 
+        "dns-ns": [
+            "ns6.oleane.net", 
+            "ns7.oleane.net"
+        ], 
+        "domain-name": "cnr.fr", 
+        "fuzzer": "omission"
+    }, 
+    {
+        "dns-mx": [
+            "deimos.genoscope.cns.fr", 
+            "phobos.genoscope.cns.fr"
+        ], 
+        "dns-ns": [
+            "ns0.pasteur.fr", 
+            "ns1.genoscope.cns.fr", 
+            "ns2.genoscope.cns.fr", 
+            "volga.genopole.fr"
+        ], 
+        "domain-name": "cns.fr", 
+        "fuzzer": "omission"
+    }, 
+    {
+        "dns-a": [
+            "188.165.53.185"
+        ], 
+        "dns-mx": [
+            "mx1.mail.ovh.net", 
+            "mx2.mail.ovh.net", 
+            "mx3.mail.ovh.net"
+        ], 
+        "dns-ns": [
+            "dns12.ovh.net", 
+            "ns12.ovh.net"
+        ], 
+        "domain-name": "cbrs.fr", 
+        "fuzzer": "replacement", 
+        "geoip-country": "France"
+    }, 
+    {
+        "dns-mx": [
+            "mailforward.dodns.org"
+        ], 
+        "dns-ns": [
+            "ns1a.dodns.net", 
+            "ns2a.dodns.net"
+        ], 
+        "domain-name": "chrs.fr", 
+        "fuzzer": "replacement"
+    }, 
+    {
+        "dns-a": [
+            "217.70.184.38"
+        ], 
+        "dns-mx": [
+            "smtp.notes.na.collabserv.com"
+        ], 
+        "dns-ns": [
+            "a.dns.gandi.net", 
+            "b.dns.gandi.net", 
+            "c.dns.gandi.net"
+        ], 
+        "domain-name": "cnfs.fr", 
+        "fuzzer": "replacement", 
+        "geoip-country": "France", 
+        "mx-spy": true
+    }, 
+    {
+        "dns-mx": [
+            "backup.ycars.fr", 
+            "siege.ycars.fr"
+        ], 
+        "dns-ns": [
+            "a.dns.gandi.net", 
+            "b.dns.gandi.net", 
+            "c.dns.gandi.net"
+        ], 
+        "domain-name": "fnrs.fr", 
+        "fuzzer": "replacement"
+    }, 
+    {
+        "dns-a": [
+            "91.207.19.50"
+        ], 
+        "dns-mx": [
+            "mail.cnra.fr"
+        ], 
+        "dns-ns": [
+            "ns1.100pour100net.com", 
+            "ns2.mpl.100pour100net.com", 
+            "ns3.100pour100net.com"
+        ], 
+        "domain-name": "cnra.fr", 
+        "fuzzer": "replacement", 
+        "geoip-country": "France"
+    }, 
+    {
+        "dns-a": [
+            "213.186.33.2"
+        ], 
+        "dns-mx": [
+            "mx1.ovh.net", 
+            "mx2.ovh.net"
+        ], 
+        "dns-ns": [
+            "dns10.ovh.net", 
+            "ns10.ovh.net"
+        ], 
+        "domain-name": "cnrd.fr", 
+        "fuzzer": "replacement"
+    }, 
+    {
+        "dns-a": [
+            "185.24.184.110"
+        ], 
+        "dns-ns": [
+            "a.dns.gandi.net", 
+            "b.dns.gandi.net", 
+            "c.dns.gandi.net"
+        ], 
+        "domain-name": "cnds.fr", 
+        "fuzzer": "replacement", 
+        "geoip-country": "France"
+    }, 
+    {
+        "dns-a": [
+            "193.49.153.155"
+        ], 
+        "dns-mx": [
+            "mx1.cnes.fr", 
+            "mx2.cnes.fr"
+        ], 
+        "dns-ns": [
+            "dns.univ-lyon1.fr", 
+            "hal.cerfacs.fr", 
+            "tu-dnsext-p01.cnes.fr", 
+            "tu-dnsext-p02.cnes.fr"
+        ], 
+        "domain-name": "cnes.fr", 
+        "fuzzer": "replacement", 
+        "geoip-country": "France"
+    }, 
+    {
+        "dns-a": [
+            "213.186.33.40"
+        ], 
+        "dns-mx": [
+            "redirect.ovh.net"
+        ], 
+        "dns-ns": [
+            "dns20.ovh.net", 
+            "ns20.ovh.net"
+        ], 
+        "domain-name": "cnre.fr", 
+        "fuzzer": "replacement", 
+        "geoip-country": "France"
+    }, 
+    {
+        "dns-a": [
+            "62.210.16.62"
+        ], 
+        "domain-name": "c.nrs.fr", 
+        "fuzzer": "subdomain", 
+        "geoip-country": "France"
+    }, 
+    {
+        "dns-a": [
+            "199.59.242.150"
+        ], 
+        "dns-mx": [
+            "mx76.m2bp.com", 
+            "mx76.mb1p.com"
+        ], 
+        "dns-ns": [
+            "ns1.bodis.com", 
+            "ns2.bodis.com"
+        ], 
+        "domain-name": "crns.fr", 
+        "fuzzer": "transposition", 
+        "geoip-country": "United States", 
+        "mx-spy": true
+    }, 
+    {
+        "dns-a": [
+            "217.70.184.38"
+        ], 
+        "dns-mx": [
+            "fb.mail.gandi.net", 
+            "spool.mail.gandi.net"
+        ], 
+        "dns-ns": [
+            "a.dns.gandi.net", 
+            "b.dns.gandi.net", 
+            "c.dns.gandi.net"
+        ], 
+        "domain-name": "cnsr.fr", 
+        "fuzzer": "transposition", 
+        "geoip-country": "France"
+    }
+]

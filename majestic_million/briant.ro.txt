@@ -1,0 +1,58 @@
+[
+    {
+        "dns-a": [
+            "188.214.18.2"
+        ], 
+        "dns-mx": [
+            "mail.briant.ro"
+        ], 
+        "dns-ns": [
+            "dns.gazduire.ro", 
+            "ns1.gazduire.ro", 
+            "ns2.gazduire.ro"
+        ], 
+        "domain-name": "briant.ro", 
+        "fuzzer": "original*", 
+        "geoip-country": "Romania", 
+        "ssdeep-score": 100
+    }, 
+    {
+        "dns-a": [
+            "93.114.42.167"
+        ], 
+        "dns-mx": [
+            "biant.ro"
+        ], 
+        "dns-ns": [
+            "ns1.wizcert.ro", 
+            "ns2.wizcert.ro"
+        ], 
+        "domain-name": "biant.ro", 
+        "fuzzer": "omission", 
+        "geoip-country": "Romania", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "185.146.84.29"
+        ], 
+        "dns-mx": [
+            "brian.ro"
+        ], 
+        "dns-ns": [
+            "ns.clausweb.ro", 
+            "ns.registar.ro", 
+            "ns.romania-webhosting.com"
+        ], 
+        "domain-name": "brian.ro", 
+        "fuzzer": "omission"
+    }, 
+    {
+        "dns-a": [
+            "66.96.163.132"
+        ], 
+        "domain-name": "brian.t.ro", 
+        "fuzzer": "subdomain", 
+        "geoip-country": "United States"
+    }
+]

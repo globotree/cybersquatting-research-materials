@@ -1,0 +1,185 @@
+[
+    {
+        "dns-a": [
+            "104.232.27.118"
+        ], 
+        "dns-mx": [
+            "mail.cma.ca"
+        ], 
+        "dns-ns": [
+            "carl.ns.cloudflare.com", 
+            "yolanda.ns.cloudflare.com"
+        ], 
+        "domain-name": "cmaj.ca", 
+        "fuzzer": "original*", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 100
+    }, 
+    {
+        "dns-a": [
+            "107.180.41.43"
+        ], 
+        "dns-mx": [
+            "mail.amaj.ca"
+        ], 
+        "dns-ns": [
+            "ns19.domaincontrol.com", 
+            "ns20.domaincontrol.com"
+        ], 
+        "domain-name": "amaj.ca", 
+        "fuzzer": "bitsquatting", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "136.159.200.41"
+        ], 
+        "dns-ns": [
+            "itnet.ucalgary.ca", 
+            "ns1.d-zone.ca", 
+            "ns2.d-zone.ca", 
+            "ucnet.ucalgary.ca"
+        ], 
+        "domain-name": "cmej.ca", 
+        "fuzzer": "bitsquatting", 
+        "geoip-country": "Canada", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "178.32.86.242"
+        ], 
+        "dns-mx": [
+            "mail.cman.ca"
+        ], 
+        "dns-ns": [
+            "ns1.theplanet.com", 
+            "ns2.theplanet.com"
+        ], 
+        "domain-name": "cman.ca", 
+        "fuzzer": "bitsquatting", 
+        "geoip-country": "France", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "72.52.226.125"
+        ], 
+        "dns-mx": [
+            "alt1.aspmx.l.google.com", 
+            "alt2.aspmx.l.google.com", 
+            "alt3.aspmx.l.google.com", 
+            "alt4.aspmx.l.google.com", 
+            "aspmx.l.google.com"
+        ], 
+        "dns-ns": [
+            "ns.eagle.ca", 
+            "ns2.eagle.ca"
+        ], 
+        "domain-name": "caj.ca", 
+        "fuzzer": "omission", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "66.96.149.20"
+        ], 
+        "dns-mx": [
+            "mx.maj.ca"
+        ], 
+        "dns-ns": [
+            "ns1.netfirms.com", 
+            "ns2.netfirms.com"
+        ], 
+        "domain-name": "maj.ca", 
+        "fuzzer": "omission", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "199.43.108.157"
+        ], 
+        "dns-mx": [
+            "mail.cma.ca"
+        ], 
+        "dns-ns": [
+            "ns01.mdmanagement.ca", 
+            "ns02.mdmanagement.ca", 
+            "ns03.mdmanagement.ca"
+        ], 
+        "domain-name": "cma.ca", 
+        "fuzzer": "omission", 
+        "geoip-country": "Canada"
+    }, 
+    {
+        "dns-a": [
+            "199.34.228.79"
+        ], 
+        "dns-mx": [
+            "mail.cmsj.ca"
+        ], 
+        "dns-ns": [
+            "ns1.webserve.com", 
+            "ns2.webserve.com"
+        ], 
+        "domain-name": "cmsj.ca", 
+        "fuzzer": "replacement"
+    }, 
+    {
+        "dns-a": [
+            "184.168.221.44"
+        ], 
+        "dns-mx": [
+            "cmai-ca.mail.protection.outlook.com"
+        ], 
+        "dns-ns": [
+            "ns31.domaincontrol.com", 
+            "ns32.domaincontrol.com"
+        ], 
+        "domain-name": "cmai.ca", 
+        "fuzzer": "replacement", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "103.224.182.239"
+        ], 
+        "dns-mx": [
+            "park-mx.above.com"
+        ], 
+        "dns-ns": [
+            "ns1.above.com", 
+            "ns2.above.com"
+        ], 
+        "domain-name": "cm.aj.ca", 
+        "fuzzer": "subdomain", 
+        "geoip-country": "Australia", 
+        "mx-spy": true
+    }, 
+    {
+        "dns-a": [
+            "192.195.77.143"
+        ], 
+        "dns-aaaa": [
+            "2607:f1c0:1000:6018:d7aa:8302:ffba:d9a9"
+        ], 
+        "dns-mx": [
+            "mx00.1and1.com", 
+            "mx01.1and1.com"
+        ], 
+        "dns-ns": [
+            "ns1037.ui-dns.de", 
+            "ns1081.ui-dns.biz", 
+            "ns1100.ui-dns.com", 
+            "ns1103.ui-dns.org"
+        ], 
+        "domain-name": "camj.ca", 
+        "fuzzer": "transposition", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 0
+    }
+]

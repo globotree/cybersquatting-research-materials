@@ -1,0 +1,62 @@
+[
+    {
+        "dns-a": [
+            "91.238.193.16"
+        ], 
+        "dns-mx": [
+            "mail.trkua.tv"
+        ], 
+        "dns-ns": [
+            "nsa1.srv53.net", 
+            "nsa3.srv53.com", 
+            "nsa4.srv53.org", 
+            "nsb1.srv53.com", 
+            "nsb2.srv53.org", 
+            "nsb3.srv53.net", 
+            "nsc1.srv53.net", 
+            "nsc3.srv53.com", 
+            "nsc3.srv53.org", 
+            "nsd1.srv53.org", 
+            "nsd3.srv53.com", 
+            "nsd4.srv53.net"
+        ], 
+        "domain-name": "segodnya.ua", 
+        "fuzzer": "original*", 
+        "geoip-country": "Ukraine", 
+        "ssdeep-score": 100
+    }, 
+    {
+        "dns-a": [
+            "5.39.10.93"
+        ], 
+        "dns-mx": [
+            "mail.dns.com.ua"
+        ], 
+        "dns-ns": [
+            "nsa2.srv53.com", 
+            "nsa2.srv53.net", 
+            "nsa2.srv53.org", 
+            "nsb1.srv53.net", 
+            "nsb1.srv53.org", 
+            "nsb4.srv53.com", 
+            "nsc2.srv53.org", 
+            "nsc3.srv53.net", 
+            "nsc4.srv53.com", 
+            "nsd1.srv53.com", 
+            "nsd3.srv53.net", 
+            "nsd4.srv53.org"
+        ], 
+        "domain-name": "segodnia.ua", 
+        "fuzzer": "bitsquatting", 
+        "geoip-country": "France", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "91.195.52.10"
+        ], 
+        "domain-name": "segodny.a.ua", 
+        "fuzzer": "subdomain", 
+        "geoip-country": "Ukraine"
+    }
+]

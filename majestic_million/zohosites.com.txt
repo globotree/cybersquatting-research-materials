@@ -1,0 +1,117 @@
+[
+    {
+        "dns-a": [
+            "8.39.54.241"
+        ], 
+        "dns-mx": [
+            "mx.zohomail.com", 
+            "mx2.zohomail.com", 
+            "mx3.zohomail.com"
+        ], 
+        "dns-ns": [
+            "PDNS90.ULTRADNS.BIZ", 
+            "PDNS90.ULTRADNS.NET", 
+            "PDNS90.ULTRADNS.ORG", 
+            "PDNS90.ULTRADNS.com", 
+            "ns1.vtitan.com", 
+            "ns2.vtitan.com"
+        ], 
+        "domain-name": "zohosites.com", 
+        "fuzzer": "original*", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 100
+    }, 
+    {
+        "dns-a": [
+            "185.53.178.9"
+        ], 
+        "dns-mx": [
+            "mail.h-email.net"
+        ], 
+        "dns-ns": [
+            "ns1.parkingcrew.net", 
+            "ns2.parkingcrew.net"
+        ], 
+        "domain-name": "johosites.com", 
+        "fuzzer": "bitsquatting", 
+        "geoip-country": "Germany", 
+        "mx-spy": true, 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "208.91.197.46"
+        ], 
+        "dns-ns": [
+            "sk.s5.ans1.ns148.ztomy.com", 
+            "sk.s5.ans2.ns148.ztomy.com"
+        ], 
+        "domain-name": "zoosites.com", 
+        "fuzzer": "omission", 
+        "geoip-country": "Virgin Islands", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "8.40.222.73"
+        ], 
+        "dns-mx": [
+            "mx.zohomail.com", 
+            "mx2.zohomail.com", 
+            "mx3.zohomail.com"
+        ], 
+        "dns-ns": [
+            "ns1.vtitan.com", 
+            "ns2.vtitan.com", 
+            "ns3.vtitan.com", 
+            "ns4.vtitan.com"
+        ], 
+        "domain-name": "zohosite.com", 
+        "fuzzer": "omission", 
+        "geoip-country": "United States"
+    }, 
+    {
+        "dns-a": [
+            "52.86.22.136", 
+            "54.174.212.152"
+        ], 
+        "dns-ns": [
+            "ns1.namebrightdns.com", 
+            "ns2.namebrightdns.com"
+        ], 
+        "domain-name": "sohosites.com", 
+        "fuzzer": "replacement", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "141.8.224.93"
+        ], 
+        "dns-ns": [
+            "ns7.rookdns.com", 
+            "ns8.rookdns.com"
+        ], 
+        "domain-name": "zonosites.com", 
+        "fuzzer": "replacement", 
+        "geoip-country": "Switzerland", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "72.52.4.122"
+        ], 
+        "dns-mx": [
+            "localhost"
+        ], 
+        "dns-ns": [
+            "ns1.sedoparking.com", 
+            "ns2.sedoparking.com"
+        ], 
+        "domain-name": "zoh.osites.com", 
+        "fuzzer": "subdomain", 
+        "geoip-country": "United States", 
+        "mx-spy": true, 
+        "ssdeep-score": 0
+    }
+]

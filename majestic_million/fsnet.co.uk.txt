@@ -1,0 +1,330 @@
+[
+    {
+        "dns-ns": [
+            "dns1.cscdns.net", 
+            "dns2.cscdns.net"
+        ], 
+        "domain-name": "fsnet.co.uk", 
+        "fuzzer": "original*"
+    }, 
+    {
+        "dns-a": [
+            "77.72.0.126"
+        ], 
+        "dns-mx": [
+            "mx1.cloudhosting.co.uk", 
+            "mx2.cloudhosting.co.uk"
+        ], 
+        "dns-ns": [
+            "ns1.cloudhosting.co.uk", 
+            "ns2.cloudhosting.co.uk"
+        ], 
+        "domain-name": "gsnet.co.uk", 
+        "fuzzer": "bitsquatting", 
+        "geoip-country": "United Kingdom"
+    }, 
+    {
+        "dns-mx": [
+            "alt1.aspmx.l.google.com", 
+            "alt2.aspmx.l.google.com", 
+            "aspmx.l.google.com", 
+            "aspmx2.googlemail.com", 
+            "aspmx3.googlemail.com"
+        ], 
+        "dns-ns": [
+            "ns-1222.awsdns-24.org", 
+            "ns-127.awsdns-15.com", 
+            "ns-1995.awsdns-57.co.uk", 
+            "ns-874.awsdns-45.net"
+        ], 
+        "domain-name": "dsnet.co.uk", 
+        "fuzzer": "bitsquatting"
+    }, 
+    {
+        "dns-a": [
+            "93.89.84.82"
+        ], 
+        "dns-mx": [
+            "mail.bsnet.co.uk", 
+            "relay.bsnet.co.uk"
+        ], 
+        "dns-ns": [
+            "dns0.bsnet.co.uk", 
+            "dns1.bsnet.co.uk", 
+            "dns2.bsnet.co.uk"
+        ], 
+        "domain-name": "bsnet.co.uk", 
+        "fuzzer": "bitsquatting", 
+        "geoip-country": "United Kingdom"
+    }, 
+    {
+        "dns-a": [
+            "64.29.145.9"
+        ], 
+        "dns-mx": [
+            "a.mx.nildram.net", 
+            "b.mx.nildram.net"
+        ], 
+        "dns-ns": [
+            "dns087.a.register.com", 
+            "dns152.c.register.com", 
+            "dns177.d.register.com", 
+            "dns179.b.register.com"
+        ], 
+        "domain-name": "vsnet.co.uk", 
+        "fuzzer": "bitsquatting", 
+        "geoip-country": "United States"
+    }, 
+    {
+        "dns-a": [
+            "81.145.128.206"
+        ], 
+        "dns-mx": [
+            "cluster-a.mailcontrol.com", 
+            "cluster-e.mailcontrol.com"
+        ], 
+        "dns-ns": [
+            "pdns75.ultradns.biz", 
+            "pdns75.ultradns.com", 
+            "pdns75.ultradns.net", 
+            "pdns75.ultradns.org"
+        ], 
+        "domain-name": "fwnet.co.uk", 
+        "fuzzer": "bitsquatting", 
+        "geoip-country": "United Kingdom"
+    }, 
+    {
+        "dns-a": [
+            "66.96.147.106"
+        ], 
+        "dns-mx": [
+            "mx.fsnat.co.uk"
+        ], 
+        "dns-ns": [
+            "ns1.ipage.com", 
+            "ns2.ipage.com"
+        ], 
+        "domain-name": "fsnat.co.uk", 
+        "fuzzer": "bitsquatting", 
+        "geoip-country": "United States"
+    }, 
+    {
+        "dns-a": [
+            "217.160.122.59"
+        ], 
+        "dns-aaaa": [
+            "2001:8d8:1000:5065:80cf:5691:1acf:f821"
+        ], 
+        "dns-mx": [
+            "mx00.1and1.co.uk", 
+            "mx01.1and1.co.uk"
+        ], 
+        "dns-ns": [
+            "ns1061.ui-dns.biz", 
+            "ns1061.ui-dns.com", 
+            "ns1061.ui-dns.de", 
+            "ns1061.ui-dns.org"
+        ], 
+        "domain-name": "fsnut.co.uk", 
+        "fuzzer": "bitsquatting", 
+        "geoip-country": "Germany"
+    }, 
+    {
+        "dns-a": [
+            "212.42.162.13"
+        ], 
+        "dns-mx": [
+            "mailhost.fast.net.uk", 
+            "relay1.fast.net.uk"
+        ], 
+        "dns-ns": [
+            "ns0.fast.net.uk", 
+            "ns1.fast.net.uk"
+        ], 
+        "domain-name": "fasnet.co.uk", 
+        "fuzzer": "insertion", 
+        "geoip-country": "United Kingdom"
+    }, 
+    {
+        "dns-a": [
+            "72.52.4.119"
+        ], 
+        "dns-mx": [
+            "localhost"
+        ], 
+        "dns-ns": [
+            "ns1.sedoparking.com", 
+            "ns2.sedoparking.com"
+        ], 
+        "domain-name": "snet.co.uk", 
+        "fuzzer": "omission", 
+        "geoip-country": "United States", 
+        "mx-spy": true
+    }, 
+    {
+        "dns-a": [
+            "10.199.104.190"
+        ], 
+        "dns-ns": [
+            "cbru.br.ns.els-gms.att.net", 
+            "cmtu.mt.ns.els-gms.att.net", 
+            "ns6.customer.level3.net", 
+            "ns9.customer.level3.net"
+        ], 
+        "domain-name": "fset.co.uk", 
+        "fuzzer": "omission"
+    }, 
+    {
+        "dns-a": [
+            "52.58.78.16"
+        ], 
+        "dns-mx": [
+            "mx.fnet.co.uk"
+        ], 
+        "dns-ns": [
+            "ns1.undeveloped.com", 
+            "ns2.undeveloped.com"
+        ], 
+        "domain-name": "fnet.co.uk", 
+        "fuzzer": "omission", 
+        "geoip-country": "Germany"
+    }, 
+    {
+        "dns-a": [
+            "51.148.48.6"
+        ], 
+        "dns-mx": [
+            "mx00.1and1.co.uk", 
+            "mx01.1and1.co.uk"
+        ], 
+        "dns-ns": [
+            "ns1058.ui-dns.biz", 
+            "ns1058.ui-dns.com", 
+            "ns1058.ui-dns.de", 
+            "ns1058.ui-dns.org"
+        ], 
+        "domain-name": "fsne.co.uk", 
+        "fuzzer": "omission", 
+        "geoip-country": "United Kingdom"
+    }, 
+    {
+        "dns-a": [
+            "85.233.160.22"
+        ], 
+        "dns-mx": [
+            "athena.hosts.co.uk", 
+            "hermes.hosts.co.uk"
+        ], 
+        "dns-ns": [
+            "ns0.phase8.net", 
+            "ns1.phase8.net", 
+            "ns2.phase8.net"
+        ], 
+        "domain-name": "fanet.co.uk", 
+        "fuzzer": "replacement", 
+        "geoip-country": "United Kingdom"
+    }, 
+    {
+        "dns-a": [
+            "217.160.0.102"
+        ], 
+        "dns-aaaa": [
+            "2001:8d8:100f:f000::2bd"
+        ], 
+        "dns-mx": [
+            "mx00.1and1.co.uk", 
+            "mx01.1and1.co.uk"
+        ], 
+        "dns-ns": [
+            "ns1076.ui-dns.biz", 
+            "ns1076.ui-dns.com", 
+            "ns1076.ui-dns.de", 
+            "ns1076.ui-dns.org"
+        ], 
+        "domain-name": "fxnet.co.uk", 
+        "fuzzer": "replacement", 
+        "geoip-country": "Germany"
+    }, 
+    {
+        "dns-a": [
+            "82.113.135.114"
+        ], 
+        "dns-mx": [
+            "mail.fenet.co.uk", 
+            "mail0.fenet.net"
+        ], 
+        "dns-ns": [
+            "ns-02.extramsp.com", 
+            "ns-03.extramsp.com", 
+            "ns-04.extramsp.com", 
+            "ns0.fenet.net"
+        ], 
+        "domain-name": "fenet.co.uk", 
+        "fuzzer": "replacement", 
+        "geoip-country": "United Kingdom"
+    }, 
+    {
+        "dns-a": [
+            "78.31.105.186"
+        ], 
+        "dns-mx": [
+            "csnet-co-uk.mail.protection.outlook.com"
+        ], 
+        "dns-ns": [
+            "elvira.cssales.co.uk", 
+            "ns1.cssales.co.uk"
+        ], 
+        "domain-name": "csnet.co.uk", 
+        "fuzzer": "replacement", 
+        "geoip-country": "United Kingdom"
+    }, 
+    {
+        "dns-a": [
+            "87.194.144.43"
+        ], 
+        "dns-mx": [
+            "mx0.123-reg.co.uk", 
+            "mx1.123-reg.co.uk"
+        ], 
+        "dns-ns": [
+            "ns.123-reg.co.uk", 
+            "ns2.123-reg.co.uk"
+        ], 
+        "domain-name": "rsnet.co.uk", 
+        "fuzzer": "replacement"
+    }, 
+    {
+        "dns-a": [
+            "217.160.0.36"
+        ], 
+        "dns-mx": [
+            "mx00.1and1.co.uk", 
+            "mx01.1and1.co.uk"
+        ], 
+        "dns-ns": [
+            "ns1115.ui-dns.biz", 
+            "ns1115.ui-dns.com", 
+            "ns1115.ui-dns.de", 
+            "ns1115.ui-dns.org"
+        ], 
+        "domain-name": "tsnet.co.uk", 
+        "fuzzer": "replacement", 
+        "geoip-country": "Germany"
+    }, 
+    {
+        "dns-a": [
+            "72.52.4.119"
+        ], 
+        "dns-mx": [
+            "localhost"
+        ], 
+        "dns-ns": [
+            "ns1.sedoparking.com", 
+            "ns2.sedoparking.com"
+        ], 
+        "domain-name": "f.snet.co.uk", 
+        "fuzzer": "subdomain", 
+        "geoip-country": "United States", 
+        "mx-spy": true
+    }
+]

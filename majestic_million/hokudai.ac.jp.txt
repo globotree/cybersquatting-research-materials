@@ -1,0 +1,25 @@
+[
+    {
+        "dns-a": [
+            "133.87.1.132"
+        ], 
+        "dns-mx": [
+            "mailq.sys.hokudai.ac.jp"
+        ], 
+        "dns-ns": [
+            "nameserv.sys.hokudai.ac.jp", 
+            "nameserv2-hines.sys.hokudai.ac.jp"
+        ], 
+        "domain-name": "hokudai.ac.jp", 
+        "fuzzer": "original*", 
+        "geoip-country": "Japan"
+    }, 
+    {
+        "dns-ns": [
+            "nameserv.sys.hokudai.ac.jp", 
+            "nameserv2-hines.sys.hokudai.ac.jp"
+        ], 
+        "domain-name": "hokudai.jp", 
+        "fuzzer": "various"
+    }
+]

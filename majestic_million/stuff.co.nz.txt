@@ -1,0 +1,244 @@
+[
+    {
+        "dns-a": [
+            "13.32.145.105", 
+            "13.32.145.117", 
+            "13.32.145.12", 
+            "13.32.145.146", 
+            "13.32.145.153", 
+            "13.32.145.213", 
+            "13.32.145.239", 
+            "13.32.145.8"
+        ], 
+        "dns-mx": [
+            "mxa-0022d901.gslb.pphosted.com", 
+            "mxb-0022d901.gslb.pphosted.com"
+        ], 
+        "dns-ns": [
+            "ns-1479.awsdns-56.org", 
+            "ns-1659.awsdns-15.co.uk", 
+            "ns-323.awsdns-40.com", 
+            "ns-741.awsdns-28.net"
+        ], 
+        "domain-name": "stuff.co.nz", 
+        "fuzzer": "original*", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 96
+    }, 
+    {
+        "dns-a": [
+            "185.53.178.29"
+        ], 
+        "dns-ns": [
+            "ns1.domforce.com", 
+            "ns2.domforce.com", 
+            "ns3.domforce.com", 
+            "ns4.domforce.com", 
+            "ns5.domforce.com"
+        ], 
+        "domain-name": "stufff.co.nz", 
+        "fuzzer": "addition", 
+        "geoip-country": "Germany", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "185.53.178.9"
+        ], 
+        "dns-mx": [
+            "mail.h-email.net"
+        ], 
+        "dns-ns": [
+            "ns1.parkingcrew.net", 
+            "ns2.parkingcrew.net"
+        ], 
+        "domain-name": "stuffs.co.nz", 
+        "fuzzer": "addition", 
+        "geoip-country": "Germany", 
+        "mx-spy": true, 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "185.53.177.29"
+        ], 
+        "dns-ns": [
+            "ns1.gegidns.com", 
+            "ns2.gegidns.com"
+        ], 
+        "domain-name": "stuiff.co.nz", 
+        "fuzzer": "insertion", 
+        "geoip-country": "Germany", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "185.53.177.29"
+        ], 
+        "dns-ns": [
+            "ns1.gegidns.com", 
+            "ns2.gegidns.com"
+        ], 
+        "domain-name": "stff.co.nz", 
+        "fuzzer": "omission", 
+        "geoip-country": "Germany", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-mx": [
+            "zuul.ihug.co.nz"
+        ], 
+        "dns-ns": [
+            "ns1.ihug.net.nz", 
+            "ns2.ihug.net.nz"
+        ], 
+        "domain-name": "stuf.co.nz", 
+        "fuzzer": "omission"
+    }, 
+    {
+        "dns-a": [
+            "210.55.30.67"
+        ], 
+        "dns-ns": [
+            "ns1.1stdomains.net.nz", 
+            "ns2.1stdomains.net.nz"
+        ], 
+        "domain-name": "suff.co.nz", 
+        "fuzzer": "omission", 
+        "geoip-country": "New Zealand", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "185.53.177.29"
+        ], 
+        "dns-ns": [
+            "ns1.gegidns.com", 
+            "ns2.gegidns.com"
+        ], 
+        "domain-name": "tuff.co.nz", 
+        "fuzzer": "omission", 
+        "geoip-country": "Germany", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "185.53.177.29"
+        ], 
+        "dns-ns": [
+            "ns1.gegidns.com", 
+            "ns2.gegidns.com"
+        ], 
+        "domain-name": "sstuff.co.nz", 
+        "fuzzer": "repetition", 
+        "geoip-country": "Germany", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "185.53.177.29"
+        ], 
+        "dns-ns": [
+            "ns1.gegidns.com", 
+            "ns2.gegidns.com"
+        ], 
+        "domain-name": "styff.co.nz", 
+        "fuzzer": "replacement", 
+        "geoip-country": "Germany", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "185.53.178.29"
+        ], 
+        "dns-ns": [
+            "ns1.domforce.com", 
+            "ns2.domforce.com", 
+            "ns3.domforce.com", 
+            "ns4.domforce.com", 
+            "ns5.domforce.com"
+        ], 
+        "domain-name": "atuff.co.nz", 
+        "fuzzer": "replacement", 
+        "geoip-country": "Germany", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "185.53.177.29"
+        ], 
+        "dns-ns": [
+            "ns1.gegidns.com", 
+            "ns2.gegidns.com"
+        ], 
+        "domain-name": "sruff.co.nz", 
+        "fuzzer": "replacement", 
+        "geoip-country": "Germany", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "198.71.232.3"
+        ], 
+        "dns-ns": [
+            "ns21.domaincontrol.com", 
+            "ns22.domaincontrol.com"
+        ], 
+        "domain-name": "stiff.co.nz", 
+        "fuzzer": "replacement", 
+        "geoip-country": "United States"
+    }, 
+    {
+        "dns-a": [
+            "185.53.177.29"
+        ], 
+        "domain-name": "s.tuff.co.nz", 
+        "fuzzer": "subdomain", 
+        "geoip-country": "Germany", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "119.47.114.163"
+        ], 
+        "domain-name": "stu.ff.co.nz", 
+        "fuzzer": "subdomain", 
+        "geoip-country": "New Zealand"
+    }, 
+    {
+        "dns-a": [
+            "52.58.78.16"
+        ], 
+        "dns-mx": [
+            "mx.staff.co.nz"
+        ], 
+        "dns-ns": [
+            "ns1.undeveloped.com", 
+            "ns2.undeveloped.com"
+        ], 
+        "domain-name": "staff.co.nz", 
+        "fuzzer": "vowel-swap"
+    }, 
+    {
+        "dns-a": [
+            "13.32.145.142", 
+            "13.32.145.165", 
+            "13.32.145.177", 
+            "13.32.145.19", 
+            "13.32.145.248", 
+            "13.32.145.71", 
+            "13.32.145.8", 
+            "13.32.145.88"
+        ], 
+        "dns-ns": [
+            "ns-1019.awsdns-63.net", 
+            "ns-1418.awsdns-49.org", 
+            "ns-1611.awsdns-09.co.uk", 
+            "ns-269.awsdns-33.com"
+        ], 
+        "domain-name": "stuff.nz", 
+        "fuzzer": "various", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 90
+    }
+]

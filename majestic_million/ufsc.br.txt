@@ -1,0 +1,127 @@
+[
+    {
+        "dns-a": [
+            "150.162.2.10"
+        ], 
+        "dns-aaaa": [
+            "2801:84:0:2::10"
+        ], 
+        "dns-mx": [
+            "mx.mail.ufsc.br"
+        ], 
+        "dns-ns": [
+            "adns1.pop-sc.rnp.br", 
+            "adns2.pop-sc.rnp.br", 
+            "adufsc.ufsc.br", 
+            "adufsc01.ufsc.br", 
+            "adufsc03.ufsc.br", 
+            "adufsc04.ufsc.br", 
+            "adufschu.adhu.ufsc.br", 
+            "ns67.ufsc.br", 
+            "ns69.ufsc.br"
+        ], 
+        "domain-name": "ufsc.br", 
+        "fuzzer": "original*", 
+        "geoip-country": "Brazil", 
+        "ssdeep-score": 100
+    }, 
+    {
+        "dns-a": [
+            "150.162.2.10"
+        ], 
+        "dns-aaaa": [
+            "2801:84:0:2::10"
+        ], 
+        "dns-mx": [
+            "mx.mail.ufsc.br"
+        ], 
+        "dns-ns": [
+            "adns1.pop-sc.rnp.br", 
+            "adns2.pop-sc.rnp.br", 
+            "adufsc.ufsc.br", 
+            "adufsc01.ufsc.br", 
+            "adufsc03.ufsc.br", 
+            "adufsc04.ufsc.br", 
+            "adufschu.adhu.ufsc.br", 
+            "ns67.ufsc.br", 
+            "ns69.ufsc.br"
+        ], 
+        "domain-name": "uvsc.br", 
+        "fuzzer": "bitsquatting", 
+        "geoip-country": "Brazil", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "144.217.139.36"
+        ], 
+        "dns-mx": [
+            "mailhost.usc.br", 
+            "mailhost1.usc.br", 
+            "mailhost2.usc.br"
+        ], 
+        "dns-ns": [
+            "dnsusc.usc.br", 
+            "dnsusc1.usc.br", 
+            "ns.embratel.net.br", 
+            "ns.usc.br", 
+            "ns1.usc.br"
+        ], 
+        "domain-name": "usc.br", 
+        "fuzzer": "omission", 
+        "geoip-country": "United States"
+    }, 
+    {
+        "dns-a": [
+            "200.17.41.185"
+        ], 
+        "dns-aaaa": [
+            "2001:12f0:784::41:185"
+        ], 
+        "dns-mx": [
+            "ALT1.ASPMX.L.GOOGLE.COM", 
+            "ALT2.ASPMX.L.GOOGLE.COM", 
+            "ALT3.ASPMX.L.GOOGLE.COM", 
+            "ALT4.ASPMX.L.GOOGLE.COM", 
+            "ASPMX.L.GOOGLE.COM"
+        ], 
+        "dns-ns": [
+            "cici.npd.ufc.br", 
+            "cici.sti.ufc.br", 
+            "jeri0.ufc.br", 
+            "taiba.ufc.br"
+        ], 
+        "domain-name": "ufc.br", 
+        "fuzzer": "omission", 
+        "geoip-country": "Brazil", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-mx": [
+            "arenque.ufs.br", 
+            "corvo.ufs.br", 
+            "pombo.ufs.br", 
+            "sergipe.ufs.br"
+        ], 
+        "dns-ns": [
+            "sergipe.ufs.br", 
+            "server1.pop-se.rnp.br"
+        ], 
+        "domain-name": "ufs.br", 
+        "fuzzer": "omission"
+    }, 
+    {
+        "dns-a": [
+            "200.129.173.7"
+        ], 
+        "dns-mx": [
+            "mail.ufac.br"
+        ], 
+        "dns-ns": [
+            "ns1.ufac.br", 
+            "ns2.ufac.br"
+        ], 
+        "domain-name": "ufac.br", 
+        "fuzzer": "replacement"
+    }
+]

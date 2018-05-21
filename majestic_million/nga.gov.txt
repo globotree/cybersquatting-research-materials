@@ -1,0 +1,68 @@
+[
+    {
+        "dns-a": [
+            "199.16.64.41"
+        ], 
+        "dns-mx": [
+            "nga-gov.mail.protection.outlook.com"
+        ], 
+        "dns-ns": [
+            "auth1.dns.rcn.net", 
+            "auth2.dns.rcn.net", 
+            "auth3.dns.rcn.net", 
+            "auth4.dns.rcn.net"
+        ], 
+        "domain-name": "nga.gov", 
+        "fuzzer": "original*", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 100
+    }, 
+    {
+        "dns-mx": [
+            "nea-gov.mail.eo.outlook.com"
+        ], 
+        "dns-ns": [
+            "sauthns1.qwest.net", 
+            "sauthns2.qwest.net"
+        ], 
+        "domain-name": "nea.gov", 
+        "fuzzer": "bitsquatting"
+    }, 
+    {
+        "dns-a": [
+            "52.179.8.212"
+        ], 
+        "dns-aaaa": [
+            "2a01:111:f100:2002::8975:2e09"
+        ], 
+        "dns-mx": [
+            "mail.guideline.gov"
+        ], 
+        "dns-ns": [
+            "rh120ns1.368.dhhs.gov", 
+            "rh120ns2.368.dhhs.gov", 
+            "rh202ns1.355.dhhs.gov", 
+            "rh202ns2.355.dhhs.gov"
+        ], 
+        "domain-name": "ngc.gov", 
+        "fuzzer": "bitsquatting", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "23.23.200.90"
+        ], 
+        "dns-mx": [
+            "ga-gov.mail.protection.outlook.com"
+        ], 
+        "dns-ns": [
+            "sogns1.state.ga.us", 
+            "sogns2.state.ga.us"
+        ], 
+        "domain-name": "ga.gov", 
+        "fuzzer": "omission", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 0
+    }
+]

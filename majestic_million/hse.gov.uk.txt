@@ -1,0 +1,27 @@
+[
+    {
+        "dns-a": [
+            "81.110.136.194"
+        ], 
+        "dns-mx": [
+            "cluster2.gsi.messagelabs.com", 
+            "cluster2a.gsi.messagelabs.com"
+        ], 
+        "dns-ns": [
+            "ans1.cw.net", 
+            "ans2.cw.net"
+        ], 
+        "domain-name": "hse.gov.uk", 
+        "fuzzer": "original*", 
+        "geoip-country": "United Kingdom", 
+        "ssdeep-score": 100
+    }, 
+    {
+        "dns-ns": [
+            "ans1.cw.net", 
+            "ans2.cw.net"
+        ], 
+        "domain-name": "gse.gov.uk", 
+        "fuzzer": "replacement"
+    }
+]

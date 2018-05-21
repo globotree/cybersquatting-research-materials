@@ -1,0 +1,133 @@
+[
+    {
+        "dns-a": [
+            "104.25.210.34", 
+            "104.25.211.34"
+        ], 
+        "dns-aaaa": [
+            "2400:cb00:2048:1::6819:d222", 
+            "2400:cb00:2048:1::6819:d322"
+        ], 
+        "dns-mx": [
+            "alt1.aspmx.l.google.com", 
+            "alt2.aspmx.l.google.com", 
+            "aspmx.l.google.com", 
+            "aspmx2.googlemail.com", 
+            "aspmx3.googlemail.com"
+        ], 
+        "dns-ns": [
+            "karl.ns.cloudflare.com", 
+            "lana.ns.cloudflare.com"
+        ], 
+        "domain-name": "ghacks.net", 
+        "fuzzer": "original*", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 100
+    }, 
+    {
+        "dns-a": [
+            "74.220.199.9"
+        ], 
+        "domain-name": "ehacks.net", 
+        "fuzzer": "bitsquatting", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "69.172.201.153"
+        ], 
+        "dns-ns": [
+            "ns1.uniregistrymarket.link", 
+            "ns2.uniregistrymarket.link"
+        ], 
+        "domain-name": "whacks.net", 
+        "fuzzer": "bitsquatting", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "88.165.35.149"
+        ], 
+        "dns-mx": [
+            "fb.mail.gandi.net", 
+            "kolab.ghack.net", 
+            "spool.mail.gandi.net"
+        ], 
+        "dns-ns": [
+            "ns-14-b.gandi.net", 
+            "ns-233-a.gandi.net", 
+            "ns-95-c.gandi.net"
+        ], 
+        "domain-name": "ghack.net", 
+        "fuzzer": "omission", 
+        "geoip-country": "France", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "72.52.4.120"
+        ], 
+        "dns-mx": [
+            "localhost"
+        ], 
+        "dns-ns": [
+            "ns1.sedoparking.com", 
+            "ns2.sedoparking.com"
+        ], 
+        "domain-name": "hacks.net", 
+        "fuzzer": "omission", 
+        "geoip-country": "United States", 
+        "mx-spy": true, 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "94.231.103.100"
+        ], 
+        "dns-ns": [
+            "ns1.unoeuro.com", 
+            "ns2.unoeuro.com", 
+            "ns3.unoeuro.com", 
+            "ns4.unoeuro.com"
+        ], 
+        "domain-name": "thacks.net", 
+        "fuzzer": "replacement", 
+        "geoip-country": "Denmark", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "72.52.4.120"
+        ], 
+        "dns-mx": [
+            "localhost"
+        ], 
+        "dns-ns": [
+            "ns1.sedoparking.com", 
+            "ns2.sedoparking.com"
+        ], 
+        "domain-name": "g.hacks.net", 
+        "fuzzer": "subdomain", 
+        "geoip-country": "United States", 
+        "mx-spy": true, 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "47.91.205.84"
+        ], 
+        "domain-name": "gh.acks.net", 
+        "fuzzer": "subdomain", 
+        "geoip-country": "United States"
+    }, 
+    {
+        "dns-a": [
+            "47.75.9.193"
+        ], 
+        "domain-name": "gha.cks.net", 
+        "fuzzer": "subdomain", 
+        "geoip-country": "United States"
+    }
+]

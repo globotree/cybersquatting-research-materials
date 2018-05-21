@@ -1,0 +1,57 @@
+[
+    {
+        "dns-a": [
+            "212.153.70.118"
+        ], 
+        "dns-mx": [
+            "spectator-co-uk.mail.eo.outlook.com"
+        ], 
+        "dns-ns": [
+            "ns07.domaincontrol.com", 
+            "ns08.domaincontrol.com"
+        ], 
+        "domain-name": "spectator.co.uk", 
+        "fuzzer": "original*", 
+        "geoip-country": "Netherlands", 
+        "ssdeep-score": 100
+    }, 
+    {
+        "dns-a": [
+            "54.72.9.51"
+        ], 
+        "dns-mx": [
+            "mail.h-email.net"
+        ], 
+        "dns-ns": [
+            "ns1.parkingcrew.net", 
+            "ns2.parkingcrew.net"
+        ], 
+        "domain-name": "spectators.co.uk", 
+        "fuzzer": "addition", 
+        "geoip-country": "Ireland", 
+        "mx-spy": true, 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "98.124.245.24"
+        ], 
+        "dns-mx": [
+            "mail.b-io.co"
+        ], 
+        "dns-ns": [
+            "ns1.fabulous.com", 
+            "ns2.fabulous.com"
+        ], 
+        "domain-name": "spectat.or.co.uk", 
+        "fuzzer": "subdomain"
+    }, 
+    {
+        "dns-a": [
+            "66.6.44.4"
+        ], 
+        "domain-name": "spectato.r.co.uk", 
+        "fuzzer": "subdomain", 
+        "geoip-country": "United States"
+    }
+]

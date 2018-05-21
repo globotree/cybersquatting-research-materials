@@ -1,0 +1,160 @@
+[
+    {
+        "dns-a": [
+            "161.45.157.30"
+        ], 
+        "dns-mx": [
+            "mtsu-edu.mail.protection.outlook.com"
+        ], 
+        "dns-ns": [
+            "DNS-DMZ1.mtsu.edu", 
+            "DNS-DMZ2.mtsu.edu", 
+            "vm1.mtsu.edu"
+        ], 
+        "domain-name": "mtsu.edu", 
+        "fuzzer": "original*", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 100
+    }, 
+    {
+        "dns-a": [
+            "151.141.244.241"
+        ], 
+        "dns-mx": [
+            "d132527a.ess.barracudanetworks.com", 
+            "d132527b.ess.barracudanetworks.com"
+        ], 
+        "dns-ns": [
+            "etsudns1-1.etsu.edu", 
+            "etsudns2-1.etsu.edu", 
+            "etsudns3.etsu.edu"
+        ], 
+        "domain-name": "etsu.edu", 
+        "fuzzer": "bitsquatting", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "8.22.240.145"
+        ], 
+        "dns-mx": [
+            "17297973705859726172.mail.outlook.com", 
+            "mvsu-edu.mail.protection.outlook.com"
+        ], 
+        "dns-ns": [
+            "ns1.mvsu.edu", 
+            "ns2.mvsu.edu"
+        ], 
+        "domain-name": "mvsu.edu", 
+        "fuzzer": "bitsquatting", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "66.185.254.214"
+        ], 
+        "dns-mx": [
+            "smtp.moody.edu"
+        ], 
+        "dns-ns": [
+            "dca-ans-01.inet.qwest.net", 
+            "ns3.moody.edu", 
+            "svl-ans-01.inet.qwest.net"
+        ], 
+        "domain-name": "mts.edu", 
+        "fuzzer": "omission", 
+        "geoip-country": "United States"
+    }, 
+    {
+        "dns-a": [
+            "35.9.247.69"
+        ], 
+        "dns-mx": [
+            "mxa-00165801.gslb.pphosted.com", 
+            "mxb-00165801.gslb.pphosted.com"
+        ], 
+        "dns-ns": [
+            "ns-1432.awsdns-51.org", 
+            "ns-1827.awsdns-36.co.uk", 
+            "ns-64.awsdns-08.com", 
+            "ns-665.awsdns-19.net"
+        ], 
+        "domain-name": "msu.edu", 
+        "fuzzer": "omission", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "67.66.218.201"
+        ], 
+        "dns-mx": [
+            "spam.tsu.edu", 
+            "spamdr.tsu.edu"
+        ], 
+        "dns-ns": [
+            "ns0.dnsmadeeasy.com", 
+            "ns1.dnsmadeeasy.com", 
+            "ns2.dnsmadeeasy.com", 
+            "ns3.dnsmadeeasy.com", 
+            "ns4.dnsmadeeasy.com"
+        ], 
+        "domain-name": "tsu.edu", 
+        "fuzzer": "omission", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "141.219.70.117"
+        ], 
+        "dns-mx": [
+            "alt1.aspmx.l.google.com", 
+            "alt2.aspmx.l.google.com", 
+            "aspmx.l.google.com", 
+            "aspmx2.googlemail.com", 
+            "aspmx3.googlemail.com"
+        ], 
+        "dns-ns": [
+            "dns.mtu.edu", 
+            "dns1.merit.net", 
+            "dns2.merit.net", 
+            "dns2.mtu.edu", 
+            "dns3.merit.net"
+        ], 
+        "domain-name": "mtu.edu", 
+        "fuzzer": "omission", 
+        "geoip-country": "United States"
+    }, 
+    {
+        "dns-a": [
+            "199.119.127.12"
+        ], 
+        "dns-mx": [
+            "mtsa-edu.mail.protection.outlook.com"
+        ], 
+        "dns-ns": [
+            "dns1.stabletransit.com", 
+            "dns2.stabletransit.com"
+        ], 
+        "domain-name": "mtsa.edu", 
+        "fuzzer": "vowel-swap"
+    }, 
+    {
+        "dns-a": [
+            "64.64.9.46"
+        ], 
+        "dns-mx": [
+            "d97685a.ess.barracudanetworks.com", 
+            "d97685b.ess.barracudanetworks.com"
+        ], 
+        "dns-ns": [
+            "ns1.oar.net", 
+            "ns2.oar.net"
+        ], 
+        "domain-name": "mtso.edu", 
+        "fuzzer": "vowel-swap"
+    }
+]

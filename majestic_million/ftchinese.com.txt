@@ -1,0 +1,187 @@
+[
+    {
+        "dns-mx": [
+            "ms-mx1.hostedexchange.asia", 
+            "ms-mx2.hostedexchange.asia", 
+            "ms-mx3.hostedexchange.asia", 
+            "ms-mx4.hostedexchange.asia"
+        ], 
+        "dns-ns": [
+            "ns-in.ftchinese.com", 
+            "ns2.ftchinese.com"
+        ], 
+        "domain-name": "ftchinese.com", 
+        "fuzzer": "original*"
+    }, 
+    {
+        "dns-a": [
+            "50.63.202.33"
+        ], 
+        "dns-mx": [
+            "mailstore1.secureserver.net", 
+            "smtp.secureserver.net"
+        ], 
+        "dns-ns": [
+            "ns69.domaincontrol.com", 
+            "ns70.domaincontrol.com"
+        ], 
+        "domain-name": "ntchinese.com", 
+        "fuzzer": "bitsquatting", 
+        "geoip-country": "United States"
+    }, 
+    {
+        "dns-a": [
+            "123.60.197.109"
+        ], 
+        "dns-ns": [
+            "ns5.dnsdun.com", 
+            "ns5.dnsdun.net"
+        ], 
+        "domain-name": "fuchinese.com", 
+        "fuzzer": "bitsquatting", 
+        "geoip-country": "Hong Kong"
+    }, 
+    {
+        "dns-a": [
+            "119.28.63.232"
+        ], 
+        "dns-ns": [
+            "ns1.cnolnic.net", 
+            "ns2.cnolnic.net"
+        ], 
+        "domain-name": "fvchinese.com", 
+        "fuzzer": "bitsquatting", 
+        "geoip-country": "China"
+    }, 
+    {
+        "dns-mx": [
+            "mail.rbsrv.nl"
+        ], 
+        "dns-ns": [
+            "ns.domainnetwork.se", 
+            "ns2.domainnetwork.se", 
+            "ns3.domainnetwork.com"
+        ], 
+        "domain-name": "ft-chinese.com", 
+        "fuzzer": "hyphenation"
+    }, 
+    {
+        "dns-a": [
+            "72.52.4.120"
+        ], 
+        "dns-mx": [
+            "localhost"
+        ], 
+        "dns-ns": [
+            "ns1.sedoparking.com", 
+            "ns2.sedoparking.com"
+        ], 
+        "domain-name": "ftvchinese.com", 
+        "fuzzer": "insertion", 
+        "geoip-country": "United States", 
+        "mx-spy": true
+    }, 
+    {
+        "dns-a": [
+            "185.53.178.6"
+        ], 
+        "dns-mx": [
+            "mail.h-email.net"
+        ], 
+        "dns-ns": [
+            "ns1.parkingcrew.net", 
+            "ns2.parkingcrew.net"
+        ], 
+        "domain-name": "tchinese.com", 
+        "fuzzer": "omission", 
+        "geoip-country": "Germany", 
+        "mx-spy": true
+    }, 
+    {
+        "dns-ns": [
+            "ns11.xincache.com", 
+            "ns12.xincache.com"
+        ], 
+        "domain-name": "fychinese.com", 
+        "fuzzer": "replacement"
+    }, 
+    {
+        "dns-a": [
+            "72.52.4.122"
+        ], 
+        "dns-mx": [
+            "localhost"
+        ], 
+        "dns-ns": [
+            "ns1.sedoparking.com", 
+            "ns2.sedoparking.com"
+        ], 
+        "domain-name": "ctchinese.com", 
+        "fuzzer": "replacement", 
+        "geoip-country": "United States", 
+        "mx-spy": true
+    }, 
+    {
+        "dns-a": [
+            "47.89.58.141"
+        ], 
+        "dns-ns": [
+            "dns10.hichina.com", 
+            "dns9.hichina.com"
+        ], 
+        "domain-name": "ttchinese.com", 
+        "fuzzer": "replacement", 
+        "geoip-country": "United States"
+    }, 
+    {
+        "dns-a": [
+            "23.224.106.220"
+        ], 
+        "dns-ns": [
+            "v1.dns234.net", 
+            "v2.dns234.net"
+        ], 
+        "domain-name": "fzchinese.com", 
+        "fuzzer": "replacement", 
+        "geoip-country": "United States"
+    }, 
+    {
+        "dns-a": [
+            "185.53.178.6"
+        ], 
+        "dns-mx": [
+            "mail.h-email.net"
+        ], 
+        "dns-ns": [
+            "ns1.parkingcrew.net", 
+            "ns2.parkingcrew.net"
+        ], 
+        "domain-name": "f.tchinese.com", 
+        "fuzzer": "subdomain", 
+        "geoip-country": "Germany", 
+        "mx-spy": true
+    }, 
+    {
+        "dns-a": [
+            "52.74.93.244"
+        ], 
+        "domain-name": "ft.chinese.com", 
+        "fuzzer": "subdomain", 
+        "geoip-country": "Singapore"
+    }, 
+    {
+        "dns-a": [
+            "68.178.213.61"
+        ], 
+        "domain-name": "ftc.hinese.com", 
+        "fuzzer": "subdomain"
+    }, 
+    {
+        "dns-a": [
+            "23.25.207.170"
+        ], 
+        "domain-name": "ftchi.nese.com", 
+        "fuzzer": "subdomain", 
+        "geoip-country": "United States"
+    }
+]

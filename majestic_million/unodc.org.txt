@@ -1,0 +1,213 @@
+[
+    {
+        "dns-a": [
+            "193.138.94.114"
+        ], 
+        "dns-mx": [
+            "unvlp1.unvienna.org", 
+            "unvlp2.unvienna.org"
+        ], 
+        "dns-ns": [
+            "ns01.unvienna.org", 
+            "ns02.unvienna.org"
+        ], 
+        "domain-name": "unodc.org", 
+        "fuzzer": "original*", 
+        "geoip-country": "Austria", 
+        "ssdeep-score": 97
+    }, 
+    {
+        "dns-a": [
+            "69.64.147.242"
+        ], 
+        "dns-mx": [
+            "mail.b-io.co"
+        ], 
+        "domain-name": "unodci.org", 
+        "fuzzer": "addition", 
+        "geoip-country": "United States", 
+        "mx-spy": true, 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "184.168.221.80"
+        ], 
+        "dns-ns": [
+            "ns47.domaincontrol.com", 
+            "ns48.domaincontrol.com"
+        ], 
+        "domain-name": "unordc.org", 
+        "fuzzer": "insertion", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "209.159.153.178"
+        ], 
+        "dns-ns": [
+            "dns1.grawl.info", 
+            "dns2.grawl.info"
+        ], 
+        "domain-name": "unod.org", 
+        "fuzzer": "omission", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "107.180.0.199"
+        ], 
+        "dns-mx": [
+            "mx1-us1.ppe-hosted.com", 
+            "mx2-us1.ppe-hosted.com"
+        ], 
+        "dns-ns": [
+            "ns65.worldnic.com", 
+            "ns66.worldnic.com"
+        ], 
+        "domain-name": "undc.org", 
+        "fuzzer": "omission", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-mx": [
+            "mx1.mail.ovh.net", 
+            "mx2.mail.ovh.net", 
+            "mx3.mail.ovh.net"
+        ], 
+        "dns-ns": [
+            "ns10.dnsmadeeasy.com", 
+            "ns11.dnsmadeeasy.com", 
+            "ns12.dnsmadeeasy.com", 
+            "ns13.dnsmadeeasy.com", 
+            "ns14.dnsmadeeasy.com", 
+            "ns15.dnsmadeeasy.com"
+        ], 
+        "domain-name": "uodc.org", 
+        "fuzzer": "omission"
+    }, 
+    {
+        "dns-a": [
+            "46.19.92.215"
+        ], 
+        "dns-mx": [
+            "unoc.org"
+        ], 
+        "dns-ns": [
+            "dns1.webhostingcow.com", 
+            "dns2.webhostingcow.com", 
+            "dns3.webhostingcow.com", 
+            "dns4.webhostingcow.com"
+        ], 
+        "domain-name": "unoc.org", 
+        "fuzzer": "omission", 
+        "geoip-country": "Germany", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "162.242.135.52"
+        ], 
+        "dns-mx": [
+            "mail.nodc.org"
+        ], 
+        "dns-ns": [
+            "ns.rackspace.com", 
+            "ns2.rackspace.com"
+        ], 
+        "domain-name": "nodc.org", 
+        "fuzzer": "omission", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "46.252.18.27"
+        ], 
+        "dns-aaaa": [
+            "2a00:1158:1000:300::11b"
+        ], 
+        "dns-mx": [
+            "mxlb.ispgateway.de"
+        ], 
+        "domain-name": "un.odc.org", 
+        "fuzzer": "subdomain", 
+        "geoip-country": "Germany", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "192.101.186.111"
+        ], 
+        "dns-aaaa": [
+            "2001:470:8165:1::111"
+        ], 
+        "domain-name": "uno.dc.org", 
+        "fuzzer": "subdomain", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "34.216.49.207", 
+            "52.43.35.212", 
+            "54.186.0.231"
+        ], 
+        "domain-name": "unod.c.org", 
+        "fuzzer": "subdomain", 
+        "geoip-country": "United States"
+    }, 
+    {
+        "dns-a": [
+            "72.52.179.175"
+        ], 
+        "dns-mx": [
+            "mx156.hostedmxserver.com"
+        ], 
+        "dns-ns": [
+            "ns1.parklogic.com", 
+            "ns2.parklogic.com", 
+            "ns3.parklogic.com", 
+            "ns4.parklogic.com", 
+            "ns5.parklogic.com"
+        ], 
+        "domain-name": "undoc.org", 
+        "fuzzer": "transposition", 
+        "geoip-country": "United States", 
+        "mx-spy": true, 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "162.254.150.34"
+        ], 
+        "dns-mx": [
+            "unadc.org"
+        ], 
+        "dns-ns": [
+            "ns15.ihostman.com", 
+            "ns16.ihostman.com"
+        ], 
+        "domain-name": "unadc.org", 
+        "fuzzer": "vowel-swap"
+    }, 
+    {
+        "dns-a": [
+            "98.124.204.16"
+        ], 
+        "dns-ns": [
+            "dns1.name-services.com", 
+            "dns2.name-services.com", 
+            "dns3.name-services.com", 
+            "dns4.name-services.com", 
+            "dns5.name-services.com"
+        ], 
+        "domain-name": "unedc.org", 
+        "fuzzer": "vowel-swap", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 0
+    }
+]

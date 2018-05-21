@@ -1,0 +1,155 @@
+[
+    {
+        "dns-a": [
+            "193.191.245.4"
+        ], 
+        "dns-ns": [
+            "dns1w.fgov.be", 
+            "dns2s.belgium.be"
+        ], 
+        "domain-name": "fgov.be", 
+        "fuzzer": "original*", 
+        "geoip-country": "Belgium"
+    }, 
+    {
+        "dns-a": [
+            "194.78.155.175"
+        ], 
+        "dns-mx": [
+            "mail.demetec.net"
+        ], 
+        "dns-ns": [
+            "dns.demetec.net", 
+            "secdns.demetec.net", 
+            "web01.demetec.net"
+        ], 
+        "domain-name": "dgov.be", 
+        "fuzzer": "bitsquatting", 
+        "geoip-country": "Belgium", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "52.18.157.175"
+        ], 
+        "dns-mx": [
+            "mail.h-email.net"
+        ], 
+        "dns-ns": [
+            "ns1.parkingcrew.net", 
+            "ns2.parkingcrew.net"
+        ], 
+        "domain-name": "fgof.be", 
+        "fuzzer": "bitsquatting", 
+        "geoip-country": "Ireland", 
+        "mx-spy": true, 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "185.3.45.3"
+        ], 
+        "dns-mx": [
+            "mail.fqov.be"
+        ], 
+        "dns-ns": [
+            "ns1.eurodns.com", 
+            "ns2.eurodns.com", 
+            "ns3.eurodns.com", 
+            "ns4.eurodns.com"
+        ], 
+        "domain-name": "fqov.be", 
+        "fuzzer": "homoglyph", 
+        "geoip-country": "Luxembourg"
+    }, 
+    {
+        "dns-a": [
+            "87.238.165.45"
+        ], 
+        "dns-mx": [
+            "mail.fov.be"
+        ], 
+        "dns-ns": [
+            "ns3.combell.net", 
+            "ns4.combell.net"
+        ], 
+        "domain-name": "fov.be", 
+        "fuzzer": "omission", 
+        "geoip-country": "Belgium", 
+        "mx-spy": true, 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "193.191.245.4"
+        ], 
+        "dns-ns": [
+            "dns1w.fgov.be", 
+            "dns2s.belgium.be"
+        ], 
+        "domain-name": "gov.be", 
+        "fuzzer": "omission", 
+        "geoip-country": "Belgium", 
+        "ssdeep-score": 96
+    }, 
+    {
+        "dns-a": [
+            "37.34.50.131"
+        ], 
+        "dns-ns": [
+            "ns.anycastcluster.com", 
+            "ns.nscluster.be", 
+            "ns.nscluster.eu", 
+            "ns.nscluster.uk", 
+            "ns.nscluster.wf"
+        ], 
+        "domain-name": "fgv.be", 
+        "fuzzer": "omission", 
+        "geoip-country": "Netherlands", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-mx": [
+            "cluster2.server.eu", 
+            "fallback1.server.eu", 
+            "fallback2.server.eu"
+        ], 
+        "dns-ns": [
+            "ns.eurosrs.com", 
+            "ns.eurosrs.net", 
+            "ns.eurosrs.org"
+        ], 
+        "domain-name": "fgo.be", 
+        "fuzzer": "omission"
+    }, 
+    {
+        "dns-a": [
+            "103.224.182.211"
+        ], 
+        "dns-mx": [
+            "park-mx.above.com"
+        ], 
+        "dns-ns": [
+            "ns1.above.com", 
+            "ns2.above.com"
+        ], 
+        "domain-name": "fgiv.be", 
+        "fuzzer": "replacement", 
+        "geoip-country": "Australia", 
+        "mx-spy": true
+    }, 
+    {
+        "dns-aaaa": [
+            "2a00:7c80:0:55::"
+        ], 
+        "dns-mx": [
+            "mail.gfov.be"
+        ], 
+        "dns-ns": [
+            "ns3.parknames.net", 
+            "ns4.parknames.net"
+        ], 
+        "domain-name": "gfov.be", 
+        "fuzzer": "transposition"
+    }
+]

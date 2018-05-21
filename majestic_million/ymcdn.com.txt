@@ -1,0 +1,245 @@
+[
+    {
+        "dns-ns": [
+            "ns-cloud-a1.googledomains.com", 
+            "ns-cloud-a2.googledomains.com", 
+            "ns-cloud-a3.googledomains.com", 
+            "ns-cloud-a4.googledomains.com"
+        ], 
+        "domain-name": "ymcdn.com", 
+        "fuzzer": "original*"
+    }, 
+    {
+        "dns-mx": [
+            "mail.xmcdn.com"
+        ], 
+        "dns-ns": [
+            "ns3.dnsv4.com", 
+            "ns4.dnsv4.com"
+        ], 
+        "domain-name": "xmcdn.com", 
+        "fuzzer": "bitsquatting"
+    }, 
+    {
+        "dns-a": [
+            "114.215.155.5"
+        ], 
+        "dns-mx": [
+            "mxbiz1.qq.com", 
+            "mxbiz2.qq.com"
+        ], 
+        "dns-ns": [
+            "f1g1ns1.dnspod.net", 
+            "f1g1ns2.dnspod.net"
+        ], 
+        "domain-name": "imcdn.com", 
+        "fuzzer": "bitsquatting", 
+        "geoip-country": "China"
+    }, 
+    {
+        "dns-ns": [
+            "f1g1ns1.dnspod.net", 
+            "f1g1ns2.dnspod.net"
+        ], 
+        "domain-name": "yocdn.com", 
+        "fuzzer": "bitsquatting"
+    }, 
+    {
+        "dns-mx": [
+            "mx.zoho.com", 
+            "mx2.zoho.com"
+        ], 
+        "dns-ns": [
+            "lv3ns1.ffdns.net", 
+            "lv3ns2.ffdns.net", 
+            "lv3ns3.ffdns.net", 
+            "lv3ns4.ffdns.net"
+        ], 
+        "domain-name": "yecdn.com", 
+        "fuzzer": "bitsquatting"
+    }, 
+    {
+        "dns-a": [
+            "209.20.77.66"
+        ], 
+        "dns-ns": [
+            "ns1.slicehost.net", 
+            "ns2.slicehost.net", 
+            "ns3.slicehost.net"
+        ], 
+        "domain-name": "y-cdn.com", 
+        "fuzzer": "bitsquatting", 
+        "geoip-country": "United States"
+    }, 
+    {
+        "dns-a": [
+            "211.149.237.103"
+        ], 
+        "dns-ns": [
+            "dns10.hichina.com", 
+            "dns9.hichina.com"
+        ], 
+        "domain-name": "ymcdl.com", 
+        "fuzzer": "bitsquatting", 
+        "geoip-country": "China"
+    }, 
+    {
+        "dns-a": [
+            "47.90.116.251", 
+            "47.91.202.110"
+        ], 
+        "domain-name": "yncdn.com", 
+        "fuzzer": "homoglyph", 
+        "geoip-country": "United States"
+    }, 
+    {
+        "dns-a": [
+            "203.78.142.12"
+        ], 
+        "domain-name": "ymdn.com", 
+        "fuzzer": "omission", 
+        "geoip-country": "Hong Kong"
+    }, 
+    {
+        "dns-a": [
+            "121.42.126.145"
+        ], 
+        "dns-ns": [
+            "ns1.alidns.com", 
+            "ns2.alidns.com"
+        ], 
+        "domain-name": "ymcn.com", 
+        "fuzzer": "omission", 
+        "geoip-country": "China"
+    }, 
+    {
+        "dns-a": [
+            "203.78.142.12"
+        ], 
+        "domain-name": "ymcd.com", 
+        "fuzzer": "omission", 
+        "geoip-country": "Hong Kong"
+    }, 
+    {
+        "dns-a": [
+            "45.120.153.79"
+        ], 
+        "domain-name": "ycdn.com", 
+        "fuzzer": "omission", 
+        "geoip-country": "Hong Kong"
+    }, 
+    {
+        "dns-ns": [
+            "ns5.dnsdun.com", 
+            "ns5.dnsdun.net"
+        ], 
+        "domain-name": "ymfdn.com", 
+        "fuzzer": "replacement"
+    }, 
+    {
+        "dns-a": [
+            "79.125.123.179"
+        ], 
+        "dns-mx": [
+            "mail.umcdn.com"
+        ], 
+        "dns-ns": [
+            "ns10.dnsmadeeasy.com", 
+            "ns11.dnsmadeeasy.com", 
+            "ns12.dnsmadeeasy.com", 
+            "ns13.dnsmadeeasy.com", 
+            "ns14.dnsmadeeasy.com", 
+            "ns15.dnsmadeeasy.com"
+        ], 
+        "domain-name": "umcdn.com", 
+        "fuzzer": "replacement", 
+        "geoip-country": "Ireland"
+    }, 
+    {
+        "dns-ns": [
+            "f1g1ns1.dnspod.net", 
+            "f1g1ns2.dnspod.net"
+        ], 
+        "domain-name": "yjcdn.com", 
+        "fuzzer": "replacement"
+    }, 
+    {
+        "dns-ns": [
+            "ns1.trademe.co.nz", 
+            "ns2.trademe.co.nz", 
+            "ns3.trademe.co.nz", 
+            "ns4.trademe.co.nz"
+        ], 
+        "domain-name": "tmcdn.com", 
+        "fuzzer": "replacement"
+    }, 
+    {
+        "dns-a": [
+            "204.11.56.48"
+        ], 
+        "dns-ns": [
+            "ns1626.ztomy.com", 
+            "ns2626.ztomy.com"
+        ], 
+        "domain-name": "hmcdn.com", 
+        "fuzzer": "replacement", 
+        "geoip-country": "Virgin Islands"
+    }, 
+    {
+        "dns-ns": [
+            "ns1-46.akam.net", 
+            "ns4-66.akam.net", 
+            "ns5-67.akam.net", 
+            "ns7-64.akam.net"
+        ], 
+        "domain-name": "ypcdn.com", 
+        "fuzzer": "replacement"
+    }, 
+    {
+        "dns-a": [
+            "104.28.0.48", 
+            "104.28.1.48"
+        ], 
+        "dns-aaaa": [
+            "2400:cb00:2048:1::681c:130", 
+            "2400:cb00:2048:1::681c:30"
+        ], 
+        "dns-mx": [
+            "mx.yandex.net"
+        ], 
+        "dns-ns": [
+            "norm.ns.cloudflare.com", 
+            "sara.ns.cloudflare.com"
+        ], 
+        "domain-name": "ykcdn.com", 
+        "fuzzer": "replacement", 
+        "geoip-country": "United States"
+    }, 
+    {
+        "dns-a": [
+            "91.195.240.103"
+        ], 
+        "dns-ns": [
+            "dns1.name-services.com", 
+            "dns2.name-services.com", 
+            "dns3.name-services.com", 
+            "dns4.name-services.com", 
+            "dns5.name-services.com"
+        ], 
+        "domain-name": "amcdn.com", 
+        "fuzzer": "replacement", 
+        "geoip-country": "Germany"
+    }, 
+    {
+        "dns-a": [
+            "209.99.64.52"
+        ], 
+        "dns-ns": [
+            "ns11052.ztomy.com", 
+            "ns21052.ztomy.com"
+        ], 
+        "domain-name": "mycdn.com", 
+        "fuzzer": "transposition", 
+        "geoip-country": "United States"
+    }
+]

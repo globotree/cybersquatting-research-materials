@@ -1,0 +1,142 @@
+[
+    {
+        "dns-mx": [
+            "eforward1.registrar-servers.com", 
+            "eforward2.registrar-servers.com", 
+            "eforward3.registrar-servers.com", 
+            "eforward4.registrar-servers.com", 
+            "eforward5.registrar-servers.com"
+        ], 
+        "dns-ns": [
+            "dns1.registrar-servers.com", 
+            "dns2.registrar-servers.com"
+        ], 
+        "domain-name": "tblogz.com", 
+        "fuzzer": "original*"
+    }, 
+    {
+        "dns-a": [
+            "5.61.37.56"
+        ], 
+        "dns-mx": [
+            "mail.ublogz.com", 
+            "mail.ublogz.com"
+        ], 
+        "dns-ns": [
+            "ns1.oooopss.com.ublogz.com", 
+            "ns2.oooopss.com.ublogz.com"
+        ], 
+        "domain-name": "ublogz.com", 
+        "fuzzer": "bitsquatting", 
+        "geoip-country": "Germany", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "67.227.226.240"
+        ], 
+        "dns-mx": [
+            "mx156.hostedmxserver.com"
+        ], 
+        "dns-ns": [
+            "ns1.parklogic.com", 
+            "ns2.parklogic.com", 
+            "ns3.parklogic.com", 
+            "ns4.parklogic.com", 
+            "ns5.parklogic.com"
+        ], 
+        "domain-name": "4blogz.com", 
+        "fuzzer": "bitsquatting", 
+        "geoip-country": "United States", 
+        "mx-spy": true, 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "77.232.81.76"
+        ], 
+        "dns-aaaa": [
+            "2a01:3b0:a00:3:1467:2287::"
+        ], 
+        "dns-mx": [
+            "fmx-high.servage.net", 
+            "fmx-low.servage.net", 
+            "mx1.servage.net", 
+            "mx2.servage.net"
+        ], 
+        "dns-ns": [
+            "ns1.servage.net", 
+            "ns2.servage.net", 
+            "ns3.servage.net", 
+            "ns4.servage.net"
+        ], 
+        "domain-name": "blogz.com", 
+        "fuzzer": "omission", 
+        "geoip-country": "Europe", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "207.194.163.102"
+        ], 
+        "dns-mx": [
+            "mx1.emailsrvr.com", 
+            "mx2.emailsrvr.com"
+        ], 
+        "dns-ns": [
+            "dns1.mediast.net", 
+            "dns2.mediast.net", 
+            "dns3.mediast.net", 
+            "dns4.mediast.net", 
+            "dns5.mediast.net"
+        ], 
+        "domain-name": "tblog.com", 
+        "fuzzer": "omission", 
+        "geoip-country": "Canada"
+    }, 
+    {
+        "dns-a": [
+            "184.106.227.90"
+        ], 
+        "dns-ns": [
+            "dns1.stabletransit.com", 
+            "dns2.stabletransit.com"
+        ], 
+        "domain-name": "tblogs.com", 
+        "fuzzer": "replacement", 
+        "geoip-country": "United States"
+    }, 
+    {
+        "dns-a": [
+            "77.232.81.76"
+        ], 
+        "dns-aaaa": [
+            "2a01:3b0:a00:3:1467:2287::"
+        ], 
+        "domain-name": "t.blogz.com", 
+        "fuzzer": "subdomain", 
+        "geoip-country": "Europe", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "185.53.179.6"
+        ], 
+        "dns-ns": [
+            "ns1.parkingcrew.net", 
+            "ns2.parkingcrew.net"
+        ], 
+        "domain-name": "tbl.ogz.com", 
+        "fuzzer": "subdomain", 
+        "geoip-country": "Germany", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "61.145.122.243"
+        ], 
+        "domain-name": "tblo.gz.com", 
+        "fuzzer": "subdomain", 
+        "geoip-country": "China"
+    }
+]

@@ -1,0 +1,67 @@
+[
+    {
+        "dns-a": [
+            "168.160.11.102"
+        ], 
+        "dns-mx": [
+            "anmail.most.gov.cn", 
+            "smg.most.gov.cn"
+        ], 
+        "dns-ns": [
+            "hp51s.most.gov.cn", 
+            "ns.most.gov.cn"
+        ], 
+        "domain-name": "most.gov.cn", 
+        "fuzzer": "original*", 
+        "geoip-country": "China", 
+        "ssdeep-score": 100
+    }, 
+    {
+        "dns-mx": [
+            "mail.mos.gov.cn"
+        ], 
+        "dns-ns": [
+            "ns1.cdns.cn", 
+            "ns2.cdns.cn", 
+            "ns3.cdns.cn"
+        ], 
+        "domain-name": "mos.gov.cn", 
+        "fuzzer": "omission"
+    }, 
+    {
+        "dns-a": [
+            "219.143.235.81"
+        ], 
+        "dns-mx": [
+            "mail.mot.gov.cn"
+        ], 
+        "dns-ns": [
+            "ns.mot.gov.cn", 
+            "nsbk.mot.gov.cn"
+        ], 
+        "domain-name": "mot.gov.cn", 
+        "fuzzer": "omission"
+    }, 
+    {
+        "dns-a": [
+            "168.160.11.102"
+        ], 
+        "dns-ns": [
+            "hp51s.most.gov.cn", 
+            "ns.most.gov.cn"
+        ], 
+        "domain-name": "most.cn", 
+        "fuzzer": "various"
+    }, 
+    {
+        "dns-a": [
+            "118.190.116.30"
+        ], 
+        "dns-ns": [
+            "ns13.xincache.com", 
+            "ns14.xincache.com"
+        ], 
+        "domain-name": "mostgov.cn", 
+        "fuzzer": "various"
+    }
+]

@@ -1,0 +1,44 @@
+[
+    {
+        "dns-a": [
+            "148.88.65.80"
+        ], 
+        "dns-aaaa": [
+            "2001:630:80:2ff::80:1"
+        ], 
+        "dns-mx": [
+            "mh-0-0.lancs.ac.uk", 
+            "mh-0-1.lancs.ac.uk", 
+            "mh-1-0.lancs.ac.uk", 
+            "mh-1-1.lancs.ac.uk"
+        ], 
+        "dns-ns": [
+            "hub.ubc.ca", 
+            "ns0.lancs.ac.uk", 
+            "ns1.lancs.ac.uk", 
+            "ns2.lancs.ac.uk"
+        ], 
+        "domain-name": "lancs.ac.uk", 
+        "fuzzer": "original*", 
+        "geoip-country": "United Kingdom", 
+        "ssdeep-score": 94
+    }, 
+    {
+        "dns-a": [
+            "104.28.28.226", 
+            "104.28.29.226"
+        ], 
+        "dns-aaaa": [
+            "2400:cb00:2048:1::681c:1ce2", 
+            "2400:cb00:2048:1::681c:1de2"
+        ], 
+        "dns-ns": [
+            "brad.ns.cloudflare.com", 
+            "sandy.ns.cloudflare.com"
+        ], 
+        "domain-name": "lancs.uk", 
+        "fuzzer": "various", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 0
+    }
+]

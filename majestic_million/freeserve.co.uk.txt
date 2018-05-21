@@ -1,0 +1,127 @@
+[
+    {
+        "dns-ns": [
+            "dns1.cscdns.net", 
+            "dns2.cscdns.net"
+        ], 
+        "domain-name": "freeserve.co.uk", 
+        "fuzzer": "original*"
+    }, 
+    {
+        "dns-a": [
+            "160.153.131.196"
+        ], 
+        "dns-mx": [
+            "mail.freeserved.co.uk"
+        ], 
+        "dns-ns": [
+            "ns03.domaincontrol.com", 
+            "ns04.domaincontrol.com"
+        ], 
+        "domain-name": "freeserved.co.uk", 
+        "fuzzer": "addition", 
+        "geoip-country": "United States"
+    }, 
+    {
+        "dns-a": [
+            "217.160.223.172"
+        ], 
+        "dns-aaaa": [
+            "2001:8d8:1000:2036:12c3:c45e:52e:7"
+        ], 
+        "dns-mx": [
+            "mx00.1and1.co.uk", 
+            "mx01.1and1.co.uk"
+        ], 
+        "dns-ns": [
+            "ns1023.ui-dns.com", 
+            "ns1068.ui-dns.de", 
+            "ns1082.ui-dns.org", 
+            "ns1092.ui-dns.biz"
+        ], 
+        "domain-name": "free-serve.co.uk", 
+        "fuzzer": "hyphenation", 
+        "geoip-country": "Germany"
+    }, 
+    {
+        "dns-a": [
+            "192.64.147.150"
+        ], 
+        "dns-mx": [
+            "mx37.m1bp.com", 
+            "mx37.mb5p.com"
+        ], 
+        "dns-ns": [
+            "ns-canada.topdns.com", 
+            "ns-uk.topdns.com", 
+            "ns-usa.topdns.com"
+        ], 
+        "domain-name": "freserve.co.uk", 
+        "fuzzer": "omission", 
+        "geoip-country": "United States", 
+        "mx-spy": true
+    }, 
+    {
+        "dns-a": [
+            "98.124.245.24"
+        ], 
+        "dns-mx": [
+            "mail.b-io.co"
+        ], 
+        "dns-ns": [
+            "ns1.fabulous.com", 
+            "ns2.fabulous.com"
+        ], 
+        "domain-name": "freesrve.co.uk", 
+        "fuzzer": "omission", 
+        "geoip-country": "United States", 
+        "mx-spy": true
+    }, 
+    {
+        "dns-a": [
+            "217.68.242.78"
+        ], 
+        "dns-mx": [
+            "mx0.eliteukserve.net", 
+            "mx1.eliteukserve.net", 
+            "mx2.eliteukserve.net", 
+            "mx3.eliteukserve.net"
+        ], 
+        "dns-ns": [
+            "dns01.eliteukserve.net", 
+            "dns02.eliteukserve.net", 
+            "dns03.eliteukserve.net"
+        ], 
+        "domain-name": "treeserve.co.uk", 
+        "fuzzer": "replacement", 
+        "geoip-country": "United Kingdom"
+    }, 
+    {
+        "dns-a": [
+            "92.60.114.244"
+        ], 
+        "domain-name": "fre.eserve.co.uk", 
+        "fuzzer": "subdomain", 
+        "geoip-country": "United Kingdom"
+    }, 
+    {
+        "dns-a": [
+            "87.106.142.81"
+        ], 
+        "dns-ns": [
+            "a.giraffe.co.uk", 
+            "b.giraffe.co.uk"
+        ], 
+        "domain-name": "freese.rve.co.uk", 
+        "fuzzer": "subdomain", 
+        "geoip-country": "Germany"
+    }, 
+    {
+        "dns-a": [
+            "109.239.101.62"
+        ], 
+        "domain-name": "freeser.ve.co.uk", 
+        "fuzzer": "subdomain", 
+        "geoip-country": "United Kingdom"
+    }
+]

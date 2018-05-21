@@ -1,0 +1,79 @@
+[
+    {
+        "dns-a": [
+            "202.248.110.184"
+        ], 
+        "dns-ns": [
+            "ns-1169.awsdns-18.org", 
+            "ns-161.awsdns-20.com", 
+            "ns-2041.awsdns-63.co.uk", 
+            "ns-788.awsdns-34.net"
+        ], 
+        "domain-name": "nicovideo.jp", 
+        "fuzzer": "original*", 
+        "geoip-country": "Japan", 
+        "ssdeep-score": 91
+    }, 
+    {
+        "dns-mx": [
+            "mx-caprica.zoneedit.com"
+        ], 
+        "dns-ns": [
+            "ns3.zoneedit.com", 
+            "ns7.zoneedit.com"
+        ], 
+        "domain-name": "nicovideon.jp", 
+        "fuzzer": "addition"
+    }, 
+    {
+        "dns-a": [
+            "72.52.4.122"
+        ], 
+        "dns-mx": [
+            "localhost"
+        ], 
+        "dns-ns": [
+            "ns1.sedoparking.com", 
+            "ns2.sedoparking.com"
+        ], 
+        "domain-name": "nikovideo.jp", 
+        "fuzzer": "bitsquatting", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "218.219.254.61"
+        ], 
+        "dns-mx": [
+            "mail.nicovide.jp"
+        ], 
+        "dns-ns": [
+            "ns1.afraid.org", 
+            "ns2.afraid.org", 
+            "ns3.afraid.org", 
+            "ns4.afraid.org"
+        ], 
+        "domain-name": "nicovide.jp", 
+        "fuzzer": "omission", 
+        "geoip-country": "Japan"
+    }, 
+    {
+        "dns-a": [
+            "157.7.188.207"
+        ], 
+        "domain-name": "nico.video.jp", 
+        "fuzzer": "subdomain", 
+        "geoip-country": "Japan"
+    }, 
+    {
+        "dns-ns": [
+            "ns-1237.awsdns-26.org", 
+            "ns-1929.awsdns-49.co.uk", 
+            "ns-334.awsdns-41.com", 
+            "ns-943.awsdns-53.net"
+        ], 
+        "domain-name": "necovideo.jp", 
+        "fuzzer": "vowel-swap"
+    }
+]

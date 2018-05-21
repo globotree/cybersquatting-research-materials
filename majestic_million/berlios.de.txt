@@ -1,0 +1,179 @@
+[
+    {
+        "dns-ns": [
+            "a.ns.joker.com", 
+            "b.ns.joker.com", 
+            "c.ns.joker.com"
+        ], 
+        "domain-name": "berlios.de", 
+        "fuzzer": "original*"
+    }, 
+    {
+        "dns-a": [
+            "85.214.206.115"
+        ], 
+        "dns-mx": [
+            "smtp.rzone.de"
+        ], 
+        "dns-ns": [
+            "ns3.stratoserver.net", 
+            "ns4.stratoserver.net"
+        ], 
+        "domain-name": "berlins.de", 
+        "fuzzer": "bitsquatting", 
+        "geoip-country": "Germany"
+    }, 
+    {
+        "dns-a": [
+            "176.9.83.229"
+        ], 
+        "dns-ns": [
+            "ns1.redirectdom.com", 
+            "ns2.redirectdom.com"
+        ], 
+        "domain-name": "belios.de", 
+        "fuzzer": "omission", 
+        "geoip-country": "Germany"
+    }, 
+    {
+        "dns-a": [
+            "80.237.133.226"
+        ], 
+        "dns-aaaa": [
+            "2a01:488:42:1000:50ed:85e2:26:ead6"
+        ], 
+        "dns-mx": [
+            "mx0.berlis.de"
+        ], 
+        "dns-ns": [
+            "ns1.hans.hosteurope.de", 
+            "ns2.hans.hosteurope.de"
+        ], 
+        "domain-name": "berlis.de", 
+        "fuzzer": "omission", 
+        "geoip-country": "Germany"
+    }, 
+    {
+        "dns-a": [
+            "81.169.145.159"
+        ], 
+        "dns-aaaa": [
+            "2a01:238:20a:202:1159::"
+        ], 
+        "dns-mx": [
+            "smtp.rzone.de"
+        ], 
+        "dns-ns": [
+            "docks19.rzone.de", 
+            "shades04.rzone.de"
+        ], 
+        "domain-name": "berlio.de", 
+        "fuzzer": "omission", 
+        "geoip-country": "Germany"
+    }, 
+    {
+        "dns-a": [
+            "37.17.225.132"
+        ], 
+        "dns-mx": [
+            "pop.berlos.de", 
+            "smtp.berlos.de"
+        ], 
+        "dns-ns": [
+            "ns1.webgo.de", 
+            "ns2.webgo.de", 
+            "ns3.webgo.de", 
+            "ns4.webgo.de"
+        ], 
+        "domain-name": "berlos.de", 
+        "fuzzer": "omission", 
+        "geoip-country": "Germany"
+    }, 
+    {
+        "dns-a": [
+            "81.169.145.149"
+        ], 
+        "dns-aaaa": [
+            "2a01:238:20a:202:1149::"
+        ], 
+        "dns-mx": [
+            "smtpin.rzone.de"
+        ], 
+        "dns-ns": [
+            "docks20.rzone.de", 
+            "shades12.rzone.de"
+        ], 
+        "domain-name": "berlips.de", 
+        "fuzzer": "replacement", 
+        "geoip-country": "Germany"
+    }, 
+    {
+        "dns-a": [
+            "72.52.4.122"
+        ], 
+        "dns-mx": [
+            "localhost"
+        ], 
+        "dns-ns": [
+            "ns1.sedoparking.com", 
+            "ns2.sedoparking.com"
+        ], 
+        "domain-name": "berlioz.de", 
+        "fuzzer": "replacement", 
+        "geoip-country": "United States", 
+        "mx-spy": true
+    }, 
+    {
+        "dns-a": [
+            "81.169.254.196"
+        ], 
+        "domain-name": "berl.ios.de", 
+        "fuzzer": "subdomain", 
+        "geoip-country": "Germany"
+    }, 
+    {
+        "dns-a": [
+            "213.239.215.88"
+        ], 
+        "domain-name": "berli.os.de", 
+        "fuzzer": "subdomain", 
+        "geoip-country": "Germany"
+    }, 
+    {
+        "dns-a": [
+            "80.150.6.143"
+        ], 
+        "dns-aaaa": [
+            "2003:2:2:15:80:150:6:143"
+        ], 
+        "dns-mx": [
+            "smtp-01.tld.t-online.de", 
+            "smtp-02.tld.t-online.de"
+        ], 
+        "dns-ns": [
+            "dns01-tld.t-online.de", 
+            "dns02-tld.t-online.de"
+        ], 
+        "domain-name": "berliso.de", 
+        "fuzzer": "transposition", 
+        "geoip-country": "Germany"
+    }, 
+    {
+        "dns-a": [
+            "81.169.145.148"
+        ], 
+        "dns-aaaa": [
+            "2a01:238:20a:202:1148::"
+        ], 
+        "dns-mx": [
+            "smtp.rzone.de"
+        ], 
+        "dns-ns": [
+            "docks04.rzone.de", 
+            "shades02.rzone.de"
+        ], 
+        "domain-name": "berlias.de", 
+        "fuzzer": "vowel-swap", 
+        "geoip-country": "Germany"
+    }
+]

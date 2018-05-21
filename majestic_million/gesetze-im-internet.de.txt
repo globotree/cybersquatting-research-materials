@@ -1,0 +1,164 @@
+[
+    {
+        "dns-ns": [
+            "dns1.juris.de", 
+            "dns2.juris.de", 
+            "dns3.juris.de"
+        ], 
+        "domain-name": "gesetze-im-internet.de", 
+        "fuzzer": "original*"
+    }, 
+    {
+        "dns-mx": [
+            "localhost"
+        ], 
+        "dns-ns": [
+            "ns1.sedoparking.com"
+        ], 
+        "domain-name": "gesetze-in-internet.de", 
+        "fuzzer": "homoglyph", 
+        "mx-spy": true
+    }, 
+    {
+        "dns-ns": [
+            "dns1.juris.de", 
+            "dns2.juris.de", 
+            "dns3.juris.de"
+        ], 
+        "domain-name": "gesetzte-im-internet.de", 
+        "fuzzer": "insertion"
+    }, 
+    {
+        "dns-a": [
+            "185.53.179.6"
+        ], 
+        "dns-mx": [
+            "mail.h-email.net"
+        ], 
+        "dns-ns": [
+            "ns1.parkingcrew.net", 
+            "ns2.parkingcrew.net"
+        ], 
+        "domain-name": "gesetze-im-intenet.de", 
+        "fuzzer": "omission", 
+        "geoip-country": "Germany", 
+        "mx-spy": true
+    }, 
+    {
+        "dns-a": [
+            "185.53.179.7"
+        ], 
+        "dns-mx": [
+            "mail.h-email.net"
+        ], 
+        "dns-ns": [
+            "ns1.parkingcrew.net", 
+            "ns2.parkingcrew.net"
+        ], 
+        "domain-name": "gesetze-iminternet.de", 
+        "fuzzer": "omission", 
+        "geoip-country": "Germany", 
+        "mx-spy": true
+    }, 
+    {
+        "dns-a": [
+            "185.53.178.7"
+        ], 
+        "dns-ns": [
+            "ns1.parkingcrew.net", 
+            "ns2.parkingcrew.net"
+        ], 
+        "domain-name": "gesetzeim-internet.de", 
+        "fuzzer": "omission", 
+        "geoip-country": "Germany"
+    }, 
+    {
+        "dns-a": [
+            "185.53.179.6"
+        ], 
+        "dns-mx": [
+            "mail.h-email.net"
+        ], 
+        "dns-ns": [
+            "ns1.parkingcrew.net", 
+            "ns2.parkingcrew.net"
+        ], 
+        "domain-name": "gesetze-im-inernet.de", 
+        "fuzzer": "omission", 
+        "geoip-country": "Germany", 
+        "mx-spy": true
+    }, 
+    {
+        "dns-a": [
+            "89.200.168.36"
+        ], 
+        "dns-mx": [
+            "mail.gesetz-im-internet.de"
+        ], 
+        "dns-ns": [
+            "ns1.ns-serve.net", 
+            "ns2.ns-serve.net"
+        ], 
+        "domain-name": "gesetz-im-internet.de", 
+        "fuzzer": "omission", 
+        "geoip-country": "Germany"
+    }, 
+    {
+        "dns-a": [
+            "185.53.178.9"
+        ], 
+        "dns-ns": [
+            "ns1.parkingcrew.net", 
+            "ns2.parkingcrew.net"
+        ], 
+        "domain-name": "gestze-im-internet.de", 
+        "fuzzer": "omission", 
+        "geoip-country": "Germany"
+    }, 
+    {
+        "dns-a": [
+            "178.254.30.93"
+        ], 
+        "domain-name": "gesetze-i.m-internet.de", 
+        "fuzzer": "subdomain", 
+        "geoip-country": "Germany"
+    }, 
+    {
+        "dns-a": [
+            "72.52.4.90"
+        ], 
+        "dns-mx": [
+            "mailgw.ns36.de"
+        ], 
+        "dns-ns": [
+            "a.ns36.de", 
+            "b.ns36.de"
+        ], 
+        "domain-name": "gesetze-im-i.nternet.de", 
+        "fuzzer": "subdomain"
+    }, 
+    {
+        "dns-a": [
+            "46.38.249.156"
+        ], 
+        "domain-name": "gesetze-im-int.ernet.de", 
+        "fuzzer": "subdomain"
+    }, 
+    {
+        "dns-a": [
+            "213.239.215.88"
+        ], 
+        "domain-name": "gesetze-im-intern.et.de", 
+        "fuzzer": "subdomain", 
+        "geoip-country": "Germany"
+    }, 
+    {
+        "dns-ns": [
+            "dns1.juris.de", 
+            "dns2.juris.de", 
+            "dns3.juris.de"
+        ], 
+        "domain-name": "gesezte-im-internet.de", 
+        "fuzzer": "transposition"
+    }
+]

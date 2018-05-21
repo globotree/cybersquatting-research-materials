@@ -1,0 +1,155 @@
+[
+    {
+        "dns-a": [
+            "104.16.117.25", 
+            "104.16.118.25"
+        ], 
+        "dns-mx": [
+            "abssbgvm01.abs-cbn.com", 
+            "abssbgvm02.abs-cbn.com", 
+            "abssbgvm03.abs-cbn.com", 
+            "d128061a.ess.barracudanetworks.com", 
+            "d128061b.ess.barracudanetworks.com"
+        ], 
+        "dns-ns": [
+            "duke.ns.cloudflare.com", 
+            "eva.ns.cloudflare.com"
+        ], 
+        "domain-name": "abs-cbn.com", 
+        "fuzzer": "original*", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 100
+    }, 
+    {
+        "dns-mx": [
+            "d128064a.ess.barracudanetworks.com", 
+            "d128064b.ess.barracudanetworks.com"
+        ], 
+        "dns-ns": [
+            "dns057.b.register.com", 
+            "dns129.a.register.com", 
+            "dns209.c.register.com", 
+            "dns249.d.register.com"
+        ], 
+        "domain-name": "abs-cbni.com", 
+        "fuzzer": "addition"
+    }, 
+    {
+        "dns-a": [
+            "199.59.242.150"
+        ], 
+        "dns-mx": [
+            "mx76.m2bp.com", 
+            "mx76.mb1p.com"
+        ], 
+        "dns-ns": [
+            "ns1.bodis.com", 
+            "ns2.bodis.com"
+        ], 
+        "domain-name": "abc-cbn.com", 
+        "fuzzer": "bitsquatting", 
+        "geoip-country": "United States", 
+        "mx-spy": true, 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "199.191.50.73"
+        ], 
+        "dns-ns": [
+            "ns111373.ztomy.com", 
+            "ns211373.ztomy.com"
+        ], 
+        "domain-name": "abs-sbn.com", 
+        "fuzzer": "bitsquatting", 
+        "geoip-country": "Virgin Islands", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "209.99.64.55"
+        ], 
+        "domain-name": "ads-cdn.com", 
+        "fuzzer": "homoglyph", 
+        "geoip-country": "United States"
+    }, 
+    {
+        "dns-a": [
+            "185.53.178.9"
+        ], 
+        "dns-mx": [
+            "mail.h-email.net"
+        ], 
+        "dns-ns": [
+            "ns1.parkingcrew.net", 
+            "ns2.parkingcrew.net"
+        ], 
+        "domain-name": "abs-bn.com", 
+        "fuzzer": "omission", 
+        "geoip-country": "Germany", 
+        "mx-spy": true, 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "172.246.246.9"
+        ], 
+        "dns-ns": [
+            "ns1.dnsdun.com", 
+            "ns1.dnsdun.net"
+        ], 
+        "domain-name": "abs-cb.com", 
+        "fuzzer": "omission", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "185.61.153.124"
+        ], 
+        "dns-mx": [
+            "mail.abscbn.com"
+        ], 
+        "dns-ns": [
+            "dns1.namecheaphosting.com", 
+            "dns2.namecheaphosting.com"
+        ], 
+        "domain-name": "abscbn.com", 
+        "fuzzer": "omission", 
+        "geoip-country": "United Kingdom", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "23.83.160.75"
+        ], 
+        "dns-ns": [
+            "ns5.dnsdun.com", 
+            "ns5.dnsdun.net"
+        ], 
+        "domain-name": "bs-cbn.com", 
+        "fuzzer": "omission", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "23.83.160.75"
+        ], 
+        "domain-name": "a.bs-cbn.com", 
+        "fuzzer": "subdomain", 
+        "geoip-country": "United States"
+    }, 
+    {
+        "dns-a": [
+            "107.183.82.4"
+        ], 
+        "dns-ns": [
+            "ns1.dnspai.com", 
+            "ns2.dnspai.com"
+        ], 
+        "domain-name": "abs-bcn.com", 
+        "fuzzer": "transposition", 
+        "geoip-country": "United States"
+    }
+]

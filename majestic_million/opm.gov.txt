@@ -1,0 +1,41 @@
+[
+    {
+        "dns-a": [
+            "173.223.169.105"
+        ], 
+        "dns-aaaa": [
+            "2a02:26f0:ce:193::174f", 
+            "2a02:26f0:ce:1a1::174f"
+        ], 
+        "dns-mx": [
+            "cluster-g.mailcontrol.com", 
+            "cluster-h.mailcontrol.com"
+        ], 
+        "dns-ns": [
+            "a1-12.akam.net", 
+            "a11-67.akam.net", 
+            "a14-64.akam.net", 
+            "a18-65.akam.net", 
+            "a20-66.akam.net", 
+            "a5-67.akam.net"
+        ], 
+        "domain-name": "opm.gov", 
+        "fuzzer": "original*", 
+        "geoip-country": "Netherlands", 
+        "mx-spy": true, 
+        "ssdeep-score": 100
+    }, 
+    {
+        "dns-a": [
+            "54.172.186.141"
+        ], 
+        "dns-ns": [
+            "ns1.usda.gov", 
+            "ns2.usda.gov"
+        ], 
+        "domain-name": "ipm.gov", 
+        "fuzzer": "replacement", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 0
+    }
+]

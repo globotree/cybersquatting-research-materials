@@ -1,0 +1,62 @@
+[
+    {
+        "dns-mx": [
+            "mail.mailenable.com"
+        ], 
+        "dns-ns": [
+            "ns.mailenablecorp.com", 
+            "ns1.mailenablecorp.com"
+        ], 
+        "domain-name": "mailenable.com", 
+        "fuzzer": "original*"
+    }, 
+    {
+        "dns-a": [
+            "195.154.119.36"
+        ], 
+        "dns-mx": [
+            "sprin.tf"
+        ], 
+        "dns-ns": [
+            "a.dns.gandi.net", 
+            "b.dns.gandi.net", 
+            "c.dns.gandi.net"
+        ], 
+        "domain-name": "maileable.com", 
+        "fuzzer": "omission", 
+        "geoip-country": "France"
+    }, 
+    {
+        "dns-a": [
+            "194.75.53.215"
+        ], 
+        "domain-name": "mail.enable.com", 
+        "fuzzer": "subdomain", 
+        "geoip-country": "United Kingdom"
+    }, 
+    {
+        "dns-a": [
+            "69.172.201.153"
+        ], 
+        "dns-ns": [
+            "ns1.uniregistrymarket.link", 
+            "ns2.uniregistrymarket.link"
+        ], 
+        "domain-name": "mailena.ble.com", 
+        "fuzzer": "subdomain", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "115.182.94.238"
+        ], 
+        "dns-mx": [
+            "lemail.le.com", 
+            "mail10.le.com", 
+            "mail3.le.com"
+        ], 
+        "domain-name": "mailenab.le.com", 
+        "fuzzer": "subdomain"
+    }
+]

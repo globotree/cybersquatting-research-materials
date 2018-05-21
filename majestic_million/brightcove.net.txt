@@ -1,0 +1,103 @@
+[
+    {
+        "dns-ns": [
+            "ns-1176.awsdns-19.org", 
+            "ns-1932.awsdns-49.co.uk", 
+            "ns-8.awsdns-01.com", 
+            "ns-825.awsdns-39.net"
+        ], 
+        "domain-name": "brightcove.net", 
+        "fuzzer": "original*"
+    }, 
+    {
+        "dns-a": [
+            "185.153.204.105"
+        ], 
+        "dns-mx": [
+            "mail7.serversure.net"
+        ], 
+        "dns-ns": [
+            "ns.serversure.net", 
+            "ns2.serversure.net"
+        ], 
+        "domain-name": "brightcore.net", 
+        "fuzzer": "bitsquatting", 
+        "geoip-country": "United Kingdom"
+    }, 
+    {
+        "dns-a": [
+            "208.91.197.26"
+        ], 
+        "dns-mx": [
+            "p.webcom.ctmail.com"
+        ], 
+        "dns-ns": [
+            "ns39.worldnic.com", 
+            "ns40.worldnic.com"
+        ], 
+        "domain-name": "bright-cove.net", 
+        "fuzzer": "hyphenation", 
+        "geoip-country": "Virgin Islands", 
+        "mx-spy": true
+    }, 
+    {
+        "dns-a": [
+            "207.99.14.134"
+        ], 
+        "dns-mx": [
+            "mail.brightdove.net"
+        ], 
+        "dns-ns": [
+            "ns1.brightdove.net", 
+            "ns2.brightdove.net"
+        ], 
+        "domain-name": "brightdove.net", 
+        "fuzzer": "replacement", 
+        "geoip-country": "United States", 
+        "mx-spy": true
+    }, 
+    {
+        "dns-a": [
+            "69.46.28.43"
+        ], 
+        "dns-mx": [
+            "mail2a.smtproutes.org", 
+            "mail2b.smtproutes.org"
+        ], 
+        "domain-name": "brightc.ove.net", 
+        "fuzzer": "subdomain"
+    }, 
+    {
+        "dns-a": [
+            "72.52.4.120"
+        ], 
+        "dns-mx": [
+            "localhost"
+        ], 
+        "dns-ns": [
+            "ns1.sedoparking.com", 
+            "ns2.sedoparking.com"
+        ], 
+        "domain-name": "brightco.ve.net", 
+        "fuzzer": "subdomain", 
+        "geoip-country": "United States", 
+        "mx-spy": true
+    }, 
+    {
+        "dns-a": [
+            "23.236.62.147"
+        ], 
+        "dns-mx": [
+            "mx-biz.mail.am0.yahoodns.net", 
+            "mx-biz.mail.am0.yahoodns.net", 
+            "mx-biz.mail.am0.yahoodns.net"
+        ], 
+        "dns-ns": [
+            "ns1.wix.com", 
+            "ns2.wix.com"
+        ], 
+        "domain-name": "brightcave.net", 
+        "fuzzer": "vowel-swap", 
+        "geoip-country": "United States"
+    }
+]

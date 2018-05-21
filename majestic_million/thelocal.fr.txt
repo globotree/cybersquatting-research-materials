@@ -1,0 +1,73 @@
+[
+    {
+        "dns-a": [
+            "130.211.38.175"
+        ], 
+        "dns-mx": [
+            "ALT1.ASPMX.L.GOOGLE.COM", 
+            "ALT2.ASPMX.L.GOOGLE.COM", 
+            "ASPMX.L.GOOGLE.COM", 
+            "ASPMX2.GOOGLEMAIL.COM", 
+            "ASPMX3.GOOGLEMAIL.COM"
+        ], 
+        "dns-ns": [
+            "ns1.melbourne.uk.net", 
+            "ns2.melbourne.uk.net"
+        ], 
+        "domain-name": "thelocal.fr", 
+        "fuzzer": "original*", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 88
+    }, 
+    {
+        "dns-a": [
+            "195.64.164.87"
+        ], 
+        "dns-mx": [
+            "mail.thelocals.fr"
+        ], 
+        "dns-ns": [
+            "a.ns.mailclub.fr", 
+            "b.ns.mailclub.eu", 
+            "c.ns.mailclub.com"
+        ], 
+        "domain-name": "thelocals.fr", 
+        "fuzzer": "addition", 
+        "geoip-country": "France", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "81.88.57.68"
+        ], 
+        "dns-mx": [
+            "mxav1.the-local.fr", 
+            "mxav2.the-local.fr"
+        ], 
+        "dns-ns": [
+            "ns1.amen.fr", 
+            "ns2.amen.fr"
+        ], 
+        "domain-name": "the-local.fr", 
+        "fuzzer": "hyphenation", 
+        "geoip-country": "Italy", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "72.52.4.122"
+        ], 
+        "dns-mx": [
+            "localhost"
+        ], 
+        "dns-ns": [
+            "ns1.sedoparking.com", 
+            "ns2.sedoparking.com"
+        ], 
+        "domain-name": "thelo.cal.fr", 
+        "fuzzer": "subdomain", 
+        "geoip-country": "United States", 
+        "mx-spy": true, 
+        "ssdeep-score": 0
+    }
+]

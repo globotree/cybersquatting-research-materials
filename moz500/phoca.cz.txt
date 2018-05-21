@@ -1,0 +1,69 @@
+[
+    {
+        "dns-a": [
+            "213.211.34.110"
+        ], 
+        "dns-mx": [
+            "mail.videon-znojmo.cz"
+        ], 
+        "dns-ns": [
+            "ns1.videon-znojmo.cz", 
+            "ns2.videon-znojmo.cz"
+        ], 
+        "domain-name": "phoca.cz", 
+        "fuzzer": "original*", 
+        "geoip-country": "Czech Republic", 
+        "ssdeep-score": 100
+    }, 
+    {
+        "dns-a": [
+            "81.95.96.29"
+        ], 
+        "dns-ns": [
+            "alfa.ns.active24.cz", 
+            "beta.ns.active24.cz", 
+            "gama.ns.active24.sk"
+        ], 
+        "domain-name": "phoga.cz", 
+        "fuzzer": "bitsquatting", 
+        "geoip-country": "Czech Republic", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "46.28.105.2"
+        ], 
+        "dns-aaaa": [
+            "2a02:2b88:1:4::16"
+        ], 
+        "dns-mx": [
+            "wes1-mx1.wedos.net", 
+            "wes1-mx2.wedos.net"
+        ], 
+        "dns-ns": [
+            "ns.wedos.com", 
+            "ns.wedos.cz", 
+            "ns.wedos.eu", 
+            "ns.wedos.net"
+        ], 
+        "domain-name": "poca.cz", 
+        "fuzzer": "omission", 
+        "geoip-country": "Czech Republic", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "81.95.96.21"
+        ], 
+        "dns-aaaa": [
+            "2a02:4a8:ac24:100::96:21"
+        ], 
+        "dns-ns": [
+            "alfa.ns.active24.cz", 
+            "beta.ns.active24.cz", 
+            "gama.ns.active24.sk"
+        ], 
+        "domain-name": "pho.ca.cz", 
+        "fuzzer": "subdomain"
+    }
+]

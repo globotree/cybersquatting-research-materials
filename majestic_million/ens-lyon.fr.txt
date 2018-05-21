@@ -1,0 +1,37 @@
+[
+    {
+        "dns-a": [
+            "140.77.51.10"
+        ], 
+        "dns-mx": [
+            "mxa.relay.renater.fr", 
+            "mxb.relay.renater.fr", 
+            "mxc.relay.renater.fr", 
+            "mxd.relay.renater.fr"
+        ], 
+        "dns-ns": [
+            "ccpntc3.in2p3.fr", 
+            "dns.ens-lyon.fr", 
+            "dns2.ens-lyon.fr"
+        ], 
+        "domain-name": "ens-lyon.fr", 
+        "fuzzer": "original*", 
+        "geoip-country": "France", 
+        "ssdeep-score": 100
+    }, 
+    {
+        "dns-a": [
+            "140.77.168.22"
+        ], 
+        "dns-mx": [
+            "labbe.ens-lyon.fr"
+        ], 
+        "dns-ns": [
+            "dns.ens-lyon.fr", 
+            "dns2.ens-lyon.fr"
+        ], 
+        "domain-name": "enslyon.fr", 
+        "fuzzer": "omission", 
+        "geoip-country": "France"
+    }
+]

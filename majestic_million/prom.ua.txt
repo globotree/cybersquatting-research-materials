@@ -1,0 +1,135 @@
+[
+    {
+        "dns-a": [
+            "193.34.169.16"
+        ], 
+        "dns-mx": [
+            "mail.uaprom.net"
+        ], 
+        "dns-ns": [
+            "ns1.uaprom.net", 
+            "ns2.uaprom.net", 
+            "ns3.uaprom.net"
+        ], 
+        "domain-name": "prom.ua", 
+        "fuzzer": "original*", 
+        "geoip-country": "Ukraine", 
+        "ssdeep-score": 100
+    }, 
+    {
+        "dns-a": [
+            "77.87.197.64"
+        ], 
+        "dns-mx": [
+            "ALT1.ASPMX.L.GOOGLE.COM", 
+            "ALT2.ASPMX.L.GOOGLE.COM", 
+            "ALT3.ASPMX.L.GOOGLE.COM", 
+            "ALT4.ASPMX.L.GOOGLE.COM", 
+            "ASPMX.L.GOOGLE.COM"
+        ], 
+        "dns-ns": [
+            "nsa3.srv53.net", 
+            "nsa3.srv53.org", 
+            "nsa4.srv53.com", 
+            "nsb1.srv53.org", 
+            "nsb2.srv53.net", 
+            "nsb3.srv53.com", 
+            "nsc1.srv53.net", 
+            "nsc2.srv53.com", 
+            "nsc2.srv53.org", 
+            "nsd3.srv53.com", 
+            "nsd3.srv53.net", 
+            "nsd3.srv53.org"
+        ], 
+        "domain-name": "promo.ua", 
+        "fuzzer": "addition", 
+        "geoip-country": "Ukraine", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "89.184.76.100"
+        ], 
+        "dns-mx": [
+            "mail.prm.ua", 
+            "mail2.prm.ua"
+        ], 
+        "dns-ns": [
+            "nsa1.srv53.org", 
+            "nsa2.srv53.com", 
+            "nsa3.srv53.net", 
+            "nsb2.srv53.net", 
+            "nsb3.srv53.com", 
+            "nsb3.srv53.org", 
+            "nsc3.srv53.com", 
+            "nsc4.srv53.net", 
+            "nsc4.srv53.org", 
+            "nsd2.srv53.net", 
+            "nsd2.srv53.org", 
+            "nsd3.srv53.com"
+        ], 
+        "domain-name": "prm.ua", 
+        "fuzzer": "omission", 
+        "geoip-country": "Ukraine", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "185.68.16.122"
+        ], 
+        "dns-aaaa": [
+            "2a00:7a60:0:107a::1"
+        ], 
+        "dns-mx": [
+            "mx15.ukraine.com.ua", 
+            "mx20.ukraine.com.ua"
+        ], 
+        "dns-ns": [
+            "ns1.ukraine.com.ua", 
+            "ns2.ukraine.com.ua", 
+            "ns3.ukraine.com.ua"
+        ], 
+        "domain-name": "pro.ua", 
+        "fuzzer": "omission", 
+        "geoip-country": "Ukraine", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "193.0.61.79"
+        ], 
+        "dns-mx": [
+            "gw3.et-e.com.ua"
+        ], 
+        "dns-ns": [
+            "a7.dns82.org", 
+            "b5.dns82.net", 
+            "d8.dns82.link", 
+            "g2.dns82.info"
+        ], 
+        "domain-name": "prok.ua", 
+        "fuzzer": "replacement"
+    }, 
+    {
+        "dns-a": [
+            "77.120.109.201"
+        ], 
+        "domain-name": "pro.m.ua", 
+        "fuzzer": "subdomain", 
+        "geoip-country": "Ukraine"
+    }, 
+    {
+        "dns-a": [
+            "141.138.213.39"
+        ], 
+        "dns-mx": [
+            "prom-ua.com"
+        ], 
+        "dns-ns": [
+            "ns1.md-pb-iqsv.com", 
+            "ns2.md-pb-iqsv.com"
+        ], 
+        "domain-name": "prom-ua.com", 
+        "fuzzer": "various"
+    }
+]

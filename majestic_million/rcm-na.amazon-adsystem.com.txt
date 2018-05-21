@@ -1,0 +1,42 @@
+[
+    {
+        "dns-a": [
+            "52.94.224.146"
+        ], 
+        "dns-ns": [
+            "ns-931.amazon.com"
+        ], 
+        "domain-name": "rcm-na.amazon-adsystem.com", 
+        "fuzzer": "original*", 
+        "geoip-country": "United States"
+    }, 
+    {
+        "dns-a": [
+            "72.52.10.14"
+        ], 
+        "domain-name": "rcm-na.amazon-adsystems.com", 
+        "fuzzer": "addition", 
+        "geoip-country": "United States"
+    }, 
+    {
+        "dns-a": [
+            "209.17.116.2"
+        ], 
+        "domain-name": "rcm-na.amazon-ad.system.com", 
+        "fuzzer": "subdomain", 
+        "geoip-country": "United States"
+    }, 
+    {
+        "dns-a": [
+            "52.86.22.136", 
+            "54.174.212.152"
+        ], 
+        "dns-ns": [
+            "ns1.namebrightdns.com", 
+            "ns2.namebrightdns.com"
+        ], 
+        "domain-name": "rcm-na.amazon-ads.ystem.com", 
+        "fuzzer": "subdomain", 
+        "geoip-country": "United States"
+    }
+]

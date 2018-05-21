@@ -1,0 +1,93 @@
+[
+    {
+        "dns-a": [
+            "1.2.3.4"
+        ], 
+        "dns-ns": [
+            "ns1.myhostadmin.net", 
+            "ns2.myhostadmin.net"
+        ], 
+        "domain-name": "gotoip4.com", 
+        "fuzzer": "original*", 
+        "geoip-country": "United States"
+    }, 
+    {
+        "dns-a": [
+            "174.128.252.86"
+        ], 
+        "dns-ns": [
+            "v1s1.xundns.com", 
+            "v1s2.xundns.com"
+        ], 
+        "domain-name": "gotoip5.com", 
+        "fuzzer": "bitsquatting", 
+        "geoip-country": "United States"
+    }, 
+    {
+        "dns-ns": [
+            "ns11.xincache.com", 
+            "ns12.xincache.com"
+        ], 
+        "domain-name": "gotoip6.com", 
+        "fuzzer": "bitsquatting"
+    }, 
+    {
+        "dns-a": [
+            "59.188.232.88"
+        ], 
+        "domain-name": "gotoip04.com", 
+        "fuzzer": "insertion", 
+        "geoip-country": "Hong Kong"
+    }, 
+    {
+        "dns-a": [
+            "69.172.201.153"
+        ], 
+        "dns-ns": [
+            "ns1.uniregistrymarket.link", 
+            "ns2.uniregistrymarket.link"
+        ], 
+        "domain-name": "gotoip.com", 
+        "fuzzer": "omission", 
+        "geoip-country": "United States"
+    }, 
+    {
+        "dns-a": [
+            "52.40.146.251"
+        ], 
+        "dns-ns": [
+            "ns0.dnsdm.com", 
+            "ns1.dnsdm.com", 
+            "ns2.dnsdm.com", 
+            "ns3.dnsdm.com", 
+            "ns4.dnsdm.com"
+        ], 
+        "domain-name": "gotoipr.com", 
+        "fuzzer": "replacement", 
+        "geoip-country": "United States"
+    }, 
+    {
+        "dns-a": [
+            "1.2.3.4"
+        ], 
+        "dns-ns": [
+            "ns1.myhostadmin.net", 
+            "ns2.myhostadmin.net", 
+            "ns3.myhostadmin.net", 
+            "ns4.myhostadmin.net", 
+            "ns5.myhostadmin.net", 
+            "ns6.myhostadmin.net"
+        ], 
+        "domain-name": "gotoip3.com", 
+        "fuzzer": "replacement", 
+        "geoip-country": "United States"
+    }, 
+    {
+        "dns-a": [
+            "208.91.197.27"
+        ], 
+        "domain-name": "goto.ip4.com", 
+        "fuzzer": "subdomain", 
+        "geoip-country": "United States"
+    }
+]

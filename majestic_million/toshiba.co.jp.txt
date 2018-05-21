@@ -1,0 +1,71 @@
+[
+    {
+        "dns-a": [
+            "106.186.93.49"
+        ], 
+        "dns-mx": [
+            "inet-imx.toshiba.co.jp"
+        ], 
+        "dns-ns": [
+            "inet-tsb.toshiba.co.jp", 
+            "ins11.toshiba.co.jp", 
+            "ins5.toshiba.co.jp", 
+            "ns00.vips.ne.jp", 
+            "ns01.vips.ne.jp"
+        ], 
+        "domain-name": "toshiba.co.jp", 
+        "fuzzer": "original*", 
+        "geoip-country": "Japan"
+    }, 
+    {
+        "dns-mx": [
+            "mx.toshibi.co.jp"
+        ], 
+        "dns-ns": [
+            "ns1.canonet.ne.jp", 
+            "ns2.canonet.ne.jp"
+        ], 
+        "domain-name": "toshibi.co.jp", 
+        "fuzzer": "bitsquatting"
+    }, 
+    {
+        "dns-a": [
+            "220.216.96.96"
+        ], 
+        "dns-mx": [
+            "viruswall.shizuokanet.ne.jp"
+        ], 
+        "dns-ns": [
+            "dns1.broadline.ne.jp", 
+            "dns2.broadline.ne.jp", 
+            "ns.k.shizuokanet.ne.jp", 
+            "ns2.k.shizuokanet.ne.jp"
+        ], 
+        "domain-name": "toshida.co.jp", 
+        "fuzzer": "homoglyph", 
+        "geoip-country": "Japan"
+    }, 
+    {
+        "dns-a": [
+            "211.13.196.153"
+        ], 
+        "dns-mx": [
+            "mx.yoshiba.co.jp"
+        ], 
+        "dns-ns": [
+            "ns.namedserver.net", 
+            "ns2.namedserver.net"
+        ], 
+        "domain-name": "yoshiba.co.jp", 
+        "fuzzer": "replacement", 
+        "geoip-country": "Japan"
+    }, 
+    {
+        "dns-a": [
+            "150.95.9.209"
+        ], 
+        "domain-name": "tosh.iba.co.jp", 
+        "fuzzer": "subdomain", 
+        "geoip-country": "Japan"
+    }
+]

@@ -1,0 +1,232 @@
+[
+    {
+        "dns-a": [
+            "137.229.114.86"
+        ], 
+        "dns-mx": [
+            "seven.alaska.edu", 
+            "seventeen.alaska.edu"
+        ], 
+        "dns-ns": [
+            "aduans-a.alaska.edu", 
+            "aduans-f.alaska.edu", 
+            "ns1.uaf.edu", 
+            "ns2.uaf.edu"
+        ], 
+        "domain-name": "uaf.edu", 
+        "fuzzer": "original*", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 100
+    }, 
+    {
+        "dns-a": [
+            "107.21.104.61"
+        ], 
+        "dns-mx": [
+            "d87628a.ess.barracudanetworks.com", 
+            "d87628b.ess.barracudanetworks.com"
+        ], 
+        "dns-ns": [
+            "ns22.uafs.edu", 
+            "ns23.uafs.edu", 
+            "uafs-dmz01.dmz.uafs.edu", 
+            "uafs-dmz02.dmz.uafs.edu"
+        ], 
+        "domain-name": "uafs.edu", 
+        "fuzzer": "addition", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "132.170.219.161"
+        ], 
+        "dns-mx": [
+            "ucf-edu.mail.protection.outlook.com"
+        ], 
+        "dns-ns": [
+            "ns1-01.azure-dns.com", 
+            "ns2-01.azure-dns.net", 
+            "ns3-01.azure-dns.org", 
+            "ns4-01.azure-dns.info"
+        ], 
+        "domain-name": "ucf.edu", 
+        "fuzzer": "bitsquatting", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "69.167.190.53"
+        ], 
+        "dns-mx": [
+            "mx1.emailsrvr.com", 
+            "mx2.emailsrvr.com"
+        ], 
+        "dns-ns": [
+            "dns1.stabletransit.com", 
+            "dns2.stabletransit.com"
+        ], 
+        "domain-name": "uag.edu", 
+        "fuzzer": "bitsquatting", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "198.73.7.192"
+        ], 
+        "dns-mx": [
+            "uab-edu.mail.protection.outlook.com"
+        ], 
+        "dns-ns": [
+            "Heath.DPO.uab.edu", 
+            "dns1.gatech.edu", 
+            "dns2.gatech.edu", 
+            "dns3.gatech.edu"
+        ], 
+        "domain-name": "uab.edu", 
+        "fuzzer": "bitsquatting", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "104.18.42.172", 
+            "104.18.43.172"
+        ], 
+        "dns-aaaa": [
+            "2400:cb00:2048:1::6812:2aac", 
+            "2400:cb00:2048:1::6812:2bac"
+        ], 
+        "dns-mx": [
+            "uav-edu.mail.protection.outlook.com"
+        ], 
+        "dns-ns": [
+            "piotr.ns.cloudflare.com", 
+            "tegan.ns.cloudflare.com"
+        ], 
+        "domain-name": "uav.edu", 
+        "fuzzer": "bitsquatting", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "128.227.9.98"
+        ], 
+        "dns-mx": [
+            "virtual-smtp-prod01.osg.ufl.edu"
+        ], 
+        "dns-ns": [
+            "ns.name.ufl.edu", 
+            "rns.name.ufl.edu"
+        ], 
+        "domain-name": "uf.edu", 
+        "fuzzer": "omission", 
+        "geoip-country": "United States"
+    }, 
+    {
+        "dns-a": [
+            "130.160.0.20", 
+            "130.160.2.20"
+        ], 
+        "dns-mx": [
+            "mx1.ua.edu", 
+            "mx2.ua.edu"
+        ], 
+        "dns-ns": [
+            "ext-dns1.ua.edu", 
+            "ext-dns2.ua.edu", 
+            "ext-dns3.ua.edu"
+        ], 
+        "domain-name": "ua.edu", 
+        "fuzzer": "omission", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-ns": [
+            "goldilocks.afit.edu", 
+            "goldilocks1.afit.edu"
+        ], 
+        "domain-name": "af.edu", 
+        "fuzzer": "omission"
+    }, 
+    {
+        "dns-a": [
+            "131.247.1.40", 
+            "131.247.100.1"
+        ], 
+        "dns-mx": [
+            "cudavm01.forest.usf.edu", 
+            "cudavm02.forest.usf.edu"
+        ], 
+        "dns-ns": [
+            "clemson-ns1.usf.edu", 
+            "mother.usf.edu", 
+            "ziggy.usf.edu"
+        ], 
+        "domain-name": "usf.edu", 
+        "fuzzer": "replacement"
+    }, 
+    {
+        "dns-a": [
+            "104.196.248.208"
+        ], 
+        "dns-mx": [
+            "uat-edu.mail.protection.outlook.com"
+        ], 
+        "dns-ns": [
+            "ns-cloud-d1.googledomains.com", 
+            "ns-cloud-d2.googledomains.com", 
+            "ns-cloud-d3.googledomains.com", 
+            "ns-cloud-d4.googledomains.com"
+        ], 
+        "domain-name": "uat.edu", 
+        "fuzzer": "replacement", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "190.144.180.141"
+        ], 
+        "dns-mx": [
+            "uac-edu.mail.protection.outlook.com"
+        ], 
+        "dns-ns": [
+            "ns-1180.awsdns-19.org", 
+            "ns-18.awsdns-02.com", 
+            "ns-1833.awsdns-37.co.uk", 
+            "ns-902.awsdns-48.net"
+        ], 
+        "domain-name": "uac.edu", 
+        "fuzzer": "replacement", 
+        "geoip-country": "Colombia", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "143.88.3.75"
+        ], 
+        "dns-mx": [
+            "alt1.aspmx.l.google.com", 
+            "alt2.aspmx.l.google.com", 
+            "aspmx.l.google.com", 
+            "aspmx2.googlemail.com", 
+            "aspmx3.googlemail.com", 
+            "aspmx4.googlemail.com", 
+            "aspmx5.googlemail.com"
+        ], 
+        "dns-ns": [
+            "ns1.uwf.edu", 
+            "ns2.uwf.edu", 
+            "ns3.uwf.edu"
+        ], 
+        "domain-name": "uwf.edu", 
+        "fuzzer": "replacement", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 0
+    }
+]

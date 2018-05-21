@@ -1,0 +1,55 @@
+[
+    {
+        "dns-a": [
+            "60.43.62.5"
+        ], 
+        "dns-mx": [
+            "mx.plala.or.jp", 
+            "v6mx.plala.or.jp"
+        ], 
+        "dns-ns": [
+            "dns-sa1.plala.or.jp", 
+            "dns-sd1.plala.or.jp", 
+            "ns2.sphere.ad.jp"
+        ], 
+        "domain-name": "plala.or.jp", 
+        "fuzzer": "original*", 
+        "geoip-country": "Japan", 
+        "ssdeep-score": 100
+    }, 
+    {
+        "dns-a": [
+            "211.13.196.136"
+        ], 
+        "dns-mx": [
+            "mx.plama.or.jp"
+        ], 
+        "dns-ns": [
+            "ns.namedserver.net", 
+            "ns2.namedserver.net"
+        ], 
+        "domain-name": "plama.or.jp", 
+        "fuzzer": "bitsquatting", 
+        "geoip-country": "Japan", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-mx": [
+            "mail.lala.or.jp"
+        ], 
+        "dns-ns": [
+            "dns.lala.or.jp", 
+            "xfr0.easyzone.ca.lala.or.jp"
+        ], 
+        "domain-name": "lala.or.jp", 
+        "fuzzer": "omission"
+    }, 
+    {
+        "dns-ns": [
+            "ddns-s1.plala.jp", 
+            "ddns-v1.plala.jp"
+        ], 
+        "domain-name": "plala.jp", 
+        "fuzzer": "various"
+    }
+]

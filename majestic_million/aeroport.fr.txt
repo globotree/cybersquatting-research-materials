@@ -1,0 +1,50 @@
+[
+    {
+        "dns-ns": [
+            "ns1.smallregistry.net", 
+            "ns2.smallregistry.net", 
+            "ns3.smallregistry.net", 
+            "ns4.smallregistry.net"
+        ], 
+        "domain-name": "aeroport.fr", 
+        "fuzzer": "original*"
+    }, 
+    {
+        "dns-a": [
+            "213.186.33.5"
+        ], 
+        "dns-mx": [
+            "redirect.ovh.net"
+        ], 
+        "dns-ns": [
+            "dns19.ovh.net", 
+            "ns19.ovh.net"
+        ], 
+        "domain-name": "aeroporrt.fr", 
+        "fuzzer": "repetition", 
+        "geoip-country": "France"
+    }, 
+    {
+        "dns-a": [
+            "95.142.101.112"
+        ], 
+        "domain-name": "aeropo.rt.fr", 
+        "fuzzer": "subdomain", 
+        "geoip-country": "Netherlands"
+    }, 
+    {
+        "dns-a": [
+            "149.202.133.35"
+        ], 
+        "dns-mx": [
+            "mail.areoport.fr"
+        ], 
+        "dns-ns": [
+            "dns1.affiliate-program.org", 
+            "dns2.affiliate-program.org"
+        ], 
+        "domain-name": "areoport.fr", 
+        "fuzzer": "transposition", 
+        "geoip-country": "France"
+    }
+]

@@ -1,0 +1,89 @@
+[
+    {
+        "dns-a": [
+            "89.185.59.149"
+        ], 
+        "dns-mx": [
+            "smtp13.assemblee-nationale.fr", 
+            "smtp14.assemblee-nationale.fr", 
+            "smtp23.assemblee-nationale.fr", 
+            "smtp24.assemblee-nationale.fr"
+        ], 
+        "dns-ns": [
+            "ns0.fr.claradns.net", 
+            "ns1.fr.claradns.net", 
+            "ns2.fr.claradns.net"
+        ], 
+        "domain-name": "assemblee-nationale.fr", 
+        "fuzzer": "original*", 
+        "geoip-country": "France"
+    }, 
+    {
+        "dns-a": [
+            "89.185.59.149"
+        ], 
+        "dns-mx": [
+            "mx-vh.fr.clara.net"
+        ], 
+        "dns-ns": [
+            "ns0.fr.claradns.net", 
+            "ns1.fr.claradns.net", 
+            "ns2.fr.claradns.net"
+        ], 
+        "domain-name": "xn--assemble-nationale-hwb.fr", 
+        "fuzzer": "homoglyph", 
+        "geoip-country": "France"
+    }, 
+    {
+        "dns-a": [
+            "176.34.236.137", 
+            "46.137.127.88", 
+            "54.217.225.20", 
+            "54.228.219.35", 
+            "54.246.119.12", 
+            "54.247.110.83"
+        ], 
+        "dns-ns": [
+            "ns2.vpweb.com", 
+            "ns3.vpweb.com", 
+            "ns4.vpweb.com"
+        ], 
+        "domain-name": "assemble-nationale.fr", 
+        "fuzzer": "omission", 
+        "geoip-country": "Ireland"
+    }, 
+    {
+        "dns-a": [
+            "89.185.38.26"
+        ], 
+        "dns-ns": [
+            "ns0.fr.claradns.net", 
+            "ns1.fr.claradns.net", 
+            "ns2.fr.claradns.net"
+        ], 
+        "domain-name": "assembleenationale.fr", 
+        "fuzzer": "omission", 
+        "geoip-country": "France"
+    }, 
+    {
+        "dns-a": [
+            "5.157.59.85"
+        ], 
+        "dns-ns": [
+            "ns1.openprovider.nl", 
+            "ns2.openprovider.be", 
+            "ns3.openprovider.eu"
+        ], 
+        "domain-name": "assemblee-national.fr", 
+        "fuzzer": "omission", 
+        "geoip-country": "Sweden"
+    }, 
+    {
+        "dns-a": [
+            "95.142.101.112"
+        ], 
+        "domain-name": "assemblee-nationa.le.fr", 
+        "fuzzer": "subdomain", 
+        "geoip-country": "Netherlands"
+    }
+]

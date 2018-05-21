@@ -1,0 +1,37 @@
+[
+    {
+        "dns-a": [
+            "93.184.221.133"
+        ], 
+        "dns-mx": [
+            "mx-l01.red.aol.com", 
+            "mx-m01.red.aol.com"
+        ], 
+        "dns-ns": [
+            "ns1.edgecastcdn.net", 
+            "ns2.edgecastcdn.net", 
+            "ns3.edgecastcdn.net", 
+            "ns4.edgecastcdn.net"
+        ], 
+        "domain-name": "edgecastcdn.net", 
+        "fuzzer": "original*", 
+        "geoip-country": "Europe"
+    }, 
+    {
+        "dns-a": [
+            "217.70.184.38"
+        ], 
+        "dns-mx": [
+            "fb.mail.gandi.net", 
+            "spool.mail.gandi.net"
+        ], 
+        "dns-ns": [
+            "a.dns.gandi.net", 
+            "b.dns.gandi.net", 
+            "c.dns.gandi.net"
+        ], 
+        "domain-name": "edgecatscdn.net", 
+        "fuzzer": "transposition", 
+        "geoip-country": "France"
+    }
+]

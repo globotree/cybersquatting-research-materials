@@ -1,0 +1,53 @@
+[
+    {
+        "dns-a": [
+            "172.217.16.195"
+        ], 
+        "dns-aaaa": [
+            "2a00:1450:4001:817::2003"
+        ], 
+        "dns-ns": [
+            "ns1.google.com", 
+            "ns2.google.com", 
+            "ns3.google.com", 
+            "ns4.google.com"
+        ], 
+        "domain-name": "google.com.tr", 
+        "fuzzer": "original*", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 74
+    }, 
+    {
+        "dns-a": [
+            "192.169.182.55"
+        ], 
+        "dns-mx": [
+            "goole.com.tr"
+        ], 
+        "dns-ns": [
+            "ns1.bns.co", 
+            "ns2.bns.co", 
+            "ns3.bns.co", 
+            "ns4.bns.co"
+        ], 
+        "domain-name": "goole.com.tr", 
+        "fuzzer": "omission", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "185.61.152.57"
+        ], 
+        "dns-mx": [
+            "mail.gogle.com.tr"
+        ], 
+        "dns-ns": [
+            "dns1.namecheaphosting.com", 
+            "dns2.namecheaphosting.com"
+        ], 
+        "domain-name": "gogle.com.tr", 
+        "fuzzer": "omission", 
+        "geoip-country": "United Kingdom"
+    }
+]

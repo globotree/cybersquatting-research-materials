@@ -1,0 +1,52 @@
+[
+    {
+        "dns-ns": [
+            "a.dns.br", 
+            "b.dns.br", 
+            "c.dns.br", 
+            "d.dns.br", 
+            "e.dns.br", 
+            "f.dns.br"
+        ], 
+        "domain-name": "blog.br", 
+        "fuzzer": "original*"
+    }, 
+    {
+        "dns-ns": [
+            "a.dns.br", 
+            "b.dns.br", 
+            "c.dns.br", 
+            "d.dns.br", 
+            "e.dns.br", 
+            "f.dns.br"
+        ], 
+        "domain-name": "flog.br", 
+        "fuzzer": "bitsquatting"
+    }, 
+    {
+        "dns-ns": [
+            "a.dns.br", 
+            "b.dns.br", 
+            "c.dns.br", 
+            "d.dns.br", 
+            "e.dns.br", 
+            "f.dns.br"
+        ], 
+        "domain-name": "vlog.br", 
+        "fuzzer": "replacement"
+    }, 
+    {
+        "dns-a": [
+            "192.69.235.247"
+        ], 
+        "dns-mx": [
+            "blog-br.com"
+        ], 
+        "dns-ns": [
+            "ns1.usa.eleven2.com", 
+            "ns2.usa.eleven2.com"
+        ], 
+        "domain-name": "blog-br.com", 
+        "fuzzer": "various"
+    }
+]

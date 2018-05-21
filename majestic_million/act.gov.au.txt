@@ -1,0 +1,72 @@
+[
+    {
+        "dns-a": [
+            "43.245.43.0"
+        ], 
+        "dns-mx": [
+            "b1.dpa.act.gov.au", 
+            "b2.dpa.act.gov.au"
+        ], 
+        "dns-ns": [
+            "w.au", 
+            "x.au", 
+            "y.au", 
+            "z.au"
+        ], 
+        "domain-name": "act.gov.au", 
+        "fuzzer": "original*", 
+        "geoip-country": "Australia", 
+        "ssdeep-score": 99
+    }, 
+    {
+        "dns-mx": [
+            "icga-ibmail1.msng.telstra.com.au"
+        ], 
+        "dns-ns": [
+            "ns1.msng.telstra.com.au", 
+            "ns2.msng.telstra.com.au"
+        ], 
+        "domain-name": "actc.gov.au", 
+        "fuzzer": "addition"
+    }, 
+    {
+        "dns-a": [
+            "124.47.154.115"
+        ], 
+        "dns-mx": [
+            "sig2aatcav.secureintellicentre.net.au", 
+            "sig4aatcav.secureintellicentre.net.au"
+        ], 
+        "dns-ns": [
+            "ns1.secureintellicentre.net.au", 
+            "ns2.secureintellicentre.net.au", 
+            "ns3.secureintellicentre.net.au"
+        ], 
+        "domain-name": "aat.gov.au", 
+        "fuzzer": "bitsquatting", 
+        "geoip-country": "Australia", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "203.89.204.40"
+        ], 
+        "dns-ns": [
+            "ns1.secureintellicentre.net.au", 
+            "ns2.secureintellicentre.net.au", 
+            "ns3.secureintellicentre.net.au"
+        ], 
+        "domain-name": "sct.gov.au", 
+        "fuzzer": "replacement"
+    }, 
+    {
+        "dns-ns": [
+            "w.au", 
+            "x.au", 
+            "y.au", 
+            "z.au"
+        ], 
+        "domain-name": "act.au", 
+        "fuzzer": "various"
+    }
+]

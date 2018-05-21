@@ -1,0 +1,73 @@
+[
+    {
+        "dns-a": [
+            "52.220.83.87", 
+            "52.76.94.129"
+        ], 
+        "dns-mx": [
+            "vw.asia1.com.sg"
+        ], 
+        "dns-ns": [
+            "ns-1208.awsdns-23.org", 
+            "ns-1993.awsdns-57.co.uk", 
+            "ns-364.awsdns-45.com", 
+            "ns-621.awsdns-13.net"
+        ], 
+        "domain-name": "businesstimes.com.sg", 
+        "fuzzer": "original*", 
+        "geoip-country": "Singapore", 
+        "ssdeep-score": 86
+    }, 
+    {
+        "dns-a": [
+            "52.220.83.87", 
+            "52.76.94.129"
+        ], 
+        "dns-mx": [
+            "vw.asia1.com.sg"
+        ], 
+        "dns-ns": [
+            "ns-1480.awsdns-57.org", 
+            "ns-156.awsdns-19.com", 
+            "ns-1822.awsdns-35.co.uk", 
+            "ns-591.awsdns-09.net"
+        ], 
+        "domain-name": "business-times.com.sg", 
+        "fuzzer": "hyphenation", 
+        "geoip-country": "Singapore", 
+        "ssdeep-score": 86
+    }, 
+    {
+        "dns-a": [
+            "203.175.174.1"
+        ], 
+        "dns-mx": [
+            "mx.alpha.hostsg.com"
+        ], 
+        "dns-ns": [
+            "ns.hostsg.com", 
+            "ns2.hostsg.com", 
+            "ns3.hostsg.com"
+        ], 
+        "domain-name": "businesstim.es.com.sg", 
+        "fuzzer": "subdomain", 
+        "geoip-country": "Singapore", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "52.220.83.87", 
+            "52.76.94.129"
+        ], 
+        "dns-ns": [
+            "ns-1514.awsdns-61.org", 
+            "ns-1582.awsdns-05.co.uk", 
+            "ns-264.awsdns-33.com", 
+            "ns-738.awsdns-28.net"
+        ], 
+        "domain-name": "businesstimes.sg", 
+        "fuzzer": "various", 
+        "geoip-country": "Singapore", 
+        "ssdeep-score": 100
+    }
+]

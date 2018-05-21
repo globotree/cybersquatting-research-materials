@@ -1,0 +1,193 @@
+[
+    {
+        "dns-ns": [
+            "ns1.alidns.com", 
+            "ns2.alidns.com"
+        ], 
+        "domain-name": "tynews.com.cn", 
+        "fuzzer": "original*"
+    }, 
+    {
+        "dns-a": [
+            "218.57.139.52"
+        ], 
+        "dns-mx": [
+            "mail.pynews.com.cn"
+        ], 
+        "domain-name": "pynews.com.cn", 
+        "fuzzer": "bitsquatting", 
+        "geoip-country": "China"
+    }, 
+    {
+        "dns-ns": [
+            "dns1.zjoldns.com.cn", 
+            "dns2.zjoldns.com.cn"
+        ], 
+        "domain-name": "txnews.com.cn", 
+        "fuzzer": "bitsquatting"
+    }, 
+    {
+        "dns-a": [
+            "47.89.58.141"
+        ], 
+        "dns-ns": [
+            "dns15.hichina.com", 
+            "dns16.hichina.com"
+        ], 
+        "domain-name": "tqnews.com.cn", 
+        "fuzzer": "bitsquatting", 
+        "geoip-country": "United States"
+    }, 
+    {
+        "dns-a": [
+            "166.62.10.28"
+        ], 
+        "domain-name": "ynews.com.cn", 
+        "fuzzer": "omission", 
+        "geoip-country": "United States"
+    }, 
+    {
+        "dns-a": [
+            "72.52.4.122"
+        ], 
+        "dns-mx": [
+            "localhost"
+        ], 
+        "dns-ns": [
+            "ns1.sedoparking.com", 
+            "ns2.sedoparking.com"
+        ], 
+        "domain-name": "tnews.com.cn", 
+        "fuzzer": "omission", 
+        "geoip-country": "United States", 
+        "mx-spy": true
+    }, 
+    {
+        "dns-a": [
+            "123.206.101.249"
+        ], 
+        "dns-ns": [
+            "f1g1ns1.dnspod.net", 
+            "f1g1ns2.dnspod.net"
+        ], 
+        "domain-name": "tanews.com.cn", 
+        "fuzzer": "replacement", 
+        "geoip-country": "China"
+    }, 
+    {
+        "dns-a": [
+            "203.78.142.12"
+        ], 
+        "domain-name": "tsnews.com.cn", 
+        "fuzzer": "replacement", 
+        "geoip-country": "Hong Kong"
+    }, 
+    {
+        "dns-ns": [
+            "ns.edong.com", 
+            "ns1.edong.com"
+        ], 
+        "domain-name": "zynews.com.cn", 
+        "fuzzer": "replacement"
+    }, 
+    {
+        "dns-a": [
+            "14.152.49.2"
+        ], 
+        "domain-name": "ttnews.com.cn", 
+        "fuzzer": "replacement", 
+        "geoip-country": "China"
+    }, 
+    {
+        "dns-a": [
+            "122.224.222.3"
+        ], 
+        "dns-ns": [
+            "ns1.dns.com.cn", 
+            "ns2.dns.com.cn"
+        ], 
+        "domain-name": "fynews.com.cn", 
+        "fuzzer": "replacement", 
+        "geoip-country": "China"
+    }, 
+    {
+        "dns-a": [
+            "58.64.134.56"
+        ], 
+        "dns-ns": [
+            "ns1.ezdnscenter.com", 
+            "ns2.ezdnscenter.com", 
+            "ns3.ezdnscenter.com", 
+            "ns4.ezdnscenter.com", 
+            "ns5.ezdnscenter.com", 
+            "ns6.ezdnscenter.com"
+        ], 
+        "domain-name": "tunews.com.cn", 
+        "fuzzer": "replacement", 
+        "geoip-country": "Hong Kong"
+    }, 
+    {
+        "dns-a": [
+            "60.190.27.43"
+        ], 
+        "dns-mx": [
+            "60.190.27.43"
+        ], 
+        "dns-ns": [
+            "ns1.dnsv3.com", 
+            "ns2.dnsv3.com"
+        ], 
+        "domain-name": "yynews.com.cn", 
+        "fuzzer": "replacement", 
+        "geoip-country": "China"
+    }, 
+    {
+        "dns-a": [
+            "203.78.142.12"
+        ], 
+        "domain-name": "gynews.com.cn", 
+        "fuzzer": "replacement", 
+        "geoip-country": "Hong Kong"
+    }, 
+    {
+        "dns-a": [
+            "64.233.189.121"
+        ], 
+        "domain-name": "tgnews.com.cn", 
+        "fuzzer": "replacement", 
+        "geoip-country": "United States"
+    }, 
+    {
+        "dns-a": [
+            "166.62.10.28"
+        ], 
+        "domain-name": "thnews.com.cn", 
+        "fuzzer": "replacement", 
+        "geoip-country": "United States"
+    }, 
+    {
+        "dns-a": [
+            "34.201.177.101", 
+            "52.66.29.148"
+        ], 
+        "domain-name": "ty.news.com.cn", 
+        "fuzzer": "subdomain", 
+        "geoip-country": "United States"
+    }, 
+    {
+        "dns-a": [
+            "45.120.153.82"
+        ], 
+        "domain-name": "ytnews.com.cn", 
+        "fuzzer": "transposition", 
+        "geoip-country": "Hong Kong"
+    }, 
+    {
+        "dns-ns": [
+            "ns1.sfn.cn", 
+            "ns2.sfn.cn"
+        ], 
+        "domain-name": "tynews.cn", 
+        "fuzzer": "various"
+    }
+]

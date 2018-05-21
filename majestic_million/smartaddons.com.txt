@@ -1,0 +1,70 @@
+[
+    {
+        "dns-a": [
+            "5.9.86.21"
+        ], 
+        "dns-mx": [
+            "ALT1.ASPMX.L.GOOGLE.com", 
+            "ALT2.ASPMX.L.GOOGLE.com", 
+            "ASPMX.L.GOOGLE.com", 
+            "ASPMX2.GOOGLEMAIL.com", 
+            "ASPMX3.GOOGLEMAIL.com"
+        ], 
+        "dns-ns": [
+            "ns01.domaincontrol.com", 
+            "ns02.domaincontrol.com"
+        ], 
+        "domain-name": "smartaddons.com", 
+        "fuzzer": "original*", 
+        "geoip-country": "Germany", 
+        "ssdeep-score": 80
+    }, 
+    {
+        "dns-a": [
+            "64.37.60.235"
+        ], 
+        "dns-mx": [
+            "smartaddon.com"
+        ], 
+        "dns-ns": [
+            "ns1.smartaddon.com", 
+            "ns2.smartaddon.com"
+        ], 
+        "domain-name": "smartaddon.com", 
+        "fuzzer": "omission", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "143.95.148.51"
+        ], 
+        "dns-mx": [
+            "mail.smartaddins.com"
+        ], 
+        "dns-ns": [
+            "ns7.win.arvixe.com", 
+            "ns8.win.arvixe.com"
+        ], 
+        "domain-name": "smartaddins.com", 
+        "fuzzer": "replacement"
+    }, 
+    {
+        "dns-a": [
+            "199.59.242.150"
+        ], 
+        "domain-name": "smart.addons.com", 
+        "fuzzer": "subdomain", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "75.126.100.21"
+        ], 
+        "domain-name": "smartaddo.ns.com", 
+        "fuzzer": "subdomain", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 0
+    }
+]

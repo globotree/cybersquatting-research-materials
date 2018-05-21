@@ -1,0 +1,102 @@
+[
+    {
+        "dns-a": [
+            "172.217.23.163"
+        ], 
+        "dns-aaaa": [
+            "2a00:1450:4001:81f::2003"
+        ], 
+        "dns-ns": [
+            "ns1.google.net", 
+            "ns2.google.net", 
+            "ns3.google.net", 
+            "ns4.google.net"
+        ], 
+        "domain-name": "google.co.jp", 
+        "fuzzer": "original*", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 79
+    }, 
+    {
+        "dns-a": [
+            "61.195.149.253"
+        ], 
+        "dns-mx": [
+            "mail.foogle.co.jp"
+        ], 
+        "dns-ns": [
+            "01.dnsv.jp", 
+            "02.dnsv.jp", 
+            "03.dnsv.jp", 
+            "04.dnsv.jp"
+        ], 
+        "domain-name": "foogle.co.jp", 
+        "fuzzer": "bitsquatting", 
+        "geoip-country": "Japan"
+    }, 
+    {
+        "dns-a": [
+            "210.229.247.218"
+        ], 
+        "dns-mx": [
+            "mail.goggle.co.jp"
+        ], 
+        "dns-ns": [
+            "ns-1016.awsdns-63.net", 
+            "ns-1443.awsdns-52.org", 
+            "ns-1823.awsdns-35.co.uk", 
+            "ns-457.awsdns-57.com"
+        ], 
+        "domain-name": "goggle.co.jp", 
+        "fuzzer": "bitsquatting", 
+        "geoip-country": "Japan", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "150.95.254.16"
+        ], 
+        "dns-mx": [
+            "mx17.gmoserver.jp"
+        ], 
+        "dns-ns": [
+            "dns01.gmoserver.jp", 
+            "dns02.gmoserver.jp"
+        ], 
+        "domain-name": "gogle.co.jp", 
+        "fuzzer": "omission", 
+        "geoip-country": "Japan", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "157.7.107.213"
+        ], 
+        "dns-mx": [
+            "mx01.lolipop.jp"
+        ], 
+        "dns-ns": [
+            "dns01.muumuu-domain.com", 
+            "dns02.muumuu-domain.com"
+        ], 
+        "domain-name": "golgle.co.jp", 
+        "fuzzer": "replacement", 
+        "geoip-country": "Japan", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "199.59.242.150"
+        ], 
+        "dns-mx": [
+            "mx76.m2bp.com", 
+            "mx76.mb1p.com"
+        ], 
+        "dns-ns": [
+            "ns1.bodis.com", 
+            "ns2.bodis.com"
+        ], 
+        "domain-name": "googleco.jp", 
+        "fuzzer": "various"
+    }
+]

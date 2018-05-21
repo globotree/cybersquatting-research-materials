@@ -1,0 +1,159 @@
+[
+    {
+        "dns-mx": [
+            "au-smtp-inbound-1.mimecast.com", 
+            "au-smtp-inbound-2.mimecast.com"
+        ], 
+        "dns-ns": [
+            "dns1.nzme.co.nz", 
+            "dns2.nzme.co.nz", 
+            "dns7.nzme.co.nz"
+        ], 
+        "domain-name": "nzherald.co.nz", 
+        "fuzzer": "original*"
+    }, 
+    {
+        "dns-a": [
+            "184.168.221.37"
+        ], 
+        "dns-ns": [
+            "ns69.domaincontrol.com", 
+            "ns70.domaincontrol.com"
+        ], 
+        "domain-name": "nzheralds.co.nz", 
+        "fuzzer": "addition", 
+        "geoip-country": "United States"
+    }, 
+    {
+        "dns-a": [
+            "162.213.255.18"
+        ], 
+        "dns-mx": [
+            "smx1.web-hosting.com", 
+            "smx2.web-hosting.com", 
+            "smx3.web-hosting.com"
+        ], 
+        "dns-ns": [
+            "ns1.geckohost.nz", 
+            "ns2.geckohost.nz"
+        ], 
+        "domain-name": "nzlherald.co.nz", 
+        "fuzzer": "homoglyph", 
+        "geoip-country": "United States"
+    }, 
+    {
+        "dns-a": [
+            "203.99.67.67"
+        ], 
+        "dns-ns": [
+            "dns1.p04.nsone.net", 
+            "dns2.p04.nsone.net", 
+            "dns3.p04.nsone.net", 
+            "dns4.p04.nsone.net"
+        ], 
+        "domain-name": "nz-herald.co.nz", 
+        "fuzzer": "hyphenation", 
+        "geoip-country": "New Zealand"
+    }, 
+    {
+        "dns-a": [
+            "185.53.177.29"
+        ], 
+        "dns-ns": [
+            "ns1.gegidns.com", 
+            "ns2.gegidns.com"
+        ], 
+        "domain-name": "nherald.co.nz", 
+        "fuzzer": "omission", 
+        "geoip-country": "Germany"
+    }, 
+    {
+        "dns-a": [
+            "50.57.126.210"
+        ], 
+        "dns-ns": [
+            "ns1.gegidns.com", 
+            "ns2.gegidns.com"
+        ], 
+        "domain-name": "nzheral.co.nz", 
+        "fuzzer": "omission", 
+        "geoip-country": "United States"
+    }, 
+    {
+        "dns-a": [
+            "119.81.118.244"
+        ], 
+        "dns-mx": [
+            "nzherld.co.nz"
+        ], 
+        "dns-ns": [
+            "ns1.myserverhosts.com", 
+            "ns2.myserverhosts.com"
+        ], 
+        "domain-name": "nzherld.co.nz", 
+        "fuzzer": "omission", 
+        "geoip-country": "Singapore"
+    }, 
+    {
+        "dns-a": [
+            "185.53.177.29"
+        ], 
+        "dns-ns": [
+            "ns1.gegidns.com", 
+            "ns2.gegidns.com"
+        ], 
+        "domain-name": "naherald.co.nz", 
+        "fuzzer": "replacement", 
+        "geoip-country": "Germany"
+    }, 
+    {
+        "dns-a": [
+            "52.58.78.16"
+        ], 
+        "dns-mx": [
+            "mx.nzhera.ld.co.nz"
+        ], 
+        "dns-ns": [
+            "ns1.undeveloped.com", 
+            "ns2.undeveloped.com"
+        ], 
+        "domain-name": "nzhera.ld.co.nz", 
+        "fuzzer": "subdomain"
+    }, 
+    {
+        "dns-a": [
+            "185.53.178.29"
+        ], 
+        "dns-ns": [
+            "ns1.domforce.com", 
+            "ns2.domforce.com", 
+            "ns3.domforce.com", 
+            "ns4.domforce.com", 
+            "ns5.domforce.com"
+        ], 
+        "domain-name": "nzhearld.co.nz", 
+        "fuzzer": "transposition"
+    }, 
+    {
+        "dns-a": [
+            "69.172.201.153"
+        ], 
+        "dns-ns": [
+            "ns1.uniregistrymarket.link", 
+            "ns2.uniregistrymarket.link"
+        ], 
+        "domain-name": "nzherlad.co.nz", 
+        "fuzzer": "transposition", 
+        "geoip-country": "United States"
+    }, 
+    {
+        "dns-ns": [
+            "ns1.iwantmyname.net", 
+            "ns2.iwantmyname.net", 
+            "ns3.iwantmyname.net", 
+            "ns4.iwantmyname.net"
+        ], 
+        "domain-name": "nzheraldco.nz", 
+        "fuzzer": "various"
+    }
+]

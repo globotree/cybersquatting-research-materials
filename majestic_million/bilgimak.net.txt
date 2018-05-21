@@ -1,0 +1,36 @@
+[
+    {
+        "dns-a": [
+            "185.103.198.40"
+        ], 
+        "dns-mx": [
+            "spamkoruma4.omurtech.com", 
+            "spamkoruma5.omurtech.com"
+        ], 
+        "dns-ns": [
+            "ns1.omurtech.com", 
+            "ns2.omurtech.com"
+        ], 
+        "domain-name": "bilgimak.net", 
+        "fuzzer": "original*", 
+        "geoip-country": "Turkey", 
+        "ssdeep-score": 100
+    }, 
+    {
+        "dns-a": [
+            "72.52.4.121"
+        ], 
+        "dns-mx": [
+            "localhost"
+        ], 
+        "dns-ns": [
+            "ns1.sedoparking.com", 
+            "ns2.sedoparking.com"
+        ], 
+        "domain-name": "bilg.imak.net", 
+        "fuzzer": "subdomain", 
+        "geoip-country": "United States", 
+        "mx-spy": true, 
+        "ssdeep-score": 0
+    }
+]

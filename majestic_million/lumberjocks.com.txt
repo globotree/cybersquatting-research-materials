@@ -1,0 +1,104 @@
+[
+    {
+        "dns-a": [
+            "169.46.96.71"
+        ], 
+        "dns-mx": [
+            "util01.verticalscope.com"
+        ], 
+        "dns-ns": [
+            "ns-1246.awsdns-27.org", 
+            "ns-1967.awsdns-53.co.uk", 
+            "ns-64.awsdns-08.com", 
+            "ns-894.awsdns-47.net"
+        ], 
+        "domain-name": "lumberjocks.com", 
+        "fuzzer": "original*", 
+        "geoip-country": "Netherlands", 
+        "ssdeep-score": 100
+    }, 
+    {
+        "dns-a": [
+            "50.63.202.54"
+        ], 
+        "dns-mx": [
+            "mailstore1.secureserver.net", 
+            "smtp.secureserver.net"
+        ], 
+        "dns-ns": [
+            "ns09.domaincontrol.com", 
+            "ns10.domaincontrol.com"
+        ], 
+        "domain-name": "numberjocks.com", 
+        "fuzzer": "bitsquatting", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "173.239.5.6", 
+            "173.239.8.164", 
+            "213.247.47.190"
+        ], 
+        "dns-mx": [
+            "mx7.lumbarjocks.com"
+        ], 
+        "dns-ns": [
+            "ns1.expiereddnsmanager.com", 
+            "ns2.expiereddnsmanager.com"
+        ], 
+        "domain-name": "lumbarjocks.com", 
+        "fuzzer": "bitsquatting", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "103.224.212.246"
+        ], 
+        "dns-mx": [
+            "park-mx.above.com"
+        ], 
+        "dns-ns": [
+            "ns3.above.com", 
+            "ns4.above.com"
+        ], 
+        "domain-name": "lumberjock.com", 
+        "fuzzer": "omission", 
+        "geoip-country": "Australia", 
+        "mx-spy": true, 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "54.183.99.63"
+        ], 
+        "domain-name": "lumberj.ocks.com", 
+        "fuzzer": "subdomain", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "69.64.147.244"
+        ], 
+        "domain-name": "lumberjoc.ks.com", 
+        "fuzzer": "subdomain", 
+        "geoip-country": "United States"
+    }, 
+    {
+        "dns-mx": [
+            "lumberjacks.com.1.0001.arsmtp.com", 
+            "lumberjacks.com.2.0001.arsmtp.com"
+        ], 
+        "dns-ns": [
+            "auth1.dns.expedient.com", 
+            "auth2.dns.expedient.com", 
+            "auth3.dns.expedient.com", 
+            "auth4.dns.expedient.com", 
+            "auth5.dns.expedient.com"
+        ], 
+        "domain-name": "lumberjacks.com", 
+        "fuzzer": "vowel-swap"
+    }
+]

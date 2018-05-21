@@ -1,0 +1,235 @@
+[
+    {
+        "dns-a": [
+            "172.217.16.195"
+        ], 
+        "dns-aaaa": [
+            "2a00:1450:4001:817::2003"
+        ], 
+        "dns-mx": [
+            "alt1.aspmx.l.google.com", 
+            "alt2.aspmx.l.google.com", 
+            "alt3.aspmx.l.google.com", 
+            "alt4.aspmx.l.google.com", 
+            "aspmx.l.google.com"
+        ], 
+        "dns-ns": [
+            "ns1.google.com", 
+            "ns2.google.com", 
+            "ns3.google.com", 
+            "ns4.google.com"
+        ], 
+        "domain-name": "google.com.ar", 
+        "fuzzer": "original*", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 74
+    }, 
+    {
+        "dns-a": [
+            "200.26.189.60"
+        ], 
+        "dns-mx": [
+            "googlee.com.ar"
+        ], 
+        "domain-name": "googlee.com.ar", 
+        "fuzzer": "addition", 
+        "geoip-country": "Argentina", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-ns": [
+            "ns1.google.com", 
+            "ns2.google.com", 
+            "ns3.google.com", 
+            "ns4.google.com"
+        ], 
+        "domain-name": "googlei.com.ar", 
+        "fuzzer": "addition"
+    }, 
+    {
+        "dns-a": [
+            "185.28.21.113"
+        ], 
+        "dns-mx": [
+            "mx.zoho.com"
+        ], 
+        "dns-ns": [
+            "ns1.hostinger-ar.com", 
+            "ns2.hostinger-ar.com", 
+            "ns3.hostinger-ar.com", 
+            "ns4.hostinger-ar.com"
+        ], 
+        "domain-name": "googleo.com.ar", 
+        "fuzzer": "addition", 
+        "geoip-country": "United States"
+    }, 
+    {
+        "dns-a": [
+            "181.88.192.17"
+        ], 
+        "dns-mx": [
+            "mx1.googler.com.ar", 
+            "mx2.googler.com.ar", 
+            "mx3.googler.com.ar", 
+            "mx4.googler.com.ar"
+        ], 
+        "dns-ns": [
+            "ns1.godns.net", 
+            "ns2.godns.net", 
+            "ns3.godns.net", 
+            "ns4.godns.net", 
+            "ns5.godns.net"
+        ], 
+        "domain-name": "googler.com.ar", 
+        "fuzzer": "addition", 
+        "geoip-country": "Argentina", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-ns": [
+            "ns1.google.com", 
+            "ns2.google.com", 
+            "ns3.google.com", 
+            "ns4.google.com"
+        ], 
+        "domain-name": "googles.com.ar", 
+        "fuzzer": "addition"
+    }, 
+    {
+        "dns-ns": [
+            "ns1.google.com", 
+            "ns2.google.com", 
+            "ns3.google.com", 
+            "ns4.google.com"
+        ], 
+        "domain-name": "googleu.com.ar", 
+        "fuzzer": "addition"
+    }, 
+    {
+        "dns-a": [
+            "69.162.126.2"
+        ], 
+        "dns-mx": [
+            "mail.googe.com.ar"
+        ], 
+        "dns-ns": [
+            "ns.googe.com.ar"
+        ], 
+        "domain-name": "googe.com.ar", 
+        "fuzzer": "omission", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "145.14.145.36"
+        ], 
+        "dns-aaaa": [
+            "2a02:4780:dead:6245::1"
+        ], 
+        "dns-ns": [
+            "ns01.000webhost.com", 
+            "ns02.000webhost.com"
+        ], 
+        "domain-name": "oogle.com.ar", 
+        "fuzzer": "omission", 
+        "geoip-country": "Netherlands", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-ns": [
+            "ns1.google.com", 
+            "ns2.google.com", 
+            "ns3.google.com", 
+            "ns4.google.com"
+        ], 
+        "domain-name": "gogle.com.ar", 
+        "fuzzer": "omission"
+    }, 
+    {
+        "dns-ns": [
+            "ns1.google.com", 
+            "ns2.google.com", 
+            "ns3.google.com", 
+            "ns4.google.com"
+        ], 
+        "domain-name": "ggoogle.com.ar", 
+        "fuzzer": "repetition"
+    }, 
+    {
+        "dns-ns": [
+            "ns1.markmonitor.com", 
+            "ns3.markmonitor.com"
+        ], 
+        "domain-name": "gooogle.com.ar", 
+        "fuzzer": "repetition"
+    }, 
+    {
+        "dns-a": [
+            "69.162.126.2"
+        ], 
+        "dns-mx": [
+            "mail.googlw.com.ar"
+        ], 
+        "dns-ns": [
+            "ns.googlw.com.ar"
+        ], 
+        "domain-name": "googlw.com.ar", 
+        "fuzzer": "replacement", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "69.162.126.2"
+        ], 
+        "dns-mx": [
+            "mail.googlr.com.ar"
+        ], 
+        "dns-ns": [
+            "ns.googlr.com.ar"
+        ], 
+        "domain-name": "googlr.com.ar", 
+        "fuzzer": "replacement", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "192.185.154.239"
+        ], 
+        "dns-mx": [
+            "boogle.com.ar"
+        ], 
+        "dns-ns": [
+            "ns1039.websitewelcome.com", 
+            "ns1040.websitewelcome.com"
+        ], 
+        "domain-name": "boogle.com.ar", 
+        "fuzzer": "replacement"
+    }, 
+    {
+        "dns-a": [
+            "108.163.248.66"
+        ], 
+        "dns-mx": [
+            "goolge.com.ar"
+        ], 
+        "dns-ns": [
+            "ns1.fullservicesastro.com.ar", 
+            "ns2.fullservicesastro.com.ar"
+        ], 
+        "domain-name": "goolge.com.ar", 
+        "fuzzer": "transposition"
+    }, 
+    {
+        "dns-ns": [
+            "ns1.google.com", 
+            "ns2.google.com", 
+            "ns3.google.com", 
+            "ns4.google.com"
+        ], 
+        "domain-name": "googel.com.ar", 
+        "fuzzer": "transposition"
+    }
+]

@@ -1,0 +1,69 @@
+[
+    {
+        "dns-a": [
+            "24.156.128.22"
+        ], 
+        "dns-mx": [
+            "macleans-ca.mail.protection.outlook.com"
+        ], 
+        "dns-ns": [
+            "a1-220.akam.net", 
+            "a22-67.akam.net", 
+            "a3-64.akam.net", 
+            "a6-65.akam.net", 
+            "a8-66.akam.net", 
+            "a9-67.akam.net"
+        ], 
+        "domain-name": "macleans.ca", 
+        "fuzzer": "original*", 
+        "geoip-country": "Canada"
+    }, 
+    {
+        "dns-a": [
+            "107.180.26.75"
+        ], 
+        "dns-mx": [
+            "maclean-ca.mail.protection.outlook.com"
+        ], 
+        "dns-ns": [
+            "ns1.mdnsservice.com", 
+            "ns2.mdnsservice.com", 
+            "ns3.mdnsservice.com"
+        ], 
+        "domain-name": "maclean.ca", 
+        "fuzzer": "omission", 
+        "geoip-country": "United States"
+    }, 
+    {
+        "dns-a": [
+            "184.168.221.59"
+        ], 
+        "dns-mx": [
+            "mailstore1.secureserver.net", 
+            "smtp.secureserver.net"
+        ], 
+        "dns-ns": [
+            "ns39.domaincontrol.com", 
+            "ns40.domaincontrol.com"
+        ], 
+        "domain-name": "mscleans.ca", 
+        "fuzzer": "replacement", 
+        "geoip-country": "United States"
+    }, 
+    {
+        "dns-a": [
+            "66.186.94.67"
+        ], 
+        "dns-ns": [
+            "a1-218.akam.net", 
+            "a18-67.akam.net", 
+            "a5-64.akam.net", 
+            "a6-65.akam.net", 
+            "a8-66.akam.net", 
+            "a9-67.akam.net"
+        ], 
+        "domain-name": "macloans.ca", 
+        "fuzzer": "vowel-swap", 
+        "geoip-country": "Canada"
+    }
+]

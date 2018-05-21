@@ -1,0 +1,88 @@
+[
+    {
+        "dns-a": [
+            "190.93.44.28"
+        ], 
+        "dns-mx": [
+            "ALT1.ASPMX.L.GOOGLE.com", 
+            "ALT2.ASPMX.L.GOOGLE.com", 
+            "ASPMX.L.GOOGLE.com", 
+            "ASPMX2.GOOGLEMAIL.com", 
+            "ASPMX3.GOOGLEMAIL.com"
+        ], 
+        "dns-ns": [
+            "pdns03.domaincontrol.com", 
+            "pdns04.domaincontrol.com"
+        ], 
+        "domain-name": "wtfeusa.com", 
+        "fuzzer": "original*", 
+        "geoip-country": "Venezuela", 
+        "ssdeep-score": 99
+    }, 
+    {
+        "dns-a": [
+            "50.63.202.78"
+        ], 
+        "dns-ns": [
+            "ns21.domaincontrol.com", 
+            "ns22.domaincontrol.com"
+        ], 
+        "domain-name": "wtfuusa.com", 
+        "fuzzer": "bitsquatting", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "216.172.184.82"
+        ], 
+        "dns-mx": [
+            "mail.wtfusa.com"
+        ], 
+        "dns-ns": [
+            "ns8451.hostgator.com", 
+            "ns8452.hostgator.com"
+        ], 
+        "domain-name": "wtfusa.com", 
+        "fuzzer": "omission", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "103.224.182.249"
+        ], 
+        "dns-mx": [
+            "park-mx.above.com"
+        ], 
+        "dns-ns": [
+            "ns1.above.com", 
+            "ns2.above.com"
+        ], 
+        "domain-name": "wtf.eusa.com", 
+        "fuzzer": "subdomain", 
+        "geoip-country": "Australia", 
+        "mx-spy": true
+    }, 
+    {
+        "dns-a": [
+            "69.10.42.209"
+        ], 
+        "domain-name": "wtfe.usa.com", 
+        "fuzzer": "subdomain", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "141.8.226.34"
+        ], 
+        "dns-mx": [
+            "sa-com-wildcard-null-mx.centralnic.net"
+        ], 
+        "domain-name": "wtfeu.sa.com", 
+        "fuzzer": "subdomain", 
+        "geoip-country": "Switzerland", 
+        "ssdeep-score": 0
+    }
+]

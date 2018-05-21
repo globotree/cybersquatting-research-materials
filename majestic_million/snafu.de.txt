@@ -1,0 +1,218 @@
+[
+    {
+        "dns-mx": [
+            "mailin.snafu.de", 
+            "secondary.ops.eusc.inter.net"
+        ], 
+        "dns-ns": [
+            "ns01.eusc.inter.net", 
+            "ns02.eusc.inter.net"
+        ], 
+        "domain-name": "snafu.de", 
+        "fuzzer": "original*"
+    }, 
+    {
+        "dns-mx": [
+            "mx.kontent.com", 
+            "mx2.kontent.com"
+        ], 
+        "dns-ns": [
+            "dns1.kontent.com", 
+            "dns2.kontent.com"
+        ], 
+        "domain-name": "snadu.de", 
+        "fuzzer": "bitsquatting"
+    }, 
+    {
+        "dns-a": [
+            "217.160.0.241"
+        ], 
+        "dns-aaaa": [
+            "2001:8d8:100f:f000::268"
+        ], 
+        "dns-mx": [
+            "mx00.kundenserver.de", 
+            "mx01.kundenserver.de"
+        ], 
+        "dns-ns": [
+            "ns1032.ui-dns.de", 
+            "ns1043.ui-dns.org", 
+            "ns1062.ui-dns.com", 
+            "ns1083.ui-dns.biz"
+        ], 
+        "domain-name": "snanu.de", 
+        "fuzzer": "bitsquatting", 
+        "geoip-country": "Germany"
+    }, 
+    {
+        "dns-a": [
+            "195.191.240.19"
+        ], 
+        "dns-mx": [
+            "mail.snaft.de"
+        ], 
+        "dns-ns": [
+            "ns1.unaxus.net", 
+            "ns2.unaxus.net"
+        ], 
+        "domain-name": "snaft.de", 
+        "fuzzer": "bitsquatting", 
+        "geoip-country": "Switzerland"
+    }, 
+    {
+        "dns-a": [
+            "81.169.145.157"
+        ], 
+        "dns-aaaa": [
+            "2a01:238:20a:202:1157::"
+        ], 
+        "dns-mx": [
+            "smtpin.rzone.de"
+        ], 
+        "dns-ns": [
+            "docks06.rzone.de", 
+            "shades09.rzone.de"
+        ], 
+        "domain-name": "snafe.de", 
+        "fuzzer": "bitsquatting", 
+        "geoip-country": "Germany", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "217.160.122.35"
+        ], 
+        "dns-aaaa": [
+            "2001:8d8:1000:b03c:ed34:ee40:2222:b036"
+        ], 
+        "dns-mx": [
+            "mx00.kundenserver.de", 
+            "mx01.kundenserver.de"
+        ], 
+        "dns-ns": [
+            "ns65.1und1.de", 
+            "ns66.1und1.de"
+        ], 
+        "domain-name": "snarfu.de", 
+        "fuzzer": "insertion", 
+        "geoip-country": "Germany", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "195.60.107.142"
+        ], 
+        "dns-mx": [
+            "www9.avency.de"
+        ], 
+        "dns-ns": [
+            "ns.kunden.de", 
+            "sec.avency.de", 
+            "theopolis.avency.de"
+        ], 
+        "domain-name": "safu.de", 
+        "fuzzer": "omission", 
+        "geoip-country": "Germany", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-ns": [
+            "ns1.brandshelter.com", 
+            "ns2.brandshelter.de", 
+            "ns3.brandshelter.info", 
+            "ns4.brandshelter.net", 
+            "ns5.brandshelter.us"
+        ], 
+        "domain-name": "nafu.de", 
+        "fuzzer": "omission"
+    }, 
+    {
+        "dns-a": [
+            "217.160.223.140"
+        ], 
+        "dns-mx": [
+            "mx00.kundenserver.de", 
+            "mx01.kundenserver.de"
+        ], 
+        "dns-ns": [
+            "ns39.1und1.de", 
+            "ns40.1und1.de"
+        ], 
+        "domain-name": "snau.de", 
+        "fuzzer": "omission", 
+        "geoip-country": "Germany", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "81.169.145.151"
+        ], 
+        "dns-aaaa": [
+            "2a01:238:20a:202:1151::"
+        ], 
+        "dns-mx": [
+            "smtp.rzone.de"
+        ], 
+        "dns-ns": [
+            "docks02.rzone.de", 
+            "shades08.rzone.de"
+        ], 
+        "domain-name": "snaf.de", 
+        "fuzzer": "omission", 
+        "geoip-country": "Germany", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "213.128.84.184"
+        ], 
+        "dns-ns": [
+            "a.ns14.net", 
+            "b.ns14.net", 
+            "c.ns14.net", 
+            "d.ns14.net"
+        ], 
+        "domain-name": "snafi.de", 
+        "fuzzer": "replacement", 
+        "geoip-country": "Turkey", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "80.67.28.90"
+        ], 
+        "dns-aaaa": [
+            "2a00:1158:1000:300::35a"
+        ], 
+        "dns-mx": [
+            "mxlb.ispgateway.de"
+        ], 
+        "domain-name": "sn.afu.de", 
+        "fuzzer": "subdomain", 
+        "geoip-country": "Germany"
+    }, 
+    {
+        "dns-ns": [
+            "ns01.eusc.inter.net", 
+            "ns02.eusc.inter.net"
+        ], 
+        "domain-name": "sanfu.de", 
+        "fuzzer": "transposition"
+    }, 
+    {
+        "dns-a": [
+            "89.22.105.81"
+        ], 
+        "dns-mx": [
+            "web142.dogado.net"
+        ], 
+        "dns-ns": [
+            "ns1.hosting-agency.de", 
+            "ns3.hosting-agency.net", 
+            "ns4.hosting-agency.net"
+        ], 
+        "domain-name": "snofu.de", 
+        "fuzzer": "vowel-swap", 
+        "geoip-country": "Germany"
+    }
+]

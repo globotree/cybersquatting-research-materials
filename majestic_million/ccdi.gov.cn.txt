@@ -1,0 +1,86 @@
+[
+    {
+        "dns-ns": [
+            "ns1.cdns.cn", 
+            "ns2.cdns.cn", 
+            "ns3.cdns.cn"
+        ], 
+        "domain-name": "ccdi.gov.cn", 
+        "fuzzer": "original*"
+    }, 
+    {
+        "dns-a": [
+            "203.207.99.15"
+        ], 
+        "dns-mx": [
+            "mail.jconline.cn"
+        ], 
+        "dns-ns": [
+            "dns.jconline.cn", 
+            "dns2.jconline.cn"
+        ], 
+        "domain-name": "ccei.gov.cn", 
+        "fuzzer": "bitsquatting", 
+        "geoip-country": "China"
+    }, 
+    {
+        "dns-a": [
+            "221.8.13.163"
+        ], 
+        "dns-mx": [
+            "qiye163mx01.mxmail.netease.com", 
+            "qiye163mx02.mxmail.netease.com"
+        ], 
+        "dns-ns": [
+            "dns10.hichina.com", 
+            "dns9.hichina.com"
+        ], 
+        "domain-name": "ccda.gov.cn", 
+        "fuzzer": "bitsquatting", 
+        "geoip-country": "China"
+    }, 
+    {
+        "dns-ns": [
+            "pdns.cpip.net.cn", 
+            "sdns.cpip.net.cn"
+        ], 
+        "domain-name": "ccd.gov.cn", 
+        "fuzzer": "omission"
+    }, 
+    {
+        "dns-a": [
+            "120.76.128.230"
+        ], 
+        "dns-mx": [
+            "mxbiz1.qq.com", 
+            "mxbiz2.qq.com"
+        ], 
+        "dns-ns": [
+            "dns10.hichina.com", 
+            "dns9.hichina.com"
+        ], 
+        "domain-name": "cci.gov.cn", 
+        "fuzzer": "omission", 
+        "geoip-country": "China"
+    }, 
+    {
+        "dns-a": [
+            "124.93.205.130"
+        ], 
+        "dns-ns": [
+            "dns17.hichina.com", 
+            "dns18.hichina.com"
+        ], 
+        "domain-name": "ccxi.gov.cn", 
+        "fuzzer": "replacement", 
+        "geoip-country": "China"
+    }, 
+    {
+        "dns-ns": [
+            "dns7.hichina.com", 
+            "dns8.hichina.com"
+        ], 
+        "domain-name": "ccdigov.cn", 
+        "fuzzer": "various"
+    }
+]

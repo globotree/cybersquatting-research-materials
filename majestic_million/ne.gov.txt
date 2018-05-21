@@ -1,0 +1,99 @@
+[
+    {
+        "dns-a": [
+            "206.16.212.82"
+        ], 
+        "dns-mx": [
+            "mx02.ne.gov", 
+            "mx04.ne.gov"
+        ], 
+        "dns-ns": [
+            "dns1.doc.state.ne.us", 
+            "dns2.doc.state.ne.us", 
+            "ns1.nicusa-gl.com", 
+            "ns2.nicusa-gl.com"
+        ], 
+        "domain-name": "ne.gov", 
+        "fuzzer": "original*", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 100
+    }, 
+    {
+        "dns-mx": [
+            "nea-gov.mail.eo.outlook.com"
+        ], 
+        "dns-ns": [
+            "sauthns1.qwest.net", 
+            "sauthns2.qwest.net"
+        ], 
+        "domain-name": "nea.gov", 
+        "fuzzer": "addition"
+    }, 
+    {
+        "dns-a": [
+            "23.21.228.79"
+        ], 
+        "dns-mx": [
+            "neh-gov.mail.protection.outlook.com"
+        ], 
+        "dns-ns": [
+            "cbru.br.ns.els-gms.att.net", 
+            "cmtu.mt.ns.els-gms.att.net"
+        ], 
+        "domain-name": "neh.gov", 
+        "fuzzer": "addition", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "199.134.75.104"
+        ], 
+        "dns-ns": [
+            "ns1.usda.gov", 
+            "ns2.usda.gov"
+        ], 
+        "domain-name": "nel.gov", 
+        "fuzzer": "addition", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "165.234.159.38"
+        ], 
+        "dns-mx": [
+            "irnprt1.itd.nd.gov", 
+            "itdmx1.itd.nd.gov"
+        ], 
+        "dns-ns": [
+            "ns3.ndnic.com", 
+            "ns3.state.nd.us"
+        ], 
+        "domain-name": "nd.gov", 
+        "fuzzer": "bitsquatting", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-ns": [
+            "dns3.nm.gov", 
+            "ns1.nm.gov", 
+            "ns2.nm.gov"
+        ], 
+        "domain-name": "nm.gov", 
+        "fuzzer": "bitsquatting"
+    }, 
+    {
+        "dns-a": [
+            "198.182.162.1"
+        ], 
+        "dns-ns": [
+            "dns.state.me.us", 
+            "dns4.maine.gov"
+        ], 
+        "domain-name": "me.gov", 
+        "fuzzer": "homoglyph", 
+        "geoip-country": "United States"
+    }
+]

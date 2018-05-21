@@ -1,0 +1,70 @@
+[
+    {
+        "dns-a": [
+            "198.143.164.252"
+        ], 
+        "dns-mx": [
+            "mail.wordpress.org"
+        ], 
+        "dns-ns": [
+            "ns1.wordpress.org", 
+            "ns2.wordpress.org", 
+            "ns3.wordpress.org", 
+            "ns4.wordpress.org"
+        ], 
+        "domain-name": "buddypress.org", 
+        "fuzzer": "original*", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 100
+    }, 
+    {
+        "dns-a": [
+            "143.95.255.105"
+        ], 
+        "dns-mx": [
+            "buddy-press.org"
+        ], 
+        "dns-ns": [
+            "ns1.buddy-press.org", 
+            "ns2.buddy-press.org"
+        ], 
+        "domain-name": "buddy-press.org", 
+        "fuzzer": "hyphenation", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "72.52.4.119"
+        ], 
+        "dns-mx": [
+            "localhost"
+        ], 
+        "dns-ns": [
+            "ns1.sedoparking.com", 
+            "ns2.sedoparking.com"
+        ], 
+        "domain-name": "buddyp.ress.org", 
+        "fuzzer": "subdomain", 
+        "geoip-country": "United States", 
+        "mx-spy": true, 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "50.63.46.1"
+        ], 
+        "dns-ns": [
+            "A.SERVICE.AFILIASDNS.INFO", 
+            "B.SERVICE.AFILIASDNS.org", 
+            "C.SERVICE.AFILIASDNS.NET", 
+            "D.SERVICE.AFILIASDNS.COM", 
+            "E.SERVICE.AFILIASDNS.INFO", 
+            "F.SERVICE.AFILIASDNS.NET"
+        ], 
+        "domain-name": "buddypres.s.org", 
+        "fuzzer": "subdomain", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 0
+    }
+]

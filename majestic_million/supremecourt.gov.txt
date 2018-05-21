@@ -1,0 +1,53 @@
+[
+    {
+        "dns-a": [
+            "104.86.47.207"
+        ], 
+        "dns-mx": [
+            "smtpgwa.supremecourt.gov", 
+            "smtpgwb.supremecourt.gov"
+        ], 
+        "dns-ns": [
+            "eur2.akam.net", 
+            "eur4.akam.net", 
+            "eur5.akam.net", 
+            "ns1-216.akam.net", 
+            "ns1-62.akam.net", 
+            "usc5.akam.net", 
+            "usw1.akam.net", 
+            "usw2.akam.net"
+        ], 
+        "domain-name": "supremecourt.gov", 
+        "fuzzer": "original*", 
+        "geoip-country": "Netherlands", 
+        "ssdeep-score": 100
+    }, 
+    {
+        "dns-ns": [
+            "eur2.akam.net", 
+            "eur4.akam.net", 
+            "eur5.akam.net", 
+            "ns1-216.akam.net", 
+            "ns1-62.akam.net", 
+            "usc5.akam.net", 
+            "usw1.akam.net", 
+            "usw2.akam.net"
+        ], 
+        "domain-name": "supreme-court.gov", 
+        "fuzzer": "hyphenation"
+    }, 
+    {
+        "dns-a": [
+            "198.252.108.237"
+        ], 
+        "dns-mx": [
+            "supremecourt-gov.com"
+        ], 
+        "dns-ns": [
+            "ns5.hawkhost.com", 
+            "ns6.hawkhost.com"
+        ], 
+        "domain-name": "supremecourt-gov.com", 
+        "fuzzer": "various"
+    }
+]

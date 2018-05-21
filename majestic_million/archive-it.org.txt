@@ -1,0 +1,38 @@
+[
+    {
+        "dns-a": [
+            "207.241.226.117"
+        ], 
+        "dns-ns": [
+            "ns1.archive.org", 
+            "ns2.archive.org", 
+            "ns3.archive.org"
+        ], 
+        "domain-name": "archive-it.org", 
+        "fuzzer": "original*", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "207.241.226.117"
+        ], 
+        "dns-ns": [
+            "ns1.archive.org", 
+            "ns2.archive.org", 
+            "ns3.archive.org"
+        ], 
+        "domain-name": "archiveit.org", 
+        "fuzzer": "omission", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "98.124.199.67"
+        ], 
+        "domain-name": "archive-i.t.org", 
+        "fuzzer": "subdomain", 
+        "geoip-country": "United States"
+    }
+]

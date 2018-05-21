@@ -1,0 +1,102 @@
+[
+    {
+        "dns-a": [
+            "104.20.0.4", 
+            "104.20.1.4"
+        ], 
+        "dns-aaaa": [
+            "2400:cb00:2048:1::6814:104", 
+            "2400:cb00:2048:1::6814:4"
+        ], 
+        "dns-mx": [
+            "mail.adf.ly"
+        ], 
+        "dns-ns": [
+            "jim.ns.cloudflare.com", 
+            "zara.ns.cloudflare.com"
+        ], 
+        "domain-name": "adf.ly", 
+        "fuzzer": "original*", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 83
+    }, 
+    {
+        "dns-a": [
+            "141.8.224.183"
+        ], 
+        "dns-ns": [
+            "ns41.rookdns.com", 
+            "ns42.rookdns.com"
+        ], 
+        "domain-name": "adfl.ly", 
+        "fuzzer": "addition", 
+        "geoip-country": "Switzerland", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "41.208.71.30"
+        ], 
+        "dns-mx": [
+            "mx1.secure.ly", 
+            "mx2.secure.ly", 
+            "mx3.secure.ly", 
+            "mx4.secure.ly"
+        ], 
+        "dns-ns": [
+            "ns1.libyanspider8.com", 
+            "ns2.libyanspider8.com"
+        ], 
+        "domain-name": "adv.ly", 
+        "fuzzer": "bitsquatting", 
+        "geoip-country": "Libya", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "168.143.174.97"
+        ], 
+        "domain-name": "df.ly", 
+        "fuzzer": "omission", 
+        "geoip-country": "United States"
+    }, 
+    {
+        "dns-a": [
+            "45.76.10.128"
+        ], 
+        "dns-ns": [
+            "ns1.dub.io", 
+            "ns2.dub.io"
+        ], 
+        "domain-name": "ad.ly", 
+        "fuzzer": "omission", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "141.8.224.183"
+        ], 
+        "dns-ns": [
+            "ns41.rookdns.com", 
+            "ns42.rookdns.com"
+        ], 
+        "domain-name": "adfly.ly", 
+        "fuzzer": "various", 
+        "geoip-country": "Switzerland"
+    }, 
+    {
+        "dns-a": [
+            "185.53.178.6"
+        ], 
+        "dns-mx": [
+            "mail.h-email.net"
+        ], 
+        "dns-ns": [
+            "ns1.parkingcrew.net", 
+            "ns2.parkingcrew.net"
+        ], 
+        "domain-name": "adf-ly.com", 
+        "fuzzer": "various"
+    }
+]

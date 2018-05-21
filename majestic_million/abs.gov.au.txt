@@ -1,0 +1,89 @@
+[
+    {
+        "dns-a": [
+            "144.53.228.30"
+        ], 
+        "dns-aaaa": [
+            "2401:7300:a0::30"
+        ], 
+        "dns-mx": [
+            "mail.abs.gov.au"
+        ], 
+        "dns-ns": [
+            "a1-217.akam.net", 
+            "a20-66.akam.net", 
+            "a4-67.akam.net", 
+            "a6-64.akam.net", 
+            "a7-65.akam.net", 
+            "a9-66.akam.net"
+        ], 
+        "domain-name": "abs.gov.au", 
+        "fuzzer": "original*", 
+        "geoip-country": "Australia", 
+        "ssdeep-score": 94
+    }, 
+    {
+        "dns-a": [
+            "180.149.195.123"
+        ], 
+        "dns-aaaa": [
+            "2400:bc00:1800:510f::105"
+        ], 
+        "dns-mx": [
+            "mx1b.ato.gov.au", 
+            "mx1g.ato.gov.au", 
+            "mx2b.ato.gov.au", 
+            "mx2g.ato.gov.au"
+        ], 
+        "dns-ns": [
+            "ns.ato.gov.au", 
+            "ns1g.ato.gov.au"
+        ], 
+        "domain-name": "abr.gov.au", 
+        "fuzzer": "bitsquatting", 
+        "geoip-country": "Australia", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "203.2.218.208"
+        ], 
+        "dns-ns": [
+            "ns.abc.net.au", 
+            "ns1.telstra.net"
+        ], 
+        "domain-name": "abc.gov.au", 
+        "fuzzer": "bitsquatting", 
+        "geoip-country": "Australia", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "203.6.244.111"
+        ], 
+        "dns-mx": [
+            "mail.hearing.com.au"
+        ], 
+        "dns-ns": [
+            "ns0.telstra.net", 
+            "ns1.telstra.net"
+        ], 
+        "domain-name": "ahs.gov.au", 
+        "fuzzer": "replacement", 
+        "geoip-country": "Australia"
+    }, 
+    {
+        "dns-a": [
+            "152.91.39.242"
+        ], 
+        "dns-mx": [
+            "agd1-ibmail1.msng.telstra.com.au"
+        ], 
+        "dns-ns": [
+            "ns1.msng.telstra.com.au", 
+            "ns2.msng.telstra.com.au"
+        ], 
+        "domain-name": "ags.gov.au", 
+        "fuzzer": "replacement"
+    }
+]

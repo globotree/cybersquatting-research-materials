@@ -1,0 +1,205 @@
+[
+    {
+        "dns-a": [
+            "161.116.100.2"
+        ], 
+        "dns-mx": [
+            "mailgate1a.com.ub.edu", 
+            "mailgate2.ub.es", 
+            "mailgate2a.com.ub.edu", 
+            "mx.edau.ub.edu"
+        ], 
+        "dns-ns": [
+            "chico.rediris.es", 
+            "rnpro01.com.ub.edu", 
+            "rnpro04.com.ub.edu", 
+            "rnpro07.com.ub.edu", 
+            "sun.rediris.es"
+        ], 
+        "domain-name": "ub.edu", 
+        "fuzzer": "original*", 
+        "geoip-country": "Spain", 
+        "ssdeep-score": 100
+    }, 
+    {
+        "dns-ns": [
+            "dns3.ubc.ca", 
+            "hub.ubc.ca"
+        ], 
+        "domain-name": "ubc.edu", 
+        "fuzzer": "addition"
+    }, 
+    {
+        "dns-a": [
+            "178.208.52.110"
+        ], 
+        "dns-mx": [
+            "in-mx.online.be"
+        ], 
+        "dns-ns": [
+            "ns1.ionip.as6696.net", 
+            "ns2.ionip.as6696.net"
+        ], 
+        "domain-name": "ubi.edu", 
+        "fuzzer": "addition", 
+        "geoip-country": "Belgium", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "129.137.4.225"
+        ], 
+        "dns-mx": [
+            "ucmailmx3.uc.edu", 
+            "ucmailmx4.uc.edu"
+        ], 
+        "dns-ns": [
+            "ucdnsa.uc.edu", 
+            "ucdnsb.uc.edu"
+        ], 
+        "domain-name": "uc.edu", 
+        "fuzzer": "bitsquatting", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "128.227.9.98"
+        ], 
+        "dns-mx": [
+            "virtual-smtp-prod01.osg.ufl.edu"
+        ], 
+        "dns-ns": [
+            "ns.name.ufl.edu", 
+            "rns.name.ufl.edu"
+        ], 
+        "domain-name": "uf.edu", 
+        "fuzzer": "bitsquatting", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "192.163.232.166"
+        ], 
+        "dns-mx": [
+            "irport.jc.edu"
+        ], 
+        "dns-ns": [
+            "ns1.jc.edu"
+        ], 
+        "domain-name": "uj.edu", 
+        "fuzzer": "bitsquatting", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-mx": [
+            "polyester.richmond.edu", 
+            "rayon.richmond.edu"
+        ], 
+        "dns-ns": [
+            "cookie.richmond.edu", 
+            "cracker.richmond.edu", 
+            "uvaarpa.virginia.edu"
+        ], 
+        "domain-name": "ur.edu", 
+        "fuzzer": "bitsquatting"
+    }, 
+    {
+        "dns-a": [
+            "156.67.209.123"
+        ], 
+        "dns-mx": [
+            "ALT1.ASPMX.L.GOOGLE.COM", 
+            "ALT2.ASPMX.L.GOOGLE.COM", 
+            "ALT3.ASPMX.L.GOOGLE.COM", 
+            "ALT4.ASPMX.L.GOOGLE.COM", 
+            "ASPMX.L.GOOGLE.COM"
+        ], 
+        "dns-ns": [
+            "ns27.niagahoster.com", 
+            "ns28.niagahoster.com"
+        ], 
+        "domain-name": "uib.edu", 
+        "fuzzer": "homoglyph", 
+        "geoip-country": "Cyprus", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "129.7.97.54"
+        ], 
+        "dns-mx": [
+            "ms38595472.msv1.invalid.outlook.com", 
+            "smtp3.cc.uh.edu", 
+            "smtp4.cc.uh.edu"
+        ], 
+        "dns-ns": [
+            "ns1.uh.edu", 
+            "ns2.uh.edu"
+        ], 
+        "domain-name": "uh.edu", 
+        "fuzzer": "replacement", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "50.56.64.4"
+        ], 
+        "dns-mx": [
+            "ALT1.ASPMX.L.GOOGLE.COM", 
+            "ALT2.ASPMX.L.GOOGLE.COM", 
+            "ASPMX.L.GOOGLE.COM", 
+            "ASPMX2.GOOGLEMAIL.COM", 
+            "ASPMX3.GOOGLEMAIL.COM"
+        ], 
+        "dns-ns": [
+            "ns1.onecleveland.org", 
+            "ns2.onecleveland.org"
+        ], 
+        "domain-name": "hb.edu", 
+        "fuzzer": "replacement", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "128.197.236.4"
+        ], 
+        "dns-mx": [
+            "relay-mx1.bu.edu", 
+            "relay-mx2.bu.edu", 
+            "relay-mx3.bu.edu", 
+            "relay-mx4.bu.edu", 
+            "relay-mx9.bu.edu", 
+            "relay.bu.edu"
+        ], 
+        "dns-ns": [
+            "edns01.bu.edu", 
+            "edns02.bu.edu", 
+            "edns03.bu.edu"
+        ], 
+        "domain-name": "bu.edu", 
+        "fuzzer": "transposition"
+    }, 
+    {
+        "dns-a": [
+            "66.118.84.102"
+        ], 
+        "dns-mx": [
+            "ALT1.ASPMX.L.GOOGLE.COM", 
+            "ALT2.ASPMX.L.GOOGLE.COM", 
+            "ALT3.ASPMX.L.GOOGLE.COM", 
+            "ALT4.ASPMX.L.GOOGLE.COM", 
+            "ASPMX.L.GOOGLE.COM"
+        ], 
+        "dns-ns": [
+            "ns1.ab.edu"
+        ], 
+        "domain-name": "ab.edu", 
+        "fuzzer": "vowel-swap", 
+        "geoip-country": "United States"
+    }
+]

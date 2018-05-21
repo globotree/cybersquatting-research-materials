@@ -1,0 +1,40 @@
+[
+    {
+        "dns-a": [
+            "158.232.12.119"
+        ], 
+        "dns-mx": [
+            "mx10.who.int", 
+            "mx5.who.int"
+        ], 
+        "dns-ns": [
+            "ext-dns-2.cern.ch", 
+            "ns1.wpro.who.int", 
+            "whqdns1.who.int", 
+            "whqdns2.who.int", 
+            "whqdns3.who.int"
+        ], 
+        "domain-name": "who.int", 
+        "fuzzer": "original*", 
+        "geoip-country": "Switzerland", 
+        "ssdeep-score": 100
+    }, 
+    {
+        "dns-a": [
+            "149.154.153.120"
+        ], 
+        "dns-mx": [
+            "mail.wno.int"
+        ], 
+        "dns-ns": [
+            "ns1.edis.at", 
+            "ns2.edis.at", 
+            "ns5.edis.at", 
+            "ns6.edis.at"
+        ], 
+        "domain-name": "wno.int", 
+        "fuzzer": "replacement", 
+        "geoip-country": "Austria", 
+        "ssdeep-score": 0
+    }
+]

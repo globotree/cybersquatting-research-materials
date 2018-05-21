@@ -1,0 +1,161 @@
+[
+    {
+        "dns-mx": [
+            "mx1.biz.ua.uadns.com", 
+            "mx2.biz.ua.uadns.com", 
+            "mx3.biz.ua.uadns.com"
+        ], 
+        "dns-ns": [
+            "ns1.uadns.com", 
+            "ns2.uadns.com", 
+            "ns3.uadns.com", 
+            "ns4.uadns.com", 
+            "ns5.uadns.com"
+        ], 
+        "domain-name": "biz.ua", 
+        "fuzzer": "original*"
+    }, 
+    {
+        "dns-a": [
+            "193.0.142.165"
+        ], 
+        "dns-mx": [
+            "mail.baz.ua"
+        ], 
+        "dns-ns": [
+            "ns1.webcraft.ua", 
+            "ns2.webcraft.ua", 
+            "ns3.webcraft.ua"
+        ], 
+        "domain-name": "baz.ua", 
+        "fuzzer": "bitsquatting", 
+        "geoip-country": "Ukraine"
+    }, 
+    {
+        "dns-a": [
+            "78.47.168.199"
+        ], 
+        "dns-mx": [
+            "bix.ua"
+        ], 
+        "dns-ns": [
+            "ns119.inhostedns.com", 
+            "ns219.inhostedns.net", 
+            "ns319.inhostedns.org"
+        ], 
+        "domain-name": "bix.ua", 
+        "fuzzer": "bitsquatting", 
+        "geoip-country": "Germany"
+    }, 
+    {
+        "dns-a": [
+            "62.149.25.3", 
+            "62.149.5.223"
+        ], 
+        "dns-mx": [
+            "mail.iz.ua", 
+            "mail.iz.ua"
+        ], 
+        "dns-ns": [
+            "ns1.webname.ua", 
+            "ns2.webname.ua"
+        ], 
+        "domain-name": "iz.ua", 
+        "fuzzer": "omission", 
+        "geoip-country": "Ukraine", 
+        "mx-spy": true
+    }, 
+    {
+        "dns-a": [
+            "77.88.207.210"
+        ], 
+        "dns-mx": [
+            "bi-ua.mail.protection.outlook.com"
+        ], 
+        "dns-ns": [
+            "ns1.datagroup.kharkov.com", 
+            "ns2.datagroup.kharkov.com"
+        ], 
+        "domain-name": "bi.ua", 
+        "fuzzer": "omission", 
+        "geoip-country": "Ukraine"
+    }, 
+    {
+        "dns-a": [
+            "188.47.101.112"
+        ], 
+        "domain-name": "bz.ua", 
+        "fuzzer": "omission"
+    }, 
+    {
+        "dns-a": [
+            "216.239.32.21", 
+            "216.239.34.21", 
+            "216.239.36.21", 
+            "216.239.38.21"
+        ], 
+        "dns-mx": [
+            "ALT1.ASPMX.L.GOOGLE.COM", 
+            "ALT2.ASPMX.L.GOOGLE.COM", 
+            "ASPMX.L.GOOGLE.COM", 
+            "ASPMX2.GOOGLEMAIL.COM", 
+            "ASPMX3.GOOGLEMAIL.COM"
+        ], 
+        "dns-ns": [
+            "nsa1.srv53.com", 
+            "nsa3.srv53.net", 
+            "nsa3.srv53.org", 
+            "nsb1.srv53.com", 
+            "nsb2.srv53.net", 
+            "nsb3.srv53.org", 
+            "nsc1.srv53.com", 
+            "nsc2.srv53.org", 
+            "nsc3.srv53.net", 
+            "nsd1.srv53.org", 
+            "nsd3.srv53.net", 
+            "nsd4.srv53.com"
+        ], 
+        "domain-name": "big.ua", 
+        "fuzzer": "replacement", 
+        "geoip-country": "United States"
+    }, 
+    {
+        "dns-a": [
+            "89.184.93.39"
+        ], 
+        "dns-mx": [
+            "ALT1.ASPMX.L.GOOGLE.COM", 
+            "ALT2.ASPMX.L.GOOGLE.COM", 
+            "ASPMX.L.GOOGLE.COM", 
+            "ASPMX2.GOOGLEMAIL.COM", 
+            "ASPMX3.GOOGLEMAIL.COM", 
+            "ASPMX4.GOOGLEMAIL.COM", 
+            "ASPMX5.GOOGLEMAIL.COM"
+        ], 
+        "dns-ns": [
+            "nsa2.srv53.org", 
+            "nsa3.srv53.com", 
+            "nsa3.srv53.net", 
+            "nsb1.srv53.com", 
+            "nsb1.srv53.net", 
+            "nsb1.srv53.org", 
+            "nsc1.srv53.com", 
+            "nsc1.srv53.net", 
+            "nsc2.srv53.org", 
+            "nsd1.srv53.org", 
+            "nsd3.srv53.com", 
+            "nsd3.srv53.net"
+        ], 
+        "domain-name": "bit.ua", 
+        "fuzzer": "replacement", 
+        "geoip-country": "Ukraine"
+    }, 
+    {
+        "dns-a": [
+            "176.9.83.189"
+        ], 
+        "domain-name": "bi.z.ua", 
+        "fuzzer": "subdomain", 
+        "geoip-country": "Germany"
+    }
+]

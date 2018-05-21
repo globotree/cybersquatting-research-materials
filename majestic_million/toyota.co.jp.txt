@@ -1,0 +1,83 @@
+[
+    {
+        "dns-mx": [
+            "mx1.toyota.co.jp"
+        ], 
+        "dns-ns": [
+            "majesta.tns.ne.jp", 
+            "ns1a.toyota.co.jp", 
+            "ns1b.toyota.co.jp", 
+            "royal.tns.ne.jp"
+        ], 
+        "domain-name": "toyota.co.jp", 
+        "fuzzer": "original*", 
+        "mx-spy": true
+    }, 
+    {
+        "dns-a": [
+            "49.212.180.84"
+        ], 
+        "dns-mx": [
+            "toyoda.co.jp"
+        ], 
+        "dns-ns": [
+            "ns1.dns.ne.jp", 
+            "ns2.dns.ne.jp"
+        ], 
+        "domain-name": "toyoda.co.jp", 
+        "fuzzer": "bitsquatting", 
+        "geoip-country": "Japan"
+    }, 
+    {
+        "dns-mx": [
+            "cluster5.us.messagelabs.com", 
+            "cluster5a.us.messagelabs.com"
+        ], 
+        "dns-ns": [
+            "ns1.s-idc.net", 
+            "ns2.s-idc.net", 
+            "ns3.s-idc.net"
+        ], 
+        "domain-name": "toyoa.co.jp", 
+        "fuzzer": "omission"
+    }, 
+    {
+        "dns-a": [
+            "49.212.243.73"
+        ], 
+        "dns-mx": [
+            "toyora.co.jp"
+        ], 
+        "dns-ns": [
+            "ns1.dns.ne.jp", 
+            "ns2.dns.ne.jp"
+        ], 
+        "domain-name": "toyora.co.jp", 
+        "fuzzer": "replacement", 
+        "geoip-country": "Japan"
+    }, 
+    {
+        "dns-a": [
+            "157.7.188.246"
+        ], 
+        "domain-name": "toy.ota.co.jp", 
+        "fuzzer": "subdomain", 
+        "geoip-country": "Japan"
+    }, 
+    {
+        "dns-a": [
+            "23.59.124.237"
+        ], 
+        "dns-ns": [
+            "a1-81.akam.net", 
+            "a10-64.akam.net", 
+            "a13-65.akam.net", 
+            "a3-66.akam.net", 
+            "a4-67.akam.net", 
+            "a8-64.akam.net"
+        ], 
+        "domain-name": "toyota.jp", 
+        "fuzzer": "various", 
+        "geoip-country": "Netherlands"
+    }
+]

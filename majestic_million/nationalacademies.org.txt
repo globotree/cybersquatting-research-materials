@@ -1,0 +1,100 @@
+[
+    {
+        "dns-a": [
+            "144.171.1.30"
+        ], 
+        "dns-mx": [
+            "rockies.nas.edu", 
+            "sawtooth.nas.edu"
+        ], 
+        "dns-ns": [
+            "berkshire.nas.edu", 
+            "bighorn.nas.edu", 
+            "bona.nas.edu", 
+            "bonairl.nas.edu", 
+            "bonaor.nas.edu", 
+            "rushmore.nas.edu"
+        ], 
+        "domain-name": "nationalacademies.org", 
+        "fuzzer": "original*", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 100
+    }, 
+    {
+        "dns-a": [
+            "150.95.240.213"
+        ], 
+        "dns-ns": [
+            "dns01.muumuu-domain.com", 
+            "dns02.muumuu-domain.com"
+        ], 
+        "domain-name": "nationalacadamies.org", 
+        "fuzzer": "bitsquatting", 
+        "geoip-country": "Japan", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "144.171.1.30"
+        ], 
+        "dns-mx": [
+            "rockies.nas.edu", 
+            "sawtooth.nas.edu"
+        ], 
+        "dns-ns": [
+            "berkshire.nas.edu", 
+            "bighorn.nas.edu", 
+            "bona.nas.edu", 
+            "bonairl.nas.edu", 
+            "bonaor.nas.edu", 
+            "rushmore.nas.edu"
+        ], 
+        "domain-name": "national-academies.org", 
+        "fuzzer": "hyphenation", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 100
+    }, 
+    {
+        "dns-a": [
+            "143.95.67.97"
+        ], 
+        "domain-name": "nationalacade.mies.org", 
+        "fuzzer": "subdomain", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "72.52.4.119"
+        ], 
+        "dns-mx": [
+            "localhost"
+        ], 
+        "dns-ns": [
+            "ns1.sedoparking.com", 
+            "ns2.sedoparking.com"
+        ], 
+        "domain-name": "nationalacademi.es.org", 
+        "fuzzer": "subdomain", 
+        "geoip-country": "United States", 
+        "mx-spy": true, 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "50.63.46.1"
+        ], 
+        "dns-ns": [
+            "A.SERVICE.AFILIASDNS.INFO", 
+            "B.SERVICE.AFILIASDNS.org", 
+            "C.SERVICE.AFILIASDNS.NET", 
+            "D.SERVICE.AFILIASDNS.COM", 
+            "E.SERVICE.AFILIASDNS.INFO", 
+            "F.SERVICE.AFILIASDNS.NET"
+        ], 
+        "domain-name": "nationalacademie.s.org", 
+        "fuzzer": "subdomain", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 0
+    }
+]

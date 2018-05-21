@@ -1,0 +1,72 @@
+[
+    {
+        "dns-a": [
+            "89.174.23.148", 
+            "89.174.23.20"
+        ], 
+        "dns-mx": [
+            "mx1.msz.gov.pl", 
+            "mx2.msz.gov.pl", 
+            "mx3.msz.gov.pl", 
+            "mx4.msz.gov.pl"
+        ], 
+        "dns-ns": [
+            "dns1.exatel.pl", 
+            "dns2.exatel.pl", 
+            "dns3.exatel.pl", 
+            "dns4.exatel.pl"
+        ], 
+        "domain-name": "msz.gov.pl", 
+        "fuzzer": "original*", 
+        "geoip-country": "Poland", 
+        "ssdeep-score": 94
+    }, 
+    {
+        "dns-a": [
+            "52.232.42.205"
+        ], 
+        "dns-mx": [
+            "poczta3.ms.gov.pl", 
+            "poczta4.ms.gov.pl"
+        ], 
+        "dns-ns": [
+            "dns2.exatel.pl", 
+            "intruder.etop.pl", 
+            "ivo.etop.pl", 
+            "swadns01.ms.gov.pl"
+        ], 
+        "domain-name": "ms.gov.pl", 
+        "fuzzer": "omission"
+    }, 
+    {
+        "dns-a": [
+            "91.241.63.116"
+        ], 
+        "dns-mx": [
+            "mailhub.mz.gov.pl", 
+            "poczta-deb.mz.gov.pl"
+        ], 
+        "dns-ns": [
+            "ipso.mz.gov.pl", 
+            "ubik.mz.gov.pl"
+        ], 
+        "domain-name": "mz.gov.pl", 
+        "fuzzer": "omission", 
+        "geoip-country": "Poland"
+    }, 
+    {
+        "dns-a": [
+            "89.174.23.148"
+        ], 
+        "dns-ns": [
+            "nsr1.domeny.com", 
+            "nsr2.domeny.com", 
+            "nsr3.domeny.com", 
+            "nsr4.domeny.com"
+        ], 
+        "domain-name": "msz.pl", 
+        "fuzzer": "various", 
+        "geoip-country": "Poland", 
+        "ssdeep-score": 0
+    }
+]

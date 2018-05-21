@@ -1,0 +1,72 @@
+[
+    {
+        "dns-a": [
+            "195.242.117.91"
+        ], 
+        "dns-mx": [
+            "mx.active24.pl"
+        ], 
+        "dns-ns": [
+            "ns1.phorum.pl", 
+            "ns2.phorum.pl", 
+            "ns3.phorum.pl"
+        ], 
+        "domain-name": "phorum.pl", 
+        "fuzzer": "original*", 
+        "geoip-country": "Poland", 
+        "ssdeep-score": 100
+    }, 
+    {
+        "dns-a": [
+            "199.59.242.150"
+        ], 
+        "dns-mx": [
+            "mx76.m2bp.com", 
+            "mx76.mb1p.com"
+        ], 
+        "dns-ns": [
+            "ns1.bodis.com", 
+            "ns2.bodis.com"
+        ], 
+        "domain-name": "phorm.pl", 
+        "fuzzer": "omission", 
+        "geoip-country": "United States", 
+        "mx-spy": true, 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "188.128.255.251"
+        ], 
+        "domain-name": "ph.orum.pl", 
+        "fuzzer": "subdomain", 
+        "geoip-country": "Poland", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "89.161.255.4"
+        ], 
+        "dns-mx": [
+            "rum.pl"
+        ], 
+        "dns-ns": [
+            "dns.home.pl", 
+            "dns2.home.pl", 
+            "dns3.home.pl"
+        ], 
+        "domain-name": "pho.rum.pl", 
+        "fuzzer": "subdomain", 
+        "geoip-country": "Poland", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "85.128.193.166"
+        ], 
+        "domain-name": "phoru.m.pl", 
+        "fuzzer": "subdomain", 
+        "geoip-country": "Poland", 
+        "ssdeep-score": 0
+    }
+]

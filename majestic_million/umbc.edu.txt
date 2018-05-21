@@ -1,0 +1,85 @@
+[
+    {
+        "dns-a": [
+            "130.85.12.160"
+        ], 
+        "dns-mx": [
+            "mxin.umbc.edu"
+        ], 
+        "dns-ns": [
+            "UMBC3.umbc.edu", 
+            "UMBC4.umbc.edu", 
+            "UMBC5.umbc.edu", 
+            "dnsexternal.umbc.edu", 
+            "dnsexternal1.umbc.edu", 
+            "dnsexternal2.umbc.edu", 
+            "dnsinternal.umbc.edu", 
+            "dnsinternal1.umbc.edu", 
+            "dnsinternal2.umbc.edu", 
+            "ns1.umbc.edu", 
+            "umbc10.umbc.edu"
+        ], 
+        "domain-name": "umbc.edu", 
+        "fuzzer": "original*", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 100
+    }, 
+    {
+        "dns-ns": [
+            "dns3.ubc.ca", 
+            "hub.ubc.ca"
+        ], 
+        "domain-name": "ubc.edu", 
+        "fuzzer": "omission"
+    }, 
+    {
+        "dns-a": [
+            "216.243.141.139"
+        ], 
+        "dns-mx": [
+            "umb-edu.mail.eo.outlook.com"
+        ], 
+        "dns-ns": [
+            "ns1.umb.edu", 
+            "ns2.umb.edu"
+        ], 
+        "domain-name": "umb.edu", 
+        "fuzzer": "omission", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "192.231.68.40"
+        ], 
+        "dns-mx": [
+            "mxa-00141b01.gslb.pphosted.com", 
+            "mxb-00141b01.gslb.pphosted.com"
+        ], 
+        "dns-ns": [
+            "ibdmzns1vip.umc.edu", 
+            "ibdmzns2vip.umc.edu"
+        ], 
+        "domain-name": "umc.edu", 
+        "fuzzer": "omission", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "107.180.48.102"
+        ], 
+        "dns-mx": [
+            "mailstore1.secureserver.net", 
+            "smtp.secureserver.net"
+        ], 
+        "dns-ns": [
+            "ns15.domaincontrol.com", 
+            "ns16.domaincontrol.com"
+        ], 
+        "domain-name": "imbc.edu", 
+        "fuzzer": "replacement", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 0
+    }
+]

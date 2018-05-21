@@ -1,0 +1,44 @@
+[
+    {
+        "dns-ns": [
+            "dns1.p07.nsone.net", 
+            "dns2.p07.nsone.net", 
+            "dns3.p07.nsone.net", 
+            "dns4.p07.nsone.net", 
+            "ns-1435.awsdns-51.org", 
+            "ns-1647.awsdns-13.co.uk", 
+            "ns-235.awsdns-29.com", 
+            "ns-844.awsdns-41.net"
+        ], 
+        "domain-name": "netdna-ssl.com", 
+        "fuzzer": "original*"
+    }, 
+    {
+        "dns-a": [
+            "103.224.212.222"
+        ], 
+        "dns-mx": [
+            "park-mx.above.com"
+        ], 
+        "dns-ns": [
+            "ns1.above.com", 
+            "ns2.above.com"
+        ], 
+        "domain-name": "netdnassl.com", 
+        "fuzzer": "omission", 
+        "geoip-country": "Australia", 
+        "mx-spy": true
+    }, 
+    {
+        "dns-a": [
+            "141.8.224.93"
+        ], 
+        "dns-ns": [
+            "ns7.rookdns.com", 
+            "ns8.rookdns.com"
+        ], 
+        "domain-name": "net.dna-ssl.com", 
+        "fuzzer": "subdomain", 
+        "geoip-country": "Switzerland"
+    }
+]

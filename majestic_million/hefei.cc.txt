@@ -1,0 +1,87 @@
+[
+    {
+        "dns-a": [
+            "221.231.141.168"
+        ], 
+        "dns-mx": [
+            "mail.hefei.cc"
+        ], 
+        "dns-ns": [
+            "ns1.dnsv5.com", 
+            "ns2.dnsv5.com"
+        ], 
+        "domain-name": "hefei.cc", 
+        "fuzzer": "original*", 
+        "geoip-country": "China", 
+        "ssdeep-score": 100
+    }, 
+    {
+        "dns-a": [
+            "47.91.169.15"
+        ], 
+        "dns-ns": [
+            "dns17.hichina.com", 
+            "dns18.hichina.com"
+        ], 
+        "domain-name": "hufei.cc", 
+        "fuzzer": "bitsquatting", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "170.178.178.54"
+        ], 
+        "domain-name": "hebei.cc", 
+        "fuzzer": "bitsquatting", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "203.78.142.12"
+        ], 
+        "domain-name": "henei.cc", 
+        "fuzzer": "bitsquatting", 
+        "geoip-country": "Hong Kong", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "45.120.153.79"
+        ], 
+        "domain-name": "hefe.cc", 
+        "fuzzer": "omission", 
+        "geoip-country": "Hong Kong", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "170.178.178.36"
+        ], 
+        "domain-name": "gefei.cc", 
+        "fuzzer": "replacement", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-ns": [
+            "ns11.xincache.com", 
+            "ns12.xincache.com"
+        ], 
+        "domain-name": "yefei.cc", 
+        "fuzzer": "replacement"
+    }, 
+    {
+        "dns-a": [
+            "180.178.54.58"
+        ], 
+        "dns-ns": [
+            "f1g1ns1.dnspod.net", 
+            "f1g1ns2.dnspod.net"
+        ], 
+        "domain-name": "hefie.cc", 
+        "fuzzer": "transposition", 
+        "geoip-country": "Hong Kong"
+    }
+]

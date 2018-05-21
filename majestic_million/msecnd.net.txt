@@ -1,0 +1,35 @@
+[
+    {
+        "dns-ns": [
+            "ns1.msft.net", 
+            "ns2.msft.net", 
+            "ns3.msft.net", 
+            "ns4.msft.net"
+        ], 
+        "domain-name": "msecnd.net", 
+        "fuzzer": "original*"
+    }, 
+    {
+        "dns-a": [
+            "185.61.137.49"
+        ], 
+        "dns-mx": [
+            "mail.msend.net"
+        ], 
+        "dns-ns": [
+            "ns1.blazingfast.io", 
+            "ns2.blazingfast.io"
+        ], 
+        "domain-name": "msend.net", 
+        "fuzzer": "omission", 
+        "geoip-country": "Netherlands"
+    }, 
+    {
+        "dns-a": [
+            "89.31.143.100"
+        ], 
+        "domain-name": "msec.nd.net", 
+        "fuzzer": "subdomain", 
+        "geoip-country": "Germany"
+    }
+]

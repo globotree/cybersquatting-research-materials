@@ -1,0 +1,74 @@
+[
+    {
+        "dns-a": [
+            "212.95.70.227"
+        ], 
+        "dns-mx": [
+            "alt1.aspmx.l.google.com", 
+            "alt2.aspmx.l.google.com", 
+            "alt3.aspmx.l.google.com", 
+            "alt4.aspmx.l.google.com", 
+            "aspmx.l.google.com"
+        ], 
+        "dns-ns": [
+            "ns0.oleane.net", 
+            "ns1.oleane.net"
+        ], 
+        "domain-name": "ladepeche.fr", 
+        "fuzzer": "original*", 
+        "geoip-country": "France", 
+        "ssdeep-score": 99
+    }, 
+    {
+        "dns-mx": [
+            "dns1.capmedia.fr", 
+            "saturne.capmedia.fr"
+        ], 
+        "dns-ns": [
+            "a.dns.gandi.net", 
+            "b.dns.gandi.net", 
+            "c.dns.gandi.net"
+        ], 
+        "domain-name": "madepeche.fr", 
+        "fuzzer": "bitsquatting"
+    }, 
+    {
+        "dns-a": [
+            "185.53.177.29"
+        ], 
+        "dns-ns": [
+            "ns1.singleplan.com", 
+            "ns2.singleplan.com"
+        ], 
+        "domain-name": "ladepche.fr", 
+        "fuzzer": "omission", 
+        "geoip-country": "Germany", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "80.247.228.60"
+        ], 
+        "dns-mx": [
+            "mx1.nfrance.com"
+        ], 
+        "dns-ns": [
+            "ns1.slconseil.com", 
+            "ns2.slconseil.com", 
+            "ns3.slconseil.com"
+        ], 
+        "domain-name": "ladepece.fr", 
+        "fuzzer": "omission", 
+        "geoip-country": "France", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "37.97.135.129"
+        ], 
+        "domain-name": "ladep.eche.fr", 
+        "fuzzer": "subdomain", 
+        "geoip-country": "Netherlands", 
+        "ssdeep-score": 0
+    }
+]

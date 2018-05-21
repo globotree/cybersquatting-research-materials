@@ -1,0 +1,143 @@
+[
+    {
+        "dns-a": [
+            "52.222.147.117"
+        ], 
+        "dns-mx": [
+            "mx1.auspost.firstwave.com.au", 
+            "mx2.auspost.firstwave.com.au", 
+            "mx3.auspost.firstwave.com.au", 
+            "mx4.auspost.firstwave.com.au"
+        ], 
+        "dns-ns": [
+            "ns-1137.awsdns-14.org", 
+            "ns-1916.awsdns-47.co.uk", 
+            "ns-443.awsdns-55.com", 
+            "ns-729.awsdns-27.net"
+        ], 
+        "domain-name": "auspost.com.au", 
+        "fuzzer": "original*", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 100
+    }, 
+    {
+        "dns-a": [
+            "155.144.24.99"
+        ], 
+        "dns-ns": [
+            "ns-1250.awsdns-28.org", 
+            "ns-1924.awsdns-48.co.uk", 
+            "ns-289.awsdns-36.com", 
+            "ns-515.awsdns-00.net"
+        ], 
+        "domain-name": "ausposts.com.au", 
+        "fuzzer": "addition", 
+        "geoip-country": "Australia"
+    }, 
+    {
+        "dns-a": [
+            "103.11.206.24"
+        ], 
+        "dns-mx": [
+            "remote.ausport.com.au"
+        ], 
+        "dns-ns": [
+            "ns1.ausport.com.au", 
+            "ns2.ausport.com.au"
+        ], 
+        "domain-name": "ausport.com.au", 
+        "fuzzer": "bitsquatting", 
+        "geoip-country": "Australia", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "27.121.66.40"
+        ], 
+        "dns-mx": [
+            "aus-post.com.au"
+        ], 
+        "dns-ns": [
+            "ns-1.ezyreg.com", 
+            "ns-2.ezyreg.com"
+        ], 
+        "domain-name": "aus-post.com.au", 
+        "fuzzer": "hyphenation", 
+        "geoip-country": "Australia", 
+        "ssdeep-score": 100
+    }, 
+    {
+        "dns-a": [
+            "52.95.131.31"
+        ], 
+        "dns-mx": [
+            "mail1.auspost.com.au", 
+            "mail2.auspost.com.au", 
+            "mail3.auspost.com.au", 
+            "mail4.auspost.com.au"
+        ], 
+        "dns-ns": [
+            "ns-1230.awsdns-25.org", 
+            "ns-1909.awsdns-46.co.uk", 
+            "ns-496.awsdns-62.com", 
+            "ns-580.awsdns-08.net"
+        ], 
+        "domain-name": "auspos.com.au", 
+        "fuzzer": "omission", 
+        "geoip-country": "Australia", 
+        "ssdeep-score": 100
+    }, 
+    {
+        "dns-a": [
+            "155.144.24.99"
+        ], 
+        "dns-ns": [
+            "ns-1282.awsdns-32.org", 
+            "ns-1601.awsdns-08.co.uk", 
+            "ns-464.awsdns-58.com", 
+            "ns-726.awsdns-26.net"
+        ], 
+        "domain-name": "aupost.com.au", 
+        "fuzzer": "omission", 
+        "geoip-country": "Australia"
+    }, 
+    {
+        "dns-a": [
+            "165.160.13.20", 
+            "165.160.15.20"
+        ], 
+        "dns-mx": [
+            "custmx.cscdns.net"
+        ], 
+        "dns-ns": [
+            "dns1.cscdns.net", 
+            "dns2.cscdns.net"
+        ], 
+        "domain-name": "auspsot.com.au", 
+        "fuzzer": "transposition", 
+        "geoip-country": "United States", 
+        "mx-spy": true, 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "23.227.38.32"
+        ], 
+        "dns-mx": [
+            "alt1.aspmx.l.google.com", 
+            "alt2.aspmx.l.google.com", 
+            "alt3.aspmx.l.google.com", 
+            "alt4.aspmx.l.google.com", 
+            "aspmx.l.google.com", 
+            "zkemlbkrl7rd5dj7hqyujugqvqw5pxbtl7qflbqv7vxbwdr5vtqq.mx-verification.google.com"
+        ], 
+        "dns-ns": [
+            "ns1.enetica.com.au", 
+            "ns2.enetica.com.au"
+        ], 
+        "domain-name": "auspots.com.au", 
+        "fuzzer": "transposition", 
+        "geoip-country": "Canada", 
+        "ssdeep-score": 0
+    }
+]

@@ -1,0 +1,147 @@
+[
+    {
+        "dns-a": [
+            "199.233.217.205"
+        ], 
+        "dns-aaaa": [
+            "2001:470:a085:999::80"
+        ], 
+        "dns-mx": [
+            "mail.netbsd.org"
+        ], 
+        "dns-ns": [
+            "ns.netbsd.de", 
+            "ns.netbsd.org"
+        ], 
+        "domain-name": "netbsd.org", 
+        "fuzzer": "original*", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 100
+    }, 
+    {
+        "dns-a": [
+            "54.208.31.49"
+        ], 
+        "dns-mx": [
+            "alt1.aspmx.l.google.com", 
+            "alt2.aspmx.l.google.com", 
+            "aspmx.l.google.com", 
+            "aspmx2.googlemail.com", 
+            "aspmx3.googlemail.com", 
+            "aspmx4.googlemail.com", 
+            "aspmx5.googlemail.com"
+        ], 
+        "dns-ns": [
+            "dns082.d.register.com", 
+            "dns094.b.register.com", 
+            "dns162.a.register.com", 
+            "dns234.c.register.com"
+        ], 
+        "domain-name": "etbsd.org", 
+        "fuzzer": "omission", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-mx": [
+            "ALT1.ASPMX.L.GOOGLE.COM", 
+            "ALT2.ASPMX.L.GOOGLE.COM", 
+            "ASPMX.L.GOOGLE.COM", 
+            "ASPMX2.GOOGLEMAIL.COM", 
+            "ASPMX3.GOOGLEMAIL.COM", 
+            "ASPMX4.GOOGLEMAIL.COM", 
+            "ASPMX5.GOOGLEMAIL.COM"
+        ], 
+        "dns-ns": [
+            "ns1.value-domain.com", 
+            "ns2.value-domain.com"
+        ], 
+        "domain-name": "neetbsd.org", 
+        "fuzzer": "repetition"
+    }, 
+    {
+        "dns-a": [
+            "213.239.221.137"
+        ], 
+        "dns-mx": [
+            "mail.nettbsd.org"
+        ], 
+        "dns-ns": [
+            "ns1.first-ns.de", 
+            "robotns2.second-ns.de", 
+            "robotns3.second-ns.com"
+        ], 
+        "domain-name": "nettbsd.org", 
+        "fuzzer": "repetition", 
+        "geoip-country": "Germany"
+    }, 
+    {
+        "dns-a": [
+            "155.98.32.70"
+        ], 
+        "dns-mx": [
+            "mailhub.flux.utah.edu", 
+            "ops.netbed.org"
+        ], 
+        "dns-ns": [
+            "ns.emulab.net", 
+            "ns2.emulab.net", 
+            "ns5.emulab.net"
+        ], 
+        "domain-name": "netbed.org", 
+        "fuzzer": "replacement", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "54.208.31.49"
+        ], 
+        "domain-name": "n.etbsd.org", 
+        "fuzzer": "subdomain", 
+        "geoip-country": "United States"
+    }, 
+    {
+        "dns-a": [
+            "72.52.4.119"
+        ], 
+        "dns-mx": [
+            "localhost"
+        ], 
+        "dns-ns": [
+            "ns1.sedoparking.com", 
+            "ns2.sedoparking.com"
+        ], 
+        "domain-name": "ne.tbsd.org", 
+        "fuzzer": "subdomain", 
+        "geoip-country": "United States", 
+        "mx-spy": true, 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "192.64.147.192"
+        ], 
+        "domain-name": "netb.sd.org", 
+        "fuzzer": "subdomain", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "50.63.46.1"
+        ], 
+        "dns-ns": [
+            "A.SERVICE.AFILIASDNS.INFO", 
+            "B.SERVICE.AFILIASDNS.org", 
+            "C.SERVICE.AFILIASDNS.NET", 
+            "D.SERVICE.AFILIASDNS.COM", 
+            "E.SERVICE.AFILIASDNS.INFO", 
+            "F.SERVICE.AFILIASDNS.NET"
+        ], 
+        "domain-name": "netbs.d.org", 
+        "fuzzer": "subdomain", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 0
+    }
+]

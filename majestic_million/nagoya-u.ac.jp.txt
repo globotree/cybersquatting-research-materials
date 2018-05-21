@@ -1,0 +1,29 @@
+[
+    {
+        "dns-mx": [
+            "mxsc-11.nagoya-u.ac.jp", 
+            "mxsc-12.nagoya-u.ac.jp", 
+            "mxsc-13.nagoya-u.ac.jp", 
+            "mxsc-14.nagoya-u.ac.jp"
+        ], 
+        "dns-ns": [
+            "dns-x.sinet.ad.jp", 
+            "ns.nagoya-u.ac.jp", 
+            "ns2nd.gw.nagoya-u.ac.jp"
+        ], 
+        "domain-name": "nagoya-u.ac.jp", 
+        "fuzzer": "original*"
+    }, 
+    {
+        "dns-a": [
+            "133.6.182.82"
+        ], 
+        "dns-ns": [
+            "ns.nagoya-u.jp", 
+            "ns2nd.gw.nagoya-u.ac.jp", 
+            "ns3.nagoya-u.jp"
+        ], 
+        "domain-name": "nagoya-u.jp", 
+        "fuzzer": "various"
+    }
+]

@@ -1,0 +1,28 @@
+[
+    {
+        "dns-mx": [
+            "smtp.sgsi.ucl.ac.be"
+        ], 
+        "dns-ns": [
+            "ns1.belnet.be", 
+            "ns1.sri.ucl.ac.be", 
+            "ns2.belnet.be", 
+            "ns2.sri.ucl.ac.be", 
+            "ns3.sri.ucl.ac.be"
+        ], 
+        "domain-name": "ucl.ac.be", 
+        "fuzzer": "original*"
+    }, 
+    {
+        "dns-mx": [
+            "smtp.sgsi.ucl.ac.be"
+        ], 
+        "dns-ns": [
+            "ns1.sri.ucl.ac.be", 
+            "ns2.sri.ucl.ac.be", 
+            "ns3.sri.ucl.ac.be"
+        ], 
+        "domain-name": "ucl.be", 
+        "fuzzer": "various"
+    }
+]

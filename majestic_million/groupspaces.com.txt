@@ -1,0 +1,60 @@
+[
+    {
+        "dns-a": [
+            "107.20.200.87"
+        ], 
+        "dns-mx": [
+            "avocet.groupspaces.com", 
+            "brant.groupspaces.com"
+        ], 
+        "dns-ns": [
+            "ns-1056.awsdns-04.org", 
+            "ns-1889.awsdns-44.co.uk", 
+            "ns-421.awsdns-52.com", 
+            "ns-727.awsdns-26.net"
+        ], 
+        "domain-name": "groupspaces.com", 
+        "fuzzer": "original*", 
+        "geoip-country": "United States", 
+        "mx-spy": true, 
+        "ssdeep-score": 96
+    }, 
+    {
+        "dns-a": [
+            "204.13.98.228"
+        ], 
+        "dns-ns": [
+            "ns1.ization.com"
+        ], 
+        "domain-name": "groupspace.com", 
+        "fuzzer": "omission", 
+        "geoip-country": "United States"
+    }, 
+    {
+        "dns-a": [
+            "192.64.119.254"
+        ], 
+        "domain-name": "gro.upspaces.com", 
+        "fuzzer": "subdomain", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "69.172.201.153"
+        ], 
+        "domain-name": "groups.paces.com", 
+        "fuzzer": "subdomain", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "195.72.134.116", 
+            "195.72.135.96"
+        ], 
+        "domain-name": "groupsp.aces.com", 
+        "fuzzer": "subdomain", 
+        "geoip-country": "Austria"
+    }
+]

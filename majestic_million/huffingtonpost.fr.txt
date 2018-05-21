@@ -1,0 +1,101 @@
+[
+    {
+        "dns-a": [
+            "149.174.107.97", 
+            "149.174.110.102", 
+            "207.200.74.38", 
+            "64.12.79.57", 
+            "64.12.89.186"
+        ], 
+        "dns-mx": [
+            "mx-l01.red.aol.com", 
+            "mx-m01.red.aol.com"
+        ], 
+        "dns-ns": [
+            "ns1.p132.dynect.net", 
+            "ns2.p132.dynect.net", 
+            "ns3.p132.dynect.net", 
+            "ns4.p132.dynect.net", 
+            "pdns120.ultradns.biz", 
+            "pdns120.ultradns.com", 
+            "pdns120.ultradns.net", 
+            "pdns120.ultradns.org"
+        ], 
+        "domain-name": "huffingtonpost.fr", 
+        "fuzzer": "original*", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 100
+    }, 
+    {
+        "dns-a": [
+            "165.160.13.20", 
+            "165.160.15.20"
+        ], 
+        "dns-mx": [
+            "mx.dnsassurance.com"
+        ], 
+        "dns-ns": [
+            "a4.nstld.com", 
+            "f4.nstld.com", 
+            "g4.nstld.com", 
+            "l4.nstld.com"
+        ], 
+        "domain-name": "lhuffingtonpost.fr", 
+        "fuzzer": "homoglyph", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 99
+    }, 
+    {
+        "dns-a": [
+            "165.160.13.20", 
+            "165.160.15.20"
+        ], 
+        "dns-mx": [
+            "mx.dnsassurance.com"
+        ], 
+        "dns-ns": [
+            "a4.nstld.com", 
+            "f4.nstld.com", 
+            "g4.nstld.com", 
+            "l4.nstld.com"
+        ], 
+        "domain-name": "huffington-post.fr", 
+        "fuzzer": "hyphenation", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 99
+    }, 
+    {
+        "dns-a": [
+            "185.53.178.9"
+        ], 
+        "dns-mx": [
+            "mail.h-email.net"
+        ], 
+        "dns-ns": [
+            "ns1.parkingcrew.net", 
+            "ns2.parkingcrew.net"
+        ], 
+        "domain-name": "hufingtonpost.fr", 
+        "fuzzer": "omission", 
+        "geoip-country": "Germany", 
+        "mx-spy": true, 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "72.52.4.122"
+        ], 
+        "dns-mx": [
+            "localhost"
+        ], 
+        "dns-ns": [
+            "ns1.sedoparking.com", 
+            "ns2.sedoparking.com"
+        ], 
+        "domain-name": "huffingtonp.ost.fr", 
+        "fuzzer": "subdomain", 
+        "geoip-country": "United States", 
+        "mx-spy": true, 
+        "ssdeep-score": 0
+    }
+]

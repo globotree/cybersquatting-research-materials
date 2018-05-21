@@ -1,0 +1,149 @@
+[
+    {
+        "dns-a": [
+            "81.246.65.146"
+        ], 
+        "dns-mx": [
+            "mail1.saipm.com", 
+            "mail2.saipm.com"
+        ], 
+        "dns-ns": [
+            "ns1.saipm.com", 
+            "ns2.observatoiredesmarques.fr", 
+            "ns2.saipm.com", 
+            "ns4.saipm.com"
+        ], 
+        "domain-name": "lalibre.be", 
+        "fuzzer": "original*", 
+        "geoip-country": "Belgium", 
+        "ssdeep-score": 100
+    }, 
+    {
+        "dns-mx": [
+            "alt1.aspmx.l.google.com", 
+            "alt2.aspmx.l.google.com", 
+            "aspmx.l.google.com", 
+            "aspmx2.googlemail.com", 
+            "aspmx3.googlemail.com", 
+            "aspmx4.googlemail.com", 
+            "aspmx5.googlemail.com"
+        ], 
+        "dns-ns": [
+            "ns2.observatoiredesmarques.fr", 
+            "observatoire.observatoiredesmarques.fr"
+        ], 
+        "domain-name": "malibre.be", 
+        "fuzzer": "bitsquatting"
+    }, 
+    {
+        "dns-mx": [
+            "mta-gw.infomaniak.ch"
+        ], 
+        "dns-ns": [
+            "prd1.lelibre.net", 
+            "sdns2.ovh.net"
+        ], 
+        "domain-name": "lelibre.be", 
+        "fuzzer": "bitsquatting"
+    }, 
+    {
+        "dns-a": [
+            "185.53.179.7"
+        ], 
+        "dns-mx": [
+            "mail.h-email.net"
+        ], 
+        "dns-ns": [
+            "ns1.fastpark.net", 
+            "ns2.fastpark.net"
+        ], 
+        "domain-name": "lalibe.be", 
+        "fuzzer": "omission", 
+        "geoip-country": "Germany", 
+        "mx-spy": true, 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "109.71.52.121"
+        ], 
+        "dns-mx": [
+            "mx10.onlinemailscanner.com", 
+            "mx20.onlinemailscanner.com"
+        ], 
+        "dns-ns": [
+            "ns1.yourwebhoster.com", 
+            "ns2.yourwebhoster.com", 
+            "ns3.yourwebhoster.nl", 
+            "ns4.yourwebhoster.nl"
+        ], 
+        "domain-name": "alibre.be", 
+        "fuzzer": "omission", 
+        "geoip-country": "Netherlands", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "54.72.9.51"
+        ], 
+        "dns-ns": [
+            "ns1.fastpark.net", 
+            "ns2.fastpark.net"
+        ], 
+        "domain-name": "lalbre.be", 
+        "fuzzer": "omission", 
+        "geoip-country": "Ireland", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "103.224.182.211"
+        ], 
+        "dns-mx": [
+            "park-mx.above.com"
+        ], 
+        "dns-ns": [
+            "ns1.above.com", 
+            "ns2.above.com"
+        ], 
+        "domain-name": "lallibre.be", 
+        "fuzzer": "repetition", 
+        "geoip-country": "Australia", 
+        "mx-spy": true, 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "103.224.182.211"
+        ], 
+        "dns-mx": [
+            "park-mx.above.com"
+        ], 
+        "dns-ns": [
+            "ns1.above.com", 
+            "ns2.above.com"
+        ], 
+        "domain-name": "llalibre.be", 
+        "fuzzer": "repetition", 
+        "geoip-country": "Australia", 
+        "mx-spy": true, 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "37.72.163.140"
+        ], 
+        "dns-mx": [
+            "mx.backup.mailprotect.be", 
+            "mx.mailprotect.be"
+        ], 
+        "dns-ns": [
+            "ns3.combell.net", 
+            "ns4.combell.net"
+        ], 
+        "domain-name": "kalibre.be", 
+        "fuzzer": "replacement", 
+        "geoip-country": "Belgium", 
+        "ssdeep-score": 0
+    }
+]

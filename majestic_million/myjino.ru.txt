@@ -1,0 +1,83 @@
+[
+    {
+        "dns-a": [
+            "81.177.141.15"
+        ], 
+        "dns-mx": [
+            "mail.myjino.ru"
+        ], 
+        "dns-ns": [
+            "ns1.jino.ru", 
+            "ns2.jino.ru"
+        ], 
+        "domain-name": "myjino.ru", 
+        "fuzzer": "original*", 
+        "geoip-country": "Russian Federation", 
+        "ssdeep-score": 94
+    }, 
+    {
+        "dns-a": [
+            "185.53.179.40"
+        ], 
+        "dns-ns": [
+            "ns1.snparking.ru", 
+            "ns2.snparking.ru"
+        ], 
+        "domain-name": "mykino.ru", 
+        "fuzzer": "bitsquatting", 
+        "geoip-country": "Germany", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "87.236.19.14"
+        ], 
+        "dns-mx": [
+            "mx1.beget.ru", 
+            "mx2.beget.ru"
+        ], 
+        "dns-ns": [
+            "ns1.beget.com", 
+            "ns1.beget.pro", 
+            "ns1.beget.ru", 
+            "ns2.beget.com", 
+            "ns2.beget.pro", 
+            "ns2.beget.ru"
+        ], 
+        "domain-name": "myjinn.ru", 
+        "fuzzer": "bitsquatting", 
+        "geoip-country": "Russian Federation", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "81.177.141.15"
+        ], 
+        "dns-ns": [
+            "ns1.jino.ru", 
+            "ns2.jino.ru", 
+            "ns3.jino.ru", 
+            "ns4.jino.ru"
+        ], 
+        "domain-name": "myjno.ru", 
+        "fuzzer": "omission", 
+        "geoip-country": "Russian Federation", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "81.177.141.15"
+        ], 
+        "domain-name": "my.jino.ru", 
+        "fuzzer": "subdomain", 
+        "geoip-country": "Russian Federation", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "127.0.0.99"
+        ], 
+        "domain-name": "myji.no.ru", 
+        "fuzzer": "subdomain"
+    }
+]

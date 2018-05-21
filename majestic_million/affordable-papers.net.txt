@@ -1,0 +1,65 @@
+[
+    {
+        "dns-a": [
+            "104.25.64.13", 
+            "104.25.65.13"
+        ], 
+        "dns-aaaa": [
+            "2400:cb00:2048:1::6819:400d", 
+            "2400:cb00:2048:1::6819:410d"
+        ], 
+        "dns-mx": [
+            "mail.affordable-papers.net"
+        ], 
+        "dns-ns": [
+            "beth.ns.cloudflare.com", 
+            "jobs.ns.cloudflare.com"
+        ], 
+        "domain-name": "affordable-papers.net", 
+        "fuzzer": "original*", 
+        "geoip-country": "United States", 
+        "mx-spy": true, 
+        "ssdeep-score": 100
+    }, 
+    {
+        "dns-a": [
+            "192.64.119.107"
+        ], 
+        "dns-mx": [
+            "eforward1.registrar-servers.com", 
+            "eforward2.registrar-servers.com", 
+            "eforward3.registrar-servers.com", 
+            "eforward4.registrar-servers.com", 
+            "eforward5.registrar-servers.com"
+        ], 
+        "dns-ns": [
+            "dns1.registrar-servers.com", 
+            "dns2.registrar-servers.com", 
+            "dns3.registrar-servers.com", 
+            "dns4.registrar-servers.com", 
+            "dns5.registrar-servers.com"
+        ], 
+        "domain-name": "affordablepapers.net", 
+        "fuzzer": "omission", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "104.28.2.236", 
+            "104.28.3.236"
+        ], 
+        "dns-aaaa": [
+            "2400:cb00:2048:1::681c:2ec", 
+            "2400:cb00:2048:1::681c:3ec"
+        ], 
+        "dns-ns": [
+            "beth.ns.cloudflare.com", 
+            "jobs.ns.cloudflare.com"
+        ], 
+        "domain-name": "affordable-paper.net", 
+        "fuzzer": "omission", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 0
+    }
+]

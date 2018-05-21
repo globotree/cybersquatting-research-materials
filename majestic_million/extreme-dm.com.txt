@@ -1,0 +1,82 @@
+[
+    {
+        "dns-a": [
+            "54.225.199.91"
+        ], 
+        "dns-mx": [
+            "extremedm-com01i.mail.protection.outlook.com", 
+            "pop.extreme-dm.com"
+        ], 
+        "dns-ns": [
+            "awsns.extreme-dm.com", 
+            "awsns.extremetracking.com", 
+            "awsns.extremetracking.net"
+        ], 
+        "domain-name": "extreme-dm.com", 
+        "fuzzer": "original*", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 100
+    }, 
+    {
+        "dns-a": [
+            "173.239.23.228"
+        ], 
+        "dns-ns": [
+            "NS1.DOMAIN-IS-4-SALE-AT-DOMAINMARKET.com", 
+            "NS2.DOMAINMARKET.com"
+        ], 
+        "domain-name": "extremedm.com", 
+        "fuzzer": "omission", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "45.120.148.41"
+        ], 
+        "dns-mx": [
+            "extreme-d.com"
+        ], 
+        "dns-ns": [
+            "ns3.a2hosting.com", 
+            "ns4.a2hosting.com"
+        ], 
+        "domain-name": "extreme-d.com", 
+        "fuzzer": "omission", 
+        "geoip-country": "Singapore", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "184.168.221.22"
+        ], 
+        "dns-mx": [
+            "mailstore1.secureserver.net", 
+            "smtp.secureserver.net"
+        ], 
+        "dns-ns": [
+            "ns15.domaincontrol.com", 
+            "ns16.domaincontrol.com"
+        ], 
+        "domain-name": "extreme-dj.com", 
+        "fuzzer": "replacement", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "50.63.202.50"
+        ], 
+        "dns-mx": [
+            "mailstore1.secureserver.net", 
+            "smtp.secureserver.net"
+        ], 
+        "dns-ns": [
+            "ns03.domaincontrol.com", 
+            "ns04.domaincontrol.com"
+        ], 
+        "domain-name": "extreme-md.com", 
+        "fuzzer": "transposition", 
+        "geoip-country": "United States"
+    }
+]

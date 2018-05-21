@@ -1,0 +1,166 @@
+[
+    {
+        "dns-a": [
+            "52.202.132.139", 
+            "52.206.92.215"
+        ], 
+        "dns-mx": [
+            "elsevierhealth-com.mail.protection.outlook.com"
+        ], 
+        "dns-ns": [
+            "ns-1039.awsdns-01.org", 
+            "ns-2029.awsdns-61.co.uk", 
+            "ns-376.awsdns-47.com", 
+            "ns-736.awsdns-28.net"
+        ], 
+        "domain-name": "elsevierhealth.com", 
+        "fuzzer": "original*", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 74
+    }, 
+    {
+        "dns-a": [
+            "217.19.248.132"
+        ], 
+        "dns-mx": [
+            "mail-relay1.elsevier.co.uk", 
+            "mail-relay2.elsevier.co.uk", 
+            "mail-relay3.elsevier.co.uk", 
+            "mail-relay4.elsevier.com", 
+            "mail-relay5.elsevier.com"
+        ], 
+        "dns-ns": [
+            "ns1.reedelsevier.com", 
+            "ns2.reedelsevier.com", 
+            "ns3.reedelsevier.com"
+        ], 
+        "domain-name": "elsevier-health.com", 
+        "fuzzer": "hyphenation", 
+        "geoip-country": "United Kingdom", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "217.19.248.132"
+        ], 
+        "dns-ns": [
+            "ns1.reedelsevier.com", 
+            "ns2.reedelsevier.com", 
+            "ns3.reedelsevier.com"
+        ], 
+        "domain-name": "elservierhealth.com", 
+        "fuzzer": "insertion", 
+        "geoip-country": "United Kingdom", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "208.73.210.202", 
+            "208.73.210.217", 
+            "208.73.211.165", 
+            "208.73.211.177"
+        ], 
+        "dns-ns": [
+            "ns1.dsredirection.com", 
+            "ns2.dsredirection.com"
+        ], 
+        "domain-name": "elsevierheath.com", 
+        "fuzzer": "omission", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "217.19.248.132"
+        ], 
+        "dns-ns": [
+            "ns1.reedelsevier.com", 
+            "ns2.reedelsevier.com", 
+            "ns3.reedelsevier.com"
+        ], 
+        "domain-name": "elsvierhealth.com", 
+        "fuzzer": "omission", 
+        "geoip-country": "United Kingdom", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "69.172.201.153"
+        ], 
+        "domain-name": "elsevierh.ealth.com", 
+        "fuzzer": "subdomain", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "69.172.201.153"
+        ], 
+        "dns-ns": [
+            "ns1.uniregistrymarket.link", 
+            "ns2.uniregistrymarket.link"
+        ], 
+        "domain-name": "elsevierhe.alth.com", 
+        "fuzzer": "subdomain", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "217.19.248.132"
+        ], 
+        "dns-ns": [
+            "ns1.reedelsevier.com", 
+            "ns2.reedelsevier.com", 
+            "ns3.reedelsevier.com"
+        ], 
+        "domain-name": "elesvierhealth.com", 
+        "fuzzer": "transposition", 
+        "geoip-country": "United Kingdom", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "217.19.248.132"
+        ], 
+        "dns-ns": [
+            "ns1.reedelsevier.com", 
+            "ns2.reedelsevier.com", 
+            "ns3.reedelsevier.com"
+        ], 
+        "domain-name": "elseveirhealth.com", 
+        "fuzzer": "transposition", 
+        "geoip-country": "United Kingdom", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "185.53.178.9"
+        ], 
+        "dns-mx": [
+            "mail.h-email.net"
+        ], 
+        "dns-ns": [
+            "ns1.parkingcrew.net", 
+            "ns2.parkingcrew.net"
+        ], 
+        "domain-name": "elsevierhelath.com", 
+        "fuzzer": "transposition", 
+        "geoip-country": "Germany", 
+        "mx-spy": true
+    }, 
+    {
+        "dns-a": [
+            "217.19.248.132"
+        ], 
+        "dns-ns": [
+            "ns1.reedelsevier.com", 
+            "ns2.reedelsevier.com", 
+            "ns3.reedelsevier.com"
+        ], 
+        "domain-name": "elsivierhealth.com", 
+        "fuzzer": "vowel-swap", 
+        "geoip-country": "United Kingdom", 
+        "ssdeep-score": 0
+    }
+]

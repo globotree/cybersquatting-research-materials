@@ -1,0 +1,40 @@
+[
+    {
+        "dns-a": [
+            "34.200.129.209"
+        ], 
+        "dns-mx": [
+            "mailgateway03.uchicago.edu", 
+            "mailgateway04.uchicago.edu", 
+            "mailgateway05.uchicago.edu", 
+            "mailgateway06.uchicago.edu", 
+            "mailgateway07.uchicago.edu"
+        ], 
+        "dns-ns": [
+            "ucns1.uchicago.uiowa.edu", 
+            "ucns1.uchicago.yale.edu", 
+            "ucns3.uchicago.edu", 
+            "ucns4.uchicago.edu"
+        ], 
+        "domain-name": "uchicago.edu", 
+        "fuzzer": "original*", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 100
+    }, 
+    {
+        "dns-a": [
+            "198.13.123.227"
+        ], 
+        "dns-ns": [
+            "ns1.linode.com", 
+            "ns2.linode.com", 
+            "ns3.linode.com", 
+            "ns4.linode.com", 
+            "ns5.linode.com"
+        ], 
+        "domain-name": "uchicago-edu.com", 
+        "fuzzer": "various", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 0
+    }
+]

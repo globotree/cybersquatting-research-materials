@@ -1,0 +1,33 @@
+[
+    {
+        "dns-a": [
+            "107.189.40.42"
+        ], 
+        "dns-mx": [
+            "mail.presstv.ir"
+        ], 
+        "dns-ns": [
+            "ns1.presstv.ir", 
+            "presstv.ir"
+        ], 
+        "domain-name": "presstv.ir", 
+        "fuzzer": "original*", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 100
+    }, 
+    {
+        "dns-a": [
+            "5.144.130.40"
+        ], 
+        "dns-mx": [
+            "presstb.ir"
+        ], 
+        "dns-ns": [
+            "ns1.hostiran.net", 
+            "ns2.hostiran.net"
+        ], 
+        "domain-name": "presstb.ir", 
+        "fuzzer": "replacement", 
+        "geoip-country": "Iran"
+    }
+]

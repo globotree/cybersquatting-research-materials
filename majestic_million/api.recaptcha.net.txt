@@ -1,0 +1,55 @@
+[
+    {
+        "dns-a": [
+            "173.194.220.103", 
+            "173.194.220.104", 
+            "173.194.220.105", 
+            "173.194.220.106", 
+            "173.194.220.147", 
+            "173.194.220.99"
+        ], 
+        "dns-aaaa": [
+            "2a00:1450:4010:c09::63"
+        ], 
+        "domain-name": "api.recaptcha.net", 
+        "fuzzer": "original*", 
+        "geoip-country": "United States"
+    }, 
+    {
+        "dns-a": [
+            "104.31.68.252", 
+            "104.31.69.252"
+        ], 
+        "dns-aaaa": [
+            "2400:cb00:2048:1::681f:44fc", 
+            "2400:cb00:2048:1::681f:45fc"
+        ], 
+        "domain-name": "api.re-captcha.net", 
+        "fuzzer": "hyphenation", 
+        "geoip-country": "United States"
+    }, 
+    {
+        "dns-a": [
+            "204.11.56.48"
+        ], 
+        "dns-ns": [
+            "ns1626.ztomy.com", 
+            "ns2626.ztomy.com"
+        ], 
+        "domain-name": "api.recap.tcha.net", 
+        "fuzzer": "subdomain", 
+        "geoip-country": "Virgin Islands"
+    }, 
+    {
+        "dns-a": [
+            "69.172.201.153"
+        ], 
+        "dns-ns": [
+            "ns1.uniregistrymarket.link", 
+            "ns2.uniregistrymarket.link"
+        ], 
+        "domain-name": "api.recaptc.ha.net", 
+        "fuzzer": "subdomain", 
+        "geoip-country": "United States"
+    }
+]

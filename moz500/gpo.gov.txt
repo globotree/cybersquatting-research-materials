@@ -1,0 +1,32 @@
+[
+    {
+        "dns-a": [
+            "162.140.254.82"
+        ], 
+        "dns-mx": [
+            "gpo-gov.mail.protection.outlook.com"
+        ], 
+        "dns-ns": [
+            "ns1.gpo.gov", 
+            "ns2.gpo.gov"
+        ], 
+        "domain-name": "gpo.gov", 
+        "fuzzer": "original*", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 83
+    }, 
+    {
+        "dns-a": [
+            "143.228.126.65"
+        ], 
+        "dns-mx": [
+            "bouncebacks.gop.gov"
+        ], 
+        "dns-ns": [
+            "chyron.house.gov", 
+            "mercury.house.gov"
+        ], 
+        "domain-name": "gop.gov", 
+        "fuzzer": "transposition"
+    }
+]

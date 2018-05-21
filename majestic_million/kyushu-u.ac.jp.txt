@@ -1,0 +1,26 @@
+[
+    {
+        "dns-mx": [
+            "mx2.iii.kyushu-u.ac.jp"
+        ], 
+        "dns-ns": [
+            "ns.nc.kyushu-u.ac.jp", 
+            "ns1.kyushu-u.ac.jp", 
+            "ns2.kyushu-u.ac.jp", 
+            "nsb.nc.kyushu-u.ac.jp"
+        ], 
+        "domain-name": "kyushu-u.ac.jp", 
+        "fuzzer": "original*"
+    }, 
+    {
+        "dns-mx": [
+            "br6.m.kyushu-u.ac.jp"
+        ], 
+        "dns-ns": [
+            "ns1.kyushu-u.jp", 
+            "ns2.kyushu-u.jp"
+        ], 
+        "domain-name": "kyushu-u.jp", 
+        "fuzzer": "various"
+    }
+]

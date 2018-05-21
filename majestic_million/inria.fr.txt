@@ -1,0 +1,347 @@
+[
+    {
+        "dns-a": [
+            "128.93.162.84"
+        ], 
+        "dns-mx": [
+            "mail2-smtp-roc.national.inria.fr", 
+            "mail3-smtp-sop.national.inria.fr"
+        ], 
+        "dns-ns": [
+            "dns-ext2.inria.fr", 
+            "dns.cs.wisc.edu", 
+            "dns.inria.fr", 
+            "ns2.nic.fr"
+        ], 
+        "domain-name": "inria.fr", 
+        "fuzzer": "original*", 
+        "geoip-country": "France", 
+        "ssdeep-score": 100
+    }, 
+    {
+        "dns-a": [
+            "87.98.129.12"
+        ], 
+        "dns-mx": [
+            "soleil.id-alizes.net"
+        ], 
+        "dns-ns": [
+            "a.dns.gandi.net", 
+            "b.dns.gandi.net", 
+            "c.dns.gandi.net"
+        ], 
+        "domain-name": "ifria.fr", 
+        "fuzzer": "bitsquatting", 
+        "geoip-country": "France", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "217.70.184.38"
+        ], 
+        "dns-mx": [
+            "fb.mail.gandi.net", 
+            "spool.mail.gandi.net"
+        ], 
+        "dns-ns": [
+            "a.dns.gandi.net", 
+            "b.dns.gandi.net", 
+            "c.dns.gandi.net"
+        ], 
+        "domain-name": "insia.fr", 
+        "fuzzer": "bitsquatting", 
+        "geoip-country": "France", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "91.241.42.157"
+        ], 
+        "dns-mx": [
+            "mta1.gemalto.com", 
+            "mta2.gemalto.com", 
+            "smtp3.gemalto.com", 
+            "smtp4.gemalto.com"
+        ], 
+        "dns-ns": [
+            "dns1.gemalto.com", 
+            "dns2.gemalto.com", 
+            "spdns3.cscdns.net"
+        ], 
+        "domain-name": "invia.fr", 
+        "fuzzer": "bitsquatting", 
+        "geoip-country": "France", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "213.186.33.19"
+        ], 
+        "dns-mx": [
+            "mx1.ovh.net", 
+            "mx2.ovh.net"
+        ], 
+        "dns-ns": [
+            "dns10.ovh.net", 
+            "ns10.ovh.net"
+        ], 
+        "domain-name": "inrie.fr", 
+        "fuzzer": "bitsquatting", 
+        "geoip-country": "France", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-mx": [
+            "redirmail1.reg.bookmyname.com", 
+            "redirmail2.reg.bookmyname.com"
+        ], 
+        "dns-ns": [
+            "nsa.bookmyname.com", 
+            "nsb.bookmyname.com", 
+            "nsc.bookmyname.com"
+        ], 
+        "domain-name": "lnria.fr", 
+        "fuzzer": "homoglyph"
+    }, 
+    {
+        "dns-ns": [
+            "nsa.bookmyname.com", 
+            "nsb.bookmyname.com", 
+            "nsc.bookmyname.com"
+        ], 
+        "domain-name": "xn--inra-xpa.fr", 
+        "fuzzer": "homoglyph"
+    }, 
+    {
+        "dns-a": [
+            "213.186.33.87"
+        ], 
+        "dns-mx": [
+            "mx1.ovh.net", 
+            "mx2.ovh.net", 
+            "mxb.ovh.net"
+        ], 
+        "dns-ns": [
+            "dns108.ovh.net", 
+            "ns108.ovh.net"
+        ], 
+        "domain-name": "infria.fr", 
+        "fuzzer": "insertion", 
+        "geoip-country": "France", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "188.165.53.185"
+        ], 
+        "dns-mx": [
+            "mx1.mail.ovh.net", 
+            "mx2.mail.ovh.net", 
+            "mx3.mail.ovh.net"
+        ], 
+        "dns-ns": [
+            "dns200.anycast.me", 
+            "ns200.anycast.me"
+        ], 
+        "domain-name": "ineria.fr", 
+        "fuzzer": "insertion", 
+        "geoip-country": "France", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-mx": [
+            "srvheb.indria.fr"
+        ], 
+        "dns-ns": [
+            "ns0.online.net", 
+            "ns1.online.net"
+        ], 
+        "domain-name": "indria.fr", 
+        "fuzzer": "insertion"
+    }, 
+    {
+        "dns-a": [
+            "178.237.110.205"
+        ], 
+        "dns-mx": [
+            "mxa.relay.renater.fr", 
+            "mxb.relay.renater.fr", 
+            "mxc.relay.renater.fr", 
+            "mxd.relay.renater.fr"
+        ], 
+        "dns-ns": [
+            "ns1.inra.fr", 
+            "ns2.inra.fr", 
+            "ns3.inra.fr"
+        ], 
+        "domain-name": "inra.fr", 
+        "fuzzer": "omission", 
+        "geoip-country": "France", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "91.121.44.141"
+        ], 
+        "dns-mx": [
+            "mx1.ovh.net", 
+            "mx2.ovh.net", 
+            "mxb.ovh.net"
+        ], 
+        "dns-ns": [
+            "dns107.ovh.net", 
+            "ns107.ovh.net"
+        ], 
+        "domain-name": "iria.fr", 
+        "fuzzer": "omission", 
+        "geoip-country": "France", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "213.186.33.5"
+        ], 
+        "dns-mx": [
+            "redirect.ovh.net"
+        ], 
+        "dns-ns": [
+            "dns101.ovh.net", 
+            "ns101.ovh.net"
+        ], 
+        "domain-name": "inri.fr", 
+        "fuzzer": "omission", 
+        "geoip-country": "France", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "164.132.235.17"
+        ], 
+        "dns-mx": [
+            "mx1.mail.ovh.net", 
+            "mx2.mail.ovh.net", 
+            "mx3.mail.ovh.net"
+        ], 
+        "dns-ns": [
+            "dns12.ovh.net", 
+            "ns12.ovh.net"
+        ], 
+        "domain-name": "nria.fr", 
+        "fuzzer": "omission", 
+        "geoip-country": "France", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "62.210.229.18"
+        ], 
+        "dns-mx": [
+            "mail.inia.fr"
+        ], 
+        "dns-ns": [
+            "a.dns.gandi.net", 
+            "b.dns.gandi.net", 
+            "c.dns.gandi.net"
+        ], 
+        "domain-name": "inia.fr", 
+        "fuzzer": "omission", 
+        "geoip-country": "France"
+    }, 
+    {
+        "dns-a": [
+            "213.186.33.2"
+        ], 
+        "dns-mx": [
+            "mx1.ovh.net", 
+            "mx2.ovh.net"
+        ], 
+        "dns-ns": [
+            "dns.ovh.net", 
+            "ns.ovh.net"
+        ], 
+        "domain-name": "india.fr", 
+        "fuzzer": "replacement", 
+        "geoip-country": "France", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-mx": [
+            "mx-cache.online.net", 
+            "mx.online.net"
+        ], 
+        "dns-ns": [
+            "ns0.online.net", 
+            "ns1.online.net"
+        ], 
+        "domain-name": "inris.fr", 
+        "fuzzer": "replacement"
+    }, 
+    {
+        "dns-a": [
+            "213.186.33.186"
+        ], 
+        "dns-mx": [
+            "alt1.aspmx.l.google.com", 
+            "alt2.aspmx.l.google.com", 
+            "alt3.aspmx.l.google.com", 
+            "alt4.aspmx.l.google.com", 
+            "aspmx.l.google.com"
+        ], 
+        "dns-ns": [
+            "dns200.anycast.me", 
+            "ns200.anycast.me"
+        ], 
+        "domain-name": "intia.fr", 
+        "fuzzer": "replacement", 
+        "geoip-country": "France", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "195.114.18.160"
+        ], 
+        "dns-mx": [
+            "mx3.ispfr.net", 
+            "mx4.ispfr.net"
+        ], 
+        "dns-ns": [
+            "ns1.ispfr.net", 
+            "ns2.ispfr.net", 
+            "ns3.ispfr.net"
+        ], 
+        "domain-name": "inira.fr", 
+        "fuzzer": "transposition", 
+        "geoip-country": "France", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "217.160.231.146"
+        ], 
+        "dns-mx": [
+            "mx00.1and1.fr", 
+            "mx01.1and1.fr"
+        ], 
+        "dns-ns": [
+            "ns1093.ui-dns.biz", 
+            "ns1093.ui-dns.com", 
+            "ns1093.ui-dns.de", 
+            "ns1093.ui-dns.org"
+        ], 
+        "domain-name": "inrio.fr", 
+        "fuzzer": "vowel-swap", 
+        "geoip-country": "Germany", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "213.186.33.19"
+        ], 
+        "dns-ns": [
+            "dns13.ovh.net", 
+            "ns13.ovh.net"
+        ], 
+        "domain-name": "inrea.fr", 
+        "fuzzer": "vowel-swap"
+    }
+]

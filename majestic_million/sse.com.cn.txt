@@ -1,0 +1,563 @@
+[
+    {
+        "dns-a": [
+            "222.73.229.15"
+        ], 
+        "dns-mx": [
+            "email.sse.com.cn", 
+            "mail-1.sse.com.cn", 
+            "mail-2.sse.com.cn", 
+            "mailback.sse.com.cn"
+        ], 
+        "dns-ns": [
+            "sse-dns.sse.com.cn", 
+            "sse-dns2.sse.com.cn"
+        ], 
+        "domain-name": "sse.com.cn", 
+        "fuzzer": "original*", 
+        "geoip-country": "China"
+    }, 
+    {
+        "dns-a": [
+            "47.89.58.32"
+        ], 
+        "dns-ns": [
+            "dns7.hichina.com", 
+            "dns8.hichina.com"
+        ], 
+        "domain-name": "ssea.com.cn", 
+        "fuzzer": "addition", 
+        "geoip-country": "United States"
+    }, 
+    {
+        "dns-mx": [
+            "mail.ssec.com.cn"
+        ], 
+        "dns-ns": [
+            "dns7.hichina.com", 
+            "dns8.hichina.com"
+        ], 
+        "domain-name": "ssec.com.cn", 
+        "fuzzer": "addition", 
+        "mx-spy": true
+    }, 
+    {
+        "dns-a": [
+            "59.188.68.202"
+        ], 
+        "dns-mx": [
+            "mx.ssed.com.cn"
+        ], 
+        "dns-ns": [
+            "ns19.xincache.com", 
+            "ns20.xincache.com"
+        ], 
+        "domain-name": "ssed.com.cn", 
+        "fuzzer": "addition", 
+        "geoip-country": "Hong Kong"
+    }, 
+    {
+        "dns-a": [
+            "103.232.215.129"
+        ], 
+        "dns-mx": [
+            "mail.happyisp.com"
+        ], 
+        "domain-name": "ssee.com.cn", 
+        "fuzzer": "addition", 
+        "geoip-country": "China", 
+        "mx-spy": true
+    }, 
+    {
+        "dns-ns": [
+            "ns19.xincache.com", 
+            "ns20.xincache.com"
+        ], 
+        "domain-name": "ssel.com.cn", 
+        "fuzzer": "addition"
+    }, 
+    {
+        "dns-ns": [
+            "ns1.ezdnscenter.com", 
+            "ns2.ezdnscenter.com", 
+            "ns3.ezdnscenter.com", 
+            "ns4.ezdnscenter.com", 
+            "ns5.ezdnscenter.com", 
+            "ns6.ezdnscenter.com"
+        ], 
+        "domain-name": "ssem.com.cn", 
+        "fuzzer": "addition"
+    }, 
+    {
+        "dns-a": [
+            "106.14.106.84"
+        ], 
+        "dns-ns": [
+            "dns13.hichina.com", 
+            "dns14.hichina.com"
+        ], 
+        "domain-name": "ssen.com.cn", 
+        "fuzzer": "addition", 
+        "geoip-country": "China"
+    }, 
+    {
+        "dns-mx": [
+            "mailserver.ssep.com.cn", 
+            "mailserver1.ssep.com.cn"
+        ], 
+        "dns-ns": [
+            "ns19.xincache.com", 
+            "ns20.xincache.com"
+        ], 
+        "domain-name": "ssep.com.cn", 
+        "fuzzer": "addition"
+    }, 
+    {
+        "dns-ns": [
+            "dns001.yeahi.net", 
+            "dns002.yeahi.net"
+        ], 
+        "domain-name": "sses.com.cn", 
+        "fuzzer": "addition"
+    }, 
+    {
+        "dns-ns": [
+            "ns17.xincache.com", 
+            "ns18.xincache.com"
+        ], 
+        "domain-name": "ssev.com.cn", 
+        "fuzzer": "addition"
+    }, 
+    {
+        "dns-a": [
+            "45.120.153.79"
+        ], 
+        "domain-name": "ssew.com.cn", 
+        "fuzzer": "addition", 
+        "geoip-country": "Hong Kong"
+    }, 
+    {
+        "dns-a": [
+            "199.59.242.150"
+        ], 
+        "dns-mx": [
+            "mx76.m2bp.com", 
+            "mx76.mb1p.com"
+        ], 
+        "dns-ns": [
+            "ns1.bodis.com", 
+            "ns2.bodis.com"
+        ], 
+        "domain-name": "ssex.com.cn", 
+        "fuzzer": "addition", 
+        "geoip-country": "United States", 
+        "mx-spy": true
+    }, 
+    {
+        "dns-a": [
+            "207.226.138.70"
+        ], 
+        "dns-mx": [
+            "mx.qiye.163.com", 
+            "mx2.qiye.163.com"
+        ], 
+        "domain-name": "rse.com.cn", 
+        "fuzzer": "bitsquatting", 
+        "geoip-country": "United States"
+    }, 
+    {
+        "dns-a": [
+            "23.234.4.151", 
+            "23.234.4.153"
+        ], 
+        "domain-name": "qse.com.cn", 
+        "fuzzer": "bitsquatting", 
+        "geoip-country": "United States"
+    }, 
+    {
+        "dns-a": [
+            "42.159.246.211"
+        ], 
+        "dns-ns": [
+            "dns10.hichina.com", 
+            "dns9.hichina.com"
+        ], 
+        "domain-name": "wse.com.cn", 
+        "fuzzer": "bitsquatting", 
+        "geoip-country": "China"
+    }, 
+    {
+        "dns-mx": [
+            "mailedge.cse.com.cn", 
+            "mx.cse.com.cn"
+        ], 
+        "dns-ns": [
+            "dns27.hichina.com", 
+            "dns28.hichina.com"
+        ], 
+        "domain-name": "cse.com.cn", 
+        "fuzzer": "bitsquatting"
+    }, 
+    {
+        "dns-a": [
+            "121.42.74.39"
+        ], 
+        "domain-name": "3se.com.cn", 
+        "fuzzer": "bitsquatting", 
+        "geoip-country": "China"
+    }, 
+    {
+        "dns-a": [
+            "42.96.197.191"
+        ], 
+        "dns-mx": [
+            "mxn.mxhichina.com", 
+            "mxw.mxhichina.com"
+        ], 
+        "dns-ns": [
+            "dns7.hichina.com", 
+            "dns8.hichina.com"
+        ], 
+        "domain-name": "swe.com.cn", 
+        "fuzzer": "bitsquatting", 
+        "geoip-country": "China"
+    }, 
+    {
+        "dns-a": [
+            "59.151.31.45"
+        ], 
+        "dns-mx": [
+            "mail.sce.com.cn", 
+            "mxdomain.qq.com"
+        ], 
+        "dns-ns": [
+            "ns19.xincache.com", 
+            "ns20.xincache.com"
+        ], 
+        "domain-name": "sce.com.cn", 
+        "fuzzer": "bitsquatting", 
+        "geoip-country": "China"
+    }, 
+    {
+        "dns-a": [
+            "203.78.142.12"
+        ], 
+        "domain-name": "ssd.com.cn", 
+        "fuzzer": "bitsquatting", 
+        "geoip-country": "Hong Kong"
+    }, 
+    {
+        "dns-mx": [
+            "mx1.hc276-8.r1.ces.cisco.com", 
+            "mx2.hc276-8.r1.ces.cisco.com", 
+            "ssa-com-cn.mail.protection.outlook.com"
+        ], 
+        "dns-ns": [
+            "dns3.infor.com", 
+            "dns4.infor.com", 
+            "dns5.infor.com"
+        ], 
+        "domain-name": "ssa.com.cn", 
+        "fuzzer": "bitsquatting"
+    }, 
+    {
+        "dns-a": [
+            "50.117.120.251"
+        ], 
+        "dns-mx": [
+            "mail.happyisp.com"
+        ], 
+        "domain-name": "sase.com.cn", 
+        "fuzzer": "insertion", 
+        "geoip-country": "United States", 
+        "mx-spy": true
+    }, 
+    {
+        "dns-mx": [
+            "mxbiz1.qq.com", 
+            "mxbiz2.qq.com"
+        ], 
+        "dns-ns": [
+            "dns7.hichina.com", 
+            "dns8.hichina.com"
+        ], 
+        "domain-name": "ssye.com.cn", 
+        "fuzzer": "insertion"
+    }, 
+    {
+        "dns-a": [
+            "47.52.231.78"
+        ], 
+        "domain-name": "swse.com.cn", 
+        "fuzzer": "insertion", 
+        "geoip-country": "United States"
+    }, 
+    {
+        "dns-a": [
+            "160.124.47.109"
+        ], 
+        "dns-ns": [
+            "ns1.dnsdun.com", 
+            "ns1.dnsdun.net"
+        ], 
+        "domain-name": "sdse.com.cn", 
+        "fuzzer": "insertion", 
+        "geoip-country": "South Africa"
+    }, 
+    {
+        "dns-a": [
+            "116.89.250.211"
+        ], 
+        "dns-ns": [
+            "f1g1ns1.dnspod.net", 
+            "f1g1ns2.dnspod.net"
+        ], 
+        "domain-name": "sxse.com.cn", 
+        "fuzzer": "insertion"
+    }, 
+    {
+        "dns-a": [
+            "119.23.244.69"
+        ], 
+        "dns-ns": [
+            "ns1.alidns.com", 
+            "ns2.alidns.com"
+        ], 
+        "domain-name": "sese.com.cn", 
+        "fuzzer": "insertion", 
+        "geoip-country": "China"
+    }, 
+    {
+        "dns-ns": [
+            "ns17.xincache.com", 
+            "ns18.xincache.com"
+        ], 
+        "domain-name": "syse.com.cn", 
+        "fuzzer": "insertion"
+    }, 
+    {
+        "dns-a": [
+            "199.59.242.150"
+        ], 
+        "dns-mx": [
+            "mx76.m2bp.com", 
+            "mx76.mb1p.com"
+        ], 
+        "dns-ns": [
+            "ns1.bodis.com", 
+            "ns2.bodis.com"
+        ], 
+        "domain-name": "szse.com.cn", 
+        "fuzzer": "insertion", 
+        "geoip-country": "United States", 
+        "mx-spy": true
+    }, 
+    {
+        "dns-a": [
+            "50.117.120.251"
+        ], 
+        "dns-mx": [
+            "mail.happyisp.com"
+        ], 
+        "domain-name": "se.com.cn", 
+        "fuzzer": "omission", 
+        "geoip-country": "United States", 
+        "mx-spy": true
+    }, 
+    {
+        "dns-a": [
+            "104.18.56.169", 
+            "104.18.57.169"
+        ], 
+        "dns-aaaa": [
+            "2400:cb00:2048:1::6812:38a9", 
+            "2400:cb00:2048:1::6812:39a9"
+        ], 
+        "dns-ns": [
+            "alan.ns.cloudflare.com", 
+            "donna.ns.cloudflare.com"
+        ], 
+        "domain-name": "ss4.com.cn", 
+        "fuzzer": "replacement", 
+        "geoip-country": "United States"
+    }, 
+    {
+        "dns-a": [
+            "50.117.120.251"
+        ], 
+        "dns-mx": [
+            "mail.happyisp.com"
+        ], 
+        "domain-name": "ss3.com.cn", 
+        "fuzzer": "replacement", 
+        "geoip-country": "United States", 
+        "mx-spy": true
+    }, 
+    {
+        "dns-a": [
+            "162.221.6.13"
+        ], 
+        "dns-mx": [
+            "mx1.mx660.now.net.cn", 
+            "mx2.mx660.now.net.cn"
+        ], 
+        "dns-ns": [
+            "ns5010.01isp.com", 
+            "ns5011.01isp.cn"
+        ], 
+        "domain-name": "sze.com.cn", 
+        "fuzzer": "replacement", 
+        "geoip-country": "United States"
+    }, 
+    {
+        "dns-a": [
+            "23.27.192.117"
+        ], 
+        "dns-ns": [
+            "dns19.hichina.com", 
+            "dns20.hichina.com"
+        ], 
+        "domain-name": "see.com.cn", 
+        "fuzzer": "replacement", 
+        "geoip-country": "United States"
+    }, 
+    {
+        "dns-a": [
+            "121.198.222.152"
+        ], 
+        "dns-mx": [
+            "mx-hk.sye.com.cn", 
+            "mx3.sye.com.cn", 
+            "mx4.sye.com.cn", 
+            "mx5.sye.com.cn", 
+            "mx6.sye.com.cn"
+        ], 
+        "dns-ns": [
+            "ns1.sfn.cn", 
+            "ns2.sfn.cn"
+        ], 
+        "domain-name": "sye.com.cn", 
+        "fuzzer": "replacement", 
+        "geoip-country": "China"
+    }, 
+    {
+        "dns-a": [
+            "104.160.171.85"
+        ], 
+        "domain-name": "ese.com.cn", 
+        "fuzzer": "replacement", 
+        "geoip-country": "United States"
+    }, 
+    {
+        "dns-a": [
+            "106.75.129.88"
+        ], 
+        "dns-ns": [
+            "dns10.hichina.com", 
+            "dns9.hichina.com"
+        ], 
+        "domain-name": "dse.com.cn", 
+        "fuzzer": "replacement", 
+        "geoip-country": "China"
+    }, 
+    {
+        "dns-a": [
+            "101.132.99.45"
+        ], 
+        "dns-mx": [
+            "mail.ssw.com.cn"
+        ], 
+        "dns-ns": [
+            "ns1-06.azure-dns.com", 
+            "ns2-06.azure-dns.net", 
+            "ns3-06.azure-dns.org", 
+            "ns4-06.azure-dns.info"
+        ], 
+        "domain-name": "ssw.com.cn", 
+        "fuzzer": "replacement", 
+        "geoip-country": "China"
+    }, 
+    {
+        "dns-mx": [
+            "mx.ym.163.com"
+        ], 
+        "dns-ns": [
+            "ns19.xincache.com", 
+            "ns20.xincache.com"
+        ], 
+        "domain-name": "sss.com.cn", 
+        "fuzzer": "replacement"
+    }, 
+    {
+        "dns-a": [
+            "115.28.133.175"
+        ], 
+        "dns-mx": [
+            "59.42.255.177"
+        ], 
+        "dns-ns": [
+            "dns1.hichina.com", 
+            "dns2.hichina.com"
+        ], 
+        "domain-name": "ssr.com.cn", 
+        "fuzzer": "replacement", 
+        "geoip-country": "China"
+    }, 
+    {
+        "dns-a": [
+            "180.169.29.227"
+        ], 
+        "dns-mx": [
+            "mail.ase.com.cn"
+        ], 
+        "dns-ns": [
+            "ns6.hotsales.net"
+        ], 
+        "domain-name": "ase.com.cn", 
+        "fuzzer": "replacement"
+    }, 
+    {
+        "dns-a": [
+            "119.29.3.172"
+        ], 
+        "dns-mx": [
+            "hemx174.cn4e.com"
+        ], 
+        "domain-name": "yse.com.cn", 
+        "fuzzer": "replacement"
+    }, 
+    {
+        "dns-a": [
+            "203.78.142.12"
+        ], 
+        "domain-name": "zse.com.cn", 
+        "fuzzer": "replacement", 
+        "geoip-country": "Hong Kong"
+    }, 
+    {
+        "dns-a": [
+            "203.78.142.12"
+        ], 
+        "domain-name": "xse.com.cn", 
+        "fuzzer": "replacement", 
+        "geoip-country": "Hong Kong"
+    }, 
+    {
+        "dns-a": [
+            "50.117.120.251"
+        ], 
+        "dns-mx": [
+            "mail.happyisp.com"
+        ], 
+        "domain-name": "s.se.com.cn", 
+        "fuzzer": "subdomain"
+    }, 
+    {
+        "dns-a": [
+            "122.112.12.39"
+        ], 
+        "domain-name": "ss.e.com.cn", 
+        "fuzzer": "subdomain", 
+        "geoip-country": "China"
+    }
+]

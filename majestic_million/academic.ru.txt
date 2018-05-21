@@ -1,0 +1,189 @@
+[
+    {
+        "dns-a": [
+            "138.201.81.43", 
+            "85.17.154.100"
+        ], 
+        "dns-mx": [
+            "alt1.aspmx.l.google.com", 
+            "alt2.aspmx.l.google.com", 
+            "aspmx.l.google.com", 
+            "aspmx2.googlemail.com", 
+            "aspmx3.googlemail.com", 
+            "aspmx4.googlemail.com", 
+            "aspmx5.googlemail.com"
+        ], 
+        "dns-ns": [
+            "ns.academic.ru", 
+            "ns3-l2.nic.ru", 
+            "ns4-cloud.nic.ru", 
+            "ns4-l2.nic.ru", 
+            "ns8-cloud.nic.ru", 
+            "ns8-l2.nic.ru"
+        ], 
+        "domain-name": "academic.ru", 
+        "fuzzer": "original*", 
+        "geoip-country": "Germany", 
+        "ssdeep-score": 100
+    }, 
+    {
+        "dns-a": [
+            "91.109.202.79"
+        ], 
+        "dns-mx": [
+            "mx.yandex.ru"
+        ], 
+        "dns-ns": [
+            "ns1.mastername.ru", 
+            "ns2.mastername.ru"
+        ], 
+        "domain-name": "academica.ru", 
+        "fuzzer": "addition", 
+        "geoip-country": "Russian Federation", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "195.128.126.232"
+        ], 
+        "dns-mx": [
+            "mx.yandex.net"
+        ], 
+        "dns-ns": [
+            "ns02.parking.ru", 
+            "ns03.parking.ru", 
+            "ns05.parking.ru", 
+            "ns06.parking.ru", 
+            "ns07.parking.ru", 
+            "ns08.parking.ru"
+        ], 
+        "domain-name": "academico.ru", 
+        "fuzzer": "addition", 
+        "geoip-country": "Russian Federation", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "31.31.205.163"
+        ], 
+        "domain-name": "academics.ru", 
+        "fuzzer": "addition", 
+        "geoip-country": "Russian Federation", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "127.0.0.99"
+        ], 
+        "dns-mx": [
+            "localhost"
+        ], 
+        "dns-ns": [
+            "ns1.sedoparking.com", 
+            "ns2.sedoparking.com"
+        ], 
+        "domain-name": "akademic.ru", 
+        "fuzzer": "bitsquatting", 
+        "mx-spy": true, 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "31.31.205.163"
+        ], 
+        "domain-name": "academia.ru", 
+        "fuzzer": "bitsquatting", 
+        "geoip-country": "Russian Federation", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-ns": [
+            "ns1.snparking.ru", 
+            "ns2.snparking.ru"
+        ], 
+        "domain-name": "academik.ru", 
+        "fuzzer": "bitsquatting"
+    }, 
+    {
+        "dns-a": [
+            "89.23.196.57"
+        ], 
+        "dns-mx": [
+            "mail.academis.ru"
+        ], 
+        "dns-ns": [
+            "ns3-l2.nic.ru", 
+            "ns4-cloud.nic.ru", 
+            "ns4-l2.nic.ru", 
+            "ns8-cloud.nic.ru", 
+            "ns8-l2.nic.ru"
+        ], 
+        "domain-name": "academis.ru", 
+        "fuzzer": "bitsquatting", 
+        "geoip-country": "Russian Federation"
+    }, 
+    {
+        "dns-a": [
+            "185.26.122.41"
+        ], 
+        "dns-mx": [
+            "emx.mail.ru"
+        ], 
+        "dns-ns": [
+            "ns.hostland.ru", 
+            "ns3.hostland.ru"
+        ], 
+        "domain-name": "academc.ru", 
+        "fuzzer": "omission", 
+        "geoip-country": "Russian Federation", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-mx": [
+            "mail.ahk.ru"
+        ], 
+        "dns-ns": [
+            "ns.masterhost.ru", 
+            "ns1.masterhost.ru", 
+            "ns2.masterhost.ru"
+        ], 
+        "domain-name": "academi.ru", 
+        "fuzzer": "omission"
+    }, 
+    {
+        "dns-a": [
+            "91.195.240.135"
+        ], 
+        "dns-ns": [
+            "ns3.salenames.ru", 
+            "ns4.salenames.ru"
+        ], 
+        "domain-name": "academix.ru", 
+        "fuzzer": "replacement", 
+        "geoip-country": "Germany", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "72.52.4.90"
+        ], 
+        "domain-name": "acad.emic.ru", 
+        "fuzzer": "subdomain", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "192.185.135.96"
+        ], 
+        "dns-mx": [
+            "mail.academec.ru"
+        ], 
+        "dns-ns": [
+            "ns211.ehosts.com", 
+            "ns212.ehosts.com"
+        ], 
+        "domain-name": "academec.ru", 
+        "fuzzer": "vowel-swap"
+    }
+]

@@ -1,0 +1,93 @@
+[
+    {
+        "dns-a": [
+            "144.92.9.70"
+        ], 
+        "dns-mx": [
+            "mta1.wiscmail.wisc.edu", 
+            "mta2.wiscmail.wisc.edu", 
+            "mta3.wiscmail.wisc.edu", 
+            "mta4.wiscmail.wisc.edu", 
+            "mta5.wiscmail.wisc.edu", 
+            "smtp.wiscmail.wisc.edu"
+        ], 
+        "dns-ns": [
+            "adns1.doit.wisc.edu", 
+            "adns2.doit.wisc.edu", 
+            "adns3.doit.wisc.edu", 
+            "dns2.itd.umich.edu"
+        ], 
+        "domain-name": "wisc.edu", 
+        "fuzzer": "original*", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 100
+    }, 
+    {
+        "dns-a": [
+            "50.56.64.4"
+        ], 
+        "dns-mx": [
+            "ALT1.ASPMX.L.GOOGLE.com", 
+            "ALT2.ASPMX.L.GOOGLE.com", 
+            "ASPMX.L.GOOGLE.com", 
+            "ASPMX2.GOOGLEMAIL.com", 
+            "ASPMX3.GOOGLEMAIL.com", 
+            "ASPMX4.GOOGLEMAIL.com", 
+            "ASPMX5.GOOGLEMAIL.com", 
+            "WIS.EDU.S9A1.PSMTP.com", 
+            "WIS.EDU.S9A2.PSMTP.com", 
+            "WIS.EDU.S9B1.PSMTP.com", 
+            "WIS.EDU.S9B2.PSMTP.com"
+        ], 
+        "dns-ns": [
+            "ns1.dnspark.com", 
+            "ns2.dnspark.net"
+        ], 
+        "domain-name": "wis.edu", 
+        "fuzzer": "omission", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "192.160.97.9"
+        ], 
+        "dns-mx": [
+            "d66569a.ess.barracudanetworks.com", 
+            "d66569b.ess.barracudanetworks.com"
+        ], 
+        "dns-ns": [
+            "dns1.doc.state.ne.us", 
+            "wscns.wsc.edu"
+        ], 
+        "domain-name": "wsc.edu", 
+        "fuzzer": "omission", 
+        "geoip-country": "United States"
+    }, 
+    {
+        "dns-a": [
+            "18.221.22.144"
+        ], 
+        "dns-mx": [
+            "alt1.aspmx.l.google.com", 
+            "alt2.aspmx.l.google.com", 
+            "aspmx.l.google.com", 
+            "aspmx2.googlemail.com", 
+            "aspmx3.googlemail.com", 
+            "aspmx4.googlemail.com", 
+            "aspmx5.googlemail.com", 
+            "mailbox.wosc.edu", 
+            "moodle.wosc.edu"
+        ], 
+        "dns-ns": [
+            "ns-1373.awsdns-43.org", 
+            "ns-1582.awsdns-05.co.uk", 
+            "ns-346.awsdns-43.com", 
+            "ns-958.awsdns-55.net"
+        ], 
+        "domain-name": "wosc.edu", 
+        "fuzzer": "replacement", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 0
+    }
+]

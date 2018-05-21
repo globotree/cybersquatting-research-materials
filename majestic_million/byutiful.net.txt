@@ -1,0 +1,52 @@
+[
+    {
+        "dns-a": [
+            "62.149.128.151", 
+            "62.149.128.154", 
+            "62.149.128.157", 
+            "62.149.128.160", 
+            "62.149.128.163", 
+            "62.149.128.166", 
+            "62.149.128.72", 
+            "62.149.128.74"
+        ], 
+        "dns-mx": [
+            "mx.byutiful.net"
+        ], 
+        "dns-ns": [
+            "dns.technorail.com", 
+            "dns2.technorail.com", 
+            "dns3.arubadns.net", 
+            "dns4.arubadns.cz"
+        ], 
+        "domain-name": "byutiful.net", 
+        "fuzzer": "original*", 
+        "geoip-country": "Italy", 
+        "ssdeep-score": 93
+    }, 
+    {
+        "dns-a": [
+            "66.96.162.128"
+        ], 
+        "dns-mx": [
+            "mx.butiful.net"
+        ], 
+        "dns-ns": [
+            "ns1.domain.com", 
+            "ns2.domain.com"
+        ], 
+        "domain-name": "butiful.net", 
+        "fuzzer": "omission", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "208.87.24.13"
+        ], 
+        "domain-name": "byuti.ful.net", 
+        "fuzzer": "subdomain", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 0
+    }
+]

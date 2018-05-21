@@ -1,0 +1,33 @@
+[
+    {
+        "dns-a": [
+            "94.130.236.100"
+        ], 
+        "dns-aaaa": [
+            "2a01:4f8:13b:13db::2"
+        ], 
+        "dns-ns": [
+            "ns1.bplaced.net", 
+            "ns2.bplaced.net", 
+            "ns3.bplaced.net"
+        ], 
+        "domain-name": "square7.ch", 
+        "fuzzer": "original*", 
+        "geoip-country": "Ukraine"
+    }, 
+    {
+        "dns-a": [
+            "80.74.150.210"
+        ], 
+        "dns-mx": [
+            "mail.square.ch"
+        ], 
+        "dns-ns": [
+            "ns.ch-inter.net", 
+            "ns2.ch-inter.net"
+        ], 
+        "domain-name": "square.ch", 
+        "fuzzer": "omission", 
+        "geoip-country": "Switzerland"
+    }
+]

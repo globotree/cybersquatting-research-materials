@@ -1,0 +1,91 @@
+[
+    {
+        "dns-mx": [
+            "antispam.net.nthu.edu.tw"
+        ], 
+        "dns-ns": [
+            "dns1.nthu.edu.tw", 
+            "dns2.nthu.edu.tw", 
+            "dns3.nthu.edu.tw", 
+            "dns3.twaren.net"
+        ], 
+        "domain-name": "nthu.edu.tw", 
+        "fuzzer": "original*"
+    }, 
+    {
+        "dns-mx": [
+            "ALT1.ASPMX.L.GOOGLE.COM", 
+            "ALT2.ASPMX.L.GOOGLE.COM", 
+            "ASPMX.L.GOOGLE.COM", 
+            "ASPMX2.L.GOOGLE.COM", 
+            "ASPMX3.L.GOOGLE.COM"
+        ], 
+        "dns-ns": [
+            "dns.ndhu.edu.tw", 
+            "dns2.ndhu.edu.tw"
+        ], 
+        "domain-name": "ndhu.edu.tw", 
+        "fuzzer": "bitsquatting"
+    }, 
+    {
+        "dns-a": [
+            "203.72.0.4", 
+            "203.72.0.9"
+        ], 
+        "dns-mx": [
+            "alt1.aspmx.l.google.com", 
+            "alt2.aspmx.l.google.com", 
+            "aspmx.l.google.com", 
+            "aspmx2.googlemail.com", 
+            "aspmx3.googlemail.com"
+        ], 
+        "dns-ns": [
+            "dns-ins.nhu.edu.tw", 
+            "dns.nhu.edu.tw", 
+            "dns3.twaren.net", 
+            "libdns.nhu.edu.tw", 
+            "proxy.nhu.edu.tw"
+        ], 
+        "domain-name": "nhu.edu.tw", 
+        "fuzzer": "omission", 
+        "geoip-country": "Taiwan"
+    }, 
+    {
+        "dns-mx": [
+            "sunny.thu.edu.tw", 
+            "thunder.thu.edu.tw", 
+            "tmail.thu.edu.tw"
+        ], 
+        "dns-ns": [
+            "dns.thu.edu.tw"
+        ], 
+        "domain-name": "thu.edu.tw", 
+        "fuzzer": "omission"
+    }, 
+    {
+        "dns-mx": [
+            "mgw.ntu.edu.tw"
+        ], 
+        "dns-ns": [
+            "dns.ntu.edu.tw", 
+            "dns.tp1rc.edu.tw", 
+            "ntu3.ntu.edu.tw"
+        ], 
+        "domain-name": "ntu.edu.tw", 
+        "fuzzer": "omission"
+    }, 
+    {
+        "dns-mx": [
+            "mg155.ntnu.edu.tw", 
+            "mg156.ntnu.edu.tw", 
+            "mg3.ntnu.edu.tw"
+        ], 
+        "dns-ns": [
+            "cc.ntnu.edu.tw", 
+            "dns3.ntnu.edu.tw", 
+            "ns2.ntnu.edu.tw"
+        ], 
+        "domain-name": "ntnu.edu.tw", 
+        "fuzzer": "replacement"
+    }
+]

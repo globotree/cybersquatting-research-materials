@@ -1,0 +1,39 @@
+[
+    {
+        "dns-a": [
+            "159.142.191.124"
+        ], 
+        "dns-aaaa": [
+            "2620:0:150:400d::123"
+        ], 
+        "dns-ns": [
+            "dns.gsa.gov", 
+            "dns2.gsa.gov", 
+            "dns3.gsa.gov", 
+            "dns4.gsa.gov", 
+            "dns5.gsa.gov"
+        ], 
+        "domain-name": "section508.gov", 
+        "fuzzer": "original*", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 100
+    }, 
+    {
+        "dns-a": [
+            "140.147.249.7"
+        ], 
+        "dns-mx": [
+            "pps02a.loc.gov", 
+            "pps02c.loc.gov"
+        ], 
+        "dns-ns": [
+            "ns21.loc.gov", 
+            "ns23.loc.gov"
+        ], 
+        "domain-name": "section108.gov", 
+        "fuzzer": "bitsquatting", 
+        "geoip-country": "United States", 
+        "mx-spy": true, 
+        "ssdeep-score": 0
+    }
+]

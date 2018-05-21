@@ -1,0 +1,132 @@
+[
+    {
+        "dns-mx": [
+            "mx1.myhostadmin.net", 
+            "vipmail8.myhostadmin.net"
+        ], 
+        "dns-ns": [
+            "ns1.myhostadmin.net", 
+            "ns2.myhostadmin.net", 
+            "ns3.myhostadmin.net", 
+            "ns4.myhostadmin.net", 
+            "ns5.myhostadmin.net", 
+            "ns6.myhostadmin.net"
+        ], 
+        "domain-name": "gotoip2.com", 
+        "fuzzer": "original*"
+    }, 
+    {
+        "dns-a": [
+            "1.2.3.4"
+        ], 
+        "dns-ns": [
+            "ns1.myhostadmin.net", 
+            "ns2.myhostadmin.net", 
+            "ns3.myhostadmin.net", 
+            "ns4.myhostadmin.net", 
+            "ns5.myhostadmin.net", 
+            "ns6.myhostadmin.net"
+        ], 
+        "domain-name": "gotoip3.com", 
+        "fuzzer": "bitsquatting", 
+        "geoip-country": "United States"
+    }, 
+    {
+        "dns-ns": [
+            "ns11.xincache.com", 
+            "ns12.xincache.com"
+        ], 
+        "domain-name": "gotoip6.com", 
+        "fuzzer": "bitsquatting"
+    }, 
+    {
+        "dns-a": [
+            "52.40.146.251"
+        ], 
+        "dns-ns": [
+            "ns0.dnsdm.com", 
+            "ns1.dnsdm.com", 
+            "ns2.dnsdm.com", 
+            "ns3.dnsdm.com", 
+            "ns4.dnsdm.com"
+        ], 
+        "domain-name": "gotoipr.com", 
+        "fuzzer": "bitsquatting", 
+        "geoip-country": "United States"
+    }, 
+    {
+        "dns-ns": [
+            "f1g1ns1.dnspod.net", 
+            "f1g1ns2.dnspod.net"
+        ], 
+        "domain-name": "gotoip02.com", 
+        "fuzzer": "insertion"
+    }, 
+    {
+        "dns-a": [
+            "69.172.201.153"
+        ], 
+        "dns-ns": [
+            "ns1.uniregistrymarket.link", 
+            "ns2.uniregistrymarket.link"
+        ], 
+        "domain-name": "gotoip.com", 
+        "fuzzer": "omission", 
+        "geoip-country": "United States"
+    }, 
+    {
+        "dns-ns": [
+            "ns1.cloud-dns.net", 
+            "ns2.cloud-dns.net"
+        ], 
+        "domain-name": "gotoipz.com", 
+        "fuzzer": "replacement"
+    }, 
+    {
+        "dns-a": [
+            "69.160.246.214"
+        ], 
+        "dns-mx": [
+            "mx11.hostmailserver.com", 
+            "mx12.hostmailserver.com"
+        ], 
+        "dns-ns": [
+            "ns1.mydomain.com", 
+            "ns2.mydomain.com"
+        ], 
+        "domain-name": "gotoil2.com", 
+        "fuzzer": "replacement"
+    }, 
+    {
+        "dns-a": [
+            "1.2.3.4"
+        ], 
+        "dns-ns": [
+            "ns1.myhostadmin.net", 
+            "ns2.myhostadmin.net", 
+            "ns3.myhostadmin.net", 
+            "ns4.myhostadmin.net", 
+            "ns5.myhostadmin.net", 
+            "ns6.myhostadmin.net"
+        ], 
+        "domain-name": "gotoip1.com", 
+        "fuzzer": "replacement", 
+        "geoip-country": "United States"
+    }, 
+    {
+        "dns-a": [
+            "70.32.1.32"
+        ], 
+        "dns-mx": [
+            "park-mx.above.com"
+        ], 
+        "dns-ns": [
+            "ns1.above.com", 
+            "ns2.above.com"
+        ], 
+        "domain-name": "goto.ip2.com", 
+        "fuzzer": "subdomain", 
+        "geoip-country": "United States", 
+        "mx-spy": true
+    }
+]

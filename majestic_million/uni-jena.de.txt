@@ -1,0 +1,60 @@
+[
+    {
+        "dns-a": [
+            "141.35.1.74"
+        ], 
+        "dns-mx": [
+            "mail1.it-dlz.de", 
+            "mail2.it-dlz.de"
+        ], 
+        "dns-ns": [
+            "dns-3.dfn.de", 
+            "news.uni-leipzig.de", 
+            "ns.uni-jena.de", 
+            "ns2.uni-jena.de", 
+            "prakinf2.prakinf.tu-ilmenau.de"
+        ], 
+        "domain-name": "uni-jena.de", 
+        "fuzzer": "original*", 
+        "geoip-country": "Germany", 
+        "ssdeep-score": 100
+    }, 
+    {
+        "dns-ns": [
+            "ns.uni-jena.de", 
+            "ns2.uni-jena.de", 
+            "prakinf2.Prakinf.TU-Ilmenau.de"
+        ], 
+        "domain-name": "unijena.de", 
+        "fuzzer": "omission"
+    }, 
+    {
+        "dns-a": [
+            "185.53.179.8"
+        ], 
+        "dns-mx": [
+            "mail.h-email.net"
+        ], 
+        "dns-ns": [
+            "ns1.parkingcrew.net", 
+            "ns2.parkingcrew.net"
+        ], 
+        "domain-name": "unni-jena.de", 
+        "fuzzer": "repetition", 
+        "geoip-country": "Germany", 
+        "mx-spy": true, 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "78.47.59.169"
+        ], 
+        "dns-aaaa": [
+            "2a01:4f8:190:62f4::13"
+        ], 
+        "domain-name": "uni-j.ena.de", 
+        "fuzzer": "subdomain", 
+        "geoip-country": "Germany", 
+        "ssdeep-score": 0
+    }
+]

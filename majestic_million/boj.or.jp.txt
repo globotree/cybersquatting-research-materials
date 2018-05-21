@@ -1,0 +1,68 @@
+[
+    {
+        "dns-ns": [
+            "ns01-dr.boj.or.jp", 
+            "ns01.boj.or.jp", 
+            "ns02.boj.or.jp"
+        ], 
+        "domain-name": "boj.or.jp", 
+        "fuzzer": "original*"
+    }, 
+    {
+        "dns-a": [
+            "60.37.31.202", 
+            "60.37.31.203"
+        ], 
+        "dns-mx": [
+            "vcgw1.ocn.ad.jp", 
+            "vcgw2.ocn.ad.jp"
+        ], 
+        "dns-ns": [
+            "ns6-tk01.ocn.ad.jp", 
+            "ns6-tk02.ocn.ad.jp"
+        ], 
+        "domain-name": "bok.or.jp", 
+        "fuzzer": "bitsquatting", 
+        "geoip-country": "Japan"
+    }, 
+    {
+        "dns-a": [
+            "219.118.197.28"
+        ], 
+        "dns-mx": [
+            "zmx06.admiral.ne.jp"
+        ], 
+        "dns-ns": [
+            "ns.admiral.ne.jp", 
+            "ns2.admiral.ne.jp"
+        ], 
+        "domain-name": "boh.or.jp", 
+        "fuzzer": "bitsquatting", 
+        "geoip-country": "Japan"
+    }, 
+    {
+        "dns-a": [
+            "133.18.15.24"
+        ], 
+        "dns-ns": [
+            "ns0.kagoya.net", 
+            "ns1.kagoya.net"
+        ], 
+        "domain-name": "obj.or.jp", 
+        "fuzzer": "transposition"
+    }, 
+    {
+        "dns-a": [
+            "211.13.196.142"
+        ], 
+        "dns-mx": [
+            "mx.baj.or.jp"
+        ], 
+        "dns-ns": [
+            "ns.namedserver.net", 
+            "ns2.namedserver.net"
+        ], 
+        "domain-name": "baj.or.jp", 
+        "fuzzer": "vowel-swap"
+    }
+]

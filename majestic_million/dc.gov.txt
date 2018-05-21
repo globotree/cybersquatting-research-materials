@@ -1,0 +1,54 @@
+[
+    {
+        "dns-a": [
+            "164.82.40.54", 
+            "164.82.9.158"
+        ], 
+        "dns-aaaa": [
+            "2620:0:190:110::1160"
+        ], 
+        "dns-mx": [
+            "smtp3.dc.gov", 
+            "smtp3b.dc.gov"
+        ], 
+        "dns-ns": [
+            "ns1.washingtondc.gov", 
+            "ns2.washingtondc.gov", 
+            "ns3.washingtondc.gov", 
+            "ns4.washingtondc.gov"
+        ], 
+        "domain-name": "dc.gov", 
+        "fuzzer": "original*", 
+        "geoip-country": "United States"
+    }, 
+    {
+        "dns-a": [
+            "52.216.81.2"
+        ], 
+        "dns-mx": [
+            "inbound-smtp.us-east-1.amazonaws.com"
+        ], 
+        "dns-ns": [
+            "ns-1352.awsdns-41.org", 
+            "ns-136.awsdns-17.com", 
+            "ns-1863.awsdns-40.co.uk", 
+            "ns-960.awsdns-56.net"
+        ], 
+        "domain-name": "df.gov", 
+        "fuzzer": "replacement"
+    }, 
+    {
+        "dns-a": [
+            "167.7.51.20"
+        ], 
+        "dns-mx": [
+            "cioe500.state.sc.us"
+        ], 
+        "dns-ns": [
+            "ns1.net.state.sc.us", 
+            "ns2.net.state.sc.us"
+        ], 
+        "domain-name": "sc.gov", 
+        "fuzzer": "replacement"
+    }
+]

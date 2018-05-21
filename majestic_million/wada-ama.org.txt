@@ -1,0 +1,74 @@
+[
+    {
+        "dns-a": [
+            "204.74.99.100"
+        ], 
+        "dns-mx": [
+            "ironport01.wada-ama.org", 
+            "ironport02.wada-ama.org"
+        ], 
+        "dns-ns": [
+            "pdns79.ultradns.biz", 
+            "pdns79.ultradns.com", 
+            "pdns79.ultradns.net", 
+            "pdns79.ultradns.org"
+        ], 
+        "domain-name": "wada-ama.org", 
+        "fuzzer": "original*", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 100
+    }, 
+    {
+        "dns-a": [
+            "46.140.72.203"
+        ], 
+        "dns-mx": [
+            "www.waba-ama.org"
+        ], 
+        "dns-ns": [
+            "ns-121-b.gandi.net", 
+            "ns-33-a.gandi.net", 
+            "ns-40-c.gandi.net"
+        ], 
+        "domain-name": "waba-ama.org", 
+        "fuzzer": "homoglyph", 
+        "geoip-country": "Switzerland"
+    }, 
+    {
+        "dns-a": [
+            "206.188.192.70"
+        ], 
+        "dns-mx": [
+            "p.webcom.ctmail.com"
+        ], 
+        "dns-ns": [
+            "ns7.worldnic.com", 
+            "ns8.worldnic.com"
+        ], 
+        "domain-name": "wada-ana.org", 
+        "fuzzer": "homoglyph", 
+        "geoip-country": "United States", 
+        "mx-spy": true, 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-mx": [
+            "w011a87e.kasserver.com"
+        ], 
+        "dns-ns": [
+            "ns5.kasserver.com", 
+            "ns6.kasserver.com"
+        ], 
+        "domain-name": "wada-am.org", 
+        "fuzzer": "omission"
+    }, 
+    {
+        "dns-a": [
+            "104.154.94.123"
+        ], 
+        "domain-name": "wada-am.a.org", 
+        "fuzzer": "subdomain", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 0
+    }
+]

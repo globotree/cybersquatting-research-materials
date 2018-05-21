@@ -1,0 +1,30 @@
+[
+    {
+        "dns-mx": [
+            "mailgate3.darpa.mil", 
+            "mailgate4.darpa.mil", 
+            "mailgate5.darpa.mil", 
+            "mailgate6.darpa.mil"
+        ], 
+        "dns-ns": [
+            "ns1.darpa.mil", 
+            "ns2.darpa.mil", 
+            "ns3.darpa.mil"
+        ], 
+        "domain-name": "darpa.mil", 
+        "fuzzer": "original*"
+    }, 
+    {
+        "dns-mx": [
+            "mailgate3.darpa.mil", 
+            "mailgate4.darpa.mil"
+        ], 
+        "dns-ns": [
+            "ns1.darpa.mil", 
+            "ns2.darpa.mil", 
+            "ns3.darpa.mil"
+        ], 
+        "domain-name": "arpa.mil", 
+        "fuzzer": "omission"
+    }
+]

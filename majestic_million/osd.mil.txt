@@ -1,0 +1,38 @@
+[
+    {
+        "dns-a": [
+            "134.152.192.11", 
+            "140.185.55.0"
+        ], 
+        "dns-mx": [
+            "mx1.osd.mil", 
+            "mx2.osd.mil", 
+            "mx7.osd.mil", 
+            "pri-jeemsg.eemsg.mail.mil", 
+            "sec-jeemsg.eemsg.mail.mil"
+        ], 
+        "dns-ns": [
+            "dns-pub-f1-u.pentagon.mil", 
+            "dns-pub-f2-u.pentagon.mil", 
+            "dns-pub-f3-u.pentagon.mil"
+        ], 
+        "domain-name": "osd.mil", 
+        "fuzzer": "original*", 
+        "geoip-country": "United States"
+    }, 
+    {
+        "dns-mx": [
+            "mailgw01.sd.mil", 
+            "mailgw01s1.sd.mil", 
+            "mailgw02.sd.mil", 
+            "mailgw02s1.sd.mil"
+        ], 
+        "dns-ns": [
+            "dns-pub-f1-u.pentagon.mil", 
+            "dns-pub-f2-u.pentagon.mil", 
+            "dns-pub-f3-u.pentagon.mil"
+        ], 
+        "domain-name": "sd.mil", 
+        "fuzzer": "omission"
+    }
+]

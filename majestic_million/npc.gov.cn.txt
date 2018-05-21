@@ -1,0 +1,135 @@
+[
+    {
+        "dns-mx": [
+            "mail.npc.gov.cn"
+        ], 
+        "dns-ns": [
+            "ns.npc.gov.cn", 
+            "ns1.npc.gov.cn", 
+            "ns2.npc.gov.cn", 
+            "ns3.npc.gov.cn", 
+            "ns4.npc.gov.cn"
+        ], 
+        "domain-name": "npc.gov.cn", 
+        "fuzzer": "original*"
+    }, 
+    {
+        "dns-a": [
+            "203.207.195.174"
+        ], 
+        "dns-mx": [
+            "mail.npcs.gov.cn"
+        ], 
+        "dns-ns": [
+            "ns.npcs.gov.cn"
+        ], 
+        "domain-name": "npcs.gov.cn", 
+        "fuzzer": "addition", 
+        "geoip-country": "China"
+    }, 
+    {
+        "dns-a": [
+            "210.73.137.5"
+        ], 
+        "dns-mx": [
+            "mxbiz1.qq.com", 
+            "mxbiz2.qq.com"
+        ], 
+        "dns-ns": [
+            "dns11.hichina.com", 
+            "dns12.hichina.com"
+        ], 
+        "domain-name": "lpc.gov.cn", 
+        "fuzzer": "bitsquatting", 
+        "geoip-country": "China"
+    }, 
+    {
+        "dns-a": [
+            "220.191.211.186"
+        ], 
+        "dns-mx": [
+            "mail.fpc.gov.cn", 
+            "pop.fpc.gov.cn", 
+            "pop3.fpc.gov.cn", 
+            "smtp.fpc.gov.cn"
+        ], 
+        "domain-name": "fpc.gov.cn", 
+        "fuzzer": "bitsquatting", 
+        "geoip-country": "China"
+    }, 
+    {
+        "dns-a": [
+            "218.67.107.27"
+        ], 
+        "dns-mx": [
+            "mx.fj.bnet.cn"
+        ], 
+        "dns-ns": [
+            "ns1.sfn.cn", 
+            "ns2.sfn.cn"
+        ], 
+        "domain-name": "np.gov.cn", 
+        "fuzzer": "omission"
+    }, 
+    {
+        "dns-a": [
+            "110.76.42.59"
+        ], 
+        "dns-ns": [
+            "ns13.xincache.com", 
+            "ns14.xincache.com"
+        ], 
+        "domain-name": "pc.gov.cn", 
+        "fuzzer": "omission", 
+        "geoip-country": "China"
+    }, 
+    {
+        "dns-mx": [
+            "mail.nc.gov.cn"
+        ], 
+        "dns-ns": [
+            "ns.nc.gov.cn"
+        ], 
+        "domain-name": "nc.gov.cn", 
+        "fuzzer": "omission"
+    }, 
+    {
+        "dns-a": [
+            "202.96.31.117"
+        ], 
+        "dns-ns": [
+            "bt2.nlc.gov.cn"
+        ], 
+        "domain-name": "nlc.gov.cn", 
+        "fuzzer": "replacement", 
+        "geoip-country": "China"
+    }, 
+    {
+        "dns-ns": [
+            "ns1.sfn.cn", 
+            "ns2.sfn.cn"
+        ], 
+        "domain-name": "nmc.gov.cn", 
+        "fuzzer": "replacement"
+    }, 
+    {
+        "dns-a": [
+            "119.10.26.151"
+        ], 
+        "dns-ns": [
+            "ns19.xincache.com", 
+            "ns20.xincache.com"
+        ], 
+        "domain-name": "hpc.gov.cn", 
+        "fuzzer": "replacement", 
+        "geoip-country": "China"
+    }, 
+    {
+        "dns-ns": [
+            "dns7.hichina.com", 
+            "dns8.hichina.com"
+        ], 
+        "domain-name": "ncp.gov.cn", 
+        "fuzzer": "transposition"
+    }
+]

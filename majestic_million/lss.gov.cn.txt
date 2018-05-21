@@ -1,0 +1,57 @@
+[
+    {
+        "dns-ns": [
+            "ns3.molss.gov.cn", 
+            "ns4.molss.gov.cn", 
+            "ns5.molss.gov.cn"
+        ], 
+        "domain-name": "lss.gov.cn", 
+        "fuzzer": "original*"
+    }, 
+    {
+        "dns-a": [
+            "110.189.91.106"
+        ], 
+        "dns-ns": [
+            "ns1.sfn.cn", 
+            "ns2.sfn.cn"
+        ], 
+        "domain-name": "lsst.gov.cn", 
+        "fuzzer": "addition", 
+        "geoip-country": "China"
+    }, 
+    {
+        "dns-a": [
+            "61.191.18.38"
+        ], 
+        "dns-ns": [
+            "dns.bizcn.com", 
+            "dns.cnmsn.net"
+        ], 
+        "domain-name": "dss.gov.cn", 
+        "fuzzer": "bitsquatting", 
+        "geoip-country": "China"
+    }, 
+    {
+        "dns-a": [
+            "61.145.75.135"
+        ], 
+        "dns-mx": [
+            "mail.ss.gov.cn"
+        ], 
+        "dns-ns": [
+            "ns.ss.gov.cn"
+        ], 
+        "domain-name": "ss.gov.cn", 
+        "fuzzer": "omission", 
+        "geoip-country": "China"
+    }, 
+    {
+        "dns-ns": [
+            "dns23.hichina.com", 
+            "dns24.hichina.com"
+        ], 
+        "domain-name": "lxs.gov.cn", 
+        "fuzzer": "replacement"
+    }
+]

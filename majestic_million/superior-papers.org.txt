@@ -1,0 +1,78 @@
+[
+    {
+        "dns-a": [
+            "104.28.24.184", 
+            "104.28.25.184"
+        ], 
+        "dns-aaaa": [
+            "2400:cb00:2048:1::681c:18b8", 
+            "2400:cb00:2048:1::681c:19b8"
+        ], 
+        "dns-ns": [
+            "beth.ns.cloudflare.com", 
+            "jobs.ns.cloudflare.com"
+        ], 
+        "domain-name": "superior-papers.org", 
+        "fuzzer": "original*", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 100
+    }, 
+    {
+        "dns-a": [
+            "35.167.249.127"
+        ], 
+        "dns-ns": [
+            "ns-1198.awsdns-21.org", 
+            "ns-1894.awsdns-44.co.uk", 
+            "ns-469.awsdns-58.com", 
+            "ns-622.awsdns-13.net"
+        ], 
+        "domain-name": "superiorpapers.org", 
+        "fuzzer": "omission", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "50.31.98.50"
+        ], 
+        "domain-name": "superior-p.apers.org", 
+        "fuzzer": "subdomain", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "185.53.178.6"
+        ], 
+        "dns-mx": [
+            "mail.h-email.net"
+        ], 
+        "dns-ns": [
+            "ns1.parkingcrew.net", 
+            "ns2.parkingcrew.net"
+        ], 
+        "domain-name": "superior-pa.pers.org", 
+        "fuzzer": "subdomain", 
+        "geoip-country": "Germany", 
+        "mx-spy": true, 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "50.63.46.1"
+        ], 
+        "dns-ns": [
+            "A.SERVICE.AFILIASDNS.INFO", 
+            "B.SERVICE.AFILIASDNS.org", 
+            "C.SERVICE.AFILIASDNS.NET", 
+            "D.SERVICE.AFILIASDNS.COM", 
+            "E.SERVICE.AFILIASDNS.INFO", 
+            "F.SERVICE.AFILIASDNS.NET"
+        ], 
+        "domain-name": "superior-paper.s.org", 
+        "fuzzer": "subdomain", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 0
+    }
+]

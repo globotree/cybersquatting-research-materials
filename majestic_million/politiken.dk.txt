@@ -1,0 +1,154 @@
+[
+    {
+        "dns-a": [
+            "91.214.22.154"
+        ], 
+        "dns-ns": [
+            "ns1.rootdom.dk", 
+            "ns2.rootdom.dk"
+        ], 
+        "domain-name": "politiken.dk", 
+        "fuzzer": "original*", 
+        "geoip-country": "Denmark", 
+        "ssdeep-score": 97
+    }, 
+    {
+        "dns-a": [
+            "185.53.178.8"
+        ], 
+        "dns-mx": [
+            "mail.h-email.net"
+        ], 
+        "dns-ns": [
+            "ns1.parkingcrew.net", 
+            "ns2.parkingcrew.net"
+        ], 
+        "domain-name": "politiker.dk", 
+        "fuzzer": "homoglyph", 
+        "geoip-country": "Germany", 
+        "mx-spy": true, 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "91.214.22.155"
+        ], 
+        "dns-mx": [
+            "jppol-dk.mx1.comendosystems.com", 
+            "jppol-dk.mx2.comendosystems.net"
+        ], 
+        "dns-ns": [
+            "ns1.rootdom.dk", 
+            "ns2.rootdom.dk"
+        ], 
+        "domain-name": "politikken.dk", 
+        "fuzzer": "insertion", 
+        "geoip-country": "Denmark", 
+        "ssdeep-score": 97
+    }, 
+    {
+        "dns-ns": [
+            "ns1.rootdom.dk", 
+            "ns2.rootdom.dk"
+        ], 
+        "domain-name": "poltiken.dk", 
+        "fuzzer": "omission"
+    }, 
+    {
+        "dns-ns": [
+            "ns1.rootdom.dk", 
+            "ns2.rootdom.dk"
+        ], 
+        "domain-name": "politken.dk", 
+        "fuzzer": "omission"
+    }, 
+    {
+        "dns-a": [
+            "194.150.113.50"
+        ], 
+        "dns-mx": [
+            "mx01.dandomain.dk"
+        ], 
+        "dns-ns": [
+            "ns.dandomain.dk", 
+            "ns2.dandomain.dk", 
+            "ns3.dandomain.dk"
+        ], 
+        "domain-name": "polifiken.dk", 
+        "fuzzer": "replacement", 
+        "geoip-country": "Denmark", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "185.53.177.20"
+        ], 
+        "dns-ns": [
+            "a.ns14.net", 
+            "b.ns14.net", 
+            "c.ns14.net", 
+            "d.ns14.net"
+        ], 
+        "domain-name": "polotiken.dk", 
+        "fuzzer": "replacement", 
+        "geoip-country": "Germany", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "46.30.213.101"
+        ], 
+        "domain-name": "polit.iken.dk", 
+        "fuzzer": "subdomain", 
+        "geoip-country": "Denmark"
+    }, 
+    {
+        "dns-a": [
+            "46.30.213.233"
+        ], 
+        "domain-name": "politik.en.dk", 
+        "fuzzer": "subdomain", 
+        "geoip-country": "Denmark"
+    }, 
+    {
+        "dns-a": [
+            "185.10.10.80"
+        ], 
+        "dns-aaaa": [
+            "2001:67c:3c0:12::53"
+        ], 
+        "dns-mx": [
+            "alt1.aspmx.l.google.com", 
+            "alt2.aspmx.l.google.com", 
+            "aspmx.l.google.com", 
+            "aspmx2.googlemail.com", 
+            "aspmx3.googlemail.com"
+        ], 
+        "dns-ns": [
+            "ns1.gratisdns.dk", 
+            "ns2.gratisdns.dk", 
+            "ns3.gratisdns.dk", 
+            "ns4.gratisdns.dk", 
+            "ns5.gratisdns.dk"
+        ], 
+        "domain-name": "politike.n.dk", 
+        "fuzzer": "subdomain", 
+        "geoip-country": "Denmark", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "185.53.177.20"
+        ], 
+        "dns-ns": [
+            "a.ns14.net", 
+            "b.ns14.net", 
+            "c.ns14.net", 
+            "d.ns14.net"
+        ], 
+        "domain-name": "politiekn.dk", 
+        "fuzzer": "transposition", 
+        "geoip-country": "Germany", 
+        "ssdeep-score": 0
+    }
+]

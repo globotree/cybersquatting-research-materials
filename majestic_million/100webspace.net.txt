@@ -1,0 +1,42 @@
+[
+    {
+        "dns-a": [
+            "66.40.66.171"
+        ], 
+        "dns-mx": [
+            "mail.100webspace.net"
+        ], 
+        "dns-ns": [
+            "dns1.100ws.com", 
+            "dns2.100ws.com"
+        ], 
+        "domain-name": "100webspace.net", 
+        "fuzzer": "original*", 
+        "geoip-country": "United Kingdom", 
+        "mx-spy": true
+    }, 
+    {
+        "dns-a": [
+            "216.93.251.205", 
+            "216.93.251.210"
+        ], 
+        "domain-name": "100.webspace.net", 
+        "fuzzer": "subdomain"
+    }, 
+    {
+        "dns-a": [
+            "64.99.80.121"
+        ], 
+        "domain-name": "100webs.pace.net", 
+        "fuzzer": "subdomain", 
+        "geoip-country": "Canada"
+    }, 
+    {
+        "dns-a": [
+            "63.251.38.176"
+        ], 
+        "domain-name": "100websp.ace.net", 
+        "fuzzer": "subdomain", 
+        "geoip-country": "United States"
+    }
+]

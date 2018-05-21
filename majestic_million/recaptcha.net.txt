@@ -1,0 +1,99 @@
+[
+    {
+        "dns-a": [
+            "216.58.210.3"
+        ], 
+        "dns-aaaa": [
+            "2a00:1450:4001:816::2003"
+        ], 
+        "dns-mx": [
+            "alt1.aspmx.l.google.com", 
+            "alt2.aspmx.l.google.com", 
+            "aspmx.l.google.com", 
+            "aspmx2.googlemail.com", 
+            "aspmx3.googlemail.com", 
+            "aspmx4.googlemail.com", 
+            "aspmx5.googlemail.com"
+        ], 
+        "dns-ns": [
+            "ns1.google.com", 
+            "ns2.google.com", 
+            "ns3.google.com", 
+            "ns4.google.com"
+        ], 
+        "domain-name": "recaptcha.net", 
+        "fuzzer": "original*", 
+        "geoip-country": "United States"
+    }, 
+    {
+        "dns-a": [
+            "104.31.68.252", 
+            "104.31.69.252"
+        ], 
+        "dns-aaaa": [
+            "2400:cb00:2048:1::681f:44fc", 
+            "2400:cb00:2048:1::681f:45fc"
+        ], 
+        "dns-ns": [
+            "dilbert.ns.cloudflare.com", 
+            "wally.ns.cloudflare.com"
+        ], 
+        "domain-name": "re-captcha.net", 
+        "fuzzer": "hyphenation", 
+        "geoip-country": "United States"
+    }, 
+    {
+        "dns-a": [
+            "216.58.210.4"
+        ], 
+        "dns-aaaa": [
+            "2a00:1450:4001:816::2004"
+        ], 
+        "dns-mx": [
+            ""
+        ], 
+        "dns-ns": [
+            "ns1.google.com", 
+            "ns2.google.com", 
+            "ns3.google.com", 
+            "ns4.google.com"
+        ], 
+        "domain-name": "recapcha.net", 
+        "fuzzer": "omission", 
+        "geoip-country": "United States"
+    }, 
+    {
+        "dns-a": [
+            "204.11.56.48"
+        ], 
+        "dns-ns": [
+            "ns1626.ztomy.com", 
+            "ns2626.ztomy.com"
+        ], 
+        "domain-name": "recap.tcha.net", 
+        "fuzzer": "subdomain", 
+        "geoip-country": "Virgin Islands"
+    }, 
+    {
+        "dns-a": [
+            "69.172.201.153"
+        ], 
+        "dns-ns": [
+            "ns1.uniregistrymarket.link", 
+            "ns2.uniregistrymarket.link"
+        ], 
+        "domain-name": "recaptc.ha.net", 
+        "fuzzer": "subdomain", 
+        "geoip-country": "United States"
+    }, 
+    {
+        "dns-ns": [
+            "ns1.googledomains.com", 
+            "ns2.googledomains.com", 
+            "ns3.googledomains.com", 
+            "ns4.googledomains.com"
+        ], 
+        "domain-name": "recaptchanet.net", 
+        "fuzzer": "various"
+    }
+]

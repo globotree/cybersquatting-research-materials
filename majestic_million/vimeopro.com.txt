@@ -1,0 +1,80 @@
+[
+    {
+        "dns-a": [
+            "184.73.186.224"
+        ], 
+        "dns-ns": [
+            "ns-102.awsdns-12.com", 
+            "ns-1248.awsdns-28.org", 
+            "ns-1938.awsdns-50.co.uk", 
+            "ns-821.awsdns-38.net"
+        ], 
+        "domain-name": "vimeopro.com", 
+        "fuzzer": "original*", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 100
+    }, 
+    {
+        "dns-a": [
+            "109.234.161.13"
+        ], 
+        "dns-mx": [
+            "timeopro.com"
+        ], 
+        "dns-ns": [
+            "ns1.o2switch.net", 
+            "ns2.o2switch.net"
+        ], 
+        "domain-name": "timeopro.com", 
+        "fuzzer": "bitsquatting", 
+        "geoip-country": "France", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "185.53.178.7"
+        ], 
+        "dns-mx": [
+            "mail.h-email.net"
+        ], 
+        "dns-ns": [
+            "ns1.parkingcrew.net", 
+            "ns2.parkingcrew.net"
+        ], 
+        "domain-name": "vimepro.com", 
+        "fuzzer": "omission", 
+        "geoip-country": "Germany", 
+        "mx-spy": true, 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "14.63.216.242"
+        ], 
+        "dns-ns": [
+            "ns1.hosting.co.kr", 
+            "ns2.hosting.co.kr"
+        ], 
+        "domain-name": "vimopro.com", 
+        "fuzzer": "omission", 
+        "geoip-country": "Korea", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "54.217.222.113"
+        ], 
+        "dns-mx": [
+            "mail.h-email.net"
+        ], 
+        "dns-ns": [
+            "ns1.parkingcrew.net", 
+            "ns2.parkingcrew.net"
+        ], 
+        "domain-name": "viemopro.com", 
+        "fuzzer": "transposition", 
+        "geoip-country": "Ireland", 
+        "mx-spy": true, 
+        "ssdeep-score": 0
+    }
+]

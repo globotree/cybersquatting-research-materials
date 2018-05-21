@@ -1,0 +1,63 @@
+[
+    {
+        "dns-mx": [
+            "mg155.ntnu.edu.tw", 
+            "mg156.ntnu.edu.tw", 
+            "mg3.ntnu.edu.tw"
+        ], 
+        "dns-ns": [
+            "cc.ntnu.edu.tw", 
+            "dns3.ntnu.edu.tw", 
+            "ns2.ntnu.edu.tw"
+        ], 
+        "domain-name": "ntnu.edu.tw", 
+        "fuzzer": "original*"
+    }, 
+    {
+        "dns-mx": [
+            "mailgate.ntou.edu.tw"
+        ], 
+        "dns-ns": [
+            "ada.ind.ntou.edu.tw", 
+            "hp425t-2.ntou.edu.tw", 
+            "pt.ntou.edu.tw"
+        ], 
+        "domain-name": "ntou.edu.tw", 
+        "fuzzer": "bitsquatting"
+    }, 
+    {
+        "dns-mx": [
+            "o365-tnu-edu-tw.mail.protection.outlook.com"
+        ], 
+        "dns-ns": [
+            "dns1.tnu.edu.tw"
+        ], 
+        "domain-name": "tnu.edu.tw", 
+        "fuzzer": "omission"
+    }, 
+    {
+        "dns-mx": [
+            "mgw.ntu.edu.tw"
+        ], 
+        "dns-ns": [
+            "dns.ntu.edu.tw", 
+            "dns.tp1rc.edu.tw", 
+            "ntu3.ntu.edu.tw"
+        ], 
+        "domain-name": "ntu.edu.tw", 
+        "fuzzer": "omission"
+    }, 
+    {
+        "dns-mx": [
+            "antispam.net.nthu.edu.tw"
+        ], 
+        "dns-ns": [
+            "dns1.nthu.edu.tw", 
+            "dns2.nthu.edu.tw", 
+            "dns3.nthu.edu.tw", 
+            "dns3.twaren.net"
+        ], 
+        "domain-name": "nthu.edu.tw", 
+        "fuzzer": "replacement"
+    }
+]

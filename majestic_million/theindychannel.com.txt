@@ -1,0 +1,101 @@
+[
+    {
+        "dns-a": [
+            "54.209.218.125", 
+            "54.209.238.155"
+        ], 
+        "dns-mx": [
+            "mxa-0028be01.gslb.pphosted.com", 
+            "mxb-0028be01.gslb.pphosted.com"
+        ], 
+        "dns-ns": [
+            "ns1.p10.dynect.net", 
+            "ns1.scripps.com", 
+            "ns2.p10.dynect.net", 
+            "ns2.scripps.com", 
+            "ns3.p10.dynect.net", 
+            "ns3.scripps.com", 
+            "ns4.p10.dynect.net", 
+            "ns4.scripps.com"
+        ], 
+        "domain-name": "theindychannel.com", 
+        "fuzzer": "original*", 
+        "geoip-country": "United States", 
+        "mx-spy": true, 
+        "ssdeep-score": 100
+    }, 
+    {
+        "dns-a": [
+            "159.203.175.150"
+        ], 
+        "dns-ns": [
+            "ns1fkl.name.com", 
+            "ns2dky.name.com", 
+            "ns3fgh.name.com", 
+            "ns4cfn.name.com"
+        ], 
+        "domain-name": "theindychannels.com", 
+        "fuzzer": "addition", 
+        "geoip-country": "United States"
+    }, 
+    {
+        "dns-a": [
+            "174.138.80.173"
+        ], 
+        "dns-ns": [
+            "ns1fkl.name.com", 
+            "ns2dky.name.com", 
+            "ns3fgh.name.com", 
+            "ns4cfn.name.com"
+        ], 
+        "domain-name": "theindychannelz.com", 
+        "fuzzer": "addition", 
+        "geoip-country": "United States"
+    }, 
+    {
+        "dns-a": [
+            "95.211.117.215"
+        ], 
+        "dns-ns": [
+            "ns1.hastydns.com", 
+            "ns2.hastydns.com"
+        ], 
+        "domain-name": "theindychanel.com", 
+        "fuzzer": "omission", 
+        "geoip-country": "Netherlands"
+    }, 
+    {
+        "dns-a": [
+            "103.224.182.218"
+        ], 
+        "dns-mx": [
+            "park-mx.above.com"
+        ], 
+        "dns-ns": [
+            "ns1.above.com", 
+            "ns2.above.com"
+        ], 
+        "domain-name": "theindych.annel.com", 
+        "fuzzer": "subdomain", 
+        "geoip-country": "Australia", 
+        "mx-spy": true, 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "85.17.25.202"
+        ], 
+        "domain-name": "theindycha.nnel.com", 
+        "fuzzer": "subdomain", 
+        "geoip-country": "Netherlands"
+    }, 
+    {
+        "dns-a": [
+            "107.180.49.116"
+        ], 
+        "domain-name": "theindychann.el.com", 
+        "fuzzer": "subdomain", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 0
+    }
+]

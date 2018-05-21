@@ -1,0 +1,65 @@
+[
+    {
+        "dns-mx": [
+            "mx.securemx.jp"
+        ], 
+        "dns-ns": [
+            "dns-b.iij.ad.jp", 
+            "dns-c.iij.ad.jp"
+        ], 
+        "domain-name": "fujitv.co.jp", 
+        "fuzzer": "original*"
+    }, 
+    {
+        "dns-mx": [
+            "isvw2.e-kamone.com", 
+            "isvw4.e-kamone.com"
+        ], 
+        "dns-ns": [
+            "ns1.e-kamone.com", 
+            "ns21.e-kamone.com"
+        ], 
+        "domain-name": "fujitf.co.jp", 
+        "fuzzer": "bitsquatting"
+    }, 
+    {
+        "dns-a": [
+            "60.43.252.58"
+        ], 
+        "dns-mx": [
+            "fuji-tv.co.jp"
+        ], 
+        "dns-ns": [
+            "asns1.customer.ne.jp", 
+            "asns2.customer.ne.jp"
+        ], 
+        "domain-name": "fuji-tv.co.jp", 
+        "fuzzer": "hyphenation", 
+        "geoip-country": "Japan"
+    }, 
+    {
+        "dns-ns": [
+            "dns-b.iij.ad.jp", 
+            "dns-c.iij.ad.jp"
+        ], 
+        "domain-name": "fujitv.jp", 
+        "fuzzer": "various"
+    }, 
+    {
+        "dns-mx": [
+            "alt1.aspmx.l.google.com", 
+            "alt2.aspmx.l.google.com", 
+            "aspmx.l.google.com", 
+            "aspmx2.googlemail.com", 
+            "aspmx3.googlemail.com", 
+            "aspmx4.googlemail.com", 
+            "aspmx5.googlemail.com"
+        ], 
+        "dns-ns": [
+            "ns1.value-domain.com", 
+            "ns2.value-domain.com"
+        ], 
+        "domain-name": "fujitvco.jp", 
+        "fuzzer": "various"
+    }
+]

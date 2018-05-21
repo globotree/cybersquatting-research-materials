@@ -1,0 +1,264 @@
+[
+    {
+        "dns-a": [
+            "103.6.198.164"
+        ], 
+        "dns-mx": [
+            "ur.my"
+        ], 
+        "dns-ns": [
+            "ns101.mschosting.com", 
+            "ns102.mschosting.com"
+        ], 
+        "domain-name": "ur.my", 
+        "fuzzer": "original*", 
+        "geoip-country": "Malaysia"
+    }, 
+    {
+        "dns-a": [
+            "185.53.178.9"
+        ], 
+        "dns-mx": [
+            "mail.h-email.net"
+        ], 
+        "dns-ns": [
+            "ns1.parkingcrew.net", 
+            "ns2.parkingcrew.net"
+        ], 
+        "domain-name": "url.my", 
+        "fuzzer": "addition", 
+        "geoip-country": "Germany", 
+        "mx-spy": true
+    }, 
+    {
+        "dns-a": [
+            "89.31.143.1"
+        ], 
+        "dns-mx": [
+            "mx00.udag.de", 
+            "mx01.udag.de"
+        ], 
+        "dns-ns": [
+            "ns.udag.de", 
+            "ns.udag.net", 
+            "ns.udag.org"
+        ], 
+        "domain-name": "qr.my", 
+        "fuzzer": "bitsquatting", 
+        "geoip-country": "Germany"
+    }, 
+    {
+        "dns-a": [
+            "213.186.33.5"
+        ], 
+        "dns-mx": [
+            "redirect.ovh.net"
+        ], 
+        "dns-ns": [
+            "dns19.ovh.net", 
+            "ns19.ovh.net"
+        ], 
+        "domain-name": "er.my", 
+        "fuzzer": "bitsquatting", 
+        "geoip-country": "France"
+    }, 
+    {
+        "dns-a": [
+            "103.6.244.75"
+        ], 
+        "dns-mx": [
+            "5r.my"
+        ], 
+        "dns-ns": [
+            "ns1.digitalprefix.com", 
+            "ns2.digitalprefix.com"
+        ], 
+        "domain-name": "5r.my", 
+        "fuzzer": "bitsquatting"
+    }, 
+    {
+        "dns-a": [
+            "42.0.28.70"
+        ], 
+        "dns-mx": [
+            "up.my"
+        ], 
+        "dns-ns": [
+            "ns1.nocser.net", 
+            "ns2.nocser.net", 
+            "ns3.nocser.net"
+        ], 
+        "domain-name": "up.my", 
+        "fuzzer": "bitsquatting", 
+        "geoip-country": "Malaysia"
+    }, 
+    {
+        "dns-a": [
+            "185.53.178.7"
+        ], 
+        "dns-mx": [
+            "mail.h-email.net"
+        ], 
+        "dns-ns": [
+            "ns1.parkingcrew.net", 
+            "ns2.parkingcrew.net"
+        ], 
+        "domain-name": "uz.my", 
+        "fuzzer": "bitsquatting", 
+        "geoip-country": "Germany", 
+        "mx-spy": true
+    }, 
+    {
+        "dns-a": [
+            "213.186.33.5"
+        ], 
+        "dns-mx": [
+            "redirect.ovh.net"
+        ], 
+        "dns-ns": [
+            "dns105.ovh.net", 
+            "ns105.ovh.net"
+        ], 
+        "domain-name": "ub.my", 
+        "fuzzer": "bitsquatting", 
+        "geoip-country": "France"
+    }, 
+    {
+        "dns-a": [
+            "210.176.50.109"
+        ], 
+        "dns-mx": [
+            "mail.u2.my"
+        ], 
+        "domain-name": "u2.my", 
+        "fuzzer": "bitsquatting", 
+        "geoip-country": "Hong Kong"
+    }, 
+    {
+        "dns-a": [
+            "13.229.4.227"
+        ], 
+        "dns-ns": [
+            "ns-110.awsdns-13.com", 
+            "ns-1326.awsdns-37.org", 
+            "ns-1725.awsdns-23.co.uk", 
+            "ns-876.awsdns-45.net"
+        ], 
+        "domain-name": "u.my", 
+        "fuzzer": "omission", 
+        "geoip-country": "United States"
+    }, 
+    {
+        "dns-a": [
+            "52.76.37.2"
+        ], 
+        "dns-mx": [
+            "alt1.aspmx.l.google.com", 
+            "alt2.aspmx.l.google.com", 
+            "aspmx.l.google.com", 
+            "aspmx2.googlemail.com", 
+            "aspmx3.googlemail.com"
+        ], 
+        "dns-ns": [
+            "ns-1267.awsdns-30.org", 
+            "ns-1810.awsdns-34.co.uk", 
+            "ns-531.awsdns-02.net", 
+            "ns-89.awsdns-11.com"
+        ], 
+        "domain-name": "hr.my", 
+        "fuzzer": "replacement", 
+        "geoip-country": "Singapore"
+    }, 
+    {
+        "dns-a": [
+            "185.53.178.7"
+        ], 
+        "dns-mx": [
+            "mail.h-email.net"
+        ], 
+        "dns-ns": [
+            "ns1.parkingcrew.net", 
+            "ns2.parkingcrew.net"
+        ], 
+        "domain-name": "ut.my", 
+        "fuzzer": "replacement", 
+        "geoip-country": "Germany", 
+        "mx-spy": true
+    }, 
+    {
+        "dns-a": [
+            "192.185.146.35"
+        ], 
+        "dns-mx": [
+            "mail.ir.my"
+        ], 
+        "dns-ns": [
+            "ns1277.websitewelcome.com", 
+            "ns1278.websitewelcome.com"
+        ], 
+        "domain-name": "ir.my", 
+        "fuzzer": "replacement", 
+        "geoip-country": "United States"
+    }, 
+    {
+        "dns-mx": [
+            "jr-my.mail.protection.outlook.com"
+        ], 
+        "dns-ns": [
+            "ns1.cloudns.net", 
+            "ns2.cloudns.net", 
+            "ns3.cloudns.net", 
+            "ns4.cloudns.net"
+        ], 
+        "domain-name": "jr.my", 
+        "fuzzer": "replacement"
+    }, 
+    {
+        "dns-a": [
+            "89.31.143.1"
+        ], 
+        "dns-mx": [
+            "mx00.udag.de", 
+            "mx01.udag.de"
+        ], 
+        "dns-ns": [
+            "ns.udag.de", 
+            "ns.udag.net", 
+            "ns.udag.org"
+        ], 
+        "domain-name": "ud.my", 
+        "fuzzer": "replacement", 
+        "geoip-country": "Germany"
+    }, 
+    {
+        "dns-a": [
+            "88.99.225.249"
+        ], 
+        "dns-mx": [
+            "ru.my"
+        ], 
+        "dns-ns": [
+            "ns1.free.247zilla.com", 
+            "ns2.free.247zilla.com"
+        ], 
+        "domain-name": "ru.my", 
+        "fuzzer": "transposition", 
+        "geoip-country": "Germany"
+    }, 
+    {
+        "dns-a": [
+            "185.53.178.8"
+        ], 
+        "dns-mx": [
+            "mail.h-email.net"
+        ], 
+        "dns-ns": [
+            "ns1.parkingcrew.net", 
+            "ns2.parkingcrew.net"
+        ], 
+        "domain-name": "or.my", 
+        "fuzzer": "vowel-swap", 
+        "geoip-country": "Germany", 
+        "mx-spy": true
+    }
+]

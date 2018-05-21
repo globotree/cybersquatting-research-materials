@@ -1,0 +1,81 @@
+[
+    {
+        "dns-a": [
+            "104.20.65.148", 
+            "104.20.66.148"
+        ], 
+        "dns-aaaa": [
+            "2400:cb00:2048:1::6814:4194", 
+            "2400:cb00:2048:1::6814:4294"
+        ], 
+        "dns-mx": [
+            "in1-smtp.messagingengine.com", 
+            "in2-smtp.messagingengine.com"
+        ], 
+        "dns-ns": [
+            "andy.ns.cloudflare.com", 
+            "mary.ns.cloudflare.com"
+        ], 
+        "domain-name": "emojipedia.org", 
+        "fuzzer": "original*", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 100
+    }, 
+    {
+        "dns-a": [
+            "185.53.178.6"
+        ], 
+        "dns-ns": [
+            "ns1.parkingcrew.net", 
+            "ns2.parkingcrew.net"
+        ], 
+        "domain-name": "emojipeda.org", 
+        "fuzzer": "omission", 
+        "geoip-country": "Germany", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "65.151.173.173"
+        ], 
+        "dns-mx": [
+            "emojimedia.org"
+        ], 
+        "domain-name": "emojimedia.org", 
+        "fuzzer": "replacement"
+    }, 
+    {
+        "dns-a": [
+            "199.191.50.17"
+        ], 
+        "dns-ns": [
+            "ns111317.ztomy.com", 
+            "ns211317.ztomy.com"
+        ], 
+        "domain-name": "emoj.ipedia.org", 
+        "fuzzer": "subdomain", 
+        "geoip-country": "Virgin Islands", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "69.172.201.153"
+        ], 
+        "dns-ns": [
+            "ns1.uniregistrymarket.link", 
+            "ns2.uniregistrymarket.link"
+        ], 
+        "domain-name": "emojiped.ia.org", 
+        "fuzzer": "subdomain", 
+        "geoip-country": "United States"
+    }, 
+    {
+        "dns-a": [
+            "104.154.94.123"
+        ], 
+        "domain-name": "emojipedi.a.org", 
+        "fuzzer": "subdomain", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 0
+    }
+]

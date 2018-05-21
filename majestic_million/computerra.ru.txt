@@ -1,0 +1,145 @@
+[
+    {
+        "dns-a": [
+            "5.200.32.138"
+        ], 
+        "dns-mx": [
+            "relay01.it-grad.ru", 
+            "relay02.it-grad.ru"
+        ], 
+        "dns-ns": [
+            "ns01.it-grad.ru", 
+            "ns02.it-grad.ru"
+        ], 
+        "domain-name": "computerra.ru", 
+        "fuzzer": "original*", 
+        "geoip-country": "Russian Federation", 
+        "mx-spy": true, 
+        "ssdeep-score": 100
+    }, 
+    {
+        "dns-a": [
+            "31.31.205.163"
+        ], 
+        "domain-name": "komputerra.ru", 
+        "fuzzer": "bitsquatting", 
+        "geoip-country": "Russian Federation", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "5.61.39.135"
+        ], 
+        "dns-mx": [
+            "mail.competerra.ru"
+        ], 
+        "dns-ns": [
+            "ns1.domain.com", 
+            "ns2.domain.com"
+        ], 
+        "domain-name": "competerra.ru", 
+        "fuzzer": "bitsquatting", 
+        "geoip-country": "Germany", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "72.52.4.122"
+        ], 
+        "dns-mx": [
+            "localhost"
+        ], 
+        "dns-ns": [
+            "ns1.poishi.com", 
+            "ns2.poishi.com"
+        ], 
+        "domain-name": "coputerra.ru", 
+        "fuzzer": "omission", 
+        "geoip-country": "United States", 
+        "mx-spy": true, 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "185.53.179.40"
+        ], 
+        "dns-ns": [
+            "ns1.snparking.ru", 
+            "ns2.snparking.ru"
+        ], 
+        "domain-name": "compterra.ru", 
+        "fuzzer": "omission", 
+        "geoip-country": "Germany", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "127.0.0.99"
+        ], 
+        "dns-ns": [
+            "ns1.poishi.com", 
+            "ns2.poishi.com"
+        ], 
+        "domain-name": "computerr.ru", 
+        "fuzzer": "omission"
+    }, 
+    {
+        "dns-a": [
+            "109.70.26.37", 
+            "194.85.61.76"
+        ], 
+        "dns-ns": [
+            "ns3.nic.ru", 
+            "ns4.nic.ru", 
+            "ns8.nic.ru"
+        ], 
+        "domain-name": "commuterra.ru", 
+        "fuzzer": "replacement", 
+        "geoip-country": "Russian Federation", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "91.192.148.91", 
+            "91.192.149.91"
+        ], 
+        "dns-ns": [
+            "ns1.begun.ru", 
+            "ns2.begun.ru"
+        ], 
+        "domain-name": "compuferra.ru", 
+        "fuzzer": "replacement", 
+        "geoip-country": "Russian Federation", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "31.31.196.151"
+        ], 
+        "dns-mx": [
+            "mx1.hosting.reg.ru", 
+            "mx2.hosting.reg.ru"
+        ], 
+        "dns-ns": [
+            "ns1.hosting.reg.ru", 
+            "ns2.hosting.reg.ru"
+        ], 
+        "domain-name": "computerru.ru", 
+        "fuzzer": "vowel-swap"
+    }, 
+    {
+        "dns-a": [
+            "31.31.196.199"
+        ], 
+        "dns-mx": [
+            "mx1.hosting.reg.ru", 
+            "mx2.hosting.reg.ru"
+        ], 
+        "dns-ns": [
+            "ns1.hosting.reg.ru", 
+            "ns2.hosting.reg.ru"
+        ], 
+        "domain-name": "computerraru.ru", 
+        "fuzzer": "various"
+    }
+]

@@ -1,0 +1,152 @@
+[
+    {
+        "dns-a": [
+            "40.76.29.150"
+        ], 
+        "dns-mx": [
+            "commonwealthfund-org.mail.protection.outlook.com"
+        ], 
+        "dns-ns": [
+            "ns1.p09.dynect.net", 
+            "ns2.p09.dynect.net", 
+            "ns3.p09.dynect.net", 
+            "ns4.p09.dynect.net"
+        ], 
+        "domain-name": "commonwealthfund.org", 
+        "fuzzer": "original*", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 99
+    }, 
+    {
+        "dns-a": [
+            "54.72.9.51"
+        ], 
+        "dns-mx": [
+            "mail.h-email.net"
+        ], 
+        "dns-ns": [
+            "ns1.parkingcrew.net", 
+            "ns2.parkingcrew.net"
+        ], 
+        "domain-name": "commonwealthfunds.org", 
+        "fuzzer": "addition", 
+        "geoip-country": "Ireland", 
+        "mx-spy": true, 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "211.23.199.160"
+        ], 
+        "dns-mx": [
+            "commonwealth-fund.org"
+        ], 
+        "dns-ns": [
+            "pdns1.pchome.com.tw", 
+            "pdns2.pchome.com.tw"
+        ], 
+        "domain-name": "commonwealth-fund.org", 
+        "fuzzer": "hyphenation", 
+        "geoip-country": "Taiwan"
+    }, 
+    {
+        "dns-a": [
+            "141.8.224.93"
+        ], 
+        "dns-ns": [
+            "ns7.rookdns.com", 
+            "ns8.rookdns.com"
+        ], 
+        "domain-name": "commnonwealthfund.org", 
+        "fuzzer": "insertion", 
+        "geoip-country": "Switzerland", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "34.202.122.77", 
+            "35.169.225.248", 
+            "52.0.7.30"
+        ], 
+        "dns-ns": [
+            "ns1.dynadot.com", 
+            "ns2.dynadot.com"
+        ], 
+        "domain-name": "commonweathfund.org", 
+        "fuzzer": "omission", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "185.53.179.7"
+        ], 
+        "dns-mx": [
+            "mail.h-email.net"
+        ], 
+        "dns-ns": [
+            "ns1.parkingcrew.net", 
+            "ns2.parkingcrew.net"
+        ], 
+        "domain-name": "commonealthfund.org", 
+        "fuzzer": "omission", 
+        "geoip-country": "Germany", 
+        "mx-spy": true, 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "194.58.56.135"
+        ], 
+        "dns-ns": [
+            "ns1.expired.reg.ru", 
+            "ns2.expired.reg.ru"
+        ], 
+        "domain-name": "commonwea.lthfund.org", 
+        "fuzzer": "subdomain", 
+        "geoip-country": "Russian Federation", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "192.241.197.118"
+        ], 
+        "domain-name": "commonwealt.hfund.org", 
+        "fuzzer": "subdomain", 
+        "geoip-country": "United States"
+    }, 
+    {
+        "dns-a": [
+            "72.52.4.122"
+        ], 
+        "dns-mx": [
+            "localhost"
+        ], 
+        "dns-ns": [
+            "ns1.sedoparking.com", 
+            "ns2.sedoparking.com"
+        ], 
+        "domain-name": "commonwealthfu.nd.org", 
+        "fuzzer": "subdomain", 
+        "geoip-country": "United States", 
+        "mx-spy": true, 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "50.63.46.1"
+        ], 
+        "dns-ns": [
+            "A.SERVICE.AFILIASDNS.INFO", 
+            "B.SERVICE.AFILIASDNS.org", 
+            "C.SERVICE.AFILIASDNS.NET", 
+            "D.SERVICE.AFILIASDNS.COM", 
+            "E.SERVICE.AFILIASDNS.INFO", 
+            "F.SERVICE.AFILIASDNS.NET"
+        ], 
+        "domain-name": "commonwealthfun.d.org", 
+        "fuzzer": "subdomain", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 0
+    }
+]

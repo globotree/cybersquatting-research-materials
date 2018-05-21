@@ -1,0 +1,139 @@
+[
+    {
+        "dns-a": [
+            "52.0.225.101"
+        ], 
+        "dns-mx": [
+            "cuda.ucsf.edu", 
+            "jango.ucsf.edu", 
+            "jingo.ucsf.edu"
+        ], 
+        "dns-ns": [
+            "UCSFNSMB3.ucsf.edu", 
+            "sdns1.Berkeley.edu", 
+            "ucsfns1.ucsf.edu", 
+            "ucsfns2.ucsf.edu"
+        ], 
+        "domain-name": "ucsf.edu", 
+        "fuzzer": "original*", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 100
+    }, 
+    {
+        "dns-a": [
+            "132.239.180.101"
+        ], 
+        "dns-mx": [
+            "inbound.ucsd.edu"
+        ], 
+        "dns-ns": [
+            "ns-auth2.ucsd.edu", 
+            "ns-auth3.ucsd.edu"
+        ], 
+        "domain-name": "ucsd.edu", 
+        "fuzzer": "bitsquatting", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "128.111.24.41"
+        ], 
+        "dns-mx": [
+            "mx-1.connect.ucsb.edu", 
+            "mx-2.connect.ucsb.edu"
+        ], 
+        "dns-ns": [
+            "bru-ns2.brown.edu", 
+            "ns1.ucsb.edu", 
+            "ns2.ucsb.edu"
+        ], 
+        "domain-name": "ucsb.edu", 
+        "fuzzer": "bitsquatting", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "131.247.1.40", 
+            "131.247.100.1"
+        ], 
+        "dns-mx": [
+            "cudavm01.forest.usf.edu", 
+            "cudavm02.forest.usf.edu"
+        ], 
+        "dns-ns": [
+            "clemson-ns1.usf.edu", 
+            "mother.usf.edu", 
+            "ziggy.usf.edu"
+        ], 
+        "domain-name": "usf.edu", 
+        "fuzzer": "omission", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "104.28.24.186", 
+            "104.28.25.186"
+        ], 
+        "dns-aaaa": [
+            "2400:cb00:2048:1::681c:18ba", 
+            "2400:cb00:2048:1::681c:19ba"
+        ], 
+        "dns-mx": [
+            "alt1.aspmx.l.google.com", 
+            "alt2.aspmx.l.google.com", 
+            "aspmx.l.google.com", 
+            "aspmx2.googlemail.com", 
+            "aspmx3.googlemail.com"
+        ], 
+        "dns-ns": [
+            "alexis.ns.cloudflare.com", 
+            "anna.ns.cloudflare.com"
+        ], 
+        "domain-name": "ucs.edu", 
+        "fuzzer": "omission", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "132.170.219.161"
+        ], 
+        "dns-mx": [
+            "ucf-edu.mail.protection.outlook.com"
+        ], 
+        "dns-ns": [
+            "ns1-01.azure-dns.com", 
+            "ns2-01.azure-dns.net", 
+            "ns3-01.azure-dns.org", 
+            "ns4-01.azure-dns.info"
+        ], 
+        "domain-name": "ucf.edu", 
+        "fuzzer": "omission"
+    }, 
+    {
+        "dns-a": [
+            "128.114.109.5"
+        ], 
+        "dns-mx": [
+            "alt1.aspmx.l.google.com", 
+            "alt2.aspmx.l.google.com", 
+            "alt3.aspmx.l.google.com", 
+            "alt4.aspmx.l.google.com", 
+            "aspmx.l.google.com"
+        ], 
+        "dns-ns": [
+            "adns1.ucsc.edu", 
+            "adns2.ucsc.edu", 
+            "dns.princeton.edu", 
+            "ns.zocalo.net", 
+            "sns-pb.isc.org"
+        ], 
+        "domain-name": "ucsc.edu", 
+        "fuzzer": "replacement", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 0
+    }
+]

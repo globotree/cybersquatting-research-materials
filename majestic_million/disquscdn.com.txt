@@ -1,0 +1,24 @@
+[
+    {
+        "dns-ns": [
+            "ns-1089.awsdns-08.org", 
+            "ns-121.awsdns-15.com", 
+            "ns-1953.awsdns-52.co.uk", 
+            "ns-820.awsdns-38.net"
+        ], 
+        "domain-name": "disquscdn.com", 
+        "fuzzer": "original*"
+    }, 
+    {
+        "dns-a": [
+            "208.91.197.132"
+        ], 
+        "dns-mx": [
+            "mail.b-io.co"
+        ], 
+        "domain-name": "disq.uscdn.com", 
+        "fuzzer": "subdomain", 
+        "geoip-country": "Virgin Islands", 
+        "mx-spy": true
+    }
+]

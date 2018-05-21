@@ -1,0 +1,94 @@
+[
+    {
+        "dns-mx": [
+            "mx1.eonet.ne.jp"
+        ], 
+        "dns-ns": [
+            "ns1.eonet.ne.jp", 
+            "ns7.eonet.ne.jp"
+        ], 
+        "domain-name": "eonet.ne.jp", 
+        "fuzzer": "original*"
+    }, 
+    {
+        "dns-a": [
+            "210.226.77.106"
+        ], 
+        "dns-mx": [
+            "mail2.donet.ne.jp"
+        ], 
+        "dns-ns": [
+            "ns-tk012.ocn.ad.jp", 
+            "ns.donet.ne.jp"
+        ], 
+        "domain-name": "donet.ne.jp", 
+        "fuzzer": "bitsquatting", 
+        "geoip-country": "Japan"
+    }, 
+    {
+        "dns-a": [
+            "153.122.27.161"
+        ], 
+        "dns-mx": [
+            "mail.monet.ne.jp"
+        ], 
+        "dns-ns": [
+            "ns.namedserver.net", 
+            "ns2.namedserver.net"
+        ], 
+        "domain-name": "monet.ne.jp", 
+        "fuzzer": "bitsquatting", 
+        "geoip-country": "Japan"
+    }, 
+    {
+        "dns-mx": [
+            "mailmlb.emnet.ne.jp"
+        ], 
+        "dns-ns": [
+            "ns3.emnet.ne.jp", 
+            "ns4.emnet.ne.jp"
+        ], 
+        "domain-name": "emnet.ne.jp", 
+        "fuzzer": "bitsquatting"
+    }, 
+    {
+        "dns-a": [
+            "203.141.142.12"
+        ], 
+        "dns-mx": [
+            "po.enet.ne.jp"
+        ], 
+        "dns-ns": [
+            "ddns1.interlink.or.jp", 
+            "ddns2.interlink.or.jp"
+        ], 
+        "domain-name": "enet.ne.jp", 
+        "fuzzer": "omission", 
+        "geoip-country": "Japan"
+    }, 
+    {
+        "dns-mx": [
+            "mail.sonet.ne.jp"
+        ], 
+        "dns-ns": [
+            "mns01.ucom.ne.jp", 
+            "mns02.ucom.ne.jp"
+        ], 
+        "domain-name": "sonet.ne.jp", 
+        "fuzzer": "replacement"
+    }, 
+    {
+        "dns-a": [
+            "59.190.154.129"
+        ], 
+        "dns-aaaa": [
+            "2001:ce8:0:1102:2::1"
+        ], 
+        "dns-ns": [
+            "ns1.eonet.ne.jp", 
+            "ns7.eonet.ne.jp"
+        ], 
+        "domain-name": "eonet.jp", 
+        "fuzzer": "various"
+    }
+]

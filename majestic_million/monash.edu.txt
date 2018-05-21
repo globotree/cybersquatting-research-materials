@@ -1,0 +1,31 @@
+[
+    {
+        "dns-a": [
+            "43.245.43.30"
+        ], 
+        "dns-mx": [
+            "ALT1.ASPMX.L.GOOGLE.COM", 
+            "ALT2.ASPMX.L.GOOGLE.COM", 
+            "ALT3.ASPMX.L.GOOGLE.COM", 
+            "ALT4.ASPMX.L.GOOGLE.COM", 
+            "ASPMX.L.GOOGLE.COM"
+        ], 
+        "dns-ns": [
+            "ns3.its.monash.edu", 
+            "ns4.its.monash.edu", 
+            "ns5.its.monash.edu"
+        ], 
+        "domain-name": "monash.edu", 
+        "fuzzer": "original*", 
+        "geoip-country": "Australia", 
+        "ssdeep-score": 100
+    }, 
+    {
+        "dns-ns": [
+            "lily.ns.cloudflare.com", 
+            "max.ns.cloudflare.com"
+        ], 
+        "domain-name": "monash-edu.com", 
+        "fuzzer": "various"
+    }
+]

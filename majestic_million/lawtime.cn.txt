@@ -1,0 +1,62 @@
+[
+    {
+        "dns-mx": [
+            "mxbiz1.qq.com", 
+            "mxbiz2.qq.com"
+        ], 
+        "dns-ns": [
+            "ns1.dnsv2.com", 
+            "ns2.dnsv2.com"
+        ], 
+        "domain-name": "lawtime.cn", 
+        "fuzzer": "original*"
+    }, 
+    {
+        "dns-ns": [
+            "dns27.hichina.com", 
+            "dns28.hichina.com"
+        ], 
+        "domain-name": "lawtimes.cn", 
+        "fuzzer": "addition"
+    }, 
+    {
+        "dns-a": [
+            "50.117.120.251"
+        ], 
+        "dns-mx": [
+            "mail.happyisp.com"
+        ], 
+        "domain-name": "lawtima.cn", 
+        "fuzzer": "bitsquatting", 
+        "geoip-country": "United States", 
+        "mx-spy": true
+    }, 
+    {
+        "dns-a": [
+            "160.124.214.210"
+        ], 
+        "dns-ns": [
+            "f1g1ns1.dnspod.net", 
+            "f1g1ns2.dnspod.net"
+        ], 
+        "domain-name": "latime.cn", 
+        "fuzzer": "omission", 
+        "geoip-country": "South Africa"
+    }, 
+    {
+        "dns-ns": [
+            "dns10.hichina.com", 
+            "dns9.hichina.com"
+        ], 
+        "domain-name": "awtime.cn", 
+        "fuzzer": "omission"
+    }, 
+    {
+        "dns-a": [
+            "192.157.221.246"
+        ], 
+        "domain-name": "lawt.ime.cn", 
+        "fuzzer": "subdomain", 
+        "geoip-country": "United States"
+    }
+]

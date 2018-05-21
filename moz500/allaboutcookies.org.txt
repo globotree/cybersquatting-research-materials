@@ -1,0 +1,104 @@
+[
+    {
+        "dns-a": [
+            "104.20.69.198", 
+            "104.20.70.198"
+        ], 
+        "dns-aaaa": [
+            "2400:cb00:2048:1::6814:45c6", 
+            "2400:cb00:2048:1::6814:46c6"
+        ], 
+        "dns-mx": [
+            "mx1.lonex.com", 
+            "mx2.lonex.com"
+        ], 
+        "dns-ns": [
+            "kara.ns.cloudflare.com", 
+            "mark.ns.cloudflare.com"
+        ], 
+        "domain-name": "allaboutcookies.org", 
+        "fuzzer": "original*", 
+        "geoip-country": "United States"
+    }, 
+    {
+        "dns-a": [
+            "74.86.169.225"
+        ], 
+        "dns-ns": [
+            "ns1.active-dns.com", 
+            "ns2.active-dns.com", 
+            "ns3.active-dns.com", 
+            "ns4.active-dns.com"
+        ], 
+        "domain-name": "allaboutcookie.org", 
+        "fuzzer": "omission", 
+        "geoip-country": "United States"
+    }, 
+    {
+        "dns-a": [
+            "69.172.201.153"
+        ], 
+        "dns-ns": [
+            "ns1.uniregistrymarket.link", 
+            "ns2.uniregistrymarket.link"
+        ], 
+        "domain-name": "allabout.cookies.org", 
+        "fuzzer": "subdomain", 
+        "geoip-country": "United States"
+    }, 
+    {
+        "dns-a": [
+            "69.172.201.153"
+        ], 
+        "dns-ns": [
+            "ns1.uniregistrymarket.link", 
+            "ns2.uniregistrymarket.link"
+        ], 
+        "domain-name": "allaboutco.okies.org", 
+        "fuzzer": "subdomain", 
+        "geoip-country": "United States"
+    }, 
+    {
+        "dns-a": [
+            "185.53.178.8"
+        ], 
+        "dns-ns": [
+            "ns1.parkingcrew.net", 
+            "ns2.parkingcrew.net"
+        ], 
+        "domain-name": "allaboutcoo.kies.org", 
+        "fuzzer": "subdomain", 
+        "geoip-country": "Germany"
+    }, 
+    {
+        "dns-a": [
+            "72.52.4.119"
+        ], 
+        "dns-mx": [
+            "localhost"
+        ], 
+        "dns-ns": [
+            "ns1.sedoparking.com", 
+            "ns2.sedoparking.com"
+        ], 
+        "domain-name": "allaboutcooki.es.org", 
+        "fuzzer": "subdomain", 
+        "geoip-country": "United States"
+    }, 
+    {
+        "dns-a": [
+            "50.63.46.1"
+        ], 
+        "dns-ns": [
+            "A.SERVICE.AFILIASDNS.INFO", 
+            "B.SERVICE.AFILIASDNS.org", 
+            "C.SERVICE.AFILIASDNS.NET", 
+            "D.SERVICE.AFILIASDNS.COM", 
+            "E.SERVICE.AFILIASDNS.INFO", 
+            "F.SERVICE.AFILIASDNS.NET"
+        ], 
+        "domain-name": "allaboutcookie.s.org", 
+        "fuzzer": "subdomain", 
+        "geoip-country": "United States"
+    }
+]

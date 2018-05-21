@@ -1,0 +1,208 @@
+[
+    {
+        "dns-a": [
+            "91.236.122.16"
+        ], 
+        "dns-mx": [
+            "mailgate1.kbb.eu", 
+            "mailgate2.kbb.eu"
+        ], 
+        "dns-ns": [
+            "ns17.knipp.net", 
+            "ns2.knipp.de", 
+            "ns3.knipp.de"
+        ], 
+        "domain-name": "berlinale.de", 
+        "fuzzer": "original*", 
+        "geoip-country": "Germany", 
+        "ssdeep-score": 99
+    }, 
+    {
+        "dns-a": [
+            "85.214.17.85"
+        ], 
+        "dns-mx": [
+            "smtp.rzone.de"
+        ], 
+        "dns-ns": [
+            "docks06.rzone.de", 
+            "shades07.rzone.de"
+        ], 
+        "domain-name": "berliname.de", 
+        "fuzzer": "bitsquatting", 
+        "geoip-country": "Germany"
+    }, 
+    {
+        "dns-a": [
+            "176.9.83.229"
+        ], 
+        "dns-ns": [
+            "ns1.redirectdom.com", 
+            "ns2.redirectdom.com"
+        ], 
+        "domain-name": "berlinade.de", 
+        "fuzzer": "bitsquatting", 
+        "geoip-country": "Germany", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "212.227.247.48"
+        ], 
+        "dns-aaaa": [
+            "2001:8d8:1001:5049:3c46:752d:b835:5812"
+        ], 
+        "dns-mx": [
+            "mx00.kundenserver.de", 
+            "mx01.kundenserver.de"
+        ], 
+        "dns-ns": [
+            "ns-de.1and1-dns.biz", 
+            "ns-de.1and1-dns.com", 
+            "ns-de.1and1-dns.de", 
+            "ns-de.1and1-dns.org"
+        ], 
+        "domain-name": "berlin-ale.de", 
+        "fuzzer": "hyphenation", 
+        "geoip-country": "Germany", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "72.52.4.90"
+        ], 
+        "dns-mx": [
+            "mailgw.ns36.de"
+        ], 
+        "dns-ns": [
+            "a.ns36.de", 
+            "b.ns36.de"
+        ], 
+        "domain-name": "berlinmale.de", 
+        "fuzzer": "insertion", 
+        "geoip-country": "United States", 
+        "mx-spy": true, 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "85.13.154.25"
+        ], 
+        "dns-mx": [
+            "w01347d9.kasserver.com"
+        ], 
+        "dns-ns": [
+            "ns5.kasserver.com", 
+            "ns6.kasserver.com"
+        ], 
+        "domain-name": "berlinsale.de", 
+        "fuzzer": "insertion", 
+        "geoip-country": "Germany", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "69.16.230.42"
+        ], 
+        "dns-mx": [
+            "mx156.hostedmxserver.com"
+        ], 
+        "dns-ns": [
+            "ns1.parklogic.com", 
+            "ns2.parklogic.com", 
+            "ns3.parklogic.com"
+        ], 
+        "domain-name": "berinale.de", 
+        "fuzzer": "omission", 
+        "geoip-country": "United States", 
+        "mx-spy": true, 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "89.31.143.100"
+        ], 
+        "dns-mx": [
+            "mx00.udag.de", 
+            "mx01.udag.de"
+        ], 
+        "dns-ns": [
+            "ns.udag.de", 
+            "ns.udag.net", 
+            "ns.udag.org"
+        ], 
+        "domain-name": "berlinal.de", 
+        "fuzzer": "omission", 
+        "geoip-country": "Germany", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "185.53.179.6"
+        ], 
+        "dns-mx": [
+            "mail.h-email.net"
+        ], 
+        "dns-ns": [
+            "ns1.parkingcrew.net", 
+            "ns2.parkingcrew.net"
+        ], 
+        "domain-name": "belinale.de", 
+        "fuzzer": "omission", 
+        "geoip-country": "Germany", 
+        "mx-spy": true, 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "81.169.145.162"
+        ], 
+        "dns-aaaa": [
+            "2a01:238:20a:202:1162::"
+        ], 
+        "dns-mx": [
+            "smtpin.rzone.de"
+        ], 
+        "dns-ns": [
+            "docks07.rzone.de", 
+            "shades11.rzone.de"
+        ], 
+        "domain-name": "berlinalle.de", 
+        "fuzzer": "repetition", 
+        "geoip-country": "Germany", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "89.200.169.166"
+        ], 
+        "dns-mx": [
+            "mail.berlinape.de"
+        ], 
+        "dns-ns": [
+            "ns1.antagus.de", 
+            "ns2.antagus.de"
+        ], 
+        "domain-name": "berlinape.de", 
+        "fuzzer": "replacement", 
+        "geoip-country": "Germany", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "178.77.70.79"
+        ], 
+        "domain-name": "berlin.ale.de", 
+        "fuzzer": "subdomain", 
+        "geoip-country": "Germany", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "213.239.215.88"
+        ], 
+        "domain-name": "berlina.le.de", 
+        "fuzzer": "subdomain", 
+        "geoip-country": "Germany"
+    }
+]

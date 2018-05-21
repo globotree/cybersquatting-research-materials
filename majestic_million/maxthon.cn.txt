@@ -1,0 +1,53 @@
+[
+    {
+        "dns-a": [
+            "218.241.149.11"
+        ], 
+        "dns-mx": [
+            "postfix.maxthon.cn"
+        ], 
+        "dns-ns": [
+            "ns1.aoyou365.com", 
+            "ns2.aoyou365.com", 
+            "ns3.aoyou365.com"
+        ], 
+        "domain-name": "maxthon.cn", 
+        "fuzzer": "original*", 
+        "geoip-country": "China", 
+        "ssdeep-score": 100
+    }, 
+    {
+        "dns-a": [
+            "23.234.4.120", 
+            "23.234.4.54"
+        ], 
+        "domain-name": "mathon.cn", 
+        "fuzzer": "omission", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "50.117.120.251"
+        ], 
+        "dns-mx": [
+            "mail.happyisp.com"
+        ], 
+        "domain-name": "maxhon.cn", 
+        "fuzzer": "omission", 
+        "geoip-country": "United States", 
+        "mx-spy": true, 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "47.89.58.141"
+        ], 
+        "dns-ns": [
+            "dns7.hichina.com", 
+            "dns8.hichina.com"
+        ], 
+        "domain-name": "maxthan.cn", 
+        "fuzzer": "vowel-swap"
+    }
+]

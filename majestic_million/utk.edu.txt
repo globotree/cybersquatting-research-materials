@@ -1,0 +1,86 @@
+[
+    {
+        "dns-a": [
+            "160.36.239.51"
+        ], 
+        "dns-mx": [
+            "utk-edu.mail.protection.outlook.com"
+        ], 
+        "dns-ns": [
+            "ns0.utk.edu", 
+            "ns1.utk.edu", 
+            "ns2.utk.edu", 
+            "topos.uthsc.edu"
+        ], 
+        "domain-name": "utk.edu", 
+        "fuzzer": "original*", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 100
+    }, 
+    {
+        "dns-a": [
+            "104.40.53.219"
+        ], 
+        "dns-mx": [
+            "ironport1.uti.edu", 
+            "ironport2.uti.edu"
+        ], 
+        "dns-ns": [
+            "pdns01.domaincontrol.com", 
+            "pdns02.domaincontrol.com"
+        ], 
+        "domain-name": "uti.edu", 
+        "fuzzer": "bitsquatting", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "52.170.90.255"
+        ], 
+        "dns-mx": [
+            "utc-edu.mail.protection.outlook.com"
+        ], 
+        "dns-ns": [
+            "ens1.utc.edu", 
+            "ens2.utc.edu"
+        ], 
+        "domain-name": "utc.edu", 
+        "fuzzer": "bitsquatting", 
+        "geoip-country": "United States"
+    }, 
+    {
+        "dns-a": [
+            "208.75.222.101"
+        ], 
+        "dns-mx": [
+            "mxa-001b8f01.gslb.pphosted.com", 
+            "mxb-001b8f01.gslb.pphosted.com"
+        ], 
+        "dns-ns": [
+            "ns19.customer.level3.net", 
+            "ns24.customer.level3.net", 
+            "ns9.customer.level3.net"
+        ], 
+        "domain-name": "ut.edu", 
+        "fuzzer": "omission", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "208.87.72.93", 
+            "208.87.74.47"
+        ], 
+        "dns-mx": [
+            "utm-edu.mail.protection.outlook.com"
+        ], 
+        "dns-ns": [
+            "extdns1.utm.edu", 
+            "extdns2.utm.edu"
+        ], 
+        "domain-name": "utm.edu", 
+        "fuzzer": "replacement", 
+        "geoip-country": "United States"
+    }
+]

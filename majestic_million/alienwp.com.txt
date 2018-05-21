@@ -1,0 +1,102 @@
+[
+    {
+        "dns-a": [
+            "199.188.207.84"
+        ], 
+        "dns-mx": [
+            "alienwp.com"
+        ], 
+        "dns-ns": [
+            "ns1.kooc.net", 
+            "ns2.kooc.net"
+        ], 
+        "domain-name": "alienwp.com", 
+        "fuzzer": "original*", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 100
+    }, 
+    {
+        "dns-a": [
+            "184.168.221.42"
+        ], 
+        "dns-mx": [
+            "mailstore1.secureserver.net", 
+            "smtp.secureserver.net"
+        ], 
+        "dns-ns": [
+            "ns29.domaincontrol.com", 
+            "ns30.domaincontrol.com"
+        ], 
+        "domain-name": "alienup.com", 
+        "fuzzer": "bitsquatting", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "209.15.212.49"
+        ], 
+        "dns-mx": [
+            "allenwp.com"
+        ], 
+        "dns-ns": [
+            "ns1.hawr.ca", 
+            "ns2.hawr.ca"
+        ], 
+        "domain-name": "allenwp.com", 
+        "fuzzer": "homoglyph", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "23.236.62.147"
+        ], 
+        "dns-mx": [
+            "alt1.aspmx.l.google.com", 
+            "alt2.aspmx.l.google.com", 
+            "aspmx.l.google.com", 
+            "aspmx2.googlemail.com", 
+            "aspmx3.googlemail.com"
+        ], 
+        "dns-ns": [
+            "ns4.wixdns.net", 
+            "ns5.wixdns.net"
+        ], 
+        "domain-name": "alienep.com", 
+        "fuzzer": "replacement", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "193.107.36.200"
+        ], 
+        "dns-mx": [
+            "mail.host.bg"
+        ], 
+        "domain-name": "ali.enwp.com", 
+        "fuzzer": "subdomain", 
+        "geoip-country": "Bulgaria", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "192.0.78.24", 
+            "192.0.78.25"
+        ], 
+        "dns-mx": [
+            "mx1.bur.wordpress.com", 
+            "mx1.dfw.wordpress.com"
+        ], 
+        "dns-ns": [
+            "ns1.automattic.com", 
+            "ns2.automattic.com", 
+            "ns3.automattic.com"
+        ], 
+        "domain-name": "alien.wp.com", 
+        "fuzzer": "subdomain", 
+        "geoip-country": "United States", 
+        "mx-spy": true
+    }
+]

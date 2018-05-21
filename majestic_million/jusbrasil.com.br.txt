@@ -1,0 +1,132 @@
+[
+    {
+        "dns-a": [
+            "35.184.244.53"
+        ], 
+        "dns-mx": [
+            "alt1.aspmx.l.google.com", 
+            "alt2.aspmx.l.google.com", 
+            "aspmx.l.google.com", 
+            "aspmx2.googlemail.com", 
+            "aspmx3.googlemail.com", 
+            "aspmx4.googlemail.com", 
+            "aspmx5.googlemail.com"
+        ], 
+        "dns-ns": [
+            "jonah.ns.cloudflare.com", 
+            "maria.ns.cloudflare.com"
+        ], 
+        "domain-name": "jusbrasil.com.br", 
+        "fuzzer": "original*", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 99
+    }, 
+    {
+        "dns-a": [
+            "192.185.216.60"
+        ], 
+        "dns-mx": [
+            "busbrasil.com.br"
+        ], 
+        "dns-ns": [
+            "ns1.good.com.br", 
+            "ns2.good.com.br"
+        ], 
+        "domain-name": "busbrasil.com.br", 
+        "fuzzer": "bitsquatting", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-ns": [
+            "b.sec.dns.br", 
+            "c.sec.dns.br"
+        ], 
+        "domain-name": "jurbrasil.com.br", 
+        "fuzzer": "bitsquatting"
+    }, 
+    {
+        "dns-a": [
+            "177.154.143.209"
+        ], 
+        "dns-ns": [
+            "ns1.jsbr.net.br", 
+            "ns2.jsbr.net.br"
+        ], 
+        "domain-name": "jsbrasil.com.br", 
+        "fuzzer": "omission", 
+        "geoip-country": "Brazil", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "200.98.245.78"
+        ], 
+        "dns-mx": [
+            "usbrasil.com.br"
+        ], 
+        "domain-name": "usbrasil.com.br", 
+        "fuzzer": "omission", 
+        "geoip-country": "Brazil"
+    }, 
+    {
+        "dns-a": [
+            "67.23.238.82"
+        ], 
+        "dns-mx": [
+            "vipreseller16.net"
+        ], 
+        "dns-ns": [
+            "ns1.nroffice.com.br", 
+            "ns2.nroffice.com.br"
+        ], 
+        "domain-name": "jhsbrasil.com.br", 
+        "fuzzer": "replacement", 
+        "geoip-country": "United States"
+    }, 
+    {
+        "dns-ns": [
+            "a.auto.dns.br", 
+            "b.auto.dns.br"
+        ], 
+        "domain-name": "jusbrazil.com.br", 
+        "fuzzer": "replacement"
+    }, 
+    {
+        "dns-a": [
+            "216.172.172.193"
+        ], 
+        "dns-mx": [
+            "juzbrasil.com.br"
+        ], 
+        "dns-ns": [
+            "ns474.hostgator.com.br", 
+            "ns475.hostgator.com.br"
+        ], 
+        "domain-name": "juzbrasil.com.br", 
+        "fuzzer": "replacement", 
+        "geoip-country": "United States"
+    }, 
+    {
+        "dns-a": [
+            "23.227.38.32"
+        ], 
+        "dns-ns": [
+            "a.sec.dns.br", 
+            "c.sec.dns.br"
+        ], 
+        "domain-name": "josbrasil.com.br", 
+        "fuzzer": "vowel-swap"
+    }, 
+    {
+        "dns-mx": [
+            "mail.jasbrasil.com"
+        ], 
+        "dns-ns": [
+            "cw005.criare-net.com.br", 
+            "rt02.criare-net.com.br"
+        ], 
+        "domain-name": "jasbrasil.com.br", 
+        "fuzzer": "vowel-swap"
+    }
+]

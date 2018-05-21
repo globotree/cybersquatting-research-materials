@@ -1,0 +1,81 @@
+[
+    {
+        "dns-a": [
+            "123.30.184.8", 
+            "203.162.71.66", 
+            "203.162.71.67"
+        ], 
+        "dns-mx": [
+            "ALT1.ASPMX.L.GOOGLE.COM", 
+            "ALT2.ASPMX.L.GOOGLE.COM", 
+            "ASPMX.L.GOOGLE.COM", 
+            "ASPMX2.GOOGLEMAIL.COM", 
+            "ASPMX3.GOOGLEMAIL.COM", 
+            "ASPMX4.GOOGLEMAIL.COM", 
+            "ASPMX5.GOOGLEMAIL.COM"
+        ], 
+        "dns-ns": [
+            "dns1.srv.vietnamnet.vn", 
+            "dns2.srv.vietnamnet.vn"
+        ], 
+        "domain-name": "vietnamnet.vn", 
+        "fuzzer": "original*", 
+        "geoip-country": "Vietnam", 
+        "ssdeep-score": 100
+    }, 
+    {
+        "dns-a": [
+            "210.245.85.76"
+        ], 
+        "dns-mx": [
+            "vietnamnest.vn"
+        ], 
+        "dns-ns": [
+            "ns1.zonedns.vn", 
+            "ns2.zonedns.vn", 
+            "ns3.zonedns.vn"
+        ], 
+        "domain-name": "vietnamnest.vn", 
+        "fuzzer": "insertion", 
+        "geoip-country": "Vietnam"
+    }, 
+    {
+        "dns-a": [
+            "72.52.4.122"
+        ], 
+        "dns-mx": [
+            "localhost"
+        ], 
+        "dns-ns": [
+            "ns1.sedoparking.com", 
+            "ns2.sedoparking.com"
+        ], 
+        "domain-name": "vietna.mnet.vn", 
+        "fuzzer": "subdomain", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "42.112.28.18"
+        ], 
+        "dns-mx": [
+            "ALT1.ASPMX.L.GOOGLE.COM", 
+            "ALT2.ASPMX.L.GOOGLE.COM", 
+            "ASPMX.L.GOOGLE.COM", 
+            "ASPMX2.GOOGLEMAIL.COM", 
+            "ASPMX3.GOOGLEMAIL.COM", 
+            "mail.vietnam.net.vn", 
+            "mx.zoho.COM", 
+            "mx2.zoho.COM"
+        ], 
+        "dns-ns": [
+            "ns1.netnam.vn", 
+            "ns2.netnam.vn"
+        ], 
+        "domain-name": "vietnam.net.vn", 
+        "fuzzer": "subdomain", 
+        "geoip-country": "Vietnam", 
+        "ssdeep-score": 0
+    }
+]

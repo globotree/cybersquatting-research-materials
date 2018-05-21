@@ -1,0 +1,47 @@
+[
+    {
+        "dns-a": [
+            "148.197.20.190"
+        ], 
+        "dns-mx": [
+            "alt1.aspmx.l.google.com", 
+            "alt2.aspmx.l.google.com", 
+            "aspmx.l.google.com", 
+            "aspmx2.googlemail.com", 
+            "aspmx3.googlemail.com", 
+            "aspmx4.googlemail.com", 
+            "aspmx5.googlemail.com"
+        ], 
+        "dns-ns": [
+            "dns0.port.ac.uk", 
+            "dns1.port.ac.uk", 
+            "ns-1263.awsdns-29.org", 
+            "ns-1978.awsdns-55.co.uk", 
+            "ns-468.awsdns-58.com", 
+            "ns-832.awsdns-40.net"
+        ], 
+        "domain-name": "port.ac.uk", 
+        "fuzzer": "original*", 
+        "geoip-country": "United Kingdom", 
+        "ssdeep-score": 97
+    }, 
+    {
+        "dns-a": [
+            "87.237.68.249"
+        ], 
+        "dns-mx": [
+            "cluster02.mail-controller.co.uk"
+        ], 
+        "dns-ns": [
+            "dns0.wnl.net", 
+            "dns1.wnl.net", 
+            "dns2.wnl.net", 
+            "ns3.ja.net"
+        ], 
+        "domain-name": "porth.ac.uk", 
+        "fuzzer": "addition", 
+        "geoip-country": "United Kingdom", 
+        "mx-spy": true, 
+        "ssdeep-score": 0
+    }
+]

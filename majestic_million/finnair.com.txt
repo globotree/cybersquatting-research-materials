@@ -1,0 +1,405 @@
+[
+    {
+        "dns-a": [
+            "157.200.88.135"
+        ], 
+        "dns-mx": [
+            "finnair-com.mail.protection.outlook.com"
+        ], 
+        "dns-ns": [
+            "dns1.finnair.fi", 
+            "netman.finnair.fi", 
+            "ns1-fin.global.sonera.fi", 
+            "ns1-swe.global.sonera.se", 
+            "ns2-fin.global.sonera.fi", 
+            "ns2-usa.global.sonera.net"
+        ], 
+        "domain-name": "finnair.com", 
+        "fuzzer": "original*", 
+        "geoip-country": "Finland"
+    }, 
+    {
+        "dns-a": [
+            "103.224.182.245"
+        ], 
+        "dns-ns": [
+            "ns1.above.com", 
+            "ns2.above.com"
+        ], 
+        "domain-name": "finnaire.com", 
+        "fuzzer": "addition", 
+        "geoip-country": "Australia"
+    }, 
+    {
+        "dns-a": [
+            "52.73.124.185", 
+            "54.164.198.60"
+        ], 
+        "dns-ns": [
+            "ns1.namebrightdns.com", 
+            "ns2.namebrightdns.com"
+        ], 
+        "domain-name": "finnairs.com", 
+        "fuzzer": "addition", 
+        "geoip-country": "United States"
+    }, 
+    {
+        "dns-a": [
+            "157.7.107.149"
+        ], 
+        "dns-mx": [
+            "mx01.lolipop.jp"
+        ], 
+        "dns-ns": [
+            "uns01.lolipop.jp", 
+            "uns02.lolipop.jp"
+        ], 
+        "domain-name": "dinnair.com", 
+        "fuzzer": "bitsquatting", 
+        "geoip-country": "Japan"
+    }, 
+    {
+        "dns-ns": [
+            "ns1.namebrightdns.com", 
+            "ns2.namebrightdns.com"
+        ], 
+        "domain-name": "finfair.com", 
+        "fuzzer": "bitsquatting"
+    }, 
+    {
+        "dns-a": [
+            "50.63.202.33"
+        ], 
+        "dns-ns": [
+            "ns11.domaincontrol.com", 
+            "ns12.domaincontrol.com"
+        ], 
+        "domain-name": "finneir.com", 
+        "fuzzer": "bitsquatting", 
+        "geoip-country": "United States"
+    }, 
+    {
+        "dns-a": [
+            "198.54.117.200"
+        ], 
+        "dns-ns": [
+            "dns101.registrar-servers.com", 
+            "dns102.registrar-servers.com"
+        ], 
+        "domain-name": "finnalr.com", 
+        "fuzzer": "homoglyph", 
+        "geoip-country": "United States"
+    }, 
+    {
+        "dns-a": [
+            "52.73.124.185", 
+            "54.164.198.60"
+        ], 
+        "dns-ns": [
+            "ns1.namebrightdns.com", 
+            "ns2.namebrightdns.com"
+        ], 
+        "domain-name": "firnair.com", 
+        "fuzzer": "homoglyph", 
+        "geoip-country": "United States"
+    }, 
+    {
+        "dns-a": [
+            "104.18.62.133", 
+            "104.18.63.133"
+        ], 
+        "dns-ns": [
+            "darl.ns.cloudflare.com", 
+            "lola.ns.cloudflare.com"
+        ], 
+        "domain-name": "finn-air.com", 
+        "fuzzer": "hyphenation", 
+        "geoip-country": "United States"
+    }, 
+    {
+        "dns-a": [
+            "23.236.62.147"
+        ], 
+        "dns-mx": [
+            "mx.daily.co.uk"
+        ], 
+        "dns-ns": [
+            "ns1.wix.com", 
+            "ns2.wix.com"
+        ], 
+        "domain-name": "finnhair.com", 
+        "fuzzer": "insertion", 
+        "geoip-country": "United States"
+    }, 
+    {
+        "dns-a": [
+            "108.175.168.68"
+        ], 
+        "dns-mx": [
+            "finair.com"
+        ], 
+        "dns-ns": [
+            "ns1.lifeisatest.com", 
+            "ns2.lifeisatest.com"
+        ], 
+        "domain-name": "finair.com", 
+        "fuzzer": "omission", 
+        "geoip-country": "United States"
+    }, 
+    {
+        "dns-a": [
+            "103.224.212.247"
+        ], 
+        "dns-mx": [
+            "park-mx.above.com"
+        ], 
+        "dns-ns": [
+            "ns3.above.com", 
+            "ns4.above.com"
+        ], 
+        "domain-name": "finnir.com", 
+        "fuzzer": "omission", 
+        "geoip-country": "Australia", 
+        "mx-spy": true
+    }, 
+    {
+        "dns-a": [
+            "72.52.4.120"
+        ], 
+        "dns-mx": [
+            "localhost"
+        ], 
+        "dns-ns": [
+            "ns1.sedoparking.com", 
+            "ns2.sedoparking.com"
+        ], 
+        "domain-name": "finnai.com", 
+        "fuzzer": "omission", 
+        "geoip-country": "United States", 
+        "mx-spy": true
+    }, 
+    {
+        "dns-a": [
+            "52.73.124.185", 
+            "54.164.198.60"
+        ], 
+        "dns-ns": [
+            "ns1.namebrightdns.com", 
+            "ns2.namebrightdns.com"
+        ], 
+        "domain-name": "innair.com", 
+        "fuzzer": "omission", 
+        "geoip-country": "United States"
+    }, 
+    {
+        "dns-a": [
+            "104.28.20.47", 
+            "104.28.21.47"
+        ], 
+        "dns-aaaa": [
+            "2400:cb00:2048:1::681c:142f", 
+            "2400:cb00:2048:1::681c:152f"
+        ], 
+        "dns-ns": [
+            "coco.ns.cloudflare.com", 
+            "nitin.ns.cloudflare.com"
+        ], 
+        "domain-name": "fnnair.com", 
+        "fuzzer": "omission", 
+        "geoip-country": "United States"
+    }, 
+    {
+        "dns-a": [
+            "69.172.201.153"
+        ], 
+        "dns-ns": [
+            "ns1.uniregistrymarket.link", 
+            "ns2.uniregistrymarket.link"
+        ], 
+        "domain-name": "finnar.com", 
+        "fuzzer": "omission", 
+        "geoip-country": "United States"
+    }, 
+    {
+        "dns-a": [
+            "104.28.22.127", 
+            "104.28.23.127"
+        ], 
+        "dns-aaaa": [
+            "2400:cb00:2048:1::681c:167f", 
+            "2400:cb00:2048:1::681c:177f"
+        ], 
+        "dns-ns": [
+            "angela.ns.cloudflare.com", 
+            "norm.ns.cloudflare.com"
+        ], 
+        "domain-name": "finnaiir.com", 
+        "fuzzer": "repetition", 
+        "geoip-country": "United States"
+    }, 
+    {
+        "dns-a": [
+            "69.16.230.43"
+        ], 
+        "dns-mx": [
+            "mx156.hostedmxserver.com"
+        ], 
+        "dns-ns": [
+            "ns1.parklogic.com", 
+            "ns2.parklogic.com", 
+            "ns3.parklogic.com", 
+            "ns4.parklogic.com", 
+            "ns5.parklogic.com"
+        ], 
+        "domain-name": "finnaair.com", 
+        "fuzzer": "repetition", 
+        "geoip-country": "United States", 
+        "mx-spy": true
+    }, 
+    {
+        "dns-a": [
+            "67.55.92.182", 
+            "67.55.92.183"
+        ], 
+        "dns-mx": [
+            "mx7.finnnair.com"
+        ], 
+        "dns-ns": [
+            "ns3.renewyourexpiereddomain.com", 
+            "ns4.renewyourexpiereddomain.com"
+        ], 
+        "domain-name": "finnnair.com", 
+        "fuzzer": "repetition", 
+        "geoip-country": "United States"
+    }, 
+    {
+        "dns-a": [
+            "199.59.242.150"
+        ], 
+        "dns-ns": [
+            "dora.ns.cloudflare.com", 
+            "jack.ns.cloudflare.com"
+        ], 
+        "domain-name": "fiinnair.com", 
+        "fuzzer": "repetition", 
+        "geoip-country": "United States"
+    }, 
+    {
+        "dns-a": [
+            "52.73.124.185", 
+            "54.164.198.60"
+        ], 
+        "dns-ns": [
+            "ns1.namebrightdns.com", 
+            "ns2.namebrightdns.com"
+        ], 
+        "domain-name": "finnaid.com", 
+        "fuzzer": "replacement", 
+        "geoip-country": "United States"
+    }, 
+    {
+        "dns-a": [
+            "202.153.199.14"
+        ], 
+        "dns-ns": [
+            "aron.ns.cloudflare.com", 
+            "darl.ns.cloudflare.com"
+        ], 
+        "domain-name": "finhair.com", 
+        "fuzzer": "replacement", 
+        "geoip-country": "Taiwan"
+    }, 
+    {
+        "dns-a": [
+            "199.59.242.150"
+        ], 
+        "dns-ns": [
+            "dora.ns.cloudflare.com", 
+            "jack.ns.cloudflare.com"
+        ], 
+        "domain-name": "finnaor.com", 
+        "fuzzer": "replacement", 
+        "geoip-country": "United States"
+    }, 
+    {
+        "dns-a": [
+            "52.73.124.185", 
+            "54.164.198.60"
+        ], 
+        "dns-ns": [
+            "ns1.namebrightdns.com", 
+            "ns2.namebrightdns.com"
+        ], 
+        "domain-name": "f.innair.com", 
+        "fuzzer": "subdomain", 
+        "geoip-country": "United States"
+    }, 
+    {
+        "dns-a": [
+            "64.99.80.121"
+        ], 
+        "domain-name": "fin.nair.com", 
+        "fuzzer": "subdomain", 
+        "geoip-country": "Canada"
+    }, 
+    {
+        "dns-a": [
+            "98.124.245.24"
+        ], 
+        "dns-mx": [
+            "mail.b-io.co"
+        ], 
+        "dns-ns": [
+            "ns1.fabulous.com", 
+            "ns2.fabulous.com"
+        ], 
+        "domain-name": "finn.air.com", 
+        "fuzzer": "subdomain"
+    }, 
+    {
+        "dns-a": [
+            "67.227.226.241"
+        ], 
+        "dns-mx": [
+            "mx156.hostedmxserver.com"
+        ], 
+        "dns-ns": [
+            "ns1.parklogic.com", 
+            "ns2.parklogic.com", 
+            "ns3.parklogic.com", 
+            "ns4.parklogic.com", 
+            "ns5.parklogic.com"
+        ], 
+        "domain-name": "finniar.com", 
+        "fuzzer": "transposition", 
+        "geoip-country": "United States", 
+        "mx-spy": true
+    }, 
+    {
+        "dns-a": [
+            "52.73.124.185", 
+            "54.164.198.60"
+        ], 
+        "dns-ns": [
+            "ns1.namebrightdns.com", 
+            "ns2.namebrightdns.com"
+        ], 
+        "domain-name": "finnari.com", 
+        "fuzzer": "transposition", 
+        "geoip-country": "United States"
+    }, 
+    {
+        "dns-a": [
+            "192.254.254.202"
+        ], 
+        "dns-mx": [
+            "finnoir.com"
+        ], 
+        "dns-ns": [
+            "ns6065.hostgator.com", 
+            "ns6066.hostgator.com"
+        ], 
+        "domain-name": "finnoir.com", 
+        "fuzzer": "vowel-swap"
+    }
+]

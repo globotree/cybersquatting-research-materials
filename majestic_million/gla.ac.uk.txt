@@ -1,0 +1,56 @@
+[
+    {
+        "dns-a": [
+            "130.209.34.12"
+        ], 
+        "dns-mx": [
+            "cleese.cent.gla.ac.uk", 
+            "palin.cent.gla.ac.uk"
+        ], 
+        "dns-ns": [
+            "dns0.gla.ac.uk", 
+            "dns1.gla.ac.uk", 
+            "dns2.gla.ac.uk"
+        ], 
+        "domain-name": "gla.ac.uk", 
+        "fuzzer": "original*", 
+        "geoip-country": "United Kingdom", 
+        "ssdeep-score": 100
+    }, 
+    {
+        "dns-mx": [
+            "mta-ca.southwales.ac.uk", 
+            "mta-tr.southwales.ac.uk"
+        ], 
+        "dns-ns": [
+            "ns1.glam.ac.uk", 
+            "ns1.ja.net", 
+            "ns2.glam.ac.uk"
+        ], 
+        "domain-name": "glam.ac.uk", 
+        "fuzzer": "addition"
+    }, 
+    {
+        "dns-mx": [
+            "mserv8.dl.ac.uk"
+        ], 
+        "dns-ns": [
+            "nserv1.dl.ac.uk", 
+            "nserv4.dl.ac.uk"
+        ], 
+        "domain-name": "gda.ac.uk", 
+        "fuzzer": "bitsquatting"
+    }, 
+    {
+        "dns-mx": [
+            "mxi-isr-01.core.canterbury.ac.uk", 
+            "mxi-rh-01.core.canterbury.ac.uk"
+        ], 
+        "dns-ns": [
+            "ns1.canterbury.ac.uk", 
+            "ns2.canterbury.ac.uk"
+        ], 
+        "domain-name": "tla.ac.uk", 
+        "fuzzer": "replacement"
+    }
+]

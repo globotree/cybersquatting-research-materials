@@ -1,0 +1,29 @@
+[
+    {
+        "dns-a": [
+            "157.140.2.10"
+        ], 
+        "dns-mx": [
+            "mailserver.nhm.ac.uk"
+        ], 
+        "dns-ns": [
+            "dns.nhm.ac.uk", 
+            "mailserver.nhm.ac.uk", 
+            "ns1.ja.net"
+        ], 
+        "domain-name": "nhm.ac.uk", 
+        "fuzzer": "original*", 
+        "geoip-country": "United Kingdom", 
+        "ssdeep-score": 100
+    }, 
+    {
+        "dns-ns": [
+            "ns0.nerc-keyworth.ac.uk", 
+            "ns2.ja.net", 
+            "unixa.nerc-swindon.ac.uk", 
+            "unixa.nerc-wallingford.ac.uk"
+        ], 
+        "domain-name": "nmh.ac.uk", 
+        "fuzzer": "transposition"
+    }
+]

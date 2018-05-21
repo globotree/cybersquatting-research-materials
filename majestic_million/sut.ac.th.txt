@@ -1,0 +1,97 @@
+[
+    {
+        "dns-a": [
+            "202.28.42.30"
+        ], 
+        "dns-mx": [
+            "ironport.sut.ac.th"
+        ], 
+        "dns-ns": [
+            "ns.sut.ac.th", 
+            "ns1.sut.ac.th"
+        ], 
+        "domain-name": "sut.ac.th", 
+        "fuzzer": "original*", 
+        "geoip-country": "Thailand"
+    }, 
+    {
+        "dns-a": [
+            "1.179.246.8"
+        ], 
+        "dns-ns": [
+            "ns1.totonline.net", 
+            "ns2.totonline.net"
+        ], 
+        "domain-name": "swt.ac.th", 
+        "fuzzer": "bitsquatting", 
+        "geoip-country": "Thailand"
+    }, 
+    {
+        "dns-a": [
+            "202.44.135.30"
+        ], 
+        "dns-aaaa": [
+            "2001:3c8:2107::30"
+        ], 
+        "dns-mx": [
+            "su-ac-th.mail.protection.outlook.com"
+        ], 
+        "dns-ns": [
+            "ns1.su.ac.th", 
+            "ns2.su.ac.th", 
+            "ns3.su.ac.th"
+        ], 
+        "domain-name": "su.ac.th", 
+        "fuzzer": "omission"
+    }, 
+    {
+        "dns-mx": [
+            "ALT1.ASPMX.L.GOOGLE.COM", 
+            "ALT2.ASPMX.L.GOOGLE.COM", 
+            "ALT3.ASPMX.L.GOOGLE.COM", 
+            "ALT4.ASPMX.L.GOOGLE.COM", 
+            "ASPMX.L.GOOGLE.COM"
+        ], 
+        "dns-ns": [
+            "ns.st.ac.th", 
+            "ns2.st.ac.th"
+        ], 
+        "domain-name": "st.ac.th", 
+        "fuzzer": "omission"
+    }, 
+    {
+        "dns-a": [
+            "203.78.104.6"
+        ], 
+        "dns-ns": [
+            "ns1.netway.co.th", 
+            "ns2.netway.co.th"
+        ], 
+        "domain-name": "sjt.ac.th", 
+        "fuzzer": "replacement"
+    }, 
+    {
+        "dns-a": [
+            "202.142.215.155"
+        ], 
+        "dns-mx": [
+            "alt1.aspmx.l.google.com", 
+            "alt2.aspmx.l.google.com", 
+            "aspmx.l.google.com", 
+            "aspmx2.googlemail.com", 
+            "aspmx3.googlemail.com", 
+            "aspmx4.googlemail.com", 
+            "aspmx5.googlemail.com"
+        ], 
+        "dns-ns": [
+            "dns1.name-services.com", 
+            "dns2.name-services.com", 
+            "dns3.name-services.com", 
+            "dns4.name-services.com", 
+            "dns5.name-services.com"
+        ], 
+        "domain-name": "stu.ac.th", 
+        "fuzzer": "transposition", 
+        "geoip-country": "Thailand"
+    }
+]

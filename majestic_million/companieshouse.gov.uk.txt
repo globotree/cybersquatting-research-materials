@@ -1,0 +1,57 @@
+[
+    {
+        "dns-a": [
+            "151.101.130.30", 
+            "151.101.194.30", 
+            "151.101.2.30", 
+            "151.101.66.30"
+        ], 
+        "dns-mx": [
+            "cluster-a.mailcontrol.com", 
+            "cluster-b.mailcontrol.com"
+        ], 
+        "dns-ns": [
+            "ns0.companieshouse.gov.uk", 
+            "ns1.companieshouse.gov.uk", 
+            "ns2.companieshouse.gov.uk", 
+            "ns3.companieshouse.gov.uk", 
+            "ns4.companieshouse.gov.uk"
+        ], 
+        "domain-name": "companieshouse.gov.uk", 
+        "fuzzer": "original*", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 91
+    }, 
+    {
+        "dns-mx": [
+            "cluster-a.mailcontrol.com", 
+            "cluster-b.mailcontrol.com"
+        ], 
+        "dns-ns": [
+            "ns0.companieshouse.gov.uk", 
+            "ns1.companieshouse.gov.uk", 
+            "ns2.companieshouse.gov.uk", 
+            "ns3.companieshouse.gov.uk", 
+            "ns4.companieshouse.gov.uk"
+        ], 
+        "domain-name": "companies-house.gov.uk", 
+        "fuzzer": "hyphenation"
+    }, 
+    {
+        "dns-a": [
+            "72.52.4.122"
+        ], 
+        "dns-mx": [
+            "localhost"
+        ], 
+        "dns-ns": [
+            "ns1.sedoparking.com", 
+            "ns2.sedoparking.com"
+        ], 
+        "domain-name": "companieshousegov.uk", 
+        "fuzzer": "various", 
+        "geoip-country": "United States", 
+        "mx-spy": true, 
+        "ssdeep-score": 0
+    }
+]

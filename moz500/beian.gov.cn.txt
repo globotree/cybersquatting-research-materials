@@ -1,0 +1,55 @@
+[
+    {
+        "dns-a": [
+            "211.88.112.61", 
+            "219.142.142.150", 
+            "39.155.219.150"
+        ], 
+        "dns-mx": [
+            "mxbiz1.qq.com", 
+            "mxbiz2.qq.com"
+        ], 
+        "dns-ns": [
+            "dns7.hichina.com", 
+            "dns8.hichina.com"
+        ], 
+        "domain-name": "beian.gov.cn", 
+        "fuzzer": "original*", 
+        "geoip-country": "China", 
+        "ssdeep-score": 100
+    }, 
+    {
+        "dns-mx": [
+            "mxbiz1.qq.com", 
+            "mxbiz2.qq.com"
+        ], 
+        "dns-ns": [
+            "f1g1ns1.dnspod.net", 
+            "f1g1ns2.dnspod.net"
+        ], 
+        "domain-name": "beiwan.gov.cn", 
+        "fuzzer": "insertion"
+    }, 
+    {
+        "dns-ns": [
+            "ns19.xincache.com", 
+            "ns20.xincache.com"
+        ], 
+        "domain-name": "ebian.gov.cn", 
+        "fuzzer": "transposition"
+    }, 
+    {
+        "dns-a": [
+            "103.243.183.107"
+        ], 
+        "domain-name": "beian.cn", 
+        "fuzzer": "various"
+    }, 
+    {
+        "dns-a": [
+            "209.99.16.66"
+        ], 
+        "domain-name": "beiangov.cn", 
+        "fuzzer": "various"
+    }
+]

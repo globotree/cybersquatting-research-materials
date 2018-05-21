@@ -1,0 +1,135 @@
+[
+    {
+        "dns-a": [
+            "130.65.255.101"
+        ], 
+        "dns-mx": [
+            "alt1.aspmx.l.google.com", 
+            "alt2.aspmx.l.google.com", 
+            "aspmx.l.google.com", 
+            "aspmx2.googlemail.com", 
+            "aspmx3.googlemail.com", 
+            "aspmx4.googlemail.com", 
+            "aspmx5.googlemail.com"
+        ], 
+        "dns-ns": [
+            "adns1.ucsc.edu", 
+            "adns2.ucsc.edu", 
+            "ns1.sjsu.edu", 
+            "ns2.sjsu.edu", 
+            "ns4.cenic.org", 
+            "ns5.cenic.org", 
+            "ns6.cenic.org", 
+            "sjs-cc-112-ib1.sjsu.edu", 
+            "sjs-mh-site-ib2.sjsu.edu"
+        ], 
+        "domain-name": "sjsu.edu", 
+        "fuzzer": "original*", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 100
+    }, 
+    {
+        "dns-a": [
+            "158.135.1.242"
+        ], 
+        "dns-aaaa": [
+            "2620:7e:c080::1f2"
+        ], 
+        "dns-mx": [
+            "shsu-edu.mail.protection.outlook.com"
+        ], 
+        "dns-ns": [
+            "ns.shsu.edu", 
+            "ns2.shsu.edu", 
+            "ns3.shsu.edu"
+        ], 
+        "domain-name": "shsu.edu", 
+        "fuzzer": "bitsquatting", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "162.241.188.131"
+        ], 
+        "dns-mx": [
+            "ssu.edu"
+        ], 
+        "dns-ns": [
+            "ns1.ssu.edu", 
+            "ns2.ssu.edu"
+        ], 
+        "domain-name": "ssu.edu", 
+        "fuzzer": "omission", 
+        "geoip-country": "United States"
+    }, 
+    {
+        "dns-a": [
+            "205.174.48.175"
+        ], 
+        "dns-mx": [
+            "jsu-edu.mail.protection.outlook.com"
+        ], 
+        "dns-ns": [
+            "asnsvr.asc.edu", 
+            "ext-ns1.jsu.edu", 
+            "ext-ns2.jsu.edu"
+        ], 
+        "domain-name": "jsu.edu", 
+        "fuzzer": "omission"
+    }, 
+    {
+        "dns-a": [
+            "198.7.61.230"
+        ], 
+        "dns-mx": [
+            "sjs.edu.bak-mx.na0109.smtpbak.com", 
+            "sjs.edu.pri-mx.na0109.smtproutes.com"
+        ], 
+        "dns-ns": [
+            "ns10.dnsmadeeasy.com", 
+            "ns11.dnsmadeeasy.com", 
+            "ns12.dnsmadeeasy.com", 
+            "ns13.dnsmadeeasy.com", 
+            "ns14.dnsmadeeasy.com", 
+            "ns15.dnsmadeeasy.com"
+        ], 
+        "domain-name": "sjs.edu", 
+        "fuzzer": "omission"
+    }, 
+    {
+        "dns-a": [
+            "129.68.66.80"
+        ], 
+        "dns-mx": [
+            "mailgate1.sju.edu", 
+            "mailgate2.sju.edu", 
+            "mailgate3.sju.edu"
+        ], 
+        "dns-ns": [
+            "ns1.sju.edu", 
+            "ns2.sju.edu"
+        ], 
+        "domain-name": "sju.edu", 
+        "fuzzer": "omission", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "199.17.208.60"
+        ], 
+        "dns-mx": [
+            "smsu-edu.mail.protection.outlook.com"
+        ], 
+        "dns-ns": [
+            "ns1.state.mn.us", 
+            "ns2.state.mn.us", 
+            "ns3.state.mn.us"
+        ], 
+        "domain-name": "smsu.edu", 
+        "fuzzer": "replacement", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 0
+    }
+]

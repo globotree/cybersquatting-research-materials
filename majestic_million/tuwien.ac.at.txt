@@ -1,0 +1,65 @@
+[
+    {
+        "dns-a": [
+            "128.130.35.76"
+        ], 
+        "dns-mx": [
+            "mri0.tuwien.ac.at", 
+            "mri1.tuwien.ac.at", 
+            "mri2.tuwien.ac.at", 
+            "mri9.tuwien.ac.at"
+        ], 
+        "dns-ns": [
+            "ns10.univie.ac.at", 
+            "ns5.univie.ac.at", 
+            "tunamec.tuwien.ac.at", 
+            "tunamed.tuwien.ac.at"
+        ], 
+        "domain-name": "tuwien.ac.at", 
+        "fuzzer": "original*", 
+        "geoip-country": "Austria", 
+        "ssdeep-score": 99
+    }, 
+    {
+        "dns-a": [
+            "128.130.35.76"
+        ], 
+        "dns-mx": [
+            "mri1.tuwien.ac.at", 
+            "mri2.tuwien.ac.at"
+        ], 
+        "dns-ns": [
+            "ns10.univie.ac.at", 
+            "ns5.univie.ac.at"
+        ], 
+        "domain-name": "tu-wien.ac.at", 
+        "fuzzer": "hyphenation", 
+        "geoip-country": "Austria", 
+        "ssdeep-score": 99
+    }, 
+    {
+        "dns-mx": [
+            "neelix.kom.tuwien.ac.at", 
+            "tuvok.kom.tuwien.ac.at", 
+            "www.ai.tuwien.ac.at"
+        ], 
+        "dns-ns": [
+            "ns1.net-works.at", 
+            "ns2.net-works.at"
+        ], 
+        "domain-name": "tuwien.at", 
+        "fuzzer": "various"
+    }, 
+    {
+        "dns-a": [
+            "50.63.202.34"
+        ], 
+        "dns-ns": [
+            "ns67.domaincontrol.com", 
+            "ns68.domaincontrol.com"
+        ], 
+        "domain-name": "tuwienac.at", 
+        "fuzzer": "various", 
+        "geoip-country": "United States"
+    }
+]

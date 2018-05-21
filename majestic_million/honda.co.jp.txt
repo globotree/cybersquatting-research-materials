@@ -1,0 +1,172 @@
+[
+    {
+        "dns-mx": [
+            "n-wgn01.honda.co.jp", 
+            "n-wgn02.honda.co.jp", 
+            "nnnn-box-p.honda.co.jp", 
+            "nnnn-box.honda.co.jp", 
+            "nnnn-one.honda.co.jp"
+        ], 
+        "dns-ns": [
+            "grom.honda.co.jp", 
+            "hornet.honda.co.jp", 
+            "ns.spin.ad.jp", 
+            "ns.tokyo.spin.ad.jp", 
+            "slasher.honda.co.jp", 
+            "vezel.honda.co.jp"
+        ], 
+        "domain-name": "honda.co.jp", 
+        "fuzzer": "original*", 
+        "mx-spy": true
+    }, 
+    {
+        "dns-a": [
+            "157.205.24.113"
+        ], 
+        "dns-mx": [
+            "mxi.alpha-prm.jp"
+        ], 
+        "dns-ns": [
+            "fjkdns01.alpha-prm.jp", 
+            "fjkdns02.alpha-prm.jp", 
+            "fjkdns03.alpha-prm.jp"
+        ], 
+        "domain-name": "hondan.co.jp", 
+        "fuzzer": "addition", 
+        "geoip-country": "Japan"
+    }, 
+    {
+        "dns-a": [
+            "122.28.46.22"
+        ], 
+        "dns-mx": [
+            "mwbgw1.ocn.ad.jp", 
+            "mwbgw2.ocn.ad.jp"
+        ], 
+        "dns-ns": [
+            "ns-216.dns.jp-e1.cloudn-service.com", 
+            "ns-217.dns.jp-w1.cloudn-service.com", 
+            "ns-218.dns.us-e1.cloudn-service.com"
+        ], 
+        "domain-name": "hondas.co.jp", 
+        "fuzzer": "addition", 
+        "geoip-country": "Japan"
+    }, 
+    {
+        "dns-a": [
+            "210.172.183.32"
+        ], 
+        "dns-mx": [
+            "mx6.gmoserver.jp"
+        ], 
+        "dns-ns": [
+            "dns01.gmoserver.jp", 
+            "dns02.gmoserver.jp"
+        ], 
+        "domain-name": "hondat.co.jp", 
+        "fuzzer": "addition", 
+        "geoip-country": "Japan"
+    }, 
+    {
+        "dns-a": [
+            "122.28.45.21"
+        ], 
+        "dns-mx": [
+            "honta.co.jp"
+        ], 
+        "dns-ns": [
+            "ns-219.dns.jp-e1.cloudn-service.com", 
+            "ns-220.dns.jp-w1.cloudn-service.com", 
+            "ns-221.dns.us-e1.cloudn-service.com"
+        ], 
+        "domain-name": "honta.co.jp", 
+        "fuzzer": "bitsquatting", 
+        "geoip-country": "Japan"
+    }, 
+    {
+        "dns-a": [
+            "49.212.198.180"
+        ], 
+        "dns-mx": [
+            "honde.co.jp"
+        ], 
+        "dns-ns": [
+            "ns1.dns.ne.jp", 
+            "ns2.dns.ne.jp"
+        ], 
+        "domain-name": "honde.co.jp", 
+        "fuzzer": "bitsquatting", 
+        "geoip-country": "Japan"
+    }, 
+    {
+        "dns-mx": [
+            "gw11-ext.okbnet.ne.jp", 
+            "gw12-ext.okbnet.ne.jp"
+        ], 
+        "dns-ns": [
+            "ns1.okbnet.ne.jp", 
+            "ns2.okbnet.ne.jp"
+        ], 
+        "domain-name": "onda.co.jp", 
+        "fuzzer": "omission"
+    }, 
+    {
+        "dns-a": [
+            "153.122.140.111"
+        ], 
+        "dns-ns": [
+            "ns1.rsjpserver.net", 
+            "ns2.rsjpserver.net"
+        ], 
+        "domain-name": "hona.co.jp", 
+        "fuzzer": "omission", 
+        "geoip-country": "Japan"
+    }, 
+    {
+        "dns-a": [
+            "210.128.29.60"
+        ], 
+        "dns-mx": [
+            "smtp1.xaas.jp", 
+            "smtp2.xaas.jp"
+        ], 
+        "dns-ns": [
+            "ns01.telewave.ad.jp", 
+            "ns01.xaas.jp"
+        ], 
+        "domain-name": "gonda.co.jp", 
+        "fuzzer": "replacement", 
+        "geoip-country": "Japan"
+    }, 
+    {
+        "dns-mx": [
+            "alt1.aspmx.l.google.com", 
+            "alt2.aspmx.l.google.com", 
+            "aspmx.l.google.com", 
+            "aspmx2.googlemail.com", 
+            "aspmx3.googlemail.com"
+        ], 
+        "dns-ns": [
+            "01.dnsv.jp", 
+            "02.dnsv.jp"
+        ], 
+        "domain-name": "handa.co.jp", 
+        "fuzzer": "vowel-swap"
+    }, 
+    {
+        "dns-a": [
+            "150.60.158.105"
+        ], 
+        "dns-mx": [
+            "vlmx20.secure.ne.jp", 
+            "vlmx21.secure.ne.jp", 
+            "vlmx22.secure.ne.jp"
+        ], 
+        "dns-ns": [
+            "ns6.cpi.ad.jp", 
+            "ns7.cpi.ad.jp"
+        ], 
+        "domain-name": "hondo.co.jp", 
+        "fuzzer": "vowel-swap"
+    }
+]

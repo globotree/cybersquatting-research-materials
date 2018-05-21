@@ -1,0 +1,48 @@
+[
+    {
+        "dns-a": [
+            "172.217.22.73"
+        ], 
+        "dns-aaaa": [
+            "2a00:1450:4001:81c::2009"
+        ], 
+        "dns-ns": [
+            "ns1.google.com", 
+            "ns2.google.com", 
+            "ns3.google.com", 
+            "ns4.google.com"
+        ], 
+        "domain-name": "blogspot.co.nz", 
+        "fuzzer": "original*", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 77
+    }, 
+    {
+        "dns-a": [
+            "69.172.201.153"
+        ], 
+        "dns-ns": [
+            "ns1.uniregistrymarket.link", 
+            "ns2.uniregistrymarket.link"
+        ], 
+        "domain-name": "blogs.pot.co.nz", 
+        "fuzzer": "subdomain", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "119.47.114.163"
+        ], 
+        "domain-name": "blogsp.ot.co.nz", 
+        "fuzzer": "subdomain", 
+        "geoip-country": "New Zealand"
+    }, 
+    {
+        "dns-a": [
+            "119.47.114.163"
+        ], 
+        "domain-name": "blogspo.t.co.nz", 
+        "fuzzer": "subdomain"
+    }
+]

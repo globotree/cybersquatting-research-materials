@@ -1,0 +1,36 @@
+[
+    {
+        "dns-a": [
+            "134.60.1.25"
+        ], 
+        "dns-mx": [
+            "smtp.uni-ulm.de"
+        ], 
+        "dns-ns": [
+            "dns1.belwue.de", 
+            "dns1.uni-ulm.de", 
+            "dns2.uni-ulm.de", 
+            "dns3.belwue.de", 
+            "dns5.belwue.de"
+        ], 
+        "domain-name": "uni-ulm.de", 
+        "fuzzer": "original*", 
+        "geoip-country": "Germany", 
+        "ssdeep-score": 100
+    }, 
+    {
+        "dns-a": [
+            "134.60.1.25"
+        ], 
+        "dns-ns": [
+            "dns1.belwue.de", 
+            "dns1.uni-ulm.de", 
+            "dns3.belwue.de", 
+            "dns5.belwue.de"
+        ], 
+        "domain-name": "uniulm.de", 
+        "fuzzer": "omission", 
+        "geoip-country": "Germany", 
+        "ssdeep-score": 100
+    }
+]

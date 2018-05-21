@@ -1,0 +1,135 @@
+[
+    {
+        "dns-a": [
+            "91.203.202.198"
+        ], 
+        "dns-mx": [
+            "herbstmx.degruyter.com"
+        ], 
+        "dns-ns": [
+            "ns1.cbxnet.de", 
+            "ns3.cbxnet.de"
+        ], 
+        "domain-name": "degruyter.com", 
+        "fuzzer": "original*", 
+        "geoip-country": "Germany", 
+        "ssdeep-score": 99
+    }, 
+    {
+        "dns-a": [
+            "82.94.181.109"
+        ], 
+        "dns-mx": [
+            "smtp1.byte.nl", 
+            "smtp2.byte.nl"
+        ], 
+        "dns-ns": [
+            "nsa.byte.nl", 
+            "nsb.byte.nl", 
+            "nsc.byte.nl"
+        ], 
+        "domain-name": "degruiter.com", 
+        "fuzzer": "bitsquatting", 
+        "geoip-country": "Netherlands", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "109.70.4.138"
+        ], 
+        "dns-mx": [
+            "mail.de-gruyter.com"
+        ], 
+        "dns-ns": [
+            "ns1.anony.nl", 
+            "ns2.anony.nl", 
+            "ns3.anony.eu"
+        ], 
+        "domain-name": "de-gruyter.com", 
+        "fuzzer": "hyphenation", 
+        "geoip-country": "Netherlands", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "50.63.37.1"
+        ], 
+        "dns-mx": [
+            "mailstore1.secureserver.net", 
+            "smtp.secureserver.net"
+        ], 
+        "dns-ns": [
+            "ns5.secureserver.net", 
+            "ns6.secureserver.net"
+        ], 
+        "domain-name": "deruyter.com", 
+        "fuzzer": "omission", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "178.20.253.200"
+        ], 
+        "dns-mx": [
+            "mail.degrutter.com"
+        ], 
+        "dns-ns": [
+            "ns1.hcdns.nl", 
+            "ns2.hcdns.nl"
+        ], 
+        "domain-name": "degrutter.com", 
+        "fuzzer": "replacement", 
+        "geoip-country": "Netherlands"
+    }, 
+    {
+        "dns-a": [
+            "72.52.4.120"
+        ], 
+        "dns-mx": [
+            "localhost"
+        ], 
+        "dns-ns": [
+            "ns1.sedoparking.com", 
+            "ns2.sedoparking.com"
+        ], 
+        "domain-name": "de.gruyter.com", 
+        "fuzzer": "subdomain", 
+        "geoip-country": "United States", 
+        "mx-spy": true, 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "72.52.4.119"
+        ], 
+        "dns-mx": [
+            "localhost"
+        ], 
+        "dns-ns": [
+            "ns1.sedoparking.com", 
+            "ns2.sedoparking.com"
+        ], 
+        "domain-name": "deg.ruyter.com", 
+        "fuzzer": "subdomain", 
+        "geoip-country": "United States", 
+        "mx-spy": true, 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "199.59.242.150"
+        ], 
+        "domain-name": "degru.yter.com", 
+        "fuzzer": "subdomain", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "208.73.211.70"
+        ], 
+        "domain-name": "degruyt.er.com", 
+        "fuzzer": "subdomain"
+    }
+]

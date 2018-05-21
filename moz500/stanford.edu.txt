@@ -1,0 +1,46 @@
+[
+    {
+        "dns-a": [
+            "171.67.215.200"
+        ], 
+        "dns-aaaa": [
+            "2607:f6d0:0:925a::ab43:d7c8"
+        ], 
+        "dns-mx": [
+            "mx3.stanford.edu", 
+            "mxa-00000d03.gslb.pphosted.com", 
+            "mxb-00000d03.gslb.pphosted.com"
+        ], 
+        "dns-ns": [
+            "Argus.stanford.edu", 
+            "Atalante.stanford.edu", 
+            "Avallone.stanford.edu", 
+            "ns5.dnsmadeeasy.com", 
+            "ns6.dnsmadeeasy.com", 
+            "ns7.dnsmadeeasy.com"
+        ], 
+        "domain-name": "stanford.edu", 
+        "fuzzer": "original*", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 100
+    }, 
+    {
+        "dns-a": [
+            "52.74.63.52"
+        ], 
+        "dns-mx": [
+            "mx1.laureate.iphmx.com", 
+            "mx2.laureate.iphmx.com"
+        ], 
+        "dns-ns": [
+            "ns-1451.awsdns-53.org", 
+            "ns-1844.awsdns-38.co.uk", 
+            "ns-219.awsdns-27.com", 
+            "ns-628.awsdns-14.net"
+        ], 
+        "domain-name": "stamford.edu", 
+        "fuzzer": "homoglyph", 
+        "geoip-country": "Singapore", 
+        "ssdeep-score": 0
+    }
+]

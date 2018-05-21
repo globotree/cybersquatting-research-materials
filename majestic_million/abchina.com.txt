@@ -1,0 +1,581 @@
+[
+    {
+        "dns-mx": [
+            "mail-sps.abchina.com", 
+            "mail.abchina.com", 
+            "mailb.abchina.com", 
+            "mailc.abchina.com"
+        ], 
+        "dns-ns": [
+            "bjft002_ei_dns_01.abc", 
+            "ns.abchina.com", 
+            "ns2.abchina.com", 
+            "ns3.abchina.com", 
+            "ns4.abchina.com"
+        ], 
+        "domain-name": "abchina.com", 
+        "fuzzer": "original*", 
+        "mx-spy": true
+    }, 
+    {
+        "dns-a": [
+            "47.90.86.226"
+        ], 
+        "dns-ns": [
+            "dns23.hichina.com", 
+            "dns24.hichina.com"
+        ], 
+        "domain-name": "abchinac.com", 
+        "fuzzer": "addition", 
+        "geoip-country": "United States"
+    }, 
+    {
+        "dns-ns": [
+            "ns19.xincache.com", 
+            "ns20.xincache.com"
+        ], 
+        "domain-name": "abchinal.com", 
+        "fuzzer": "addition"
+    }, 
+    {
+        "dns-ns": [
+            "ns93.worldnic.com", 
+            "ns94.worldnic.com"
+        ], 
+        "domain-name": "ebchina.com", 
+        "fuzzer": "bitsquatting"
+    }, 
+    {
+        "dns-a": [
+            "119.28.78.192"
+        ], 
+        "domain-name": "qbchina.com", 
+        "fuzzer": "bitsquatting", 
+        "geoip-country": "China"
+    }, 
+    {
+        "dns-a": [
+            "119.28.78.192"
+        ], 
+        "domain-name": "acchina.com", 
+        "fuzzer": "bitsquatting", 
+        "geoip-country": "China"
+    }, 
+    {
+        "dns-a": [
+            "185.53.179.6"
+        ], 
+        "dns-mx": [
+            "mail.h-email.net"
+        ], 
+        "dns-ns": [
+            "ns1.parkingcrew.net", 
+            "ns2.parkingcrew.net"
+        ], 
+        "domain-name": "afchina.com", 
+        "fuzzer": "bitsquatting", 
+        "geoip-country": "Germany", 
+        "mx-spy": true
+    }, 
+    {
+        "dns-mx": [
+            "mx.ajchina.com"
+        ], 
+        "dns-ns": [
+            "dns1.hichina.com", 
+            "dns2.hichina.com"
+        ], 
+        "domain-name": "ajchina.com", 
+        "fuzzer": "bitsquatting"
+    }, 
+    {
+        "dns-a": [
+            "211.152.34.32"
+        ], 
+        "dns-mx": [
+            "mxbiz1.qq.com", 
+            "mxbiz2.qq.com"
+        ], 
+        "dns-ns": [
+            "ns5000.01isp.com", 
+            "ns5001.01isp.cn", 
+            "ns5002.01isp.net"
+        ], 
+        "domain-name": "archina.com", 
+        "fuzzer": "bitsquatting", 
+        "geoip-country": "China"
+    }, 
+    {
+        "dns-a": [
+            "107.187.223.185"
+        ], 
+        "dns-ns": [
+            "f1g1ns1.dnspod.net", 
+            "f1g1ns2.dnspod.net"
+        ], 
+        "domain-name": "abchine.com", 
+        "fuzzer": "bitsquatting", 
+        "geoip-country": "United States"
+    }, 
+    {
+        "dns-a": [
+            "114.112.78.18"
+        ], 
+        "dns-mx": [
+            "mx1.adchina.com", 
+            "mx2.adchina.com"
+        ], 
+        "dns-ns": [
+            "dns19.hichina.com", 
+            "dns20.hichina.com"
+        ], 
+        "domain-name": "adchina.com", 
+        "fuzzer": "homoglyph", 
+        "geoip-country": "China"
+    }, 
+    {
+        "dns-a": [
+            "52.73.124.185", 
+            "54.164.198.60"
+        ], 
+        "dns-ns": [
+            "ns1.namebrightdns.com", 
+            "ns2.namebrightdns.com"
+        ], 
+        "domain-name": "aibchina.com", 
+        "fuzzer": "homoglyph", 
+        "geoip-country": "United States"
+    }, 
+    {
+        "dns-a": [
+            "162.255.119.253"
+        ], 
+        "dns-ns": [
+            "freedns1.registrar-servers.com", 
+            "freedns2.registrar-servers.com", 
+            "freedns3.registrar-servers.com", 
+            "freedns4.registrar-servers.com", 
+            "freedns5.registrar-servers.com"
+        ], 
+        "domain-name": "abchima.com", 
+        "fuzzer": "homoglyph", 
+        "geoip-country": "United States"
+    }, 
+    {
+        "dns-a": [
+            "184.168.221.38"
+        ], 
+        "dns-mx": [
+            "mailstore1.secureserver.net", 
+            "smtp.secureserver.net"
+        ], 
+        "dns-ns": [
+            "ns33.domaincontrol.com", 
+            "ns34.domaincontrol.com"
+        ], 
+        "domain-name": "xn--abchna-6va.com", 
+        "fuzzer": "homoglyph", 
+        "geoip-country": "United States"
+    }, 
+    {
+        "dns-a": [
+            "46.30.213.31"
+        ], 
+        "dns-mx": [
+            "mx1.pub.mailpod2-cph3.one.com", 
+            "mx2.pub.mailpod2-cph3.one.com", 
+            "mx3.pub.mailpod2-cph3.one.com"
+        ], 
+        "dns-ns": [
+            "ns01.one.com", 
+            "ns02.one.com"
+        ], 
+        "domain-name": "a-bchina.com", 
+        "fuzzer": "hyphenation", 
+        "geoip-country": "Denmark"
+    }, 
+    {
+        "dns-a": [
+            "59.188.232.88"
+        ], 
+        "domain-name": "ab-china.com", 
+        "fuzzer": "hyphenation", 
+        "geoip-country": "Hong Kong"
+    }, 
+    {
+        "dns-ns": [
+            "ns07.domaincontrol.com", 
+            "ns08.domaincontrol.com"
+        ], 
+        "domain-name": "abchi-na.com", 
+        "fuzzer": "hyphenation"
+    }, 
+    {
+        "dns-a": [
+            "192.186.4.52"
+        ], 
+        "dns-ns": [
+            "dns11.hichina.com", 
+            "dns12.hichina.com"
+        ], 
+        "domain-name": "abvchina.com", 
+        "fuzzer": "insertion", 
+        "geoip-country": "United States"
+    }, 
+    {
+        "dns-a": [
+            "203.78.142.12"
+        ], 
+        "domain-name": "abdchina.com", 
+        "fuzzer": "insertion", 
+        "geoip-country": "Hong Kong"
+    }, 
+    {
+        "dns-a": [
+            "47.89.24.250"
+        ], 
+        "dns-mx": [
+            "mxbiz1.qq.com", 
+            "mxbiz2.qq.com"
+        ], 
+        "dns-ns": [
+            "ns19.xincache.com", 
+            "ns20.xincache.com"
+        ], 
+        "domain-name": "abnchina.com", 
+        "fuzzer": "insertion", 
+        "geoip-country": "Hong Kong"
+    }, 
+    {
+        "dns-a": [
+            "23.108.153.199"
+        ], 
+        "dns-ns": [
+            "ns2.dnsdun.com", 
+            "ns2.dnsdun.net"
+        ], 
+        "domain-name": "agbchina.com", 
+        "fuzzer": "insertion", 
+        "geoip-country": "United States"
+    }, 
+    {
+        "dns-a": [
+            "107.178.155.76"
+        ], 
+        "dns-ns": [
+            "ns5.dnsdun.com", 
+            "ns5.dnsdun.net"
+        ], 
+        "domain-name": "anbchina.com", 
+        "fuzzer": "insertion", 
+        "geoip-country": "United States"
+    }, 
+    {
+        "dns-a": [
+            "123.56.120.120"
+        ], 
+        "dns-mx": [
+            "abfchina-com.mail.protection.partner.outlook.cn"
+        ], 
+        "dns-ns": [
+            "ns33.worldnic.com", 
+            "ns34.worldnic.com"
+        ], 
+        "domain-name": "abfchina.com", 
+        "fuzzer": "insertion", 
+        "geoip-country": "China"
+    }, 
+    {
+        "dns-a": [
+            "154.85.228.155"
+        ], 
+        "dns-ns": [
+            "v1.dns234.net", 
+            "v2.dns234.net"
+        ], 
+        "domain-name": "abchna.com", 
+        "fuzzer": "omission", 
+        "geoip-country": "United States"
+    }, 
+    {
+        "dns-a": [
+            "69.172.201.153"
+        ], 
+        "dns-ns": [
+            "ns1.uniregistrymarket.link", 
+            "ns2.uniregistrymarket.link"
+        ], 
+        "domain-name": "bchina.com", 
+        "fuzzer": "omission", 
+        "geoip-country": "United States"
+    }, 
+    {
+        "dns-a": [
+            "34.202.122.77", 
+            "35.169.225.248", 
+            "52.0.7.30"
+        ], 
+        "dns-ns": [
+            "ns1.dynadot.com", 
+            "ns2.dynadot.com"
+        ], 
+        "domain-name": "abchia.com", 
+        "fuzzer": "omission", 
+        "geoip-country": "United States"
+    }, 
+    {
+        "dns-a": [
+            "66.45.246.141"
+        ], 
+        "domain-name": "abcina.com", 
+        "fuzzer": "omission", 
+        "geoip-country": "United States"
+    }, 
+    {
+        "dns-a": [
+            "103.59.164.125"
+        ], 
+        "dns-mx": [
+            "abchin.com"
+        ], 
+        "domain-name": "abchin.com", 
+        "fuzzer": "omission", 
+        "geoip-country": "China"
+    }, 
+    {
+        "dns-a": [
+            "54.72.9.51"
+        ], 
+        "dns-mx": [
+            "mail.h-email.net"
+        ], 
+        "dns-ns": [
+            "ns1.parkingcrew.net", 
+            "ns2.parkingcrew.net"
+        ], 
+        "domain-name": "abhina.com", 
+        "fuzzer": "omission", 
+        "geoip-country": "Ireland"
+    }, 
+    {
+        "dns-a": [
+            "204.44.102.37"
+        ], 
+        "domain-name": "abcchina.com", 
+        "fuzzer": "repetition", 
+        "geoip-country": "United States"
+    }, 
+    {
+        "dns-a": [
+            "121.14.65.216"
+        ], 
+        "dns-mx": [
+            "smx11.cn4e.com"
+        ], 
+        "dns-ns": [
+            "ns11.xincache.com", 
+            "ns12.xincache.com", 
+            "ns17.xincache.com", 
+            "ns18.xincache.com"
+        ], 
+        "domain-name": "aabchina.com", 
+        "fuzzer": "repetition", 
+        "geoip-country": "China"
+    }, 
+    {
+        "dns-a": [
+            "138.225.2.74"
+        ], 
+        "dns-ns": [
+            "nse1.abb.com", 
+            "nse2.abb.com", 
+            "nse3.abb.com"
+        ], 
+        "domain-name": "abbchina.com", 
+        "fuzzer": "repetition", 
+        "geoip-country": "Switzerland"
+    }, 
+    {
+        "dns-a": [
+            "119.28.78.192"
+        ], 
+        "domain-name": "sbchina.com", 
+        "fuzzer": "replacement", 
+        "geoip-country": "China"
+    }, 
+    {
+        "dns-a": [
+            "107.154.85.227"
+        ], 
+        "dns-ns": [
+            "ns11.dnstool.net", 
+            "ns12.dnstool.net", 
+            "ns13.dnstool.net"
+        ], 
+        "domain-name": "anchina.com", 
+        "fuzzer": "replacement", 
+        "geoip-country": "United States"
+    }, 
+    {
+        "dns-a": [
+            "69.64.147.38"
+        ], 
+        "dns-ns": [
+            "dns1.name-services.com", 
+            "dns2.name-services.com", 
+            "dns3.name-services.com", 
+            "dns4.name-services.com", 
+            "dns5.name-services.com"
+        ], 
+        "domain-name": "avchina.com", 
+        "fuzzer": "replacement", 
+        "geoip-country": "United States"
+    }, 
+    {
+        "dns-a": [
+            "103.59.164.125"
+        ], 
+        "dns-mx": [
+            "abcnina.com"
+        ], 
+        "domain-name": "abcnina.com", 
+        "fuzzer": "replacement", 
+        "geoip-country": "China"
+    }, 
+    {
+        "dns-a": [
+            "69.172.201.153"
+        ], 
+        "dns-ns": [
+            "ns1.uniregistrymarket.link", 
+            "ns2.uniregistrymarket.link"
+        ], 
+        "domain-name": "ybchina.com", 
+        "fuzzer": "replacement", 
+        "geoip-country": "United States"
+    }, 
+    {
+        "dns-ns": [
+            "f1g1ns1.dnspod.net", 
+            "f1g1ns2.dnspod.net"
+        ], 
+        "domain-name": "1bchina.com", 
+        "fuzzer": "replacement"
+    }, 
+    {
+        "dns-a": [
+            "107.183.89.200"
+        ], 
+        "dns-ns": [
+            "v1.dns234.net", 
+            "v2.dns234.net"
+        ], 
+        "domain-name": "abvhina.com", 
+        "fuzzer": "replacement", 
+        "geoip-country": "United States"
+    }, 
+    {
+        "dns-a": [
+            "203.78.142.12"
+        ], 
+        "domain-name": "wbchina.com", 
+        "fuzzer": "replacement", 
+        "geoip-country": "Hong Kong"
+    }, 
+    {
+        "dns-a": [
+            "52.73.124.185", 
+            "54.164.198.60"
+        ], 
+        "dns-ns": [
+            "ns1.namebrightdns.com", 
+            "ns2.namebrightdns.com"
+        ], 
+        "domain-name": "2bchina.com", 
+        "fuzzer": "replacement", 
+        "geoip-country": "United States"
+    }, 
+    {
+        "dns-a": [
+            "104.202.125.226"
+        ], 
+        "dns-ns": [
+            "v1.dns234.net", 
+            "v2.dns234.net"
+        ], 
+        "domain-name": "abcgina.com", 
+        "fuzzer": "replacement", 
+        "geoip-country": "United States"
+    }, 
+    {
+        "dns-a": [
+            "203.78.142.12"
+        ], 
+        "domain-name": "ahchina.com", 
+        "fuzzer": "replacement", 
+        "geoip-country": "Hong Kong"
+    }, 
+    {
+        "dns-a": [
+            "69.172.201.153"
+        ], 
+        "dns-ns": [
+            "ns1.uniregistrymarket.link", 
+            "ns2.uniregistrymarket.link"
+        ], 
+        "domain-name": "a.bchina.com", 
+        "fuzzer": "subdomain", 
+        "geoip-country": "United States"
+    }, 
+    {
+        "dns-a": [
+            "223.223.182.225"
+        ], 
+        "dns-mx": [
+            "xk2xmail.china.com", 
+            "xkxmail.china.com"
+        ], 
+        "domain-name": "ab.china.com", 
+        "fuzzer": "subdomain"
+    }, 
+    {
+        "dns-a": [
+            "208.91.197.27"
+        ], 
+        "domain-name": "abc.hina.com", 
+        "fuzzer": "subdomain", 
+        "geoip-country": "United States"
+    }, 
+    {
+        "dns-a": [
+            "52.69.166.231"
+        ], 
+        "domain-name": "abchian.com", 
+        "fuzzer": "transposition"
+    }, 
+    {
+        "dns-a": [
+            "180.76.132.38"
+        ], 
+        "dns-mx": [
+            "mx137e.cnm.cn"
+        ], 
+        "dns-ns": [
+            "ns1.cnolnic.com", 
+            "ns2.cnolnic.com"
+        ], 
+        "domain-name": "obchina.com", 
+        "fuzzer": "vowel-swap"
+    }, 
+    {
+        "dns-mx": [
+            "mail.ubchina.com"
+        ], 
+        "dns-ns": [
+            "dns17.hichina.com", 
+            "dns18.hichina.com"
+        ], 
+        "domain-name": "ubchina.com", 
+        "fuzzer": "vowel-swap"
+    }
+]

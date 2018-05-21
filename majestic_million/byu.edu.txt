@@ -1,0 +1,182 @@
+[
+    {
+        "dns-a": [
+            "128.187.16.100", 
+            "128.187.16.101", 
+            "128.187.16.98", 
+            "128.187.16.99"
+        ], 
+        "dns-mx": [
+            "byu.mail.protection.outlook.com", 
+            "gw10.byu.edu", 
+            "gw11.byu.edu", 
+            "gw12.byu.edu", 
+            "gw13.byu.edu", 
+            "gw9.byu.edu", 
+            "gw99.byu.edu"
+        ], 
+        "dns-ns": [
+            "DNS2.byu.edu", 
+            "EDNS2.byu.edu", 
+            "EDNS3.byu.edu", 
+            "dns1.byu.edu", 
+            "dns3.byu.edu", 
+            "dns4.byu.edu", 
+            "dns5.byu.edu", 
+            "dns6.byu.edu", 
+            "edns1.byu.edu"
+        ], 
+        "domain-name": "byu.edu", 
+        "fuzzer": "original*", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 100
+    }, 
+    {
+        "dns-a": [
+            "74.214.64.166"
+        ], 
+        "dns-mx": [
+            "byuh-edu.mail.protection.outlook.com", 
+            "egate1.byuh.edu"
+        ], 
+        "dns-ns": [
+            "extdns1.byuh.edu", 
+            "extdns2.byuh.edu"
+        ], 
+        "domain-name": "byuh.edu", 
+        "fuzzer": "addition", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "157.201.130.149"
+        ], 
+        "dns-mx": [
+            "webmailbyui.mail.protection.outlook.com"
+        ], 
+        "dns-ns": [
+            "EidotheaA.byui.edu", 
+            "EidotheaB.byui.edu", 
+            "EidotheaC.byui.edu"
+        ], 
+        "domain-name": "byui.edu", 
+        "fuzzer": "addition", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "128.197.236.4"
+        ], 
+        "dns-mx": [
+            "relay-mx1.bu.edu", 
+            "relay-mx2.bu.edu", 
+            "relay-mx3.bu.edu", 
+            "relay-mx4.bu.edu", 
+            "relay-mx9.bu.edu", 
+            "relay.bu.edu"
+        ], 
+        "dns-ns": [
+            "edns01.bu.edu", 
+            "edns02.bu.edu", 
+            "edns03.bu.edu"
+        ], 
+        "domain-name": "bu.edu", 
+        "fuzzer": "omission", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "23.185.0.2"
+        ], 
+        "dns-aaaa": [
+            "2620:12a:8000::2"
+        ], 
+        "dns-mx": [
+            "yu-edu.mail.protection.outlook.com"
+        ], 
+        "dns-ns": [
+            "dns03.nysernet.org", 
+            "ns1.yu.edu", 
+            "ns2.yu.edu"
+        ], 
+        "domain-name": "yu.edu", 
+        "fuzzer": "omission"
+    }, 
+    {
+        "dns-a": [
+            "147.226.7.15"
+        ], 
+        "dns-mx": [
+            "bsu-edu.mail.protection.outlook.com"
+        ], 
+        "dns-ns": [
+            "ns1.bsu.edu", 
+            "ns3.bsu.edu", 
+            "ns6.bsu.edu"
+        ], 
+        "domain-name": "bsu.edu", 
+        "fuzzer": "replacement", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "216.165.47.10"
+        ], 
+        "dns-mx": [
+            "mxa-00256a01.gslb.pphosted.com", 
+            "mxb-00256a01.gslb.pphosted.com"
+        ], 
+        "dns-ns": [
+            "NS1.nyu.edu", 
+            "NS2.nyu.edu", 
+            "NS3.nyu.edu"
+        ], 
+        "domain-name": "nyu.edu", 
+        "fuzzer": "replacement", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "184.173.85.198"
+        ], 
+        "dns-mx": [
+            "bhu-edu.mail.protection.outlook.com", 
+            "us-smtp-inbound-1.mimecast.com", 
+            "us-smtp-inbound-2.mimecast.com"
+        ], 
+        "dns-ns": [
+            "ns0.jcfb.org", 
+            "ns1.jcfb.org", 
+            "ns2.jcfb.org", 
+            "ns3.jcfb.org", 
+            "ns4.jcfb.org"
+        ], 
+        "domain-name": "bhu.edu", 
+        "fuzzer": "replacement", 
+        "geoip-country": "United States"
+    }, 
+    {
+        "dns-a": [
+            "45.55.35.135"
+        ], 
+        "dns-mx": [
+            "ALT1.ASPMX.L.GOOGLE.COM", 
+            "ALT2.ASPMX.L.GOOGLE.COM", 
+            "ALT3.ASPMX.L.GOOGLE.COM", 
+            "ALT4.ASPMX.L.GOOGLE.COM", 
+            "ASPMX.L.GOOGLE.COM"
+        ], 
+        "dns-ns": [
+            "ns1.developcents.com", 
+            "ns2.developcents.com"
+        ], 
+        "domain-name": "bgu.edu", 
+        "fuzzer": "replacement", 
+        "geoip-country": "United States"
+    }
+]

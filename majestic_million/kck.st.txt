@@ -1,0 +1,107 @@
+[
+    {
+        "dns-a": [
+            "67.199.248.12", 
+            "67.199.248.13"
+        ], 
+        "dns-mx": [
+            "mail.kck.st"
+        ], 
+        "dns-ns": [
+            "ns-1250.awsdns-28.org", 
+            "ns-2046.awsdns-63.co.uk", 
+            "ns-38.awsdns-04.com", 
+            "ns-798.awsdns-35.net"
+        ], 
+        "domain-name": "kck.st", 
+        "fuzzer": "original*", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 96
+    }, 
+    {
+        "dns-a": [
+            "66.228.48.230"
+        ], 
+        "dns-ns": [
+            "george.ns.cloudflare.com", 
+            "isla.ns.cloudflare.com"
+        ], 
+        "domain-name": "kckb.st", 
+        "fuzzer": "addition", 
+        "geoip-country": "United States"
+    }, 
+    {
+        "dns-a": [
+            "13.32.8.109", 
+            "13.32.8.116", 
+            "13.32.8.126", 
+            "13.32.8.18", 
+            "13.32.8.218", 
+            "13.32.8.22", 
+            "13.32.8.50", 
+            "13.32.8.79"
+        ], 
+        "dns-ns": [
+            "ns-1235.awsdns-26.org", 
+            "ns-1794.awsdns-32.co.uk", 
+            "ns-321.awsdns-40.com", 
+            "ns-823.awsdns-38.net"
+        ], 
+        "domain-name": "cck.st", 
+        "fuzzer": "bitsquatting", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "219.94.163.82"
+        ], 
+        "dns-mx": [
+            "ksk.st"
+        ], 
+        "dns-ns": [
+            "ns1.dns.ne.jp", 
+            "ns2.dns.ne.jp"
+        ], 
+        "domain-name": "ksk.st", 
+        "fuzzer": "bitsquatting", 
+        "geoip-country": "Japan", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "54.244.255.163"
+        ], 
+        "dns-mx": [
+            "keepersdo.me"
+        ], 
+        "dns-ns": [
+            "ns-12.awsdns-01.com", 
+            "ns-1376.awsdns-44.org", 
+            "ns-1946.awsdns-51.co.uk", 
+            "ns-679.awsdns-20.net"
+        ], 
+        "domain-name": "kco.st", 
+        "fuzzer": "bitsquatting", 
+        "geoip-country": "United States", 
+        "mx-spy": true
+    }, 
+    {
+        "dns-a": [
+            "185.126.208.167"
+        ], 
+        "dns-mx": [
+            "mx10.vim.at", 
+            "mx20.vim.at"
+        ], 
+        "dns-ns": [
+            "ns.izone.at", 
+            "ns.izone.info", 
+            "us.dns.vim.at"
+        ], 
+        "domain-name": "kcc.st", 
+        "fuzzer": "bitsquatting", 
+        "geoip-country": "Austria", 
+        "ssdeep-score": 0
+    }
+]

@@ -1,0 +1,165 @@
+[
+    {
+        "dns-a": [
+            "111.202.99.200", 
+            "118.212.234.114", 
+            "119.167.164.115", 
+            "119.6.229.101", 
+            "125.211.204.225", 
+            "139.215.203.199", 
+            "139.215.203.208", 
+            "211.91.160.204", 
+            "220.194.79.119", 
+            "27.221.28.204", 
+            "27.221.28.207", 
+            "42.236.125.112", 
+            "42.236.126.201", 
+            "42.56.79.104", 
+            "43.242.181.13"
+        ], 
+        "dns-ns": [
+            "ns1.dnsv5.com", 
+            "ns2.dnsv5.com"
+        ], 
+        "domain-name": "enorth.com.cn", 
+        "fuzzer": "original*", 
+        "geoip-country": "China"
+    }, 
+    {
+        "dns-ns": [
+            "f1g1ns1.dnspod.net", 
+            "f1g1ns2.dnspod.net"
+        ], 
+        "domain-name": "anorth.com.cn", 
+        "fuzzer": "bitsquatting"
+    }, 
+    {
+        "dns-a": [
+            "50.117.120.251"
+        ], 
+        "dns-mx": [
+            "mail.happyisp.com"
+        ], 
+        "domain-name": "en0rth.com.cn", 
+        "fuzzer": "homoglyph", 
+        "geoip-country": "United States", 
+        "mx-spy": true
+    }, 
+    {
+        "dns-a": [
+            "23.27.192.117"
+        ], 
+        "domain-name": "north.com.cn", 
+        "fuzzer": "omission", 
+        "geoip-country": "United States"
+    }, 
+    {
+        "dns-a": [
+            "115.42.62.54"
+        ], 
+        "domain-name": "eorth.com.cn", 
+        "fuzzer": "omission", 
+        "geoip-country": "Hong Kong"
+    }, 
+    {
+        "dns-a": [
+            "50.117.120.251"
+        ], 
+        "dns-mx": [
+            "mail.happyisp.com"
+        ], 
+        "domain-name": "enorh.com.cn", 
+        "fuzzer": "omission", 
+        "geoip-country": "United States", 
+        "mx-spy": true
+    }, 
+    {
+        "dns-a": [
+            "50.117.120.251"
+        ], 
+        "dns-mx": [
+            "mail.happyisp.com"
+        ], 
+        "domain-name": "enrth.com.cn", 
+        "fuzzer": "omission", 
+        "geoip-country": "United States", 
+        "mx-spy": true
+    }, 
+    {
+        "dns-a": [
+            "50.117.120.251"
+        ], 
+        "dns-mx": [
+            "mail.happyisp.com"
+        ], 
+        "domain-name": "enoth.com.cn", 
+        "fuzzer": "omission", 
+        "geoip-country": "United States", 
+        "mx-spy": true
+    }, 
+    {
+        "dns-a": [
+            "50.117.120.251"
+        ], 
+        "dns-mx": [
+            "mail.happyisp.com"
+        ], 
+        "domain-name": "enoorth.com.cn", 
+        "fuzzer": "repetition", 
+        "geoip-country": "United States", 
+        "mx-spy": true
+    }, 
+    {
+        "dns-a": [
+            "115.42.62.54"
+        ], 
+        "domain-name": "eonrth.com.cn", 
+        "fuzzer": "transposition", 
+        "geoip-country": "Hong Kong"
+    }, 
+    {
+        "dns-a": [
+            "50.117.120.251"
+        ], 
+        "dns-mx": [
+            "mail.happyisp.com"
+        ], 
+        "domain-name": "enroth.com.cn", 
+        "fuzzer": "transposition"
+    }, 
+    {
+        "dns-a": [
+            "115.42.62.55"
+        ], 
+        "domain-name": "enotrh.com.cn", 
+        "fuzzer": "transposition", 
+        "geoip-country": "Hong Kong"
+    }, 
+    {
+        "dns-a": [
+            "181.214.239.117"
+        ], 
+        "dns-ns": [
+            "ns1.cloud-dns.net", 
+            "ns2.cloud-dns.net"
+        ], 
+        "domain-name": "enorht.com.cn", 
+        "fuzzer": "transposition", 
+        "geoip-country": "United States"
+    }, 
+    {
+        "dns-ns": [
+            "f1g1ns1.dnspod.net", 
+            "f1g1ns2.dnspod.net"
+        ], 
+        "domain-name": "enorth.cn", 
+        "fuzzer": "various"
+    }, 
+    {
+        "dns-a": [
+            "103.232.215.129"
+        ], 
+        "domain-name": "enorthcom.cn", 
+        "fuzzer": "various"
+    }
+]

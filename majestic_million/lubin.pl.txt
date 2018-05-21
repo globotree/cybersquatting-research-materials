@@ -1,0 +1,183 @@
+[
+    {
+        "dns-ns": [
+            "a-dns.pl", 
+            "b-dns.pl", 
+            "e-dns.pl", 
+            "f-dns.pl", 
+            "i-dns.pl"
+        ], 
+        "domain-name": "lubin.pl", 
+        "fuzzer": "original*"
+    }, 
+    {
+        "dns-a": [
+            "194.181.122.45"
+        ], 
+        "dns-mx": [
+            "lubina.pl"
+        ], 
+        "dns-ns": [
+            "ns5.webd.pl", 
+            "ns7.webd.pl"
+        ], 
+        "domain-name": "lubina.pl", 
+        "fuzzer": "addition", 
+        "geoip-country": "Poland"
+    }, 
+    {
+        "dns-a": [
+            "79.96.229.84"
+        ], 
+        "dns-mx": [
+            "luban.pl"
+        ], 
+        "dns-ns": [
+            "dns.home.pl", 
+            "dns2.home.pl", 
+            "dns3.home.pl"
+        ], 
+        "domain-name": "luban.pl", 
+        "fuzzer": "bitsquatting", 
+        "geoip-country": "Poland"
+    }, 
+    {
+        "dns-a": [
+            "85.128.134.226"
+        ], 
+        "dns-mx": [
+            "lubln.pl"
+        ], 
+        "dns-ns": [
+            "ns1.nazwa.pl", 
+            "ns2.nazwa.pl", 
+            "ns3.nazwa.pl"
+        ], 
+        "domain-name": "lubln.pl", 
+        "fuzzer": "homoglyph", 
+        "geoip-country": "Poland"
+    }, 
+    {
+        "dns-a": [
+            "85.128.245.157"
+        ], 
+        "dns-mx": [
+            "lubir.pl"
+        ], 
+        "dns-ns": [
+            "ns1.nazwa.pl", 
+            "ns2.nazwa.pl", 
+            "ns3.nazwa.pl"
+        ], 
+        "domain-name": "lubir.pl", 
+        "fuzzer": "homoglyph", 
+        "geoip-country": "Poland"
+    }, 
+    {
+        "dns-a": [
+            "85.128.134.235"
+        ], 
+        "dns-mx": [
+            "lubkin.pl"
+        ], 
+        "dns-ns": [
+            "ns1.nazwa.pl", 
+            "ns2.nazwa.pl", 
+            "ns3.nazwa.pl"
+        ], 
+        "domain-name": "lubkin.pl", 
+        "fuzzer": "insertion", 
+        "geoip-country": "Poland"
+    }, 
+    {
+        "dns-a": [
+            "46.248.160.68"
+        ], 
+        "dns-mx": [
+            "lbin.pl"
+        ], 
+        "dns-ns": [
+            "ns1.conor.com.pl", 
+            "ns2.conor.com.pl"
+        ], 
+        "domain-name": "lbin.pl", 
+        "fuzzer": "omission", 
+        "geoip-country": "Poland"
+    }, 
+    {
+        "dns-a": [
+            "213.108.59.121"
+        ], 
+        "dns-mx": [
+            "mx.active24.pl"
+        ], 
+        "dns-ns": [
+            "dns1.nano.pl", 
+            "dns2.nano.pl", 
+            "dns3.nano.pl"
+        ], 
+        "domain-name": "luin.pl", 
+        "fuzzer": "omission", 
+        "geoip-country": "Poland"
+    }, 
+    {
+        "dns-a": [
+            "91.121.138.226"
+        ], 
+        "dns-aaaa": [
+            "2001:41d0:1:b9e2::1"
+        ], 
+        "dns-mx": [
+            "mail.lubi.pl"
+        ], 
+        "dns-ns": [
+            "ns.kimsufi.com", 
+            "ns356208.ip-91-121-138.eu"
+        ], 
+        "domain-name": "lubi.pl", 
+        "fuzzer": "omission", 
+        "geoip-country": "France"
+    }, 
+    {
+        "dns-a": [
+            "89.191.148.34"
+        ], 
+        "dns-mx": [
+            "mail.lubon.pl"
+        ], 
+        "dns-ns": [
+            "ns1.kylos.pl", 
+            "ns2.kylos.pl"
+        ], 
+        "domain-name": "lubon.pl", 
+        "fuzzer": "replacement"
+    }, 
+    {
+        "dns-a": [
+            "188.40.91.204"
+        ], 
+        "dns-mx": [
+            "ALT1.ASPMX.L.GOOGLE.COM", 
+            "ALT2.ASPMX.L.GOOGLE.COM", 
+            "ASPMX.L.GOOGLE.COM", 
+            "ASPMX2.GOOGLEMAIL.COM", 
+            "ASPMX3.GOOGLEMAIL.COM"
+        ], 
+        "dns-ns": [
+            "dns10.linuxpl.com", 
+            "ns10.linuxpl.com"
+        ], 
+        "domain-name": "lugin.pl", 
+        "fuzzer": "replacement", 
+        "geoip-country": "Germany"
+    }, 
+    {
+        "dns-a": [
+            "212.91.6.58", 
+            "212.91.7.33"
+        ], 
+        "domain-name": "labin.pl", 
+        "fuzzer": "vowel-swap", 
+        "geoip-country": "Poland"
+    }
+]

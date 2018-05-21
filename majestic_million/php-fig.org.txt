@@ -1,0 +1,29 @@
+[
+    {
+        "dns-a": [
+            "162.255.119.157", 
+            "174.129.25.170"
+        ], 
+        "dns-mx": [
+            "mx1.privateemail.com", 
+            "mx2.privateemail.com"
+        ], 
+        "dns-ns": [
+            "dns1.registrar-servers.com", 
+            "dns2.registrar-servers.com"
+        ], 
+        "domain-name": "php-fig.org", 
+        "fuzzer": "original*", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 100
+    }, 
+    {
+        "dns-a": [
+            "188.166.216.219"
+        ], 
+        "domain-name": "php-fi.g.org", 
+        "fuzzer": "subdomain", 
+        "geoip-country": "Singapore", 
+        "ssdeep-score": 0
+    }
+]

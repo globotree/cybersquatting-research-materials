@@ -1,0 +1,48 @@
+[
+    {
+        "dns-a": [
+            "128.193.4.112"
+        ], 
+        "dns-mx": [
+            "relay.oregonstate.edu"
+        ], 
+        "dns-ns": [
+            "dns.merit.net", 
+            "ns1.nero.net", 
+            "ns1.oregonstate.edu", 
+            "ns1.ucsb.edu", 
+            "ns2.oregonstate.edu"
+        ], 
+        "domain-name": "orst.edu", 
+        "fuzzer": "original*", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 100
+    }, 
+    {
+        "dns-a": [
+            "130.255.188.248"
+        ], 
+        "dns-mx": [
+            ""
+        ], 
+        "dns-ns": [
+            "ns1.ort.edu", 
+            "ns2.ort.edu"
+        ], 
+        "domain-name": "ort.edu", 
+        "fuzzer": "omission", 
+        "geoip-country": "Germany", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "50.87.219.97"
+        ], 
+        "dns-ns": [
+            "ns1.bluehost.com", 
+            "ns2.bluehost.com"
+        ], 
+        "domain-name": "ost.edu", 
+        "fuzzer": "omission"
+    }
+]

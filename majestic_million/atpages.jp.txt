@@ -1,0 +1,29 @@
+[
+    {
+        "dns-a": [
+            "49.212.136.132"
+        ], 
+        "dns-mx": [
+            "atpages.jp"
+        ], 
+        "dns-ns": [
+            "lisa.ns.cloudflare.com", 
+            "rob.ns.cloudflare.com"
+        ], 
+        "domain-name": "atpages.jp", 
+        "fuzzer": "original*", 
+        "geoip-country": "Japan"
+    }, 
+    {
+        "dns-a": [
+            "183.177.145.55"
+        ], 
+        "dns-ns": [
+            "ns1.value-domain.com", 
+            "ns2.value-domain.com"
+        ], 
+        "domain-name": "atpage.jp", 
+        "fuzzer": "omission", 
+        "geoip-country": "Japan"
+    }
+]

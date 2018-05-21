@@ -1,0 +1,64 @@
+[
+    {
+        "dns-a": [
+            "23.211.153.194"
+        ], 
+        "dns-aaaa": [
+            "2a02:26f0:c6:284::28a", 
+            "2a02:26f0:c6:287::28a"
+        ], 
+        "dns-mx": [
+            "smtp.ees.hhs.gov", 
+            "smtp2.ees.hhs.gov"
+        ], 
+        "dns-ns": [
+            "a1-86.akam.net", 
+            "a10-67.akam.net", 
+            "a13-64.akam.net", 
+            "a24-65.akam.net", 
+            "a3-66.akam.net", 
+            "a8-67.akam.net"
+        ], 
+        "domain-name": "cms.gov", 
+        "fuzzer": "original*", 
+        "geoip-country": "Netherlands", 
+        "ssdeep-score": 100
+    }, 
+    {
+        "dns-a": [
+            "128.121.39.10"
+        ], 
+        "dns-mx": [
+            "mxa-00290102.gslb.pphosted.com", 
+            "mxb-00290102.gslb.pphosted.com"
+        ], 
+        "dns-ns": [
+            "dns01.cns.gov", 
+            "dns02.cns.gov"
+        ], 
+        "domain-name": "cns.gov", 
+        "fuzzer": "homoglyph", 
+        "geoip-country": "United States", 
+        "mx-spy": true, 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "192.251.58.38"
+        ], 
+        "dns-mx": [
+            "mx01.state.ms.us", 
+            "mx02.state.ms.us", 
+            "mx03.state.ms.us", 
+            "mx04.state.ms.us", 
+            "mx05.state.ms.us"
+        ], 
+        "dns-ns": [
+            "ns1.its.state.ms.us", 
+            "ns1.msstate.edu", 
+            "sun1.its.state.ms.us"
+        ], 
+        "domain-name": "ms.gov", 
+        "fuzzer": "omission"
+    }
+]

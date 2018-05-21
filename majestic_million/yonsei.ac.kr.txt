@@ -1,0 +1,30 @@
+[
+    {
+        "dns-a": [
+            "165.132.13.38"
+        ], 
+        "dns-mx": [
+            "watcher.yonsei.ac.kr"
+        ], 
+        "dns-ns": [
+            "ns.yonsei.ac.kr", 
+            "ns2.yonsei.ac.kr", 
+            "ns3.yonsei.ac.kr", 
+            "yumciris.yonsei.ac.kr"
+        ], 
+        "domain-name": "yonsei.ac.kr", 
+        "fuzzer": "original*", 
+        "geoip-country": "Korea", 
+        "mx-spy": true, 
+        "ssdeep-score": 99
+    }, 
+    {
+        "dns-ns": [
+            "ns.yonsei.ac.kr", 
+            "ns2.yonsei.ac.kr", 
+            "ns3.yonsei.ac.kr"
+        ], 
+        "domain-name": "yonsei.kr", 
+        "fuzzer": "various"
+    }
+]

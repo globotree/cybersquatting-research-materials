@@ -1,0 +1,190 @@
+[
+    {
+        "dns-a": [
+            "172.217.23.161"
+        ], 
+        "dns-aaaa": [
+            "2a00:1450:4001:81f::2001"
+        ], 
+        "dns-ns": [
+            "ns1.google.com", 
+            "ns2.google.com", 
+            "ns3.google.com", 
+            "ns4.google.com"
+        ], 
+        "domain-name": "googleblog.com", 
+        "fuzzer": "original*", 
+        "geoip-country": "United States"
+    }, 
+    {
+        "dns-ns": [
+            "ns1.googledomains.com", 
+            "ns2.googledomains.com", 
+            "ns3.googledomains.com", 
+            "ns4.googledomains.com"
+        ], 
+        "domain-name": "googleblogs.com", 
+        "fuzzer": "addition"
+    }, 
+    {
+        "dns-a": [
+            "74.119.239.234"
+        ], 
+        "domain-name": "googleblogz.com", 
+        "fuzzer": "addition", 
+        "geoip-country": "United States"
+    }, 
+    {
+        "dns-a": [
+            "67.20.73.135"
+        ], 
+        "dns-mx": [
+            "goggleblog.com"
+        ], 
+        "dns-ns": [
+            "ns1.bluehost.com", 
+            "ns2.bluehost.com"
+        ], 
+        "domain-name": "goggleblog.com", 
+        "fuzzer": "bitsquatting", 
+        "geoip-country": "United States"
+    }, 
+    {
+        "dns-a": [
+            "50.63.202.44"
+        ], 
+        "dns-mx": [
+            "mailstore1.secureserver.net", 
+            "smtp.secureserver.net"
+        ], 
+        "dns-ns": [
+            "ns69.domaincontrol.com", 
+            "ns70.domaincontrol.com"
+        ], 
+        "domain-name": "googlebloq.com", 
+        "fuzzer": "homoglyph", 
+        "geoip-country": "United States"
+    }, 
+    {
+        "dns-a": [
+            "66.45.246.141"
+        ], 
+        "dns-mx": [
+            "mxs1.serverhome.com", 
+            "mxs2.serverhome.com"
+        ], 
+        "domain-name": "google-blog.com", 
+        "fuzzer": "hyphenation", 
+        "geoip-country": "United States"
+    }, 
+    {
+        "dns-a": [
+            "64.182.92.136"
+        ], 
+        "dns-mx": [
+            "googlesblog.com"
+        ], 
+        "dns-ns": [
+            "ns2562.servers-servers.com", 
+            "ns2563.servers-servers.com"
+        ], 
+        "domain-name": "googlesblog.com", 
+        "fuzzer": "insertion", 
+        "geoip-country": "United States"
+    }, 
+    {
+        "dns-a": [
+            "209.17.116.7"
+        ], 
+        "dns-mx": [
+            "mx1.netsolmail.net"
+        ], 
+        "dns-ns": [
+            "ns35.worldnic.com", 
+            "ns36.worldnic.com"
+        ], 
+        "domain-name": "googlelog.com", 
+        "fuzzer": "omission", 
+        "geoip-country": "United States"
+    }, 
+    {
+        "dns-a": [
+            "50.63.202.51"
+        ], 
+        "dns-mx": [
+            "mailstore1.secureserver.net", 
+            "smtp.secureserver.net"
+        ], 
+        "domain-name": "googlevlog.com", 
+        "fuzzer": "replacement", 
+        "geoip-country": "United States"
+    }, 
+    {
+        "dns-a": [
+            "212.82.100.150", 
+            "74.6.136.150", 
+            "98.136.103.23"
+        ], 
+        "dns-mx": [
+            ""
+        ], 
+        "dns-ns": [
+            "ns1.yahoo.com", 
+            "ns2.yahoo.com", 
+            "ns3.yahoo.com", 
+            "ns4.yahoo.com", 
+            "ns5.yahoo.com"
+        ], 
+        "domain-name": "hoogleblog.com", 
+        "fuzzer": "replacement", 
+        "geoip-country": "Switzerland"
+    }, 
+    {
+        "dns-a": [
+            "62.160.234.49"
+        ], 
+        "domain-name": "goog.leblog.com", 
+        "fuzzer": "subdomain", 
+        "geoip-country": "France"
+    }, 
+    {
+        "dns-a": [
+            "69.172.201.153"
+        ], 
+        "dns-ns": [
+            "ns1.uniregistrymarket.link", 
+            "ns2.uniregistrymarket.link"
+        ], 
+        "domain-name": "googl.eblog.com", 
+        "fuzzer": "subdomain", 
+        "geoip-country": "United States"
+    }, 
+    {
+        "dns-a": [
+            "195.170.168.1"
+        ], 
+        "domain-name": "google.blog.com", 
+        "fuzzer": "subdomain", 
+        "geoip-country": "Portugal"
+    }, 
+    {
+        "dns-a": [
+            "69.172.201.153"
+        ], 
+        "dns-ns": [
+            "ns1.uniregistrymarket.link", 
+            "ns2.uniregistrymarket.link"
+        ], 
+        "domain-name": "googleb.log.com", 
+        "fuzzer": "subdomain", 
+        "geoip-country": "United States"
+    }, 
+    {
+        "dns-a": [
+            "98.124.199.67"
+        ], 
+        "domain-name": "googlebl.og.com", 
+        "fuzzer": "subdomain", 
+        "geoip-country": "United States"
+    }
+]

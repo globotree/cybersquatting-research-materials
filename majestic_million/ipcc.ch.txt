@@ -1,0 +1,207 @@
+[
+    {
+        "dns-a": [
+            "104.31.70.104", 
+            "104.31.71.104"
+        ], 
+        "dns-aaaa": [
+            "2400:cb00:2048:1::681f:4668", 
+            "2400:cb00:2048:1::681f:4768"
+        ], 
+        "dns-mx": [
+            "ipcc-ch.mail.protection.outlook.com"
+        ], 
+        "dns-ns": [
+            "asa.ns.cloudflare.com", 
+            "guss.ns.cloudflare.com"
+        ], 
+        "domain-name": "ipcc.ch", 
+        "fuzzer": "original*", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 99
+    }, 
+    {
+        "dns-a": [
+            "212.59.188.233"
+        ], 
+        "dns-mx": [
+            "mail.mail-ch.ch"
+        ], 
+        "dns-ns": [
+            "dns1.agrinet.ch", 
+            "dns2.agrinet.ch"
+        ], 
+        "domain-name": "hpcc.ch", 
+        "fuzzer": "bitsquatting", 
+        "geoip-country": "Switzerland", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-mx": [
+            "mx3.nameshield.com", 
+            "mx4.nameshield.net"
+        ], 
+        "dns-ns": [
+            "ns2.observatoiredesmarques.fr", 
+            "ns3.nameshield.net", 
+            "obs.ns1.fr"
+        ], 
+        "domain-name": "apcc.ch", 
+        "fuzzer": "bitsquatting"
+    }, 
+    {
+        "dns-a": [
+            "217.26.52.238"
+        ], 
+        "dns-mx": [
+            "mx1.mail.hostpoint.ch", 
+            "mx2.mail.hostpoint.ch"
+        ], 
+        "dns-ns": [
+            "ns.hostpoint.ch", 
+            "ns2.hostpoint.ch", 
+            "ns3.hostpoint.ch"
+        ], 
+        "domain-name": "ipac.ch", 
+        "fuzzer": "bitsquatting", 
+        "geoip-country": "Switzerland"
+    }, 
+    {
+        "dns-a": [
+            "94.126.20.68"
+        ], 
+        "dns-mx": [
+            "mx1.mail.hostpoint.ch", 
+            "mx2.mail.hostpoint.ch"
+        ], 
+        "dns-ns": [
+            "ns.hostpoint.ch", 
+            "ns2.hostpoint.ch", 
+            "ns3.hostpoint.ch"
+        ], 
+        "domain-name": "ipsc.ch", 
+        "fuzzer": "bitsquatting", 
+        "geoip-country": "Switzerland", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "212.53.135.202"
+        ], 
+        "dns-mx": [
+            "mail.import-partner.de.ipcs.ch"
+        ], 
+        "dns-ns": [
+            "a.ns14.net", 
+            "b.ns14.net", 
+            "c.ns14.net", 
+            "d.ns14.net"
+        ], 
+        "domain-name": "ipcs.ch", 
+        "fuzzer": "bitsquatting", 
+        "geoip-country": "Germany"
+    }, 
+    {
+        "dns-a": [
+            "128.65.195.164"
+        ], 
+        "dns-mx": [
+            "mta-gw.infomaniak.ch"
+        ], 
+        "dns-ns": [
+            "ns1.infomaniak.ch", 
+            "ns2.infomaniak.ch"
+        ], 
+        "domain-name": "i-pcc.ch", 
+        "fuzzer": "hyphenation", 
+        "geoip-country": "Switzerland"
+    }, 
+    {
+        "dns-a": [
+            "72.52.4.121"
+        ], 
+        "dns-mx": [
+            "localhost"
+        ], 
+        "dns-ns": [
+            "ns1.sedoparking.com", 
+            "ns2.sedoparking.com"
+        ], 
+        "domain-name": "icc.ch", 
+        "fuzzer": "omission", 
+        "geoip-country": "United States", 
+        "mx-spy": true, 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "77.239.39.37"
+        ], 
+        "dns-mx": [
+            "mail.ipc.ch"
+        ], 
+        "dns-ns": [
+            "pri.asok.de", 
+            "sec.asok.de"
+        ], 
+        "domain-name": "ipc.ch", 
+        "fuzzer": "omission", 
+        "geoip-country": "Switzerland"
+    }, 
+    {
+        "dns-a": [
+            "217.196.177.131"
+        ], 
+        "dns-mx": [
+            "atmail04.worldsoft-mail.net"
+        ], 
+        "dns-ns": [
+            "dns1.worldsoft-isp.net", 
+            "dns2.worldsoft-isp.net"
+        ], 
+        "domain-name": "imcc.ch", 
+        "fuzzer": "replacement", 
+        "geoip-country": "Switzerland"
+    }, 
+    {
+        "dns-a": [
+            "128.65.195.164"
+        ], 
+        "dns-ns": [
+            "ns1.infomaniak.ch", 
+            "ns2.infomaniak.ch"
+        ], 
+        "domain-name": "upcc.ch", 
+        "fuzzer": "replacement"
+    }, 
+    {
+        "dns-a": [
+            "143.202.154.104"
+        ], 
+        "dns-ns": [
+            "ns1.alidns.com", 
+            "ns2.alidns.com"
+        ], 
+        "domain-name": "jpcc.ch", 
+        "fuzzer": "replacement", 
+        "geoip-country": "Panama"
+    }, 
+    {
+        "dns-a": [
+            "217.26.52.41"
+        ], 
+        "dns-mx": [
+            "mx1.mail.hostpoint.ch", 
+            "mx2.mail.hostpoint.ch"
+        ], 
+        "dns-ns": [
+            "ns.hostpoint.ch", 
+            "ns2.hostpoint.ch", 
+            "ns3.hostpoint.ch"
+        ], 
+        "domain-name": "icpc.ch", 
+        "fuzzer": "transposition", 
+        "geoip-country": "Switzerland", 
+        "ssdeep-score": 0
+    }
+]

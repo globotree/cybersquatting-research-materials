@@ -1,0 +1,120 @@
+[
+    {
+        "dns-a": [
+            "128.249.192.160"
+        ], 
+        "dns-mx": [
+            "mxa-00182201.gslb.pphosted.com", 
+            "mxb-00182201.gslb.pphosted.com"
+        ], 
+        "dns-ns": [
+            "ns1.bcm.edu", 
+            "ns2.bcm.edu", 
+            "ns3.bcm.edu", 
+            "ns4.bcm.edu"
+        ], 
+        "domain-name": "bcm.edu", 
+        "fuzzer": "original*", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 100
+    }, 
+    {
+        "dns-a": [
+            "104.198.132.204"
+        ], 
+        "dns-mx": [
+            "efa.ccm.edu"
+        ], 
+        "dns-ns": [
+            "namey.ccm.edu", 
+            "ns1.ccm.edu", 
+            "ns1.p01.dynect.net", 
+            "ns2.p01.dynect.net", 
+            "ns3.p01.dynect.net", 
+            "ns4.p01.dynect.net"
+        ], 
+        "domain-name": "ccm.edu", 
+        "fuzzer": "bitsquatting", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "216.59.59.60"
+        ], 
+        "dns-aaaa": [
+            "2602:ffe2:99::99"
+        ], 
+        "dns-mx": [
+            "mailbag.careered.com"
+        ], 
+        "dns-ns": [
+            "a1.uberns.com", 
+            "a1.uberns.net", 
+            "b1.uberns.com", 
+            "b1.uberns.net"
+        ], 
+        "domain-name": "bcl.edu", 
+        "fuzzer": "bitsquatting", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "199.34.228.58"
+        ], 
+        "dns-mx": [
+            "bce.edu"
+        ], 
+        "dns-ns": [
+            "ns7.optimusmedia.com", 
+            "ns8.optimusmedia.com"
+        ], 
+        "domain-name": "bce.edu", 
+        "fuzzer": "bitsquatting", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-mx": [
+            "mx.cm.edu"
+        ], 
+        "dns-ns": [
+            "ns.cm.edu", 
+            "ns.cmu.ac.th"
+        ], 
+        "domain-name": "cm.edu", 
+        "fuzzer": "omission"
+    }, 
+    {
+        "dns-a": [
+            "136.167.2.220"
+        ], 
+        "dns-mx": [
+            "purgatory.bc.edu"
+        ], 
+        "dns-ns": [
+            "campdns.bc.edu", 
+            "gidney.bc.edu", 
+            "rocky.bc.edu"
+        ], 
+        "domain-name": "bc.edu", 
+        "fuzzer": "omission", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "54.243.239.33"
+        ], 
+        "dns-mx": [
+            "bmc-edu.mail.protection.outlook.com"
+        ], 
+        "dns-ns": [
+            "ns.dixie-net.com", 
+            "ns2.dixie-net.com"
+        ], 
+        "domain-name": "bmc.edu", 
+        "fuzzer": "transposition"
+    }
+]

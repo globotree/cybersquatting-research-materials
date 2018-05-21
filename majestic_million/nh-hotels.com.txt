@@ -1,0 +1,337 @@
+[
+    {
+        "dns-a": [
+            "213.4.97.180"
+        ], 
+        "dns-mx": [
+            "nhhotels-com0e.mail.protection.outlook.com"
+        ], 
+        "dns-ns": [
+            "ns1.telefonica-data.com", 
+            "ns2.telefonica-data.com"
+        ], 
+        "domain-name": "nh-hotels.com", 
+        "fuzzer": "original*", 
+        "geoip-country": "Spain", 
+        "ssdeep-score": 100
+    }, 
+    {
+        "dns-a": [
+            "104.16.89.230"
+        ], 
+        "dns-mx": [
+            "mx.nh-hotelss.com.cust.b.hostedemail.com"
+        ], 
+        "dns-ns": [
+            "ns2.vpweb.com", 
+            "ns3.vpweb.com", 
+            "ns4.vpweb.com"
+        ], 
+        "domain-name": "nh-hotelss.com", 
+        "fuzzer": "addition", 
+        "geoip-country": "United States"
+    }, 
+    {
+        "dns-a": [
+            "81.2.194.128"
+        ], 
+        "dns-ns": [
+            "ns.forpsi.cz", 
+            "ns.forpsi.it", 
+            "ns.forpsi.net", 
+            "ns.forpsi.us"
+        ], 
+        "domain-name": "lh-hotels.com", 
+        "fuzzer": "bitsquatting", 
+        "geoip-country": "Czech Republic", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "195.110.124.133"
+        ], 
+        "dns-mx": [
+            "alt1.aspmx.l.google.com", 
+            "alt2.aspmx.l.google.com", 
+            "aspmx.l.google.com", 
+            "aspmx2.googlemail.com", 
+            "aspmx3.googlemail.com", 
+            "mail.register.it"
+        ], 
+        "dns-ns": [
+            "ns1.register.it", 
+            "ns2.register.it"
+        ], 
+        "domain-name": "fh-hotels.com", 
+        "fuzzer": "bitsquatting", 
+        "geoip-country": "Italy", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "45.34.118.162"
+        ], 
+        "dns-ns": [
+            "ns6.dnsdun.com", 
+            "ns6.dnsdun.net"
+        ], 
+        "domain-name": "ni-hotels.com", 
+        "fuzzer": "bitsquatting", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "35.230.127.222"
+        ], 
+        "dns-mx": [
+            "mx1.bannerview.com", 
+            "mx2.bannerview.com"
+        ], 
+        "dns-ns": [
+            "dns1.bannerview.com", 
+            "dns2.bannerview.com"
+        ], 
+        "domain-name": "nhmhotels.com", 
+        "fuzzer": "bitsquatting", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "72.52.4.122"
+        ], 
+        "dns-mx": [
+            "localhost"
+        ], 
+        "dns-ns": [
+            "ns1.sedoparking.com", 
+            "ns2.sedoparking.com"
+        ], 
+        "domain-name": "mh-hotels.com", 
+        "fuzzer": "homoglyph", 
+        "geoip-country": "United States", 
+        "mx-spy": true, 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-mx": [
+            "mail.rh-hotels.com"
+        ], 
+        "dns-ns": [
+            "ns1.eurodns.com", 
+            "ns2.eurodns.com", 
+            "ns3.eurodns.com", 
+            "ns4.eurodns.com"
+        ], 
+        "domain-name": "rh-hotels.com", 
+        "fuzzer": "homoglyph"
+    }, 
+    {
+        "dns-mx": [
+            "nhh0tels-com0e.mail.protection.outlook.com"
+        ], 
+        "dns-ns": [
+            "ns1.bdm.microsoftonline.com", 
+            "ns2.bdm.microsoftonline.com", 
+            "ns3.bdm.microsoftonline.com", 
+            "ns4.bdm.microsoftonline.com"
+        ], 
+        "domain-name": "nh-h0tels.com", 
+        "fuzzer": "homoglyph"
+    }, 
+    {
+        "dns-a": [
+            "183.181.98.2"
+        ], 
+        "dns-mx": [
+            "n-hotels.com"
+        ], 
+        "dns-ns": [
+            "ns1.xserver.jp", 
+            "ns2.xserver.jp", 
+            "ns3.xserver.jp", 
+            "ns4.xserver.jp", 
+            "ns5.xserver.jp"
+        ], 
+        "domain-name": "n-hotels.com", 
+        "fuzzer": "omission", 
+        "geoip-country": "Japan", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "213.4.97.180"
+        ], 
+        "dns-ns": [
+            "nsalchos01.telefonica-data.com", 
+            "nsjc8hos01.telefonica-data.com"
+        ], 
+        "domain-name": "nhhotels.com", 
+        "fuzzer": "omission", 
+        "geoip-country": "Spain", 
+        "ssdeep-score": 100
+    }, 
+    {
+        "dns-a": [
+            "104.16.216.56", 
+            "104.16.217.56", 
+            "104.16.218.56", 
+            "104.16.219.56", 
+            "104.16.220.56"
+        ], 
+        "dns-aaaa": [
+            "2400:cb00:2048:1::6810:d838", 
+            "2400:cb00:2048:1::6810:d938", 
+            "2400:cb00:2048:1::6810:da38", 
+            "2400:cb00:2048:1::6810:db38", 
+            "2400:cb00:2048:1::6810:dc38"
+        ], 
+        "dns-mx": [
+            "mail.hospitality-alliance.com"
+        ], 
+        "dns-ns": [
+            "cheryl.ns.cloudflare.com", 
+            "tony.ns.cloudflare.com"
+        ], 
+        "domain-name": "h-hotels.com", 
+        "fuzzer": "omission", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "208.91.196.105"
+        ], 
+        "dns-ns": [
+            "sk.s5.cm.ns1.39.ztomy.com", 
+            "sk.s5.cm.ns2.39.ztomy.com"
+        ], 
+        "domain-name": "nh-hotel.com", 
+        "fuzzer": "omission", 
+        "geoip-country": "Virgin Islands", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "216.27.29.96"
+        ], 
+        "dns-mx": [
+            "mail.ny-hotels.com"
+        ], 
+        "dns-ns": [
+            "ns1.sharky.newwebsite.com", 
+            "ns2.sharky.newwebsite.com"
+        ], 
+        "domain-name": "ny-hotels.com", 
+        "fuzzer": "replacement", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "185.11.202.111"
+        ], 
+        "dns-mx": [
+            "mail.nn-hotels.com"
+        ], 
+        "dns-ns": [
+            "ns1.adam.es", 
+            "ns2.adam.es"
+        ], 
+        "domain-name": "nn-hotels.com", 
+        "fuzzer": "replacement", 
+        "geoip-country": "Spain"
+    }, 
+    {
+        "dns-a": [
+            "50.63.202.44"
+        ], 
+        "dns-mx": [
+            "mailstore1.secureserver.net", 
+            "smtp.secureserver.net"
+        ], 
+        "dns-ns": [
+            "ns17.domaincontrol.com", 
+            "ns18.domaincontrol.com"
+        ], 
+        "domain-name": "nb-hotels.com", 
+        "fuzzer": "replacement", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "217.160.0.183"
+        ], 
+        "dns-aaaa": [
+            "2001:8d8:100f:f000::254"
+        ], 
+        "dns-mx": [
+            "mx00.kundenserver.de", 
+            "mx01.kundenserver.de"
+        ], 
+        "domain-name": "ng-hotels.com", 
+        "fuzzer": "replacement", 
+        "geoip-country": "Germany", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "143.95.39.220"
+        ], 
+        "dns-mx": [
+            "nz-hotels.com"
+        ], 
+        "dns-ns": [
+            "ns1.asmallorange.com", 
+            "ns2.asmallorange.com"
+        ], 
+        "domain-name": "nz-hotels.com", 
+        "fuzzer": "replacement"
+    }, 
+    {
+        "dns-a": [
+            "205.178.189.129"
+        ], 
+        "dns-mx": [
+            "p.webcom.ctmail.com"
+        ], 
+        "dns-ns": [
+            "ns93.worldnic.com", 
+            "ns94.worldnic.com"
+        ], 
+        "domain-name": "nu-hotels.com", 
+        "fuzzer": "replacement", 
+        "geoip-country": "United States", 
+        "mx-spy": true
+    }, 
+    {
+        "dns-a": [
+            "198.210.38.222"
+        ], 
+        "dns-ns": [
+            "ns1.hover.com", 
+            "ns2.hover.com"
+        ], 
+        "domain-name": "bh-hotels.com", 
+        "fuzzer": "replacement", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "199.59.242.150"
+        ], 
+        "dns-ns": [
+            "ns-1063.awsdns-04.org", 
+            "ns-1868.awsdns-41.co.uk", 
+            "ns-238.awsdns-29.com", 
+            "ns-644.awsdns-16.net"
+        ], 
+        "domain-name": "nh-hotles.com", 
+        "fuzzer": "transposition", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 0
+    }
+]

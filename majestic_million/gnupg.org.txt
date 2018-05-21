@@ -1,0 +1,131 @@
+[
+    {
+        "dns-a": [
+            "217.69.76.60"
+        ], 
+        "dns-aaaa": [
+            "2001:aa8:fff1:2100::60"
+        ], 
+        "dns-mx": [
+            "kerckhoffs.g10code.com"
+        ], 
+        "dns-ns": [
+            "ns1.openit.de", 
+            "ns2.openit.de"
+        ], 
+        "domain-name": "gnupg.org", 
+        "fuzzer": "original*", 
+        "geoip-country": "Germany", 
+        "ssdeep-score": 100
+    }, 
+    {
+        "dns-a": [
+            "217.13.199.39"
+        ], 
+        "dns-mx": [
+            "mail.gnupgp.org"
+        ], 
+        "dns-ns": [
+            "ns11.worldserver.net", 
+            "ns12.worldserver.net"
+        ], 
+        "domain-name": "gnupgp.org", 
+        "fuzzer": "addition", 
+        "geoip-country": "Germany", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "184.168.166.148"
+        ], 
+        "dns-mx": [
+            "mailstore1.secureserver.net", 
+            "smtp.secureserver.net"
+        ], 
+        "dns-ns": [
+            "ns49.domaincontrol.com", 
+            "ns50.domaincontrol.com"
+        ], 
+        "domain-name": "gnupe.org", 
+        "fuzzer": "bitsquatting", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "72.52.4.120"
+        ], 
+        "dns-mx": [
+            "localhost"
+        ], 
+        "dns-ns": [
+            "ns1.sedoparking.com", 
+            "ns2.sedoparking.com"
+        ], 
+        "domain-name": "gnpg.org", 
+        "fuzzer": "omission", 
+        "geoip-country": "United States", 
+        "mx-spy": true, 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "205.178.189.129"
+        ], 
+        "dns-mx": [
+            "alt1.aspmx.l.google.com", 
+            "alt2.aspmx.l.google.com", 
+            "aspmx.l.google.com", 
+            "aspmx2.googlemail.com", 
+            "aspmx3.googlemail.com"
+        ], 
+        "dns-ns": [
+            "ns43.worldnic.com", 
+            "ns44.worldnic.com"
+        ], 
+        "domain-name": "gnup.org", 
+        "fuzzer": "omission", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "72.52.4.120"
+        ], 
+        "dns-mx": [
+            "localhost"
+        ], 
+        "dns-ns": [
+            "ns1.sedoparking.com", 
+            "ns2.sedoparking.com"
+        ], 
+        "domain-name": "gnug.org", 
+        "fuzzer": "omission", 
+        "geoip-country": "United States", 
+        "mx-spy": true, 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "72.52.4.119"
+        ], 
+        "dns-mx": [
+            "localhost"
+        ], 
+        "dns-ns": [
+            "ns1.sedoparking.com", 
+            "ns2.sedoparking.com"
+        ], 
+        "domain-name": "gnu.pg.org", 
+        "fuzzer": "subdomain"
+    }, 
+    {
+        "dns-a": [
+            "188.166.216.219"
+        ], 
+        "domain-name": "gnup.g.org", 
+        "fuzzer": "subdomain", 
+        "geoip-country": "Singapore", 
+        "ssdeep-score": 0
+    }
+]

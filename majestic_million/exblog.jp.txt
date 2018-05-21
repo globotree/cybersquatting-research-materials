@@ -1,0 +1,119 @@
+[
+    {
+        "dns-a": [
+            "13.71.144.212"
+        ], 
+        "dns-ns": [
+            "asia3.akam.net", 
+            "eur2.akam.net", 
+            "eur5.akam.net", 
+            "ns1-215.akam.net", 
+            "ns1-240.akam.net", 
+            "usc2.akam.net", 
+            "use2.akam.net", 
+            "use5.akam.net"
+        ], 
+        "domain-name": "exblog.jp", 
+        "fuzzer": "original*", 
+        "geoip-country": "Japan"
+    }, 
+    {
+        "dns-a": [
+            "173.45.105.226"
+        ], 
+        "dns-mx": [
+            "ezblog.jp"
+        ], 
+        "dns-ns": [
+            "ns1.jetboy.jp", 
+            "ns2.jetboy.jp"
+        ], 
+        "domain-name": "ezblog.jp", 
+        "fuzzer": "bitsquatting", 
+        "geoip-country": "United States"
+    }, 
+    {
+        "dns-a": [
+            "185.53.179.8"
+        ], 
+        "dns-mx": [
+            "mail.h-email.net"
+        ], 
+        "dns-ns": [
+            "ns1.parkingcrew.net", 
+            "ns2.parkingcrew.net"
+        ], 
+        "domain-name": "exbiog.jp", 
+        "fuzzer": "homoglyph", 
+        "geoip-country": "Germany", 
+        "mx-spy": true
+    }, 
+    {
+        "dns-mx": [
+            "saturn.shiftweb.net", 
+            "www.eblog.jp"
+        ], 
+        "dns-ns": [
+            "ns-cloud-b1.googledomains.com", 
+            "ns-cloud-b2.googledomains.com", 
+            "ns-cloud-b3.googledomains.com", 
+            "ns-cloud-b4.googledomains.com"
+        ], 
+        "domain-name": "eblog.jp", 
+        "fuzzer": "omission"
+    }, 
+    {
+        "dns-ns": [
+            "ns-1352.awsdns-41.org", 
+            "ns-1901.awsdns-45.co.uk", 
+            "ns-508.awsdns-63.com", 
+            "ns-626.awsdns-14.net"
+        ], 
+        "domain-name": "xblog.jp", 
+        "fuzzer": "omission"
+    }, 
+    {
+        "dns-a": [
+            "173.45.105.226"
+        ], 
+        "dns-mx": [
+            "exlog.jp"
+        ], 
+        "dns-ns": [
+            "ns1.jetboy.jp", 
+            "ns2.jetboy.jp"
+        ], 
+        "domain-name": "exlog.jp", 
+        "fuzzer": "omission", 
+        "geoip-country": "United States"
+    }, 
+    {
+        "dns-a": [
+            "52.197.212.161", 
+            "54.178.249.169"
+        ], 
+        "domain-name": "e.xblog.jp", 
+        "fuzzer": "subdomain", 
+        "geoip-country": "Japan"
+    }, 
+    {
+        "dns-a": [
+            "125.6.146.14"
+        ], 
+        "domain-name": "ex.blog.jp", 
+        "fuzzer": "subdomain", 
+        "geoip-country": "Japan"
+    }, 
+    {
+        "dns-a": [
+            "150.95.255.38"
+        ], 
+        "dns-ns": [
+            "dns1.onamae.com", 
+            "dns2.onamae.com"
+        ], 
+        "domain-name": "exb.log.jp", 
+        "fuzzer": "subdomain", 
+        "geoip-country": "Japan"
+    }
+]

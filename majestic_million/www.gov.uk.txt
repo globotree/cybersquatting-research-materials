@@ -1,0 +1,30 @@
+[
+    {
+        "dns-a": [
+            "151.101.0.144", 
+            "151.101.128.144", 
+            "151.101.192.144", 
+            "151.101.64.144"
+        ], 
+        "domain-name": "www.gov.uk", 
+        "fuzzer": "original*", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 100
+    }, 
+    {
+        "dns-a": [
+            "195.198.203.66"
+        ], 
+        "dns-mx": [
+            "localhost.wwwgov.uk"
+        ], 
+        "dns-ns": [
+            "dns1.scandhost.com", 
+            "dns2.scandhost.com"
+        ], 
+        "domain-name": "wwwgov.uk", 
+        "fuzzer": "various", 
+        "geoip-country": "Sweden", 
+        "mx-spy": true
+    }
+]

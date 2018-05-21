@@ -1,0 +1,95 @@
+[
+    {
+        "dns-a": [
+            "104.28.24.52", 
+            "104.28.25.52"
+        ], 
+        "dns-aaaa": [
+            "2400:cb00:2048:1::681c:1834", 
+            "2400:cb00:2048:1::681c:1934"
+        ], 
+        "dns-mx": [
+            "mail.hashthemes.com"
+        ], 
+        "dns-ns": [
+            "aiden.ns.cloudflare.com", 
+            "grace.ns.cloudflare.com"
+        ], 
+        "domain-name": "hashthemes.com", 
+        "fuzzer": "original*", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 94
+    }, 
+    {
+        "dns-a": [
+            "198.38.82.168"
+        ], 
+        "dns-mx": [
+            "mail.hashtheme.com"
+        ], 
+        "dns-ns": [
+            "ns3002.mochahost.com", 
+            "ns4002.mochahost.com"
+        ], 
+        "domain-name": "hashtheme.com", 
+        "fuzzer": "omission", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "107.170.152.67"
+        ], 
+        "dns-ns": [
+            "ns1.digitalocean.com", 
+            "ns2.digitalocean.com", 
+            "ns3.digitalocean.com"
+        ], 
+        "domain-name": "ha.shthemes.com", 
+        "fuzzer": "subdomain", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "67.225.218.50"
+        ], 
+        "dns-ns": [
+            "ns1.parklogic.com", 
+            "ns2.parklogic.com", 
+            "ns3.parklogic.com", 
+            "ns4.parklogic.com", 
+            "ns5.parklogic.com"
+        ], 
+        "domain-name": "hash.themes.com", 
+        "fuzzer": "subdomain", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "69.172.201.153"
+        ], 
+        "dns-ns": [
+            "ns1.uniregistrymarket.link", 
+            "ns2.uniregistrymarket.link"
+        ], 
+        "domain-name": "hashthe.mes.com", 
+        "fuzzer": "subdomain", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "209.99.64.25"
+        ], 
+        "dns-ns": [
+            "ns11025.ztomy.com", 
+            "ns21025.ztomy.com"
+        ], 
+        "domain-name": "hushthemes.com", 
+        "fuzzer": "vowel-swap", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 0
+    }
+]

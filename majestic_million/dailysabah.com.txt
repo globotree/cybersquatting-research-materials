@@ -1,0 +1,79 @@
+[
+    {
+        "dns-a": [
+            "46.101.153.31"
+        ], 
+        "dns-mx": [
+            "newsmtp1.sabah.com.tr", 
+            "newsmtp2.sabah.com.tr"
+        ], 
+        "dns-ns": [
+            "ns-1172.awsdns-18.org", 
+            "ns-1948.awsdns-51.co.uk", 
+            "ns-277.awsdns-34.com", 
+            "ns-627.awsdns-14.net"
+        ], 
+        "domain-name": "dailysabah.com", 
+        "fuzzer": "original*", 
+        "geoip-country": "Germany", 
+        "mx-spy": true, 
+        "ssdeep-score": 100
+    }, 
+    {
+        "dns-a": [
+            "159.203.27.191"
+        ], 
+        "dns-ns": [
+            "ns1fkl.name.com", 
+            "ns2dky.name.com", 
+            "ns3fgh.name.com", 
+            "ns4cfn.name.com"
+        ], 
+        "domain-name": "dailysabahs.com", 
+        "fuzzer": "addition", 
+        "geoip-country": "Canada", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "104.28.4.221", 
+            "104.28.5.221"
+        ], 
+        "dns-aaaa": [
+            "2400:cb00:2048:1::681c:4dd", 
+            "2400:cb00:2048:1::681c:5dd"
+        ], 
+        "dns-mx": [
+            "dc-86cdd771cf60.dailysarah.com"
+        ], 
+        "dns-ns": [
+            "bella.ns.cloudflare.com", 
+            "glen.ns.cloudflare.com"
+        ], 
+        "domain-name": "dailysarah.com", 
+        "fuzzer": "bitsquatting", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "195.149.84.37"
+        ], 
+        "dns-aaaa": [
+            "2001:67c:38c::25"
+        ], 
+        "domain-name": "daily.sabah.com", 
+        "fuzzer": "subdomain", 
+        "geoip-country": "United Kingdom", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "192.64.147.195"
+        ], 
+        "domain-name": "dailys.abah.com", 
+        "fuzzer": "subdomain", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 0
+    }
+]

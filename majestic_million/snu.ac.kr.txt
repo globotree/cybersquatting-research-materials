@@ -1,0 +1,211 @@
+[
+    {
+        "dns-a": [
+            "147.46.10.58"
+        ], 
+        "dns-mx": [
+            "smtp.snu.ac.kr"
+        ], 
+        "dns-ns": [
+            "ercc.snu.ac.kr", 
+            "hektor.snu.ac.kr"
+        ], 
+        "domain-name": "snu.ac.kr", 
+        "fuzzer": "original*", 
+        "geoip-country": "Korea", 
+        "ssdeep-score": 100
+    }, 
+    {
+        "dns-a": [
+            "203.234.36.31"
+        ], 
+        "dns-mx": [
+            "3f60082bfbd7640a61c8c5860c5a5058c6b82e37.msv1.invalid", 
+            "spam.snue.ac.kr"
+        ], 
+        "dns-ns": [
+            "dns.snue.ac.kr"
+        ], 
+        "domain-name": "snue.ac.kr", 
+        "fuzzer": "addition", 
+        "geoip-country": "Korea", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "147.47.253.193"
+        ], 
+        "dns-mx": [
+            "alt1.aspmx.l.google.com", 
+            "alt2.aspmx.l.google.com", 
+            "aspmx.l.google.com", 
+            "aspmx2.googlemail.com", 
+            "aspmx3.googlemail.com", 
+            "aspmx4.googlemail.com", 
+            "aspmx5.googlemail.com"
+        ], 
+        "dns-ns": [
+            "ns.gabia.co.kr", 
+            "ns.gabia.net", 
+            "ns1.gabia.co.kr"
+        ], 
+        "domain-name": "snui.ac.kr", 
+        "fuzzer": "addition", 
+        "geoip-country": "Korea", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "203.246.83.225"
+        ], 
+        "dns-mx": [
+            "filter.snut.ac.kr", 
+            "mail.snut.ac.kr"
+        ], 
+        "dns-ns": [
+            "ns.snut.ac.kr"
+        ], 
+        "domain-name": "snut.ac.kr", 
+        "fuzzer": "addition", 
+        "geoip-country": "Korea", 
+        "mx-spy": true
+    }, 
+    {
+        "dns-a": [
+            "168.188.253.130"
+        ], 
+        "dns-mx": [
+            "sniper.cnu.ac.kr"
+        ], 
+        "dns-ns": [
+            "baekma.cnu.ac.kr", 
+            "baekma2.chungnam.ac.kr"
+        ], 
+        "domain-name": "cnu.ac.kr", 
+        "fuzzer": "bitsquatting", 
+        "geoip-country": "Korea", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-mx": [
+            "sou-ac-kr.mail.protection.outlook.com"
+        ], 
+        "dns-ns": [
+            "win-ohatfg452kf"
+        ], 
+        "domain-name": "sou.ac.kr", 
+        "fuzzer": "bitsquatting"
+    }, 
+    {
+        "dns-a": [
+            "210.107.239.187"
+        ], 
+        "dns-mx": [
+            "sju-ac-kr.mail.protection.outlook.com"
+        ], 
+        "domain-name": "sju.ac.kr", 
+        "fuzzer": "bitsquatting", 
+        "geoip-country": "Korea"
+    }, 
+    {
+        "dns-mx": [
+            "mail.smu.ac.kr", 
+            "spam.smu.ac.kr"
+        ], 
+        "dns-ns": [
+            "smus.smu.ac.kr", 
+            "smus2.smu.ac.kr"
+        ], 
+        "domain-name": "smu.ac.kr", 
+        "fuzzer": "homoglyph"
+    }, 
+    {
+        "dns-a": [
+            "203.253.31.111"
+        ], 
+        "dns-mx": [
+            "alt1.aspmx.l.google.com", 
+            "alt2.aspmx.l.google.com", 
+            "aspmx.l.google.com", 
+            "aspmx2.googlemail.com", 
+            "aspmx3.googlemail.com", 
+            "aspmx4.googlemail.com", 
+            "aspmx5.googlemail.com"
+        ], 
+        "dns-ns": [
+            "ns.ssu.ac.kr"
+        ], 
+        "domain-name": "su.ac.kr", 
+        "fuzzer": "omission", 
+        "geoip-country": "Korea", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "220.68.134.65"
+        ], 
+        "dns-mx": [
+            "mailx.anu.ac.kr"
+        ], 
+        "dns-ns": [
+            "ns.andong.ac.kr"
+        ], 
+        "domain-name": "anu.ac.kr", 
+        "fuzzer": "replacement", 
+        "geoip-country": "Korea", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "165.229.11.173"
+        ], 
+        "dns-mx": [
+            "mgw.yu.ac.kr"
+        ], 
+        "dns-ns": [
+            "ns.yu.ac.kr", 
+            "ns3.yu.ac.kr"
+        ], 
+        "domain-name": "ynu.ac.kr", 
+        "fuzzer": "replacement", 
+        "geoip-country": "Korea", 
+        "mx-spy": true
+    }, 
+    {
+        "dns-a": [
+            "220.68.191.34"
+        ], 
+        "dns-mx": [
+            "mail.nsu.ac.kr", 
+            "smtp.nsu.ac.kr", 
+            "spammail.nsu.ac.kr"
+        ], 
+        "dns-ns": [
+            "hp.nsu.ac.kr"
+        ], 
+        "domain-name": "nsu.ac.kr", 
+        "fuzzer": "transposition"
+    }, 
+    {
+        "dns-a": [
+            "147.46.10.58"
+        ], 
+        "dns-ns": [
+            "ercc.snu.ac.kr", 
+            "hektor.snu.ac.kr", 
+            "ns.awawaw.snu.kr", 
+            "ns.pidl.snu.kr"
+        ], 
+        "domain-name": "snu.kr", 
+        "fuzzer": "various"
+    }, 
+    {
+        "dns-ns": [
+            "ns.gabia.co.kr", 
+            "ns.gabia.net", 
+            "ns1.gabia.co.kr"
+        ], 
+        "domain-name": "snuac.kr", 
+        "fuzzer": "various"
+    }
+]

@@ -1,0 +1,104 @@
+[
+    {
+        "dns-a": [
+            "180.37.190.46"
+        ], 
+        "dns-mx": [
+            "mx-0.aams6.jp", 
+            "mx-1.aams6.jp", 
+            "mx.aams6.jp"
+        ], 
+        "dns-ns": [
+            "name.technowave.ad.jp", 
+            "ns.technowave.ne.jp"
+        ], 
+        "domain-name": "kanagawas.jp", 
+        "fuzzer": "addition", 
+        "geoip-country": "Japan"
+    }, 
+    {
+        "dns-a": [
+            "210.157.28.18"
+        ], 
+        "dns-mx": [
+            "smtp.kamnagawa.jp"
+        ], 
+        "dns-ns": [
+            "ns.namedserver.net", 
+            "ns2.namedserver.net"
+        ], 
+        "domain-name": "kamnagawa.jp", 
+        "fuzzer": "insertion", 
+        "geoip-country": "Japan"
+    }, 
+    {
+        "dns-a": [
+            "72.52.4.121"
+        ], 
+        "dns-mx": [
+            "localhost"
+        ], 
+        "dns-ns": [
+            "ns1.sedoparking.com", 
+            "ns2.sedoparking.com"
+        ], 
+        "domain-name": "kabagawa.jp", 
+        "fuzzer": "replacement", 
+        "geoip-country": "United States", 
+        "mx-spy": true
+    }, 
+    {
+        "dns-a": [
+            "61.126.37.52"
+        ], 
+        "dns-mx": [
+            "mwbgw1.ocn.ad.jp", 
+            "mwbgw2.ocn.ad.jp"
+        ], 
+        "dns-ns": [
+            "ns-210.dns.jp-e1.cloudn-service.com", 
+            "ns-211.dns.jp-w1.cloudn-service.com", 
+            "ns-212.dns.us-e1.cloudn-service.com"
+        ], 
+        "domain-name": "managawa.jp", 
+        "fuzzer": "replacement", 
+        "geoip-country": "Japan"
+    }, 
+    {
+        "dns-a": [
+            "192.168.0.29"
+        ], 
+        "domain-name": "kanag.awa.jp", 
+        "fuzzer": "subdomain"
+    }, 
+    {
+        "dns-a": [
+            "153.149.163.132"
+        ], 
+        "dns-mx": [
+            "kanogawa.jp"
+        ], 
+        "dns-ns": [
+            "ns1.e-onamae.com", 
+            "ns2.e-onamae.com", 
+            "ns3.e-onamae.com", 
+            "ns4.e-onamae.com"
+        ], 
+        "domain-name": "kanogawa.jp", 
+        "fuzzer": "vowel-swap"
+    }, 
+    {
+        "dns-a": [
+            "219.94.203.174"
+        ], 
+        "dns-ns": [
+            "ns1.xserver.jp", 
+            "ns2.xserver.jp", 
+            "ns3.xserver.jp", 
+            "ns4.xserver.jp", 
+            "ns5.xserver.jp"
+        ], 
+        "domain-name": "kanagawa-jp.com", 
+        "fuzzer": "various"
+    }
+]

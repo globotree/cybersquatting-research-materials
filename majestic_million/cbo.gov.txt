@@ -1,0 +1,95 @@
+[
+    {
+        "dns-a": [
+            "23.185.0.1"
+        ], 
+        "dns-aaaa": [
+            "2620:12a:8000::1", 
+            "2620:12a:8001::1"
+        ], 
+        "dns-mx": [
+            "mxa-001ec201.gslb.pphosted.com", 
+            "mxb-001ec201.gslb.pphosted.com"
+        ], 
+        "dns-ns": [
+            "pdns89.ultradns.biz", 
+            "pdns89.ultradns.com", 
+            "pdns89.ultradns.net", 
+            "pdns89.ultradns.org"
+        ], 
+        "domain-name": "cbo.gov", 
+        "fuzzer": "original*", 
+        "ssdeep-score": 100
+    }, 
+    {
+        "dns-a": [
+            "198.137.240.31"
+        ], 
+        "dns-mx": [
+            "alt1.aspmx.l.google.com", 
+            "alt2.aspmx.l.google.com", 
+            "alt3.aspmx.l.google.com", 
+            "alt4.aspmx.l.google.com", 
+            "aspmx.l.google.com"
+        ], 
+        "dns-ns": [
+            "a1-61.akam.net", 
+            "a12-64.akam.net", 
+            "a20-65.akam.net", 
+            "a22-66.akam.net", 
+            "a3-67.akam.net", 
+            "a5-64.akam.net"
+        ], 
+        "domain-name": "cfo.gov", 
+        "fuzzer": "bitsquatting", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "165.127.10.10"
+        ], 
+        "dns-ns": [
+            "dns1.state.co.us", 
+            "dns2.state.co.us"
+        ], 
+        "domain-name": "co.gov", 
+        "fuzzer": "omission", 
+        "geoip-country": "United States"
+    }, 
+    {
+        "dns-a": [
+            "66.151.109.46", 
+            "66.151.109.54"
+        ], 
+        "dns-aaaa": [
+            "2600:c08:2020::1:6", 
+            "2600:c08:2020::1:7"
+        ], 
+        "dns-mx": [
+            "smtp.fbo.gov"
+        ], 
+        "dns-ns": [
+            "ns03.symplicity.com", 
+            "ns04.symplicity.com", 
+            "ns06.symplicity.com"
+        ], 
+        "domain-name": "fbo.gov", 
+        "fuzzer": "replacement"
+    }, 
+    {
+        "dns-a": [
+            "173.252.133.166"
+        ], 
+        "dns-mx": [
+            "apollo.ntis.gov"
+        ], 
+        "dns-ns": [
+            "sauthns1.qwest.net", 
+            "sauthns2.qwest.net"
+        ], 
+        "domain-name": "cbp.gov", 
+        "fuzzer": "replacement", 
+        "geoip-country": "United States"
+    }
+]

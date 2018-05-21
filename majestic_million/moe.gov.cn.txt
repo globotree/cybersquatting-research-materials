@@ -1,0 +1,57 @@
+[
+    {
+        "dns-mx": [
+            "mail.moe.gov.cn", 
+            "smtp.moe.gov.cn"
+        ], 
+        "dns-ns": [
+            "dnsprim.moe.gov.cn", 
+            "dnssec.moe.gov.cn"
+        ], 
+        "domain-name": "moe.gov.cn", 
+        "fuzzer": "original*"
+    }, 
+    {
+        "dns-mx": [
+            "mail.mod.gov.cn"
+        ], 
+        "dns-ns": [
+            "dns1.jfjb.com.cn", 
+            "dns2.jfjb.com.cn", 
+            "ns1.cdns.cn", 
+            "ns2.cdns.cn", 
+            "ns3.cdns.cn"
+        ], 
+        "domain-name": "mod.gov.cn", 
+        "fuzzer": "bitsquatting", 
+        "mx-spy": true
+    }, 
+    {
+        "dns-ns": [
+            "agri-dns01.agri.org.cn", 
+            "agri-dns02.agri.org.cn"
+        ], 
+        "domain-name": "moa.gov.cn", 
+        "fuzzer": "bitsquatting"
+    }, 
+    {
+        "dns-mx": [
+            "mail.mos.gov.cn"
+        ], 
+        "dns-ns": [
+            "ns1.cdns.cn", 
+            "ns2.cdns.cn", 
+            "ns3.cdns.cn"
+        ], 
+        "domain-name": "mos.gov.cn", 
+        "fuzzer": "replacement"
+    }, 
+    {
+        "dns-ns": [
+            "ns1.dns.com.cn", 
+            "ns2.dns.com.cn"
+        ], 
+        "domain-name": "moegov.cn", 
+        "fuzzer": "various"
+    }
+]

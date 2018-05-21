@@ -1,0 +1,63 @@
+[
+    {
+        "dns-a": [
+            "104.20.252.69"
+        ], 
+        "dns-mx": [
+            "toureiffel-paris.mail.protection.outlook.com"
+        ], 
+        "dns-ns": [
+            "ns-109-c.gandi.net", 
+            "ns-153-a.gandi.net", 
+            "ns-46-b.gandi.net"
+        ], 
+        "domain-name": "toureiffel.paris", 
+        "fuzzer": "original*", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 100
+    }, 
+    {
+        "dns-a": [
+            "185.26.230.134"
+        ], 
+        "domain-name": "tour-eiffel.paris", 
+        "fuzzer": "hyphenation", 
+        "geoip-country": "United Kingdom", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "72.52.4.119"
+        ], 
+        "dns-mx": [
+            "localhost"
+        ], 
+        "dns-ns": [
+            "ns1.sedoparking.com", 
+            "ns2.sedoparking.com"
+        ], 
+        "domain-name": "tour.eiffel.paris", 
+        "fuzzer": "subdomain", 
+        "geoip-country": "United States", 
+        "mx-spy": true, 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "217.160.231.174"
+        ], 
+        "dns-mx": [
+            "mx00.1and1.fr", 
+            "mx01.1and1.fr"
+        ], 
+        "dns-ns": [
+            "ns1083.ui-dns.biz", 
+            "ns1083.ui-dns.com", 
+            "ns1083.ui-dns.de", 
+            "ns1083.ui-dns.org"
+        ], 
+        "domain-name": "toureiffel-paris.com", 
+        "fuzzer": "various", 
+        "geoip-country": "Germany"
+    }
+]

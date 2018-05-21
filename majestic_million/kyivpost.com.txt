@@ -1,0 +1,88 @@
+[
+    {
+        "dns-a": [
+            "151.80.102.98"
+        ], 
+        "dns-aaaa": [
+            "2001:41d0:d:1662::1"
+        ], 
+        "dns-mx": [
+            "ALT1.ASPMX.L.GOOGLE.com", 
+            "ALT2.ASPMX.L.GOOGLE.com", 
+            "ASPMX.L.GOOGLE.com", 
+            "ASPMX2.GOOGLEMAIL.com", 
+            "ASPMX3.GOOGLEMAIL.com", 
+            "mail.kyivpost.com"
+        ], 
+        "dns-ns": [
+            "nsa2.srv53.com", 
+            "nsa2.srv53.net", 
+            "nsa4.srv53.org", 
+            "nsb1.srv53.org", 
+            "nsb2.srv53.net", 
+            "nsb4.srv53.com", 
+            "nsc2.srv53.com", 
+            "nsc4.srv53.net", 
+            "nsc4.srv53.org", 
+            "nsd3.srv53.com", 
+            "nsd3.srv53.org", 
+            "nsd4.srv53.net"
+        ], 
+        "domain-name": "kyivpost.com", 
+        "fuzzer": "original*", 
+        "geoip-country": "France"
+    }, 
+    {
+        "dns-a": [
+            "5.39.10.93"
+        ], 
+        "dns-aaaa": [
+            "2001:41d0:b:a74:5:39:10:93"
+        ], 
+        "dns-mx": [
+            "mail.imena.com.ua"
+        ], 
+        "dns-ns": [
+            "nsa1.srv53.net", 
+            "nsa4.srv53.com", 
+            "nsa4.srv53.org", 
+            "nsb1.srv53.com", 
+            "nsb1.srv53.net", 
+            "nsb1.srv53.org", 
+            "nsc2.srv53.net", 
+            "nsc2.srv53.org", 
+            "nsc3.srv53.com", 
+            "nsd1.srv53.com", 
+            "nsd2.srv53.org", 
+            "nsd4.srv53.net"
+        ], 
+        "domain-name": "kyivport.com", 
+        "fuzzer": "bitsquatting", 
+        "geoip-country": "France"
+    }, 
+    {
+        "dns-a": [
+            "104.24.118.29", 
+            "104.24.119.29"
+        ], 
+        "dns-aaaa": [
+            "2400:cb00:2048:1::6818:761d", 
+            "2400:cb00:2048:1::6818:771d"
+        ], 
+        "dns-ns": [
+            "athena.ns.cloudflare.com", 
+            "miles.ns.cloudflare.com"
+        ], 
+        "domain-name": "kyipost.com", 
+        "fuzzer": "omission", 
+        "geoip-country": "United States"
+    }, 
+    {
+        "dns-a": [
+            "204.74.99.100"
+        ], 
+        "domain-name": "kyiv.post.com", 
+        "fuzzer": "subdomain", 
+        "geoip-country": "United States"
+    }
+]

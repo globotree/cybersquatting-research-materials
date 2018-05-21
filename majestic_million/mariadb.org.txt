@@ -1,0 +1,51 @@
+[
+    {
+        "dns-aaaa": [
+            "2001:4800:7813:516:be76:4eff:fe05:ff2a"
+        ], 
+        "dns-mx": [
+            "mail.askmonty.org"
+        ], 
+        "dns-ns": [
+            "dns1.stabletransit.com", 
+            "dns2.stabletransit.com"
+        ], 
+        "domain-name": "mariadb.org", 
+        "fuzzer": "original*"
+    }, 
+    {
+        "dns-a": [
+            "199.59.242.150"
+        ], 
+        "dns-mx": [
+            "mx76.m2bp.com", 
+            "mx76.mb1p.com"
+        ], 
+        "dns-ns": [
+            "ns1.bodis.com", 
+            "ns2.bodis.com"
+        ], 
+        "domain-name": "meriadb.org", 
+        "fuzzer": "bitsquatting", 
+        "geoip-country": "United States", 
+        "mx-spy": true, 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-ns": [
+            "ns1.beaverserver.com", 
+            "ns2.beaverserver.com"
+        ], 
+        "domain-name": "mariad.org", 
+        "fuzzer": "omission"
+    }, 
+    {
+        "dns-a": [
+            "98.124.199.32"
+        ], 
+        "domain-name": "mariad.b.org", 
+        "fuzzer": "subdomain", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 0
+    }
+]

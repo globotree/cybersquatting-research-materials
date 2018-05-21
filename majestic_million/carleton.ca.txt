@@ -1,0 +1,101 @@
+[
+    {
+        "dns-a": [
+            "134.117.6.162"
+        ], 
+        "dns-mx": [
+            "smtp-gateway1.carleton.ca", 
+            "smtp-gateway2.carleton.ca"
+        ], 
+        "dns-ns": [
+            "ns1.carleton.ca", 
+            "ns1.d-zone.ca", 
+            "ns2.carleton.ca", 
+            "ns2.d-zone.ca"
+        ], 
+        "domain-name": "carleton.ca", 
+        "fuzzer": "original*", 
+        "geoip-country": "Canada", 
+        "ssdeep-score": 99
+    }, 
+    {
+        "dns-a": [
+            "103.224.182.239"
+        ], 
+        "dns-mx": [
+            "park-mx.above.com"
+        ], 
+        "dns-ns": [
+            "ns1.above.com", 
+            "ns2.above.com"
+        ], 
+        "domain-name": "carletonu.ca", 
+        "fuzzer": "addition", 
+        "geoip-country": "Australia", 
+        "mx-spy": true, 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "70.33.230.26"
+        ], 
+        "dns-mx": [
+            "mail.carlton.ca", 
+            "mailstore1.secureserver.net", 
+            "smtp.secureserver.net"
+        ], 
+        "dns-ns": [
+            "ns-1241.awsdns-27.org", 
+            "ns-1612.awsdns-09.co.uk", 
+            "ns-398.awsdns-49.com", 
+            "ns-560.awsdns-06.net"
+        ], 
+        "domain-name": "carlton.ca", 
+        "fuzzer": "omission", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "46.4.15.10"
+        ], 
+        "dns-mx": [
+            "caleton.ca"
+        ], 
+        "dns-ns": [
+            "ns1.dcblessings6.com", 
+            "ns2.dcblessings6.com"
+        ], 
+        "domain-name": "caleton.ca", 
+        "fuzzer": "omission", 
+        "geoip-country": "Germany", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "69.159.224.112"
+        ], 
+        "dns-mx": [
+            "mail.eton.ca", 
+            "mx-capricab.easydns.com"
+        ], 
+        "dns-ns": [
+            "dns1.easydns.com", 
+            "dns2.easydns.net", 
+            "dns3.easydns.ca"
+        ], 
+        "domain-name": "carl.eton.ca", 
+        "fuzzer": "subdomain", 
+        "geoip-country": "Canada", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "69.172.201.153"
+        ], 
+        "domain-name": "carle.ton.ca", 
+        "fuzzer": "subdomain", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 0
+    }
+]

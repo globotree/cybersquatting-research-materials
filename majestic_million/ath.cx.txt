@@ -1,0 +1,142 @@
+[
+    {
+        "dns-a": [
+            "204.13.248.119"
+        ], 
+        "dns-mx": [
+            "ALT1.ASPMX.L.GOOGLE.COM", 
+            "ALT2.ASPMX.L.GOOGLE.COM", 
+            "ASPMX.L.GOOGLE.COM", 
+            "ASPMX2.GOOGLEMAIL.COM", 
+            "ASPMX3.GOOGLEMAIL.COM"
+        ], 
+        "dns-ns": [
+            "ns1.dyndns.org", 
+            "ns2.dyndns.org", 
+            "ns3.dyndns.org", 
+            "ns4.dyndns.org", 
+            "ns5.dyndns.org"
+        ], 
+        "domain-name": "ath.cx", 
+        "fuzzer": "original*", 
+        "geoip-country": "United States"
+    }, 
+    {
+        "dns-mx": [
+            "pegasusmail.eth.cx"
+        ], 
+        "dns-ns": [
+            "ns-106-c.gandi.net", 
+            "ns-112-a.gandi.net", 
+            "ns-53-b.gandi.net"
+        ], 
+        "domain-name": "eth.cx", 
+        "fuzzer": "bitsquatting"
+    }, 
+    {
+        "dns-a": [
+            "23.234.27.209"
+        ], 
+        "domain-name": "qth.cx", 
+        "fuzzer": "bitsquatting", 
+        "geoip-country": "United States"
+    }, 
+    {
+        "dns-a": [
+            "103.71.238.105"
+        ], 
+        "dns-ns": [
+            "f1g1ns1.dnspod.net", 
+            "f1g1ns2.dnspod.net"
+        ], 
+        "domain-name": "ah.cx", 
+        "fuzzer": "omission", 
+        "geoip-country": "Hong Kong"
+    }, 
+    {
+        "dns-a": [
+            "89.107.188.153"
+        ], 
+        "dns-mx": [
+            "ok16.serverdomain.org"
+        ], 
+        "dns-ns": [
+            "ns1.nshost2.de", 
+            "ns2.nshost2.de", 
+            "ns3.nshost2.net"
+        ], 
+        "domain-name": "at.cx", 
+        "fuzzer": "omission", 
+        "geoip-country": "Germany"
+    }, 
+    {
+        "dns-a": [
+            "23.234.27.209"
+        ], 
+        "domain-name": "th.cx", 
+        "fuzzer": "omission", 
+        "geoip-country": "United States"
+    }, 
+    {
+        "dns-a": [
+            "23.234.27.209"
+        ], 
+        "domain-name": "arh.cx", 
+        "fuzzer": "replacement", 
+        "geoip-country": "United States"
+    }, 
+    {
+        "dns-ns": [
+            "ns1.myhostadmin.net", 
+            "ns2.myhostadmin.net", 
+            "ns3.myhostadmin.net", 
+            "ns4.myhostadmin.net", 
+            "ns5.myhostadmin.net", 
+            "ns6.myhostadmin.net"
+        ], 
+        "domain-name": "atu.cx", 
+        "fuzzer": "replacement"
+    }, 
+    {
+        "dns-a": [
+            "103.232.215.150"
+        ], 
+        "dns-ns": [
+            "ns1.myhostadmin.net", 
+            "ns2.myhostadmin.net", 
+            "ns3.myhostadmin.net", 
+            "ns4.myhostadmin.net", 
+            "ns5.myhostadmin.net", 
+            "ns6.myhostadmin.net"
+        ], 
+        "domain-name": "yth.cx", 
+        "fuzzer": "replacement", 
+        "geoip-country": "China"
+    }, 
+    {
+        "dns-a": [
+            "59.188.76.154"
+        ], 
+        "dns-ns": [
+            "ns1.myhostadmin.net", 
+            "ns2.myhostadmin.net", 
+            "ns3.myhostadmin.net", 
+            "ns4.myhostadmin.net", 
+            "ns5.myhostadmin.net", 
+            "ns6.myhostadmin.net"
+        ], 
+        "domain-name": "ayh.cx", 
+        "fuzzer": "replacement"
+    }, 
+    {
+        "dns-a": [
+            "163.172.28.91"
+        ], 
+        "dns-aaaa": [
+            "2001:bc8:3f3c:10d::1"
+        ], 
+        "domain-name": "at.h.cx", 
+        "fuzzer": "subdomain", 
+        "geoip-country": "France"
+    }
+]

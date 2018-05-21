@@ -1,0 +1,55 @@
+[
+    {
+        "dns-a": [
+            "104.20.112.4", 
+            "104.20.113.4"
+        ], 
+        "dns-aaaa": [
+            "2400:cb00:2048:1::6814:7004", 
+            "2400:cb00:2048:1::6814:7104"
+        ], 
+        "dns-mx": [
+            "dc-70d18d2b7962.frontpagemag.com"
+        ], 
+        "dns-ns": [
+            "dana.ns.cloudflare.com", 
+            "jay.ns.cloudflare.com"
+        ], 
+        "domain-name": "frontpagemag.com", 
+        "fuzzer": "original*", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 99
+    }, 
+    {
+        "dns-a": [
+            "173.239.5.6", 
+            "173.239.8.164", 
+            "213.247.47.190"
+        ], 
+        "dns-mx": [
+            "mx7.frotpagemag.com"
+        ], 
+        "dns-ns": [
+            "ns1.expiereddnsmanager.com", 
+            "ns2.expiereddnsmanager.com"
+        ], 
+        "domain-name": "frotpagemag.com", 
+        "fuzzer": "omission", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "52.73.124.185", 
+            "54.164.198.60"
+        ], 
+        "dns-ns": [
+            "ns1.namebrightdns.com", 
+            "ns2.namebrightdns.com"
+        ], 
+        "domain-name": "front.pagemag.com", 
+        "fuzzer": "subdomain", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 0
+    }
+]

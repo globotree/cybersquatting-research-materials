@@ -1,0 +1,42 @@
+[
+    {
+        "dns-ns": [
+            "ns1.gsxt.gov.cn", 
+            "ns2.gsxt.gov.cn"
+        ], 
+        "domain-name": "gsxt.gov.cn", 
+        "fuzzer": "original*"
+    }, 
+    {
+        "dns-a": [
+            "118.180.24.121"
+        ], 
+        "dns-ns": [
+            "ns13.xincache.com", 
+            "ns14.xincache.com"
+        ], 
+        "domain-name": "gsxf.gov.cn", 
+        "fuzzer": "replacement", 
+        "geoip-country": "China"
+    }, 
+    {
+        "dns-a": [
+            "219.159.76.83"
+        ], 
+        "dns-ns": [
+            "dns13.hichina.com", 
+            "dns14.hichina.com"
+        ], 
+        "domain-name": "gxst.gov.cn", 
+        "fuzzer": "transposition", 
+        "geoip-country": "China"
+    }, 
+    {
+        "dns-ns": [
+            "dns15.hichina.com", 
+            "dns16.hichina.com"
+        ], 
+        "domain-name": "gsxtgov.cn", 
+        "fuzzer": "various"
+    }
+]

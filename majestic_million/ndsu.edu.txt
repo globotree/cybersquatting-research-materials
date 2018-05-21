@@ -1,0 +1,125 @@
+[
+    {
+        "dns-a": [
+            "134.129.111.121"
+        ], 
+        "dns-mx": [
+            "ndsu-edu.mail.protection.outlook.com"
+        ], 
+        "domain-name": "ndsu.edu", 
+        "fuzzer": "original*", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 100
+    }, 
+    {
+        "dns-a": [
+            "206.41.39.50"
+        ], 
+        "dns-mx": [
+            "ALT1.ASPMX.L.GOOGLE.COM", 
+            "ALT2.ASPMX.L.GOOGLE.COM", 
+            "ALT3.ASPMX.L.GOOGLE.COM", 
+            "ALT4.ASPMX.L.GOOGLE.COM", 
+            "ASPMX.L.GOOGLE.COM"
+        ], 
+        "dns-ns": [
+            "ns1.arch-no.org", 
+            "ns2.arch-no.org"
+        ], 
+        "domain-name": "nds.edu", 
+        "fuzzer": "omission", 
+        "geoip-country": "United States"
+    }, 
+    {
+        "dns-a": [
+            "138.247.117.248", 
+            "138.247.117.249"
+        ], 
+        "dns-mx": [
+            "smtp.sd.gov"
+        ], 
+        "dns-ns": [
+            "ns01.dsu.edu", 
+            "ns02.dsu.edu", 
+            "ns03.dsu.edu"
+        ], 
+        "domain-name": "dsu.edu", 
+        "fuzzer": "omission", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-mx": [
+            "ndugway01.ndu.edu", 
+            "ndugway02.ndu.edu", 
+            "ndugway03.ndu.edu"
+        ], 
+        "dns-ns": [
+            "dnsauth1.sys.gtei.net", 
+            "dnsauth2.sys.gtei.net", 
+            "dnsauth3.sys.gtei.net", 
+            "ndudns01.ndu.edu", 
+            "ndudns02.ndu.edu"
+        ], 
+        "domain-name": "ndu.edu", 
+        "fuzzer": "omission"
+    }, 
+    {
+        "dns-a": [
+            "204.155.176.137"
+        ], 
+        "dns-mx": [
+            "mx01.nsu.edu", 
+            "mx02.nsu.edu", 
+            "snsusmx01.nsu.edu", 
+            "snsusmx02.nsu.edu"
+        ], 
+        "dns-ns": [
+            "ns1.nsu.edu", 
+            "ns2.nsu.edu"
+        ], 
+        "domain-name": "nsu.edu", 
+        "fuzzer": "omission", 
+        "geoip-country": "United States", 
+        "mx-spy": true
+    }, 
+    {
+        "dns-a": [
+            "152.1.227.240", 
+            "152.1.227.241", 
+            "152.1.227.242", 
+            "152.1.227.243"
+        ], 
+        "dns-mx": [
+            "alt1.aspmx.l.google.com", 
+            "alt2.aspmx.l.google.com", 
+            "aspmx.l.google.com", 
+            "aspmx2.googlemail.com", 
+            "aspmx3.googlemail.com"
+        ], 
+        "dns-ns": [
+            "ed11.ddi.ncsu.edu", 
+            "ed21.ddi.ncsu.edu", 
+            "ed31.ddi.ncsu.edu"
+        ], 
+        "domain-name": "ncsu.edu", 
+        "fuzzer": "replacement", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "216.147.167.67"
+        ], 
+        "dns-mx": [
+            "ndus-edu.mail.eo.outlook.com", 
+            "ndus-edu.mail.protection.outlook.com"
+        ], 
+        "dns-ns": [
+            "dns1.und.nodak.edu", 
+            "ns2.ndus.edu"
+        ], 
+        "domain-name": "ndus.edu", 
+        "fuzzer": "transposition"
+    }
+]

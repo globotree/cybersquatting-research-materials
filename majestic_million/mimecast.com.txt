@@ -1,0 +1,320 @@
+[
+    {
+        "dns-a": [
+            "217.114.85.70"
+        ], 
+        "dns-mx": [
+            "service-alpha-inbound-a.mimecast.com", 
+            "service-alpha-inbound-b.mimecast.com"
+        ], 
+        "dns-ns": [
+            "dns01.mimecast.com", 
+            "dns02.mimecast.com", 
+            "dns03.mimecast.com", 
+            "dns04.mimecast.com"
+        ], 
+        "domain-name": "mimecast.com", 
+        "fuzzer": "original*", 
+        "geoip-country": "Sweden", 
+        "ssdeep-score": 99
+    }, 
+    {
+        "dns-a": [
+            "184.168.221.56"
+        ], 
+        "dns-ns": [
+            "pdns11.domaincontrol.com", 
+            "pdns12.domaincontrol.com"
+        ], 
+        "domain-name": "mimecasts.com", 
+        "fuzzer": "addition", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "37.58.107.93"
+        ], 
+        "dns-mx": [
+            "mail.efty.com"
+        ], 
+        "dns-ns": [
+            "ns1.eftydns.com", 
+            "ns2.eftydns.com"
+        ], 
+        "domain-name": "limecast.com", 
+        "fuzzer": "bitsquatting", 
+        "geoip-country": "Netherlands", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "114.130.13.182"
+        ], 
+        "dns-mx": [
+            "smtp-auspx-012-clnt.mymecast.com"
+        ], 
+        "dns-ns": [
+            "inodesystems.earth.orderbox-dns.com", 
+            "inodesystems.mars.orderbox-dns.com", 
+            "inodesystems.mercury.orderbox-dns.com", 
+            "inodesystems.venus.orderbox-dns.com"
+        ], 
+        "domain-name": "mymecast.com", 
+        "fuzzer": "bitsquatting", 
+        "geoip-country": "Bangladesh"
+    }, 
+    {
+        "dns-a": [
+            "23.23.174.132"
+        ], 
+        "domain-name": "milecast.com", 
+        "fuzzer": "bitsquatting", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "34.251.88.42"
+        ], 
+        "dns-mx": [
+            "mailstore1.secureserver.net", 
+            "smtp.secureserver.net"
+        ], 
+        "dns-ns": [
+            "ns03.domaincontrol.com", 
+            "ns04.domaincontrol.com"
+        ], 
+        "domain-name": "minnecast.com", 
+        "fuzzer": "homoglyph", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "104.18.52.90", 
+            "104.18.53.90"
+        ], 
+        "dns-aaaa": [
+            "2400:cb00:2048:1::6812:345a", 
+            "2400:cb00:2048:1::6812:355a"
+        ], 
+        "dns-mx": [
+            "alt1.aspmx.l.google.com", 
+            "alt2.apsmx.l.google.com", 
+            "aspmx.l.google.com", 
+            "aspmx2.googlemail.com", 
+            "aspmx3.googlemail.com"
+        ], 
+        "dns-ns": [
+            "chris.ns.cloudflare.com", 
+            "kate.ns.cloudflare.com"
+        ], 
+        "domain-name": "mirnecast.com", 
+        "fuzzer": "homoglyph", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 99
+    }, 
+    {
+        "dns-a": [
+            "52.60.117.86", 
+            "52.60.148.196"
+        ], 
+        "dns-mx": [
+            "mx1.ewebdevelopment.com", 
+            "mx2.ewebdevelopment.com"
+        ], 
+        "dns-ns": [
+            "ns1.power-dns.com", 
+            "ns2.power-dns.com"
+        ], 
+        "domain-name": "minecast.com", 
+        "fuzzer": "homoglyph", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "72.52.4.122"
+        ], 
+        "dns-mx": [
+            "localhost"
+        ], 
+        "dns-ns": [
+            "ns1.sedoparking.com", 
+            "ns2.sedoparking.com"
+        ], 
+        "domain-name": "ninecast.com", 
+        "fuzzer": "homoglyph", 
+        "geoip-country": "United States", 
+        "mx-spy": true, 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "54.217.222.113"
+        ], 
+        "dns-mx": [
+            "mail.h-email.net"
+        ], 
+        "dns-ns": [
+            "ns1.parkingcrew.net", 
+            "ns2.parkingcrew.net"
+        ], 
+        "domain-name": "mimescast.com", 
+        "fuzzer": "insertion", 
+        "geoip-country": "Ireland", 
+        "mx-spy": true, 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "141.8.224.93"
+        ], 
+        "dns-ns": [
+            "ns7.rookdns.com", 
+            "ns8.rookdns.com"
+        ], 
+        "domain-name": "mimecasst.com", 
+        "fuzzer": "insertion", 
+        "geoip-country": "Switzerland", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "184.168.221.58"
+        ], 
+        "dns-mx": [
+            "mailstore1.secureserver.net", 
+            "smtp.secureserver.net"
+        ], 
+        "dns-ns": [
+            "ns23.domaincontrol.com", 
+            "ns24.domaincontrol.com"
+        ], 
+        "domain-name": "miecast.com", 
+        "fuzzer": "omission", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-mx": [
+            "mx.sendgrid.net"
+        ], 
+        "dns-ns": [
+            "ns-1069.awsdns-05.org", 
+            "ns-1626.awsdns-11.co.uk", 
+            "ns-198.awsdns-24.com", 
+            "ns-946.awsdns-54.net"
+        ], 
+        "domain-name": "mmecast.com", 
+        "fuzzer": "omission", 
+        "mx-spy": true
+    }, 
+    {
+        "dns-a": [
+            "173.239.5.6", 
+            "173.239.8.164", 
+            "213.247.47.190"
+        ], 
+        "dns-mx": [
+            "mx7.mimecat.com"
+        ], 
+        "dns-ns": [
+            "ns1.expiereddnsmanager.com", 
+            "ns2.expiereddnsmanager.com"
+        ], 
+        "domain-name": "mimecat.com", 
+        "fuzzer": "omission", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "209.126.123.11"
+        ], 
+        "dns-ns": [
+            "ns1.torresdns.com", 
+            "ns2.torresdns.com"
+        ], 
+        "domain-name": "mimcast.com", 
+        "fuzzer": "omission", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "52.73.124.185", 
+            "54.164.198.60"
+        ], 
+        "dns-ns": [
+            "ns1.namebrightdns.com", 
+            "ns2.namebrightdns.com"
+        ], 
+        "domain-name": "mikecast.com", 
+        "fuzzer": "replacement", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "141.8.224.93"
+        ], 
+        "dns-ns": [
+            "ns7.rookdns.com", 
+            "ns8.rookdns.com"
+        ], 
+        "domain-name": "mimecadt.com", 
+        "fuzzer": "replacement", 
+        "geoip-country": "Switzerland", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "67.195.197.76"
+        ], 
+        "domain-name": "mi.mecast.com", 
+        "fuzzer": "subdomain", 
+        "geoip-country": "United States"
+    }, 
+    {
+        "dns-a": [
+            "184.168.221.38"
+        ], 
+        "dns-ns": [
+            "pdns11.domaincontrol.com", 
+            "pdns12.domaincontrol.com"
+        ], 
+        "domain-name": "mimecsat.com", 
+        "fuzzer": "transposition", 
+        "geoip-country": "United States"
+    }, 
+    {
+        "dns-a": [
+            "184.168.221.19"
+        ], 
+        "dns-mx": [
+            "mailstore1.secureserver.net", 
+            "smtp.secureserver.net"
+        ], 
+        "dns-ns": [
+            "pdns11.domaincontrol.com", 
+            "pdns12.domaincontrol.com"
+        ], 
+        "domain-name": "mimecats.com", 
+        "fuzzer": "transposition"
+    }, 
+    {
+        "dns-a": [
+            "68.178.213.61"
+        ], 
+        "dns-ns": [
+            "ns1.namefind.com", 
+            "ns2.namefind.com"
+        ], 
+        "domain-name": "memecast.com", 
+        "fuzzer": "vowel-swap", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 0
+    }
+]

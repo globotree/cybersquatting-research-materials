@@ -1,0 +1,171 @@
+[
+    {
+        "dns-a": [
+            "188.93.230.81"
+        ], 
+        "dns-mx": [
+            "nation2.com"
+        ], 
+        "dns-ns": [
+            "dns1.ibername.com", 
+            "dns2.ibername.com"
+        ], 
+        "domain-name": "nation2.com", 
+        "fuzzer": "original*", 
+        "geoip-country": "Portugal", 
+        "ssdeep-score": 100
+    }, 
+    {
+        "dns-a": [
+            "70.32.94.235"
+        ], 
+        "dns-mx": [
+            "mail.nation2k.com"
+        ], 
+        "dns-ns": [
+            "ns1.irapture.net", 
+            "ns2.irapture.net"
+        ], 
+        "domain-name": "nation2k.com", 
+        "fuzzer": "addition", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "184.168.221.58"
+        ], 
+        "dns-mx": [
+            "mailstore1.secureserver.net", 
+            "smtp.secureserver.net"
+        ], 
+        "dns-ns": [
+            "ns33.domaincontrol.com", 
+            "ns34.domaincontrol.com"
+        ], 
+        "domain-name": "nation6.com", 
+        "fuzzer": "bitsquatting", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "104.18.32.244", 
+            "104.18.33.244"
+        ], 
+        "dns-aaaa": [
+            "2400:cb00:2048:1::6812:20f4", 
+            "2400:cb00:2048:1::6812:21f4"
+        ], 
+        "dns-ns": [
+            "hank.ns.cloudflare.com", 
+            "tara.ns.cloudflare.com"
+        ], 
+        "domain-name": "nationr.com", 
+        "fuzzer": "bitsquatting", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "34.210.158.11", 
+            "52.10.43.174", 
+            "52.89.109.196"
+        ], 
+        "dns-ns": [
+            "ns-1218.awsdns-24.org", 
+            "ns-1652.awsdns-14.co.uk", 
+            "ns-480.awsdns-60.com", 
+            "ns-787.awsdns-34.net"
+        ], 
+        "domain-name": "nation.com", 
+        "fuzzer": "omission", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "52.86.22.136", 
+            "54.174.212.152"
+        ], 
+        "dns-ns": [
+            "ns1.namebrightdns.com", 
+            "ns2.namebrightdns.com"
+        ], 
+        "domain-name": "nationw.com", 
+        "fuzzer": "replacement", 
+        "geoip-country": "United States"
+    }, 
+    {
+        "dns-a": [
+            "104.247.212.218"
+        ], 
+        "dns-mx": [
+            "mail.b-io.co"
+        ], 
+        "dns-ns": [
+            "ns1.gridhost.com", 
+            "ns2.gridhost.com"
+        ], 
+        "domain-name": "nation1.com", 
+        "fuzzer": "replacement", 
+        "geoip-country": "United States", 
+        "mx-spy": true, 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "184.168.221.34"
+        ], 
+        "dns-mx": [
+            "mailstore1.secureserver.net", 
+            "smtp.secureserver.net"
+        ], 
+        "dns-ns": [
+            "ns67.domaincontrol.com", 
+            "ns68.domaincontrol.com"
+        ], 
+        "domain-name": "nationq.com", 
+        "fuzzer": "replacement", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "185.53.179.6"
+        ], 
+        "dns-mx": [
+            "mail.h-email.net"
+        ], 
+        "dns-ns": [
+            "ns1.parkingcrew.net", 
+            "ns2.parkingcrew.net"
+        ], 
+        "domain-name": "nationa.com", 
+        "fuzzer": "replacement", 
+        "geoip-country": "Germany", 
+        "mx-spy": true, 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "69.172.201.153"
+        ], 
+        "dns-ns": [
+            "ns1.uniregistrymarket.link", 
+            "ns2.uniregistrymarket.link"
+        ], 
+        "domain-name": "nat.ion2.com", 
+        "fuzzer": "subdomain", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "66.6.44.4"
+        ], 
+        "domain-name": "natio.n2.com", 
+        "fuzzer": "subdomain", 
+        "geoip-country": "United States"
+    }
+]

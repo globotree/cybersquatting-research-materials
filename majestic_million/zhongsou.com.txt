@@ -1,0 +1,198 @@
+[
+    {
+        "dns-a": [
+            "202.108.1.41"
+        ], 
+        "dns-mx": [
+            "mx01.263xmail.com"
+        ], 
+        "dns-ns": [
+            "ns1.zhongsou.com", 
+            "ns5.zhongsou.com", 
+            "ns6.zhongsou.com", 
+            "ns9.zhongsou.com"
+        ], 
+        "domain-name": "zhongsou.com", 
+        "fuzzer": "original*", 
+        "geoip-country": "China", 
+        "ssdeep-score": 100
+    }, 
+    {
+        "dns-a": [
+            "210.209.79.61"
+        ], 
+        "dns-ns": [
+            "ns19.xincache.com", 
+            "ns20.xincache.com"
+        ], 
+        "domain-name": "zhongsoun.com", 
+        "fuzzer": "addition", 
+        "geoip-country": "Hong Kong"
+    }, 
+    {
+        "dns-ns": [
+            "ns11.xincache.com", 
+            "ns12.xincache.com"
+        ], 
+        "domain-name": "zhongwou.com", 
+        "fuzzer": "bitsquatting"
+    }, 
+    {
+        "dns-a": [
+            "59.188.86.216"
+        ], 
+        "dns-mx": [
+            "mail.zhong-sou.com"
+        ], 
+        "dns-ns": [
+            "ns.mydns8.cn", 
+            "ns.mydns8.com"
+        ], 
+        "domain-name": "zhong-sou.com", 
+        "fuzzer": "hyphenation", 
+        "geoip-country": "Hong Kong"
+    }, 
+    {
+        "dns-a": [
+            "202.108.33.134"
+        ], 
+        "domain-name": "zhongso.com", 
+        "fuzzer": "omission", 
+        "geoip-country": "China"
+    }, 
+    {
+        "dns-ns": [
+            "dns17.hichina.com", 
+            "dns18.hichina.com"
+        ], 
+        "domain-name": "zongsou.com", 
+        "fuzzer": "omission"
+    }, 
+    {
+        "dns-a": [
+            "202.101.6.80"
+        ], 
+        "dns-mx": [
+            "mx.zhongou.com"
+        ], 
+        "domain-name": "zhongou.com", 
+        "fuzzer": "omission", 
+        "geoip-country": "China", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "103.216.218.117"
+        ], 
+        "domain-name": "hongsou.com", 
+        "fuzzer": "omission", 
+        "geoip-country": "Hong Kong", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "50.117.120.251"
+        ], 
+        "dns-mx": [
+            "mail.happyisp.com"
+        ], 
+        "domain-name": "zhongzou.com", 
+        "fuzzer": "replacement", 
+        "geoip-country": "United States", 
+        "mx-spy": true
+    }, 
+    {
+        "dns-a": [
+            "203.78.142.12"
+        ], 
+        "domain-name": "zhongdou.com", 
+        "fuzzer": "replacement", 
+        "geoip-country": "Hong Kong", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "199.59.242.150"
+        ], 
+        "dns-mx": [
+            "mx76.m2bp.com", 
+            "mx76.mb1p.com"
+        ], 
+        "dns-ns": [
+            "ns1.bodis.com", 
+            "ns2.bodis.com"
+        ], 
+        "domain-name": "zhongyou.com", 
+        "fuzzer": "replacement", 
+        "geoip-country": "United States", 
+        "mx-spy": true, 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "103.216.218.117"
+        ], 
+        "domain-name": "z.hongsou.com", 
+        "fuzzer": "subdomain", 
+        "geoip-country": "Hong Kong"
+    }, 
+    {
+        "dns-a": [
+            "72.9.105.30"
+        ], 
+        "domain-name": "zhon.gsou.com", 
+        "fuzzer": "subdomain", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "23.23.86.44"
+        ], 
+        "dns-mx": [
+            "0.0.0.0"
+        ], 
+        "domain-name": "zhongs.ou.com", 
+        "fuzzer": "subdomain", 
+        "geoip-country": "United States", 
+        "mx-spy": true, 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "216.250.120.104"
+        ], 
+        "dns-mx": [
+            "mx00.1and1.com", 
+            "mx01.1and1.com"
+        ], 
+        "dns-ns": [
+            "ns1069.ui-dns.biz", 
+            "ns1069.ui-dns.com", 
+            "ns1069.ui-dns.de", 
+            "ns1069.ui-dns.org"
+        ], 
+        "domain-name": "zhnogsou.com", 
+        "fuzzer": "transposition", 
+        "geoip-country": "United States"
+    }, 
+    {
+        "dns-a": [
+            "103.59.164.125"
+        ], 
+        "domain-name": "zhangsou.com", 
+        "fuzzer": "vowel-swap"
+    }, 
+    {
+        "dns-a": [
+            "50.118.16.6"
+        ], 
+        "dns-ns": [
+            "ns11.xincache.com", 
+            "ns12.xincache.com"
+        ], 
+        "domain-name": "zhongsoo.com", 
+        "fuzzer": "vowel-swap", 
+        "geoip-country": "United States"
+    }
+]

@@ -1,0 +1,40 @@
+[
+    {
+        "dns-a": [
+            "104.31.74.36", 
+            "104.31.75.36"
+        ], 
+        "dns-aaaa": [
+            "2400:cb00:2048:1::681f:4a24", 
+            "2400:cb00:2048:1::681f:4b24"
+        ], 
+        "dns-mx": [
+            "alt1.aspmx.l.google.com", 
+            "alt2.aspmx.l.google.com", 
+            "alt3.aspmx.l.google.com", 
+            "alt4.aspmx.l.google.com", 
+            "aspmx.l.google.com"
+        ], 
+        "dns-ns": [
+            "art.ns.cloudflare.com", 
+            "betty.ns.cloudflare.com"
+        ], 
+        "domain-name": "realitysandwich.com", 
+        "fuzzer": "original*", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 93
+    }, 
+    {
+        "dns-a": [
+            "184.168.221.104"
+        ], 
+        "dns-ns": [
+            "ns1.afternic.com", 
+            "ns2.afternic.com"
+        ], 
+        "domain-name": "realitysandw.ich.com", 
+        "fuzzer": "subdomain", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 0
+    }
+]

@@ -1,0 +1,160 @@
+[
+    {
+        "dns-a": [
+            "195.130.120.109"
+        ], 
+        "dns-mx": [
+            "cerberus.noc.uoi.gr"
+        ], 
+        "dns-ns": [
+            "kouzina.noc.uoi.gr", 
+            "marina.noc.uoi.gr", 
+            "sns0.grnet.gr", 
+            "sns1.grnet.gr"
+        ], 
+        "domain-name": "uoi.gr", 
+        "fuzzer": "original*", 
+        "geoip-country": "Greece", 
+        "ssdeep-score": 93
+    }, 
+    {
+        "dns-a": [
+            "104.27.148.158", 
+            "104.27.149.158"
+        ], 
+        "dns-aaaa": [
+            "2400:cb00:2048:1::681b:949e", 
+            "2400:cb00:2048:1::681b:959e"
+        ], 
+        "dns-mx": [
+            "mail.eoi.gr"
+        ], 
+        "dns-ns": [
+            "major.ns.cloudflare.com", 
+            "yolanda.ns.cloudflare.com"
+        ], 
+        "domain-name": "eoi.gr", 
+        "fuzzer": "bitsquatting", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "136.243.9.216"
+        ], 
+        "dns-mx": [
+            "uni-gr.mail.protection.outlook.com"
+        ], 
+        "dns-ns": [
+            "dns1.papaki.gr", 
+            "dns2.papaki.gr"
+        ], 
+        "domain-name": "uni.gr", 
+        "fuzzer": "bitsquatting", 
+        "geoip-country": "Germany", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "195.251.213.111"
+        ], 
+        "dns-mx": [
+            "eos.uom.gr", 
+            "philippos.uom.gr"
+        ], 
+        "dns-ns": [
+            "atlas.uom.gr", 
+            "macedonia.uom.gr", 
+            "sns0.grnet.gr", 
+            "sns1.grnet.gr"
+        ], 
+        "domain-name": "uom.gr", 
+        "fuzzer": "bitsquatting", 
+        "geoip-country": "Greece", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "195.134.71.229"
+        ], 
+        "dns-mx": [
+            "mta01.uoa.gr", 
+            "mta02.uoa.gr"
+        ], 
+        "dns-ns": [
+            "ns1.uoa.gr", 
+            "ns2.uoa.gr", 
+            "sns0.grnet.gr", 
+            "sns1.grnet.gr"
+        ], 
+        "domain-name": "uoa.gr", 
+        "fuzzer": "bitsquatting", 
+        "geoip-country": "Greece"
+    }, 
+    {
+        "dns-a": [
+            "144.76.183.170"
+        ], 
+        "dns-mx": [
+            "mxa.mailgun.org", 
+            "mxb.mailgun.org"
+        ], 
+        "dns-ns": [
+            "dns1.papaki.gr", 
+            "dns2.papaki.gr"
+        ], 
+        "domain-name": "uol.gr", 
+        "fuzzer": "homoglyph", 
+        "geoip-country": "Germany", 
+        "mx-spy": true, 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "46.226.193.12"
+        ], 
+        "dns-mx": [
+            "mail.zoi.gr"
+        ], 
+        "dns-ns": [
+            "ns1.host4free.gr", 
+            "ns2.host4free.gr"
+        ], 
+        "domain-name": "zoi.gr", 
+        "fuzzer": "replacement"
+    }, 
+    {
+        "dns-a": [
+            "185.29.24.8"
+        ], 
+        "dns-mx": [
+            "mx0.spamfilter.gr", 
+            "mx1.spamfilter.gr"
+        ], 
+        "dns-ns": [
+            "ns1.mynewserver.com", 
+            "ns2.mynewserver.com"
+        ], 
+        "domain-name": "ioi.gr", 
+        "fuzzer": "replacement", 
+        "geoip-country": "Greece", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "72.52.4.122"
+        ], 
+        "dns-mx": [
+            "localhost"
+        ], 
+        "dns-ns": [
+            "ns1.sedoparking.com", 
+            "ns2.sedoparking.com"
+        ], 
+        "domain-name": "oui.gr", 
+        "fuzzer": "transposition", 
+        "geoip-country": "United States", 
+        "mx-spy": true, 
+        "ssdeep-score": 0
+    }
+]

@@ -1,0 +1,114 @@
+[
+    {
+        "dns-a": [
+            "54.247.85.154", 
+            "54.247.85.215"
+        ], 
+        "dns-mx": [
+            "alt1.aspmx.l.google.com", 
+            "alt2.aspmx.l.google.com", 
+            "aspmx.l.google.com", 
+            "aspmx2.googlemail.com", 
+            "aspmx3.googlemail.com"
+        ], 
+        "dns-ns": [
+            "ns.domainnetwork.se", 
+            "ns2.domainnetwork.se"
+        ], 
+        "domain-name": "theweek.co.uk", 
+        "fuzzer": "original*", 
+        "geoip-country": "Ireland", 
+        "ssdeep-score": 94
+    }, 
+    {
+        "dns-a": [
+            "217.160.233.68"
+        ], 
+        "dns-mx": [
+            "mx00.1and1.co.uk", 
+            "mx01.1and1.co.uk"
+        ], 
+        "dns-ns": [
+            "ns59.1and1.co.uk", 
+            "ns60.1and1.co.uk"
+        ], 
+        "domain-name": "theweeks.co.uk", 
+        "fuzzer": "addition", 
+        "geoip-country": "Germany", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "216.239.32.21", 
+            "216.239.34.21", 
+            "216.239.36.21", 
+            "216.239.38.21"
+        ], 
+        "dns-mx": [
+            "ALT1.ASPMX.L.GOOGLE.COM", 
+            "ALT2.ASPMX.L.GOOGLE.COM", 
+            "ASPMX.L.GOOGLE.COM", 
+            "ASPMX2.GOOGLEMAIL.COM", 
+            "ASPMX3.GOOGLEMAIL.COM"
+        ], 
+        "dns-ns": [
+            "ns-18-b.gandi.net", 
+            "ns-206-c.gandi.net", 
+            "ns-237-a.gandi.net"
+        ], 
+        "domain-name": "thegeek.co.uk", 
+        "fuzzer": "bitsquatting", 
+        "geoip-country": "United States"
+    }, 
+    {
+        "dns-a": [
+            "204.74.99.100"
+        ], 
+        "dns-ns": [
+            "ns0.demysdns.net", 
+            "ns1.demysdns.net", 
+            "ns2.demysdns.net", 
+            "ns3.demysdns.net", 
+            "ns4.demysdns.co.uk", 
+            "ns5.demysdns.co.uk", 
+            "ns6.demysdns.co.uk"
+        ], 
+        "domain-name": "theweec.co.uk", 
+        "fuzzer": "bitsquatting", 
+        "geoip-country": "United States"
+    }, 
+    {
+        "dns-a": [
+            "50.63.202.15"
+        ], 
+        "dns-mx": [
+            "mailstore1.secureserver.net", 
+            "smtp.secureserver.net"
+        ], 
+        "dns-ns": [
+            "ns05.domaincontrol.com", 
+            "ns06.domaincontrol.com"
+        ], 
+        "domain-name": "thewee.co.uk", 
+        "fuzzer": "omission", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "50.63.202.42"
+        ], 
+        "dns-mx": [
+            "mailstore1.secureserver.net", 
+            "smtp.secureserver.net"
+        ], 
+        "dns-ns": [
+            "ns51.domaincontrol.com", 
+            "ns52.domaincontrol.com"
+        ], 
+        "domain-name": "theweem.co.uk", 
+        "fuzzer": "replacement", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 0
+    }
+]

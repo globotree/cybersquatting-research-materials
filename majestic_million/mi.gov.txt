@@ -1,0 +1,92 @@
+[
+    {
+        "dns-a": [
+            "23.59.124.45"
+        ], 
+        "dns-mx": [
+            "smtp-av1.state.mi.us", 
+            "smtp-av2.state.mi.us", 
+            "smtp-av3.state.mi.us"
+        ], 
+        "dns-ns": [
+            "a1-35.akam.net", 
+            "a11-66.akam.net", 
+            "a12-67.akam.net", 
+            "a18-64.akam.net", 
+            "a24-65.akam.net", 
+            "a5-66.akam.net"
+        ], 
+        "domain-name": "mi.gov", 
+        "fuzzer": "original*", 
+        "geoip-country": "Netherlands", 
+        "ssdeep-score": 100
+    }, 
+    {
+        "dns-a": [
+            "146.243.121.22", 
+            "170.63.206.57"
+        ], 
+        "dns-ns": [
+            "internet-dns1.state.ma.us", 
+            "internet-dns2.state.ma.us", 
+            "internet-dns3.state.ma.us"
+        ], 
+        "domain-name": "ma.gov", 
+        "fuzzer": "bitsquatting", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "45.60.32.21", 
+            "45.60.34.21"
+        ], 
+        "dns-aaaa": [
+            "2a02:e980:d1::15", 
+            "2a02:e980:d3::15"
+        ], 
+        "dns-mx": [
+            "momail1.mo.gov", 
+            "momail1dr.mo.gov", 
+            "momail2.mo.gov", 
+            "momail2dr.mo.gov", 
+            "momail3.mo.gov", 
+            "momail3dr.mo.gov", 
+            "momail4.mo.gov", 
+            "momail5.mo.gov"
+        ], 
+        "dns-ns": [
+            "a1.verisigndns.com", 
+            "a2.verisigndns.com", 
+            "a3.verisigndns.com"
+        ], 
+        "domain-name": "mo.gov", 
+        "fuzzer": "replacement"
+    }, 
+    {
+        "dns-a": [
+            "198.182.162.1"
+        ], 
+        "dns-ns": [
+            "dns.state.me.us", 
+            "dns4.maine.gov"
+        ], 
+        "domain-name": "me.gov", 
+        "fuzzer": "vowel-swap", 
+        "geoip-country": "United States"
+    }, 
+    {
+        "dns-a": [
+            "98.124.245.24"
+        ], 
+        "dns-mx": [
+            "mail.b-io.co"
+        ], 
+        "dns-ns": [
+            "ns1.fabulous.com", 
+            "ns2.fabulous.com"
+        ], 
+        "domain-name": "mi-gov.com", 
+        "fuzzer": "various"
+    }
+]

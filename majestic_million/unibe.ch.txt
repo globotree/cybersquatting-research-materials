@@ -1,0 +1,228 @@
+[
+    {
+        "dns-a": [
+            "130.92.250.18"
+        ], 
+        "dns-aaaa": [
+            "2001:620:400:2500::18"
+        ], 
+        "dns-mx": [
+            "mailhub-lb.unibe.ch", 
+            "mailhub04.unibe.ch"
+        ], 
+        "dns-ns": [
+            "ns1.unibe.ch", 
+            "ns2.unibe.ch", 
+            "scsnms.switch.ch"
+        ], 
+        "domain-name": "unibe.ch", 
+        "fuzzer": "original*", 
+        "geoip-country": "Switzerland", 
+        "ssdeep-score": 100
+    }, 
+    {
+        "dns-a": [
+            "217.70.184.38"
+        ], 
+        "dns-mx": [
+            "fb.mail.gandi.net", 
+            "spool.mail.gandi.net"
+        ], 
+        "dns-ns": [
+            "a.dns.gandi.net", 
+            "b.dns.gandi.net", 
+            "c.dns.gandi.net"
+        ], 
+        "domain-name": "unibee.ch", 
+        "fuzzer": "addition", 
+        "geoip-country": "France", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "185.9.101.10"
+        ], 
+        "dns-mx": [
+            "mailgw1-mt.unibet.com", 
+            "mailgw2-mt.unibet.com"
+        ], 
+        "dns-ns": [
+            "sdns3.ultradns.biz", 
+            "sdns3.ultradns.com", 
+            "sdns3.ultradns.net", 
+            "sdns3.ultradns.org"
+        ], 
+        "domain-name": "unibet.ch", 
+        "fuzzer": "addition", 
+        "geoip-country": "Malta"
+    }, 
+    {
+        "dns-a": [
+            "149.126.4.15"
+        ], 
+        "dns-mx": [
+            "unire.ch"
+        ], 
+        "dns-ns": [
+            "ns1.cyon.ch", 
+            "ns2.cyon.ch"
+        ], 
+        "domain-name": "unire.ch", 
+        "fuzzer": "bitsquatting", 
+        "geoip-country": "Switzerland", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "176.126.245.146", 
+            "78.47.93.107"
+        ], 
+        "dns-mx": [
+            "no.mx.example.org"
+        ], 
+        "dns-ns": [
+            "atlas.dns.domaintraffic.ch", 
+            "capella.dns.domaintraffic.ch"
+        ], 
+        "domain-name": "uniba.ch", 
+        "fuzzer": "bitsquatting", 
+        "geoip-country": "United Kingdom", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-ns": [
+            "dns1.agrinet.ch", 
+            "dns2.agrinet.ch"
+        ], 
+        "domain-name": "uribe.ch", 
+        "fuzzer": "homoglyph"
+    }, 
+    {
+        "dns-a": [
+            "83.166.138.43"
+        ], 
+        "dns-mx": [
+            "mta-gw.infomaniak.ch"
+        ], 
+        "dns-ns": [
+            "ns11.infomaniak.ch", 
+            "ns12.infomaniak.ch"
+        ], 
+        "domain-name": "unide.ch", 
+        "fuzzer": "homoglyph", 
+        "geoip-country": "Switzerland", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "104.27.135.116"
+        ], 
+        "dns-mx": [
+            "imail.nibe.se"
+        ], 
+        "dns-ns": [
+            "dns.nibe.se", 
+            "dns2.nibe.se"
+        ], 
+        "domain-name": "nibe.ch", 
+        "fuzzer": "omission", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "46.4.113.178"
+        ], 
+        "dns-ns": [
+            "ns1.sciencetool.ch", 
+            "ns2.sciencetool.ch", 
+            "ns3.sciencetool.ch"
+        ], 
+        "domain-name": "unib.ch", 
+        "fuzzer": "omission", 
+        "geoip-country": "Germany", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "85.10.192.7"
+        ], 
+        "dns-mx": [
+            "mail.unie.ch"
+        ], 
+        "dns-ns": [
+            "ns213.hoststar.ch", 
+            "ns214.hoststar.ch"
+        ], 
+        "domain-name": "unie.ch", 
+        "fuzzer": "omission", 
+        "geoip-country": "Germany", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "129.194.6.50"
+        ], 
+        "dns-mx": [
+            "mc.unige.ch", 
+            "mc1.unige.ch", 
+            "mc2.unige.ch", 
+            "mc5.unige.ch", 
+            "mc6.unige.ch"
+        ], 
+        "dns-ns": [
+            "dns93.unige.ch", 
+            "scsnms.switch.ch", 
+            "sns2-tss2.unige.ch", 
+            "uni2b.unige.ch"
+        ], 
+        "domain-name": "unige.ch", 
+        "fuzzer": "replacement"
+    }, 
+    {
+        "dns-a": [
+            "130.125.1.217"
+        ], 
+        "dns-mx": [
+            "esa01.unine.ch", 
+            "esa02.unine.ch"
+        ], 
+        "dns-ns": [
+            "aldebaran.unine.ch", 
+            "andromede.unine.ch"
+        ], 
+        "domain-name": "unine.ch", 
+        "fuzzer": "replacement", 
+        "geoip-country": "Switzerland", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "131.152.215.16"
+        ], 
+        "dns-ns": [
+            "ns1-ext.unibas.ch", 
+            "ns2-ext.unibas.ch"
+        ], 
+        "domain-name": "unibs.ch", 
+        "fuzzer": "replacement", 
+        "geoip-country": "Switzerland", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "212.162.13.45"
+        ], 
+        "dns-mx": [
+            "unihe.ch"
+        ], 
+        "dns-ns": [
+            "ns1.guests.ch", 
+            "ns2.guests.ch"
+        ], 
+        "domain-name": "unihe.ch", 
+        "fuzzer": "replacement", 
+        "geoip-country": "Germany", 
+        "ssdeep-score": 0
+    }
+]

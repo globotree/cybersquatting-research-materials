@@ -1,0 +1,162 @@
+[
+    {
+        "dns-a": [
+            "212.95.74.36"
+        ], 
+        "dns-mx": [
+            "mxa-0024c501.gslb.pphosted.com", 
+            "mxb-0024c501.gslb.pphosted.com"
+        ], 
+        "dns-ns": [
+            "ns1.perf1.com", 
+            "ns2.perf1.fr", 
+            "ns3.perf1.eu", 
+            "ns4.perf1.de", 
+            "ns5.perf1.asia"
+        ], 
+        "domain-name": "lesechos.fr", 
+        "fuzzer": "original*", 
+        "geoip-country": "France", 
+        "ssdeep-score": 94
+    }, 
+    {
+        "dns-mx": [
+            "mx3.nameshield.com", 
+            "mx4.nameshield.net"
+        ], 
+        "dns-ns": [
+            "ns2.observatoiredesmarques.fr", 
+            "ns3.nameshield.net", 
+            "obs.ns1.fr"
+        ], 
+        "domain-name": "mesechos.fr", 
+        "fuzzer": "bitsquatting"
+    }, 
+    {
+        "dns-mx": [
+            "mx3.nameshield.com", 
+            "mx4.nameshield.net"
+        ], 
+        "dns-ns": [
+            "ns2.observatoiredesmarques.fr", 
+            "ns3.nameshield.net", 
+            "observatoire.observatoiredesmarques.fr"
+        ], 
+        "domain-name": "xn--leschos-dya.fr", 
+        "fuzzer": "homoglyph"
+    }, 
+    {
+        "dns-mx": [
+            "mx3.nameshield.com", 
+            "mx4.nameshield.net"
+        ], 
+        "dns-ns": [
+            "ns2.observatoiredesmarques.fr", 
+            "ns3.nameshield.net", 
+            "obs.ns1.fr"
+        ], 
+        "domain-name": "les-echos.fr", 
+        "fuzzer": "hyphenation"
+    }, 
+    {
+        "dns-mx": [
+            "mx3.nameshield.com", 
+            "mx4.nameshield.net"
+        ], 
+        "dns-ns": [
+            "ns2.observatoiredesmarques.fr", 
+            "ns3.nameshield.net", 
+            "obs.ns1.fr"
+        ], 
+        "domain-name": "leseschos.fr", 
+        "fuzzer": "insertion"
+    }, 
+    {
+        "dns-a": [
+            "212.129.45.37"
+        ], 
+        "dns-ns": [
+            "ns1.domraider.com", 
+            "ns2.domraider.com"
+        ], 
+        "domain-name": "leschos.fr", 
+        "fuzzer": "omission", 
+        "geoip-country": "France", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-ns": [
+            "ns2.observatoiredesmarques.fr", 
+            "ns3.nameshield.net", 
+            "obs.ns1.fr"
+        ], 
+        "domain-name": "lesecos.fr", 
+        "fuzzer": "omission"
+    }, 
+    {
+        "dns-a": [
+            "185.53.177.29"
+        ], 
+        "dns-ns": [
+            "ns1.gegidns.com", 
+            "ns2.gegidns.com"
+        ], 
+        "domain-name": "leechos.fr", 
+        "fuzzer": "omission", 
+        "geoip-country": "Germany", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-mx": [
+            "mx3.nameshield.com", 
+            "mx4.nameshield.net"
+        ], 
+        "dns-ns": [
+            "ns2.observatoiredesmarques.fr", 
+            "ns3.nameshield.net", 
+            "obs.ns1.fr"
+        ], 
+        "domain-name": "lesecho.fr", 
+        "fuzzer": "omission"
+    }, 
+    {
+        "dns-a": [
+            "72.52.4.119"
+        ], 
+        "dns-mx": [
+            "localhost"
+        ], 
+        "dns-ns": [
+            "ns1.sedoparking.com", 
+            "ns2.sedoparking.com"
+        ], 
+        "domain-name": "les.echos.fr", 
+        "fuzzer": "subdomain", 
+        "geoip-country": "United States", 
+        "mx-spy": true, 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "52.58.78.16"
+        ], 
+        "dns-mx": [
+            "mx.lesec.hos.fr"
+        ], 
+        "dns-ns": [
+            "ns1.undeveloped.com", 
+            "ns2.undeveloped.com"
+        ], 
+        "domain-name": "lesec.hos.fr", 
+        "fuzzer": "subdomain"
+    }, 
+    {
+        "dns-a": [
+            "195.154.32.91"
+        ], 
+        "domain-name": "lesech.os.fr", 
+        "fuzzer": "subdomain", 
+        "geoip-country": "France", 
+        "ssdeep-score": 0
+    }
+]

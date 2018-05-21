@@ -1,0 +1,41 @@
+[
+    {
+        "dns-a": [
+            "216.38.50.121"
+        ], 
+        "dns-mx": [
+            "visuallightbox.com"
+        ], 
+        "dns-ns": [
+            "ns1.a-www.com", 
+            "ns2.a-www.com"
+        ], 
+        "domain-name": "visuallightbox.com", 
+        "fuzzer": "original*", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 100
+    }, 
+    {
+        "dns-a": [
+            "45.56.111.241"
+        ], 
+        "dns-mx": [
+            "mx236.m1bp.com", 
+            "mx236.mb5p.com"
+        ], 
+        "domain-name": "visuallig.htbox.com", 
+        "fuzzer": "subdomain", 
+        "geoip-country": "United States", 
+        "mx-spy": true
+    }, 
+    {
+        "dns-a": [
+            "107.152.26.197", 
+            "107.152.27.197"
+        ], 
+        "domain-name": "visuallight.box.com", 
+        "fuzzer": "subdomain", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 0
+    }
+]

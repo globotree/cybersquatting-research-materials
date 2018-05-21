@@ -1,0 +1,70 @@
+[
+    {
+        "dns-a": [
+            "104.25.114.9", 
+            "104.25.115.9"
+        ], 
+        "dns-aaaa": [
+            "2400:cb00:2048:1::6819:7209", 
+            "2400:cb00:2048:1::6819:7309"
+        ], 
+        "dns-mx": [
+            "alt1.aspmx.l.google.com", 
+            "alt2.aspmx.l.google.com", 
+            "aspmx.l.google.com", 
+            "aspmx2.googlemail.com", 
+            "aspmx3.googlemail.com"
+        ], 
+        "dns-ns": [
+            "leah.ns.cloudflare.com", 
+            "noah.ns.cloudflare.com"
+        ], 
+        "domain-name": "jotformpro.com", 
+        "fuzzer": "original*", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 100
+    }, 
+    {
+        "dns-a": [
+            "199.168.187.41"
+        ], 
+        "domain-name": "jo.tformpro.com", 
+        "fuzzer": "subdomain", 
+        "geoip-country": "United States"
+    }, 
+    {
+        "dns-a": [
+            "66.96.145.107"
+        ], 
+        "dns-mx": [
+            "mx.mpro.com"
+        ], 
+        "domain-name": "jotfor.mpro.com", 
+        "fuzzer": "subdomain"
+    }, 
+    {
+        "dns-a": [
+            "141.8.224.93"
+        ], 
+        "dns-ns": [
+            "ns7.rookdns.com", 
+            "ns8.rookdns.com"
+        ], 
+        "domain-name": "jotfrompro.com", 
+        "fuzzer": "transposition", 
+        "geoip-country": "Switzerland", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "141.8.224.93"
+        ], 
+        "dns-ns": [
+            "ns7.rookdns.com", 
+            "ns8.rookdns.com"
+        ], 
+        "domain-name": "jetformpro.com", 
+        "fuzzer": "vowel-swap", 
+        "geoip-country": "Switzerland"
+    }
+]

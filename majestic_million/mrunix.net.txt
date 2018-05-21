@@ -1,0 +1,71 @@
+[
+    {
+        "dns-a": [
+            "184.173.240.168"
+        ], 
+        "dns-mx": [
+            "mail.mrunix.net"
+        ], 
+        "dns-ns": [
+            "ns1.afraid.org", 
+            "ns2.afraid.org", 
+            "ns3.afraid.org", 
+            "ns4.afraid.org"
+        ], 
+        "domain-name": "mrunix.net", 
+        "fuzzer": "original*", 
+        "geoip-country": "United States"
+    }, 
+    {
+        "dns-a": [
+            "184.168.221.61"
+        ], 
+        "dns-mx": [
+            "mailstore1.secureserver.net", 
+            "smtp.secureserver.net"
+        ], 
+        "dns-ns": [
+            "pdns03.domaincontrol.com", 
+            "pdns04.domaincontrol.com"
+        ], 
+        "domain-name": "erunix.net", 
+        "fuzzer": "bitsquatting", 
+        "geoip-country": "United States"
+    }, 
+    {
+        "dns-a": [
+            "162.211.128.34"
+        ], 
+        "dns-mx": [
+            "p.webcom.ctmail.com"
+        ], 
+        "dns-ns": [
+            "ns43.worldnic.com", 
+            "ns44.worldnic.com"
+        ], 
+        "domain-name": "runix.net", 
+        "fuzzer": "omission", 
+        "geoip-country": "United States", 
+        "mx-spy": true
+    }, 
+    {
+        "dns-mx": [
+            "mail.link-m.de"
+        ], 
+        "dns-ns": [
+            "ns.ipn.de", 
+            "ns.link-m.de", 
+            "ns2.link-m.de"
+        ], 
+        "domain-name": "munix.net", 
+        "fuzzer": "omission"
+    }, 
+    {
+        "dns-a": [
+            "162.211.128.34"
+        ], 
+        "domain-name": "m.runix.net", 
+        "fuzzer": "subdomain", 
+        "geoip-country": "United States"
+    }
+]

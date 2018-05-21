@@ -1,0 +1,270 @@
+[
+    {
+        "dns-ns": [
+            "ns-1221.awsdns-24.org", 
+            "ns-1958.awsdns-52.co.uk", 
+            "ns-28.awsdns-03.com", 
+            "ns-789.awsdns-34.net"
+        ], 
+        "domain-name": "iichi.jp", 
+        "fuzzer": "bitsquatting"
+    }, 
+    {
+        "dns-a": [
+            "49.212.180.68"
+        ], 
+        "dns-aaaa": [
+            "2403:3a00:201:1a:49:212:180:68"
+        ], 
+        "dns-mx": [
+            "mail.aishi.jp"
+        ], 
+        "dns-ns": [
+            "01.dnsv.jp", 
+            "02.dnsv.jp", 
+            "03.dnsv.jp", 
+            "04.dnsv.jp"
+        ], 
+        "domain-name": "aishi.jp", 
+        "fuzzer": "bitsquatting", 
+        "geoip-country": "Japan"
+    }, 
+    {
+        "dns-a": [
+            "157.7.107.109"
+        ], 
+        "dns-mx": [
+            "mx01.lolipop.jp"
+        ], 
+        "dns-ns": [
+            "dns01.muumuu-domain.com", 
+            "dns02.muumuu-domain.com"
+        ], 
+        "domain-name": "alchi.jp", 
+        "fuzzer": "homoglyph", 
+        "geoip-country": "Japan"
+    }, 
+    {
+        "dns-a": [
+            "133.130.35.22"
+        ], 
+        "dns-mx": [
+            "smtp.goope.jp"
+        ], 
+        "dns-ns": [
+            "dns1.goope.jp", 
+            "dns2.goope.jp"
+        ], 
+        "domain-name": "a-ichi.jp", 
+        "fuzzer": "hyphenation", 
+        "geoip-country": "Japan"
+    }, 
+    {
+        "dns-a": [
+            "211.125.95.199"
+        ], 
+        "dns-mx": [
+            "smtp.ai-chi.jp"
+        ], 
+        "dns-ns": [
+            "dns1.broadserver.jp", 
+            "dns2.broadserver.jp"
+        ], 
+        "domain-name": "ai-chi.jp", 
+        "fuzzer": "hyphenation", 
+        "geoip-country": "Japan"
+    }, 
+    {
+        "dns-a": [
+            "219.94.129.162"
+        ], 
+        "dns-mx": [
+            "aoichi.jp"
+        ], 
+        "dns-ns": [
+            "ns1.dns.ne.jp", 
+            "ns2.dns.ne.jp"
+        ], 
+        "domain-name": "aoichi.jp", 
+        "fuzzer": "insertion", 
+        "geoip-country": "Japan"
+    }, 
+    {
+        "dns-a": [
+            "210.166.236.130"
+        ], 
+        "dns-mx": [
+            "dm01.cside.jp"
+        ], 
+        "domain-name": "aiuchi.jp", 
+        "fuzzer": "insertion", 
+        "geoip-country": "Japan", 
+        "mx-spy": true
+    }, 
+    {
+        "dns-a": [
+            "49.212.180.27"
+        ], 
+        "dns-mx": [
+            "akichi.jp"
+        ], 
+        "dns-ns": [
+            "ns1.dns.ne.jp", 
+            "ns2.dns.ne.jp"
+        ], 
+        "domain-name": "akichi.jp", 
+        "fuzzer": "insertion", 
+        "geoip-country": "Japan"
+    }, 
+    {
+        "dns-a": [
+            "59.106.171.105"
+        ], 
+        "dns-mx": [
+            "ajichi.jp"
+        ], 
+        "dns-ns": [
+            "ns1.dns.ne.jp", 
+            "ns2.dns.ne.jp"
+        ], 
+        "domain-name": "ajichi.jp", 
+        "fuzzer": "insertion", 
+        "geoip-country": "Japan"
+    }, 
+    {
+        "dns-mx": [
+            "mail.ichi.jp"
+        ], 
+        "dns-ns": [
+            "01.dnsv.jp", 
+            "02.dnsv.jp", 
+            "03.dnsv.jp", 
+            "04.dnsv.jp"
+        ], 
+        "domain-name": "ichi.jp", 
+        "fuzzer": "omission"
+    }, 
+    {
+        "dns-a": [
+            "157.7.107.177"
+        ], 
+        "dns-mx": [
+            "mx01.lolipop.jp"
+        ], 
+        "dns-ns": [
+            "dns01.muumuu-domain.com", 
+            "dns02.muumuu-domain.com"
+        ], 
+        "domain-name": "aicchi.jp", 
+        "fuzzer": "repetition", 
+        "geoip-country": "Japan"
+    }, 
+    {
+        "dns-mx": [
+            "ms-gw.ocn.ad.jp"
+        ], 
+        "dns-ns": [
+            "ns-kgs01.ocn.ad.jp", 
+            "ns-kns01.ocn.ad.jp"
+        ], 
+        "domain-name": "aiichi.jp", 
+        "fuzzer": "repetition"
+    }, 
+    {
+        "dns-mx": [
+            "mx-0.aams6.jp", 
+            "mx-1.aams6.jp", 
+            "mx.aams6.jp"
+        ], 
+        "dns-ns": [
+            "name.technowave.ad.jp", 
+            "ns.technowave.ne.jp"
+        ], 
+        "domain-name": "aichu.jp", 
+        "fuzzer": "replacement"
+    }, 
+    {
+        "dns-a": [
+            "202.191.118.129"
+        ], 
+        "dns-mx": [
+            "front1.new-core.com", 
+            "front2.new-core.com", 
+            "ms017s.new-core.com"
+        ], 
+        "dns-ns": [
+            "dns01.omakase-navi.jp", 
+            "dns02.omakase-navi.jp"
+        ], 
+        "domain-name": "aicho.jp", 
+        "fuzzer": "replacement", 
+        "geoip-country": "Japan"
+    }, 
+    {
+        "dns-a": [
+            "153.127.227.165"
+        ], 
+        "dns-mx": [
+            "dmail.1ichi.jp"
+        ], 
+        "dns-ns": [
+            "ns0.kagoya.net", 
+            "ns1.kagoya.net"
+        ], 
+        "domain-name": "1ichi.jp", 
+        "fuzzer": "replacement", 
+        "geoip-country": "Japan"
+    }, 
+    {
+        "dns-a": [
+            "216.239.32.21", 
+            "216.239.34.21", 
+            "216.239.36.21", 
+            "216.239.38.21"
+        ], 
+        "dns-mx": [
+            "alt1.aspmx.l.google.com", 
+            "alt2.aspmx.l.google.com", 
+            "aspmx.l.google.com", 
+            "aspmx2.googlemail.com", 
+            "aspmx3.googlemail.com", 
+            "aspmx4.googlemail.com", 
+            "aspmx5.googlemail.com"
+        ], 
+        "dns-ns": [
+            "ns1.value-domain.com", 
+            "ns2.value-domain.com"
+        ], 
+        "domain-name": "yichi.jp", 
+        "fuzzer": "replacement", 
+        "geoip-country": "United States"
+    }, 
+    {
+        "dns-a": [
+            "119.245.189.146"
+        ], 
+        "dns-mx": [
+            "oichi.jp"
+        ], 
+        "dns-ns": [
+            "ns3.sphere.ad.jp", 
+            "ns4.sphere.ad.jp"
+        ], 
+        "domain-name": "oichi.jp", 
+        "fuzzer": "vowel-swap"
+    }, 
+    {
+        "dns-a": [
+            "157.7.107.114"
+        ], 
+        "dns-mx": [
+            "mx01.lolipop.jp"
+        ], 
+        "dns-ns": [
+            "uns01.lolipop.jp", 
+            "uns02.lolipop.jp"
+        ], 
+        "domain-name": "uichi.jp", 
+        "fuzzer": "vowel-swap"
+    }
+]

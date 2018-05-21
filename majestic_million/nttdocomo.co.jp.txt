@@ -1,0 +1,25 @@
+[
+    {
+        "dns-mx": [
+            "zcsg-mailri00.is.nttdocomo.co.jp", 
+            "zctc-mailri00.is.nttdocomo.co.jp"
+        ], 
+        "dns-ns": [
+            "dns-a.iij.ad.jp", 
+            "ns01.is.nttdocomo.co.jp", 
+            "ns02.is.nttdocomo.co.jp", 
+            "ns03.is.nttdocomo.co.jp", 
+            "ns04.is.nttdocomo.co.jp"
+        ], 
+        "domain-name": "nttdocomo.co.jp", 
+        "fuzzer": "original*"
+    }, 
+    {
+        "dns-a": [
+            "219.94.203.111"
+        ], 
+        "domain-name": "nttdoc.omo.co.jp", 
+        "fuzzer": "subdomain", 
+        "geoip-country": "Japan"
+    }
+]

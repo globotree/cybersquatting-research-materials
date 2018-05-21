@@ -1,0 +1,30 @@
+[
+    {
+        "dns-a": [
+            "34.193.244.109"
+        ], 
+        "dns-ns": [
+            "dns.gsa.gov", 
+            "dns2.gsa.gov", 
+            "dns3.gsa.gov", 
+            "dns4.gsa.gov", 
+            "dns5.gsa.gov"
+        ], 
+        "domain-name": "data.gov", 
+        "fuzzer": "original*", 
+        "geoip-country": "United States"
+    }, 
+    {
+        "dns-a": [
+            "66.39.92.110"
+        ], 
+        "dns-ns": [
+            "ns1.systemdns.com", 
+            "ns2.systemdns.com", 
+            "ns3.systemdns.com"
+        ], 
+        "domain-name": "data-gov.com", 
+        "fuzzer": "various", 
+        "geoip-country": "United States"
+    }
+]

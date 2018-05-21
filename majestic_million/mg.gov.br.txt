@@ -1,0 +1,60 @@
+[
+    {
+        "dns-a": [
+            "200.198.15.91"
+        ], 
+        "dns-mx": [
+            "mx1.antispammg.mg.gov.br", 
+            "mx2.antispammg.mg.gov.br"
+        ], 
+        "dns-ns": [
+            "jupiter.prodemge.gov.br", 
+            "titanio.prodemge.gov.br", 
+            "tupan.prodemge.gov.br", 
+            "zeus.prodemge.gov.br"
+        ], 
+        "domain-name": "mg.gov.br", 
+        "fuzzer": "original*"
+    }, 
+    {
+        "dns-a": [
+            "200.130.9.36"
+        ], 
+        "dns-ns": [
+            "andromeda.serpro.gov.br", 
+            "antares.serpro.gov.br", 
+            "mcdns.mc.gov.br", 
+            "mcdns3.mc.gov.br"
+        ], 
+        "domain-name": "mc.gov.br", 
+        "fuzzer": "bitsquatting"
+    }, 
+    {
+        "dns-ns": [
+            "NS1.mb.gov.br", 
+            "NS2.mb.gov.br"
+        ], 
+        "domain-name": "mb.gov.br", 
+        "fuzzer": "replacement"
+    }, 
+    {
+        "dns-a": [
+            "201.49.173.10"
+        ], 
+        "dns-mx": [
+            "ALT1.ASPMX.L.GOOGLE.COM", 
+            "ALT2.ASPMX.L.GOOGLE.COM", 
+            "ASPMX.L.GOOGLE.COM", 
+            "ASPMX2.GOOGLEMAIL.COM", 
+            "ASPMX3.GOOGLEMAIL.COM"
+        ], 
+        "dns-ns": [
+            "arara.mt.gov.br", 
+            "joaodebarro.mt.gov.br", 
+            "ns.embratel.net.br"
+        ], 
+        "domain-name": "mt.gov.br", 
+        "fuzzer": "replacement", 
+        "geoip-country": "Brazil"
+    }
+]

@@ -1,0 +1,68 @@
+[
+    {
+        "dns-a": [
+            "104.18.44.93", 
+            "104.18.45.93"
+        ], 
+        "dns-aaaa": [
+            "2400:cb00:2048:1::6812:2c5d", 
+            "2400:cb00:2048:1::6812:2d5d"
+        ], 
+        "dns-ns": [
+            "anna.ns.cloudflare.com", 
+            "rick.ns.cloudflare.com"
+        ], 
+        "domain-name": "design-milk.com", 
+        "fuzzer": "original*", 
+        "geoip-country": "United States"
+    }, 
+    {
+        "dns-a": [
+            "50.63.202.4"
+        ], 
+        "dns-mx": [
+            "ALT1.ASPMX.L.GOOGLE.com", 
+            "ALT2.ASPMX.L.GOOGLE.com", 
+            "ASPMX.L.GOOGLE.com", 
+            "ASPMX2.GOOGLEMAIL.com", 
+            "ASPMX3.GOOGLEMAIL.com"
+        ], 
+        "dns-ns": [
+            "ns31.domaincontrol.com", 
+            "ns32.domaincontrol.com"
+        ], 
+        "domain-name": "designmilk.com", 
+        "fuzzer": "omission", 
+        "geoip-country": "United States"
+    }, 
+    {
+        "dns-a": [
+            "107.180.50.213"
+        ], 
+        "dns-mx": [
+            "mail.design-mill.com"
+        ], 
+        "dns-ns": [
+            "ns51.domaincontrol.com", 
+            "ns52.domaincontrol.com"
+        ], 
+        "domain-name": "design-mill.com", 
+        "fuzzer": "replacement"
+    }, 
+    {
+        "dns-a": [
+            "50.63.202.16"
+        ], 
+        "dns-mx": [
+            "mailstore1.secureserver.net", 
+            "smtp.secureserver.net"
+        ], 
+        "dns-ns": [
+            "ns11.domaincontrol.com", 
+            "ns12.domaincontrol.com"
+        ], 
+        "domain-name": "desing-milk.com", 
+        "fuzzer": "transposition", 
+        "geoip-country": "United States"
+    }
+]

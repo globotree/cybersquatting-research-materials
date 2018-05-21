@@ -1,0 +1,328 @@
+[
+    {
+        "dns-a": [
+            "17.173.65.161", 
+            "17.173.65.162", 
+            "17.173.65.163", 
+            "17.173.65.164", 
+            "17.173.65.165", 
+            "17.173.65.166"
+        ], 
+        "dns-ns": [
+            "asia2.akam.net", 
+            "asia3.akam.net", 
+            "eur5.akam.net", 
+            "ns1-235.akam.net", 
+            "ns1-45.akam.net", 
+            "use1.akam.net", 
+            "usw2.akam.net", 
+            "usw6.akam.net"
+        ], 
+        "domain-name": "itun.es", 
+        "fuzzer": "original*", 
+        "geoip-country": "United States"
+    }, 
+    {
+        "dns-a": [
+            "37.152.88.55"
+        ], 
+        "domain-name": "ituna.es", 
+        "fuzzer": "addition", 
+        "geoip-country": "Spain"
+    }, 
+    {
+        "dns-a": [
+            "72.52.4.121"
+        ], 
+        "dns-mx": [
+            "localhost"
+        ], 
+        "dns-ns": [
+            "ns1.sedoparking.com", 
+            "ns2.sedoparking.com"
+        ], 
+        "domain-name": "itune.es", 
+        "fuzzer": "addition", 
+        "geoip-country": "United States", 
+        "mx-spy": true
+    }, 
+    {
+        "dns-a": [
+            "136.144.157.37"
+        ], 
+        "dns-aaaa": [
+            "2a01:7c8:fff7:7a::1"
+        ], 
+        "dns-mx": [
+            "mx.zoho.com", 
+            "mx2.zoho.com"
+        ], 
+        "dns-ns": [
+            "ns0.nl", 
+            "ns11.net", 
+            "ns5.be"
+        ], 
+        "domain-name": "mtun.es", 
+        "fuzzer": "bitsquatting", 
+        "geoip-country": "Netherlands"
+    }, 
+    {
+        "dns-a": [
+            "185.53.178.8"
+        ], 
+        "dns-ns": [
+            "ns1.parkingcrew.net", 
+            "ns2.parkingcrew.net"
+        ], 
+        "domain-name": "atun.es", 
+        "fuzzer": "bitsquatting", 
+        "geoip-country": "Germany"
+    }, 
+    {
+        "dns-a": [
+            "81.169.145.158"
+        ], 
+        "dns-aaaa": [
+            "2a01:238:20a:202:1158::"
+        ], 
+        "dns-mx": [
+            "smtpin.rzone.de"
+        ], 
+        "dns-ns": [
+            "docks11.rzone.de", 
+            "shades04.rzone.de"
+        ], 
+        "domain-name": "idun.es", 
+        "fuzzer": "bitsquatting", 
+        "geoip-country": "Germany"
+    }, 
+    {
+        "dns-a": [
+            "84.124.52.103"
+        ], 
+        "dns-mx": [
+            "mail.iten.es"
+        ], 
+        "dns-ns": [
+            "ns1.34web.com", 
+            "ns2.34web.com"
+        ], 
+        "domain-name": "iten.es", 
+        "fuzzer": "bitsquatting", 
+        "geoip-country": "Spain"
+    }, 
+    {
+        "dns-mx": [
+            "itum-es.mail.protection.outlook.com"
+        ], 
+        "dns-ns": [
+            "ecdnsexternal"
+        ], 
+        "domain-name": "itum.es", 
+        "fuzzer": "homoglyph"
+    }, 
+    {
+        "dns-a": [
+            "91.200.116.6"
+        ], 
+        "dns-ns": [
+            "dns1.imatel.es", 
+            "dns2.imatel.es"
+        ], 
+        "domain-name": "itur.es", 
+        "fuzzer": "homoglyph", 
+        "geoip-country": "Spain"
+    }, 
+    {
+        "dns-a": [
+            "95.130.17.36"
+        ], 
+        "dns-mx": [
+            "mail.i-tun.es"
+        ], 
+        "dns-ns": [
+            "ns1.domain24.com", 
+            "ns2.domain24.com"
+        ], 
+        "domain-name": "i-tun.es", 
+        "fuzzer": "hyphenation", 
+        "geoip-country": "Germany"
+    }, 
+    {
+        "dns-a": [
+            "164.132.213.44"
+        ], 
+        "dns-mx": [
+            "mail.ithun.es"
+        ], 
+        "dns-ns": [
+            "dns110.ovh.net", 
+            "ns110.ovh.net"
+        ], 
+        "domain-name": "ithun.es", 
+        "fuzzer": "insertion", 
+        "geoip-country": "France", 
+        "mx-spy": true
+    }, 
+    {
+        "dns-a": [
+            "72.52.4.121"
+        ], 
+        "dns-mx": [
+            "localhost"
+        ], 
+        "dns-ns": [
+            "ns1.sedoparking.com", 
+            "ns2.sedoparking.com"
+        ], 
+        "domain-name": "itn.es", 
+        "fuzzer": "omission", 
+        "geoip-country": "United States", 
+        "mx-spy": true
+    }, 
+    {
+        "dns-a": [
+            "185.53.178.9"
+        ], 
+        "dns-ns": [
+            "ns1.parkingcrew.net", 
+            "ns2.parkingcrew.net"
+        ], 
+        "domain-name": "tun.es", 
+        "fuzzer": "omission", 
+        "geoip-country": "Germany"
+    }, 
+    {
+        "dns-a": [
+            "72.52.4.121"
+        ], 
+        "dns-mx": [
+            "localhost"
+        ], 
+        "dns-ns": [
+            "ns1.sedoparking.com", 
+            "ns2.sedoparking.com"
+        ], 
+        "domain-name": "iun.es", 
+        "fuzzer": "omission", 
+        "geoip-country": "United States", 
+        "mx-spy": true
+    }, 
+    {
+        "dns-a": [
+            "208.91.197.91"
+        ], 
+        "domain-name": "jtun.es", 
+        "fuzzer": "replacement", 
+        "geoip-country": "Virgin Islands"
+    }, 
+    {
+        "dns-a": [
+            "185.212.201.138"
+        ], 
+        "dns-ns": [
+            "ns1.2kz.net", 
+            "ns2.2kz.net", 
+            "ns3.2kz.net", 
+            "ns4.2kz.net"
+        ], 
+        "domain-name": "itub.es", 
+        "fuzzer": "replacement"
+    }, 
+    {
+        "dns-a": [
+            "195.78.228.173"
+        ], 
+        "dns-mx": [
+            "mail.ifun.es"
+        ], 
+        "dns-ns": [
+            "dns1.hispalisdns.com", 
+            "dns2.hispalisdns.com", 
+            "dns3.hispalisdns.com"
+        ], 
+        "domain-name": "ifun.es", 
+        "fuzzer": "replacement", 
+        "geoip-country": "Spain"
+    }, 
+    {
+        "dns-a": [
+            "82.98.135.43"
+        ], 
+        "dns-ns": [
+            "ns.dinahosting.com", 
+            "ns2.dinahosting.com", 
+            "ns3.dinahosting.com", 
+            "ns4.dinahosting.com"
+        ], 
+        "domain-name": "irun.es", 
+        "fuzzer": "replacement", 
+        "geoip-country": "Spain"
+    }, 
+    {
+        "dns-a": [
+            "148.251.75.238"
+        ], 
+        "dns-mx": [
+            "mail.itin.es"
+        ], 
+        "dns-ns": [
+            "ns1.5p-misdns.net", 
+            "ns2.5p-misdns.net"
+        ], 
+        "domain-name": "itin.es", 
+        "fuzzer": "replacement", 
+        "geoip-country": "Germany"
+    }, 
+    {
+        "dns-a": [
+            "185.53.178.9"
+        ], 
+        "dns-ns": [
+            "ns1.parkingcrew.net", 
+            "ns2.parkingcrew.net"
+        ], 
+        "domain-name": "i.tun.es", 
+        "fuzzer": "subdomain", 
+        "geoip-country": "Germany"
+    }, 
+    {
+        "dns-a": [
+            "208.91.197.91"
+        ], 
+        "domain-name": "etun.es", 
+        "fuzzer": "vowel-swap", 
+        "geoip-country": "Virgin Islands"
+    }, 
+    {
+        "dns-a": [
+            "198.1.134.67"
+        ], 
+        "dns-ns": [
+            "ns1.2kz.net", 
+            "ns2.2kz.net", 
+            "ns3.2kz.net", 
+            "ns4.2kz.net"
+        ], 
+        "domain-name": "iton.es", 
+        "fuzzer": "vowel-swap", 
+        "geoip-country": "China"
+    }, 
+    {
+        "dns-a": [
+            "17.142.160.31", 
+            "17.172.224.61", 
+            "17.178.96.31"
+        ], 
+        "dns-ns": [
+            "nserver.apple.com", 
+            "nserver.euro.apple.com", 
+            "nserver2.apple.com", 
+            "nserver3.apple.com", 
+            "nserver4.apple.com"
+        ], 
+        "domain-name": "itunes.es", 
+        "fuzzer": "various", 
+        "geoip-country": "United States"
+    }
+]

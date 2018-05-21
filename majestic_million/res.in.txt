@@ -1,0 +1,723 @@
+[
+    {
+        "dns-ns": [
+            "a0.cctld.afilias-nst.info", 
+            "a1.in.afilias-nst.in", 
+            "a2.in.afilias-nst.info", 
+            "b0.cctld.afilias-nst.org", 
+            "b1.in.afilias-nst.in", 
+            "b2.in.afilias-nst.org", 
+            "c0.cctld.afilias-nst.info", 
+            "d0.cctld.afilias-nst.org"
+        ], 
+        "domain-name": "res.in", 
+        "fuzzer": "original*"
+    }, 
+    {
+        "dns-a": [
+            "184.105.192.2"
+        ], 
+        "domain-name": "resa.in", 
+        "fuzzer": "addition", 
+        "geoip-country": "United States"
+    }, 
+    {
+        "dns-a": [
+            "168.235.149.217"
+        ], 
+        "dns-mx": [
+            "ada.ripad.net", 
+            "lamp.resf.in"
+        ], 
+        "dns-ns": [
+            "ada.ripad.net", 
+            "curtis.spartan.name"
+        ], 
+        "domain-name": "resf.in", 
+        "fuzzer": "addition", 
+        "geoip-country": "Canada"
+    }, 
+    {
+        "dns-a": [
+            "69.172.201.153"
+        ], 
+        "dns-ns": [
+            "ns1.uniregistrymarket.link", 
+            "ns2.uniregistrymarket.link"
+        ], 
+        "domain-name": "resi.in", 
+        "fuzzer": "addition", 
+        "geoip-country": "United States"
+    }, 
+    {
+        "dns-a": [
+            "184.168.221.55"
+        ], 
+        "domain-name": "resk.in", 
+        "fuzzer": "addition", 
+        "geoip-country": "United States"
+    }, 
+    {
+        "dns-a": [
+            "72.52.4.119"
+        ], 
+        "dns-mx": [
+            "localhost"
+        ], 
+        "dns-ns": [
+            "ns1.sedoparking.com", 
+            "ns2.sedoparking.com"
+        ], 
+        "domain-name": "reso.in", 
+        "fuzzer": "addition", 
+        "geoip-country": "United States", 
+        "mx-spy": true
+    }, 
+    {
+        "dns-mx": [
+            "ALT1.ASPMX.L.GOOGLE.COM", 
+            "ALT2.ASPMX.L.GOOGLE.COM", 
+            "ASPMX.L.GOOGLE.COM", 
+            "ASPMX2.GOOGLEMAIL.COM", 
+            "ASPMX3.GOOGLEMAIL.COM"
+        ], 
+        "dns-ns": [
+            "ns1.dreamhost.com", 
+            "ns2.dreamhost.com", 
+            "ns3.dreamhost.com"
+        ], 
+        "domain-name": "resp.in", 
+        "fuzzer": "addition"
+    }, 
+    {
+        "dns-mx": [
+            "mx02.resq.in", 
+            "mx03.resq.in", 
+            "mx04.resq.in", 
+            "mx05.resq.in"
+        ], 
+        "dns-ns": [
+            "ns1.reliance.in", 
+            "ns2.reliance.in"
+        ], 
+        "domain-name": "resq.in", 
+        "fuzzer": "addition"
+    }, 
+    {
+        "dns-a": [
+            "72.52.4.119"
+        ], 
+        "dns-mx": [
+            "localhost"
+        ], 
+        "dns-ns": [
+            "ns1.sedoparking.com", 
+            "ns2.sedoparking.com"
+        ], 
+        "domain-name": "rest.in", 
+        "fuzzer": "addition", 
+        "geoip-country": "United States", 
+        "mx-spy": true
+    }, 
+    {
+        "dns-a": [
+            "162.255.119.185"
+        ], 
+        "dns-mx": [
+            "eforward1.registrar-servers.com", 
+            "eforward2.registrar-servers.com", 
+            "eforward3.registrar-servers.com", 
+            "eforward4.registrar-servers.com", 
+            "eforward5.registrar-servers.com"
+        ], 
+        "dns-ns": [
+            "dns1.registrar-servers.com", 
+            "dns2.registrar-servers.com", 
+            "dns3.registrar-servers.com", 
+            "dns4.registrar-servers.com", 
+            "dns5.registrar-servers.com"
+        ], 
+        "domain-name": "resy.in", 
+        "fuzzer": "addition", 
+        "geoip-country": "United States"
+    }, 
+    {
+        "dns-a": [
+            "199.59.242.150"
+        ], 
+        "dns-mx": [
+            "mx76.m2bp.com", 
+            "mx76.mb1p.com"
+        ], 
+        "dns-ns": [
+            "ns1.bodis.com", 
+            "ns2.bodis.com"
+        ], 
+        "domain-name": "ses.in", 
+        "fuzzer": "bitsquatting", 
+        "geoip-country": "United States", 
+        "mx-spy": true
+    }, 
+    {
+        "dns-a": [
+            "89.31.143.1"
+        ], 
+        "dns-mx": [
+            "mx00.udag.de", 
+            "mx01.udag.de"
+        ], 
+        "dns-ns": [
+            "ns.udag.de", 
+            "ns.udag.net", 
+            "ns.udag.org"
+        ], 
+        "domain-name": "pes.in", 
+        "fuzzer": "bitsquatting", 
+        "geoip-country": "Germany"
+    }, 
+    {
+        "dns-a": [
+            "199.59.242.150"
+        ], 
+        "dns-mx": [
+            "mx76.m2bp.com", 
+            "mx76.mb1p.com"
+        ], 
+        "dns-ns": [
+            "ns1.bodis.com", 
+            "ns2.bodis.com"
+        ], 
+        "domain-name": "ves.in", 
+        "fuzzer": "bitsquatting", 
+        "geoip-country": "United States", 
+        "mx-spy": true
+    }, 
+    {
+        "dns-a": [
+            "34.202.122.77", 
+            "35.169.225.248", 
+            "52.0.7.30"
+        ], 
+        "dns-ns": [
+            "ns1.dynadot.com", 
+            "ns2.dynadot.com"
+        ], 
+        "domain-name": "zes.in", 
+        "fuzzer": "bitsquatting", 
+        "geoip-country": "United States"
+    }, 
+    {
+        "dns-a": [
+            "208.73.210.202", 
+            "208.73.210.217", 
+            "208.73.211.165", 
+            "208.73.211.177"
+        ], 
+        "dns-ns": [
+            "ns1.dsredirection.com", 
+            "ns2.dsredirection.com"
+        ], 
+        "domain-name": "bes.in", 
+        "fuzzer": "bitsquatting", 
+        "geoip-country": "United States"
+    }, 
+    {
+        "dns-a": [
+            "34.202.122.77", 
+            "35.169.225.248", 
+            "52.0.7.30"
+        ], 
+        "dns-ns": [
+            "ns1.dynadot.com", 
+            "ns2.dynadot.com"
+        ], 
+        "domain-name": "rds.in", 
+        "fuzzer": "bitsquatting", 
+        "geoip-country": "United States"
+    }, 
+    {
+        "dns-a": [
+            "199.59.242.150"
+        ], 
+        "dns-mx": [
+            "mx76.m2bp.com", 
+            "mx76.mb1p.com"
+        ], 
+        "dns-ns": [
+            "ns1.bodis.com", 
+            "ns2.bodis.com"
+        ], 
+        "domain-name": "rgs.in", 
+        "fuzzer": "bitsquatting", 
+        "geoip-country": "United States", 
+        "mx-spy": true
+    }, 
+    {
+        "dns-a": [
+            "208.73.210.202", 
+            "208.73.210.217", 
+            "208.73.211.165", 
+            "208.73.211.177"
+        ], 
+        "dns-ns": [
+            "ns1.dsredirection.com", 
+            "ns2.dsredirection.com"
+        ], 
+        "domain-name": "ras.in", 
+        "fuzzer": "bitsquatting", 
+        "geoip-country": "United States"
+    }, 
+    {
+        "dns-a": [
+            "35.154.112.42"
+        ], 
+        "dns-mx": [
+            "gateway.rms.in", 
+            "mail.rms.in"
+        ], 
+        "dns-ns": [
+            "ns13.goforhosting.com", 
+            "ns14.goforhosting.com"
+        ], 
+        "domain-name": "rms.in", 
+        "fuzzer": "bitsquatting", 
+        "geoip-country": "United States"
+    }, 
+    {
+        "dns-a": [
+            "184.168.221.92"
+        ], 
+        "dns-mx": [
+            "mailstore1.secureserver.net", 
+            "smtp.secureserver.net"
+        ], 
+        "dns-ns": [
+            "ns07.domaincontrol.com", 
+            "ns08.domaincontrol.com"
+        ], 
+        "domain-name": "rus.in", 
+        "fuzzer": "bitsquatting", 
+        "geoip-country": "United States"
+    }, 
+    {
+        "dns-a": [
+            "34.202.122.77", 
+            "35.169.225.248", 
+            "52.0.7.30"
+        ], 
+        "dns-ns": [
+            "ns1.dynadot.com", 
+            "ns2.dynadot.com"
+        ], 
+        "domain-name": "rer.in", 
+        "fuzzer": "bitsquatting", 
+        "geoip-country": "United States"
+    }, 
+    {
+        "dns-a": [
+            "185.53.178.8"
+        ], 
+        "dns-mx": [
+            "mail.h-email.net"
+        ], 
+        "dns-ns": [
+            "ns1.parkingcrew.net", 
+            "ns2.parkingcrew.net"
+        ], 
+        "domain-name": "req.in", 
+        "fuzzer": "bitsquatting", 
+        "geoip-country": "Germany", 
+        "mx-spy": true
+    }, 
+    {
+        "dns-a": [
+            "208.91.196.92"
+        ], 
+        "dns-ns": [
+            "sk.s5.cm.ns1.57.ztomy.com", 
+            "sk.s5.cm.ns2.57.ztomy.com"
+        ], 
+        "domain-name": "rew.in", 
+        "fuzzer": "bitsquatting", 
+        "geoip-country": "Virgin Islands"
+    }, 
+    {
+        "dns-a": [
+            "208.73.210.202", 
+            "208.73.210.217", 
+            "208.73.211.165", 
+            "208.73.211.177"
+        ], 
+        "dns-ns": [
+            "ns1.dsredirection.com", 
+            "ns2.dsredirection.com"
+        ], 
+        "domain-name": "rec.in", 
+        "fuzzer": "bitsquatting", 
+        "geoip-country": "United States"
+    }, 
+    {
+        "dns-a": [
+            "202.71.129.6"
+        ], 
+        "dns-mx": [
+            "mail.net4india.com"
+        ], 
+        "dns-ns": [
+            "ns1.net4india.com", 
+            "ns2.net4india.com"
+        ], 
+        "domain-name": "re3.in", 
+        "fuzzer": "bitsquatting", 
+        "geoip-country": "India"
+    }, 
+    {
+        "dns-a": [
+            "132.148.137.214"
+        ], 
+        "dns-mx": [
+            "reds.in"
+        ], 
+        "dns-ns": [
+            "ns1.reds.in", 
+            "ns2.reds.in"
+        ], 
+        "domain-name": "reds.in", 
+        "fuzzer": "insertion", 
+        "geoip-country": "United States"
+    }, 
+    {
+        "dns-a": [
+            "209.99.40.223"
+        ], 
+        "dns-ns": [
+            "dns11.parkpage.foundationapi.com", 
+            "dns12.parkpage.foundationapi.com"
+        ], 
+        "domain-name": "rses.in", 
+        "fuzzer": "insertion", 
+        "geoip-country": "United States"
+    }, 
+    {
+        "dns-a": [
+            "160.153.137.18"
+        ], 
+        "dns-mx": [
+            "rers.in"
+        ], 
+        "dns-ns": [
+            "ns25.domaincontrol.com.rers.in", 
+            "ns26.domaincontrol.com.rers.in"
+        ], 
+        "domain-name": "rers.in", 
+        "fuzzer": "insertion", 
+        "geoip-country": "United States"
+    }, 
+    {
+        "dns-a": [
+            "98.143.145.130"
+        ], 
+        "dns-mx": [
+            "rews.in"
+        ], 
+        "dns-ns": [
+            "ns1.intouchhost.co.in", 
+            "ns2.intouchhost.co.in"
+        ], 
+        "domain-name": "rews.in", 
+        "fuzzer": "insertion", 
+        "geoip-country": "United States"
+    }, 
+    {
+        "dns-a": [
+            "37.58.107.93"
+        ], 
+        "dns-mx": [
+            "mail.efty.com"
+        ], 
+        "dns-ns": [
+            "ns1.eftydns.com", 
+            "ns2.eftydns.com"
+        ], 
+        "domain-name": "rees.in", 
+        "fuzzer": "repetition", 
+        "geoip-country": "Netherlands"
+    }, 
+    {
+        "dns-a": [
+            "34.202.122.77", 
+            "35.169.225.248", 
+            "52.0.7.30"
+        ], 
+        "dns-ns": [
+            "ns1.dynadot.com", 
+            "ns2.dynadot.com"
+        ], 
+        "domain-name": "rez.in", 
+        "fuzzer": "replacement", 
+        "geoip-country": "United States"
+    }, 
+    {
+        "dns-a": [
+            "64.27.53.122"
+        ], 
+        "dns-mx": [
+            "mail.rex.in"
+        ], 
+        "dns-ns": [
+            "ns.rex.in", 
+            "ns13.iis5.net", 
+            "ns14.iis5.net", 
+            "ns3-iis5"
+        ], 
+        "domain-name": "rex.in", 
+        "fuzzer": "replacement", 
+        "geoip-country": "United States"
+    }, 
+    {
+        "dns-a": [
+            "199.59.242.150"
+        ], 
+        "dns-mx": [
+            "mx76.m2bp.com", 
+            "mx76.mb1p.com"
+        ], 
+        "dns-ns": [
+            "ns1.bodis.com", 
+            "ns2.bodis.com"
+        ], 
+        "domain-name": "tes.in", 
+        "fuzzer": "replacement", 
+        "geoip-country": "United States", 
+        "mx-spy": true
+    }, 
+    {
+        "dns-a": [
+            "62.141.39.40"
+        ], 
+        "dns-mx": [
+            "mail.r3s.in"
+        ], 
+        "dns-ns": [
+            "ns1.winwaynetwork.in", 
+            "ns2.winwaynetwork.in"
+        ], 
+        "domain-name": "r3s.in", 
+        "fuzzer": "replacement", 
+        "geoip-country": "Germany"
+    }, 
+    {
+        "dns-a": [
+            "208.91.197.91"
+        ], 
+        "domain-name": "rea.in", 
+        "fuzzer": "replacement", 
+        "geoip-country": "Virgin Islands"
+    }, 
+    {
+        "dns-a": [
+            "107.180.46.224"
+        ], 
+        "dns-mx": [
+            "mailstore1.asia.secureserver.net", 
+            "smtp.asia.secureserver.net"
+        ], 
+        "dns-ns": [
+            "ns01.domaincontrol.com", 
+            "ns02.domaincontrol.com"
+        ], 
+        "domain-name": "des.in", 
+        "fuzzer": "replacement", 
+        "geoip-country": "United States"
+    }, 
+    {
+        "dns-a": [
+            "72.52.4.119"
+        ], 
+        "dns-mx": [
+            "localhost"
+        ], 
+        "dns-ns": [
+            "ns1.sedoparking.com", 
+            "ns2.sedoparking.com"
+        ], 
+        "domain-name": "ees.in", 
+        "fuzzer": "replacement", 
+        "geoip-country": "United States", 
+        "mx-spy": true
+    }, 
+    {
+        "dns-a": [
+            "52.69.167.98", 
+            "54.64.19.239"
+        ], 
+        "dns-ns": [
+            "ns-1071.awsdns-05.org", 
+            "ns-1886.awsdns-43.co.uk", 
+            "ns-190.awsdns-23.com", 
+            "ns-702.awsdns-23.net"
+        ], 
+        "domain-name": "rws.in", 
+        "fuzzer": "replacement", 
+        "geoip-country": "Japan"
+    }, 
+    {
+        "dns-a": [
+            "52.58.78.16"
+        ], 
+        "dns-mx": [
+            "mx.rzs.in"
+        ], 
+        "dns-ns": [
+            "ns1.undeveloped.com", 
+            "ns2.undeveloped.com"
+        ], 
+        "domain-name": "rzs.in", 
+        "fuzzer": "replacement", 
+        "geoip-country": "Germany"
+    }, 
+    {
+        "dns-a": [
+            "203.199.124.87"
+        ], 
+        "dns-ns": [
+            "999999999.earth.orderbox-dns.com", 
+            "999999999.mars.orderbox-dns.com", 
+            "999999999.mercury.orderbox-dns.com", 
+            "999999999.venus.orderbox-dns.com"
+        ], 
+        "domain-name": "fes.in", 
+        "fuzzer": "replacement", 
+        "geoip-country": "India"
+    }, 
+    {
+        "dns-a": [
+            "50.117.120.251"
+        ], 
+        "dns-mx": [
+            "mail.happyisp.com"
+        ], 
+        "domain-name": "rey.in", 
+        "fuzzer": "replacement", 
+        "geoip-country": "United States", 
+        "mx-spy": true
+    }, 
+    {
+        "dns-a": [
+            "162.254.149.38"
+        ], 
+        "dns-mx": [
+            "alt1.aspmx.l.google.com", 
+            "aspmx.l.google.com"
+        ], 
+        "dns-ns": [
+            "ns3.dnsracks.com", 
+            "ns4.dnsracks.com"
+        ], 
+        "domain-name": "rrs.in", 
+        "fuzzer": "replacement", 
+        "geoip-country": "United States"
+    }, 
+    {
+        "dns-a": [
+            "208.91.197.91"
+        ], 
+        "domain-name": "ree.in", 
+        "fuzzer": "replacement", 
+        "geoip-country": "Virgin Islands"
+    }, 
+    {
+        "dns-a": [
+            "173.254.28.105"
+        ], 
+        "dns-mx": [
+            "mail.5es.in"
+        ], 
+        "dns-ns": [
+            "ns1.justhost.com", 
+            "ns2.justhost.com"
+        ], 
+        "domain-name": "5es.in", 
+        "fuzzer": "replacement"
+    }, 
+    {
+        "dns-a": [
+            "81.169.137.40"
+        ], 
+        "dns-mx": [
+            "mx.rss.in", 
+            "mx.rss.in"
+        ], 
+        "dns-ns": [
+            "ns.udag.de", 
+            "ns.udag.net", 
+            "ns.udag.org"
+        ], 
+        "domain-name": "rss.in", 
+        "fuzzer": "replacement", 
+        "geoip-country": "Germany"
+    }, 
+    {
+        "dns-a": [
+            "77.235.33.123"
+        ], 
+        "dns-mx": [
+            "ers.in"
+        ], 
+        "dns-ns": [
+            "ns1.web1.sd.eurovps.com", 
+            "ns2.web1.sd.eurovps.com"
+        ], 
+        "domain-name": "ers.in", 
+        "fuzzer": "transposition"
+    }, 
+    {
+        "dns-ns": [
+            "ns1.sedoparking.com", 
+            "ns2.sedoparking.com"
+        ], 
+        "domain-name": "rse.in", 
+        "fuzzer": "transposition"
+    }, 
+    {
+        "dns-a": [
+            "192.185.5.238"
+        ], 
+        "dns-mx": [
+            "mail.ros.in"
+        ], 
+        "dns-ns": [
+            "ns8085.hostgator.com", 
+            "ns8086.hostgator.com"
+        ], 
+        "domain-name": "ros.in", 
+        "fuzzer": "vowel-swap"
+    }, 
+    {
+        "dns-a": [
+            "103.224.182.238"
+        ], 
+        "dns-mx": [
+            "park-mx.above.com"
+        ], 
+        "dns-ns": [
+            "ns1.above.com", 
+            "ns2.above.com"
+        ], 
+        "domain-name": "resin.in", 
+        "fuzzer": "various"
+    }, 
+    {
+        "dns-mx": [
+            "mx1.sub4.homie.mail.dreamhost.com", 
+            "mx2.sub4.homie.mail.dreamhost.com"
+        ], 
+        "dns-ns": [
+            "ns1.dreamhost.com", 
+            "ns2.dreamhost.com", 
+            "ns3.dreamhost.com"
+        ], 
+        "domain-name": "res-in.com", 
+        "fuzzer": "various"
+    }
+]

@@ -1,0 +1,215 @@
+[
+    {
+        "dns-a": [
+            "13.32.14.145", 
+            "13.32.14.153", 
+            "13.32.14.171", 
+            "13.32.14.214", 
+            "13.32.14.219", 
+            "13.32.14.221", 
+            "13.32.14.241", 
+            "13.32.14.93"
+        ], 
+        "dns-mx": [
+            "alt1.aspmx.l.google.com", 
+            "alt2.aspmx.l.google.com", 
+            "alt3.aspmx.l.google.com", 
+            "alt4.aspmx.l.google.com", 
+            "aspmx.l.google.com"
+        ], 
+        "dns-ns": [
+            "ns-1443.awsdns-52.org", 
+            "ns-1563.awsdns-03.co.uk", 
+            "ns-44.awsdns-05.com", 
+            "ns-663.awsdns-18.net"
+        ], 
+        "domain-name": "bartleby.com", 
+        "fuzzer": "original*", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 100
+    }, 
+    {
+        "dns-a": [
+            "184.168.221.104"
+        ], 
+        "dns-ns": [
+            "ns1.afternic.com", 
+            "ns2.afternic.com"
+        ], 
+        "domain-name": "bartlebys.com", 
+        "fuzzer": "addition", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "208.91.197.39"
+        ], 
+        "dns-mx": [
+            "p.webcom.ctmail.com"
+        ], 
+        "dns-ns": [
+            "dns108.c.register.com", 
+            "dns127.b.register.com", 
+            "dns152.a.register.com", 
+            "dns249.d.register.com"
+        ], 
+        "domain-name": "ibartleby.com", 
+        "fuzzer": "homoglyph", 
+        "geoip-country": "Virgin Islands", 
+        "mx-spy": true, 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "216.157.88.23"
+        ], 
+        "dns-ns": [
+            "ns1.smtmdns.com", 
+            "ns2.smtmdns.com"
+        ], 
+        "domain-name": "barleby.com", 
+        "fuzzer": "omission", 
+        "geoip-country": "United States"
+    }, 
+    {
+        "dns-a": [
+            "68.178.213.61"
+        ], 
+        "dns-ns": [
+            "ns1.namefind.com", 
+            "ns2.namefind.com"
+        ], 
+        "domain-name": "barteby.com", 
+        "fuzzer": "omission", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "208.73.210.202", 
+            "208.73.210.217", 
+            "208.73.211.165", 
+            "208.73.211.177"
+        ], 
+        "dns-ns": [
+            "ns1.dsredirection.com", 
+            "ns2.dsredirection.com"
+        ], 
+        "domain-name": "batleby.com", 
+        "fuzzer": "omission", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "103.224.182.251"
+        ], 
+        "dns-mx": [
+            "park-mx.above.com"
+        ], 
+        "dns-ns": [
+            "ns3.above.com", 
+            "ns4.above.com"
+        ], 
+        "domain-name": "bartlby.com", 
+        "fuzzer": "omission", 
+        "geoip-country": "Australia", 
+        "mx-spy": true, 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "64.99.80.121"
+        ], 
+        "dns-mx": [
+            "mx.netidentity.com.cust.hostedemail.com", 
+            "mx.netidentity.com.cust.hostedemail.com"
+        ], 
+        "dns-ns": [
+            "ns1.mailbank.com", 
+            "ns1.mdnsservice.com", 
+            "ns2.mailbank.com", 
+            "ns2.mdnsservice.com", 
+            "ns3.mdnsservice.com"
+        ], 
+        "domain-name": "bartley.com", 
+        "fuzzer": "omission", 
+        "geoip-country": "Canada", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "52.73.124.185", 
+            "54.164.198.60"
+        ], 
+        "dns-ns": [
+            "ns1.namebrightdns.com", 
+            "ns2.namebrightdns.com"
+        ], 
+        "domain-name": "bartleb.com", 
+        "fuzzer": "omission", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "146.148.180.5"
+        ], 
+        "dns-ns": [
+            "ns1.dnsdun.com", 
+            "ns1.dnsdun.net"
+        ], 
+        "domain-name": "artleby.com", 
+        "fuzzer": "omission", 
+        "geoip-country": "United States"
+    }, 
+    {
+        "dns-a": [
+            "146.148.180.5"
+        ], 
+        "domain-name": "b.artleby.com", 
+        "fuzzer": "subdomain", 
+        "geoip-country": "United States"
+    }, 
+    {
+        "dns-a": [
+            "45.120.153.79"
+        ], 
+        "domain-name": "bart.leby.com", 
+        "fuzzer": "subdomain", 
+        "geoip-country": "Hong Kong"
+    }, 
+    {
+        "dns-a": [
+            "204.232.255.211"
+        ], 
+        "dns-ns": [
+            "ns-1400.awsdns-47.org", 
+            "ns-1726.awsdns-23.co.uk", 
+            "ns-259.awsdns-32.com", 
+            "ns-654.awsdns-17.net"
+        ], 
+        "domain-name": "bartelby.com", 
+        "fuzzer": "transposition", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 100
+    }, 
+    {
+        "dns-a": [
+            "52.50.248.86"
+        ], 
+        "dns-mx": [
+            "mx01.123hjemmeside.dk", 
+            "mx02.123hjemmeside.dk"
+        ], 
+        "dns-ns": [
+            "dns1.123hjemmeside.dk", 
+            "dns2.123hjemmeside.dk", 
+            "dns3.123hjemmeside.dk"
+        ], 
+        "domain-name": "burtleby.com", 
+        "fuzzer": "vowel-swap", 
+        "geoip-country": "Ireland"
+    }
+]

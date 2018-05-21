@@ -1,0 +1,285 @@
+[
+    {
+        "dns-ns": [
+            "ns1.dns.net.nz", 
+            "ns2.dns.net.nz", 
+            "ns3.dns.net.nz", 
+            "ns4.dns.net.nz", 
+            "ns5.dns.net.nz", 
+            "ns6.dns.net.nz", 
+            "ns7.dns.net.nz"
+        ], 
+        "domain-name": "org.nz", 
+        "fuzzer": "original*"
+    }, 
+    {
+        "dns-a": [
+            "43.245.52.70"
+        ], 
+        "dns-ns": [
+            "ns.freeparking.co.nz", 
+            "ns2.freeparking.co.nz"
+        ], 
+        "domain-name": "orgi.nz", 
+        "fuzzer": "addition", 
+        "geoip-country": "New Zealand"
+    }, 
+    {
+        "dns-a": [
+            "69.172.201.153"
+        ], 
+        "dns-ns": [
+            "ns1.uniregistrymarket.link", 
+            "ns2.uniregistrymarket.link"
+        ], 
+        "domain-name": "orgy.nz", 
+        "fuzzer": "addition", 
+        "geoip-country": "United States"
+    }, 
+    {
+        "dns-a": [
+            "52.58.78.16"
+        ], 
+        "dns-mx": [
+            "mx.nrg.nz"
+        ], 
+        "dns-ns": [
+            "ns1.undeveloped.com", 
+            "ns2.undeveloped.com"
+        ], 
+        "domain-name": "nrg.nz", 
+        "fuzzer": "bitsquatting", 
+        "geoip-country": "Germany"
+    }, 
+    {
+        "dns-a": [
+            "112.109.68.168"
+        ], 
+        "dns-mx": [
+            "mail1-1.zeald.com", 
+            "mail1-2.zeald.com"
+        ], 
+        "dns-ns": [
+            "ns1-1.zeald.com", 
+            "ns1-2.zeald.com"
+        ], 
+        "domain-name": "grg.nz", 
+        "fuzzer": "bitsquatting", 
+        "geoip-country": "New Zealand"
+    }, 
+    {
+        "dns-a": [
+            "69.90.162.40"
+        ], 
+        "dns-mx": [
+            "opg.nz"
+        ], 
+        "dns-ns": [
+            "ns1.hostpapa.com", 
+            "ns2.hostpapa.com"
+        ], 
+        "domain-name": "opg.nz", 
+        "fuzzer": "bitsquatting", 
+        "geoip-country": "United States"
+    }, 
+    {
+        "dns-a": [
+            "118.98.127.251"
+        ], 
+        "dns-ns": [
+            "dnsa.hosteko.com", 
+            "dnsb.hosteko.com", 
+            "dnsc.hosteko.com", 
+            "dnsd.hosteko.com"
+        ], 
+        "domain-name": "ore.nz", 
+        "fuzzer": "bitsquatting", 
+        "geoip-country": "Indonesia"
+    }, 
+    {
+        "dns-a": [
+            "199.59.242.150"
+        ], 
+        "dns-mx": [
+            "mx76.m2bp.com", 
+            "mx76.mb1p.com"
+        ], 
+        "dns-ns": [
+            "ns1.bodis.com", 
+            "ns2.bodis.com"
+        ], 
+        "domain-name": "0rg.nz", 
+        "fuzzer": "homoglyph", 
+        "geoip-country": "United States", 
+        "mx-spy": true
+    }, 
+    {
+        "dns-a": [
+            "85.236.47.218"
+        ], 
+        "dns-ns": [
+            "ns1.day.biz", 
+            "ns2.day.biz"
+        ], 
+        "domain-name": "og.nz", 
+        "fuzzer": "omission", 
+        "geoip-country": "Germany"
+    }, 
+    {
+        "dns-a": [
+            "85.236.47.218"
+        ], 
+        "dns-ns": [
+            "ns1.day.biz", 
+            "ns2.day.biz"
+        ], 
+        "domain-name": "or.nz", 
+        "fuzzer": "omission", 
+        "geoip-country": "Germany"
+    }, 
+    {
+        "dns-a": [
+            "104.18.34.222", 
+            "104.18.35.222"
+        ], 
+        "dns-aaaa": [
+            "2400:cb00:2048:1::6812:22de", 
+            "2400:cb00:2048:1::6812:23de"
+        ], 
+        "dns-mx": [
+            "fb.mail.gandi.net", 
+            "spool.mail.gandi.net"
+        ], 
+        "dns-ns": [
+            "amanda.ns.cloudflare.com", 
+            "jake.ns.cloudflare.com"
+        ], 
+        "domain-name": "orz.nz", 
+        "fuzzer": "replacement", 
+        "geoip-country": "United States"
+    }, 
+    {
+        "dns-a": [
+            "103.16.128.54"
+        ], 
+        "dns-ns": [
+            "ns1.binarylane.com.au", 
+            "ns2.binarylane.com.au"
+        ], 
+        "domain-name": "ofg.nz", 
+        "fuzzer": "replacement", 
+        "geoip-country": "Australia"
+    }, 
+    {
+        "dns-a": [
+            "185.61.152.49"
+        ], 
+        "dns-mx": [
+            "smx1.web-hosting.com", 
+            "smx2.web-hosting.com", 
+            "smx3.web-hosting.com"
+        ], 
+        "dns-ns": [
+            "dns1.namecheaphosting.com", 
+            "dns2.namecheaphosting.com"
+        ], 
+        "domain-name": "ory.nz", 
+        "fuzzer": "replacement", 
+        "geoip-country": "United Kingdom"
+    }, 
+    {
+        "dns-a": [
+            "107.170.252.87"
+        ], 
+        "dns-ns": [
+            "ns1.1stdomains.net.nz", 
+            "ns2.1stdomains.net.nz"
+        ], 
+        "domain-name": "orb.nz", 
+        "fuzzer": "replacement"
+    }, 
+    {
+        "dns-a": [
+            "210.55.30.67"
+        ], 
+        "dns-ns": [
+            "ns1.1stdomains.net.nz", 
+            "ns2.1stdomains.net.nz"
+        ], 
+        "domain-name": "prg.nz", 
+        "fuzzer": "replacement", 
+        "geoip-country": "New Zealand"
+    }, 
+    {
+        "dns-a": [
+            "168.1.112.103"
+        ], 
+        "dns-mx": [
+            "mail.otg.nz"
+        ], 
+        "dns-ns": [
+            "ns1.hostingww.com", 
+            "ns2.hostingww.com", 
+            "ns3.hostingww.com"
+        ], 
+        "domain-name": "otg.nz", 
+        "fuzzer": "replacement"
+    }, 
+    {
+        "dns-a": [
+            "210.55.30.67"
+        ], 
+        "dns-mx": [
+            "mxa.onenet.co.nz"
+        ], 
+        "dns-ns": [
+            "ns1.1stdomains.net.nz", 
+            "ns2.1stdomains.net.nz"
+        ], 
+        "domain-name": "irg.nz", 
+        "fuzzer": "replacement"
+    }, 
+    {
+        "dns-a": [
+            "49.50.248.85"
+        ], 
+        "dns-mx": [
+            "mx1.webhost.co.nz", 
+            "mx2.webhost.co.nz", 
+            "mx3.webhost.co.nz", 
+            "mx4.webhost.co.nz"
+        ], 
+        "dns-ns": [
+            "ns1.nameserver.net.nz", 
+            "ns2.nameserver.net.nz", 
+            "ns3.nameserver.net.nz"
+        ], 
+        "domain-name": "ogr.nz", 
+        "fuzzer": "transposition"
+    }, 
+    {
+        "dns-a": [
+            "43.245.52.70"
+        ], 
+        "dns-ns": [
+            "ns.freeparking.co.nz", 
+            "ns2.freeparking.co.nz"
+        ], 
+        "domain-name": "erg.nz", 
+        "fuzzer": "vowel-swap", 
+        "geoip-country": "New Zealand"
+    }, 
+    {
+        "dns-a": [
+            "202.46.170.8"
+        ], 
+        "dns-ns": [
+            "ns1.nsserver.net.nz", 
+            "ns2.nsserver.net.nz", 
+            "ns3.nsserver.net.nz"
+        ], 
+        "domain-name": "arg.nz", 
+        "fuzzer": "vowel-swap", 
+        "geoip-country": "New Zealand"
+    }
+]

@@ -1,0 +1,29 @@
+[
+    {
+        "dns-a": [
+            "202.58.60.194"
+        ], 
+        "dns-mx": [
+            "smtp.unsw.edu.au"
+        ], 
+        "dns-ns": [
+            "ns1.unsw.edu.au", 
+            "ns2.unsw.edu.au", 
+            "ns3.unsw.edu.au"
+        ], 
+        "domain-name": "unsw.edu.au", 
+        "fuzzer": "original*", 
+        "geoip-country": "Australia", 
+        "ssdeep-score": 100
+    }, 
+    {
+        "dns-ns": [
+            "w.au", 
+            "x.au", 
+            "y.au", 
+            "z.au"
+        ], 
+        "domain-name": "nsw.edu.au", 
+        "fuzzer": "omission"
+    }
+]

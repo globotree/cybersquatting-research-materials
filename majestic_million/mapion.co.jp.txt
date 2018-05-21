@@ -1,0 +1,45 @@
+[
+    {
+        "dns-mx": [
+            "mx.securemx.jp", 
+            "ns1.mapion.co.jp", 
+            "ns2.mapion.co.jp", 
+            "smtp5.cmj.mapion.co.jp", 
+            "smtp6.cmj.mapion.co.jp", 
+            "smtp7.cmj.mapion.co.jp"
+        ], 
+        "dns-ns": [
+            "ns1.mapion.co.jp", 
+            "ns2.mapion.co.jp"
+        ], 
+        "domain-name": "mapion.co.jp", 
+        "fuzzer": "original*"
+    }, 
+    {
+        "dns-mx": [
+            "mail.marion.co.jp"
+        ], 
+        "dns-ns": [
+            "dns1.ys-net.ne.jp", 
+            "dns2.ys-net.ne.jp"
+        ], 
+        "domain-name": "marion.co.jp", 
+        "fuzzer": "bitsquatting"
+    }, 
+    {
+        "dns-a": [
+            "210.152.170.194"
+        ], 
+        "dns-mx": [
+            "wh08.wadax.ne.jp"
+        ], 
+        "dns-ns": [
+            "wns02.wadax.ne.jp", 
+            "wx29.wadax.ne.jp"
+        ], 
+        "domain-name": "mation.co.jp", 
+        "fuzzer": "bitsquatting", 
+        "geoip-country": "Japan", 
+        "ssdeep-score": 0
+    }
+]

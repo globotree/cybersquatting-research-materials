@@ -1,0 +1,67 @@
+[
+    {
+        "dns-a": [
+            "163.44.191.94", 
+            "163.44.191.95", 
+            "163.44.191.96"
+        ], 
+        "dns-mx": [
+            "mail001.jg.jugem.jp"
+        ], 
+        "dns-ns": [
+            "dns0.jugem.jp", 
+            "dns1.jugem.jp"
+        ], 
+        "domain-name": "jugem.jp", 
+        "fuzzer": "original*", 
+        "geoip-country": "Japan", 
+        "mx-spy": true, 
+        "ssdeep-score": 99
+    }, 
+    {
+        "dns-a": [
+            "119.82.30.102"
+        ], 
+        "dns-mx": [
+            "mail1.tsukaeru.ne.jp"
+        ], 
+        "dns-ns": [
+            "ns1.tsukaeru.ne.jp", 
+            "ns2.tsukaeru.ne.jp"
+        ], 
+        "domain-name": "jugei.jp", 
+        "fuzzer": "bitsquatting", 
+        "geoip-country": "Japan", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "202.237.149.36"
+        ], 
+        "dns-mx": [
+            "mxi.alpha-prm.jp"
+        ], 
+        "dns-ns": [
+            "fjkdns01.alpha-prm.jp", 
+            "fjkdns02.alpha-prm.jp", 
+            "fjkdns03.alpha-prm.jp"
+        ], 
+        "domain-name": "jugen.jp", 
+        "fuzzer": "homoglyph", 
+        "geoip-country": "Japan", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "150.95.255.38"
+        ], 
+        "dns-ns": [
+            "dns1.onamae.com", 
+            "dns2.onamae.com"
+        ], 
+        "domain-name": "juge.jp", 
+        "fuzzer": "omission", 
+        "geoip-country": "Japan", 
+        "ssdeep-score": 0
+    }
+]

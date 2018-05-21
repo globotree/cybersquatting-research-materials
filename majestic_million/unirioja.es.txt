@@ -1,0 +1,47 @@
+[
+    {
+        "dns-mx": [
+            "unirioja-es.mail.protection.outlook.com"
+        ], 
+        "dns-ns": [
+            "chico.rediris.es", 
+            "dns-ext.unirioja.es", 
+            "dns-ext2.unirioja.es", 
+            "sun.rediris.es"
+        ], 
+        "domain-name": "unirioja.es", 
+        "fuzzer": "original*"
+    }, 
+    {
+        "dns-a": [
+            "103.224.182.250"
+        ], 
+        "dns-mx": [
+            "park-mx.above.com"
+        ], 
+        "dns-ns": [
+            "ns1.above.com", 
+            "ns2.above.com"
+        ], 
+        "domain-name": "uniroja.es", 
+        "fuzzer": "omission", 
+        "geoip-country": "Australia", 
+        "mx-spy": true
+    }, 
+    {
+        "dns-a": [
+            "185.53.179.7"
+        ], 
+        "dns-mx": [
+            "mail.h-email.net"
+        ], 
+        "dns-ns": [
+            "ns1.parkingcrew.net", 
+            "ns2.parkingcrew.net"
+        ], 
+        "domain-name": "uniri.oja.es", 
+        "fuzzer": "subdomain", 
+        "geoip-country": "Germany", 
+        "mx-spy": true
+    }
+]

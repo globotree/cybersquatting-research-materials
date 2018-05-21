@@ -1,0 +1,36 @@
+[
+    {
+        "dns-mx": [
+            "mailgate-3.central.cranfield.ac.uk", 
+            "mailgate-4.central.cranfield.ac.uk"
+        ], 
+        "dns-ns": [
+            "dns0.cranfield.ac.uk", 
+            "dns1.cranfield.ac.uk", 
+            "ns2.ja.net"
+        ], 
+        "domain-name": "cranfield.ac.uk", 
+        "fuzzer": "original*"
+    }, 
+    {
+        "dns-a": [
+            "217.160.223.213"
+        ], 
+        "dns-aaaa": [
+            "2001:8d8:1000:70f5:6828:6a16:9ee9:104a"
+        ], 
+        "dns-mx": [
+            "mx00.1and1.co.uk", 
+            "mx01.1and1.co.uk"
+        ], 
+        "dns-ns": [
+            "ns1033.ui-dns.biz", 
+            "ns1033.ui-dns.com", 
+            "ns1033.ui-dns.de", 
+            "ns1033.ui-dns.org"
+        ], 
+        "domain-name": "cranfieldac.uk", 
+        "fuzzer": "various", 
+        "geoip-country": "Germany"
+    }
+]

@@ -1,0 +1,52 @@
+[
+    {
+        "dns-a": [
+            "104.152.168.21"
+        ], 
+        "dns-mx": [
+            "aspmx.l.google.com", 
+            "ms93841359.msv1.invalid.outlook.com"
+        ], 
+        "dns-ns": [
+            "ns41.crocweb.com", 
+            "ns42.crocweb.com"
+        ], 
+        "domain-name": "wisdomite.in", 
+        "fuzzer": "original*", 
+        "geoip-country": "Canada", 
+        "ssdeep-score": 99
+    }, 
+    {
+        "dns-a": [
+            "72.52.4.122"
+        ], 
+        "dns-mx": [
+            "localhost"
+        ], 
+        "dns-ns": [
+            "ns1.sedoparking.com", 
+            "ns2.sedoparking.com"
+        ], 
+        "domain-name": "wisdo.mite.in", 
+        "fuzzer": "subdomain", 
+        "geoip-country": "United States", 
+        "mx-spy": true
+    }, 
+    {
+        "dns-a": [
+            "72.52.4.121"
+        ], 
+        "dns-mx": [
+            "localhost"
+        ], 
+        "dns-ns": [
+            "ns1.sedoparking.com", 
+            "ns2.sedoparking.com"
+        ], 
+        "domain-name": "wisdom.ite.in", 
+        "fuzzer": "subdomain", 
+        "geoip-country": "United States", 
+        "mx-spy": true, 
+        "ssdeep-score": 0
+    }
+]

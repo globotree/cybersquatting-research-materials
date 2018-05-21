@@ -1,0 +1,139 @@
+[
+    {
+        "dns-a": [
+            "104.24.10.105", 
+            "104.24.9.105"
+        ], 
+        "dns-aaaa": [
+            "2400:cb00:2048:1::6818:969", 
+            "2400:cb00:2048:1::6818:a69"
+        ], 
+        "dns-mx": [
+            "mail.whoishostingthis.com"
+        ], 
+        "dns-ns": [
+            "algin.ns.cloudflare.com", 
+            "eva.ns.cloudflare.com"
+        ], 
+        "domain-name": "whoishostingthis.com", 
+        "fuzzer": "original*", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 100
+    }, 
+    {
+        "dns-a": [
+            "162.242.150.89", 
+            "176.34.241.253", 
+            "23.253.58.227"
+        ], 
+        "dns-ns": [
+            "ns1.uniregistry-dns.com", 
+            "ns1.uniregistry-dns.net", 
+            "ns2.uniregistry-dns.com", 
+            "ns2.uniregistry-dns.net"
+        ], 
+        "domain-name": "whois-hostingthis.com", 
+        "fuzzer": "hyphenation", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 66
+    }, 
+    {
+        "dns-a": [
+            "162.242.150.89", 
+            "176.34.241.253", 
+            "23.253.58.227"
+        ], 
+        "dns-ns": [
+            "ns1.uniregistry-dns.com", 
+            "ns1.uniregistry-dns.net", 
+            "ns2.uniregistry-dns.com", 
+            "ns2.uniregistry-dns.net"
+        ], 
+        "domain-name": "whoishosting-this.com", 
+        "fuzzer": "hyphenation", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 66
+    }, 
+    {
+        "dns-a": [
+            "162.242.150.89", 
+            "176.34.241.253", 
+            "23.253.58.227"
+        ], 
+        "dns-ns": [
+            "ns1.uniregistry-dns.com", 
+            "ns1.uniregistry-dns.net", 
+            "ns2.uniregistry-dns.com", 
+            "ns2.uniregistry-dns.net"
+        ], 
+        "domain-name": "whoishotingthis.com", 
+        "fuzzer": "omission", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 66
+    }, 
+    {
+        "dns-a": [
+            "162.242.150.89", 
+            "176.34.241.253", 
+            "23.253.58.227"
+        ], 
+        "dns-ns": [
+            "ns1.uniregistry-dns.com", 
+            "ns1.uniregistry-dns.net", 
+            "ns2.uniregistry-dns.com", 
+            "ns2.uniregistry-dns.net"
+        ], 
+        "domain-name": "whoshostingthis.com", 
+        "fuzzer": "omission", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 66
+    }, 
+    {
+        "dns-a": [
+            "50.116.36.230"
+        ], 
+        "domain-name": "who.ishostingthis.com", 
+        "fuzzer": "subdomain", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 69
+    }, 
+    {
+        "dns-a": [
+            "69.172.201.153"
+        ], 
+        "dns-ns": [
+            "ns1.uniregistrymarket.link", 
+            "ns2.uniregistrymarket.link"
+        ], 
+        "domain-name": "whoishostin.gthis.com", 
+        "fuzzer": "subdomain", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "64.90.204.231"
+        ], 
+        "domain-name": "whoishostingth.is.com", 
+        "fuzzer": "subdomain", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "162.242.150.89", 
+            "176.34.241.253", 
+            "23.253.58.227"
+        ], 
+        "dns-ns": [
+            "ns1.uniregistry-dns.com", 
+            "ns1.uniregistry-dns.net", 
+            "ns2.uniregistry-dns.com", 
+            "ns2.uniregistry-dns.net"
+        ], 
+        "domain-name": "whosihostingthis.com", 
+        "fuzzer": "transposition", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 66
+    }
+]

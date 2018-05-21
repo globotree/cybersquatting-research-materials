@@ -1,0 +1,131 @@
+[
+    {
+        "dns-ns": [
+            "a.lactld.org", 
+            "ca1.nic.cr", 
+            "ca2.nic.cr", 
+            "de.nic.cr", 
+            "dns.nic.cr", 
+            "p.nic.cr"
+        ], 
+        "domain-name": "go.cr", 
+        "fuzzer": "original*"
+    }, 
+    {
+        "dns-a": [
+            "67.199.248.12", 
+            "67.199.248.13"
+        ], 
+        "dns-ns": [
+            "ns-1184.awsdns-20.org", 
+            "ns-1924.awsdns-48.co.uk", 
+            "ns-342.awsdns-42.com", 
+            "ns-556.awsdns-05.net"
+        ], 
+        "domain-name": "got.cr", 
+        "fuzzer": "addition", 
+        "geoip-country": "United States"
+    }, 
+    {
+        "dns-ns": [
+            "a.lactld.org", 
+            "ca1.nic.cr", 
+            "ca2.nic.cr", 
+            "de.nic.cr", 
+            "dns.nic.cr", 
+            "p.nic.cr"
+        ], 
+        "domain-name": "co.cr", 
+        "fuzzer": "bitsquatting"
+    }, 
+    {
+        "dns-a": [
+            "173.254.28.58"
+        ], 
+        "dns-mx": [
+            "mail.oo.cr"
+        ], 
+        "dns-ns": [
+            "ns1.justhost.com", 
+            "ns2.justhost.com"
+        ], 
+        "domain-name": "oo.cr", 
+        "fuzzer": "bitsquatting", 
+        "geoip-country": "United States"
+    }, 
+    {
+        "dns-a": [
+            "162.219.162.52"
+        ], 
+        "dns-ns": [
+            "ns1.fullhost.com", 
+            "ns2.fullhost.com", 
+            "ns3.fullhost.com"
+        ], 
+        "domain-name": "g.cr", 
+        "fuzzer": "omission", 
+        "geoip-country": "Canada"
+    }, 
+    {
+        "dns-ns": [
+            "dns01.overstock.com", 
+            "dns02.overstock.com"
+        ], 
+        "domain-name": "o.cr", 
+        "fuzzer": "omission"
+    }, 
+    {
+        "dns-a": [
+            "72.52.229.91"
+        ], 
+        "dns-mx": [
+            "gp-cr.mail.protection.outlook.com"
+        ], 
+        "dns-ns": [
+            "ns1.ticodns.com", 
+            "ns2.ticodns.com"
+        ], 
+        "domain-name": "gp.cr", 
+        "fuzzer": "replacement"
+    }, 
+    {
+        "dns-ns": [
+            "ns-1292.awsdns-33.org", 
+            "ns-1856.awsdns-40.co.uk", 
+            "ns-572.awsdns-07.net", 
+            "ns-69.awsdns-08.com"
+        ], 
+        "domain-name": "gl.cr", 
+        "fuzzer": "replacement"
+    }, 
+    {
+        "dns-a": [
+            "107.180.97.131"
+        ], 
+        "dns-mx": [
+            "mail.ge.cr"
+        ], 
+        "dns-ns": [
+            "ns05.domaincontrol.com", 
+            "ns06.domaincontrol.com"
+        ], 
+        "domain-name": "ge.cr", 
+        "fuzzer": "vowel-swap"
+    }, 
+    {
+        "dns-a": [
+            "206.131.180.69"
+        ], 
+        "dns-mx": [
+            "mailstore1.secureserver.net", 
+            "smtp.secureserver.net"
+        ], 
+        "dns-ns": [
+            "ns57.domaincontrol.com", 
+            "ns58.domaincontrol.com"
+        ], 
+        "domain-name": "go-cr.com", 
+        "fuzzer": "various", 
+        "geoip-country": "United States"
+    }
+]

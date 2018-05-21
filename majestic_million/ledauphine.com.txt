@@ -1,0 +1,116 @@
+[
+    {
+        "dns-a": [
+            "145.226.50.25"
+        ], 
+        "dns-mx": [
+            "smtp1-inkp.e-i.net", 
+            "smtp1-insp.e-i.net"
+        ], 
+        "dns-ns": [
+            "ldnsie1p.e-i.net", 
+            "ldnsie2p.e-i.net", 
+            "ldnsse1p.e-i.net", 
+            "ldnsse2p.e-i.net"
+        ], 
+        "domain-name": "ledauphine.com", 
+        "fuzzer": "original*", 
+        "geoip-country": "France", 
+        "ssdeep-score": 100
+    }, 
+    {
+        "dns-a": [
+            "72.172.131.68"
+        ], 
+        "dns-mx": [
+            "mail.ladauphine.com"
+        ], 
+        "dns-ns": [
+            "ns5.worldnic.com", 
+            "ns6.worldnic.com"
+        ], 
+        "domain-name": "ladauphine.com", 
+        "fuzzer": "bitsquatting", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "103.224.182.251"
+        ], 
+        "dns-ns": [
+            "ns1.above.com", 
+            "ns2.above.com"
+        ], 
+        "domain-name": "xn--ledauphin-j4a.com", 
+        "fuzzer": "homoglyph", 
+        "geoip-country": "Australia", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "145.226.50.25"
+        ], 
+        "dns-ns": [
+            "ldnsie1p.e-i.net", 
+            "ldnsie2p.e-i.net", 
+            "ldnsse1p.e-i.net", 
+            "ldnsse2p.e-i.net"
+        ], 
+        "domain-name": "le-dauphine.com", 
+        "fuzzer": "hyphenation", 
+        "geoip-country": "France", 
+        "ssdeep-score": 100
+    }, 
+    {
+        "dns-a": [
+            "212.227.247.235"
+        ], 
+        "dns-mx": [
+            "mx00.1and1.es", 
+            "mx01.1and1.es"
+        ], 
+        "dns-ns": [
+            "ns1051.ui-dns.biz", 
+            "ns1051.ui-dns.com", 
+            "ns1051.ui-dns.de", 
+            "ns1051.ui-dns.org"
+        ], 
+        "domain-name": "ledauphin.com", 
+        "fuzzer": "omission", 
+        "geoip-country": "Germany"
+    }, 
+    {
+        "dns-a": [
+            "72.52.4.119"
+        ], 
+        "dns-mx": [
+            "localhost"
+        ], 
+        "dns-ns": [
+            "ns1.sedoparking.com", 
+            "ns2.sedoparking.com"
+        ], 
+        "domain-name": "ledau.phine.com", 
+        "fuzzer": "subdomain", 
+        "geoip-country": "United States", 
+        "mx-spy": true, 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "40.77.56.174"
+        ], 
+        "dns-mx": [
+            "ncorp-spamfilter.nooter.com", 
+            "ne-spamfilter.ne.com"
+        ], 
+        "dns-ns": [
+            "cbru.br.ns.els-gms.att.net", 
+            "cmtu.mt.ns.els-gms.att.net"
+        ], 
+        "domain-name": "ledauphi.ne.com", 
+        "fuzzer": "subdomain", 
+        "geoip-country": "United States"
+    }
+]

@@ -1,0 +1,65 @@
+[
+    {
+        "dns-a": [
+            "130.104.6.136"
+        ], 
+        "dns-mx": [
+            "smtp.sgsi.ucl.ac.be"
+        ], 
+        "dns-ns": [
+            "ns1.belnet.be", 
+            "ns1.sri.ucl.ac.be", 
+            "ns2.belnet.be", 
+            "ns2.sri.ucl.ac.be", 
+            "ns3.sri.ucl.ac.be"
+        ], 
+        "domain-name": "uclouvain.be", 
+        "fuzzer": "original*", 
+        "geoip-country": "Belgium", 
+        "ssdeep-score": 97
+    }, 
+    {
+        "dns-mx": [
+            "smtp.sgsi.ucl.ac.be"
+        ], 
+        "dns-ns": [
+            "ns1.sri.ucl.ac.be", 
+            "ns2.sri.ucl.ac.be", 
+            "ns3.sri.ucl.ac.be"
+        ], 
+        "domain-name": "ucllouvain.be", 
+        "fuzzer": "insertion"
+    }, 
+    {
+        "dns-ns": [
+            "ns1.sri.ucl.ac.be", 
+            "ns2.sri.ucl.ac.be", 
+            "ns3.sri.ucl.ac.be"
+        ], 
+        "domain-name": "ulouvain.be", 
+        "fuzzer": "omission"
+    }, 
+    {
+        "dns-a": [
+            "52.58.78.16"
+        ], 
+        "dns-ns": [
+            "hrh1.royalqueendomains.co.uk", 
+            "hrh2.royalqueendomains.co.uk", 
+            "hrh3.royalqueendomains.co.uk"
+        ], 
+        "domain-name": "uclou.vain.be", 
+        "fuzzer": "subdomain", 
+        "geoip-country": "Germany", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "77.95.252.70"
+        ], 
+        "domain-name": "uclouva.in.be", 
+        "fuzzer": "subdomain", 
+        "geoip-country": "Netherlands", 
+        "ssdeep-score": 0
+    }
+]

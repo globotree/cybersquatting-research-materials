@@ -1,0 +1,241 @@
+[
+    {
+        "dns-mx": [
+            "lnx108.hrz.tu-darmstadt.de", 
+            "mailin.hrz.tu-darmstadt.de", 
+            "mailout.hrz.tu-darmstadt.de"
+        ], 
+        "dns-ns": [
+            "ans1.net.hrz.tu-darmstadt.de", 
+            "ans2.net.hrz.tu-darmstadt.de", 
+            "ns1.man-da.de", 
+            "ns2.man-da.de"
+        ], 
+        "domain-name": "tu-darmstadt.de", 
+        "fuzzer": "original*"
+    }, 
+    {
+        "dns-a": [
+            "178.254.0.44"
+        ], 
+        "dns-mx": [
+            "mail.thu-darmstadt.de"
+        ], 
+        "dns-ns": [
+            "ns01.1blu.de", 
+            "ns02.1blu.de"
+        ], 
+        "domain-name": "thu-darmstadt.de", 
+        "fuzzer": "insertion", 
+        "geoip-country": "Germany"
+    }, 
+    {
+        "dns-ns": [
+            "ans1.net.hrz.tu-darmstadt.de", 
+            "ans2.net.hrz.tu-darmstadt.de"
+        ], 
+        "domain-name": "tudarmstadt.de", 
+        "fuzzer": "omission"
+    }, 
+    {
+        "dns-a": [
+            "185.53.179.8"
+        ], 
+        "dns-ns": [
+            "ns1.parkingcrew.net", 
+            "ns2.parkingcrew.net"
+        ], 
+        "domain-name": "tu-darmsadt.de", 
+        "fuzzer": "omission", 
+        "geoip-country": "Germany"
+    }, 
+    {
+        "dns-a": [
+            "185.53.178.7"
+        ], 
+        "dns-mx": [
+            "mail.h-email.net"
+        ], 
+        "dns-ns": [
+            "ns1.parkingcrew.net", 
+            "ns2.parkingcrew.net"
+        ], 
+        "domain-name": "tu-darmstat.de", 
+        "fuzzer": "omission", 
+        "geoip-country": "Germany", 
+        "mx-spy": true
+    }, 
+    {
+        "dns-a": [
+            "185.53.178.6"
+        ], 
+        "dns-mx": [
+            "mail.h-email.net"
+        ], 
+        "dns-ns": [
+            "ns1.parkingcrew.net", 
+            "ns2.parkingcrew.net"
+        ], 
+        "domain-name": "tu-darstadt.de", 
+        "fuzzer": "omission", 
+        "geoip-country": "Germany", 
+        "mx-spy": true
+    }, 
+    {
+        "dns-a": [
+            "185.53.178.6"
+        ], 
+        "dns-mx": [
+            "mail.h-email.net"
+        ], 
+        "dns-ns": [
+            "ns1.parkingcrew.net", 
+            "ns2.parkingcrew.net"
+        ], 
+        "domain-name": "tu-damstadt.de", 
+        "fuzzer": "omission", 
+        "geoip-country": "Germany", 
+        "mx-spy": true
+    }, 
+    {
+        "dns-a": [
+            "54.72.9.51"
+        ], 
+        "dns-mx": [
+            "mail.h-email.net"
+        ], 
+        "dns-ns": [
+            "ns1.parkingcrew.net", 
+            "ns2.parkingcrew.net"
+        ], 
+        "domain-name": "tu-darmstad.de", 
+        "fuzzer": "omission", 
+        "geoip-country": "Ireland", 
+        "mx-spy": true
+    }, 
+    {
+        "dns-mx": [
+            "mailx.tcommerce.de"
+        ], 
+        "dns-ns": [
+            "pns.dtag.de", 
+            "secondary006.dtag.net", 
+            "support.mesch.dtag.de"
+        ], 
+        "domain-name": "t-darmstadt.de", 
+        "fuzzer": "omission"
+    }, 
+    {
+        "dns-a": [
+            "208.73.210.202", 
+            "208.73.210.217", 
+            "208.73.211.165", 
+            "208.73.211.177"
+        ], 
+        "dns-ns": [
+            "ns1.dsredirection.com", 
+            "ns2.dsredirection.com"
+        ], 
+        "domain-name": "tu-darmstdt.de", 
+        "fuzzer": "omission", 
+        "geoip-country": "United States"
+    }, 
+    {
+        "dns-a": [
+            "87.237.120.77"
+        ], 
+        "dns-mx": [
+            "mail.fu-darmstadt.de"
+        ], 
+        "dns-ns": [
+            "ns1.net-server.de", 
+            "ns2.net-server.de"
+        ], 
+        "domain-name": "fu-darmstadt.de", 
+        "fuzzer": "replacement", 
+        "geoip-country": "Germany"
+    }, 
+    {
+        "dns-a": [
+            "81.169.145.80"
+        ], 
+        "dns-aaaa": [
+            "2a01:238:20a:202:1080::"
+        ], 
+        "dns-mx": [
+            "smtp.rzone.de"
+        ], 
+        "dns-ns": [
+            "docks05.rzone.de", 
+            "shades14.rzone.de"
+        ], 
+        "domain-name": "tz-darmstadt.de", 
+        "fuzzer": "replacement", 
+        "geoip-country": "Germany"
+    }, 
+    {
+        "dns-ns": [
+            "ans1.net.hrz.tu-darmstadt.de", 
+            "ans2.net.hrz.tu-darmstadt.de"
+        ], 
+        "domain-name": "th-darmstadt.de", 
+        "fuzzer": "replacement"
+    }, 
+    {
+        "dns-a": [
+            "62.113.238.219"
+        ], 
+        "dns-ns": [
+            "pns1.nicns.de", 
+            "pns2.nicns.de"
+        ], 
+        "domain-name": "tu-dar.mstadt.de", 
+        "fuzzer": "subdomain", 
+        "geoip-country": "Germany"
+    }, 
+    {
+        "dns-a": [
+            "185.53.178.9"
+        ], 
+        "dns-mx": [
+            "mail.h-email.net"
+        ], 
+        "dns-ns": [
+            "ns1.parkingcrew.net", 
+            "ns2.parkingcrew.net"
+        ], 
+        "domain-name": "tu-darm.stadt.de", 
+        "fuzzer": "subdomain", 
+        "geoip-country": "Germany", 
+        "mx-spy": true
+    }, 
+    {
+        "dns-a": [
+            "72.52.4.119"
+        ], 
+        "dns-mx": [
+            "localhost"
+        ], 
+        "dns-ns": [
+            "ns1.sedoparking.com", 
+            "ns2.sedoparking.com"
+        ], 
+        "domain-name": "tu-darmstatd.de", 
+        "fuzzer": "transposition", 
+        "geoip-country": "United States", 
+        "mx-spy": true
+    }, 
+    {
+        "dns-a": [
+            "185.17.144.37"
+        ], 
+        "dns-ns": [
+            "ns1.leaseweb.nl", 
+            "ns4.leaseweb.net", 
+            "ns5.leaseweb.nl"
+        ], 
+        "domain-name": "tu-dormstadt.de", 
+        "fuzzer": "vowel-swap", 
+        "geoip-country": "Germany"
+    }
+]

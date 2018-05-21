@@ -1,0 +1,48 @@
+[
+    {
+        "dns-a": [
+            "67.199.248.12", 
+            "67.199.248.13"
+        ], 
+        "dns-ns": [
+            "ns-1435.awsdns-51.org", 
+            "ns-1542.awsdns-00.co.uk", 
+            "ns-372.awsdns-46.com", 
+            "ns-766.awsdns-31.net"
+        ], 
+        "domain-name": "buff.ly", 
+        "fuzzer": "original*", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 99
+    }, 
+    {
+        "dns-a": [
+            "67.199.248.12", 
+            "67.199.248.13"
+        ], 
+        "dns-ns": [
+            "ns01.trademarkarea.com", 
+            "ns02.trademarkarea.com", 
+            "ns03.trademarkarea.com"
+        ], 
+        "domain-name": "ruff.ly", 
+        "fuzzer": "bitsquatting", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "165.160.13.20", 
+            "165.160.15.20"
+        ], 
+        "dns-mx": [
+            "custmx.cscdns.net"
+        ], 
+        "dns-ns": [
+            "dns1.cscdns.net", 
+            "dns2.cscdns.net"
+        ], 
+        "domain-name": "huff.ly", 
+        "fuzzer": "replacement"
+    }
+]

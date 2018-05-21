@@ -1,0 +1,83 @@
+[
+    {
+        "dns-a": [
+            "129.215.149.43", 
+            "129.215.235.216", 
+            "129.215.235.217", 
+            "129.215.97.20", 
+            "129.215.97.21", 
+            "129.215.97.33", 
+            "129.215.97.62", 
+            "129.215.97.66", 
+            "129.215.97.67"
+        ], 
+        "dns-mx": [
+            "danube.is.ed.ac.uk", 
+            "rhine.is.ed.ac.uk", 
+            "thames.is.ed.ac.uk"
+        ], 
+        "dns-ns": [
+            "cancer.ucs.ed.ac.uk", 
+            "dns0.inf.ed.ac.uk", 
+            "dns1.inf.ed.ac.uk", 
+            "dns2.inf.ed.ac.uk", 
+            "lewis.ucs.ed.ac.uk", 
+            "xlab-0.ed.ac.uk"
+        ], 
+        "domain-name": "ed.ac.uk", 
+        "fuzzer": "original*", 
+        "geoip-country": "United Kingdom"
+    }, 
+    {
+        "dns-a": [
+            "195.194.74.130"
+        ], 
+        "dns-mx": [
+            "mx191.emailfiltering.com", 
+            "mx192.emailfiltering.com", 
+            "mx193.emailfiltering.com"
+        ], 
+        "dns-ns": [
+            "ns10.ja.net", 
+            "ns11.ja.net", 
+            "ns3.ja.net"
+        ], 
+        "domain-name": "edc.ac.uk", 
+        "fuzzer": "addition", 
+        "geoip-country": "United Kingdom"
+    }, 
+    {
+        "dns-a": [
+            "144.173.6.226"
+        ], 
+        "dns-mx": [
+            "mx1.ex.ac.uk", 
+            "mx2.ex.ac.uk", 
+            "mx3.ex.ac.uk", 
+            "mx4.ex.ac.uk"
+        ], 
+        "dns-ns": [
+            "dns0.ex.ac.uk", 
+            "dns1.ex.ac.uk", 
+            "ns4.ja.net"
+        ], 
+        "domain-name": "ex.ac.uk", 
+        "fuzzer": "replacement"
+    }, 
+    {
+        "dns-a": [
+            "109.68.33.18"
+        ], 
+        "dns-mx": [
+            "mx.emailconfig.com"
+        ], 
+        "dns-ns": [
+            "ns1.domainmonster.com", 
+            "ns2.domainmonster.com", 
+            "ns3.domainmonster.com"
+        ], 
+        "domain-name": "ed.uk", 
+        "fuzzer": "various", 
+        "geoip-country": "United Kingdom"
+    }
+]

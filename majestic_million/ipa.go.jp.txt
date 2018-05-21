@@ -1,0 +1,23 @@
+[
+    {
+        "dns-mx": [
+            "ipa-sfw1.ipa.go.jp", 
+            "ipa-sfw2.ipa.go.jp"
+        ], 
+        "dns-ns": [
+            "dns-a.iij.ad.jp", 
+            "ipa-ns.ipa.go.jp", 
+            "ipa-ns2.ipa.go.jp"
+        ], 
+        "domain-name": "ipa.go.jp", 
+        "fuzzer": "original*"
+    }, 
+    {
+        "dns-ns": [
+            "ipa-ns.ipa.go.jp", 
+            "ipa-ns2.ipa.go.jp"
+        ], 
+        "domain-name": "ipa.jp", 
+        "fuzzer": "various"
+    }
+]

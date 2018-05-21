@@ -1,0 +1,57 @@
+[
+    {
+        "dns-a": [
+            "218.87.21.14"
+        ], 
+        "dns-mx": [
+            "mail.jiangxi.gov.cn", 
+            "mail1.jiangxi.gov.cn"
+        ], 
+        "dns-ns": [
+            "dns.jiangxi.gov.cn", 
+            "jxdns.jiangxi.gov.cn"
+        ], 
+        "domain-name": "jiangxi.gov.cn", 
+        "fuzzer": "original*", 
+        "geoip-country": "China", 
+        "ssdeep-score": 100
+    }, 
+    {
+        "dns-a": [
+            "59.175.226.219"
+        ], 
+        "dns-mx": [
+            "59.175.226.196"
+        ], 
+        "dns-ns": [
+            "ns19.xincache.com", 
+            "ns20.xincache.com"
+        ], 
+        "domain-name": "jiangxia.gov.cn", 
+        "fuzzer": "addition", 
+        "geoip-country": "China", 
+        "mx-spy": true, 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "116.10.142.117"
+        ], 
+        "dns-ns": [
+            "dns13.hichina.com", 
+            "dns14.hichina.com"
+        ], 
+        "domain-name": "jingxi.gov.cn", 
+        "fuzzer": "omission", 
+        "geoip-country": "China", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "101.132.153.29"
+        ], 
+        "domain-name": "jiang.xi.gov.cn", 
+        "fuzzer": "subdomain", 
+        "geoip-country": "China"
+    }
+]

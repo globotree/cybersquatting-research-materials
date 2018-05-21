@@ -1,0 +1,49 @@
+[
+    {
+        "dns-a": [
+            "88.208.252.175"
+        ], 
+        "dns-mx": [
+            "mailserver.advance-media.co.uk"
+        ], 
+        "dns-ns": [
+            "ns1.streamlinedns.co.uk", 
+            "ns2.streamlinedns.co.uk"
+        ], 
+        "domain-name": "advance-media.co.uk", 
+        "fuzzer": "omission", 
+        "geoip-country": "United Kingdom"
+    }, 
+    {
+        "dns-a": [
+            "89.187.86.205"
+        ], 
+        "dns-mx": [
+            "void.blackhole.mx"
+        ], 
+        "dns-ns": [
+            "ns1.3dweb.co.uk", 
+            "ns2.3dweb.co.uk"
+        ], 
+        "domain-name": "advancedmedia.co.uk", 
+        "fuzzer": "omission", 
+        "geoip-country": "United Kingdom", 
+        "mx-spy": true
+    }, 
+    {
+        "dns-a": [
+            "80.82.117.252"
+        ], 
+        "domain-name": "advance.d-media.co.uk", 
+        "fuzzer": "subdomain", 
+        "geoip-country": "United Kingdom"
+    }, 
+    {
+        "dns-a": [
+            "77.68.43.120"
+        ], 
+        "domain-name": "advanced-me.dia.co.uk", 
+        "fuzzer": "subdomain", 
+        "geoip-country": "United Kingdom"
+    }
+]

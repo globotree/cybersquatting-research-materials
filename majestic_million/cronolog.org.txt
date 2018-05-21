@@ -1,0 +1,48 @@
+[
+    {
+        "dns-a": [
+            "210.158.231.52"
+        ], 
+        "dns-mx": [
+            "cronolog.org"
+        ], 
+        "dns-ns": [
+            "ns1.nlrs.jp", 
+            "ns2.nlrs.jp"
+        ], 
+        "domain-name": "cronolog.org", 
+        "fuzzer": "original*", 
+        "geoip-country": "Japan"
+    }, 
+    {
+        "dns-a": [
+            "83.243.56.68"
+        ], 
+        "dns-mx": [
+            "mail.cronlog.org"
+        ], 
+        "dns-ns": [
+            "ns1.ns-serve.net", 
+            "ns2.ns-serve.net"
+        ], 
+        "domain-name": "cronlog.org", 
+        "fuzzer": "omission", 
+        "geoip-country": "Germany"
+    }, 
+    {
+        "dns-a": [
+            "68.178.213.61"
+        ], 
+        "domain-name": "cronol.og.org", 
+        "fuzzer": "subdomain", 
+        "geoip-country": "United States"
+    }, 
+    {
+        "dns-a": [
+            "188.166.216.219"
+        ], 
+        "domain-name": "cronolo.g.org", 
+        "fuzzer": "subdomain", 
+        "geoip-country": "Singapore"
+    }
+]

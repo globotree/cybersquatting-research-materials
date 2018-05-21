@@ -1,0 +1,145 @@
+[
+    {
+        "dns-a": [
+            "132.216.177.160"
+        ], 
+        "dns-mx": [
+            "mcgill-ca.mail.protection.outlook.com"
+        ], 
+        "dns-ns": [
+            "pens1.mcgill.ca", 
+            "pens2.mcgill.ca"
+        ], 
+        "domain-name": "mcgill.ca", 
+        "fuzzer": "original*", 
+        "geoip-country": "Canada", 
+        "ssdeep-score": 100
+    }, 
+    {
+        "dns-a": [
+            "46.4.15.10"
+        ], 
+        "dns-mx": [
+            "mcgilll.ca"
+        ], 
+        "dns-ns": [
+            "ns1.dcblessings6.com", 
+            "ns2.dcblessings6.com"
+        ], 
+        "domain-name": "mcgilll.ca", 
+        "fuzzer": "addition", 
+        "geoip-country": "Germany", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-mx": [
+            "mail.mcgills.ca"
+        ], 
+        "dns-ns": [
+            "dns1.blacksun.ca", 
+            "dns2.blacksun.ca"
+        ], 
+        "domain-name": "mcgills.ca", 
+        "fuzzer": "addition"
+    }, 
+    {
+        "dns-a": [
+            "103.224.182.239"
+        ], 
+        "dns-mx": [
+            "park-mx.above.com"
+        ], 
+        "dns-ns": [
+            "ns1.above.com", 
+            "ns2.above.com"
+        ], 
+        "domain-name": "mcgillu.ca", 
+        "fuzzer": "addition", 
+        "geoip-country": "Australia", 
+        "mx-spy": true, 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-ns": [
+            "pens1.mcgill.ca", 
+            "pens2.mcgill.ca"
+        ], 
+        "domain-name": "mcgiii.ca", 
+        "fuzzer": "homoglyph"
+    }, 
+    {
+        "dns-ns": [
+            "pens1.mcgill.ca", 
+            "pens2.mcgill.ca"
+        ], 
+        "domain-name": "mcgiil.ca", 
+        "fuzzer": "homoglyph"
+    }, 
+    {
+        "dns-ns": [
+            "pens1.mcgill.ca", 
+            "pens2.mcgill.ca"
+        ], 
+        "domain-name": "mcglll.ca", 
+        "fuzzer": "homoglyph"
+    }, 
+    {
+        "dns-ns": [
+            "pens1.mcgill.ca", 
+            "pens2.mcgill.ca"
+        ], 
+        "domain-name": "mcgili.ca", 
+        "fuzzer": "homoglyph"
+    }, 
+    {
+        "dns-a": [
+            "208.73.210.202", 
+            "208.73.210.217", 
+            "208.73.211.165", 
+            "208.73.211.177"
+        ], 
+        "dns-ns": [
+            "ns1.dsredirection.com", 
+            "ns2.dsredirection.com"
+        ], 
+        "domain-name": "mcgil.ca", 
+        "fuzzer": "omission", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "37.60.235.176"
+        ], 
+        "dns-mx": [
+            "mx10.mailspamprotection.com", 
+            "mx20.mailspamprotection.com", 
+            "mx30.mailspamprotection.com"
+        ], 
+        "dns-ns": [
+            "ns1.usm39.siteground.biz", 
+            "ns2.usm39.siteground.biz"
+        ], 
+        "domain-name": "mgill.ca", 
+        "fuzzer": "omission", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "72.55.137.168"
+        ], 
+        "domain-name": "mcgi.ll.ca", 
+        "fuzzer": "subdomain", 
+        "geoip-country": "Canada", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-ns": [
+            "pens1.mcgill.ca", 
+            "pens2.mcgill.ca"
+        ], 
+        "domain-name": "mcglil.ca", 
+        "fuzzer": "transposition"
+    }
+]

@@ -1,0 +1,156 @@
+[
+    {
+        "dns-a": [
+            "129.97.208.23"
+        ], 
+        "dns-aaaa": [
+            "2620:101:f000:0:250:56ff:fe80:168c", 
+            "2620:101:f000:0:250:56ff:fe80:168e", 
+            "2620:101:f000:0:250:56ff:fe80:1690", 
+            "2620:101:f000:0:250:56ff:fe80:1692"
+        ], 
+        "dns-mx": [
+            "mxer.uwaterloo.ca"
+        ], 
+        "dns-ns": [
+            "cn-dns-mc.uwaterloo.ca", 
+            "cn-dns-rac.uwaterloo.ca"
+        ], 
+        "domain-name": "uwaterloo.ca", 
+        "fuzzer": "original*", 
+        "geoip-country": "Canada", 
+        "ssdeep-score": 100
+    }, 
+    {
+        "dns-a": [
+            "72.55.137.168"
+        ], 
+        "dns-ns": [
+            "ns.www2.ca", 
+            "ns2.www2.ca"
+        ], 
+        "domain-name": "ewaterloo.ca", 
+        "fuzzer": "bitsquatting", 
+        "geoip-country": "Canada", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "129.97.128.216"
+        ], 
+        "dns-mx": [
+            "mxer.uwaterloo.ca"
+        ], 
+        "domain-name": "uwwaterloo.ca", 
+        "fuzzer": "insertion", 
+        "geoip-country": "Canada", 
+        "ssdeep-score": 100
+    }, 
+    {
+        "dns-mx": [
+            "localhost"
+        ], 
+        "dns-ns": [
+            "ns1.sedoparking.com", 
+            "ns2.sedoparking.com"
+        ], 
+        "domain-name": "uwaterlo.ca", 
+        "fuzzer": "omission", 
+        "mx-spy": true
+    }, 
+    {
+        "dns-a": [
+            "158.85.87.76"
+        ], 
+        "dns-mx": [
+            "mail.uwateroo.ca"
+        ], 
+        "dns-ns": [
+            "slns1.namespro.ca", 
+            "slns2.namespro.ca"
+        ], 
+        "domain-name": "uwateroo.ca", 
+        "fuzzer": "omission", 
+        "geoip-country": "Canada", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "216.16.227.165"
+        ], 
+        "dns-mx": [
+            "mail.waterloo.ca", 
+            "mail2.waterloo.ca"
+        ], 
+        "dns-ns": [
+            "a.service.afiliasdns.info", 
+            "b.service.afiliasdns.org", 
+            "c.service.afiliasdns.net", 
+            "d.service.afiliasdns.com", 
+            "e.service.afiliasdns.info", 
+            "f.service.afiliasdns.net"
+        ], 
+        "domain-name": "waterloo.ca", 
+        "fuzzer": "omission", 
+        "geoip-country": "Canada", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "158.85.87.76"
+        ], 
+        "dns-ns": [
+            "slns1.namespro.ca", 
+            "slns2.namespro.ca"
+        ], 
+        "domain-name": "iwaterloo.ca", 
+        "fuzzer": "replacement", 
+        "geoip-country": "Canada", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "216.239.32.21", 
+            "216.239.34.21", 
+            "216.239.36.21", 
+            "216.239.38.21"
+        ], 
+        "dns-aaaa": [
+            "2001:4860:4802:32::15", 
+            "2001:4860:4802:34::15", 
+            "2001:4860:4802:36::15", 
+            "2001:4860:4802:38::15"
+        ], 
+        "dns-ns": [
+            "ns1dhq.name.com", 
+            "ns2fgv.name.com", 
+            "ns3gmt.name.com", 
+            "ns4cfn.name.com"
+        ], 
+        "domain-name": "uwaterpoo.ca", 
+        "fuzzer": "replacement", 
+        "geoip-country": "United States"
+    }, 
+    {
+        "dns-a": [
+            "107.152.102.202"
+        ], 
+        "domain-name": "uwater.loo.ca", 
+        "fuzzer": "subdomain", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 0
+    }, 
+    {
+        "dns-a": [
+            "69.172.201.153"
+        ], 
+        "dns-ns": [
+            "ns1.uniregistrymarket.link", 
+            "ns2.uniregistrymarket.link"
+        ], 
+        "domain-name": "uwaterl.oo.ca", 
+        "fuzzer": "subdomain", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 0
+    }
+]

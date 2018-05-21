@@ -1,0 +1,43 @@
+[
+    {
+        "dns-a": [
+            "188.40.103.19"
+        ], 
+        "dns-aaaa": [
+            "2a01:4f8:221:2708::2"
+        ], 
+        "dns-mx": [
+            "mail.lighttpd.net"
+        ], 
+        "dns-ns": [
+            "ns1.lighttpd.net", 
+            "ns1.stbuehler.de", 
+            "ns2.stbuehler.de"
+        ], 
+        "domain-name": "lighttpd.net", 
+        "fuzzer": "original*", 
+        "geoip-country": "Germany", 
+        "ssdeep-score": 100
+    }, 
+    {
+        "dns-ns": [
+            "vip1.alidns.com", 
+            "vip2.alidns.com"
+        ], 
+        "domain-name": "lighttp.net", 
+        "fuzzer": "omission"
+    }, 
+    {
+        "dns-a": [
+            "69.172.201.153"
+        ], 
+        "dns-ns": [
+            "ns1.uniregistrymarket.link", 
+            "ns2.uniregistrymarket.link"
+        ], 
+        "domain-name": "light.tpd.net", 
+        "fuzzer": "subdomain", 
+        "geoip-country": "United States", 
+        "ssdeep-score": 0
+    }
+]
