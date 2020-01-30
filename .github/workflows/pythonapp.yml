@@ -1,0 +1,49 @@
+name: Python application
+
+on: [push]
+
+jobs:
+  build:
+
+    runs-on: ubuntu-latest
+
+    steps:
+    - uses: actions/checkout@v2
+    - name: Set up Python 3.8
+      uses: actions/setup-python@v1
+      with:
+        python-version: 3.8
+    - name: Install dependencies
+      run: |
+        python -m pip install --upgrade pip
+        pip install -r requirements.txt
+    - name: Lint with flake8
+      run: |
+        pip install flake8
+        # stop the build if there are Python syntax errors or undefined names
+        flake8 . --count --select=E9,F63,F7,F82 --show-source --statistics
+        # exit-zero treats all errors as warnings. The GitHub editor is 127 chars wide
+        flake8 . --count --exit-zero --max-complexity=10 --max-line-length=127 --statistics
+    - name: Test with pytest
+      run: |
+        pip install pytest
+        pytest
+- name: Close Stale Issues
+  uses: actions/stale@1.0.0
+  with:
+    # Token for the repo. Can be passed in using {{ secrets.GITHUB_TOKEN }}
+    repo-token: 
+    # The message to post on the issue when tagging it. If none provided, will not mark iusses stale.
+    stale-issue-message: # optional
+    # The message to post on the pr when tagging it. If none provided, will not mark prs stale.
+    stale-pr-message: # optional
+    # The number of days old an issue can be before marking it stale
+    days-before-stale: # optional, default is 60
+    # The number of days to wait to close an issue or pr after it being marked stale
+    days-before-close: # optional, default is 7
+    # The label to apply when an issue is stale
+    stale-issue-label: # optional, default is Stale
+    # The label to apply when a pr is stale
+    stale-pr-label: # optional, default is Stale
+    # The maximum number of operations per run, used to control rate limiting
+    operations-per-run: # optional, default is 30
